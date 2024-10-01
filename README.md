@@ -11,7 +11,7 @@
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
-* [2024-09-30, 17:47:36](https://news.ycombinator.com/item?id=41699955) - [Show HN: Facad. The ls alternative making terminals cooler than GUIs](https://github.com/yellow-footed-honeyguide/facad)
+* [2024-09-30, 17:47:36](https://news.ycombinator.com/item?id=41699955) - [Show HN: Facad – A colorful directory listing tool for the command line](https://github.com/yellow-footed-honeyguide/facad)
 * [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9](https://www.gnucash.org/news.phtml)
 * [2024-09-30, 16:51:48](https://news.ycombinator.com/item?id=41699323) - [Peer Calls: WebRTC peer to peer calls for everyone](https://github.com/peer-calls/peer-calls)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
