@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 16:40:10](https://news.ycombinator.com/item?id=41710805) - [Iran Launches Missiles at Israel](https://www.nbcnews.com/news/world/live-blog/israel-hezbollah-live-updates-idf-ground-operation-lebanon-rcna173389)
 * [2024-10-01, 16:30:32](https://news.ycombinator.com/item?id=41710652) - [Since 1882, UK will have no coal-fired power plants](https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/)
 * [2024-10-01, 16:10:56](https://news.ycombinator.com/item?id=41710348) - [Hasbro's Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
 * [2024-10-01, 16:07:42](https://news.ycombinator.com/item?id=41710280) - [Peer review by committee? New journal rethinks old model](https://www.nature.com/articles/d41586-024-03039-4)

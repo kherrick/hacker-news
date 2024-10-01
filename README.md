@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-01, 16:30:32](https://news.ycombinator.com/item?id=41710652) - [Since 1882, UK will have no coal-fired power plants](https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/)
+* [2024-10-01, 16:40:10](https://news.ycombinator.com/item?id=41710805) - [Iran Launches Missiles at Israel](https://www.nbcnews.com/news/world/live-blog/israel-hezbollah-live-updates-idf-ground-operation-lebanon-rcna173389)
 * [2024-10-01, 16:10:56](https://news.ycombinator.com/item?id=41710348) - [Hasbro's Trademark for the Smell of Play-Doh](https://tmog.uspto.gov/#/issueDate=2018-05-15&serialNumber=87335817)
-* [2024-10-01, 16:07:42](https://news.ycombinator.com/item?id=41710280) - [Peer review by committee? New journal rethinks old model](https://www.nature.com/articles/d41586-024-03039-4)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 * [2024-10-01, 15:51:14](https://news.ycombinator.com/item?id=41710001) - [Better privacy can be one click away. Google and Apple won't allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
@@ -30,6 +29,7 @@
 * [2024-09-28, 02:03:56](https://news.ycombinator.com/item?id=41677296) - [Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
 * [2024-09-27, 03:30:53](https://news.ycombinator.com/item?id=41665996) - [What the photographer who’s taken philosopher portraits thinks of philosophers](https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/)
+* [2024-09-26, 22:24:15](https://news.ycombinator.com/item?id=41664165) - [Do All Problems Have Technical Fixes?](https://cacm.acm.org/article/do-all-problems-have-technical-fixes/)
 
 ## [Archives](archives/index.md)
 
