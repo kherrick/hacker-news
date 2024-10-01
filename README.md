@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 18:08:50](https://news.ycombinator.com/item?id=41711977) - [ScanOSS spams OSS projects for using profanity](https://github.com/scanoss/purl2cpe/issues/24)
 * [2024-10-01, 18:03:01](https://news.ycombinator.com/item?id=41711913) - [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
@@ -13,6 +14,7 @@
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 * [2024-10-01, 15:55:51](https://news.ycombinator.com/item?id=41710080) - [Show HN: 73,530 free book summaries in 40 languages (with paid audio)](https://sobrief.com/)
+* [2024-10-01, 15:19:44](https://news.ycombinator.com/item?id=41709564) - [PS5 Dashboards Flooded with Unwanted Ads–Sony Claims It Wasn't Intentional](https://questalerts.com/ps5-dashboards-flooded-with-unwanted-ads-sony-claims-it-wasnt-intentional/)
 * [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Comparing our Rust-based indexing and querying pipeline to Langchain](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
@@ -26,8 +28,6 @@
 * [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Essential node in global semiconductor supply chain hit by Hurricane Helene](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
-* [2024-09-28, 02:03:56](https://news.ycombinator.com/item?id=41677296) - [Sea robins use leg-like fins to taste, navigate seafloor, researchers discover](https://phys.org/news/2024-09-sea-robins-leg-fins-seafloor.html)
-* [2024-09-28, 01:42:29](https://news.ycombinator.com/item?id=41677207) - [Ask HN: How to deal with AI generated sloppy code](https://news.ycombinator.com/item?id=41677207)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
 * [2024-09-27, 03:30:53](https://news.ycombinator.com/item?id=41665996) - [What the photographer who’s taken philosopher portraits thinks of philosophers](https://aestheticsforbirds.com/2024/09/24/steve-pyke-interview-with-philosopher-portraits/)
 
