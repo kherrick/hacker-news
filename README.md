@@ -2,7 +2,6 @@
 
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
 * [2024-10-01, 05:59:20](https://news.ycombinator.com/item?id=41705016) - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
-* [2024-10-01, 04:38:56](https://news.ycombinator.com/item?id=41704649) - [Piracy](https://blog.cobanov.cloud/blog/piracy)
 * [2024-10-01, 04:31:15](https://news.ycombinator.com/item?id=41704618) - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
 * [2024-10-01, 04:30:06](https://news.ycombinator.com/item?id=41704615) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 02:02:03](https://news.ycombinator.com/item?id=41704022) - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
@@ -17,6 +16,7 @@
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 17:47:36](https://news.ycombinator.com/item?id=41699955) - [Show HN: Facad – A colorful directory listing tool for the command line](https://github.com/yellow-footed-honeyguide/facad)
+* [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9](https://www.gnucash.org/news.phtml)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
