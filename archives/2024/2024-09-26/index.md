@@ -8,6 +8,7 @@
 * [2024-09-26, 22:44:22](https://news.ycombinator.com/item?id=41664333) - [Vanilla OS 2: an immutable distribution to run all software](https://lwn.net/Articles/989629/)
 * [2024-09-26, 22:39:05](https://news.ycombinator.com/item?id=41664281) - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-26, 22:28:20](https://news.ycombinator.com/item?id=41664199) - [Stem cells reverse woman's diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
+* [2024-09-26, 22:24:15](https://news.ycombinator.com/item?id=41664165) - [Do All Problems Have Technical Fixes?](https://cacm.acm.org/article/do-all-problems-have-technical-fixes/)
 * [2024-09-26, 21:24:36](https://news.ycombinator.com/item?id=41663562) - [Behind OpenAI's plan to make A.I. flow like electricity](https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html)
 * [2024-09-26, 21:20:29](https://news.ycombinator.com/item?id=41663524) - [A coffee table that walks](https://www.core77.com/posts/133657/A-Coffee-Table-that-Walks)
 * [2024-09-26, 21:20:08](https://news.ycombinator.com/item?id=41663523) - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)

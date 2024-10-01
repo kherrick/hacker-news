@@ -26,10 +26,10 @@
 * [2024-09-30, 05:55:51](https://news.ycombinator.com/item?id=41693979) - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
 * [2024-09-30, 05:28:50](https://news.ycombinator.com/item?id=41693844) - [Ask HN: Any good essays/books/advice about software sales?](https://news.ycombinator.com/item?id=41693844)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
-* [2024-09-29, 13:16:21](https://news.ycombinator.com/item?id=41687176) - [When To Do What You Love](https://paulgraham.com/when.html)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
 * [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
+* [2024-09-26, 22:24:15](https://news.ycombinator.com/item?id=41664165) - [Do All Problems Have Technical Fixes?](https://cacm.acm.org/article/do-all-problems-have-technical-fixes/)
 
 ## [Archives](archives/index.md)
 
