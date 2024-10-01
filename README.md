@@ -17,7 +17,6 @@
 * [2024-09-30, 17:26:03](https://news.ycombinator.com/item?id=41699730) - [GnuCash 5.9](https://www.gnucash.org/news.phtml)
 * [2024-09-30, 16:11:52](https://news.ycombinator.com/item?id=41698823) - [Two new books on John Calhoun and his rodent experiments](https://www.newyorker.com/magazine/2024/10/07/dr-calhouns-mousery-lee-alan-dugatkin-book-reviews-rat-city-edmund-ramsden-and-jon-adams)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (think Cursor for help desks)](https://news.ycombinator.com/item?id=41697137)
-* [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [The best browser bookmarking system is files](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
@@ -28,6 +27,7 @@
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
 * [2024-09-28, 05:51:51](https://news.ycombinator.com/item?id=41678188) - [PyTorch Native Architecture Optimization: Torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 * [2024-09-27, 15:20:41](https://news.ycombinator.com/item?id=41671562) - [The fight to save Chile's white strawberry](https://www.atlasobscura.com/articles/white-strawberry)
+* [2024-09-27, 13:36:12](https://news.ycombinator.com/item?id=41670275) - [The Case of the Missing Increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-09-27, 09:41:00](https://news.ycombinator.com/item?id=41668156) - [Fix photogrammetry bridges so that they are not \"solid\" underneath](https://forums.flightsimulator.com/t/fix-photogrammetry-bridges-so-that-they-are-not-solid-underneath/326917)
 * [2024-09-26, 22:24:15](https://news.ycombinator.com/item?id=41664165) - [Do All Problems Have Technical Fixes?](https://cacm.acm.org/article/do-all-problems-have-technical-fixes/)
 
