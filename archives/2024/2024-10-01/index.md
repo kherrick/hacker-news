@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 19:52:19](https://news.ycombinator.com/item?id=41713369) - [Irish finance minister calls €14B tax windfall from Apple 'transformational'](https://www.theguardian.com/world/2024/oct/01/irish-finance-minister-calls-14bn-tax-windfall-from-apple-transformational)
 * [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been \"dead\" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
+* [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 * [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
