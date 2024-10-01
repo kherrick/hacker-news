@@ -129,81 +129,46 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41705221">
+        <section id="41705391">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41705221"
-              >ZFS native encryption is currently broken for encrypted
-              backups</a
+            <a class="item" href="https://news.ycombinator.com/item?id=41705391"
+              >Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate
+              Change</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-01 @ 06:34:24</span
+              <span>2024-10-01 @ 07:00:32</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41705221"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                >Points: <span class="points">1</span></span
               >
             </h4>
             <div class="text">
-              <p>https://github.com/openzfs/zfs/issues/11679</p>
-              <p>https://github.com/openzfs/zfs/issues/15989</p>
-              <p>https://github.com/openzfs/zfs/issues/15924</p>
               <p>
-                https://github.com/openzfs/zfs/labels/Component%3A%20Encryption
+                We're autarc (YC S24) the B2B operating system for energy
+                installers in Europe. Our mission is to accelerate the
+                installation of heat pumps and solar panels, directly
+                contributing to the clean energy and heating transition.
               </p>
               <p>
-                https://www.reddit.com/r/zfs/comments/10n8fsn/does_openzfs_have_a_new_developer_for_the_native/
+                Our app has some pretty cool features such as a LiDAR scan to
+                collect data about rooms, an AR heat pump simulation, or real
+                time heat load calculations that function entirely offline.
               </p>
               <p>
-                On https://github.com/openzfs/openzfs-docs/issues/494 people
-                unanimously agree that zfs native encryption is broken
-                especially when sending or receiving raw encrypted zfs
-                snapshots, and they blame the zfs leadership for refusing to
-                admit that zfs native encryption is buggy because admitting that
-                it is buggy is bad for the reputation of zfs.
+                Learn more about the company here (be sure to watch our Launch
+                YC YouTube video!):
+                <a
+                  href="https://www.ycombinator.com/launches/LoX-autarc-the-os-for-heat-pump-installers"
+                  >https://www.ycombinator.com/launches/LoX-autarc-the-os-for-h...</a
+                >
               </p>
               <p>
-                zfs native encryption has been fine for local usage on my
-                machine, but I have never attempted to send raw encrypted zfs
-                snapshots due to numerous warnings.
-              </p>
-              <p>
-                Thus, I want to offer alternatives to zfs native encryption.
-              </p>
-              <p>
-                1. If your zfs pool is not large, LUKS is going to be faster
-                than zfs native encryption. I don't know whether LUKS is going
-                to be still faster if zfs pool contains many disks. ZFS native
-                encryption can be as fast as LUKS or faster than LUKS, but it is
-                not for now.
-              </p>
-              <p>
-                2. For making incremental encrypted backups, I recommend restic.
-                Restic can make incremental encrypted snapshots of ZFS
-                snapshots. You can delete any restic incremental snapshots
-                without losing data in other snapshots. Restic 0.17 started
-                supporting RESTIC_FEATURES=device-id-for-hardlinks which
-                supports backing up $ZFS-MOUNTPOINT/.zfs/snapshot/$SNAPSHOT-NAME
-                efficiently. Restic 0.18 will remove device-id-for-hardlinks
-                feature flag and support .zfs/snapshot directories efficiently
-                witout any feature flag. If you want to back up zfs dataset, you
-                can take restic ZFS snapshot, back up .zfs/snapshot/restic as a
-                new restic snapshot, and delete restic ZFS snapshot after
-                backing it up. In this way, restic doesn't need to know about
-                local sanoid ZFS snapshots which are independent from restic
-                snapshots.
-              </p>
-              <p>
-                Restic supports compression, encryption, and deduplication.
-                Thus, you can send incremental encrypted backups to untrusted
-                machines. For remote backups, you can use amazon cloud storage,
-                https://rsync.net, https://zfs.rent, and other cloud storage
-                services. I don't have any association with any of these
-                services. I don't recommend any. Do your own research if you
-                want to pick a cloud storage provider.
+                Find more details about the job and apply here:
+                <a
+                  href="https://autarcenergy.jobs.personio.de/job/1605439?display=en"
+                  >https://autarcenergy.jobs.personio.de/job/1605439?display=en</a
+                >
               </p>
             </div>
           </section>
@@ -221,54 +186,11 @@
             <h4>
               <span>2024-10-01 @ 05:59:20</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41705016"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41705002">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_8_0b1"
-              >Thunderbird for Android Beta has been released</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 05:57:01</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41705002"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41704818">
-          <h3>
-            <a
-              class="item"
-              href="https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/"
-              >Why laptop support, why now: FreeBSD's strategic move toward
-              broader adoption</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-01 @ 05:23:22</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41704818"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -283,11 +205,11 @@
             <h4>
               <span>2024-10-01 @ 04:38:56</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41704649"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -304,11 +226,32 @@
             <h4>
               <span>2024-10-01 @ 04:31:15</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41704618"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 115</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41704517">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined"
+              >Sports Betting Apps Are Even More Toxic Than You Thought</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-01 @ 04:01:17</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41704517"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -326,11 +269,11 @@
             <h4>
               <span>2024-10-01 @ 02:02:03</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41704022"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -345,11 +288,11 @@
             <h4>
               <span>2024-09-30 @ 23:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703312"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
             <div class="text">
@@ -371,11 +314,11 @@
             <h4>
               <span>2024-09-30 @ 23:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41703213"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -392,11 +335,11 @@
             <h4>
               <span>2024-09-30 @ 22:26:49</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41702789"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -414,11 +357,11 @@
             <h4>
               <span>2024-09-30 @ 21:24:55</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41702315"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -436,11 +379,11 @@
             <h4>
               <span>2024-09-30 @ 20:42:41</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701862"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -455,7 +398,7 @@
             <h4>
               <span>2024-09-30 @ 20:28:41</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701733"
                   >Comments</a
@@ -481,7 +424,7 @@
             <h4>
               <span>2024-09-30 @ 20:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701644"
                   >Comments</a
@@ -515,11 +458,11 @@
             <h4>
               <span>2024-09-30 @ 19:45:58</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701265"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -534,11 +477,11 @@
             <h4>
               <span>2024-09-30 @ 19:36:54</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41701156"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -555,11 +498,11 @@
             <h4>
               <span>2024-09-30 @ 18:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">448</span></span
+                >Points: <span class="points">449</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41700516"
                   >Comments</a
-                ><span class="descendants">: 456</span></span
+                ><span class="descendants">: 455</span></span
               >
             </h4>
           </section>
@@ -577,11 +520,11 @@
             <h4>
               <span>2024-09-30 @ 17:47:36</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41699955"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
             <div class="text">
@@ -597,6 +540,25 @@
             </div>
           </section>
         </section>
+        <section id="41699730">
+          <h3>
+            <a class="item" href="https://www.gnucash.org/news.phtml"
+              >GnuCash 5.9</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-30 @ 17:26:03</span
+              ><span class="points-container"
+                >Points: <span class="points">219</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41699730"
+                  >Comments</a
+                ><span class="descendants">: 111</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41697137">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=41697137"
@@ -608,7 +570,7 @@
             <h4>
               <span>2024-09-30 @ 13:57:38</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41697137"
                   >Comments</a
@@ -729,7 +691,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41696236"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -768,11 +730,11 @@
             <h4>
               <span>2024-09-30 @ 11:03:10</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41695756"
                   >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
             <div class="text">
@@ -850,6 +812,25 @@
             </div>
           </section>
         </section>
+        <section id="41694712">
+          <h3>
+            <a class="item" href="https://app.keeptrack.space"
+              >Keep Track: 3D Satellite Toolkit</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-09-30 @ 08:10:12</span
+              ><span class="points-container"
+                >Points: <span class="points">159</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41694712"
+                  >Comments</a
+                ><span class="descendants">: 36</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41694044">
           <h3>
             <a class="item" href="https://walzr.com/bop-spotter">Bop Spotter</a>
@@ -858,11 +839,11 @@
             <h4>
               <span>2024-09-30 @ 06:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">1936</span></span
+                >Points: <span class="points">1955</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41694044"
                   >Comments</a
-                ><span class="descendants">: 322</span></span
+                ><span class="descendants">: 323</span></span
               >
             </h4>
           </section>
@@ -877,11 +858,11 @@
             <h4>
               <span>2024-09-30 @ 05:28:50</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41693844"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
             <div class="text">
@@ -907,7 +888,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41691943"
                   >Comments</a
-                ><span class="descendants">: 320</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -924,32 +905,11 @@
             <h4>
               <span>2024-09-28 @ 05:51:51</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41678188"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41671241">
-          <h3>
-            <a
-              class="item"
-              href="https://support.hp.com/us-en/document/ish_10969583-11049883-16"
-              >End-of-Life Notice for OBiTALK</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-09-27 @ 14:54:44</span
-              ><span class="points-container"
-                >Points: <span class="points">7</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41671241"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -966,7 +926,7 @@
             <h4>
               <span>2024-09-27 @ 13:36:12</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41670275"
                   >Comments</a
@@ -992,7 +952,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41668156"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -1009,11 +969,11 @@
             <h4>
               <span>2024-09-26 @ 22:24:15</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41664165"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
