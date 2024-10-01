@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 21:18:45](https://news.ycombinator.com/item?id=41714285) - [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
 * [2024-10-01, 21:00:30](https://news.ycombinator.com/item?id=41714104) - [Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
 * [2024-10-01, 20:08:45](https://news.ycombinator.com/item?id=41713527) - [Italy Approves Piracy Shield VPN/DNS Proposal, Risk of Prison for ISPs Intact](https://torrentfreak.com/italy-approves-piracy-shield-vpn-dns-proposal-risk-of-prison-for-isps-intact-241001/)
 * [2024-10-01, 19:52:19](https://news.ycombinator.com/item?id=41713369) - [Irish finance minister calls €14B tax windfall from Apple 'transformational'](https://www.theguardian.com/world/2024/oct/01/irish-finance-minister-calls-14bn-tax-windfall-from-apple-transformational)
