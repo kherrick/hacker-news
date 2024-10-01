@@ -16,6 +16,7 @@
 * [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
 * [2024-10-01, 18:52:08](https://news.ycombinator.com/item?id=41712605) - [Wreck of 'Ghost Ship of the Pacific' Found Off California](https://www.nytimes.com/2024/10/01/science/shipwreck-ghost-ship-pacific-drones.html)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+* [2024-10-01, 18:50:55](https://news.ycombinator.com/item?id=41712588) - [Correlation Between the Use of Swearwords and Code Quality in Open Source Code [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
 * [2024-10-01, 18:27:58](https://news.ycombinator.com/item?id=41712239) - [300k USD Donation Pledged by Mitchell Hashimoto](https://ziglang.org/news/300k-from-mitchellh/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)

@@ -8,6 +8,7 @@
 * [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)
 * [2024-10-01, 18:52:08](https://news.ycombinator.com/item?id=41712605) - [Wreck of 'Ghost Ship of the Pacific' Found Off California](https://www.nytimes.com/2024/10/01/science/shipwreck-ghost-ship-pacific-drones.html)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+* [2024-10-01, 18:50:55](https://news.ycombinator.com/item?id=41712588) - [Correlation Between the Use of Swearwords and Code Quality in Open Source Code [pdf]](https://cme.h-its.org/exelixis/pubs/JanThesis.pdf)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
@@ -28,7 +29,6 @@
 * [2024-10-01, 12:18:22](https://news.ycombinator.com/item?id=41707418) - [Gorhill pulls uBlock Origin Lite from Firefox store](https://www.neowin.net/news/ublock-origin-lite-maker-ends-firefox-store-support-slams-mozilla-for-hostile-reviews/)
 * [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Pro bettors disguising themselves as gambling addicts](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
-* [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
 * [2024-09-27, 12:35:45](https://news.ycombinator.com/item?id=41669691) - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
 
 ## [Archives](archives/index.md)
