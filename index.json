@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-01, 00:51:56",
-      "https://news.ycombinator.com/item?id=41703656"
+      "2024-10-01, 01:21:46",
+      "https://news.ycombinator.com/item?id=41703797"
     ],
     [
-      "Abandoned Mines Cover the West",
-      "https://www.hcn.org/issues/56-7/abandoned-mines-cover-the-west/"
+      "Essential Node in Global Semiconductor Supply Chain Hit by Hurricane Helene",
+      "https://hntrbrk.com/essential-node-in-global-semiconductor-supply-chain-hit-by-hurricane-helene-video-reveals-entrance-to-mine-has-flooded/"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 01:06:50",
+      "https://news.ycombinator.com/item?id=41703726"
+    ],
+    [
+      "A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+      "https://arxiv.org/abs/2406.10279"
     ]
   ],
   [
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2024-09-30, 22:02:51",
+      "https://news.ycombinator.com/item?id=41702617"
+    ],
+    [
+      "Tim Peters – Dispelling Information Asymmetry",
+      "https://tim-one.github.io/psf/ban.html"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 21:24:55",
       "https://news.ycombinator.com/item?id=41702315"
     ],
     [
       "BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH",
       "https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 20:28:41",
+      "https://news.ycombinator.com/item?id=41701733"
+    ],
+    [
+      "Show HN: Venator – open-source Threat Detection Platform",
+      "https://github.com/nianticlabs/venator"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "MusicBrainz: An open music encyclopedia",
       "https://musicbrainz.org/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 19:31:00",
-      "https://news.ycombinator.com/item?id=41701105"
-    ],
-    [
-      "How a California county got PFAS out of its drinking water",
-      "https://www.npr.org/sections/shots-health-news/2024/09/12/g-s1-22291/pfas-drinking-water-filter"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41699730"
     ],
     [
-      "GnuCash 5.9 Released",
+      "GnuCash 5.9",
       "https://www.gnucash.org/news.phtml"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-09-30, 05:55:51",
-      "https://news.ycombinator.com/item?id=41693979"
-    ],
-    [
-      "Tips for Building and Deploying Robots",
-      "https://rodneybrooks.com/tips-for-building-and-deploying-robots/"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 05:28:50",
       "https://news.ycombinator.com/item?id=41693844"
     ],
@@ -237,16 +247,6 @@
     [
       "Do AI companies work?",
       "https://benn.substack.com/p/do-ai-companies-work"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 20:43:32",
-      "https://news.ycombinator.com/item?id=41690302"
-    ],
-    [
-      "Gavin Newsom vetoes SB 1047",
-      "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-09-27, 04:31:27",
-      "https://news.ycombinator.com/item?id=41666269"
+      "2024-09-26, 21:20:29",
+      "https://news.ycombinator.com/item?id=41663524"
     ],
     [
-      "Normans and Slavery: Breaking the Bonds",
-      "https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds"
+      "A coffee table that walks",
+      "https://www.core77.com/posts/133657/A-Coffee-Table-that-Walks"
     ]
   ]
 ]
