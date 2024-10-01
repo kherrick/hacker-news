@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
-* [2024-10-01, 22:36:21](https://news.ycombinator.com/item?id=41715028) - [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
 * [2024-10-01, 22:18:03](https://news.ycombinator.com/item?id=41714858) - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
 * [2024-10-01, 22:04:57](https://news.ycombinator.com/item?id=41714750) - [Radio Shack Catalog Archive (1939-2011)](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
 * [2024-10-01, 21:26:35](https://news.ycombinator.com/item?id=41714361) - [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
@@ -19,6 +18,7 @@
 * [2024-10-01, 17:55:59](https://news.ycombinator.com/item?id=41711835) - [Show HN: Web Scraping with Your Web Browser: Why Not?](https://8chananon.github.io/tut/scraping1.html)
 * [2024-10-01, 17:45:22](https://news.ycombinator.com/item?id=41711694) - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
+* [2024-10-01, 17:20:09](https://news.ycombinator.com/item?id=41711371) - [Quake runs in just 276 kB RAM on the Arduino Nano Matter board](https://community.silabs.com/s/share/a5UVm000000Vi1ZMAS/quake-ported-to-arduino-nano-matter-and-sparkfun-thing-plus-matter-boards?language=en_US)
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
