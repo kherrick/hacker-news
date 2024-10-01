@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 07:21:08](https://news.ycombinator.com/item?id=41705532) - [Domain to a Landing Page right from DNS settings](https://medium.com/@halpindev/transform-unused-domains-to-landing-page-right-from-dns-settings-950e05fa623d)
 * [2024-10-01, 07:00:32](https://news.ycombinator.com/item?id=41705391) - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
 * [2024-10-01, 06:41:32](https://news.ycombinator.com/item?id=41705259) - [President Jimmy Carter becomes the first US president to live to 100 years old](https://www.usatoday.com/videos/news/politics/2024/09/30/jimmy-carter-former-us-president-celebrates-100th-birthday/75450406007/)
 * [2024-10-01, 06:34:24](https://news.ycombinator.com/item?id=41705221) - [ZFS native encryption is currently broken for encrypted backups](https://news.ycombinator.com/item?id=41705221)
