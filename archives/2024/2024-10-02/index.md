@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)

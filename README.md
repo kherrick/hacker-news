@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
@@ -13,12 +14,10 @@
 * [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
 * [2024-10-02, 03:44:05](https://news.ycombinator.com/item?id=41716957) - [Tapia, Tabbi, Tabique, Tabby](https://placesjournal.org/article/tabby-concrete-black-indigenous-history/)
 * [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on The Influence of Furniture on Love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
-* [2024-10-01, 23:59:16](https://news.ycombinator.com/item?id=41715767) - [The Soldiers' Philosopher](https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher)
 * [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-10-01, 14:43:05](https://news.ycombinator.com/item?id=41709087) - [The World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
 * [2024-09-30, 10:58:55](https://news.ycombinator.com/item?id=41695722) - [Agentic patters from scratch using Groq](https://github.com/neural-maze/agentic_patterns)
 * [2024-09-30, 10:27:30](https://news.ycombinator.com/item?id=41695549) - [Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes](https://github.com/bjesus/pipet)
-* [2024-09-30, 09:13:59](https://news.ycombinator.com/item?id=41695096) - [Show HN: Visualenv: store env variables in image](https://github.com/ersinesen/visualenv)
 * [2024-09-30, 08:58:44](https://news.ycombinator.com/item?id=41694991) - [John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
 * [2024-09-30, 07:56:14](https://news.ycombinator.com/item?id=41694631) - [Hierarchical Navigable Small World: a scalable nearest neighbor search](https://github.com/brtholomy/hnsw/blob/master/README.md)
@@ -28,6 +27,7 @@
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
+* [2024-09-29, 04:33:11](https://news.ycombinator.com/item?id=41684934) - [Romhack Research and Liveblog](https://nyuu.page/essays/romhack.html)
 * [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
