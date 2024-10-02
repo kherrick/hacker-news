@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 01:32:36](https://news.ycombinator.com/item?id=41716347) - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 * [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 * [2024-10-02, 00:07:51](https://news.ycombinator.com/item?id=41715833) - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
@@ -13,7 +14,6 @@
 * [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 * [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
-* [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 17:37:14](https://news.ycombinator.com/item?id=41711601) - [Pledging $300k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
@@ -28,7 +28,7 @@
 * [2024-09-30, 19:18:19](https://news.ycombinator.com/item?id=41700936) - [Farewell to the car CD player, source of weirdly deep musical fandoms](https://www.theguardian.com/music/2024/sep/30/farewell-to-the-car-cd-player-source-of-weirdly-deep-musical-fandoms)
 * [2024-09-30, 19:07:12](https://news.ycombinator.com/item?id=41700804) - [What's a Brain?](https://clairelevans.substack.com/p/whats-a-brain)
 * [2024-09-29, 17:42:02](https://news.ycombinator.com/item?id=41688966) - [Shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
-* [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
+* [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
 * [2024-09-27, 10:07:28](https://news.ycombinator.com/item?id=41668372) - [Nobody knows what happened within the MMC Association in 1998](https://sdomi.pl/weblog/21-nobody-knows-what-happened-at-mmca/)
 
 ## [Archives](archives/index.md)
