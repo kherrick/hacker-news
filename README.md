@@ -24,11 +24,11 @@
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-10-01, 14:43:05](https://news.ycombinator.com/item?id=41709087) - [The World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
-* [2024-10-01, 10:57:41](https://news.ycombinator.com/item?id=41706763) - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 * [2024-09-30, 19:18:19](https://news.ycombinator.com/item?id=41700936) - [Farewell to the car CD player, source of weirdly deep musical fandoms](https://www.theguardian.com/music/2024/sep/30/farewell-to-the-car-cd-player-source-of-weirdly-deep-musical-fandoms)
 * [2024-09-30, 19:07:12](https://news.ycombinator.com/item?id=41700804) - [What's a Brain?](https://clairelevans.substack.com/p/whats-a-brain)
 * [2024-09-29, 17:42:02](https://news.ycombinator.com/item?id=41688966) - [Shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
+* [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
 * [2024-09-27, 10:07:28](https://news.ycombinator.com/item?id=41668372) - [Nobody knows what happened within the MMC Association in 1998](https://sdomi.pl/weblog/21-nobody-knows-what-happened-at-mmca/)
 
 ## [Archives](archives/index.md)
