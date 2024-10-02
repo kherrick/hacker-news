@@ -4,8 +4,7 @@
 * [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 08:10:14](https://news.ycombinator.com/item?id=41718313) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
-* [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
-* [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
+* [2024-10-02, 04:27:20](https://news.ycombinator.com/item?id=41717174) - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 * [2024-10-02, 00:07:51](https://news.ycombinator.com/item?id=41715833) - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
@@ -30,6 +29,7 @@
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
 * [2024-09-28, 13:23:01](https://news.ycombinator.com/item?id=41680081) - [Paper microfluidic sensors for rapid on-site wastewater surveillance](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00439-9)
+* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 
 ## [Archives](archives/index.md)
 
