@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 14:36:50](https://news.ycombinator.com/item?id=41721082) - [Why I'm leaving Medium: AI policy](https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c)
 * [2024-10-02, 14:22:49](https://news.ycombinator.com/item?id=41720972) - [Notcursus v3.0.10 Released](https://github.com/dankamongmen/notcurses/releases)
 * [2024-10-02, 12:41:25](https://news.ycombinator.com/item?id=41719949) - [Airborne plastic levels shock researchers (chronic DEHP/DiNP/DEHT exposure)](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
 * [2024-10-02, 12:16:02](https://news.ycombinator.com/item?id=41719764) - [Yoshua Bengio: Humanity faces a 'catastrophic' future if we don't regulate AI](https://www.livescience.com/technology/artificial-intelligence/people-always-say-these-risks-are-science-fiction-but-they-re-not-godfather-of-ai-yoshua-bengio-on-the-risks-of-machine-intelligence-to-humanity)
