@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 04:27:20](https://news.ycombinator.com/item?id=41717174) - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 04:06:17](https://news.ycombinator.com/item?id=41717050) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
@@ -15,7 +16,6 @@
 * [2024-10-01, 21:26:35](https://news.ycombinator.com/item?id=41714361) - [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
 * [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been “dead” for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 * [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
-* [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 17:37:14](https://news.ycombinator.com/item?id=41711601) - [Pledging $300k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
