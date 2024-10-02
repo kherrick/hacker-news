@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
 * [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
