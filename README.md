@@ -19,7 +19,6 @@
 * [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-10-01, 14:43:05](https://news.ycombinator.com/item?id=41709087) - [The World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
 * [2024-09-30, 10:58:55](https://news.ycombinator.com/item?id=41695722) - [Agentic patters from scratch using Groq](https://github.com/neural-maze/agentic_patterns)
-* [2024-09-30, 10:27:30](https://news.ycombinator.com/item?id=41695549) - [Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes](https://github.com/bjesus/pipet)
 * [2024-09-30, 08:58:44](https://news.ycombinator.com/item?id=41694991) - [John Wheeler saw the tear in reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
 * [2024-09-30, 07:56:14](https://news.ycombinator.com/item?id=41694631) - [Hierarchical Navigable Small World: a scalable nearest neighbor search](https://github.com/brtholomy/hnsw/blob/master/README.md)
@@ -29,6 +28,7 @@
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
+* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)
