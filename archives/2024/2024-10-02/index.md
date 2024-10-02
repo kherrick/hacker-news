@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
