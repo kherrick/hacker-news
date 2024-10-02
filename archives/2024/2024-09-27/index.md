@@ -12,6 +12,7 @@
 * [2024-09-27, 21:00:33](https://news.ycombinator.com/item?id=41675469) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-09-27, 20:21:02](https://news.ycombinator.com/item?id=41675135) - [Kitchen staff were canaries in the coal mine](https://economistwritingeveryday.com/2022/01/24/kitchen-staff-were-canaries-in-the-coal-mine/)
 * [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
+* [2024-09-27, 19:55:28](https://news.ycombinator.com/item?id=41674900) - [Megalopolis is baffling and plainly nuts – but worth it](https://thespectator.com/book-and-art/megalopolis-baffling-plainly-nuts-francis-ford-coppola/)
 * [2024-09-27, 19:35:32](https://news.ycombinator.com/item?id=41674677) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 19:16:00](https://news.ycombinator.com/item?id=41674474) - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
 * [2024-09-27, 19:05:05](https://news.ycombinator.com/item?id=41674382) - [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
