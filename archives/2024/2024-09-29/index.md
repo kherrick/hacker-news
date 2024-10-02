@@ -35,6 +35,7 @@
 * [2024-09-29, 18:19:49](https://news.ycombinator.com/item?id=41689254) - [Pagoda: Rapid, easy full-stack web development starter kit in Go](https://github.com/mikestefanello/pagoda)
 * [2024-09-29, 18:06:59](https://news.ycombinator.com/item?id=41689159) - [CPU Throttling for containerized Go applications explained](https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/)
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia, a potential 'game changer'](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
+* [2024-09-29, 17:42:02](https://news.ycombinator.com/item?id=41688966) - [Shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [2024-09-29, 17:22:20](https://news.ycombinator.com/item?id=41688804) - [Andrej Karpathy on X: NotebookLM is quite powerful and worth playing with](https://twitter.com/karpathy/status/1840112692910272898)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)

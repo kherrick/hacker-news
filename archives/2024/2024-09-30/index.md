@@ -22,6 +22,8 @@
 * [2024-09-30, 19:31:00](https://news.ycombinator.com/item?id=41701105) - [How a California county got PFAS out of its drinking water](https://www.npr.org/sections/shots-health-news/2024/09/12/g-s1-22291/pfas-drinking-water-filter)
 * [2024-09-30, 19:24:20](https://news.ycombinator.com/item?id=41701026) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 * [2024-09-30, 19:21:57](https://news.ycombinator.com/item?id=41700989) - [Deep Learning with Jax](https://www.manning.com/books/deep-learning-with-jax)
+* [2024-09-30, 19:18:19](https://news.ycombinator.com/item?id=41700936) - [Farewell to the car CD player, source of weirdly deep musical fandoms](https://www.theguardian.com/music/2024/sep/30/farewell-to-the-car-cd-player-source-of-weirdly-deep-musical-fandoms)
+* [2024-09-30, 19:07:12](https://news.ycombinator.com/item?id=41700804) - [What's a Brain?](https://clairelevans.substack.com/p/whats-a-brain)
 * [2024-09-30, 19:03:41](https://news.ycombinator.com/item?id=41700766) - [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
 * [2024-09-30, 18:42:09](https://news.ycombinator.com/item?id=41700517) - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)

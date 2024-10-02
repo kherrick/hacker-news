@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 23:58:45](https://news.ycombinator.com/item?id=41715762) - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+* [2024-10-01, 23:56:28](https://news.ycombinator.com/item?id=41715747) - [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
+* [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-10-01, 22:36:21](https://news.ycombinator.com/item?id=41715028) - [Korean women remove pictures, videos from social media amid deepfake porn crisis](https://www.channelnewsasia.com/east-asia/south-korea-criminalise-deepfake-porn-protests-4642616)
 * [2024-10-01, 22:18:03](https://news.ycombinator.com/item?id=41714858) - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
@@ -64,6 +67,7 @@
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-10-01, 14:55:42](https://news.ycombinator.com/item?id=41709235) - [Solarpunk Web Server](https://sometimes.digital/posts/solarpunk-web-server/)
 * [2024-10-01, 14:45:36](https://news.ycombinator.com/item?id=41709121) - [The Liberating Experience of Common Lisp](https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/)
+* [2024-10-01, 14:43:05](https://news.ycombinator.com/item?id=41709087) - [The World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
 * [2024-10-01, 14:28:26](https://news.ycombinator.com/item?id=41708918) - [Dead Internet](https://darkfutura.substack.com/p/dead-internet)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, So Many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-10-01, 14:13:25](https://news.ycombinator.com/item?id=41708728) - [The Netherlands Has Returned 288 Stolen Artifacts to Indonesia](https://www.smithsonianmag.com/smart-news/the-netherlands-returned-288-stolen-artifacts-to-indonesia-180985137/)
