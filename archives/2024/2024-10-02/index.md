@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 22:34:38](https://news.ycombinator.com/item?id=41725558) - [Show HN: End-to-End Encrypted Dead Man's Switch](https://www.cipherwill.com/)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 * [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [Divers in Mexico's Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)

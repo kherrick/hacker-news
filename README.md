@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 22:34:38](https://news.ycombinator.com/item?id=41725558) - [Show HN: End-to-End Encrypted Dead Man's Switch](https://www.cipherwill.com/)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 * [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
@@ -17,7 +18,6 @@
 * [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
 * [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on the influence of furniture on love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
 * [2024-10-01, 23:59:16](https://news.ycombinator.com/item?id=41715767) - [The Soldiers' Philosopher](https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher)
-* [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-09-30, 11:11:15](https://news.ycombinator.com/item?id=41695807) - [Eliminating Intermediate Array Allocations](https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/)
 * [2024-09-30, 10:58:55](https://news.ycombinator.com/item?id=41695722) - [Agentic patters from scratch using Groq](https://github.com/neural-maze/agentic_patterns)
 * [2024-09-30, 08:58:44](https://news.ycombinator.com/item?id=41694991) - [John Wheeler saw the tear in reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
