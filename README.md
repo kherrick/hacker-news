@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 * [2024-10-02, 01:32:36](https://news.ycombinator.com/item?id=41716347) - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 * [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
@@ -24,10 +25,9 @@
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-09-30, 19:18:19](https://news.ycombinator.com/item?id=41700936) - [Farewell to the car CD player, source of weirdly deep musical fandoms](https://www.theguardian.com/music/2024/sep/30/farewell-to-the-car-cd-player-source-of-weirdly-deep-musical-fandoms)
-* [2024-09-29, 17:42:02](https://news.ycombinator.com/item?id=41688966) - [Shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+* [2024-09-30, 19:07:12](https://news.ycombinator.com/item?id=41700804) - [What's a Brain?](https://clairelevans.substack.com/p/whats-a-brain)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
 * [2024-09-29, 15:27:57](https://news.ycombinator.com/item?id=41688019) - [Solving 100 Bushels Using Matrix Factorization](https://win-vector.com/2024/09/29/solving-100-bushels-using-matrix-factorization/)
-* [2024-09-28, 06:01:25](https://news.ycombinator.com/item?id=41678228) - [Up to date Rust bindings for LMDB](https://crates.io/crates/liblmdb)
 * [2024-09-27, 19:55:28](https://news.ycombinator.com/item?id=41674900) - [Megalopolis is baffling and plainly nuts – but worth it](https://thespectator.com/book-and-art/megalopolis-baffling-plainly-nuts-francis-ford-coppola/)
 * [2024-09-27, 10:07:28](https://news.ycombinator.com/item?id=41668372) - [Nobody knows what happened within the MMC Association in 1998](https://sdomi.pl/weblog/21-nobody-knows-what-happened-at-mmca/)
 
