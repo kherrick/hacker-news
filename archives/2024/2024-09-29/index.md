@@ -45,6 +45,7 @@
 * [2024-09-29, 16:00:54](https://news.ycombinator.com/item?id=41688242) - [Pirate library must pay publishers $30M, but no one knows who runs it](https://arstechnica.com/tech-policy/2024/09/pirate-library-must-pay-publishers-30m-but-no-one-knows-who-runs-it/)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
 * [2024-09-29, 15:38:27](https://news.ycombinator.com/item?id=41688080) - [FTC Report Confirms: Commercial Surveillance Is Out of Control](https://www.eff.org/deeplinks/2024/09/ftc-report-confirms-commercial-surveillance-out-control)
+* [2024-09-29, 15:27:57](https://news.ycombinator.com/item?id=41688019) - [Solving 100 Bushels Using Matrix Factorization](https://win-vector.com/2024/09/29/solving-100-bushels-using-matrix-factorization/)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
 * [2024-09-29, 15:04:34](https://news.ycombinator.com/item?id=41687874) - [Quandoom: A port of DOOM for a quantum computer](https://github.com/Lumorti/Quandoom)
