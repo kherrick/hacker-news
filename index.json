@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-10-01, 22:18:03",
-      "https://news.ycombinator.com/item?id=41714858"
-    ],
-    [
-      "SlateDB – An embedded database built on object storage",
-      "https://slatedb.io/"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 14:43:05",
       "https://news.ycombinator.com/item?id=41709087"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes",
       "https://github.com/bjesus/pipet"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 09:13:59",
+      "https://news.ycombinator.com/item?id=41695096"
+    ],
+    [
+      "Show HN: Visualenv: store env variables in image",
+      "https://github.com/ersinesen/visualenv"
     ]
   ],
   [
