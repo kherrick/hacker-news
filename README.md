@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 14:22:49](https://news.ycombinator.com/item?id=41720972) - [Notcursus v3.0.10 Released](https://github.com/dankamongmen/notcurses/releases)
 * [2024-10-02, 12:00:24](https://news.ycombinator.com/item?id=41719629) - [Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
 * [2024-10-02, 11:48:29](https://news.ycombinator.com/item?id=41719531) - [Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
 * [2024-10-02, 10:44:59](https://news.ycombinator.com/item?id=41719143) - [Researchers develop first banana plant resistant to TR4 and black sigatoka](https://phys.org/news/2024-10-banana-resistant-tr4-black-sigatoka.html)
@@ -22,7 +23,6 @@
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
-* [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-09-29, 23:01:23](https://news.ycombinator.com/item?id=41691628) - [Why I Write My Own Obituary Every Year](https://www.nytimes.com/2024/09/29/opinion/write-your-own-obituary.html)
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
