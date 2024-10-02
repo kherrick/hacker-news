@@ -12,6 +12,7 @@
 * [2024-09-29, 22:49:26](https://news.ycombinator.com/item?id=41691530) - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)
 * [2024-09-29, 22:30:10](https://news.ycombinator.com/item?id=41691364) - [Modifying the ThinkPad 13 Gen 1 to unlock its full PCIe potential](https://bassusteur.github.io/2024/08/07/thinkpad13nvme.html)
 * [2024-09-29, 21:51:28](https://news.ycombinator.com/item?id=41691018) - [Radarr: Automate Movie Downloads and Management via Usenet and Torrents](https://github.com/Radarr/Radarr)
+* [2024-09-29, 21:42:35](https://news.ycombinator.com/item?id=41690939) - [Tracking the historical events that lead to the interweaving of knowledge](https://cacm.acm.org/research/knowledge-graphs/)
 * [2024-09-29, 21:28:21](https://news.ycombinator.com/item?id=41690804) - [Open-Source Flipper Zero Firmware: Unlock Your Device's Full Potential](https://github.com/flipperdevices/flipperzero-firmware)
 * [2024-09-29, 21:18:03](https://news.ycombinator.com/item?id=41690701) - [Syncthing: Open-Source Continuous File Sync with Privacy in Mind](https://github.com/syncthing/syncthing)
 * [2024-09-29, 21:15:24](https://news.ycombinator.com/item?id=41690667) - [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
