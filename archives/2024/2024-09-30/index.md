@@ -77,3 +77,4 @@
 * [2024-09-30, 02:26:46](https://news.ycombinator.com/item?id=41692922) - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 * [2024-09-30, 01:48:43](https://news.ycombinator.com/item?id=41692679) - [Doom in the iPhone Photos App (Barely)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-30, 00:52:01](https://news.ycombinator.com/item?id=41692310) - [Angry Amazon employees are 'rage applying' for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
+* [2024-09-30, 00:26:07](https://news.ycombinator.com/item?id=41692169) - [TurtleSpaces Web Logo – online 3D Logo implementation](https://turtlespaces.org/weblogo/)
