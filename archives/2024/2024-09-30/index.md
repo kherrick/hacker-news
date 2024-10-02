@@ -56,6 +56,7 @@
 * [2024-09-30, 11:42:55](https://news.ycombinator.com/item?id=41696046) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-09-30, 11:18:19](https://news.ycombinator.com/item?id=41695861) - [OpenSign](https://www.opensignlabs.com)
 * [2024-09-30, 11:15:36](https://news.ycombinator.com/item?id=41695840) - [Screenpipe: 24/7 local AI screen and mic recording](https://github.com/mediar-ai/screenpipe)
+* [2024-09-30, 11:11:15](https://news.ycombinator.com/item?id=41695807) - [Eliminating Intermediate Array Allocations](https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/)
 * [2024-09-30, 11:03:10](https://news.ycombinator.com/item?id=41695756) - [Show HN: A macOS app to prevent sound quality degradation on AirPods](https://apps.apple.com/us/app/crystalclear-sound/id6695723746?mt=12)
 * [2024-09-30, 10:58:55](https://news.ycombinator.com/item?id=41695722) - [Agentic patters from scratch using Groq](https://github.com/neural-maze/agentic_patterns)
 * [2024-09-30, 10:41:35](https://news.ycombinator.com/item?id=41695630) - [A guide to working remote and not paying rent](https://ghuntley.com/freecamping/)
