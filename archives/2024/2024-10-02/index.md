@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 12:08:52](https://news.ycombinator.com/item?id=41719702) - [Every Scientific Field](https://xkcd.com/2986/)
+* [2024-10-02, 12:00:24](https://news.ycombinator.com/item?id=41719629) - [Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
+* [2024-10-02, 11:57:38](https://news.ycombinator.com/item?id=41719610) - [GitHub's Copilot lies about its documentation. Why would I trust it with my code](https://shkspr.mobi/blog/2024/10/githubs-copilot-lies-about-its-own-documentation-so-why-would-i-trust-it-with-my-code/)
+* [2024-10-02, 11:52:55](https://news.ycombinator.com/item?id=41719571) - [Height hunt – low bridges in the UK, and their signs](https://adamtownsend.com/heighthunt/index.php)
 * [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 * [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 08:41:46](https://news.ycombinator.com/item?id=41718485) - [Automattic–WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
