@@ -52,6 +52,7 @@
 * [2024-09-28, 11:15:02](https://news.ycombinator.com/item?id=41679497) - [Is English a \"Creole Language\"?](https://languagelog.ldc.upenn.edu/nll/?p=66229)
 * [2024-09-28, 11:10:56](https://news.ycombinator.com/item?id=41679471) - [MtCellEdit – Lightweight Spreadsheet Program](https://www.marktyler.org/ced/)
 * [2024-09-28, 09:56:46](https://news.ycombinator.com/item?id=41679185) - [Hyundai Faces New Theft Threat from \"Game Boy\" Hack](https://headlight.news/2024/07/08/hyundai-faces-new-theft-threat-from-game-boy-hack/)
+* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-28, 09:14:02](https://news.ycombinator.com/item?id=41679019) - [Exponential growth brews 1M AI models on Hugging Face](https://arstechnica.com/information-technology/2024/09/ai-hosting-platform-surpasses-1-million-models-for-the-first-time/)
 * [2024-09-28, 08:38:04](https://news.ycombinator.com/item?id=41678840) - [Meta fined $102M for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
 * [2024-09-28, 07:52:35](https://news.ycombinator.com/item?id=41678654) - [Apple not investing in OpenAI after all, new report says](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/)

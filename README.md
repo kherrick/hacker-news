@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
 * [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 04:27:20](https://news.ycombinator.com/item?id=41717174) - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 04:06:17](https://news.ycombinator.com/item?id=41717050) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 * [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
-* [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 * [2024-10-02, 00:07:51](https://news.ycombinator.com/item?id=41715833) - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
 * [2024-10-01, 23:58:45](https://news.ycombinator.com/item?id=41715762) - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
@@ -21,7 +21,6 @@
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
-* [2024-10-01, 16:00:46](https://news.ycombinator.com/item?id=41710166) - [Is the world really running out of sand?](https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
@@ -29,6 +28,7 @@
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
 * [2024-09-28, 13:23:01](https://news.ycombinator.com/item?id=41680081) - [Paper microfluidic sensors for rapid on-site wastewater surveillance](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00439-9)
+* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-27, 19:55:28](https://news.ycombinator.com/item?id=41674900) - [Megalopolis is baffling and plainly nuts but worth it](https://thespectator.com/book-and-art/megalopolis-baffling-plainly-nuts-francis-ford-coppola/)
 
 ## [Archives](archives/index.md)
