@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 05:31:32](https://news.ycombinator.com/item?id=41717466) - [Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
 * [2024-10-02, 04:27:20](https://news.ycombinator.com/item?id=41717174) - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 04:06:17](https://news.ycombinator.com/item?id=41717050) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
