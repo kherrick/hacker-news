@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 15:04:25](https://news.ycombinator.com/item?id=41721368) - [VC Fund gives money back, says startup market too weak](https://www.nytimes.com/2024/10/02/technology/crv-vc-fund-returning-money.html)
+* [2024-10-02, 14:58:12](https://news.ycombinator.com/item?id=41721285) - [Evidence of 'Negative Time' Found in Quantum Physics Experiment](https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/)
 * [2024-10-02, 14:36:50](https://news.ycombinator.com/item?id=41721082) - [Why I'm leaving Medium: AI policy](https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c)
 * [2024-10-02, 14:22:49](https://news.ycombinator.com/item?id=41720972) - [Notcursus v3.0.10 Released](https://github.com/dankamongmen/notcurses/releases)
+* [2024-10-02, 14:20:03](https://news.ycombinator.com/item?id=41720938) - [You can now download over 33,000 sound effects from the BBC archive](https://djmag.com/news/you-can-now-download-over-33000-sound-effects-bbc-archive)
 * [2024-10-02, 12:41:25](https://news.ycombinator.com/item?id=41719949) - [Airborne plastic levels shock researchers (chronic DEHP/DiNP/DEHT exposure)](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
 * [2024-10-02, 12:16:02](https://news.ycombinator.com/item?id=41719764) - [Yoshua Bengio: Humanity faces a 'catastrophic' future if we don't regulate AI](https://www.livescience.com/technology/artificial-intelligence/people-always-say-these-risks-are-science-fiction-but-they-re-not-godfather-of-ai-yoshua-bengio-on-the-risks-of-machine-intelligence-to-humanity)
 * [2024-10-02, 12:08:52](https://news.ycombinator.com/item?id=41719702) - [Every Scientific Field](https://xkcd.com/2986/)
