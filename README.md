@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
+* [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [Divers in Mexico's Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
-* [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
+* [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
-* [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
-* [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
+* [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI completes deal that values company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
@@ -28,7 +29,6 @@
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
-* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)
