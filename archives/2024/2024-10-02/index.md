@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
+* [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
 * [2024-10-02, 15:04:25](https://news.ycombinator.com/item?id=41721368) - [VC Fund gives money back, says startup market too weak](https://www.nytimes.com/2024/10/02/technology/crv-vc-fund-returning-money.html)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
