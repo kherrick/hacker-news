@@ -2,6 +2,7 @@
 
 * [2024-10-02, 12:00:24](https://news.ycombinator.com/item?id=41719629) - [Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
 * [2024-10-02, 11:48:29](https://news.ycombinator.com/item?id=41719531) - [Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
+* [2024-10-02, 10:40:20](https://news.ycombinator.com/item?id=41719122) - [Show HN: A Demo for a Strategy Game](https://store.steampowered.com/app/2389320/Fall_of_an_Empire_Demo/)
 * [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 * [2024-10-02, 06:57:44](https://news.ycombinator.com/item?id=41717913) - [Intel Core 13th and 14th Gen Desktop Instability Root Cause Update](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239)
 * [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
@@ -16,7 +17,6 @@
 * [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 * [2024-10-01, 18:51:13](https://news.ycombinator.com/item?id=41712593) - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
-* [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
 * [2024-10-01, 17:37:14](https://news.ycombinator.com/item?id=41711601) - [Pledging $300k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 17:25:54](https://news.ycombinator.com/item?id=41711437) - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
@@ -25,9 +25,9 @@
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-09-29, 23:01:23](https://news.ycombinator.com/item?id=41691628) - [Why I Write My Own Obituary Every Year](https://www.nytimes.com/2024/09/29/opinion/write-your-own-obituary.html)
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
-* [2024-09-29, 15:27:57](https://news.ycombinator.com/item?id=41688019) - [Solving 100 Bushels Using Matrix Factorization](https://win-vector.com/2024/09/29/solving-100-bushels-using-matrix-factorization/)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
+* [2024-09-28, 13:28:01](https://news.ycombinator.com/item?id=41680114) - [Cups Remote Code Execution Vulnerability Fix Available](https://ubuntu.com/blog/cups-remote-code-execution-vulnerability-fix-available)
 * [2024-09-28, 13:23:01](https://news.ycombinator.com/item?id=41680081) - [Paper microfluidic sensors for rapid on-site wastewater surveillance](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00439-9)
 * [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 
