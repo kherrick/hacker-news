@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
-* [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 * [2024-10-02, 14:58:12](https://news.ycombinator.com/item?id=41721285) - [Evidence of 'Negative Time' Found in Quantum Physics Experiment](https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/)
@@ -23,6 +22,7 @@
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
+* [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Pro bettors disguising themselves as gambling addicts](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
 * [2024-09-30, 00:26:07](https://news.ycombinator.com/item?id=41692169) - [TurtleSpaces Web Logo – online 3D Logo implementation](https://turtlespaces.org/weblogo/)
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 16:35:14](https://news.ycombinator.com/item?id=41688499) - [Porting OpenVMS to the Itanium Processor Family (2003)[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
