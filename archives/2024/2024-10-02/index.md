@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 08:41:46](https://news.ycombinator.com/item?id=41718485) - [Automattic–WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
 * [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
 * [2024-10-02, 05:31:32](https://news.ycombinator.com/item?id=41717466) - [Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
 * [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
