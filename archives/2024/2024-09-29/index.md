@@ -67,6 +67,7 @@
 * [2024-09-29, 08:35:40](https://news.ycombinator.com/item?id=41685824) - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
 * [2024-09-29, 08:03:45](https://news.ycombinator.com/item?id=41685689) - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 * [2024-09-29, 07:52:59](https://news.ycombinator.com/item?id=41685642) - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
+* [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
 * [2024-09-29, 07:26:13](https://news.ycombinator.com/item?id=41685524) - [NTSB Issues Urgent Safety Recommendations on Boeing 737 Rudder System](https://www.ntsb.gov:443/news/press-releases/Pages/NR20240926.aspx)
 * [2024-09-29, 06:30:14](https://news.ycombinator.com/item?id=41685326) - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
 * [2024-09-29, 06:17:54](https://news.ycombinator.com/item?id=41685296) - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)

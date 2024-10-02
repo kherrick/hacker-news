@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 * [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 * [2024-10-02, 01:32:36](https://news.ycombinator.com/item?id=41716347) - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 * [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
