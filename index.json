@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 18:22:10",
+      "https://news.ycombinator.com/item?id=41723569"
+    ],
+    [
+      "Show HN: Kameo – a Rust library for building fault-tolerant, async actors",
+      "https://github.com/tqwewe/kameo"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 17:56:42",
       "https://news.ycombinator.com/item?id=41723311"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-10-01, 23:59:16",
-      "https://news.ycombinator.com/item?id=41715767"
-    ],
-    [
-      "The Soldiers' Philosopher",
-      "https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 23:05:22",
       "https://news.ycombinator.com/item?id=41715277"
     ],
@@ -177,16 +177,6 @@
     [
       "Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes",
       "https://github.com/bjesus/pipet"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 09:13:59",
-      "https://news.ycombinator.com/item?id=41695096"
-    ],
-    [
-      "Show HN: Visualenv: store env variables in image",
-      "https://github.com/ersinesen/visualenv"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Why TCP needs 3 handshakes",
       "https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 04:33:11",
+      "https://news.ycombinator.com/item?id=41684934"
+    ],
+    [
+      "Romhack Research and Liveblog",
+      "https://nyuu.page/essays/romhack.html"
     ]
   ],
   [
