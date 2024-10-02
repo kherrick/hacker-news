@@ -6,6 +6,7 @@
 
 * [2024-09-29, 23:54:06](https://news.ycombinator.com/item?id=41692000) - [The Teacher Who Made Mistakes on Purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
 * [2024-09-29, 23:44:57](https://news.ycombinator.com/item?id=41691943) - [Do AI Companies Work?](https://benn.substack.com/p/do-ai-companies-work)
+* [2024-09-29, 23:01:23](https://news.ycombinator.com/item?id=41691628) - [Why I Write My Own Obituary Every Year](https://www.nytimes.com/2024/09/29/opinion/write-your-own-obituary.html)
 * [2024-09-29, 22:59:33](https://news.ycombinator.com/item?id=41691613) - [96% of climate policy since 1998 failed](https://www.alumni.ox.ac.uk/article/96-of-climate-policy-since-1998-failed)
 * [2024-09-29, 22:55:34](https://news.ycombinator.com/item?id=41691577) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2024-09-29, 22:49:26](https://news.ycombinator.com/item?id=41691530) - [Kris Kristofferson has died](https://www.rollingstone.com/music/music-country/kris-kristofferson-dead-1107074/)

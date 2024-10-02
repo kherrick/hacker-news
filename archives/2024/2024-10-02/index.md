@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 12:41:25](https://news.ycombinator.com/item?id=41719949) - [Airborne plastic levels shock researchers (chronic DEHP/DiNP/DEHT exposure)](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
+* [2024-10-02, 12:16:02](https://news.ycombinator.com/item?id=41719764) - [Yoshua Bengio: Humanity faces a 'catastrophic' future if we don't regulate AI](https://www.livescience.com/technology/artificial-intelligence/people-always-say-these-risks-are-science-fiction-but-they-re-not-godfather-of-ai-yoshua-bengio-on-the-risks-of-machine-intelligence-to-humanity)
 * [2024-10-02, 12:08:52](https://news.ycombinator.com/item?id=41719702) - [Every Scientific Field](https://xkcd.com/2986/)
+* [2024-10-02, 12:06:44](https://news.ycombinator.com/item?id=41719680) - [Former Nintendo factory in Kyoto opens as nostalgia-fuelled gaming museum](https://www.theguardian.com/games/2024/oct/02/former-nintendo-factory-in-kyoto-opens-as-nostalgia-fuelled-gaming-museum)
 * [2024-10-02, 12:00:24](https://news.ycombinator.com/item?id=41719629) - [Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
 * [2024-10-02, 11:57:38](https://news.ycombinator.com/item?id=41719610) - [GitHub's Copilot lies about its documentation. Why would I trust it with my code](https://shkspr.mobi/blog/2024/10/githubs-copilot-lies-about-its-own-documentation-so-why-would-i-trust-it-with-my-code/)
 * [2024-10-02, 11:52:55](https://news.ycombinator.com/item?id=41719571) - [Height hunt – low bridges in the UK, and their signs](https://adamtownsend.com/heighthunt/index.php)
+* [2024-10-02, 11:48:29](https://news.ycombinator.com/item?id=41719531) - [Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
 * [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 * [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 08:41:46](https://news.ycombinator.com/item?id=41718485) - [Automattic–WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
