@@ -87,5 +87,6 @@
 * [2024-09-30, 02:40:44](https://news.ycombinator.com/item?id=41693001) - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
 * [2024-09-30, 02:26:46](https://news.ycombinator.com/item?id=41692922) - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 * [2024-09-30, 01:48:43](https://news.ycombinator.com/item?id=41692679) - [Doom in the iPhone Photos App (Barely)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
+* [2024-09-30, 01:45:47](https://news.ycombinator.com/item?id=41692666) - [Solving 100 Bushels using Matrix Factorization](https://github.com/WinVector/Examples/blob/main/puzzles/100_bushels/100_bushels_matrix_solution.ipynb)
 * [2024-09-30, 00:52:01](https://news.ycombinator.com/item?id=41692310) - [Angry Amazon employees are 'rage applying' for new jobs after RTO mandate](https://fortune.com/2024/09/29/amazon-employees-angry-andy-jassy-rto-mandate/)
 * [2024-09-30, 00:26:07](https://news.ycombinator.com/item?id=41692169) - [TurtleSpaces Web Logo – online 3D Logo implementation](https://turtlespaces.org/weblogo/)
