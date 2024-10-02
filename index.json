@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-10-02, 16:45:32",
-      "https://news.ycombinator.com/item?id=41722532"
-    ],
-    [
-      "MM1.5: Methods, Analysis and Insights from Multimodal LLM Fine-Tuning",
-      "https://arxiv.org/abs/2409.20566"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 16:16:03",
       "https://news.ycombinator.com/item?id=41722159"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2024-10-01, 22:18:03",
+      "https://news.ycombinator.com/item?id=41714858"
+    ],
+    [
+      "SlateDB – An embedded database built on object storage",
+      "https://slatedb.io/"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 14:43:05",
       "https://news.ycombinator.com/item?id=41709087"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-09-30, 07:35:37",
-      "https://news.ycombinator.com/item?id=41694509"
-    ],
-    [
-      "How to manage dangerous actions in user interfaces",
-      "https://www.smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 05:26:54",
       "https://news.ycombinator.com/item?id=41693831"
     ],
@@ -287,6 +277,16 @@
     [
       "Why TCP needs 3 handshakes",
       "https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 09:45:09",
+      "https://news.ycombinator.com/item?id=41679149"
+    ],
+    [
+      "Offline UX Patterns",
+      "https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md"
     ]
   ],
   [
