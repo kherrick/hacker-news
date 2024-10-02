@@ -61,6 +61,7 @@
 * [2024-09-30, 10:34:54](https://news.ycombinator.com/item?id=41695587) - [UK to finish with coal power after 142 years](https://www.bbc.co.uk/news/articles/c5y35qz73n8o)
 * [2024-09-30, 10:27:30](https://news.ycombinator.com/item?id=41695549) - [Show HN: Pipet – CLI tool for scraping and extracting data online, with pipes](https://github.com/bjesus/pipet)
 * [2024-09-30, 09:50:21](https://news.ycombinator.com/item?id=41695327) - [Exxon Mobil's 'Advanced' Technique for Recycling Plastic? Burning It](https://www.yahoo.com/news/exxon-mobil-says-advanced-recycling-100018708.html)
+* [2024-09-30, 09:13:59](https://news.ycombinator.com/item?id=41695096) - [Show HN: Visualenv: store env variables in image](https://github.com/ersinesen/visualenv)
 * [2024-09-30, 09:11:26](https://news.ycombinator.com/item?id=41695076) - [The True Weight of Medieval Weapons – Fact and Fiction](https://warfantasy.wordpress.com/2024/09/29/the-true-weight-of-medieval-weapons-fact-and-fiction/)
 * [2024-09-30, 09:05:37](https://news.ycombinator.com/item?id=41695025) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 08:58:44](https://news.ycombinator.com/item?id=41694991) - [John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
