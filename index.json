@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 18:49:06",
+      "https://news.ycombinator.com/item?id=41723830"
+    ],
+    [
+      "TinyJS – Shorten JavaScript QuerySelect with $ and $$",
+      "https://github.com/victorqribeiro/TinyJS"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 18:22:10",
       "https://news.ycombinator.com/item?id=41723569"
     ],
@@ -277,16 +287,6 @@
     [
       "Why TCP needs 3 handshakes",
       "https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 09:45:09",
-      "https://news.ycombinator.com/item?id=41679149"
-    ],
-    [
-      "Offline UX Patterns",
-      "https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md"
     ]
   ],
   [
