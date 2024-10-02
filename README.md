@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
-* [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [Divers in Mexico's Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
+* [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
 * [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
