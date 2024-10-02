@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
+* [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
 * [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
@@ -10,7 +11,6 @@
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
-* [2024-10-02, 15:04:25](https://news.ycombinator.com/item?id=41721368) - [VC Fund gives money back, says the market for mature startups is too weak](https://www.nytimes.com/2024/10/02/technology/crv-vc-fund-returning-money.html)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 * [2024-10-02, 10:40:20](https://news.ycombinator.com/item?id=41719122) - [Show HN: A Demo for a Strategy Game](https://store.steampowered.com/app/2389320/Fall_of_an_Empire_Demo/)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD GPU Inference](https://github.com/slashml/amd_inference)
