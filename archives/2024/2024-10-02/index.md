@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
+* [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 08:41:46](https://news.ycombinator.com/item?id=41718485) - [Automattic–WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
 * [2024-10-02, 08:10:14](https://news.ycombinator.com/item?id=41718313) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)

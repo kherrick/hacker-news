@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
+* [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 08:10:14](https://news.ycombinator.com/item?id=41718313) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
 * [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
@@ -9,7 +11,6 @@
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 * [2024-10-02, 00:07:51](https://news.ycombinator.com/item?id=41715833) - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
 * [2024-10-01, 23:58:45](https://news.ycombinator.com/item?id=41715762) - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
-* [2024-10-01, 23:56:28](https://news.ycombinator.com/item?id=41715747) - [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
 * [2024-10-01, 23:05:22](https://news.ycombinator.com/item?id=41715277) - [How CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
 * [2024-10-01, 22:18:03](https://news.ycombinator.com/item?id=41714858) - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
 * [2024-10-01, 22:04:57](https://news.ycombinator.com/item?id=41714750) - [Radio Shack Catalog Archive (1939-2011)](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
@@ -23,7 +24,6 @@
 * [2024-10-01, 16:56:40](https://news.ycombinator.com/item?id=41711032) - [Show HN: Sourcebot, an open-source Sourcegraph alternative](https://github.com/sourcebot-dev/sourcebot)
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
-* [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
 * [2024-09-29, 15:29:57](https://news.ycombinator.com/item?id=41688033) - [A \"hello world\" program in machine code on DOS](https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html)
