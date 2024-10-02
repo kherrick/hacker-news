@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-10-01, 10:57:41",
-      "https://news.ycombinator.com/item?id=41706763"
-    ],
-    [
-      "ESO telescope captures the most detailed infrared map of the Milky Way",
-      "https://www.eso.org/public/news/eso2413/"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 19:18:19",
       "https://news.ycombinator.com/item?id=41700936"
     ],
@@ -287,6 +277,16 @@
     [
       "PC Floppy Copy Protection: Vault Prolok",
       "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 06:01:25",
+      "https://news.ycombinator.com/item?id=41678228"
+    ],
+    [
+      "Up to date Rust bindings for LMDB",
+      "https://crates.io/crates/liblmdb"
     ]
   ],
   [
