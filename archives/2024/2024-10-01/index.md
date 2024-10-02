@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 23:59:16](https://news.ycombinator.com/item?id=41715767) - [The Soldiers' Philosopher](https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher)
 * [2024-10-01, 23:58:45](https://news.ycombinator.com/item?id=41715762) - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
 * [2024-10-01, 23:56:28](https://news.ycombinator.com/item?id=41715747) - [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
 * [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)

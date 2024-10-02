@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
+* [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
 * [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
+* [2024-10-02, 16:45:32](https://news.ycombinator.com/item?id=41722532) - [MM1.5: Methods, Analysis and Insights from Multimodal LLM Fine-Tuning](https://arxiv.org/abs/2409.20566)
+* [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped, human brains could follow](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
 * [2024-10-02, 15:22:11](https://news.ycombinator.com/item?id=41721567) - [American WWII bomb explodes at Japanese airport, causing large crater in taxiway](https://www.cnn.com/2024/10/02/travel/wwii-bomb-miyazaki-airport-japan-scli-intl/index.html)
@@ -46,3 +50,4 @@
 * [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
 * [2024-10-02, 00:07:51](https://news.ycombinator.com/item?id=41715833) - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
+* [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on The Influence of Furniture on Love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
