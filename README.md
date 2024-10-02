@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
 * [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
@@ -28,7 +29,6 @@
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
-* [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)
