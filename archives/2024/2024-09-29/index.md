@@ -37,6 +37,7 @@
 * [2024-09-29, 18:02:47](https://news.ycombinator.com/item?id=41689138) - [FDA approves a novel drug for schizophrenia, a potential 'game changer'](https://www.washingtonpost.com/business/2024/09/26/fda-antipsychotic-mental-illness-alzheimers/)
 * [2024-09-29, 17:42:02](https://news.ycombinator.com/item?id=41688966) - [Shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [2024-09-29, 17:22:20](https://news.ycombinator.com/item?id=41688804) - [Andrej Karpathy on X: NotebookLM is quite powerful and worth playing with](https://twitter.com/karpathy/status/1840112692910272898)
+* [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
 * [2024-09-29, 16:44:02](https://news.ycombinator.com/item?id=41688557) - [A stalled Waymo brought Kamala Harris' motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)

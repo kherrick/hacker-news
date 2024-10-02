@@ -24,11 +24,11 @@
 * [2024-10-01, 16:04:20](https://news.ycombinator.com/item?id=41710227) - [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 14:21:51](https://news.ycombinator.com/item?id=41708837) - [Bots, so many bots](https://wakatime.com/blog/67-bots-so-many-bots)
+* [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 15:39:23](https://news.ycombinator.com/item?id=41688088) - [PC Floppy Copy Protection: Vault Prolok](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html)
 * [2024-09-29, 15:27:57](https://news.ycombinator.com/item?id=41688019) - [Solving 100 Bushels Using Matrix Factorization](https://win-vector.com/2024/09/29/solving-100-bushels-using-matrix-factorization/)
 * [2024-09-29, 13:26:47](https://news.ycombinator.com/item?id=41687240) - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-09-29, 07:29:25](https://news.ycombinator.com/item?id=41685533) - [Why TCP needs 3 handshakes](https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes)
-* [2024-09-28, 13:23:01](https://news.ycombinator.com/item?id=41680081) - [Paper microfluidic sensors for rapid on-site wastewater surveillance](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00439-9)
 * [2024-09-28, 09:45:09](https://news.ycombinator.com/item?id=41679149) - [Offline UX Patterns](https://github.com/Expensify/App/blob/main/contributingGuides/OFFLINE_UX.md)
 
 ## [Archives](archives/index.md)
