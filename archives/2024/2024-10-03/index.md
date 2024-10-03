@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 13:30:16](https://news.ycombinator.com/item?id=41730626) - [Announcing FLUX1.1 [Pro] and the BFL API](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 13:30:16](https://news.ycombinator.com/item?id=41730626) - [Announcing FLUX1.1 [Pro] and the BFL API](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
@@ -14,9 +15,8 @@
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 01:21:36](https://news.ycombinator.com/item?id=41726452) - [Who Pays for the Arts?](https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
-* [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
+* [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an internet argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
-* [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
