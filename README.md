@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
+* [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 12:00:17](https://news.ycombinator.com/item?id=41729860) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
+* [2024-10-03, 11:53:03](https://news.ycombinator.com/item?id=41729793) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.com/news/articles/c98ynejg4l5o)
 * [2024-10-03, 11:18:17](https://news.ycombinator.com/item?id=41729526) - [Ask HN: What happens to \".io\" TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
 * [2024-10-03, 09:16:25](https://news.ycombinator.com/item?id=41728829) - [France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
@@ -14,7 +17,6 @@
 * [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
-* [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
@@ -26,10 +28,8 @@
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
 * [2024-09-30, 07:56:14](https://news.ycombinator.com/item?id=41694631) - [Hierarchical Navigable Small World: a scalable nearest neighbor search](https://github.com/brtholomy/hnsw/blob/master/README.md)
 * [2024-09-30, 04:07:27](https://news.ycombinator.com/item?id=41693462) - [Bronze Age cheese reveals human-Lactobacillus interactions over history](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue)
-* [2024-09-29, 21:42:35](https://news.ycombinator.com/item?id=41690939) - [Tracking the historical events that lead to the interweaving of knowledge (2021)](https://cacm.acm.org/research/knowledge-graphs/)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
 * [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
-* [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)
 
