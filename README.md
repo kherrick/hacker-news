@@ -3,7 +3,6 @@
 * [2024-10-03, 07:35:34](https://news.ycombinator.com/item?id=41728173) - [Employers Say Students Need AI Skills. What If Students Don't Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
 * [2024-10-03, 07:04:01](https://news.ycombinator.com/item?id=41728001) - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 * [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
-* [2024-10-03, 06:50:35](https://news.ycombinator.com/item?id=41727933) - [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
 * [2024-10-03, 06:10:56](https://news.ycombinator.com/item?id=41727776) - [Microsoft: 'ever present' AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
 * [2024-10-03, 05:30:38](https://news.ycombinator.com/item?id=41727621) - [Show HN: Flyon UI – Tailwind Components Library](https://flyonui.com/)
 * [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
@@ -29,6 +28,7 @@
 * [2024-09-29, 16:46:49](https://news.ycombinator.com/item?id=41688568) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-29, 15:16:38](https://news.ycombinator.com/item?id=41687950) - [Salt Water Dimmers](https://en.wikipedia.org/wiki/Salt_water_dimmers)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
+* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf]](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)
