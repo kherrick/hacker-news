@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 17:31:59",
+      "https://news.ycombinator.com/item?id=41732853"
+    ],
+    [
+      "Were RNNs All We Needed?",
+      "https://arxiv.org/abs/2410.01201"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 17:22:38",
+      "https://news.ycombinator.com/item?id=41732763"
+    ],
+    [
+      "Most gamers prefer single-player games",
+      "https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 17:07:23",
       "https://news.ycombinator.com/item?id=41732634"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-02, 15:01:08",
-      "https://news.ycombinator.com/item?id=41721318"
-    ],
-    [
-      "The bunkbed conjecture is false",
-      "https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 09:39:09",
       "https://news.ycombinator.com/item?id=41718779"
     ],
@@ -257,16 +267,6 @@
     [
       "Type-erased generic functions for C: A modest non-proposal",
       "https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 08:22:12",
-      "https://news.ycombinator.com/item?id=41694767"
-    ],
-    [
-      "A Tour of Hell – Shell scripting Haskell dialect",
-      "https://chrisdone.com/posts/tour-of-hell/"
     ]
   ],
   [
