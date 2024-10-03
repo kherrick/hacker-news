@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-03, 14:55:10](https://news.ycombinator.com/item?id=41731371) - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
 * [2024-10-03, 14:15:09](https://news.ycombinator.com/item?id=41731018) - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
@@ -25,6 +24,7 @@
 * [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD GPU Inference](https://github.com/slashml/amd_inference)
 * [2024-10-02, 06:49:36](https://news.ycombinator.com/item?id=41717869) - [Show HN: Teletxt (Vercel App)](https://news.ycombinator.com/item?id=41717869)
+* [2024-10-01, 04:32:03](https://news.ycombinator.com/item?id=41704621) - [Nuance and Nuisance: On the Village Voice](https://harpers.org/archive/2024/10/nuance-and-nuisance-ed-park-village-voice/)
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 15:35:38](https://news.ycombinator.com/item?id=41698385) - [Code Generation in Rust vs. C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)

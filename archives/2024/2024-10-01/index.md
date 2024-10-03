@@ -104,6 +104,7 @@
 * [2024-10-01, 05:23:22](https://news.ycombinator.com/item?id=41704818) - [Why laptop support, why now: FreeBSD's strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 04:41:02](https://news.ycombinator.com/item?id=41704657) - [Uber terms mean couple can't sue after 'life-changing' crash](https://www.bbc.com/news/articles/cwy9j8ldp0lo)
 * [2024-10-01, 04:38:56](https://news.ycombinator.com/item?id=41704649) - [Piracy](https://blog.cobanov.cloud/blog/piracy)
+* [2024-10-01, 04:32:03](https://news.ycombinator.com/item?id=41704621) - [Nuance and Nuisance: On the Village Voice](https://harpers.org/archive/2024/10/nuance-and-nuisance-ed-park-village-voice/)
 * [2024-10-01, 04:31:15](https://news.ycombinator.com/item?id=41704618) - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
 * [2024-10-01, 04:30:06](https://news.ycombinator.com/item?id=41704615) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 04:01:17](https://news.ycombinator.com/item?id=41704517) - [Sports Betting Apps Are Even More Toxic Than You Thought](https://www.bloomberg.com/news/articles/2024-09-27/sports-betting-apps-are-even-more-toxic-than-you-imagined)
