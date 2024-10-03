@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-03, 14:15:09](https://news.ycombinator.com/item?id=41731018) - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:53:47](https://news.ycombinator.com/item?id=41730822) - [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
@@ -13,7 +12,6 @@
 * [2024-10-03, 09:16:25](https://news.ycombinator.com/item?id=41728829) - [France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 * [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
-* [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 01:21:36](https://news.ycombinator.com/item?id=41726452) - [Who Pays for the Arts?](https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
@@ -28,6 +26,8 @@
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 15:35:38](https://news.ycombinator.com/item?id=41698385) - [Code Generation in Rust vs. C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
+* [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
+* [2024-09-30, 04:07:27](https://news.ycombinator.com/item?id=41693462) - [Bronze Age cheese reveals human-Lactobacillus interactions over history](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
 * [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
 
