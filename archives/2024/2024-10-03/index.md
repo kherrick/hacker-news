@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in Public Beta](https://flawless.dev/docs/)
+* [2024-10-03, 21:05:55](https://news.ycombinator.com/item?id=41734991) - [A Statement from Automattic](https://automattic.com/2024/10/03/a-statement-from-automattic/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)

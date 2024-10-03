@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in Public Beta](https://flawless.dev/docs/)
+* [2024-10-03, 21:05:55](https://news.ycombinator.com/item?id=41734991) - [A Statement from Automattic](https://automattic.com/2024/10/03/a-statement-from-automattic/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
@@ -23,8 +25,6 @@
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
 * [2024-10-02, 17:57:13](https://news.ycombinator.com/item?id=41723315) - [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)
-* [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
-* [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
 * [2024-10-02, 05:11:16](https://news.ycombinator.com/item?id=41717381) - [Tracking (C++) Shared Pointer Leaks](https://ibob.bg/blog/2023/01/01/tracking-shared-ptr-leaks/)
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-29, 19:41:57](https://news.ycombinator.com/item?id=41689833) - [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)
