@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-03, 14:11:20",
+      "https://news.ycombinator.com/item?id=41730983"
+    ],
+    [
+      "Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]",
+      "https://arxiv.org/abs/2410.00531"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 13:30:16",
       "https://news.ycombinator.com/item?id=41730626"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=41724881"
     ],
     [
-      "Anatomy of an Internet Argument",
+      "Anatomy of an internet argument",
       "https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains",
       "https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 17:56:42",
-      "https://news.ycombinator.com/item?id=41723311"
-    ],
-    [
-      "WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects",
-      "https://github.com/stephansturges/WALDO"
     ]
   ],
   [
