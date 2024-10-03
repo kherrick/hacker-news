@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
-* [2024-10-03, 07:35:34](https://news.ycombinator.com/item?id=41728173) - [Employers Say Students Need AI Skills. What If Students Don't Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
 * [2024-10-03, 07:04:01](https://news.ycombinator.com/item?id=41728001) - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 * [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-03, 06:10:56](https://news.ycombinator.com/item?id=41727776) - [Microsoft: 'ever present' AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
@@ -20,6 +19,7 @@
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD GPU Inference](https://github.com/slashml/amd_inference)
+* [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on the influence of furniture on love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
 * [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
 * [2024-09-30, 07:56:14](https://news.ycombinator.com/item?id=41694631) - [Hierarchical Navigable Small World: a scalable nearest neighbor search](https://github.com/brtholomy/hnsw/blob/master/README.md)
