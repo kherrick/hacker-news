@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-03, 21:13:36](https://news.ycombinator.com/item?id=41735061) - [You Can't Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
-* [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in Public Beta](https://flawless.dev/docs/)
-* [2024-10-03, 21:05:55](https://news.ycombinator.com/item?id=41734991) - [Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/a-statement-from-automattic/)
+* [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in public beta](https://flawless.dev/docs/)
+* [2024-10-03, 21:06:06](https://news.ycombinator.com/item?id=41734993) - [Britain's last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
