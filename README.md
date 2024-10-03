@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 10:36:10](https://news.ycombinator.com/item?id=41729278) - [EU: Definition of \"potential terrorists\" opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
 * [2024-10-03, 09:21:23](https://news.ycombinator.com/item?id=41728859) - [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 * [2024-10-03, 07:04:01](https://news.ycombinator.com/item?id=41728001) - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
@@ -13,12 +14,10 @@
 * [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
-* [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD GPU Inference](https://github.com/slashml/amd_inference)
-* [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on the influence of furniture on love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
 * [2024-09-30, 15:35:38](https://news.ycombinator.com/item?id=41698385) - [Code Generation in Rust vs. C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
@@ -29,6 +28,7 @@
 * [2024-09-29, 15:16:38](https://news.ycombinator.com/item?id=41687950) - [Salt Water Dimmers](https://en.wikipedia.org/wiki/Salt_water_dimmers)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
 * [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf]](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
+* [2024-09-27, 20:07:11](https://news.ycombinator.com/item?id=41675030) - [Penguin Tutorial: How Tux was created on a 486 DX2](https://isc.tamu.edu/~lewing/linux/notes.html)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
 ## [Archives](archives/index.md)

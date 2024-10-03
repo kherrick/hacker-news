@@ -12,6 +12,7 @@
 * [2024-09-27, 21:18:33](https://news.ycombinator.com/item?id=41675637) - [Lion Cove: Intel's P-Core Roars](https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/)
 * [2024-09-27, 21:00:33](https://news.ycombinator.com/item?id=41675469) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-09-27, 20:21:02](https://news.ycombinator.com/item?id=41675135) - [Kitchen staff were canaries in the coal mine](https://economistwritingeveryday.com/2022/01/24/kitchen-staff-were-canaries-in-the-coal-mine/)
+* [2024-09-27, 20:07:11](https://news.ycombinator.com/item?id=41675030) - [Penguin Tutorial: How Tux was created on a 486 DX2](https://isc.tamu.edu/~lewing/linux/notes.html)
 * [2024-09-27, 20:07:03](https://news.ycombinator.com/item?id=41675029) - [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
 * [2024-09-27, 19:55:28](https://news.ycombinator.com/item?id=41674900) - [Megalopolis is baffling and plainly nuts – but worth it](https://thespectator.com/book-and-art/megalopolis-baffling-plainly-nuts-francis-ford-coppola/)
 * [2024-09-27, 19:35:32](https://news.ycombinator.com/item?id=41674677) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin](https://hannahilea.com/blog/cuttle-obsession/)
