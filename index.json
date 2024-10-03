@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-10-02, 18:22:10",
+      "https://news.ycombinator.com/item?id=41723569"
+    ],
+    [
+      "Show HN: Kameo – Fault-tolerant async actors built on Tokio",
+      "https://github.com/tqwewe/kameo"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 17:56:42",
       "https://news.ycombinator.com/item?id=41723311"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-10-01, 23:05:22",
-      "https://news.ycombinator.com/item?id=41715277"
-    ],
-    [
-      "How CERN serves 1EB of data via FUSE [video]",
-      "https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 11:11:15",
       "https://news.ycombinator.com/item?id=41695807"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-09-29, 17:06:20",
+      "https://news.ycombinator.com/item?id=41688703"
+    ],
+    [
+      "In the land of LLMs, can we do better mock data generation?",
+      "https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 15:16:38",
       "https://news.ycombinator.com/item?id=41687950"
     ],
@@ -267,16 +277,6 @@
     [
       "Study: Cats in little crocheted hats shed light on feline chronic pain",
       "https://arstechnica.com/science/2024/09/scientists-crocheted-tiny-hats-for-cats-to-record-eegs-of-brain-response-to-pain/"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 07:29:25",
-      "https://news.ycombinator.com/item?id=41685533"
-    ],
-    [
-      "Why TCP needs 3 handshakes",
-      "https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes"
     ]
   ],
   [
