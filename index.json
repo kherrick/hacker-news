@@ -55,8 +55,18 @@
       "https://news.ycombinator.com/item?id=41732551"
     ],
     [
-      "Activeloop (YC S18) Hiring an AI Search Engineer to Ship Fast and Accurate Search",
+      "Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search",
       "https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 16:42:03",
+      "https://news.ycombinator.com/item?id=41732381"
+    ],
+    [
+      "What Kind of Writer Is ChatGPT?",
+      "https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "NSO Should Lose Spyware Case for Discovery Violations, Meta Says",
       "https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 14:27:25",
+      "https://news.ycombinator.com/item?id=41731115"
+    ],
+    [
+      "Show HN: Tiiny Color Palette Generator",
+      "https://www.tiinycolor.com/"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2024-10-03, 10:43:37",
+      "https://news.ycombinator.com/item?id=41729325"
+    ],
+    [
+      "UK will give sovereignty of Chagos Islands to Mauritius",
+      "https://www.bbc.co.uk/news/articles/c98ynejg4l5o"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 09:16:25",
       "https://news.ycombinator.com/item?id=41728829"
     ],
@@ -191,52 +221,12 @@
   ],
   [
     [
-      "2024-10-02, 20:36:41",
-      "https://news.ycombinator.com/item?id=41724747"
-    ],
-    [
-      "In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains",
-      "https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 16:16:03",
-      "https://news.ycombinator.com/item?id=41722159"
-    ],
-    [
-      "An adult fruit fly brain has been mapped",
-      "https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 15:31:45",
-      "https://news.ycombinator.com/item?id=41721668"
-    ],
-    [
-      "The Fastest Mutexes",
-      "https://justine.lol/mutex/"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 09:39:09",
       "https://news.ycombinator.com/item?id=41718779"
     ],
     [
       "Modifications to GPU Hardware to Benefit Signed Distance Fields",
       "https://github.com/bryanmcnett/sdf_hardware"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 07:16:10",
-      "https://news.ycombinator.com/item?id=41718030"
-    ],
-    [
-      "AMD GPU Inference",
-      "https://github.com/slashml/amd_inference"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The forgotten story of Britain’s perilous bid to fly around the world",
       "https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 11:36:04",
+      "https://news.ycombinator.com/item?id=41679569"
+    ],
+    [
+      "Show HN: Bringing multithreading to Python's async event loop",
+      "https://github.com/NeilBotelho/turboAsync"
     ]
   ],
   [
