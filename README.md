@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
+* [2024-10-03, 18:45:36](https://news.ycombinator.com/item?id=41733625) - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 * [2024-10-03, 17:42:19](https://news.ycombinator.com/item?id=41732940) - [Two AI review your favourite movie scripts (NotebookLM)](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
@@ -27,9 +28,8 @@
 * [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
 * [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
-* [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 * [2024-09-29, 19:41:57](https://news.ycombinator.com/item?id=41689833) - [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)
-* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
+* [2024-09-29, 10:27:52](https://news.ycombinator.com/item?id=41686354) - [The forgotten story of Britain’s perilous bid to fly around the world](https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/)
 
 ## [Archives](archives/index.md)
 
