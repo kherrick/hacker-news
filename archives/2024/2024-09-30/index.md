@@ -86,6 +86,7 @@
 * [2024-09-30, 05:26:54](https://news.ycombinator.com/item?id=41693831) - [Vecint: Average Color](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
 * [2024-09-30, 04:59:12](https://news.ycombinator.com/item?id=41693699) - [Ping Storms at GreyNoise](https://darthnull.org/noisestorms/)
 * [2024-09-30, 04:16:49](https://news.ycombinator.com/item?id=41693513) - [Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
+* [2024-09-30, 04:07:27](https://news.ycombinator.com/item?id=41693462) - [Bronze Age cheese reveals human-Lactobacillus interactions over history](https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue)
 * [2024-09-30, 02:58:02](https://news.ycombinator.com/item?id=41693087) - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 * [2024-09-30, 02:40:44](https://news.ycombinator.com/item?id=41693001) - [US East and Gulf Coast Ports Face Shutdown as Union Announces Intent to Strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
 * [2024-09-30, 02:26:46](https://news.ycombinator.com/item?id=41692922) - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)

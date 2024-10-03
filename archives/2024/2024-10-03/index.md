@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 06:39:39](https://news.ycombinator.com/item?id=41727888) - [CEO of Wordpress.com Cries Foul and Threatens Me with Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
 * [2024-10-03, 05:30:38](https://news.ycombinator.com/item?id=41727621) - [Show HN: Flyon UI – Free Tailwind Components Library](https://flyonui.com/)
 * [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:20:28](https://news.ycombinator.com/item?id=41726724) - [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
