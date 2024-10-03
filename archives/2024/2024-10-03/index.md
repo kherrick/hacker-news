@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
+* [2024-10-03, 17:22:38](https://news.ycombinator.com/item?id=41732763) - [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 17:00:32](https://news.ycombinator.com/item?id=41732551) - [Activeloop (YC S18) Hiring an AI Search Engineer to Ship Fast and Accurate Search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
