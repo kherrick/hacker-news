@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
 * [2024-10-03, 14:23:28](https://news.ycombinator.com/item?id=41731088) - [LG Chem develops material capable of suppressing thermal runaway in batteries](https://www.ess-news.com/2024/10/01/lg-chem-develops-material-capable-of-suppressing-thermal-runaway-in-batteries/)
+* [2024-10-03, 14:15:09](https://news.ycombinator.com/item?id=41731018) - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
+* [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:30:16](https://news.ycombinator.com/item?id=41730626) - [Announcing FLUX1.1 [Pro] and the BFL API](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:10:53](https://news.ycombinator.com/item?id=41730453) - [A Single Cloud Compromise Can Feed an Army of AI Sex Bots](https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/)
