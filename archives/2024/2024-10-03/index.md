@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
+* [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 * [2024-10-03, 17:46:35](https://news.ycombinator.com/item?id=41732985) - [Mystery creator of Bitcoin identified, new HBO documentary claims](https://www.politico.eu/article/mystery-creator-bitcoin-identified-new-hbo-documentary-satoshi-nakamoto-crypto-currency/)
 * [2024-10-03, 17:42:19](https://news.ycombinator.com/item?id=41732940) - [Two AI review your favourite movie scripts (NotebookLM)](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
@@ -12,6 +14,7 @@
 * [2024-10-03, 17:22:38](https://news.ycombinator.com/item?id=41732763) - [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 17:00:32](https://news.ycombinator.com/item?id=41732551) - [Activeloop (YC S18) Hiring an AI Search Engineer to Ship Fast and Accurate Search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
+* [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
 * [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)

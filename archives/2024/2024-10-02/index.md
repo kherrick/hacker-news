@@ -12,6 +12,7 @@
 * [2024-10-02, 20:29:03](https://news.ycombinator.com/item?id=41724700) - [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html)
 * [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
 * [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
+* [2024-10-02, 17:57:13](https://news.ycombinator.com/item?id=41723315) - [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
