@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 21:00:23",
+      "https://news.ycombinator.com/item?id=41734946"
+    ],
+    [
+      "Mux (YC W16) is hiring a video engineer",
+      "https://www.mux.com/jobs?job=video"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 20:52:27",
+      "https://news.ycombinator.com/item?id=41734863"
+    ],
+    [
+      "Biggest solar flare since 2017 erupts from sun and Earth is in the firing line",
+      "https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 19:34:33",
       "https://news.ycombinator.com/item?id=41734119"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2024-10-03, 17:29:43",
-      "https://news.ycombinator.com/item?id=41732832"
-    ],
-    [
-      "The latter half of October, the maintainer goes offline",
-      "https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 17:07:23",
       "https://news.ycombinator.com/item?id=41732634"
     ],
     [
       "Canvas is a new way to write and code with ChatGPT",
       "https://openai.com/index/introducing-canvas/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 17:00:32",
-      "https://news.ycombinator.com/item?id=41732551"
-    ],
-    [
-      "Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search",
-      "https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-10-03, 02:17:02",
-      "https://news.ycombinator.com/item?id=41726698"
-    ],
-    [
-      "Gamma radiation is produced in large tropical thunderstorms",
-      "https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 17:57:13",
       "https://news.ycombinator.com/item?id=41723315"
     ],
@@ -297,6 +287,16 @@
     [
       "The forgotten story of Britain’s perilous bid to fly around the world",
       "https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 17:49:45",
+      "https://news.ycombinator.com/item?id=41681796"
+    ],
+    [
+      "A haze of inspiration",
+      "https://blog.gingerbeardman.com/2024/09/28/a-haze-of-inspiration/"
     ]
   ]
 ]
