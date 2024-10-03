@@ -81,6 +81,7 @@
 * [2024-09-30, 07:35:37](https://news.ycombinator.com/item?id=41694509) - [How to manage dangerous actions in user interfaces](https://www.smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/)
 * [2024-09-30, 07:35:01](https://news.ycombinator.com/item?id=41694504) - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
 * [2024-09-30, 06:56:07](https://news.ycombinator.com/item?id=41694283) - [The Arch Linux team is now working directly with Valve](https://www.tomshardware.com/software/linux/the-arch-linux-team-is-now-working-directly-with-valve-steamos-and-arch-should-both-benefit-greatly)
+* [2024-09-30, 06:31:48](https://news.ycombinator.com/item?id=41694154) - [Tengine: Open-source web server, originated by Taobao, based on Nginx](https://tengine.taobao.org/)
 * [2024-09-30, 06:18:47](https://news.ycombinator.com/item?id=41694080) - [Conflict-Free Replicated Data Types](https://crdt.tech/)
 * [2024-09-30, 06:09:53](https://news.ycombinator.com/item?id=41694044) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-09-30, 06:06:39](https://news.ycombinator.com/item?id=41694025) - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)

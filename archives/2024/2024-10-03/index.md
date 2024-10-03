@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 21:13:36](https://news.ycombinator.com/item?id=41735061) - [You Can't Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
 * [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in Public Beta](https://flawless.dev/docs/)
 * [2024-10-03, 21:05:55](https://news.ycombinator.com/item?id=41734991) - [A Statement from Automattic](https://automattic.com/2024/10/03/a-statement-from-automattic/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
@@ -28,6 +29,7 @@
 * [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
+* [2024-10-03, 15:34:56](https://news.ycombinator.com/item?id=41731720) - [Show HN: I made a super-simple image CDN](https://magecdn.com/)
 * [2024-10-03, 14:55:10](https://news.ycombinator.com/item?id=41731371) - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
 * [2024-10-03, 14:27:25](https://news.ycombinator.com/item?id=41731115) - [Show HN: Tiiny Color Palette Generator](https://www.tiinycolor.com/)
 * [2024-10-03, 14:23:28](https://news.ycombinator.com/item?id=41731088) - [LG Chem develops material capable of suppressing thermal runaway in batteries](https://www.ess-news.com/2024/10/01/lg-chem-develops-material-capable-of-suppressing-thermal-runaway-in-batteries/)
