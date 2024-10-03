@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 05:30:38](https://news.ycombinator.com/item?id=41727621) - [Show HN: Flyon UI – Free Tailwind Components Library](https://flyonui.com/)
 * [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 * [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
-* [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – Fault-tolerant async actors built on Tokio](https://github.com/tqwewe/kameo)
 * [2024-10-02, 17:56:42](https://news.ycombinator.com/item?id=41723311) - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
 * [2024-10-02, 17:54:58](https://news.ycombinator.com/item?id=41723288) - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 * [2024-10-02, 16:29:59](https://news.ycombinator.com/item?id=41722341) - [A subtle change to the iPhone’s contact-sharing permissions](https://www.nytimes.com/2024/10/02/technology/apple-social-apps-contacts-change.html)
