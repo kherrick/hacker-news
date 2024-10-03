@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-10-03, 07:35:34",
+      "https://news.ycombinator.com/item?id=41728173"
+    ],
+    [
+      "Employers Say Students Need AI Skills. What If Students Don't Want Them?",
+      "https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 06:50:35",
       "https://news.ycombinator.com/item?id=41727933"
     ],
     [
       "Why my apps will soon be gone from the Google Play Store",
       "https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 06:43:22",
-      "https://news.ycombinator.com/item?id=41727902"
-    ],
-    [
-      "Meta confirms it trains its AI on any image you ask Ray-Ban Meta AI to analyze",
-      "https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41727621"
     ],
     [
-      "Show HN: Flyon UI – Free Tailwind Components Library",
+      "Show HN: Flyon UI – Tailwind Components Library",
       "https://flyonui.com/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41726698"
     ],
     [
-      "Gamma radiation is produced in large tropical thunderstorms, observations reveal",
+      "Gamma radiation is produced in large tropical thunderstorms",
       "https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-10-02, 12:55:48",
-      "https://news.ycombinator.com/item?id=41720084"
-    ],
-    [
-      "Alert Evaluations: Incremental Merges in ClickHouse",
-      "https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 07:16:10",
       "https://news.ycombinator.com/item?id=41718030"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-09-29, 10:21:09",
-      "https://news.ycombinator.com/item?id=41686326"
+      "2024-09-28, 12:41:01",
+      "https://news.ycombinator.com/item?id=41679882"
     ],
     [
-      "Study: Cats in little crocheted hats shed light on feline chronic pain",
-      "https://arstechnica.com/science/2024/09/scientists-crocheted-tiny-hats-for-cats-to-record-eegs-of-brain-response-to-pain/"
+      "Show HN: RelayBeam – A new way of messaging using Ports",
+      "https://relaybeam.com/about"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 11:36:04",
+      "https://news.ycombinator.com/item?id=41679569"
+    ],
+    [
+      "Show HN: Bringing multithreading to Python's async event loop",
+      "https://github.com/NeilBotelho/turboAsync"
     ]
   ],
   [
