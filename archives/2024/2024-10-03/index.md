@@ -23,6 +23,7 @@
 * [2024-10-03, 17:46:35](https://news.ycombinator.com/item?id=41732985) - [Mystery creator of Bitcoin identified, new HBO documentary claims](https://www.politico.eu/article/mystery-creator-bitcoin-identified-new-hbo-documentary-satoshi-nakamoto-crypto-currency/)
 * [2024-10-03, 17:42:19](https://news.ycombinator.com/item?id=41732940) - [Two AI review your favourite movie scripts (NotebookLM)](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
+* [2024-10-03, 17:31:40](https://news.ycombinator.com/item?id=41732851) - [DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support](https://github.com/joncampbell123/dosbox-x)
 * [2024-10-03, 17:30:13](https://news.ycombinator.com/item?id=41732835) - [Alphabet and MSFT have committed to Flexible Work](https://news.ycombinator.com/item?id=41732835)
 * [2024-10-03, 17:29:43](https://news.ycombinator.com/item?id=41732832) - [The latter half of October, the maintainer goes offline](https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u)
 * [2024-10-03, 17:22:38](https://news.ycombinator.com/item?id=41732763) - [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)

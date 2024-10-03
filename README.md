@@ -14,6 +14,7 @@
 * [2024-10-03, 18:45:36](https://news.ycombinator.com/item?id=41733625) - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
+* [2024-10-03, 17:31:40](https://news.ycombinator.com/item?id=41732851) - [DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support](https://github.com/joncampbell123/dosbox-x)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
@@ -26,8 +27,7 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
-* [2024-10-02, 17:57:13](https://news.ycombinator.com/item?id=41723315) - [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)
-* [2024-10-02, 05:11:16](https://news.ycombinator.com/item?id=41717381) - [Tracking (C++) Shared Pointer Leaks](https://ibob.bg/blog/2023/01/01/tracking-shared-ptr-leaks/)
+* [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 06:31:48](https://news.ycombinator.com/item?id=41694154) - [Tengine: Open-source web server, originated by Taobao, based on Nginx](https://tengine.taobao.org/)
 
