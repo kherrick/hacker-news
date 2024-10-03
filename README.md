@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 01:21:36](https://news.ycombinator.com/item?id=41726452) - [Who Pays for the Arts?](https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
@@ -16,7 +17,6 @@
 * [2024-10-02, 15:01:08](https://news.ycombinator.com/item?id=41721318) - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
 * [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD GPU Inference](https://github.com/slashml/amd_inference)
-* [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
 * [2024-10-02, 00:00:06](https://news.ycombinator.com/item?id=41715774) - [Keynes on the influence of furniture on love](https://adamtooze.substack.com/p/chartbook-322-can-we-consume-our)
 * [2024-09-30, 19:52:46](https://news.ycombinator.com/item?id=41701339) - [The box problem that baffled the boffins](https://www.theguardian.com/science/2024/sep/30/did-you-solve-it-the-box-problem-that-baffled-the-boffins)
 * [2024-09-30, 11:11:15](https://news.ycombinator.com/item?id=41695807) - [Eliminating Intermediate Array Allocations](https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/)
