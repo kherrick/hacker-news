@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 21:09:21",
+      "https://news.ycombinator.com/item?id=41735019"
+    ],
+    [
+      "Flawless is now in Public Beta",
+      "https://flawless.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 21:05:55",
+      "https://news.ycombinator.com/item?id=41734991"
+    ],
+    [
+      "A Statement from Automattic",
+      "https://automattic.com/2024/10/03/a-statement-from-automattic/"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 21:00:23",
       "https://news.ycombinator.com/item?id=41734946"
     ],
@@ -227,26 +247,6 @@
     [
       "Identification of officer from Sir John franklin's Northwest Passage expedition",
       "https://www.sciencedirect.com/science/article/pii/S2352409X24003766"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 12:55:48",
-      "https://news.ycombinator.com/item?id=41720084"
-    ],
-    [
-      "Alert Evaluations: Incremental Merges in ClickHouse",
-      "https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 09:39:09",
-      "https://news.ycombinator.com/item?id=41718779"
-    ],
-    [
-      "Modifications to GPU Hardware to Benefit Signed Distance Fields",
-      "https://github.com/bryanmcnett/sdf_hardware"
     ]
   ],
   [
