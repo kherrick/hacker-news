@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 06:50:35](https://news.ycombinator.com/item?id=41727933) - [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
+* [2024-10-03, 06:43:22](https://news.ycombinator.com/item?id=41727902) - [Meta confirms it trains its AI on any image you ask Ray-Ban Meta AI to analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/)
 * [2024-10-03, 06:39:39](https://news.ycombinator.com/item?id=41727888) - [CEO of Wordpress.com Cries Foul and Threatens Me with Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
+* [2024-10-03, 06:10:56](https://news.ycombinator.com/item?id=41727776) - [Microsoft: 'ever present' AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
 * [2024-10-03, 05:30:38](https://news.ycombinator.com/item?id=41727621) - [Show HN: Flyon UI – Free Tailwind Components Library](https://flyonui.com/)
 * [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:20:28](https://news.ycombinator.com/item?id=41726724) - [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
