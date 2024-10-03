@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 01:25:58",
+      "https://news.ycombinator.com/item?id=41726471"
+    ],
+    [
+      "Palworld is bound for mobile, thanks to the maker of PUBG",
+      "https://www.engadget.com/gaming/palworld-is-bound-for-mobile-thanks-to-the-maker-of-pubg-141104110.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 00:29:05",
+      "https://news.ycombinator.com/item?id=41726197"
+    ],
+    [
+      "Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]",
+      "https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 21:03:15",
       "https://news.ycombinator.com/item?id=41724950"
     ],
@@ -27,26 +47,6 @@
     [
       "In Mexico’s underwater caves, a glimpse of artifacts, fossils and human remains",
       "https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 20:29:03",
-      "https://news.ycombinator.com/item?id=41724700"
-    ],
-    [
-      "How to train a model on 10k H100 GPUs?",
-      "https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 18:49:06",
-      "https://news.ycombinator.com/item?id=41723830"
-    ],
-    [
-      "TinyJS – Shorten JavaScript QuerySelect with $ and $$",
-      "https://github.com/victorqribeiro/TinyJS"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2024-10-01, 23:59:16",
-      "https://news.ycombinator.com/item?id=41715767"
+      "2024-10-01, 23:05:22",
+      "https://news.ycombinator.com/item?id=41715277"
     ],
     [
-      "The Soldiers' Philosopher",
-      "https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher"
+      "How CERN serves 1EB of data via FUSE [video]",
+      "https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Agentic patters from scratch using Groq",
       "https://github.com/neural-maze/agentic_patterns"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 09:24:15",
-      "https://news.ycombinator.com/item?id=41695158"
-    ],
-    [
-      "What Can a Coffee Machine Teach You About Python's Functions?",
-      "https://www.thepythoncodingstack.com/p/coffee-machine-python-function-analogy"
     ]
   ],
   [
@@ -241,22 +231,12 @@
   ],
   [
     [
-      "2024-09-30, 04:59:12",
-      "https://news.ycombinator.com/item?id=41693699"
+      "2024-09-30, 00:26:07",
+      "https://news.ycombinator.com/item?id=41692169"
     ],
     [
-      "Ping Storms at GreyNoise",
-      "https://darthnull.org/noisestorms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 01:45:47",
-      "https://news.ycombinator.com/item?id=41692666"
-    ],
-    [
-      "Solving 100 Bushels using Matrix Factorization",
-      "https://github.com/WinVector/Examples/blob/main/puzzles/100_bushels/100_bushels_matrix_solution.ipynb"
+      "Show HN: TurtleSpaces Web Logo – online 3D Logo implementation",
+      "https://turtlespaces.org/weblogo/"
     ]
   ],
   [
@@ -267,6 +247,16 @@
     [
       "Tracking the historical events that lead to the interweaving of knowledge (2021)",
       "https://cacm.acm.org/research/knowledge-graphs/"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 17:06:20",
+      "https://news.ycombinator.com/item?id=41688703"
+    ],
+    [
+      "In the land of LLMs, can we do better mock data generation?",
+      "https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Why TCP needs 3 handshakes",
       "https://www.pixelstech.net/article/1727412048-Why-TCP-needs-3-handshakes"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 12:41:01",
+      "https://news.ycombinator.com/item?id=41679882"
+    ],
+    [
+      "Show HN: RelayBeam – A new way of messaging using Ports",
+      "https://relaybeam.com/about"
     ]
   ],
   [
