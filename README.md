@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 01:21:36](https://news.ycombinator.com/item?id=41726452) - [Who Pays for the Arts?](https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
@@ -24,7 +25,6 @@
 * [2024-09-30, 08:22:12](https://news.ycombinator.com/item?id=41694767) - [A Tour of Hell – Shell scripting Haskell dialect](https://chrisdone.com/posts/tour-of-hell/)
 * [2024-09-30, 07:56:14](https://news.ycombinator.com/item?id=41694631) - [Hierarchical Navigable Small World: a scalable nearest neighbor search](https://github.com/brtholomy/hnsw/blob/master/README.md)
 * [2024-09-29, 21:42:35](https://news.ycombinator.com/item?id=41690939) - [Tracking the historical events that lead to the interweaving of knowledge (2021)](https://cacm.acm.org/research/knowledge-graphs/)
-* [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 16:46:49](https://news.ycombinator.com/item?id=41688568) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-29, 15:16:38](https://news.ycombinator.com/item?id=41687950) - [Salt Water Dimmers](https://en.wikipedia.org/wiki/Salt_water_dimmers)
 * [2024-09-29, 10:21:09](https://news.ycombinator.com/item?id=41686326) - [Study: Cats in little crocheted hats shed light on feline chronic pain](https://arstechnica.com/science/2024/09/scientists-crocheted-tiny-hats-for-cats-to-record-eegs-of-brain-response-to-pain/)

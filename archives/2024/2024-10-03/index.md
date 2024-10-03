@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:20:28](https://news.ycombinator.com/item?id=41726724) - [Watch as Tesla burns in flooded Florida garage days after Hurricane Helene](https://www.heraldtribune.com/story/weather/hurricane/2024/10/01/hurricane-helene-tesla-fire-breaks-out-in-flooded-florida-garage/75469839007/)
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms, observations reveal](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-03, 01:25:58](https://news.ycombinator.com/item?id=41726471) - [Palworld is bound for mobile, thanks to the maker of PUBG](https://www.engadget.com/gaming/palworld-is-bound-for-mobile-thanks-to-the-maker-of-pubg-141104110.html)
