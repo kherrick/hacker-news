@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:13:36](https://news.ycombinator.com/item?id=41735061) - [You Can't Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
-* [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in public beta](https://flawless.dev/docs/)
 * [2024-10-03, 21:06:06](https://news.ycombinator.com/item?id=41734993) - [Britain's last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
-* [2024-10-03, 21:05:55](https://news.ycombinator.com/item?id=41734991) - [Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/a-statement-from-automattic/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
+* [2024-10-03, 20:54:59](https://news.ycombinator.com/item?id=41734889) - [Opinion letter about Robert Roberson, about to be executed in Texas](https://shakenbaby.science/roberson.html)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
@@ -17,7 +17,6 @@
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
-* [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 15:34:56](https://news.ycombinator.com/item?id=41731720) - [Show HN: I made a super-simple image CDN](https://magecdn.com/)
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]](https://arxiv.org/abs/2410.00531)
@@ -29,6 +28,7 @@
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
 * [2024-10-02, 17:57:13](https://news.ycombinator.com/item?id=41723315) - [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)
 * [2024-10-02, 05:11:16](https://news.ycombinator.com/item?id=41717381) - [Tracking (C++) Shared Pointer Leaks](https://ibob.bg/blog/2023/01/01/tracking-shared-ptr-leaks/)
+* [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 06:31:48](https://news.ycombinator.com/item?id=41694154) - [Tengine: Open-source web server, originated by Taobao, based on Nginx](https://tengine.taobao.org/)
 
 ## [Archives](archives/index.md)
