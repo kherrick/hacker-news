@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 22:43:00](https://news.ycombinator.com/item?id=41735869) - [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
 * [2024-10-03, 22:16:54](https://news.ycombinator.com/item?id=41735665) - [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:13:36](https://news.ycombinator.com/item?id=41735061) - [You Can't Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
@@ -27,7 +28,6 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
-* [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 06:31:48](https://news.ycombinator.com/item?id=41694154) - [Tengine: Open-source web server, originated by Taobao, based on Nginx](https://tengine.taobao.org/)
 
