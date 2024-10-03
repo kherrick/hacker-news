@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
 * [2024-10-03, 07:35:34](https://news.ycombinator.com/item?id=41728173) - [Employers Say Students Need AI Skills. What If Students Don't Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
+* [2024-10-03, 07:04:01](https://news.ycombinator.com/item?id=41728001) - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
+* [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-03, 06:50:35](https://news.ycombinator.com/item?id=41727933) - [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
 * [2024-10-03, 06:43:22](https://news.ycombinator.com/item?id=41727902) - [Meta confirms it trains its AI on any image you ask Ray-Ban Meta AI to analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/)
 * [2024-10-03, 06:39:39](https://news.ycombinator.com/item?id=41727888) - [CEO of Wordpress.com Cries Foul and Threatens Me with Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
