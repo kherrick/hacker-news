@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 23:38:21](https://news.ycombinator.com/item?id=41736215) - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
 * [2024-10-03, 22:43:00](https://news.ycombinator.com/item?id=41735869) - [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
 * [2024-10-03, 22:16:54](https://news.ycombinator.com/item?id=41735665) - [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
+* [2024-10-03, 21:34:14](https://news.ycombinator.com/item?id=41735257) - [Skymont: Intel's E-Cores reach for the Sky](https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/)
 * [2024-10-03, 21:13:36](https://news.ycombinator.com/item?id=41735061) - [You Can't Opt-Out of A.I. Online](https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online)
 * [2024-10-03, 21:09:21](https://news.ycombinator.com/item?id=41735019) - [Flawless is now in Public Beta](https://flawless.dev/docs/)
 * [2024-10-03, 21:06:06](https://news.ycombinator.com/item?id=41734993) - [Britain's last coal-fired power plant shuts down](https://www.theguardian.com/business/2024/sep/30/end-of-an-era-as-britains-last-coal-fired-power-plant-shuts-down)
