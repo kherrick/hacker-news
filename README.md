@@ -18,7 +18,7 @@
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
 * [2024-10-03, 17:31:40](https://news.ycombinator.com/item?id=41732851) - [DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support](https://github.com/joncampbell123/dosbox-x)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
-* [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
+* [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 15:34:56](https://news.ycombinator.com/item?id=41731720) - [Show HN: I made a super-simple image CDN](https://magecdn.com/)
