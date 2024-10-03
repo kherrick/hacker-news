@@ -27,7 +27,7 @@
 * [2024-09-29, 16:46:49](https://news.ycombinator.com/item?id=41688568) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-29, 15:16:38](https://news.ycombinator.com/item?id=41687950) - [Salt Water Dimmers](https://en.wikipedia.org/wiki/Salt_water_dimmers)
 * [2024-09-28, 11:36:04](https://news.ycombinator.com/item?id=41679569) - [Show HN: Bringing multithreading to Python's async event loop](https://github.com/NeilBotelho/turboAsync)
-* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf]](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
+* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
 * [2024-09-27, 20:07:11](https://news.ycombinator.com/item?id=41675030) - [Penguin Tutorial: How Tux was created on a 486 DX2](https://isc.tamu.edu/~lewing/linux/notes.html)
 * [2024-09-27, 17:27:16](https://news.ycombinator.com/item?id=41673295) - [Hash Ordering and Hyrum's Law](https://eaftan.github.io/hash-ordering/)
 
