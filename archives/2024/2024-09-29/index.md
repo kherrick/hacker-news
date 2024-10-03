@@ -68,6 +68,7 @@
 * [2024-09-29, 11:54:55](https://news.ycombinator.com/item?id=41686715) - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 * [2024-09-29, 11:25:52](https://news.ycombinator.com/item?id=41686598) - [How Dwarf Works](https://calabro.io/dwarf)
 * [2024-09-29, 11:22:54](https://news.ycombinator.com/item?id=41686582) - [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
+* [2024-09-29, 10:21:09](https://news.ycombinator.com/item?id=41686326) - [Study: Cats in little crocheted hats shed light on feline chronic pain](https://arstechnica.com/science/2024/09/scientists-crocheted-tiny-hats-for-cats-to-record-eegs-of-brain-response-to-pain/)
 * [2024-09-29, 09:37:00](https://news.ycombinator.com/item?id=41686107) - [The world knows Wim Hof as \"The Iceman\", his family suffered domestic violence](https://www.volkskrant.nl/kijkverder/v/2024/the-outside-world-knows-wim-hof-as-the-eccentric-iceman-his-family-suffered-domestic-violence~v1176564/)
 * [2024-09-29, 08:59:03](https://news.ycombinator.com/item?id=41685917) - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
 * [2024-09-29, 08:35:40](https://news.ycombinator.com/item?id=41685824) - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
