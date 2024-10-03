@@ -45,6 +45,7 @@
 * [2024-09-30, 16:07:23](https://news.ycombinator.com/item?id=41698775) - [macOS Sequoia is certified to Unix 03](https://www.opengroup.org/openbrand/register/)
 * [2024-09-30, 16:00:17](https://news.ycombinator.com/item?id=41698686) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:49:17](https://news.ycombinator.com/item?id=41698551) - [Dikembe Mutombo has died at age 58](https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html)
+* [2024-09-30, 15:35:38](https://news.ycombinator.com/item?id=41698385) - [Code Generation in Rust vs. C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 15:33:30](https://news.ycombinator.com/item?id=41698361) - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
 * [2024-09-30, 14:34:48](https://news.ycombinator.com/item?id=41697588) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
