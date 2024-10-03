@@ -51,6 +51,7 @@
 * [2024-09-29, 15:29:57](https://news.ycombinator.com/item?id=41688033) - [A \"hello world\" program in machine code on DOS](https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html)
 * [2024-09-29, 15:27:57](https://news.ycombinator.com/item?id=41688019) - [Solving 100 Bushels Using Matrix Factorization](https://win-vector.com/2024/09/29/solving-100-bushels-using-matrix-factorization/)
 * [2024-09-29, 15:27:54](https://news.ycombinator.com/item?id=41688018) - [Sitina1 Open-Source Camera](https://gitlab.com/zephray/sitina1)
+* [2024-09-29, 15:16:38](https://news.ycombinator.com/item?id=41687950) - [Salt Water Dimmers](https://en.wikipedia.org/wiki/Salt_water_dimmers)
 * [2024-09-29, 15:05:19](https://news.ycombinator.com/item?id=41687878) - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
 * [2024-09-29, 15:04:34](https://news.ycombinator.com/item?id=41687874) - [Quandoom: A port of DOOM for a quantum computer](https://github.com/Lumorti/Quandoom)
 * [2024-09-29, 14:42:07](https://news.ycombinator.com/item?id=41687739) - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
