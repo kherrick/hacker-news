@@ -11,7 +11,6 @@
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
 * [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
-* [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:53:47](https://news.ycombinator.com/item?id=41730822) - [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
@@ -30,6 +29,7 @@
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-29, 19:41:57](https://news.ycombinator.com/item?id=41689833) - [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)
 * [2024-09-29, 10:27:52](https://news.ycombinator.com/item?id=41686354) - [The forgotten story of Britain’s perilous bid to fly around the world](https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/)
+* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
 
 ## [Archives](archives/index.md)
 
