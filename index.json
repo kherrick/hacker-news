@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 18:48:26",
+      "https://news.ycombinator.com/item?id=41733659"
+    ],
+    [
+      "Improving Accessibility Using Vision Models",
+      "https://myswamp.substack.com/p/improving-accessibility-using-vision"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 17:52:39",
+      "https://news.ycombinator.com/item?id=41733045"
+    ],
+    [
+      "Discussing the Neptunian desert, savanna, and ridge",
+      "https://mathstodon.xyz/@johncarlosbaez/113244612199214496"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 17:42:19",
       "https://news.ycombinator.com/item?id=41732940"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2024-10-03, 17:22:38",
-      "https://news.ycombinator.com/item?id=41732763"
-    ],
-    [
-      "Most gamers prefer single-player games",
-      "https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 17:07:23",
       "https://news.ycombinator.com/item?id=41732634"
     ],
@@ -57,6 +67,16 @@
     [
       "Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search",
       "https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 16:45:05",
+      "https://news.ycombinator.com/item?id=41732415"
+    ],
+    [
+      "I Solve Problems (talk at EuroBSDCon 2024)",
+      "https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "NSO Should Lose Spyware Case for Discovery Violations, Meta Says",
       "https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 14:27:25",
-      "https://news.ycombinator.com/item?id=41731115"
-    ],
-    [
-      "Show HN: Tiiny Color Palette Generator",
-      "https://www.tiinycolor.com/"
     ]
   ],
   [
@@ -211,12 +221,32 @@
   ],
   [
     [
-      "2024-10-03, 01:21:36",
-      "https://news.ycombinator.com/item?id=41726452"
+      "2024-10-02, 20:50:06",
+      "https://news.ycombinator.com/item?id=41724849"
     ],
     [
-      "Who Pays for the Arts?",
-      "https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/"
+      "William Cowper and the Age of the Earth [pdf] (2019)",
+      "https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 17:57:13",
+      "https://news.ycombinator.com/item?id=41723315"
+    ],
+    [
+      "Identification of officer from Sir John franklin's Northwest Passage expedition",
+      "https://www.sciencedirect.com/science/article/pii/S2352409X24003766"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 12:55:48",
+      "https://news.ycombinator.com/item?id=41720084"
+    ],
+    [
+      "Alert Evaluations: Incremental Merges in ClickHouse",
+      "https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse"
     ]
   ],
   [
@@ -227,16 +257,6 @@
     [
       "Modifications to GPU Hardware to Benefit Signed Distance Fields",
       "https://github.com/bryanmcnett/sdf_hardware"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 04:32:03",
-      "https://news.ycombinator.com/item?id=41704621"
-    ],
-    [
-      "Nuance and Nuisance: On the Village Voice",
-      "https://harpers.org/archive/2024/10/nuance-and-nuisance-ed-park-village-voice/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-09-30, 04:07:27",
-      "https://news.ycombinator.com/item?id=41693462"
+      "2024-09-29, 19:41:57",
+      "https://news.ycombinator.com/item?id=41689833"
     ],
     [
-      "Bronze Age cheese reveals human-Lactobacillus interactions over history",
-      "https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 10:27:52",
-      "https://news.ycombinator.com/item?id=41686354"
-    ],
-    [
-      "The forgotten story of Britain’s perilous bid to fly around the world",
-      "https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 11:36:04",
-      "https://news.ycombinator.com/item?id=41679569"
-    ],
-    [
-      "Show HN: Bringing multithreading to Python's async event loop",
-      "https://github.com/NeilBotelho/turboAsync"
+      "Earth's ambipolar electrostatic field and its role in ion escape to space",
+      "https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D"
     ]
   ],
   [
