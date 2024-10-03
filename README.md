@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 13:30:16](https://news.ycombinator.com/item?id=41730626) - [Announcing FLUX1.1 [Pro] and the BFL API](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
@@ -8,10 +9,9 @@
 * [2024-10-03, 11:18:17](https://news.ycombinator.com/item?id=41729526) - [Ask HN: What happens to \".io\" TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
 * [2024-10-03, 09:16:25](https://news.ycombinator.com/item?id=41728829) - [France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
-* [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+* [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-03, 03:08:57](https://news.ycombinator.com/item?id=41727005) - [Solving the Maker-Taker Problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
-* [2024-10-03, 01:58:24](https://news.ycombinator.com/item?id=41726603) - [OpenAI and Anthropic Revenue Breakdown](https://www.tanayj.com/p/openai-and-anthropic-revenue-breakdown)
 * [2024-10-03, 01:21:36](https://news.ycombinator.com/item?id=41726452) - [Who Pays for the Arts?](https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/)
 * [2024-10-03, 00:29:05](https://news.ycombinator.com/item?id=41726197) - [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf)
 * [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)

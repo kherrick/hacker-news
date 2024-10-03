@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 13:30:16](https://news.ycombinator.com/item?id=41730626) - [Announcing FLUX1.1 [Pro] and the BFL API](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/)
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
