@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 17:00:32](https://news.ycombinator.com/item?id=41732551) - [Activeloop (YC S18) Hiring an AI Search Engineer to Ship Fast and Accurate Search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
 * [2024-10-03, 14:55:10](https://news.ycombinator.com/item?id=41731371) - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
