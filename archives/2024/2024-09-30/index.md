@@ -16,6 +16,7 @@
 * [2024-09-30, 20:28:41](https://news.ycombinator.com/item?id=41701733) - [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
 * [2024-09-30, 19:58:34](https://news.ycombinator.com/item?id=41701398) - [Mazda's $10 Subscription for Remote Start Sparks Backlash](https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/)
+* [2024-09-30, 19:52:46](https://news.ycombinator.com/item?id=41701339) - [The box problem that baffled the boffins](https://www.theguardian.com/science/2024/sep/30/did-you-solve-it-the-box-problem-that-baffled-the-boffins)
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)
 * [2024-09-30, 19:41:50](https://news.ycombinator.com/item?id=41701219) - [Pooltool: General purpose billiards simulator for science and engineering](https://github.com/ekiefl/pooltool)
 * [2024-09-30, 19:36:54](https://news.ycombinator.com/item?id=41701156) - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)

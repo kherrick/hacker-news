@@ -6,6 +6,7 @@
 
 * [2024-10-02, 22:34:38](https://news.ycombinator.com/item?id=41725558) - [Show HN: End-to-End Encrypted Dead Man's Switch](https://www.cipherwill.com/)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
+* [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [Divers in Mexico's Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 20:29:03](https://news.ycombinator.com/item?id=41724700) - [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html)
@@ -16,6 +17,7 @@
 * [2024-10-02, 17:04:48](https://news.ycombinator.com/item?id=41722742) - [OpenAI Completes Deal That Values Company at $157B](https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html)
 * [2024-10-02, 17:00:07](https://news.ycombinator.com/item?id=41722698) - [Distro (YC S24) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer)
 * [2024-10-02, 16:45:32](https://news.ycombinator.com/item?id=41722532) - [MM1.5: Methods, Analysis and Insights from Multimodal LLM Fine-Tuning](https://arxiv.org/abs/2409.20566)
+* [2024-10-02, 16:29:59](https://news.ycombinator.com/item?id=41722341) - [A subtle change to the iPhone’s contact-sharing permissions](https://www.nytimes.com/2024/10/02/technology/apple-social-apps-contacts-change.html)
 * [2024-10-02, 16:16:03](https://news.ycombinator.com/item?id=41722159) - [An adult fruit fly brain has been mapped, human brains could follow](https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow)
 * [2024-10-02, 15:31:45](https://news.ycombinator.com/item?id=41721668) - [The Fastest Mutexes](https://justine.lol/mutex/)
 * [2024-10-02, 15:28:08](https://news.ycombinator.com/item?id=41721624) - [Ryujinx – Nintendo Switch Emulator archive site](https://ryujinx-emulator.com/)
@@ -28,6 +30,7 @@
 * [2024-10-02, 14:20:03](https://news.ycombinator.com/item?id=41720938) - [You can now download over 33,000 sound effects from the BBC archive](https://djmag.com/news/you-can-now-download-over-33000-sound-effects-bbc-archive)
 * [2024-10-02, 14:19:34](https://news.ycombinator.com/item?id=41720936) - [Snapdragon Dev Kit for Windows – the fastest X Elite, tested](https://www.jeffgeerling.com/blog/2024/snapdragon-dev-kit-windows-fastest-x-elite-tested)
 * [2024-10-02, 13:52:29](https://news.ycombinator.com/item?id=41720685) - [Famous AI Artist Says He's Losing Millions from People Stealing His Work](https://gizmodo.com/famous-ai-artist-says-hes-losing-millions-of-dollars-from-people-stealing-his-work-2000505822)
+* [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
 * [2024-10-02, 12:41:25](https://news.ycombinator.com/item?id=41719949) - [Airborne plastic levels shock researchers (chronic DEHP/DiNP/DEHT exposure)](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
 * [2024-10-02, 12:16:02](https://news.ycombinator.com/item?id=41719764) - [Yoshua Bengio: Humanity faces a 'catastrophic' future if we don't regulate AI](https://www.livescience.com/technology/artificial-intelligence/people-always-say-these-risks-are-science-fiction-but-they-re-not-godfather-of-ai-yoshua-bengio-on-the-risks-of-machine-intelligence-to-humanity)
 * [2024-10-02, 12:08:52](https://news.ycombinator.com/item?id=41719702) - [Every Scientific Field](https://xkcd.com/2986/)
