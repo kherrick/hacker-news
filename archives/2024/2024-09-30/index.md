@@ -26,6 +26,7 @@
 * [2024-09-30, 19:18:19](https://news.ycombinator.com/item?id=41700936) - [Farewell to the car CD player, source of weirdly deep musical fandoms](https://www.theguardian.com/music/2024/sep/30/farewell-to-the-car-cd-player-source-of-weirdly-deep-musical-fandoms)
 * [2024-09-30, 19:07:12](https://news.ycombinator.com/item?id=41700804) - [What's a Brain?](https://clairelevans.substack.com/p/whats-a-brain)
 * [2024-09-30, 19:03:41](https://news.ycombinator.com/item?id=41700766) - [Burning and Playing PS2 Games Without a Modded Console](https://btxx.org/posts/ps2-games/)
+* [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 18:42:09](https://news.ycombinator.com/item?id=41700517) - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
 * [2024-09-30, 18:42:03](https://news.ycombinator.com/item?id=41700516) - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
 * [2024-09-30, 18:40:45](https://news.ycombinator.com/item?id=41700504) - [Paperless-ngx: scan, index and archive all your physical documents](https://github.com/paperless-ngx/paperless-ngx)
