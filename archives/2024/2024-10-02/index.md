@@ -52,6 +52,7 @@
 * [2024-10-02, 06:57:44](https://news.ycombinator.com/item?id=41717913) - [Intel Core 13th and 14th Gen Desktop Instability Root Cause Update](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239)
 * [2024-10-02, 06:49:36](https://news.ycombinator.com/item?id=41717869) - [Show HN: Teletxt (Vercel App)](https://news.ycombinator.com/item?id=41717869)
 * [2024-10-02, 05:31:32](https://news.ycombinator.com/item?id=41717466) - [Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
+* [2024-10-02, 05:11:16](https://news.ycombinator.com/item?id=41717381) - [Tracking (C++) Shared Pointer Leaks](https://ibob.bg/blog/2023/01/01/tracking-shared-ptr-leaks/)
 * [2024-10-02, 04:45:56](https://news.ycombinator.com/item?id=41717268) - [Putting the \"Person\" in \"Personal Website\"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 04:27:20](https://news.ycombinator.com/item?id=41717174) - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 04:06:17](https://news.ycombinator.com/item?id=41717050) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
