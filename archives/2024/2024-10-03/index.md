@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
 * [2024-10-03, 18:45:36](https://news.ycombinator.com/item?id=41733625) - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
@@ -19,6 +20,7 @@
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
 * [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
+* [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 14:55:10](https://news.ycombinator.com/item?id=41731371) - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
 * [2024-10-03, 14:27:25](https://news.ycombinator.com/item?id=41731115) - [Show HN: Tiiny Color Palette Generator](https://www.tiinycolor.com/)
 * [2024-10-03, 14:23:28](https://news.ycombinator.com/item?id=41731088) - [LG Chem develops material capable of suppressing thermal runaway in batteries](https://www.ess-news.com/2024/10/01/lg-chem-develops-material-capable-of-suppressing-thermal-runaway-in-batteries/)
