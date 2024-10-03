@@ -6,6 +6,7 @@
 * [2024-10-03, 17:42:19](https://news.ycombinator.com/item?id=41732940) - [Two AI review your favourite movie scripts (NotebookLM)](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
 * [2024-10-03, 17:29:43](https://news.ycombinator.com/item?id=41732832) - [The latter half of October, the maintainer goes offline](https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u)
+* [2024-10-03, 17:22:38](https://news.ycombinator.com/item?id=41732763) - [Most gamers prefer single-player games](https://www.midiaresearch.com/blog/most-gamers-prefer-single-player-games)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 17:00:32](https://news.ycombinator.com/item?id=41732551) - [Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
@@ -29,7 +30,6 @@
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-29, 19:41:57](https://news.ycombinator.com/item?id=41689833) - [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)
 * [2024-09-29, 10:27:52](https://news.ycombinator.com/item?id=41686354) - [The forgotten story of Britain’s perilous bid to fly around the world](https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/)
-* [2024-09-27, 22:53:19](https://news.ycombinator.com/item?id=41676309) - [A Commentary on the Sixth Edition of the Unix Operating System [pdf] (1977)](http://www.lemis.com/grog/Documentation/Lions/book.pdf)
 
 ## [Archives](archives/index.md)
 
