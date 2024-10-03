@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-10-03, 19:34:33",
+      "https://news.ycombinator.com/item?id=41734119"
+    ],
+    [
+      "US Dept of Energy announces $1.5B in electric grid improvements",
+      "https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 19:25:41",
       "https://news.ycombinator.com/item?id=41734047"
     ],
     [
       "The Heart of Unix (2018)",
       "https://ericnormand.me/article/the-heart-of-unix"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 19:25:25",
+      "https://news.ycombinator.com/item?id=41734046"
+    ],
+    [
+      "Google Says It Won't Follow Amazon's Lead with a Return-to-Office Mandate",
+      "https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 18:53:35",
+      "https://news.ycombinator.com/item?id=41733714"
+    ],
+    [
+      "HTTrack Website Copier",
+      "https://github.com/xroche/httrack"
     ]
   ],
   [
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2024-10-03, 08:07:24",
-      "https://news.ycombinator.com/item?id=41728369"
-    ],
-    [
-      "Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis",
-      "https://half-potato.gitlab.io/posts/ever/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 06:58:03",
-      "https://news.ycombinator.com/item?id=41727971"
-    ],
-    [
-      "Terminal colours are tricky",
-      "https://jvns.ca/blog/2024/10/01/terminal-colours/"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 02:17:02",
       "https://news.ycombinator.com/item?id=41726698"
     ],
     [
       "Gamma radiation is produced in large tropical thunderstorms",
       "https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 20:50:06",
-      "https://news.ycombinator.com/item?id=41724849"
-    ],
-    [
-      "William Cowper and the Age of the Earth [pdf] (2019)",
-      "https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-10-02, 12:55:48",
-      "https://news.ycombinator.com/item?id=41720084"
-    ],
-    [
-      "Alert Evaluations: Incremental Merges in ClickHouse",
-      "https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 09:39:09",
       "https://news.ycombinator.com/item?id=41718779"
     ],
     [
       "Modifications to GPU Hardware to Benefit Signed Distance Fields",
       "https://github.com/bryanmcnett/sdf_hardware"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 05:11:16",
+      "https://news.ycombinator.com/item?id=41717381"
+    ],
+    [
+      "Tracking (C++) Shared Pointer Leaks",
+      "https://ibob.bg/blog/2023/01/01/tracking-shared-ptr-leaks/"
     ]
   ],
   [
