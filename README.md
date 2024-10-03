@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
+* [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
 * [2024-10-03, 19:25:25](https://news.ycombinator.com/item?id=41734046) - [Google Says It Won't Follow Amazon's Lead with a Return-to-Office Mandate](https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683)
@@ -8,9 +10,7 @@
 * [2024-10-03, 18:45:36](https://news.ycombinator.com/item?id=41733625) - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
-* [2024-10-03, 17:29:43](https://news.ycombinator.com/item?id=41732832) - [The latter half of October, the maintainer goes offline](https://lore.kernel.org/git/xmqqh69thzd0.fsf@gitster.g/T/#u)
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
-* [2024-10-03, 17:00:32](https://news.ycombinator.com/item?id=41732551) - [Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer)
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [I Solve Problems (talk at EuroBSDCon 2024)](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 16:42:03](https://news.ycombinator.com/item?id=41732381) - [What Kind of Writer Is ChatGPT?](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt)
 * [2024-10-03, 16:37:54](https://news.ycombinator.com/item?id=41732335) - [Starlink offering free internet access for 30 days for Hurricane Helene victims](https://www.starlink.com/support/article/58126733-e4d2-db62-b919-9da261a4e096)
@@ -22,7 +22,6 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
-* [2024-10-03, 02:17:02](https://news.ycombinator.com/item?id=41726698) - [Gamma radiation is produced in large tropical thunderstorms](https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html)
 * [2024-10-02, 17:57:13](https://news.ycombinator.com/item?id=41723315) - [Identification of officer from Sir John franklin's Northwest Passage expedition](https://www.sciencedirect.com/science/article/pii/S2352409X24003766)
 * [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
 * [2024-10-02, 09:39:09](https://news.ycombinator.com/item?id=41718779) - [Modifications to GPU Hardware to Benefit Signed Distance Fields](https://github.com/bryanmcnett/sdf_hardware)
@@ -30,6 +29,7 @@
 * [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-29, 19:41:57](https://news.ycombinator.com/item?id=41689833) - [Earth's ambipolar electrostatic field and its role in ion escape to space](https://www.nature.com/articles/s41586-024-07480-3.epdf?sharing_token=I_iijIlqb3HMon5ISI-xBdRgN0jAjWel9jnR3ZoTv0Nyrlc02oJzExWUuDgAFVXFWQm-5tl5ZQFVbDbaRGPu8BS5_R9K9Au1gs-SKWxRrjMbJ2eV5VK-jFk3v5NbIHray3_BN5_uObULF-IXEID0EETe47O4K1uAgQiM7aC8d4E%3D)
 * [2024-09-29, 10:27:52](https://news.ycombinator.com/item?id=41686354) - [The forgotten story of Britain’s perilous bid to fly around the world](https://www.telegraph.co.uk/travel/forgotten-Britain-bid-fly-around-world/)
+* [2024-09-28, 17:49:45](https://news.ycombinator.com/item?id=41681796) - [A haze of inspiration](https://blog.gingerbeardman.com/2024/09/28/a-haze-of-inspiration/)
 
 ## [Archives](archives/index.md)
 
