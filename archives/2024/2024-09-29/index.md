@@ -42,6 +42,7 @@
 * [2024-09-29, 17:06:20](https://news.ycombinator.com/item?id=41688703) - [In the land of LLMs, can we do better mock data generation?](https://neurelo.substack.com/p/in-the-land-of-llms-can-we-do-better)
 * [2024-09-29, 17:01:32](https://news.ycombinator.com/item?id=41688663) - [Mindustry: Automation Tower Defense RTS with Deep Strategy and Modding](https://github.com/Anuken/Mindustry)
 * [2024-09-29, 17:01:08](https://news.ycombinator.com/item?id=41688660) - [Infisical (YC W23) Is Hiring Developers Who Love Writing](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer)
+* [2024-09-29, 16:46:49](https://news.ycombinator.com/item?id=41688568) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-29, 16:44:02](https://news.ycombinator.com/item?id=41688557) - [A stalled Waymo brought Kamala Harris' motorcade to a halt in SF](https://sfstandard.com/2024/09/28/waymo-halts-kamala-harris-san-francisco-motorcade/)
 * [2024-09-29, 16:35:14](https://news.ycombinator.com/item?id=41688499) - [Porting OpenVMS to the Itanium Processor Family (2003)[pdf]](https://de.openvms.org/TUD2004/Itanium.PDF)
 * [2024-09-29, 16:29:36](https://news.ycombinator.com/item?id=41688469) - [Map with public fruit trees](https://mundraub.org/map)
