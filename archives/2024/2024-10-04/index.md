@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
+* [2024-10-04, 19:43:13](https://news.ycombinator.com/item?id=41744915) - [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
 * [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 * [2024-10-04, 18:06:02](https://news.ycombinator.com/item?id=41743971) - [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 * [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
