@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
 * [2024-10-04, 07:03:44](https://news.ycombinator.com/item?id=41738603) - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
+* [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 * [2024-10-04, 06:07:53](https://news.ycombinator.com/item?id=41738324) - [I got everything off the cloud: I'm now paying 10x LESS money](https://twitter.com/rameerez/status/1841451179609370748)
 * [2024-10-04, 05:54:21](https://news.ycombinator.com/item?id=41738254) - [When Dark Mode for YN?](https://news.ycombinator.com/item?id=41738254)
 * [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-04, 07:03:44](https://news.ycombinator.com/item?id=41738603) - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
-* [2024-10-04, 06:07:53](https://news.ycombinator.com/item?id=41738324) - [I got everything off the cloud: I'm now paying 10x LESS money](https://twitter.com/rameerez/status/1841451179609370748)
+* [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
