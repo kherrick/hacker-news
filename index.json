@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-04, 23:02:58",
-      "https://news.ycombinator.com/item?id=41746320"
-    ],
-    [
-      "The Depopulation Bomb Isn't Ticking, It's Overblown",
-      "https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 22:51:01",
       "https://news.ycombinator.com/item?id=41746241"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41746180"
     ],
     [
-      "Don't Squander Public Trust on Bullshit",
+      "Don't squander public trust on bullshit",
       "https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41743327"
     ],
     [
-      "Show HN: open source framework OpenAI uses for Advanced Voice",
+      "Show HN: Open source framework OpenAI uses for Advanced Voice",
       "https://github.com/livekit/agents"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Experimental web browser optimized for rabbit-holing",
       "https://szymonkaliski.com/projects/cartographist/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 05:09:35",
+      "https://news.ycombinator.com/item?id=41738022"
+    ],
+    [
+      "Depth Pro: Sharp monocular metric depth in less than a second",
+      "https://github.com/apple/ml-depth-pro"
     ]
   ],
   [
