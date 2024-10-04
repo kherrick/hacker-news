@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 22:05:20](https://news.ycombinator.com/item?id=41745959) - [Rust in Linux Is a Failed Experiment](https://techrights.org/n/2024/09/28/Linus_Torvalds_His_Employers_and_Critics_of_His_Employers_Can_A.shtml)
 * [2024-10-04, 21:38:18](https://news.ycombinator.com/item?id=41745810) - [The Wild Story of How I Made $1,036,175 in 67 Days During Covid](https://www.marshallhaas.com/post/the-wild-story-of-how-i-made-1-036-175-in-67-days-during-covid)
 * [2024-10-04, 21:27:27](https://news.ycombinator.com/item?id=41745750) - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
+* [2024-10-04, 21:04:58](https://news.ycombinator.com/item?id=41745569) - [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 * [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 * [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
@@ -13,6 +15,7 @@
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 19:43:13](https://news.ycombinator.com/item?id=41744915) - [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
 * [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
+* [2024-10-04, 18:52:46](https://news.ycombinator.com/item?id=41744434) - [Mitmproxy 11: Full HTTP/3 Support](https://mitmproxy.org/posts/releases/mitmproxy-11/)
 * [2024-10-04, 18:06:02](https://news.ycombinator.com/item?id=41743971) - [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 * [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
