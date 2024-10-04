@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
+* [2024-10-04, 12:02:27](https://news.ycombinator.com/item?id=41740519) - [Their Uber Driver Crashed. A Pizza Order Unraveled Their Injury Lawsuit](https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html)
+* [2024-10-04, 12:00:03](https://news.ycombinator.com/item?id=41740497) - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
 * [2024-10-04, 10:54:53](https://news.ycombinator.com/item?id=41740100) - [OpenFLUX.1](https://huggingface.co/ostris/OpenFLUX.1)
 * [2024-10-04, 10:51:42](https://news.ycombinator.com/item?id=41740084) - [France's 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
 * [2024-10-04, 10:02:08](https://news.ycombinator.com/item?id=41739780) - [Jerry Seinfeld, Social Anxiety, and Meditation](https://camhashemi.com/posts/meditation/)
 * [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
+* [2024-10-04, 09:36:20](https://news.ycombinator.com/item?id=41739578) - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)
 * [2024-10-04, 08:24:45](https://news.ycombinator.com/item?id=41739108) - [\"When evacuating, shoot at the server room\"](https://old.reddit.com/r/UkraineRussiaReport/comments/1fvtb6x/ru_pov_when_evacuating_shoot_at_the_server_room/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 07:03:44](https://news.ycombinator.com/item?id=41738603) - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
