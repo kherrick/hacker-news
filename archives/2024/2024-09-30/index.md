@@ -17,6 +17,7 @@
 * [2024-09-30, 20:37:47](https://news.ycombinator.com/item?id=41701820) - ['Doomsday' glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
 * [2024-09-30, 20:28:41](https://news.ycombinator.com/item?id=41701733) - [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)
 * [2024-09-30, 20:20:10](https://news.ycombinator.com/item?id=41701644) - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
+* [2024-09-30, 20:12:27](https://news.ycombinator.com/item?id=41701563) - [Upstream containers with compiler toolchains from kernel.org](https://gtucker.io/posts/2024-09-30-korg-containers/)
 * [2024-09-30, 19:58:34](https://news.ycombinator.com/item?id=41701398) - [Mazda's $10 Subscription for Remote Start Sparks Backlash](https://www.carscoops.com/2024/09/mazdas-remote-start-subscription-draws-ire-of-noted-right-to-repair-advocate/)
 * [2024-09-30, 19:52:46](https://news.ycombinator.com/item?id=41701339) - [The box problem that baffled the boffins](https://www.theguardian.com/science/2024/sep/30/did-you-solve-it-the-box-problem-that-baffled-the-boffins)
 * [2024-09-30, 19:45:58](https://news.ycombinator.com/item?id=41701265) - [Pear AI founder: We made two big mistakes](https://twitter.com/CodeFryingPan/status/1840831339337302204)

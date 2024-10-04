@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
-* [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
+* [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 19:43:13](https://news.ycombinator.com/item?id=41744915) - [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
 * [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
@@ -13,7 +13,6 @@
 * [2024-10-04, 14:33:29](https://news.ycombinator.com/item?id=41741848) - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
 * [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [ESP32: leaving love notes and entering demoscene territory (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 * [2024-10-04, 13:48:13](https://news.ycombinator.com/item?id=41741358) - [Computer scientists combine two 'beautiful' proof methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
-* [2024-10-04, 13:46:28](https://news.ycombinator.com/item?id=41741333) - [Why Is Light So Fast?](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
 * [2024-10-04, 13:41:30](https://news.ycombinator.com/item?id=41741293) - [Knowledge Growth and Specialization: Evidence from Oncologists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603)
 * [2024-10-04, 13:04:45](https://news.ycombinator.com/item?id=41740978) - [ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
@@ -29,6 +28,7 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)
+* [2024-09-30, 20:12:27](https://news.ycombinator.com/item?id=41701563) - [Upstream containers with compiler toolchains from kernel.org](https://gtucker.io/posts/2024-09-30-korg-containers/)
 * [2024-09-30, 14:25:03](https://news.ycombinator.com/item?id=41697443) - [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 
 ## [Archives](archives/index.md)

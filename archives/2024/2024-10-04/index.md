@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
+* [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 * [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
 * [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
