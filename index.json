@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-04, 20:28:50",
+      "https://news.ycombinator.com/item?id=41745277"
+    ],
+    [
+      "Microsoft Lisp",
+      "http://www.edm2.com/index.php/Microsoft_LISP"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 19:57:38",
       "https://news.ycombinator.com/item?id=41745032"
     ],
     [
       "How were 70s versions of games like Pong built without a programmable computer?",
       "https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 19:43:13",
+      "https://news.ycombinator.com/item?id=41744915"
+    ],
+    [
+      "Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay",
+      "https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers",
       "https://github.com/steelbrain/ffmpeg-over-ip"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 17:40:18",
-      "https://news.ycombinator.com/item?id=41743688"
-    ],
-    [
-      "Manna – Two Views of Humanity's Future (2003)",
-      "https://marshallbrain.com/manna1"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Self-locking and stiffening deployable tubular structures",
       "https://www.pnas.org/doi/10.1073/pnas.2409062121"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 14:23:45",
-      "https://news.ycombinator.com/item?id=41741752"
-    ],
-    [
-      "SQLite triggers to track table changes",
-      "https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html"
     ]
   ],
   [
