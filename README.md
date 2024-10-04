@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 08:24:45](https://news.ycombinator.com/item?id=41739108) - [\"When evacuating, shoot at the server room\"](https://old.reddit.com/r/UkraineRussiaReport/comments/1fvtb6x/ru_pov_when_evacuating_shoot_at_the_server_room/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 * [2024-10-04, 06:32:44](https://news.ycombinator.com/item?id=41738434) - [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
@@ -12,7 +13,6 @@
 * [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
-* [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
 * [2024-10-03, 18:53:35](https://news.ycombinator.com/item?id=41733714) - [HTTrack Website Copier](https://github.com/xroche/httrack)
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)

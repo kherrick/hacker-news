@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 08:24:45](https://news.ycombinator.com/item?id=41739108) - [\"When evacuating, shoot at the server room\"](https://old.reddit.com/r/UkraineRussiaReport/comments/1fvtb6x/ru_pov_when_evacuating_shoot_at_the_server_room/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 07:03:44](https://news.ycombinator.com/item?id=41738603) - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
 * [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
