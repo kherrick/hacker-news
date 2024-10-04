@@ -9,4 +9,5 @@
 * [2024-10-04, 02:08:54](https://news.ycombinator.com/item?id=41737138) - [Please Don't Make Me Download Another App](https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+* [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
 * [2024-10-04, 00:36:44](https://news.ycombinator.com/item?id=41736605) - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
