@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-10-03, 23:24:37",
+      "https://news.ycombinator.com/item?id=41736125"
+    ],
+    [
+      "AI agent promotes itself to sysadmin, trashes boot sequence",
+      "https://www.theregister.com/2024/10/02/ai_agent_trashes_pc/"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 22:43:00",
       "https://news.ycombinator.com/item?id=41735869"
     ],
     [
       "Biblical plant with medicinal properties resurrected from 1,000-year-old seed",
       "https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 22:29:23",
+      "https://news.ycombinator.com/item?id=41735761"
+    ],
+    [
+      "Show HN: Screensavers for your terminal (Bevy/Ratatui)",
+      "https://github.com/cxreiff/ttysvr"
     ]
   ],
   [
@@ -45,18 +65,8 @@
       "https://news.ycombinator.com/item?id=41735257"
     ],
     [
-      "Skymont: Intel's E-Cores reach for the Sky",
+      "Skymont: Intel’s E-Cores reach for the Sky",
       "https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 21:13:36",
-      "https://news.ycombinator.com/item?id=41735061"
-    ],
-    [
-      "You Can't Opt-Out of A.I. Online",
-      "https://www.newyorker.com/culture/infinite-scroll/how-to-opt-out-of-ai-online"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-10-03, 18:45:36",
-      "https://news.ycombinator.com/item?id=41733625"
-    ],
-    [
-      "Why Gumroad Didn't Choose Htmx",
-      "https://htmx.org/essays/why-gumroad-didnt-choose-htmx/"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 17:52:39",
       "https://news.ycombinator.com/item?id=41733045"
     ],
@@ -185,18 +185,8 @@
       "https://news.ycombinator.com/item?id=41732415"
     ],
     [
-      "I Solve Problems",
+      "We’re migrating many of our servers from Linux to the BSDs",
       "https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 16:42:03",
-      "https://news.ycombinator.com/item?id=41732381"
-    ],
-    [
-      "What Kind of Writer Is ChatGPT?",
-      "https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "UK will give sovereignty of Chagos Islands to Mauritius",
       "https://www.bbc.co.uk/news/articles/c98ynejg4l5o"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 18:46:26",
+      "https://news.ycombinator.com/item?id=41700559"
+    ],
+    [
+      "Determinism in League of Legends: Implementation (2017)",
+      "https://technology.riotgames.com/news/determinism-league-legends-implementation"
     ]
   ],
   [
