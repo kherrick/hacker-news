@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-04, 02:08:54",
-      "https://news.ycombinator.com/item?id=41737138"
-    ],
-    [
-      "Please Don't Make Me Download Another App",
-      "https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 01:50:13",
       "https://news.ycombinator.com/item?id=41737037"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2024-10-03, 22:29:23",
+      "https://news.ycombinator.com/item?id=41735761"
+    ],
+    [
+      "Show HN: Screensavers for your terminal (Bevy/Ratatui)",
+      "https://github.com/cxreiff/ttysvr"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 22:03:27",
       "https://news.ycombinator.com/item?id=41735544"
     ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-10-03, 18:48:26",
+      "https://news.ycombinator.com/item?id=41733659"
+    ],
+    [
+      "Improving Accessibility Using Vision Models",
+      "https://myswamp.substack.com/p/improving-accessibility-using-vision"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 17:31:59",
       "https://news.ycombinator.com/item?id=41732853"
     ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41732415"
     ],
     [
-      "We’re migrating many of our servers from Linux to the BSDs",
+      "Why and how we’re migrating many of our servers from Linux to the BSDs",
       "https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Unraveling of Space-Time",
       "https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 06:31:48",
-      "https://news.ycombinator.com/item?id=41694154"
-    ],
-    [
-      "Tengine: Open-source web server, originated by Taobao, based on Nginx",
-      "https://tengine.taobao.org/"
     ]
   ]
 ]
