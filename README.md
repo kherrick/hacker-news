@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 18:06:02](https://news.ycombinator.com/item?id=41743971) - [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 * [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
 * [2024-10-04, 17:48:45](https://news.ycombinator.com/item?id=41743774) - [No evidence social media time is correlated with teen mental health problems](https://psycnet.apa.org/record/2025-31872-001)
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future (2003)](https://marshallbrain.com/manna1)
@@ -25,7 +26,6 @@
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: Stealthy malware targeting Linux servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
-* [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
