@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
 * [2024-10-04, 13:46:28](https://news.ycombinator.com/item?id=41741333) - [Why Is the Speed of Light So Fast? (Part 1)](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
+* [2024-10-04, 13:41:30](https://news.ycombinator.com/item?id=41741293) - [Knowledge Growth and Specialization: Evidence from Oncologists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603)
 * [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
+* [2024-10-04, 13:04:45](https://news.ycombinator.com/item?id=41740978) - [ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:56:54](https://news.ycombinator.com/item?id=41740915) - [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
+* [2024-10-04, 12:16:34](https://news.ycombinator.com/item?id=41740609) - [Show HN: A pretty decent PDF to CSV converter](https://mightymerge.io/pdf-to-csv/)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
 * [2024-10-04, 12:02:27](https://news.ycombinator.com/item?id=41740519) - [Their Uber Driver Crashed. A Pizza Order Unraveled Their Injury Lawsuit](https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html)
 * [2024-10-04, 12:00:03](https://news.ycombinator.com/item?id=41740497) - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
