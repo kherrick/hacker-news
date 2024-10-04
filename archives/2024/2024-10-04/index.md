@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
+* [2024-10-04, 17:48:45](https://news.ycombinator.com/item?id=41743774) - [No evidence social media time is correlated with teen mental health problems](https://psycnet.apa.org/record/2025-31872-001)
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:20:55](https://news.ycombinator.com/item?id=41743498) - [Money Buys Happiness, Even If You're Already Rich](https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105)
 * [2024-10-04, 17:20:04](https://news.ycombinator.com/item?id=41743488) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
