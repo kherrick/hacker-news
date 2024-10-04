@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:56:54](https://news.ycombinator.com/item?id=41740915) - [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
@@ -27,7 +28,6 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 12:09:53](https://news.ycombinator.com/item?id=41719707) - [Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
-* [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 13:06:30](https://news.ycombinator.com/item?id=41696683) - [The End of Private Libraries](https://robertbreen.com/2024/03/01/the-end-of-private-libraries/)
 
