@@ -6,7 +6,7 @@
 * [2024-10-04, 06:32:44](https://news.ycombinator.com/item?id=41738434) - [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
-* [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
+* [2024-10-04, 02:33:14](https://news.ycombinator.com/item?id=41737243) - [Magic Isn't Real](https://pthorpe92.dev/programming/magic/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
