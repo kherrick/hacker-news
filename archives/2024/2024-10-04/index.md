@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 21:38:18](https://news.ycombinator.com/item?id=41745810) - [The Wild Story of How I Made $1,036,175 in 67 Days During Covid](https://www.marshallhaas.com/post/the-wild-story-of-how-i-made-1-036-175-in-67-days-during-covid)
+* [2024-10-04, 21:27:27](https://news.ycombinator.com/item?id=41745750) - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 * [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 * [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
