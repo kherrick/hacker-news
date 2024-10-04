@@ -6,6 +6,7 @@
 
 * [2024-10-04, 23:02:58](https://news.ycombinator.com/item?id=41746320) - [The Depopulation Bomb Isn't Ticking, It's Overblown](https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking)
 * [2024-10-04, 22:51:01](https://news.ycombinator.com/item?id=41746241) - [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
+* [2024-10-04, 22:42:07](https://news.ycombinator.com/item?id=41746180) - [Don't Squander Public Trust on Bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)
 * [2024-10-04, 22:05:20](https://news.ycombinator.com/item?id=41745959) - [Rust in Linux Is a Failed Experiment](https://techrights.org/n/2024/09/28/Linus_Torvalds_His_Employers_and_Critics_of_His_Employers_Can_A.shtml)
 * [2024-10-04, 21:38:18](https://news.ycombinator.com/item?id=41745810) - [The Wild Story of How I Made $1,036,175 in 67 Days During Covid](https://www.marshallhaas.com/post/the-wild-story-of-how-i-made-1-036-175-in-67-days-during-covid)
 * [2024-10-04, 21:34:07](https://news.ycombinator.com/item?id=41745788) - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
