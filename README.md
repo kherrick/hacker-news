@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 13:46:28](https://news.ycombinator.com/item?id=41741333) - [Why Is the Speed of Light So Fast? (Part 1)](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
 * [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:56:54](https://news.ycombinator.com/item?id=41740915) - [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
@@ -29,7 +30,6 @@
 * [2024-10-02, 12:09:53](https://news.ycombinator.com/item?id=41719707) - [Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
-* [2024-09-30, 13:06:30](https://news.ycombinator.com/item?id=41696683) - [The End of Private Libraries](https://robertbreen.com/2024/03/01/the-end-of-private-libraries/)
 
 ## [Archives](archives/index.md)
 
