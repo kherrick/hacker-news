@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 06:55:58](https://news.ycombinator.com/item?id=41738552) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
@@ -12,7 +13,6 @@
 * [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
-* [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
 * [2024-10-03, 18:53:35](https://news.ycombinator.com/item?id=41733714) - [HTTrack Website Copier](https://github.com/xroche/httrack)
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)

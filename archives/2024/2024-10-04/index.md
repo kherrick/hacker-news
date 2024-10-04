@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
 * [2024-10-04, 10:02:08](https://news.ycombinator.com/item?id=41739780) - [Jerry Seinfeld, Social Anxiety, and Meditation](https://camhashemi.com/posts/meditation/)
+* [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 * [2024-10-04, 08:24:45](https://news.ycombinator.com/item?id=41739108) - [\"When evacuating, shoot at the server room\"](https://old.reddit.com/r/UkraineRussiaReport/comments/1fvtb6x/ru_pov_when_evacuating_shoot_at_the_server_room/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 07:03:44](https://news.ycombinator.com/item?id=41738603) - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
