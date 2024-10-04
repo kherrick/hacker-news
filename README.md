@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 22:51:01](https://news.ycombinator.com/item?id=41746241) - [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
+* [2024-10-04, 21:34:07](https://news.ycombinator.com/item?id=41745788) - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
 * [2024-10-04, 21:27:27](https://news.ycombinator.com/item?id=41745750) - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
+* [2024-10-04, 21:12:46](https://news.ycombinator.com/item?id=41745636) - [If You Meet ET in Space, Kill Him](https://nautil.us/if-you-meet-et-in-space-kill-him-917243/)
 * [2024-10-04, 21:04:58](https://news.ycombinator.com/item?id=41745569) - [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 * [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
-* [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
+* [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Max Schrems wins privacy case against Meta over data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
-* [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 * [2024-10-04, 18:52:46](https://news.ycombinator.com/item?id=41744434) - [Mitmproxy 11: Full HTTP/3 Support](https://mitmproxy.org/posts/releases/mitmproxy-11/)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
@@ -26,10 +28,8 @@
 * [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
+* [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider Trader Had All the Answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
-* [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)
-* [2024-09-30, 20:12:27](https://news.ycombinator.com/item?id=41701563) - [Upstream containers with compiler toolchains from kernel.org](https://gtucker.io/posts/2024-09-30-korg-containers/)
-* [2024-09-30, 14:25:03](https://news.ycombinator.com/item?id=41697443) - [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 
 ## [Archives](archives/index.md)
 
