@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-04, 10:02:08",
+      "https://news.ycombinator.com/item?id=41739780"
+    ],
+    [
+      "Jerry Seinfeld, Social Anxiety, and Meditation",
+      "https://camhashemi.com/posts/meditation/"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 07:55:49",
       "https://news.ycombinator.com/item?id=41738914"
     ],
     [
       "159 employees are leaving Automattic as CEO’s fight with WP Engine escalates",
       "https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 06:55:58",
+      "https://news.ycombinator.com/item?id=41738552"
+    ],
+    [
+      "Reverse Engineering and Dismantling Kekz Headphones",
+      "https://nv1t.github.io/blog/kekz-headphones/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-10-03, 20:52:27",
-      "https://news.ycombinator.com/item?id=41734863"
-    ],
-    [
-      "Biggest solar flare since 2017 erupts from sun and Earth is in the firing line",
-      "https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 19:25:41",
       "https://news.ycombinator.com/item?id=41734047"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2024-10-03, 12:05:11",
-      "https://news.ycombinator.com/item?id=41729891"
+      "2024-10-02, 12:09:53",
+      "https://news.ycombinator.com/item?id=41719707"
     ],
     [
-      "Image Editing with Gaussian Splatting",
-      "https://www.unite.ai/image-editing-with-gaussian-splatting/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 10:43:37",
-      "https://news.ycombinator.com/item?id=41729325"
-    ],
-    [
-      "UK will give sovereignty of Chagos Islands to Mauritius",
-      "https://www.bbc.co.uk/news/articles/c98ynejg4l5o"
+      "Holocron is an object storage based leader election library",
+      "https://github.com/kellabyte/holocron"
     ]
   ],
   [
