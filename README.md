@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future (2003)](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:01:01](https://news.ycombinator.com/item?id=41743325) - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
@@ -27,7 +28,6 @@
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
-* [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 14:25:03](https://news.ycombinator.com/item?id=41697443) - [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 

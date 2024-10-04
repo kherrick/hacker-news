@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 18:06:02](https://news.ycombinator.com/item?id=41743971) - [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 * [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
