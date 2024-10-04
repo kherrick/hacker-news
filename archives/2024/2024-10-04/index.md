@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 14:39:14](https://news.ycombinator.com/item?id=41741905) - [The Nobel-, Emmy-winning genius who became Google's star antitrust witness](https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness)
 * [2024-10-04, 13:46:28](https://news.ycombinator.com/item?id=41741333) - [Why Is the Speed of Light So Fast? (Part 1)](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
 * [2024-10-04, 13:41:30](https://news.ycombinator.com/item?id=41741293) - [Knowledge Growth and Specialization: Evidence from Oncologists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603)
 * [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
@@ -29,6 +30,7 @@
 * [2024-10-04, 06:32:44](https://news.ycombinator.com/item?id=41738434) - [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
 * [2024-10-04, 06:07:53](https://news.ycombinator.com/item?id=41738324) - [I got everything off the cloud: I'm now paying 10x LESS money](https://twitter.com/rameerez/status/1841451179609370748)
 * [2024-10-04, 05:54:21](https://news.ycombinator.com/item?id=41738254) - [When Dark Mode for YN?](https://news.ycombinator.com/item?id=41738254)
+* [2024-10-04, 05:09:35](https://news.ycombinator.com/item?id=41738022) - [Apple Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://github.com/apple/ml-depth-pro)
 * [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the Record for Pear and Continue](https://www.ycombinator.com/blog/correcting-the-record/)
