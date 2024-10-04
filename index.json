@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-04, 04:46:08",
-      "https://news.ycombinator.com/item?id=41737897"
-    ],
-    [
-      "Show HN: I built a list of Product Hunt alternatives for indie founders",
-      "https://phalternatives.com"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 03:52:46",
       "https://news.ycombinator.com/item?id=41737653"
     ],
@@ -97,6 +87,16 @@
     [
       "Show HN: Zero – DX focused non framework to interact with the DOM",
       "https://github.com/nhh/zero"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 22:29:23",
+      "https://news.ycombinator.com/item?id=41735761"
+    ],
+    [
+      "Show HN: Screensavers for your terminal (Bevy/Ratatui)",
+      "https://github.com/cxreiff/ttysvr"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-10-03, 14:11:20",
-      "https://news.ycombinator.com/item?id=41730983"
-    ],
-    [
-      "Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]",
-      "https://arxiv.org/abs/2410.00531"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 14:01:23",
       "https://news.ycombinator.com/item?id=41730896"
     ],
@@ -277,6 +267,16 @@
     [
       "Why does Lisp use cons cells? (1998)",
       "https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 06:09:49",
+      "https://news.ycombinator.com/item?id=41717661"
+    ],
+    [
+      "What OS should I drive?",
+      "https://codefaster.substack.com/p/which-os-should-i-drive"
     ]
   ],
   [
