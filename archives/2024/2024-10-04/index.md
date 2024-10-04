@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [2024-10-04, 14:45:07](https://news.ycombinator.com/item?id=41741963) - [NumPy QuadDType: Quadruple Precision for Everyone – Labs](https://labs.quansight.org/blog/numpy-quaddtype-blog)
 * [2024-10-04, 14:39:14](https://news.ycombinator.com/item?id=41741905) - [The Nobel-, Emmy-winning genius who became Google's star antitrust witness](https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness)

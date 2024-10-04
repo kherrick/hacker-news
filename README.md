@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [2024-10-04, 14:45:07](https://news.ycombinator.com/item?id=41741963) - [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
 * [2024-10-04, 14:33:29](https://news.ycombinator.com/item?id=41741848) - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
 * [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [Guy does demoscene tricks to ESP32 powered display (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
-* [2024-10-04, 13:41:30](https://news.ycombinator.com/item?id=41741293) - [Knowledge Growth and Specialization: Evidence from Oncologists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603)
 * [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
 * [2024-10-04, 13:04:45](https://news.ycombinator.com/item?id=41740978) - [ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
