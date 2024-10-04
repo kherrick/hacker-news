@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-04, 07:03:44",
-      "https://news.ycombinator.com/item?id=41738603"
-    ],
-    [
-      "Pilot flying Helene rescue missions in NC threatened with arrest",
-      "https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 06:47:57",
       "https://news.ycombinator.com/item?id=41738502"
     ],
@@ -37,16 +27,6 @@
     [
       "New research says blue zones can be explained by comically flawed data",
       "https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 03:52:46",
-      "https://news.ycombinator.com/item?id=41737653"
-    ],
-    [
-      "IRS Direct File adds 12 additional states, covers more tax situations in 2025",
-      "https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season"
     ]
   ],
   [
@@ -71,22 +51,22 @@
   ],
   [
     [
+      "2024-10-04, 01:50:13",
+      "https://news.ycombinator.com/item?id=41737037"
+    ],
+    [
+      "Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak",
+      "https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 01:25:51",
       "https://news.ycombinator.com/item?id=41736903"
     ],
     [
       "Why does man print \"gimme gimme gimme\" at 00:30? (2017)",
       "https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 00:44:45",
-      "https://news.ycombinator.com/item?id=41736660"
-    ],
-    [
-      "Go Concurrency vs. RxJS",
-      "https://code.gdnetwork.co/blog/go-vs-rxjs"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2024-10-03, 19:34:33",
+      "https://news.ycombinator.com/item?id=41734119"
+    ],
+    [
+      "US Dept of Energy announces $1.5B in electric grid improvements",
+      "https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 19:25:41",
       "https://news.ycombinator.com/item?id=41734047"
     ],
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2024-10-03, 17:31:40",
-      "https://news.ycombinator.com/item?id=41732851"
-    ],
-    [
-      "DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support",
-      "https://github.com/joncampbell123/dosbox-x"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 17:07:23",
       "https://news.ycombinator.com/item?id=41732634"
     ],
@@ -217,6 +197,16 @@
     [
       "MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone",
       "https://mikrophone.net/"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 14:11:20",
+      "https://news.ycombinator.com/item?id=41730983"
+    ],
+    [
+      "Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]",
+      "https://arxiv.org/abs/2410.00531"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Silk Road (2023)",
       "https://www.historytoday.com/archive/feature/secrets-silk-road"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 18:46:26",
+      "https://news.ycombinator.com/item?id=41700559"
+    ],
+    [
+      "Determinism in League of Legends: Implementation (2017)",
+      "https://technology.riotgames.com/news/determinism-league-legends-implementation"
     ]
   ],
   [
