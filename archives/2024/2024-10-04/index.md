@@ -9,6 +9,7 @@
 * [2024-10-04, 14:39:14](https://news.ycombinator.com/item?id=41741905) - [The Nobel-, Emmy-winning genius who became Google's star antitrust witness](https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness)
 * [2024-10-04, 14:33:29](https://news.ycombinator.com/item?id=41741848) - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
 * [2024-10-04, 14:22:42](https://news.ycombinator.com/item?id=41741742) - [Can we cut the AI Agent for X thing already](https://news.ycombinator.com/item?id=41741742)
+* [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [Guy does demoscene tricks to ESP32 powered display (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 * [2024-10-04, 13:46:28](https://news.ycombinator.com/item?id=41741333) - [Why Is the Speed of Light So Fast? (Part 1)](https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/)
 * [2024-10-04, 13:41:30](https://news.ycombinator.com/item?id=41741293) - [Knowledge Growth and Specialization: Evidence from Oncologists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603)
 * [2024-10-04, 13:08:18](https://news.ycombinator.com/item?id=41741002) - [Waymo and Hyundai enter multi-year, strategic partnership](https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/)
