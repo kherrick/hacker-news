@@ -29,7 +29,7 @@
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)
-* [2024-09-30, 14:25:03](https://news.ycombinator.com/item?id=41697443) - [Safety Goggles for Alchemists: The Path Towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
+* [2024-09-30, 14:25:03](https://news.ycombinator.com/item?id=41697443) - [Safety Goggles for Alchemists](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 
 ## [Archives](archives/index.md)
 
