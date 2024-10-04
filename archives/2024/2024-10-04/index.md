@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
+* [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
 * [2024-10-04, 18:06:02](https://news.ycombinator.com/item?id=41743971) - [Ask HN: What do embedded engineers do?](https://news.ycombinator.com/item?id=41743971)
 * [2024-10-04, 17:57:13](https://news.ycombinator.com/item?id=41743881) - [Oura Ring 4](https://ouraring.com/blog/oura-ring-4/)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
@@ -21,6 +22,7 @@
 * [2024-10-04, 14:45:07](https://news.ycombinator.com/item?id=41741963) - [NumPy QuadDType: Quadruple Precision for Everyone – Labs](https://labs.quansight.org/blog/numpy-quaddtype-blog)
 * [2024-10-04, 14:39:14](https://news.ycombinator.com/item?id=41741905) - [The Nobel-, Emmy-winning genius who became Google's star antitrust witness](https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness)
 * [2024-10-04, 14:33:29](https://news.ycombinator.com/item?id=41741848) - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
+* [2024-10-04, 14:23:45](https://news.ycombinator.com/item?id=41741752) - [SQLite triggers to track table changes](https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html)
 * [2024-10-04, 14:22:42](https://news.ycombinator.com/item?id=41741742) - [Can we cut the AI Agent for X thing already](https://news.ycombinator.com/item?id=41741742)
 * [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [Guy does demoscene tricks to ESP32 powered display (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 * [2024-10-04, 13:48:13](https://news.ycombinator.com/item?id=41741358) - [Computer Scientists Combine Two 'Beautiful' Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
