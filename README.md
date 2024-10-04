@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 06:07:53](https://news.ycombinator.com/item?id=41738324) - [I got everything off the cloud: I'm now paying 10x LESS money](https://twitter.com/rameerez/status/1841451179609370748)
+* [2024-10-04, 05:54:21](https://news.ycombinator.com/item?id=41738254) - [When Dark Mode for YN?](https://news.ycombinator.com/item?id=41738254)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
-* [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
-* [2024-10-04, 00:36:44](https://news.ycombinator.com/item?id=41736605) - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
 * [2024-10-03, 23:38:21](https://news.ycombinator.com/item?id=41736215) - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
 * [2024-10-03, 23:15:16](https://news.ycombinator.com/item?id=41736065) - [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)

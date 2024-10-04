@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 06:07:53](https://news.ycombinator.com/item?id=41738324) - [I got everything off the cloud: I'm now paying 10x LESS money](https://twitter.com/rameerez/status/1841451179609370748)
+* [2024-10-04, 05:54:21](https://news.ycombinator.com/item?id=41738254) - [When Dark Mode for YN?](https://news.ycombinator.com/item?id=41738254)
 * [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the Record for Pear and Continue](https://www.ycombinator.com/blog/correcting-the-record/)
