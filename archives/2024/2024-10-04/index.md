@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [AI at Meta: Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+* [2024-10-04, 12:56:54](https://news.ycombinator.com/item?id=41740915) - [Show HN: kew – A Terminal Music Player for Linux](https://github.com/ravachol/kew)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
 * [2024-10-04, 12:02:27](https://news.ycombinator.com/item?id=41740519) - [Their Uber Driver Crashed. A Pizza Order Unraveled Their Injury Lawsuit](https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html)
 * [2024-10-04, 12:00:03](https://news.ycombinator.com/item?id=41740497) - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
