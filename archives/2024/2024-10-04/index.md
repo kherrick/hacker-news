@@ -10,6 +10,7 @@
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
 * [2024-10-04, 10:54:53](https://news.ycombinator.com/item?id=41740100) - [OpenFLUX.1](https://huggingface.co/ostris/OpenFLUX.1)
 * [2024-10-04, 10:51:42](https://news.ycombinator.com/item?id=41740084) - [France's 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
+* [2024-10-04, 10:14:40](https://news.ycombinator.com/item?id=41739866) - [Migrating Seabirds Are Bringing Forever Chemicals into the Arctic](https://hakaimagazine.com/news/migrating-seabirds-are-bringing-forever-chemicals-into-the-arctic/)
 * [2024-10-04, 10:02:08](https://news.ycombinator.com/item?id=41739780) - [Jerry Seinfeld, Social Anxiety, and Meditation](https://camhashemi.com/posts/meditation/)
 * [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 * [2024-10-04, 09:36:20](https://news.ycombinator.com/item?id=41739578) - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)

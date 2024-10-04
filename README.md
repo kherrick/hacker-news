@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
-* [2024-10-04, 12:02:27](https://news.ycombinator.com/item?id=41740519) - [Their Uber Driver Crashed. A Pizza Order Unraveled Their Injury Lawsuit](https://www.nytimes.com/2024/10/04/nyregion/uber-eats-car-crash-injury-nj.html)
 * [2024-10-04, 12:00:03](https://news.ycombinator.com/item?id=41740497) - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
+* [2024-10-04, 10:14:40](https://news.ycombinator.com/item?id=41739866) - [Migrating Seabirds Are Bringing Forever Chemicals into the Arctic](https://hakaimagazine.com/news/migrating-seabirds-are-bringing-forever-chemicals-into-the-arctic/)
 * [2024-10-04, 09:36:20](https://news.ycombinator.com/item?id=41739578) - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [Some Automattic employees accept severance package offer](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 06:55:58](https://news.ycombinator.com/item?id=41738552) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
@@ -28,8 +28,8 @@
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
+* [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 13:06:30](https://news.ycombinator.com/item?id=41696683) - [The End of Private Libraries](https://robertbreen.com/2024/03/01/the-end-of-private-libraries/)
-* [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
 ## [Archives](archives/index.md)
 
