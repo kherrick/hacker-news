@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41741963"
     ],
     [
-      "NumPy QuadDType: Quadruple Precision for Everyone – Labs",
+      "NumPy QuadDType: Quadruple Precision for Everyone",
       "https://labs.quansight.org/blog/numpy-quaddtype-blog"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41741905"
     ],
     [
-      "The Nobel-, Emmy-winning genius who became Google's star antitrust witness",
+      "Paul Milgrom, a Nobel and Emmy winner who became Google’s antitrust witness",
       "https://www.semafor.com/article/10/02/2024/the-nobel-emmy-winning-genius-who-became-googles-star-antitrust-witness"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Self-locking and stiffening deployable tubular structures",
       "https://www.pnas.org/doi/10.1073/pnas.2409062121"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 13:41:30",
+      "https://news.ycombinator.com/item?id=41741293"
+    ],
+    [
+      "Knowledge Growth and Specialization: Evidence from Oncologists",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Show HN: kew – A Terminal Music Player for Linux",
       "https://github.com/ravachol/kew"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 12:16:34",
-      "https://news.ycombinator.com/item?id=41740609"
-    ],
-    [
-      "Show HN: A pretty decent PDF to CSV converter",
-      "https://mightymerge.io/pdf-to-csv/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=41738022"
     ],
     [
-      "Apple Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
+      "Apple Depth Pro: Sharp monocular metric depth in less than a second",
       "https://github.com/apple/ml-depth-pro"
     ]
   ],
