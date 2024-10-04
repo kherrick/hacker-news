@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 02:23:01](https://news.ycombinator.com/item?id=41737204) - [What's new with io_uring in 6.11 and 6.12](https://github.com/axboe/liburing/wiki/What%27s-new-with-io_uring-in-6.11-and-6.12)
 * [2024-10-04, 02:08:54](https://news.ycombinator.com/item?id=41737138) - [Please Don't Make Me Download Another App](https://www.theatlantic.com/technology/archive/2024/10/too-many-apps/680122/)
 * [2024-10-03, 23:38:21](https://news.ycombinator.com/item?id=41736215) - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
 * [2024-10-03, 23:15:16](https://news.ycombinator.com/item?id=41736065) - [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
 * [2024-10-03, 22:43:00](https://news.ycombinator.com/item?id=41735869) - [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
 * [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
-* [2024-10-03, 22:16:54](https://news.ycombinator.com/item?id=41735665) - [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:34:14](https://news.ycombinator.com/item?id=41735257) - [Skymont: Intel’s E-Cores reach for the Sky](https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
