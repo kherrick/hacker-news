@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 * [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
+* [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 19:43:13](https://news.ycombinator.com/item?id=41744915) - [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
 * [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
@@ -15,6 +17,7 @@
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:20:55](https://news.ycombinator.com/item?id=41743498) - [Money Buys Happiness, Even If You're Already Rich](https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105)
 * [2024-10-04, 17:20:04](https://news.ycombinator.com/item?id=41743488) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
+* [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
 * [2024-10-04, 17:01:01](https://news.ycombinator.com/item?id=41743325) - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
 * [2024-10-04, 16:50:07](https://news.ycombinator.com/item?id=41743233) - [Vaccines, Past and Present](https://www.science.org/content/blog-post/vaccines-past-and-present)
 * [2024-10-04, 16:46:37](https://news.ycombinator.com/item?id=41743201) - [Mozilla becoming active in online advertising](https://blog.mozilla.org/en/mozilla/improving-online-advertising/)
