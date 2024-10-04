@@ -54,6 +54,7 @@
 * [2024-09-30, 13:57:38](https://news.ycombinator.com/item?id=41697137) - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
 * [2024-09-30, 13:50:48](https://news.ycombinator.com/item?id=41697064) - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
 * [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
+* [2024-09-30, 13:06:30](https://news.ycombinator.com/item?id=41696683) - [The End of Private Libraries](https://robertbreen.com/2024/03/01/the-end-of-private-libraries/)
 * [2024-09-30, 12:51:49](https://news.ycombinator.com/item?id=41696561) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
 * [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
