@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
+* [2024-10-04, 15:15:24](https://news.ycombinator.com/item?id=41742278) - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [2024-10-04, 14:45:07](https://news.ycombinator.com/item?id=41741963) - [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
 * [2024-10-04, 14:33:29](https://news.ycombinator.com/item?id=41741848) - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
@@ -12,11 +13,9 @@
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
 * [2024-10-04, 12:00:03](https://news.ycombinator.com/item?id=41740497) - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
-* [2024-10-04, 09:36:20](https://news.ycombinator.com/item?id=41739578) - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)
-* [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [Some Automattic employees accept severance package offer](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 06:55:58](https://news.ycombinator.com/item?id=41738552) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-04, 06:47:57](https://news.ycombinator.com/item?id=41738502) - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
-* [2024-10-04, 05:09:35](https://news.ycombinator.com/item?id=41738022) - [Apple Depth Pro: Sharp monocular metric depth in less than a second](https://github.com/apple/ml-depth-pro)
+* [2024-10-04, 05:09:35](https://news.ycombinator.com/item?id=41738022) - [Depth Pro: Sharp monocular metric depth in less than a second](https://github.com/apple/ml-depth-pro)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
 * [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
@@ -29,6 +28,7 @@
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 12:09:53](https://news.ycombinator.com/item?id=41719707) - [Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
+* [2024-09-30, 23:21:27](https://news.ycombinator.com/item?id=41703142) - [Why Appalachia flooded so from Helene's remnants](https://www.scientificamerican.com/article/why-appalachia-flooded-so-severely-from-helenes-remnants/)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
 
 ## [Archives](archives/index.md)

@@ -6,6 +6,7 @@
 
 * [2024-09-30, 23:50:31](https://news.ycombinator.com/item?id=41703312) - [Ask HN: Should you reply STOP to unwanted texts?](https://news.ycombinator.com/item?id=41703312)
 * [2024-09-30, 23:31:25](https://news.ycombinator.com/item?id=41703213) - [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
+* [2024-09-30, 23:21:27](https://news.ycombinator.com/item?id=41703142) - [Why Appalachia flooded so from Helene's remnants](https://www.scientificamerican.com/article/why-appalachia-flooded-so-severely-from-helenes-remnants/)
 * [2024-09-30, 22:26:49](https://news.ycombinator.com/item?id=41702789) - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
 * [2024-09-30, 22:02:51](https://news.ycombinator.com/item?id=41702617) - [Tim Peters – Dispelling Information Asymmetry](https://tim-one.github.io/psf/ban.html)
 * [2024-09-30, 22:01:53](https://news.ycombinator.com/item?id=41702610) - [Germany to Enforce DMA Regulations for All Microsoft Products and Services](https://www.thurrott.com/microsoft/310470/germany-to-enforce-dma-regulations-for-all-microsoft-products-and-services)
