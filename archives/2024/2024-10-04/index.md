@@ -11,3 +11,4 @@
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
 * [2024-10-04, 00:36:44](https://news.ycombinator.com/item?id=41736605) - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
+* [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
