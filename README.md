@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
@@ -10,6 +9,7 @@
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
 * [2024-10-03, 23:38:21](https://news.ycombinator.com/item?id=41736215) - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
 * [2024-10-03, 23:15:16](https://news.ycombinator.com/item?id=41736065) - [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
+* [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 21:34:14](https://news.ycombinator.com/item?id=41735257) - [Skymont: Intel’s E-Cores reach for the Sky](https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
@@ -20,7 +20,6 @@
 * [2024-10-03, 17:07:23](https://news.ycombinator.com/item?id=41732634) - [Canvas is a new way to write and code with ChatGPT](https://openai.com/index/introducing-canvas/)
 * [2024-10-03, 16:45:05](https://news.ycombinator.com/item?id=41732415) - [Why and how we’re migrating many of our servers from Linux to the BSDs](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
-* [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:53:47](https://news.ycombinator.com/item?id=41730822) - [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
@@ -28,6 +27,7 @@
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 10:10:26](https://news.ycombinator.com/item?id=41718947) - [Interviewing for Evidence](https://dannorth.net/interviewing-for-evidence/)
 * [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
+* [2024-10-02, 06:09:49](https://news.ycombinator.com/item?id=41717661) - [What OS should I drive?](https://codefaster.substack.com/p/which-os-should-i-drive)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
