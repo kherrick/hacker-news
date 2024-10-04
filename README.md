@@ -2,6 +2,7 @@
 
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
 * [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
+* [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 19:43:13](https://news.ycombinator.com/item?id=41744915) - [Civilization VII recommends 16 cores and 32GB RAM for 4K gameplay](https://www.tomshardware.com/video-games/pc-gaming/civilization-vii-recommends-16-cores-and-32gb-ram-for-4k-gameplay-rtx-4070-or-rx-7800xt-is-the-minimum)
 * [2024-10-04, 19:25:22](https://news.ycombinator.com/item?id=41744774) - [Show HN: The Gmail unsubscribe tool with bulk deletion and personal data removal](https://againstdata.com)
@@ -25,7 +26,6 @@
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-03, 22:03:27](https://news.ycombinator.com/item?id=41735544) - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
-* [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [Manuscripts reveal the details of everyday life on the Silk Road](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 20:12:27](https://news.ycombinator.com/item?id=41701563) - [Upstream containers with compiler toolchains from kernel.org](https://gtucker.io/posts/2024-09-30-korg-containers/)
