@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:20:55](https://news.ycombinator.com/item?id=41743498) - [Money Buys Happiness, Even If You're Already Rich](https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105)
 * [2024-10-04, 17:20:04](https://news.ycombinator.com/item?id=41743488) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
 * [2024-10-04, 17:01:01](https://news.ycombinator.com/item?id=41743325) - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
