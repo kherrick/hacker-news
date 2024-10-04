@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
-* [2024-10-04, 00:36:44](https://news.ycombinator.com/item?id=41736605) - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
 * [2024-10-03, 23:38:21](https://news.ycombinator.com/item?id=41736215) - [Cox slows Internet speeds in entire neighborhoods to punish any heavy users](https://arstechnica.com/tech-policy/2020/06/cox-slows-internet-speeds-in-entire-neighborhoods-to-punish-any-heavy-users/)
 * [2024-10-03, 23:15:16](https://news.ycombinator.com/item?id=41736065) - [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
@@ -13,7 +13,6 @@
 * [2024-10-03, 21:34:14](https://news.ycombinator.com/item?id=41735257) - [Skymont: Intel’s E-Cores reach for the Sky](https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/)
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
-* [2024-10-03, 18:53:35](https://news.ycombinator.com/item?id=41733714) - [HTTrack Website Copier](https://github.com/xroche/httrack)
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
 * [2024-10-03, 17:31:59](https://news.ycombinator.com/item?id=41732853) - [Were RNNs all we needed?](https://arxiv.org/abs/2410.01201)
 * [2024-10-03, 17:31:40](https://news.ycombinator.com/item?id=41732851) - [DOSBox-X: Enhanced Fork of DOSBox for Expanded DOS and Retro PC Support](https://github.com/joncampbell123/dosbox-x)
@@ -29,6 +28,7 @@
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 07:52:27](https://news.ycombinator.com/item?id=41718228) - [I added a fun random ASCII art welcome screen to Vim](https://blog.merlinsbeard.ai/how-to-show-an-ascii-art-welcome-screen-at-the-top-of-the-vim-terminal/)
 * [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
+* [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
 ## [Archives](archives/index.md)

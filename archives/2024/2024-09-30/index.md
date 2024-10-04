@@ -11,6 +11,7 @@
 * [2024-09-30, 22:01:53](https://news.ycombinator.com/item?id=41702610) - [Germany to Enforce DMA Regulations for All Microsoft Products and Services](https://www.thurrott.com/microsoft/310470/germany-to-enforce-dma-regulations-for-all-microsoft-products-and-services)
 * [2024-09-30, 21:26:05](https://news.ycombinator.com/item?id=41702325) - [US Government interagency sea level rise website is live](https://sealevel.globalchange.gov/)
 * [2024-09-30, 21:24:55](https://news.ycombinator.com/item?id=41702315) - [BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH](https://borgbackup.readthedocs.io/en/2.0.0b11/changes.html#version-2-0-0b11-2024-09-26)
+* [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
 * [2024-09-30, 20:42:41](https://news.ycombinator.com/item?id=41701862) - [Spruce Pine, NC got hit by Helene. It could disrupt the tech industry](https://www.npr.org/2024/09/30/nx-s1-5133462/hurricane-helene-quartz-microchips-solar-panels-spruce-pine)
 * [2024-09-30, 20:37:47](https://news.ycombinator.com/item?id=41701820) - ['Doomsday' glacier set to melt faster and swell seas as world heats up](https://phys.org/news/2024-09-doomsday-glacier-faster-seas-world.html)
 * [2024-09-30, 20:28:41](https://news.ycombinator.com/item?id=41701733) - [Show HN: Venator – open-source Threat Detection Platform](https://github.com/nianticlabs/venator)

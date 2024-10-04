@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 04:46:08](https://news.ycombinator.com/item?id=41737897) - [Show HN: I built a list of Product Hunt alternatives for indie founders](https://phalternatives.com)
 * [2024-10-04, 03:52:46](https://news.ycombinator.com/item?id=41737653) - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the Record for Pear and Continue](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 02:23:01](https://news.ycombinator.com/item?id=41737204) - [What's new with io_uring in 6.11 and 6.12](https://github.com/axboe/liburing/wiki/What%27s-new-with-io_uring-in-6.11-and-6.12)
