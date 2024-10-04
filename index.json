@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-04, 17:20:55",
-      "https://news.ycombinator.com/item?id=41743498"
+      "2024-10-04, 17:40:18",
+      "https://news.ycombinator.com/item?id=41743688"
     ],
     [
-      "Money Buys Happiness, Even If You're Already Rich",
-      "https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105"
+      "Manna – Two Views of Humanity's Future",
+      "https://marshallbrain.com/manna1"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41743233"
     ],
     [
-      "Vaccines, Past and Present",
+      "Vaccines, past and present",
       "https://www.science.org/content/blog-post/vaccines-past-and-present"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41741614"
     ],
     [
-      "Guy does demoscene tricks to ESP32 powered display (2022)",
+      "ESP32: leaving love notes and entering demoscene territory (2022)",
       "https://theor.xyz/esp32-love-notes-demoscene/"
     ]
   ],
@@ -95,18 +95,18 @@
       "https://news.ycombinator.com/item?id=41741358"
     ],
     [
-      "Computer Scientists Combine Two 'Beautiful' Proof Methods",
+      "Computer scientists combine two 'beautiful' proof methods",
       "https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/"
     ]
   ],
   [
     [
-      "2024-10-04, 13:08:18",
-      "https://news.ycombinator.com/item?id=41741002"
+      "2024-10-04, 13:46:28",
+      "https://news.ycombinator.com/item?id=41741333"
     ],
     [
-      "Waymo and Hyundai enter multi-year, strategic partnership",
-      "https://waymo.com/blog/2024/10/waymo-and-hyundai-enter-partnership/"
+      "Why Is Light So Fast?",
+      "https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=41740568"
     ],
     [
-      "Show HN: Chebyshev approximation calculator (open source web app)",
+      "Show HN: Chebyshev approximation calculator",
       "https://stuffmatic.com/chebyshev/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=41738552"
     ],
     [
-      "Reverse Engineering and Dismantling Kekz Headphones",
+      "Reverse engineering and dismantling Kekz headphones",
       "https://nv1t.github.io/blog/kekz-headphones/"
     ]
   ],
@@ -177,6 +177,16 @@
     [
       "Experimental web browser optimized for rabbit-holing",
       "https://szymonkaliski.com/projects/cartographist/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 06:32:44",
+      "https://news.ycombinator.com/item?id=41738434"
+    ],
+    [
+      "New research says \"blue zones\" can be explained by flawed data",
+      "https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Perfctl: Stealthy malware targeting Linux servers",
       "https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 22:29:23",
-      "https://news.ycombinator.com/item?id=41735761"
-    ],
-    [
-      "Show HN: Screensavers for your terminal (Bevy/Ratatui)",
-      "https://github.com/cxreiff/ttysvr"
     ]
   ],
   [
