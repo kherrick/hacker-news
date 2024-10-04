@@ -55,6 +55,7 @@
 * [2024-09-30, 13:48:03](https://news.ycombinator.com/item?id=41697032) - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
 * [2024-09-30, 12:51:49](https://news.ycombinator.com/item?id=41696561) - [I Taught My 8yo Subduction Zones with NotebookLM](https://timkellogg.me/blog/2024/09/29/notebooklm)
 * [2024-09-30, 12:51:44](https://news.ycombinator.com/item?id=41696560) - [Browser built-in bookmarking system is good enough (2024)](https://afewthingz.com/browserbookmark)
+* [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 * [2024-09-30, 12:34:46](https://news.ycombinator.com/item?id=41696434) - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 * [2024-09-30, 12:30:03](https://news.ycombinator.com/item?id=41696402) - [Distinct movement cluster evident on Carola bridge in Dresden prior to collapse](https://www.newcivilengineer.com/latest/distinct-movement-cluster-evident-on-carola-bridge-in-dresden-prior-to-its-collapse-research-finds-17-09-2024/)
 * [2024-09-30, 12:06:55](https://news.ycombinator.com/item?id=41696236) - [Vanishing Culture: Preserving Cookbooks](https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/)
