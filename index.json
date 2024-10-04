@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-04, 14:45:07",
+      "https://news.ycombinator.com/item?id=41741963"
+    ],
+    [
+      "NumPy QuadDType: Quadruple Precision for Everyone – Labs",
+      "https://labs.quansight.org/blog/numpy-quaddtype-blog"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 14:39:14",
       "https://news.ycombinator.com/item?id=41741905"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2024-10-04, 14:33:29",
+      "https://news.ycombinator.com/item?id=41741848"
+    ],
+    [
+      "Self-locking and stiffening deployable tubular structures",
+      "https://www.pnas.org/doi/10.1073/pnas.2409062121"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 14:22:42",
+      "https://news.ycombinator.com/item?id=41741742"
+    ],
+    [
+      "Can we cut the AI Agent for X thing already",
+      "https://news.ycombinator.com/item?id=41741742"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 13:46:28",
       "https://news.ycombinator.com/item?id=41741333"
     ],
     [
       "Why Is the Speed of Light So Fast? (Part 1)",
       "https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 13:41:30",
-      "https://news.ycombinator.com/item?id=41741293"
-    ],
-    [
-      "Knowledge Growth and Specialization: Evidence from Oncologists",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960603"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2024-10-04, 05:09:35",
-      "https://news.ycombinator.com/item?id=41738022"
-    ],
-    [
-      "Apple Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
-      "https://github.com/apple/ml-depth-pro"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 02:50:15",
-      "https://news.ycombinator.com/item?id=41737326"
-    ],
-    [
-      "Correcting the record for Continue and PearAI",
-      "https://www.ycombinator.com/blog/correcting-the-record/"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 01:25:51",
       "https://news.ycombinator.com/item?id=41736903"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-10-03, 18:53:35",
-      "https://news.ycombinator.com/item?id=41733714"
-    ],
-    [
-      "HTTrack Website Copier",
-      "https://github.com/xroche/httrack"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 17:31:59",
       "https://news.ycombinator.com/item?id=41732853"
     ],
@@ -257,6 +247,16 @@
     [
       "MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone",
       "https://mikrophone.net/"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 14:01:23",
+      "https://news.ycombinator.com/item?id=41730896"
+    ],
+    [
+      "Dance training superior to physical exercise in inducing brain plasticity (2018)",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636"
     ]
   ],
   [
