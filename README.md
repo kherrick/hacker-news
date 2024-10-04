@@ -8,7 +8,6 @@
 * [2024-10-04, 06:32:44](https://news.ycombinator.com/item?id=41738434) - [New research says blue zones can be explained by comically flawed data](https://www.independent.co.uk/life-style/blue-zones-netflix-ignobel-prize-b2622952.html)
 * [2024-10-04, 02:50:15](https://news.ycombinator.com/item?id=41737326) - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 * [2024-10-04, 02:33:14](https://news.ycombinator.com/item?id=41737243) - [Magic Isn't Real](https://pthorpe92.dev/programming/magic/)
-* [2024-10-04, 02:14:00](https://news.ycombinator.com/item?id=41737160) - [Contributing to Haskell GHC (2023) [pdf]](https://ryanglscott.github.io/talk-slides/ghc-contributors-workshop-2023.pdf)
 * [2024-10-04, 01:50:13](https://news.ycombinator.com/item?id=41737037) - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
 * [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
@@ -28,6 +27,7 @@
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
 * [2024-09-30, 20:43:04](https://news.ycombinator.com/item?id=41701864) - [The Silk Road (2023)](https://www.historytoday.com/archive/feature/secrets-silk-road)
+* [2024-09-30, 18:46:26](https://news.ycombinator.com/item?id=41700559) - [Determinism in League of Legends: Implementation (2017)](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 * [2024-09-30, 13:06:30](https://news.ycombinator.com/item?id=41696683) - [The End of Private Libraries](https://robertbreen.com/2024/03/01/the-end-of-private-libraries/)
 * [2024-09-30, 12:41:32](https://news.ycombinator.com/item?id=41696488) - [The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
