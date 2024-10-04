@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 10:51:42](https://news.ycombinator.com/item?id=41740084) - [France's 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
 * [2024-10-04, 10:02:08](https://news.ycombinator.com/item?id=41739780) - [Jerry Seinfeld, Social Anxiety, and Meditation](https://camhashemi.com/posts/meditation/)
 * [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 * [2024-10-04, 08:24:45](https://news.ycombinator.com/item?id=41739108) - [\"When evacuating, shoot at the server room\"](https://old.reddit.com/r/UkraineRussiaReport/comments/1fvtb6x/ru_pov_when_evacuating_shoot_at_the_server_room/)

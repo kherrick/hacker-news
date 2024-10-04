@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-04, 10:51:42](https://news.ycombinator.com/item?id=41740084) - [France's 31-year treasure hunt for a buried owl statue ends](https://www.theguardian.com/world/2024/oct/03/france-treasure-hunt-buried-owl-statue-ends)
 * [2024-10-04, 09:42:13](https://news.ycombinator.com/item?id=41739615) - [EU top court sides with activist Schrems in privacy dispute with Meta](https://www.reuters.com/technology/eu-top-court-sides-with-activist-schrems-privacy-dispute-with-meta-2024-10-04/)
 * [2024-10-04, 07:55:49](https://news.ycombinator.com/item?id=41738914) - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 * [2024-10-04, 06:55:58](https://news.ycombinator.com/item?id=41738552) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
@@ -23,7 +24,6 @@
 * [2024-10-03, 14:11:20](https://news.ycombinator.com/item?id=41730983) - [Serving 70B-scale LLMs efficiently on low-resource edge devices [pdf]](https://arxiv.org/abs/2410.00531)
 * [2024-10-03, 14:01:23](https://news.ycombinator.com/item?id=41730896) - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
-* [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-02, 12:09:53](https://news.ycombinator.com/item?id=41719707) - [Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 07:49:05](https://news.ycombinator.com/item?id=41718203) - [Why does Lisp use cons cells? (1998)](https://www.xach.com/naggum/articles/3092837184154309@naggum.no.html)
