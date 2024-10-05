@@ -22,7 +22,7 @@
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator](https://stuffmatic.com/chebyshev/)
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
-* [2024-10-04, 06:55:58](https://news.ycombinator.com/item?id=41738552) - [Reverse engineering and dismantling Kekz headphones](https://nv1t.github.io/blog/kekz-headphones/)
+* [2024-10-04, 01:25:51](https://news.ycombinator.com/item?id=41736903) - [Why does man print \"gimme gimme gimme\" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [2024-10-04, 00:07:30](https://news.ycombinator.com/item?id=41736429) - [炊紙(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space](https://github.com/mitoma/kashiki2)
 * [2024-10-02, 20:24:07](https://news.ycombinator.com/item?id=41724667) - [Ratfactor's Sequence Timer](https://ratfactor.com/tools/timerseq.html)
 * [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
