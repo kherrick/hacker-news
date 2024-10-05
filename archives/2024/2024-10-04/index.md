@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
 * [2024-10-04, 23:02:58](https://news.ycombinator.com/item?id=41746320) - [The Depopulation Bomb Isn't Ticking, It's Overblown](https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking)
 * [2024-10-04, 22:51:01](https://news.ycombinator.com/item?id=41746241) - [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
 * [2024-10-04, 22:42:07](https://news.ycombinator.com/item?id=41746180) - [Don't Squander Public Trust on Bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)

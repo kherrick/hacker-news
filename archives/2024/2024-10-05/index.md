@@ -1,0 +1,9 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-05](index.md)
+
+* [2024-10-05, 01:00:36](https://news.ycombinator.com/item?id=41746913) - [Versable (YC W22) Is Hiring](https://www.ycombinator.com/companies/versable/jobs/LeJtyhJ-senior-engineer)
+* [2024-10-05, 00:48:27](https://news.ycombinator.com/item?id=41746856) - [The racist AI deepfake that fooled and divided a community](https://www.bbc.com/news/articles/ckg9k5dv1zdo)
+* [2024-10-05, 00:23:18](https://news.ycombinator.com/item?id=41746744) - [Inside the bro-ification of Mark Zuckerberg](https://www.washingtonpost.com/technology/2024/10/04/mark-zuckerberg-transformation-meta-ceo-facebook/)

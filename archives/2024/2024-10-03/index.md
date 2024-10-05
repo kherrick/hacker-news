@@ -53,6 +53,7 @@
 * [2024-10-03, 13:25:06](https://news.ycombinator.com/item?id=41730574) - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 * [2024-10-03, 13:10:53](https://news.ycombinator.com/item?id=41730453) - [A Single Cloud Compromise Can Feed an Army of AI Sex Bots](https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/)
 * [2024-10-03, 13:05:16](https://news.ycombinator.com/item?id=41730415) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
+* [2024-10-03, 12:56:53](https://news.ycombinator.com/item?id=41730350) - [\"Women and Children First!\"](https://www.historic-uk.com/CultureUK/Women-Children-First/)
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 12:00:17](https://news.ycombinator.com/item?id=41729860) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
 * [2024-10-03, 11:53:03](https://news.ycombinator.com/item?id=41729793) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.com/news/articles/c98ynejg4l5o)
