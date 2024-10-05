@@ -7,6 +7,7 @@
 * [2024-10-05, 17:25:01](https://news.ycombinator.com/item?id=41751407) - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
 * [2024-10-05, 17:00:33](https://news.ycombinator.com/item?id=41751243) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-10-05, 16:45:51](https://news.ycombinator.com/item?id=41751122) - [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
+* [2024-10-05, 16:29:14](https://news.ycombinator.com/item?id=41751013) - [Ask HN: What type of Auth are you using on your side projects?](https://news.ycombinator.com/item?id=41751013)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
 * [2024-10-05, 15:18:51](https://news.ycombinator.com/item?id=41750470) - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
@@ -29,7 +30,6 @@
 * [2024-10-02, 15:50:56](https://news.ycombinator.com/item?id=41721885) - [The Republic of Palau Becomes ITU's 194th Member State](https://www.itu.int:443/en/mediacentre/Pages/PR-2024-09-19-the-Republic-of-Palau-becomes-ITUs-194th-Member-State.aspx)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
-* [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
 ## [Archives](archives/index.md)
 

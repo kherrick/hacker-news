@@ -13,6 +13,7 @@
 * [2024-10-05, 16:53:45](https://news.ycombinator.com/item?id=41751180) - [We should have given Ukraine more weapons earlier, says ex-NATO chief](https://www.politico.eu/article/war-ukraine-nato-chief-weapons-russia-jens-stoltenberg/)
 * [2024-10-05, 16:45:51](https://news.ycombinator.com/item?id=41751122) - [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
 * [2024-10-05, 16:29:55](https://news.ycombinator.com/item?id=41751021) - [Truth Social Users Are Losing Ridiculous Sums of Money to Scams](https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604)
+* [2024-10-05, 16:29:14](https://news.ycombinator.com/item?id=41751013) - [Ask HN: What type of Auth are you using on your side projects?](https://news.ycombinator.com/item?id=41751013)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
 * [2024-10-05, 15:18:51](https://news.ycombinator.com/item?id=41750470) - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
