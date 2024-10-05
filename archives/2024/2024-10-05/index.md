@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 20:27:18](https://news.ycombinator.com/item?id=41752640) - [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
 * [2024-10-05, 20:13:57](https://news.ycombinator.com/item?id=41752560) - [Brazil's top court says X paid pending fines to wrong bank](https://www.reuters.com/technology/musks-x-seek-resumption-brazil-service-fines-paid-sources-say-2024-10-04/)
 * [2024-10-05, 19:56:51](https://news.ycombinator.com/item?id=41752465) - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 19:53:17](https://news.ycombinator.com/item?id=41752443) - [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
