@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
+* [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 07:07:20](https://news.ycombinator.com/item?id=41748201) - [The racist AI deepfake that fooled and divided a community](https://www.bbc.co.uk/news/articles/ckg9k5dv1zdo)
 * [2024-10-05, 06:50:54](https://news.ycombinator.com/item?id=41748168) - [RFC 9580: OpenPGP](https://www.rfc-editor.org/rfc/rfc9580.html)
 * [2024-10-05, 06:43:56](https://news.ycombinator.com/item?id=41748145) - [Making the Web Boring Again](https://washbear.neocities.org/browsers)
