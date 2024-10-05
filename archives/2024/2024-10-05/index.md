@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
 * [2024-10-05, 15:18:51](https://news.ycombinator.com/item?id=41750470) - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
 * [2024-10-05, 15:16:34](https://news.ycombinator.com/item?id=41750447) - [Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)
 * [2024-10-05, 14:47:13](https://news.ycombinator.com/item?id=41750253) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
