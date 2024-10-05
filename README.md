@@ -13,7 +13,6 @@
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [2024-10-05, 12:12:06](https://news.ycombinator.com/item?id=41749346) - [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
-* [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 05:43:59](https://news.ycombinator.com/item?id=41747966) - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
 * [2024-10-05, 05:15:26](https://news.ycombinator.com/item?id=41747881) - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
@@ -28,6 +27,7 @@
 * [2024-10-03, 08:24:49](https://news.ycombinator.com/item?id=41728480) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-02, 15:50:56](https://news.ycombinator.com/item?id=41721885) - [The Republic of Palau Becomes ITU's 194th Member State](https://www.itu.int:443/en/mediacentre/Pages/PR-2024-09-19-the-Republic-of-Palau-becomes-ITUs-194th-Member-State.aspx)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
+* [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
