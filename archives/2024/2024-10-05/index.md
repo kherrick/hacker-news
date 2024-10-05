@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 20:13:57](https://news.ycombinator.com/item?id=41752560) - [Brazil's top court says X paid pending fines to wrong bank](https://www.reuters.com/technology/musks-x-seek-resumption-brazil-service-fines-paid-sources-say-2024-10-04/)
+* [2024-10-05, 19:56:51](https://news.ycombinator.com/item?id=41752465) - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
+* [2024-10-05, 19:53:17](https://news.ycombinator.com/item?id=41752443) - [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
+* [2024-10-05, 19:52:09](https://news.ycombinator.com/item?id=41752436) - [What is the history of the use of \"foo\" and \"bar\" in source code examples?](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/multitasking.html)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
