@@ -10,6 +10,7 @@
 * [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 * [2024-10-02, 20:36:41](https://news.ycombinator.com/item?id=41724747) - [Divers in Mexico's Underwater Caves Get a Glimpse Artifacts, Fossils, Remains](https://www.smithsonianmag.com/travel/divers-in-mexicos-underwater-caves-get-a-glimpse-of-rarely-seen-artifacts-fossils-and-human-remains-180985159/)
 * [2024-10-02, 20:29:03](https://news.ycombinator.com/item?id=41724700) - [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html)
+* [2024-10-02, 20:24:07](https://news.ycombinator.com/item?id=41724667) - [Ratfactor's Sequence Timer](https://ratfactor.com/tools/timerseq.html)
 * [2024-10-02, 19:22:10](https://news.ycombinator.com/item?id=41724158) - [52 Factorial](https://czep.net/weblog/52cards.html)
 * [2024-10-02, 18:49:06](https://news.ycombinator.com/item?id=41723830) - [TinyJS – Shorten JavaScript QuerySelect with $ and $$](https://github.com/victorqribeiro/TinyJS)
 * [2024-10-02, 18:22:10](https://news.ycombinator.com/item?id=41723569) - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
