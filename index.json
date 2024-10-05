@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-05, 18:14:58",
-      "https://news.ycombinator.com/item?id=41751776"
-    ],
-    [
-      "Automattic turns to weaponizing responsible disclosure against WP Engine",
-      "https://twitter.com/automattic/status/1842612123488473341"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 17:48:42",
       "https://news.ycombinator.com/item?id=41751587"
     ],
@@ -61,52 +51,12 @@
   ],
   [
     [
-      "2024-10-05, 16:45:51",
-      "https://news.ycombinator.com/item?id=41751122"
-    ],
-    [
-      "Potatoes are better than human blood for making space bricks, scientists say",
-      "https://www.space.com/space-bricks-potato-starch-mars-moon-dirt"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 16:29:14",
-      "https://news.ycombinator.com/item?id=41751013"
-    ],
-    [
-      "Ask HN: What type of Auth are you using on your side projects?",
-      "https://news.ycombinator.com/item?id=41751013"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 15:51:41",
       "https://news.ycombinator.com/item?id=41750716"
     ],
     [
       "Cloudflare beats patent troll so badly it basically gives up",
       "https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 15:40:04",
-      "https://news.ycombinator.com/item?id=41750630"
-    ],
-    [
-      "I Stayed",
-      "https://zeldman.com/2024/10/04/i-stayed/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 15:18:51",
-      "https://news.ycombinator.com/item?id=41750470"
-    ],
-    [
-      "Gen AI Makes Legal Action Cheap – and Companies Need to Prepare",
-      "https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare"
     ]
   ],
   [
@@ -151,36 +101,6 @@
   ],
   [
     [
-      "2024-10-05, 12:17:24",
-      "https://news.ycombinator.com/item?id=41749371"
-    ],
-    [
-      "It's Time to Stop Taking Sam Altman at His Word",
-      "https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 12:12:06",
-      "https://news.ycombinator.com/item?id=41749346"
-    ],
-    [
-      "CERN trains AI models to revolutionize cancer treatment",
-      "https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 10:42:40",
-      "https://news.ycombinator.com/item?id=41748941"
-    ],
-    [
-      "Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required",
-      "https://github.com/Pythagora-io/pythagora"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 08:32:40",
       "https://news.ycombinator.com/item?id=41748497"
     ],
@@ -211,12 +131,62 @@
   ],
   [
     [
+      "2024-10-04, 23:38:22",
+      "https://news.ycombinator.com/item?id=41746493"
+    ],
+    [
+      "Solving mazes with neural cellular automata (2021)",
+      "https://umu1729.github.io/pages-neural-cellular-maze-solver/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 23:36:54",
+      "https://news.ycombinator.com/item?id=41746482"
+    ],
+    [
+      "One pioneering grizzly and her two cubs appear on Vancouver Island",
+      "https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 23:35:08",
+      "https://news.ycombinator.com/item?id=41746470"
+    ],
+    [
+      "Fixed-point arithmetic as a replacement for soft floats",
+      "https://pigweed.dev/docs/blog/04-fixed-point.html"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 21:34:07",
       "https://news.ycombinator.com/item?id=41745788"
     ],
     [
       "LLMs, Theory of Mind, and Cheryl's Birthday",
       "https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 21:07:30",
+      "https://news.ycombinator.com/item?id=41745591"
+    ],
+    [
+      "Wikidata as a Giant Crosswalk File",
+      "https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 20:47:10",
+      "https://news.ycombinator.com/item?id=41745426"
+    ],
+    [
+      "All Work and No Play (2021)",
+      "https://www.dissentmagazine.org/article/all-work-and-no-play/"
     ]
   ],
   [
@@ -231,22 +201,52 @@
   ],
   [
     [
-      "2024-10-04, 17:01:04",
-      "https://news.ycombinator.com/item?id=41743327"
+      "2024-10-04, 17:17:12",
+      "https://news.ycombinator.com/item?id=41743464"
     ],
     [
-      "Show HN: Open source framework OpenAI uses for Advanced Voice",
-      "https://github.com/livekit/agents"
+      "Playing with BOLT and Postgres",
+      "https://vondra.me/posts/playing-with-bolt-and-postgres/"
     ]
   ],
   [
     [
-      "2024-10-04, 15:28:51",
-      "https://news.ycombinator.com/item?id=41742432"
+      "2024-10-04, 16:24:57",
+      "https://news.ycombinator.com/item?id=41742975"
     ],
     [
-      "12 Months of Mandarin",
-      "https://isaak.net/mandarin/"
+      "A Compiler Bug (2023)",
+      "https://rsaxvc.net/blog/2023/9/29/A_compiler_bug.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 18:30:36",
+      "https://news.ycombinator.com/item?id=41733469"
+    ],
+    [
+      "The predictability of a flow which possesses many scales of motion (1969)",
+      "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.2153-3490.1969.tb00444.x"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 16:13:44",
+      "https://news.ycombinator.com/item?id=41732068"
+    ],
+    [
+      "Show HN: I have published a mobile HN client to have coffee chat with HN users",
+      "https://news.ycombinator.com/item?id=41732068"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 13:28:36",
+      "https://news.ycombinator.com/item?id=41730612"
+    ],
+    [
+      "An Intuitive Explanation of Black–Scholes",
+      "https://gregorygundersen.com/blog/2024/09/28/black-scholes/"
     ]
   ],
   [
