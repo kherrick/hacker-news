@@ -12,6 +12,7 @@
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/multitasking.html)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
+* [2024-10-05, 18:31:05](https://news.ycombinator.com/item?id=41751879) - [Spike.News – Simple News Aggregator](https://spike.news/login)
 * [2024-10-05, 18:14:58](https://news.ycombinator.com/item?id=41751776) - [Automattic turns to weaponizing responsible disclosure against WP Engine](https://twitter.com/automattic/status/1842612123488473341)
 * [2024-10-05, 18:03:04](https://news.ycombinator.com/item?id=41751692) - [McDonald's says Tyson and other suppliers fixed beef prices](https://news.bloomberglaw.com/litigation/mcdonalds-says-tyson-and-other-suppliers-fixed-beef-prices)
 * [2024-10-05, 17:48:42](https://news.ycombinator.com/item?id=41751587) - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
