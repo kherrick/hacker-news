@@ -22,6 +22,7 @@
 * [2024-10-04, 13:04:45](https://news.ycombinator.com/item?id=41740978) - [ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator](https://stuffmatic.com/chebyshev/)
+* [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
 * [2024-10-04, 00:07:30](https://news.ycombinator.com/item?id=41736429) - [炊紙(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space](https://github.com/mitoma/kashiki2)
 * [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
@@ -29,7 +30,6 @@
 * [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 * [2024-10-01, 19:28:17](https://news.ycombinator.com/item?id=41713096) - [Who posted Number Station phone numbers to Craigslist in 2006? [video]](https://www.youtube.com/watch?v=rovV2ULwcKw)
-* [2024-10-01, 15:16:18](https://news.ycombinator.com/item?id=41709525) - [The mullet is alive and well in AFL](https://www.abc.net.au/news/2024-05-23/afl-mullet-count-data-analysis/103850072)
 
 ## [Archives](archives/index.md)
 
