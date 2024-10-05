@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
 * [2024-10-05, 17:00:33](https://news.ycombinator.com/item?id=41751243) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-10-05, 16:45:51](https://news.ycombinator.com/item?id=41751122) - [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
 * [2024-10-05, 16:29:55](https://news.ycombinator.com/item?id=41751021) - [Truth Social Users Are Losing Ridiculous Sums of Money to Scams](https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
@@ -14,6 +15,7 @@
 * [2024-10-05, 13:38:36](https://news.ycombinator.com/item?id=41749742) - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 * [2024-10-05, 13:23:57](https://news.ycombinator.com/item?id=41749655) - [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
 * [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
+* [2024-10-05, 13:12:46](https://news.ycombinator.com/item?id=41749592) - [We only learnt of our son's online life after he died at 20](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 * [2024-10-05, 12:44:14](https://news.ycombinator.com/item?id=41749470) - [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [2024-10-05, 12:13:02](https://news.ycombinator.com/item?id=41749352) - [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)
