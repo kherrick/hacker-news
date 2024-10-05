@@ -65,6 +65,7 @@
 * [2024-10-01, 15:51:14](https://news.ycombinator.com/item?id=41710001) - [Better privacy can be one click away. Google and Apple won't allow it](https://www.washingtonpost.com/technology/2024/09/27/chrome-safari-privacy-setting-law-google-apple/)
 * [2024-10-01, 15:21:28](https://news.ycombinator.com/item?id=41709595) - [Antidemocratic, Racist, and Antisemitic Sentiments in Postwar West Germany](https://www.cambridge.org/core/journals/central-european-history/article/perils-of-privacy-and-passivity-antidemocratic-racist-and-antisemitic-sentiments-in-postwar-west-germany/20F2E2F41C284FD987793BD17F74F4EC)
 * [2024-10-01, 15:19:44](https://news.ycombinator.com/item?id=41709564) - [PS5 Dashboards Flooded with Unwanted Ads–Sony Claims It Wasn't Intentional](https://questalerts.com/ps5-dashboards-flooded-with-unwanted-ads-sony-claims-it-wasnt-intentional/)
+* [2024-10-01, 15:16:18](https://news.ycombinator.com/item?id=41709525) - [The mullet is alive and well in AFL](https://www.abc.net.au/news/2024-05-23/afl-mullet-count-data-analysis/103850072)
 * [2024-10-01, 15:15:23](https://news.ycombinator.com/item?id=41709510) - [I Quit Teaching Because of ChatGPT](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
 * [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
