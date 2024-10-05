@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 21:18:28](https://news.ycombinator.com/item?id=41752989) - [Buildroot](https://buildroot.org/)
 * [2024-10-05, 21:01:01](https://news.ycombinator.com/item?id=41752864) - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
 * [2024-10-05, 20:59:25](https://news.ycombinator.com/item?id=41752848) - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
 * [2024-10-05, 19:56:51](https://news.ycombinator.com/item?id=41752465) - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
@@ -10,7 +11,6 @@
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:58:57](https://news.ycombinator.com/item?id=41752081) - [Arpeggiator Cube](https://codepen.io/jak_e/full/vKJKoL)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
-* [2024-10-05, 17:48:42](https://news.ycombinator.com/item?id=41751587) - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
 * [2024-10-05, 17:46:33](https://news.ycombinator.com/item?id=41751568) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
 * [2024-10-05, 17:25:01](https://news.ycombinator.com/item?id=41751407) - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
