@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-05, 12:13:02](https://news.ycombinator.com/item?id=41749352) - [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)
 * [2024-10-05, 12:00:57](https://news.ycombinator.com/item?id=41749301) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
@@ -18,6 +17,7 @@
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [ESP32: leaving love notes and entering demoscene territory (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 * [2024-10-04, 13:48:13](https://news.ycombinator.com/item?id=41741358) - [Computer scientists combine two 'beautiful' proof methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
+* [2024-10-04, 13:04:45](https://news.ycombinator.com/item?id=41740978) - [ESP8266 Analog Broadcast Television Interface](https://github.com/cnlohr/channel3)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator](https://stuffmatic.com/chebyshev/)
 * [2024-10-04, 11:00:33](https://news.ycombinator.com/item?id=41740134) - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
