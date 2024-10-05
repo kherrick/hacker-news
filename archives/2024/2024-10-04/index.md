@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 23:38:22](https://news.ycombinator.com/item?id=41746493) - [Solving mazes with neural cellular automata (2021)](https://umu1729.github.io/pages-neural-cellular-maze-solver/)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
+* [2024-10-04, 23:35:08](https://news.ycombinator.com/item?id=41746470) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-10-04, 23:02:58](https://news.ycombinator.com/item?id=41746320) - [The Depopulation Bomb Isn't Ticking, It's Overblown](https://americandreaming.substack.com/p/the-depopulation-bomb-isnt-ticking)
 * [2024-10-04, 22:51:01](https://news.ycombinator.com/item?id=41746241) - [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
 * [2024-10-04, 22:42:07](https://news.ycombinator.com/item?id=41746180) - [Don't Squander Public Trust on Bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)
@@ -13,8 +15,10 @@
 * [2024-10-04, 21:34:07](https://news.ycombinator.com/item?id=41745788) - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
 * [2024-10-04, 21:27:27](https://news.ycombinator.com/item?id=41745750) - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
 * [2024-10-04, 21:12:46](https://news.ycombinator.com/item?id=41745636) - [If You Meet ET in Space, Kill Him](https://nautil.us/if-you-meet-et-in-space-kill-him-917243/)
+* [2024-10-04, 21:07:30](https://news.ycombinator.com/item?id=41745591) - [Wikidata as a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-04, 21:04:58](https://news.ycombinator.com/item?id=41745569) - [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
 * [2024-10-04, 21:00:18](https://news.ycombinator.com/item?id=41745521) - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41745521)
+* [2024-10-04, 20:47:10](https://news.ycombinator.com/item?id=41745426) - [All Work and No Play (2021)](https://www.dissentmagazine.org/article/all-work-and-no-play/)
 * [2024-10-04, 20:43:55](https://news.ycombinator.com/item?id=41745400) - [Wikipedia and Wikidata as sources for analyzing Americanization](https://kie.ue.poznan.pl/en/news/wikimania-2024-wikipedia-and-wikidata-as-sources-for-analyzing-americanization/)
 * [2024-10-04, 20:28:50](https://news.ycombinator.com/item?id=41745277) - [Microsoft Lisp](http://www.edm2.com/index.php/Microsoft_LISP)
 * [2024-10-04, 20:17:13](https://news.ycombinator.com/item?id=41745181) - [Activist wins privacy case against Meta over personal data on sexual orientation](https://apnews.com/article/facebook-meta-schrems-privacy-80fd4e6c59f48a3b583d6665af3ede86)
@@ -29,6 +33,7 @@
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:20:55](https://news.ycombinator.com/item?id=41743498) - [Money Buys Happiness, Even If You're Already Rich](https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105)
 * [2024-10-04, 17:20:04](https://news.ycombinator.com/item?id=41743488) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
+* [2024-10-04, 17:17:12](https://news.ycombinator.com/item?id=41743464) - [Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)
 * [2024-10-04, 17:03:54](https://news.ycombinator.com/item?id=41743355) - [Heisenberg and the early days of quantum mechanics (1976) [pdf]](https://cs.westminstercollege.edu/~ccline/courses/phys301/PT_29(12)_p23.pdf)
 * [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
 * [2024-10-04, 17:01:01](https://news.ycombinator.com/item?id=41743325) - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
