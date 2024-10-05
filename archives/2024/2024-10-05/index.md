@@ -15,6 +15,7 @@
 * [2024-10-05, 19:35:31](https://news.ycombinator.com/item?id=41752327) - [Router Security](https://routersecurity.org/)
 * [2024-10-05, 19:09:47](https://news.ycombinator.com/item?id=41752158) - [Weird Nonfiction](https://lareviewofbooks.org/article/weird-nonfiction/)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
+* [2024-10-05, 18:58:57](https://news.ycombinator.com/item?id=41752081) - [Arpeggiator Cube](https://codepen.io/jak_e/full/vKJKoL)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 * [2024-10-05, 18:31:05](https://news.ycombinator.com/item?id=41751879) - [Spike.News – Simple News Aggregator](https://spike.news/login)
 * [2024-10-05, 18:14:58](https://news.ycombinator.com/item?id=41751776) - [Automattic turns to weaponizing responsible disclosure against WP Engine](https://twitter.com/automattic/status/1842612123488473341)
