@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 13:38:36](https://news.ycombinator.com/item?id=41749742) - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 * [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 * [2024-10-05, 12:44:14](https://news.ycombinator.com/item?id=41749470) - [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
@@ -19,7 +20,6 @@
 * [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
 * [2024-10-04, 15:15:24](https://news.ycombinator.com/item?id=41742278) - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-* [2024-10-04, 14:10:57](https://news.ycombinator.com/item?id=41741614) - [ESP32: leaving love notes and entering demoscene territory (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 * [2024-10-04, 13:48:13](https://news.ycombinator.com/item?id=41741358) - [Computer scientists combine two 'beautiful' proof methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator](https://stuffmatic.com/chebyshev/)
