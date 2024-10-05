@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 * [2024-10-05, 12:44:14](https://news.ycombinator.com/item?id=41749470) - [Decoding the Language of Othering by Russia-Ukraine War Bloggers](https://arxiv.org/abs/2409.13064)
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [2024-10-05, 12:13:02](https://news.ycombinator.com/item?id=41749352) - [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)
 * [2024-10-05, 12:12:06](https://news.ycombinator.com/item?id=41749346) - [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
 * [2024-10-05, 12:00:57](https://news.ycombinator.com/item?id=41749301) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
+* [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 07:07:20](https://news.ycombinator.com/item?id=41748201) - [The racist AI deepfake that fooled and divided a community](https://www.bbc.co.uk/news/articles/ckg9k5dv1zdo)

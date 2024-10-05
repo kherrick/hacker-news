@@ -20,6 +20,7 @@
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 20:54:59](https://news.ycombinator.com/item?id=41734889) - [Opinion letter about Robert Roberson, about to be executed in Texas](https://shakenbaby.science/roberson.html)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
+* [2024-10-03, 20:01:45](https://news.ycombinator.com/item?id=41734368) - [Why I Like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
 * [2024-10-03, 19:34:33](https://news.ycombinator.com/item?id=41734119) - [US Dept of Energy announces $1.5B in electric grid improvements](https://www.upi.com/Top_News/US/2024/10/03/energy-department-electric-grid-investment/3631727969828/)
 * [2024-10-03, 19:25:41](https://news.ycombinator.com/item?id=41734047) - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
 * [2024-10-03, 19:25:25](https://news.ycombinator.com/item?id=41734046) - [Google Says It Won't Follow Amazon's Lead with a Return-to-Office Mandate](https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683)
