@@ -68,6 +68,7 @@
 * [2024-10-03, 08:17:17](https://news.ycombinator.com/item?id=41728430) - [Pirates of the Caribbean Hijacked America's Metric System](https://www.npr.org/sections/thetwo-way/2017/12/28/574044232/how-pirates-of-the-caribbean-hijacked-americas-metric-system)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 * [2024-10-03, 07:51:55](https://news.ycombinator.com/item?id=41728284) - [Should Insider Trading Be Legal?](https://www.cato.org/blog/should-insider-trading-be-legal)
+* [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
 * [2024-10-03, 07:35:34](https://news.ycombinator.com/item?id=41728173) - [Employers Say Students Need AI Skills. What If Students Don't Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
 * [2024-10-03, 07:04:01](https://news.ycombinator.com/item?id=41728001) - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 * [2024-10-03, 06:58:03](https://news.ycombinator.com/item?id=41727971) - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)

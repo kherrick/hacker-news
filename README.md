@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 18:14:58](https://news.ycombinator.com/item?id=41751776) - [Automattic turns to weaponizing responsible disclosure against WP Engine](https://twitter.com/automattic/status/1842612123488473341)
 * [2024-10-05, 18:03:04](https://news.ycombinator.com/item?id=41751692) - [McDonald's says Tyson and other suppliers fixed beef prices](https://news.bloomberglaw.com/litigation/mcdonalds-says-tyson-and-other-suppliers-fixed-beef-prices)
 * [2024-10-05, 17:48:42](https://news.ycombinator.com/item?id=41751587) - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
 * [2024-10-05, 17:46:33](https://news.ycombinator.com/item?id=41751568) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
@@ -20,16 +21,15 @@
 * [2024-10-05, 05:43:59](https://news.ycombinator.com/item?id=41747966) - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
 * [2024-10-05, 05:15:26](https://news.ycombinator.com/item?id=41747881) - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
 * [2024-10-04, 21:34:07](https://news.ycombinator.com/item?id=41745788) - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
-* [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 18:52:46](https://news.ycombinator.com/item?id=41744434) - [Mitmproxy 11: Full HTTP/3 Support](https://mitmproxy.org/posts/releases/mitmproxy-11/)
 * [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: Open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
-* [2024-10-04, 15:15:24](https://news.ycombinator.com/item?id=41742278) - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
-* [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-* [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+* [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
 * [2024-10-03, 08:24:49](https://news.ycombinator.com/item?id=41728480) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
+* [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
 * [2024-10-02, 15:50:56](https://news.ycombinator.com/item?id=41721885) - [The Republic of Palau Becomes ITU's 194th Member State](https://www.itu.int:443/en/mediacentre/Pages/PR-2024-09-19-the-Republic-of-Palau-becomes-ITUs-194th-Member-State.aspx)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
+* [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
 ## [Archives](archives/index.md)
 
