@@ -21,7 +21,6 @@
 * [2024-10-04, 23:35:08](https://news.ycombinator.com/item?id=41746470) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-10-04, 21:07:30](https://news.ycombinator.com/item?id=41745591) - [Wikidata as a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-04, 20:47:10](https://news.ycombinator.com/item?id=41745426) - [All Work and No Play (2021)](https://www.dissentmagazine.org/article/all-work-and-no-play/)
-* [2024-10-04, 18:52:46](https://news.ycombinator.com/item?id=41744434) - [Mitmproxy 11: Full HTTP/3 Support](https://mitmproxy.org/posts/releases/mitmproxy-11/)
 * [2024-10-04, 17:17:12](https://news.ycombinator.com/item?id=41743464) - [Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)
 * [2024-10-03, 16:13:44](https://news.ycombinator.com/item?id=41732068) - [Show HN: I have published a mobile HN client to have coffee chat with HN users](https://news.ycombinator.com/item?id=41732068)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
@@ -29,6 +28,7 @@
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
 * [2024-10-02, 15:50:56](https://news.ycombinator.com/item?id=41721885) - [The Republic of Palau Becomes ITU's 194th Member State](https://www.itu.int:443/en/mediacentre/Pages/PR-2024-09-19-the-Republic-of-Palau-becomes-ITUs-194th-Member-State.aspx)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
+* [2024-10-02, 05:28:04](https://news.ycombinator.com/item?id=41717448) - [Getentropy() vs. RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 
 ## [Archives](archives/index.md)
