@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-05, 17:00:33](https://news.ycombinator.com/item?id=41751243) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-* [2024-10-05, 16:53:45](https://news.ycombinator.com/item?id=41751180) - [We should have given Ukraine more weapons earlier, says ex-NATO chief](https://www.politico.eu/article/war-ukraine-nato-chief-weapons-russia-jens-stoltenberg/)
 * [2024-10-05, 16:45:51](https://news.ycombinator.com/item?id=41751122) - [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
@@ -13,6 +12,7 @@
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [2024-10-05, 12:12:06](https://news.ycombinator.com/item?id=41749346) - [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
+* [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 05:43:59](https://news.ycombinator.com/item?id=41747966) - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
 * [2024-10-05, 05:15:26](https://news.ycombinator.com/item?id=41747881) - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
