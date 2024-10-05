@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 17:00:33](https://news.ycombinator.com/item?id=41751243) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-10-05, 16:29:55](https://news.ycombinator.com/item?id=41751021) - [Truth Social Users Are Losing Ridiculous Sums of Money to Scams](https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604)
 * [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
