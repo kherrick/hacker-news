@@ -46,6 +46,7 @@
 * [2024-10-02, 11:19:34](https://news.ycombinator.com/item?id=41719335) - [Personal Names Around the World (2011)](https://www.w3.org/International/questions/qa-personal-names)
 * [2024-10-02, 10:44:59](https://news.ycombinator.com/item?id=41719143) - [Researchers develop first banana plant resistant to TR4 and black sigatoka](https://phys.org/news/2024-10-banana-resistant-tr4-black-sigatoka.html)
 * [2024-10-02, 10:40:20](https://news.ycombinator.com/item?id=41719122) - [Show HN: A Demo for a Strategy Game](https://store.steampowered.com/app/2389320/Fall_of_an_Empire_Demo/)
+* [2024-10-02, 10:35:27](https://news.ycombinator.com/item?id=41719095) - [Right to Left Computability (2020)](https://rsaxvc.net/blog/2020/11/21/Right_to_Left_Computability.html)
 * [2024-10-02, 10:24:22](https://news.ycombinator.com/item?id=41719031) - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 * [2024-10-02, 10:18:18](https://news.ycombinator.com/item?id=41718993) - [What Your Job Ad Says About You](https://www.talentstuff.com/blog/what-your-job-ad-says-about-you)
 * [2024-10-02, 10:10:26](https://news.ycombinator.com/item?id=41718947) - [Interviewing for Evidence](https://dannorth.net/interviewing-for-evidence/)
