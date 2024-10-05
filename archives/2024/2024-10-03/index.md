@@ -64,6 +64,7 @@
 * [2024-10-03, 10:36:10](https://news.ycombinator.com/item?id=41729278) - [EU: Definition of \"potential terrorists\" opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
 * [2024-10-03, 09:21:23](https://news.ycombinator.com/item?id=41728859) - [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
 * [2024-10-03, 09:16:25](https://news.ycombinator.com/item?id=41728829) - [France's oldest treasure hunt has been solved](https://goldenowlhunt.com/)
+* [2024-10-03, 08:24:49](https://news.ycombinator.com/item?id=41728480) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-03, 08:17:17](https://news.ycombinator.com/item?id=41728430) - [Pirates of the Caribbean Hijacked America's Metric System](https://www.npr.org/sections/thetwo-way/2017/12/28/574044232/how-pirates-of-the-caribbean-hijacked-americas-metric-system)
 * [2024-10-03, 08:07:24](https://news.ycombinator.com/item?id=41728369) - [Ever: Exact Volumetric Ellipsoid Rendering for Real-Time View Synthesis](https://half-potato.gitlab.io/posts/ever/)
 * [2024-10-03, 07:51:55](https://news.ycombinator.com/item?id=41728284) - [Should Insider Trading Be Legal?](https://www.cato.org/blog/should-insider-trading-be-legal)
