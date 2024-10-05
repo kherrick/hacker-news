@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
 * [2024-10-02, 22:34:38](https://news.ycombinator.com/item?id=41725558) - [Show HN: End-to-End Encrypted Dead Man's Switch](https://www.cipherwill.com/)
+* [2024-10-02, 21:42:07](https://news.ycombinator.com/item?id=41725239) - [How to Renovate Your Home for a Billion Children](https://www.wired.com/story/inside-tiktok-unhinged-home-remodeling-videos/)
 * [2024-10-02, 21:03:15](https://news.ycombinator.com/item?id=41724950) - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41724950)
 * [2024-10-02, 20:53:47](https://news.ycombinator.com/item?id=41724881) - [Anatomy of an Internet Argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
 * [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
