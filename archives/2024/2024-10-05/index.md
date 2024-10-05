@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 18:03:04](https://news.ycombinator.com/item?id=41751692) - [McDonald's says Tyson and other suppliers fixed beef prices](https://news.bloomberglaw.com/litigation/mcdonalds-says-tyson-and-other-suppliers-fixed-beef-prices)
+* [2024-10-05, 17:48:42](https://news.ycombinator.com/item?id=41751587) - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
+* [2024-10-05, 17:46:33](https://news.ycombinator.com/item?id=41751568) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
+* [2024-10-05, 17:25:01](https://news.ycombinator.com/item?id=41751407) - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
 * [2024-10-05, 17:00:33](https://news.ycombinator.com/item?id=41751243) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-10-05, 16:53:45](https://news.ycombinator.com/item?id=41751180) - [We should have given Ukraine more weapons earlier, says ex-NATO chief](https://www.politico.eu/article/war-ukraine-nato-chief-weapons-russia-jens-stoltenberg/)
 * [2024-10-05, 16:45:51](https://news.ycombinator.com/item?id=41751122) - [Potatoes are better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
