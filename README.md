@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 14:47:13](https://news.ycombinator.com/item?id=41750253) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
 * [2024-10-05, 13:38:36](https://news.ycombinator.com/item?id=41749742) - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 * [2024-10-05, 13:23:57](https://news.ycombinator.com/item?id=41749655) - [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
 * [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
@@ -28,7 +29,6 @@
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 * [2024-10-02, 00:06:28](https://news.ycombinator.com/item?id=41715822) - [The Recovery of Case (2016)](https://inference-review.com/article/the-recovery-of-case)
 * [2024-10-01, 23:59:16](https://news.ycombinator.com/item?id=41715767) - [The Soldiers' Philosopher (2014)](https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher)
-* [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
 ## [Archives](archives/index.md)
