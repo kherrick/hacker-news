@@ -69,6 +69,7 @@
 * [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 * [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
 * [2024-10-02, 03:44:05](https://news.ycombinator.com/item?id=41716957) - [Tapia, Tabbi, Tabique, Tabby](https://placesjournal.org/article/tabby-concrete-black-indigenous-history/)
+* [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
 * [2024-10-02, 01:32:36](https://news.ycombinator.com/item?id=41716347) - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
 * [2024-10-02, 01:01:00](https://news.ycombinator.com/item?id=41716162) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-10-02, 00:45:55](https://news.ycombinator.com/item?id=41716075) - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
