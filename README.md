@@ -10,7 +10,6 @@
 * [2024-10-04, 19:57:38](https://news.ycombinator.com/item?id=41745032) - [How were 70s versions of games like Pong built without a programmable computer?](https://retrocomputing.stackexchange.com/questions/30698/how-were-the-70s-versions-of-pong-and-similar-games-implemented-without-a-progra)
 * [2024-10-04, 18:52:46](https://news.ycombinator.com/item?id=41744434) - [Mitmproxy 11: Full HTTP/3 Support](https://mitmproxy.org/posts/releases/mitmproxy-11/)
 * [2024-10-04, 17:49:01](https://news.ycombinator.com/item?id=41743780) - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
-* [2024-10-04, 17:03:54](https://news.ycombinator.com/item?id=41743355) - [Heisenberg and the early days of quantum mechanics (1976) [pdf]](https://cs.westminstercollege.edu/~ccline/courses/phys301/PT_29(12)_p23.pdf)
 * [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: Open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
 * [2024-10-04, 16:24:57](https://news.ycombinator.com/item?id=41742975) - [A Compiler Bug (2023)](https://rsaxvc.net/blog/2023/9/29/A_compiler_bug.html)
 * [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
@@ -28,6 +27,7 @@
 * [2024-10-04, 00:07:30](https://news.ycombinator.com/item?id=41736429) - [炊紙(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space](https://github.com/mitoma/kashiki2)
 * [2024-10-02, 20:24:07](https://news.ycombinator.com/item?id=41724667) - [Ratfactor's Sequence Timer](https://ratfactor.com/tools/timerseq.html)
 * [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
+* [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 * [2024-10-01, 23:54:02](https://news.ycombinator.com/item?id=41715733) - [The other British invasion: how UK lingo conquered the US](https://www.theguardian.com/science/2024/sep/26/other-british-invasion-how-uk-language-conquered-the-us)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
