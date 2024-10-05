@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/multitasking.html)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 * [2024-10-05, 17:48:42](https://news.ycombinator.com/item?id=41751587) - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
@@ -25,7 +26,6 @@
 * [2024-10-03, 18:30:36](https://news.ycombinator.com/item?id=41733469) - [The predictability of a flow which possesses many scales of motion (1969)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.2153-3490.1969.tb00444.x)
 * [2024-10-03, 16:13:44](https://news.ycombinator.com/item?id=41732068) - [Show HN: I have published a mobile HN client to have coffee chat with HN users](https://news.ycombinator.com/item?id=41732068)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
-* [2024-10-03, 08:24:49](https://news.ycombinator.com/item?id=41728480) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
 * [2024-10-02, 15:50:56](https://news.ycombinator.com/item?id=41721885) - [The Republic of Palau Becomes ITU's 194th Member State](https://www.itu.int:443/en/mediacentre/Pages/PR-2024-09-19-the-Republic-of-Palau-becomes-ITUs-194th-Member-State.aspx)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
