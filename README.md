@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 15:18:51](https://news.ycombinator.com/item?id=41750470) - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
 * [2024-10-05, 14:47:13](https://news.ycombinator.com/item?id=41750253) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
 * [2024-10-05, 13:38:36](https://news.ycombinator.com/item?id=41749742) - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 * [2024-10-05, 13:23:57](https://news.ycombinator.com/item?id=41749655) - [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
@@ -27,7 +28,6 @@
 * [2024-10-02, 21:42:07](https://news.ycombinator.com/item?id=41725239) - [How to Renovate Your Home for a Billion Children](https://www.wired.com/story/inside-tiktok-unhinged-home-remodeling-videos/)
 * [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
-* [2024-10-02, 00:06:28](https://news.ycombinator.com/item?id=41715822) - [The Recovery of Case (2016)](https://inference-review.com/article/the-recovery-of-case)
 * [2024-10-01, 23:59:16](https://news.ycombinator.com/item?id=41715767) - [The Soldiers' Philosopher (2014)](https://www.philosophyforlife.org/blog/nancy-sherman-the-soldiers-philosopher)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
 
