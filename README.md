@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-05, 15:51:41](https://news.ycombinator.com/item?id=41750716) - [Cloudflare beats patent troll so badly it basically gives up](https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/)
 * [2024-10-05, 15:40:04](https://news.ycombinator.com/item?id=41750630) - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
 * [2024-10-05, 15:18:51](https://news.ycombinator.com/item?id=41750470) - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
 * [2024-10-05, 14:47:13](https://news.ycombinator.com/item?id=41750253) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
@@ -26,7 +27,6 @@
 * [2024-10-04, 13:03:00](https://news.ycombinator.com/item?id=41740965) - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
 * [2024-10-04, 12:09:18](https://news.ycombinator.com/item?id=41740568) - [Show HN: Chebyshev approximation calculator](https://stuffmatic.com/chebyshev/)
 * [2024-10-03, 08:24:49](https://news.ycombinator.com/item?id=41728480) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
-* [2024-10-02, 21:42:07](https://news.ycombinator.com/item?id=41725239) - [How to Renovate Your Home for a Billion Children](https://www.wired.com/story/inside-tiktok-unhinged-home-remodeling-videos/)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 * [2024-10-01, 20:03:25](https://news.ycombinator.com/item?id=41713476) - [Insider trader had all the answers](https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers)
