@@ -29,6 +29,7 @@
 * [2024-10-04, 17:40:18](https://news.ycombinator.com/item?id=41743688) - [Manna – Two Views of Humanity's Future](https://marshallbrain.com/manna1)
 * [2024-10-04, 17:20:55](https://news.ycombinator.com/item?id=41743498) - [Money Buys Happiness, Even If You're Already Rich](https://www.wsj.com/personal-finance/money-buys-happiness-even-if-youre-already-rich-51481105)
 * [2024-10-04, 17:20:04](https://news.ycombinator.com/item?id=41743488) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
+* [2024-10-04, 17:03:54](https://news.ycombinator.com/item?id=41743355) - [Heisenberg and the early days of quantum mechanics (1976) [pdf]](https://cs.westminstercollege.edu/~ccline/courses/phys301/PT_29(12)_p23.pdf)
 * [2024-10-04, 17:01:04](https://news.ycombinator.com/item?id=41743327) - [Show HN: open source framework OpenAI uses for Advanced Voice](https://github.com/livekit/agents)
 * [2024-10-04, 17:01:01](https://news.ycombinator.com/item?id=41743325) - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
 * [2024-10-04, 16:50:07](https://news.ycombinator.com/item?id=41743233) - [Vaccines, Past and Present](https://www.science.org/content/blog-post/vaccines-past-and-present)
@@ -81,3 +82,4 @@
 * [2024-10-04, 00:44:45](https://news.ycombinator.com/item?id=41736660) - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
 * [2024-10-04, 00:36:44](https://news.ycombinator.com/item?id=41736605) - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
 * [2024-10-04, 00:14:56](https://news.ycombinator.com/item?id=41736470) - [Perfctl: A Stealthy Malware Targeting Linux Servers](https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/)
+* [2024-10-04, 00:07:30](https://news.ycombinator.com/item?id=41736429) - [炊紙(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space](https://github.com/mitoma/kashiki2)
