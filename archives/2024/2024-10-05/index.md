@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 21:01:01](https://news.ycombinator.com/item?id=41752864) - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
 * [2024-10-05, 20:27:18](https://news.ycombinator.com/item?id=41752640) - [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
 * [2024-10-05, 20:13:57](https://news.ycombinator.com/item?id=41752560) - [Brazil's top court says X paid pending fines to wrong bank](https://www.reuters.com/technology/musks-x-seek-resumption-brazil-service-fines-paid-sources-say-2024-10-04/)
 * [2024-10-05, 19:56:51](https://news.ycombinator.com/item?id=41752465) - [Wikidata Is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
