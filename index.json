@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-10-06, 18:15:23",
+      "https://news.ycombinator.com/item?id=41758915"
+    ],
+    [
+      "Gleam Is Pragmatic",
+      "https://blog.drewolson.org/gleam-is-pragmatic/"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 17:41:59",
+      "https://news.ycombinator.com/item?id=41758693"
+    ],
+    [
+      "XFCE 4.20 Aims to Bring Preliminary Wayland Support",
+      "https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 17:33:57",
+      "https://news.ycombinator.com/item?id=41758644"
+    ],
+    [
+      "Popular Science Magazine Archives May 1872-March 2009",
+      "https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 17:00:19",
       "https://news.ycombinator.com/item?id=41758470"
     ],
     [
       "Trellis (YC W24) is hiring eng to build AI workflows for unstructured data",
       "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 16:11:40",
+      "https://news.ycombinator.com/item?id=41758097"
+    ],
+    [
+      "Ziggy: Data serialization language for expressing API messages, config files",
+      "https://ziggy-lang.io"
     ]
   ],
   [
@@ -21,12 +61,22 @@
   ],
   [
     [
-      "2024-10-06, 12:58:24",
-      "https://news.ycombinator.com/item?id=41756842"
+      "2024-10-06, 15:18:42",
+      "https://news.ycombinator.com/item?id=41757713"
     ],
     [
-      "WiFi4EU initiative provides free Wi-Fi in public spaces across Europe",
-      "https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en"
+      "Abuse ZSH Parameter Expansion to Expand GNU-Style Arguments",
+      "http://matthewdippel.blogspot.com/2024/10/howto-abuse-zsh-parameter-expansion-to.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 15:18:20",
+      "https://news.ycombinator.com/item?id=41757711"
+    ],
+    [
+      "AI is an impediment to learning web development",
+      "https://ben.page/jumbocode-ai"
     ]
   ],
   [
@@ -65,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41756371"
     ],
     [
-      "AIHawk: AI bot to automatically apply jobs",
+      "AIHawk: AI bot to automatically apply for jobs",
       "https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk"
     ]
   ],
@@ -131,42 +181,42 @@
   ],
   [
     [
-      "2024-10-06, 00:00:04",
-      "https://news.ycombinator.com/item?id=41753741"
+      "2024-10-05, 13:05:05",
+      "https://news.ycombinator.com/item?id=41749567"
     ],
     [
-      "Arthur Whitney's one liner sudoku solver (2011)",
-      "https://dfns.dyalog.com/n_sudoku.htm"
+      "Show HN: CodeAir – Control VS Code from Your Phone",
+      "https://www.codeair.app"
     ]
   ],
   [
     [
-      "2024-10-05, 19:52:09",
-      "https://news.ycombinator.com/item?id=41752436"
+      "2024-10-05, 12:06:51",
+      "https://news.ycombinator.com/item?id=41749326"
     ],
     [
-      "What is the history of the use of \"foo\" and \"bar\" in source code examples? (2012)",
-      "https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples"
+      "King vs. Kubrick: The Origins of Evil (2020)",
+      "https://www.sensesofcinema.com/2020/the-shining-at-40/king-vs-kubrick-the-origins-of-evil/"
     ]
   ],
   [
     [
-      "2024-10-05, 13:16:30",
-      "https://news.ycombinator.com/item?id=41749612"
+      "2024-10-05, 11:35:19",
+      "https://news.ycombinator.com/item?id=41749185"
     ],
     [
-      "The Globus INK: a mechanical navigation computer for Soviet spaceflight (2023)",
-      "https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html"
+      "Starbase: SQLite on the Edge",
+      "https://starbasedb.com/"
     ]
   ],
   [
     [
-      "2024-10-05, 11:19:56",
-      "https://news.ycombinator.com/item?id=41749121"
+      "2024-10-05, 09:47:02",
+      "https://news.ycombinator.com/item?id=41748738"
     ],
     [
-      "Show HN: Brisa Framework – Unifying server and client using the Web Platform",
-      "https://brisa.build/"
+      "Congress fights to keep AM radio in cars",
+      "https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/"
     ]
   ],
   [
@@ -181,6 +231,16 @@
   ],
   [
     [
+      "2024-10-05, 08:20:22",
+      "https://news.ycombinator.com/item?id=41748448"
+    ],
+    [
+      "Pantheon: Parsing command line arguments",
+      "https://traxys.me/sheshat_pantheon_3.html"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 05:51:58",
       "https://news.ycombinator.com/item?id=41747979"
     ],
@@ -191,52 +251,12 @@
   ],
   [
     [
-      "2024-10-04, 23:36:54",
-      "https://news.ycombinator.com/item?id=41746482"
-    ],
-    [
-      "One pioneering grizzly and her two cubs appear on Vancouver Island",
-      "https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 13:28:36",
-      "https://news.ycombinator.com/item?id=41730612"
-    ],
-    [
-      "An Intuitive Explanation of Black–Scholes",
-      "https://gregorygundersen.com/blog/2024/09/28/black-scholes/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 07:08:14",
-      "https://news.ycombinator.com/item?id=41728022"
-    ],
-    [
-      "Statisticians use a technique that leverages randomness to deal with the unknown",
-      "https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 14:10:07",
       "https://news.ycombinator.com/item?id=41720846"
     ],
     [
       "Distributed transactions in Go: Read before you try",
       "https://threedots.tech/post/distributed-transactions-in-go"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 05:46:53",
-      "https://news.ycombinator.com/item?id=41717546"
-    ],
-    [
-      "Show HN: Gato Prompt Lang – keep prompt content and responses short in JSON",
-      "https://github.com/ListfulAl/gpl"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Life, death, and retirement",
       "https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 15:08:49",
-      "https://news.ycombinator.com/item?id=41709429"
-    ],
-    [
-      "Sometimes the product innovation is the distribution",
-      "https://interconnected.org/home/2024/09/27/distribution"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 14:43:05",
-      "https://news.ycombinator.com/item?id=41709087"
-    ],
-    [
-      "The World of Electrostatic Ecology",
-      "https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/"
     ]
   ]
 ]
