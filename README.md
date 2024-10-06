@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 18:27:01](https://news.ycombinator.com/item?id=41759005) - [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
+* [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2001)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
 * [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 * [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
@@ -16,10 +18,9 @@
 * [2024-10-06, 11:03:21](https://news.ycombinator.com/item?id=41756286) - [LaTeX Style Guide for EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
-* [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
 * [2024-10-05, 13:05:05](https://news.ycombinator.com/item?id=41749567) - [Show HN: CodeAir – Control VS Code from Your Phone](https://www.codeair.app)
-* [2024-10-05, 12:06:51](https://news.ycombinator.com/item?id=41749326) - [King vs. Kubrick: The Origins of Evil (2020)](https://www.sensesofcinema.com/2020/the-shining-at-40/king-vs-kubrick-the-origins-of-evil/)
+* [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
@@ -28,7 +29,6 @@
 * [2024-10-02, 14:10:07](https://news.ycombinator.com/item?id=41720846) - [Distributed transactions in Go: Read before you try](https://threedots.tech/post/distributed-transactions-in-go)
 * [2024-10-02, 04:29:08](https://news.ycombinator.com/item?id=41717183) - [Ventilation and Temperature Control (1999) [pdf]](https://www.ashrae.org/file%20library/about/mission%20and%20vision/ashrae%20and%20industry%20history/the-history-of-ventilation-and-temperature-control.pdf)
 * [2024-10-02, 03:45:30](https://news.ycombinator.com/item?id=41716961) - [Let the network tell you where you are](http://rachelbythebay.com/w/2024/10/01/lldp/)
-* [2024-10-01, 22:43:04](https://news.ycombinator.com/item?id=41715084) - [Pine martens return to Dartmoor after 150-year absence](https://www.theguardian.com/uk-news/2024/oct/01/pine-martens-return-to-dartmoor-after-150-year-absence)
 * [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 
 ## [Archives](archives/index.md)

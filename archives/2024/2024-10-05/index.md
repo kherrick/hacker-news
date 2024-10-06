@@ -47,6 +47,7 @@
 * [2024-10-05, 12:06:51](https://news.ycombinator.com/item?id=41749326) - [King vs. Kubrick: The Origins of Evil (2020)](https://www.sensesofcinema.com/2020/the-shining-at-40/king-vs-kubrick-the-origins-of-evil/)
 * [2024-10-05, 12:06:51](https://news.ycombinator.com/item?id=41749326) - [A closer look at Stephen King's famous critique of \"The Shining\" movie](https://trinitonian.com/2023/10/27/a-closer-look-at-stephen-kings-famous-critique-of-the-shining-movie/)
 * [2024-10-05, 12:00:57](https://news.ycombinator.com/item?id=41749301) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
+* [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
