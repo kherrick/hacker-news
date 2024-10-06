@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 04:03:07](https://news.ycombinator.com/item?id=41754657) - [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
@@ -10,7 +11,6 @@
 * [2024-10-05, 21:01:01](https://news.ycombinator.com/item?id=41752864) - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
 * [2024-10-05, 20:59:25](https://news.ycombinator.com/item?id=41752848) - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
 * [2024-10-05, 19:09:47](https://news.ycombinator.com/item?id=41752158) - [Weird Nonfiction](https://lareviewofbooks.org/article/weird-nonfiction/)
-* [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:58:57](https://news.ycombinator.com/item?id=41752081) - [Arpeggiator Cube](https://codepen.io/jak_e/full/vKJKoL)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material (2017)](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 * [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
