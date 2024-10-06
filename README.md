@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 * [2024-10-06, 19:08:11](https://news.ycombinator.com/item?id=41759360) - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
 * [2024-10-06, 18:42:37](https://news.ycombinator.com/item?id=41759149) - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
@@ -11,7 +12,6 @@
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
 * [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 * [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
-* [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 15:18:20](https://news.ycombinator.com/item?id=41757711) - [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
