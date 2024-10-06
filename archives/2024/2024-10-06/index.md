@@ -7,6 +7,7 @@
 * [2024-10-06, 11:12:53](https://news.ycombinator.com/item?id=41756327) - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
+* [2024-10-06, 09:15:54](https://news.ycombinator.com/item?id=41755866) - [Controversy over introduction of numberplates](https://www.autocar.co.uk/car-news/from-the-archive/controversy-over-introduction-numberplates)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:36:21](https://news.ycombinator.com/item?id=41755722) - [Antarctica is turning green at an alarming rate, satellite images show](https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
