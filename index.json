@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2024-10-06, 12:01:42",
+      "https://news.ycombinator.com/item?id=41756512"
+    ],
+    [
+      "Do We Need a 37-Cent Coin? (2009)",
+      "https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 11:37:52",
       "https://news.ycombinator.com/item?id=41756416"
     ],
     [
-      "Imagining faces in tree trunks and your morning eggs? AI can see them, too",
+      "Seeing Faces in Things: A model and dataset for pareidolia",
       "https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41756286"
     ],
     [
-      "Mathematical Writing Style Guide for Stanford EE 364B [pdf] (2014)",
+      "LaTeX Style Guide for EE 364B [pdf] (2014)",
       "https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "What is the history of the use of \"foo\" and \"bar\" in source code examples? (2012)",
       "https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 18:51:28",
-      "https://news.ycombinator.com/item?id=41752020"
-    ],
-    [
-      "CoRncrete: A corn starch based building material (2017)",
-      "https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=41720846"
     ],
     [
-      "Distributed Transactions in Go: Read Before You Try",
+      "Distributed transactions in Go: Read before you try",
       "https://threedots.tech/post/distributed-transactions-in-go"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41716961"
     ],
     [
-      "Let the network tell you where you are: a nerd snipe story",
+      "Let the network tell you where you are",
       "http://rachelbythebay.com/w/2024/10/01/lldp/"
     ]
   ],
