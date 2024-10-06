@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:57:44](https://news.ycombinator.com/item?id=41754411) - [ComfyUI Custom Node for OpenAI](https://github.com/ComfyUI-Workflow/ComfyUI-OpenAI)
