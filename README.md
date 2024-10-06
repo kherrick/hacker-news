@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-06, 18:27:01](https://news.ycombinator.com/item?id=41759005) - [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
+* [2024-10-06, 18:18:00](https://news.ycombinator.com/item?id=41758931) - [Exoplanet found around our closest lone star](https://cosmosmagazine.com/space/astronomy/exoplanet-closest-lone-star/)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2001)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
@@ -19,7 +21,6 @@
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
-* [2024-10-05, 13:05:05](https://news.ycombinator.com/item?id=41749567) - [Show HN: CodeAir – Control VS Code from Your Phone](https://www.codeair.app)
 * [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
@@ -28,7 +29,6 @@
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-02, 14:10:07](https://news.ycombinator.com/item?id=41720846) - [Distributed transactions in Go: Read before you try](https://threedots.tech/post/distributed-transactions-in-go)
 * [2024-10-02, 04:29:08](https://news.ycombinator.com/item?id=41717183) - [Ventilation and Temperature Control (1999) [pdf]](https://www.ashrae.org/file%20library/about/mission%20and%20vision/ashrae%20and%20industry%20history/the-history-of-ventilation-and-temperature-control.pdf)
-* [2024-10-02, 03:45:30](https://news.ycombinator.com/item?id=41716961) - [Let the network tell you where you are](http://rachelbythebay.com/w/2024/10/01/lldp/)
 * [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 
 ## [Archives](archives/index.md)
