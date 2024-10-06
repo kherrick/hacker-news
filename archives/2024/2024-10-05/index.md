@@ -48,6 +48,7 @@
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
+* [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\N'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 07:07:20](https://news.ycombinator.com/item?id=41748201) - [The racist AI deepfake that fooled and divided a community](https://www.bbc.co.uk/news/articles/ckg9k5dv1zdo)
 * [2024-10-05, 06:50:54](https://news.ycombinator.com/item?id=41748168) - [RFC 9580: OpenPGP](https://www.rfc-editor.org/rfc/rfc9580.html)
