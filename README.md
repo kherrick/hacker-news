@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 02:44:05](https://news.ycombinator.com/item?id=41754353) - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
 * [2024-10-06, 01:28:28](https://news.ycombinator.com/item?id=41754074) - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit – again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
@@ -9,7 +10,6 @@
 * [2024-10-05, 21:18:28](https://news.ycombinator.com/item?id=41752989) - [Buildroot](https://buildroot.org/)
 * [2024-10-05, 21:01:01](https://news.ycombinator.com/item?id=41752864) - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
 * [2024-10-05, 20:59:25](https://news.ycombinator.com/item?id=41752848) - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
-* [2024-10-05, 19:52:09](https://news.ycombinator.com/item?id=41752436) - [What is the history of the use of \"foo\" and \"bar\" in source code examples? (2012)](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 * [2024-10-05, 19:35:31](https://news.ycombinator.com/item?id=41752327) - [Router Security](https://routersecurity.org/)
 * [2024-10-05, 19:09:47](https://news.ycombinator.com/item?id=41752158) - [Weird Nonfiction](https://lareviewofbooks.org/article/weird-nonfiction/)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
@@ -21,6 +21,7 @@
 * [2024-10-05, 13:12:46](https://news.ycombinator.com/item?id=41749592) - [The Remarkable Life of Ibelin](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
+* [2024-10-04, 23:35:08](https://news.ycombinator.com/item?id=41746470) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-10-04, 21:07:30](https://news.ycombinator.com/item?id=41745591) - [Wikidata as a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-04, 17:17:12](https://news.ycombinator.com/item?id=41743464) - [Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
@@ -28,7 +29,6 @@
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 05:28:04](https://news.ycombinator.com/item?id=41717448) - [Getentropy() vs. RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
-* [2024-10-01, 18:21:52](https://news.ycombinator.com/item?id=41712154) - [The Plan to Save Frank Lloyd Wright's Only Skyscraper Isn't Going as Planned](https://www.nytimes.com/2024/09/30/arts/design/frank-lloyd-wright-skyscraper-price-tower.html)
 * [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
 
 ## [Archives](archives/index.md)
