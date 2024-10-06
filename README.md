@@ -2,7 +2,6 @@
 
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:44:05](https://news.ycombinator.com/item?id=41754353) - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
-* [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
 * [2024-10-06, 01:28:28](https://news.ycombinator.com/item?id=41754074) - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
@@ -22,6 +21,7 @@
 * [2024-10-05, 13:12:46](https://news.ycombinator.com/item?id=41749592) - [The Remarkable Life of Ibelin](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
+* [2024-10-04, 21:07:30](https://news.ycombinator.com/item?id=41745591) - [Wikidata as a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-04, 17:17:12](https://news.ycombinator.com/item?id=41743464) - [Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
 * [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
