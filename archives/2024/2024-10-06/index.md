@@ -19,6 +19,7 @@
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
 * [2024-10-06, 11:44:01](https://news.ycombinator.com/item?id=41756438) - [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
 * [2024-10-06, 11:43:02](https://news.ycombinator.com/item?id=41756435) - [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
+* [2024-10-06, 11:42:33](https://news.ycombinator.com/item?id=41756432) - [Ask HN: What's the \"best\" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 * [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
