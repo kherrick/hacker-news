@@ -29,7 +29,7 @@
 * [2024-10-05, 08:20:22](https://news.ycombinator.com/item?id=41748448) - [Pantheon: Parsing command line arguments](https://traxys.me/sheshat_pantheon_3.html)
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-02, 12:24:13](https://news.ycombinator.com/item?id=41719819) - [Sustaphones Tablets – Database of repairable Android devices with community ROMs](https://www.sustaphones.com/tablets)
-* [2024-10-02, 04:29:08](https://news.ycombinator.com/item?id=41717183) - [Ventilation and Temperature Control (1999) [pdf]](https://www.ashrae.org/file%20library/about/mission%20and%20vision/ashrae%20and%20industry%20history/the-history-of-ventilation-and-temperature-control.pdf)
+* [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 
 ## [Archives](archives/index.md)
 
