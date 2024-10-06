@@ -52,6 +52,7 @@
 * [2024-10-05, 06:50:54](https://news.ycombinator.com/item?id=41748168) - [RFC 9580: OpenPGP](https://www.rfc-editor.org/rfc/rfc9580.html)
 * [2024-10-05, 06:43:56](https://news.ycombinator.com/item?id=41748145) - [Making the Web Boring Again](https://washbear.neocities.org/browsers)
 * [2024-10-05, 06:37:06](https://news.ycombinator.com/item?id=41748125) - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=41748125)
+* [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-05, 05:43:59](https://news.ycombinator.com/item?id=41747966) - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
 * [2024-10-05, 05:15:26](https://news.ycombinator.com/item?id=41747881) - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
 * [2024-10-05, 05:10:29](https://news.ycombinator.com/item?id=41747863) - [Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision](https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/)
