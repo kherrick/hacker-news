@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 22:52:52](https://news.ycombinator.com/item?id=41761045) - [As Milton barrels toward Florida, FEMA's capacity could be tested](https://www.washingtonpost.com/weather/2024/10/06/fema-hurricane-florida-milton-helene/)
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and much more](https://sq.io)
 * [2024-10-06, 21:47:19](https://news.ycombinator.com/item?id=41760607) - [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
 * [2024-10-06, 21:33:19](https://news.ycombinator.com/item?id=41760513) - [Hyprland 0.44.0](https://hyprland.org/news/update44/)
