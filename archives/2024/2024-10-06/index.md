@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 11:12:53](https://news.ycombinator.com/item?id=41756327) - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
+* [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:36:21](https://news.ycombinator.com/item?id=41755722) - [Antarctica is turning green at an alarming rate, satellite images show](https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
+* [2024-10-06, 06:14:39](https://news.ycombinator.com/item?id=41755143) - [Replited: Replicate SQLite to anywhere (S3\\FTP\\webdav\\Google Drive\\Dropbox,etc.)](https://github.com/lichuang/replited)
 * [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 04:03:07](https://news.ycombinator.com/item?id=41754657) - [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
