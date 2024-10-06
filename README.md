@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
+* [2024-10-06, 14:59:34](https://news.ycombinator.com/item?id=41757586) - [Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
 * [2024-10-06, 13:24:23](https://news.ycombinator.com/item?id=41757010) - ['Students who use AI as a crutch don't learn anything'](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
 * [2024-10-06, 12:58:24](https://news.ycombinator.com/item?id=41756842) - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
-* [2024-10-06, 12:01:42](https://news.ycombinator.com/item?id=41756512) - [Do We Need a 37-Cent Coin? (2009)](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 * [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
@@ -26,6 +25,7 @@
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
 * [2024-10-02, 14:10:07](https://news.ycombinator.com/item?id=41720846) - [Distributed Transactions in Go: Read Before You Try](https://threedots.tech/post/distributed-transactions-in-go)
 * [2024-10-02, 05:46:53](https://news.ycombinator.com/item?id=41717546) - [Show HN: Gato Prompt Lang – keep prompt content and responses short in JSON](https://github.com/ListfulAl/gpl)
+* [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-01, 22:43:04](https://news.ycombinator.com/item?id=41715084) - [Pine martens return to Dartmoor after 150-year absence](https://www.theguardian.com/uk-news/2024/oct/01/pine-martens-return-to-dartmoor-after-150-year-absence)
 * [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 * [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
