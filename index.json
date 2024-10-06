@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-06, 02:44:05",
-      "https://news.ycombinator.com/item?id=41754353"
+      "2024-10-06, 03:55:13",
+      "https://news.ycombinator.com/item?id=41754628"
     ],
     [
-      "Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon",
-      "https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html"
+      "Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support",
+      "https://github.com/Forceu/Gokapi"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 02:35:40",
+      "https://news.ycombinator.com/item?id=41754314"
+    ],
+    [
+      "\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says",
+      "https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41754008"
     ],
     [
-      "So thieves broke into your storage unit – again",
+      "So thieves broke into your storage unit again",
       "http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41753741"
     ],
     [
-      "Arthur Whitney's one liner sudoku solver",
+      "Arthur Whitney's one liner sudoku solver (2011)",
       "https://dfns.dyalog.com/n_sudoku.htm"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Weird Nonfiction",
       "https://lareviewofbooks.org/article/weird-nonfiction/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 19:03:21",
-      "https://news.ycombinator.com/item?id=41752117"
-    ],
-    [
-      "Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)",
-      "https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-10-04, 23:35:08",
-      "https://news.ycombinator.com/item?id=41746470"
-    ],
-    [
-      "Fixed-point arithmetic as a replacement for soft floats",
-      "https://pigweed.dev/docs/blog/04-fixed-point.html"
-    ]
-  ],
-  [
-    [
       "2024-10-04, 21:07:30",
       "https://news.ycombinator.com/item?id=41745591"
     ],
@@ -287,6 +277,16 @@
     [
       "Getentropy() vs. RAND_bytes()",
       "https://dotat.at/@/2024-10-01-getentropy.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-01, 18:21:46",
+      "https://news.ycombinator.com/item?id=41712152"
+    ],
+    [
+      "DMNO: Environment Variables Evolved",
+      "https://dmno.dev/"
     ]
   ],
   [
