@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 18:38:39](https://news.ycombinator.com/item?id=41759113) - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-06, 18:27:01](https://news.ycombinator.com/item?id=41759005) - [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
 * [2024-10-06, 18:18:00](https://news.ycombinator.com/item?id=41758931) - [Exoplanet found around our closest lone star](https://cosmosmagazine.com/space/astronomy/exoplanet-closest-lone-star/)
@@ -12,6 +13,7 @@
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
 * [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 * [2024-10-06, 17:20:49](https://news.ycombinator.com/item?id=41758572) - [Harvard students hack Meta glasses to compile dossiers on strangers in real time [video]](https://www.youtube.com/watch?v=zKVXNVnPCrQ)
+* [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
 * [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-10-06, 16:12:02](https://news.ycombinator.com/item?id=41758101) - [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
