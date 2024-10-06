@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:44:05](https://news.ycombinator.com/item?id=41754353) - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
 * [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)

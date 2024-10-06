@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 * [2024-10-06, 01:28:28](https://news.ycombinator.com/item?id=41754074) - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
@@ -27,7 +28,6 @@
 * [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
-* [2024-10-02, 05:28:04](https://news.ycombinator.com/item?id=41717448) - [Getentropy() vs. RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 18:21:46](https://news.ycombinator.com/item?id=41712152) - [DMNO: Environment Variables Evolved](https://dmno.dev/)
 * [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
 
