@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 12:55:04](https://news.ycombinator.com/item?id=41756826) - [We've entered the AI grift era](https://www.fastcompany.com/91202757/weve-entered-the-ai-grift-era)
+* [2024-10-06, 12:42:38](https://news.ycombinator.com/item?id=41756747) - [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)
 * [2024-10-06, 12:08:36](https://news.ycombinator.com/item?id=41756562) - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
 * [2024-10-06, 11:44:01](https://news.ycombinator.com/item?id=41756438) - [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
@@ -18,6 +20,7 @@
 * [2024-10-06, 11:01:35](https://news.ycombinator.com/item?id=41756277) - [The Importance of Local Development](https://fastpaced.com/articles/local-development/)
 * [2024-10-06, 10:44:38](https://news.ycombinator.com/item?id=41756220) - [200GB Free Cloud for Your Files](https://blog.tomaszdunia.pl/darmowa-chmura-200gb-eng/)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
+* [2024-10-06, 10:00:28](https://news.ycombinator.com/item?id=41756046) - [SQLite: Defense Against the Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
 * [2024-10-06, 09:15:54](https://news.ycombinator.com/item?id=41755866) - [Controversy over introduction of numberplates](https://www.autocar.co.uk/car-news/from-the-archive/controversy-over-introduction-numberplates)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
