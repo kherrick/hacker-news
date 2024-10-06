@@ -43,6 +43,7 @@
 * [2024-10-05, 12:17:24](https://news.ycombinator.com/item?id=41749371) - [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [2024-10-05, 12:13:02](https://news.ycombinator.com/item?id=41749352) - [New HBO Documentary Claims Bitcoin Creator Satoshi Nakamoto Is Len Sassaman](https://www.blockhead.co/2024/10/05/new-bitcoin-documentary-to-sheds-more-light-on-satoshi-nakamotos-identity/)
 * [2024-10-05, 12:12:06](https://news.ycombinator.com/item?id=41749346) - [CERN trains AI models to revolutionize cancer treatment](https://english.elpais.com/health/2024-10-05/cern-trains-ai-models-to-revolutionize-cancer-treatment.html)
+* [2024-10-05, 12:06:51](https://news.ycombinator.com/item?id=41749326) - [A closer look at Stephen King's famous critique of \"The Shining\" movie](https://trinitonian.com/2023/10/27/a-closer-look-at-stephen-kings-famous-critique-of-the-shining-movie/)
 * [2024-10-05, 12:00:57](https://news.ycombinator.com/item?id=41749301) - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
