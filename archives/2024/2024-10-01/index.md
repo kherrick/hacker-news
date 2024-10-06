@@ -15,6 +15,7 @@
 * [2024-10-01, 22:04:57](https://news.ycombinator.com/item?id=41714750) - [Radio Shack Catalogs All the Way Back to 1939](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
 * [2024-10-01, 21:54:50](https://news.ycombinator.com/item?id=41714672) - [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
 * [2024-10-01, 21:26:35](https://news.ycombinator.com/item?id=41714361) - [The Simple Guide to Building and Breaking Habits](https://alexy.tech/posts/the-simple-guide-to-building-and-breaking-habits/)
+* [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, Death, and Retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 * [2024-10-01, 21:18:45](https://news.ycombinator.com/item?id=41714285) - [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
 * [2024-10-01, 21:00:30](https://news.ycombinator.com/item?id=41714104) - [Verdn (YC W22) is hiring software engineers to build next-gen donation APIs](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer)
 * [2024-10-01, 20:56:26](https://news.ycombinator.com/item?id=41714056) - [What happens if someone votes by absentee/mail-in and dies before Election Day?](https://ballotpedia.org/What_happens_if_someone_votes_by_absentee/mail-in_ballot_and_dies_before_Election_Day%3F_(2024))

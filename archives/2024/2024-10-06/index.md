@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 12:08:36](https://news.ycombinator.com/item?id=41756562) - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
+* [2024-10-06, 11:44:01](https://news.ycombinator.com/item?id=41756438) - [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
 * [2024-10-06, 11:43:02](https://news.ycombinator.com/item?id=41756435) - [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
+* [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [2024-10-06, 11:14:36](https://news.ycombinator.com/item?id=41756336) - [Satoshi Nakamoto identity revealed? HBO claims it](https://twitter.com/WatcherGuru/status/1841901176562094484)
 * [2024-10-06, 11:12:53](https://news.ycombinator.com/item?id=41756327) - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
+* [2024-10-06, 11:11:12](https://news.ycombinator.com/item?id=41756318) - [Making CRC calculations in Mojo 18x faster than Python and 3x slower than Python](https://fnands.com/blog/2024/mojo-crc-calc/)
 * [2024-10-06, 11:03:21](https://news.ycombinator.com/item?id=41756286) - [Mathematical Writing Style Guide for Stanford EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
 * [2024-10-06, 11:02:29](https://news.ycombinator.com/item?id=41756284) - [Pocketbase v0.23.0-RC Prerelease](https://github.com/pocketbase/pocketbase/releases/tag/v0.23.0-rc)
 * [2024-10-06, 11:01:35](https://news.ycombinator.com/item?id=41756277) - [The Importance of Local Development](https://fastpaced.com/articles/local-development/)
