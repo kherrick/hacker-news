@@ -63,6 +63,7 @@
 * [2024-10-02, 06:57:44](https://news.ycombinator.com/item?id=41717913) - [Intel Core 13th and 14th Gen Desktop Instability Root Cause Update](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239)
 * [2024-10-02, 06:49:36](https://news.ycombinator.com/item?id=41717869) - [Show HN: Teletxt (Vercel App)](https://news.ycombinator.com/item?id=41717869)
 * [2024-10-02, 06:09:49](https://news.ycombinator.com/item?id=41717661) - [What OS should I drive?](https://codefaster.substack.com/p/which-os-should-i-drive)
+* [2024-10-02, 05:46:53](https://news.ycombinator.com/item?id=41717546) - [Show HN: Gato Prompt Lang – keep prompt content and responses short in JSON](https://github.com/ListfulAl/gpl)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 05:31:32](https://news.ycombinator.com/item?id=41717466) - [Show HN: Weird Books to Read](https://bizarrebookshelf.com/)
 * [2024-10-02, 05:28:04](https://news.ycombinator.com/item?id=41717448) - [Getentropy() vs. RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
