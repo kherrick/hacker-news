@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 21:21:47](https://news.ycombinator.com/item?id=41760421) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 20:24:51](https://news.ycombinator.com/item?id=41760006) - [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
 * [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
