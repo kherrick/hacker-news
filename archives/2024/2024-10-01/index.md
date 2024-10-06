@@ -69,6 +69,7 @@
 * [2024-10-01, 15:16:18](https://news.ycombinator.com/item?id=41709525) - [The mullet is alive and well in AFL](https://www.abc.net.au/news/2024-05-23/afl-mullet-count-data-analysis/103850072)
 * [2024-10-01, 15:15:23](https://news.ycombinator.com/item?id=41709510) - [I Quit Teaching Because of ChatGPT](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
 * [2024-10-01, 15:09:23](https://news.ycombinator.com/item?id=41709436) - [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
+* [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709301) - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
 * [2024-10-01, 15:00:16](https://news.ycombinator.com/item?id=41709299) - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
 * [2024-10-01, 14:55:42](https://news.ycombinator.com/item?id=41709235) - [Solarpunk Web Server](https://sometimes.digital/posts/solarpunk-web-server/)

@@ -12,7 +12,6 @@
 * [2024-10-05, 19:52:09](https://news.ycombinator.com/item?id=41752436) - [What is the history of the use of \"foo\" and \"bar\" in source code examples? (2012)](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 * [2024-10-05, 19:35:31](https://news.ycombinator.com/item?id=41752327) - [Router Security](https://routersecurity.org/)
 * [2024-10-05, 19:09:47](https://news.ycombinator.com/item?id=41752158) - [Weird Nonfiction](https://lareviewofbooks.org/article/weird-nonfiction/)
-* [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 18:58:57](https://news.ycombinator.com/item?id=41752081) - [Arpeggiator Cube](https://codepen.io/jak_e/full/vKJKoL)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material (2017)](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
 * [2024-10-05, 17:25:01](https://news.ycombinator.com/item?id=41751407) - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
@@ -30,6 +29,7 @@
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 05:28:04](https://news.ycombinator.com/item?id=41717448) - [Getentropy() vs. RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 18:21:52](https://news.ycombinator.com/item?id=41712154) - [The Plan to Save Frank Lloyd Wright's Only Skyscraper Isn't Going as Planned](https://www.nytimes.com/2024/09/30/arts/design/frank-lloyd-wright-skyscraper-price-tower.html)
+* [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
 
 ## [Archives](archives/index.md)
 
