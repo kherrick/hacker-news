@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 13:24:23](https://news.ycombinator.com/item?id=41757010) - ['Students who use AI as a crutch don't learn anything'](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
 * [2024-10-06, 12:58:24](https://news.ycombinator.com/item?id=41756842) - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 * [2024-10-06, 12:55:04](https://news.ycombinator.com/item?id=41756826) - [We've entered the AI grift era](https://www.fastcompany.com/91202757/weve-entered-the-ai-grift-era)
 * [2024-10-06, 12:42:38](https://news.ycombinator.com/item?id=41756747) - [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)
@@ -14,6 +15,7 @@
 * [2024-10-06, 11:44:01](https://news.ycombinator.com/item?id=41756438) - [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
 * [2024-10-06, 11:43:02](https://news.ycombinator.com/item?id=41756435) - [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
+* [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [2024-10-06, 11:14:36](https://news.ycombinator.com/item?id=41756336) - [Satoshi Nakamoto identity revealed? HBO claims it](https://twitter.com/WatcherGuru/status/1841901176562094484)
 * [2024-10-06, 11:12:53](https://news.ycombinator.com/item?id=41756327) - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
@@ -24,6 +26,7 @@
 * [2024-10-06, 10:44:38](https://news.ycombinator.com/item?id=41756220) - [200GB Free Cloud for Your Files](https://blog.tomaszdunia.pl/darmowa-chmura-200gb-eng/)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
 * [2024-10-06, 10:00:28](https://news.ycombinator.com/item?id=41756046) - [SQLite: Defense Against the Dark Arts](https://sqlite.org/draft/security.html)
+* [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
 * [2024-10-06, 09:15:54](https://news.ycombinator.com/item?id=41755866) - [Controversy over introduction of numberplates](https://www.autocar.co.uk/car-news/from-the-archive/controversy-over-introduction-numberplates)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
