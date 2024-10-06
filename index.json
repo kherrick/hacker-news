@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 08:36:21",
+      "https://news.ycombinator.com/item?id=41755722"
+    ],
+    [
+      "Antarctica is turning green at an alarming rate, satellite images show",
+      "https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 06:23:16",
       "https://news.ycombinator.com/item?id=41755183"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-10-06, 02:35:40",
-      "https://news.ycombinator.com/item?id=41754314"
-    ],
-    [
-      "\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says",
-      "https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 01:03:53",
       "https://news.ycombinator.com/item?id=41753983"
     ],
@@ -57,16 +57,6 @@
     [
       "Arthur Whitney's one liner sudoku solver (2011)",
       "https://dfns.dyalog.com/n_sudoku.htm"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 21:31:51",
-      "https://news.ycombinator.com/item?id=41753092"
-    ],
-    [
-      "WordPress Plugin Mirror Downloader (Proof of Concept)",
-      "https://github.com/centminmod/wordpress-plugin-mirror-poc"
     ]
   ],
   [
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2024-10-05, 15:40:04",
-      "https://news.ycombinator.com/item?id=41750630"
+      "2024-10-05, 15:51:41",
+      "https://news.ycombinator.com/item?id=41750716"
     ],
     [
-      "I Stayed",
-      "https://zeldman.com/2024/10/04/i-stayed/"
+      "Cloudflare beats patent troll so badly it basically gives up",
+      "https://www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/"
     ]
   ],
   [
@@ -181,12 +171,32 @@
   ],
   [
     [
+      "2024-10-05, 05:43:59",
+      "https://news.ycombinator.com/item?id=41747966"
+    ],
+    [
+      "Linux from Scratch",
+      "https://www.linuxfromscratch.org/index.html"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 23:36:54",
       "https://news.ycombinator.com/item?id=41746482"
     ],
     [
       "One pioneering grizzly and her two cubs appear on Vancouver Island",
       "https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 21:34:07",
+      "https://news.ycombinator.com/item?id=41745788"
+    ],
+    [
+      "LLMs, Theory of Mind, and Cheryl's Birthday",
+      "https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-10-03, 07:37:01",
-      "https://news.ycombinator.com/item?id=41728185"
-    ],
-    [
-      "IPU6 camera support in Fedora 41",
-      "https://hansdegoede.dreamwidth.org/28841.html"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 07:08:14",
       "https://news.ycombinator.com/item?id=41728022"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-10-02, 00:16:26",
+      "https://news.ycombinator.com/item?id=41715883"
+    ],
+    [
+      "Noise",
+      "https://noise.jake.fun/"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 22:43:04",
       "https://news.ycombinator.com/item?id=41715084"
     ],
     [
       "Pine martens return to Dartmoor after 150-year absence",
       "https://www.theguardian.com/uk-news/2024/oct/01/pine-martens-return-to-dartmoor-after-150-year-absence"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 19:02:51",
-      "https://news.ycombinator.com/item?id=41712763"
-    ],
-    [
-      "USB-C PD for an industrial Cisco IR829 router",
-      "https://eloydegen.com/blog/posts/cisco-ir829-power/"
     ]
   ],
   [
