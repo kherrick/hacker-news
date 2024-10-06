@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
 * [2024-10-06, 13:24:23](https://news.ycombinator.com/item?id=41757010) - ['Students who use AI as a crutch don't learn anything'](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
 * [2024-10-06, 12:58:24](https://news.ycombinator.com/item?id=41756842) - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 * [2024-10-06, 12:01:42](https://news.ycombinator.com/item?id=41756512) - [Do We Need a 37-Cent Coin? (2009)](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
@@ -16,9 +17,7 @@
 * [2024-10-06, 00:00:04](https://news.ycombinator.com/item?id=41753741) - [Arthur Whitney's one liner sudoku solver (2011)](https://dfns.dyalog.com/n_sudoku.htm)
 * [2024-10-05, 19:52:09](https://news.ycombinator.com/item?id=41752436) - [What is the history of the use of \"foo\" and \"bar\" in source code examples? (2012)](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 * [2024-10-05, 18:51:28](https://news.ycombinator.com/item?id=41752020) - [CoRncrete: A corn starch based building material (2017)](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
-* [2024-10-05, 13:16:30](https://news.ycombinator.com/item?id=41749612) - [The Globus INK: a mechanical navigation computer for Soviet spaceflight (2023)](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 * [2024-10-05, 13:12:46](https://news.ycombinator.com/item?id=41749592) - [The Remarkable Life of Ibelin](https://www.thetimes.com/life-style/parenting/article/we-only-learnt-of-our-sons-secret-online-life-after-he-died-at-20-rj3bqfnqn)
-* [2024-10-05, 12:06:51](https://news.ycombinator.com/item?id=41749326) - [A closer look at Stephen King’s famous critique of “The Shining” movie (2023)](https://trinitonian.com/2023/10/27/a-closer-look-at-stephen-kings-famous-critique-of-the-shining-movie/)
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework – Unifying server and client using the Web Platform](https://brisa.build/)
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
@@ -30,6 +29,7 @@
 * [2024-10-01, 22:43:04](https://news.ycombinator.com/item?id=41715084) - [Pine martens return to Dartmoor after 150-year absence](https://www.theguardian.com/uk-news/2024/oct/01/pine-martens-return-to-dartmoor-after-150-year-absence)
 * [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 * [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
+* [2024-10-01, 14:43:05](https://news.ycombinator.com/item?id=41709087) - [The World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
 
 ## [Archives](archives/index.md)
 

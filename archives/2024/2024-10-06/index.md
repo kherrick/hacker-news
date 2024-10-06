@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
 * [2024-10-06, 13:24:23](https://news.ycombinator.com/item?id=41757010) - ['Students who use AI as a crutch don't learn anything'](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
 * [2024-10-06, 12:58:24](https://news.ycombinator.com/item?id=41756842) - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 * [2024-10-06, 12:55:04](https://news.ycombinator.com/item?id=41756826) - [We've entered the AI grift era](https://www.fastcompany.com/91202757/weve-entered-the-ai-grift-era)
