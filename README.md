@@ -17,7 +17,6 @@
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Seeing Faces in Things: A model and dataset for pareidolia](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
-* [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [2024-10-06, 11:03:21](https://news.ycombinator.com/item?id=41756286) - [LaTeX Style Guide for EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
@@ -30,6 +29,7 @@
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-03, 20:14:31](https://news.ycombinator.com/item?id=41734498) - [Tailoring amorphous boron nitride for high-performance 2d electronics](https://www.nature.com/articles/s41467-024-48429-4)
 * [2024-10-02, 12:24:13](https://news.ycombinator.com/item?id=41719819) - [Sustaphones Tablets – Database of repairable Android devices with community ROMs](https://www.sustaphones.com/tablets)
+* [2024-10-02, 06:50:19](https://news.ycombinator.com/item?id=41717873) - [Ask HN: Do 10DLC Requirements make it impossible for hobby projects to send SMS?](https://news.ycombinator.com/item?id=41717873)
 
 ## [Archives](archives/index.md)
 
