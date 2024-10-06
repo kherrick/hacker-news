@@ -2,7 +2,6 @@
 
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
-* [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 04:03:07](https://news.ycombinator.com/item?id=41754657) - [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 01:03:53](https://news.ycombinator.com/item?id=41753983) - [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
@@ -25,6 +24,7 @@
 * [2024-10-03, 20:25:01](https://news.ycombinator.com/item?id=41734597) - [Adventures with Jean](https://theamericanscholar.org/adventures-with-jean/)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
+* [2024-10-02, 14:10:07](https://news.ycombinator.com/item?id=41720846) - [Distributed Transactions in Go: Read Before You Try](https://threedots.tech/post/distributed-transactions-in-go)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024-10-02, 00:16:26](https://news.ycombinator.com/item?id=41715883) - [Noise](https://noise.jake.fun/)
 * [2024-10-01, 22:43:04](https://news.ycombinator.com/item?id=41715084) - [Pine martens return to Dartmoor after 150-year absence](https://www.theguardian.com/uk-news/2024/oct/01/pine-martens-return-to-dartmoor-after-150-year-absence)

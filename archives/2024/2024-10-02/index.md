@@ -34,6 +34,7 @@
 * [2024-10-02, 14:22:49](https://news.ycombinator.com/item?id=41720972) - [Notcursus v3.0.10 Released](https://github.com/dankamongmen/notcurses/releases)
 * [2024-10-02, 14:20:03](https://news.ycombinator.com/item?id=41720938) - [You can now download over 33,000 sound effects from the BBC archive](https://djmag.com/news/you-can-now-download-over-33000-sound-effects-bbc-archive)
 * [2024-10-02, 14:19:34](https://news.ycombinator.com/item?id=41720936) - [Snapdragon Dev Kit for Windows – the fastest X Elite, tested](https://www.jeffgeerling.com/blog/2024/snapdragon-dev-kit-windows-fastest-x-elite-tested)
+* [2024-10-02, 14:10:07](https://news.ycombinator.com/item?id=41720846) - [Distributed Transactions in Go: Read Before You Try](https://threedots.tech/post/distributed-transactions-in-go)
 * [2024-10-02, 13:52:29](https://news.ycombinator.com/item?id=41720685) - [Famous AI Artist Says He's Losing Millions from People Stealing His Work](https://gizmodo.com/famous-ai-artist-says-hes-losing-millions-of-dollars-from-people-stealing-his-work-2000505822)
 * [2024-10-02, 12:55:48](https://news.ycombinator.com/item?id=41720084) - [Alert Evaluations: Incremental Merges in ClickHouse](https://www.highlight.io/blog/alert-evaluations-incremental-merges-in-clickhouse)
 * [2024-10-02, 12:41:25](https://news.ycombinator.com/item?id=41719949) - [Airborne plastic levels shock researchers (chronic DEHP/DiNP/DEHT exposure)](https://news.ucr.edu/articles/2024/10/01/airborne-plastic-chemical-levels-shock-researchers)
