@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-06, 11:12:53",
+      "https://news.ycombinator.com/item?id=41756327"
+    ],
+    [
+      "Musician Charged with $10M Music Streaming Fraud Aided by AI",
+      "https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 10:42:12",
       "https://news.ycombinator.com/item?id=41756209"
     ],
     [
       "ByteDance is abusing the free video downloading service Cobalt for mass scraping",
       "https://twitter.com/uwukko/status/1842538843720868016"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 09:29:41",
+      "https://news.ycombinator.com/item?id=41755920"
+    ],
+    [
+      "Idiomatic Awk",
+      "https://backreference.org/index.html"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2024-10-06, 06:14:39",
+      "https://news.ycombinator.com/item?id=41755143"
+    ],
+    [
+      "Replited: Replicate SQLite to anywhere (S3\\FTP\\webdav\\Google Drive\\Dropbox,etc.)",
+      "https://github.com/lichuang/replited"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 03:55:13",
       "https://news.ycombinator.com/item?id=41754628"
     ],
     [
       "Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support",
       "https://github.com/Forceu/Gokapi"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 01:03:53",
-      "https://news.ycombinator.com/item?id=41753983"
-    ],
-    [
-      "Insecure Deebot robot vacuums collect photos and audio to train AI",
-      "https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 20:59:25",
-      "https://news.ycombinator.com/item?id=41752848"
-    ],
-    [
-      "Forage conservation is a neglected nitrous oxide source",
-      "https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Fuzzing 101",
       "https://github.com/antonio-morales/Fuzzing101"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 05:43:59",
-      "https://news.ycombinator.com/item?id=41747966"
-    ],
-    [
-      "Linux from Scratch",
-      "https://www.linuxfromscratch.org/index.html"
     ]
   ],
   [
