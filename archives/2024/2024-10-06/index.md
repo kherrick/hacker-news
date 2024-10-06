@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 16:12:02](https://news.ycombinator.com/item?id=41758101) - [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 14:59:34](https://news.ycombinator.com/item?id=41757586) - [Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
 * [2024-10-06, 14:20:24](https://news.ycombinator.com/item?id=41757346) - [Fluoride in Our Drinking Water May Not Be as Useful as It Used to Be](https://gizmodo.com/fluoride-in-our-drinking-water-may-not-be-as-useful-as-it-used-to-be-2000507454)
