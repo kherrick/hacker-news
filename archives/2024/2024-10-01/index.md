@@ -26,6 +26,7 @@
 * [2024-10-01, 19:25:38](https://news.ycombinator.com/item?id=41713063) - [COBOL has been \"dead\" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
 * [2024-10-01, 19:10:56](https://news.ycombinator.com/item?id=41712885) - [Don't build your castle in other people's kingdoms (2021)](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 * [2024-10-01, 19:08:36](https://news.ycombinator.com/item?id=41712848) - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
+* [2024-10-01, 19:02:51](https://news.ycombinator.com/item?id=41712763) - [USB-C PD for an industrial Cisco IR829 router](https://eloydegen.com/blog/posts/cisco-ir829-power/)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support](https://www.journals.uchicago.edu/doi/10.1086/732956)
 * [2024-10-01, 19:01:23](https://news.ycombinator.com/item?id=41712736) - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
 * [2024-10-01, 18:52:49](https://news.ycombinator.com/item?id=41712617) - [Mullenweg threatens corporate takeover of WP Engine](https://www.therepository.email/mullenweg-threatens-corporate-takeover-of-wp-engine)

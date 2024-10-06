@@ -5,7 +5,6 @@
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 * [2024-10-06, 01:28:28](https://news.ycombinator.com/item?id=41754074) - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
-* [2024-10-06, 01:03:53](https://news.ycombinator.com/item?id=41753983) - [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
 * [2024-10-06, 00:00:04](https://news.ycombinator.com/item?id=41753741) - [Arthur Whitney's one liner sudoku solver (2011)](https://dfns.dyalog.com/n_sudoku.htm)
 * [2024-10-05, 21:31:51](https://news.ycombinator.com/item?id=41753092) - [WordPress Plugin Mirror Downloader (Proof of Concept)](https://github.com/centminmod/wordpress-plugin-mirror-poc)
 * [2024-10-05, 21:18:28](https://news.ycombinator.com/item?id=41752989) - [Buildroot](https://buildroot.org/)
@@ -28,6 +27,7 @@
 * [2024-10-03, 07:37:01](https://news.ycombinator.com/item?id=41728185) - [IPU6 camera support in Fedora 41](https://hansdegoede.dreamwidth.org/28841.html)
 * [2024-10-03, 07:08:14](https://news.ycombinator.com/item?id=41728022) - [Statisticians use a technique that leverages randomness to deal with the unknown](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
 * [2024-10-02, 05:46:04](https://news.ycombinator.com/item?id=41717543) - [What P vs. NP is about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
+* [2024-10-01, 19:02:51](https://news.ycombinator.com/item?id=41712763) - [USB-C PD for an industrial Cisco IR829 router](https://eloydegen.com/blog/posts/cisco-ir829-power/)
 * [2024-10-01, 18:21:46](https://news.ycombinator.com/item?id=41712152) - [DMNO: Environment Variables Evolved](https://dmno.dev/)
 * [2024-10-01, 15:08:49](https://news.ycombinator.com/item?id=41709429) - [Sometimes the product innovation is the distribution](https://interconnected.org/home/2024/09/27/distribution)
 
