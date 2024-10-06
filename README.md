@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 21:33:19](https://news.ycombinator.com/item?id=41760513) - [Hyprland 0.44.0](https://hyprland.org/news/update44/)
 * [2024-10-06, 21:21:47](https://news.ycombinator.com/item?id=41760421) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 20:24:51](https://news.ycombinator.com/item?id=41760006) - [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
@@ -22,7 +23,6 @@
 * [2024-10-06, 11:03:21](https://news.ycombinator.com/item?id=41756286) - [LaTeX Style Guide for EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
-* [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
 * [2024-10-05, 13:05:05](https://news.ycombinator.com/item?id=41749567) - [Show HN: CodeAir – Control VS Code from Your Phone](https://www.codeair.app)
 * [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
 * [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
