@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 12:58:24](https://news.ycombinator.com/item?id=41756842) - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 * [2024-10-06, 12:55:04](https://news.ycombinator.com/item?id=41756826) - [We've entered the AI grift era](https://www.fastcompany.com/91202757/weve-entered-the-ai-grift-era)
 * [2024-10-06, 12:42:38](https://news.ycombinator.com/item?id=41756747) - [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)
 * [2024-10-06, 12:08:36](https://news.ycombinator.com/item?id=41756562) - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
