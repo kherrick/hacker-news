@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and much more](https://sq.io)
+* [2024-10-06, 21:47:19](https://news.ycombinator.com/item?id=41760607) - [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
 * [2024-10-06, 21:33:19](https://news.ycombinator.com/item?id=41760513) - [Hyprland 0.44.0](https://hyprland.org/news/update44/)
 * [2024-10-06, 21:21:47](https://news.ycombinator.com/item?id=41760421) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 20:24:51](https://news.ycombinator.com/item?id=41760006) - [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
-* [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 * [2024-10-06, 19:08:11](https://news.ycombinator.com/item?id=41759360) - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
 * [2024-10-06, 18:42:37](https://news.ycombinator.com/item?id=41759149) - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
 * [2024-10-06, 18:38:39](https://news.ycombinator.com/item?id=41759113) - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
@@ -28,7 +28,7 @@
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
-* [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
+* [2024-10-03, 20:14:31](https://news.ycombinator.com/item?id=41734498) - [Tailoring amorphous boron nitride for high-performance 2d electronics](https://www.nature.com/articles/s41467-024-48429-4)
 * [2024-10-02, 12:24:13](https://news.ycombinator.com/item?id=41719819) - [Sustaphones Tablets – Database of repairable Android devices with community ROMs](https://www.sustaphones.com/tablets)
 
 ## [Archives](archives/index.md)
