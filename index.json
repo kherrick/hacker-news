@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 06:23:16",
+      "https://news.ycombinator.com/item?id=41755183"
+    ],
+    [
+      "HPy – A better C API for Python",
+      "https://hpyproject.org/"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 04:32:39",
       "https://news.ycombinator.com/item?id=41754771"
     ],
@@ -17,16 +27,6 @@
     [
       "Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support",
       "https://github.com/Forceu/Gokapi"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 02:57:44",
-      "https://news.ycombinator.com/item?id=41754411"
-    ],
-    [
-      "ComfyUI Custom Node for OpenAI",
-      "https://github.com/ComfyUI-Workflow/ComfyUI-OpenAI"
     ]
   ],
   [
