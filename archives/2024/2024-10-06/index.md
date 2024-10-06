@@ -7,6 +7,7 @@
 * [2024-10-06, 08:36:21](https://news.ycombinator.com/item?id=41755722) - [Antarctica is turning green at an alarming rate, satellite images show](https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
+* [2024-10-06, 04:03:07](https://news.ycombinator.com/item?id=41754657) - [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:57:44](https://news.ycombinator.com/item?id=41754411) - [ComfyUI Custom Node for OpenAI](https://github.com/ComfyUI-Workflow/ComfyUI-OpenAI)
 * [2024-10-06, 02:44:05](https://news.ycombinator.com/item?id=41754353) - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
