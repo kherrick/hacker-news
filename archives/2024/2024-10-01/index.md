@@ -36,6 +36,7 @@
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [The Last Sun SPARC Workstation](https://hackaday.com/2024/09/28/the-last-sun-sparc-workstation/)
 * [2024-10-01, 18:24:47](https://news.ycombinator.com/item?id=41712192) - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 * [2024-10-01, 18:21:52](https://news.ycombinator.com/item?id=41712154) - [The Plan to Save Frank Lloyd Wright's Only Skyscraper Isn't Going as Planned](https://www.nytimes.com/2024/09/30/arts/design/frank-lloyd-wright-skyscraper-price-tower.html)
+* [2024-10-01, 18:21:46](https://news.ycombinator.com/item?id=41712152) - [DMNO: Environment Variables Evolved](https://dmno.dev/)
 * [2024-10-01, 18:21:00](https://news.ycombinator.com/item?id=41712146) - [Tailscale HTTPS Certificate on Synology NAS](https://sim642.eu/blog/2024/08/11/tailscale-https-certificate-on-synology-nas/)
 * [2024-10-01, 18:19:25](https://news.ycombinator.com/item?id=41712120) - [The $621M Legal Battle by Record Labels Against Internet Archive](https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/)
 * [2024-10-01, 18:12:11](https://news.ycombinator.com/item?id=41712020) - [Launch HN: Quetzal (YC S24) – Stripe for Internationalization](https://news.ycombinator.com/item?id=41712020)
