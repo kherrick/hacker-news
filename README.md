@@ -4,6 +4,7 @@
 * [2024-10-06, 18:42:37](https://news.ycombinator.com/item?id=41759149) - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
 * [2024-10-06, 18:38:39](https://news.ycombinator.com/item?id=41759113) - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
+* [2024-10-06, 18:27:01](https://news.ycombinator.com/item?id=41759005) - [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2001)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
@@ -23,13 +24,12 @@
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
 * [2024-10-05, 13:05:05](https://news.ycombinator.com/item?id=41749567) - [Show HN: CodeAir – Control VS Code from Your Phone](https://www.codeair.app)
+* [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
 * [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
-* [2024-10-05, 08:20:22](https://news.ycombinator.com/item?id=41748448) - [Pantheon: Parsing command line arguments](https://traxys.me/sheshat_pantheon_3.html)
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-02, 12:24:13](https://news.ycombinator.com/item?id=41719819) - [Sustaphones Tablets – Database of repairable Android devices with community ROMs](https://www.sustaphones.com/tablets)
-* [2024-10-01, 21:24:47](https://news.ycombinator.com/item?id=41714343) - [Life, death, and retirement](https://randomascii.wordpress.com/2024/10/01/life-death-and-retirement/)
 
 ## [Archives](archives/index.md)
 
