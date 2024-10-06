@@ -74,6 +74,7 @@
 * [2024-10-02, 03:54:07](https://news.ycombinator.com/item?id=41716997) - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 * [2024-10-02, 03:48:53](https://news.ycombinator.com/item?id=41716975) - [Nvidia releases NVLM 1.0 72B open weight model](https://huggingface.co/nvidia/NVLM-D-72B)
 * [2024-10-02, 03:45:32](https://news.ycombinator.com/item?id=41716963) - [A Trail Gone Cold](https://www.damninteresting.com/a-trail-gone-cold/)
+* [2024-10-02, 03:45:30](https://news.ycombinator.com/item?id=41716961) - [Let the network tell you where you are: a nerd snipe story](http://rachelbythebay.com/w/2024/10/01/lldp/)
 * [2024-10-02, 03:44:05](https://news.ycombinator.com/item?id=41716957) - [Tapia, Tabbi, Tabique, Tabby](https://placesjournal.org/article/tabby-concrete-black-indigenous-history/)
 * [2024-10-02, 02:35:50](https://news.ycombinator.com/item?id=41716661) - [Tiered support is an anti-pattern (2013)](https://peter.gillardmoss.me.uk/blog/2013/06/24/tiered-support-is-an-anti-pattern/)
 * [2024-10-02, 01:32:36](https://news.ycombinator.com/item?id=41716347) - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
