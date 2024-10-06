@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
+* [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 * [2024-10-06, 01:28:28](https://news.ycombinator.com/item?id=41754074) - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
 * [2024-10-06, 01:09:19](https://news.ycombinator.com/item?id=41754008) - [So thieves broke into your storage unit again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
 * [2024-10-06, 01:03:53](https://news.ycombinator.com/item?id=41753983) - [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
@@ -20,7 +21,6 @@
 * [2024-10-05, 11:19:56](https://news.ycombinator.com/item?id=41749121) - [Show HN: Brisa Framework launch is here | The Web Platform Framework](https://brisa.build/)
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
-* [2024-10-04, 23:35:08](https://news.ycombinator.com/item?id=41746470) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-10-04, 21:07:30](https://news.ycombinator.com/item?id=41745591) - [Wikidata as a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-04, 17:17:12](https://news.ycombinator.com/item?id=41743464) - [Playing with BOLT and Postgres](https://vondra.me/posts/playing-with-bolt-and-postgres/)
 * [2024-10-03, 13:28:36](https://news.ycombinator.com/item?id=41730612) - [An Intuitive Explanation of Black–Scholes](https://gregorygundersen.com/blog/2024/09/28/black-scholes/)
