@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 17:20:49](https://news.ycombinator.com/item?id=41758572) - [Harvard students hack Meta glasses to compile dossiers on strangers in real time [video]](https://www.youtube.com/watch?v=zKVXNVnPCrQ)
 * [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-10-06, 16:12:02](https://news.ycombinator.com/item?id=41758101) - [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
@@ -23,6 +24,7 @@
 * [2024-10-06, 11:42:33](https://news.ycombinator.com/item?id=41756432) - [Ask HN: What's the \"best\" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
 * [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
+* [2024-10-06, 11:24:35](https://news.ycombinator.com/item?id=41756371) - [AIHawk: AI bot to automatically apply jobs](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [2024-10-06, 11:14:36](https://news.ycombinator.com/item?id=41756336) - [Satoshi Nakamoto identity revealed? HBO claims it](https://twitter.com/WatcherGuru/status/1841901176562094484)
 * [2024-10-06, 11:12:53](https://news.ycombinator.com/item?id=41756327) - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
