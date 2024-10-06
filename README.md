@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 * [2024-10-06, 19:08:11](https://news.ycombinator.com/item?id=41759360) - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
 * [2024-10-06, 18:42:37](https://news.ycombinator.com/item?id=41759149) - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
 * [2024-10-06, 18:38:39](https://news.ycombinator.com/item?id=41759113) - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
@@ -13,7 +14,6 @@
 * [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
-* [2024-10-06, 15:18:42](https://news.ycombinator.com/item?id=41757713) - [Abuse ZSH Parameter Expansion to Expand GNU-Style Arguments](http://matthewdippel.blogspot.com/2024/10/howto-abuse-zsh-parameter-expansion-to.html)
 * [2024-10-06, 15:18:20](https://news.ycombinator.com/item?id=41757711) - [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
 * [2024-10-06, 12:01:42](https://news.ycombinator.com/item?id=41756512) - [Do We Need a 37-Cent Coin? (2009)](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Seeing Faces in Things: A model and dataset for pareidolia](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)

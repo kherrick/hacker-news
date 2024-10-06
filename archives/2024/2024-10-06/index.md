@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 * [2024-10-06, 19:08:11](https://news.ycombinator.com/item?id=41759360) - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
 * [2024-10-06, 18:42:37](https://news.ycombinator.com/item?id=41759149) - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
 * [2024-10-06, 18:38:39](https://news.ycombinator.com/item?id=41759113) - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
