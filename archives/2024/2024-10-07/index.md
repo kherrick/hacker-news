@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 17:25:32](https://news.ycombinator.com/item?id=41768457) - [Do not use secrets in environment variables and](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 * [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-10-07, 16:43:18](https://news.ycombinator.com/item?id=41767886) - [Show HN: Termichess – Play chess right on your terminal](https://github.com/whiletruelearn/termichess)
+* [2024-10-07, 16:40:30](https://news.ycombinator.com/item?id=41767852) - [Unlocking the 'aha' moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
 * [2024-10-07, 16:28:18](https://news.ycombinator.com/item?id=41767690) - [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
 * [2024-10-07, 16:25:03](https://news.ycombinator.com/item?id=41767648) - [Nearly all of the Google Images results for \"Baby Peacock\" are AI generated](https://twitter.com/notengoprisa/status/1842550658102079556)
 * [2024-10-07, 16:24:32](https://news.ycombinator.com/item?id=41767644) - [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
