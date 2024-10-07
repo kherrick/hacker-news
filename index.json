@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-07, 17:01:12",
+      "https://news.ycombinator.com/item?id=41768143"
+    ],
+    [
+      "Substack (YC W18) Is Hiring Machine Learning Engineers",
+      "https://grnh.se/d034f1ba5us"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 16:43:18",
+      "https://news.ycombinator.com/item?id=41767886"
+    ],
+    [
+      "Show HN: Termichess – Play chess right on your terminal",
+      "https://github.com/whiletruelearn/termichess"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 16:28:18",
+      "https://news.ycombinator.com/item?id=41767690"
+    ],
+    [
+      "Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map",
+      "https://postalagent.com"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 16:25:03",
       "https://news.ycombinator.com/item?id=41767648"
     ],
@@ -11,12 +41,22 @@
   ],
   [
     [
-      "2024-10-07, 15:49:42",
-      "https://news.ycombinator.com/item?id=41767199"
+      "2024-10-07, 16:24:32",
+      "https://news.ycombinator.com/item?id=41767644"
     ],
     [
-      "Google Will Track Your Location 'Every 15 Minutes'–'Even with GPS Disabled'",
-      "https://www.forbes.com/sites/zakdoffman/2024/10/05/google-new-location-tracking-warning-pixel-9-pro-pixel-9-pro-xl-pixel-9-pro-fold/"
+      "Show HN: Compiling C in the browser using WebAssembly",
+      "https://wasmer.io/posts/clang-in-browser"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 15:56:07",
+      "https://news.ycombinator.com/item?id=41767279"
+    ],
+    [
+      "Hot Take: Don'T provide incident resolution estimates",
+      "https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/"
     ]
   ],
   [
@@ -161,21 +201,11 @@
   ],
   [
     [
-      "2024-10-07, 12:55:41",
-      "https://news.ycombinator.com/item?id=41765541"
-    ],
-    [
-      "Augmenting the Client with Htmx",
-      "https://blog.frankel.ch/ajax-ssr/5/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 12:39:15",
       "https://news.ycombinator.com/item?id=41765409"
     ],
     [
-      "GoSQL: A query engine in 319 LoC",
+      "Show HN: GoSQL – A query engine in 319 LoC",
       "https://github.com/archiewood/gosql"
     ]
   ],
@@ -187,16 +217,6 @@
     [
       "Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end",
       "https://serverlessai.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 12:00:14",
-      "https://news.ycombinator.com/item?id=41765138"
-    ],
-    [
-      "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-      "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-10-07, 09:37:09",
-      "https://news.ycombinator.com/item?id=41764283"
-    ],
-    [
-      "The Nobel Prize in Physiology or Medicine 2024",
-      "https://www.nobelprize.org/prizes/medicine/2024/summary/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 03:18:04",
       "https://news.ycombinator.com/item?id=41762468"
     ],
     [
       "How do HTTP servers figure out Content-Length?",
       "https://aarol.dev/posts/go-contentlength/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 01:42:57",
-      "https://news.ycombinator.com/item?id=41761986"
-    ],
-    [
-      "Fast B-Trees",
-      "https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/"
     ]
   ],
   [
