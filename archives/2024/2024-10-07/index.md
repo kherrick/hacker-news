@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 07:33:12](https://news.ycombinator.com/item?id=41763624) - [Tiny C Compiler is relicensing to MIT](https://repo.or.cz/tinycc.git/blob/3d963aebcd533da278f086a3e559d24b961e8c31:/RELICENSING)
 * [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)
 * [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)

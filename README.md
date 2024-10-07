@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
@@ -12,8 +13,6 @@
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
-* [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
-* [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
@@ -22,6 +21,7 @@
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/experiment_multitasking.html)
+* [2024-10-05, 13:33:22](https://news.ycombinator.com/item?id=41749709) - [The brain has its own microbiome](https://www.newscientist.com/article/mg26335104-500-the-brain-has-its-own-microbiome-heres-what-it-means-for-your-health/)
 * [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
 * [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
