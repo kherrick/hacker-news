@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=41768752"
     ],
     [
-      "Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin",
+      "An interactive, exercise-heavy approach to learning Bitcoin",
       "https://bitcoindevs.xyz/decoding"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 17:40:22",
+      "https://news.ycombinator.com/item?id=41768658"
+    ],
+    [
+      "US antitrust case against Amazon to move forward",
+      "https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41768457"
     ],
     [
-      "Do not use secrets in environment variables and",
+      "Do not use secrets in environment variables",
       "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41767886"
     ],
     [
-      "Show HN: Termichess – Play chess right on your terminal",
+      "Show HN: Termichess – Play chess in your terminal",
       "https://github.com/whiletruelearn/termichess"
     ]
   ],
@@ -51,22 +61,22 @@
   ],
   [
     [
-      "2024-10-07, 16:38:52",
-      "https://news.ycombinator.com/item?id=41767829"
-    ],
-    [
-      "After USA Ban: Google Kicks Kaspersky Out of Play Store",
-      "https://www.heise.de/en/news/After-USA-ban-Google-kicks-Kaspersky-out-of-Play-Store-9963773.html"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 16:28:18",
       "https://news.ycombinator.com/item?id=41767690"
     ],
     [
       "Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map",
       "https://postalagent.com"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 16:25:03",
+      "https://news.ycombinator.com/item?id=41767648"
+    ],
+    [
+      "Nearly all of the Google images results for \"baby peacock\" are AI generated",
+      "https://twitter.com/notengoprisa/status/1842550658102079556"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41766882"
     ],
     [
-      "Building a Single-Page App with Htmx",
+      "Building a single-page app with Htmx",
       "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
     ]
   ],
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2024-10-07, 14:48:51",
-      "https://news.ycombinator.com/item?id=41766551"
-    ],
-    [
-      "Audioscrape: Building in Rust When Everyone Said I Shouldn't",
-      "https://news.ycombinator.com/item?id=41766551"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 14:45:12",
       "https://news.ycombinator.com/item?id=41766515"
     ],
     [
       "What's New in Ruby on Rails 8",
       "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 14:22:45",
+      "https://news.ycombinator.com/item?id=41766293"
+    ],
+    [
+      "The Rise of Worse Is Better (1991)",
+      "https://www.dreamsongs.com/RiseOfWorseIsBetter.html"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=41765716"
     ],
     [
-      "Can You Get Root with Only a Cigarette Lighter?",
+      "Can you get root with only a cigarette lighter?",
       "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Homemade AI Drone Software Finds People When Search and Rescue Teams Can't",
       "https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 03:18:04",
-      "https://news.ycombinator.com/item?id=41762468"
-    ],
-    [
-      "How do HTTP servers figure out Content-Length?",
-      "https://aarol.dev/posts/go-contentlength/"
     ]
   ],
   [
