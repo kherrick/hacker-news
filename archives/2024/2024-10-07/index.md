@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+* [2024-10-07, 16:43:18](https://news.ycombinator.com/item?id=41767886) - [Show HN: Termichess – Play chess right on your terminal](https://github.com/whiletruelearn/termichess)
+* [2024-10-07, 16:28:18](https://news.ycombinator.com/item?id=41767690) - [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
 * [2024-10-07, 16:25:03](https://news.ycombinator.com/item?id=41767648) - [Nearly all of the Google Images results for \"Baby Peacock\" are AI generated](https://twitter.com/notengoprisa/status/1842550658102079556)
+* [2024-10-07, 16:24:32](https://news.ycombinator.com/item?id=41767644) - [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
+* [2024-10-07, 15:56:07](https://news.ycombinator.com/item?id=41767279) - [Hot Take: Don'T provide incident resolution estimates](https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/)
 * [2024-10-07, 15:49:42](https://news.ycombinator.com/item?id=41767199) - [Google Will Track Your Location 'Every 15 Minutes'–'Even with GPS Disabled'](https://www.forbes.com/sites/zakdoffman/2024/10/05/google-new-location-tracking-warning-pixel-9-pro-pixel-9-pro-xl-pixel-9-pro-fold/)
 * [2024-10-07, 15:44:37](https://news.ycombinator.com/item?id=41767150) - [Ptxdist – \"Professional Embedded Linux Made Easy\"](https://www.ptxdist.org/)
 * [2024-10-07, 15:24:49](https://news.ycombinator.com/item?id=41766954) - [Every change breaks someone's workflow](https://xkcd.com/1172/)
