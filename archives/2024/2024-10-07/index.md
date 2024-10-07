@@ -6,6 +6,7 @@
 
 * [2024-10-07, 03:28:59](https://news.ycombinator.com/item?id=41762508) - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
 * [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
+* [2024-10-07, 02:30:45](https://news.ycombinator.com/item?id=41762255) - [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
 * [2024-10-07, 02:13:24](https://news.ycombinator.com/item?id=41762156) - [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 * [2024-10-07, 01:42:57](https://news.ycombinator.com/item?id=41761986) - [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 01:40:59](https://news.ycombinator.com/item?id=41761973) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
