@@ -6,6 +6,7 @@
 
 * [2024-10-07, 07:33:12](https://news.ycombinator.com/item?id=41763624) - [Tiny C Compiler is relicensing to MIT](https://repo.or.cz/tinycc.git/blob/3d963aebcd533da278f086a3e559d24b961e8c31:/RELICENSING)
 * [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)
+* [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
 * [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)

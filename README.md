@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
@@ -17,7 +18,6 @@
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours (2020)](https://interconnected.org/home/2020/09/24/unoffice_hours)
-* [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth had rings](https://nautil.us/when-earth-had-rings-920177/)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk (2010)](https://backreference.org/2010/02/10/idiomatic-awk/)
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
