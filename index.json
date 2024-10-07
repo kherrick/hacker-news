@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-07, 07:04:35",
-      "https://news.ycombinator.com/item?id=41763471"
-    ],
-    [
-      "Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday",
-      "https://digitalcourage.social/@echo_pbreyer/113264848832310136"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 04:03:30",
       "https://news.ycombinator.com/item?id=41762692"
     ],
@@ -41,16 +31,6 @@
   ],
   [
     [
-      "2024-10-07, 02:13:24",
-      "https://news.ycombinator.com/item?id=41762156"
-    ],
-    [
-      "Apple II Source Listings",
-      "https://6502disassembly.com/other-a2.html"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 01:42:57",
       "https://news.ycombinator.com/item?id=41761986"
     ],
@@ -77,26 +57,6 @@
     [
       "Sorbet: A neuromorphic hardware-compatible transformer-based spiking model",
       "https://arxiv.org/abs/2409.15298"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 00:10:14",
-      "https://news.ycombinator.com/item?id=41761511"
-    ],
-    [
-      "The SQLite Amalgamation",
-      "https://www.sqlite.org/amalgamation.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 00:07:23",
-      "https://news.ycombinator.com/item?id=41761497"
-    ],
-    [
-      "Google’s AI thinks I left a Gatorade bottle on the moon",
-      "https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon"
     ]
   ],
   [
@@ -151,12 +111,42 @@
   ],
   [
     [
+      "2024-10-06, 18:04:57",
+      "https://news.ycombinator.com/item?id=41758856"
+    ],
+    [
+      "The Naming of America (2023)",
+      "https://www.jonathancohenweb.com/america.html"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 17:33:57",
       "https://news.ycombinator.com/item?id=41758644"
     ],
     [
       "Popular Science Magazine Archives, May 1872-March 2009",
       "https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 17:08:10",
+      "https://news.ycombinator.com/item?id=41758516"
+    ],
+    [
+      "To Be Born in a Bag",
+      "https://press.asimov.com/articles/artificial-wombs"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 16:11:40",
+      "https://news.ycombinator.com/item?id=41758097"
+    ],
+    [
+      "Ziggy: Data serialization language for expressing API messages, config files",
+      "https://ziggy-lang.io"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=41756398"
     ],
     [
-      "Unoffice Hours",
+      "Unoffice Hours (2020)",
       "https://interconnected.org/home/2020/09/24/unoffice_hours"
     ]
   ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2024-10-05, 13:22:43",
-      "https://news.ycombinator.com/item?id=41749649"
-    ],
-    [
-      "Adobe Cuts Perpetual License for Elements Down to Just Three Years",
-      "https://petapixel.com/2024/10/01/adobe-cuts-perpetual-license-for-elements-down-to-just-three-years/"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 12:00:26",
       "https://news.ycombinator.com/item?id=41749296"
     ],
     [
       "Sailfish Mobile OS",
       "https://sailfishos.org/"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 11:59:09",
+      "https://news.ycombinator.com/item?id=41749288"
+    ],
+    [
+      "Compiling and running sqlite3-rsync from a branch",
+      "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ants learned to farm fungi during a mass extinction",
       "https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 20:50:06",
+      "https://news.ycombinator.com/item?id=41724849"
+    ],
+    [
+      "William Cowper and the Age of the Earth [pdf] (2019)",
+      "https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf"
     ]
   ]
 ]
