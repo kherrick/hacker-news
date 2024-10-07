@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 13:53:47](https://news.ycombinator.com/item?id=41766035) - [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 13:39:23](https://news.ycombinator.com/item?id=41765904) - [Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)
@@ -25,10 +26,9 @@
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours (2020)](https://interconnected.org/home/2020/09/24/unoffice_hours)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
-* [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
-* [2024-10-05, 05:39:42](https://news.ycombinator.com/item?id=41747952) - [Diode Matrix](https://www.cca.org/blog/20120222-Diode-Matrix.shtml)
 * [2024-10-03, 20:32:38](https://news.ycombinator.com/item?id=41734672) - [Ants learned to farm fungi during a mass extinction](https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/)
+* [2024-10-03, 16:13:44](https://news.ycombinator.com/item?id=41732068) - [Show HN: I have published a mobile HN client to have coffee chat with HN users](https://news.ycombinator.com/item?id=41732068)
 * [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 
 ## [Archives](archives/index.md)

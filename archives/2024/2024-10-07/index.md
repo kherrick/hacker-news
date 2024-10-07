@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 13:53:47](https://news.ycombinator.com/item?id=41766035) - [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 13:39:23](https://news.ycombinator.com/item?id=41765904) - [Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)
