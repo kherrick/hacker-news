@@ -8,6 +8,7 @@
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and much more](https://sq.io)
 * [2024-10-06, 21:47:19](https://news.ycombinator.com/item?id=41760607) - [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
 * [2024-10-06, 21:33:19](https://news.ycombinator.com/item?id=41760513) - [Hyprland 0.44.0](https://hyprland.org/news/update44/)
+* [2024-10-06, 21:32:46](https://news.ycombinator.com/item?id=41760510) - [Llamafile for Meltemi: The First LLM for Greek](https://tselai.com/meltemi-llamafile)
 * [2024-10-06, 21:21:47](https://news.ycombinator.com/item?id=41760421) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 * [2024-10-06, 20:24:51](https://news.ycombinator.com/item?id=41760006) - [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)

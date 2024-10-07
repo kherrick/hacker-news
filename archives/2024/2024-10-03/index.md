@@ -20,6 +20,7 @@
 * [2024-10-03, 21:00:23](https://news.ycombinator.com/item?id=41734946) - [Mux (YC W16) is hiring a video engineer](https://www.mux.com/jobs?job=video)
 * [2024-10-03, 20:54:59](https://news.ycombinator.com/item?id=41734889) - [Opinion letter about Robert Roberson, about to be executed in Texas](https://shakenbaby.science/roberson.html)
 * [2024-10-03, 20:52:27](https://news.ycombinator.com/item?id=41734863) - [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
+* [2024-10-03, 20:32:38](https://news.ycombinator.com/item?id=41734672) - [Ants learned to farm fungi during a mass extinction](https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/)
 * [2024-10-03, 20:25:01](https://news.ycombinator.com/item?id=41734597) - [Adventures with Jean](https://theamericanscholar.org/adventures-with-jean/)
 * [2024-10-03, 20:14:31](https://news.ycombinator.com/item?id=41734498) - [Tailoring amorphous boron nitride for high-performance 2d electronics](https://www.nature.com/articles/s41467-024-48429-4)
 * [2024-10-03, 20:01:45](https://news.ycombinator.com/item?id=41734368) - [Why I Like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
