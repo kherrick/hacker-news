@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-07, 17:46:16",
-      "https://news.ycombinator.com/item?id=41768752"
-    ],
-    [
-      "An interactive, exercise-heavy approach to learning Bitcoin",
-      "https://bitcoindevs.xyz/decoding"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 17:40:22",
       "https://news.ycombinator.com/item?id=41768658"
     ],
@@ -257,6 +247,16 @@
     [
       "Homemade AI Drone Software Finds People When Search and Rescue Teams Can't",
       "https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 03:18:04",
+      "https://news.ycombinator.com/item?id=41762468"
+    ],
+    [
+      "How do HTTP servers figure out Content-Length?",
+      "https://aarol.dev/posts/go-contentlength/"
     ]
   ],
   [
