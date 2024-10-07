@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+* [2024-10-07, 12:44:40](https://news.ycombinator.com/item?id=41765459) - [New Italian Law Threatens ISPs with Prison over Piracy Reporting Failures](https://torrentfreak.com/isps-betrayed-over-pirate-site-blocking-threats-the-reckoning-will-be-invisible-241005/)
 * [2024-10-07, 12:41:50](https://news.ycombinator.com/item?id=41765435) - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
@@ -14,7 +16,6 @@
 * [2024-10-07, 00:44:53](https://news.ycombinator.com/item?id=41761699) - [Sorbet: A neuromorphic hardware-compatible transformer-based spiking model](https://arxiv.org/abs/2409.15298)
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and more](https://sq.io)
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
-* [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours (2020)](https://interconnected.org/home/2020/09/24/unoffice_hours)
@@ -29,7 +30,6 @@
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 * [2024-10-05, 05:39:42](https://news.ycombinator.com/item?id=41747952) - [Diode Matrix](https://www.cca.org/blog/20120222-Diode-Matrix.shtml)
 * [2024-10-03, 20:32:38](https://news.ycombinator.com/item?id=41734672) - [Ants learned to farm fungi during a mass extinction](https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/)
-* [2024-10-02, 20:50:06](https://news.ycombinator.com/item?id=41724849) - [William Cowper and the Age of the Earth [pdf] (2019)](https://www.charlespetzold.com/essays/WilliamCowperAndTheAgeOfTheEarth.pdf)
 
 ## [Archives](archives/index.md)
 
