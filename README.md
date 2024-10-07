@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
+* [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [ByteDance’s Bytespider is scraping at much higher rates than other platforms](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 06:16:33](https://news.ycombinator.com/item?id=41763242) - [A Seven-Dimensional Analysis of Hashing Methods [pdf] (2015)](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
