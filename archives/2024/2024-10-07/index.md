@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)
 * [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:28:59](https://news.ycombinator.com/item?id=41762508) - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)

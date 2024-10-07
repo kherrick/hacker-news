@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
+* [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 * [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
