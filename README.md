@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 21:11:21](https://news.ycombinator.com/item?id=41771112) - [Private Equity Ruins Tech Companies](https://blog.zmh.org/2024/10/07/private-equity-ruins.html)
 * [2024-10-07, 20:06:10](https://news.ycombinator.com/item?id=41770383) - [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
@@ -11,10 +12,9 @@
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
 * [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-10-07, 16:40:30](https://news.ycombinator.com/item?id=41767852) - [Unlocking the 'aha' moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
-* [2024-10-07, 16:28:18](https://news.ycombinator.com/item?id=41767690) - [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
 * [2024-10-07, 16:24:32](https://news.ycombinator.com/item?id=41767644) - [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
+* [2024-10-07, 15:44:37](https://news.ycombinator.com/item?id=41767150) - [Ptxdist – \"Professional Embedded Linux Made Easy\"](https://www.ptxdist.org/)
 * [2024-10-07, 15:19:09](https://news.ycombinator.com/item?id=41766882) - [Building a single-page app with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
-* [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [2024-10-07, 14:45:12](https://news.ycombinator.com/item?id=41766515) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better (1991)](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 14:05:05](https://news.ycombinator.com/item?id=41766144) - [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
