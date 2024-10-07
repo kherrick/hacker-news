@@ -60,6 +60,7 @@
 * [2024-10-06, 11:01:35](https://news.ycombinator.com/item?id=41756277) - [The Importance of Local Development](https://fastpaced.com/articles/local-development/)
 * [2024-10-06, 10:44:38](https://news.ycombinator.com/item?id=41756220) - [200GB Free Cloud for Your Files](https://blog.tomaszdunia.pl/darmowa-chmura-200gb-eng/)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
+* [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-06, 10:00:28](https://news.ycombinator.com/item?id=41756046) - [SQLite: Defense Against the Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
