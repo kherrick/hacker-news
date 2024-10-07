@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 15:44:37](https://news.ycombinator.com/item?id=41767150) - [Ptxdist – \"Professional Embedded Linux Made Easy\"](https://www.ptxdist.org/)
 * [2024-10-07, 15:24:49](https://news.ycombinator.com/item?id=41766954) - [Every change breaks someone's workflow](https://xkcd.com/1172/)
+* [2024-10-07, 15:19:09](https://news.ycombinator.com/item?id=41766882) - [Building a Single-Page App with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 * [2024-10-07, 14:57:47](https://news.ycombinator.com/item?id=41766670) - [Geico car insurance may no longer cover Tesla Cybertrucks](https://tribune.com.pk/story/2501263/geico-car-insurance-may-no-longer-cover-tesla-cybertrucks)
 * [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+* [2024-10-07, 14:48:51](https://news.ycombinator.com/item?id=41766551) - [Audioscrape: Building in Rust When Everyone Said I Shouldn't](https://news.ycombinator.com/item?id=41766551)
 * [2024-10-07, 14:45:12](https://news.ycombinator.com/item?id=41766515) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 14:13:46](https://news.ycombinator.com/item?id=41766216) - [An RKRM-style reference of AmigaDOS/dos.library](https://github.com/thorfdbg/rkrm-dos)
 * [2024-10-07, 14:05:05](https://news.ycombinator.com/item?id=41766144) - [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
 * [2024-10-07, 13:53:47](https://news.ycombinator.com/item?id=41766035) - [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
+* [2024-10-07, 13:42:59](https://news.ycombinator.com/item?id=41765939) - [Show HN: A Website for Comparing Protein Powder Prices](https://nutritionprices.com/)
 * [2024-10-07, 13:39:23](https://news.ycombinator.com/item?id=41765904) - [Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)
 * [2024-10-07, 13:21:54](https://news.ycombinator.com/item?id=41765734) - [Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
