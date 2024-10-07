@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-07, 21:11:21",
-      "https://news.ycombinator.com/item?id=41771112"
-    ],
-    [
-      "Private Equity Ruins Tech Companies",
-      "https://blog.zmh.org/2024/10/07/private-equity-ruins.html"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 20:52:08",
       "https://news.ycombinator.com/item?id=41770921"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2024-10-07, 19:28:10",
+      "https://news.ycombinator.com/item?id=41769971"
+    ],
+    [
+      "Is the attack helicopter dead?",
+      "https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 19:23:08",
       "https://news.ycombinator.com/item?id=41769932"
     ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41769648"
     ],
     [
-      "Wigle.net: All the Networks. Found by Everyone",
+      "Wigle.net: All the networks, found by everyone",
       "https://wigle.net/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41769346"
     ],
     [
-      "EuroBSDcon 2024 some notes after the conference",
+      "EuroBSDcon 2024: Some notes after the conference",
       "https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-10-07, 15:19:09",
-      "https://news.ycombinator.com/item?id=41766882"
-    ],
-    [
-      "Building a single-page app with Htmx",
-      "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 14:45:12",
       "https://news.ycombinator.com/item?id=41766515"
     ],
@@ -191,22 +181,32 @@
   ],
   [
     [
-      "2024-10-07, 13:42:59",
-      "https://news.ycombinator.com/item?id=41765939"
-    ],
-    [
-      "Show HN: A Website for Comparing Protein Powder Prices",
-      "https://nutritionprices.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 13:20:19",
       "https://news.ycombinator.com/item?id=41765716"
     ],
     [
       "Can you get root with only a cigarette lighter?",
       "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 13:01:09",
+      "https://news.ycombinator.com/item?id=41765580"
+    ],
+    [
+      "Fukushima Reactor: TEPCO robot aims to extract nuclear fuel",
+      "https://spectrum.ieee.org/fukushima-reactor"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 12:30:07",
+      "https://news.ycombinator.com/item?id=41765334"
+    ],
+    [
+      "An e-waste dumping ground",
+      "https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "The survival skills of Helena Valero",
       "https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 18:04:57",
+      "https://news.ycombinator.com/item?id=41758856"
+    ],
+    [
+      "The Naming of America (2023)",
+      "https://www.jonathancohenweb.com/america.html"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-10-05, 08:36:31",
-      "https://news.ycombinator.com/item?id=41748519"
+      "2024-10-02, 21:06:05",
+      "https://news.ycombinator.com/item?id=41724974"
     ],
     [
-      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
-      "https://github.com/cepa/aegir-gps-tracker"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 11:49:56",
-      "https://news.ycombinator.com/item?id=41729765"
-    ],
-    [
-      "NASA Made the Hubble Telescope to Be Remade",
-      "https://spectrum.ieee.org/hubble-space-telescope-re-invention"
+      "Cisco is abandoning the LoRaWAN space, and there's no lifeboat for IoT customers",
+      "https://www.theregister.com/2024/10/02/cisco_exiting_lorawan/"
     ]
   ]
 ]
