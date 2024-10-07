@@ -20,7 +20,6 @@
 * [2024-10-07, 13:21:54](https://news.ycombinator.com/item?id=41765734) - [Silicon Valley, the new lobbying monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 13:01:09](https://news.ycombinator.com/item?id=41765580) - [Fukushima Reactor: TEPCO robot aims to extract nuclear fuel](https://spectrum.ieee.org/fukushima-reactor)
-* [2024-10-07, 12:39:15](https://news.ycombinator.com/item?id=41765409) - [Show HN: GoSQL – A query engine in 319 LoC](https://github.com/archiewood/gosql)
 * [2024-10-07, 12:37:38](https://news.ycombinator.com/item?id=41765395) - [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
@@ -28,6 +27,7 @@
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
+* [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 * [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 
