@@ -62,6 +62,7 @@
 * [2024-10-02, 07:45:51](https://news.ycombinator.com/item?id=41718186) - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
 * [2024-10-02, 07:16:10](https://news.ycombinator.com/item?id=41718030) - [AMD Inference](https://github.com/slashml/amd_inference)
 * [2024-10-02, 06:57:44](https://news.ycombinator.com/item?id=41717913) - [Intel Core 13th and 14th Gen Desktop Instability Root Cause Update](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239)
+* [2024-10-02, 06:56:14](https://news.ycombinator.com/item?id=41717908) - [Gopher and the Lynx Web (2019)](https://jfm.carcosa.net/blog/computing/gopher-and-the-lynx-web/)
 * [2024-10-02, 06:50:19](https://news.ycombinator.com/item?id=41717873) - [Ask HN: Do 10DLC Requirements make it impossible for hobby projects to send SMS?](https://news.ycombinator.com/item?id=41717873)
 * [2024-10-02, 06:49:36](https://news.ycombinator.com/item?id=41717869) - [Show HN: Teletxt (Vercel App)](https://news.ycombinator.com/item?id=41717869)
 * [2024-10-02, 06:09:49](https://news.ycombinator.com/item?id=41717661) - [What OS should I drive?](https://codefaster.substack.com/p/which-os-should-i-drive)

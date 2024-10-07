@@ -63,6 +63,7 @@
 * [2024-10-05, 06:37:06](https://news.ycombinator.com/item?id=41748125) - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=41748125)
 * [2024-10-05, 05:51:58](https://news.ycombinator.com/item?id=41747979) - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 * [2024-10-05, 05:43:59](https://news.ycombinator.com/item?id=41747966) - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
+* [2024-10-05, 05:39:42](https://news.ycombinator.com/item?id=41747952) - [Diode Matrix](https://www.cca.org/blog/20120222-Diode-Matrix.shtml)
 * [2024-10-05, 05:15:26](https://news.ycombinator.com/item?id=41747881) - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
 * [2024-10-05, 05:10:29](https://news.ycombinator.com/item?id=41747863) - [Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision](https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/)
 * [2024-10-05, 04:39:54](https://news.ycombinator.com/item?id=41747771) - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
