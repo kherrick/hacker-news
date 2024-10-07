@@ -27,8 +27,8 @@
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
+* [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
-* [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 * [2024-10-02, 21:06:05](https://news.ycombinator.com/item?id=41724974) - [Cisco is abandoning the LoRaWAN space, and there's no lifeboat for IoT customers](https://www.theregister.com/2024/10/02/cisco_exiting_lorawan/)
 
 ## [Archives](archives/index.md)
