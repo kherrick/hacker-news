@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 01:42:57](https://news.ycombinator.com/item?id=41761986) - [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 01:40:59](https://news.ycombinator.com/item?id=41761973) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 * [2024-10-07, 01:21:26](https://news.ycombinator.com/item?id=41761873) - [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
-* [2024-10-07, 00:44:53](https://news.ycombinator.com/item?id=41761699) - [A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298)
+* [2024-10-07, 00:44:53](https://news.ycombinator.com/item?id=41761699) - [Sorbet: A neuromorphic hardware-compatible transformer-based spiking model](https://arxiv.org/abs/2409.15298)
+* [2024-10-07, 00:10:14](https://news.ycombinator.com/item?id=41761511) - [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)
 * [2024-10-07, 00:07:23](https://news.ycombinator.com/item?id=41761497) - [Google’s AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
 * [2024-10-06, 22:48:06](https://news.ycombinator.com/item?id=41761007) - [AI won't replace human devs anytime soon](https://twitter.com/skeptrune/status/1843060221494895058)
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and more](https://sq.io)
@@ -20,6 +22,7 @@
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk (2010)](https://backreference.org/2010/02/10/idiomatic-awk/)
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
+* [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/multitasking.html)
 * [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
 * [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
@@ -27,9 +30,6 @@
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-05, 05:39:42](https://news.ycombinator.com/item?id=41747952) - [Diode Matrix](https://www.cca.org/blog/20120222-Diode-Matrix.shtml)
 * [2024-10-03, 20:32:38](https://news.ycombinator.com/item?id=41734672) - [Ants learned to farm fungi during a mass extinction](https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/)
-* [2024-10-02, 12:24:13](https://news.ycombinator.com/item?id=41719819) - [Sustaphones Tablets – Database of repairable Android devices with community ROMs](https://www.sustaphones.com/tablets)
-* [2024-10-02, 06:56:14](https://news.ycombinator.com/item?id=41717908) - [Gopher and the Lynx Web (2019)](https://jfm.carcosa.net/blog/computing/gopher-and-the-lynx-web/)
-* [2024-10-02, 06:50:19](https://news.ycombinator.com/item?id=41717873) - [Ask HN: Do 10DLC Requirements make it impossible for hobby projects to send SMS?](https://news.ycombinator.com/item?id=41717873)
 
 ## [Archives](archives/index.md)
 
