@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-07, 15:24:49](https://news.ycombinator.com/item?id=41766954) - [Every change breaks someone's workflow](https://xkcd.com/1172/)
+* [2024-10-07, 14:57:47](https://news.ycombinator.com/item?id=41766670) - [Geico car insurance may no longer cover Tesla Cybertrucks](https://tribune.com.pk/story/2501263/geico-car-insurance-may-no-longer-cover-tesla-cybertrucks)
 * [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [2024-10-07, 14:45:12](https://news.ycombinator.com/item?id=41766515) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better (1991)](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
@@ -15,7 +16,6 @@
 * [2024-10-07, 12:41:50](https://news.ycombinator.com/item?id=41765435) - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
 * [2024-10-07, 12:39:15](https://news.ycombinator.com/item?id=41765409) - [GoSQL: A query engine in 319 LoC](https://github.com/archiewood/gosql)
 * [2024-10-07, 12:37:38](https://news.ycombinator.com/item?id=41765395) - [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
-* [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
 * [2024-10-07, 15:24:49](https://news.ycombinator.com/item?id=41766954) - [Every change breaks someone's workflow](https://xkcd.com/1172/)
+* [2024-10-07, 14:57:47](https://news.ycombinator.com/item?id=41766670) - [Geico car insurance may no longer cover Tesla Cybertrucks](https://tribune.com.pk/story/2501263/geico-car-insurance-may-no-longer-cover-tesla-cybertrucks)
 * [2024-10-07, 14:53:33](https://news.ycombinator.com/item?id=41766610) - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [2024-10-07, 14:45:12](https://news.ycombinator.com/item?id=41766515) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
