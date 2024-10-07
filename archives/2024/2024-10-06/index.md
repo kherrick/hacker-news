@@ -47,6 +47,7 @@
 * [2024-10-06, 11:43:02](https://news.ycombinator.com/item?id=41756435) - [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
 * [2024-10-06, 11:42:33](https://news.ycombinator.com/item?id=41756432) - [Ask HN: What's the \"best\" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
 * [2024-10-06, 11:37:52](https://news.ycombinator.com/item?id=41756416) - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
+* [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours](https://interconnected.org/home/2020/09/24/unoffice_hours)
 * [2024-10-06, 11:31:11](https://news.ycombinator.com/item?id=41756396) - [Partitioning in the Chiplet Era](https://semiengineering.com/partitioning-in-the-chiplet-era/)
 * [2024-10-06, 11:24:35](https://news.ycombinator.com/item?id=41756371) - [AIHawk: AI bot to automatically apply jobs](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)
 * [2024-10-06, 11:17:24](https://news.ycombinator.com/item?id=41756346) - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
