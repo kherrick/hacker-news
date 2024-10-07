@@ -16,6 +16,7 @@
 * [2024-10-07, 13:21:54](https://news.ycombinator.com/item?id=41765734) - [Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 13:01:09](https://news.ycombinator.com/item?id=41765580) - [Fukushima Reactor: TEPCO robot aims to extract nuclear fuel](https://spectrum.ieee.org/fukushima-reactor)
+* [2024-10-07, 12:55:41](https://news.ycombinator.com/item?id=41765541) - [Augmenting the Client with Htmx](https://blog.frankel.ch/ajax-ssr/5/)
 * [2024-10-07, 12:44:40](https://news.ycombinator.com/item?id=41765459) - [New Italian Law Threatens ISPs with Prison over Piracy Reporting Failures](https://torrentfreak.com/isps-betrayed-over-pirate-site-blocking-threats-the-reckoning-will-be-invisible-241005/)
 * [2024-10-07, 12:41:50](https://news.ycombinator.com/item?id=41765435) - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
 * [2024-10-07, 12:39:15](https://news.ycombinator.com/item?id=41765409) - [GoSQL: A query engine in 319 LoC](https://github.com/archiewood/gosql)
