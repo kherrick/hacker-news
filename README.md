@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-07, 17:46:16](https://news.ycombinator.com/item?id=41768752) - [An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
 * [2024-10-07, 17:25:32](https://news.ycombinator.com/item?id=41768457) - [Do not use secrets in environment variables](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 * [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
@@ -26,6 +25,7 @@
 * [2024-10-07, 12:37:38](https://news.ycombinator.com/item?id=41765395) - [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
+* [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 * [2024-10-06, 11:42:33](https://news.ycombinator.com/item?id=41756432) - [Ask HN: What's the \"best\" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
