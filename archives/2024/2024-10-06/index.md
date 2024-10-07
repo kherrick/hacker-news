@@ -21,6 +21,7 @@
 * [2024-10-06, 18:27:01](https://news.ycombinator.com/item?id=41759005) - [Starlink direct-to-cell enabled for hurricane helene emergency messaging](https://twitter.com/spacex/status/1842988427777605683)
 * [2024-10-06, 18:18:00](https://news.ycombinator.com/item?id=41758931) - [Exoplanet found around our closest lone star](https://cosmosmagazine.com/space/astronomy/exoplanet-closest-lone-star/)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
+* [2024-10-06, 18:04:58](https://news.ycombinator.com/item?id=41758857) - [The survival skills of Helena Valero](https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2001)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
 * [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
