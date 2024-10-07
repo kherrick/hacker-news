@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 12:41:50](https://news.ycombinator.com/item?id=41765435) - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
+* [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)

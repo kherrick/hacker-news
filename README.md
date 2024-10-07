@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 12:41:50](https://news.ycombinator.com/item?id=41765435) - [Hetzner Object Storage](https://docs.hetzner.com/storage/object-storage/)
+* [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [ByteDance’s Bytespider is scraping at much higher rates than other platforms](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
@@ -13,7 +15,6 @@
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and more](https://sq.io)
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
-* [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours (2020)](https://interconnected.org/home/2020/09/24/unoffice_hours)
@@ -22,7 +23,6 @@
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/experiment_multitasking.html)
-* [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
