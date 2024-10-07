@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 07:33:12](https://news.ycombinator.com/item?id=41763624) - [Tiny C Compiler is relicensing to MIT](https://repo.or.cz/tinycc.git/blob/3d963aebcd533da278f086a3e559d24b961e8c31:/RELICENSING)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
+* [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
-* [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
 * [2024-10-07, 01:42:57](https://news.ycombinator.com/item?id=41761986) - [Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 01:21:26](https://news.ycombinator.com/item?id=41761873) - [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
 * [2024-10-07, 00:44:53](https://news.ycombinator.com/item?id=41761699) - [Sorbet: A neuromorphic hardware-compatible transformer-based spiking model](https://arxiv.org/abs/2409.15298)
@@ -12,7 +13,6 @@
 * [2024-10-06, 18:38:26](https://news.ycombinator.com/item?id=41759112) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-06, 18:15:23](https://news.ycombinator.com/item?id=41758915) - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
-* [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives, May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 * [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Book of Kells, now digitized and available online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
