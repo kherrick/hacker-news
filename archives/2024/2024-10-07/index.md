@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 20:06:10](https://news.ycombinator.com/item?id=41770383) - [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
+* [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the Attack Helicopter Dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+* [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
 * [2024-10-07, 18:56:52](https://news.ycombinator.com/item?id=41769618) - [Microsoft didn't sandbox Windows Defender, so I did (2017)](https://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/)
