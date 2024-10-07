@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
 * [2024-10-07, 17:46:16](https://news.ycombinator.com/item?id=41768752) - [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)

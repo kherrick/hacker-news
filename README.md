@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
@@ -7,7 +8,6 @@
 * [2024-10-07, 16:43:18](https://news.ycombinator.com/item?id=41767886) - [Show HN: Termichess – Play chess in your terminal](https://github.com/whiletruelearn/termichess)
 * [2024-10-07, 16:40:30](https://news.ycombinator.com/item?id=41767852) - [Unlocking the 'aha' moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
 * [2024-10-07, 16:28:18](https://news.ycombinator.com/item?id=41767690) - [Show HN: PostalAgent – Send Postcards online by circling areas on a Google Map](https://postalagent.com)
-* [2024-10-07, 16:25:03](https://news.ycombinator.com/item?id=41767648) - [Nearly all of the Google images results for \"baby peacock\" are AI generated](https://twitter.com/notengoprisa/status/1842550658102079556)
 * [2024-10-07, 16:24:32](https://news.ycombinator.com/item?id=41767644) - [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
 * [2024-10-07, 15:44:37](https://news.ycombinator.com/item?id=41767150) - [Ptxdist – \"Professional Embedded Linux Made Easy\"](https://www.ptxdist.org/)
 * [2024-10-07, 15:19:09](https://news.ycombinator.com/item?id=41766882) - [Building a single-page app with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
