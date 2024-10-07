@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2024-10-07, 15:56:07",
-      "https://news.ycombinator.com/item?id=41767279"
-    ],
-    [
-      "Hot Take: Don'T provide incident resolution estimates",
-      "https://firehydrant.com/blog/hot-take-dont-provide-incident-resolution-estimates/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 15:44:37",
       "https://news.ycombinator.com/item?id=41767150"
     ],
     [
       "Ptxdist – \"Professional Embedded Linux Made Easy\"",
       "https://www.ptxdist.org/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 15:24:49",
-      "https://news.ycombinator.com/item?id=41766954"
-    ],
-    [
-      "Every change breaks someone's workflow (2013)",
-      "https://xkcd.com/1172/"
     ]
   ],
   [
@@ -251,12 +231,22 @@
   ],
   [
     [
-      "2024-10-07, 03:18:04",
-      "https://news.ycombinator.com/item?id=41762468"
+      "2024-10-07, 06:16:33",
+      "https://news.ycombinator.com/item?id=41763242"
     ],
     [
-      "How do HTTP servers figure out Content-Length?",
-      "https://aarol.dev/posts/go-contentlength/"
+      "A seven-dimensional analysis of hashing methods [pdf] (2015)",
+      "https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 15:50:52",
+      "https://news.ycombinator.com/item?id=41757940"
+    ],
+    [
+      "Optimizing Postgres table layout for maximum efficiency",
+      "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Ask HN: What's the \"best\" book you've ever read?",
       "https://news.ycombinator.com/item?id=41756432"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 10:44:34",
+      "https://news.ycombinator.com/item?id=41756219"
+    ],
+    [
+      "Virtualizing iOS on Apple Silicon",
+      "https://nickb.website/blog/virtualizing-ios-on-apple-silicon"
     ]
   ],
   [
