@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
 * [2024-10-07, 17:46:16](https://news.ycombinator.com/item?id=41768752) - [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)
+* [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
 * [2024-10-07, 17:25:32](https://news.ycombinator.com/item?id=41768457) - [Do not use secrets in environment variables and](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 * [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
 * [2024-10-07, 16:43:18](https://news.ycombinator.com/item?id=41767886) - [Show HN: Termichess – Play chess right on your terminal](https://github.com/whiletruelearn/termichess)
