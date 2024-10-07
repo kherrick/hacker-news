@@ -2,7 +2,6 @@
 
 * [2024-10-07, 20:06:10](https://news.ycombinator.com/item?id=41770383) - [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
-* [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the Attack Helicopter Dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
 * [2024-10-07, 19:04:37](https://news.ycombinator.com/item?id=41769707) - [Who's a Good Boy? A Puppy Linux Mini-Review](https://bbbhltz.codeberg.page/blog/2024/09/puppylinux/)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
@@ -29,6 +28,7 @@
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
+* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 * [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 
 ## [Archives](archives/index.md)
