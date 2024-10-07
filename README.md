@@ -2,7 +2,6 @@
 
 * [2024-10-07, 21:28:06](https://news.ycombinator.com/item?id=41771254) - [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
 * [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
-* [2024-10-07, 20:38:12](https://news.ycombinator.com/item?id=41770763) - [Show HN: AI-generated images that look like real life](https://www.gounfaked.com/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
@@ -29,6 +28,7 @@
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
+* [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 * [2024-10-02, 21:06:05](https://news.ycombinator.com/item?id=41724974) - [Cisco is abandoning the LoRaWAN space, and there's no lifeboat for IoT customers](https://www.theregister.com/2024/10/02/cisco_exiting_lorawan/)
 
 ## [Archives](archives/index.md)
