@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-10-07, 03:28:59",
-      "https://news.ycombinator.com/item?id=41762508"
-    ],
-    [
-      "Alleged M4 MacBook Pro unboxing video",
-      "https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 03:18:04",
       "https://news.ycombinator.com/item?id=41762468"
     ],
@@ -247,6 +237,16 @@
     [
       "Sailfish Mobile OS",
       "https://sailfishos.org/"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 11:59:09",
+      "https://news.ycombinator.com/item?id=41749288"
+    ],
+    [
+      "Compiling and running sqlite3-rsync from a branch",
+      "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync"
     ]
   ],
   [
