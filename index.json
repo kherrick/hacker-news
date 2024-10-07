@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-10-07, 01:03:03",
-      "https://news.ycombinator.com/item?id=41761797"
+      "2024-10-07, 01:40:59",
+      "https://news.ycombinator.com/item?id=41761973"
     ],
     [
-      "Proven Risks of Refillable Soap Dispensers",
-      "https://www.gojo.com/en/Newsroom/Blog/2023/Proven-Risks-of-Refillable-Soap-Dispensers"
+      "React on the server is not PHP",
+      "https://www.artmann.co/articles/react-on-the-server-is-not-php"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 01:21:26",
+      "https://news.ycombinator.com/item?id=41761873"
+    ],
+    [
+      "Octothorpes: Hashtags for the Open Internet",
+      "https://octothorp.es/docs"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 00:44:53",
+      "https://news.ycombinator.com/item?id=41761699"
+    ],
+    [
+      "A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model",
+      "https://arxiv.org/abs/2409.15298"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Google’s AI thinks I left a Gatorade bottle on the moon",
       "https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 22:48:06",
+      "https://news.ycombinator.com/item?id=41761007"
+    ],
+    [
+      "AI won't replace human devs anytime soon",
+      "https://twitter.com/skeptrune/status/1843060221494895058"
     ]
   ],
   [
@@ -41,21 +71,11 @@
   ],
   [
     [
-      "2024-10-06, 21:32:46",
-      "https://news.ycombinator.com/item?id=41760510"
-    ],
-    [
-      "Llamafile for Meltemi: The First LLM for Greek",
-      "https://tselai.com/meltemi-llamafile"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 21:21:47",
       "https://news.ycombinator.com/item?id=41760421"
     ],
     [
-      "Rust needs a web framework for lazy developers",
+      "Rust needs a web framework",
       "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
     ]
   ],
@@ -67,26 +87,6 @@
     [
       "UpCodes (YC S17) is hiring recruiters to build out remote team",
       "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 20:24:51",
-      "https://news.ycombinator.com/item?id=41760006"
-    ],
-    [
-      "New research suggests that our universe has no dark matter",
-      "https://phys.org/news/2024-03-universe-dark.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 18:38:39",
-      "https://news.ycombinator.com/item?id=41759113"
-    ],
-    [
-      "How to stop advertisers from tracking your teen across the internet",
-      "https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet"
     ]
   ],
   [
@@ -161,42 +161,32 @@
   ],
   [
     [
-      "2024-10-06, 11:37:52",
-      "https://news.ycombinator.com/item?id=41756416"
-    ],
-    [
-      "Seeing Faces in Things: A model and dataset for pareidolia",
-      "https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 11:17:24",
-      "https://news.ycombinator.com/item?id=41756346"
-    ],
-    [
-      "When Earth had rings",
-      "https://nautil.us/when-earth-had-rings-920177/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 11:03:21",
-      "https://news.ycombinator.com/item?id=41756286"
-    ],
-    [
-      "LaTeX Style Guide for EE 364B [pdf] (2014)",
-      "https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 09:54:06",
       "https://news.ycombinator.com/item?id=41756023"
     ],
     [
       "Wi-Fi Goes Long Range on New WiLo Standard",
       "https://spectrum.ieee.org/wi-fi-lora-hybrid"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 09:29:41",
+      "https://news.ycombinator.com/item?id=41755920"
+    ],
+    [
+      "Idiomatic Awk (2010)",
+      "https://backreference.org/2010/02/10/idiomatic-awk/"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 07:57:22",
+      "https://news.ycombinator.com/item?id=41755559"
+    ],
+    [
+      "Waverley, the last seagoing paddle steamer",
+      "https://diamondgeezer.blogspot.com/2024/10/waverley.html"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-10-05, 05:39:42",
+      "https://news.ycombinator.com/item?id=41747952"
+    ],
+    [
+      "Diode Matrix",
+      "https://www.cca.org/blog/20120222-Diode-Matrix.shtml"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 20:32:38",
       "https://news.ycombinator.com/item?id=41734672"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-10-03, 20:14:31",
-      "https://news.ycombinator.com/item?id=41734498"
-    ],
-    [
-      "Tailoring amorphous boron nitride for high-performance 2d electronics",
-      "https://www.nature.com/articles/s41467-024-48429-4"
-    ]
-  ],
-  [
-    [
       "2024-10-02, 12:24:13",
       "https://news.ycombinator.com/item?id=41719819"
     ],
     [
       "Sustaphones Tablets – Database of repairable Android devices with community ROMs",
       "https://www.sustaphones.com/tablets"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 06:56:14",
+      "https://news.ycombinator.com/item?id=41717908"
+    ],
+    [
+      "Gopher and the Lynx Web (2019)",
+      "https://jfm.carcosa.net/blog/computing/gopher-and-the-lynx-web/"
     ]
   ],
   [
