@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41767150">
+          <h3>
+            <a class="item" href="https://www.ptxdist.org/"
+              >Ptxdist – "Professional Embedded Linux Made Easy"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-07 @ 15:44:37</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41767150"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41766954">
           <h3>
             <a class="item" href="https://xkcd.com/1172/"
@@ -139,9 +158,30 @@
             <h4>
               <span>2024-10-07 @ 15:24:49</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766954"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41766882">
+          <h3>
+            <a
+              class="item"
+              href="https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
+              >Building a Single-Page App with Htmx</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-07 @ 15:19:09</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41766882"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
               >
@@ -160,11 +200,11 @@
             <h4>
               <span>2024-10-07 @ 14:57:47</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766670"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -182,13 +222,133 @@
             <h4>
               <span>2024-10-07 @ 14:53:33</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766610"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41766551">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41766551"
+              >Audioscrape: Building in Rust When Everyone Said I Shouldn't</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-07 @ 14:48:51</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41766551"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Why Rust for a Bootstrapped MVP?</p>
+              <p>
+                Cost-Efficiency: Minimal resource usage translates to lower
+                hosting costs, crucial for bootstrapping.
+              </p>
+              <p>
+                Performance: Efficient handling of audio processing and web
+                serving, allowing for growth without immediate infrastructure
+                scaling.
+              </p>
+              <p>
+                Learning Investment: Deepening expertise in a language with
+                growing demand, potentially opening future opportunities.
+              </p>
+              <p>
+                Proving a Point: Demonstrating Rust's viability for rapid
+                development in web applications.
+              </p>
+              <p>Project Overview:</p>
+              <p>
+                Audioscrape aggregates podcast RSS feeds, transcribes episodes,
+                and provides an interactive interface for exploring and
+                discussing podcast content. It's a full-stack Rust application,
+                leveraging various crates from the ecosystem.
+              </p>
+              <p>Technical Stack:</p>
+              <p>Backend: Axum (async web framework)</p>
+              <p>Database: SQLite with SQLx for type-safe queries</p>
+              <p>Authentication: OAuth2</p>
+              <p>Image Processing: For social media previews</p>
+              <p>HTML Templating: Askama</p>
+              <p>Async Runtime: Tokio</p>
+              <p>Development Approach:</p>
+              <p>4k LoC in a single main.rs file (plus HTML templates)</p>
+              <p>Rapid iteration using Neovim for navigation</p>
+              <p>Lean development: No external services beyond the VM</p>
+              <p>Key Features:</p>
+              <p>
+                Transcription Browsing: Read along with your favorite podcasts
+                or quickly scan for topics of interest.
+              </p>
+              <p>
+                Segment Highlighting: Share and discuss specific moments from
+                episodes.
+              </p>
+              <p>
+                Community Interaction: Upvote, comment on, and bookmark your
+                favorite segments.
+              </p>
+              <p>
+                Advanced Search: Find relevant content across multiple podcasts
+                and episodes.
+              </p>
+              <p>
+                Person Profiles: Explore appearances of specific guests or hosts
+                across different shows.
+              </p>
+              <p>Challenges and Learnings:</p>
+              <p>Overcoming the learning curve of Rust's ownership model</p>
+              <p>Efficient transcriptions and speaker detection</p>
+              <p>
+                Managing all aspects solo: Development, design, and operations
+              </p>
+              <p>Future Plans:</p>
+              <p>API for third-party integrations</p>
+              <p>WebAssembly for client-side processing</p>
+              <p>Scaling strategies for larger datasets (search)</p>
+              <p>Personalized content delivery</p>
+              <p>Metrics and Goals:</p>
+              <p>Current Users: 500 (last 7 days)</p>
+              <p>MRR: $0</p>
+              <p>
+                Cost per User: Less than $0.01 (thanks to efficient resource
+                use)
+              </p>
+              <p>
+                Next Milestone: Add paid features to pay the bills + reduce cost
+                per episode page creation
+              </p>
+              <p>Questions for the HN Community:</p>
+              <p>
+                Has anyone else bootstrapped using Rust? What were your
+                experiences?
+              </p>
+              <p>
+                How do you balance technical debt vs. shipping features in a
+                solo project?
+              </p>
+              <p>
+                What strategies have worked for you in marketing such technical
+                products?
+              </p>
+              <p>
+                I'm bootstrapping this project and would greatly appreciate any
+                feedback, especially from those who've launched similar
+                technical products or used unconventional tech stacks for MVPs.
+                Check out Audioscrape at www.audioscrape.com and let me know
+                your thoughts!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41766515">
@@ -203,11 +363,11 @@
             <h4>
               <span>2024-10-07 @ 14:45:12</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766515"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -224,11 +384,11 @@
             <h4>
               <span>2024-10-07 @ 14:22:45</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766293"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -243,7 +403,7 @@
             <h4>
               <span>2024-10-07 @ 14:13:46</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766216"
                   >Comments</a
@@ -262,34 +422,54 @@
             <h4>
               <span>2024-10-07 @ 14:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41766144"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="41766035">
+        <section id="41765939">
           <h3>
-            <a
-              class="item"
-              href="https://docs.python.org/3.13/whatsnew/3.13.html"
-              >Python 3.13.0 Is Released</a
+            <a class="item" href="https://nutritionprices.com/"
+              >Show HN: A Website for Comparing Protein Powder Prices</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-07 @ 13:53:47</span
+              <span>2024-10-07 @ 13:42:59</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41766035"
+                ><a href="https://news.ycombinator.com/item?id=41765939"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Buying protein powder is a mess, and comparing different
+                products is frustrating, since all brands choose their own
+                serving sizes. By collecting nutrition facts, and normalizing
+                the serving to contain 25 grams of protein, we can properly
+                compare price/nutrients per serving.
+              </p>
+              <p>
+                Inspired by diskprices.com, the idea is to provide an equally
+                functional interface to compare products. The prices are
+                collected once a day, currently from iHerb US. Aiming to improve
+                the coverage soon.
+              </p>
+              <p>
+                Any tips / suggestions / other feedback more than welcome :)
+              </p>
+              <p>
+                ...and if you rather want to contact me directly, feel free to
+                reach me at elina@nutritionprices.com
+              </p>
+            </div>
           </section>
         </section>
         <section id="41765904">
@@ -304,7 +484,7 @@
             <h4>
               <span>2024-10-07 @ 13:39:23</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41765904"
                   >Comments</a
@@ -325,11 +505,11 @@
             <h4>
               <span>2024-10-07 @ 13:21:54</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41765734"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -346,11 +526,11 @@
             <h4>
               <span>2024-10-07 @ 13:20:19</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41765716"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -365,70 +545,11 @@
             <h4>
               <span>2024-10-07 @ 13:01:09</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41765580"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41765541">
-          <h3>
-            <a class="item" href="https://blog.frankel.ch/ajax-ssr/5/"
-              >Augmenting the Client with Htmx</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-07 @ 12:55:41</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41765541"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41765435">
-          <h3>
-            <a
-              class="item"
-              href="https://docs.hetzner.com/storage/object-storage/"
-              >Hetzner Object Storage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-07 @ 12:41:50</span
-              ><span class="points-container"
-                >Points: <span class="points">203</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41765435"
-                  >Comments</a
-                ><span class="descendants">: 136</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41765409">
-          <h3>
-            <a class="item" href="https://github.com/archiewood/gosql"
-              >GoSQL: A query engine in 319 LoC</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-07 @ 12:39:15</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41765409"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -444,7 +565,7 @@
             <h4>
               <span>2024-10-07 @ 12:37:38</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41765395"
                   >Comments</a
@@ -520,7 +641,7 @@
             <h4>
               <span>2024-10-07 @ 10:38:36</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41764635"
                   >Comments</a
@@ -556,11 +677,11 @@
             <h4>
               <span>2024-10-07 @ 10:12:42</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41764486"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -577,11 +698,11 @@
             <h4>
               <span>2024-10-07 @ 09:37:09</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41764283"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -596,11 +717,11 @@
             <h4>
               <span>2024-10-07 @ 03:18:04</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41762468"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -617,11 +738,11 @@
             <h4>
               <span>2024-10-07 @ 01:42:57</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41761986"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -636,11 +757,11 @@
             <h4>
               <span>2024-10-06 @ 22:02:34</span
               ><span class="points-container"
-                >Points: <span class="points">535</span></span
+                >Points: <span class="points">538</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41760697"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -657,7 +778,7 @@
             <h4>
               <span>2024-10-06 @ 18:38:26</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41759112"
                   >Comments</a
@@ -678,11 +799,11 @@
             <h4>
               <span>2024-10-06 @ 15:19:15</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41757722"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -699,13 +820,38 @@
             <h4>
               <span>2024-10-06 @ 11:55:15</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41756484"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41756432">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41756432"
+              >Ask HN: What's the "best" book you've ever read?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-06 @ 11:42:33</span
+              ><span class="points-container"
+                >Points: <span class="points">93</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41756432"
+                  >Comments</a
+                ><span class="descendants">: 220</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                What's the "best" book you've ever read? By "best", in means
+                whatever you mean.
+              </p>
+            </div>
           </section>
         </section>
         <section id="41748519">
@@ -719,11 +865,11 @@
             <h4>
               <span>2024-10-05 @ 08:36:31</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41748519"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -740,83 +886,13 @@
             <h4>
               <span>2024-10-03 @ 20:32:38</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41734672"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="41732068">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=41732068"
-              >Show HN: I have published a mobile HN client to have coffee chat
-              with HN users</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-03 @ 16:13:44</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41732068"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                There was already a guy who made a website for this, but I
-                wanted to do it in mobile to practice WebRTC(technology behind
-                the audio chat) and have some fun.
-              </p>
-              <p>
-                I haven't spent too much time in terms of the general
-                functionality as a HN client but can upgrade it if there are
-                enough users enjoying the app.
-              </p>
-              <p>You can download the apps via the links below;</p>
-              <p>
-                IOS:
-                <a
-                  href="https://apps.apple.com/tr/app/betternews-coffee-chat/id6504711182"
-                  >https://apps.apple.com/tr/app/betternews-coffee-chat/id65047...</a
-                >
-              </p>
-              <p>Android:</p>
-              <p>
-                As you might have known, Android requires the app to be tested
-                in a closed beta with at least 20 people So you can follow these
-                steps to be a part of it and download;
-              </p>
-              <p>
-                1 - join the group
-                <a href="https://groups.google.com/g/betternews"
-                  >https://groups.google.com/g/betternews</a
-                >
-              </p>
-              <p>2 - download the app and enjoy</p>
-              <p>
-                <a
-                  href="https://play.google.com/store/apps/details?id=com.apps.betternews"
-                  >https://play.google.com/store/apps/details?id=com.apps.bette...</a
-                >
-                or
-                <a
-                  href="https://play.google.com/apps/testing/com.apps.betternews"
-                  >https://play.google.com/apps/testing/com.apps.betternews</a
-                >
-              </p>
-              <p>
-                Feel free to contact me if you have any questions;
-                <a href="http://www.x.com/canergly"
-                  >http://www.x.com/canergly</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="41729765">
@@ -831,11 +907,11 @@
             <h4>
               <span>2024-10-03 @ 11:49:56</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41729765"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
