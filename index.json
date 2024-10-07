@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-10-07, 04:03:30",
+      "https://news.ycombinator.com/item?id=41762692"
+    ],
+    [
+      "Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard",
+      "https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 03:28:59",
       "https://news.ycombinator.com/item?id=41762508"
     ],
     [
       "Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades",
       "https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 03:27:36",
+      "https://news.ycombinator.com/item?id=41762500"
+    ],
+    [
+      "Scarlet Rot: a biological exploration of Elden Ring's decaying disease",
+      "https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 03:18:04",
+      "https://news.ycombinator.com/item?id=41762468"
+    ],
+    [
+      "How do HTTP servers figure out Content-Length?",
+      "https://aarol.dev/posts/go-contentlength/"
     ]
   ],
   [
@@ -151,32 +181,22 @@
   ],
   [
     [
-      "2024-10-06, 17:08:10",
-      "https://news.ycombinator.com/item?id=41758516"
-    ],
-    [
-      "To Be Born in a Bag",
-      "https://press.asimov.com/articles/artificial-wombs"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 16:11:40",
-      "https://news.ycombinator.com/item?id=41758097"
-    ],
-    [
-      "Ziggy: Data serialization language for expressing API messages, config files",
-      "https://ziggy-lang.io"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 15:19:15",
       "https://news.ycombinator.com/item?id=41757722"
     ],
     [
       "The Book of Kells, now digitized and available online",
       "https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 11:31:45",
+      "https://news.ycombinator.com/item?id=41756398"
+    ],
+    [
+      "Unoffice Hours",
+      "https://interconnected.org/home/2020/09/24/unoffice_hours"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-10-06, 01:32:50",
-      "https://news.ycombinator.com/item?id=41754084"
-    ],
-    [
-      "We're excited about our new roundabout",
-      "https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 19:43:57",
       "https://news.ycombinator.com/item?id=41752383"
     ],
@@ -237,16 +247,6 @@
     [
       "Sailfish Mobile OS",
       "https://sailfishos.org/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 11:59:09",
-      "https://news.ycombinator.com/item?id=41749288"
-    ],
-    [
-      "Compiling and running sqlite3-rsync from a branch",
-      "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync"
     ]
   ],
   [
