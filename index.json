@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-07, 19:00:10",
+      "https://news.ycombinator.com/item?id=41769657"
+    ],
+    [
+      "Google must crack open Android for third-party stores, rules Epic judge",
+      "https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 18:59:25",
+      "https://news.ycombinator.com/item?id=41769648"
+    ],
+    [
+      "Wigle.net: All the Networks. Found by Everyone",
+      "https://wigle.net/"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 17:40:22",
       "https://news.ycombinator.com/item?id=41768658"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-10-07, 03:18:04",
-      "https://news.ycombinator.com/item?id=41762468"
-    ],
-    [
-      "How do HTTP servers figure out Content-Length?",
-      "https://aarol.dev/posts/go-contentlength/"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 15:50:52",
       "https://news.ycombinator.com/item?id=41757940"
     ],
     [
       "Optimizing Postgres table layout for maximum efficiency",
       "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 11:42:33",
-      "https://news.ycombinator.com/item?id=41756432"
-    ],
-    [
-      "Ask HN: What's the \"best\" book you've ever read?",
-      "https://news.ycombinator.com/item?id=41756432"
     ]
   ],
   [
