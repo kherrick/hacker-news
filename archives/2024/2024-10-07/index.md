@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
+* [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 07:33:12](https://news.ycombinator.com/item?id=41763624) - [Tiny C Compiler is relicensing to MIT](https://repo.or.cz/tinycc.git/blob/3d963aebcd533da278f086a3e559d24b961e8c31:/RELICENSING)
 * [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)

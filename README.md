@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
+* [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 06:16:33](https://news.ycombinator.com/item?id=41763242) - [A Seven-Dimensional Analysis of Hashing Methods [pdf] (2015)](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
@@ -22,7 +23,6 @@
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/experiment_multitasking.html)
 * [2024-10-05, 13:33:22](https://news.ycombinator.com/item?id=41749709) - [The brain has its own microbiome](https://www.newscientist.com/article/mg26335104-500-the-brain-has-its-own-microbiome-heres-what-it-means-for-your-health/)
 * [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
-* [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
