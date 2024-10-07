@@ -58,6 +58,7 @@
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\N'?](https://rodarmor.com/blog/whence-newline/)
+* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 * [2024-10-05, 08:32:40](https://news.ycombinator.com/item?id=41748497) - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
 * [2024-10-05, 08:20:22](https://news.ycombinator.com/item?id=41748448) - [Pantheon: Parsing command line arguments](https://traxys.me/sheshat_pantheon_3.html)
 * [2024-10-05, 07:07:20](https://news.ycombinator.com/item?id=41748201) - [The racist AI deepfake that fooled and divided a community](https://www.bbc.co.uk/news/articles/ckg9k5dv1zdo)
