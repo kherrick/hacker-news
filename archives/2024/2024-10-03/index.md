@@ -64,6 +64,7 @@
 * [2024-10-03, 12:05:11](https://news.ycombinator.com/item?id=41729891) - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 * [2024-10-03, 12:00:17](https://news.ycombinator.com/item?id=41729860) - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
 * [2024-10-03, 11:53:03](https://news.ycombinator.com/item?id=41729793) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.com/news/articles/c98ynejg4l5o)
+* [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 * [2024-10-03, 11:18:17](https://news.ycombinator.com/item?id=41729526) - [Ask HN: What happens to \".io\" TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
 * [2024-10-03, 10:49:13](https://news.ycombinator.com/item?id=41729359) - [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5)
 * [2024-10-03, 10:43:37](https://news.ycombinator.com/item?id=41729325) - [UK will give sovereignty of Chagos Islands to Mauritius](https://www.bbc.co.uk/news/articles/c98ynejg4l5o)
