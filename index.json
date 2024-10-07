@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-07, 17:25:32",
+      "https://news.ycombinator.com/item?id=41768457"
+    ],
+    [
+      "Do not use secrets in environment variables and",
+      "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 17:01:12",
       "https://news.ycombinator.com/item?id=41768143"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Termichess – Play chess right on your terminal",
       "https://github.com/whiletruelearn/termichess"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 16:40:30",
+      "https://news.ycombinator.com/item?id=41767852"
+    ],
+    [
+      "Unlocking the 'aha' moment: Developer relations for startups",
+      "https://www.signalfire.com/blog/devrel-for-startups"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41765734"
     ],
     [
-      "Silicon Valley, the New Lobbying Monster",
+      "Silicon Valley, the new lobbying monster",
       "https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster"
     ]
   ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-10-07, 01:42:57",
-      "https://news.ycombinator.com/item?id=41761986"
-    ],
-    [
-      "Fast B-Trees",
-      "https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 18:04:57",
       "https://news.ycombinator.com/item?id=41758856"
     ],
     [
       "The Naming of America (2023)",
       "https://www.jonathancohenweb.com/america.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 11:55:15",
-      "https://news.ycombinator.com/item?id=41756484"
-    ],
-    [
-      "We'll buy back your Typewriter for Uncle Sam",
-      "https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html"
     ]
   ],
   [
