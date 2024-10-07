@@ -43,6 +43,7 @@
 * [2024-10-06, 12:08:36](https://news.ycombinator.com/item?id=41756562) - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
 * [2024-10-06, 12:01:42](https://news.ycombinator.com/item?id=41756512) - [Do We Need a 37-Cent Coin? (2009)](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
+* [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:44:01](https://news.ycombinator.com/item?id=41756438) - [Ask HN: Where would you publish content that should outlive you?](https://news.ycombinator.com/item?id=41756438)
 * [2024-10-06, 11:43:02](https://news.ycombinator.com/item?id=41756435) - [HMNZS Manawanui sinking: NZ Navy ship ran aground](https://www.nzherald.co.nz/nz/hmnzs-manawanui-on-fire-and-tilting-badly-after-it-ran-aground-off-the-coast-of-samoa-last-night/44PLWNBV6RBVJHLVHARNGMOUKU/)
 * [2024-10-06, 11:42:33](https://news.ycombinator.com/item?id=41756432) - [Ask HN: What's the \"best\" book you've ever read?](https://news.ycombinator.com/item?id=41756432)
