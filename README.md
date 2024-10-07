@@ -2,7 +2,6 @@
 
 * [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
-* [2024-10-07, 03:28:59](https://news.ycombinator.com/item?id=41762508) - [Alleged M4 MacBook Pro unboxing video](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 * [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
 * [2024-10-07, 02:13:24](https://news.ycombinator.com/item?id=41762156) - [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
@@ -25,6 +24,7 @@
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/experiment_multitasking.html)
 * [2024-10-05, 12:00:26](https://news.ycombinator.com/item?id=41749296) - [Sailfish Mobile OS](https://sailfishos.org/)
+* [2024-10-05, 11:59:09](https://news.ycombinator.com/item?id=41749288) - [Compiling and running sqlite3-rsync from a branch](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-05, 11:35:19](https://news.ycombinator.com/item?id=41749185) - [Starbase: SQLite on the Edge](https://starbasedb.com/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
