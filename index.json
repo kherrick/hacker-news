@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-07, 15:44:37",
+      "https://news.ycombinator.com/item?id=41767150"
+    ],
+    [
+      "Ptxdist – \"Professional Embedded Linux Made Easy\"",
+      "https://www.ptxdist.org/"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 15:24:49",
       "https://news.ycombinator.com/item?id=41766954"
     ],
     [
       "Every change breaks someone's workflow",
       "https://xkcd.com/1172/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 15:19:09",
+      "https://news.ycombinator.com/item?id=41766882"
+    ],
+    [
+      "Building a Single-Page App with Htmx",
+      "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "AT&T, Verizon reportedly hacked to target US govt wiretapping platform",
       "https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 14:48:51",
+      "https://news.ycombinator.com/item?id=41766551"
+    ],
+    [
+      "Audioscrape: Building in Rust When Everyone Said I Shouldn't",
+      "https://news.ycombinator.com/item?id=41766551"
     ]
   ],
   [
@@ -71,12 +101,12 @@
   ],
   [
     [
-      "2024-10-07, 13:53:47",
-      "https://news.ycombinator.com/item?id=41766035"
+      "2024-10-07, 13:42:59",
+      "https://news.ycombinator.com/item?id=41765939"
     ],
     [
-      "Python 3.13.0 Is Released",
-      "https://docs.python.org/3.13/whatsnew/3.13.html"
+      "Show HN: A Website for Comparing Protein Powder Prices",
+      "https://nutritionprices.com/"
     ]
   ],
   [
@@ -117,36 +147,6 @@
     [
       "Fukushima Reactor: TEPCO robot aims to extract nuclear fuel",
       "https://spectrum.ieee.org/fukushima-reactor"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 12:55:41",
-      "https://news.ycombinator.com/item?id=41765541"
-    ],
-    [
-      "Augmenting the Client with Htmx",
-      "https://blog.frankel.ch/ajax-ssr/5/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 12:41:50",
-      "https://news.ycombinator.com/item?id=41765435"
-    ],
-    [
-      "Hetzner Object Storage",
-      "https://docs.hetzner.com/storage/object-storage/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 12:39:15",
-      "https://news.ycombinator.com/item?id=41765409"
-    ],
-    [
-      "GoSQL: A query engine in 319 LoC",
-      "https://github.com/archiewood/gosql"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-10-06, 11:42:33",
+      "https://news.ycombinator.com/item?id=41756432"
+    ],
+    [
+      "Ask HN: What's the \"best\" book you've ever read?",
+      "https://news.ycombinator.com/item?id=41756432"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 08:36:31",
       "https://news.ycombinator.com/item?id=41748519"
     ],
@@ -277,16 +287,6 @@
     [
       "Ants learned to farm fungi during a mass extinction",
       "https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 16:13:44",
-      "https://news.ycombinator.com/item?id=41732068"
-    ],
-    [
-      "Show HN: I have published a mobile HN client to have coffee chat with HN users",
-      "https://news.ycombinator.com/item?id=41732068"
     ]
   ],
   [
