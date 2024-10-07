@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 13:53:47](https://news.ycombinator.com/item?id=41766035) - [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 13:39:23](https://news.ycombinator.com/item?id=41765904) - [Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)
 * [2024-10-07, 13:21:54](https://news.ycombinator.com/item?id=41765734) - [Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
@@ -11,6 +12,7 @@
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [ByteDance’s Bytespider is scraping at much higher rates than other platforms](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
+* [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 06:16:33](https://news.ycombinator.com/item?id=41763242) - [A Seven-Dimensional Analysis of Hashing Methods [pdf] (2015)](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
@@ -23,11 +25,9 @@
 * [2024-10-06, 11:55:15](https://news.ycombinator.com/item?id=41756484) - [We'll buy back your Typewriter for Uncle Sam](https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html)
 * [2024-10-06, 11:31:45](https://news.ycombinator.com/item?id=41756398) - [Unoffice Hours (2020)](https://interconnected.org/home/2020/09/24/unoffice_hours)
 * [2024-10-06, 08:11:43](https://news.ycombinator.com/item?id=41755616) - [Tiny Texture Tumbler – JavaScript procedural texture library and editor](https://github.com/phoboslab/ttt)
-* [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
-* [2024-10-05, 05:39:42](https://news.ycombinator.com/item?id=41747952) - [Diode Matrix](https://www.cca.org/blog/20120222-Diode-Matrix.shtml)
 * [2024-10-03, 20:32:38](https://news.ycombinator.com/item?id=41734672) - [Ants learned to farm fungi during a mass extinction](https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/)
 * [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 
