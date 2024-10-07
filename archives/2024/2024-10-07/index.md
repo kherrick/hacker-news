@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
 * [2024-10-07, 21:11:21](https://news.ycombinator.com/item?id=41771112) - [Private Equity Ruins Tech Companies](https://blog.zmh.org/2024/10/07/private-equity-ruins.html)
+* [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
+* [2024-10-07, 20:38:12](https://news.ycombinator.com/item?id=41770763) - [Show HN: AI-generated images that look like real life](https://www.gounfaked.com/)
 * [2024-10-07, 20:06:10](https://news.ycombinator.com/item?id=41770383) - [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the Attack Helicopter Dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
