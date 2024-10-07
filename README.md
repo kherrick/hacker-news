@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
-* [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
+* [2024-10-07, 06:16:33](https://news.ycombinator.com/item?id=41763242) - [A Seven-Dimensional Analysis of Hashing Methods [pdf] (2015)](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
