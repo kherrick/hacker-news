@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-07, 17:25:32",
-      "https://news.ycombinator.com/item?id=41768457"
-    ],
-    [
-      "Do not use secrets in environment variables",
-      "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 17:01:12",
       "https://news.ycombinator.com/item?id=41768143"
     ],
@@ -237,6 +227,16 @@
     [
       "A seven-dimensional analysis of hashing methods [pdf] (2015)",
       "https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 03:18:04",
+      "https://news.ycombinator.com/item?id=41762468"
+    ],
+    [
+      "How do HTTP servers figure out Content-Length?",
+      "https://aarol.dev/posts/go-contentlength/"
     ]
   ],
   [
