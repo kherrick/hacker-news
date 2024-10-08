@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 17:00:26](https://news.ycombinator.com/item?id=41779415) - [Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
