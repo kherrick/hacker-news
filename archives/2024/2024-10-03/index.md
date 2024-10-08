@@ -32,6 +32,7 @@
 * [2024-10-03, 18:48:26](https://news.ycombinator.com/item?id=41733659) - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
 * [2024-10-03, 18:45:36](https://news.ycombinator.com/item?id=41733625) - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 18:30:36](https://news.ycombinator.com/item?id=41733469) - [The predictability of a flow which possesses many scales of motion (1969)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.2153-3490.1969.tb00444.x)
+* [2024-10-03, 18:23:17](https://news.ycombinator.com/item?id=41733390) - [The real data wall is billions of years of evolution](https://dynomight.substack.com/p/data-wall)
 * [2024-10-03, 17:52:39](https://news.ycombinator.com/item?id=41733045) - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
 * [2024-10-03, 17:46:35](https://news.ycombinator.com/item?id=41732985) - [Mystery creator of Bitcoin identified, new HBO documentary claims](https://www.politico.eu/article/mystery-creator-bitcoin-identified-new-hbo-documentary-satoshi-nakamoto-crypto-currency/)
 * [2024-10-03, 17:42:19](https://news.ycombinator.com/item?id=41732940) - [Two AI review your favourite movie scripts (NotebookLM)](https://open.spotify.com/show/7rmkCsEvQl4yZAXCwZAmLd)
