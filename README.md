@@ -2,7 +2,6 @@
 
 * [2024-10-08, 21:21:53](https://news.ycombinator.com/item?id=41781943) - [\"Now What?\" by John Hopfield (2018) [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
 * [2024-10-08, 21:00:16](https://news.ycombinator.com/item?id=41781768) - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
-* [2024-10-08, 20:32:27](https://news.ycombinator.com/item?id=41781570) - [Boeing at Risk of Junk Rating with S&P Amid Strike](https://www.bloomberg.com/news/articles/2024-10-08/boeing-at-risk-of-junk-credit-rating-with-s-p-as-strike-goes-on)
 * [2024-10-08, 20:19:57](https://news.ycombinator.com/item?id=41781457) - [A Modest Critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 19:45:00](https://news.ycombinator.com/item?id=41781081) - [Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)
 * [2024-10-08, 18:38:14](https://news.ycombinator.com/item?id=41780395) - [End of the road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
@@ -24,6 +23,7 @@
 * [2024-10-07, 20:44:30](https://news.ycombinator.com/item?id=41770840) - [From GLSL to WGSL: the future of shaders on the Web (2021)](https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/)
 * [2024-10-07, 10:28:31](https://news.ycombinator.com/item?id=41764578) - [Daemonization in Unix programs is probably about restarting programs](https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
+* [2024-10-06, 09:33:52](https://news.ycombinator.com/item?id=41755940) - [Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-05, 18:51:44](https://news.ycombinator.com/item?id=41752023) - [Unicode shenanigans: Martine Ã©crit en UTF-8](https://blog.poisson.chat/posts/2024-10-05-unicode-shenanigans.html)
 * [2024-10-05, 09:51:50](https://news.ycombinator.com/item?id=41748754) - [A Working Turing Machine Hits Lego Ideas](https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/)
