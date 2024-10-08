@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 13:31:09](https://news.ycombinator.com/item?id=41777187) - [Open Source Pledge](https://opensourcepledge.com/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:44:58](https://news.ycombinator.com/item?id=41776753) - [Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids](https://hindenburgresearch.com/roblox/)
 * [2024-10-08, 12:28:19](https://news.ycombinator.com/item?id=41776593) - [Why U.S. Regulators See Minicars as the Enemy](https://jalopnik.com/this-is-why-u-s-regulators-see-minicars-as-the-enemy-1851665423)

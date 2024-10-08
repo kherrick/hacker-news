@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 13:31:09](https://news.ycombinator.com/item?id=41777187) - [Open Source Pledge](https://opensourcepledge.com/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
@@ -27,7 +28,6 @@
 * [2024-10-06, 09:33:52](https://news.ycombinator.com/item?id=41755940) - [Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem (2022)](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
-* [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 
