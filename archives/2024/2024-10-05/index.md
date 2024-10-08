@@ -58,6 +58,7 @@
 * [2024-10-05, 10:42:40](https://news.ycombinator.com/item?id=41748941) - [Pythagora: Auto-Generate Node.js Tests Using LLMs, No Coding Required](https://github.com/Pythagora-io/pythagora)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 10:23:16](https://news.ycombinator.com/item?id=41748861) - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
+* [2024-10-05, 09:51:50](https://news.ycombinator.com/item?id=41748754) - [A Working Turing Machine Hits Lego Ideas](https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/)
 * [2024-10-05, 09:47:02](https://news.ycombinator.com/item?id=41748738) - [Congress fights to keep AM radio in cars](https://www.niemanlab.org/2024/10/congress-fights-to-keep-am-radio-in-cars/)
 * [2024-10-05, 09:23:53](https://news.ycombinator.com/item?id=41748664) - [Whence '\\N'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)

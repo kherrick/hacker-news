@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 17:00:26](https://news.ycombinator.com/item?id=41779415) - [Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
+* [2024-10-08, 16:44:55](https://news.ycombinator.com/item?id=41779254) - [TikTok sued by 13 states and DC, accused of harming younger users](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/)
 * [2024-10-08, 16:40:24](https://news.ycombinator.com/item?id=41779212) - [NBA Players as Pokemon](https://okaymon.com/)
 * [2024-10-08, 16:33:47](https://news.ycombinator.com/item?id=41779144) - [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe)
+* [2024-10-08, 16:03:22](https://news.ycombinator.com/item?id=41778866) - [How to get started in Graphics Programming in 2024?](https://twitter.com/rainbowpikmin/status/1842967087809237119)
 * [2024-10-08, 14:32:01](https://news.ycombinator.com/item?id=41777800) - [GLP-1 pills are coming, and they could revolutionize weight-loss treatment](https://www.cnn.com/2024/09/17/health/glp-1-pills-weight-loss-treatment/index.html)
 * [2024-10-08, 14:01:02](https://news.ycombinator.com/item?id=41777476) - [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
 * [2024-10-08, 13:44:20](https://news.ycombinator.com/item?id=41777301) - [Geoffrey Hinton and John Hopfield win Nobel Prize in physics](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning)
