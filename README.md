@@ -9,7 +9,7 @@
 * [2024-10-08, 01:56:04](https://news.ycombinator.com/item?id=41773096) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
 * [2024-10-08, 00:32:18](https://news.ycombinator.com/item?id=41772624) - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 * [2024-10-08, 00:21:03](https://news.ycombinator.com/item?id=41772551) - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-* [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+* [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the networks, found by everyone](https://wigle.net/)
 * [2024-10-07, 18:34:17](https://news.ycombinator.com/item?id=41769346) - [EuroBSDcon 2024: Some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
