@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 13:44:20](https://news.ycombinator.com/item?id=41777301) - [Geoffrey Hinton and John Hopfield win Nobel Prize in physics](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning)
 * [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
+* [2024-10-08, 12:41:25](https://news.ycombinator.com/item?id=41776721) - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)

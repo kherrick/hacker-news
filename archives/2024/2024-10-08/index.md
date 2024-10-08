@@ -10,6 +10,7 @@
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
 * [2024-10-08, 12:44:58](https://news.ycombinator.com/item?id=41776753) - [Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids](https://hindenburgresearch.com/roblox/)
+* [2024-10-08, 12:41:25](https://news.ycombinator.com/item?id=41776721) - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 * [2024-10-08, 12:28:19](https://news.ycombinator.com/item?id=41776593) - [Why U.S. Regulators See Minicars as the Enemy](https://jalopnik.com/this-is-why-u-s-regulators-see-minicars-as-the-enemy-1851665423)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
