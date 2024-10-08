@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-10-08, 09:57:34",
-      "https://news.ycombinator.com/item?id=41775490"
-    ],
-    [
-      "They trained artificial neural networks using physics",
-      "https://www.nobelprize.org/prizes/physics/2024/press-release/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 09:52:46",
       "https://news.ycombinator.com/item?id=41775463"
     ],
     [
       "Nobel Prize in Physics Awarded for Machine Learning and Neural Networks",
       "https://www.nobelprize.org/prizes/physics/2024/summary/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 09:51:18",
-      "https://news.ycombinator.com/item?id=41775449"
-    ],
-    [
-      "John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]",
-      "https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf"
     ]
   ],
   [
@@ -77,6 +57,16 @@
     [
       "The costs of the i386 to x86-64 upgrade",
       "https://blogsystem5.substack.com/p/x86-64-programming-models"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 01:56:04",
+      "https://news.ycombinator.com/item?id=41773096"
+    ],
+    [
+      "Rust GPU: The future of GPU programming",
+      "https://rust-gpu.github.io/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The survival skills of Helena Valero",
       "https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 15:50:52",
+      "https://news.ycombinator.com/item?id=41757940"
+    ],
+    [
+      "Optimizing Postgres table layout for maximum efficiency",
+      "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
     ]
   ],
   [
