@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 17:00:26](https://news.ycombinator.com/item?id=41779415) - [Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
 * [2024-10-08, 16:44:55](https://news.ycombinator.com/item?id=41779254) - [TikTok sued by 13 states and DC, accused of harming younger users](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/)
 * [2024-10-08, 16:33:47](https://news.ycombinator.com/item?id=41779144) - [Improving Parquet Dedupe on Hugging Face Hub](https://huggingface.co/blog/improve_parquet_dedupe)
-* [2024-10-08, 16:03:22](https://news.ycombinator.com/item?id=41778866) - [How to get started in Graphics Programming in 2024?](https://twitter.com/rainbowpikmin/status/1842967087809237119)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:41:25](https://news.ycombinator.com/item?id=41776721) - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
-* [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
+* [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton](https://www.nobelprize.org/prizes/physics/2024/summary/)
 * [2024-10-08, 08:38:56](https://news.ycombinator.com/item?id=41775048) - [Show HN: Squey, an open-source GPU-accelerated data visualization software](https://squey.org)
 * [2024-10-08, 05:50:37](https://news.ycombinator.com/item?id=41774175) - [Engineering Geology of the BART System (2000)](http://sonic.net/~mly/www.geolith.com/bart/)
 * [2024-10-08, 03:24:01](https://news.ycombinator.com/item?id=41773559) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
@@ -29,7 +29,7 @@
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 09:51:50](https://news.ycombinator.com/item?id=41748754) - [A Working Turing Machine Hits Lego Ideas](https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
-* [2024-10-03, 15:14:57](https://news.ycombinator.com/item?id=41731536) - [Canon plans to disrupt chipmaking with low-cost \"stamp\" machine](https://arstechnica.com/reviews/2024/01/canon-plans-to-disrupt-chipmaking-with-low-cost-stamp-machine/)
+* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 
 ## [Archives](archives/index.md)
 

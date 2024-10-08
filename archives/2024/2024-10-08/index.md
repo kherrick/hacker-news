@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 17:00:26](https://news.ycombinator.com/item?id=41779415) - [Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
 * [2024-10-08, 16:44:55](https://news.ycombinator.com/item?id=41779254) - [TikTok sued by 13 states and DC, accused of harming younger users](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/)
 * [2024-10-08, 16:40:24](https://news.ycombinator.com/item?id=41779212) - [NBA Players as Pokemon](https://okaymon.com/)
