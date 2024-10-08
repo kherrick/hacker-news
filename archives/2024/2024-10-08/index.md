@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 18:38:14](https://news.ycombinator.com/item?id=41780395) - [End of the Road for Google Drive and Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
 * [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 * [2024-10-08, 18:32:40](https://news.ycombinator.com/item?id=41780347) - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
