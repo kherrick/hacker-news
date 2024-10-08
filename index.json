@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-08, 10:03:12",
-      "https://news.ycombinator.com/item?id=41775521"
-    ],
-    [
-      "Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning",
-      "https://www.bbc.co.uk/news/articles/c62r02z75jyo"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 09:52:46",
       "https://news.ycombinator.com/item?id=41775463"
     ],
@@ -227,6 +217,16 @@
     [
       "The survival skills of Helena Valero",
       "https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 15:50:52",
+      "https://news.ycombinator.com/item?id=41757940"
+    ],
+    [
+      "Optimizing Postgres table layout for maximum efficiency",
+      "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
     ]
   ],
   [
