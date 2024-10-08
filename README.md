@@ -16,7 +16,6 @@
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 13:01:09](https://news.ycombinator.com/item?id=41765580) - [Fukushima Reactor: TEPCO robot aims to extract nuclear fuel](https://spectrum.ieee.org/fukushima-reactor)
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [An e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
-* [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
@@ -30,6 +29,7 @@
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
+* [2024-10-03, 15:14:57](https://news.ycombinator.com/item?id=41731536) - [Canon plans to disrupt chipmaking with low-cost \"stamp\" machine](https://arstechnica.com/reviews/2024/01/canon-plans-to-disrupt-chipmaking-with-low-cost-stamp-machine/)
 
 ## [Archives](archives/index.md)
 

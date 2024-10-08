@@ -48,6 +48,7 @@
 * [2024-10-03, 16:12:36](https://news.ycombinator.com/item?id=41732059) - [NSO Should Lose Spyware Case for Discovery Violations, Meta Says](https://news.bloomberglaw.com/privacy-and-data-security/nso-should-lose-spyware-case-for-discovery-violations-meta-says)
 * [2024-10-03, 15:41:34](https://news.ycombinator.com/item?id=41731769) - [MikroPhone: A privacy enhanced, simple and featured RISC-V mobile phone](https://mikrophone.net/)
 * [2024-10-03, 15:34:56](https://news.ycombinator.com/item?id=41731720) - [Show HN: I made a super-simple image CDN](https://magecdn.com/)
+* [2024-10-03, 15:14:57](https://news.ycombinator.com/item?id=41731536) - [Canon plans to disrupt chipmaking with low-cost \"stamp\" machine](https://arstechnica.com/reviews/2024/01/canon-plans-to-disrupt-chipmaking-with-low-cost-stamp-machine/)
 * [2024-10-03, 14:55:10](https://news.ycombinator.com/item?id=41731371) - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
 * [2024-10-03, 14:27:25](https://news.ycombinator.com/item?id=41731115) - [Show HN: Tiiny Color Palette Generator](https://www.tiinycolor.com/)
 * [2024-10-03, 14:23:28](https://news.ycombinator.com/item?id=41731088) - [LG Chem develops material capable of suppressing thermal runaway in batteries](https://www.ess-news.com/2024/10/01/lg-chem-develops-material-capable-of-suppressing-thermal-runaway-in-batteries/)
