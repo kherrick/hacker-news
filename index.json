@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-08, 21:00:16",
+      "https://news.ycombinator.com/item?id=41781768"
+    ],
+    [
+      "Instant (YC S22) is Hiring a Founding Engineer to Help Build the Modern Firebase",
+      "https://news.ycombinator.com/item?id=41781768"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 19:45:00",
+      "https://news.ycombinator.com/item?id=41781081"
+    ],
+    [
+      "Car brands are collecting and sharing your data with third parties",
+      "https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 18:38:14",
       "https://news.ycombinator.com/item?id=41780395"
     ],
@@ -17,16 +37,6 @@
     [
       "How to delete your 23andMe data amid the company's turmoil",
       "https://lifehacker.com/health/how-to-delete-23andme-data"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 18:32:40",
-      "https://news.ycombinator.com/item?id=41780347"
-    ],
-    [
-      "Lead drinking-water pipes must be replaced nationwide, EPA says",
-      "https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html"
     ]
   ],
   [
@@ -61,21 +71,11 @@
   ],
   [
     [
-      "2024-10-08, 17:00:26",
-      "https://news.ycombinator.com/item?id=41779415"
-    ],
-    [
-      "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
-      "https://www.sievedata.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 12:59:52",
       "https://news.ycombinator.com/item?id=41776878"
     ],
     [
-      "Kotlin Money",
+      "Show HN: Kotlin Money",
       "https://blog.eriksen.com.br/en/introducing-kotlin-money"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "Do U.S. ports need more automation?",
       "https://www.construction-physics.com/p/do-us-ports-need-more-automation"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 12:41:25",
+      "https://news.ycombinator.com/item?id=41776721"
+    ],
+    [
+      "The Nazi of Oak Park",
+      "https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-10-08, 00:32:18",
-      "https://news.ycombinator.com/item?id=41772624"
-    ],
-    [
-      "An illustrated proof of the CAP theorem (2018)",
-      "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 00:21:03",
       "https://news.ycombinator.com/item?id=41772551"
     ],
@@ -197,6 +197,16 @@
     [
       "From GLSL to WGSL: the future of shaders on the Web (2021)",
       "https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 11:54:35",
+      "https://news.ycombinator.com/item?id=41765098"
+    ],
+    [
+      "Could we build a computer designed to last at least fifty years? (2021)",
+      "https://ploum.net/the-computer-built-to-last-50-years/index.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "(Re)Using rustc components in gccrs",
       "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 23:46:11",
-      "https://news.ycombinator.com/item?id=41746539"
-    ],
-    [
-      "PostScript 1.0 – A Code Study",
-      "https://ztoz.blog/posts/postscript-code/"
     ]
   ],
   [
