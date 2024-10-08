@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 21:51:09](https://news.ycombinator.com/item?id=41771440) - [A Language of Beautiful Impurity](https://www.edwest.co.uk/p/a-language-of-beautiful-impurity)
+* [2024-10-07, 21:37:25](https://news.ycombinator.com/item?id=41771331) - [What is \"founder mode\"?](https://tomblomfield.com/post/763715798246227968/what-is-founder-mode)
 * [2024-10-07, 21:30:41](https://news.ycombinator.com/item?id=41771272) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 21:28:06](https://news.ycombinator.com/item?id=41771254) - [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
 * [2024-10-07, 21:11:21](https://news.ycombinator.com/item?id=41771112) - [Private Equity Ruins Tech Companies](https://blog.zmh.org/2024/10/07/private-equity-ruins.html)
@@ -55,6 +57,7 @@
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
+* [2024-10-07, 10:28:31](https://news.ycombinator.com/item?id=41764578) - [Daemonization in Unix programs is probably about restarting programs](https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
