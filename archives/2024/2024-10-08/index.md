@@ -23,6 +23,7 @@
 * [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 * [2024-10-08, 18:32:40](https://news.ycombinator.com/item?id=41780347) - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
+* [2024-10-08, 17:56:37](https://news.ycombinator.com/item?id=41779984) - [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)
 * [2024-10-08, 17:52:14](https://news.ycombinator.com/item?id=41779952) - [European govt air-gapped systems breached using custom malware](https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/)
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
