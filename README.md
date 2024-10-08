@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 12:44:58](https://news.ycombinator.com/item?id=41776753) - [Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids](https://hindenburgresearch.com/roblox/)
-* [2024-10-08, 12:28:19](https://news.ycombinator.com/item?id=41776593) - [Why U.S. Regulators See Minicars as the Enemy](https://jalopnik.com/this-is-why-u-s-regulators-see-minicars-as-the-enemy-1851665423)
+* [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
@@ -30,6 +29,7 @@
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
+* [2024-10-03, 11:49:56](https://news.ycombinator.com/item?id=41729765) - [NASA Made the Hubble Telescope to Be Remade](https://spectrum.ieee.org/hubble-space-telescope-re-invention)
 
 ## [Archives](archives/index.md)
 
