@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
 * [2024-10-08, 03:33:57](https://news.ycombinator.com/item?id=41773603) - [You're holding your AI wrong](https://cdibona.substack.com/p/youre-holding-your-ai-wrong)
+* [2024-10-08, 03:24:01](https://news.ycombinator.com/item?id=41773559) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-08, 02:41:44](https://news.ycombinator.com/item?id=41773355) - [Launching on Product Hunt](https://read.cv/fmerian/launch)
 * [2024-10-08, 02:16:22](https://news.ycombinator.com/item?id=41773212) - [FTX creditors will make money on bankruptcy: $1.19 for every dollar](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 * [2024-10-08, 00:42:00](https://news.ycombinator.com/item?id=41772689) - [Japan's Cat Island won't survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
