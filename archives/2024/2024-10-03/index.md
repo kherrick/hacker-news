@@ -8,6 +8,7 @@
 * [2024-10-03, 23:24:37](https://news.ycombinator.com/item?id=41736125) - [AI agent promotes itself to sysadmin, trashes boot sequence](https://www.theregister.com/2024/10/02/ai_agent_trashes_pc/)
 * [2024-10-03, 23:15:16](https://news.ycombinator.com/item?id=41736065) - [Show HN: Zero – DX focused non framework to interact with the DOM](https://github.com/nhh/zero)
 * [2024-10-03, 23:06:29](https://news.ycombinator.com/item?id=41736012) - [Visa Introduces the Visa Tokenized Asset Platform](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20881.html)
+* [2024-10-03, 22:43:05](https://news.ycombinator.com/item?id=41735871) - [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
 * [2024-10-03, 22:43:00](https://news.ycombinator.com/item?id=41735869) - [Biblical plant with medicinal properties resurrected from 1,000-year-old seed](https://www.cnn.com/2024/10/03/science/biblical-tree-ancient-seed-tsori/index.html)
 * [2024-10-03, 22:29:23](https://news.ycombinator.com/item?id=41735761) - [Show HN: Screensavers for your terminal (Bevy/Ratatui)](https://github.com/cxreiff/ttysvr)
 * [2024-10-03, 22:16:54](https://news.ycombinator.com/item?id=41735665) - [Update on Reflection-70B](https://glaive.ai/blog/post/reflection-postmortem)

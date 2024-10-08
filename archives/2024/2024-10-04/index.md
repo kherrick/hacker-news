@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 23:46:11](https://news.ycombinator.com/item?id=41746539) - [PostScript 1.0 – A Code Study](https://ztoz.blog/posts/postscript-code/)
 * [2024-10-04, 23:38:22](https://news.ycombinator.com/item?id=41746493) - [Solving mazes with neural cellular automata (2021)](https://umu1729.github.io/pages-neural-cellular-maze-solver/)
 * [2024-10-04, 23:36:54](https://news.ycombinator.com/item?id=41746482) - [One pioneering grizzly and her two cubs appear on Vancouver Island](https://hakaimagazine.com/features/when-a-she-bear-swims-ashore/)
 * [2024-10-04, 23:35:08](https://news.ycombinator.com/item?id=41746470) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
