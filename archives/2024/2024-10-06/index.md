@@ -69,6 +69,7 @@
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk (2010)](https://backreference.org/2010/02/10/idiomatic-awk/)
+* [2024-10-06, 09:28:06](https://news.ycombinator.com/item?id=41755911) - [Sunflowers and Fibonacci: Models of Efficiency](https://thatsmaths.com/2014/06/05/sunflowers-and-fibonacci-models-of-efficiency/)
 * [2024-10-06, 09:15:54](https://news.ycombinator.com/item?id=41755866) - [Controversy over introduction of numberplates](https://www.autocar.co.uk/car-news/from-the-archive/controversy-over-introduction-numberplates)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:36:21](https://news.ycombinator.com/item?id=41755722) - [Antarctica is turning green at an alarming rate, satellite images show](https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html)
