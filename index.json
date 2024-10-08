@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-08, 16:40:24",
-      "https://news.ycombinator.com/item?id=41779212"
+      "2024-10-08, 17:00:26",
+      "https://news.ycombinator.com/item?id=41779415"
     ],
     [
-      "NBA Players as Pokemon",
-      "https://okaymon.com/"
+      "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
+      "https://www.sievedata.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 16:44:55",
+      "https://news.ycombinator.com/item?id=41779254"
+    ],
+    [
+      "TikTok sued by 13 states and DC, accused of harming younger users",
+      "https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Improving Parquet Dedupe on Hugging Face Hub",
       "https://huggingface.co/blog/improve_parquet_dedupe"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 16:03:22",
+      "https://news.ycombinator.com/item?id=41778866"
+    ],
+    [
+      "How to get started in Graphics Programming in 2024?",
+      "https://twitter.com/rainbowpikmin/status/1842967087809237119"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "The Nazi of Oak Park",
       "https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 12:00:10",
-      "https://news.ycombinator.com/item?id=41776379"
-    ],
-    [
-      "Roame (YC S23) Is Hiring",
-      "https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The Rise of Worse Is Better (1991)",
       "https://www.dreamsongs.com/RiseOfWorseIsBetter.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 14:05:05",
-      "https://news.ycombinator.com/item?id=41766144"
-    ],
-    [
-      "Longwriter – Increase llama3.1 output to 10k words",
-      "https://github.com/THUDM/LongWriter"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-10-06, 08:35:52",
-      "https://news.ycombinator.com/item?id=41755719"
-    ],
-    [
-      "The Wobbly Table Theorem (2022)",
-      "https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 10:34:39",
       "https://news.ycombinator.com/item?id=41748912"
     ],
     [
       "Jazz – Apps with Distributed State",
       "https://jazz.tools/"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 09:51:50",
+      "https://news.ycombinator.com/item?id=41748754"
+    ],
+    [
+      "A Working Turing Machine Hits Lego Ideas",
+      "https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/"
     ]
   ],
   [
