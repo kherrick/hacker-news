@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
+* [2024-10-08, 22:40:02](https://news.ycombinator.com/item?id=41782516) - [Do you want to measure signal from the body, muscle, brain it is open-source](https://www.preprints.org/manuscript/202409.1703/v1)
+* [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output, resets strategy](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
 * [2024-10-08, 21:47:19](https://news.ycombinator.com/item?id=41782118) - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
 * [2024-10-08, 21:00:16](https://news.ycombinator.com/item?id=41781768) - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
-* [2024-10-08, 20:32:27](https://news.ycombinator.com/item?id=41781570) - [Boeing at Risk of Junk Rating with S&P Amid Strike](https://www.bloomberg.com/news/articles/2024-10-08/boeing-at-risk-of-junk-credit-rating-with-s-p-as-strike-goes-on)
 * [2024-10-08, 20:19:57](https://news.ycombinator.com/item?id=41781457) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 19:32:37](https://news.ycombinator.com/item?id=41780929) - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
 * [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to delete your 23andMe data amid the company's turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
