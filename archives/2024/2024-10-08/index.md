@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 05:54:36](https://news.ycombinator.com/item?id=41774194) - [IEEE Roadmap Outlines Development of Mass Digital Storage Technology](https://ieeexplore.ieee.org/abstract/document/10660602)
 * [2024-10-08, 05:36:37](https://news.ycombinator.com/item?id=41774130) - [Salt Typhoon hacked US broadband providers and breached wiretap systems](https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html)
+* [2024-10-08, 05:14:04](https://news.ycombinator.com/item?id=41774038) - [Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
 * [2024-10-08, 04:18:58](https://news.ycombinator.com/item?id=41773784) - [Ask HN: Have you built something that users have become addicted to or overused?](https://news.ycombinator.com/item?id=41773784)
 * [2024-10-08, 03:33:57](https://news.ycombinator.com/item?id=41773603) - [You're holding your AI wrong](https://cdibona.substack.com/p/youre-holding-your-ai-wrong)
 * [2024-10-08, 03:24:01](https://news.ycombinator.com/item?id=41773559) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
