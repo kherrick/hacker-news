@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 09:08:51](https://news.ycombinator.com/item?id=41775238) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-08, 07:00:18](https://news.ycombinator.com/item?id=41774471) - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
 * [2024-10-08, 06:08:26](https://news.ycombinator.com/item?id=41774252) - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
@@ -10,7 +11,6 @@
 * [2024-10-08, 00:21:03](https://news.ycombinator.com/item?id=41772551) - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 * [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
-* [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the networks, found by everyone](https://wigle.net/)
 * [2024-10-07, 18:34:17](https://news.ycombinator.com/item?id=41769346) - [EuroBSDcon 2024: Some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
