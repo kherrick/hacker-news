@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 21:00:16](https://news.ycombinator.com/item?id=41781768) - [Instant (YC S22) is Hiring a Founding Engineer to Help Build the Modern Firebase](https://news.ycombinator.com/item?id=41781768)
+* [2024-10-08, 19:45:00](https://news.ycombinator.com/item?id=41781081) - [Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)
 * [2024-10-08, 18:38:14](https://news.ycombinator.com/item?id=41780395) - [End of the Road for Google Drive and Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
 * [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 * [2024-10-08, 18:32:40](https://news.ycombinator.com/item?id=41780347) - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
