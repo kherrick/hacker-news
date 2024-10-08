@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 14:32:01](https://news.ycombinator.com/item?id=41777800) - [GLP-1 pills are coming, and they could revolutionize weight-loss treatment](https://www.cnn.com/2024/09/17/health/glp-1-pills-weight-loss-treatment/index.html)
+* [2024-10-08, 14:01:02](https://news.ycombinator.com/item?id=41777476) - [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
 * [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
@@ -12,7 +14,6 @@
 * [2024-10-08, 03:24:01](https://news.ycombinator.com/item?id=41773559) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-08, 00:32:18](https://news.ycombinator.com/item?id=41772624) - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 * [2024-10-08, 00:21:03](https://news.ycombinator.com/item?id=41772551) - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-* [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better (1991)](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 14:05:05](https://news.ycombinator.com/item?id=41766144) - [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
@@ -20,7 +21,6 @@
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [An e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
-* [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 * [2024-10-06, 12:19:37](https://news.ycombinator.com/item?id=41756624) - [Fantasia for Piano: Joyce Hatto's Incredible Career (2007)](https://www.newyorker.com/magazine/2007/09/17/fantasia-for-piano)
 * [2024-10-06, 12:15:31](https://news.ycombinator.com/item?id=41756592) - [Throwing Exceptions from Coroutines](https://ibob.bg/blog/2024/10/06/coro-throw/)
