@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-08, 17:13:16",
+      "https://news.ycombinator.com/item?id=41779519"
+    ],
+    [
+      "My First Game with Carimbo, My Homemade Engine",
+      "https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 17:00:26",
       "https://news.ycombinator.com/item?id=41779415"
     ],
@@ -27,16 +37,6 @@
     [
       "Improving Parquet Dedupe on Hugging Face Hub",
       "https://huggingface.co/blog/improve_parquet_dedupe"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 16:03:22",
-      "https://news.ycombinator.com/item?id=41778866"
-    ],
-    [
-      "How to get started in Graphics Programming in 2024?",
-      "https://twitter.com/rainbowpikmin/status/1842967087809237119"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41775463"
     ],
     [
-      "Nobel Prize in Physics Awarded for Machine Learning and Neural Networks",
+      "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton",
       "https://www.nobelprize.org/prizes/physics/2024/summary/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-10-03, 15:14:57",
-      "https://news.ycombinator.com/item?id=41731536"
+      "2024-10-05, 08:36:31",
+      "https://news.ycombinator.com/item?id=41748519"
     ],
     [
-      "Canon plans to disrupt chipmaking with low-cost \"stamp\" machine",
-      "https://arstechnica.com/reviews/2024/01/canon-plans-to-disrupt-chipmaking-with-low-cost-stamp-machine/"
+      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
+      "https://github.com/cepa/aegir-gps-tracker"
     ]
   ]
 ]
