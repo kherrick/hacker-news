@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-10-08, 13:11:50",
+      "https://news.ycombinator.com/item?id=41776988"
+    ],
+    [
+      "iPhone Mirroring at work may expose employees’ personal information",
+      "https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 12:59:52",
       "https://news.ycombinator.com/item?id=41776878"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-10-08, 12:39:56",
-      "https://news.ycombinator.com/item?id=41776706"
+      "2024-10-08, 12:57:40",
+      "https://news.ycombinator.com/item?id=41776861"
     ],
     [
-      "Building a robust data synchronization framework with Rails",
-      "https://pcreux.com/2024/10/07/rails-data-sync-service.html"
+      "Do U.S. ports need more automation?",
+      "https://www.construction-physics.com/p/do-us-ports-need-more-automation"
     ]
   ],
   [
@@ -81,22 +91,32 @@
   ],
   [
     [
-      "2024-10-08, 08:38:56",
-      "https://news.ycombinator.com/item?id=41775048"
+      "2024-10-08, 09:08:51",
+      "https://news.ycombinator.com/item?id=41775238"
     ],
     [
-      "Show HN: Squey, an open-source GPU-accelerated data visualization software",
-      "https://squey.org"
+      "The Static Site Paradox",
+      "https://kristoff.it/blog/static-site-paradox/"
     ]
   ],
   [
     [
-      "2024-10-08, 05:50:37",
-      "https://news.ycombinator.com/item?id=41774175"
+      "2024-10-08, 08:11:32",
+      "https://news.ycombinator.com/item?id=41774871"
     ],
     [
-      "Engineering Geology of the BART System (2000)",
-      "http://sonic.net/~mly/www.geolith.com/bart/"
+      "A popular but wrong way to convert a string to uppercase or lowercase",
+      "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 06:59:53",
+      "https://news.ycombinator.com/item?id=41774467"
+    ],
+    [
+      "The missing middle: firms in developing countries",
+      "https://asteriskmag.com/issues/07/want-growth-kill-small-businesses"
     ]
   ],
   [
@@ -141,12 +161,22 @@
   ],
   [
     [
-      "2024-10-07, 19:14:43",
-      "https://news.ycombinator.com/item?id=41769842"
+      "2024-10-07, 20:44:30",
+      "https://news.ycombinator.com/item?id=41770840"
     ],
     [
-      "Multi-tenant SAML in an afternoon",
-      "https://tylerrussell.dev/2024/10/07/multi-tenant-saml-in-an-afternoon-using-ssoready/"
+      "From GLSL to WGSL: the future of shaders on the Web (2021)",
+      "https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 18:07:03",
+      "https://news.ycombinator.com/item?id=41769013"
+    ],
+    [
+      "Teen achieves first NES Tetris \"rebirth,\" proves endless play is possible",
+      "https://arstechnica.com/gaming/2024/10/nes-tetris-first-ever-rebirth-loops-past-level-255-and-back-to-zero/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "$61 kit turns any Hot Wheels into a remote-controlled drift car",
       "https://www.thedrive.com/news/this-61-kit-turns-any-hot-wheels-into-a-remote-controlled-drift-car"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 15:32:23",
-      "https://news.ycombinator.com/item?id=41767039"
-    ],
-    [
-      "I want to break some laws too",
-      "https://snats.xyz/pages/articles/breaking_some_laws.html"
     ]
   ],
   [
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2024-10-07, 05:59:32",
-      "https://news.ycombinator.com/item?id=41763176"
-    ],
-    [
-      "Hello, Perceptron (2023)",
-      "https://matt.might.net/articles/hello-perceptron/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 10:44:34",
-      "https://news.ycombinator.com/item?id=41756219"
-    ],
-    [
-      "Virtualizing iOS on Apple Silicon",
-      "https://nickb.website/blog/virtualizing-ios-on-apple-silicon"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 09:33:52",
       "https://news.ycombinator.com/item?id=41755940"
     ],
     [
       "Kernighan's Lever (2012)",
       "https://www.linusakesson.net/programming/kernighans-lever/index.php"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 10:34:39",
-      "https://news.ycombinator.com/item?id=41748912"
-    ],
-    [
-      "Jazz – Apps with Distributed State",
-      "https://jazz.tools/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ABC News hacks into popular robot vacuum, watches owner through camera",
       "https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 18:23:17",
+      "https://news.ycombinator.com/item?id=41733390"
+    ],
+    [
+      "The real data wall is billions of years of evolution",
+      "https://dynomight.substack.com/p/data-wall"
     ]
   ]
 ]
