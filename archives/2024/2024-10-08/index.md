@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 10:03:12](https://news.ycombinator.com/item?id=41775521) - [Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning](https://www.bbc.co.uk/news/articles/c62r02z75jyo)
+* [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
+* [2024-10-08, 09:51:18](https://news.ycombinator.com/item?id=41775449) - [John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]](https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf)
 * [2024-10-08, 09:08:51](https://news.ycombinator.com/item?id=41775238) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-08, 07:00:18](https://news.ycombinator.com/item?id=41774471) - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
