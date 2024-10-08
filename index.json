@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-08, 13:31:09",
-      "https://news.ycombinator.com/item?id=41777187"
+      "2024-10-08, 13:44:20",
+      "https://news.ycombinator.com/item?id=41777301"
     ],
     [
-      "Open Source Pledge",
-      "https://opensourcepledge.com/"
+      "Geoffrey Hinton and John Hopfield win Nobel Prize in physics",
+      "https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 13:11:50",
+      "https://news.ycombinator.com/item?id=41776988"
+    ],
+    [
+      "PSA: Don't use iPhone Mirroring on your work computer",
+      "https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Kotlin Money",
       "https://blog.eriksen.com.br/en/introducing-kotlin-money"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 12:57:40",
+      "https://news.ycombinator.com/item?id=41776861"
+    ],
+    [
+      "Do U.S. Ports Need More Automation?",
+      "https://www.construction-physics.com/p/do-us-ports-need-more-automation"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-10-07, 10:38:36",
-      "https://news.ycombinator.com/item?id=41764635"
-    ],
-    [
-      "Show HN: Visualization of website accessibility tree",
-      "https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 10:12:42",
       "https://news.ycombinator.com/item?id=41764486"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-10-06, 08:56:08",
-      "https://news.ycombinator.com/item?id=41755805"
-    ],
-    [
-      "Good Retry, Bad Retry",
-      "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 08:35:52",
       "https://news.ycombinator.com/item?id=41755719"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-10-05, 08:36:31",
-      "https://news.ycombinator.com/item?id=41748519"
+      "2024-10-05, 09:12:06",
+      "https://news.ycombinator.com/item?id=41748632"
     ],
     [
-      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
-      "https://github.com/cepa/aegir-gps-tracker"
+      "(Re)Using rustc components in gccrs",
+      "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
     ]
   ]
 ]
