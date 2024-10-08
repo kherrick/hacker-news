@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-08, 16:40:24",
+      "https://news.ycombinator.com/item?id=41779212"
+    ],
+    [
+      "NBA Players as Pokemon",
+      "https://okaymon.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 16:33:47",
+      "https://news.ycombinator.com/item?id=41779144"
+    ],
+    [
+      "Improving Parquet Dedupe on Hugging Face Hub",
+      "https://huggingface.co/blog/improve_parquet_dedupe"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 12:59:52",
       "https://news.ycombinator.com/item?id=41776878"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-10-06, 18:04:57",
-      "https://news.ycombinator.com/item?id=41758856"
-    ],
-    [
-      "The Naming of America (2023)",
-      "https://www.jonathancohenweb.com/america.html"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 15:50:52",
       "https://news.ycombinator.com/item?id=41757940"
     ],
@@ -277,16 +287,6 @@
     [
       "(Re)Using rustc components in gccrs",
       "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 08:36:31",
-      "https://news.ycombinator.com/item?id=41748519"
-    ],
-    [
-      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
-      "https://github.com/cepa/aegir-gps-tracker"
     ]
   ],
   [
