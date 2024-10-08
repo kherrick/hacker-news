@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 06:08:26](https://news.ycombinator.com/item?id=41774252) - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
 * [2024-10-08, 05:54:36](https://news.ycombinator.com/item?id=41774194) - [IEEE Roadmap Outlines Development of Mass Digital Storage Technology](https://ieeexplore.ieee.org/abstract/document/10660602)
 * [2024-10-08, 05:36:37](https://news.ycombinator.com/item?id=41774130) - [Salt Typhoon hacked US broadband providers and breached wiretap systems](https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html)
 * [2024-10-08, 05:14:04](https://news.ycombinator.com/item?id=41774038) - [Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)

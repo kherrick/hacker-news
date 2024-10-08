@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 05:54:36](https://news.ycombinator.com/item?id=41774194) - [IEEE Roadmap Outlines Development of Mass Digital Storage Technology](https://ieeexplore.ieee.org/abstract/document/10660602)
+* [2024-10-08, 06:08:26](https://news.ycombinator.com/item?id=41774252) - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
 * [2024-10-08, 05:14:04](https://news.ycombinator.com/item?id=41774038) - [Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
 * [2024-10-08, 02:16:22](https://news.ycombinator.com/item?id=41773212) - [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 * [2024-10-08, 00:32:18](https://news.ycombinator.com/item?id=41772624) - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
