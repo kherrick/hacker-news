@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 22:40:02](https://news.ycombinator.com/item?id=41782516) - [Do you want to measure signal from the body, muscle, brain it is open-source](https://www.preprints.org/manuscript/202409.1703/v1)
 * [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
+* [2024-10-08, 22:09:36](https://news.ycombinator.com/item?id=41782302) - [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
 * [2024-10-08, 21:47:19](https://news.ycombinator.com/item?id=41782118) - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
 * [2024-10-08, 21:21:53](https://news.ycombinator.com/item?id=41781943) - [\"Now What?\" by John Hopfield (2018) [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
@@ -14,6 +16,7 @@
 * [2024-10-08, 20:19:57](https://news.ycombinator.com/item?id=41781457) - [A Modest Critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 19:45:00](https://news.ycombinator.com/item?id=41781081) - [Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)
 * [2024-10-08, 19:32:37](https://news.ycombinator.com/item?id=41780929) - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
+* [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
 * [2024-10-08, 18:38:14](https://news.ycombinator.com/item?id=41780395) - [End of the Road for Google Drive and Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
 * [2024-10-08, 18:37:44](https://news.ycombinator.com/item?id=41780387) - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
 * [2024-10-08, 18:32:40](https://news.ycombinator.com/item?id=41780347) - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
