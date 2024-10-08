@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-10-08, 12:41:25",
-      "https://news.ycombinator.com/item?id=41776721"
-    ],
-    [
-      "The Nazi of Oak Park",
-      "https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 12:39:56",
       "https://news.ycombinator.com/item?id=41776706"
     ],
@@ -107,16 +97,6 @@
     [
       "Engineering Geology of the BART System (2000)",
       "http://sonic.net/~mly/www.geolith.com/bart/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 03:24:01",
-      "https://news.ycombinator.com/item?id=41773559"
-    ],
-    [
-      "The costs of the i386 to x86-64 upgrade",
-      "https://blogsystem5.substack.com/p/x86-64-programming-models"
     ]
   ],
   [
@@ -171,12 +151,32 @@
   ],
   [
     [
+      "2024-10-07, 17:21:04",
+      "https://news.ycombinator.com/item?id=41768401"
+    ],
+    [
+      "$61 kit turns any Hot Wheels into a remote-controlled drift car",
+      "https://www.thedrive.com/news/this-61-kit-turns-any-hot-wheels-into-a-remote-controlled-drift-car"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 15:32:23",
       "https://news.ycombinator.com/item?id=41767039"
     ],
     [
       "I want to break some laws too",
       "https://snats.xyz/pages/articles/breaking_some_laws.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 11:54:35",
+      "https://news.ycombinator.com/item?id=41765098"
+    ],
+    [
+      "Could we build a computer designed to last at least fifty years?",
+      "https://ploum.net/the-computer-built-to-last-50-years/index.html"
     ]
   ],
   [
@@ -231,26 +231,6 @@
   ],
   [
     [
-      "2024-10-06, 15:50:52",
-      "https://news.ycombinator.com/item?id=41757940"
-    ],
-    [
-      "Optimizing Postgres table layout for maximum efficiency",
-      "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 12:19:37",
-      "https://news.ycombinator.com/item?id=41756624"
-    ],
-    [
-      "Fantasia for Piano: Joyce Hatto's Incredible Career (2007)",
-      "https://www.newyorker.com/magazine/2007/09/17/fantasia-for-piano"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 10:44:34",
       "https://news.ycombinator.com/item?id=41756219"
     ],
@@ -297,6 +277,26 @@
     [
       "(Re)Using rustc components in gccrs",
       "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 23:46:11",
+      "https://news.ycombinator.com/item?id=41746539"
+    ],
+    [
+      "PostScript 1.0 – A Code Study",
+      "https://ztoz.blog/posts/postscript-code/"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 22:43:05",
+      "https://news.ycombinator.com/item?id=41735871"
+    ],
+    [
+      "ABC News hacks into popular robot vacuum, watches owner through camera",
+      "https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020"
     ]
   ]
 ]
