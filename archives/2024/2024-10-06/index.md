@@ -64,6 +64,7 @@
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:42:12](https://news.ycombinator.com/item?id=41756209) - [ByteDance is abusing the free video downloading service Cobalt for mass scraping](https://twitter.com/uwukko/status/1842538843720868016)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
+* [2024-10-06, 10:21:13](https://news.ycombinator.com/item?id=41756134) - [Programming and poetry (not Python's tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 10:00:28](https://news.ycombinator.com/item?id=41756046) - [SQLite: Defense Against the Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
