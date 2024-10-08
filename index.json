@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-08, 21:47:19",
+      "https://news.ycombinator.com/item?id=41782118"
+    ],
+    [
+      "X reinstated in Brazil after complying with court demands",
+      "https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 21:21:53",
       "https://news.ycombinator.com/item?id=41781943"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41781457"
     ],
     [
-      "A Modest Critique of Htmx",
+      "A modest critique of Htmx",
       "https://chrisdone.com/posts/htmx-critique/"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "Car brands are collecting and sharing your data with third parties",
       "https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 19:32:37",
+      "https://news.ycombinator.com/item?id=41780929"
+    ],
+    [
+      "Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture",
+      "https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Show HN: Kotlin Money",
       "https://blog.eriksen.com.br/en/introducing-kotlin-money"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 12:57:40",
-      "https://news.ycombinator.com/item?id=41776861"
-    ],
-    [
-      "Do U.S. ports need more automation?",
-      "https://www.construction-physics.com/p/do-us-ports-need-more-automation"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-10-08, 00:21:03",
-      "https://news.ycombinator.com/item?id=41772551"
-    ],
-    [
-      "Video Surveillance with YOLO+llava",
-      "https://github.com/PsyChip/machina"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 21:51:09",
       "https://news.ycombinator.com/item?id=41771440"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-10-06, 09:33:52",
-      "https://news.ycombinator.com/item?id=41755940"
-    ],
-    [
-      "Kernighan's Lever (2012)",
-      "https://www.linusakesson.net/programming/kernighans-lever/index.php"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 06:50:19",
       "https://news.ycombinator.com/item?id=41755303"
     ],
     [
       "Canvases versus Documents",
       "https://kaiwenwang.com/writing/canvases-versus-documents"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 19:38:40",
+      "https://news.ycombinator.com/item?id=41752350"
+    ],
+    [
+      "Vector math library codegen in Debug",
+      "https://aras-p.info/blog/2024/09/14/Vector-math-library-codegen-in-Debug/"
     ]
   ],
   [
