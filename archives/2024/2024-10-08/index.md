@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
 * [2024-10-08, 10:03:12](https://news.ycombinator.com/item?id=41775521) - [Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning](https://www.bbc.co.uk/news/articles/c62r02z75jyo)
+* [2024-10-08, 09:57:34](https://news.ycombinator.com/item?id=41775490) - [They trained artificial neural networks using physics](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
 * [2024-10-08, 09:51:18](https://news.ycombinator.com/item?id=41775449) - [John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]](https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf)
 * [2024-10-08, 09:08:51](https://news.ycombinator.com/item?id=41775238) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
