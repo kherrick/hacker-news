@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 13:31:09](https://news.ycombinator.com/item?id=41777187) - [Open Source Pledge](https://opensourcepledge.com/)
+* [2024-10-08, 13:44:20](https://news.ycombinator.com/item?id=41777301) - [Geoffrey Hinton and John Hopfield win Nobel Prize in physics](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning)
+* [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+* [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
@@ -16,7 +18,6 @@
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 13:01:09](https://news.ycombinator.com/item?id=41765580) - [Fukushima Reactor: TEPCO robot aims to extract nuclear fuel](https://spectrum.ieee.org/fukushima-reactor)
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [An e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
-* [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
@@ -26,10 +27,9 @@
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-06, 09:33:52](https://news.ycombinator.com/item?id=41755940) - [Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
-* [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem (2022)](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
-* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
+* [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
 
 ## [Archives](archives/index.md)
 
