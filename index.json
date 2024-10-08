@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-08, 03:24:01",
+      "https://news.ycombinator.com/item?id=41773559"
+    ],
+    [
+      "The costs of the i386 to x86-64 upgrade",
+      "https://blogsystem5.substack.com/p/x86-64-programming-models"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 02:16:22",
       "https://news.ycombinator.com/item?id=41773212"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-10-07, 03:18:04",
-      "https://news.ycombinator.com/item?id=41762468"
-    ],
-    [
-      "How do HTTP servers figure out Content-Length?",
-      "https://aarol.dev/posts/go-contentlength/"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 18:04:58",
       "https://news.ycombinator.com/item?id=41758857"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-10-05, 19:03:21",
+      "https://news.ycombinator.com/item?id=41752117"
+    ],
+    [
+      "Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)",
+      "https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 10:34:39",
       "https://news.ycombinator.com/item?id=41748912"
     ],
     [
       "Jazz – Apps with Distributed State",
       "https://jazz.tools/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 08:36:31",
-      "https://news.ycombinator.com/item?id=41748519"
-    ],
-    [
-      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
-      "https://github.com/cepa/aegir-gps-tracker"
     ]
   ]
 ]
