@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-08, 14:01:02](https://news.ycombinator.com/item?id=41777476) - [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
-* [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:41:25](https://news.ycombinator.com/item?id=41776721) - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
@@ -21,15 +20,16 @@
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 * [2024-10-07, 06:16:20](https://news.ycombinator.com/item?id=41763239) - [Why does ++[[]][+[]]+[+[]] return the string \"10\"?](https://stackoverflow.com/questions/7202157/why-does-return-the-string-10)
+* [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 * [2024-10-06, 12:19:37](https://news.ycombinator.com/item?id=41756624) - [Fantasia for Piano: Joyce Hatto's Incredible Career (2007)](https://www.newyorker.com/magazine/2007/09/17/fantasia-for-piano)
-* [2024-10-06, 12:15:31](https://news.ycombinator.com/item?id=41756592) - [Throwing Exceptions from Coroutines](https://ibob.bg/blog/2024/10/06/coro-throw/)
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
 * [2024-10-06, 09:33:52](https://news.ycombinator.com/item?id=41755940) - [Kernighan's Lever (2012)](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem (2022)](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
+* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 
 ## [Archives](archives/index.md)
 
