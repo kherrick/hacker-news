@@ -43,6 +43,7 @@
 * [2024-10-06, 12:42:38](https://news.ycombinator.com/item?id=41756747) - [Mars is now a political football](https://old.reddit.com/r/EnoughMuskSpam/comments/1fnvt8n/elon_musk_wont_go_to_mars_if_kamala_harris/)
 * [2024-10-06, 12:29:05](https://news.ycombinator.com/item?id=41756676) - [Ask HN: Are newer iPhones preventing x.com at iOS level in Brazil?](https://news.ycombinator.com/item?id=41756676)
 * [2024-10-06, 12:22:55](https://news.ycombinator.com/item?id=41756646) - [The million-dollar mystery of milk.com](https://thehustle.co/originals/the-million-dollar-mystery-of-milk.com)
+* [2024-10-06, 12:19:37](https://news.ycombinator.com/item?id=41756624) - [Fantasia for Piano: Joyce Hatto's Incredible Career (2007)](https://www.newyorker.com/magazine/2007/09/17/fantasia-for-piano)
 * [2024-10-06, 12:08:36](https://news.ycombinator.com/item?id=41756562) - [Windots: A collection of windows configuration files](https://github.com/Matalus/dotfiles)
 * [2024-10-06, 12:01:42](https://news.ycombinator.com/item?id=41756512) - [Do We Need a 37-Cent Coin? (2009)](https://freakonomics.com/2009/10/do-we-need-a-37-cent-coin/)
 * [2024-10-06, 12:00:24](https://news.ycombinator.com/item?id=41756509) - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
