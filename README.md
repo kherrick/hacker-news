@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-08, 10:03:12](https://news.ycombinator.com/item?id=41775521) - [Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning](https://www.bbc.co.uk/news/articles/c62r02z75jyo)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
 * [2024-10-08, 09:51:18](https://news.ycombinator.com/item?id=41775449) - [John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf]](https://www.nobelprize.org/uploads/2024/10/press-physicsprize2024.pdf)
 * [2024-10-08, 07:00:18](https://news.ycombinator.com/item?id=41774471) - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
@@ -23,6 +22,7 @@
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 * [2024-10-06, 18:04:58](https://news.ycombinator.com/item?id=41758857) - [The survival skills of Helena Valero](https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero)
+* [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 * [2024-10-06, 12:22:55](https://news.ycombinator.com/item?id=41756646) - [The million-dollar mystery of milk.com](https://thehustle.co/originals/the-million-dollar-mystery-of-milk.com)
 * [2024-10-06, 10:44:34](https://news.ycombinator.com/item?id=41756219) - [Virtualizing iOS on Apple Silicon](https://nickb.website/blog/virtualizing-ios-on-apple-silicon)
 * [2024-10-06, 10:40:07](https://news.ycombinator.com/item?id=41756205) - [The magic (image resampling) kernel](https://johncostella.com/magic/)
