@@ -72,6 +72,7 @@
 * [2024-10-06, 09:15:54](https://news.ycombinator.com/item?id=41755866) - [Controversy over introduction of numberplates](https://www.autocar.co.uk/car-news/from-the-archive/controversy-over-introduction-numberplates)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:36:21](https://news.ycombinator.com/item?id=41755722) - [Antarctica is turning green at an alarming rate, satellite images show](https://www.cnn.com/2024/10/04/climate/antarctica-greening-vegetation-satellite-images/index.html)
+* [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
 * [2024-10-06, 08:11:43](https://news.ycombinator.com/item?id=41755616) - [Tiny Texture Tumbler – JavaScript procedural texture library and editor](https://github.com/phoboslab/ttt)
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)

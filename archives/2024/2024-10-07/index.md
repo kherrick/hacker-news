@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 21:30:41](https://news.ycombinator.com/item?id=41771272) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 21:28:06](https://news.ycombinator.com/item?id=41771254) - [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
 * [2024-10-07, 21:11:21](https://news.ycombinator.com/item?id=41771112) - [Private Equity Ruins Tech Companies](https://blog.zmh.org/2024/10/07/private-equity-ruins.html)
 * [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
