@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-10-07, 06:16:20",
-      "https://news.ycombinator.com/item?id=41763239"
-    ],
-    [
-      "Why does ++[[]][+[]]+[+[]] return the string \"10\"?",
-      "https://stackoverflow.com/questions/7202157/why-does-return-the-string-10"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 18:04:57",
       "https://news.ycombinator.com/item?id=41758856"
     ],
@@ -257,6 +247,16 @@
     [
       "Kernighan's Lever (2012)",
       "https://www.linusakesson.net/programming/kernighans-lever/index.php"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 08:56:08",
+      "https://news.ycombinator.com/item?id=41755805"
+    ],
+    [
+      "Good Retry, Bad Retry",
+      "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6"
     ]
   ],
   [
