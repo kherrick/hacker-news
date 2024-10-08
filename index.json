@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-10-08, 08:38:56",
+      "https://news.ycombinator.com/item?id=41775048"
+    ],
+    [
+      "Show HN: Squey, an open-source GPU-accelerated data visualization software",
+      "https://squey.org"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 08:11:32",
       "https://news.ycombinator.com/item?id=41774871"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-10-07, 21:37:25",
-      "https://news.ycombinator.com/item?id=41771331"
-    ],
-    [
-      "What is \"founder mode\"?",
-      "https://tomblomfield.com/post/763715798246227968/what-is-founder-mode"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 20:44:30",
       "https://news.ycombinator.com/item?id=41770840"
     ],
@@ -171,22 +171,12 @@
   ],
   [
     [
-      "2024-10-07, 18:07:03",
-      "https://news.ycombinator.com/item?id=41769013"
+      "2024-10-07, 19:14:43",
+      "https://news.ycombinator.com/item?id=41769842"
     ],
     [
-      "Teen achieves first NES Tetris \"rebirth,\" proves endless play is possible",
-      "https://arstechnica.com/gaming/2024/10/nes-tetris-first-ever-rebirth-loops-past-level-255-and-back-to-zero/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 17:21:04",
-      "https://news.ycombinator.com/item?id=41768401"
-    ],
-    [
-      "$61 kit turns any Hot Wheels into a remote-controlled drift car",
-      "https://www.thedrive.com/news/this-61-kit-turns-any-hot-wheels-into-a-remote-controlled-drift-car"
+      "Multi-tenant SAML in an afternoon",
+      "https://tylerrussell.dev/2024/10/07/multi-tenant-saml-in-an-afternoon-using-ssoready/"
     ]
   ],
   [
@@ -221,22 +211,32 @@
   ],
   [
     [
-      "2024-10-07, 09:50:08",
-      "https://news.ycombinator.com/item?id=41764373"
-    ],
-    [
-      "Alternatives to cosine similarity",
-      "https://tomhazledine.com/cosine-similarity-alternatives/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 08:46:51",
       "https://news.ycombinator.com/item?id=41763990"
     ],
     [
       "Unseen Thunderbirds film reels found in garden shed",
       "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 05:59:32",
+      "https://news.ycombinator.com/item?id=41763176"
+    ],
+    [
+      "Hello, Perceptron (2023)",
+      "https://matt.might.net/articles/hello-perceptron/"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 10:44:34",
+      "https://news.ycombinator.com/item?id=41756219"
+    ],
+    [
+      "Virtualizing iOS on Apple Silicon",
+      "https://nickb.website/blog/virtualizing-ios-on-apple-silicon"
     ]
   ],
   [
