@@ -15,6 +15,7 @@
 * [2024-10-05, 19:52:09](https://news.ycombinator.com/item?id=41752436) - [What is the history of the use of \"foo\" and \"bar\" in source code examples?](https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/multitasking.html)
 * [2024-10-05, 19:43:57](https://news.ycombinator.com/item?id=41752383) - [Task-Switching Experiment (2015)](https://www.psytoolkit.org/experiment-library/experiment_multitasking.html)
+* [2024-10-05, 19:38:40](https://news.ycombinator.com/item?id=41752350) - [Vector math library codegen in Debug](https://aras-p.info/blog/2024/09/14/Vector-math-library-codegen-in-Debug/)
 * [2024-10-05, 19:35:31](https://news.ycombinator.com/item?id=41752327) - [Router Security](https://routersecurity.org/)
 * [2024-10-05, 19:09:47](https://news.ycombinator.com/item?id=41752158) - [Weird Nonfiction](https://lareviewofbooks.org/article/weird-nonfiction/)
 * [2024-10-05, 19:03:21](https://news.ycombinator.com/item?id=41752117) - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
