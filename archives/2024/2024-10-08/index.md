@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 23:00:32](https://news.ycombinator.com/item?id=41782663) - [Nearly 50% of researchers quit science within a decade, huge study reveals](https://www.nature.com/articles/d41586-024-03222-7)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 22:40:02](https://news.ycombinator.com/item?id=41782516) - [Do you want to measure signal from the body, muscle, brain it is open-source](https://www.preprints.org/manuscript/202409.1703/v1)
+* [2024-10-08, 22:25:31](https://news.ycombinator.com/item?id=41782415) - [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)
 * [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
 * [2024-10-08, 22:09:36](https://news.ycombinator.com/item?id=41782302) - [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
 * [2024-10-08, 21:47:19](https://news.ycombinator.com/item?id=41782118) - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)

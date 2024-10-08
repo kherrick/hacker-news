@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 23:00:32](https://news.ycombinator.com/item?id=41782663) - [Nearly 50% of researchers quit science within a decade, huge study reveals](https://www.nature.com/articles/d41586-024-03222-7)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-* [2024-10-08, 22:40:02](https://news.ycombinator.com/item?id=41782516) - [Do you want to measure signal from the body, muscle, brain it is open-source](https://www.preprints.org/manuscript/202409.1703/v1)
+* [2024-10-08, 22:25:31](https://news.ycombinator.com/item?id=41782415) - [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)
 * [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output, resets strategy](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
-* [2024-10-08, 22:09:36](https://news.ycombinator.com/item?id=41782302) - [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
-* [2024-10-08, 21:47:19](https://news.ycombinator.com/item?id=41782118) - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
 * [2024-10-08, 21:00:16](https://news.ycombinator.com/item?id=41781768) - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
+* [2024-10-08, 20:32:27](https://news.ycombinator.com/item?id=41781570) - [Boeing at Risk of Junk Rating with S&P Amid Strike](https://www.bloomberg.com/news/articles/2024-10-08/boeing-at-risk-of-junk-credit-rating-with-s-p-as-strike-goes-on)
 * [2024-10-08, 20:19:57](https://news.ycombinator.com/item?id=41781457) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 19:32:37](https://news.ycombinator.com/item?id=41780929) - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
 * [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
@@ -27,9 +27,9 @@
 * [2024-10-07, 10:28:31](https://news.ycombinator.com/item?id=41764578) - [Daemonization in Unix programs is probably about restarting programs](https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts)
 * [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
 * [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
-* [2024-10-05, 18:51:44](https://news.ycombinator.com/item?id=41752023) - [Unicode shenanigans: Martine Ã©crit en UTF-8](https://blog.poisson.chat/posts/2024-10-05-unicode-shenanigans.html)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
 * [2024-10-03, 22:43:05](https://news.ycombinator.com/item?id=41735871) - [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
+* [2024-10-03, 18:23:17](https://news.ycombinator.com/item?id=41733390) - [The real data wall is billions of years of evolution](https://dynomight.substack.com/p/data-wall)
 
 ## [Archives](archives/index.md)
 
