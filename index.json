@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-10-08, 05:03:45",
+      "https://news.ycombinator.com/item?id=41774001"
+    ],
+    [
+      "Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller",
+      "https://github.com/jnz/stm32boy"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 02:16:22",
       "https://news.ycombinator.com/item?id=41773212"
     ],
@@ -257,16 +267,6 @@
     [
       "The magic (image resampling) kernel",
       "https://johncostella.com/magic/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 08:56:08",
-      "https://news.ycombinator.com/item?id=41755805"
-    ],
-    [
-      "Good Retry, Bad Retry",
-      "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6"
     ]
   ],
   [
