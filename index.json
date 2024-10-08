@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-08, 13:11:50",
-      "https://news.ycombinator.com/item?id=41776988"
-    ],
-    [
-      "PSA: Don't use iPhone Mirroring on your work computer",
-      "https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 12:59:52",
       "https://news.ycombinator.com/item?id=41776878"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-10-06, 18:04:57",
+      "https://news.ycombinator.com/item?id=41758856"
+    ],
+    [
+      "The Naming of America (2023)",
+      "https://www.jonathancohenweb.com/america.html"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 15:50:52",
       "https://news.ycombinator.com/item?id=41757940"
     ],
@@ -227,16 +227,6 @@
     [
       "Fantasia for Piano: Joyce Hatto's Incredible Career (2007)",
       "https://www.newyorker.com/magazine/2007/09/17/fantasia-for-piano"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 12:15:31",
-      "https://news.ycombinator.com/item?id=41756592"
-    ],
-    [
-      "Throwing Exceptions from Coroutines",
-      "https://ibob.bg/blog/2024/10/06/coro-throw/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "(Re)Using rustc components in gccrs",
       "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 08:36:31",
+      "https://news.ycombinator.com/item?id=41748519"
+    ],
+    [
+      "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
+      "https://github.com/cepa/aegir-gps-tracker"
     ]
   ]
 ]
