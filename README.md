@@ -2,9 +2,9 @@
 
 * [2024-10-08, 00:42:00](https://news.ycombinator.com/item?id=41772689) - [Japan's Cat Island won't survive much longer](https://www.tokyoweekender.com/japan-life/news-and-opinion/cat-island-wont-survive-much-longer/)
 * [2024-10-08, 00:32:18](https://news.ycombinator.com/item?id=41772624) - [An illustrated proof of the CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+* [2024-10-08, 00:21:03](https://news.ycombinator.com/item?id=41772551) - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 * [2024-10-08, 00:16:26](https://news.ycombinator.com/item?id=41772532) - [MoneyGram says hacker stole customers' personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
 * [2024-10-07, 21:30:41](https://news.ycombinator.com/item?id=41771272) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
-* [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [Rewrite cname uncloaking code to account for new ipaddress= option](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 * [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
@@ -12,7 +12,6 @@
 * [2024-10-07, 18:34:17](https://news.ycombinator.com/item?id=41769346) - [EuroBSDcon 2024: Some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
 * [2024-10-07, 17:01:12](https://news.ycombinator.com/item?id=41768143) - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-* [2024-10-07, 16:40:30](https://news.ycombinator.com/item?id=41767852) - [Unlocking the 'aha' moment: Developer relations for startups](https://www.signalfire.com/blog/devrel-for-startups)
 * [2024-10-07, 16:24:32](https://news.ycombinator.com/item?id=41767644) - [Show HN: Compiling C in the browser using WebAssembly](https://wasmer.io/posts/clang-in-browser)
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better (1991)](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 14:05:05](https://news.ycombinator.com/item?id=41766144) - [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
@@ -29,6 +28,7 @@
 * [2024-10-06, 10:21:13](https://news.ycombinator.com/item?id=41756134) - [Programming and poetry (not Python's tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
+* [2024-10-05, 13:22:51](https://news.ycombinator.com/item?id=41749651) - [Ask HN: Can you recommend a PCB designer?](https://news.ycombinator.com/item?id=41749651)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
 
 ## [Archives](archives/index.md)
