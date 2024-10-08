@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-08, 04:18:58](https://news.ycombinator.com/item?id=41773784) - [Ask HN: Have you built something that users have become addicted to or overused?](https://news.ycombinator.com/item?id=41773784)
 * [2024-10-08, 03:24:01](https://news.ycombinator.com/item?id=41773559) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-08, 02:16:22](https://news.ycombinator.com/item?id=41773212) - [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
 * [2024-10-08, 00:32:18](https://news.ycombinator.com/item?id=41772624) - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
@@ -17,7 +18,6 @@
 * [2024-10-07, 13:20:19](https://news.ycombinator.com/item?id=41765716) - [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 13:01:09](https://news.ycombinator.com/item?id=41765580) - [Fukushima Reactor: TEPCO robot aims to extract nuclear fuel](https://spectrum.ieee.org/fukushima-reactor)
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [An e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
-* [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-06, 18:04:58](https://news.ycombinator.com/item?id=41758857) - [The survival skills of Helena Valero](https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2023)](https://www.jonathancohenweb.com/america.html)
