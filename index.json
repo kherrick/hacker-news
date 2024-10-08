@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-08, 12:44:58",
+      "https://news.ycombinator.com/item?id=41776753"
+    ],
+    [
+      "Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids",
+      "https://hindenburgresearch.com/roblox/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 12:28:19",
+      "https://news.ycombinator.com/item?id=41776593"
+    ],
+    [
+      "Why U.S. Regulators See Minicars as the Enemy",
+      "https://jalopnik.com/this-is-why-u-s-regulators-see-minicars-as-the-enemy-1851665423"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 12:00:10",
       "https://news.ycombinator.com/item?id=41776379"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-10-08, 10:35:28",
-      "https://news.ycombinator.com/item?id=41775795"
+      "2024-10-08, 11:54:30",
+      "https://news.ycombinator.com/item?id=41776324"
     ],
     [
-      "US House panel probes FCC decision to deny Starlink nearly $900M",
-      "https://www.reuters.com/technology/us-house-panel-probes-fcc-decision-deny-starlink-nearly-900-million-2024-10-07/"
+      "Differential Transformer",
+      "https://arxiv.org/abs/2410.05258"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-10-07, 01:42:57",
-      "https://news.ycombinator.com/item?id=41761986"
-    ],
-    [
-      "Fast B-Trees",
-      "https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 18:04:57",
       "https://news.ycombinator.com/item?id=41758856"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2024-10-06, 12:15:31",
+      "https://news.ycombinator.com/item?id=41756592"
+    ],
+    [
+      "Throwing Exceptions from Coroutines",
+      "https://ibob.bg/blog/2024/10/06/coro-throw/"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 10:44:34",
       "https://news.ycombinator.com/item?id=41756219"
     ],
@@ -217,16 +237,6 @@
     [
       "The magic (image resampling) kernel",
       "https://johncostella.com/magic/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 10:21:13",
-      "https://news.ycombinator.com/item?id=41756134"
-    ],
-    [
-      "On programming and poetry",
-      "https://zverok.space/blog/2024-10-06-poetry.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic",
       "https://github.com/cepa/aegir-gps-tracker"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 11:49:56",
-      "https://news.ycombinator.com/item?id=41729765"
-    ],
-    [
-      "NASA Made the Hubble Telescope to Be Remade",
-      "https://spectrum.ieee.org/hubble-space-telescope-re-invention"
     ]
   ]
 ]
