@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-08, 07:00:18](https://news.ycombinator.com/item?id=41774471) - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
 * [2024-10-08, 06:59:53](https://news.ycombinator.com/item?id=41774467) - [Want Growth? Kill Small Businesses](https://asteriskmag.com/issues/07/want-growth-kill-small-businesses)
 * [2024-10-08, 06:08:26](https://news.ycombinator.com/item?id=41774252) - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
