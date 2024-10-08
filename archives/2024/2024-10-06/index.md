@@ -81,6 +81,7 @@
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
 * [2024-10-06, 08:11:43](https://news.ycombinator.com/item?id=41755616) - [Tiny Texture Tumbler – JavaScript procedural texture library and editor](https://github.com/phoboslab/ttt)
 * [2024-10-06, 07:57:22](https://news.ycombinator.com/item?id=41755559) - [Waverley, the last seagoing paddle steamer](https://diamondgeezer.blogspot.com/2024/10/waverley.html)
+* [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 06:23:16](https://news.ycombinator.com/item?id=41755183) - [HPy – A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 06:14:39](https://news.ycombinator.com/item?id=41755143) - [Replited: Replicate SQLite to anywhere (S3\\FTP\\webdav\\Google Drive\\Dropbox,etc.)](https://github.com/lichuang/replited)
 * [2024-10-06, 04:32:39](https://news.ycombinator.com/item?id=41754771) - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
