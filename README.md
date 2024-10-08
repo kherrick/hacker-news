@@ -28,8 +28,8 @@
 * [2024-10-06, 09:28:06](https://news.ycombinator.com/item?id=41755911) - [Sunflowers and Fibonacci: Models of Efficiency](https://thatsmaths.com/2014/06/05/sunflowers-and-fibonacci-models-of-efficiency/)
 * [2024-10-06, 08:56:08](https://news.ycombinator.com/item?id=41755805) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-10-06, 08:35:52](https://news.ycombinator.com/item?id=41755719) - [The Wobbly Table Theorem (2022)](https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/)
-* [2024-10-05, 13:22:51](https://news.ycombinator.com/item?id=41749651) - [Ask HN: Can you recommend a PCB designer?](https://news.ycombinator.com/item?id=41749651)
 * [2024-10-05, 10:34:39](https://news.ycombinator.com/item?id=41748912) - [Jazz – Apps with Distributed State](https://jazz.tools/)
+* [2024-10-05, 08:36:31](https://news.ycombinator.com/item?id=41748519) - [Show HN: I built a Iridium/LTE satellite GPS tracker and took it to the Arctic](https://github.com/cepa/aegir-gps-tracker)
 
 ## [Archives](archives/index.md)
 
