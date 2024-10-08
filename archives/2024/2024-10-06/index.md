@@ -68,6 +68,7 @@
 * [2024-10-06, 10:21:13](https://news.ycombinator.com/item?id=41756134) - [Programming and poetry (not Python's tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 10:00:28](https://news.ycombinator.com/item?id=41756046) - [SQLite: Defense Against the Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:54:06](https://news.ycombinator.com/item?id=41756023) - [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
+* [2024-10-06, 09:33:19](https://news.ycombinator.com/item?id=41755937) - [Stay in the Gap](https://everythingchanges.us/blog/stay-in-the-gap/)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk](https://backreference.org/index.html)
 * [2024-10-06, 09:29:41](https://news.ycombinator.com/item?id=41755920) - [Idiomatic Awk (2010)](https://backreference.org/2010/02/10/idiomatic-awk/)
 * [2024-10-06, 09:28:06](https://news.ycombinator.com/item?id=41755911) - [Sunflowers and Fibonacci: Models of Efficiency](https://thatsmaths.com/2014/06/05/sunflowers-and-fibonacci-models-of-efficiency/)
