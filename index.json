@@ -1,12 +1,22 @@
 [
   [
     [
+      "2024-10-09, 21:22:51",
+      "https://news.ycombinator.com/item?id=41792803"
+    ],
+    [
+      "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
+      "https://til.simonwillison.net/homebrew/no-verify-attestations"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 20:54:26",
       "https://news.ycombinator.com/item?id=41792500"
     ],
     [
       "Internet Archive: Security breach alert",
-      "https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/"
+      "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Press Conference: Professor Geoffrey Hinton, Nobel Prize in Physics 2024 [video]",
       "https://www.youtube.com/watch?v=H7DgMFqrON0"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 19:00:13",
-      "https://news.ycombinator.com/item?id=41791426"
-    ],
-    [
-      "The Open Source AI Definition RC1 Is Available for Comments",
-      "https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-10-09, 13:16:55",
-      "https://news.ycombinator.com/item?id=41787647"
-    ],
-    [
-      "Germans decry influence of English as 'idiot's apostrophe' gets approval",
-      "https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 09:54:38",
       "https://news.ycombinator.com/item?id=41786101"
     ],
@@ -257,6 +247,16 @@
     [
       "Gustav Klimt's Obsession with Gold",
       "https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 20:34:37",
+      "https://news.ycombinator.com/item?id=41760076"
+    ],
+    [
+      "A DIY photographer built his own full-frame camera and open-sourced the project",
+      "https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera"
     ]
   ],
   [
