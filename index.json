@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-09, 17:00:41",
+      "https://news.ycombinator.com/item?id=41790113"
+    ],
+    [
+      "Motion (YC W20) Is Hiring Our First Customer Success Manager",
+      "https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 16:53:02",
+      "https://news.ycombinator.com/item?id=41790026"
+    ],
+    [
+      "OpenAI pursues public benefit structure to fend off hostile takeovers",
+      "https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 16:29:10",
+      "https://news.ycombinator.com/item?id=41789751"
+    ],
+    [
+      "Wealth Distribution in the United States",
+      "https://www.righto.com/2024/10/wealth-distribution-in-united-states.html"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 15:51:58",
       "https://news.ycombinator.com/item?id=41789277"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-10-09, 03:56:18",
-      "https://news.ycombinator.com/item?id=41784387"
-    ],
-    [
-      "Miqt: MIT-licensed Qt bindings for Go",
-      "https://github.com/mappu/miqt"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 03:39:50",
       "https://news.ycombinator.com/item?id=41784287"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2024-10-08, 22:42:01",
-      "https://news.ycombinator.com/item?id=41782534"
-    ],
-    [
-      "On the Nature of Time",
-      "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 21:01:22",
       "https://news.ycombinator.com/item?id=41781777"
     ],
     [
       "Practices of Reliable Software Design",
       "https://entropicthoughts.com/practices-of-reliable-software-design"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 21:00:16",
-      "https://news.ycombinator.com/item?id=41781768"
-    ],
-    [
-      "Instant (YC S22) is hiring a founding engineer to help build a modern Firebase",
-      "https://news.ycombinator.com/item?id=41781768"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2024-10-08, 09:52:46",
-      "https://news.ycombinator.com/item?id=41775463"
-    ],
-    [
-      "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]",
-      "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 13:58:25",
       "https://news.ycombinator.com/item?id=41766087"
     ],
     [
-      "Multilayer microhydraulic actuators with speed and force configurations",
-      "https://www.nature.com/articles/s41378-021-00240-7#MOESM1"
+      "Multilayer microhydraulic actuators with speed and force configurations (2021)",
+      "https://www.nature.com/articles/s41378-021-00240-7"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "50 Years of Queries – Communications of the ACM",
       "https://cacm.acm.org/research/50-years-of-queries/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 09:18:59",
+      "https://news.ycombinator.com/item?id=41764163"
+    ],
+    [
+      "Zod: TypeScript-first schema validation with static type inference",
+      "https://zod.dev/"
     ]
   ],
   [
