@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
+* [2024-10-09, 03:10:16](https://news.ycombinator.com/item?id=41784138) - [DOJ's proposals risk hurting consumers, businesses, and developers](https://blog.google/outreach-initiatives/public-policy/doj-search-remedies-framework/)
 * [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 21:10:14](https://news.ycombinator.com/item?id=41781855) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
