@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-10-08, 17:52:14",
-      "https://news.ycombinator.com/item?id=41779952"
-    ],
-    [
-      "European govt air-gapped systems breached using custom malware",
-      "https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 17:19:18",
       "https://news.ycombinator.com/item?id=41779576"
     ],
@@ -217,6 +207,16 @@
     [
       "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]",
       "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 19:36:33",
+      "https://news.ycombinator.com/item?id=41770051"
+    ],
+    [
+      "Trap – Transformers in APL",
+      "https://github.com/BobMcDear/trap"
     ]
   ],
   [
