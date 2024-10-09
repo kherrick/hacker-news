@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
-* [2024-10-09, 15:17:09](https://news.ycombinator.com/item?id=41788805) - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
@@ -10,6 +9,7 @@
 * [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 * [2024-10-09, 03:56:18](https://news.ycombinator.com/item?id=41784387) - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+* [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-09, 02:58:39](https://news.ycombinator.com/item?id=41784069) - [What Is LibreDrive (2019)](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
