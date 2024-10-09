@@ -9,6 +9,7 @@
 * [2024-10-08, 22:40:02](https://news.ycombinator.com/item?id=41782516) - [Do you want to measure signal from the body, muscle, brain it is open-source](https://www.preprints.org/manuscript/202409.1703/v1)
 * [2024-10-08, 22:25:31](https://news.ycombinator.com/item?id=41782415) - [VA congressional candidate creates AI chatbot as debate stand-in for incumbent](https://www.reuters.com/world/us/virginia-congressional-candidate-creates-ai-chatbot-debate-stand-in-incumbent-2024-10-08/)
 * [2024-10-08, 22:13:45](https://news.ycombinator.com/item?id=41782332) - [BP abandons goal to cut oil output](https://www.reuters.com/business/energy/bp-drops-oil-output-target-strategy-reset-sources-say-2024-10-07/)
+* [2024-10-08, 22:11:09](https://news.ycombinator.com/item?id=41782315) - [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
 * [2024-10-08, 22:09:36](https://news.ycombinator.com/item?id=41782302) - [Goodbye Windows 7](https://lilysthings.org/blog/goodbye-windows-7/)
 * [2024-10-08, 21:47:19](https://news.ycombinator.com/item?id=41782118) - [X reinstated in Brazil after complying with court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
 * [2024-10-08, 21:21:53](https://news.ycombinator.com/item?id=41781943) - [\"Now What?\" by John Hopfield (2018) [pdf]](https://pni.princeton.edu/sites/g/files/toruqf321/files/documents/John%20Hopfield%20Now%20What%203_0.pdf)
