@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 17:42:20](https://news.ycombinator.com/item?id=41790594) - [Free Threaded Python with Asyncio](https://blog.changs.co.uk/free-threaded-python-with-asyncio.html)
+* [2024-10-09, 17:34:41](https://news.ycombinator.com/item?id=41790499) - [Liskov's Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)
 * [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 * [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
+* [2024-10-09, 16:18:42](https://news.ycombinator.com/item?id=41789633) - [Show HN: Donobu – Mac App for Web Automation and Testing](https://www.donobu.com/)
 * [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
@@ -24,12 +27,9 @@
 * [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations (2021)](https://www.nature.com/articles/s41378-021-00240-7)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
-* [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
-* [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
-* [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
 
 ## [Archives](archives/index.md)
 
