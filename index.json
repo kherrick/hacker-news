@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-09, 03:10:16",
-      "https://news.ycombinator.com/item?id=41784138"
+      "2024-10-09, 03:56:18",
+      "https://news.ycombinator.com/item?id=41784387"
     ],
     [
-      "DOJ's proposals risk hurting consumers, businesses, and developers",
-      "https://blog.google/outreach-initiatives/public-policy/doj-search-remedies-framework/"
+      "Miqt: MIT-licensed Qt bindings for Go",
+      "https://github.com/mappu/miqt"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 03:39:50",
+      "https://news.ycombinator.com/item?id=41784287"
+    ],
+    [
+      "US weighs Google break-up in landmark antitrust case",
+      "https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2024-10-07, 10:28:31",
-      "https://news.ycombinator.com/item?id=41764578"
+      "2024-10-07, 10:46:30",
+      "https://news.ycombinator.com/item?id=41764692"
     ],
     [
-      "Daemonization in Unix programs is probably about restarting programs",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts"
+      "Prioritize Through Purpose",
+      "https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ABC News hacks into popular robot vacuum, watches owner through camera",
       "https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 18:23:17",
-      "https://news.ycombinator.com/item?id=41733390"
-    ],
-    [
-      "The real data wall is billions of years of evolution",
-      "https://dynomight.substack.com/p/data-wall"
     ]
   ]
 ]
