@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 07:05:56](https://news.ycombinator.com/item?id=41785265) - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
 * [2024-10-09, 05:06:55](https://news.ycombinator.com/item?id=41784668) - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 * [2024-10-09, 03:56:18](https://news.ycombinator.com/item?id=41784387) - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
@@ -20,7 +21,6 @@
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)
 * [2024-10-08, 09:08:51](https://news.ycombinator.com/item?id=41775238) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
-* [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
 * [2024-10-07, 10:46:30](https://news.ycombinator.com/item?id=41764692) - [Prioritize Through Purpose](https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/)
 * [2024-10-07, 00:59:51](https://news.ycombinator.com/item?id=41761783) - [Why the First Pet Cemetery Was Revolutionary](https://www.smithsonianmag.com/arts-culture/why-the-worlds-first-pet-cemetery-was-revolutionary-180985127/)
 * [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
