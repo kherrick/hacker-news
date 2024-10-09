@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
 * [2024-10-09, 21:31:06](https://news.ycombinator.com/item?id=41792880) - [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
+* [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://archive.org/)
 * [2024-10-09, 20:18:48](https://news.ycombinator.com/item?id=41792179) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
