@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 14:54:15](https://news.ycombinator.com/item?id=41788557) - [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
+* [2024-10-09, 14:13:59](https://news.ycombinator.com/item?id=41788203) - [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
 * [2024-10-09, 13:33:50](https://news.ycombinator.com/item?id=41787804) - [Chris.lu: How I Used Next.js and MDX to create a modern, static-first Blog](https://chris.lu)
