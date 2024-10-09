@@ -7,7 +7,6 @@
 * [2024-10-09, 02:58:39](https://news.ycombinator.com/item?id=41784069) - [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
 * [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG (2022)](https://css-tricks.com/emoji-as-a-favicon/)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-* [2024-10-08, 21:10:14](https://news.ycombinator.com/item?id=41781855) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
 * [2024-10-08, 21:00:16](https://news.ycombinator.com/item?id=41781768) - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
 * [2024-10-08, 20:19:57](https://news.ycombinator.com/item?id=41781457) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
@@ -23,13 +22,14 @@
 * [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
 * [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations](https://www.nature.com/articles/s41378-021-00240-7#MOESM1)
+* [2024-10-07, 10:46:30](https://news.ycombinator.com/item?id=41764692) - [Prioritize Through Purpose](https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/)
+* [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
 * [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 13:53:40](https://news.ycombinator.com/item?id=41757198) - [One Genius' Lonely Crusade to Teach a Computer Common Sense](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/)
 * [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
 * [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
-* [2024-10-03, 22:43:05](https://news.ycombinator.com/item?id=41735871) - [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
 
 ## [Archives](archives/index.md)
 

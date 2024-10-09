@@ -70,6 +70,7 @@
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
 * [2024-10-07, 09:50:08](https://news.ycombinator.com/item?id=41764373) - [Alternatives to cosine similarity](https://tomhazledine.com/cosine-similarity-alternatives/)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
+* [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
 * [2024-10-07, 08:46:51](https://news.ycombinator.com/item?id=41763990) - [Unseen Thunderbirds film reels found in garden shed](https://www.bbc.co.uk/news/articles/c1e848ewnlno)
 * [2024-10-07, 07:33:12](https://news.ycombinator.com/item?id=41763624) - [Tiny C Compiler is relicensing to MIT](https://repo.or.cz/tinycc.git/blob/3d963aebcd533da278f086a3e559d24b961e8c31:/RELICENSING)
 * [2024-10-07, 07:04:35](https://news.ycombinator.com/item?id=41763471) - [Orban moving fast: Endorsement of ChatControl on the agenda for Wednesday](https://digitalcourage.social/@echo_pbreyer/113264848832310136)
