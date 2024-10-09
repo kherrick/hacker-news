@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 22:51:55](https://news.ycombinator.com/item?id=41793658) - [You Don't Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
 * [2024-10-09, 21:31:06](https://news.ycombinator.com/item?id=41792880) - [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 21:22:51](https://news.ycombinator.com/item?id=41792803) - [Upgrading Homebrew and avoiding the \"failed to verify attestation\" error](https://til.simonwillison.net/homebrew/no-verify-attestations)
 * [2024-10-09, 21:20:37](https://news.ycombinator.com/item?id=41792780) - [Cards Against Humanity Launches a Super Pac to Match Elon Musk's Super Pac](https://www.apologize.lol/)
