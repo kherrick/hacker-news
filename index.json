@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-09, 01:34:18",
-      "https://news.ycombinator.com/item?id=41783609"
+      "2024-10-09, 02:10:55",
+      "https://news.ycombinator.com/item?id=41783787"
     ],
     [
-      "Bitcoin creator is Peter Todd, HBO film says",
-      "https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/"
+      "The human internet is dying. AI images are taking over Google top results",
+      "https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 01:57:28",
+      "https://news.ycombinator.com/item?id=41783722"
+    ],
+    [
+      "A Vtuber Just Became Twitch's Most-Subscribed Streamer",
+      "https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "On the Nature of Time",
       "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 22:11:09",
+      "https://news.ycombinator.com/item?id=41782315"
+    ],
+    [
+      "If the Django Software Foundation had $1M",
+      "https://jacobian.org/2024/oct/8/dsf-one-million/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Who died and left the US $7B?",
       "https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 18:39:34",
-      "https://news.ycombinator.com/item?id=41780409"
-    ],
-    [
-      "Futexes in TLA+",
-      "https://surfingcomplexity.blog/2024/10/05/futexes-in-tla/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-10-07, 21:51:09",
-      "https://news.ycombinator.com/item?id=41771440"
-    ],
-    [
-      "A Language of Beautiful Impurity",
-      "https://www.edwest.co.uk/p/a-language-of-beautiful-impurity"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 19:36:33",
       "https://news.ycombinator.com/item?id=41770051"
     ],
@@ -237,6 +237,16 @@
     [
       "Daemonization in Unix programs is probably about restarting programs",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 00:59:51",
+      "https://news.ycombinator.com/item?id=41761783"
+    ],
+    [
+      "Why the First Pet Cemetery Was Revolutionary",
+      "https://www.smithsonianmag.com/arts-culture/why-the-worlds-first-pet-cemetery-was-revolutionary-180985127/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ABC News hacks into popular robot vacuum, watches owner through camera",
       "https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 18:23:17",
-      "https://news.ycombinator.com/item?id=41733390"
-    ],
-    [
-      "The real data wall is billions of years of evolution",
-      "https://dynomight.substack.com/p/data-wall"
     ]
   ]
 ]
