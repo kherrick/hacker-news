@@ -25,6 +25,7 @@
 * [2024-10-06, 18:04:58](https://news.ycombinator.com/item?id=41758857) - [The survival skills of Helena Valero](https://woodfromeden.substack.com/p/the-survival-skills-of-helena-valero)
 * [2024-10-06, 18:04:57](https://news.ycombinator.com/item?id=41758856) - [The Naming of America (2001)](https://www.jonathancohenweb.com/america.html)
 * [2024-10-06, 17:41:59](https://news.ycombinator.com/item?id=41758693) - [XFCE 4.20 Aims to Bring Preliminary Wayland Support](https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/)
+* [2024-10-06, 17:40:25](https://news.ycombinator.com/item?id=41758682) - [Circuit diagrams and firmware source code for Gboard DIY keyboards](https://github.com/google/mozc-devices)
 * [2024-10-06, 17:33:57](https://news.ycombinator.com/item?id=41758644) - [Popular Science Magazine Archives May 1872-March 2009](https://books.google.com/books/about/Popular_Science.html?id=qR8DAAAAMBAJ)
 * [2024-10-06, 17:20:49](https://news.ycombinator.com/item?id=41758572) - [Harvard students hack Meta glasses to compile dossiers on strangers in real time [video]](https://www.youtube.com/watch?v=zKVXNVnPCrQ)
 * [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
