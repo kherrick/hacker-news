@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 10:38:26](https://news.ycombinator.com/item?id=41786333) - [\"The Siege of Caffa\" – The earliest known use of Biological Warfare](https://en.wikipedia.org/wiki/Siege_of_Caffa)
 * [2024-10-09, 10:04:14](https://news.ycombinator.com/item?id=41786146) - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 09:34:56](https://news.ycombinator.com/item?id=41786012) - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
+* [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 * [2024-10-09, 07:05:56](https://news.ycombinator.com/item?id=41785265) - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
 * [2024-10-09, 05:16:48](https://news.ycombinator.com/item?id=41784713) - [Cassie LaBelle: \"eBay completely destroyed my life\"](https://twitter.com/cassieceleste/status/1843702724090835178)
 * [2024-10-09, 05:06:55](https://news.ycombinator.com/item?id=41784668) - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
