@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
@@ -21,7 +22,6 @@
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Show HN: Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)
-* [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
 * [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations](https://www.nature.com/articles/s41378-021-00240-7#MOESM1)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries – Communications of the ACM](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)

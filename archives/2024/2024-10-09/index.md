@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:17:09](https://news.ycombinator.com/item?id=41788805) - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
 * [2024-10-09, 14:54:15](https://news.ycombinator.com/item?id=41788557) - [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
