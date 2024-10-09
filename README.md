@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-09, 21:22:51](https://news.ycombinator.com/item?id=41792803) - [Upgrading Homebrew and avoiding the \"failed to verify attestation\" error](https://til.simonwillison.net/homebrew/no-verify-attestations)
+* [2024-10-09, 21:20:37](https://news.ycombinator.com/item?id=41792780) - [Cards Against Humanity Launches a Super Pac to Match Elon Musk's Super Pac](https://www.apologize.lol/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
 * [2024-10-09, 19:34:12](https://news.ycombinator.com/item?id=41791773) - [My negative views on Rust (2023)](https://chrisdone.com/posts/rust/)
@@ -15,7 +16,6 @@
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
-* [2024-10-09, 13:16:55](https://news.ycombinator.com/item?id=41787647) - [Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
