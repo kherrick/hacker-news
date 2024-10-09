@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) Is Hiring Our First Customer Success Manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
+* [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
+* [2024-10-09, 16:29:10](https://news.ycombinator.com/item?id=41789751) - [Wealth Distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)
 * [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:17:09](https://news.ycombinator.com/item?id=41788805) - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
