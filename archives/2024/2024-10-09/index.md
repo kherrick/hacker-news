@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
+* [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:42:20](https://news.ycombinator.com/item?id=41790594) - [Free Threaded Python with Asyncio](https://blog.changs.co.uk/free-threaded-python-with-asyncio.html)
 * [2024-10-09, 17:34:41](https://news.ycombinator.com/item?id=41790499) - [Liskov's Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)

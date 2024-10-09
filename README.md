@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-09, 17:42:20](https://news.ycombinator.com/item?id=41790594) - [Free Threaded Python with Asyncio](https://blog.changs.co.uk/free-threaded-python-with-asyncio.html)
+* [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
+* [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:34:41](https://news.ycombinator.com/item?id=41790499) - [Liskov's Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)
 * [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 * [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
 * [2024-10-09, 16:18:42](https://news.ycombinator.com/item?id=41789633) - [Show HN: Donobu – Mac App for Web Automation and Testing](https://www.donobu.com/)
-* [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
+* [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your brain changes based on what you did two weeks ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
@@ -17,8 +18,6 @@
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-09, 02:58:39](https://news.ycombinator.com/item?id=41784069) - [What Is LibreDrive (2019)](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
-* [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
-* [2024-10-08, 19:32:37](https://news.ycombinator.com/item?id=41780929) - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
 * [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
@@ -30,6 +29,7 @@
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
+* [2024-10-04, 16:05:06](https://news.ycombinator.com/item?id=41742779) - [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)
 
 ## [Archives](archives/index.md)
 

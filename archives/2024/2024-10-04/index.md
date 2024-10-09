@@ -42,6 +42,7 @@
 * [2024-10-04, 16:50:07](https://news.ycombinator.com/item?id=41743233) - [Vaccines, Past and Present](https://www.science.org/content/blog-post/vaccines-past-and-present)
 * [2024-10-04, 16:46:37](https://news.ycombinator.com/item?id=41743201) - [Mozilla becoming active in online advertising](https://blog.mozilla.org/en/mozilla/improving-online-advertising/)
 * [2024-10-04, 16:24:57](https://news.ycombinator.com/item?id=41742975) - [A Compiler Bug (2023)](https://rsaxvc.net/blog/2023/9/29/A_compiler_bug.html)
+* [2024-10-04, 16:05:06](https://news.ycombinator.com/item?id=41742779) - [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)
 * [2024-10-04, 15:28:51](https://news.ycombinator.com/item?id=41742432) - [12 Months of Mandarin](https://isaak.net/mandarin/)
 * [2024-10-04, 15:15:24](https://news.ycombinator.com/item?id=41742278) - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 * [2024-10-04, 15:08:42](https://news.ycombinator.com/item?id=41742210) - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
