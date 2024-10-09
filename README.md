@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791693) - [How Waffle House helps Southerners and FEMA judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
 * [2024-10-09, 19:13:33](https://news.ycombinator.com/item?id=41791570) - [Dell's sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
 * [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
 * [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
-* [2024-10-09, 17:34:41](https://news.ycombinator.com/item?id=41790499) - [Liskov's Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [Dookie Demastered](https://www.dookiedemastered.com/)
 * [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 * [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
@@ -23,11 +23,11 @@
 * [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
-* [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations (2021)](https://www.nature.com/articles/s41378-021-00240-7)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
+* [2024-10-06, 16:16:16](https://news.ycombinator.com/item?id=41758135) - [Palimpsest in Literature and Literary Theory](https://english-studies.net/palimpsest-in-literature-literary-theory/)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
 * [2024-10-04, 16:05:06](https://news.ycombinator.com/item?id=41742779) - [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791693) - [How Waffle House helps Southerners and FEMA judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
 * [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791692) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [2024-10-09, 19:13:33](https://news.ycombinator.com/item?id=41791570) - [Dell's sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
 * [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
