@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://archive.org/)
-* [2024-10-09, 20:18:48](https://news.ycombinator.com/item?id=41792179) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
 * [2024-10-09, 19:34:12](https://news.ycombinator.com/item?id=41791773) - [My negative views on Rust (2023)](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 19:27:31](https://news.ycombinator.com/item?id=41791708) - [Command Line Tools I Like (2022)](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
@@ -24,6 +23,7 @@
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
+* [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
