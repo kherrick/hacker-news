@@ -68,6 +68,7 @@
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
 * [2024-10-07, 10:28:31](https://news.ycombinator.com/item?id=41764578) - [Daemonization in Unix programs is probably about restarting programs](https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts)
 * [2024-10-07, 10:12:42](https://news.ycombinator.com/item?id=41764486) - [Homemade AI Drone Software Finds People When Search and Rescue Teams Can't](https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/)
+* [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries – Communications of the ACM](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:50:08](https://news.ycombinator.com/item?id=41764373) - [Alternatives to cosine similarity](https://tomhazledine.com/cosine-similarity-alternatives/)
 * [2024-10-07, 09:37:09](https://news.ycombinator.com/item?id=41764283) - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
 * [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
