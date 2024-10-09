@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-10-09, 11:39:13",
-      "https://news.ycombinator.com/item?id=41786761"
-    ],
-    [
-      "Google DeepMind scientists win Nobel chemistry prize",
-      "https://www.theguardian.com/science/2024/oct/09/google-deepmind-scientists-win-nobel-chemistry-prize"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 10:59:25",
-      "https://news.ycombinator.com/item?id=41786461"
-    ],
-    [
-      "Regardless of age, quitting cigarette smoking will add years to your life",
-      "https://newatlas.com/health-wellbeing/quitting-smoking-life-expectancy-all-ages/"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 09:54:38",
       "https://news.ycombinator.com/item?id=41786101"
     ],
@@ -31,32 +11,12 @@
   ],
   [
     [
-      "2024-10-09, 09:34:56",
-      "https://news.ycombinator.com/item?id=41786012"
-    ],
-    [
-      "A free and open internet shouldn't come at the expense of privacy",
-      "https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 07:52:24",
       "https://news.ycombinator.com/item?id=41785511"
     ],
     [
       "Show HN: I made an SSH tunnel manager to learn Go",
       "https://github.com/alebeck/boring"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 07:05:56",
-      "https://news.ycombinator.com/item?id=41785265"
-    ],
-    [
-      "Cognizant found guilty of discriminating against non-Indian employees",
-      "https://twitter.com/USTechWorkers/status/1843744799607898260"
     ]
   ],
   [
@@ -121,6 +81,16 @@
   ],
   [
     [
+      "2024-10-08, 20:19:57",
+      "https://news.ycombinator.com/item?id=41781457"
+    ],
+    [
+      "A modest critique of Htmx",
+      "https://chrisdone.com/posts/htmx-critique/"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 19:32:37",
       "https://news.ycombinator.com/item?id=41780929"
     ],
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-10-08, 12:39:56",
+      "https://news.ycombinator.com/item?id=41776706"
+    ],
+    [
+      "Building a robust data synchronization framework with Rails",
+      "https://pcreux.com/2024/10/07/rails-data-sync-service.html"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 11:54:30",
       "https://news.ycombinator.com/item?id=41776324"
     ],
@@ -217,6 +197,16 @@
     [
       "Multilayer microhydraulic actuators with speed and force configurations",
       "https://www.nature.com/articles/s41378-021-00240-7#MOESM1"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 10:46:30",
+      "https://news.ycombinator.com/item?id=41764692"
+    ],
+    [
+      "Prioritize Through Purpose",
+      "https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Teeth as time capsules: Soviet secrets and my dentist grandmother",
       "https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 18:23:17",
+      "https://news.ycombinator.com/item?id=41733390"
+    ],
+    [
+      "The real data wall is billions of years of evolution",
+      "https://dynomight.substack.com/p/data-wall"
     ]
   ]
 ]
