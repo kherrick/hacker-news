@@ -8,6 +8,7 @@
 * [2024-10-09, 05:06:55](https://news.ycombinator.com/item?id=41784668) - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 * [2024-10-09, 03:56:18](https://news.ycombinator.com/item?id=41784387) - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+* [2024-10-09, 03:46:51](https://news.ycombinator.com/item?id=41784332) - [Seeed Studio XIAO RP2040 with NuttX(RTOS)](https://wiki.seeedstudio.com/xiao-rp2040-with-nuttx/)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-09, 03:10:16](https://news.ycombinator.com/item?id=41784138) - [DOJ's proposals risk hurting consumers, businesses, and developers](https://blog.google/outreach-initiatives/public-policy/doj-search-remedies-framework/)
 * [2024-10-09, 02:24:00](https://news.ycombinator.com/item?id=41783867) - [Exposed: How Israeli Spies Control Your VPN](https://www.mintpressnews.com/exposed-how-israeli-spies-control-your-vpn/288259/)
