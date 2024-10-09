@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
+* [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
+* [2024-10-09, 13:33:50](https://news.ycombinator.com/item?id=41787804) - [Chris.lu: How I Used Next.js and MDX to create a modern, static-first Blog](https://chris.lu)
 * [2024-10-09, 13:16:55](https://news.ycombinator.com/item?id=41787647) - [Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 * [2024-10-09, 11:46:59](https://news.ycombinator.com/item?id=41786818) - [The lengthy story of how I left the Tech industry and started washing miso jars](https://write.as/conjure-utopia/the-verbose-story-of-how-i-left-the-tech-industry-and-started-washing-miso-jars)
 * [2024-10-09, 11:39:13](https://news.ycombinator.com/item?id=41786761) - [Google DeepMind scientists win Nobel chemistry prize](https://www.theguardian.com/science/2024/oct/09/google-deepmind-scientists-win-nobel-chemistry-prize)
