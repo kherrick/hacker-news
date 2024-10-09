@@ -2,6 +2,7 @@
 
 * [2024-10-09, 14:54:15](https://news.ycombinator.com/item?id=41788557) - [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
 * [2024-10-09, 14:46:01](https://news.ycombinator.com/item?id=41788461) - [Source-Available Is Meaningless](https://keygen.sh/blog/source-available-is-meaningless/)
+* [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 14:13:59](https://news.ycombinator.com/item?id=41788203) - [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
@@ -21,7 +22,6 @@
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Show HN: Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
-* [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
 * [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations](https://www.nature.com/articles/s41378-021-00240-7#MOESM1)
 * [2024-10-07, 09:05:36](https://news.ycombinator.com/item?id=41764095) - [How a Gas Compressor Station Works](https://kimray.com/training/how-gas-compressor-station-works)
 * [2024-10-07, 06:04:14](https://news.ycombinator.com/item?id=41763190) - [You can create your own holiday](https://near.blog/unusual-holidays/)
