@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-09, 13:16:55](https://news.ycombinator.com/item?id=41787647) - [Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
@@ -16,6 +15,7 @@
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My first game with Carimbo, my homemade engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Show HN: Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+* [2024-10-08, 12:39:56](https://news.ycombinator.com/item?id=41776706) - [Building a robust data synchronization framework with Rails](https://pcreux.com/2024/10/07/rails-data-sync-service.html)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)
 * [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
