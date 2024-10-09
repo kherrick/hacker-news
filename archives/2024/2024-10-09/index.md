@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 10:04:14](https://news.ycombinator.com/item?id=41786146) - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 09:34:56](https://news.ycombinator.com/item?id=41786012) - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
 * [2024-10-09, 07:05:56](https://news.ycombinator.com/item?id=41785265) - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
