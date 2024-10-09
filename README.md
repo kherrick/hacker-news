@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 02:24:00](https://news.ycombinator.com/item?id=41783867) - [Exposed: How Israeli Spies Control Your VPN](https://www.mintpressnews.com/exposed-how-israeli-spies-control-your-vpn/288259/)
 * [2024-10-09, 02:10:55](https://news.ycombinator.com/item?id=41783787) - [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/)
-* [2024-10-09, 01:57:28](https://news.ycombinator.com/item?id=41783722) - [A Vtuber Just Became Twitch's Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
-* [2024-10-09, 01:14:05](https://news.ycombinator.com/item?id=41783503) - [HBO Documentary Suggests Bitcoin Creator Satoshi Nakamoto Is Peter Todd](https://www.bloomberg.com/news/articles/2024-10-09/hbo-documentary-suggests-bitcoin-creator-satoshi-nakamoto-is-peter-todd)
+* [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 22:11:09](https://news.ycombinator.com/item?id=41782315) - [If the Django Software Foundation had $1M](https://jacobian.org/2024/oct/8/dsf-one-million/)
 * [2024-10-08, 21:10:14](https://news.ycombinator.com/item?id=41781855) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
@@ -21,7 +21,6 @@
 * [2024-10-08, 09:52:46](https://news.ycombinator.com/item?id=41775463) - [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf)
 * [2024-10-08, 09:08:51](https://news.ycombinator.com/item?id=41775238) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 08:11:32](https://news.ycombinator.com/item?id=41774871) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
-* [2024-10-08, 06:59:53](https://news.ycombinator.com/item?id=41774467) - [The missing middle: firms in developing countries](https://asteriskmag.com/issues/07/want-growth-kill-small-businesses)
 * [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
 * [2024-10-07, 10:28:31](https://news.ycombinator.com/item?id=41764578) - [Daemonization in Unix programs is probably about restarting programs](https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts)
 * [2024-10-07, 00:59:51](https://news.ycombinator.com/item?id=41761783) - [Why the First Pet Cemetery Was Revolutionary](https://www.smithsonianmag.com/arts-culture/why-the-worlds-first-pet-cemetery-was-revolutionary-180985127/)
@@ -29,6 +28,7 @@
 * [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
 * [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
+* [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
 * [2024-10-03, 22:43:05](https://news.ycombinator.com/item?id=41735871) - [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
 
 ## [Archives](archives/index.md)

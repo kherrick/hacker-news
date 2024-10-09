@@ -13,6 +13,7 @@
 * [2024-10-04, 22:42:07](https://news.ycombinator.com/item?id=41746180) - [Don't Squander Public Trust on Bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)
 * [2024-10-04, 22:05:20](https://news.ycombinator.com/item?id=41745959) - [Rust in Linux Is a Failed Experiment](https://techrights.org/n/2024/09/28/Linus_Torvalds_His_Employers_and_Critics_of_His_Employers_Can_A.shtml)
 * [2024-10-04, 21:38:18](https://news.ycombinator.com/item?id=41745810) - [The Wild Story of How I Made $1,036,175 in 67 Days During Covid](https://www.marshallhaas.com/post/the-wild-story-of-how-i-made-1-036-175-in-67-days-during-covid)
+* [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
 * [2024-10-04, 21:34:07](https://news.ycombinator.com/item?id=41745788) - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
 * [2024-10-04, 21:27:27](https://news.ycombinator.com/item?id=41745750) - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
 * [2024-10-04, 21:12:46](https://news.ycombinator.com/item?id=41745636) - [If You Meet ET in Space, Kill Him](https://nautil.us/if-you-meet-et-in-space-kill-him-917243/)
