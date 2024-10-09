@@ -40,6 +40,7 @@
 * [2024-10-05, 14:47:13](https://news.ycombinator.com/item?id=41750253) - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
 * [2024-10-05, 13:38:36](https://news.ycombinator.com/item?id=41749742) - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 * [2024-10-05, 13:33:22](https://news.ycombinator.com/item?id=41749709) - [The brain has its own microbiome](https://www.newscientist.com/article/mg26335104-500-the-brain-has-its-own-microbiome-heres-what-it-means-for-your-health/)
+* [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
 * [2024-10-05, 13:23:57](https://news.ycombinator.com/item?id=41749655) - [Popular gut probiotic craps out in randomized controlled trial](https://arstechnica.com/health/2024/10/popular-gut-probiotic-completely-craps-out-in-randomized-controlled-trial/)
 * [2024-10-05, 13:22:51](https://news.ycombinator.com/item?id=41749651) - [Ask HN: Can you recommend a PCB designer?](https://news.ycombinator.com/item?id=41749651)
 * [2024-10-05, 13:22:43](https://news.ycombinator.com/item?id=41749649) - [Adobe Cuts Perpetual License for Elements Down to Just Three Years](https://petapixel.com/2024/10/01/adobe-cuts-perpetual-license-for-elements-down-to-just-three-years/)
