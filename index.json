@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-09, 17:42:20",
-      "https://news.ycombinator.com/item?id=41790594"
+      "2024-10-09, 19:00:13",
+      "https://news.ycombinator.com/item?id=41791426"
     ],
     [
-      "Free Threaded Python with Asyncio",
-      "https://blog.changs.co.uk/free-threaded-python-with-asyncio.html"
+      "The Open Source AI Definition RC1 Is Available for Comments",
+      "https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 17:44:31",
+      "https://news.ycombinator.com/item?id=41790619"
+    ],
+    [
+      "Dito – an advanced Layer 7 reverse proxy server written in Go",
+      "https://github.com/andrearaponi/dito"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41789277"
     ],
     [
-      "Your Brain Changes Based on What You Did Two Weeks Ago",
+      "Your brain changes based on what you did two weeks ago",
       "https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107"
     ]
   ],
@@ -167,26 +177,6 @@
     [
       "What Is LibreDrive (2019)",
       "https://forum.makemkv.com/forum/viewtopic.php?t=18856"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 21:01:22",
-      "https://news.ycombinator.com/item?id=41781777"
-    ],
-    [
-      "Practices of Reliable Software Design",
-      "https://entropicthoughts.com/practices-of-reliable-software-design"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 19:32:37",
-      "https://news.ycombinator.com/item?id=41780929"
-    ],
-    [
-      "Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture",
-      "https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Otter Wiki: A minimalistic wiki powered by Python, Markdown and git",
       "https://otterwiki.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 16:05:06",
+      "https://news.ycombinator.com/item?id=41742779"
+    ],
+    [
+      "Working Set Size Estimation (2018)",
+      "https://www.brendangregg.com/wss.html"
     ]
   ]
 ]
