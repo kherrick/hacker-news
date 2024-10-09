@@ -6,6 +6,7 @@
 
 * [2024-10-09, 21:31:06](https://news.ycombinator.com/item?id=41792880) - [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 21:22:51](https://news.ycombinator.com/item?id=41792803) - [Upgrading Homebrew and avoiding the \"failed to verify attestation\" error](https://til.simonwillison.net/homebrew/no-verify-attestations)
+* [2024-10-09, 21:20:37](https://news.ycombinator.com/item?id=41792780) - [Cards Against Humanity Launches a Super Pac to Match Elon Musk's Super Pac](https://www.apologize.lol/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://archive.org/)
