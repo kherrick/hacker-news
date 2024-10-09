@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 21:31:06](https://news.ycombinator.com/item?id=41792880) - [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://archive.org/)
 * [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
 * [2024-10-09, 19:34:12](https://news.ycombinator.com/item?id=41791773) - [My negative views on Rust (2023)](https://chrisdone.com/posts/rust/)
@@ -15,7 +16,6 @@
 * [2024-10-09, 16:18:42](https://news.ycombinator.com/item?id=41789633) - [Show HN: Donobu – Mac App for Web Automation and Testing](https://www.donobu.com/)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
-* [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
