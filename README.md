@@ -2,7 +2,7 @@
 
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
-* [2024-10-09, 13:33:50](https://news.ycombinator.com/item?id=41787804) - [Chris.lu: How I Used Next.js and MDX to create a modern, static-first Blog](https://chris.lu)
+* [2024-10-09, 12:42:24](https://news.ycombinator.com/item?id=41787290) - [Google threatened with being broken up by US](https://www.bbc.com/news/articles/c62504lv00do)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 07:52:24](https://news.ycombinator.com/item?id=41785511) - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
