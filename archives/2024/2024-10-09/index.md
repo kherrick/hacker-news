@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 13:16:55](https://news.ycombinator.com/item?id=41787647) - [Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
+* [2024-10-09, 11:46:59](https://news.ycombinator.com/item?id=41786818) - [The lengthy story of how I left the Tech industry and started washing miso jars](https://write.as/conjure-utopia/the-verbose-story-of-how-i-left-the-tech-industry-and-started-washing-miso-jars)
 * [2024-10-09, 11:39:13](https://news.ycombinator.com/item?id=41786761) - [Google DeepMind scientists win Nobel chemistry prize](https://www.theguardian.com/science/2024/oct/09/google-deepmind-scientists-win-nobel-chemistry-prize)
 * [2024-10-09, 11:17:48](https://news.ycombinator.com/item?id=41786601) - [3Blue1Brown: Animated Math](https://www.3blue1brown.com/)
 * [2024-10-09, 10:59:25](https://news.ycombinator.com/item?id=41786461) - [Regardless of age, quitting cigarette smoking will add years to your life](https://newatlas.com/health-wellbeing/quitting-smoking-life-expectancy-all-ages/)

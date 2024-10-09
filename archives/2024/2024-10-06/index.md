@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 22:52:52](https://news.ycombinator.com/item?id=41761045) - [As Milton barrels toward Florida, FEMA's capacity could be tested](https://www.washingtonpost.com/weather/2024/10/06/fema-hurricane-florida-milton-helene/)
 * [2024-10-06, 22:48:06](https://news.ycombinator.com/item?id=41761007) - [AI won't replace human devs anytime soon](https://twitter.com/skeptrune/status/1843060221494895058)
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and much more](https://sq.io)
