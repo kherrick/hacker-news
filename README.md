@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 11:17:48](https://news.ycombinator.com/item?id=41786601) - [3Blue1Brown: Animated Math](https://www.3blue1brown.com/)
 * [2024-10-09, 10:04:14](https://news.ycombinator.com/item?id=41786146) - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 09:34:56](https://news.ycombinator.com/item?id=41786012) - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
@@ -26,7 +27,6 @@
 * [2024-10-06, 17:40:25](https://news.ycombinator.com/item?id=41758682) - [Circuit diagrams and firmware source code for Gboard DIY keyboards](https://github.com/google/mozc-devices)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 13:53:40](https://news.ycombinator.com/item?id=41757198) - [One Genius' Lonely Crusade to Teach a Computer Common Sense](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/)
-* [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 01:24:20](https://news.ycombinator.com/item?id=41754057) - [Simulated circuit level breakdown of 1972 Atair Pong](https://www.falstad.com/pong/)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
 * [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)

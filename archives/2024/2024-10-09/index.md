@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 11:17:48](https://news.ycombinator.com/item?id=41786601) - [3Blue1Brown: Animated Math](https://www.3blue1brown.com/)
 * [2024-10-09, 10:38:26](https://news.ycombinator.com/item?id=41786333) - [\"The Siege of Caffa\" – The earliest known use of Biological Warfare](https://en.wikipedia.org/wiki/Siege_of_Caffa)
 * [2024-10-09, 10:04:14](https://news.ycombinator.com/item?id=41786146) - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
