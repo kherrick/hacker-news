@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
 * [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791692) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
+* [2024-10-09, 19:13:33](https://news.ycombinator.com/item?id=41791570) - [Dell's sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
 * [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
 * [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:42:20](https://news.ycombinator.com/item?id=41790594) - [Free Threaded Python with Asyncio](https://blog.changs.co.uk/free-threaded-python-with-asyncio.html)
