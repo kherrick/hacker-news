@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-09, 05:16:48](https://news.ycombinator.com/item?id=41784713) - [Cassie LaBelle: \"eBay completely destroyed my life\"](https://twitter.com/cassieceleste/status/1843702724090835178)
+* [2024-10-09, 05:06:55](https://news.ycombinator.com/item?id=41784668) - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
 * [2024-10-09, 03:56:18](https://news.ycombinator.com/item?id=41784387) - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
-* [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
+* [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG (2022)](https://css-tricks.com/emoji-as-a-favicon/)
 * [2024-10-08, 22:42:01](https://news.ycombinator.com/item?id=41782534) - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
 * [2024-10-08, 21:10:14](https://news.ycombinator.com/item?id=41781855) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 * [2024-10-08, 21:01:22](https://news.ycombinator.com/item?id=41781777) - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
@@ -24,10 +26,8 @@
 * [2024-10-07, 10:46:30](https://news.ycombinator.com/item?id=41764692) - [Prioritize Through Purpose](https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/)
 * [2024-10-07, 00:59:51](https://news.ycombinator.com/item?id=41761783) - [Why the First Pet Cemetery Was Revolutionary](https://www.smithsonianmag.com/arts-culture/why-the-worlds-first-pet-cemetery-was-revolutionary-180985127/)
 * [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
-* [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
 * [2024-10-06, 06:50:19](https://news.ycombinator.com/item?id=41755303) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
-* [2024-10-05, 09:12:06](https://news.ycombinator.com/item?id=41748632) - [(Re)Using rustc components in gccrs](https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html)
 * [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
 * [2024-10-03, 22:43:05](https://news.ycombinator.com/item?id=41735871) - [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
 
