@@ -63,6 +63,7 @@
 * [2024-10-07, 12:37:38](https://news.ycombinator.com/item?id=41765395) - [Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end](https://serverlessai.dev/)
 * [2024-10-07, 12:30:07](https://news.ycombinator.com/item?id=41765334) - [Photos of an e-waste dumping ground](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers)
 * [2024-10-07, 12:00:14](https://news.ycombinator.com/item?id=41765138) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 11:54:35](https://news.ycombinator.com/item?id=41765098) - [Could we build a computer designed to last at least fifty years?](https://ploum.net/the-computer-built-to-last-50-years/index.html)
 * [2024-10-07, 10:46:30](https://news.ycombinator.com/item?id=41764692) - [Prioritize Through Purpose](https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
