@@ -14,6 +14,7 @@
 * [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
 * [2024-10-06, 21:21:47](https://news.ycombinator.com/item?id=41760421) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-10-06, 21:01:09](https://news.ycombinator.com/item?id=41760276) - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
+* [2024-10-06, 20:34:37](https://news.ycombinator.com/item?id=41760076) - [A DIY photographer built his own full-frame camera and open-sourced the project](https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [2024-10-06, 20:24:51](https://news.ycombinator.com/item?id=41760006) - [New research suggests that our universe has no dark matter](https://phys.org/news/2024-03-universe-dark.html)
 * [2024-10-06, 19:54:51](https://news.ycombinator.com/item?id=41759769) - [Shedding light on alcohol's long shadow](https://news.harvard.edu/gazette/story/2024/10/shedding-light-on-alcohols-long-shadow/)
 * [2024-10-06, 19:08:11](https://news.ycombinator.com/item?id=41759360) - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
