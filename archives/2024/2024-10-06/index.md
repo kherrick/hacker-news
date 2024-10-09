@@ -29,6 +29,7 @@
 * [2024-10-06, 17:20:49](https://news.ycombinator.com/item?id=41758572) - [Harvard students hack Meta glasses to compile dossiers on strangers in real time [video]](https://www.youtube.com/watch?v=zKVXNVnPCrQ)
 * [2024-10-06, 17:08:10](https://news.ycombinator.com/item?id=41758516) - [To Be Born in a Bag](https://press.asimov.com/articles/artificial-wombs)
 * [2024-10-06, 17:00:19](https://news.ycombinator.com/item?id=41758470) - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 16:12:02](https://news.ycombinator.com/item?id=41758101) - [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
