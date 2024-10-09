@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 09:34:56](https://news.ycombinator.com/item?id=41786012) - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
 * [2024-10-09, 07:05:56](https://news.ycombinator.com/item?id=41785265) - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
 * [2024-10-09, 05:16:48](https://news.ycombinator.com/item?id=41784713) - [Cassie LaBelle: \"eBay completely destroyed my life\"](https://twitter.com/cassieceleste/status/1843702724090835178)
 * [2024-10-09, 05:06:55](https://news.ycombinator.com/item?id=41784668) - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
