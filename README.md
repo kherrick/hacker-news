@@ -5,7 +5,6 @@
 * [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
 * [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
-* [2024-10-09, 14:27:00](https://news.ycombinator.com/item?id=41788290) - [Show HN: Create AI Dialogue Podcasts](https://newspodcastdone.com)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
@@ -30,6 +29,7 @@
 * [2024-10-06, 21:31:36](https://news.ycombinator.com/item?id=41760503) - [Shrinking augmented reality displays into eyeglasses to expand their use](https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-05, 13:28:29](https://news.ycombinator.com/item?id=41749680) - [Otter Wiki: A minimalistic wiki powered by Python, Markdown and git](https://otterwiki.com/)
+* [2024-10-04, 21:36:12](https://news.ycombinator.com/item?id=41745798) - [Teeth as time capsules: Soviet secrets and my dentist grandmother](https://www.theguardian.com/science/2024/oct/03/teeth-as-time-capsules-soviet-secrets-and-my-dentist-grandmother)
 
 ## [Archives](archives/index.md)
 
