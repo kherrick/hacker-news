@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [DookieDemastered: The punk album re-exploded onto obscure/obsolete formats](https://www.dookiedemastered.com/)
 * [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) Is Hiring Our First Customer Success Manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 * [2024-10-09, 16:53:02](https://news.ycombinator.com/item?id=41790026) - [OpenAI pursues public benefit structure to fend off hostile takeovers](https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363)
 * [2024-10-09, 16:29:10](https://news.ycombinator.com/item?id=41789751) - [Wealth Distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)
@@ -12,6 +13,7 @@
 * [2024-10-09, 15:17:09](https://news.ycombinator.com/item?id=41788805) - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
 * [2024-10-09, 14:54:15](https://news.ycombinator.com/item?id=41788557) - [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
 * [2024-10-09, 14:46:01](https://news.ycombinator.com/item?id=41788461) - [Source-Available Is Meaningless](https://keygen.sh/blog/source-available-is-meaningless/)
+* [2024-10-09, 14:27:00](https://news.ycombinator.com/item?id=41788290) - [Show HN: Create AI Dialogue Podcasts](https://newspodcastdone.com)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 14:13:59](https://news.ycombinator.com/item?id=41788203) - [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
