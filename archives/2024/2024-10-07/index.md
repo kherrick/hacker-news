@@ -48,6 +48,7 @@
 * [2024-10-07, 14:22:45](https://news.ycombinator.com/item?id=41766293) - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 * [2024-10-07, 14:13:46](https://news.ycombinator.com/item?id=41766216) - [An RKRM-style reference of AmigaDOS/dos.library](https://github.com/thorfdbg/rkrm-dos)
 * [2024-10-07, 14:05:05](https://news.ycombinator.com/item?id=41766144) - [Longwriter – Increase llama3.1 output to 10k words](https://github.com/THUDM/LongWriter)
+* [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations](https://www.nature.com/articles/s41378-021-00240-7#MOESM1)
 * [2024-10-07, 13:53:47](https://news.ycombinator.com/item?id=41766035) - [Python 3.13.0 Is Released](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 13:42:59](https://news.ycombinator.com/item?id=41765939) - [Show HN: A Website for Comparing Protein Powder Prices](https://nutritionprices.com/)
 * [2024-10-07, 13:39:23](https://news.ycombinator.com/item?id=41765904) - [Abacus Machines [pdf]](https://carstenfuehrmann.org/lectures/computability-10.pdf)

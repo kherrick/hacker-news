@@ -1,0 +1,3 @@
+# [Published on 2024-10-07](index.md)
+
+* [2024-10-07, 13:58:25](https://news.ycombinator.com/item?id=41766087) - [Multilayer microhydraulic actuators with speed and force configurations](https://www.nature.com/articles/s41378-021-00240-7#MOESM1)
