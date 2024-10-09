@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 20:18:48](https://news.ycombinator.com/item?id=41792179) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
+* [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
+* [2024-10-09, 19:34:12](https://news.ycombinator.com/item?id=41791773) - [My negative views on Rust (2021) (2023)](https://chrisdone.com/posts/rust/)
+* [2024-10-09, 19:27:31](https://news.ycombinator.com/item?id=41791708) - [Command Line Tools I Like (2022)](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
 * [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791693) - [How Waffle House helps Southerners and FEMA judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
 * [2024-10-09, 19:26:06](https://news.ycombinator.com/item?id=41791692) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [2024-10-09, 19:13:33](https://news.ycombinator.com/item?id=41791570) - [Dell's sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
