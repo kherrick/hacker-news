@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 23:43:39](https://news.ycombinator.com/item?id=41794019) - [Software spotlight: Cassette software for the IBM PC](https://forum.winworldpc.com/discussion/11503/software-spotlight-cassette-software-for-the-ibm-pc)
 * [2024-10-09, 22:51:55](https://news.ycombinator.com/item?id=41793658) - [You Don't Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 21:31:06](https://news.ycombinator.com/item?id=41792880) - [Internet Archive Hacked (Probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
