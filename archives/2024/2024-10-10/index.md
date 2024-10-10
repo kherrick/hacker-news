@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+* [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
+* [2024-10-10, 05:07:46](https://news.ycombinator.com/item?id=41795712) - [Ask HN: Tech Stack Behind the Claude App?](https://news.ycombinator.com/item?id=41795712)
 * [2024-10-10, 04:38:58](https://news.ycombinator.com/item?id=41795561) - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
 * [2024-10-10, 03:29:17](https://news.ycombinator.com/item?id=41795218) - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 * [2024-10-10, 03:25:06](https://news.ycombinator.com/item?id=41795187) - [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
