@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-10, 20:04:27",
+      "https://news.ycombinator.com/item?id=41802939"
+    ],
+    [
+      "Geothermal Power in the North Bay – Jon Udell",
+      "https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 19:52:47",
       "https://news.ycombinator.com/item?id=41802823"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2024-10-10, 17:56:11",
+      "https://news.ycombinator.com/item?id=41801415"
+    ],
+    [
+      "TypedDicts are better than you think",
+      "https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 17:47:42",
       "https://news.ycombinator.com/item?id=41801334"
     ],
@@ -57,16 +77,6 @@
     [
       "DeskPad – A virtual monitor for screen sharing",
       "https://github.com/Stengo/DeskPad"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 15:44:02",
-      "https://news.ycombinator.com/item?id=41800045"
-    ],
-    [
-      "Akihito and the Sorrows of Japan (2020)",
-      "https://www.lrb.co.uk/the-paper/v42/n06/richard-lloyd-parry/akihito-and-the-sorrows-of-japan"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Why Gov.uk's Exit this Page component doesn't use the Escape key",
       "https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 13:16:20",
-      "https://news.ycombinator.com/item?id=41787644"
-    ],
-    [
-      "AI-Powered Electronic Component Sorter",
-      "https://github.com/Vanguard-s/Electronic-Component-Sorter"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-10-07, 04:07:28",
-      "https://news.ycombinator.com/item?id=41762709"
-    ],
-    [
-      "The Warlord of Saturn's Moons",
-      "https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html"
-    ]
-  ],
-  [
-    [
       "2024-10-06, 19:08:48",
       "https://news.ycombinator.com/item?id=41759366"
     ],
@@ -297,6 +287,16 @@
     [
       "Local Variables as Accidental Breadcrumbs for Faster Debugging",
       "https://www.bugsink.com/blog/local-variables-as-accidental-breadcrumbs/"
+    ]
+  ],
+  [
+    [
+      "2024-10-05, 22:46:30",
+      "https://news.ycombinator.com/item?id=41753471"
+    ],
+    [
+      "The deconstructed Standard Model equation",
+      "https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und"
     ]
   ]
 ]
