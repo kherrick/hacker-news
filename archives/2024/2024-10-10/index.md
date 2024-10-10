@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 19:14:44](https://news.ycombinator.com/item?id=41802378) - [Five days a week in the office? Forget it](https://www.computerworld.com/article/3552604/five-days-a-week-in-the-office-forget-it.html)
 * [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 18:31:15](https://news.ycombinator.com/item?id=41801795) - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
