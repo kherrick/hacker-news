@@ -24,6 +24,7 @@
 * [2024-10-10, 02:05:34](https://news.ycombinator.com/item?id=41794807) - [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
 * [2024-10-10, 01:53:02](https://news.ycombinator.com/item?id=41794735) - [Wafer Scale and Trilogy Systems: Part 1](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part)
 * [2024-10-10, 01:18:57](https://news.ycombinator.com/item?id=41794605) - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
+* [2024-10-10, 01:14:40](https://news.ycombinator.com/item?id=41794577) - [Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-10, 01:02:17](https://news.ycombinator.com/item?id=41794517) - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
 * [2024-10-10, 00:34:19](https://news.ycombinator.com/item?id=41794342) - [Bluesky struggles to moderate child abuse material in Portuguese](https://nucleo.jor.br/english/2024-09-24-bluesky-struggles-to-moderate-csam/)
