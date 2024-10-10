@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-* [2024-10-10, 14:10:10](https://news.ycombinator.com/item?id=41799016) - [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
-* [2024-10-10, 13:31:31](https://news.ycombinator.com/item?id=41798615) - [Thunderbird Android client is K-9 Mail reborn, and it's in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
+* [2024-10-10, 14:26:31](https://news.ycombinator.com/item?id=41799170) - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
@@ -25,6 +24,7 @@
 * [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 11:39:03](https://news.ycombinator.com/item?id=41765006) - [California Bans Sell-By Dates](https://www.foodandwine.com/california-bans-sell-by-dates-8723111)
+* [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 * [2024-10-07, 04:07:28](https://news.ycombinator.com/item?id=41762709) - [The Warlord of Saturn's Moons](https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html)
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
