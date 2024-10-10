@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-10, 11:23:34](https://news.ycombinator.com/item?id=41797724) - [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)
+* [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-10, 09:11:26](https://news.ycombinator.com/item?id=41797041) - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
 * [2024-10-10, 09:06:32](https://news.ycombinator.com/item?id=41797009) - [Scrum's \"Product Owner\" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
@@ -10,7 +10,6 @@
 * [2024-10-10, 01:53:02](https://news.ycombinator.com/item?id=41794735) - [Wafer Scale and Trilogy Systems: Part 1](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part)
 * [2024-10-10, 01:14:40](https://news.ycombinator.com/item?id=41794577) - [Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
-* [2024-10-09, 23:43:39](https://news.ycombinator.com/item?id=41794019) - [Software spotlight: Cassette software for the IBM PC](https://forum.winworldpc.com/discussion/11503/software-spotlight-cassette-software-for-the-ibm-pc)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
@@ -22,6 +21,7 @@
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
+* [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)

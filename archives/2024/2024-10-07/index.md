@@ -23,6 +23,7 @@
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
 * [2024-10-07, 18:56:52](https://news.ycombinator.com/item?id=41769618) - [Microsoft didn't sandbox Windows Defender, so I did (2017)](https://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/)
 * [2024-10-07, 18:34:17](https://news.ycombinator.com/item?id=41769346) - [EuroBSDcon 2024 some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
+* [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 18:07:03](https://news.ycombinator.com/item?id=41769013) - [Teen achieves first NES Tetris \"rebirth,\" proves endless play is possible](https://arstechnica.com/gaming/2024/10/nes-tetris-first-ever-rebirth-loops-past-level-255-and-back-to-zero/)
 * [2024-10-07, 17:46:16](https://news.ycombinator.com/item?id=41768752) - [Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin](https://bitcoindevs.xyz/decoding)
 * [2024-10-07, 17:40:22](https://news.ycombinator.com/item?id=41768658) - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
