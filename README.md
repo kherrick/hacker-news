@@ -19,7 +19,7 @@
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
-* [2024-10-09, 02:58:39](https://news.ycombinator.com/item?id=41784069) - [What Is LibreDrive (2019)](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
+* [2024-10-08, 19:41:45](https://news.ycombinator.com/item?id=41781050) - [10-Year Narratives](https://splits.org/blog/10-year-narratives/)
 * [2024-10-08, 16:04:57](https://news.ycombinator.com/item?id=41778882) - [Using Paid Ads to Grow Elite Hoops as an Indie and 11 Other Lessons](https://www.swiftjectivec.com/elite-hoops-gaining-users-as-an-indie-app-with-paid-ads-and-lessons-learned/)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
