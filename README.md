@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-10, 09:21:53](https://news.ycombinator.com/item?id=41797084) - [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
+* [2024-10-10, 09:21:28](https://news.ycombinator.com/item?id=41797081) - [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
 * [2024-10-10, 09:06:32](https://news.ycombinator.com/item?id=41797009) - [Scrum's \"Product Owner\" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
 * [2024-10-10, 08:20:45](https://news.ycombinator.com/item?id=41796748) - [Leaving WordPress (.org or WPF, still unsure which one)](https://megabyterose.com/2024/10/leaving-wordpress-org-or-wpf-still-unsure-which-one/)
 * [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
@@ -20,7 +21,6 @@
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
-* [2024-10-08, 19:41:45](https://news.ycombinator.com/item?id=41781050) - [10-Year Narratives](https://splits.org/blog/10-year-narratives/)
 * [2024-10-08, 19:25:05](https://news.ycombinator.com/item?id=41780848) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/index.html)
 * [2024-10-08, 16:04:57](https://news.ycombinator.com/item?id=41778882) - [Using Paid Ads to Grow Elite Hoops as an Indie and 11 Other Lessons](https://www.swiftjectivec.com/elite-hoops-gaining-users-as-an-indie-app-with-paid-ads-and-lessons-learned/)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
