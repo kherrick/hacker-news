@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
+* [2024-10-10, 20:39:09](https://news.ycombinator.com/item?id=41803327) - [Next.js, Just Why?](https://pilcrowonpaper.com/blog/nextjs-why/)
 * [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay – Jon Udell](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
 * [2024-10-10, 20:01:21](https://news.ycombinator.com/item?id=41802912) - [Windows 11's Big 2024 Update Leaves Behind 9GB of Undeletable Files](https://www.pcworld.com/article/2485897/windows-11s-big-2024-update-leaves-behind-9gb-of-undeletable-files.html)
 * [2024-10-10, 19:52:47](https://news.ycombinator.com/item?id=41802823) - [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
