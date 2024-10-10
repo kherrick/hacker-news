@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-10, 15:52:38",
+      "https://news.ycombinator.com/item?id=41800150"
+    ],
+    [
+      "Author and Aviator",
+      "https://literaryreview.co.uk/author-aviator"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 15:45:29",
+      "https://news.ycombinator.com/item?id=41800055"
+    ],
+    [
+      "The path to GM: some thoughts on becoming a general manager (2005)",
+      "https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 14:40:43",
       "https://news.ycombinator.com/item?id=41799324"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41798027"
     ],
     [
-      "Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed",
+      "Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed (2019)",
       "https://quoteinvestigator.com/2019/04/23/bank/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-10-09, 17:44:31",
-      "https://news.ycombinator.com/item?id=41790619"
-    ],
-    [
-      "Dito – an advanced Layer 7 reverse proxy server written in Go",
-      "https://github.com/andrearaponi/dito"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 17:18:19",
       "https://news.ycombinator.com/item?id=41790295"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-10-07, 10:08:32",
-      "https://news.ycombinator.com/item?id=41764465"
-    ],
-    [
-      "50 Years of Queries",
-      "https://cacm.acm.org/research/50-years-of-queries/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 09:18:59",
       "https://news.ycombinator.com/item?id=41764163"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-10-06, 15:30:18",
+      "https://news.ycombinator.com/item?id=41757808"
+    ],
+    [
+      "How electric trains work and why they make interesting sounds [video]",
+      "https://www.youtube.com/watch?v=IRJIJPTUXXE"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 15:16:41",
       "https://news.ycombinator.com/item?id=41757701"
     ],
     [
       "The Strict Aliasing Situation Is Pretty Bad (2016)",
       "https://blog.regehr.org/archives/1307"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 23:27:23",
-      "https://news.ycombinator.com/item?id=41753626"
-    ],
-    [
-      "Quantum Advantage for NP Approximation",
-      "https://scottaaronson.blog/?p=8375"
     ]
   ]
 ]
