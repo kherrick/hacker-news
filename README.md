@@ -5,6 +5,7 @@
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 * [2024-10-10, 14:26:31](https://news.ycombinator.com/item?id=41799170) - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+* [2024-10-10, 13:00:23](https://news.ycombinator.com/item?id=41798359) - [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://brokencloudstorage.info/)
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed (2019)](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
@@ -29,7 +30,6 @@
 * [2024-10-07, 04:07:28](https://news.ycombinator.com/item?id=41762709) - [The Warlord of Saturn's Moons](https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html)
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
 * [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
-* [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
 ## [Archives](archives/index.md)
 
