@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-10, 20:39:09](https://news.ycombinator.com/item?id=41803327) - [Next.js, Just Why?](https://pilcrowonpaper.com/blog/nextjs-why/)
+* [2024-10-10, 20:38:49](https://news.ycombinator.com/item?id=41803324) - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
 * [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
 * [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
