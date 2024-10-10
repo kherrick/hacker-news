@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 18:31:15](https://news.ycombinator.com/item?id=41801795) - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
 * [2024-10-10, 18:13:33](https://news.ycombinator.com/item?id=41801583) - [G4 (Severe) Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
 * [2024-10-10, 17:47:37](https://news.ycombinator.com/item?id=41801331) - [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
 * [2024-10-10, 17:44:55](https://news.ycombinator.com/item?id=41801300) - [Studios: Please Don't Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
 * [2024-10-10, 16:36:54](https://news.ycombinator.com/item?id=41800602) - [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 * [2024-10-10, 15:52:38](https://news.ycombinator.com/item?id=41800150) - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-* [2024-10-10, 14:26:31](https://news.ycombinator.com/item?id=41799170) - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
 * [2024-10-10, 14:10:10](https://news.ycombinator.com/item?id=41799016) - [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
