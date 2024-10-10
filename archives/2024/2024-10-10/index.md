@@ -6,6 +6,7 @@
 
 * [2024-10-10, 09:21:53](https://news.ycombinator.com/item?id=41797084) - [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
 * [2024-10-10, 09:06:32](https://news.ycombinator.com/item?id=41797009) - [Scrum's \"Product Owner\" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
+* [2024-10-10, 08:20:45](https://news.ycombinator.com/item?id=41796748) - [Leaving WordPress (.org or WPF, still unsure which one)](https://megabyterose.com/2024/10/leaving-wordpress-org-or-wpf-still-unsure-which-one/)
 * [2024-10-10, 06:36:45](https://news.ycombinator.com/item?id=41796181) - [Porch Pirates Are Stealing AT&T iPhones Delivered by FedEx](https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419)
 * [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
