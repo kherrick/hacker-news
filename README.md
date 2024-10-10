@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
-* [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay – Jon Udell](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
+* [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
 * [2024-10-10, 19:52:47](https://news.ycombinator.com/item?id=41802823) - [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
 * [2024-10-10, 19:50:22](https://news.ycombinator.com/item?id=41802800) - [Unity Editor software terms update: Runtime fee cancellation](https://unity.com/blog/terms-update-runtime-fee-cancellation)
 * [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
@@ -25,7 +25,7 @@
 * [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
-* [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
+* [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating processes with software is hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
 * [2024-10-07, 04:07:28](https://news.ycombinator.com/item?id=41762709) - [The Warlord of Saturn's Moons](https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html)
 * [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
 * [2024-10-06, 02:50:41](https://news.ycombinator.com/item?id=41754386) - [Local Variables as Accidental Breadcrumbs for Faster Debugging](https://www.bugsink.com/blog/local-variables-as-accidental-breadcrumbs/)
