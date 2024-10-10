@@ -100,6 +100,7 @@
 * [2024-10-06, 04:03:07](https://news.ycombinator.com/item?id=41754657) - [Speeding up the Rust compiler without changing its code](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-06, 03:55:13](https://news.ycombinator.com/item?id=41754628) - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
 * [2024-10-06, 02:57:44](https://news.ycombinator.com/item?id=41754411) - [ComfyUI Custom Node for OpenAI](https://github.com/ComfyUI-Workflow/ComfyUI-OpenAI)
+* [2024-10-06, 02:50:41](https://news.ycombinator.com/item?id=41754386) - [Local Variables as Accidental Breadcrumbs for Faster Debugging](https://www.bugsink.com/blog/local-variables-as-accidental-breadcrumbs/)
 * [2024-10-06, 02:44:05](https://news.ycombinator.com/item?id=41754353) - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
 * [2024-10-06, 02:35:40](https://news.ycombinator.com/item?id=41754314) - [\"Extreme\" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 * [2024-10-06, 01:32:50](https://news.ycombinator.com/item?id=41754084) - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)

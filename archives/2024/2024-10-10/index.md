@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 17:47:37](https://news.ycombinator.com/item?id=41801331) - [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
+* [2024-10-10, 17:44:55](https://news.ycombinator.com/item?id=41801300) - [Studios: Please Don't Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
+* [2024-10-10, 17:42:13](https://news.ycombinator.com/item?id=41801271) - [Meteorologists Get Death Threats as Hurricane Conspiracy Theories Thrive](https://www.rollingstone.com/culture/culture-features/hurricane-milton-misinformation-meteorlogist-death-threats-1235130352/)
 * [2024-10-10, 16:36:54](https://news.ycombinator.com/item?id=41800602) - [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 * [2024-10-10, 15:52:38](https://news.ycombinator.com/item?id=41800150) - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
 * [2024-10-10, 15:45:29](https://news.ycombinator.com/item?id=41800055) - [The path to GM: some thoughts on becoming a general manager (2005)](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
