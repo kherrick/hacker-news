@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 15:52:38](https://news.ycombinator.com/item?id=41800150) - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
+* [2024-10-10, 15:45:29](https://news.ycombinator.com/item?id=41800055) - [The path to GM: some thoughts on becoming a general manager (2005)](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 * [2024-10-10, 14:26:31](https://news.ycombinator.com/item?id=41799170) - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
 * [2024-10-10, 14:23:49](https://news.ycombinator.com/item?id=41799150) - [Hurricanes Cause Millions More Deaths Than Reported](https://scitechdaily.com/hidden-death-toll-hurricanes-cause-millions-more-deaths-than-reported/)

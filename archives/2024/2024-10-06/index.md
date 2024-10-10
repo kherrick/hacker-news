@@ -39,6 +39,7 @@
 * [2024-10-06, 16:12:02](https://news.ycombinator.com/item?id=41758101) - [CJ Hopkins Acquital Overturned – The New Normal Germany](https://consentfactory.org/2024/10/05/fear-and-loathing-in-new-normal-germany/)
 * [2024-10-06, 16:11:40](https://news.ycombinator.com/item?id=41758097) - [Ziggy: Data serialization language for expressing API messages, config files](https://ziggy-lang.io)
 * [2024-10-06, 15:50:52](https://news.ycombinator.com/item?id=41757940) - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
+* [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
 * [2024-10-06, 15:19:15](https://news.ycombinator.com/item?id=41757722) - [The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
 * [2024-10-06, 15:18:42](https://news.ycombinator.com/item?id=41757713) - [Abuse ZSH Parameter Expansion to Expand GNU-Style Arguments](http://matthewdippel.blogspot.com/2024/10/howto-abuse-zsh-parameter-expansion-to.html)
 * [2024-10-06, 15:18:20](https://news.ycombinator.com/item?id=41757711) - [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
