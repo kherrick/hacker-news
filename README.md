@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-10, 09:21:53](https://news.ycombinator.com/item?id=41797084) - [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
-* [2024-10-10, 09:21:28](https://news.ycombinator.com/item?id=41797081) - [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
 * [2024-10-10, 09:06:32](https://news.ycombinator.com/item?id=41797009) - [Scrum's \"Product Owner\" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
 * [2024-10-10, 08:20:45](https://news.ycombinator.com/item?id=41796748) - [Leaving WordPress (.org or WPF, still unsure which one)](https://megabyterose.com/2024/10/leaving-wordpress-org-or-wpf-still-unsure-which-one/)
 * [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
@@ -28,6 +27,7 @@
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 * [2024-10-07, 05:23:49](https://news.ycombinator.com/item?id=41763034) - [What the (2021)](https://articles.foletta.org/post/2021-04-19-what-the/)
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
+* [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
 * [2024-10-06, 15:16:41](https://news.ycombinator.com/item?id=41757701) - [The Strict Aliasing Situation Is Pretty Bad (2016)](https://blog.regehr.org/archives/1307)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
