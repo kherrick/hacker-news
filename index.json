@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-10, 14:23:49",
-      "https://news.ycombinator.com/item?id=41799150"
-    ],
-    [
-      "Hurricanes Cause Millions More Deaths Than Reported",
-      "https://scitechdaily.com/hidden-death-toll-hurricanes-cause-millions-more-deaths-than-reported/"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 14:10:10",
       "https://news.ycombinator.com/item?id=41799016"
     ],
@@ -167,6 +157,16 @@
     [
       "Internet Archive: Security breach alert",
       "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 17:44:31",
+      "https://news.ycombinator.com/item?id=41790619"
+    ],
+    [
+      "Dito – an advanced Layer 7 reverse proxy server written in Go",
+      "https://github.com/andrearaponi/dito"
     ]
   ],
   [
