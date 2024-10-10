@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-* [2024-10-10, 14:23:49](https://news.ycombinator.com/item?id=41799150) - [Hurricanes Cause Millions More Deaths Than Reported](https://scitechdaily.com/hidden-death-toll-hurricanes-cause-millions-more-deaths-than-reported/)
 * [2024-10-10, 14:10:10](https://news.ycombinator.com/item?id=41799016) - [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
 * [2024-10-10, 13:31:31](https://news.ycombinator.com/item?id=41798615) - [Thunderbird Android client is K-9 Mail reborn, and it's in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
@@ -17,6 +16,7 @@
 * [2024-10-10, 01:14:40](https://news.ycombinator.com/item?id=41794577) - [Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+* [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [Dookie Demastered](https://www.dookiedemastered.com/)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
