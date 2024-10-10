@@ -15,6 +15,7 @@
 * [2024-10-09, 19:46:30](https://news.ycombinator.com/item?id=41791875) - [Tcl the Misunderstood (2006)](http://antirez.com/articoli/tclmisunderstood.html)
 * [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:18:19](https://news.ycombinator.com/item?id=41790295) - [Dookie Demastered](https://www.dookiedemastered.com/)
+* [2024-10-09, 17:00:41](https://news.ycombinator.com/item?id=41790113) - [Motion (YC W20) is hiring our first customer success manager](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn)
 * [2024-10-09, 16:34:54](https://news.ycombinator.com/item?id=41789815) - [The Internet Archive takes over foreign dissertations from Leiden University](https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl)
 * [2024-10-09, 16:18:42](https://news.ycombinator.com/item?id=41789633) - [Show HN: Donobu – Mac App for Web Automation and Testing](https://www.donobu.com/)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
@@ -28,7 +29,6 @@
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
 * [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 15:16:41](https://news.ycombinator.com/item?id=41757701) - [The Strict Aliasing Situation Is Pretty Bad (2016)](https://blog.regehr.org/archives/1307)
-* [2024-10-06, 13:19:05](https://news.ycombinator.com/item?id=41756978) - [Ask HN: Anyone learned art (drawing, caricature etc.) as an adult?](https://news.ycombinator.com/item?id=41756978)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
 ## [Archives](archives/index.md)
