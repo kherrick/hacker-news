@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 14:10:10](https://news.ycombinator.com/item?id=41799016) - [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
+* [2024-10-10, 14:09:34](https://news.ycombinator.com/item?id=41799011) - [AAA Gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:42:00](https://news.ycombinator.com/item?id=41798726) - [The Age of Depopulation](https://www.foreignaffairs.com/world/age-depopulation-surviving-world-gone-gray-nicholas-eberstadt)
 * [2024-10-10, 13:31:31](https://news.ycombinator.com/item?id=41798615) - [Thunderbird Android client is K-9 Mail reborn, and it's in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
