@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 20:01:21](https://news.ycombinator.com/item?id=41802912) - [Windows 11's Big 2024 Update Leaves Behind 9GB of Undeletable Files](https://www.pcworld.com/article/2485897/windows-11s-big-2024-update-leaves-behind-9gb-of-undeletable-files.html)
+* [2024-10-10, 19:52:47](https://news.ycombinator.com/item?id=41802823) - [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
 * [2024-10-10, 19:50:22](https://news.ycombinator.com/item?id=41802800) - [Unity Editor Software Terms Update: Runtime Fee Cancellation Follow-up](https://unity.com/blog/terms-update-runtime-fee-cancellation)
-* [2024-10-10, 19:14:44](https://news.ycombinator.com/item?id=41802378) - [Five days a week in the office? Forget it](https://www.computerworld.com/article/3552604/five-days-a-week-in-the-office-forget-it.html)
 * [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 18:13:33](https://news.ycombinator.com/item?id=41801583) - [G4 (Severe) Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
@@ -17,7 +18,6 @@
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about animation quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-10, 09:11:26](https://news.ycombinator.com/item?id=41797041) - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
-* [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
