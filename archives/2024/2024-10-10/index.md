@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+* [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
+* [2024-10-10, 12:34:44](https://news.ycombinator.com/item?id=41798184) - [Back in the day, people had to cook a hard-boiled egg for a computer mouse](https://www.boredpanda.com/older-people-trolling-young-computer-mouse-hardboiled-egg-hack/)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 11:23:34](https://news.ycombinator.com/item?id=41797724) - [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)
+* [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-10, 09:21:53](https://news.ycombinator.com/item?id=41797084) - [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
 * [2024-10-10, 09:21:28](https://news.ycombinator.com/item?id=41797081) - [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
