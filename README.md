@@ -4,7 +4,6 @@
 * [2024-10-10, 03:29:17](https://news.ycombinator.com/item?id=41795218) - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 * [2024-10-10, 03:25:06](https://news.ycombinator.com/item?id=41795187) - [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
 * [2024-10-10, 03:05:47](https://news.ycombinator.com/item?id=41795075) - [Bankrupt Fisker says it can't migrate its EVs to a new owner's server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
-* [2024-10-10, 02:51:18](https://news.ycombinator.com/item?id=41795011) - [Ratan Tata Passed Away](https://www.thehindu.com/news/national/ratan-tata-death-live-updates-on-october-10/article68738101.ece)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-09, 23:43:39](https://news.ycombinator.com/item?id=41794019) - [Software spotlight: Cassette software for the IBM PC](https://forum.winworldpc.com/discussion/11503/software-spotlight-cassette-software-for-the-ibm-pc)
 * [2024-10-09, 22:51:55](https://news.ycombinator.com/item?id=41793658) - [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
@@ -28,6 +27,7 @@
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
 * [2024-10-06, 20:34:37](https://news.ycombinator.com/item?id=41760076) - [A DIY photographer built his own full-frame camera and open-sourced the project](https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
+* [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 13:19:05](https://news.ycombinator.com/item?id=41756978) - [Ask HN: Anyone learned art (drawing, caricature etc.) as an adult?](https://news.ycombinator.com/item?id=41756978)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
