@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 13:42:00](https://news.ycombinator.com/item?id=41798726) - [The Age of Depopulation](https://www.foreignaffairs.com/world/age-depopulation-surviving-world-gone-gray-nicholas-eberstadt)
+* [2024-10-10, 13:31:31](https://news.ycombinator.com/item?id=41798615) - [Thunderbird Android client is K-9 Mail reborn, and it's in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
 * [2024-10-10, 12:34:44](https://news.ycombinator.com/item?id=41798184) - [Back in the day, people had to cook a hard-boiled egg for a computer mouse](https://www.boredpanda.com/older-people-trolling-young-computer-mouse-hardboiled-egg-hack/)
