@@ -12,6 +12,7 @@
 * [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 * [2024-10-07, 20:44:30](https://news.ycombinator.com/item?id=41770840) - [From GLSL to WGSL: the future of shaders on the Web (2021)](https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/)
 * [2024-10-07, 20:38:12](https://news.ycombinator.com/item?id=41770763) - [Show HN: AI-generated images that look like real life](https://www.gounfaked.com/)
+* [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
 * [2024-10-07, 20:06:10](https://news.ycombinator.com/item?id=41770383) - [How private intelligence companies became the new spymasters](https://engelsbergideas.com/essays/private-intelligence/)
 * [2024-10-07, 19:41:54](https://news.ycombinator.com/item?id=41770111) - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
 * [2024-10-07, 19:36:33](https://news.ycombinator.com/item?id=41770051) - [Trap – Transformers in APL](https://github.com/BobMcDear/trap)
