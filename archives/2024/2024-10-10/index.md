@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 11:23:34](https://news.ycombinator.com/item?id=41797724) - [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)
+* [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-10, 09:21:53](https://news.ycombinator.com/item?id=41797084) - [All We Have in This World Is Ourselves](https://rxjourney.com.ng/all-we-really-have-in-this-world-is-ourselves)
 * [2024-10-10, 09:21:28](https://news.ycombinator.com/item?id=41797081) - [The Internet Archive is under attack](https://www.theverge.com/2024/10/9/24266135/nintendo-original-alarm-clock-alarmo-prototypes)
 * [2024-10-10, 09:11:26](https://news.ycombinator.com/item?id=41797041) - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
