@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay – Jon Udell](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
 * [2024-10-10, 20:01:21](https://news.ycombinator.com/item?id=41802912) - [Windows 11's Big 2024 Update Leaves Behind 9GB of Undeletable Files](https://www.pcworld.com/article/2485897/windows-11s-big-2024-update-leaves-behind-9gb-of-undeletable-files.html)
 * [2024-10-10, 19:52:47](https://news.ycombinator.com/item?id=41802823) - [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
 * [2024-10-10, 19:50:22](https://news.ycombinator.com/item?id=41802800) - [Unity Editor Software Terms Update: Runtime Fee Cancellation Follow-up](https://unity.com/blog/terms-update-runtime-fee-cancellation)
@@ -12,6 +13,7 @@
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 18:31:15](https://news.ycombinator.com/item?id=41801795) - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
 * [2024-10-10, 18:13:33](https://news.ycombinator.com/item?id=41801583) - [G4 (Severe) Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
+* [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
 * [2024-10-10, 17:47:37](https://news.ycombinator.com/item?id=41801331) - [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
 * [2024-10-10, 17:44:55](https://news.ycombinator.com/item?id=41801300) - [Studios: Please Don't Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)

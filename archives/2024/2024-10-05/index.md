@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
+* [2024-10-05, 22:46:30](https://news.ycombinator.com/item?id=41753471) - [The deconstructed Standard Model equation](https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und)
 * [2024-10-05, 21:31:51](https://news.ycombinator.com/item?id=41753092) - [WordPress Plugin Mirror Downloader (Proof of Concept)](https://github.com/centminmod/wordpress-plugin-mirror-poc)
 * [2024-10-05, 21:18:28](https://news.ycombinator.com/item?id=41752989) - [Buildroot](https://buildroot.org/)
 * [2024-10-05, 21:01:01](https://news.ycombinator.com/item?id=41752864) - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
