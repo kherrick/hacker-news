@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 03:29:17](https://news.ycombinator.com/item?id=41795218) - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 * [2024-10-10, 03:25:06](https://news.ycombinator.com/item?id=41795187) - [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
 * [2024-10-10, 03:15:46](https://news.ycombinator.com/item?id=41795133) - [Dietary restriction impacts health and lifespan of genetically diverse mice](https://www.nature.com/articles/s41586-024-08026-3)
 * [2024-10-10, 03:05:47](https://news.ycombinator.com/item?id=41795075) - [Bankrupt Fisker says it can't migrate its EVs to a new owner's server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
