@@ -31,6 +31,7 @@
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
 * [2024-10-08, 17:56:37](https://news.ycombinator.com/item?id=41779984) - [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)
 * [2024-10-08, 17:52:14](https://news.ycombinator.com/item?id=41779952) - [European govt air-gapped systems breached using custom malware](https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/)
+* [2024-10-08, 17:48:41](https://news.ycombinator.com/item?id=41779925) - [Napkin: Back-of-the-envelope calculations in Python](https://github.com/rescrv/napkin)
 * [2024-10-08, 17:19:18](https://news.ycombinator.com/item?id=41779576) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 * [2024-10-08, 17:13:16](https://news.ycombinator.com/item?id=41779519) - [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 * [2024-10-08, 17:00:26](https://news.ycombinator.com/item?id=41779415) - [Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video](https://www.sievedata.com/)
