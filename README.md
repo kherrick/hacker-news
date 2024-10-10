@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 23:04:04](https://news.ycombinator.com/item?id=41804460) - [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
 * [2024-10-10, 20:38:49](https://news.ycombinator.com/item?id=41803324) - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
 * [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
-* [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)

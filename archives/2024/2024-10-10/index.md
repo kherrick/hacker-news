@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 23:04:04](https://news.ycombinator.com/item?id=41804460) - [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
 * [2024-10-10, 20:39:09](https://news.ycombinator.com/item?id=41803327) - [Next.js, Just Why?](https://pilcrowonpaper.com/blog/nextjs-why/)
 * [2024-10-10, 20:38:49](https://news.ycombinator.com/item?id=41803324) - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
