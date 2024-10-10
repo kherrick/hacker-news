@@ -88,6 +88,7 @@
 * [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
 * [2024-10-07, 05:23:49](https://news.ycombinator.com/item?id=41763034) - [What the (2021)](https://articles.foletta.org/post/2021-04-19-what-the/)
 * [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
+* [2024-10-07, 04:07:28](https://news.ycombinator.com/item?id=41762709) - [The Warlord of Saturn's Moons](https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
 * [2024-10-07, 03:28:59](https://news.ycombinator.com/item?id=41762508) - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)

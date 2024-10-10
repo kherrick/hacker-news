@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
+* [2024-10-10, 14:23:49](https://news.ycombinator.com/item?id=41799150) - [Hurricanes Cause Millions More Deaths Than Reported](https://scitechdaily.com/hidden-death-toll-hurricanes-cause-millions-more-deaths-than-reported/)
 * [2024-10-10, 14:10:10](https://news.ycombinator.com/item?id=41799016) - [Portugal seeks to become low-tax haven for young people](https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68)
 * [2024-10-10, 14:09:34](https://news.ycombinator.com/item?id=41799011) - [AAA Gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:42:00](https://news.ycombinator.com/item?id=41798726) - [The Age of Depopulation](https://www.foreignaffairs.com/world/age-depopulation-surviving-world-gone-gray-nicholas-eberstadt)
