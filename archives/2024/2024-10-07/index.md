@@ -88,6 +88,7 @@
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
 * [2024-10-07, 03:28:59](https://news.ycombinator.com/item?id=41762508) - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
 * [2024-10-07, 03:27:36](https://news.ycombinator.com/item?id=41762500) - [Scarlet Rot: a biological exploration of Elden Ring's decaying disease](https://jgeekstudies.org/2024/10/06/scarlet-rot-a-biological-exploration-of-elden-rings-decaying-disease/)
+* [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 * [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
 * [2024-10-07, 03:00:07](https://news.ycombinator.com/item?id=41762394) - [Nintendo's Legal Hitlist Grows](https://fandomwire.com/nintendos-legal-hitlist-grows-latest-switch-emulator-shutdown-is-how-we-know-their-lawyers-are-cashing-in-big-time/)
