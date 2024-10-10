@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 02:32:10](https://news.ycombinator.com/item?id=41794912) - [A crash test reveals EVs aren't stopped by guardrails, compared to gas engines](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
 * [2024-10-10, 02:05:34](https://news.ycombinator.com/item?id=41794807) - [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
 * [2024-10-10, 01:18:57](https://news.ycombinator.com/item?id=41794605) - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
 * [2024-10-10, 01:02:17](https://news.ycombinator.com/item?id=41794517) - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
+* [2024-10-10, 00:34:19](https://news.ycombinator.com/item?id=41794342) - [Bluesky struggles to moderate child abuse material in Portuguese](https://nucleo.jor.br/english/2024-09-24-bluesky-struggles-to-moderate-csam/)
 * [2024-10-09, 22:51:55](https://news.ycombinator.com/item?id=41793658) - [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 21:22:51](https://news.ycombinator.com/item?id=41792803) - [Upgrading Homebrew and avoiding the \"failed to verify attestation\" error](https://til.simonwillison.net/homebrew/no-verify-attestations)
@@ -26,10 +28,8 @@
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 20:34:37](https://news.ycombinator.com/item?id=41760076) - [A DIY photographer built his own full-frame camera and open-sourced the project](https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
-* [2024-10-06, 18:36:24](https://news.ycombinator.com/item?id=41759094) - [The Romance of Seahorses](https://nautil.us/the-strange-romance-of-seahorses-899669/)
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
-* [2024-10-04, 16:05:06](https://news.ycombinator.com/item?id=41742779) - [Working Set Size Estimation (2018)](https://www.brendangregg.com/wss.html)
 
 ## [Archives](archives/index.md)
 

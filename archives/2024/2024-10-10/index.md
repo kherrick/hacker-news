@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 02:32:10](https://news.ycombinator.com/item?id=41794912) - [A crash test reveals EVs aren't stopped by guardrails, compared to gas engines](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
 * [2024-10-10, 02:05:34](https://news.ycombinator.com/item?id=41794807) - [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
 * [2024-10-10, 01:18:57](https://news.ycombinator.com/item?id=41794605) - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
 * [2024-10-10, 01:02:17](https://news.ycombinator.com/item?id=41794517) - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
+* [2024-10-10, 00:34:19](https://news.ycombinator.com/item?id=41794342) - [Bluesky struggles to moderate child abuse material in Portuguese](https://nucleo.jor.br/english/2024-09-24-bluesky-struggles-to-moderate-csam/)
