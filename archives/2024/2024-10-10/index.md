@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 06:36:45](https://news.ycombinator.com/item?id=41796181) - [Porch Pirates Are Stealing AT&T iPhones Delivered by FedEx](https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419)
 * [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-10, 05:07:46](https://news.ycombinator.com/item?id=41795712) - [Ask HN: Tech Stack Behind the Claude App?](https://news.ycombinator.com/item?id=41795712)

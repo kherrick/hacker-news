@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 06:36:45](https://news.ycombinator.com/item?id=41796181) - [Porch Pirates Are Stealing AT&T iPhones Delivered by FedEx](https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419)
 * [2024-10-10, 06:11:18](https://news.ycombinator.com/item?id=41796030) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-10, 05:07:46](https://news.ycombinator.com/item?id=41795712) - [Ask HN: Tech Stack Behind the Claude App?](https://news.ycombinator.com/item?id=41795712)
@@ -7,6 +8,7 @@
 * [2024-10-10, 03:29:17](https://news.ycombinator.com/item?id=41795218) - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
 * [2024-10-10, 03:25:06](https://news.ycombinator.com/item?id=41795187) - [7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2405541)
 * [2024-10-10, 03:05:47](https://news.ycombinator.com/item?id=41795075) - [Bankrupt Fisker says it can't migrate its EVs to a new owner's server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
+* [2024-10-10, 02:08:10](https://news.ycombinator.com/item?id=41794818) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-09, 23:43:39](https://news.ycombinator.com/item?id=41794019) - [Software spotlight: Cassette software for the IBM PC](https://forum.winworldpc.com/discussion/11503/software-spotlight-cassette-software-for-the-ibm-pc)
 * [2024-10-09, 22:51:55](https://news.ycombinator.com/item?id=41793658) - [You Don’t Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
@@ -21,13 +23,11 @@
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
-* [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 * [2024-10-07, 05:23:49](https://news.ycombinator.com/item?id=41763034) - [What the (2021)](https://articles.foletta.org/post/2021-04-19-what-the/)
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
 * [2024-10-06, 20:34:37](https://news.ycombinator.com/item?id=41760076) - [A DIY photographer built his own full-frame camera and open-sourced the project](https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
-* [2024-10-06, 16:47:18](https://news.ycombinator.com/item?id=41758371) - [John Carmack on inlined code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 * [2024-10-06, 15:16:41](https://news.ycombinator.com/item?id=41757701) - [The Strict Aliasing Situation Is Pretty Bad (2016)](https://blog.regehr.org/archives/1307)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
