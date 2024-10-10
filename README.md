@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-10, 09:11:26](https://news.ycombinator.com/item?id=41797041) - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
 * [2024-10-10, 09:06:32](https://news.ycombinator.com/item?id=41797009) - [Scrum's \"Product Owner\" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
 * [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-10, 04:38:58](https://news.ycombinator.com/item?id=41795561) - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
@@ -21,7 +22,6 @@
 * [2024-10-09, 04:47:40](https://news.ycombinator.com/item?id=41784591) - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
 * [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-09, 02:58:39](https://news.ycombinator.com/item?id=41784069) - [What Is LibreDrive (2019)](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
-* [2024-10-08, 16:04:57](https://news.ycombinator.com/item?id=41778882) - [Using Paid Ads to Grow Elite Hoops as an Indie and 11 Other Lessons](https://www.swiftjectivec.com/elite-hoops-gaining-users-as-an-indie-app-with-paid-ads-and-lessons-learned/)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
 * [2024-10-07, 10:08:32](https://news.ycombinator.com/item?id=41764465) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
