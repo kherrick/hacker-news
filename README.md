@@ -26,9 +26,9 @@
 * [2024-10-07, 09:50:08](https://news.ycombinator.com/item?id=41764373) - [Alternatives to cosine similarity](https://tomhazledine.com/cosine-similarity-alternatives/)
 * [2024-10-07, 09:18:59](https://news.ycombinator.com/item?id=41764163) - [Zod: TypeScript-first schema validation with static type inference](https://zod.dev/)
 * [2024-10-07, 03:23:56](https://news.ycombinator.com/item?id=41762483) - [Gboard Double Sided Version](https://github.com/google/mozc-devices/tree/master/mozc-doublesided)
-* [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 20:34:37](https://news.ycombinator.com/item?id=41760076) - [A DIY photographer built his own full-frame camera and open-sourced the project](https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [2024-10-06, 18:07:25](https://news.ycombinator.com/item?id=41758870) - [The mystery of why left-handers are so much rarer (2016)](https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer)
+* [2024-10-06, 13:19:05](https://news.ycombinator.com/item?id=41756978) - [Ask HN: Anyone learned art (drawing, caricature etc.) as an adult?](https://news.ycombinator.com/item?id=41756978)
 * [2024-10-05, 23:27:23](https://news.ycombinator.com/item?id=41753626) - [Quantum Advantage for NP Approximation](https://scottaaronson.blog/?p=8375)
 
 ## [Archives](archives/index.md)
