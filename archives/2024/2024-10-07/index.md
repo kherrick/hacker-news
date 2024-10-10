@@ -83,6 +83,7 @@
 * [2024-10-07, 06:16:20](https://news.ycombinator.com/item?id=41763239) - [Why does ++[[]][+[]]+[+[]] return the string \"10\"?](https://stackoverflow.com/questions/7202157/why-does-return-the-string-10)
 * [2024-10-07, 06:04:14](https://news.ycombinator.com/item?id=41763190) - [You can create your own holiday](https://near.blog/unusual-holidays/)
 * [2024-10-07, 05:59:32](https://news.ycombinator.com/item?id=41763176) - [Hello, Perceptron](https://matt.might.net/articles/hello-perceptron/)
+* [2024-10-07, 05:23:49](https://news.ycombinator.com/item?id=41763034) - [What the (2021)](https://articles.foletta.org/post/2021-04-19-what-the/)
 * [2024-10-07, 04:40:34](https://news.ycombinator.com/item?id=41762865) - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
 * [2024-10-07, 04:03:30](https://news.ycombinator.com/item?id=41762692) - [Show HN: Instant HTML Preview Bookmarklet - Quickly Render HTML from Clipboard](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
 * [2024-10-07, 03:43:11](https://news.ycombinator.com/item?id=41762586) - [Show HN: Offline audiobook from any format with one CLI command](https://github.com/C-Loftus/QuickPiperAudiobook)
