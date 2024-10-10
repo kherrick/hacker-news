@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-10, 14:40:43",
+      "https://news.ycombinator.com/item?id=41799324"
+    ],
+    [
+      "The science behind on-the-wrist blood pressure tracking",
+      "https://www.empirical.health/blog/apple-watch-blood-pressure/"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 14:23:49",
+      "https://news.ycombinator.com/item?id=41799150"
+    ],
+    [
+      "Hurricanes Cause Millions More Deaths Than Reported",
+      "https://scitechdaily.com/hidden-death-toll-hurricanes-cause-millions-more-deaths-than-reported/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 14:10:10",
       "https://news.ycombinator.com/item?id=41799016"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-10-10, 01:53:02",
-      "https://news.ycombinator.com/item?id=41794735"
-    ],
-    [
-      "Wafer Scale and Trilogy Systems: Part 1",
-      "https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 01:14:40",
       "https://news.ycombinator.com/item?id=41794577"
     ],
@@ -157,16 +167,6 @@
     [
       "Internet Archive: Security breach alert",
       "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 17:44:31",
-      "https://news.ycombinator.com/item?id=41790619"
-    ],
-    [
-      "Dito – an advanced Layer 7 reverse proxy server written in Go",
-      "https://github.com/andrearaponi/dito"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-10-07, 10:08:32",
-      "https://news.ycombinator.com/item?id=41764465"
-    ],
-    [
-      "50 Years of Queries",
-      "https://cacm.acm.org/research/50-years-of-queries/"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 09:18:59",
       "https://news.ycombinator.com/item?id=41764163"
     ],
     [
       "Zod: TypeScript-first schema validation with static type inference",
       "https://zod.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 04:07:28",
+      "https://news.ycombinator.com/item?id=41762709"
+    ],
+    [
+      "The Warlord of Saturn's Moons",
+      "https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html"
     ]
   ],
   [
