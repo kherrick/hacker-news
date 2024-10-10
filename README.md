@@ -2,7 +2,6 @@
 
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
-* [2024-10-10, 12:34:44](https://news.ycombinator.com/item?id=41798184) - [Back in the day, people had to cook a hard-boiled egg for a computer mouse](https://www.boredpanda.com/older-people-trolling-young-computer-mouse-hardboiled-egg-hack/)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
@@ -21,6 +20,7 @@
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
+* [2024-10-09, 03:39:50](https://news.ycombinator.com/item?id=41784287) - [US weighs Google break-up in landmark antitrust case](https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608)
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating Processes with Software Is Hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
 * [2024-10-07, 11:59:11](https://news.ycombinator.com/item?id=41765127) - [Warm Handoffs](https://luckymike.dev/posts/warm-handoffs/)
