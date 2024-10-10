@@ -16,7 +16,7 @@
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe your banker £1k you are at his mercy; owe him £1m the position is reversed (2019)](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
-* [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+* [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about animation quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-10, 09:11:26](https://news.ycombinator.com/item?id=41797041) - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
 * [2024-10-10, 05:46:43](https://news.ycombinator.com/item?id=41795919) - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-09, 22:45:26](https://news.ycombinator.com/item?id=41793597) - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
