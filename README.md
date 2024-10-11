@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 16:24:57](https://news.ycombinator.com/item?id=41810889) - [Ask HN: What breakthrough helped you build and maintain better relationships?](https://news.ycombinator.com/item?id=41810889)
 * [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the Edge of Linear Separability](https://arxiv.org/abs/2410.04489)
 * [2024-10-11, 15:07:57](https://news.ycombinator.com/item?id=41810150) - [The Role of Anchor Tokens in Self-Attention Networks](https://arxiv.org/abs/2402.07616)
 * [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
@@ -8,6 +7,7 @@
 * [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
+* [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
