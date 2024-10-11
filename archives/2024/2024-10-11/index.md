@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
+* [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
 * [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 12:34:02](https://news.ycombinator.com/item?id=41808917) - [Google Play killed my game and won't tell me why](https://antiidlereborn.com/news/)
@@ -11,6 +13,7 @@
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 11:52:00](https://news.ycombinator.com/item?id=41808663) - [Regrad Is Micrograd in Rust](https://github.com/ostadgeorge/regrad)
 * [2024-10-11, 11:49:17](https://news.ycombinator.com/item?id=41808634) - [Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
+* [2024-10-11, 11:40:35](https://news.ycombinator.com/item?id=41808569) - [A plain-text way to get your point across quickly and artfully in the browser](https://quickpoint.me)
 * [2024-10-11, 10:59:19](https://news.ycombinator.com/item?id=41808351) - [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
 * [2024-10-11, 10:46:10](https://news.ycombinator.com/item?id=41808282) - [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
