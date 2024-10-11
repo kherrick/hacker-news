@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 02:39:42](https://news.ycombinator.com/item?id=41805515) - [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+* [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 * [2024-10-11, 01:36:57](https://news.ycombinator.com/item?id=41805288) - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
 * [2024-10-11, 00:34:01](https://news.ycombinator.com/item?id=41804983) - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
@@ -19,7 +19,6 @@
 * [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 11:47:01](https://news.ycombinator.com/item?id=41797875) - [First Report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
-* [2024-10-10, 10:38:23](https://news.ycombinator.com/item?id=41797462) - [Let's talk about animation quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
 * [2024-10-09, 11:39:54](https://news.ycombinator.com/item?id=41786768) - [Bridge to Nowhere](https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/)
 * [2024-10-08, 18:30:39](https://news.ycombinator.com/item?id=41780328) - [Research in psychology: are we learning anything?](https://www.experimental-history.com/p/is-psychology-going-to-cincinnati)
@@ -27,8 +26,9 @@
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
-* [2024-10-07, 13:02:59](https://news.ycombinator.com/item?id=41765594) - [Automating processes with software is hard](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
+* [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
+* [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
 * [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 
 ## [Archives](archives/index.md)
