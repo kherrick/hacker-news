@@ -14,6 +14,7 @@
 * [2024-10-10, 14:16:28](https://news.ycombinator.com/item?id=41799068) - [AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
+* [2024-10-10, 13:00:23](https://news.ycombinator.com/item?id=41798359) - [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://brokencloudstorage.info/)
 * [2024-10-10, 11:47:01](https://news.ycombinator.com/item?id=41797875) - [First Report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
@@ -29,7 +30,6 @@
 * [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
 * [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
-* [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 
 ## [Archives](archives/index.md)
 
