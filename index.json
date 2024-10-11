@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-10-11, 11:40:35",
-      "https://news.ycombinator.com/item?id=41808569"
-    ],
-    [
-      "A plain-text way to get your point across quickly and artfully in the browser",
-      "https://quickpoint.me"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 10:01:32",
       "https://news.ycombinator.com/item?id=41808013"
     ],
@@ -257,6 +247,16 @@
     [
       "Archaeologists found an ancient Egyptian observatory",
       "https://arstechnica.com/science/2024/10/archaeologists-found-an-ancient-egyptian-observatory/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 01:45:14",
+      "https://news.ycombinator.com/item?id=41773020"
+    ],
+    [
+      "Run Llama locally with only PyTorch on CPU",
+      "https://github.com/anordin95/run-llama-locally"
     ]
   ],
   [
