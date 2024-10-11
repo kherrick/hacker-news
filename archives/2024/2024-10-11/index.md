@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular Expression Search with Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [2024-10-11, 17:29:14](https://news.ycombinator.com/item?id=41811458) - [Hamming AI (YC S24) Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
 * [2024-10-11, 17:11:43](https://news.ycombinator.com/item?id=41811309) - [The life-changing magic of Japanese clutter](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
 * [2024-10-11, 17:06:30](https://news.ycombinator.com/item?id=41811263) - [How long til we're all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
+* [2024-10-11, 16:57:55](https://news.ycombinator.com/item?id=41811172) - [Pizza Hut Will Deliver Your Resume Printed on a Pizza Box to Potential Employers](https://mossandfog.com/pizza-hut-will-deliver-your-resume-printed-on-a-pizza-box-to-prospective-employers/)
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 * [2024-10-11, 16:43:54](https://news.ycombinator.com/item?id=41811045) - [The Illusion of Information Adequacy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216)
 * [2024-10-11, 16:24:57](https://news.ycombinator.com/item?id=41810889) - [Ask HN: What breakthrough helped you build and maintain better relationships?](https://news.ycombinator.com/item?id=41810889)
