@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 20:18:30](https://news.ycombinator.com/item?id=41813304) - [Working from Home Is Powering Productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
+* [2024-10-11, 20:15:28](https://news.ycombinator.com/item?id=41813268) - [Machines of Loving Grace: How AI Could Transform the World for the Better](https://darioamodei.com/machines-of-loving-grace)
 * [2024-10-11, 19:42:34](https://news.ycombinator.com/item?id=41812876) - [In SSRI Withdrawal, Brain Zaps Go from Overlooked Symptom to Center Stage](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
 * [2024-10-11, 19:37:32](https://news.ycombinator.com/item?id=41812813) - [Valve says Steam users don't own a thing, GOG says its games can't be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
 * [2024-10-11, 19:11:08](https://news.ycombinator.com/item?id=41812523) - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)

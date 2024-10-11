@@ -23,6 +23,7 @@
 * [2024-10-07, 19:28:10](https://news.ycombinator.com/item?id=41769971) - [Is the Attack Helicopter Dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
 * [2024-10-07, 19:23:08](https://news.ycombinator.com/item?id=41769932) - [Gunter's Space Page](https://space.skyrocket.de/index.html)
 * [2024-10-07, 19:14:43](https://news.ycombinator.com/item?id=41769842) - [Multi-tenant SAML in an afternoon](https://tylerrussell.dev/2024/10/07/multi-tenant-saml-in-an-afternoon-using-ssoready/)
+* [2024-10-07, 19:12:39](https://news.ycombinator.com/item?id=41769815) - [Age of Invention: The Coal Conquest](https://www.ageofinvention.xyz/p/age-of-invention-the-coal-conquest)
 * [2024-10-07, 19:04:37](https://news.ycombinator.com/item?id=41769707) - [Who's a Good Boy? A Puppy Linux Mini-Review](https://bbbhltz.codeberg.page/blog/2024/09/puppylinux/)
 * [2024-10-07, 19:00:10](https://news.ycombinator.com/item?id=41769657) - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
 * [2024-10-07, 18:59:25](https://news.ycombinator.com/item?id=41769648) - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
