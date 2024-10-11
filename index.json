@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-11, 02:19:42",
+      "https://news.ycombinator.com/item?id=41805446"
+    ],
+    [
+      "$2 H100s: How the GPU Rental Bubble Burst",
+      "https://www.latent.space/p/gpu-bubble"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 01:36:57",
+      "https://news.ycombinator.com/item?id=41805288"
+    ],
+    [
+      "An Update on Gccrs Development",
+      "https://lwn.net/Articles/991199/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 00:34:01",
       "https://news.ycombinator.com/item?id=41804983"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2024-10-10, 22:46:59",
-      "https://news.ycombinator.com/item?id=41804356"
+      "2024-10-10, 23:04:04",
+      "https://news.ycombinator.com/item?id=41804460"
     ],
     [
-      "The 'Beautiful Confusion' of the First Billion Years Comes into View",
-      "https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 20:38:49",
-      "https://news.ycombinator.com/item?id=41803324"
-    ],
-    [
-      "AMD EPYC Turin delivers better performance/power efficiency than AmpereOne",
-      "https://www.phoronix.com/review/amd-epyc-9965-ampereone/3"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 20:04:27",
-      "https://news.ycombinator.com/item?id=41802939"
-    ],
-    [
-      "Geothermal Power in the North Bay",
-      "https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/"
+      "Is population density the reason Americans can't discuss politics?",
+      "https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-10-10, 14:40:43",
+      "https://news.ycombinator.com/item?id=41799324"
+    ],
+    [
+      "The science behind on-the-wrist blood pressure tracking",
+      "https://www.empirical.health/blog/apple-watch-blood-pressure/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 14:16:28",
       "https://news.ycombinator.com/item?id=41799068"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2024-10-10, 13:00:23",
-      "https://news.ycombinator.com/item?id=41798359"
+      "2024-10-10, 11:47:01",
+      "https://news.ycombinator.com/item?id=41797875"
     ],
     [
-      "End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem",
-      "https://brokencloudstorage.info/"
+      "First Report on the Pre-Scheme Restoration",
+      "https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html"
     ]
   ],
   [
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2024-10-09, 13:16:20",
-      "https://news.ycombinator.com/item?id=41787644"
+      "2024-10-09, 12:15:57",
+      "https://news.ycombinator.com/item?id=41787041"
     ],
     [
-      "AI-Powered Electronic Component Sorter",
-      "https://github.com/Vanguard-s/Electronic-Component-Sorter"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 12:00:05",
-      "https://news.ycombinator.com/item?id=41786924"
-    ],
-    [
-      "5 Years Later: The First Win",
-      "https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay"
+      "Proposal: JavaScript Structs",
+      "https://github.com/tc39/proposal-structs"
     ]
   ],
   [
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2024-10-09, 10:57:24",
-      "https://news.ycombinator.com/item?id=41786448"
+      "2024-10-08, 18:30:39",
+      "https://news.ycombinator.com/item?id=41780328"
     ],
     [
-      "No Time Like MEMS Time",
-      "https://morethanmoore.substack.com/p/no-time-like-mems-time"
+      "Research in psychology: are we learning anything?",
+      "https://www.experimental-history.com/p/is-psychology-going-to-cincinnati"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 18:20:24",
+      "https://news.ycombinator.com/item?id=41780229"
+    ],
+    [
+      "Kudzu, the vine that never ate the South (2015)",
+      "https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2024-10-07, 18:27:49",
+      "https://news.ycombinator.com/item?id=41769275"
+    ],
+    [
+      "Fun with Go Iterators",
+      "https://xnacly.me/posts/2024/fun-with-iterators/"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 13:02:59",
       "https://news.ycombinator.com/item?id=41765594"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-10-06, 21:32:46",
-      "https://news.ycombinator.com/item?id=41760510"
+      "2024-10-06, 14:29:54",
+      "https://news.ycombinator.com/item?id=41757398"
     ],
     [
-      "Llamafile for Meltemi: The First LLM for Greek",
-      "https://tselai.com/meltemi-llamafile"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 15:30:18",
-      "https://news.ycombinator.com/item?id=41757808"
-    ],
-    [
-      "How electric trains work and why they make interesting sounds [video]",
-      "https://www.youtube.com/watch?v=IRJIJPTUXXE"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 22:46:30",
-      "https://news.ycombinator.com/item?id=41753471"
-    ],
-    [
-      "The deconstructed Standard Model equation",
-      "https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und"
+      "Beast of Gévaudan",
+      "https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan"
     ]
   ]
 ]
