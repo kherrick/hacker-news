@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-11, 18:59:35",
-      "https://news.ycombinator.com/item?id=41812358"
+      "2024-10-11, 19:11:08",
+      "https://news.ycombinator.com/item?id=41812523"
     ],
     [
-      "The sad state of font rendering on Linux",
-      "https://pandasauce.org/post/linux-fonts/"
+      "LLMs don't do formal reasoning – and that is a HUGE problem",
+      "https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Grokking at the edge of linear separability",
       "https://arxiv.org/abs/2410.04489"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 15:45:48",
+      "https://news.ycombinator.com/item?id=41810507"
+    ],
+    [
+      "Show HN: I made an Ollama summarizer for Firefox",
+      "https://addons.mozilla.org/en-US/firefox/addon/spacellama/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Nurdle Patrol",
       "https://www.nurdlepatrol.org/app/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 03:23:28",
-      "https://news.ycombinator.com/item?id=41805702"
-    ],
-    [
-      "AP5 -  Declarative Programming Library For Common Lisp (1995)",
-      "https://oceanpark.com/ap5.html"
     ]
   ],
   [
