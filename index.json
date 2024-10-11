@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2024-10-11, 16:43:54",
+      "https://news.ycombinator.com/item?id=41811045"
+    ],
+    [
+      "The Illusion of Information Adequacy",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 16:09:35",
       "https://news.ycombinator.com/item?id=41810753"
     ],
     [
       "Grokking at the edge of linear separability",
       "https://arxiv.org/abs/2410.04489"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 15:45:48",
-      "https://news.ycombinator.com/item?id=41810507"
-    ],
-    [
-      "Show HN: I made an Ollama summarizer for Firefox",
-      "https://addons.mozilla.org/en-US/firefox/addon/spacellama/"
     ]
   ],
   [
@@ -71,6 +71,26 @@
   ],
   [
     [
+      "2024-10-11, 14:40:22",
+      "https://news.ycombinator.com/item?id=41809876"
+    ],
+    [
+      "The Surprising Predictability of Long Runs (2012) [pdf]",
+      "https://www.csun.edu/~hcmth031/tspolr.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 14:20:26",
+      "https://news.ycombinator.com/item?id=41809698"
+    ],
+    [
+      "Manifest v2 is now removed from Chrome Canary",
+      "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 13:21:41",
       "https://news.ycombinator.com/item?id=41809262"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2024-10-11, 12:37:37",
-      "https://news.ycombinator.com/item?id=41808943"
-    ],
-    [
-      "Show HN: NotesHub: cross-platform, Markdown-based note-taking app",
-      "https://about.noteshub.app"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 11:56:57",
       "https://news.ycombinator.com/item?id=41808696"
     ],
     [
       "A Lisp compiler to RISC-V written in Lisp",
       "http://www.ulisp.com/show?4Y20"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 10:21:29",
-      "https://news.ycombinator.com/item?id=41808127"
-    ],
-    [
-      "Fundamental physics is dying? [video]",
-      "https://www.youtube.com/watch?v=cBIvSGLkwJY"
     ]
   ],
   [
@@ -161,52 +161,12 @@
   ],
   [
     [
-      "2024-10-11, 00:04:52",
-      "https://news.ycombinator.com/item?id=41804829"
-    ],
-    [
-      "ARIA: An Open Multimodal Native Mixture-of-Experts Model",
-      "https://arxiv.org/abs/2410.05993"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 18:37:01",
-      "https://news.ycombinator.com/item?id=41801883"
-    ],
-    [
-      "The Copenhagen Book: general guideline on implementing auth in web applications",
-      "https://thecopenhagenbook.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 17:47:42",
       "https://news.ycombinator.com/item?id=41801334"
     ],
     [
       "Show HN: HTML for People",
       "https://htmlforpeople.com"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 16:50:40",
-      "https://news.ycombinator.com/item?id=41800764"
-    ],
-    [
-      "Game Programming in Prolog",
-      "https://thingspool.net/morsels/page-10.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 16:36:54",
-      "https://news.ycombinator.com/item?id=41800602"
-    ],
-    [
-      "DeskPad – A virtual monitor for screen sharing",
-      "https://github.com/Stengo/DeskPad"
     ]
   ],
   [
@@ -221,22 +181,32 @@
   ],
   [
     [
-      "2024-10-10, 14:16:28",
-      "https://news.ycombinator.com/item?id=41799068"
+      "2024-10-10, 13:02:36",
+      "https://news.ycombinator.com/item?id=41798369"
     ],
     [
-      "AAA Gaming on Asahi Linux",
-      "https://rosenzweig.io/blog/aaa-gaming-on-m1.html"
+      "\"Bad Apple\" in Minecraft",
+      "https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/"
     ]
   ],
   [
     [
-      "2024-10-10, 11:21:53",
-      "https://news.ycombinator.com/item?id=41797719"
+      "2024-10-09, 15:48:52",
+      "https://news.ycombinator.com/item?id=41789228"
     ],
     [
-      "Helping wikis move away from Fandom",
-      "https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom"
+      "A Georgist's Guerilla Gardening Guide",
+      "https://taylor.town/oh-trespassing"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 14:42:39",
+      "https://news.ycombinator.com/item?id=41788426"
+    ],
+    [
+      "Io_uring and seccomp (2022)",
+      "https://blog.0x74696d.com/posts/iouring-and-seccomp/"
     ]
   ],
   [
@@ -251,12 +221,42 @@
   ],
   [
     [
-      "2024-10-08, 14:52:33",
-      "https://news.ycombinator.com/item?id=41777995"
+      "2024-10-09, 09:45:51",
+      "https://news.ycombinator.com/item?id=41786067"
     ],
     [
-      "Uxn",
-      "https://100r.co/site/uxn.html"
+      "Conway's Gradient of Life",
+      "https://hardmath123.github.io/conways-gradient.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 07:58:31",
+      "https://news.ycombinator.com/item?id=41785543"
+    ],
+    [
+      "The Joides Resolution may have sailed its last expedition",
+      "https://www.theguardian.com/environment/2024/oct/09/a-huge-loss-is-it-the-end-for-the-ship-that-helped-us-understand-life-on-earth"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 04:32:16",
+      "https://news.ycombinator.com/item?id=41784521"
+    ],
+    [
+      "Linear Variable Differential Transformer (LVDT) Basics",
+      "https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 03:34:09",
+      "https://news.ycombinator.com/item?id=41784263"
+    ],
+    [
+      "Bear is a tool that generates a compilation database for Clang tooling",
+      "https://github.com/rizsotto/Bear"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-10-08, 05:21:05",
+      "https://news.ycombinator.com/item?id=41774062"
+    ],
+    [
+      "When Two Sea Aliens Become One",
+      "https://www.nytimes.com/2024/10/07/science/comb-jellies-fusing-bodies.html"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 01:45:14",
       "https://news.ycombinator.com/item?id=41773020"
     ],
     [
       "Run Llama locally with only PyTorch on CPU",
       "https://github.com/anordin95/run-llama-locally"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 21:51:52",
-      "https://news.ycombinator.com/item?id=41771452"
-    ],
-    [
-      "History Of Hacking The Nintendo 3DS (2019) [pdf]",
-      "https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf"
     ]
   ],
   [
