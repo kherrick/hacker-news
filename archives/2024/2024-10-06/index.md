@@ -47,6 +47,7 @@
 * [2024-10-06, 15:18:20](https://news.ycombinator.com/item?id=41757711) - [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
 * [2024-10-06, 15:16:41](https://news.ycombinator.com/item?id=41757701) - [The Strict Aliasing Situation Is Pretty Bad (2016)](https://blog.regehr.org/archives/1307)
 * [2024-10-06, 14:59:34](https://news.ycombinator.com/item?id=41757586) - [Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
+* [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 * [2024-10-06, 14:20:24](https://news.ycombinator.com/item?id=41757346) - [Fluoride in Our Drinking Water May Not Be as Useful as It Used to Be](https://gizmodo.com/fluoride-in-our-drinking-water-may-not-be-as-useful-as-it-used-to-be-2000507454)
 * [2024-10-06, 13:53:40](https://news.ycombinator.com/item?id=41757198) - [One Genius' Lonely Crusade to Teach a Computer Common Sense](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/)
 * [2024-10-06, 13:29:25](https://news.ycombinator.com/item?id=41757034) - [My search for the mysterious missing secretary who shaped chatbot history](https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602)
