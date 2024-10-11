@@ -4,6 +4,7 @@
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular expression search with suffix arrays (2015)](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [2024-10-11, 17:29:14](https://news.ycombinator.com/item?id=41811458) - [Hamming AI (YC S24) Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
+* [2024-10-11, 17:10:49](https://news.ycombinator.com/item?id=41811298) - [Erlang Solutions: Why do systems fail? Tandem NonStop system and fault tolerance](https://www.erlang-solutions.com/blog/why-do-systems-fail-tandem-nonstop-system-and-fault-tolerance/)
 * [2024-10-11, 17:06:30](https://news.ycombinator.com/item?id=41811263) - [How long til we're all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 * [2024-10-11, 16:43:54](https://news.ycombinator.com/item?id=41811045) - [The Illusion of Information Adequacy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216)
@@ -28,7 +29,6 @@
 * [2024-10-09, 07:58:31](https://news.ycombinator.com/item?id=41785543) - [The Joides Resolution may have sailed its last expedition](https://www.theguardian.com/environment/2024/oct/09/a-huge-loss-is-it-the-end-for-the-ship-that-helped-us-understand-life-on-earth)
 * [2024-10-09, 04:32:16](https://news.ycombinator.com/item?id=41784521) - [Linear Variable Differential Transformer (LVDT) Basics](https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html)
 * [2024-10-09, 03:34:09](https://news.ycombinator.com/item?id=41784263) - [Bear is a tool that generates a compilation database for Clang tooling](https://github.com/rizsotto/Bear)
-* [2024-10-08, 12:32:27](https://news.ycombinator.com/item?id=41776631) - [Archaeologists found an ancient Egyptian observatory](https://arstechnica.com/science/2024/10/archaeologists-found-an-ancient-egyptian-observatory/)
 * [2024-10-08, 01:45:14](https://news.ycombinator.com/item?id=41773020) - [Run Llama locally with only PyTorch on CPU](https://github.com/anordin95/run-llama-locally)
 
 ## [Archives](archives/index.md)
