@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 06:02:51](https://news.ycombinator.com/item?id=41806645) - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 * [2024-10-11, 03:24:25](https://news.ycombinator.com/item?id=41805706) - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
@@ -24,7 +25,6 @@
 * [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
-* [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 14:03:17](https://news.ycombinator.com/item?id=41766126) - [Show HN: Daily puzzle game where you build a bridge of your own words (SolidJS)](https://bridj.link/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
