@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 21:03:50](https://news.ycombinator.com/item?id=41813720) - [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
+* [2024-10-11, 20:41:07](https://news.ycombinator.com/item?id=41813502) - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)
 * [2024-10-11, 20:18:30](https://news.ycombinator.com/item?id=41813304) - [Working from Home Is Powering Productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
 * [2024-10-11, 20:15:28](https://news.ycombinator.com/item?id=41813268) - [Machines of Loving Grace: How AI Could Transform the World for the Better](https://darioamodei.com/machines-of-loving-grace)
 * [2024-10-11, 19:42:34](https://news.ycombinator.com/item?id=41812876) - [In SSRI Withdrawal, Brain Zaps Go from Overlooked Symptom to Center Stage](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
