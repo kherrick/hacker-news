@@ -6,6 +6,7 @@
 * [2024-10-11, 20:18:30](https://news.ycombinator.com/item?id=41813304) - [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
 * [2024-10-11, 20:15:28](https://news.ycombinator.com/item?id=41813268) - [Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 * [2024-10-11, 19:42:34](https://news.ycombinator.com/item?id=41812876) - [In SSRI withdrawal, brain zaps go from overlooked symptom to center stage (2023)](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
+* [2024-10-11, 19:37:32](https://news.ycombinator.com/item?id=41812813) - [Valve says Steam users don't own a thing, GOG says its games can't be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
 * [2024-10-11, 18:57:33](https://news.ycombinator.com/item?id=41812336) - [Gleam: A Basic Introduction](https://peq42.com/blog/gleam-a-basic-introduction/)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular expression search with suffix arrays (2015)](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
@@ -29,7 +30,6 @@
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 01:45:14](https://news.ycombinator.com/item?id=41773020) - [Run Llama locally with only PyTorch on CPU](https://github.com/anordin95/run-llama-locally)
 * [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
-* [2024-10-07, 19:12:39](https://news.ycombinator.com/item?id=41769815) - [Age of Invention: The Coal Conquest](https://www.ageofinvention.xyz/p/age-of-invention-the-coal-conquest)
 
 ## [Archives](archives/index.md)
 
