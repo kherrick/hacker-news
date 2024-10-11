@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
+* [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
@@ -15,7 +15,6 @@
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 13:00:23](https://news.ycombinator.com/item?id=41798359) - [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://brokencloudstorage.info/)
-* [2024-10-10, 11:47:01](https://news.ycombinator.com/item?id=41797875) - [First Report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
@@ -24,6 +23,7 @@
 * [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-08, 10:16:48](https://news.ycombinator.com/item?id=41775641) - [Switching to 5Ghz WiFi made the Raspberry Pi fly again](http://moritzhamann.com/blog/2024-10-08-raspberrypi-wifi-freq.html)
+* [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
