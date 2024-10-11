@@ -27,9 +27,9 @@
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
+* [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates](https://davesmyth.com/day-rates)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
-* [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 
 ## [Archives](archives/index.md)
 
