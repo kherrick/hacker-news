@@ -8,6 +8,7 @@
 * [2024-10-10, 23:18:19](https://news.ycombinator.com/item?id=41804555) - [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 23:04:04](https://news.ycombinator.com/item?id=41804460) - [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
 * [2024-10-10, 22:46:59](https://news.ycombinator.com/item?id=41804356) - [The 'Beautiful Confusion' of the First Billion Years Comes into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
+* [2024-10-10, 22:44:46](https://news.ycombinator.com/item?id=41804341) - [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
 * [2024-10-10, 20:39:09](https://news.ycombinator.com/item?id=41803327) - [Next.js, Just Why?](https://pilcrowonpaper.com/blog/nextjs-why/)
 * [2024-10-10, 20:38:49](https://news.ycombinator.com/item?id=41803324) - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)

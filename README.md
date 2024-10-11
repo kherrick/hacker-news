@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
-* [2024-10-11, 06:13:22](https://news.ycombinator.com/item?id=41806714) - [Tesla's Robotaxi day was a total Snoozefest](https://twitter.com/realdanodowd/status/1844605093368512799)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 00:34:01](https://news.ycombinator.com/item?id=41804983) - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
+* [2024-10-10, 22:44:46](https://news.ycombinator.com/item?id=41804341) - [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
