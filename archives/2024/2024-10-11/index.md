@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 19:42:34](https://news.ycombinator.com/item?id=41812876) - [In SSRI Withdrawal, Brain Zaps Go from Overlooked Symptom to Center Stage](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
+* [2024-10-11, 19:37:32](https://news.ycombinator.com/item?id=41812813) - [Valve says Steam users don't own a thing, GOG says its games can't be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
 * [2024-10-11, 19:11:08](https://news.ycombinator.com/item?id=41812523) - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-11, 18:59:35](https://news.ycombinator.com/item?id=41812358) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
