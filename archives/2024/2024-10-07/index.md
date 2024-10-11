@@ -72,6 +72,7 @@
 * [2024-10-07, 11:54:35](https://news.ycombinator.com/item?id=41765098) - [Could we build a computer designed to last at least fifty years?](https://ploum.net/the-computer-built-to-last-50-years/index.html)
 * [2024-10-07, 11:40:14](https://news.ycombinator.com/item?id=41765009) - [Is Android Unicode Yet?](https://shkspr.mobi/blog/2024/10/is-android-unicode-yet/)
 * [2024-10-07, 11:39:03](https://news.ycombinator.com/item?id=41765006) - [California Bans Sell-By Dates](https://www.foodandwine.com/california-bans-sell-by-dates-8723111)
+* [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates](https://davesmyth.com/day-rates)
 * [2024-10-07, 10:46:30](https://news.ycombinator.com/item?id=41764692) - [Prioritize Through Purpose](https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/)
 * [2024-10-07, 10:43:14](https://news.ycombinator.com/item?id=41764670) - [TikTok parent launched a scraper gobbling up world's data 25x faster than OpenAI](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
 * [2024-10-07, 10:38:36](https://news.ycombinator.com/item?id=41764635) - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)

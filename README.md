@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 03:24:25](https://news.ycombinator.com/item?id=41805706) - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 * [2024-10-11, 01:36:57](https://news.ycombinator.com/item?id=41805288) - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
 * [2024-10-11, 00:34:01](https://news.ycombinator.com/item?id=41804983) - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
 * [2024-10-10, 23:18:19](https://news.ycombinator.com/item?id=41804555) - [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
-* [2024-10-10, 23:04:04](https://news.ycombinator.com/item?id=41804460) - [Is population density the reason Americans can't discuss politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
@@ -27,8 +27,8 @@
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
+* [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates](https://davesmyth.com/day-rates)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
-* [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
 * [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 
 ## [Archives](archives/index.md)
