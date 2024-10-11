@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-10-11, 18:06:40",
+      "https://news.ycombinator.com/item?id=41811760"
+    ],
+    [
+      "Regular Expression Search with Suffix Arrays",
+      "https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 17:29:14",
       "https://news.ycombinator.com/item?id=41811458"
     ],
     [
       "Hamming AI (YC S24) Is Hiring a Product Engineer",
       "https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 17:11:43",
-      "https://news.ycombinator.com/item?id=41811309"
-    ],
-    [
-      "The life-changing magic of Japanese clutter",
-      "https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter"
     ]
   ],
   [
@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2024-10-11, 16:57:55",
+      "https://news.ycombinator.com/item?id=41811172"
+    ],
+    [
+      "Pizza Hut Will Deliver Your Resume Printed on a Pizza Box to Potential Employers",
+      "https://mossandfog.com/pizza-hut-will-deliver-your-resume-printed-on-a-pizza-box-to-prospective-employers/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 16:46:54",
       "https://news.ycombinator.com/item?id=41811078"
     ],
     [
-      "Lm.rs Minimal CPU LLM inference in Rust with no dependency",
+      "Lm.rs: Minimal CPU LLM inference in Rust with no dependency",
       "https://github.com/samuel-vitorino/lm.rs"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41809698"
     ],
     [
-      "Manifest v2 is now removed from Chrome Canary",
+      "\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"",
       "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
     ]
   ],
@@ -107,6 +117,16 @@
     [
       "A Lisp compiler to RISC-V written in Lisp",
       "http://www.ulisp.com/show?4Y20"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 10:21:29",
+      "https://news.ycombinator.com/item?id=41808127"
+    ],
+    [
+      "Fundamental physics is dying? [video]",
+      "https://www.youtube.com/watch?v=cBIvSGLkwJY"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Nurdle Patrol",
       "https://www.nurdlepatrol.org/app/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 03:23:28",
-      "https://news.ycombinator.com/item?id=41805702"
-    ],
-    [
-      "AP5 -  Declarative Programming Library For Common Lisp (1995)",
-      "https://oceanpark.com/ap5.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Run Llama locally with only PyTorch on CPU",
       "https://github.com/anordin95/run-llama-locally"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 23:45:13",
-      "https://news.ycombinator.com/item?id=41753677"
-    ],
-    [
-      "“Lucky” Fish Could Save Lives (2015)",
-      "https://www.smithsonianmag.com/innovation/lucky-fish-could-save-lives-180955818/"
     ]
   ]
 ]
