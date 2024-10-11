@@ -24,12 +24,12 @@
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [\"Bad Apple\" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-09, 14:42:39](https://news.ycombinator.com/item?id=41788426) - [Io_uring and seccomp (2022)](https://blog.0x74696d.com/posts/iouring-and-seccomp/)
-* [2024-10-09, 14:21:11](https://news.ycombinator.com/item?id=41788254) - [Show HN: QuickDessert – generate quick dessert recipes and adjust Ingredients](https://quickdessert.recipes)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
 * [2024-10-09, 03:34:09](https://news.ycombinator.com/item?id=41784263) - [Bear is a tool that generates a compilation database for Clang tooling](https://github.com/rizsotto/Bear)
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 01:45:14](https://news.ycombinator.com/item?id=41773020) - [Run Llama locally with only PyTorch on CPU](https://github.com/anordin95/run-llama-locally)
 * [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
+* [2024-10-07, 19:12:39](https://news.ycombinator.com/item?id=41769815) - [Age of Invention: The Coal Conquest](https://www.ageofinvention.xyz/p/age-of-invention-the-coal-conquest)
 
 ## [Archives](archives/index.md)
 
