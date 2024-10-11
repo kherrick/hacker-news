@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 12:34:02](https://news.ycombinator.com/item?id=41808917) - [Google Play killed my game and won't tell me why](https://antiidlereborn.com/news/)
+* [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
+* [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 11:49:17](https://news.ycombinator.com/item?id=41808634) - [Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
@@ -24,7 +25,6 @@
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
 * [2024-10-09, 11:39:54](https://news.ycombinator.com/item?id=41786768) - [Bridge to Nowhere](https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/)
 * [2024-10-08, 18:30:39](https://news.ycombinator.com/item?id=41780328) - [Research in psychology: are we learning anything?](https://www.experimental-history.com/p/is-psychology-going-to-cincinnati)
-* [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-08, 12:32:27](https://news.ycombinator.com/item?id=41776631) - [Archaeologists found an ancient Egyptian observatory](https://arstechnica.com/science/2024/10/archaeologists-found-an-ancient-egyptian-observatory/)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)

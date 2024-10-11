@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
+* [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 12:34:02](https://news.ycombinator.com/item?id=41808917) - [Google Play killed my game and won't tell me why](https://antiidlereborn.com/news/)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
