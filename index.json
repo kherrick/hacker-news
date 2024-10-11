@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-10-11, 15:21:15",
-      "https://news.ycombinator.com/item?id=41810292"
-    ],
-    [
-      "macOS defaults: a list of macOS defaults commands with demos",
-      "https://macos-defaults.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 14:40:39",
       "https://news.ycombinator.com/item?id=41809879"
     ],
     [
       "Show HN: Dead man's switch without reliance on your infra",
       "https://github.com/adamdecaf/deadcheck"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 14:20:26",
-      "https://news.ycombinator.com/item?id=41809698"
-    ],
-    [
-      "Manifest v2 is now removed from Chrome canary",
-      "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-10-10, 14:40:43",
+      "https://news.ycombinator.com/item?id=41799324"
+    ],
+    [
+      "The science behind on-the-wrist blood pressure tracking",
+      "https://www.empirical.health/blog/apple-watch-blood-pressure/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 14:16:28",
       "https://news.ycombinator.com/item?id=41799068"
     ],
@@ -197,6 +187,16 @@
     [
       "Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel",
       "https://tenno.app"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 13:15:28",
+      "https://news.ycombinator.com/item?id=41798475"
+    ],
+    [
+      "Designing a Fast Concurrent Hash Table",
+      "https://ibraheem.ca/posts/designing-papaya/"
     ]
   ],
   [
