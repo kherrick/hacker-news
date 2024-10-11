@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 18:59:35](https://news.ycombinator.com/item?id=41812358) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
+* [2024-10-11, 19:11:08](https://news.ycombinator.com/item?id=41812523) - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular expression search with suffix arrays (2015)](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [2024-10-11, 17:29:14](https://news.ycombinator.com/item?id=41811458) - [Hamming AI (YC S24) Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
@@ -8,6 +8,7 @@
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 * [2024-10-11, 16:43:54](https://news.ycombinator.com/item?id=41811045) - [The Illusion of Information Adequacy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310216)
 * [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the edge of linear separability](https://arxiv.org/abs/2410.04489)
+* [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
 * [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
 * [2024-10-11, 14:40:22](https://news.ycombinator.com/item?id=41809876) - [The Surprising Predictability of Long Runs (2012) [pdf]](https://www.csun.edu/~hcmth031/tspolr.pdf)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
@@ -17,7 +18,6 @@
 * [2024-10-11, 09:20:15](https://news.ycombinator.com/item?id=41807783) - [Show HN: I made a simple web app to help kids learn a new language](https://www.voiczy.com)
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
-* [2024-10-11, 03:23:28](https://news.ycombinator.com/item?id=41805702) - [AP5 -  Declarative Programming Library For Common Lisp (1995)](https://oceanpark.com/ap5.html)
 * [2024-10-10, 15:52:38](https://news.ycombinator.com/item?id=41800150) - [James Salter: Pilot, Screenwriter, Novelist](https://literaryreview.co.uk/author-aviator)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [\"Bad Apple\" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-09, 15:48:52](https://news.ycombinator.com/item?id=41789228) - [A Georgist's Guerilla Gardening Guide](https://taylor.town/oh-trespassing)

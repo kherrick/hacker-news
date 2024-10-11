@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 19:11:08](https://news.ycombinator.com/item?id=41812523) - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-11, 18:59:35](https://news.ycombinator.com/item?id=41812358) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular Expression Search with Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
