@@ -48,6 +48,7 @@
 * [2024-10-09, 13:33:01](https://news.ycombinator.com/item?id=41787798) - [On 17th century \"cocaine\"](https://resobscura.substack.com/p/on-17th-century-cocaine)
 * [2024-10-09, 13:16:55](https://news.ycombinator.com/item?id=41787647) - [Germans decry influence of English as 'idiot's apostrophe' gets approval](https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe)
 * [2024-10-09, 13:16:20](https://news.ycombinator.com/item?id=41787644) - [AI-Powered Electronic Component Sorter](https://github.com/Vanguard-s/Electronic-Component-Sorter)
+* [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
 * [2024-10-09, 12:42:24](https://news.ycombinator.com/item?id=41787290) - [Google threatened with being broken up by US](https://www.bbc.com/news/articles/c62504lv00do)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
 * [2024-10-09, 12:00:05](https://news.ycombinator.com/item?id=41786924) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
