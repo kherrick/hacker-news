@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=41813720"
     ],
     [
-      "An exoskeleton let a paralyzed man walk. Then its maker refused repairs",
+      "An exoskeleton let a paralyzed man walk, then its maker refused repairs",
       "https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 20:58:48",
+      "https://news.ycombinator.com/item?id=41813676"
+    ],
+    [
+      "Kagi Snaps",
+      "https://help.kagi.com/kagi/features/snaps.html"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Machines of loving grace: How AI could transform the world for the better",
       "https://darioamodei.com/machines-of-loving-grace"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 20:13:06",
+      "https://news.ycombinator.com/item?id=41813231"
+    ],
+    [
+      "Tesla's value drops $60B after investors fail to hail self-driving 'Cybercab'",
+      "https://www.theguardian.com/business/2024/oct/11/teslas-value-drops-60bn-after-self-driving-cybercab-fails-to-excite-investors"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41811298"
     ],
     [
-      "Erlang Solutions: Why do systems fail? Tandem NonStop system and fault tolerance",
+      "Why do systems fail? Tandem NonStop system and fault tolerance",
       "https://www.erlang-solutions.com/blog/why-do-systems-fail-tandem-nonstop-system-and-fault-tolerance/"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-10-09, 04:32:16",
-      "https://news.ycombinator.com/item?id=41784521"
-    ],
-    [
-      "Linear Variable Differential Transformer (LVDT) Basics",
-      "https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html"
-    ]
-  ],
-  [
-    [
       "2024-10-09, 03:34:09",
       "https://news.ycombinator.com/item?id=41784263"
     ],
@@ -287,16 +297,6 @@
     [
       "Windows dynamic linking depends on the active code page",
       "https://nullprogram.com/blog/2024/10/07/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 19:12:39",
-      "https://news.ycombinator.com/item?id=41769815"
-    ],
-    [
-      "Age of Invention: The Coal Conquest",
-      "https://www.ageofinvention.xyz/p/age-of-invention-the-coal-conquest"
     ]
   ]
 ]
