@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
 * [2024-10-07, 23:58:18](https://news.ycombinator.com/item?id=41772415) - [Configuring the XpPen ACK05 Remote with Only Floss on GNU/Linux: My Investigati](https://www.davidrevoy.com/article1047/configuring-the-xppen-ack05-remote-with-only-floss-on-gnulinux-my-investigation-and-workarounds)
+* [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 21:51:09](https://news.ycombinator.com/item?id=41771440) - [A Language of Beautiful Impurity](https://www.edwest.co.uk/p/a-language-of-beautiful-impurity)
 * [2024-10-07, 21:37:25](https://news.ycombinator.com/item?id=41771331) - [What is \"founder mode\"?](https://tomblomfield.com/post/763715798246227968/what-is-founder-mode)
 * [2024-10-07, 21:30:41](https://news.ycombinator.com/item?id=41771272) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
