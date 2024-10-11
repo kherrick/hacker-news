@@ -30,6 +30,7 @@
 * [2024-10-08, 18:32:40](https://news.ycombinator.com/item?id=41780347) - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
 * [2024-10-08, 18:30:39](https://news.ycombinator.com/item?id=41780328) - [Research in psychology: are we learning anything?](https://www.experimental-history.com/p/is-psychology-going-to-cincinnati)
 * [2024-10-08, 18:27:46](https://news.ycombinator.com/item?id=41780297) - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
+* [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 17:56:37](https://news.ycombinator.com/item?id=41779984) - [Caveman Debugging in the Modern Age](https://theapache64.github.io/posts/caveman-debugging-using-live-templates/)
 * [2024-10-08, 17:52:14](https://news.ycombinator.com/item?id=41779952) - [European govt air-gapped systems breached using custom malware](https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/)
