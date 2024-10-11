@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-11, 14:43:39](https://news.ycombinator.com/item?id=41809911) - [Apple's naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)
+* [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
@@ -17,7 +18,6 @@
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
 * [2024-10-10, 16:50:40](https://news.ycombinator.com/item?id=41800764) - [Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)
 * [2024-10-10, 16:36:54](https://news.ycombinator.com/item?id=41800602) - [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
-* [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 * [2024-10-10, 14:16:28](https://news.ycombinator.com/item?id=41799068) - [AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
@@ -29,7 +29,7 @@
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 21:51:09](https://news.ycombinator.com/item?id=41771440) - [A Language of Beautiful Impurity](https://www.edwest.co.uk/p/a-language-of-beautiful-impurity)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
-* [2024-10-05, 23:45:13](https://news.ycombinator.com/item?id=41753677) - [\"Lucky\" Fish Could Save Lives (2015)](https://www.smithsonianmag.com/innovation/lucky-fish-could-save-lives-180955818/)
+* [2024-10-05, 23:45:13](https://news.ycombinator.com/item?id=41753677) - [“Lucky” Fish Could Save Lives (2015)](https://www.smithsonianmag.com/innovation/lucky-fish-could-save-lives-180955818/)
 
 ## [Archives](archives/index.md)
 
