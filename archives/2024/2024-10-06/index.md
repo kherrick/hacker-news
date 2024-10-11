@@ -7,6 +7,7 @@
 * [2024-10-06, 23:52:43](https://news.ycombinator.com/item?id=41761409) - [The Surprising Backstory Behind Gustav Klimt's Obsession with Gold](https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498)
 * [2024-10-06, 22:52:52](https://news.ycombinator.com/item?id=41761045) - [As Milton barrels toward Florida, FEMA's capacity could be tested](https://www.washingtonpost.com/weather/2024/10/06/fema-hurricane-florida-milton-helene/)
 * [2024-10-06, 22:48:06](https://news.ycombinator.com/item?id=41761007) - [AI won't replace human devs anytime soon](https://twitter.com/skeptrune/status/1843060221494895058)
+* [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
 * [2024-10-06, 22:02:34](https://news.ycombinator.com/item?id=41760697) - [Sq.io: jq for databases and much more](https://sq.io)
 * [2024-10-06, 21:47:19](https://news.ycombinator.com/item?id=41760607) - [Make Music at the Command Line on the Commodore C64 [video]](https://www.youtube.com/watch?v=ly5BhGOt2vE)
 * [2024-10-06, 21:33:19](https://news.ycombinator.com/item?id=41760513) - [Hyprland 0.44.0](https://hyprland.org/news/update44/)
