@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 10:59:19](https://news.ycombinator.com/item?id=41808351) - [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-11, 03:23:28](https://news.ycombinator.com/item?id=41805702) - [AP5 -  Declarative Programming Library For Common Lisp (1995)](https://oceanpark.com/ap5.html)
@@ -15,7 +16,6 @@
 * [2024-10-10, 14:16:28](https://news.ycombinator.com/item?id=41799068) - [AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
 * [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
-* [2024-10-10, 13:00:23](https://news.ycombinator.com/item?id=41798359) - [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://brokencloudstorage.info/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
@@ -23,12 +23,12 @@
 * [2024-10-08, 18:30:39](https://news.ycombinator.com/item?id=41780328) - [Research in psychology: are we learning anything?](https://www.experimental-history.com/p/is-psychology-going-to-cincinnati)
 * [2024-10-08, 18:20:24](https://news.ycombinator.com/item?id=41780229) - [Kudzu, the vine that never ate the South (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
+* [2024-10-08, 12:32:27](https://news.ycombinator.com/item?id=41776631) - [Archaeologists found an ancient Egyptian observatory](https://arstechnica.com/science/2024/10/archaeologists-found-an-ancient-egyptian-observatory/)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
 * [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
-* [2024-10-06, 21:32:46](https://news.ycombinator.com/item?id=41760510) - [Llamafile for Meltemi: The First LLM for Greek](https://tselai.com/meltemi-llamafile)
 * [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
 
 ## [Archives](archives/index.md)
