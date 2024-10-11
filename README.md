@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the Edge of Linear Separability](https://arxiv.org/abs/2410.04489)
+* [2024-10-11, 15:07:57](https://news.ycombinator.com/item?id=41810150) - [The Role of Anchor Tokens in Self-Attention Networks](https://arxiv.org/abs/2402.07616)
 * [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
-* [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
@@ -18,7 +19,6 @@
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 * [2024-10-10, 14:16:28](https://news.ycombinator.com/item?id=41799068) - [AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
-* [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the Edge of Linear Separability](https://arxiv.org/abs/2410.04489)
 * [2024-10-11, 15:21:15](https://news.ycombinator.com/item?id=41810292) - [macOS defaults: a list of macOS defaults commands with demos](https://macos-defaults.com/)
+* [2024-10-11, 15:07:57](https://news.ycombinator.com/item?id=41810150) - [The Role of Anchor Tokens in Self-Attention Networks](https://arxiv.org/abs/2402.07616)
 * [2024-10-11, 14:43:39](https://news.ycombinator.com/item?id=41809911) - [Apple's naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)
 * [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
