@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-10-11, 12:34:02",
+      "https://news.ycombinator.com/item?id=41808917"
+    ],
+    [
+      "Google Play killed my game and won't tell me why",
+      "https://antiidlereborn.com/news/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 11:56:57",
       "https://news.ycombinator.com/item?id=41808696"
     ],
     [
       "A Lisp compiler to RISC-V written in Lisp",
       "http://www.ulisp.com/show?4Y20"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 11:55:06",
+      "https://news.ycombinator.com/item?id=41808683"
+    ],
+    [
+      "Understanding the Limitations of Mathematical Reasoning in Large Language Models",
+      "https://arxiv.org/abs/2410.05229"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 11:52:00",
+      "https://news.ycombinator.com/item?id=41808663"
+    ],
+    [
+      "Regrad Is Micrograd in Rust",
+      "https://github.com/ostadgeorge/regrad"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 11:49:17",
+      "https://news.ycombinator.com/item?id=41808634"
+    ],
+    [
+      "Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM",
+      "https://graypaper.com/"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "Startup Success: How Founder Personalities Shape Venture Outcomes",
       "https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 10:01:32",
+      "https://news.ycombinator.com/item?id=41808013"
+    ],
+    [
+      "Initial CUDA Performance Lessons",
+      "https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2024-10-10, 22:44:46",
-      "https://news.ycombinator.com/item?id=41804341"
-    ],
-    [
-      "Chunkr – Vision model based PDF chunking",
-      "https://github.com/lumina-ai-inc/chunkr"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 18:37:01",
       "https://news.ycombinator.com/item?id=41801883"
     ],
@@ -117,16 +157,6 @@
     [
       "DeskPad – A virtual monitor for screen sharing",
       "https://github.com/Stengo/DeskPad"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 15:42:47",
-      "https://news.ycombinator.com/item?id=41800036"
-    ],
-    [
-      "Ironies of Automation (1983)",
-      "http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-10-08, 18:20:24",
-      "https://news.ycombinator.com/item?id=41780229"
-    ],
-    [
-      "Kudzu, the vine that never ate the South (2015)",
-      "https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/"
-    ]
-  ],
-  [
-    [
       "2024-10-08, 14:52:33",
       "https://news.ycombinator.com/item?id=41777995"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-10-07, 11:21:25",
-      "https://news.ycombinator.com/item?id=41764903"
-    ],
-    [
-      "Day Rates (2023)",
-      "https://davesmyth.com/day-rates"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 02:40:47",
       "https://news.ycombinator.com/item?id=41762307"
     ],
@@ -287,16 +297,6 @@
     [
       "Ceres: An ocean world in the asteroid belt",
       "https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 15:30:18",
-      "https://news.ycombinator.com/item?id=41757808"
-    ],
-    [
-      "How electric trains work and why they make interesting sounds [video]",
-      "https://www.youtube.com/watch?v=IRJIJPTUXXE"
     ]
   ]
 ]
