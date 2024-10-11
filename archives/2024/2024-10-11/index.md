@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 14:43:39](https://news.ycombinator.com/item?id=41809911) - [Apple's naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)

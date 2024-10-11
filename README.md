@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 14:43:39](https://news.ycombinator.com/item?id=41809911) - [Apple's naming conventions are a mess](https://medium.com/@spacedawwwg/apples-naming-conventions-are-a-mess-here-s-what-i-would-do-f8ba364ce37a)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
@@ -19,17 +20,16 @@
 * [2024-10-10, 14:40:43](https://news.ycombinator.com/item?id=41799324) - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
 * [2024-10-10, 14:16:28](https://news.ycombinator.com/item?id=41799068) - [AAA Gaming on Asahi Linux](https://rosenzweig.io/blog/aaa-gaming-on-m1.html)
 * [2024-10-10, 13:15:38](https://news.ycombinator.com/item?id=41798477) - [Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel](https://tenno.app)
-* [2024-10-10, 13:15:28](https://news.ycombinator.com/item?id=41798475) - [Designing a Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 11:21:53](https://news.ycombinator.com/item?id=41797719) - [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 * [2024-10-09, 13:07:19](https://news.ycombinator.com/item?id=41787547) - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
 * [2024-10-09, 11:39:54](https://news.ycombinator.com/item?id=41786768) - [Bridge to Nowhere](https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/)
-* [2024-10-08, 18:30:39](https://news.ycombinator.com/item?id=41780328) - [Research in psychology: are we learning anything?](https://www.experimental-history.com/p/is-psychology-going-to-cincinnati)
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-08, 12:32:27](https://news.ycombinator.com/item?id=41776631) - [Archaeologists found an ancient Egyptian observatory](https://arstechnica.com/science/2024/10/archaeologists-found-an-ancient-egyptian-observatory/)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 21:51:09](https://news.ycombinator.com/item?id=41771440) - [A Language of Beautiful Impurity](https://www.edwest.co.uk/p/a-language-of-beautiful-impurity)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
+* [2024-10-05, 23:45:13](https://news.ycombinator.com/item?id=41753677) - [\"Lucky\" Fish Could Save Lives (2015)](https://www.smithsonianmag.com/innovation/lucky-fish-could-save-lives-180955818/)
 
 ## [Archives](archives/index.md)
 
