@@ -103,6 +103,7 @@
 * [2024-10-07, 03:18:04](https://news.ycombinator.com/item?id=41762468) - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 * [2024-10-07, 03:00:55](https://news.ycombinator.com/item?id=41762397) - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
 * [2024-10-07, 03:00:07](https://news.ycombinator.com/item?id=41762394) - [Nintendo's Legal Hitlist Grows](https://fandomwire.com/nintendos-legal-hitlist-grows-latest-switch-emulator-shutdown-is-how-we-know-their-lawyers-are-cashing-in-big-time/)
+* [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-07, 02:30:45](https://news.ycombinator.com/item?id=41762255) - [The Fed Took $3k from You and Gave It to Jamie Dimon](https://www.thebignewsletter.com/p/monopoly-round-up-the-fed-took-3k)
 * [2024-10-07, 02:13:24](https://news.ycombinator.com/item?id=41762156) - [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 * [2024-10-07, 01:42:57](https://news.ycombinator.com/item?id=41761986) - [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)

@@ -4,7 +4,6 @@
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 * [2024-10-11, 01:36:57](https://news.ycombinator.com/item?id=41805288) - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
-* [2024-10-11, 00:38:42](https://news.ycombinator.com/item?id=41805009) - [Realizing the dream of good workplace software](https://www.campsite.com/blog/realizing-the-dream-of-good-workplace-software)
 * [2024-10-11, 00:34:01](https://news.ycombinator.com/item?id=41804983) - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
@@ -29,6 +28,7 @@
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 14:03:17](https://news.ycombinator.com/item?id=41766126) - [Show HN: Daily puzzle game where you build a bridge of your own words (SolidJS)](https://bridj.link/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
+* [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
 
 ## [Archives](archives/index.md)
