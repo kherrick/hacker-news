@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
 * [2024-10-11, 06:02:51](https://news.ycombinator.com/item?id=41806645) - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 * [2024-10-11, 03:24:25](https://news.ycombinator.com/item?id=41805706) - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
@@ -26,7 +27,6 @@
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
-* [2024-10-07, 14:03:17](https://news.ycombinator.com/item?id=41766126) - [Show HN: Daily puzzle game where you build a bridge of your own words (SolidJS)](https://bridj.link/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
 * [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)

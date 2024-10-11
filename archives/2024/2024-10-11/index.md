@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
 * [2024-10-11, 06:02:51](https://news.ycombinator.com/item?id=41806645) - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 * [2024-10-11, 03:24:25](https://news.ycombinator.com/item?id=41805706) - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 * [2024-10-11, 02:39:42](https://news.ycombinator.com/item?id=41805515) - [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
