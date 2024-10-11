@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
+* [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
-* [2024-10-11, 00:34:01](https://news.ycombinator.com/item?id=41804983) - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
 * [2024-10-11, 00:04:52](https://news.ycombinator.com/item?id=41804829) - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
+* [2024-10-10, 22:44:46](https://news.ycombinator.com/item?id=41804341) - [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 * [2024-10-10, 18:37:01](https://news.ycombinator.com/item?id=41801883) - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 * [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
@@ -25,11 +25,11 @@
 * [2024-10-08, 14:52:33](https://news.ycombinator.com/item?id=41777995) - [Uxn](https://100r.co/site/uxn.html)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 20:06:46](https://news.ycombinator.com/item?id=41770389) - [Answer any question about your photo albums with OmniQuery](https://jiahaoli.net/omniquery/)
-* [2024-10-07, 18:27:49](https://news.ycombinator.com/item?id=41769275) - [Fun with Go Iterators](https://xnacly.me/posts/2024/fun-with-iterators/)
 * [2024-10-07, 11:21:25](https://news.ycombinator.com/item?id=41764903) - [Day Rates (2023)](https://davesmyth.com/day-rates)
 * [2024-10-07, 02:40:47](https://news.ycombinator.com/item?id=41762307) - [Discovering Roman Mosaics (2020)](https://www.world-archaeology.com/features/discovering-roman-mosaics/)
 * [2024-10-06, 22:42:59](https://news.ycombinator.com/item?id=41760971) - [Ceres: An ocean world in the asteroid belt](https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/)
 * [2024-10-06, 15:30:18](https://news.ycombinator.com/item?id=41757808) - [How electric trains work and why they make interesting sounds [video]](https://www.youtube.com/watch?v=IRJIJPTUXXE)
+* [2024-10-06, 14:29:54](https://news.ycombinator.com/item?id=41757398) - [Beast of Gévaudan](https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan)
 
 ## [Archives](archives/index.md)
 

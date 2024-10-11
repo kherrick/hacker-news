@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
 * [2024-10-11, 06:13:22](https://news.ycombinator.com/item?id=41806714) - [Tesla's Robotaxi day was a total Snoozefest](https://twitter.com/realdanodowd/status/1844605093368512799)
 * [2024-10-11, 06:02:51](https://news.ycombinator.com/item?id=41806645) - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
