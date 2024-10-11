@@ -42,6 +42,7 @@
 * [2024-10-09, 14:46:01](https://news.ycombinator.com/item?id=41788461) - [Source-Available Is Meaningless](https://keygen.sh/blog/source-available-is-meaningless/)
 * [2024-10-09, 14:42:39](https://news.ycombinator.com/item?id=41788426) - [Io_uring and seccomp (2022)](https://blog.0x74696d.com/posts/iouring-and-seccomp/)
 * [2024-10-09, 14:27:00](https://news.ycombinator.com/item?id=41788290) - [Show HN: Create AI Dialogue Podcasts](https://newspodcastdone.com)
+* [2024-10-09, 14:21:11](https://news.ycombinator.com/item?id=41788254) - [Show HN: QuickDessert – generate quick dessert recipes and adjust Ingredients](https://quickdessert.recipes)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 14:13:59](https://news.ycombinator.com/item?id=41788203) - [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
