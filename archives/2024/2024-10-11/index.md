@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
 * [2024-10-11, 17:29:14](https://news.ycombinator.com/item?id=41811458) - [Hamming AI (YC S24) Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
+* [2024-10-11, 17:06:30](https://news.ycombinator.com/item?id=41811263) - [How long til we're all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
 * [2024-10-11, 16:24:57](https://news.ycombinator.com/item?id=41810889) - [Ask HN: What breakthrough helped you build and maintain better relationships?](https://news.ycombinator.com/item?id=41810889)
 * [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the Edge of Linear Separability](https://arxiv.org/abs/2410.04489)
 * [2024-10-11, 15:21:15](https://news.ycombinator.com/item?id=41810292) - [macOS defaults: a list of macOS defaults commands with demos](https://macos-defaults.com/)
