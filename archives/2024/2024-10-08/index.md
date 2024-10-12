@@ -62,6 +62,7 @@
 * [2024-10-08, 12:28:19](https://news.ycombinator.com/item?id=41776593) - [Why U.S. Regulators See Minicars as the Enemy](https://jalopnik.com/this-is-why-u-s-regulators-see-minicars-as-the-enemy-1851665423)
 * [2024-10-08, 12:00:10](https://news.ycombinator.com/item?id=41776379) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
 * [2024-10-08, 11:54:30](https://news.ycombinator.com/item?id=41776324) - [Differential Transformer](https://arxiv.org/abs/2410.05258)
+* [2024-10-08, 11:31:37](https://news.ycombinator.com/item?id=41776161) - [PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
 * [2024-10-08, 10:35:28](https://news.ycombinator.com/item?id=41775795) - [US House panel probes FCC decision to deny Starlink nearly $900M](https://www.reuters.com/technology/us-house-panel-probes-fcc-decision-deny-starlink-nearly-900-million-2024-10-07/)
 * [2024-10-08, 10:16:48](https://news.ycombinator.com/item?id=41775641) - [Switching to 5Ghz WiFi made the Raspberry Pi fly again](http://moritzhamann.com/blog/2024-10-08-raspberrypi-wifi-freq.html)
 * [2024-10-08, 10:03:12](https://news.ycombinator.com/item?id=41775521) - [Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning](https://www.bbc.co.uk/news/articles/c62r02z75jyo)
