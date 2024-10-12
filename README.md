@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-12, 01:55:31](https://news.ycombinator.com/item?id=41815694) - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
 * [2024-10-12, 01:22:09](https://news.ycombinator.com/item?id=41815544) - [Show HN: Peak Brain Plasticity book – maximize brain power](https://www.saidhasyim.com/book/peak-brain-plasticity/)
 * [2024-10-12, 00:46:56](https://news.ycombinator.com/item?id=41815395) - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
@@ -18,7 +19,6 @@
 * [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the edge of linear separability](https://arxiv.org/abs/2410.04489)
 * [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
-* [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
