@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
 * [2024-10-12, 16:09:56](https://news.ycombinator.com/item?id=41820148) - [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
 * [2024-10-12, 15:40:30](https://news.ycombinator.com/item?id=41819900) - [The Boo Programming Language](https://github.com/boo-lang/boo)
 * [2024-10-12, 14:59:07](https://news.ycombinator.com/item?id=41819573) - [Executives and Research Disagree About Hybrid Work. Why?](https://www.nytimes.com/2024/10/12/business/dealbook/executives-and-research-disagree-about-hybrid-work.html)
