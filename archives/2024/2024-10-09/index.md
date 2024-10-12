@@ -65,6 +65,7 @@
 * [2024-10-09, 10:58:58](https://news.ycombinator.com/item?id=41786457) - [Startup Guru Steve Blank Says AI Changes Everything](https://spectrum.ieee.org/steve-blank)
 * [2024-10-09, 10:57:24](https://news.ycombinator.com/item?id=41786448) - [No Time Like MEMS Time](https://morethanmoore.substack.com/p/no-time-like-mems-time)
 * [2024-10-09, 10:38:26](https://news.ycombinator.com/item?id=41786333) - [\"The Siege of Caffa\" – The earliest known use of Biological Warfare](https://en.wikipedia.org/wiki/Siege_of_Caffa)
+* [2024-10-09, 10:06:50](https://news.ycombinator.com/item?id=41786157) - [Gboard double-sided version](https://landing.google.co.jp/double-sided/)
 * [2024-10-09, 10:04:14](https://news.ycombinator.com/item?id=41786146) - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
 * [2024-10-09, 09:54:38](https://news.ycombinator.com/item?id=41786101) - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
