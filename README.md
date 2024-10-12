@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 13:13:48](https://news.ycombinator.com/item?id=41818815) - [Windows 11 24H2 hoards 8.63 GB of junk you can't delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
+* [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
@@ -17,8 +19,6 @@
 * [2024-10-11, 17:10:49](https://news.ycombinator.com/item?id=41811298) - [Why do systems fail? Tandem NonStop system and fault tolerance](https://www.erlang-solutions.com/blog/why-do-systems-fail-tandem-nonstop-system-and-fault-tolerance/)
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 * [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
-* [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.05229)
-* [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-10, 19:52:29](https://news.ycombinator.com/item?id=41802821) - [Phase transitions in random circuit sampling [pdf]](https://www.nature.com/articles/s41586-024-07998-6.pdf)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)

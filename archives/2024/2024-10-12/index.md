@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 13:13:48](https://news.ycombinator.com/item?id=41818815) - [Windows 11 24H2 hoards 8.63 GB of junk you can't delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 13:03:11](https://news.ycombinator.com/item?id=41818757) - [Show HN: Here's how I steal your SaaS ideas](https://30percent.netlify.app/)
 * [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
+* [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
