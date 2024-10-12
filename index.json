@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 16:09:56",
+      "https://news.ycombinator.com/item?id=41820148"
+    ],
+    [
+      "Does veganism have an ultra-processing problem?",
+      "https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 14:43:54",
       "https://news.ycombinator.com/item?id=41819442"
     ],
@@ -167,16 +177,6 @@
     [
       "Lm.rs: Minimal CPU LLM inference in Rust with no dependency",
       "https://github.com/samuel-vitorino/lm.rs"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 15:45:48",
-      "https://news.ycombinator.com/item?id=41810507"
-    ],
-    [
-      "Show HN: I made an Ollama summarizer for Firefox",
-      "https://addons.mozilla.org/en-US/firefox/addon/spacellama/"
     ]
   ],
   [
