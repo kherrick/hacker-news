@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 * [2024-10-12, 05:49:33](https://news.ycombinator.com/item?id=41816756) - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
 * [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 * [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build systems, not heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
@@ -16,7 +17,6 @@
 * [2024-10-11, 16:09:35](https://news.ycombinator.com/item?id=41810753) - [Grokking at the edge of linear separability](https://arxiv.org/abs/2410.04489)
 * [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
-* [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [\"Bad Apple\" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
