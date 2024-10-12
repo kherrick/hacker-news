@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-10-12, 13:46:09",
+      "https://news.ycombinator.com/item?id=41819039"
+    ],
+    [
+      "Ask HN: Best AI Code Assistant?",
+      "https://news.ycombinator.com/item?id=41819039"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 13:21:43",
+      "https://news.ycombinator.com/item?id=41818868"
+    ],
+    [
+      "A Journey from Linux to FreeBSD",
+      "https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 13:13:48",
       "https://news.ycombinator.com/item?id=41818815"
     ],
     [
       "Windows 11 24H2 hoards 8.63 GB of junk you can't delete",
       "https://www.theregister.com/2024/10/11/windows_update_cleanup/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 13:06:31",
+      "https://news.ycombinator.com/item?id=41818779"
+    ],
+    [
+      "How I Animate 3Blue1Brown",
+      "https://www.youtube.com/watch?v=rbu7Zu5X1zI"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-10-12, 11:21:37",
-      "https://news.ycombinator.com/item?id=41818308"
-    ],
-    [
-      "'Shoe doping' changed marathon times in ways we still don't understand",
-      "https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 10:22:31",
       "https://news.ycombinator.com/item?id=41818057"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-10-11, 20:18:30",
-      "https://news.ycombinator.com/item?id=41813304"
-    ],
-    [
-      "Working from home is powering productivity",
-      "https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 19:14:19",
       "https://news.ycombinator.com/item?id=41812562"
     ],
@@ -177,16 +187,6 @@
     [
       "Lm.rs: Minimal CPU LLM inference in Rust with no dependency",
       "https://github.com/samuel-vitorino/lm.rs"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 15:45:48",
-      "https://news.ycombinator.com/item?id=41810507"
-    ],
-    [
-      "Show HN: I made an Ollama summarizer for Firefox",
-      "https://addons.mozilla.org/en-US/firefox/addon/spacellama/"
     ]
   ],
   [
