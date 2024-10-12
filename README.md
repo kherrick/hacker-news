@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 20:46:49](https://news.ycombinator.com/item?id=41822413) - [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:33:22](https://news.ycombinator.com/item?id=41822308) - [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [2024-10-12, 20:29:05](https://news.ycombinator.com/item?id=41822273) - [NanoGPT (124M) quality in 3.25B training tokens (vs. 10B)](https://github.com/KellerJordan/modded-nanogpt)
@@ -13,7 +14,6 @@
 * [2024-10-12, 17:40:43](https://news.ycombinator.com/item?id=41820908) - [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant modal shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
-* [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
