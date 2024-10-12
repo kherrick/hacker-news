@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 14:59:07](https://news.ycombinator.com/item?id=41819573) - [Executives and Research Disagree About Hybrid Work. Why?](https://www.nytimes.com/2024/10/12/business/dealbook/executives-and-research-disagree-about-hybrid-work.html)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
 * [2024-10-12, 13:13:48](https://news.ycombinator.com/item?id=41818815) - [Windows 11 24H2 hoards 8.63 GB of junk you can't delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
@@ -9,7 +10,6 @@
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [Bug, $50k how Zendesk left a backdoor in Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
-* [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [Ryzen 9000X3D performance according to MSI](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 * [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
@@ -27,9 +27,9 @@
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
 * [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
-* [2024-10-08, 12:46:13](https://news.ycombinator.com/item?id=41776765) - [How London's Crystal Palace was built so quickly](https://arstechnica.com/science/2024/10/how-londons-crystal-palace-was-built-so-quickly/)
 * [2024-10-08, 11:31:37](https://news.ycombinator.com/item?id=41776161) - [PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
 * [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
+* [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 
 ## [Archives](archives/index.md)
 

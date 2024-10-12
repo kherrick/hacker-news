@@ -13,6 +13,7 @@
 * [2024-10-07, 21:30:41](https://news.ycombinator.com/item?id=41771272) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 21:28:06](https://news.ycombinator.com/item?id=41771254) - [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
 * [2024-10-07, 21:11:21](https://news.ycombinator.com/item?id=41771112) - [Private Equity Ruins Tech Companies](https://blog.zmh.org/2024/10/07/private-equity-ruins.html)
+* [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 * [2024-10-07, 20:52:08](https://news.ycombinator.com/item?id=41770921) - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
 * [2024-10-07, 20:44:30](https://news.ycombinator.com/item?id=41770840) - [From GLSL to WGSL: the future of shaders on the Web (2021)](https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/)
 * [2024-10-07, 20:38:12](https://news.ycombinator.com/item?id=41770763) - [Show HN: AI-generated images that look like real life](https://www.gounfaked.com/)
