@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
 * [2024-10-12, 13:46:09](https://news.ycombinator.com/item?id=41819039) - [Ask HN: Best AI Code Assistant?](https://news.ycombinator.com/item?id=41819039)
+* [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
 * [2024-10-12, 13:13:48](https://news.ycombinator.com/item?id=41818815) - [Windows 11 24H2 hoards 8.63 GB of junk you can't delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
