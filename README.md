@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 * [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-12, 01:55:31](https://news.ycombinator.com/item?id=41815694) - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
 * [2024-10-12, 00:46:56](https://news.ycombinator.com/item?id=41815395) - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
@@ -20,7 +21,6 @@
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
-* [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [\"Bad Apple\" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-09, 14:42:39](https://news.ycombinator.com/item?id=41788426) - [Io_uring and seccomp (2022)](https://blog.0x74696d.com/posts/iouring-and-seccomp/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)

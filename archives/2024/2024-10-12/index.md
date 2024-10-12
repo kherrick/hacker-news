@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 * [2024-10-12, 03:52:32](https://news.ycombinator.com/item?id=41816271) - [How SpaceX became the MyPillow of government contractors](https://www.theverge.com/2024/10/11/24267262/elon-musk-donald-trump-politics-republican)
 * [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-12, 01:55:31](https://news.ycombinator.com/item?id=41815694) - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
