@@ -7,6 +7,7 @@
 * [2024-10-12, 19:09:41](https://news.ycombinator.com/item?id=41821582) - [AI helps farmers target weeds, livestock illnesses and pests](https://www.abc.net.au/news/2024-10-12/artificial-intelligence-agriculture-boom-australia-rural/104450732)
 * [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
+* [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:38:36](https://news.ycombinator.com/item?id=41821336) - [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
 * [2024-10-12, 18:20:02](https://news.ycombinator.com/item?id=41821193) - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Towards an AI Mathematician (Yoshua Bengio)](https://arxiv.org/abs/2403.04571)

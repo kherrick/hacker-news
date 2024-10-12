@@ -2,6 +2,7 @@
 
 * [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
+* [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:20:02](https://news.ycombinator.com/item?id=41821193) - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 17:45:06](https://news.ycombinator.com/item?id=41820938) - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
@@ -16,7 +17,6 @@
 * [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin bests SSRI for major depression in first long-term comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
-* [2024-10-12, 01:55:31](https://news.ycombinator.com/item?id=41815694) - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
 * [2024-10-12, 00:22:48](https://news.ycombinator.com/item?id=41815268) - [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
 * [2024-10-12, 00:05:50](https://news.ycombinator.com/item?id=41815173) - [Swarm, a new agent framework by OpenAI](https://github.com/openai/swarm)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
