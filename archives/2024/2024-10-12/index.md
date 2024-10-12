@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 18:38:36](https://news.ycombinator.com/item?id=41821336) - [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Towards an AI Mathematician (Yoshua Bengio)](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 17:45:06](https://news.ycombinator.com/item?id=41820938) - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
 * [2024-10-12, 17:41:14](https://news.ycombinator.com/item?id=41820915) - [Latest Asahi Linux brings AAA gaming to Apple's M1 with respectable frame rates](https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates)
