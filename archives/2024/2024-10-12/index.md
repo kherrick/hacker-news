@@ -18,6 +18,7 @@
 * [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 15:40:30](https://news.ycombinator.com/item?id=41819900) - [The Boo Programming Language](https://github.com/boo-lang/boo)
 * [2024-10-12, 14:59:07](https://news.ycombinator.com/item?id=41819573) - [Executives and Research Disagree About Hybrid Work. Why?](https://www.nytimes.com/2024/10/12/business/dealbook/executives-and-research-disagree-about-hybrid-work.html)
+* [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant modal shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 * [2024-10-12, 13:46:09](https://news.ycombinator.com/item?id=41819039) - [Ask HN: Best AI Code Assistant?](https://news.ycombinator.com/item?id=41819039)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
