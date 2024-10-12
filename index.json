@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-10-12, 20:33:22",
+      "https://news.ycombinator.com/item?id=41822308"
+    ],
+    [
+      "Apple macOS 15 Sequoia is officially Unix",
+      "https://www.theregister.com/2024/10/11/macos_15_is_unix/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 20:29:05",
+      "https://news.ycombinator.com/item?id=41822273"
+    ],
+    [
+      "NanoGPT (124M) quality in 3.25B training tokens (vs. 10B)",
+      "https://github.com/KellerJordan/modded-nanogpt"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 20:19:32",
+      "https://news.ycombinator.com/item?id=41822178"
+    ],
+    [
+      "PayPal will automatically share data about you to participating stores",
+      "https://www.paypal.com/us/legalhub/upcoming-policies-full"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 19:04:18",
       "https://news.ycombinator.com/item?id=41821545"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-10-12, 17:23:53",
-      "https://news.ycombinator.com/item?id=41820785"
-    ],
-    [
-      "Starship Flight 5 license issued by FAA",
-      "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 17:00:46",
       "https://news.ycombinator.com/item?id=41820577"
     ],
     [
       "IcePanel (YC W23) is hiring full stack engineers in Vancouver",
       "https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 16:08:51",
-      "https://news.ycombinator.com/item?id=41820139"
-    ],
-    [
-      "Free Starship Booster catching arcade game",
-      "https://mechazilla.io/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Started a guide to writing FUSE filesystems in Python",
       "https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 16:46:54",
-      "https://news.ycombinator.com/item?id=41811078"
-    ],
-    [
-      "Lm.rs: Minimal CPU LLM inference in Rust with no dependency",
-      "https://github.com/samuel-vitorino/lm.rs"
     ]
   ],
   [
