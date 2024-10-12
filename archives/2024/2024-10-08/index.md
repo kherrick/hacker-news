@@ -21,6 +21,7 @@
 * [2024-10-08, 19:45:00](https://news.ycombinator.com/item?id=41781081) - [Car brands are collecting and sharing your data with third parties](https://www.abc.net.au/news/science/2024-10-09/car-brands-are-tracking-and-sharing-your-data-with-third-parties/104440742)
 * [2024-10-08, 19:41:45](https://news.ycombinator.com/item?id=41781050) - [10-Year Narratives](https://splits.org/blog/10-year-narratives/)
 * [2024-10-08, 19:32:37](https://news.ycombinator.com/item?id=41780929) - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
+* [2024-10-08, 19:31:21](https://news.ycombinator.com/item?id=41780914) - [In Defense of LeetCode Interviews](https://www.alexmolas.com/2024/06/21/leetcode-interviews.html)
 * [2024-10-08, 19:30:49](https://news.ycombinator.com/item?id=41780902) - [Interview with Arnold Rauers (Tintytouchtales) on mobile game architecture](https://www.gamedatapodcast.com/p/arnold-rauers-tinytouchtales-geo-gods-card-crawl-miracle-merchant-data-programming)
 * [2024-10-08, 19:25:05](https://news.ycombinator.com/item?id=41780848) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/index.html)
 * [2024-10-08, 18:58:26](https://news.ycombinator.com/item?id=41780569) - [Who died and left the US $7B?](https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/)
