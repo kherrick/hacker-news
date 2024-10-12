@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 16:09:56](https://news.ycombinator.com/item?id=41820148) - [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
@@ -17,7 +18,6 @@
 * [2024-10-11, 19:14:19](https://news.ycombinator.com/item?id=41812562) - [INTELLECT–1: Launching the First Decentralized Training of a 10B Parameter Model](https://www.primeintellect.ai/blog/intellect-1)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
-* [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
 * [2024-10-10, 19:52:29](https://news.ycombinator.com/item?id=41802821) - [Phase transitions in random circuit sampling [pdf]](https://www.nature.com/articles/s41586-024-07998-6.pdf)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
