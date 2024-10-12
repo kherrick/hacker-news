@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
+* [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
+* [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 * [2024-10-12, 11:21:37](https://news.ycombinator.com/item?id=41818308) - ['Shoe doping' changed marathon times in ways we still don't understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
 * [2024-10-12, 09:57:27](https://news.ycombinator.com/item?id=41817924) - [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
@@ -12,10 +15,8 @@
 * [2024-10-11, 19:14:19](https://news.ycombinator.com/item?id=41812562) - [INTELLECT–1: Launching the First Decentralized Training of a 10B Parameter Model](https://www.primeintellect.ai/blog/intellect-1)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:10:49](https://news.ycombinator.com/item?id=41811298) - [Why do systems fail? Tandem NonStop system and fault tolerance](https://www.erlang-solutions.com/blog/why-do-systems-fail-tandem-nonstop-system-and-fault-tolerance/)
-* [2024-10-11, 17:06:30](https://news.ycombinator.com/item?id=41811263) - [How long til we're all on Ozempic?](https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic)
 * [2024-10-11, 16:46:54](https://news.ycombinator.com/item?id=41811078) - [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
 * [2024-10-11, 15:45:48](https://news.ycombinator.com/item?id=41810507) - [Show HN: I made an Ollama summarizer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spacellama/)
-* [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 * [2024-10-11, 11:55:06](https://news.ycombinator.com/item?id=41808683) - [Understanding the Limitations of Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.05229)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
@@ -28,7 +29,6 @@
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 12:46:13](https://news.ycombinator.com/item?id=41776765) - [How London's Crystal Palace was built so quickly](https://arstechnica.com/science/2024/10/how-londons-crystal-palace-was-built-so-quickly/)
 * [2024-10-08, 11:31:37](https://news.ycombinator.com/item?id=41776161) - [PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
-* [2024-10-08, 01:45:14](https://news.ycombinator.com/item?id=41773020) - [Run Llama locally with only PyTorch on CPU](https://github.com/anordin95/run-llama-locally)
 * [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 
 ## [Archives](archives/index.md)

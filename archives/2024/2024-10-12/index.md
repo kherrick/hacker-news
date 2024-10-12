@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
+* [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
+* [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 * [2024-10-12, 11:21:37](https://news.ycombinator.com/item?id=41818308) - ['Shoe doping' changed marathon times in ways we still don't understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
 * [2024-10-12, 10:07:35](https://news.ycombinator.com/item?id=41817973) - [Alexei Navalny's Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
