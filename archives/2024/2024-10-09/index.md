@@ -41,6 +41,7 @@
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:48:52](https://news.ycombinator.com/item?id=41789228) - [A Georgist's Guerilla Gardening Guide](https://taylor.town/oh-trespassing)
 * [2024-10-09, 15:44:53](https://news.ycombinator.com/item?id=41789176) - [Show HN: FinetuneDB – AI fine-tuning platform to create custom LLMs](https://finetunedb.com)
+* [2024-10-09, 15:24:37](https://news.ycombinator.com/item?id=41788877) - [Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
 * [2024-10-09, 15:17:09](https://news.ycombinator.com/item?id=41788805) - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
 * [2024-10-09, 14:54:15](https://news.ycombinator.com/item?id=41788557) - [Windows 11 vs. Ubuntu 24.10 Performance For Intel Core Ultra 7 Lunar Lake](https://www.phoronix.com/review/lunar-lake-windows-linux/5)
 * [2024-10-09, 14:46:01](https://news.ycombinator.com/item?id=41788461) - [Source-Available Is Meaningless](https://keygen.sh/blog/source-available-is-meaningless/)

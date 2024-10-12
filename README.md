@@ -4,8 +4,6 @@
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 20:29:05](https://news.ycombinator.com/item?id=41822273) - [Modded-NanoGPT: NanoGPT (124M) quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
 * [2024-10-12, 20:19:32](https://news.ycombinator.com/item?id=41822178) - [PayPal (USA) will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
-* [2024-10-12, 20:19:14](https://news.ycombinator.com/item?id=41822174) - [Steam's new disclaimer reminds everyone that you don't own your games](https://www.pcgamer.com/gaming-industry/steams-new-disclaimer-reminds-everyone-that-you-dont-actually-own-your-games-gog-moves-in-for-the-killshot-its-offline-installers-cannot-be-taken-away-from-you/)
-* [2024-10-12, 19:40:27](https://news.ycombinator.com/item?id=41821823) - [The woman who revolutionized the fantasy genre is finally getting her due](https://theconversation.com/the-woman-who-revolutionized-the-fantasy-genre-is-finally-getting-her-due-240198)
 * [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
@@ -28,8 +26,10 @@
 * [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What have researchers learned?](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
+* [2024-10-09, 15:24:37](https://news.ycombinator.com/item?id=41788877) - [Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
 * [2024-10-09, 13:57:55](https://news.ycombinator.com/item?id=41788066) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
 * [2024-10-09, 01:53:23](https://news.ycombinator.com/item?id=41783698) - [A mountain? Multistorey car park? Both? Inside Shanghai's £225M summit](https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park)
+* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 
 ## [Archives](archives/index.md)
 
