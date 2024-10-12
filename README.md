@@ -12,6 +12,7 @@
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 18:17:22](https://news.ycombinator.com/item?id=41821169) - [Entropy Explained, with Sheep (2016)](https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
+* [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
@@ -29,7 +30,6 @@
 * [2024-10-09, 15:24:37](https://news.ycombinator.com/item?id=41788877) - [Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
 * [2024-10-09, 13:57:55](https://news.ycombinator.com/item?id=41788066) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
 * [2024-10-09, 01:53:23](https://news.ycombinator.com/item?id=41783698) - [A mountain? Multistorey car park? Both? Inside Shanghai's £225M summit](https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park)
-* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 
 ## [Archives](archives/index.md)
 
