@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Towards an AI Mathematician (Yoshua Bengio)](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 17:45:06](https://news.ycombinator.com/item?id=41820938) - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
 * [2024-10-12, 17:41:14](https://news.ycombinator.com/item?id=41820915) - [Latest Asahi Linux brings AAA gaming to Apple's M1 with respectable frame rates](https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates)
+* [2024-10-12, 17:40:43](https://news.ycombinator.com/item?id=41820908) - [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
 * [2024-10-12, 17:23:53](https://news.ycombinator.com/item?id=41820785) - [Starship Flight 5 license issued by FAA](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true)
 * [2024-10-12, 17:16:57](https://news.ycombinator.com/item?id=41820727) - [It made me $500k but I think content is a bad business](https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
 * [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
-* [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
@@ -28,7 +29,6 @@
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What Have Researchers Learned? – Illinois Fishing Hub](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
 * [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
-* [2024-10-08, 11:31:37](https://news.ycombinator.com/item?id=41776161) - [PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
 * [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 
 ## [Archives](archives/index.md)
