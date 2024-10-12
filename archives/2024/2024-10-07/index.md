@@ -6,6 +6,7 @@
 
 * [2024-10-07, 23:58:18](https://news.ycombinator.com/item?id=41772415) - [Configuring the XpPen ACK05 Remote with Only Floss on GNU/Linux: My Investigati](https://www.davidrevoy.com/article1047/configuring-the-xppen-ack05-remote-with-only-floss-on-gnulinux-my-investigation-and-workarounds)
 * [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
+* [2024-10-07, 22:39:13](https://news.ycombinator.com/item?id=41771864) - [Ion and Molecular Sieving with Ultrathin Polydopamine Nanomembranes](https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137)
 * [2024-10-07, 22:21:29](https://news.ycombinator.com/item?id=41771709) - [A Photo of the Moon](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)
 * [2024-10-07, 21:51:52](https://news.ycombinator.com/item?id=41771452) - [History Of Hacking The Nintendo 3DS (2019) [pdf]](https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf)
 * [2024-10-07, 21:51:09](https://news.ycombinator.com/item?id=41771440) - [A Language of Beautiful Impurity](https://www.edwest.co.uk/p/a-language-of-beautiful-impurity)
