@@ -15,6 +15,7 @@
 * [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay – Jon Udell](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
 * [2024-10-10, 20:01:21](https://news.ycombinator.com/item?id=41802912) - [Windows 11's Big 2024 Update Leaves Behind 9GB of Undeletable Files](https://www.pcworld.com/article/2485897/windows-11s-big-2024-update-leaves-behind-9gb-of-undeletable-files.html)
 * [2024-10-10, 19:52:47](https://news.ycombinator.com/item?id=41802823) - [The FBI created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
+* [2024-10-10, 19:52:29](https://news.ycombinator.com/item?id=41802821) - [Phase transitions in random circuit sampling [pdf]](https://www.nature.com/articles/s41586-024-07998-6.pdf)
 * [2024-10-10, 19:50:22](https://news.ycombinator.com/item?id=41802800) - [Unity Editor Software Terms Update: Runtime Fee Cancellation Follow-up](https://unity.com/blog/terms-update-runtime-fee-cancellation)
 * [2024-10-10, 19:14:44](https://news.ycombinator.com/item?id=41802378) - [Five days a week in the office? Forget it](https://www.computerworld.com/article/3552604/five-days-a-week-in-the-office-forget-it.html)
 * [2024-10-10, 18:44:16](https://news.ycombinator.com/item?id=41801970) - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
