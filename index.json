@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-12, 12:30:34",
+      "https://news.ycombinator.com/item?id=41818595"
+    ],
+    [
+      "FreeBSD: How Can We Make It More Attractive to New Users?",
+      "https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 11:52:55",
+      "https://news.ycombinator.com/item?id=41818446"
+    ],
+    [
+      "PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One",
+      "https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 11:46:44",
+      "https://news.ycombinator.com/item?id=41818420"
+    ],
+    [
+      "Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison",
+      "https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 11:39:25",
       "https://news.ycombinator.com/item?id=41818382"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-10-11, 17:06:30",
-      "https://news.ycombinator.com/item?id=41811263"
-    ],
-    [
-      "How long til we're all on Ozempic?",
-      "https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 16:46:54",
       "https://news.ycombinator.com/item?id=41811078"
     ],
@@ -147,16 +167,6 @@
     [
       "Show HN: I made an Ollama summarizer for Firefox",
       "https://addons.mozilla.org/en-US/firefox/addon/spacellama/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 14:20:26",
-      "https://news.ycombinator.com/item?id=41809698"
-    ],
-    [
-      "\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"",
-      "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "PeachPie Compiler: Compile and run PHP on top of .NET runtime",
       "https://www.peachpie.io/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 01:45:14",
-      "https://news.ycombinator.com/item?id=41773020"
-    ],
-    [
-      "Run Llama locally with only PyTorch on CPU",
-      "https://github.com/anordin95/run-llama-locally"
     ]
   ],
   [
