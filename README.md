@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-12, 19:09:41](https://news.ycombinator.com/item?id=41821582) - [AI helps farmers target weeds, livestock illnesses and pests](https://www.abc.net.au/news/2024-10-12/artificial-intelligence-agriculture-boom-australia-rural/104450732)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
 * [2024-10-12, 18:20:02](https://news.ycombinator.com/item?id=41821193) - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
@@ -28,6 +27,7 @@
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What Have Researchers Learned? – Illinois Fishing Hub](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
+* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-07, 22:39:13](https://news.ycombinator.com/item?id=41771864) - [Ion and Molecular Sieving with Ultrathin Polydopamine Nanomembranes](https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137)
 * [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 
