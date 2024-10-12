@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-10-11, 17:29:14",
-      "https://news.ycombinator.com/item?id=41811458"
-    ],
-    [
-      "Hamming AI (YC S24) Is Hiring a Product Engineer",
-      "https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 17:10:49",
       "https://news.ycombinator.com/item?id=41811298"
     ],
@@ -177,6 +167,16 @@
     [
       "\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"",
       "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 11:56:57",
+      "https://news.ycombinator.com/item?id=41808696"
+    ],
+    [
+      "A Lisp compiler to RISC-V written in Lisp",
+      "http://www.ulisp.com/show?4Y20"
     ]
   ],
   [
