@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
 * [2024-10-12, 18:38:36](https://news.ycombinator.com/item?id=41821336) - [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Towards an AI Mathematician (Yoshua Bengio)](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 17:45:06](https://news.ycombinator.com/item?id=41820938) - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
