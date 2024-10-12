@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-12, 16:09:56](https://news.ycombinator.com/item?id=41820148) - [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
+* [2024-10-12, 15:40:30](https://news.ycombinator.com/item?id=41819900) - [The Boo Programming Language](https://github.com/boo-lang/boo)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
@@ -28,7 +29,6 @@
 * [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 11:31:37](https://news.ycombinator.com/item?id=41776161) - [PeachPie Compiler: Compile and run PHP on top of .NET runtime](https://www.peachpie.io/)
-* [2024-10-07, 23:36:42](https://news.ycombinator.com/item?id=41772276) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 * [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 
 ## [Archives](archives/index.md)

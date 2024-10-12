@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
 * [2024-10-12, 16:09:56](https://news.ycombinator.com/item?id=41820148) - [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
+* [2024-10-12, 15:40:30](https://news.ycombinator.com/item?id=41819900) - [The Boo Programming Language](https://github.com/boo-lang/boo)
 * [2024-10-12, 14:59:07](https://news.ycombinator.com/item?id=41819573) - [Executives and Research Disagree About Hybrid Work. Why?](https://www.nytimes.com/2024/10/12/business/dealbook/executives-and-research-disagree-about-hybrid-work.html)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 * [2024-10-12, 13:46:09](https://news.ycombinator.com/item?id=41819039) - [Ask HN: Best AI Code Assistant?](https://news.ycombinator.com/item?id=41819039)
