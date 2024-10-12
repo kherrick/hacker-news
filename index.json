@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 03:49:42",
+      "https://news.ycombinator.com/item?id=41816256"
+    ],
+    [
+      "Build Systems, Not Heroes",
+      "https://vitonsky.net/blog/2024/10/11/system-approach/"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 01:55:31",
       "https://news.ycombinator.com/item?id=41815694"
     ],
@@ -177,16 +187,6 @@
     [
       "\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"",
       "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 13:21:41",
-      "https://news.ycombinator.com/item?id=41809262"
-    ],
-    [
-      "Show HN: Pocache, preemptive optimistic caching for Go",
-      "https://github.com/naughtygopher/pocache"
     ]
   ],
   [
