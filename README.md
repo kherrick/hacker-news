@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-12, 22:11:16](https://news.ycombinator.com/item?id=41823155) - [New vulnerability in sha256](https://github.com/seccode/Sha256)
+* [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 20:29:05](https://news.ycombinator.com/item?id=41822273) - [Modded-NanoGPT: NanoGPT (124M) quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
