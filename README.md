@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-12, 08:58:39](https://news.ycombinator.com/item?id=41817650) - [California police aren't loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 * [2024-10-12, 05:49:33](https://news.ycombinator.com/item?id=41816756) - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
 * [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
@@ -24,6 +23,7 @@
 * [2024-10-09, 14:42:39](https://news.ycombinator.com/item?id=41788426) - [Io_uring and seccomp (2022)](https://blog.0x74696d.com/posts/iouring-and-seccomp/)
 * [2024-10-09, 10:06:50](https://news.ycombinator.com/item?id=41786157) - [Gboard double-sided version](https://landing.google.co.jp/double-sided/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
+* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-08, 18:23:26](https://news.ycombinator.com/item?id=41780255) - [Show HN: I made a URL expander because short links are too mainstream](https://urlshortenersaresoyesterdaytrythisamazingsuperlongurlexpander.site/)
 * [2024-10-08, 12:56:06](https://news.ycombinator.com/item?id=41776849) - [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [2024-10-08, 12:46:13](https://news.ycombinator.com/item?id=41776765) - [How London's Crystal Palace was built so quickly](https://arstechnica.com/science/2024/10/how-londons-crystal-palace-was-built-so-quickly/)

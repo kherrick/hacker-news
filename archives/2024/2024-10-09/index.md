@@ -89,4 +89,5 @@
 * [2024-10-09, 01:57:28](https://news.ycombinator.com/item?id=41783722) - [A Vtuber Just Became Twitch's Most-Subscribed Streamer](https://kotaku.com/ironmouse-kai-cenat-twitch-vtuber-sub-record-1851661798)
 * [2024-10-09, 01:34:18](https://news.ycombinator.com/item?id=41783609) - [Bitcoin creator is Peter Todd, HBO film says](https://www.politico.eu/article/peter-todd-bitcoin-creator-cullen-hoback-hbo-cryptocurrency-satoshi-nakamoto/)
 * [2024-10-09, 01:14:05](https://news.ycombinator.com/item?id=41783503) - [HBO Documentary Suggests Bitcoin Creator Satoshi Nakamoto Is Peter Todd](https://www.bloomberg.com/news/articles/2024-10-09/hbo-documentary-suggests-bitcoin-creator-satoshi-nakamoto-is-peter-todd)
+* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-09, 00:39:50](https://news.ycombinator.com/item?id=41783340) - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
