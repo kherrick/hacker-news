@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 10:07:35](https://news.ycombinator.com/item?id=41817973) - [Alexei Navalny's Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
 * [2024-10-12, 08:58:39](https://news.ycombinator.com/item?id=41817650) - [California police aren't loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 * [2024-10-12, 07:13:14](https://news.ycombinator.com/item?id=41817074) - [Electric vehicle battery prices are expected to fall almost 50% by 2026](https://www.goldmansachs.com/insights/articles/electric-vehicle-battery-prices-are-expected-to-fall-almost-50-percent-by-2025)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
