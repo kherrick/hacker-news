@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 13:46:09](https://news.ycombinator.com/item?id=41819039) - [Ask HN: Best AI Code Assistant?](https://news.ycombinator.com/item?id=41819039)
+* [2024-10-12, 13:21:43](https://news.ycombinator.com/item?id=41818868) - [A Journey from Linux to FreeBSD](https://freebsdfoundation.org/blog/celebrating-freebsd-day-with-tara-stella-a-journey-from-linux-to-freebsd/)
 * [2024-10-12, 13:13:48](https://news.ycombinator.com/item?id=41818815) - [Windows 11 24H2 hoards 8.63 GB of junk you can't delete](https://www.theregister.com/2024/10/11/windows_update_cleanup/)
+* [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I Animate 3Blue1Brown](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 13:03:11](https://news.ycombinator.com/item?id=41818757) - [Show HN: Here's how I steal your SaaS ideas](https://30percent.netlify.app/)
 * [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
