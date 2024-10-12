@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 21:03:50](https://news.ycombinator.com/item?id=41813720) - [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 * [2024-10-11, 20:58:48](https://news.ycombinator.com/item?id=41813676) - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
 * [2024-10-11, 20:41:07](https://news.ycombinator.com/item?id=41813502) - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)

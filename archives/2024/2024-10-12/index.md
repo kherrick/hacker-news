@@ -17,6 +17,7 @@
 * [2024-10-12, 18:38:36](https://news.ycombinator.com/item?id=41821336) - [Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)
 * [2024-10-12, 18:20:02](https://news.ycombinator.com/item?id=41821193) - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Towards an AI Mathematician (Yoshua Bengio)](https://arxiv.org/abs/2403.04571)
+* [2024-10-12, 18:17:22](https://news.ycombinator.com/item?id=41821169) - [Entropy Explained, with Sheep (2016)](https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm)
 * [2024-10-12, 17:45:06](https://news.ycombinator.com/item?id=41820938) - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
 * [2024-10-12, 17:41:14](https://news.ycombinator.com/item?id=41820915) - [Latest Asahi Linux brings AAA gaming to Apple's M1 with respectable frame rates](https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates)
 * [2024-10-12, 17:40:43](https://news.ycombinator.com/item?id=41820908) - [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
