@@ -16,6 +16,7 @@
 * [2024-10-09, 20:54:26](https://news.ycombinator.com/item?id=41792500) - [Internet Archive: Security breach alert](https://archive.org/)
 * [2024-10-09, 20:18:48](https://news.ycombinator.com/item?id=41792179) - [Geoffrey Hinton says he's proud Ilya Sutskever 'fired Sam Altman'](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [2024-10-09, 20:04:38](https://news.ycombinator.com/item?id=41792055) - [Software Engineer Pay Heatmap Across the US](https://levels.fyi/heatmap)
+* [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What Have Researchers Learned? – Illinois Fishing Hub](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 19:46:30](https://news.ycombinator.com/item?id=41791875) - [Tcl the Misunderstood (Antirez)](http://antirez.com/articoli/tclmisunderstood.html)
 * [2024-10-09, 19:34:12](https://news.ycombinator.com/item?id=41791773) - [My negative views on Rust (2021) (2023)](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 19:27:31](https://news.ycombinator.com/item?id=41791708) - [Command Line Tools I Like (2022)](https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/)
