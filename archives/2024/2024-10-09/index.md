@@ -49,6 +49,7 @@
 * [2024-10-09, 14:21:11](https://news.ycombinator.com/item?id=41788254) - [Show HN: QuickDessert – generate quick dessert recipes and adjust Ingredients](https://quickdessert.recipes)
 * [2024-10-09, 14:19:47](https://news.ycombinator.com/item?id=41788246) - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
 * [2024-10-09, 14:13:59](https://news.ycombinator.com/item?id=41788203) - [OpenBSD 7.6 Released](https://undeadly.org/cgi?action=article;sid=20241007204213)
+* [2024-10-09, 13:57:55](https://news.ycombinator.com/item?id=41788066) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
 * [2024-10-09, 13:54:41](https://news.ycombinator.com/item?id=41788026) - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
 * [2024-10-09, 13:50:07](https://news.ycombinator.com/item?id=41787967) - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
 * [2024-10-09, 13:33:50](https://news.ycombinator.com/item?id=41787804) - [Chris.lu: How I Used Next.js and MDX to create a modern, static-first Blog](https://chris.lu)
