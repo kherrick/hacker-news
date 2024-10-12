@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 22:08:01](https://news.ycombinator.com/item?id=41823134) - [Ask HN: What do you think of Theo Browne (a.k.a. t3.gg)?](https://news.ycombinator.com/item?id=41823134)
 * [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
@@ -12,7 +13,6 @@
 * [2024-10-12, 18:18:56](https://news.ycombinator.com/item?id=41821179) - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
 * [2024-10-12, 18:17:22](https://news.ycombinator.com/item?id=41821169) - [Entropy Explained, with Sheep (2016)](https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
-* [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
