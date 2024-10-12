@@ -13,6 +13,7 @@
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 * [2024-10-12, 11:21:37](https://news.ycombinator.com/item?id=41818308) - ['Shoe doping' changed marathon times in ways we still don't understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
+* [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
 * [2024-10-12, 10:07:35](https://news.ycombinator.com/item?id=41817973) - [Alexei Navalny's Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
 * [2024-10-12, 09:57:27](https://news.ycombinator.com/item?id=41817924) - [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
 * [2024-10-12, 08:58:39](https://news.ycombinator.com/item?id=41817650) - [California police aren't loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
