@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 18:18:56",
+      "https://news.ycombinator.com/item?id=41821179"
+    ],
+    [
+      "Towards an AI Mathematician (Yoshua Bengio)",
+      "https://arxiv.org/abs/2403.04571"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 17:45:06",
       "https://news.ycombinator.com/item?id=41820938"
     ],
@@ -17,6 +27,16 @@
     [
       "Latest Asahi Linux brings AAA gaming to Apple's M1 with respectable frame rates",
       "https://www.tomshardware.com/laptops/macbooks/aaa-gaming-comes-to-apple-m1-thanks-to-the-latest-asahi-linux-build-control-cyberpunk-2077-and-the-witcher-3-are-playable-with-respectable-frame-rates"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 17:40:43",
+      "https://news.ycombinator.com/item?id=41820908"
+    ],
+    [
+      "Tiny Drones Do Distributed Mapping",
+      "https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "The phone ban has had a big impact on school work",
       "https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 13:33:39",
-      "https://news.ycombinator.com/item?id=41818953"
-    ],
-    [
-      "Choosing solitude can free your mind and lift your mood",
-      "https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Python and SysV Shared Memory",
       "https://euroquis.nl//blabla/2024/10/08/shm.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 11:31:37",
-      "https://news.ycombinator.com/item?id=41776161"
-    ],
-    [
-      "PeachPie Compiler: Compile and run PHP on top of .NET runtime",
-      "https://www.peachpie.io/"
     ]
   ],
   [
