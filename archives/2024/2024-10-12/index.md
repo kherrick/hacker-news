@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 22:11:16](https://news.ycombinator.com/item?id=41823155) - [New vulnerability in sha256](https://github.com/seccode/Sha256)
 * [2024-10-12, 20:46:49](https://news.ycombinator.com/item?id=41822413) - [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:33:22](https://news.ycombinator.com/item?id=41822308) - [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
@@ -11,6 +12,7 @@
 * [2024-10-12, 20:29:05](https://news.ycombinator.com/item?id=41822273) - [NanoGPT (124M) quality in 3.25B training tokens (vs. 10B)](https://github.com/KellerJordan/modded-nanogpt)
 * [2024-10-12, 20:19:32](https://news.ycombinator.com/item?id=41822178) - [PayPal will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
 * [2024-10-12, 20:19:14](https://news.ycombinator.com/item?id=41822174) - [Steam's new disclaimer reminds everyone that you don't own your games](https://www.pcgamer.com/gaming-industry/steams-new-disclaimer-reminds-everyone-that-you-dont-actually-own-your-games-gog-moves-in-for-the-killshot-its-offline-installers-cannot-be-taken-away-from-you/)
+* [2024-10-12, 19:51:57](https://news.ycombinator.com/item?id=41821939) - [Christopher Columbus' remains found after 500 years as DNA analysis ends mystery](https://www.the-express.com/news/world-news/151431/christopher-columbus-remains-found-500-years-dna-analysis)
 * [2024-10-12, 19:40:27](https://news.ycombinator.com/item?id=41821823) - [The woman who revolutionized the fantasy genre is finally getting her due](https://theconversation.com/the-woman-who-revolutionized-the-fantasy-genre-is-finally-getting-her-due-240198)
 * [2024-10-12, 19:09:41](https://news.ycombinator.com/item?id=41821582) - [AI helps farmers target weeds, livestock illnesses and pests](https://www.abc.net.au/news/2024-10-12/artificial-intelligence-agriculture-boom-australia-rural/104450732)
 * [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
