@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 17:16:57](https://news.ycombinator.com/item?id=41820727) - [It made me $500k but I think content is a bad business](https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) Is Hiring Full Stack Engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
-* [2024-10-12, 16:09:56](https://news.ycombinator.com/item?id=41820148) - [Does veganism have an ultra-processing problem?](https://www.bbc.com/future/article/20241011-what-explains-increasing-anxiety-about-ultra-processed-plant-based-foods)
 * [2024-10-12, 15:40:30](https://news.ycombinator.com/item?id=41819900) - [The Boo Programming Language](https://github.com/boo-lang/boo)
 * [2024-10-12, 14:43:54](https://news.ycombinator.com/item?id=41819442) - [The phone ban has had a big impact on school work](https://icelandmonitor.mbl.is/news/news/2024/10/09/the_phone_ban_has_had_a_big_impact_on_school_work/)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude can free your mind and lift your mood](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
