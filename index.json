@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-10-11, 18:57:33",
-      "https://news.ycombinator.com/item?id=41812336"
-    ],
-    [
-      "Gleam: A Basic Introduction",
-      "https://peq42.com/blog/gleam-a-basic-introduction/"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 18:29:40",
       "https://news.ycombinator.com/item?id=41811983"
     ],
@@ -167,6 +157,16 @@
     [
       "\"Begin disabling installed extensions still using Manifest V2 in Chrome stable\"",
       "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 11:56:57",
+      "https://news.ycombinator.com/item?id=41808696"
+    ],
+    [
+      "A Lisp compiler to RISC-V written in Lisp",
+      "http://www.ulisp.com/show?4Y20"
     ]
   ],
   [
