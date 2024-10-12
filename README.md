@@ -2,9 +2,11 @@
 
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:33:22](https://news.ycombinator.com/item?id=41822308) - [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
+* [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 20:29:05](https://news.ycombinator.com/item?id=41822273) - [Modded-NanoGPT: NanoGPT (124M) quality in 3.25B tokens](https://github.com/KellerJordan/modded-nanogpt)
 * [2024-10-12, 20:19:32](https://news.ycombinator.com/item?id=41822178) - [PayPal (USA) will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
 * [2024-10-12, 20:19:14](https://news.ycombinator.com/item?id=41822174) - [Steam's new disclaimer reminds everyone that you don't own your games](https://www.pcgamer.com/gaming-industry/steams-new-disclaimer-reminds-everyone-that-you-dont-actually-own-your-games-gog-moves-in-for-the-killshot-its-offline-installers-cannot-be-taken-away-from-you/)
+* [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:20:02](https://news.ycombinator.com/item?id=41821193) - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
@@ -12,7 +14,6 @@
 * [2024-10-12, 18:17:22](https://news.ycombinator.com/item?id=41821169) - [Entropy Explained, with Sheep (2016)](https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm)
 * [2024-10-12, 17:40:43](https://news.ycombinator.com/item?id=41820908) - [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
-* [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
@@ -28,8 +29,7 @@
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What Have Researchers Learned? – Illinois Fishing Hub](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 13:57:55](https://news.ycombinator.com/item?id=41788066) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
-* [2024-10-07, 22:39:13](https://news.ycombinator.com/item?id=41771864) - [Ion and Molecular Sieving with Ultrathin Polydopamine Nanomembranes](https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137)
-* [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
+* [2024-10-09, 01:53:23](https://news.ycombinator.com/item?id=41783698) - [A mountain? Multistorey car park? Both? Inside Shanghai's £225M summit](https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park)
 
 ## [Archives](archives/index.md)
 
