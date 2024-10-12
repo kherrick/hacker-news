@@ -53,6 +53,7 @@
 * [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
+* [2024-10-08, 12:56:06](https://news.ycombinator.com/item?id=41776849) - [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [2024-10-08, 12:46:13](https://news.ycombinator.com/item?id=41776765) - [How London's Crystal Palace was built so quickly](https://arstechnica.com/science/2024/10/how-londons-crystal-palace-was-built-so-quickly/)
 * [2024-10-08, 12:44:58](https://news.ycombinator.com/item?id=41776753) - [Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids](https://hindenburgresearch.com/roblox/)
 * [2024-10-08, 12:42:26](https://news.ycombinator.com/item?id=41776734) - [Linux in Minecraft](https://github.com/Snektron/linux-in-minecraft)
