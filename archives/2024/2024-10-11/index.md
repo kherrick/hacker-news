@@ -7,6 +7,7 @@
 * [2024-10-11, 21:03:50](https://news.ycombinator.com/item?id=41813720) - [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 * [2024-10-11, 20:58:48](https://news.ycombinator.com/item?id=41813676) - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
 * [2024-10-11, 20:41:07](https://news.ycombinator.com/item?id=41813502) - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)
+* [2024-10-11, 20:23:29](https://news.ycombinator.com/item?id=41813358) - [Terraform Provider for Dominos Pizza](https://registry.terraform.io/providers/MNThomson/dominos/latest/docs)
 * [2024-10-11, 20:18:30](https://news.ycombinator.com/item?id=41813304) - [Working from Home Is Powering Productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
 * [2024-10-11, 20:15:28](https://news.ycombinator.com/item?id=41813268) - [Machines of Loving Grace: How AI Could Transform the World for the Better](https://darioamodei.com/machines-of-loving-grace)
 * [2024-10-11, 20:13:06](https://news.ycombinator.com/item?id=41813231) - [Tesla's value drops $60B after investors fail to hail self-driving 'Cybercab'](https://www.theguardian.com/business/2024/oct/11/teslas-value-drops-60bn-after-self-driving-cybercab-fails-to-excite-investors)

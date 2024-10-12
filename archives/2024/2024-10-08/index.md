@@ -52,6 +52,7 @@
 * [2024-10-08, 13:11:50](https://news.ycombinator.com/item?id=41776988) - [PSA: Don't use iPhone Mirroring on your work computer](https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/)
 * [2024-10-08, 12:59:52](https://news.ycombinator.com/item?id=41776878) - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
 * [2024-10-08, 12:57:40](https://news.ycombinator.com/item?id=41776861) - [Do U.S. Ports Need More Automation?](https://www.construction-physics.com/p/do-us-ports-need-more-automation)
+* [2024-10-08, 12:46:13](https://news.ycombinator.com/item?id=41776765) - [How London's Crystal Palace was built so quickly](https://arstechnica.com/science/2024/10/how-londons-crystal-palace-was-built-so-quickly/)
 * [2024-10-08, 12:44:58](https://news.ycombinator.com/item?id=41776753) - [Roblox: Inflated Key Metrics for Wall Street and a Pedophile Hellscape for Kids](https://hindenburgresearch.com/roblox/)
 * [2024-10-08, 12:41:25](https://news.ycombinator.com/item?id=41776721) - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 * [2024-10-08, 12:39:56](https://news.ycombinator.com/item?id=41776706) - [Building a robust data synchronization framework with Rails](https://pcreux.com/2024/10/07/rails-data-sync-service.html)
