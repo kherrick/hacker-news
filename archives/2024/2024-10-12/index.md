@@ -15,3 +15,4 @@
 * [2024-10-12, 01:22:09](https://news.ycombinator.com/item?id=41815544) - [Show HN: Peak Brain Plasticity book – maximize brain power](https://www.saidhasyim.com/book/peak-brain-plasticity/)
 * [2024-10-12, 00:46:56](https://news.ycombinator.com/item?id=41815395) - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
 * [2024-10-12, 00:22:48](https://news.ycombinator.com/item?id=41815268) - [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
+* [2024-10-12, 00:05:50](https://news.ycombinator.com/item?id=41815173) - [Swarm, a new agent framework by OpenAI](https://github.com/openai/swarm)
