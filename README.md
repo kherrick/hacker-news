@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 19:04:18](https://news.ycombinator.com/item?id=41821545) - [Ask HN: If you were rewriting Emacs from scratch, what would you do differently?](https://news.ycombinator.com/item?id=41821545)
 * [2024-10-12, 18:46:41](https://news.ycombinator.com/item?id=41821400) - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
@@ -11,10 +12,10 @@
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
 * [2024-10-12, 16:08:51](https://news.ycombinator.com/item?id=41820139) - [Free Starship Booster catching arcade game](https://mechazilla.io/)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant modal shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
+* [2024-10-12, 13:33:39](https://news.ycombinator.com/item?id=41818953) - [Choosing solitude](https://www.washingtonpost.com/wellness/2024/10/12/solitude-brain-health-emotions-creativity/)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-* [2024-10-12, 11:52:55](https://news.ycombinator.com/item?id=41818446) - [PostgreSQL Streaming Replication (WAL); What It Is and How to Configure One](https://mindhub365.com/sql/postgresql-streaming-replication-wal-what-it-is-and-how-to-configure-one/)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin bests SSRI for major depression in first long-term comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
 * [2024-10-12, 00:22:48](https://news.ycombinator.com/item?id=41815268) - [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
@@ -27,7 +28,6 @@
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What Have Researchers Learned? – Illinois Fishing Hub](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 13:57:55](https://news.ycombinator.com/item?id=41788066) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
 * [2024-10-09, 09:45:51](https://news.ycombinator.com/item?id=41786067) - [Conway's Gradient of Life](https://hardmath123.github.io/conways-gradient.html)
-* [2024-10-09, 01:02:46](https://news.ycombinator.com/item?id=41783444) - [Python and SysV Shared Memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-07, 22:39:13](https://news.ycombinator.com/item?id=41771864) - [Ion and Molecular Sieving with Ultrathin Polydopamine Nanomembranes](https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137)
 * [2024-10-07, 21:02:04](https://news.ycombinator.com/item?id=41771010) - [Researchers Find Cannibalized Victim of 19th-Century Arctic Voyage](https://www.nytimes.com/2024/10/04/science/franklin-expedition-cannibalism.html)
 
