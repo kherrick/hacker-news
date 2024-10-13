@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 11:39:51](https://news.ycombinator.com/item?id=41827112) - [Changing Views Toward mRNA Based Covid Vaccines in the Scientific Literature](http://www.paom.pl/Changing-Views-toward-mRNA-based-Covid-Vaccines-in-the-Scientific-Literature-2020,189961,0,2.html)
 * [2024-10-13, 10:59:22](https://news.ycombinator.com/item?id=41826928) - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
 * [2024-10-13, 10:38:06](https://news.ycombinator.com/item?id=41826831) - [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
 * [2024-10-13, 09:05:23](https://news.ycombinator.com/item?id=41826344) - [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
-* [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 05:25:51](https://news.ycombinator.com/item?id=41825387) - [Functional PHP](https://fluffyandflakey.blog/2015/10/22/functional-php/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 11:39:51](https://news.ycombinator.com/item?id=41827112) - [Changing Views Toward mRNA Based Covid Vaccines in the Scientific Literature](http://www.paom.pl/Changing-Views-toward-mRNA-based-Covid-Vaccines-in-the-Scientific-Literature-2020,189961,0,2.html)
 * [2024-10-13, 10:59:22](https://news.ycombinator.com/item?id=41826928) - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
 * [2024-10-13, 10:38:06](https://news.ycombinator.com/item?id=41826831) - [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
