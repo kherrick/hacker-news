@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-13, 21:46:07](https://news.ycombinator.com/item?id=41831932) - [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 21:05:44](https://news.ycombinator.com/item?id=41831585) - [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
@@ -8,10 +7,10 @@
 * [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [The military is an impossible place for hackers, and what to do about it (2018)](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
 * [2024-10-13, 19:21:38](https://news.ycombinator.com/item?id=41830753) - [Show HN: The fastest Ethereum graph explorer (OpenSource)](https://dictynna.com/)
 * [2024-10-13, 19:16:41](https://news.ycombinator.com/item?id=41830717) - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
-* [2024-10-13, 18:41:33](https://news.ycombinator.com/item?id=41830421) - [HHKB and Realforce – Mechanical Programming and Gaming Keyboards](https://hhkeyboard.us/)
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups done right](https://restic.net/)
+* [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:35:40](https://news.ycombinator.com/item?id=41828896) - [America's new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
 * [2024-10-13, 15:32:36](https://news.ycombinator.com/item?id=41828864) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
@@ -29,6 +28,7 @@
 * [2024-10-12, 05:34:11](https://news.ycombinator.com/item?id=41816688) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-12, 02:43:27](https://news.ycombinator.com/item?id=41815945) - [Show HN: I've added undo and redo to IsoCity](https://github.com/victorqribeiro/isocity/pull/26)
+* [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi’s Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
 * [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
 
 ## [Archives](archives/index.md)
