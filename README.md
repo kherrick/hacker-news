@@ -2,7 +2,6 @@
 
 * [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
-* [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [The military is an impossible place for hackers, and what to do about it (2018)](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
 * [2024-10-13, 19:21:38](https://news.ycombinator.com/item?id=41830753) - [Show HN: Chain Traverser – Fast Ethereum graph explorer](https://dictynna.com/)
 * [2024-10-13, 19:16:41](https://news.ycombinator.com/item?id=41830717) - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
@@ -28,6 +27,7 @@
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-12, 02:43:27](https://news.ycombinator.com/item?id=41815945) - [Show HN: I've added undo and redo to IsoCity](https://github.com/victorqribeiro/isocity/pull/26)
 * [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi’s Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
+* [2024-10-11, 09:09:18](https://news.ycombinator.com/item?id=41807713) - [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)
 * [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
 * [2024-10-09, 11:53:23](https://news.ycombinator.com/item?id=41786870) - [Plop Boot Manager](https://www.plop.at/en/bootmanager/full.html)
 

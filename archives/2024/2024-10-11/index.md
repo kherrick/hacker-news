@@ -53,6 +53,7 @@
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
 * [2024-10-11, 09:20:15](https://news.ycombinator.com/item?id=41807783) - [Show HN: I made a simple web app to help kids learn a new language](https://www.voiczy.com)
+* [2024-10-11, 09:09:18](https://news.ycombinator.com/item?id=41807713) - [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
 * [2024-10-11, 06:13:22](https://news.ycombinator.com/item?id=41806714) - [Tesla's Robotaxi day was a total Snoozefest](https://twitter.com/realdanodowd/status/1844605093368512799)
