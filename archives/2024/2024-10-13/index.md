@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Minetest – Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 21:46:07](https://news.ycombinator.com/item?id=41831932) - [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 21:05:44](https://news.ycombinator.com/item?id=41831585) - [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)

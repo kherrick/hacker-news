@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Minetest – Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 21:05:44](https://news.ycombinator.com/item?id=41831585) - [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
@@ -10,7 +11,6 @@
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups done right](https://restic.net/)
-* [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:35:40](https://news.ycombinator.com/item?id=41828896) - [America's new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
 * [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
