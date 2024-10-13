@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 01:43:31",
+      "https://news.ycombinator.com/item?id=41824482"
+    ],
+    [
+      "In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane",
+      "https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 01:28:01",
       "https://news.ycombinator.com/item?id=41824390"
     ],
@@ -37,16 +47,6 @@
     [
       "Gödel Agent: A self-referential agent framework for recursive self-improvement",
       "https://arxiv.org/abs/2410.04444"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 23:15:26",
-      "https://news.ycombinator.com/item?id=41823582"
-    ],
-    [
-      "Google Ads announces 11-year data retention policy",
-      "https://searchengineland.com/google-ads-11-year-data-retention-policy-447465"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Machine learning and information theory concepts towards an AI Mathematician",
       "https://arxiv.org/abs/2403.04571"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 18:17:22",
+      "https://news.ycombinator.com/item?id=41821169"
+    ],
+    [
+      "Entropy Explained, with Sheep (2016)",
+      "https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=41816545"
     ],
     [
-      "Can Logic Programming Be Liberated from Predicates and Backtracking? [pdf]",
+      "Can logic programming be liberated from predicates and backtracking? [pdf]",
       "https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "The Explore vs. Exploit Dilemma",
       "https://nathanzhao.cc/explore-exploit"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 00:05:50",
-      "https://news.ycombinator.com/item?id=41815173"
-    ],
-    [
-      "Swarm, a new agent framework by OpenAI",
-      "https://github.com/openai/swarm"
     ]
   ],
   [
