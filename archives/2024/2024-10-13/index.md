@@ -49,6 +49,7 @@
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
 * [2024-10-13, 09:16:16](https://news.ycombinator.com/item?id=41826396) - [OpenBSD Is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
+* [2024-10-13, 09:13:21](https://news.ycombinator.com/item?id=41826388) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 09:05:23](https://news.ycombinator.com/item?id=41826344) - [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
