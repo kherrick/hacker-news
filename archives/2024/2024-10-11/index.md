@@ -19,6 +19,7 @@
 * [2024-10-11, 18:59:35](https://news.ycombinator.com/item?id=41812358) - [The sad state of font rendering on Linux](https://pandasauce.org/post/linux-fonts/)
 * [2024-10-11, 18:57:33](https://news.ycombinator.com/item?id=41812336) - [Gleam: A Basic Introduction](https://peq42.com/blog/gleam-a-basic-introduction/)
 * [2024-10-11, 18:29:40](https://news.ycombinator.com/item?id=41811983) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
+* [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi's Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
 * [2024-10-11, 18:06:40](https://news.ycombinator.com/item?id=41811760) - [Regular Expression Search with Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [2024-10-11, 17:45:41](https://news.ycombinator.com/item?id=41811556) - [AI Winter Is Coming](https://leehanchung.github.io/blogs/2024/09/20/ai-winter/)
 * [2024-10-11, 17:29:14](https://news.ycombinator.com/item?id=41811458) - [Hamming AI (YC S24) Is Hiring a Product Engineer](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer)
