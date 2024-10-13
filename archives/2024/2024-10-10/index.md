@@ -74,5 +74,6 @@
 * [2024-10-10, 01:18:57](https://news.ycombinator.com/item?id=41794605) - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
 * [2024-10-10, 01:14:40](https://news.ycombinator.com/item?id=41794577) - [Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+* [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 * [2024-10-10, 01:02:17](https://news.ycombinator.com/item?id=41794517) - [Instagram and Threads moderation is out of control](https://www.theverge.com/2024/10/9/24266096/instagram-threads-moderation-account-post-deleted-limited)
 * [2024-10-10, 00:34:19](https://news.ycombinator.com/item?id=41794342) - [Bluesky struggles to moderate child abuse material in Portuguese](https://nucleo.jor.br/english/2024-09-24-bluesky-struggles-to-moderate-csam/)
