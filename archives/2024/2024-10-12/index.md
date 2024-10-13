@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 23:15:26](https://news.ycombinator.com/item?id=41823582) - [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
 * [2024-10-12, 22:11:16](https://news.ycombinator.com/item?id=41823155) - [New vulnerability in sha256](https://github.com/seccode/Sha256)
 * [2024-10-12, 22:08:01](https://news.ycombinator.com/item?id=41823134) - [Ask HN: What do you think of Theo Browne (a.k.a. t3.gg)?](https://news.ycombinator.com/item?id=41823134)
 * [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
@@ -57,6 +58,7 @@
 * [2024-10-12, 07:13:14](https://news.ycombinator.com/item?id=41817074) - [Electric vehicle battery prices are expected to fall almost 50% by 2026](https://www.goldmansachs.com/insights/articles/electric-vehicle-battery-prices-are-expected-to-fall-almost-50-percent-by-2025)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 * [2024-10-12, 05:49:33](https://news.ycombinator.com/item?id=41816756) - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
+* [2024-10-12, 04:58:10](https://news.ycombinator.com/item?id=41816542) - [The Explore vs. Exploit Dilemma](https://nathanzhao.cc/explore-exploit)
 * [2024-10-12, 04:29:03](https://news.ycombinator.com/item?id=41816407) - [The Society in Dedham for Apprehending Horse Thieves](https://en.wikipedia.org/wiki/The_Society_in_Dedham_for_Apprehending_Horse_Thieves)
 * [2024-10-12, 03:52:32](https://news.ycombinator.com/item?id=41816271) - [How SpaceX became the MyPillow of government contractors](https://www.theverge.com/2024/10/11/24267262/elon-musk-donald-trump-politics-republican)
 * [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)

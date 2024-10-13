@@ -28,6 +28,7 @@
 * [2024-10-09, 19:13:33](https://news.ycombinator.com/item?id=41791570) - [Dell's sudden 5-day RTO order leaves parents scrambling to find childcare](https://www.businessinsider.com/dell-staff-return-office-order-sparks-panic-parents-childcare-wfh-2024-10)
 * [2024-10-09, 19:00:13](https://news.ycombinator.com/item?id=41791426) - [The Open Source AI Definition RC1 Is Available for Comments](https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments)
 * [2024-10-09, 18:55:21](https://news.ycombinator.com/item?id=41791369) - [Wordpress.org Now Requires You Denounce Affiliation with WP Engine to Log In](https://www.404media.co/wordpress-checkbox-login-wp-engine/)
+* [2024-10-09, 18:40:13](https://news.ycombinator.com/item?id=41791208) - [Washington's 'Forgotten Giant' Volcano Stirs: Surge in Quakes Prompts Monitoring](https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873)
 * [2024-10-09, 17:44:31](https://news.ycombinator.com/item?id=41790619) - [Dito – an advanced Layer 7 reverse proxy server written in Go](https://github.com/andrearaponi/dito)
 * [2024-10-09, 17:42:20](https://news.ycombinator.com/item?id=41790594) - [Free Threaded Python with Asyncio](https://blog.changs.co.uk/free-threaded-python-with-asyncio.html)
 * [2024-10-09, 17:34:41](https://news.ycombinator.com/item?id=41790499) - [Liskov's Gun: The Parallel Evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
