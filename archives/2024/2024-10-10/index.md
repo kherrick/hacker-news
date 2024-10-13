@@ -7,6 +7,7 @@
 * [2024-10-10, 23:43:14](https://news.ycombinator.com/item?id=41804706) - [FreeWP Is Here to Shake Up the WordPress Ecosystem](https://freewp.com/)
 * [2024-10-10, 23:18:19](https://news.ycombinator.com/item?id=41804555) - [Running WolfSSL and Curl on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 23:04:04](https://news.ycombinator.com/item?id=41804460) - [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
+* [2024-10-10, 22:51:34](https://news.ycombinator.com/item?id=41804389) - [What, Exactly, Is 'Moderate Drinking'?](https://www.nytimes.com/2024/10/10/well/eat/moderate-alcohol-drinking-definition.html)
 * [2024-10-10, 22:46:59](https://news.ycombinator.com/item?id=41804356) - [The 'Beautiful Confusion' of the First Billion Years Comes into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
 * [2024-10-10, 22:44:46](https://news.ycombinator.com/item?id=41804341) - [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
