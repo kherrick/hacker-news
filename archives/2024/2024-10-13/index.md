@@ -14,6 +14,7 @@
 * [2024-10-13, 16:27:12](https://news.ycombinator.com/item?id=41829304) - [Integer addition algorithm could reduce energy needs of AI by 95%](https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html)
 * [2024-10-13, 16:25:36](https://news.ycombinator.com/item?id=41829290) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-13, 15:44:54](https://news.ycombinator.com/item?id=41828968) - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
+* [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen has died (BBS and XMODEM fame)](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:35:40](https://news.ycombinator.com/item?id=41828896) - [America's new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
 * [2024-10-13, 15:32:45](https://news.ycombinator.com/item?id=41828867) - [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
