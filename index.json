@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 23:07:03",
+      "https://news.ycombinator.com/item?id=41832547"
+    ],
+    [
+      "Notes on Zero-latency SQLite storage in every Durable Object",
+      "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 22:22:16",
       "https://news.ycombinator.com/item?id=41832215"
     ],
@@ -217,16 +227,6 @@
     [
       "Exploring Typst, a new typesetting system similar to LaTeX",
       "https://blog.jreyesr.com/posts/typst/"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 11:55:12",
-      "https://news.ycombinator.com/item?id=41818459"
-    ],
-    [
-      "1 bug, $50k in bounties, a Zendesk backdoor",
-      "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"
     ]
   ],
   [
