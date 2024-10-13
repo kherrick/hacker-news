@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 16:44:59](https://news.ycombinator.com/item?id=41829464) - [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
+* [2024-10-13, 16:42:14](https://news.ycombinator.com/item?id=41829438) - [Sugar- & Artificially Sweetened Beverages:Incident Stroke&Dementia Risks(2017)](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.016027)
+* [2024-10-13, 16:27:12](https://news.ycombinator.com/item?id=41829304) - [Integer addition algorithm could reduce energy needs of AI by 95%](https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html)
 * [2024-10-13, 15:44:54](https://news.ycombinator.com/item?id=41828968) - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen has died (BBS and XMODEM fame)](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:35:40](https://news.ycombinator.com/item?id=41828896) - [America's new millionaire class: Plumbers and HVAC entrepreneurs](https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c)
