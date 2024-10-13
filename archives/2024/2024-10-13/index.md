@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
+* [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 Stream](https://twitter.com/SpaceX/status/1845152255944819015)
 * [2024-10-13, 11:44:13](https://news.ycombinator.com/item?id=41827136) - [Difference Between Butter Chicken and Chicken Tikka Masala](https://twitter.com/devahaz/status/1845267197268054216)
 * [2024-10-13, 11:39:51](https://news.ycombinator.com/item?id=41827112) - [Changing Views Toward mRNA Based Covid Vaccines in the Scientific Literature](http://www.paom.pl/Changing-Views-toward-mRNA-based-Covid-Vaccines-in-the-Scientific-Literature-2020,189961,0,2.html)
