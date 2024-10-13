@@ -23,7 +23,7 @@
 * [2024-10-12, 04:58:10](https://news.ycombinator.com/item?id=41816542) - [The Explore vs. Exploit Dilemma](https://nathanzhao.cc/explore-exploit)
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
-* [2024-10-10, 12:28:10](https://news.ycombinator.com/item?id=41798152) - [Writing an animated 3-star popup with .NET MAUI and Lottie](https://medium.com/@rretamal.dev/writing-an-animated-3-star-popup-with-net-maui-and-lottie-cb67b7dfe7e)
+* [2024-10-10, 12:28:10](https://news.ycombinator.com/item?id=41798152) - [Writing an animated 3-star popup with .NET MAUI and Lottie (2022)](https://medium.com/@rretamal.dev/writing-an-animated-3-star-popup-with-net-maui-and-lottie-cb67b7dfe7e)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 * [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
