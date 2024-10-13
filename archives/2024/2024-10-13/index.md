@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 03:05:34](https://news.ycombinator.com/item?id=41824852) - [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
 * [2024-10-13, 02:50:42](https://news.ycombinator.com/item?id=41824784) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 01:43:31](https://news.ycombinator.com/item?id=41824482) - [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [Flux is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)

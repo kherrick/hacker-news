@@ -8,6 +8,7 @@
 * [2024-10-12, 22:11:16](https://news.ycombinator.com/item?id=41823155) - [New vulnerability in sha256](https://github.com/seccode/Sha256)
 * [2024-10-12, 22:08:01](https://news.ycombinator.com/item?id=41823134) - [Ask HN: What do you think of Theo Browne (a.k.a. t3.gg)?](https://news.ycombinator.com/item?id=41823134)
 * [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
+* [2024-10-12, 20:52:42](https://news.ycombinator.com/item?id=41822449) - [Some Notes on Upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/)
 * [2024-10-12, 20:46:49](https://news.ycombinator.com/item?id=41822413) - [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:33:22](https://news.ycombinator.com/item?id=41822308) - [Apple macOS 15 Sequoia is officially Unix](https://www.theregister.com/2024/10/11/macos_15_is_unix/)

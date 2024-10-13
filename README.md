@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 03:05:34](https://news.ycombinator.com/item?id=41824852) - [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
 * [2024-10-13, 00:35:46](https://news.ycombinator.com/item?id=41824103) - [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
+* [2024-10-12, 20:52:42](https://news.ycombinator.com/item?id=41822449) - [Some Notes on Upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/)
 * [2024-10-12, 20:35:24](https://news.ycombinator.com/item?id=41822321) - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 20:19:32](https://news.ycombinator.com/item?id=41822178) - [PayPal (USA) will automatically share data about you to participating stores](https://www.paypal.com/us/legalhub/upcoming-policies-full)
@@ -28,8 +30,6 @@
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What have researchers learned?](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 18:40:13](https://news.ycombinator.com/item?id=41791208) - [Washington's 'forgotten giant' volcano stirs](https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873)
 * [2024-10-09, 15:24:37](https://news.ycombinator.com/item?id=41788877) - [Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
-* [2024-10-09, 15:13:50](https://news.ycombinator.com/item?id=41788765) - [Who are AMD, Intel's new manycore monster CPUs for?](https://www.theregister.com/2024/10/07/risk_of_manycore_cpus/)
-* [2024-10-09, 01:53:23](https://news.ycombinator.com/item?id=41783698) - [A mountain? Multistorey car park? Both? Inside Shanghai's £225M summit](https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park)
 
 ## [Archives](archives/index.md)
 
