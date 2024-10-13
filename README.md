@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 17:51:04](https://news.ycombinator.com/item?id=41829991) - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups done right](https://restic.net/)
-* [2024-10-13, 17:35:53](https://news.ycombinator.com/item?id=41829858) - [Why Google Search Is Falling Apart [video]](https://www.youtube.com/watch?v=uSGVk2KVokQ)
 * [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:32:45](https://news.ycombinator.com/item?id=41828867) - [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
@@ -27,7 +27,7 @@
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi’s Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
 * [2024-10-11, 14:40:22](https://news.ycombinator.com/item?id=41809876) - [The Surprising Predictability of Long Runs (2012) [pdf]](https://www.csun.edu/~hcmth031/tspolr.pdf)
-* [2024-10-10, 22:51:34](https://news.ycombinator.com/item?id=41804389) - [What, Exactly, Is 'Moderate Drinking'?](https://www.nytimes.com/2024/10/10/well/eat/moderate-alcohol-drinking-definition.html)
+* [2024-10-10, 22:51:34](https://news.ycombinator.com/item?id=41804389) - [What is considered ‘moderate drinking’?](https://www.nytimes.com/2024/10/10/well/eat/moderate-alcohol-drinking-definition.html)
 * [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 
