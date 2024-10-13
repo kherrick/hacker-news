@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-13, 02:50:42](https://news.ycombinator.com/item?id=41824784) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
@@ -17,6 +16,7 @@
 * [2024-10-12, 17:00:46](https://news.ycombinator.com/item?id=41820577) - [IcePanel (YC W23) is hiring full stack engineers in Vancouver](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer)
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+* [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin bests SSRI for major depression in first long-term comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
