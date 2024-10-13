@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-13, 14:43:40](https://news.ycombinator.com/item?id=41828443) - [UCLA professor says he's homeless due to low pay](https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/)
 * [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
@@ -23,6 +22,7 @@
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi’s Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
 * [2024-10-11, 14:40:22](https://news.ycombinator.com/item?id=41809876) - [The Surprising Predictability of Long Runs (2012) [pdf]](https://www.csun.edu/~hcmth031/tspolr.pdf)
+* [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
