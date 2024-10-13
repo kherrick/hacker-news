@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+* [2024-10-13, 19:16:41](https://news.ycombinator.com/item?id=41830717) - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 17:51:04](https://news.ycombinator.com/item?id=41829991) - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)

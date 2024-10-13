@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+* [2024-10-13, 19:16:41](https://news.ycombinator.com/item?id=41830717) - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
-* [2024-10-13, 17:51:04](https://news.ycombinator.com/item?id=41829991) - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups done right](https://restic.net/)
 * [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
@@ -21,6 +22,7 @@
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
+* [2024-10-12, 05:34:11](https://news.ycombinator.com/item?id=41816688) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-12, 02:49:05](https://news.ycombinator.com/item?id=41815982) - [When is causal broadcast not enough for causal memory?](https://decomposition.al/blog/2024/09/22/when-is-causal-broadcast-not-enough-for-causal-memory/)
 * [2024-10-12, 02:43:27](https://news.ycombinator.com/item?id=41815945) - [Show HN: I've added undo and redo to IsoCity](https://github.com/victorqribeiro/isocity/pull/26)
@@ -28,8 +30,6 @@
 * [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi’s Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
 * [2024-10-11, 14:40:22](https://news.ycombinator.com/item?id=41809876) - [The Surprising Predictability of Long Runs (2012) [pdf]](https://www.csun.edu/~hcmth031/tspolr.pdf)
 * [2024-10-10, 22:51:34](https://news.ycombinator.com/item?id=41804389) - [What is considered ‘moderate drinking’?](https://www.nytimes.com/2024/10/10/well/eat/moderate-alcohol-drinking-definition.html)
-* [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
-* [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 
 ## [Archives](archives/index.md)
 
