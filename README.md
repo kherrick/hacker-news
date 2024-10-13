@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 Stream](https://twitter.com/SpaceX/status/1845152255944819015)
-* [2024-10-13, 11:44:13](https://news.ycombinator.com/item?id=41827136) - [Difference Between Butter Chicken and Chicken Tikka Masala](https://twitter.com/devahaz/status/1845267197268054216)
 * [2024-10-13, 11:26:42](https://news.ycombinator.com/item?id=41827043) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 * [2024-10-13, 10:59:22](https://news.ycombinator.com/item?id=41826928) - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
@@ -10,6 +9,7 @@
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
+* [2024-10-12, 20:52:42](https://news.ycombinator.com/item?id=41822449) - [Some Notes on Upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/)
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:17:22](https://news.ycombinator.com/item?id=41821169) - [Entropy Explained, with Sheep (2016)](https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm)
@@ -22,6 +22,7 @@
 * [2024-10-12, 04:58:10](https://news.ycombinator.com/item?id=41816542) - [The Explore vs. Exploit Dilemma](https://nathanzhao.cc/explore-exploit)
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 18:15:15](https://news.ycombinator.com/item?id=41811836) - [Pepsi's Soviet Navy (2021)](https://foreignpolicy.com/2021/11/27/pepsi-navy-soviet-ussr/)
+* [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
@@ -29,7 +30,6 @@
 * [2024-10-09, 19:49:15](https://news.ycombinator.com/item?id=41791897) - [The unreasonable effectiveness of plasmid sequencing as a service](https://www.owlposting.com/p/the-unreasonable-effectiveness-of)
 * [2024-10-09, 18:40:13](https://news.ycombinator.com/item?id=41791208) - [Washington's 'forgotten giant' volcano stirs](https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873)
 * [2024-10-09, 15:58:15](https://news.ycombinator.com/item?id=41789374) - [Should we be thinking about luck differently?](https://www.theguardian.com/books/2024/oct/07/the-big-idea-should-we-be-thinking-about-luck-differently)
-* [2024-10-09, 15:24:37](https://news.ycombinator.com/item?id=41788877) - [Two never-before-seen tools, from same group, infect air-gapped devices](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
 
 ## [Archives](archives/index.md)
 
