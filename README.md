@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
-* [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
 * [2024-10-13, 02:50:42](https://news.ycombinator.com/item?id=41824784) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
@@ -26,6 +25,7 @@
 * [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
 * [2024-10-10, 01:43:31](https://news.ycombinator.com/item?id=41794697) - [Making a natural looking color generator algorithm](https://medium.com/felix-oginni-s-blog/making-a-realistic-color-generator-algorithm-f1b7d9424ebf)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
+* [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What have researchers learned?](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 18:40:13](https://news.ycombinator.com/item?id=41791208) - [Washington's 'forgotten giant' volcano stirs](https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873)
