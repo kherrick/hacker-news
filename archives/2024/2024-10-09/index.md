@@ -66,6 +66,7 @@
 * [2024-10-09, 12:15:57](https://news.ycombinator.com/item?id=41787041) - [Proposal: JavaScript Structs](https://github.com/tc39/proposal-structs)
 * [2024-10-09, 12:00:05](https://news.ycombinator.com/item?id=41786924) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:54:32](https://news.ycombinator.com/item?id=41786880) - [The State of the TI Community (1999)](https://www.ticalc.org/community/articles/27.html)
+* [2024-10-09, 11:53:23](https://news.ycombinator.com/item?id=41786870) - [Plop Boot Manager](https://www.plop.at/en/bootmanager/full.html)
 * [2024-10-09, 11:46:59](https://news.ycombinator.com/item?id=41786818) - [The lengthy story of how I left the Tech industry and started washing miso jars](https://write.as/conjure-utopia/the-verbose-story-of-how-i-left-the-tech-industry-and-started-washing-miso-jars)
 * [2024-10-09, 11:39:54](https://news.ycombinator.com/item?id=41786768) - [Bridge to Nowhere](https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/)
 * [2024-10-09, 11:39:13](https://news.ycombinator.com/item?id=41786761) - [Google DeepMind scientists win Nobel chemistry prize](https://www.theguardian.com/science/2024/oct/09/google-deepmind-scientists-win-nobel-chemistry-prize)
