@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
 * [2024-10-13, 03:05:34](https://news.ycombinator.com/item?id=41824852) - [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
 * [2024-10-13, 02:50:42](https://news.ycombinator.com/item?id=41824784) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)

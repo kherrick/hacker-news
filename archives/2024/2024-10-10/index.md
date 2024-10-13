@@ -73,6 +73,7 @@
 * [2024-10-10, 02:08:10](https://news.ycombinator.com/item?id=41794818) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [2024-10-10, 02:05:34](https://news.ycombinator.com/item?id=41794807) - [Being Generous, Thoughtful, and Kind is a Sign of High Intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
 * [2024-10-10, 01:53:02](https://news.ycombinator.com/item?id=41794735) - [Wafer Scale and Trilogy Systems: Part 1](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part)
+* [2024-10-10, 01:43:31](https://news.ycombinator.com/item?id=41794697) - [Making a natural looking color generator algorithm](https://medium.com/felix-oginni-s-blog/making-a-realistic-color-generator-algorithm-f1b7d9424ebf)
 * [2024-10-10, 01:18:57](https://news.ycombinator.com/item?id=41794605) - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
 * [2024-10-10, 01:14:40](https://news.ycombinator.com/item?id=41794577) - [Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv)
 * [2024-10-10, 01:13:09](https://news.ycombinator.com/item?id=41794566) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
