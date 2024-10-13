@@ -43,6 +43,7 @@
 * [2024-10-13, 09:16:16](https://news.ycombinator.com/item?id=41826396) - [OpenBSD Is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:05:23](https://news.ycombinator.com/item?id=41826344) - [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
+* [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 05:25:51](https://news.ycombinator.com/item?id=41825387) - [Functional PHP](https://fluffyandflakey.blog/2015/10/22/functional-php/)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
