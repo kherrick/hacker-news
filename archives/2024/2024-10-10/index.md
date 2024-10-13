@@ -47,6 +47,7 @@
 * [2024-10-10, 13:00:23](https://news.ycombinator.com/item?id=41798359) - [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://brokencloudstorage.info/)
 * [2024-10-10, 12:46:18](https://news.ycombinator.com/item?id=41798259) - ['Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school](https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school)
 * [2024-10-10, 12:34:44](https://news.ycombinator.com/item?id=41798184) - [Back in the day, people had to cook a hard-boiled egg for a computer mouse](https://www.boredpanda.com/older-people-trolling-young-computer-mouse-hardboiled-egg-hack/)
+* [2024-10-10, 12:28:10](https://news.ycombinator.com/item?id=41798152) - [Writing an animated 3-star popup with .NET MAUI and Lottie](https://medium.com/@rretamal.dev/writing-an-animated-3-star-popup-with-net-maui-and-lottie-cb67b7dfe7e)
 * [2024-10-10, 12:08:36](https://news.ycombinator.com/item?id=41798027) - [Owe Your Banker £1k You Are at His Mercy; Owe Him £1M the Position Is Reversed](https://quoteinvestigator.com/2019/04/23/bank/)
 * [2024-10-10, 11:47:01](https://news.ycombinator.com/item?id=41797875) - [First Report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 11:23:34](https://news.ycombinator.com/item?id=41797724) - [A utopian strand of economic thought is making a surprising comeback](https://www.vox.com/the-highlight/24065976/economists-post-scarcity-abundance-industrial-revolution-socialism-capitalism)
