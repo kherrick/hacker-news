@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 Stream](https://twitter.com/SpaceX/status/1845152255944819015)
+* [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 * [2024-10-13, 11:26:42](https://news.ycombinator.com/item?id=41827043) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Diffusion for World Modeling](https://diamond-wm.github.io/)
