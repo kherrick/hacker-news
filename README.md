@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 17:51:04](https://news.ycombinator.com/item?id=41829991) - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups Done Right](https://restic.net/)
 * [2024-10-13, 17:35:53](https://news.ycombinator.com/item?id=41829858) - [Why Google Search Is Falling Apart [video]](https://www.youtube.com/watch?v=uSGVk2KVokQ)
-* [2024-10-13, 17:25:57](https://news.ycombinator.com/item?id=41829783) - [Mystery UFOs swarm US Military base](https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4)
 * [2024-10-13, 16:25:36](https://news.ycombinator.com/item?id=41829290) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-13, 15:44:14](https://news.ycombinator.com/item?id=41828958) - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
