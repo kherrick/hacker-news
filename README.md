@@ -2,7 +2,7 @@
 
 * [2024-10-13, 16:25:36](https://news.ycombinator.com/item?id=41829290) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-13, 15:44:54](https://news.ycombinator.com/item?id=41828968) - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
-* [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen has died (of BBS and XMODEM fame)](https://en.wikipedia.org/wiki/Ward_Christensen)
+* [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
 * [2024-10-13, 15:32:45](https://news.ycombinator.com/item?id=41828867) - [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
 * [2024-10-13, 15:32:36](https://news.ycombinator.com/item?id=41828864) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
 * [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
