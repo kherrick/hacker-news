@@ -2,7 +2,6 @@
 
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
-* [2024-10-13, 03:40:36](https://news.ycombinator.com/item?id=41824988) - [Firepad – An embeddable open-source collaborative code and text editor for web](https://firepad.io/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
@@ -25,6 +24,7 @@
 * [2024-10-10, 13:02:36](https://news.ycombinator.com/item?id=41798369) - [“Bad Apple” in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [2024-10-10, 10:00:00](https://news.ycombinator.com/item?id=41797271) - [Lessons from Plain Text](https://www.rugu.dev/en/blog/plain-text/)
 * [2024-10-10, 01:05:17](https://news.ycombinator.com/item?id=41794528) - [Heart rate variability differs between smartwatch and clinical testing](https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ)
+* [2024-10-09, 22:41:25](https://news.ycombinator.com/item?id=41793556) - [Putting a full power search engine in Ecto](https://moosie.us/parade_db_ecto)
 * [2024-10-09, 22:34:28](https://news.ycombinator.com/item?id=41793485) - [Turkish language has a gossip tense](https://twitter.com/esesci/status/1843769276471349698)
 * [2024-10-09, 20:03:58](https://news.ycombinator.com/item?id=41792046) - [Lake Michigan Stonehenge – What have researchers learned?](https://www.illinoisfishinghub.com/lake-michigan-stonehenge/)
 * [2024-10-09, 19:49:15](https://news.ycombinator.com/item?id=41791897) - [The unreasonable effectiveness of plasmid sequencing as a service](https://www.owlposting.com/p/the-unreasonable-effectiveness-of)
