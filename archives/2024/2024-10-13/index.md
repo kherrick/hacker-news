@@ -6,6 +6,7 @@
 
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
+* [2024-10-13, 09:16:16](https://news.ycombinator.com/item?id=41826396) - [OpenBSD Is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
