@@ -12,3 +12,4 @@
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
 * [2024-10-13, 00:35:46](https://news.ycombinator.com/item?id=41824103) - [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444)
+* [2024-10-13, 00:28:27](https://news.ycombinator.com/item?id=41824068) - [Tokyo looks to protect service staff from customers who are not so cool](https://www.ft.com/content/f48b9af5-d48c-45c3-a9cd-6d34b3759202)
