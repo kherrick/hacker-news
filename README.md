@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 14:31:49](https://news.ycombinator.com/item?id=41828348) - [Billions of Gmail users at risk from sophisticated new AI hack](https://www.tomsguide.com/computing/online-security/billions-of-gmail-users-at-risk-from-sophisticated-new-ai-hack-how-to-stay-safe)
 * [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
@@ -16,7 +17,6 @@
 * [2024-10-12, 14:47:56](https://news.ycombinator.com/item?id=41819481) - [Germany's 49-euro ticket resulted in significant shift from road to rail](https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html)
 * [2024-10-12, 13:06:31](https://news.ycombinator.com/item?id=41818779) - [How I animate 3Blue1Brown [video]](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 * [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-* [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin bests SSRI for major depression in first long-term comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
 * [2024-10-12, 08:18:02](https://news.ycombinator.com/item?id=41817399) - [Plugging abandoned oil wells and stopping methane leaks [video]](https://www.youtube.com/watch?v=m8QWxJhna8Y)
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
