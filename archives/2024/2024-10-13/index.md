@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 10:38:06](https://news.ycombinator.com/item?id=41826831) - [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
 * [2024-10-13, 09:25:05](https://news.ycombinator.com/item?id=41826449) - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
 * [2024-10-13, 09:16:16](https://news.ycombinator.com/item?id=41826396) - [OpenBSD Is Hard to Show Off](https://atthis.link/blog/2024/16379.html)

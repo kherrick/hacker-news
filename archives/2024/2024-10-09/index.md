@@ -39,6 +39,7 @@
 * [2024-10-09, 16:34:54](https://news.ycombinator.com/item?id=41789815) - [The Internet Archive takes over foreign dissertations from Leiden University](https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl)
 * [2024-10-09, 16:29:10](https://news.ycombinator.com/item?id=41789751) - [Wealth Distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)
 * [2024-10-09, 16:18:42](https://news.ycombinator.com/item?id=41789633) - [Show HN: Donobu – Mac App for Web Automation and Testing](https://www.donobu.com/)
+* [2024-10-09, 15:58:15](https://news.ycombinator.com/item?id=41789374) - [Should we be thinking about luck differently?](https://www.theguardian.com/books/2024/oct/07/the-big-idea-should-we-be-thinking-about-luck-differently)
 * [2024-10-09, 15:51:58](https://news.ycombinator.com/item?id=41789277) - [Your Brain Changes Based on What You Did Two Weeks Ago](https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107)
 * [2024-10-09, 15:50:00](https://news.ycombinator.com/item?id=41789242) - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
 * [2024-10-09, 15:48:52](https://news.ycombinator.com/item?id=41789228) - [A Georgist's Guerilla Gardening Guide](https://taylor.town/oh-trespassing)
