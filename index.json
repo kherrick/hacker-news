@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-10-13, 01:43:31",
-      "https://news.ycombinator.com/item?id=41824482"
-    ],
-    [
-      "In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane",
-      "https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 01:28:01",
       "https://news.ycombinator.com/item?id=41824390"
     ],
     [
-      "Flux is fast and it's open source",
+      "FLUX is fast and it's open source",
       "https://replicate.com/blog/flux-is-fast-and-open-source"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41824103"
     ],
     [
-      "Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement",
+      "Gödel Agent: A self-referential agent framework for recursive self-improvement",
       "https://arxiv.org/abs/2410.04444"
     ]
   ],
@@ -57,16 +47,6 @@
     [
       "Google Ads announces 11-year data retention policy",
       "https://searchengineland.com/google-ads-11-year-data-retention-policy-447465"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 21:39:57",
-      "https://news.ycombinator.com/item?id=41822910"
-    ],
-    [
-      "FAA grants SpaceX Starship Flight 5 license",
-      "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001"
     ]
   ],
   [
@@ -101,6 +81,16 @@
   ],
   [
     [
+      "2024-10-12, 19:17:17",
+      "https://news.ycombinator.com/item?id=41821639"
+    ],
+    [
+      "Home Libraries Will Save Civilization",
+      "https://www.frontporchrepublic.com/2024/10/home-libraries-will-save-civilization/"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 19:04:18",
       "https://news.ycombinator.com/item?id=41821545"
     ],
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2024-10-12, 18:17:22",
-      "https://news.ycombinator.com/item?id=41821169"
+      "2024-10-12, 17:23:53",
+      "https://news.ycombinator.com/item?id=41820785"
     ],
     [
-      "Entropy Explained, with Sheep (2016)",
-      "https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm"
+      "Starship Flight 5 license issued by FAA",
+      "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001?modalOpened=true"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "DuckStation",
       "https://github.com/stenzek/duckstation"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 04:58:30",
+      "https://news.ycombinator.com/item?id=41816545"
+    ],
+    [
+      "Can Logic Programming Be Liberated from Predicates and Backtracking? [pdf]",
+      "https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=41791208"
     ],
     [
-      "Washington's 'Forgotten Giant' Volcano Stirs: Surge in Quakes Prompts Monitoring",
+      "Washington's 'forgotten giant' volcano stirs",
       "https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873"
     ]
   ],
