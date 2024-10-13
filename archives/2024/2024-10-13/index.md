@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
 * [2024-10-13, 03:05:34](https://news.ycombinator.com/item?id=41824852) - [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
