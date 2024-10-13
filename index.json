@@ -11,12 +11,52 @@
   ],
   [
     [
-      "2024-10-13, 15:31:32",
-      "https://news.ycombinator.com/item?id=41828854"
+      "2024-10-13, 15:39:23",
+      "https://news.ycombinator.com/item?id=41828923"
     ],
     [
-      "Laugh Along with GNU",
-      "https://www.gnu.org/fun/humor.html"
+      "Ward Christensen has died (BBS and XMODEM fame)",
+      "https://en.wikipedia.org/wiki/Ward_Christensen"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:35:40",
+      "https://news.ycombinator.com/item?id=41828896"
+    ],
+    [
+      "America's new millionaire class: Plumbers and HVAC entrepreneurs",
+      "https://www.wsj.com/business/entrepreneurship/plumbers-hvac-skilled-trades-millionaires-2b62bf6c"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:32:45",
+      "https://news.ycombinator.com/item?id=41828867"
+    ],
+    [
+      "Scientists found a way to make sound travel in only one direction",
+      "https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:32:36",
+      "https://news.ycombinator.com/item?id=41828864"
+    ],
+    [
+      "DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes",
+      "https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:03:03",
+      "https://news.ycombinator.com/item?id=41828611"
+    ],
+    [
+      "Lessons learned from profiling an algorithm in Rust",
+      "https://blog.mapotofu.org/blogs/rabitq-bench/"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "The Quiet Art of Attention",
       "https://billwear.github.io/art-of-attention.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 14:54:54",
+      "https://news.ycombinator.com/item?id=41828542"
+    ],
+    [
+      "Node.js, Pipes, and Disappearing Bytes",
+      "https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2024-10-13, 01:28:01",
-      "https://news.ycombinator.com/item?id=41824390"
-    ],
-    [
-      "FLUX is fast and it's open source",
-      "https://replicate.com/blog/flux-is-fast-and-open-source"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 00:48:25",
       "https://news.ycombinator.com/item?id=41824171"
     ],
     [
       "Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps",
       "https://github.com/lifeiteng/OmniSenseVoice"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 20:52:42",
-      "https://news.ycombinator.com/item?id=41822449"
-    ],
-    [
-      "Some Notes on Upgrading Hugo",
-      "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/"
     ]
   ],
   [
@@ -167,26 +197,6 @@
     [
       "1 bug, $50k in bounties, a Zendesk backdoor",
       "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 10:22:31",
-      "https://news.ycombinator.com/item?id=41818057"
-    ],
-    [
-      "DuckStation",
-      "https://github.com/stenzek/duckstation"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 08:18:02",
-      "https://news.ycombinator.com/item?id=41817399"
-    ],
-    [
-      "Plugging abandoned oil wells and stopping methane leaks [video]",
-      "https://www.youtube.com/watch?v=m8QWxJhna8Y"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Heart rate variability differs between smartwatch and clinical testing",
       "https://wvutoday.wvu.edu/stories/2024/08/26/wvu-research-shows-smart-watch-and-clinical-testing-measures-differ"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 22:34:28",
-      "https://news.ycombinator.com/item?id=41793485"
-    ],
-    [
-      "Turkish language has a gossip tense",
-      "https://twitter.com/esesci/status/1843769276471349698"
     ]
   ],
   [
