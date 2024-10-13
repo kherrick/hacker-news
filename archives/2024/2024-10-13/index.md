@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 17:51:04](https://news.ycombinator.com/item?id=41829991) - [Just released: oryx now includes a powerful firewall feature](https://github.com/pythops/oryx)
+* [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Innovations to Make Tibetan Language a First-Class Citizen in the Digital World](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
+* [2024-10-13, 17:42:03](https://news.ycombinator.com/item?id=41829913) - [Restic: Backups Done Right](https://restic.net/)
+* [2024-10-13, 17:35:53](https://news.ycombinator.com/item?id=41829858) - [Why Google Search Is Falling Apart [video]](https://www.youtube.com/watch?v=uSGVk2KVokQ)
+* [2024-10-13, 17:25:57](https://news.ycombinator.com/item?id=41829783) - [Mystery UFOs swarm US Military base](https://www.wsj.com/politics/national-security/drones-military-pentagon-defense-331871f4)
 * [2024-10-13, 16:44:59](https://news.ycombinator.com/item?id=41829464) - [Systemic proteome adaptions to 7-day complete caloric restriction in humans](https://www.nature.com/articles/s42255-024-01008-9)
 * [2024-10-13, 16:42:14](https://news.ycombinator.com/item?id=41829438) - [Sugar- & Artificially Sweetened Beverages:Incident Stroke&Dementia Risks(2017)](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.016027)
 * [2024-10-13, 16:27:12](https://news.ycombinator.com/item?id=41829304) - [Integer addition algorithm could reduce energy needs of AI by 95%](https://techxplore.com/news/2024-10-integer-addition-algorithm-energy-ai.html)
@@ -18,6 +23,7 @@
 * [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
 * [2024-10-13, 14:54:54](https://news.ycombinator.com/item?id=41828542) - [Node.js, Pipes, and Disappearing Bytes](https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes)
 * [2024-10-13, 14:43:40](https://news.ycombinator.com/item?id=41828443) - [UCLA professor says he's homeless due to low pay](https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/)
+* [2024-10-13, 14:35:59](https://news.ycombinator.com/item?id=41828388) - [Even a Single Bacterial Cell Can Sense the Seasons Changing](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
 * [2024-10-13, 14:31:49](https://news.ycombinator.com/item?id=41828348) - [Billions of Gmail users at risk from sophisticated new AI hack](https://www.tomsguide.com/computing/online-security/billions-of-gmail-users-at-risk-from-sophisticated-new-ai-hack-how-to-stay-safe)
 * [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
