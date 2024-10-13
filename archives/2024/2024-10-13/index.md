@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 14:43:40](https://news.ycombinator.com/item?id=41828443) - [UCLA professor says he's homeless due to low pay](https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/)
 * [2024-10-13, 14:31:49](https://news.ycombinator.com/item?id=41828348) - [Billions of Gmail users at risk from sophisticated new AI hack](https://www.tomsguide.com/computing/online-security/billions-of-gmail-users-at-risk-from-sophisticated-new-ai-hack-how-to-stay-safe)
 * [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
