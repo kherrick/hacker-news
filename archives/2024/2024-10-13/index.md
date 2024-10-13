@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 15:44:54](https://news.ycombinator.com/item?id=41828968) - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
+* [2024-10-13, 15:31:32](https://news.ycombinator.com/item?id=41828854) - [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
+* [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
 * [2024-10-13, 14:43:40](https://news.ycombinator.com/item?id=41828443) - [UCLA professor says he's homeless due to low pay](https://www.kron4.com/news/california/ucla-professor-says-hes-homeless-due-to-low-pay/)
 * [2024-10-13, 14:31:49](https://news.ycombinator.com/item?id=41828348) - [Billions of Gmail users at risk from sophisticated new AI hack](https://www.tomsguide.com/computing/online-security/billions-of-gmail-users-at-risk-from-sophisticated-new-ai-hack-how-to-stay-safe)
 * [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
