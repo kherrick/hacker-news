@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
 * [2024-10-13, 19:54:51](https://news.ycombinator.com/item?id=41831009) - [The Optimus robots at Tesla's Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
 * [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [The military is an impossible place for hackers, and what to do about it (2018)](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
@@ -23,7 +24,6 @@
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Diffusion for World Modeling](https://diamond-wm.github.io/)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
-* [2024-10-12, 11:55:12](https://news.ycombinator.com/item?id=41818459) - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 05:34:11](https://news.ycombinator.com/item?id=41816688) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can logic programming be liberated from predicates and backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-12, 02:49:05](https://news.ycombinator.com/item?id=41815982) - [When is causal broadcast not enough for causal memory?](https://decomposition.al/blog/2024/09/22/when-is-causal-broadcast-not-enough-for-causal-memory/)
