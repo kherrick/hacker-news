@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 21:46:07](https://news.ycombinator.com/item?id=41831932) - [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
+* [2024-10-13, 21:05:44](https://news.ycombinator.com/item?id=41831585) - [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
 * [2024-10-13, 20:10:06](https://news.ycombinator.com/item?id=41831135) - [Tiny Glade: How Could They Do This? [video]](https://www.youtube.com/watch?v=POjEp8rMFUM)
 * [2024-10-13, 19:54:51](https://news.ycombinator.com/item?id=41831009) - [The Optimus robots at Tesla's Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)
