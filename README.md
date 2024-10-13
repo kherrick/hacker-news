@@ -2,12 +2,12 @@
 
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
+* [2024-10-13, 03:40:36](https://news.ycombinator.com/item?id=41824988) - [Firepad – An embeddable open-source collaborative code and text editor for web](https://firepad.io/)
 * [2024-10-13, 01:28:01](https://news.ycombinator.com/item?id=41824390) - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 * [2024-10-13, 00:48:25](https://news.ycombinator.com/item?id=41824171) - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 * [2024-10-13, 00:43:01](https://news.ycombinator.com/item?id=41824138) - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
 * [2024-10-13, 00:35:46](https://news.ycombinator.com/item?id=41824103) - [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
 * [2024-10-13, 00:28:27](https://news.ycombinator.com/item?id=41824068) - [Tokyo looks to protect service staff from customers who are not so cool](https://www.ft.com/content/f48b9af5-d48c-45c3-a9cd-6d34b3759202)
-* [2024-10-12, 22:49:47](https://news.ycombinator.com/item?id=41823413) - [About dn42](https://dn42.dev/Home)
 * [2024-10-12, 20:52:42](https://news.ycombinator.com/item?id=41822449) - [Some Notes on Upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/)
 * [2024-10-12, 20:32:47](https://news.ycombinator.com/item?id=41822303) - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 * [2024-10-12, 18:41:31](https://news.ycombinator.com/item?id=41821361) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)

@@ -7,6 +7,7 @@
 * [2024-10-13, 08:05:07](https://news.ycombinator.com/item?id=41826082) - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
+* [2024-10-13, 03:40:36](https://news.ycombinator.com/item?id=41824988) - [Firepad – An embeddable open-source collaborative code and text editor for web](https://firepad.io/)
 * [2024-10-13, 03:05:34](https://news.ycombinator.com/item?id=41824852) - [ACF Has Been Hijacked](https://anderegg.ca/2024/10/13/acf-has-been-hijacked)
 * [2024-10-13, 02:50:42](https://news.ycombinator.com/item?id=41824784) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 01:43:31](https://news.ycombinator.com/item?id=41824482) - [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
