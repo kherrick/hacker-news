@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
+* [2024-10-11, 21:36:36](https://news.ycombinator.com/item?id=41814005) - [A Camera in the East Village, Capturing the Now and the Long Ago](https://www.nytimes.com/2024/10/09/realestate/east-village-rent-stabilized-apartments-susan-schiffman.html)
 * [2024-10-11, 21:03:50](https://news.ycombinator.com/item?id=41813720) - [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 * [2024-10-11, 20:58:48](https://news.ycombinator.com/item?id=41813676) - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
 * [2024-10-11, 20:41:07](https://news.ycombinator.com/item?id=41813502) - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)
@@ -38,6 +39,7 @@
 * [2024-10-11, 14:40:39](https://news.ycombinator.com/item?id=41809879) - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
 * [2024-10-11, 14:40:22](https://news.ycombinator.com/item?id=41809876) - [The Surprising Predictability of Long Runs (2012) [pdf]](https://www.csun.edu/~hcmth031/tspolr.pdf)
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
+* [2024-10-11, 13:50:36](https://news.ycombinator.com/item?id=41809485) - [Design for Real Life](https://abookdeparts-dfrl.netlify.app)
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
@@ -52,6 +54,7 @@
 * [2024-10-11, 10:46:10](https://news.ycombinator.com/item?id=41808282) - [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
+* [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-11, 09:20:15](https://news.ycombinator.com/item?id=41807783) - [Show HN: I made a simple web app to help kids learn a new language](https://www.voiczy.com)
 * [2024-10-11, 09:09:18](https://news.ycombinator.com/item?id=41807713) - [Lessons from USAF Brutalism](https://dmsnell.blog/2017/10/15/lessons-from-usaf-brutalism/)
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)

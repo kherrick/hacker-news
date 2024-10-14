@@ -6,9 +6,11 @@
 
 * [2024-10-13, 23:07:03](https://news.ycombinator.com/item?id=41832547) - [Notes on Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
 * [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Minetest – Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
+* [2024-10-13, 22:05:42](https://news.ycombinator.com/item?id=41832099) - [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline (2022)](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
 * [2024-10-13, 21:59:19](https://news.ycombinator.com/item?id=41832043) - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
 * [2024-10-13, 21:46:07](https://news.ycombinator.com/item?id=41831932) - [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
+* [2024-10-13, 21:09:40](https://news.ycombinator.com/item?id=41831617) - [Counterintuitive Properties of High Dimensional Space](https://people.eecs.berkeley.edu/~jrs/highd/)
 * [2024-10-13, 21:05:44](https://news.ycombinator.com/item?id=41831585) - [Catastrophically warm predictions are more plausible than we thought](https://actu.epfl.ch/news/catastrophically-warm-predictions-are-more-plaus-2/)
 * [2024-10-13, 20:36:24](https://news.ycombinator.com/item?id=41831362) - [Starship is Still Not Understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
 * [2024-10-13, 20:10:06](https://news.ycombinator.com/item?id=41831135) - [Tiny Glade: How Could They Do This? [video]](https://www.youtube.com/watch?v=POjEp8rMFUM)
