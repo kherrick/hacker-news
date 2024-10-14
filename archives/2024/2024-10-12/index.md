@@ -54,6 +54,7 @@
 * [2024-10-12, 11:46:44](https://news.ycombinator.com/item?id=41818420) - [Psilocybin Bests SSRI for Major Depression in First Long-Term Comparison](https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77)
 * [2024-10-12, 11:39:25](https://news.ycombinator.com/item?id=41818382) - [In Praise of 'Megalopolis'](https://www.compactmag.com/article/in-praise-of-megalopolis/)
 * [2024-10-12, 11:21:37](https://news.ycombinator.com/item?id=41818308) - ['Shoe doping' changed marathon times in ways we still don't understand](https://www.nytimes.com/athletic/5834953/2024/10/12/shoe-doping-marathon-times-kipchoge/)
+* [2024-10-12, 11:06:44](https://news.ycombinator.com/item?id=41818248) - [How the First GPU Leveled Up Gaming and Ignited the AI Era](https://blogs.nvidia.com/blog/first-gpu-gaming-ai/)
 * [2024-10-12, 10:36:54](https://news.ycombinator.com/item?id=41818109) - [How do you choose where to be?](https://news.ycombinator.com/item?id=41818109)
 * [2024-10-12, 10:22:31](https://news.ycombinator.com/item?id=41818057) - [DuckStation](https://github.com/stenzek/duckstation)
 * [2024-10-12, 10:07:35](https://news.ycombinator.com/item?id=41817973) - [Alexei Navalny's Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
