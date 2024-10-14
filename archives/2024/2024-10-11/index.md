@@ -66,6 +66,7 @@
 * [2024-10-11, 09:01:54](https://news.ycombinator.com/item?id=41807681) - [The Nobel Peace Prize 2024](https://www.nobelprize.org/press-release-peace-2024/)
 * [2024-10-11, 08:54:07](https://news.ycombinator.com/item?id=41807642) - [In Xsight – OS/2 Museum](https://www.os2museum.com/wp/finally-in-xsight/)
 * [2024-10-11, 06:37:07](https://news.ycombinator.com/item?id=41806852) - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
+* [2024-10-11, 06:31:19](https://news.ycombinator.com/item?id=41806815) - [Remains of a 3,500-year-old Ancient Greek Structure found in Croatia](https://arkeonews.net/remains-of-a-3500-year-old-settlement-and-massive-ancient-greek-structure-found-in-croatia/)
 * [2024-10-11, 06:13:22](https://news.ycombinator.com/item?id=41806714) - [Tesla's Robotaxi day was a total Snoozefest](https://twitter.com/realdanodowd/status/1844605093368512799)
 * [2024-10-11, 06:02:51](https://news.ycombinator.com/item?id=41806645) - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)

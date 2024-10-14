@@ -21,7 +21,6 @@
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
 * [2024-10-14, 07:17:00](https://news.ycombinator.com/item?id=41835040) - [Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
-* [2024-10-14, 05:44:17](https://news.ycombinator.com/item?id=41834548) - [Exploring 120 years of timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
 * [2024-10-13, 03:41:34](https://news.ycombinator.com/item?id=41824990) - [The Larkin Soap Company](https://en.wikipedia.org/wiki/Larkin_Company)
 * [2024-10-12, 12:46:55](https://news.ycombinator.com/item?id=41818676) - [When railroad dining cars were the height of luxury](https://www.cnn.com/2024/10/11/style/europe-railroad-dining-cars-wagons-lits/index.html)
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
@@ -29,6 +28,7 @@
 * [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-11, 20:37:09](https://news.ycombinator.com/item?id=41813471) - [Trying Out a Far Infrared Heated Poster](https://www.bentasker.co.uk/posts/blog/house-stuff/using-graphene-infrared-heater-art-in-the-sitting-room.html)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
+* [2024-10-11, 06:31:19](https://news.ycombinator.com/item?id=41806815) - [Remains of a 3,500-year-old Ancient Greek Structure found in Croatia](https://arkeonews.net/remains-of-a-3500-year-old-settlement-and-massive-ancient-greek-structure-found-in-croatia/)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 
 ## [Archives](archives/index.md)
