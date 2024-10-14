@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41841182"
     ],
     [
-      "The abysmal state of GNU/Linux and a case against shared object libraries",
+      "The state of GNU/Linux and a case against shared object libraries",
       "https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-10-14, 18:34:06",
-      "https://news.ycombinator.com/item?id=41840450"
-    ],
-    [
-      "Gosub: A browser engine written in Rust",
-      "https://github.com/gosub-io/gosub-engine"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 18:28:54",
       "https://news.ycombinator.com/item?id=41840390"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41840023"
     ],
     [
-      "Arm position can substantially overestimate blood pressure readings, study finds",
+      "Commonly used arm positions can overestimate blood pressure readings: study",
       "https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Sound Lab – A Simple Analogue Synthesiser",
       "http://www.technoblogy.com/show?4MGW"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 07:17:00",
+      "https://news.ycombinator.com/item?id=41835040"
+    ],
+    [
+      "Gosub – An open-source browser engine built in Rust",
+      "https://github.com/gosub-io/gosub-engine"
     ]
   ],
   [
