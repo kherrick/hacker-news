@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-10-14, 04:38:16",
-      "https://news.ycombinator.com/item?id=41834238"
-    ],
-    [
-      "The Age of PageRank Is Over (2022)",
-      "https://blog.kagi.com/age-pagerank-over"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 03:16:24",
       "https://news.ycombinator.com/item?id=41833902"
     ],
@@ -181,22 +171,22 @@
   ],
   [
     [
+      "2024-10-13, 15:03:03",
+      "https://news.ycombinator.com/item?id=41828611"
+    ],
+    [
+      "Lessons learned from profiling an algorithm in Rust",
+      "https://blog.mapotofu.org/blogs/rabitq-bench/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 15:01:48",
       "https://news.ycombinator.com/item?id=41828601"
     ],
     [
       "The quiet art of attention",
       "https://billwear.github.io/art-of-attention.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 12:38:17",
-      "https://news.ycombinator.com/item?id=41827461"
-    ],
-    [
-      "Common Lisp implementation of the Forth 2012 Standard",
-      "https://github.com/gmpalter/cl-forth"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Transforming Colors with Matrices",
       "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 08:54:07",
+      "https://news.ycombinator.com/item?id=41807642"
+    ],
+    [
+      "In Xsight – OS/2 Museum",
+      "https://www.os2museum.com/wp/finally-in-xsight/"
     ]
   ],
   [
