@@ -75,6 +75,7 @@
 * [2024-10-11, 03:23:03](https://news.ycombinator.com/item?id=41805699) - [How to Make a Legit Sound Camera [video]](https://www.youtube.com/watch?v=c5ynZ3lMQJc)
 * [2024-10-11, 02:39:42](https://news.ycombinator.com/item?id=41805515) - [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+* [2024-10-11, 02:06:03](https://news.ycombinator.com/item?id=41805404) - [Blizzard co-founder Mike Morhaime is making a tabletop RPG party game](https://www.engadget.com/gaming/blizzard-co-founder-mike-morhaime-is-making-a-tabletop-rpg-party-game-174323950.html)
 * [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
 * [2024-10-11, 01:36:57](https://news.ycombinator.com/item?id=41805288) - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
 * [2024-10-11, 00:38:42](https://news.ycombinator.com/item?id=41805009) - [Realizing the dream of good workplace software](https://www.campsite.com/blog/realizing-the-dream-of-good-workplace-software)

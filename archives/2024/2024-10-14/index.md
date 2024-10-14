@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
 * [2024-10-14, 21:37:00](https://news.ycombinator.com/item?id=41842294) - [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)
+* [2024-10-14, 21:29:50](https://news.ycombinator.com/item?id=41842240) - [GPT-4o Jailbroken by Claiming It's an \"All-Responsive\" API Endpoint](https://twitter.com/mixedenn/status/1845939748235628564)
+* [2024-10-14, 20:49:31](https://news.ycombinator.com/item?id=41841835) - [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
 * [2024-10-14, 20:41:04](https://news.ycombinator.com/item?id=41841744) - [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
