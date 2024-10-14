@@ -9,6 +9,7 @@
 * [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
 * [2024-10-14, 07:30:27](https://news.ycombinator.com/item?id=41835114) - [You can stop using user-scalable=no and maximum-scale=1 in viewport meta tags](https://lukeplant.me.uk/blog/posts/you-can-stop-using-user-scalable-no-and-maximum-scale-1-in-viewport-meta-tags-now/)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
+* [2024-10-14, 05:44:17](https://news.ycombinator.com/item?id=41834548) - [Exploring 120 Years of Timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
 * [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
 * [2024-10-14, 03:27:15](https://news.ycombinator.com/item?id=41833928) - [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)
