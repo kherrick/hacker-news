@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 20:41:04](https://news.ycombinator.com/item?id=41841744) - [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
+* [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
 * [2024-10-14, 19:49:55](https://news.ycombinator.com/item?id=41841182) - [The abysmal state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
 * [2024-10-14, 19:27:03](https://news.ycombinator.com/item?id=41840971) - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
