@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
-* [2024-10-14, 19:49:55](https://news.ycombinator.com/item?id=41841182) - [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
 * [2024-10-14, 19:27:03](https://news.ycombinator.com/item?id=41840971) - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
-* [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today](https://how-i-experience-web-today.com)
+* [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today (2021)](https://how-i-experience-web-today.com)
 * [2024-10-14, 19:16:17](https://news.ycombinator.com/item?id=41840872) - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 * [2024-10-14, 19:06:22](https://news.ycombinator.com/item?id=41840769) - [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
 * [2024-10-14, 18:55:44](https://news.ycombinator.com/item?id=41840655) - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
@@ -29,6 +28,7 @@
 * [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-11, 20:37:09](https://news.ycombinator.com/item?id=41813471) - [Trying Out a Far Infrared Heated Poster](https://www.bentasker.co.uk/posts/blog/house-stuff/using-graphene-infrared-heater-art-in-the-sitting-room.html)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
+* [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 
 ## [Archives](archives/index.md)
