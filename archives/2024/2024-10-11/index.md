@@ -6,6 +6,7 @@
 
 * [2024-10-11, 22:47:22](https://news.ycombinator.com/item?id=41814622) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 21:36:36](https://news.ycombinator.com/item?id=41814005) - [A Camera in the East Village, Capturing the Now and the Long Ago](https://www.nytimes.com/2024/10/09/realestate/east-village-rent-stabilized-apartments-susan-schiffman.html)
+* [2024-10-11, 21:29:33](https://news.ycombinator.com/item?id=41813940) - [Lore Segal Saw the World in a Nutshell](https://www.theatlantic.com/books/archive/2024/10/novelist-lore-segal-appeciation-by-james-marcus/680216/)
 * [2024-10-11, 21:03:50](https://news.ycombinator.com/item?id=41813720) - [An exoskeleton let a paralyzed man walk. Then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
 * [2024-10-11, 20:58:48](https://news.ycombinator.com/item?id=41813676) - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
 * [2024-10-11, 20:41:07](https://news.ycombinator.com/item?id=41813502) - [Physicists generated sound waves that travel in one direction only](https://www.sciencealert.com/physicists-generated-sound-waves-that-travel-in-one-direction-only)
