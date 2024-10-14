@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-10-14, 01:34:42",
-      "https://news.ycombinator.com/item?id=41833381"
-    ],
-    [
-      "Self-referential variable initialization in C",
-      "https://microblog.ahti.space/nortti/self-referential-initialization-c/"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 01:06:37",
       "https://news.ycombinator.com/item?id=41833200"
     ],
@@ -257,6 +247,16 @@
     [
       "1 bug, $50k in bounties, a Zendesk backdoor",
       "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 08:17:58",
+      "https://news.ycombinator.com/item?id=41817397"
+    ],
+    [
+      "Windows CPU Affinity Mask Calculator",
+      "https://bitsum.com/tools/cpu-affinity-calculator/"
     ]
   ],
   [
