@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
+* [2024-10-14, 19:49:55](https://news.ycombinator.com/item?id=41841182) - [The abysmal state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
 * [2024-10-14, 19:27:03](https://news.ycombinator.com/item?id=41840971) - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
 * [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today](https://how-i-experience-web-today.com)
 * [2024-10-14, 19:16:17](https://news.ycombinator.com/item?id=41840872) - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
@@ -11,6 +13,7 @@
 * [2024-10-14, 19:04:07](https://news.ycombinator.com/item?id=41840746) - [You can track changes someone makes to their Instagram account](https://github.com/ibnaleem/instatracker)
 * [2024-10-14, 18:55:44](https://news.ycombinator.com/item?id=41840655) - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
 * [2024-10-14, 18:34:06](https://news.ycombinator.com/item?id=41840450) - [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
+* [2024-10-14, 18:28:54](https://news.ycombinator.com/item?id=41840390) - [The three-page paper that shook philosophy: Gettiers in software engineering](https://jsomers.net/blog/gettiers)
 * [2024-10-14, 18:21:40](https://news.ycombinator.com/item?id=41840323) - [Show HN: Bolt.new – dev sandbox with AI from StackBlitz](https://bolt.new/)
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)

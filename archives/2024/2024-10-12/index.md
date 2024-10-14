@@ -80,6 +80,7 @@
 * [2024-10-12, 04:12:37](https://news.ycombinator.com/item?id=41816345) - [Sears Homes 1915-1920](http://www.searsarchives.com/homes/1915-1920.htm)
 * [2024-10-12, 03:52:32](https://news.ycombinator.com/item?id=41816271) - [How SpaceX became the MyPillow of government contractors](https://www.theverge.com/2024/10/11/24267262/elon-musk-donald-trump-politics-republican)
 * [2024-10-12, 03:49:42](https://news.ycombinator.com/item?id=41816256) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
+* [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-12, 02:49:05](https://news.ycombinator.com/item?id=41815982) - [When is causal broadcast not enough for causal memory?](https://decomposition.al/blog/2024/09/22/when-is-causal-broadcast-not-enough-for-causal-memory/)
 * [2024-10-12, 02:43:27](https://news.ycombinator.com/item?id=41815945) - [Show HN: I've added undo and redo to IsoCity](https://github.com/victorqribeiro/isocity/pull/26)
 * [2024-10-12, 01:55:31](https://news.ycombinator.com/item?id=41815694) - [Show HN: Self-Hostable Algolia DocSearch Replacement](https://github.com/fastrepl/canary)
