@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
-* [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
+* [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 * [2024-10-14, 03:00:51](https://news.ycombinator.com/item?id=41833833) - [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
 * [2024-10-14, 02:58:07](https://news.ycombinator.com/item?id=41833820) - [Word-like HTML inline edit with design mode](https://til.secretgeek.net/google/chrome_design_mode.html)
