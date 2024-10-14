@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-14, 15:45:41",
+      "https://news.ycombinator.com/item?id=41838604"
+    ],
+    [
+      "Magnetically regulated gene therapy offers precise brain-circuit control",
+      "https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 15:44:04",
+      "https://news.ycombinator.com/item?id=41838589"
+    ],
+    [
+      "DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data",
+      "https://arxiv.org/abs/2405.14333"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 15:28:33",
       "https://news.ycombinator.com/item?id=41838420"
     ],
@@ -37,6 +57,16 @@
     [
       "Show HN: X11 tool to share a screen area in any video meeting",
       "https://github.com/splitbrain/clipscreen"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 12:10:59",
+      "https://news.ycombinator.com/item?id=41836769"
+    ],
+    [
+      "Avoiding a Geopolitical open-source Apocalypse",
+      "https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-10-12, 10:38:23",
-      "https://news.ycombinator.com/item?id=41818119"
-    ],
-    [
-      "Permacomputing Aesthetic in Computational Art, Design and Culture (2023) [pdf]",
-      "https://monoskop.org/images/6/6a/Mansoux_Aymeric_et_al_2023_Permacomputing_Aesthetics.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 04:12:37",
       "https://news.ycombinator.com/item?id=41816345"
     ],
     [
       "Sears Homes 1915-1920",
       "http://www.searsarchives.com/homes/1915-1920.htm"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 18:44:06",
-      "https://news.ycombinator.com/item?id=41812181"
-    ],
-    [
-      "Review: ReMarkable Paper Pro",
-      "https://amandariu.com/review-remarkable-paper-pro/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Transforming Colors with Matrices",
       "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 22:17:30",
-      "https://news.ycombinator.com/item?id=41804127"
-    ],
-    [
-      "All asteroids in Solar System, visualized",
-      "https://github.com/DarkStar1982/Orbidium"
     ]
   ]
 ]
