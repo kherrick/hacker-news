@@ -6,6 +6,7 @@
 
 * [2024-10-13, 23:13:23](https://news.ycombinator.com/item?id=41832579) - [20x faster convergence for diffusion models](https://sihyun.me/REPA/)
 * [2024-10-13, 23:07:03](https://news.ycombinator.com/item?id=41832547) - [Notes on Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
+* [2024-10-13, 22:32:23](https://news.ycombinator.com/item?id=41832302) - [Why does FM sound better than AM?](https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/)
 * [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Minetest – Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 22:05:42](https://news.ycombinator.com/item?id=41832099) - [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline (2022)](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
 * [2024-10-13, 21:59:19](https://news.ycombinator.com/item?id=41832043) - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)

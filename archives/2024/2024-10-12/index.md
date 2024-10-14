@@ -60,6 +60,7 @@
 * [2024-10-12, 09:57:27](https://news.ycombinator.com/item?id=41817924) - [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
 * [2024-10-12, 08:58:39](https://news.ycombinator.com/item?id=41817650) - [California police aren't loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 * [2024-10-12, 08:18:02](https://news.ycombinator.com/item?id=41817399) - [Plugging abandoned oil wells and stopping methane leaks [video]](https://www.youtube.com/watch?v=m8QWxJhna8Y)
+* [2024-10-12, 07:31:14](https://news.ycombinator.com/item?id=41817154) - [Inline Scope for CSS](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/)
 * [2024-10-12, 07:13:14](https://news.ycombinator.com/item?id=41817074) - [Electric vehicle battery prices are expected to fall almost 50% by 2026](https://www.goldmansachs.com/insights/articles/electric-vehicle-battery-prices-are-expected-to-fall-almost-50-percent-by-2025)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
 * [2024-10-12, 05:49:33](https://news.ycombinator.com/item?id=41816756) - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
