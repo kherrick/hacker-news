@@ -3,6 +3,7 @@
 * [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:28:33](https://news.ycombinator.com/item?id=41838420) - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+* [2024-10-14, 15:20:11](https://news.ycombinator.com/item?id=41838348) - [AlphaCodium outperforms direct prompting of OpenAI's o1 on coding problems](https://www.qodo.ai/blog/system-2-thinking-alphacodium-outperforms-direct-prompting-of-openai-o1/)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
 * [2024-10-14, 14:34:03](https://news.ycombinator.com/item?id=41837925) - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
@@ -14,7 +15,6 @@
 * [2024-10-14, 05:44:17](https://news.ycombinator.com/item?id=41834548) - [Exploring 120 Years of Timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 * [2024-10-14, 02:43:37](https://news.ycombinator.com/item?id=41833742) - [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
-* [2024-10-14, 02:20:06](https://news.ycombinator.com/item?id=41833629) - [Rama on Clojure's terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 * [2024-10-14, 01:06:37](https://news.ycombinator.com/item?id=41833200) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
 * [2024-10-14, 01:06:25](https://news.ycombinator.com/item?id=41833198) - [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
 * [2024-10-13, 23:13:23](https://news.ycombinator.com/item?id=41832579) - [Faster convergence for diffusion models](https://sihyun.me/REPA/)
@@ -27,9 +27,9 @@
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 * [2024-10-13, 09:13:21](https://news.ycombinator.com/item?id=41826388) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
-* [2024-10-12, 04:12:37](https://news.ycombinator.com/item?id=41816345) - [Sears Homes 1915-1920](http://www.searsarchives.com/homes/1915-1920.htm)
 * [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
+* [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 
 ## [Archives](archives/index.md)
 

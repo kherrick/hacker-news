@@ -12,6 +12,7 @@
 * [2024-10-10, 22:44:46](https://news.ycombinator.com/item?id=41804341) - [Chunkr – Vision model based PDF chunking](https://github.com/lumina-ai-inc/chunkr)
 * [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
 * [2024-10-10, 21:13:57](https://news.ycombinator.com/item?id=41803650) - [Forking Is Beautiful](https://wordpress.org/news/2024/10/spoon/)
+* [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 * [2024-10-10, 20:39:09](https://news.ycombinator.com/item?id=41803327) - [Next.js, Just Why?](https://pilcrowonpaper.com/blog/nextjs-why/)
 * [2024-10-10, 20:38:49](https://news.ycombinator.com/item?id=41803324) - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
 * [2024-10-10, 20:04:27](https://news.ycombinator.com/item?id=41802939) - [Geothermal Power in the North Bay – Jon Udell](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
