@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
+* [2024-10-14, 19:49:55](https://news.ycombinator.com/item?id=41841182) - [The state of GNU/Linux and a case against shared object libraries](https://mitjafelicijan.com/the-abysmal-state-of-gnu-linux-and-a-case-against-shared-object-libraries.html)
 * [2024-10-14, 19:27:03](https://news.ycombinator.com/item?id=41840971) - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
 * [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today (2021)](https://how-i-experience-web-today.com)
 * [2024-10-14, 19:16:17](https://news.ycombinator.com/item?id=41840872) - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
@@ -11,7 +12,7 @@
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Commonly used arm positions can overestimate blood pressure readings: study](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 * [2024-10-14, 17:34:38](https://news.ycombinator.com/item?id=41839776) - [Scale Ruins Everything](https://coldwaters.substack.com/p/scale-ruins-everything)
-* [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format in Rust](https://github.com/spiraldb/vortex)
+* [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format](https://github.com/spiraldb/vortex)
 * [2024-10-14, 17:33:51](https://news.ycombinator.com/item?id=41839766) - [Meissonic, High-Resolution Text-to-Image Synthesis on consumer graphics cards](https://arxiv.org/abs/2410.08261)
 * [2024-10-14, 17:28:20](https://news.ycombinator.com/item?id=41839719) - [Teaching the Largest Programming Lesson](https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
@@ -19,7 +20,7 @@
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar](https://busy.bar/?hn)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
-* [2024-10-14, 07:17:00](https://news.ycombinator.com/item?id=41835040) - [Gosub – An open-source browser engine built in Rust](https://github.com/gosub-io/gosub-engine)
+* [2024-10-14, 07:17:00](https://news.ycombinator.com/item?id=41835040) - [Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
 * [2024-10-14, 05:44:17](https://news.ycombinator.com/item?id=41834548) - [Exploring 120 years of timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
 * [2024-10-13, 03:41:34](https://news.ycombinator.com/item?id=41824990) - [The Larkin Soap Company](https://en.wikipedia.org/wiki/Larkin_Company)
 * [2024-10-12, 12:46:55](https://news.ycombinator.com/item?id=41818676) - [When railroad dining cars were the height of luxury](https://www.cnn.com/2024/10/11/style/europe-railroad-dining-cars-wagons-lits/index.html)
@@ -28,7 +29,6 @@
 * [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-11, 20:37:09](https://news.ycombinator.com/item?id=41813471) - [Trying Out a Far Infrared Heated Poster](https://www.bentasker.co.uk/posts/blog/house-stuff/using-graphene-infrared-heater-art-in-the-sitting-room.html)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
-* [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 
 ## [Archives](archives/index.md)
