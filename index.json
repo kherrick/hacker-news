@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2024-10-13, 15:03:03",
-      "https://news.ycombinator.com/item?id=41828611"
-    ],
-    [
-      "Lessons learned from profiling an algorithm in Rust",
-      "https://blog.mapotofu.org/blogs/rabitq-bench/"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 15:01:48",
       "https://news.ycombinator.com/item?id=41828601"
     ],
     [
       "The quiet art of attention",
       "https://billwear.github.io/art-of-attention.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 12:38:17",
+      "https://news.ycombinator.com/item?id=41827461"
+    ],
+    [
+      "Common Lisp implementation of the Forth 2012 Standard",
+      "https://github.com/gmpalter/cl-forth"
     ]
   ],
   [
