@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 16:42:43](https://news.ycombinator.com/item?id=41839237) - [The Economics of Free Lunch](https://thehustle.co/originals/the-economics-of-free-lunch)
 * [2024-10-14, 16:39:24](https://news.ycombinator.com/item?id=41839190) - [Mesh Shaders – The Future of Rendering [video]](https://www.youtube.com/watch?v=3EMdMD1PsgY)
 * [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
@@ -8,7 +9,6 @@
 * [2024-10-14, 15:20:11](https://news.ycombinator.com/item?id=41838348) - [AlphaCodium outperforms direct prompting of OpenAI's o1 on coding problems](https://www.qodo.ai/blog/system-2-thinking-alphacodium-outperforms-direct-prompting-of-openai-o1/)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
 * [2024-10-14, 14:34:03](https://news.ycombinator.com/item?id=41837925) - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
-* [2024-10-14, 13:59:26](https://news.ycombinator.com/item?id=41837607) - [Ask HN: Solopreneurs, how did you come up with your idea?](https://news.ycombinator.com/item?id=41837607)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:08:03](https://news.ycombinator.com/item?id=41836748) - [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 10:28:45](https://news.ycombinator.com/item?id=41836128) - [Cwal: Scripting Engine Without a Language](https://fossil.wanderinghorse.net/r/cwal/home)
