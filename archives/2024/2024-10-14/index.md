@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 15:28:33](https://news.ycombinator.com/item?id=41838420) - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+* [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
 * [2024-10-14, 14:34:03](https://news.ycombinator.com/item?id=41837925) - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
 * [2024-10-14, 13:57:21](https://news.ycombinator.com/item?id=41837592) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
