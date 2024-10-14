@@ -25,9 +25,9 @@
 * [2024-10-13, 09:13:21](https://news.ycombinator.com/item?id=41826388) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
 * [2024-10-12, 10:38:23](https://news.ycombinator.com/item?id=41818119) - [Permacomputing Aesthetic in Computational Art, Design and Culture (2023) [pdf]](https://monoskop.org/images/6/6a/Mansoux_Aymeric_et_al_2023_Permacomputing_Aesthetics.pdf)
+* [2024-10-12, 05:34:11](https://news.ycombinator.com/item?id=41816688) - [A dictionary of single-letter variable names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
 * [2024-10-12, 04:12:37](https://news.ycombinator.com/item?id=41816345) - [Sears Homes 1915-1920](http://www.searsarchives.com/homes/1915-1920.htm)
 * [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
-* [2024-10-11, 10:47:08](https://news.ycombinator.com/item?id=41808291) - [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
 
