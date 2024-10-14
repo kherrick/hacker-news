@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-14, 02:19:15",
+      "https://news.ycombinator.com/item?id=41833628"
+    ],
+    [
+      "WordPress Accessibility Team Meetings Suspended",
+      "https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 01:06:37",
+      "https://news.ycombinator.com/item?id=41833200"
+    ],
+    [
+      "Python client for the $20 Colmi R02 smart ring",
+      "https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 01:06:25",
+      "https://news.ycombinator.com/item?id=41833198"
+    ],
+    [
+      "Show HN: A VSCode Extension to edit HTML visually in real-time",
+      "https://github.com/urin/vscode-web-visual-editor"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 00:18:35",
       "https://news.ycombinator.com/item?id=41832940"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2024-10-14, 00:11:38",
-      "https://news.ycombinator.com/item?id=41832903"
+      "2024-10-14, 00:16:33",
+      "https://news.ycombinator.com/item?id=41832931"
     ],
     [
-      "The TikTok documents: Stripping teens and boosting 'attractive' people",
-      "https://www.npr.org/2024/10/12/g-s1-28040/teens-tiktok-addiction-lawsuit-investigation-documents"
+      "Honeybee: Calling via XMPP",
+      "https://momi.ca/posts/2024-10-09-honeybee.html"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41832547"
     ],
     [
-      "Notes on Zero-latency SQLite storage in every Durable Object",
+      "Zero-latency SQLite storage in every Durable Object",
       "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/"
     ]
   ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-10-13, 14:35:59",
-      "https://news.ycombinator.com/item?id=41828388"
-    ],
-    [
-      "Even a single bacterial cell can sense the seasons changing",
-      "https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 13:58:32",
       "https://news.ycombinator.com/item?id=41828069"
     ],
@@ -197,16 +217,6 @@
     [
       "Starship Flight 5: Launch and booster catch [video]",
       "https://twitter.com/SpaceX/status/1845152255944819015"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 11:26:42",
-      "https://news.ycombinator.com/item?id=41827043"
-    ],
-    [
-      "Large language models reduce public knowledge sharing on online Q&A platforms",
-      "https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-10-12, 05:34:11",
-      "https://news.ycombinator.com/item?id=41816688"
+      "2024-10-12, 10:36:54",
+      "https://news.ycombinator.com/item?id=41818109"
     ],
     [
-      "A dictionary of single-letter variable names",
-      "http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/"
+      "How do you choose where to be?",
+      "https://news.ycombinator.com/item?id=41818109"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=41814005"
     ],
     [
-      "A Camera in the East Village, Capturing the Now and the Long Ago",
+      "A camera in the East Village, capturing the now and the long ago",
       "https://www.nytimes.com/2024/10/09/realestate/east-village-rent-stabilized-apartments-susan-schiffman.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "All asteroids in Solar System, visualized",
       "https://github.com/DarkStar1982/Orbidium"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 11:53:23",
-      "https://news.ycombinator.com/item?id=41786870"
-    ],
-    [
-      "Plop Boot Manager",
-      "https://www.plop.at/en/bootmanager/full.html"
     ]
   ]
 ]
