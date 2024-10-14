@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 03:19:44](https://news.ycombinator.com/item?id=41833910) - [RedCap, the 5G for IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
+* [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-Source All-in-One Project Management Platform](https://github.com/hcengineering/platform)
 * [2024-10-14, 02:19:15](https://news.ycombinator.com/item?id=41833628) - [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
 * [2024-10-14, 01:21:49](https://news.ycombinator.com/item?id=41833287) - [Llama 405B 506 tokens/second on an H200](https://developer.nvidia.com/blog/boosting-llama-3-1-405b-throughput-by-another-1-5x-on-nvidia-h200-tensor-core-gpus-and-nvlink-switch/)
 * [2024-10-14, 01:06:37](https://news.ycombinator.com/item?id=41833200) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
