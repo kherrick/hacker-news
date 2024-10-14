@@ -7,6 +7,7 @@
 * [2024-10-14, 09:00:31](https://news.ycombinator.com/item?id=41835635) - [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
 * [2024-10-14, 07:48:47](https://news.ycombinator.com/item?id=41835217) - [Blocking the \"Sign in with Google\" Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
 * [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
+* [2024-10-14, 07:30:27](https://news.ycombinator.com/item?id=41835114) - [You can stop using user-scalable=no and maximum-scale=1 in viewport meta tags](https://lukeplant.me.uk/blog/posts/you-can-stop-using-user-scalable-no-and-maximum-scale-1-in-viewport-meta-tags-now/)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
 * [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
