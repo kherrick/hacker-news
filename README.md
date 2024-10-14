@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 * [2024-10-14, 21:37:00](https://news.ycombinator.com/item?id=41842294) - [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
@@ -21,7 +22,6 @@
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
 * [2024-10-14, 07:17:00](https://news.ycombinator.com/item?id=41835040) - [Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
-* [2024-10-13, 03:41:34](https://news.ycombinator.com/item?id=41824990) - [The Larkin Soap Company](https://en.wikipedia.org/wiki/Larkin_Company)
 * [2024-10-12, 12:46:55](https://news.ycombinator.com/item?id=41818676) - [When railroad dining cars were the height of luxury](https://www.cnn.com/2024/10/11/style/europe-railroad-dining-cars-wagons-lits/index.html)
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
