@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today](https://how-i-experience-web-today.com)
+* [2024-10-14, 19:16:17](https://news.ycombinator.com/item?id=41840872) - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 * [2024-10-14, 19:06:22](https://news.ycombinator.com/item?id=41840769) - [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
 * [2024-10-14, 19:04:07](https://news.ycombinator.com/item?id=41840746) - [You can track changes someone makes to their Instagram account](https://github.com/ibnaleem/instatracker)
 * [2024-10-14, 18:55:44](https://news.ycombinator.com/item?id=41840655) - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
