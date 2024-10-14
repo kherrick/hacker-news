@@ -2,10 +2,10 @@
 
 * [2024-10-14, 03:19:44](https://news.ycombinator.com/item?id=41833910) - [RedCap, the 5G for IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-Source All-in-One Project Management Platform](https://github.com/hcengineering/platform)
+* [2024-10-14, 03:00:51](https://news.ycombinator.com/item?id=41833833) - [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
 * [2024-10-14, 01:06:37](https://news.ycombinator.com/item?id=41833200) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
 * [2024-10-14, 01:06:25](https://news.ycombinator.com/item?id=41833198) - [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
 * [2024-10-14, 00:16:33](https://news.ycombinator.com/item?id=41832931) - [Honeybee: Calling via XMPP](https://momi.ca/posts/2024-10-09-honeybee.html)
-* [2024-10-13, 23:13:23](https://news.ycombinator.com/item?id=41832579) - [20x faster convergence for diffusion models](https://sihyun.me/REPA/)
 * [2024-10-13, 23:07:03](https://news.ycombinator.com/item?id=41832547) - [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
 * [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 22:05:42](https://news.ycombinator.com/item?id=41832099) - [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline (2022)](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
