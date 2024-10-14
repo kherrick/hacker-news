@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-14, 07:30:27",
-      "https://news.ycombinator.com/item?id=41835114"
+      "2024-10-14, 07:34:55",
+      "https://news.ycombinator.com/item?id=41835140"
     ],
     [
-      "You can stop using user-scalable=no and maximum-scale=1 in viewport meta tags",
-      "https://lukeplant.me.uk/blog/posts/you-can-stop-using-user-scalable-no-and-maximum-scale-1-in-viewport-meta-tags-now/"
+      "Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal",
+      "https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "A review after using Rust on embedded in production for over a year",
       "https://blog.lohr.dev/embedded-rust"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 04:38:59",
-      "https://news.ycombinator.com/item?id=41834244"
-    ],
-    [
-      "A FLOSS platform for data analysis pipelines that you probably haven't heard of",
-      "https://arvados.org/technology/"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2024-10-13, 21:59:19",
+      "https://news.ycombinator.com/item?id=41832043"
+    ],
+    [
+      "Show HN: I built Bazaari.io to make launching online stores simple and fast",
+      "https://bazaari.io/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 17:43:45",
       "https://news.ycombinator.com/item?id=41829926"
     ],
@@ -177,6 +177,16 @@
     [
       "Node.js, Pipes, and Disappearing Bytes",
       "https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 14:35:59",
+      "https://news.ycombinator.com/item?id=41828388"
+    ],
+    [
+      "Even a single bacterial cell can sense the seasons changing",
+      "https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-10-12, 09:14:20",
-      "https://news.ycombinator.com/item?id=41817726"
+      "2024-10-12, 11:55:12",
+      "https://news.ycombinator.com/item?id=41818459"
     ],
     [
-      "Understanding the Android Virtualization Framework (AVF)",
-      "https://fungi8210.medium.com/understanding-the-android-virtualization-framework-avf-a9218e50056d"
+      "1 bug, $50k in bounties, a Zendesk backdoor",
+      "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Transforming Colors with Matrices",
       "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 08:54:07",
-      "https://news.ycombinator.com/item?id=41807642"
-    ],
-    [
-      "In Xsight – OS/2 Museum",
-      "https://www.os2museum.com/wp/finally-in-xsight/"
     ]
   ],
   [
