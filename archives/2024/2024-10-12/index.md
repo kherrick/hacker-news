@@ -59,6 +59,7 @@
 * [2024-10-12, 10:07:35](https://news.ycombinator.com/item?id=41817973) - [Alexei Navalny's Prison Diaries](https://www.newyorker.com/magazine/2024/10/21/alexei-navalny-patriot-memoir)
 * [2024-10-12, 09:57:27](https://news.ycombinator.com/item?id=41817924) - [A Swiss firm’s software mines the world’s knowledge for patent opportunities](https://spectrum.ieee.org/ai-inventions)
 * [2024-10-12, 09:33:32](https://news.ycombinator.com/item?id=41817808) - [Puzzle took me three years and required thinking in 3721 dimensions [video]](https://www.youtube.com/watch?v=g8pjrVbdafY)
+* [2024-10-12, 09:14:20](https://news.ycombinator.com/item?id=41817726) - [Understanding the Android Virtualization Framework (AVF)](https://fungi8210.medium.com/understanding-the-android-virtualization-framework-avf-a9218e50056d)
 * [2024-10-12, 08:58:39](https://news.ycombinator.com/item?id=41817650) - [California police aren't loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 * [2024-10-12, 08:18:02](https://news.ycombinator.com/item?id=41817399) - [Plugging abandoned oil wells and stopping methane leaks [video]](https://www.youtube.com/watch?v=m8QWxJhna8Y)
 * [2024-10-12, 07:31:14](https://news.ycombinator.com/item?id=41817154) - [Inline Scope for CSS](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/)

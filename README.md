@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 09:00:31](https://news.ycombinator.com/item?id=41835635) - [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
 * [2024-10-14, 07:48:47](https://news.ycombinator.com/item?id=41835217) - [Blocking the \"Sign in with Google\" Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
@@ -23,9 +24,8 @@
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Diffusion for World Modeling](https://diamond-wm.github.io/)
 * [2024-10-13, 09:13:21](https://news.ycombinator.com/item?id=41826388) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
+* [2024-10-12, 09:14:20](https://news.ycombinator.com/item?id=41817726) - [Understanding the Android Virtualization Framework (AVF)](https://fungi8210.medium.com/understanding-the-android-virtualization-framework-avf-a9218e50056d)
 * [2024-10-12, 07:31:14](https://news.ycombinator.com/item?id=41817154) - [Inline Scope for CSS](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/)
-* [2024-10-12, 04:12:37](https://news.ycombinator.com/item?id=41816345) - [Sears Homes 1915-1920](http://www.searsarchives.com/homes/1915-1920.htm)
-* [2024-10-11, 21:29:33](https://news.ycombinator.com/item?id=41813940) - [Lore Segal Saw the World in a Nutshell](https://www.theatlantic.com/books/archive/2024/10/novelist-lore-segal-appeciation-by-james-marcus/680216/)
 * [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-11, 08:54:07](https://news.ycombinator.com/item?id=41807642) - [In Xsight – OS/2 Museum](https://www.os2museum.com/wp/finally-in-xsight/)
