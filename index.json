@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-14, 04:38:59",
+      "https://news.ycombinator.com/item?id=41834244"
+    ],
+    [
+      "A FLOSS platform for data analysis pipelines that you probably haven't heard of",
+      "https://arvados.org/technology/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 03:16:24",
       "https://news.ycombinator.com/item?id=41833902"
     ],
@@ -17,6 +27,26 @@
     [
       "Why pay for a search engine",
       "https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 02:58:07",
+      "https://news.ycombinator.com/item?id=41833820"
+    ],
+    [
+      "Word-like HTML inline edit with design mode",
+      "https://til.secretgeek.net/google/chrome_design_mode.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 02:43:37",
+      "https://news.ycombinator.com/item?id=41833742"
+    ],
+    [
+      "C++ String Conversion: Exploring std:from_chars in C++17 to C++26",
+      "https://www.cppstories.com/2018/12/fromchars/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-10-13, 19:16:41",
-      "https://news.ycombinator.com/item?id=41830717"
-    ],
-    [
-      "CRLF is obsolete and should be abolished",
-      "https://fossil-scm.org/home/ext/crlf-harmful.md"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 17:43:45",
       "https://news.ycombinator.com/item?id=41829926"
     ],
@@ -167,16 +187,6 @@
     [
       "The quiet art of attention",
       "https://billwear.github.io/art-of-attention.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 14:54:54",
-      "https://news.ycombinator.com/item?id=41828542"
-    ],
-    [
-      "Node.js, Pipes, and Disappearing Bytes",
-      "https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-10-12, 09:33:32",
+      "https://news.ycombinator.com/item?id=41817808"
+    ],
+    [
+      "Puzzle took me three years and required thinking in 3721 dimensions [video]",
+      "https://www.youtube.com/watch?v=g8pjrVbdafY"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 07:31:14",
       "https://news.ycombinator.com/item?id=41817154"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-10-11, 13:50:36",
-      "https://news.ycombinator.com/item?id=41809485"
-    ],
-    [
-      "Design for Real Life",
-      "https://abookdeparts-dfrl.netlify.app"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 09:56:35",
       "https://news.ycombinator.com/item?id=41807993"
     ],
@@ -287,16 +297,6 @@
     [
       "All asteroids in Solar System, visualized",
       "https://github.com/DarkStar1982/Orbidium"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 11:53:23",
-      "https://news.ycombinator.com/item?id=41786870"
-    ],
-    [
-      "Plop Boot Manager",
-      "https://www.plop.at/en/bootmanager/full.html"
     ]
   ]
 ]
