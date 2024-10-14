@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
 * [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over)
@@ -17,7 +18,6 @@
 * [2024-10-13, 21:59:19](https://news.ycombinator.com/item?id=41832043) - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
 * [2024-10-13, 21:09:40](https://news.ycombinator.com/item?id=41831617) - [Counterintuitive Properties of High Dimensional Space](https://people.eecs.berkeley.edu/~jrs/highd/)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
-* [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The quiet art of attention](https://billwear.github.io/art-of-attention.html)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)

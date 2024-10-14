@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
 * [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
