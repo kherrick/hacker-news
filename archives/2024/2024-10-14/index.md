@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 16:52:13](https://news.ycombinator.com/item?id=41839326) - [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
 * [2024-10-14, 16:42:43](https://news.ycombinator.com/item?id=41839237) - [The Economics of Free Lunch](https://thehustle.co/originals/the-economics-of-free-lunch)
 * [2024-10-14, 16:39:24](https://news.ycombinator.com/item?id=41839190) - [Mesh Shaders – The Future of Rendering [video]](https://www.youtube.com/watch?v=3EMdMD1PsgY)
 * [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
