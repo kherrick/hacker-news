@@ -1,32 +1,22 @@
 [
   [
     [
+      "2024-10-14, 18:34:06",
+      "https://news.ycombinator.com/item?id=41840450"
+    ],
+    [
+      "Gosub: A browser engine written in Rust",
+      "https://github.com/gosub-io/gosub-engine"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 17:34:26",
       "https://news.ycombinator.com/item?id=41839773"
     ],
     [
       "Show HN: Vortex – a high-performance columnar file format in Rust",
       "https://github.com/spiraldb/vortex"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:25:47",
-      "https://news.ycombinator.com/item?id=41839685"
-    ],
-    [
-      "Platybelodon",
-      "https://en.wikipedia.org/wiki/Platybelodon"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:18:20",
-      "https://news.ycombinator.com/item?id=41839618"
-    ],
-    [
-      "Accelerating ZFS with Copy Offloading: BRT",
-      "https://klarasystems.com/articles/accelerating-zfs-with-copy-offloading-brt/"
     ]
   ],
   [
@@ -101,22 +91,22 @@
   ],
   [
     [
-      "2024-10-14, 13:59:26",
-      "https://news.ycombinator.com/item?id=41837607"
-    ],
-    [
-      "Ask HN: Solopreneurs, how did you come up with your idea?",
-      "https://news.ycombinator.com/item?id=41837607"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 13:11:56",
       "https://news.ycombinator.com/item?id=41837204"
     ],
     [
       "Show HN: X11 tool to share a screen area in any video meeting",
       "https://github.com/splitbrain/clipscreen"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 12:31:26",
+      "https://news.ycombinator.com/item?id=41836903"
+    ],
+    [
+      "Sound Lab – A Simple Analogue Synthesiser",
+      "http://www.technoblogy.com/show?4MGW"
     ]
   ],
   [
@@ -141,21 +131,11 @@
   ],
   [
     [
-      "2024-10-14, 06:06:08",
-      "https://news.ycombinator.com/item?id=41834662"
-    ],
-    [
-      "Embedded Rust in Production?",
-      "https://blog.lohr.dev/embedded-rust"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 05:44:17",
       "https://news.ycombinator.com/item?id=41834548"
     ],
     [
-      "Exploring 120 Years of Timezones (2021)",
+      "Exploring 120 years of timezones (2021)",
       "https://blog.scottlogic.com/2021/09/14/120-years-timezone.html"
     ]
   ],
@@ -167,16 +147,6 @@
     [
       "Huly – Open-source project management platform",
       "https://github.com/hcengineering/platform"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 02:43:37",
-      "https://news.ycombinator.com/item?id=41833742"
-    ],
-    [
-      "C++ String Conversion: Exploring std:from_chars in C++17 to C++26",
-      "https://www.cppstories.com/2018/12/fromchars/"
     ]
   ],
   [
@@ -211,32 +181,12 @@
   ],
   [
     [
-      "2024-10-13, 22:32:23",
-      "https://news.ycombinator.com/item?id=41832302"
-    ],
-    [
-      "Why does FM sound better than AM?",
-      "https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 21:09:40",
       "https://news.ycombinator.com/item?id=41831617"
     ],
     [
       "Counterintuitive Properties of High Dimensional Space (2018)",
       "https://people.eecs.berkeley.edu/~jrs/highd/"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 20:03:18",
-      "https://news.ycombinator.com/item?id=41831073"
-    ],
-    [
-      "Show HN: I made a git rebase TUI editor",
-      "https://github.com/NyuB/ocli"
     ]
   ],
   [
@@ -261,22 +211,72 @@
   ],
   [
     [
+      "2024-10-12, 12:46:55",
+      "https://news.ycombinator.com/item?id=41818676"
+    ],
+    [
+      "When railroad dining cars were the height of luxury",
+      "https://www.cnn.com/2024/10/11/style/europe-railroad-dining-cars-wagons-lits/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 12:34:55",
+      "https://news.ycombinator.com/item?id=41818620"
+    ],
+    [
+      "Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]",
+      "https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 12:32:29",
+      "https://news.ycombinator.com/item?id=41818609"
+    ],
+    [
+      "Turn your Android phone into a modern ham radio transceiver",
+      "https://www.kv4p.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 09:16:20",
+      "https://news.ycombinator.com/item?id=41817739"
+    ],
+    [
+      "Goodbye to an old spreadsheet",
+      "https://rubenerd.com/goodbye-to-an-old-spreadsheet/"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 20:37:09",
+      "https://news.ycombinator.com/item?id=41813471"
+    ],
+    [
+      "Trying Out a Far Infrared Heated Poster",
+      "https://www.bentasker.co.uk/posts/blog/house-stuff/using-graphene-infrared-heater-art-in-the-sitting-room.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 19:33:18",
+      "https://news.ycombinator.com/item?id=41812762"
+    ],
+    [
+      "New images show state of preservation of Ernest Shackleton's ship",
+      "https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 13:01:42",
       "https://news.ycombinator.com/item?id=41809107"
     ],
     [
       "Curly-Cue: Geometric Methods for Highly Coiled Hair",
       "https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 09:56:35",
-      "https://news.ycombinator.com/item?id=41807993"
-    ],
-    [
-      "Transforming Colors with Matrices",
-      "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
     ]
   ],
   [
