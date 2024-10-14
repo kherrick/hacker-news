@@ -69,6 +69,7 @@
 * [2024-10-11, 06:00:03](https://news.ycombinator.com/item?id=41806629) - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
 * [2024-10-11, 03:24:25](https://news.ycombinator.com/item?id=41805706) - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 * [2024-10-11, 03:23:28](https://news.ycombinator.com/item?id=41805702) - [AP5 -  Declarative Programming Library For Common Lisp (1995)](https://oceanpark.com/ap5.html)
+* [2024-10-11, 03:23:03](https://news.ycombinator.com/item?id=41805699) - [How to Make a Legit Sound Camera [video]](https://www.youtube.com/watch?v=c5ynZ3lMQJc)
 * [2024-10-11, 02:39:42](https://news.ycombinator.com/item?id=41805515) - [Tesla's Robotaxi event still not started after 40 minutes [video]](https://www.youtube.com/watch?v=6v6dbxPlsXs)
 * [2024-10-11, 02:19:42](https://news.ycombinator.com/item?id=41805446) - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [2024-10-11, 02:03:30](https://news.ycombinator.com/item?id=41805391) - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
