@@ -19,7 +19,7 @@
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The quiet art of attention](https://billwear.github.io/art-of-attention.html)
-* [2024-10-13, 13:58:32](https://news.ycombinator.com/item?id=41828069) - [A novel channel contention mechanism for improving wi-fi's reliability](https://arxiv.org/abs/2410.07874)
+* [2024-10-13, 14:54:54](https://news.ycombinator.com/item?id=41828542) - [Node.js, Pipes, and Disappearing Bytes](https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes)
 * [2024-10-13, 12:38:17](https://news.ycombinator.com/item?id=41827461) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 * [2024-10-13, 09:18:04](https://news.ycombinator.com/item?id=41826402) - [Diffusion for World Modeling](https://diamond-wm.github.io/)
