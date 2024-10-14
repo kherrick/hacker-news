@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 19:27:03](https://news.ycombinator.com/item?id=41840971) - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
 * [2024-10-14, 19:22:53](https://news.ycombinator.com/item?id=41840931) - [How I Experience Web Today](https://how-i-experience-web-today.com)
 * [2024-10-14, 19:16:17](https://news.ycombinator.com/item?id=41840872) - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
 * [2024-10-14, 19:06:22](https://news.ycombinator.com/item?id=41840769) - [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
 * [2024-10-14, 19:04:07](https://news.ycombinator.com/item?id=41840746) - [You can track changes someone makes to their Instagram account](https://github.com/ibnaleem/instatracker)
 * [2024-10-14, 18:55:44](https://news.ycombinator.com/item?id=41840655) - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
 * [2024-10-14, 18:34:06](https://news.ycombinator.com/item?id=41840450) - [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
+* [2024-10-14, 18:21:40](https://news.ycombinator.com/item?id=41840323) - [Show HN: Bolt.new – dev sandbox with AI from StackBlitz](https://bolt.new/)
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 * [2024-10-14, 17:42:58](https://news.ycombinator.com/item?id=41839864) - [Response to DHH – Matt Mullenweg](https://ma.tt/2024/10/on-dhh/)
+* [2024-10-14, 17:34:38](https://news.ycombinator.com/item?id=41839776) - [Scale Ruins Everything](https://coldwaters.substack.com/p/scale-ruins-everything)
 * [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format in Rust](https://github.com/spiraldb/vortex)
 * [2024-10-14, 17:33:51](https://news.ycombinator.com/item?id=41839766) - [Meissonic, High-Resolution Text-to-Image Synthesis on consumer graphics cards](https://arxiv.org/abs/2410.08261)
 * [2024-10-14, 17:28:20](https://news.ycombinator.com/item?id=41839719) - [Teaching the Largest Programming Lesson](https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson)
