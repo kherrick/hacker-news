@@ -19,6 +19,7 @@
 * [2024-10-14, 02:43:37](https://news.ycombinator.com/item?id=41833742) - [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 * [2024-10-14, 02:20:06](https://news.ycombinator.com/item?id=41833629) - [Rama on Clojure's terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 * [2024-10-14, 02:19:15](https://news.ycombinator.com/item?id=41833628) - [WordPress Accessibility Team Meetings Suspended](https://make.wordpress.org/accessibility/2024/10/12/accessibility-team-meetings-suspended/)
+* [2024-10-14, 01:34:42](https://news.ycombinator.com/item?id=41833381) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
 * [2024-10-14, 01:21:49](https://news.ycombinator.com/item?id=41833287) - [Llama 405B 506 tokens/second on an H200](https://developer.nvidia.com/blog/boosting-llama-3-1-405b-throughput-by-another-1-5x-on-nvidia-h200-tensor-core-gpus-and-nvlink-switch/)
 * [2024-10-14, 01:06:37](https://news.ycombinator.com/item?id=41833200) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
 * [2024-10-14, 01:06:25](https://news.ycombinator.com/item?id=41833198) - [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
