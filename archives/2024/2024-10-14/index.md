@@ -9,6 +9,7 @@
 * [2024-10-14, 22:25:47](https://news.ycombinator.com/item?id=41842775) - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
 * [2024-10-14, 21:37:00](https://news.ycombinator.com/item?id=41842294) - [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)
 * [2024-10-14, 21:29:50](https://news.ycombinator.com/item?id=41842240) - [GPT-4o Jailbroken by Claiming It's an \"All-Responsive\" API Endpoint](https://twitter.com/mixedenn/status/1845939748235628564)
+* [2024-10-14, 21:10:41](https://news.ycombinator.com/item?id=41842060) - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
 * [2024-10-14, 20:49:31](https://news.ycombinator.com/item?id=41841835) - [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
 * [2024-10-14, 20:41:04](https://news.ycombinator.com/item?id=41841744) - [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
