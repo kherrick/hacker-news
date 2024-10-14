@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-10-14, 06:06:08",
-      "https://news.ycombinator.com/item?id=41834662"
-    ],
-    [
-      "A review after using Rust on embedded in production for over a year",
-      "https://blog.lohr.dev/embedded-rust"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 05:44:17",
       "https://news.ycombinator.com/item?id=41834548"
     ],
@@ -197,6 +187,16 @@
     [
       "Making the Tibetan language a first-class citizen in the digital world",
       "https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:03:03",
+      "https://news.ycombinator.com/item?id=41828611"
+    ],
+    [
+      "Lessons learned from profiling an algorithm in Rust",
+      "https://blog.mapotofu.org/blogs/rabitq-bench/"
     ]
   ],
   [
