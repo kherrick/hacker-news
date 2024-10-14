@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:18:10](https://news.ycombinator.com/item?id=41836824) - [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
 * [2024-10-14, 12:10:59](https://news.ycombinator.com/item?id=41836769) - [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
 * [2024-10-14, 12:08:03](https://news.ycombinator.com/item?id=41836748) - [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 11:29:08](https://news.ycombinator.com/item?id=41836497) - [A Music Map of every genre and subgenre](https://musicmap.info/)
+* [2024-10-14, 10:18:54](https://news.ycombinator.com/item?id=41836071) - [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
 * [2024-10-14, 09:00:31](https://news.ycombinator.com/item?id=41835635) - [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
 * [2024-10-14, 07:48:47](https://news.ycombinator.com/item?id=41835217) - [Blocking the \"Sign in with Google\" Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
 * [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
