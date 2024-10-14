@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
 * [2024-10-14, 04:38:59](https://news.ycombinator.com/item?id=41834244) - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
+* [2024-10-14, 04:38:16](https://news.ycombinator.com/item?id=41834238) - [The Age of PageRank Is Over](https://blog.kagi.com/age-pagerank-over)
 * [2024-10-14, 03:27:15](https://news.ycombinator.com/item?id=41833928) - [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)
 * [2024-10-14, 03:19:44](https://news.ycombinator.com/item?id=41833910) - [RedCap, the 5G for IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-Source All-in-One Project Management Platform](https://github.com/hcengineering/platform)

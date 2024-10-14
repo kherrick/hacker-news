@@ -43,6 +43,7 @@
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
+* [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-11, 12:37:37](https://news.ycombinator.com/item?id=41808943) - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 * [2024-10-11, 12:34:02](https://news.ycombinator.com/item?id=41808917) - [Google Play killed my game and won't tell me why](https://antiidlereborn.com/news/)
 * [2024-10-11, 11:56:57](https://news.ycombinator.com/item?id=41808696) - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
