@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-10-14, 15:20:11",
+      "https://news.ycombinator.com/item?id=41838348"
+    ],
+    [
+      "AlphaCodium outperforms direct prompting of OpenAI's o1 on coding problems",
+      "https://www.qodo.ai/blog/system-2-thinking-alphacodium-outperforms-direct-prompting-of-openai-o1/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 15:19:12",
       "https://news.ycombinator.com/item?id=41838337"
     ],
@@ -137,16 +147,6 @@
     [
       "C++ String Conversion: Exploring std:from_chars in C++17 to C++26",
       "https://www.cppstories.com/2018/12/fromchars/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 02:20:06",
-      "https://news.ycombinator.com/item?id=41833629"
-    ],
-    [
-      "Rama on Clojure's terms, and the magic of continuation-passing style",
-      "https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-10-12, 04:12:37",
-      "https://news.ycombinator.com/item?id=41816345"
-    ],
-    [
-      "Sears Homes 1915-1920",
-      "http://www.searsarchives.com/homes/1915-1920.htm"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 13:01:42",
       "https://news.ycombinator.com/item?id=41809107"
     ],
@@ -297,6 +287,16 @@
     [
       "Transforming Colors with Matrices",
       "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 20:51:14",
+      "https://news.ycombinator.com/item?id=41803457"
+    ],
+    [
+      "Extracting financial disclosure and police reports with OpenAI Structured Output",
+      "https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8"
     ]
   ]
 ]
