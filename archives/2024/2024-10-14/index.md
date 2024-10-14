@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
 * [2024-10-14, 18:34:06](https://news.ycombinator.com/item?id=41840450) - [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
+* [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 * [2024-10-14, 17:42:58](https://news.ycombinator.com/item?id=41839864) - [Response to DHH – Matt Mullenweg](https://ma.tt/2024/10/on-dhh/)
 * [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format in Rust](https://github.com/spiraldb/vortex)
+* [2024-10-14, 17:33:51](https://news.ycombinator.com/item?id=41839766) - [Meissonic, High-Resolution Text-to-Image Synthesis on consumer graphics cards](https://arxiv.org/abs/2410.08261)
 * [2024-10-14, 17:27:14](https://news.ycombinator.com/item?id=41839705) - [WordPress Doesn't Matter for the Future of Web](https://molodtsov.me/2024/10/wordpress-doesnt-matter-for-the-future-of-web/)
 * [2024-10-14, 17:25:47](https://news.ycombinator.com/item?id=41839685) - [Platybelodon](https://en.wikipedia.org/wiki/Platybelodon)
 * [2024-10-14, 17:18:20](https://news.ycombinator.com/item?id=41839618) - [Accelerating ZFS with Copy Offloading: BRT](https://klarasystems.com/articles/accelerating-zfs-with-copy-offloading-brt/)
