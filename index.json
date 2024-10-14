@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-10-14, 17:55:13",
+      "https://news.ycombinator.com/item?id=41839994"
+    ],
+    [
+      "PayloadCMS: Open-Source, Fullstack Next.js Framework",
+      "https://github.com/payloadcms/payload"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 17:34:26",
       "https://news.ycombinator.com/item?id=41839773"
     ],
     [
       "Show HN: Vortex – a high-performance columnar file format in Rust",
       "https://github.com/spiraldb/vortex"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 17:33:51",
+      "https://news.ycombinator.com/item?id=41839766"
+    ],
+    [
+      "Meissonic, High-Resolution Text-to-Image Synthesis on consumer graphics cards",
+      "https://arxiv.org/abs/2410.08261"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Busy Status Bar from Flipper Devices",
       "https://busy.bar/?hn"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 14:34:03",
-      "https://news.ycombinator.com/item?id=41837925"
-    ],
-    [
-      "Scientists successfully breed corals to improve their heat tolerance",
-      "https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Show HN: A VSCode Extension to edit HTML visually in real-time",
       "https://github.com/urin/vscode-web-visual-editor"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 23:13:23",
-      "https://news.ycombinator.com/item?id=41832579"
-    ],
-    [
-      "Faster convergence for diffusion models",
-      "https://sihyun.me/REPA/"
     ]
   ],
   [
