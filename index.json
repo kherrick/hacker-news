@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-10-14, 02:58:07",
-      "https://news.ycombinator.com/item?id=41833820"
-    ],
-    [
-      "Word-like HTML inline edit with design mode",
-      "https://til.secretgeek.net/google/chrome_design_mode.html"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 02:43:37",
       "https://news.ycombinator.com/item?id=41833742"
     ],
@@ -177,6 +167,16 @@
     [
       "Making the Tibetan language a first-class citizen in the digital world",
       "https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 15:03:03",
+      "https://news.ycombinator.com/item?id=41828611"
+    ],
+    [
+      "Lessons learned from profiling an algorithm in Rust",
+      "https://blog.mapotofu.org/blogs/rabitq-bench/"
     ]
   ],
   [
