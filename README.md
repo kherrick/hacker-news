@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
+* [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:28:33](https://news.ycombinator.com/item?id=41838420) - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
 * [2024-10-14, 14:34:03](https://news.ycombinator.com/item?id=41837925) - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
+* [2024-10-14, 12:10:59](https://news.ycombinator.com/item?id=41836769) - [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
 * [2024-10-14, 12:08:03](https://news.ycombinator.com/item?id=41836748) - [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 10:28:45](https://news.ycombinator.com/item?id=41836128) - [Cwal: Scripting Engine Without a Language](https://fossil.wanderinghorse.net/r/cwal/home)
 * [2024-10-14, 10:18:54](https://news.ycombinator.com/item?id=41836071) - [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
@@ -24,12 +27,9 @@
 * [2024-10-13, 12:23:17](https://news.ycombinator.com/item?id=41827362) - [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 * [2024-10-13, 09:13:21](https://news.ycombinator.com/item?id=41826388) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 07:43:46](https://news.ycombinator.com/item?id=41825994) - [Christopher Columbus may have been Spanish and Jewish, documentary says](https://www.theguardian.com/world/2024/oct/13/christopher-columbus-was-spanish-and-jewish-documentary-reveals)
-* [2024-10-12, 10:38:23](https://news.ycombinator.com/item?id=41818119) - [Permacomputing Aesthetic in Computational Art, Design and Culture (2023) [pdf]](https://monoskop.org/images/6/6a/Mansoux_Aymeric_et_al_2023_Permacomputing_Aesthetics.pdf)
 * [2024-10-12, 04:12:37](https://news.ycombinator.com/item?id=41816345) - [Sears Homes 1915-1920](http://www.searsarchives.com/homes/1915-1920.htm)
-* [2024-10-11, 18:44:06](https://news.ycombinator.com/item?id=41812181) - [Review: ReMarkable Paper Pro](https://amandariu.com/review-remarkable-paper-pro/)
 * [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
-* [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
+* [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:28:33](https://news.ycombinator.com/item?id=41838420) - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
 * [2024-10-14, 14:34:03](https://news.ycombinator.com/item?id=41837925) - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
