@@ -53,6 +53,7 @@
 * [2024-10-11, 11:49:17](https://news.ycombinator.com/item?id=41808634) - [Join-Accumulate Machine: A Semi-Coherent Scalable Trustless VM](https://graypaper.com/)
 * [2024-10-11, 11:40:35](https://news.ycombinator.com/item?id=41808569) - [A plain-text way to get your point across quickly and artfully in the browser](https://quickpoint.me)
 * [2024-10-11, 10:59:19](https://news.ycombinator.com/item?id=41808351) - [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
+* [2024-10-11, 10:47:08](https://news.ycombinator.com/item?id=41808291) - [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
 * [2024-10-11, 10:46:10](https://news.ycombinator.com/item?id=41808282) - [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)

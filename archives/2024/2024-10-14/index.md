@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
 * [2024-10-14, 12:18:10](https://news.ycombinator.com/item?id=41836824) - [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
+* [2024-10-14, 12:10:59](https://news.ycombinator.com/item?id=41836769) - [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
 * [2024-10-14, 12:08:03](https://news.ycombinator.com/item?id=41836748) - [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 11:29:08](https://news.ycombinator.com/item?id=41836497) - [A Music Map of every genre and subgenre](https://musicmap.info/)
 * [2024-10-14, 09:00:31](https://news.ycombinator.com/item?id=41835635) - [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
