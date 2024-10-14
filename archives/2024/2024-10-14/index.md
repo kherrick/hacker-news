@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 23:13:37](https://news.ycombinator.com/item?id=41843198) - [Tesla Optimus bots were controlled by humans during the 'We, Robot' event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/)
 * [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 * [2024-10-14, 22:25:47](https://news.ycombinator.com/item?id=41842775) - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
 * [2024-10-14, 21:37:00](https://news.ycombinator.com/item?id=41842294) - [Routine dental X-rays are not backed by evidence–experts want it to stop](https://arstechnica.com/health/2024/10/do-you-really-need-those-routine-dental-x-rays-probably-not/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-14, 23:13:37](https://news.ycombinator.com/item?id=41843198) - [Tesla Optimus bots were controlled by humans during the 'We, Robot' event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/)
 * [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 * [2024-10-14, 22:25:47](https://news.ycombinator.com/item?id=41842775) - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
@@ -16,7 +17,6 @@
 * [2024-10-14, 17:33:51](https://news.ycombinator.com/item?id=41839766) - [Meissonic, High-Resolution Text-to-Image Synthesis on consumer graphics cards](https://arxiv.org/abs/2410.08261)
 * [2024-10-14, 17:28:20](https://news.ycombinator.com/item?id=41839719) - [Teaching the Largest Programming Lesson](https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
-* [2024-10-14, 15:28:33](https://news.ycombinator.com/item?id=41838420) - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar](https://busy.bar/?hn)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
