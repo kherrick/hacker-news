@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-14, 03:27:15](https://news.ycombinator.com/item?id=41833928) - [We Are in Need of Renaissance People](https://victorhanson.com/we-are-in-need-of-renaissance-people/)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 * [2024-10-14, 03:00:51](https://news.ycombinator.com/item?id=41833833) - [Why pay for a search engine](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html)
 * [2024-10-14, 02:20:06](https://news.ycombinator.com/item?id=41833629) - [Rama on Clojure's terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
@@ -30,6 +29,7 @@
 * [2024-10-11, 13:50:36](https://news.ycombinator.com/item?id=41809485) - [Design for Real Life](https://abookdeparts-dfrl.netlify.app)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-10, 22:17:30](https://news.ycombinator.com/item?id=41804127) - [All asteroids in Solar System, visualized](https://github.com/DarkStar1982/Orbidium)
+* [2024-10-09, 11:53:23](https://news.ycombinator.com/item?id=41786870) - [Plop Boot Manager](https://www.plop.at/en/bootmanager/full.html)
 
 ## [Archives](archives/index.md)
 
