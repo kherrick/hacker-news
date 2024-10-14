@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
 * [2024-10-14, 06:06:08](https://news.ycombinator.com/item?id=41834662) - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 * [2024-10-14, 03:16:24](https://news.ycombinator.com/item?id=41833902) - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 * [2024-10-14, 02:43:37](https://news.ycombinator.com/item?id=41833742) - [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
@@ -14,6 +13,7 @@
 * [2024-10-13, 22:05:42](https://news.ycombinator.com/item?id=41832099) - [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline (2022)](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
 * [2024-10-13, 17:43:45](https://news.ycombinator.com/item?id=41829926) - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
 * [2024-10-13, 15:39:23](https://news.ycombinator.com/item?id=41828923) - [Ward Christensen (of BBS and XMODEM fame) has died](https://en.wikipedia.org/wiki/Ward_Christensen)
+* [2024-10-13, 15:32:36](https://news.ycombinator.com/item?id=41828864) - [DARPA is funding reef structures that will be colonized by corals and bivalves](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
 * [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The quiet art of attention](https://billwear.github.io/art-of-attention.html)
 * [2024-10-13, 14:54:54](https://news.ycombinator.com/item?id=41828542) - [Node.js, Pipes, and Disappearing Bytes](https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes)
