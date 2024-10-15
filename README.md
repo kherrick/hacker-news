@@ -15,6 +15,7 @@
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple introduces iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
 * [2024-10-15, 14:11:57](https://news.ycombinator.com/item?id=41848816) - [We discovered the woes of video hosting and built a better system](https://wistia.com/learn/marketing/video-infrastructure-services)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
+* [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise in rich countries slows down: took 30 years to prove](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big advance on simple-sounding math problem was a century in the making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:57:54](https://news.ycombinator.com/item?id=41848099) - [Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
@@ -29,7 +30,6 @@
 * [2024-10-14, 21:43:40](https://news.ycombinator.com/item?id=41842339) - [A not so fast implementation of cosine similarity in C++ and SIMD](https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html)
 * [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
 * [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
-* [2024-10-11, 16:13:16](https://news.ycombinator.com/item?id=41810786) - [A team paid to break into top-secret bases](https://www.bbc.com/news/articles/c8el64yyppro)
 
 ## [Archives](archives/index.md)
 
