@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
+* [2024-10-15, 18:19:32](https://news.ycombinator.com/item?id=41851467) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:16:52](https://news.ycombinator.com/item?id=41851434) - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2024-10-15, 18:08:15](https://news.ycombinator.com/item?id=41851304) - [Meta's open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
 * [2024-10-15, 18:05:10](https://news.ycombinator.com/item?id=41851274) - [Meteorologists, Please Stop the Fearmongering](https://www.lakeplacidnews.com/opinion/editorials/2019/02/01/meteorologists-please-stop-the-fearmongering/)

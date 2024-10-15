@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
+* [2024-10-15, 18:19:32](https://news.ycombinator.com/item?id=41851467) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:16:52](https://news.ycombinator.com/item?id=41851434) - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2024-10-15, 18:08:15](https://news.ycombinator.com/item?id=41851304) - [Meta's open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
 * [2024-10-15, 18:05:10](https://news.ycombinator.com/item?id=41851274) - [Meteorologists, please stop the fearmongering (2019)](https://www.lakeplacidnews.com/opinion/editorials/2019/02/01/meteorologists-please-stop-the-fearmongering/)
@@ -23,13 +25,11 @@
 * [2024-10-15, 09:13:07](https://news.ycombinator.com/item?id=41846592) - [The Future of Big Iron: An Interview with IBM’s Christian Jacobi](https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-14, 21:43:40](https://news.ycombinator.com/item?id=41842339) - [A not so fast implementation of cosine similarity in C++ and SIMD](https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html)
-* [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
 * [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
 * [2024-10-13, 18:22:42](https://news.ycombinator.com/item?id=41830247) - [Cofounder Mode: My tactical guide to finding a cofounder](https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder)
 * [2024-10-11, 19:46:07](https://news.ycombinator.com/item?id=41812921) - [Skip Hash: A fast ordered map via software transactional memory](https://arxiv.org/abs/2410.07466)
 * [2024-10-11, 16:13:16](https://news.ycombinator.com/item?id=41810786) - [A team paid to break into top-secret bases](https://www.bbc.com/news/articles/c8el64yyppro)
 * [2024-10-11, 12:54:03](https://news.ycombinator.com/item?id=41809051) - [Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
-* [2024-10-11, 10:18:23](https://news.ycombinator.com/item?id=41808113) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 
 ## [Archives](archives/index.md)
 
