@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All Possible Plots by Major Authors](https://www.the-fence.com/plots-major-authors/)
 * [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 * [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
 * [2024-10-15, 18:19:32](https://news.ycombinator.com/item?id=41851467) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
@@ -27,7 +28,6 @@
 * [2024-10-14, 21:43:40](https://news.ycombinator.com/item?id=41842339) - [A not so fast implementation of cosine similarity in C++ and SIMD](https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html)
 * [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
 * [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
-* [2024-10-11, 19:46:07](https://news.ycombinator.com/item?id=41812921) - [Skip Hash: A fast ordered map via software transactional memory](https://arxiv.org/abs/2410.07466)
 * [2024-10-11, 16:13:16](https://news.ycombinator.com/item?id=41810786) - [A team paid to break into top-secret bases](https://www.bbc.com/news/articles/c8el64yyppro)
 * [2024-10-11, 12:54:03](https://news.ycombinator.com/item?id=41809051) - [Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 

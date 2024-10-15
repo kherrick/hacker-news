@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All Possible Plots by Major Authors](https://www.the-fence.com/plots-major-authors/)
 * [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 * [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
 * [2024-10-15, 18:19:32](https://news.ycombinator.com/item?id=41851467) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
