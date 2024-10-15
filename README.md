@@ -12,7 +12,6 @@
 * [2024-10-15, 16:06:29](https://news.ycombinator.com/item?id=41850017) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 15:57:49](https://news.ycombinator.com/item?id=41849907) - [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple introduces iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
-* [2024-10-15, 14:11:57](https://news.ycombinator.com/item?id=41848816) - [We discovered the woes of video hosting and built a better system](https://wistia.com/learn/marketing/video-infrastructure-services)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise in rich countries slows down: took 30 years to prove](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big advance on simple-sounding math problem was a century in the making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
@@ -30,6 +29,7 @@
 * [2024-10-14, 21:43:40](https://news.ycombinator.com/item?id=41842339) - [A not so fast implementation of cosine similarity in C++ and SIMD](https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html)
 * [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
 * [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
+* [2024-10-10, 17:45:48](https://news.ycombinator.com/item?id=41801315) - [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 
 ## [Archives](archives/index.md)
 
