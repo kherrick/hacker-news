@@ -78,6 +78,7 @@
 * [2024-10-12, 07:31:14](https://news.ycombinator.com/item?id=41817154) - [Inline Scope for CSS](https://picostitch.com/tidbits/2024/10/inline-scope-for-css/)
 * [2024-10-12, 07:13:14](https://news.ycombinator.com/item?id=41817074) - [Electric vehicle battery prices are expected to fall almost 50% by 2026](https://www.goldmansachs.com/insights/articles/electric-vehicle-battery-prices-are-expected-to-fall-almost-50-percent-by-2025)
 * [2024-10-12, 07:11:03](https://news.ycombinator.com/item?id=41817067) - [MSI leaks Ryzen 9000X3D: 2% to 13% higher gaming performance than 7000X3D](https://videocardz.com/newz/msi-leaks-ryzen-9000x3d-2-to-13-higher-gaming-performance-than-7000x3d)
+* [2024-10-12, 05:57:42](https://news.ycombinator.com/item?id=41816795) - ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)
 * [2024-10-12, 05:49:33](https://news.ycombinator.com/item?id=41816756) - [Google is preparing to let you run Linux apps on Android, just like Chrome OS](https://www.androidauthority.com/android-linux-terminal-app-3489887/)
 * [2024-10-12, 05:34:11](https://news.ycombinator.com/item?id=41816688) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names/)
 * [2024-10-12, 04:58:30](https://news.ycombinator.com/item?id=41816545) - [Can Logic Programming Be Liberated from Predicates and Backtracking? [pdf]](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
