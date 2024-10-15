@@ -28,7 +28,7 @@
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 09:13:07](https://news.ycombinator.com/item?id=41846592) - [The Future of Big Iron: An Interview with IBM’s Christian Jacobi](https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and)
 * [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
-* [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
+* [2024-10-11, 16:13:16](https://news.ycombinator.com/item?id=41810786) - [A team paid to break into top-secret bases](https://www.bbc.com/news/articles/c8el64yyppro)
 * [2024-10-10, 17:45:48](https://news.ycombinator.com/item?id=41801315) - [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 
 ## [Archives](archives/index.md)
