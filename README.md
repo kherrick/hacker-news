@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
 * [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 19:36:41](https://news.ycombinator.com/item?id=41852295) - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
@@ -22,7 +23,6 @@
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 10:14:41](https://news.ycombinator.com/item?id=41846986) - [Forscape – A Language and Editor for Scientific Computation](https://github.com/JohnDTill/Forscape)
-* [2024-10-15, 09:57:04](https://news.ycombinator.com/item?id=41846876) - [A deep-sea 'emergency service' keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering (2021)](https://browser.engineering/index.html)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 09:13:07](https://news.ycombinator.com/item?id=41846592) - [The Future of Big Iron: An Interview with IBM’s Christian Jacobi](https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and)
