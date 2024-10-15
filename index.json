@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-10-15, 04:35:37",
+      "https://news.ycombinator.com/item?id=41844982"
+    ],
+    [
+      "Rodents remotely move matter using sound to enhance their sense of smell: study",
+      "https://www.buffalo.edu/news/releases/2024/10/rodents-sense-of-smell-nose.html"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 03:12:00",
       "https://news.ycombinator.com/item?id=41844545"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2024-10-14, 19:25:39",
+      "https://news.ycombinator.com/item?id=41840956"
+    ],
+    [
+      "PEP 762 – REPL-acing the default REPL",
+      "https://peps.python.org/pep-0762/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 18:28:54",
       "https://news.ycombinator.com/item?id=41840390"
     ],
@@ -191,52 +211,12 @@
   ],
   [
     [
-      "2024-10-14, 17:55:13",
-      "https://news.ycombinator.com/item?id=41839994"
+      "2024-10-14, 16:18:32",
+      "https://news.ycombinator.com/item?id=41838985"
     ],
     [
-      "PayloadCMS: Open-Source, Fullstack Next.js Framework",
-      "https://github.com/payloadcms/payload"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:34:26",
-      "https://news.ycombinator.com/item?id=41839773"
-    ],
-    [
-      "Show HN: Vortex – a high-performance columnar file format",
-      "https://github.com/spiraldb/vortex"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 16:52:13",
-      "https://news.ycombinator.com/item?id=41839326"
-    ],
-    [
-      "Furilabs Linux Phone",
-      "https://furilabs.com/shop/flx1/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 16:31:25",
-      "https://news.ycombinator.com/item?id=41839095"
-    ],
-    [
-      "Cargo Airships Are Happening",
-      "https://www.elidourado.com/p/airship-industries"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 15:19:12",
-      "https://news.ycombinator.com/item?id=41838337"
-    ],
-    [
-      "Busy Status Bar",
-      "https://busy.bar/?hn"
+      "A Brief Rant on the Future of Interaction Design (2011)",
+      "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/"
     ]
   ],
   [
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2024-10-14, 07:17:00",
-      "https://news.ycombinator.com/item?id=41835040"
+      "2024-10-13, 05:15:31",
+      "https://news.ycombinator.com/item?id=41825344"
     ],
     [
-      "Gosub – An open-source browser engine",
-      "https://github.com/gosub-io/gosub-engine"
+      "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
+      "https://github.com/tzador/x.md"
     ]
   ],
   [
@@ -271,12 +251,12 @@
   ],
   [
     [
-      "2024-10-12, 12:32:29",
-      "https://news.ycombinator.com/item?id=41818609"
+      "2024-10-11, 19:46:07",
+      "https://news.ycombinator.com/item?id=41812921"
     ],
     [
-      "Turn your Android phone into a modern ham radio transceiver",
-      "https://www.kv4p.com/"
+      "Skip Hash: A fast ordered map via software transactional memory",
+      "https://arxiv.org/abs/2410.07466"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Extracting financial disclosure and police reports with OpenAI Structured Output",
       "https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 18:57:11",
+      "https://news.ycombinator.com/item?id=41802137"
+    ],
+    [
+      "Tiny Table Index: directory of solo and duet tabletop roleplaying games",
+      "https://www.tinytableindex.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 18:14:39",
+      "https://news.ycombinator.com/item?id=41801594"
+    ],
+    [
+      "Ask HN: Do you track how your email address is used?",
+      "https://news.ycombinator.com/item?id=41801594"
     ]
   ]
 ]
