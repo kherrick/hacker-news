@@ -62,6 +62,7 @@
 * [2024-10-11, 10:47:08](https://news.ycombinator.com/item?id=41808291) - [In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane](https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/)
 * [2024-10-11, 10:46:10](https://news.ycombinator.com/item?id=41808282) - [Startup Success: How Founder Personalities Shape Venture Outcomes](https://business.columbia.edu/research-brief/research-brief/startups-founder-personalities-vc)
 * [2024-10-11, 10:21:29](https://news.ycombinator.com/item?id=41808127) - [Fundamental physics is dying? [video]](https://www.youtube.com/watch?v=cBIvSGLkwJY)
+* [2024-10-11, 10:18:23](https://news.ycombinator.com/item?id=41808113) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 * [2024-10-11, 10:01:32](https://news.ycombinator.com/item?id=41808013) - [Initial CUDA Performance Lessons](https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/)
 * [2024-10-11, 09:56:35](https://news.ycombinator.com/item?id=41807993) - [Transforming Colors with Matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-11, 09:50:29](https://news.ycombinator.com/item?id=41807954) - ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
 * [2024-10-14, 23:13:37](https://news.ycombinator.com/item?id=41843198) - [Tesla Optimus bots were controlled by humans during the 'We, Robot' event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/)
 * [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
 * [2024-10-14, 22:25:47](https://news.ycombinator.com/item?id=41842775) - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
@@ -24,6 +25,7 @@
 * [2024-10-14, 18:34:06](https://news.ycombinator.com/item?id=41840450) - [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
 * [2024-10-14, 18:28:54](https://news.ycombinator.com/item?id=41840390) - [The three-page paper that shook philosophy: Gettiers in software engineering](https://jsomers.net/blog/gettiers)
 * [2024-10-14, 18:21:40](https://news.ycombinator.com/item?id=41840323) - [Show HN: Bolt.new – dev sandbox with AI from StackBlitz](https://bolt.new/)
+* [2024-10-14, 18:01:08](https://news.ycombinator.com/item?id=41840082) - ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 * [2024-10-14, 17:42:58](https://news.ycombinator.com/item?id=41839864) - [Response to DHH – Matt Mullenweg](https://ma.tt/2024/10/on-dhh/)
