@@ -37,6 +37,7 @@
 * [2024-10-14, 16:52:13](https://news.ycombinator.com/item?id=41839326) - [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
 * [2024-10-14, 16:42:43](https://news.ycombinator.com/item?id=41839237) - [The Economics of Free Lunch](https://thehustle.co/originals/the-economics-of-free-lunch)
 * [2024-10-14, 16:39:24](https://news.ycombinator.com/item?id=41839190) - [Mesh Shaders – The Future of Rendering [video]](https://www.youtube.com/watch?v=3EMdMD1PsgY)
+* [2024-10-14, 16:31:25](https://news.ycombinator.com/item?id=41839095) - [Cargo Airships Are Happening](https://www.elidourado.com/p/airship-industries)
 * [2024-10-14, 15:45:41](https://news.ycombinator.com/item?id=41838604) - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:39:43](https://news.ycombinator.com/item?id=41838547) - [He was sentenced to death. Shaken baby syndrome is at the heart of his appeals](https://www.cnn.com/2024/10/13/us/robert-roberson-execution-shaken-baby-syndrome/index.html)
