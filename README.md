@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
 * [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
-* [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
+* [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 19:36:41](https://news.ycombinator.com/item?id=41852295) - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
 * [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All possible plots by major authors (2020)](https://www.the-fence.com/plots-major-authors/)
-* [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 * [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
 * [2024-10-15, 18:16:52](https://news.ycombinator.com/item?id=41851434) - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2024-10-15, 18:08:15](https://news.ycombinator.com/item?id=41851304) - [Meta's open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
 * [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
 * [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
+* [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 20:04:26](https://news.ycombinator.com/item?id=41852556) - [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 * [2024-10-15, 19:45:31](https://news.ycombinator.com/item?id=41852382) - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
