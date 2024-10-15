@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
-* [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
+* [2024-10-15, 13:04:35](https://news.ycombinator.com/item?id=41848139) - [U.S. Judge Asked to Collect $1.4M Moldovan Judgment Against Cloudflare](https://torrentfreak.com/rightsholders-seek-u-s-help-to-collect-1-4-million-piracy-judgment-against-cloudflare-241014/)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)

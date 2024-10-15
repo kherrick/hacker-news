@@ -10,6 +10,7 @@
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
+* [2024-10-15, 13:04:35](https://news.ycombinator.com/item?id=41848139) - [U.S. Judge Asked to Collect $1.4M Moldovan Judgment Against Cloudflare](https://torrentfreak.com/rightsholders-seek-u-s-help-to-collect-1-4-million-piracy-judgment-against-cloudflare-241014/)
 * [2024-10-15, 12:56:51](https://news.ycombinator.com/item?id=41848088) - [TIL: iTerm2 has custom status bars](https://wompa.land/articles/iterm-status-bar)
 * [2024-10-15, 12:53:56](https://news.ycombinator.com/item?id=41848053) - [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)
 * [2024-10-15, 12:41:53](https://news.ycombinator.com/item?id=41847966) - [Ask HN: Recommendation for LLM-based \"documentation interaction\"](https://news.ycombinator.com/item?id=41847966)
