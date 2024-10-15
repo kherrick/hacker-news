@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 20:04:26](https://news.ycombinator.com/item?id=41852556) - [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 * [2024-10-15, 19:45:31](https://news.ycombinator.com/item?id=41852382) - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
 * [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All possible plots by major authors (2020)](https://www.the-fence.com/plots-major-authors/)
 * [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 * [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
-* [2024-10-15, 18:19:32](https://news.ycombinator.com/item?id=41851467) - [Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:16:52](https://news.ycombinator.com/item?id=41851434) - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2024-10-15, 18:08:15](https://news.ycombinator.com/item?id=41851304) - [Meta's open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
 * [2024-10-15, 17:50:52](https://news.ycombinator.com/item?id=41851104) - [Intel and AMD form advisory group to reshape x86 ISA](https://www.theregister.com/2024/10/15/intel_amd_x86_future/)
