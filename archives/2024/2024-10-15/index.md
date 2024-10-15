@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:56:51](https://news.ycombinator.com/item?id=41848088) - [TIL: iTerm2 has custom status bars](https://wompa.land/articles/iterm-status-bar)
@@ -18,6 +19,7 @@
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
 * [2024-10-15, 07:37:39](https://news.ycombinator.com/item?id=41845885) - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)
 * [2024-10-15, 06:44:44](https://news.ycombinator.com/item?id=41845646) - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
+* [2024-10-15, 06:39:37](https://news.ycombinator.com/item?id=41845624) - [India's Renewable Energy Capacity Hits 200 GW Milestone, Accounts for 46.3%](https://www.ndtvprofit.com/business/india-renewable-energy-hits-200-gw-milestone-46-percent-total-power)
 * [2024-10-15, 06:34:23](https://news.ycombinator.com/item?id=41845596) - [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
 * [2024-10-15, 06:10:25](https://news.ycombinator.com/item?id=41845427) - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
 * [2024-10-15, 05:49:54](https://news.ycombinator.com/item?id=41845325) - [Creating a tiny tensor library in C](https://github.com/apoorvnandan/tensor.h)
