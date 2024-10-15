@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 17:45:27](https://news.ycombinator.com/item?id=41851051) - [Sqlite3 WebAssembly](https://sqlite.org/wasm/doc/trunk/index.md)
 * [2024-10-15, 16:06:29](https://news.ycombinator.com/item?id=41850017) - [The C23 edition of Modern C is now available for free](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 15:57:49](https://news.ycombinator.com/item?id=41849907) - [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 * [2024-10-15, 15:42:27](https://news.ycombinator.com/item?id=41849735) - [OpenAI Is a Bad Business](https://www.wheresyoured.at/oai-business/)
