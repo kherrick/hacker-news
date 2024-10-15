@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-15, 23:12:51",
+      "https://news.ycombinator.com/item?id=41854075"
+    ],
+    [
+      "FreeBSD/EC2 boot performance over time",
+      "https://www.daemonology.net/freebsd-ec2-boot-performance/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 22:32:06",
       "https://news.ycombinator.com/item?id=41853810"
     ],
@@ -267,16 +277,6 @@
     [
       "The Future of Big Iron: An Interview with IBM’s Christian Jacobi",
       "https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 19:25:39",
-      "https://news.ycombinator.com/item?id=41840956"
-    ],
-    [
-      "PEP 762 – REPL-acing the default REPL",
-      "https://peps.python.org/pep-0762/"
     ]
   ],
   [
