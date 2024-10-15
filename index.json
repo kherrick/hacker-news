@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-10-15, 14:11:57",
-      "https://news.ycombinator.com/item?id=41848816"
-    ],
-    [
-      "We discovered the woes of video hosting and built a better system",
-      "https://wistia.com/learn/marketing/video-infrastructure-services"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 14:10:58",
       "https://news.ycombinator.com/item?id=41848804"
     ],
@@ -297,6 +287,16 @@
     [
       "In Jordan, a ‘stunning’ discovery under Petra’s ancient stone",
       "https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 17:45:48",
+      "https://news.ycombinator.com/item?id=41801315"
+    ],
+    [
+      "Show HN: Arch – an intelligent prompt gateway built on Envoy",
+      "https://github.com/katanemo/arch"
     ]
   ]
 ]
