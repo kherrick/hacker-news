@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
