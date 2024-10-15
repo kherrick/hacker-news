@@ -2,6 +2,7 @@
 
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
 * [2024-10-15, 06:44:44](https://news.ycombinator.com/item?id=41845646) - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
+* [2024-10-15, 05:49:54](https://news.ycombinator.com/item?id=41845325) - [Creating a tiny tensor library in C](https://github.com/apoorvnandan/tensor.h)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 * [2024-10-15, 01:57:24](https://news.ycombinator.com/item?id=41844179) - [How to fork](https://joaquimrocha.com/2024/09/22/how-to-fork/)
@@ -24,7 +25,6 @@
 * [2024-10-12, 14:14:30](https://news.ycombinator.com/item?id=41819217) - [A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
-* [2024-10-12, 08:00:01](https://news.ycombinator.com/item?id=41817312) - [The Laurel Wreath](https://rfjblog.wordpress.com/2016/06/13/the-laurel-wreath/)
 * [2024-10-11, 21:25:23](https://news.ycombinator.com/item?id=41813896) - [A Brief History of Defragging](https://eclecticlight.co/2024/10/05/a-brief-history-of-defragging/)
 * [2024-10-11, 18:21:16](https://news.ycombinator.com/item?id=41811900) - [Making FreeDOS Smaller [video]](https://www.youtube.com/watch?v=0zYUHU-ZdqQ)
 * [2024-10-11, 06:31:19](https://news.ycombinator.com/item?id=41806815) - [Remains of an ancient Greek structure found in Croatia](https://arkeonews.net/remains-of-a-3500-year-old-settlement-and-massive-ancient-greek-structure-found-in-croatia/)
