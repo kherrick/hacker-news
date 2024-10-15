@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-10-15, 15:42:27",
+      "https://news.ycombinator.com/item?id=41849735"
+    ],
+    [
+      "OpenAI Is a Bad Business",
+      "https://www.wheresyoured.at/oai-business/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 14:40:54",
       "https://news.ycombinator.com/item?id=41849110"
     ],
@@ -57,16 +67,6 @@
     [
       "Show HN: I built the most over-engineered Deal With It emoji generator",
       "https://emoji.build/deal-with-it-generator/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 13:04:35",
-      "https://news.ycombinator.com/item?id=41848139"
-    ],
-    [
-      "U.S. Judge Asked to Collect $1.4M Moldovan Judgment Against Cloudflare",
-      "https://torrentfreak.com/rightsholders-seek-u-s-help-to-collect-1-4-million-piracy-judgment-against-cloudflare-241014/"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2024-10-14, 22:25:47",
-      "https://news.ycombinator.com/item?id=41842775"
+      "2024-10-14, 21:43:40",
+      "https://news.ycombinator.com/item?id=41842339"
     ],
     [
-      "The Physics of Magic Windows (2021)",
-      "https://mattferraro.dev/posts/caustics-engineering"
+      "A not so fast implementation of cosine similarity in C++ and SIMD",
+      "https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2024-10-14, 18:28:54",
-      "https://news.ycombinator.com/item?id=41840390"
+      "2024-10-14, 18:46:29",
+      "https://news.ycombinator.com/item?id=41840562"
     ],
     [
-      "The three-page paper that shook philosophy: Gettiers in software engineering",
-      "https://jsomers.net/blog/gettiers"
+      "In Jordan, a ‘stunning’ discovery under Petra’s ancient stone",
+      "https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html"
     ]
   ],
   [
     [
-      "2024-10-14, 18:01:08",
-      "https://news.ycombinator.com/item?id=41840082"
+      "2024-10-14, 18:28:54",
+      "https://news.ycombinator.com/item?id=41840390"
     ],
     [
-      "'Islands' of regularity discovered in the famously chaotic three-body problem",
-      "https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html"
+      "Gettiers in software engineering (2019)",
+      "https://jsomers.net/blog/gettiers"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-10-14, 13:11:56",
-      "https://news.ycombinator.com/item?id=41837204"
+      "2024-10-14, 10:18:54",
+      "https://news.ycombinator.com/item?id=41836071"
     ],
     [
-      "Show HN: X11 tool to share a screen area in any video meeting",
-      "https://github.com/splitbrain/clipscreen"
+      "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024",
+      "https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/"
     ]
   ],
   [
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2024-10-12, 20:56:07",
-      "https://news.ycombinator.com/item?id=41822487"
+      "2024-10-13, 04:46:39",
+      "https://news.ycombinator.com/item?id=41825228"
     ],
     [
-      "Interview with Terence Tao in Barcelona",
-      "https://english.elpais.com/science-tech/2024-10-12/terence-tao-mathematician-its-not-good-for-something-as-important-as-ai-to-be-a-monopoly-held-by-one-or-two-companies.html"
+      "Richard F. Burton's Pilgrimage to Medina and Mecca (2013)",
+      "https://www.baumanrarebooks.com/blog/the-story-behind-richard-f-burtons-pilgrimage-to-medina-and-mecca/"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 22:45:44",
+      "https://news.ycombinator.com/item?id=41823385"
+    ],
+    [
+      "Court tells EPA to consider fluoride risk",
+      "https://undark.org/2024/10/07/fluoride-federal-ruling-epa/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2024-10-10, 20:51:14",
-      "https://news.ycombinator.com/item?id=41803457"
-    ],
-    [
-      "Extracting financial disclosure and police reports with OpenAI Structured Output",
-      "https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 18:57:11",
-      "https://news.ycombinator.com/item?id=41802137"
-    ],
-    [
-      "Tiny Table Index: directory of solo and duet tabletop roleplaying games",
-      "https://www.tinytableindex.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 18:14:39",
       "https://news.ycombinator.com/item?id=41801594"
     ],
     [
       "Ask HN: Do you track how your email address is used?",
       "https://news.ycombinator.com/item?id=41801594"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 17:45:48",
+      "https://news.ycombinator.com/item?id=41801315"
+    ],
+    [
+      "Show HN: Arch – an intelligent prompt gateway built on Envoy",
+      "https://github.com/katanemo/arch"
     ]
   ]
 ]
