@@ -6,6 +6,7 @@
 
 * [2024-10-15, 20:04:26](https://news.ycombinator.com/item?id=41852556) - [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 * [2024-10-15, 19:45:31](https://news.ycombinator.com/item?id=41852382) - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
+* [2024-10-15, 19:36:41](https://news.ycombinator.com/item?id=41852295) - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
 * [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All Possible Plots by Major Authors](https://www.the-fence.com/plots-major-authors/)
 * [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
 * [2024-10-15, 18:28:09](https://news.ycombinator.com/item?id=41851569) - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
