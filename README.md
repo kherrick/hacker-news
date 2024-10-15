@@ -2,8 +2,8 @@
 
 * [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
+* [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
-* [2024-10-15, 12:53:56](https://news.ycombinator.com/item?id=41848053) - [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
