@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 12:04:30](https://news.ycombinator.com/item?id=41847656) - [Study: Dark matter doesn't exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 09:57:04](https://news.ycombinator.com/item?id=41846876) - [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
+* [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 09:15:07](https://news.ycombinator.com/item?id=41846613) - [Practical guide for building a blockchain from scratch in Go](https://github.com/volodymyrprokopyuk/go-blockchain)
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
 * [2024-10-15, 07:37:39](https://news.ycombinator.com/item?id=41845885) - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)

@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 12:04:30](https://news.ycombinator.com/item?id=41847656) - [Study: Dark matter doesn't exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
+* [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 06:44:44](https://news.ycombinator.com/item?id=41845646) - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
@@ -17,7 +19,6 @@
 * [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format](https://github.com/spiraldb/vortex)
 * [2024-10-14, 16:52:13](https://news.ycombinator.com/item?id=41839326) - [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
 * [2024-10-14, 16:31:25](https://news.ycombinator.com/item?id=41839095) - [Cargo Airships Are Happening](https://www.elidourado.com/p/airship-industries)
-* [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar](https://busy.bar/?hn)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
@@ -27,7 +28,6 @@
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
-* [2024-10-11, 09:50:29](https://news.ycombinator.com/item?id=41807954) - ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 * [2024-10-09, 04:32:16](https://news.ycombinator.com/item?id=41784521) - [Linear Variable Differential Transformer (LVDT) Basics](https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html)
 
