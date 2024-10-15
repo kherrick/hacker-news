@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
+* [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
@@ -8,7 +9,6 @@
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
-* [2024-10-15, 06:57:37](https://news.ycombinator.com/item?id=41845705) - [The American economy has left other rich countries in the dust](https://www.economist.com/special-report/2024/10/14/the-american-economy-has-left-other-rich-countries-in-the-dust)
 * [2024-10-15, 06:44:44](https://news.ycombinator.com/item?id=41845646) - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [World conker champion found with steel chestnut, cleared of cheating](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-14, 22:25:47](https://news.ycombinator.com/item?id=41842775) - [The Physics of Magic Windows (2021)](https://mattferraro.dev/posts/caustics-engineering)
@@ -26,8 +26,8 @@
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 * [2024-10-14, 07:17:00](https://news.ycombinator.com/item?id=41835040) - [Gosub – An open-source browser engine](https://github.com/gosub-io/gosub-engine)
 * [2024-10-12, 13:35:45](https://news.ycombinator.com/item?id=41818964) - [19th century lions preyed on humans and giraffes](https://phys.org/news/2024-10-hidden-teeth-dna-19th-century.html)
+* [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
-* [2024-10-12, 09:26:51](https://news.ycombinator.com/item?id=41817780) - [MP3 to EXE (1999)](https://www.rarewares.org/rrw/mp3toexe.php)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 * [2024-10-09, 04:32:16](https://news.ycombinator.com/item?id=41784521) - [Linear Variable Differential Transformer (LVDT) Basics](https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html)
 
