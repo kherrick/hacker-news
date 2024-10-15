@@ -45,6 +45,7 @@
 * [2024-10-11, 14:20:26](https://news.ycombinator.com/item?id=41809698) - [Manifest v2 is now removed from Chrome canary](https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline)
 * [2024-10-11, 13:50:36](https://news.ycombinator.com/item?id=41809485) - [Design for Real Life](https://abookdeparts-dfrl.netlify.app)
 * [2024-10-11, 13:49:11](https://news.ycombinator.com/item?id=41809469) - [Elle's Homepage](https://ellesho.me/page/)
+* [2024-10-11, 13:32:37](https://news.ycombinator.com/item?id=41809349) - [0 → 1, Shipping Threads in 5 Months](https://www.infoq.com/presentations/threads-meta/)
 * [2024-10-11, 13:21:41](https://news.ycombinator.com/item?id=41809262) - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 * [2024-10-11, 13:17:15](https://news.ycombinator.com/item?id=41809224) - ['That's a bloodbath': How a federal program kills wildlife for private interests](https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock)
 * [2024-10-11, 13:01:42](https://news.ycombinator.com/item?id=41809107) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
