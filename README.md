@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 06:10:25](https://news.ycombinator.com/item?id=41845427) - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
+* [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 * [2024-10-15, 01:57:24](https://news.ycombinator.com/item?id=41844179) - [How to fork](https://joaquimrocha.com/2024/09/22/how-to-fork/)
@@ -13,7 +15,6 @@
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Commonly used arm positions can overestimate blood pressure readings: study](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)
 * [2024-10-14, 17:34:26](https://news.ycombinator.com/item?id=41839773) - [Show HN: Vortex – a high-performance columnar file format](https://github.com/spiraldb/vortex)
-* [2024-10-14, 16:31:25](https://news.ycombinator.com/item?id=41839095) - [Cargo Airships Are Happening](https://www.elidourado.com/p/airship-industries)
 * [2024-10-14, 15:44:04](https://news.ycombinator.com/item?id=41838589) - [DeepSeek: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333)
 * [2024-10-14, 15:19:12](https://news.ycombinator.com/item?id=41838337) - [Busy Status Bar](https://busy.bar/?hn)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
@@ -26,7 +27,6 @@
 * [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
 * [2024-10-11, 18:21:16](https://news.ycombinator.com/item?id=41811900) - [Making FreeDOS Smaller [video]](https://www.youtube.com/watch?v=0zYUHU-ZdqQ)
-* [2024-10-11, 13:32:37](https://news.ycombinator.com/item?id=41809349) - [Shipping Threads in 5 months](https://www.infoq.com/presentations/threads-meta/)
 * [2024-10-11, 06:31:19](https://news.ycombinator.com/item?id=41806815) - [Remains of an ancient Greek structure found in Croatia](https://arkeonews.net/remains-of-a-3500-year-old-settlement-and-massive-ancient-greek-structure-found-in-croatia/)
 * [2024-10-10, 20:51:14](https://news.ycombinator.com/item?id=41803457) - [Extracting financial disclosure and police reports with OpenAI Structured Output](https://gist.github.com/dannguyen/faaa56cebf30ad51108a9fe4f8db36d8)
 * [2024-10-09, 04:32:16](https://news.ycombinator.com/item?id=41784521) - [Linear Variable Differential Transformer (LVDT) Basics](https://www.te.com/en/products/sensors/position-sensors/resources/lvdt-tutorial.html)
