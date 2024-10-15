@@ -63,6 +63,7 @@
 * [2024-10-13, 05:41:34](https://news.ycombinator.com/item?id=41825473) - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 * [2024-10-13, 05:25:51](https://news.ycombinator.com/item?id=41825387) - [Functional PHP](https://fluffyandflakey.blog/2015/10/22/functional-php/)
 * [2024-10-13, 05:15:31](https://news.ycombinator.com/item?id=41825344) - [Show HN: A Markdown-based alternative to package.json scripts and makefiles](https://github.com/tzador/x.md)
+* [2024-10-13, 04:46:39](https://news.ycombinator.com/item?id=41825228) - [Richard F. Burton's Pilgrimage to Medina and Mecca (2013)](https://www.baumanrarebooks.com/blog/the-story-behind-richard-f-burtons-pilgrimage-to-medina-and-mecca/)
 * [2024-10-13, 03:56:10](https://news.ycombinator.com/item?id=41825041) - [Show HN: A free alternative to Typora –– IF](https://if.openages.com)
 * [2024-10-13, 03:41:34](https://news.ycombinator.com/item?id=41824990) - [The Larkin Soap Company](https://en.wikipedia.org/wiki/Larkin_Company)
 * [2024-10-13, 03:40:36](https://news.ycombinator.com/item?id=41824988) - [Firepad – An embeddable open-source collaborative code and text editor for web](https://firepad.io/)

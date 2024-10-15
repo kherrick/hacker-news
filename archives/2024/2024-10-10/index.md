@@ -30,6 +30,7 @@
 * [2024-10-10, 17:56:11](https://news.ycombinator.com/item?id=41801415) - [TypedDicts are better than you think](https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html)
 * [2024-10-10, 17:47:42](https://news.ycombinator.com/item?id=41801334) - [Show HN: HTML for People](https://htmlforpeople.com)
 * [2024-10-10, 17:47:37](https://news.ycombinator.com/item?id=41801331) - [Microsoft Recall is now an explorer.exe dependency](https://github.com/ChrisTitusTech/winutil/issues/2697)
+* [2024-10-10, 17:45:48](https://news.ycombinator.com/item?id=41801315) - [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 * [2024-10-10, 17:44:55](https://news.ycombinator.com/item?id=41801300) - [Studios: Please Don't Spoil the Movie We Are Seated to See](http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html)
 * [2024-10-10, 17:42:13](https://news.ycombinator.com/item?id=41801271) - [Meteorologists Get Death Threats as Hurricane Conspiracy Theories Thrive](https://www.rollingstone.com/culture/culture-features/hurricane-milton-misinformation-meteorlogist-death-threats-1235130352/)
 * [2024-10-10, 16:50:40](https://news.ycombinator.com/item?id=41800764) - [Game Programming in Prolog](https://thingspool.net/morsels/page-10.html)

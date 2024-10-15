@@ -6,6 +6,7 @@
 
 * [2024-10-12, 23:15:26](https://news.ycombinator.com/item?id=41823582) - [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
 * [2024-10-12, 22:49:47](https://news.ycombinator.com/item?id=41823413) - [About dn42](https://dn42.dev/Home)
+* [2024-10-12, 22:45:44](https://news.ycombinator.com/item?id=41823385) - [Court tells EPA to consider fluoride risk](https://undark.org/2024/10/07/fluoride-federal-ruling-epa/)
 * [2024-10-12, 22:11:16](https://news.ycombinator.com/item?id=41823155) - [New vulnerability in sha256](https://github.com/seccode/Sha256)
 * [2024-10-12, 22:08:01](https://news.ycombinator.com/item?id=41823134) - [Ask HN: What do you think of Theo Browne (a.k.a. t3.gg)?](https://news.ycombinator.com/item?id=41823134)
 * [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
