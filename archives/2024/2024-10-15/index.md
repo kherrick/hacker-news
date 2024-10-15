@@ -6,8 +6,10 @@
 
 * [2024-10-15, 18:16:52](https://news.ycombinator.com/item?id=41851434) - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2024-10-15, 18:08:15](https://news.ycombinator.com/item?id=41851304) - [Meta's open AI hardware vision](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/)
+* [2024-10-15, 18:05:10](https://news.ycombinator.com/item?id=41851274) - [Meteorologists, Please Stop the Fearmongering](https://www.lakeplacidnews.com/opinion/editorials/2019/02/01/meteorologists-please-stop-the-fearmongering/)
 * [2024-10-15, 17:50:52](https://news.ycombinator.com/item?id=41851104) - [Intel and AMD form advisory group to reshape x86 ISA](https://www.theregister.com/2024/10/15/intel_amd_x86_future/)
 * [2024-10-15, 17:45:27](https://news.ycombinator.com/item?id=41851051) - [Sqlite3 WebAssembly](https://sqlite.org/wasm/doc/trunk/index.md)
+* [2024-10-15, 16:57:47](https://news.ycombinator.com/item?id=41850573) - [Fable Is Winding Down](https://www.fable.app/blog/fable-is-winding-down)
 * [2024-10-15, 16:06:29](https://news.ycombinator.com/item?id=41850017) - [The C23 edition of Modern C is now available for free](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 15:57:49](https://news.ycombinator.com/item?id=41849907) - [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 * [2024-10-15, 15:42:27](https://news.ycombinator.com/item?id=41849735) - [OpenAI Is a Bad Business](https://www.wheresyoured.at/oai-business/)
