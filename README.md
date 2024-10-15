@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-15, 04:22:16](https://news.ycombinator.com/item?id=41844914) - [Grandmaster Expelled from Team Chess Championship After Phone Found in Toilet](https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship)
 * [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
@@ -24,7 +25,6 @@
 * [2024-10-12, 15:41:41](https://news.ycombinator.com/item?id=41819907) - [The web I want vs. the one we have](https://daveverse.wordpress.com/2024/10/12/the-web-i-want-vs-the-one-we-have/)
 * [2024-10-12, 12:36:14](https://news.ycombinator.com/item?id=41818624) - [Transmutation of Uranium and Thorium by Neutrons (1939)](https://www.wellesu.com/10.1038/143516b0)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
-* [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
 * [2024-10-11, 19:33:18](https://news.ycombinator.com/item?id=41812762) - [New images show state of preservation of Ernest Shackleton's ship](https://www.theguardian.com/world/2024/oct/10/images-remarkable-preservation-ernest-shackleton-ship-endurance)
 * [2024-10-11, 13:32:37](https://news.ycombinator.com/item?id=41809349) - [Shipping Threads in 5 months](https://www.infoq.com/presentations/threads-meta/)
 * [2024-10-11, 06:31:19](https://news.ycombinator.com/item?id=41806815) - [Remains of an ancient Greek structure found in Croatia](https://arkeonews.net/remains-of-a-3500-year-old-settlement-and-massive-ancient-greek-structure-found-in-croatia/)

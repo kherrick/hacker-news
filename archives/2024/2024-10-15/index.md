@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 04:22:16](https://news.ycombinator.com/item?id=41844914) - [Grandmaster Expelled from Team Chess Championship After Phone Found in Toilet](https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship)
 * [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
