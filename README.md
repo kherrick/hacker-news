@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-15, 20:04:26](https://news.ycombinator.com/item?id=41852556) - [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
-* [2024-10-15, 19:45:31](https://news.ycombinator.com/item?id=41852382) - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
+* [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
 * [2024-10-15, 19:36:41](https://news.ycombinator.com/item?id=41852295) - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
 * [2024-10-15, 19:06:43](https://news.ycombinator.com/item?id=41852009) - [All possible plots by major authors (2020)](https://www.the-fence.com/plots-major-authors/)
 * [2024-10-15, 18:31:08](https://news.ycombinator.com/item?id=41851607) - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
@@ -29,6 +28,7 @@
 * [2024-10-14, 21:43:40](https://news.ycombinator.com/item?id=41842339) - [A not so fast implementation of cosine similarity in C++ and SIMD](https://joseprupi.github.io/misc/2024/07/08/cosine-similarity-simd-implementation.html)
 * [2024-10-14, 19:25:39](https://news.ycombinator.com/item?id=41840956) - [PEP 762 – REPL-acing the default REPL](https://peps.python.org/pep-0762/)
 * [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
+* [2024-10-11, 19:46:07](https://news.ycombinator.com/item?id=41812921) - [Skip Hash: A fast ordered map via software transactional memory](https://arxiv.org/abs/2410.07466)
 * [2024-10-10, 17:45:48](https://news.ycombinator.com/item?id=41801315) - [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 
 ## [Archives](archives/index.md)
