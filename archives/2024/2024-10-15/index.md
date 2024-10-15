@@ -32,6 +32,7 @@
 * [2024-10-15, 06:34:23](https://news.ycombinator.com/item?id=41845596) - [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
 * [2024-10-15, 06:10:25](https://news.ycombinator.com/item?id=41845427) - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
 * [2024-10-15, 05:49:54](https://news.ycombinator.com/item?id=41845325) - [Creating a tiny tensor library in C](https://github.com/apoorvnandan/tensor.h)
+* [2024-10-15, 04:35:37](https://news.ycombinator.com/item?id=41844982) - [Rodents remotely move matter using sound to enhance their sense of smell: study](https://www.buffalo.edu/news/releases/2024/10/rodents-sense-of-smell-nose.html)
 * [2024-10-15, 04:22:16](https://news.ycombinator.com/item?id=41844914) - [Grandmaster Expelled from Team Chess Championship After Phone Found in Toilet](https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship)
 * [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
