@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-15, 20:34:41",
+      "https://news.ycombinator.com/item?id=41852821"
+    ],
+    [
+      "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
+      "https://capibarazero.github.io/docs/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 19:36:41",
       "https://news.ycombinator.com/item?id=41852295"
     ],
@@ -277,16 +287,6 @@
     [
       "In Jordan, a ‘stunning’ discovery under Petra’s ancient stone",
       "https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 19:46:07",
-      "https://news.ycombinator.com/item?id=41812921"
-    ],
-    [
-      "Skip Hash: A fast ordered map via software transactional memory",
-      "https://arxiv.org/abs/2410.07466"
     ]
   ],
   [
