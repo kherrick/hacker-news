@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 15:57:49](https://news.ycombinator.com/item?id=41849907) - [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 * [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
+* [2024-10-15, 14:15:21](https://news.ycombinator.com/item?id=41848851) - [Logging Best Practices: An Engineer's Checklist](https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
