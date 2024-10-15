@@ -8,6 +8,7 @@
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise slows down](https://www.nature.com/articles/d41586-024-03244-1)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:56:51](https://news.ycombinator.com/item?id=41848088) - [TIL: iTerm2 has custom status bars](https://wompa.land/articles/iterm-status-bar)
+* [2024-10-15, 12:53:56](https://news.ycombinator.com/item?id=41848053) - [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)
 * [2024-10-15, 12:41:53](https://news.ycombinator.com/item?id=41847966) - [Ask HN: Recommendation for LLM-based \"documentation interaction\"](https://news.ycombinator.com/item?id=41847966)
 * [2024-10-15, 12:04:30](https://news.ycombinator.com/item?id=41847656) - [Study: Dark matter doesn't exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
