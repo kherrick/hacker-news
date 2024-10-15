@@ -52,6 +52,7 @@
 * [2024-10-12, 13:05:24](https://news.ycombinator.com/item?id=41818775) - [Six transplant patients in Brazil contract HIV from infected organs](https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/)
 * [2024-10-12, 13:03:11](https://news.ycombinator.com/item?id=41818757) - [Show HN: Here's how I steal your SaaS ideas](https://30percent.netlify.app/)
 * [2024-10-12, 12:46:55](https://news.ycombinator.com/item?id=41818676) - [When railroad dining cars were the height of luxury](https://www.cnn.com/2024/10/11/style/europe-railroad-dining-cars-wagons-lits/index.html)
+* [2024-10-12, 12:36:14](https://news.ycombinator.com/item?id=41818624) - [Transmutation of Uranium and Thorium by Neutrons (1939)](https://www.wellesu.com/10.1038/143516b0)
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
 * [2024-10-12, 12:30:34](https://news.ycombinator.com/item?id=41818595) - [FreeBSD: How Can We Make It More Attractive to New Users?](https://gyptazy.com/freebsd-how-can-we-make-it-more-attractive-to-new-users/)
