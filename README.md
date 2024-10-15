@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-15, 06:10:25](https://news.ycombinator.com/item?id=41845427) - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
-* [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 * [2024-10-15, 01:57:24](https://news.ycombinator.com/item?id=41844179) - [How to fork](https://joaquimrocha.com/2024/09/22/how-to-fork/)
@@ -22,6 +21,7 @@
 * [2024-10-12, 21:24:33](https://news.ycombinator.com/item?id=41822769) - [Automating the most annoying aspects of blogging](https://blog.gingerbeardman.com/2024/10/11/automating-the-most-annoying-aspects-of-blogging/)
 * [2024-10-12, 16:53:56](https://news.ycombinator.com/item?id=41820522) - [Deep learning-based detection of qanat water systems using spy satellite imagery](https://www.sciencedirect.com/science/article/pii/S0305440324001213)
 * [2024-10-12, 15:41:41](https://news.ycombinator.com/item?id=41819907) - [The web I want vs. the one we have](https://daveverse.wordpress.com/2024/10/12/the-web-i-want-vs-the-one-we-have/)
+* [2024-10-12, 14:14:30](https://news.ycombinator.com/item?id=41819217) - [A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
 * [2024-10-12, 12:34:55](https://news.ycombinator.com/item?id=41818620) - [Can a biologist fix a radio? What I learned while studying apoptosis (2002) [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 * [2024-10-12, 12:32:29](https://news.ycombinator.com/item?id=41818609) - [Turn your Android phone into a modern ham radio transceiver](https://www.kv4p.com/)
 * [2024-10-12, 03:00:17](https://news.ycombinator.com/item?id=41816035) - [The Wes Cook Archive](https://wescook.art)
