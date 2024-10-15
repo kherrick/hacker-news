@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
+* [2024-10-15, 09:15:07](https://news.ycombinator.com/item?id=41846613) - [Practical guide for building a blockchain from scratch in Go](https://github.com/volodymyrprokopyuk/go-blockchain)
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
 * [2024-10-15, 07:37:39](https://news.ycombinator.com/item?id=41845885) - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)
 * [2024-10-15, 06:44:44](https://news.ycombinator.com/item?id=41845646) - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
