@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-15, 17:45:27",
+      "https://news.ycombinator.com/item?id=41851051"
+    ],
+    [
+      "Sqlite3 WebAssembly",
+      "https://sqlite.org/wasm/doc/trunk/index.md"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 16:06:29",
       "https://news.ycombinator.com/item?id=41850017"
     ],
@@ -27,16 +37,6 @@
     [
       "OpenAI Is a Bad Business",
       "https://www.wheresyoured.at/oai-business/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 14:40:54",
-      "https://news.ycombinator.com/item?id=41849110"
-    ],
-    [
-      "Invisible text that AI chatbots understand and humans can't?",
-      "https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-10-14, 20:07:27",
-      "https://news.ycombinator.com/item?id=41841366"
-    ],
-    [
-      "Splitting engineering teams into defense and offense",
-      "https://www.greptile.com/blog/how-we-engineer"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 19:25:39",
       "https://news.ycombinator.com/item?id=41840956"
     ],
@@ -187,16 +177,6 @@
     [
       "In Jordan, a ‘stunning’ discovery under Petra’s ancient stone",
       "https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 18:28:54",
-      "https://news.ycombinator.com/item?id=41840390"
-    ],
-    [
-      "Gettiers in software engineering (2019)",
-      "https://jsomers.net/blog/gettiers"
     ]
   ],
   [
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2024-10-14, 10:18:54",
-      "https://news.ycombinator.com/item?id=41836071"
+      "2024-10-13, 21:37:45",
+      "https://news.ycombinator.com/item?id=41831861"
     ],
     [
-      "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024",
-      "https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/"
+      "Australian coal plant in 'extraordinary' survival experiment",
+      "https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Skip Hash: A fast ordered map via software transactional memory",
       "https://arxiv.org/abs/2410.07466"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 16:13:16",
+      "https://news.ycombinator.com/item?id=41810786"
+    ],
+    [
+      "A team paid to break into top-secret bases",
+      "https://www.bbc.com/news/articles/c8el64yyppro"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 12:54:03",
+      "https://news.ycombinator.com/item?id=41809051"
+    ],
+    [
+      "Optimize the Data Layout",
+      "https://cedardb.com/blog/optimizing_data_layouts/"
     ]
   ],
   [
