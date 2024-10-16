@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-16, 09:51:30](https://news.ycombinator.com/item?id=41857290) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
+* [2024-10-16, 10:29:34](https://news.ycombinator.com/item?id=41857503) - [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)
 * [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:37:23](https://news.ycombinator.com/item?id=41856883) - [Mullvad VPN: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 * [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
