@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 15:20:08](https://news.ycombinator.com/item?id=41860135) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 14:58:48](https://news.ycombinator.com/item?id=41859842) - [All software in EU under product liability from 2026](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/)
 * [2024-10-16, 14:31:18](https://news.ycombinator.com/item?id=41859466) - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
 * [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
@@ -25,7 +26,6 @@
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:57:54](https://news.ycombinator.com/item?id=41848099) - [Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
-* [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
 * [2024-10-14, 17:26:35](https://news.ycombinator.com/item?id=41839697) - [How ham radio endures](https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/)
