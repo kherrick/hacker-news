@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://petewarden.com/2024/10/16/ai-pcs-arent-very-good-at-ai/)
 * [2024-10-16, 18:48:54](https://news.ycombinator.com/item?id=41862410) - [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
 * [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
 * [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
-* [2024-10-16, 17:57:43](https://news.ycombinator.com/item?id=41861838) - [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
-* [2024-10-16, 17:42:02](https://news.ycombinator.com/item?id=41861689) - [The not-so-glamourous origins of standard railway track gauge (2021)](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
 * [2024-10-16, 17:22:21](https://news.ycombinator.com/item?id=41861498) - [The Great Splunkbundling (2021)](https://rakgarg.substack.com/p/the-great-splunkbundling)
 * [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
@@ -30,6 +29,7 @@
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 19:26:16](https://news.ycombinator.com/item?id=41852190) - [Show HN: 4B+ DNS Records Dataset](https://www.merklemap.com/dns-records-database)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
+* [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
 
 ## [Archives](archives/index.md)
 

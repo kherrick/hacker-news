@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://petewarden.com/2024/10/16/ai-pcs-arent-very-good-at-ai/)
 * [2024-10-16, 18:48:54](https://news.ycombinator.com/item?id=41862410) - [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
 * [2024-10-16, 18:43:05](https://news.ycombinator.com/item?id=41862332) - [Ask HN: Founders, what was the major sourcing channel for your first 100 users?](https://news.ycombinator.com/item?id=41862332)
 * [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
