@@ -129,24 +129,175 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="41863937">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure"
+              >Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-16 @ 21:17:35</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41863600">
+          <h3>
+            <a class="item" href="https://github.com/GreenmaskIO/greenmask"
+              >Show HN: Greenmask 0.2 – Database anonymization tool</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-16 @ 20:37:46</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41863600"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/GreenmaskIO/greenmask"
+                >https://github.com/GreenmaskIO/greenmask</a
+              >). Today Greenmask is almost 1 year and recently we published one
+              of the most significant release with new features:
+              <a
+                href="https://github.com/GreenmaskIO/greenmask/releases/tag/v0.2.0"
+                >https://github.com/GreenmaskIO/greenmask/releases/tag/v0.2.0</a
+              >, as well as a new website at
+              <a href="https://greenmask.io">https://greenmask.io</a>.
+              <p>
+                Before I describe Greenmask’s features, I want to share the
+                story of how and why I started implementing it.
+              </p>
+              <p>
+                Everyone strives to have their staging environment resemble
+                production as closely as possible because it plays a critical
+                role in ensuring quality and improving metrics like time to
+                delivery. To achieve this, many teams have started migrating
+                databases and data from production to staging environments.
+                Obviously this requires anonymizing the data, and for this
+                people use either custom scripts or existing anonymization
+                software.
+              </p>
+              <p>
+                Having worked as a database engineer for 8 years, I frequently
+                struggled with routine tasks like setting up development
+                environments—this was a common request. Initially, I used custom
+                scripts to handle this, but things became increasingly complex
+                as the number of services grew, especially with the rise of
+                microservices architecture.
+              </p>
+              <p>
+                When I began exploring tools to solve this issue, I listed my
+                key expectations for such software: documentation; type safety
+                (the tool should validate any changes to the data); streaming (I
+                want the ability to stream the data while transformations are
+                being applied); consistency (transformations must maintain
+                constraints, functional dependencies, and more); reliability;
+                customizability; interactivity and usability; simplicity.
+              </p>
+              <p>
+                I found a few options, but none fully met my expectations. Two
+                interesting tools I discovered were pganonymizer and replibyte.
+                I liked the architecture of Replibyte, but when I tried it, it
+                failed due to architectural limitations.
+              </p>
+              <p>
+                With these thoughts in mind, I began developing Greenmask in
+                mid-2023. My goal was to create a tool that meets all of these
+                requirements, based on the design principles I laid out. Here
+                are some key highlights:
+              </p>
+              <p>
+                * It is a single utility - Greenmask delegates the schema dump
+                to vendor utilities and takes responsibility only for data dumps
+                and transformations.
+              </p>
+              <p>
+                * Database Subset (<a
+                  href="https://docs.greenmask.io/latest/database_subset"
+                  >https://docs.greenmask.io/latest/database_subset</a
+                >) - specify the subset condition and scale down size. We did a
+                deep research in graph algorithms and now we can subset almost
+                any complexity of database.
+              </p>
+              <p>
+                * Database type safety - it uses the DBMS driver to decode and
+                encode data into real types (such as int, float, etc.) in the
+                stream. This guarantees consistency and almost eliminates the
+                chance of corrupted dumps.
+              </p>
+              <p>
+                * Deterministic engine (<a
+                  href="https://docs.greenmask.io/latest/built_in_transformers/transformation_engines/#hash-engine"
+                  >https://docs.greenmask.io/latest/built_in_transformers/trans...</a
+                >) - generate data using the hash engine that produces
+                consistent output for the same input.
+              </p>
+              <p>
+                * Dynamic parameters for transformers (<a
+                  href="https://docs.greenmask.io/latest/built_in_transformers/dynamic_parameters"
+                  >https://docs.greenmask.io/latest/built_in_transformers/dynam...</a
+                >) - imagine having created_at and updated_at dates with
+                functional dependencies. Dynamic parameters ensure these dates
+                are generated correctly.
+              </p>
+              <p>
+                We are actively maintaining the current project and continuously
+                improving it—our public roadmap at
+                <a href="https://github.com/orgs/GreenmaskIO/projects/6"
+                  >https://github.com/orgs/GreenmaskIO/projects/6</a
+                >. Soon, we will release a Python library along with
+                transformation collections to help users develop their own
+                complex transformations and integrate them with any service. We
+                have plans to support more database engines, with MySQL being
+                the next one, and we are working on tools which will integrate
+                seamlessly with your CI/CD systems.
+              </p>
+              <p>
+                To get started, we’ve prepared a playground for you that can be
+                easily set up using Docker Compose:
+                <a href="https://docs.greenmask.io/latest/playground/"
+                  >https://docs.greenmask.io/latest/playground/</a
+                >
+              </p>
+              <p>I’d love to hear any questions or feedback from you!</p>
+            </div>
+          </section>
+        </section>
         <section id="41863398">
           <h3>
             <a class="item" href="https://github.com/hugohadfield/kalmangrad"
-              >Automated smooth N'th order derivatives of noisy, non-uniformly
-              sampled data</a
+              >Show HN: Automated smooth Nth order derivatives of noisy data</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-10-16 @ 20:17:46</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41863398"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://github.com/hugohadfield/bayesfilter/"
+                >https://github.com/hugohadfield/bayesfilter/</a
+              >) so this felt like a fun and very useful first thing to try it
+              out on! If people find kalmangrad useful I would be more than
+              happy to add a few more features etc. and I would be very grateful
+              if people sent in any bugs they spot.. Thanks!
+            </div>
           </section>
         </section>
         <section id="41863392">
@@ -161,11 +312,11 @@
             <h4>
               <span>2024-10-16 @ 20:17:13</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41863392"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -183,11 +334,11 @@
             <h4>
               <span>2024-10-16 @ 20:06:58</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41863278"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -204,11 +355,11 @@
             <h4>
               <span>2024-10-16 @ 19:44:02</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41863061"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -224,11 +375,11 @@
             <h4>
               <span>2024-10-16 @ 18:48:54</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41862410"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
             <div class="text">
@@ -256,49 +407,6 @@
               </p>
               <p>Appreciate any comments/feedback/contributions.</p>
             </div>
-          </section>
-        </section>
-        <section id="41862103">
-          <h3>
-            <a
-              class="item"
-              href="https://www.countryhighpoints.com/mt-rainier-elevation-survey/"
-              >Mt Rainier Elevation Survey</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-16 @ 18:24:50</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41862103"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41861628">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum"
-              >Ireland's big school secret: how a year off-curriculum changes
-              teenage lives</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-16 @ 17:36:00</span
-              ><span class="points-container"
-                >Points: <span class="points">99</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41861628"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="41861498">
@@ -334,7 +442,7 @@
             <h4>
               <span>2024-10-16 @ 17:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41861442"
                   >Comments</a
@@ -343,21 +451,99 @@
             </h4>
           </section>
         </section>
-        <section id="41861301">
+        <section id="41861430">
           <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr"
-              >Artie (YC S23) Is Hiring Founding BDRs</a
+            <a class="item" href="https://news.ycombinator.com/item?id=41861430"
+              >Show HN: Automated code instrumentation for structured events</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-16 @ 17:00:03</span
+              <span>2024-10-16 @ 17:13:58</span
               ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41861430"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <a href="http://invaria.io">http://invaria.io</a>. Observability
+              is built on telemetry (metrics, logs and traces). Telemetry data
+              quality is often poor because instrumenting code is still a time
+              consuming task which requires a lot of hand-finishing. We believe
+              that structured event data is the right end goal, and we’re
+              starting by making it easier to get there using structured
+              logging.
+              <p>
+                For our Launch HN (Aug), we set up a demo instance with
+                pre-baked results. We wanted to go further to allow HN readers
+                to give the product a proper test drive.
+                <a href="https://open.invaria.io">https://open.invaria.io</a>
+                includes some pre-analysed OSS (Go, TS and Python) repos (no
+                sign-in required). It also allows users to enroll additional OSS
+                repos (limited to Go for now) that they’d like to see analysed
+                (magic link sign-in required for this to allow us to manage
+                state). The demo focuses on batch analysis of existing repos,
+                providing an overview of instrumentation health, line-level code
+                improvements with rationale, and related GH pull request
+                examples (in practice these are usually bundles of many
+                changes). A quick video here to help you find your way:
+                <a href="https://youtu.be/IM9EFl4gwVs"
+                  >https://youtu.be/IM9EFl4gwVs</a
+                >. Any questions, please email us at founders@invaria.io.
+              </p>
+              <p>
+                Since our last post, we’ve been iterating with our first
+                customer/design partner in order to drive up the quality and
+                consistency of outputs. We’re hitting 85% change acceptance rate
+                with our customer on their main Go repo (1m+ LoC, 1000s of
+                logging statements). Logs are their main telemetry source for
+                debugging, and they want structured logs as standard. Yielding
+                consistent results from LLMs is hard (no news there), and that’s
+                been a big focus for us since our Launch HN. Breaking down
+                prompts, refining the context we fetch from the syntax tree, and
+                providing examples is where we have focused efforts.
+              </p>
+              <p>
+                We’re building Invaria because getting high quality telemetry
+                from applications is still time-consuming and hard. We discuss
+                it here in more detail:
+                <a href="https://www.invaria.io/post/your-telemetry-is-garbage"
+                  >https://www.invaria.io/post/your-telemetry-is-garbage</a
+                >. OpenTelemetry has helped bridge the gap, but the event data
+                that comes from auto-instrumented tracing, e.g. at the API
+                level, is not enough for the typical (imperfect) application.
+                It’s usually necessary to manually add further span and
+                attributes, and to clean up any logging that’s burned into
+                spans.
+              </p>
+              <p>
+                We’re starting with logging statements as the simplest form of
+                event-level telemetry. Invaria can upgrade existing logging
+                statements, and instrument key events with new statements. The
+                demo instance demonstrates ‘batch mode’ on legacy code, and we
+                are beta testing a CI-time integration right now. The goal is to
+                automate instrumentation at the CI step, so that developers can
+                focus on the creative engineering work.
+              </p>
+              <p>
+                Once again, your honest feedback would mean a lot to us. We have
+                a lot of conviction that observability needs a shake up and that
+                better outcomes require higher data quality. We’d love to hear
+                what you think works and doesn’t work in our current approaches,
+                and whether Invaria solves a problem for you.
+              </p>
+              <p>
+                A note on the name change: we really like the name Patchwork,
+                but there are several other software companies/products with
+                similar names. It caused some confusion during launches. We like
+                invariant, a word borrowed from the control theory domain. We
+                thought making high quality telemetry a constant was a nice
+                mission statement.
+              </p>
+            </div>
           </section>
         </section>
         <section id="41861056">
@@ -373,11 +559,11 @@
             <h4>
               <span>2024-10-16 @ 16:34:15</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41861056"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -395,11 +581,11 @@
             <h4>
               <span>2024-10-16 @ 16:18:39</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41860909"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
             <div class="text">
@@ -419,7 +605,7 @@
             <h4>
               <span>2024-10-16 @ 16:11:49</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41860810"
                   >Comments</a
@@ -477,11 +663,32 @@
             <h4>
               <span>2024-10-16 @ 15:20:08</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41860135"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41859968">
+          <h3>
+            <a
+              class="item"
+              href="https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto"
+              >Making the Python back end for my new webapp</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-16 @ 15:08:56</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41859968"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -497,11 +704,11 @@
             <h4>
               <span>2024-10-16 @ 14:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41859805"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -516,11 +723,11 @@
             <h4>
               <span>2024-10-16 @ 14:31:18</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41859466"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -537,11 +744,11 @@
             <h4>
               <span>2024-10-16 @ 13:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41859012"
                   >Comments</a
-                ><span class="descendants">: 339</span></span
+                ><span class="descendants">: 352</span></span
               >
             </h4>
           </section>
@@ -556,7 +763,7 @@
             <h4>
               <span>2024-10-16 @ 13:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41858975"
                   >Comments</a
@@ -578,11 +785,11 @@
             <h4>
               <span>2024-10-16 @ 13:32:36</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41858863"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -600,11 +807,11 @@
             <h4>
               <span>2024-10-16 @ 13:09:04</span
               ><span class="points-container"
-                >Points: <span class="points">1020</span></span
+                >Points: <span class="points">1030</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41858665"
                   >Comments</a
-                ><span class="descendants">: 495</span></span
+                ><span class="descendants">: 498</span></span
               >
             </h4>
           </section>
@@ -643,7 +850,7 @@
             <h4>
               <span>2024-10-16 @ 12:04:27</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41858099"
                   >Comments</a
@@ -665,11 +872,11 @@
             <h4>
               <span>2024-10-16 @ 03:25:14</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41855307"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -690,48 +897,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41854405"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41853117">
-          <h3>
-            <a
-              class="item"
-              href="https://matklad.github.io/2024/09/06/fix-one-level-deeper.html"
-              >Try to fix it one level deeper</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-15 @ 21:05:31</span
-              ><span class="points-container"
-                >Points: <span class="points">97</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41853117"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41852821">
-          <h3>
-            <a class="item" href="https://capibarazero.github.io/docs/"
-              >CapibaraZero: A cheap alternative to FlipperZero based on
-              ESP32-S3</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-15 @ 20:34:41</span
-              ><span class="points-container"
-                >Points: <span class="points">364</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41852821"
-                  >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -749,11 +915,31 @@
             <h4>
               <span>2024-10-15 @ 12:18:36</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41847787"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 117</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41846623">
+          <h3>
+            <a class="item" href="https://speakmyvoice.com"
+              >Show HN: With SpeakMyVoice, you're always part of the
+              conversation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-15 @ 09:16:36</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41846623"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -768,7 +954,7 @@
             <h4>
               <span>2024-10-15 @ 07:37:37</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41845884"
                   >Comments</a
@@ -789,7 +975,7 @@
             <h4>
               <span>2024-10-15 @ 06:50:51</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41845669"
                   >Comments</a
@@ -808,7 +994,7 @@
             <h4>
               <span>2024-10-14 @ 17:25:50</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41839686"
                   >Comments</a
