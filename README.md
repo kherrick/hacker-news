@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 09:51:30](https://news.ycombinator.com/item?id=41857290) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
+* [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:37:23](https://news.ycombinator.com/item?id=41856883) - [Mullvad VPN: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 * [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
 * [2024-10-16, 01:37:12](https://news.ycombinator.com/item?id=41854801) - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-* [2024-10-16, 01:23:46](https://news.ycombinator.com/item?id=41854749) - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 * [2024-10-16, 00:15:22](https://news.ycombinator.com/item?id=41854405) - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
 * [2024-10-15, 23:12:51](https://news.ycombinator.com/item?id=41854075) - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
 * [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)

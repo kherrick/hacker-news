@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
 * [2024-10-16, 09:51:30](https://news.ycombinator.com/item?id=41857290) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
+* [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:37:23](https://news.ycombinator.com/item?id=41856883) - [Mullvad: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 * [2024-10-16, 08:13:11](https://news.ycombinator.com/item?id=41856738) - [Since spring of 2023, the world has been warmer than climate models anticipated](https://e360.yale.edu/features/gavin-schmidt-interview)
 * [2024-10-16, 05:56:06](https://news.ycombinator.com/item?id=41856008) - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
