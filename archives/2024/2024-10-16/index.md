@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
+* [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
 * [2024-10-16, 16:13:26](https://news.ycombinator.com/item?id=41860835) - [The open future of networking hardware for AI](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/)
 * [2024-10-16, 15:20:08](https://news.ycombinator.com/item?id=41860135) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 15:08:56](https://news.ycombinator.com/item?id=41859968) - [What I Learned from Making the Python Back End for My New Webapp](https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto)
