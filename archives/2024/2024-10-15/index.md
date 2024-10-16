@@ -6,6 +6,7 @@
 
 * [2024-10-15, 23:12:51](https://news.ycombinator.com/item?id=41854075) - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
 * [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
+* [2024-10-15, 22:27:17](https://news.ycombinator.com/item?id=41853780) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why Don't We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
 * [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
@@ -42,6 +43,7 @@
 * [2024-10-15, 12:53:56](https://news.ycombinator.com/item?id=41848053) - [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)
 * [2024-10-15, 12:41:53](https://news.ycombinator.com/item?id=41847966) - [Ask HN: Recommendation for LLM-based \"documentation interaction\"](https://news.ycombinator.com/item?id=41847966)
 * [2024-10-15, 12:39:42](https://news.ycombinator.com/item?id=41847948) - [Show HN: MacProxy Plus – Surf the Modern Web on Vintage Computers](https://github.com/hunterirving/macproxy_plus)
+* [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
 * [2024-10-15, 12:04:30](https://news.ycombinator.com/item?id=41847656) - [Study: Dark matter doesn't exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
