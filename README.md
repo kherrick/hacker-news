@@ -26,7 +26,7 @@
 * [2024-10-16, 00:15:22](https://news.ycombinator.com/item?id=41854405) - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
-* [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
+* [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 09:16:36](https://news.ycombinator.com/item?id=41846623) - [Show HN: SpeakMyVoice – App for people with vocal or speech difficulties](https://speakmyvoice.com)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
