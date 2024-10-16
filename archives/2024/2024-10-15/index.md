@@ -6,6 +6,7 @@
 
 * [2024-10-15, 23:12:51](https://news.ycombinator.com/item?id=41854075) - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
 * [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
+* [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why Don't We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
 * [2024-10-15, 21:34:47](https://news.ycombinator.com/item?id=41853355) - [Boeing to Sell at Least $10B in Shares to Plug Cash Drain](https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116)
 * [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
