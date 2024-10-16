@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-16, 05:56:06](https://news.ycombinator.com/item?id=41856008) - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
-* [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server: A Step-by-Step Guide](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
+* [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
 * [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 01:37:12](https://news.ycombinator.com/item?id=41854801) - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 * [2024-10-16, 01:23:46](https://news.ycombinator.com/item?id=41854749) - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
@@ -24,6 +23,7 @@
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
+* [2024-10-15, 10:14:41](https://news.ycombinator.com/item?id=41846986) - [Forscape – A Language and Editor for Scientific Computation](https://github.com/JohnDTill/Forscape)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
 * [2024-10-14, 17:26:35](https://news.ycombinator.com/item?id=41839697) - [How ham radio endures](https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/)
