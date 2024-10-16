@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 16:13:26](https://news.ycombinator.com/item?id=41860835) - [The open future of networking hardware for AI](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/)
 * [2024-10-16, 15:20:08](https://news.ycombinator.com/item?id=41860135) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
+* [2024-10-16, 15:08:56](https://news.ycombinator.com/item?id=41859968) - [What I Learned from Making the Python Back End for My New Webapp](https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto)
 * [2024-10-16, 14:58:48](https://news.ycombinator.com/item?id=41859842) - [All software in EU under product liability from 2026](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/)
 * [2024-10-16, 14:56:22](https://news.ycombinator.com/item?id=41859805) - [Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://nvlabs.github.io/Sana/)
 * [2024-10-16, 14:31:18](https://news.ycombinator.com/item?id=41859466) - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
