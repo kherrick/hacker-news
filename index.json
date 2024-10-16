@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-16, 03:36:36",
+      "https://news.ycombinator.com/item?id=41855366"
+    ],
+    [
+      "National Archives Pushes Google Gemini AI on Employees",
+      "https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 03:08:01",
       "https://news.ycombinator.com/item?id=41855217"
     ],
     [
       "Plutocrat Archipelagos",
       "https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 02:46:29",
+      "https://news.ycombinator.com/item?id=41855117"
+    ],
+    [
+      "Rebooting the Arsenal of Democracy",
+      "https://www.rebootingthearsenal.com"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-10-16, 01:04:21",
-      "https://news.ycombinator.com/item?id=41854671"
+      "2024-10-16, 01:23:46",
+      "https://news.ycombinator.com/item?id=41854749"
     ],
     [
-      "Man who scammed country out of $130M using mobile game facing 89,000 years",
-      "https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008"
+      "The richest people borrow against their stock (2021)",
+      "https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2024-10-15, 22:11:35",
+      "https://news.ycombinator.com/item?id=41853637"
+    ],
+    [
+      "Why don't we use awnings anymore (2022)",
+      "https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 21:45:32",
       "https://news.ycombinator.com/item?id=41853441"
     ],
@@ -97,16 +127,6 @@
     [
       "All possible plots by major authors (2020)",
       "https://www.the-fence.com/plots-major-authors/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 18:28:09",
-      "https://news.ycombinator.com/item?id=41851569"
-    ],
-    [
-      "The Sundial Cannon of Åtvidaberg (2017)",
-      "https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-10-15, 12:39:42",
-      "https://news.ycombinator.com/item?id=41847948"
-    ],
-    [
-      "Show HN: MacProxy Plus – Surf the Modern Web on Vintage Computers",
-      "https://github.com/hunterirving/macproxy_plus"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 12:01:59",
       "https://news.ycombinator.com/item?id=41847640"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2024-10-15, 09:42:29",
-      "https://news.ycombinator.com/item?id=41846780"
-    ],
-    [
-      "Web Browser Engineering (2021)",
-      "https://browser.engineering/index.html"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 09:18:16",
       "https://news.ycombinator.com/item?id=41846636"
     ],
     [
       "Show HN: Pumpkin – A Modern Minecraft server written in Rust",
       "https://github.com/Snowiiii/Pumpkin"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 09:13:07",
-      "https://news.ycombinator.com/item?id=41846592"
-    ],
-    [
-      "The Future of Big Iron: An Interview with IBM’s Christian Jacobi",
-      "https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2024-10-13, 21:37:45",
+      "https://news.ycombinator.com/item?id=41831861"
+    ],
+    [
+      "Australian coal plant in 'extraordinary' survival experiment",
+      "https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 18:22:42",
+      "https://news.ycombinator.com/item?id=41830247"
+    ],
+    [
+      "Cofounder Mode: My tactical guide to finding a cofounder",
+      "https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 05:15:31",
       "https://news.ycombinator.com/item?id=41825344"
     ],
     [
       "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
       "https://github.com/tzador/x.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 12:54:03",
-      "https://news.ycombinator.com/item?id=41809051"
-    ],
-    [
-      "Optimize the Data Layout",
-      "https://cedardb.com/blog/optimizing_data_layouts/"
     ]
   ]
 ]
