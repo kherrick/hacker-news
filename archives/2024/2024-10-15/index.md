@@ -54,6 +54,7 @@
 * [2024-10-15, 09:57:04](https://news.ycombinator.com/item?id=41846876) - [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)
 * [2024-10-15, 09:42:29](https://news.ycombinator.com/item?id=41846780) - [Web Browser Engineering](https://browser.engineering/index.html)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
+* [2024-10-15, 09:16:36](https://news.ycombinator.com/item?id=41846623) - [Show HN: With SpeakMyVoice, you're always part of the conversation](https://speakmyvoice.com)
 * [2024-10-15, 09:15:07](https://news.ycombinator.com/item?id=41846613) - [Practical guide for building a blockchain from scratch in Go](https://github.com/volodymyrprokopyuk/go-blockchain)
 * [2024-10-15, 09:13:07](https://news.ycombinator.com/item?id=41846592) - [The Future of Big Iron: An Interview with IBM’s Christian Jacobi](https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and)
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)

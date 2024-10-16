@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 21:17:35](https://news.ycombinator.com/item?id=41863937) - [Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
+* [2024-10-16, 20:37:46](https://news.ycombinator.com/item?id=41863600) - [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-10-16, 20:17:46](https://news.ycombinator.com/item?id=41863398) - [Automated smooth N'th order derivatives of noisy, non-uniformly sampled data](https://github.com/hugohadfield/kalmangrad)
 * [2024-10-16, 20:17:13](https://news.ycombinator.com/item?id=41863392) - [Foyle: You build it, AI should run it](https://future.mozilla.org/builders/news_insights/foyle-you-build-it-ai-should-run-it/)
 * [2024-10-16, 20:06:58](https://news.ycombinator.com/item?id=41863278) - [Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
@@ -19,6 +21,7 @@
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
 * [2024-10-16, 17:22:21](https://news.ycombinator.com/item?id=41861498) - [The Great Splunkbundling (2021)](https://rakgarg.substack.com/p/the-great-splunkbundling)
 * [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [75x faster: optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
+* [2024-10-16, 17:13:58](https://news.ycombinator.com/item?id=41861430) - [Show HN: Automated code instrumentation for structured events](https://news.ycombinator.com/item?id=41861430)
 * [2024-10-16, 17:00:03](https://news.ycombinator.com/item?id=41861301) - [Artie (YC S23) Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
 * [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
 * [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
