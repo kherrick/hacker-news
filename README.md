@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 20:17:46](https://news.ycombinator.com/item?id=41863398) - [Automated smooth N'th order derivatives of noisy, non-uniformly sampled data](https://github.com/hugohadfield/kalmangrad)
+* [2024-10-16, 20:17:13](https://news.ycombinator.com/item?id=41863392) - [Foyle: You build it, AI should run it](https://future.mozilla.org/builders/news_insights/foyle-you-build-it-ai-should-run-it/)
 * [2024-10-16, 20:06:58](https://news.ycombinator.com/item?id=41863278) - [Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
 * [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
 * [2024-10-16, 18:48:54](https://news.ycombinator.com/item?id=41862410) - [Show HN: Citizen – A Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
@@ -21,9 +23,7 @@
 * [2024-10-16, 12:32:09](https://news.ycombinator.com/item?id=41858331) - [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 * [2024-10-16, 12:04:27](https://news.ycombinator.com/item?id=41858099) - [Reinventing Core Data Development with SwiftData Principles](https://fatbobman.com/en/posts/reinventing-core-data-development-with-swiftdata-principles/)
 * [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
-* [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-16, 00:15:22](https://news.ycombinator.com/item?id=41854405) - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
-* [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why don't we use awnings anymore (2022)](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 20:17:46](https://news.ycombinator.com/item?id=41863398) - [Automated smooth N'th order derivatives of noisy, non-uniformly sampled data](https://github.com/hugohadfield/kalmangrad)
+* [2024-10-16, 20:17:13](https://news.ycombinator.com/item?id=41863392) - [Foyle: You build it, AI should run it](https://future.mozilla.org/builders/news_insights/foyle-you-build-it-ai-should-run-it/)
 * [2024-10-16, 20:06:58](https://news.ycombinator.com/item?id=41863278) - [Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
 * [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://petewarden.com/2024/10/16/ai-pcs-arent-very-good-at-ai/)
 * [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
