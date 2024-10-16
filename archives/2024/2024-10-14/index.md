@@ -38,6 +38,7 @@
 * [2024-10-14, 17:28:20](https://news.ycombinator.com/item?id=41839719) - [Teaching the Largest Programming Lesson](https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson)
 * [2024-10-14, 17:27:14](https://news.ycombinator.com/item?id=41839705) - [WordPress Doesn't Matter for the Future of Web](https://molodtsov.me/2024/10/wordpress-doesnt-matter-for-the-future-of-web/)
 * [2024-10-14, 17:26:35](https://news.ycombinator.com/item?id=41839697) - [How ham radio endures](https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/)
+* [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
 * [2024-10-14, 17:25:47](https://news.ycombinator.com/item?id=41839685) - [Platybelodon](https://en.wikipedia.org/wiki/Platybelodon)
 * [2024-10-14, 17:18:20](https://news.ycombinator.com/item?id=41839618) - [Accelerating ZFS with Copy Offloading: BRT](https://klarasystems.com/articles/accelerating-zfs-with-copy-offloading-brt/)
 * [2024-10-14, 16:52:13](https://news.ycombinator.com/item?id=41839326) - [Furilabs Linux Phone](https://furilabs.com/shop/flx1/)
