@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:32:36](https://news.ycombinator.com/item?id=41858863) - [Amazon buys stake in nuclear energy developer in push to power data centres](https://www.ft.com/content/00776191-b010-4104-add4-8dc430386911)

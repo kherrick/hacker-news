@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
@@ -25,7 +26,6 @@
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
-* [2024-10-14, 18:46:29](https://news.ycombinator.com/item?id=41840562) - [In Jordan, a ‘stunning’ discovery under Petra’s ancient stone](https://www.nytimes.com/2024/10/14/world/petra-tomb-discovered-jordan.html)
 * [2024-10-14, 17:26:35](https://news.ycombinator.com/item?id=41839697) - [How ham radio endures](https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/)
 * [2024-10-13, 21:37:45](https://news.ycombinator.com/item?id=41831861) - [Australian coal plant in 'extraordinary' survival experiment](https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504)
 * [2024-10-13, 18:22:42](https://news.ycombinator.com/item?id=41830247) - [Cofounder Mode: My tactical guide to finding a cofounder](https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder)
