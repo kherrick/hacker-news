@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 17:00:03](https://news.ycombinator.com/item?id=41861301) - [Artie (YC S23) Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
 * [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
 * [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
 * [2024-10-16, 16:13:26](https://news.ycombinator.com/item?id=41860835) - [The open future of networking hardware for AI](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/)
@@ -26,6 +27,7 @@
 * [2024-10-16, 11:50:43](https://news.ycombinator.com/item?id=41858018) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-16, 11:09:51](https://news.ycombinator.com/item?id=41857754) - [The Internet Archive and its 916B saved web pages are back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
 * [2024-10-16, 10:29:34](https://news.ycombinator.com/item?id=41857503) - [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)
+* [2024-10-16, 10:21:16](https://news.ycombinator.com/item?id=41857450) - [Show HN: LinkedIn Hype Crew](https://news.ycombinator.com/item?id=41857450)
 * [2024-10-16, 09:51:30](https://news.ycombinator.com/item?id=41857290) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:37:23](https://news.ycombinator.com/item?id=41856883) - [Mullvad: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
