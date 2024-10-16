@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 14:58:48](https://news.ycombinator.com/item?id=41859842) - [All software in EU under product liability from 2026](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/)
 * [2024-10-16, 14:31:18](https://news.ycombinator.com/item?id=41859466) - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
 * [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
