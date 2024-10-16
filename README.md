@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
-* [2024-10-16, 13:32:36](https://news.ycombinator.com/item?id=41858863) - [Amazon buys stake in nuclear energy developer in push to power data centres](https://www.ft.com/content/00776191-b010-4104-add4-8dc430386911)
+* [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
 * [2024-10-16, 12:28:52](https://news.ycombinator.com/item?id=41858304) - [Hell Freezes over as AMD and Intel Come Together for x86 – ServeTheHome](https://www.servethehome.com/hell-freezes-over-amd-and-intel-come-together-ocp/)
 * [2024-10-16, 11:09:51](https://news.ycombinator.com/item?id=41857754) - [The Internet Archive is back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
