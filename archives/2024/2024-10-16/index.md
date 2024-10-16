@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 14:31:18](https://news.ycombinator.com/item?id=41859466) - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
 * [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:32:36](https://news.ycombinator.com/item?id=41858863) - [Amazon buys stake in nuclear energy developer in push to power data centres](https://www.ft.com/content/00776191-b010-4104-add4-8dc430386911)
 * [2024-10-16, 13:30:49](https://news.ycombinator.com/item?id=41858854) - [Show HN: Engine – AI-powered IDE in the browser](https://app.enginelabs.ai/)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
+* [2024-10-16, 12:32:09](https://news.ycombinator.com/item?id=41858331) - [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 * [2024-10-16, 12:29:04](https://news.ycombinator.com/item?id=41858307) - [Intel spends more on R&D than Nvidia and AMD combined](https://www.tomshardware.com/tech-industry/intel-spends-more-on-r-and-d-than-nvidia-and-amd-combined-yet-continues-to-lag-in-market-cap-nvidia-spends-almost-2x-more-than-amd)
 * [2024-10-16, 12:28:52](https://news.ycombinator.com/item?id=41858304) - [Hell Freezes over as AMD and Intel Come Together for x86 – ServeTheHome](https://www.servethehome.com/hell-freezes-over-amd-and-intel-come-together-ocp/)
 * [2024-10-16, 12:11:52](https://news.ycombinator.com/item?id=41858162) - [Tesla needs to come clean about HW3 before the word 'fraud' comes out](https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-before-the-word-fraud-comes-out/)

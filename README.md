@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 14:31:18](https://news.ycombinator.com/item?id=41859466) - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
 * [2024-10-16, 14:22:35](https://news.ycombinator.com/item?id=41859345) - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
+* [2024-10-16, 12:32:09](https://news.ycombinator.com/item?id=41858331) - [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 * [2024-10-16, 12:28:52](https://news.ycombinator.com/item?id=41858304) - [Hell Freezes over as AMD and Intel Come Together for x86 – ServeTheHome](https://www.servethehome.com/hell-freezes-over-amd-and-intel-come-together-ocp/)
 * [2024-10-16, 11:50:43](https://news.ycombinator.com/item?id=41858018) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-16, 11:09:51](https://news.ycombinator.com/item?id=41857754) - [The Internet Archive is back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
@@ -23,13 +25,11 @@
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:57:54](https://news.ycombinator.com/item?id=41848099) - [Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
-* [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 09:18:16](https://news.ycombinator.com/item?id=41846636) - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
 * [2024-10-14, 17:26:35](https://news.ycombinator.com/item?id=41839697) - [How ham radio endures](https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/)
 * [2024-10-13, 21:37:45](https://news.ycombinator.com/item?id=41831861) - [Australian coal plant in 'extraordinary' survival experiment](https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504)
 * [2024-10-13, 18:22:42](https://news.ycombinator.com/item?id=41830247) - [Cofounder Mode: My tactical guide to finding a cofounder](https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder)
-* [2024-10-13, 05:15:31](https://news.ycombinator.com/item?id=41825344) - [Show HN: A Markdown-based alternative to package.json scripts and makefiles](https://github.com/tzador/x.md)
 
 ## [Archives](archives/index.md)
 
