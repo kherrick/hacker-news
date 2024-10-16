@@ -13,6 +13,7 @@
 * [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:37:23](https://news.ycombinator.com/item?id=41856883) - [Mullvad: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 * [2024-10-16, 08:13:11](https://news.ycombinator.com/item?id=41856738) - [Since spring of 2023, the world has been warmer than climate models anticipated](https://e360.yale.edu/features/gavin-schmidt-interview)
+* [2024-10-16, 07:03:13](https://news.ycombinator.com/item?id=41856330) - [Digital River runs dry, hasn't paid developers for sales since July](https://www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/)
 * [2024-10-16, 05:56:06](https://news.ycombinator.com/item?id=41856008) - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
 * [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server: A Step-by-Step Guide](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
 * [2024-10-16, 04:07:22](https://news.ycombinator.com/item?id=41855512) - [Let Google Decide](https://cupofsquid.com/post/not-real/)
