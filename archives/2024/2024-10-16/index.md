@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
 * [2024-10-16, 17:42:02](https://news.ycombinator.com/item?id=41861689) - [The not-so-glamourous origins of standard railway track gauge (2021)](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
 * [2024-10-16, 17:40:31](https://news.ycombinator.com/item?id=41861673) - [Turkish Journalists Are Now 'Telling the Xinjiang Story Well' for Beijing](https://jamestown.org/program/turkish-journalists-are-now-telling-the-xinjiang-story-well-for-beijing/)
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)

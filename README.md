@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
 * [2024-10-16, 17:42:02](https://news.ycombinator.com/item?id=41861689) - [The not-so-glamourous origins of standard railway track gauge (2021)](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
 * [2024-10-16, 17:22:21](https://news.ycombinator.com/item?id=41861498) - [The Great Splunkbundling (2021)](https://rakgarg.substack.com/p/the-great-splunkbundling)
@@ -27,7 +28,6 @@
 * [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why don't we use awnings anymore (2022)](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
-* [2024-10-15, 16:06:29](https://news.ycombinator.com/item?id=41850017) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
 
