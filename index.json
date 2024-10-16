@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 14:31:18",
+      "https://news.ycombinator.com/item?id=41859466"
+    ],
+    [
+      "Un Ministral, Des Ministraux",
+      "https://mistral.ai/news/ministraux/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 14:22:35",
       "https://news.ycombinator.com/item?id=41859345"
     ],
@@ -37,6 +47,16 @@
     [
       "FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions",
       "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 12:32:09",
+      "https://news.ycombinator.com/item?id=41858331"
+    ],
+    [
+      "The early days of peer review: five insights from historic reports",
+      "https://www.nature.com/articles/d41586-024-03287-4"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-10-15, 11:30:14",
-      "https://news.ycombinator.com/item?id=41847407"
-    ],
-    [
-      "Show HN: Mermaid ASCII Diagrams",
-      "https://mermaid-ascii.art/"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 09:18:16",
       "https://news.ycombinator.com/item?id=41846636"
     ],
@@ -287,16 +297,6 @@
     [
       "Cofounder Mode: My tactical guide to finding a cofounder",
       "https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 05:15:31",
-      "https://news.ycombinator.com/item?id=41825344"
-    ],
-    [
-      "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
-      "https://github.com/tzador/x.md"
     ]
   ]
 ]
