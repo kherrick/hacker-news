@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 18:48:54](https://news.ycombinator.com/item?id=41862410) - [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
-* [2024-10-16, 18:43:05](https://news.ycombinator.com/item?id=41862332) - [Ask HN: Founders, what was the major sourcing channel for your first 100 users?](https://news.ycombinator.com/item?id=41862332)
 * [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
 * [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 * [2024-10-16, 17:57:43](https://news.ycombinator.com/item?id=41861838) - [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
@@ -26,6 +25,7 @@
 * [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-16, 00:15:22](https://news.ycombinator.com/item?id=41854405) - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
+* [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why don't we use awnings anymore (2022)](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
 * [2024-10-15, 19:26:16](https://news.ycombinator.com/item?id=41852190) - [Show HN: 4B+ DNS Records Dataset](https://www.merklemap.com/dns-records-database)
