@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 17:40:31](https://news.ycombinator.com/item?id=41861673) - [Turkish Journalists Are Now 'Telling the Xinjiang Story Well' for Beijing](https://jamestown.org/program/turkish-journalists-are-now-telling-the-xinjiang-story-well-for-beijing/)
 * [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [75x faster: optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 17:00:03](https://news.ycombinator.com/item?id=41861301) - [Artie (YC S23) Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
 * [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
