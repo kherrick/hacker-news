@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 20:06:58",
+      "https://news.ycombinator.com/item?id=41863278"
+    ],
+    [
+      "Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol",
+      "https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 19:44:02",
       "https://news.ycombinator.com/item?id=41863061"
     ],
@@ -27,16 +37,6 @@
     [
       "Mt Rainier Elevation Survey",
       "https://www.countryhighpoints.com/mt-rainier-elevation-survey/"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 18:18:07",
-      "https://news.ycombinator.com/item?id=41862028"
-    ],
-    [
-      "We Outsmarted CSGO Cheaters with IdentityLogger",
-      "https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-10-16, 09:02:25",
-      "https://news.ycombinator.com/item?id=41857032"
-    ],
-    [
-      "FLOSS/fund for free and open source projects",
-      "https://floss.fund/blog/announcing-floss-fund/"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 03:25:14",
       "https://news.ycombinator.com/item?id=41855307"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2024-10-15, 22:11:35",
-      "https://news.ycombinator.com/item?id=41853637"
-    ],
-    [
-      "Why don't we use awnings anymore (2022)",
-      "https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 21:05:31",
       "https://news.ycombinator.com/item?id=41853117"
     ],
@@ -271,16 +251,6 @@
   ],
   [
     [
-      "2024-10-15, 19:26:16",
-      "https://news.ycombinator.com/item?id=41852190"
-    ],
-    [
-      "Show HN: 4B+ DNS Records Dataset",
-      "https://www.merklemap.com/dns-records-database"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 12:18:36",
       "https://news.ycombinator.com/item?id=41847787"
     ],
@@ -291,12 +261,42 @@
   ],
   [
     [
-      "2024-10-15, 12:01:59",
-      "https://news.ycombinator.com/item?id=41847640"
+      "2024-10-15, 07:37:37",
+      "https://news.ycombinator.com/item?id=41845884"
     ],
     [
-      "Asterinas: OS kernel written in Rust and providing Linux-compatible ABI",
-      "https://github.com/asterinas/asterinas"
+      "Perspectives on Floating Point",
+      "https://www.eigentales.com/Floating-Point/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 06:50:51",
+      "https://news.ycombinator.com/item?id=41845669"
+    ],
+    [
+      "Jank development update – Moving to LLVM IR",
+      "https://jank-lang.org/blog/2024-10-14-llvm-ir/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 05:49:32",
+      "https://news.ycombinator.com/item?id=41845322"
+    ],
+    [
+      "10B Integers Walk into an Array",
+      "https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 17:25:50",
+      "https://news.ycombinator.com/item?id=41839686"
+    ],
+    [
+      "Ichigo: Local real-time voice AI",
+      "https://github.com/homebrewltd/ichigo"
     ]
   ]
 ]
