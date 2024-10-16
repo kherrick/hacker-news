@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-10-15, 20:34:41",
-      "https://news.ycombinator.com/item?id=41852821"
-    ],
-    [
-      "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
-      "https://capibarazero.github.io/docs/"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 12:18:36",
       "https://news.ycombinator.com/item?id=41847787"
     ],
@@ -287,6 +277,16 @@
     [
       "Jank development update – Moving to LLVM IR",
       "https://jank-lang.org/blog/2024-10-14-llvm-ir/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 05:35:30",
+      "https://news.ycombinator.com/item?id=41845256"
+    ],
+    [
+      "Ask HN: How do you add guard rails in LLM response without breaking streaming?",
+      "https://news.ycombinator.com/item?id=41845256"
     ]
   ],
   [
