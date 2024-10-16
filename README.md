@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 05:56:06](https://news.ycombinator.com/item?id=41856008) - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
-* [2024-10-16, 04:07:22](https://news.ycombinator.com/item?id=41855512) - [Let Google decide](https://cupofsquid.com/post/not-real/)
 * [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 01:37:12](https://news.ycombinator.com/item?id=41854801) - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 * [2024-10-16, 01:23:46](https://news.ycombinator.com/item?id=41854749) - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
@@ -19,6 +18,7 @@
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple introduces iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
 * [2024-10-15, 14:10:58](https://news.ycombinator.com/item?id=41848804) - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
 * [2024-10-15, 13:39:08](https://news.ycombinator.com/item?id=41848482) - [Life expectancy rise in rich countries slows down: took 30 years to prove](https://www.nature.com/articles/d41586-024-03244-1)
+* [2024-10-15, 13:10:49](https://news.ycombinator.com/item?id=41848209) - [Big advance on simple-sounding math problem was a century in the making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 * [2024-10-15, 13:05:05](https://news.ycombinator.com/item?id=41848150) - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 * [2024-10-15, 12:57:54](https://news.ycombinator.com/item?id=41848099) - [Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
