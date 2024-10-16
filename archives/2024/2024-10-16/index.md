@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [75x faster: optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 17:00:03](https://news.ycombinator.com/item?id=41861301) - [Artie (YC S23) Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
 * [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
 * [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
@@ -41,6 +42,7 @@
 * [2024-10-16, 03:08:01](https://news.ycombinator.com/item?id=41855217) - [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
 * [2024-10-16, 02:46:29](https://news.ycombinator.com/item?id=41855117) - [Rebooting the Arsenal of Democracy](https://www.rebootingthearsenal.com)
 * [2024-10-16, 02:32:13](https://news.ycombinator.com/item?id=41855063) - [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)
+* [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-16, 01:37:12](https://news.ycombinator.com/item?id=41854801) - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 * [2024-10-16, 01:23:46](https://news.ycombinator.com/item?id=41854749) - [How the Richest People Can Access Billions Without Selling Their Stock](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 * [2024-10-16, 01:04:21](https://news.ycombinator.com/item?id=41854671) - [Man who scammed country out of $130M using mobile game facing 89,000 years](https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008)
