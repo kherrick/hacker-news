@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
 * [2024-10-16, 03:36:36](https://news.ycombinator.com/item?id=41855366) - [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
+* [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 03:08:01](https://news.ycombinator.com/item?id=41855217) - [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
 * [2024-10-16, 02:46:29](https://news.ycombinator.com/item?id=41855117) - [Rebooting the Arsenal of Democracy](https://www.rebootingthearsenal.com)
 * [2024-10-16, 02:32:13](https://news.ycombinator.com/item?id=41855063) - [Rogue Legacy code is now source available](https://twitter.com/CellarDoorGames/status/1846246914406195662)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 03:36:36](https://news.ycombinator.com/item?id=41855366) - [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
+* [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 03:08:01](https://news.ycombinator.com/item?id=41855217) - [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
 * [2024-10-16, 02:46:29](https://news.ycombinator.com/item?id=41855117) - [Rebooting the Arsenal of Democracy](https://www.rebootingthearsenal.com)
-* [2024-10-16, 01:37:12](https://news.ycombinator.com/item?id=41854801) - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
 * [2024-10-16, 01:23:46](https://news.ycombinator.com/item?id=41854749) - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 * [2024-10-16, 00:33:48](https://news.ycombinator.com/item?id=41854518) - [Internet Archive Services are \"temporarily offline\"](https://archive.org/)
 * [2024-10-16, 00:15:22](https://news.ycombinator.com/item?id=41854405) - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
