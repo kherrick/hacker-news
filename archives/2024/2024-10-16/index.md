@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 18:48:54](https://news.ycombinator.com/item?id=41862410) - [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
 * [2024-10-16, 18:43:05](https://news.ycombinator.com/item?id=41862332) - [Ask HN: Founders, what was the major sourcing channel for your first 100 users?](https://news.ycombinator.com/item?id=41862332)
 * [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
 * [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
+* [2024-10-16, 17:57:43](https://news.ycombinator.com/item?id=41861838) - [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
 * [2024-10-16, 17:42:02](https://news.ycombinator.com/item?id=41861689) - [The not-so-glamourous origins of standard railway track gauge (2021)](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
 * [2024-10-16, 17:40:31](https://news.ycombinator.com/item?id=41861673) - [Turkish Journalists Are Now 'Telling the Xinjiang Story Well' for Beijing](https://jamestown.org/program/turkish-journalists-are-now-telling-the-xinjiang-story-well-for-beijing/)
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
