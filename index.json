@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-16, 01:04:21",
+      "https://news.ycombinator.com/item?id=41854671"
+    ],
+    [
+      "Man who scammed country out of $130M using mobile game facing 89,000 years",
+      "https://www.uniladtech.com/news/man-scammed-country-farm-bank-game-prison-768966-20241008"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 00:33:48",
+      "https://news.ycombinator.com/item?id=41854518"
+    ],
+    [
+      "Internet Archive Services are \"temporarily offline\"",
+      "https://archive.org/"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 00:15:22",
+      "https://news.ycombinator.com/item?id=41854405"
+    ],
+    [
+      "Redbox left PII on decommissioned machines",
+      "https://digipres.club/@foone/113313955144323780"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 23:12:51",
       "https://news.ycombinator.com/item?id=41854075"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2024-10-15, 19:36:41",
-      "https://news.ycombinator.com/item?id=41852295"
-    ],
-    [
-      "Seeing God and Burning Plastic",
-      "https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 19:06:43",
       "https://news.ycombinator.com/item?id=41852009"
     ],
     [
       "All possible plots by major authors (2020)",
       "https://www.the-fence.com/plots-major-authors/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 18:31:08",
-      "https://news.ycombinator.com/item?id=41851607"
-    ],
-    [
-      "Dbt – Incremental but Incomplete",
-      "https://tobikodata.com/dbt-incremental-but-incomplete.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The C23 edition of Modern C",
       "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 15:57:49",
-      "https://news.ycombinator.com/item?id=41849907"
-    ],
-    [
-      "Command AI Bought by Amplitude",
-      "https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan",
       "https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 12:39:42",
-      "https://news.ycombinator.com/item?id=41847948"
-    ],
-    [
-      "Show HN: MacProxy Plus – Surf the Modern Web on Vintage Computers",
-      "https://github.com/hunterirving/macproxy_plus"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-10-10, 17:45:48",
-      "https://news.ycombinator.com/item?id=41801315"
+      "2024-10-13, 05:15:31",
+      "https://news.ycombinator.com/item?id=41825344"
     ],
     [
-      "Show HN: Arch – an intelligent prompt gateway built on Envoy",
-      "https://github.com/katanemo/arch"
+      "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
+      "https://github.com/tzador/x.md"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 12:54:03",
+      "https://news.ycombinator.com/item?id=41809051"
+    ],
+    [
+      "Optimize the Data Layout",
+      "https://cedardb.com/blog/optimizing_data_layouts/"
     ]
   ]
 ]
