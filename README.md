@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-16, 18:24:50](https://news.ycombinator.com/item?id=41862103) - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
+* [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 * [2024-10-16, 17:42:02](https://news.ycombinator.com/item?id=41861689) - [The not-so-glamourous origins of standard railway track gauge (2021)](https://garethdennis.medium.com/the-not-so-glamourous-origins-of-standard-track-gauge-2b5f1ae7e3bc)
 * [2024-10-16, 17:36:00](https://news.ycombinator.com/item?id=41861628) - [Ireland's big school secret: how a year off-curriculum changes teenage lives](https://www.theguardian.com/lifeandstyle/2024/oct/16/ireland-school-secret-transition-year-off-curriculum)
 * [2024-10-16, 17:22:21](https://news.ycombinator.com/item?id=41861498) - [The Great Splunkbundling (2021)](https://rakgarg.substack.com/p/the-great-splunkbundling)
@@ -19,7 +20,6 @@
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC announces \"click-to-cancel\" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
 * [2024-10-16, 12:32:09](https://news.ycombinator.com/item?id=41858331) - [The early days of peer review: five insights from historic reports](https://www.nature.com/articles/d41586-024-03287-4)
 * [2024-10-16, 12:04:27](https://news.ycombinator.com/item?id=41858099) - [Reinventing Core Data Development with SwiftData Principles](https://fatbobman.com/en/posts/reinventing-core-data-development-with-swiftdata-principles/)
-* [2024-10-16, 10:21:16](https://news.ycombinator.com/item?id=41857450) - [Show HN: LinkedIn Hype Crew](https://news.ycombinator.com/item?id=41857450)
 * [2024-10-16, 09:02:25](https://news.ycombinator.com/item?id=41857032) - [FLOSS/fund for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
