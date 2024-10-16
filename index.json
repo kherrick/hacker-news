@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-10-16, 12:29:04",
-      "https://news.ycombinator.com/item?id=41858307"
-    ],
-    [
-      "Intel spends more on R&D than Nvidia and AMD combined",
-      "https://www.tomshardware.com/tech-industry/intel-spends-more-on-r-and-d-than-nvidia-and-amd-combined-yet-continues-to-lag-in-market-cap-nvidia-spends-almost-2x-more-than-amd"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 11:09:51",
       "https://news.ycombinator.com/item?id=41857754"
     ],
     [
       "The Internet Archive is back online",
       "https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 10:29:34",
-      "https://news.ycombinator.com/item?id=41857503"
-    ],
-    [
-      "Commission concludes that X should not be designated under the DMA",
-      "https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324"
     ]
   ],
   [
@@ -51,6 +31,16 @@
   ],
   [
     [
+      "2024-10-16, 07:03:13",
+      "https://news.ycombinator.com/item?id=41856330"
+    ],
+    [
+      "Digital River runs dry, hasn't paid developers for sales since July",
+      "https://www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 01:37:12",
       "https://news.ycombinator.com/item?id=41854801"
     ],
@@ -67,16 +57,6 @@
     [
       "Redbox left PII on decommissioned machines",
       "https://digipres.club/@foone/113313955144323780"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 23:12:51",
-      "https://news.ycombinator.com/item?id=41854075"
-    ],
-    [
-      "FreeBSD/EC2 boot performance over time",
-      "https://www.daemonology.net/freebsd-ec2-boot-performance/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "The Sundial Cannon of Åtvidaberg (2017)",
       "https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 17:45:27",
+      "https://news.ycombinator.com/item?id=41851051"
+    ],
+    [
+      "Sqlite3 WebAssembly",
+      "https://sqlite.org/wasm/doc/trunk/index.md"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: Mermaid ASCII Diagrams",
       "https://mermaid-ascii.art/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 10:14:41",
+      "https://news.ycombinator.com/item?id=41846986"
+    ],
+    [
+      "Forscape – A Language and Editor for Scientific Computation",
+      "https://github.com/JohnDTill/Forscape"
     ]
   ],
   [
