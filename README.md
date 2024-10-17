@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
+* [2024-10-17, 05:06:59](https://news.ycombinator.com/item?id=41866583) - [Easily Self-Host Next.js](https://quicky.dev)
 * [2024-10-17, 04:06:51](https://news.ycombinator.com/item?id=41866328) - [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
-* [2024-10-17, 01:15:57](https://news.ycombinator.com/item?id=41865512) - [Redbox's Insane Bankruptcy Unwinding](https://sherwood.news/business/inside-redboxs-insane-bankruptcy/)
 * [2024-10-17, 01:15:46](https://news.ycombinator.com/item?id=41865511) - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
 * [2024-10-16, 22:46:37](https://news.ycombinator.com/item?id=41864632) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-16, 22:31:58](https://news.ycombinator.com/item?id=41864515) - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
@@ -21,7 +21,7 @@
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC announces \"click-to-cancel\" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
-* [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
+* [2024-10-15, 16:58:58](https://news.ycombinator.com/item?id=41850589) - [Migrating from Create React App to Vite](https://klimer.eu/2024/07/06/migrating-from-create-react-app-to-vite/)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
