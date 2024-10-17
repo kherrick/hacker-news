@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:09:43](https://news.ycombinator.com/item?id=41871506) - [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
+* [2024-10-17, 17:09:03](https://news.ycombinator.com/item?id=41871499) - [Ask HN: Why is there not more concern about the physical security of Cloudflare?](https://news.ycombinator.com/item?id=41871499)
 * [2024-10-17, 17:00:07](https://news.ycombinator.com/item?id=41871427) - [The Shroud of Turin: History and Legends](https://michaelshermer.substack.com/p/the-shroud-of-turin)
 * [2024-10-17, 16:57:49](https://news.ycombinator.com/item?id=41871403) - [The Kew Herbarium (2019)](https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
