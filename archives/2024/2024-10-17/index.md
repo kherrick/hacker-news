@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
+* [2024-10-17, 14:23:32](https://news.ycombinator.com/item?id=41869962) - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent:I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
+* [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-17, 11:15:26](https://news.ycombinator.com/item?id=41868467) - [Magnet-free induction motor aims to nearly halve carbon emissions](https://newatlas.com/automotive/mahle-valeo-magnet-free-induction-motor/)
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
 * [2024-10-17, 10:10:49](https://news.ycombinator.com/item?id=41868090) - [Meta fires staff for 'using free meal vouchers to buy household goods'](https://www.theguardian.com/technology/2024/oct/17/meta-fires-staff-free-meal-vouchers-buy-household-goods)
