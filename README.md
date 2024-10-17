@@ -2,7 +2,7 @@
 
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
-* [2024-10-17, 08:20:34](https://news.ycombinator.com/item?id=41867503) - [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
+* [2024-10-17, 11:15:26](https://news.ycombinator.com/item?id=41868467) - [Magnet-free induction motor aims to nearly halve carbon emissions](https://newatlas.com/automotive/mahle-valeo-magnet-free-induction-motor/)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 05:43:59](https://news.ycombinator.com/item?id=41866752) - [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
 * [2024-10-17, 05:42:06](https://news.ycombinator.com/item?id=41866742) - [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
