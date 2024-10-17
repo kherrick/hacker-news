@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 08:46:01](https://news.ycombinator.com/item?id=41867626) - [X isn't important enough to feel the full force of EU regulation](https://www.theregister.com/2024/10/17/eu_x_dma_regulation/)
 * [2024-10-17, 08:42:03](https://news.ycombinator.com/item?id=41867608) - [Raspberry Pi 3 fastboot in less than 2 seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 * [2024-10-17, 08:20:34](https://news.ycombinator.com/item?id=41867503) - [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 07:38:31](https://news.ycombinator.com/item?id=41867294) - [Show HN: I'm building a Product Hunt alternative, it's 4 days old](https://www.launching.today/)
