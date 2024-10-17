@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 22:21:15",
+      "https://news.ycombinator.com/item?id=41874394"
+    ],
+    [
+      "C++ proposal: There are 8 bits in a byte",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 22:03:01",
       "https://news.ycombinator.com/item?id=41874275"
     ],
@@ -17,6 +27,16 @@
     [
       "The Prompt() Function: Use the Power of LLMs with SQL",
       "https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 20:47:50",
+      "https://news.ycombinator.com/item?id=41873614"
+    ],
+    [
+      "ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones",
+      "https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Unit tests as documentation",
       "https://www.thecoder.cafe/p/unit-tests-as-documentation"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 17:09:43",
-      "https://news.ycombinator.com/item?id=41871506"
-    ],
-    [
-      "Rethinking School Design",
-      "https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Emit",
       "https://re.factorcode.org/2024/10/emit.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 18:08:52",
-      "https://news.ycombinator.com/item?id=41840175"
-    ],
-    [
-      "Makerfaire Ottawa: Rule 110 (2015)",
-      "https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html"
     ]
   ],
   [
