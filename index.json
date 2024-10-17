@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-16, 23:31:32",
+      "https://news.ycombinator.com/item?id=41864947"
+    ],
+    [
+      "Show HN: Clean News - A cleaner curation of world news events",
+      "https://cleannews.fyi"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 22:31:58",
+      "https://news.ycombinator.com/item?id=41864515"
+    ],
+    [
+      "Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction",
+      "https://lotus3d.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 21:17:35",
       "https://news.ycombinator.com/item?id=41863937"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-10-16, 12:32:09",
-      "https://news.ycombinator.com/item?id=41858331"
-    ],
-    [
-      "The early days of peer review: five insights from historic reports",
-      "https://www.nature.com/articles/d41586-024-03287-4"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 12:04:27",
       "https://news.ycombinator.com/item?id=41858099"
     ],
@@ -217,26 +227,6 @@
     [
       "Reflections on Palantir",
       "https://nabeelqu.substack.com/p/reflections-on-palantir"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 00:15:22",
-      "https://news.ycombinator.com/item?id=41854405"
-    ],
-    [
-      "Redbox left PII on decommissioned machines",
-      "https://digipres.club/@foone/113313955144323780"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 20:34:41",
-      "https://news.ycombinator.com/item?id=41852821"
-    ],
-    [
-      "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
-      "https://capibarazero.github.io/docs/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ask HN: How do you add guard rails in LLM response without breaking streaming?",
       "https://news.ycombinator.com/item?id=41845256"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 05:30:09",
+      "https://news.ycombinator.com/item?id=41845232"
+    ],
+    [
+      "Cell-Based Architecture Enhances Modern Distributed Systems",
+      "https://www.infoq.com/articles/cell-based-architecture-distributed-systems/"
     ]
   ],
   [
