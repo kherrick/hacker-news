@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 18:15:33](https://news.ycombinator.com/item?id=41872156) - [How to Tax the Rich: Piketty](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/)
+* [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
@@ -18,10 +20,8 @@
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-16, 22:46:37](https://news.ycombinator.com/item?id=41864632) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
-* [2024-10-16, 13:52:55](https://news.ycombinator.com/item?id=41859047) - [Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
 * [2024-10-15, 22:53:35](https://news.ycombinator.com/item?id=41853942) - [How I failed to make a game: Raycasting on the GBA](https://mcejp.github.io/2024/10/16/gba-raycasting.html)
 * [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
-* [2024-10-15, 20:51:28](https://news.ycombinator.com/item?id=41852971) - [The Rise and Fall of Matchbox's Toy-Car Empire](https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/)
 * [2024-10-15, 12:15:55](https://news.ycombinator.com/item?id=41847754) - [Trapped](https://vaaal88.itch.io/trapped)
 * [2024-10-15, 06:03:25](https://news.ycombinator.com/item?id=41845397) - [RoRvsWild Ruby Documentation Theme](https://www.rorvswild.com/blog/2024/rorvswild-rdoc-theme)
 * [2024-10-15, 03:28:52](https://news.ycombinator.com/item?id=41844624) - [Unicode uses elephants as baseline comparison of cultural frequency for emoji](https://www.unicode.org/emoji/proposals.html#frequency-evidence)

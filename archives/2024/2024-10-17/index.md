@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 18:15:33](https://news.ycombinator.com/item?id=41872156) - [How to Tax the Rich: Piketty](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/)
+* [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
