@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
+* [2024-10-17, 21:07:48](https://news.ycombinator.com/item?id=41873801) - [The Prompt() Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
 * [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 20:03:28](https://news.ycombinator.com/item?id=41873215) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
@@ -15,7 +16,6 @@
 * [2024-10-17, 16:18:32](https://news.ycombinator.com/item?id=41871068) - [Pg_parquet: An extension to connect Postgres and parquet](https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
-* [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
