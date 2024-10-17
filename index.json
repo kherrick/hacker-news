@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 20:03:28",
+      "https://news.ycombinator.com/item?id=41873215"
+    ],
+    [
+      "Removing PGP from PyPI",
+      "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 20:02:05",
       "https://news.ycombinator.com/item?id=41873204"
     ],
@@ -67,16 +77,6 @@
     [
       "AI Mathematical Olympiad – Progress Prize 2",
       "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 16:57:49",
-      "https://news.ycombinator.com/item?id=41871403"
-    ],
-    [
-      "The Kew Herbarium (2019)",
-      "https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Gamedev in Lisp. Part 2: Dungeons and Interfaces",
       "https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 13:12:43",
-      "https://news.ycombinator.com/item?id=41869359"
-    ],
-    [
-      "Evaluation quirks, metric pitfalls and some recommendations",
-      "https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Emit",
       "https://re.factorcode.org/2024/10/emit.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 18:08:52",
+      "https://news.ycombinator.com/item?id=41840175"
+    ],
+    [
+      "Makerfaire Ottawa: Rule 110 (2015)",
+      "https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html"
     ]
   ],
   [
