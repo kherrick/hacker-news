@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-17, 10:18:09",
+      "https://news.ycombinator.com/item?id=41868143"
+    ],
+    [
+      "My experiences with Automattic: Part 3",
+      "https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 09:28:18",
+      "https://news.ycombinator.com/item?id=41867861"
+    ],
+    [
+      "EV battery prices to fall by nearly 50 pct and near ICE parity by 2026",
+      "https://thedriven.io/2024/10/16/ev-battery-prices-to-fall-by-nearly-50-pct-and-near-ice-parity-by-2026-says-goldman-sachs/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 08:46:01",
       "https://news.ycombinator.com/item?id=41867626"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-10-16, 20:06:58",
-      "https://news.ycombinator.com/item?id=41863278"
-    ],
-    [
-      "Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol",
-      "https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 19:44:02",
       "https://news.ycombinator.com/item?id=41863061"
     ],
@@ -137,16 +147,6 @@
     [
       "We outsmarted CSGO cheaters with IdentityLogger",
       "https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 17:15:24",
-      "https://news.ycombinator.com/item?id=41861442"
-    ],
-    [
-      "Optimizing the Ion compiler back end",
-      "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-10-15, 20:51:28",
+      "https://news.ycombinator.com/item?id=41852971"
+    ],
+    [
+      "The Rise and Fall of Matchbox's Toy-Car Empire",
+      "https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 16:58:58",
       "https://news.ycombinator.com/item?id=41850589"
     ],
@@ -277,16 +287,6 @@
     [
       "Cell-Based Architecture Enhances Modern Distributed Systems",
       "https://www.infoq.com/articles/cell-based-architecture-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:25:50",
-      "https://news.ycombinator.com/item?id=41839686"
-    ],
-    [
-      "Ichigo: Local real-time voice AI",
-      "https://github.com/homebrewltd/ichigo"
     ]
   ],
   [
