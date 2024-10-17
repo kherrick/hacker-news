@@ -57,6 +57,7 @@
 * [2024-10-14, 13:59:26](https://news.ycombinator.com/item?id=41837607) - [Ask HN: Solopreneurs, how did you come up with your idea?](https://news.ycombinator.com/item?id=41837607)
 * [2024-10-14, 13:57:21](https://news.ycombinator.com/item?id=41837592) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:11:56](https://news.ycombinator.com/item?id=41837204) - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
+* [2024-10-14, 13:09:17](https://news.ycombinator.com/item?id=41837171) - [Zero to custom MacroPad in 37 easy steps [video]](https://www.youtube.com/watch?v=PetCHwrCgGk&list=PLvpUCOCK8jv3PU4pR0Gunug12xrJHWhxj)
 * [2024-10-14, 12:31:26](https://news.ycombinator.com/item?id=41836903) - [Sound Lab – A Simple Analogue Synthesiser](http://www.technoblogy.com/show?4MGW)
 * [2024-10-14, 12:18:10](https://news.ycombinator.com/item?id=41836824) - [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
 * [2024-10-14, 12:10:59](https://news.ycombinator.com/item?id=41836769) - [Avoiding a Geopolitical open-source Apocalypse](https://thenewstack.io/avoiding-a-geopolitical-open-source-apocalypse/)
