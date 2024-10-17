@@ -24,11 +24,11 @@
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
+* [2024-10-15, 07:44:42](https://news.ycombinator.com/item?id=41845934) - [H2tunnel – ngrok alternative for Node.js in 600 LOC and no dependencies](https://github.com/boronine/h2tunnel)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-15, 05:30:09](https://news.ycombinator.com/item?id=41845232) - [Cell-Based Architecture Enhances Modern Distributed Systems](https://www.infoq.com/articles/cell-based-architecture-distributed-systems/)
 * [2024-10-15, 04:33:46](https://news.ycombinator.com/item?id=41844962) - [A Man and the Crowd (1928)](https://publicdomainreview.org/essay/the-man-and-the-crowd/)
 * [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
-* [2024-10-14, 09:59:37](https://news.ycombinator.com/item?id=41835957) - [10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)
 * [2024-10-12, 14:14:30](https://news.ycombinator.com/item?id=41819217) - [A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
 
 ## [Archives](archives/index.md)

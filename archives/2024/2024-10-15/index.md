@@ -62,6 +62,7 @@
 * [2024-10-15, 09:13:07](https://news.ycombinator.com/item?id=41846592) - [The Future of Big Iron: An Interview with IBM’s Christian Jacobi](https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and)
 * [2024-10-15, 09:03:21](https://news.ycombinator.com/item?id=41846539) - [Show HN: MynaUI Icons – 1180 Beautifully Crafted Open Source Icons](https://mynaui.com/icons)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
+* [2024-10-15, 07:44:42](https://news.ycombinator.com/item?id=41845934) - [H2tunnel – ngrok alternative for Node.js in 600 LOC and no dependencies](https://github.com/boronine/h2tunnel)
 * [2024-10-15, 07:37:39](https://news.ycombinator.com/item?id=41845885) - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)
 * [2024-10-15, 07:37:37](https://news.ycombinator.com/item?id=41845884) - [Perspectives on Floating Point](https://www.eigentales.com/Floating-Point/)
 * [2024-10-15, 06:57:37](https://news.ycombinator.com/item?id=41845705) - [The American economy has left other rich countries in the dust](https://www.economist.com/special-report/2024/10/14/the-american-economy-has-left-other-rich-countries-in-the-dust)
