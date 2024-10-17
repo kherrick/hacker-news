@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-17, 08:20:34",
+      "https://news.ycombinator.com/item?id=41867503"
+    ],
+    [
+      "UndefinedBehaviorSanitizer's Unexpected Behavior",
+      "https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 05:55:04",
       "https://news.ycombinator.com/item?id=41866802"
     ],
     [
       "Escaping the Chrome Sandbox Through DevTools",
       "https://ading.dev/blog/posts/chrome_sandbox_escape.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 05:42:06",
+      "https://news.ycombinator.com/item?id=41866742"
+    ],
+    [
+      "OpenVMM – A New VMM for Windows and Linux, Written in Rust",
+      "https://github.com/microsoft/openvmm"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure",
       "https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 20:37:46",
-      "https://news.ycombinator.com/item?id=41863600"
-    ],
-    [
-      "Show HN: Greenmask 0.2 – Database anonymization tool",
-      "https://github.com/GreenmaskIO/greenmask"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "ArchiveBox is evolving: the future of self-hosted internet archives",
       "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 16:11:49",
-      "https://news.ycombinator.com/item?id=41860810"
-    ],
-    [
-      "Show HN: A fair Product Hunt alternative",
-      "https://simplelister.com/"
     ]
   ],
   [
