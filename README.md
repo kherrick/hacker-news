@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
-* [2024-10-17, 10:06:23](https://news.ycombinator.com/item?id=41868060) - [12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux/)
 * [2024-10-17, 08:46:01](https://news.ycombinator.com/item?id=41867626) - [X isn't important enough to feel the full force of EU regulation](https://www.theregister.com/2024/10/17/eu_x_dma_regulation/)
 * [2024-10-17, 08:42:03](https://news.ycombinator.com/item?id=41867608) - [Raspberry Pi 3 fastboot in less than 2 seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
-* [2024-10-17, 08:20:34](https://news.ycombinator.com/item?id=41867503) - [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 07:38:31](https://news.ycombinator.com/item?id=41867294) - [Show HN: I'm building a Product Hunt alternative, it's 4 days old](https://www.launching.today/)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 05:43:59](https://news.ycombinator.com/item?id=41866752) - [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
@@ -29,6 +27,8 @@
 * [2024-10-15, 07:44:42](https://news.ycombinator.com/item?id=41845934) - [H2tunnel – ngrok alternative for Node.js in 600 LOC and no dependencies](https://github.com/boronine/h2tunnel)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-15, 05:30:09](https://news.ycombinator.com/item?id=41845232) - [Cell-Based Architecture Enhances Modern Distributed Systems](https://www.infoq.com/articles/cell-based-architecture-distributed-systems/)
+* [2024-10-15, 04:33:46](https://news.ycombinator.com/item?id=41844962) - [A Man and the Crowd (1928)](https://publicdomainreview.org/essay/the-man-and-the-crowd/)
+* [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
 * [2024-10-14, 04:51:54](https://news.ycombinator.com/item?id=41834301) - [The Remarkable Legacy of Lewis Lapham](https://lithub.com/on-the-remarkable-legacy-of-lewis-lapham/)
 
 ## [Archives](archives/index.md)
