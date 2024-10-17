@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
+* [2024-10-17, 18:53:04](https://news.ycombinator.com/item?id=41872628) - [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
 * [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
@@ -11,7 +13,6 @@
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:20:30](https://news.ycombinator.com/item?id=41871090) - [Show HN: Sava OS – A desktop interface for your web browser](https://savaos.com/)
 * [2024-10-17, 16:14:39](https://news.ycombinator.com/item?id=41871024) - [Arithmetic is an underrated world-modeling technology](https://dynomight.substack.com/p/arithmetic)
-* [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
@@ -26,7 +27,6 @@
 * [2024-10-15, 03:28:52](https://news.ycombinator.com/item?id=41844624) - [Unicode uses elephants as baseline comparison of cultural frequency for emoji](https://www.unicode.org/emoji/proposals.html#frequency-evidence)
 * [2024-10-14, 23:58:13](https://news.ycombinator.com/item?id=41843532) - [A protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
-* [2024-10-14, 18:08:52](https://news.ycombinator.com/item?id=41840175) - [Makerfaire Ottawa: Rule 110 (2015)](https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
 * [2024-10-13, 07:23:07](https://news.ycombinator.com/item?id=41825906) - [Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
