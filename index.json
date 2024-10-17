@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-10-17, 09:28:18",
-      "https://news.ycombinator.com/item?id=41867861"
-    ],
-    [
-      "EV battery prices to fall by nearly 50 pct and near ICE parity by 2026",
-      "https://thedriven.io/2024/10/16/ev-battery-prices-to-fall-by-nearly-50-pct-and-near-ice-parity-by-2026-says-goldman-sachs/"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 08:46:01",
       "https://news.ycombinator.com/item?id=41867626"
     ],
@@ -121,22 +111,22 @@
   ],
   [
     [
-      "2024-10-16, 21:17:35",
-      "https://news.ycombinator.com/item?id=41863937"
-    ],
-    [
-      "Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure",
-      "https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 20:17:46",
       "https://news.ycombinator.com/item?id=41863398"
     ],
     [
       "Show HN: Automated smooth Nth order derivatives of noisy data",
       "https://github.com/hugohadfield/kalmangrad"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 20:06:58",
+      "https://news.ycombinator.com/item?id=41863278"
+    ],
+    [
+      "Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol",
+      "https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "ArchiveBox is evolving: the future of self-hosted internet archives",
       "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 14:56:22",
+      "https://news.ycombinator.com/item?id=41859805"
+    ],
+    [
+      "Efficient high-resolution image synthesis with linear diffusion transformer",
+      "https://nvlabs.github.io/Sana/"
     ]
   ],
   [
