@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 16:54:49",
+      "https://news.ycombinator.com/item?id=41871375"
+    ],
+    [
+      "Crokinole",
+      "https://pudding.cool/2024/10/crokinole/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 16:03:55",
       "https://news.ycombinator.com/item?id=41870914"
     ],
@@ -17,6 +27,16 @@
     [
       "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "https://news.ycombinator.com/item?id=41870887"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 16:00:32",
+      "https://news.ycombinator.com/item?id=41870878"
+    ],
+    [
+      "Cyber-Dojo: A place to practice programming",
+      "https://cyber-dojo.org:443/creator/home"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2024-10-17, 11:42:22",
+      "https://news.ycombinator.com/item?id=41868677"
+    ],
+    [
+      "The opponent-process theory of emotion (2010)",
+      "https://gettingstronger.org/2010/05/opponent-process-theory/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 05:55:04",
       "https://news.ycombinator.com/item?id=41866802"
     ],
@@ -81,52 +111,12 @@
   ],
   [
     [
-      "2024-10-17, 05:43:59",
-      "https://news.ycombinator.com/item?id=41866752"
-    ],
-    [
-      "A Liveness Example in TLA+",
-      "https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 05:42:06",
-      "https://news.ycombinator.com/item?id=41866742"
-    ],
-    [
-      "OpenVMM – A New VMM for Windows and Linux, Written in Rust",
-      "https://github.com/microsoft/openvmm"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 05:06:59",
-      "https://news.ycombinator.com/item?id=41866583"
-    ],
-    [
-      "A CLI tool for management of Next.js applications",
-      "https://quicky.dev"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 22:46:37",
       "https://news.ycombinator.com/item?id=41864632"
     ],
     [
       "Using Cloudflare on your website could be blocking RSS users",
       "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 20:06:58",
-      "https://news.ycombinator.com/item?id=41863278"
-    ],
-    [
-      "Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol",
-      "https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/"
     ]
   ],
   [
@@ -151,52 +141,12 @@
   ],
   [
     [
-      "2024-10-16, 16:18:39",
-      "https://news.ycombinator.com/item?id=41860909"
-    ],
-    [
-      "ArchiveBox is evolving: the future of self-hosted internet archives",
-      "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 14:56:22",
-      "https://news.ycombinator.com/item?id=41859805"
-    ],
-    [
-      "Efficient high-resolution image synthesis with linear diffusion transformer",
-      "https://nvlabs.github.io/Sana/"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 13:52:55",
       "https://news.ycombinator.com/item?id=41859047"
     ],
     [
       "Amazon reveals first color Kindle, new Kindle Scribe, and more",
       "https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 13:48:51",
-      "https://news.ycombinator.com/item?id=41859012"
-    ],
-    [
-      "Traveling with Apple Vision Pro",
-      "https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 13:44:37",
-      "https://news.ycombinator.com/item?id=41858975"
-    ],
-    [
-      "Hofstadter on Lisp (1983)",
-      "https://gist.github.com/jackrusher/5139396"
     ]
   ],
   [
@@ -217,6 +167,36 @@
     [
       "Reflections on Palantir",
       "https://nabeelqu.substack.com/p/reflections-on-palantir"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 00:41:15",
+      "https://news.ycombinator.com/item?id=41854558"
+    ],
+    [
+      "Laziness Death Spirals",
+      "https://www.lesswrong.com/posts/JBR6AF9Gusv4u6Fwo/laziness-death-spirals"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 22:53:35",
+      "https://news.ycombinator.com/item?id=41853942"
+    ],
+    [
+      "How I failed to make a game: Raycasting on the GBA",
+      "https://mcejp.github.io/2024/10/16/gba-raycasting.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 22:25:18",
+      "https://news.ycombinator.com/item?id=41853767"
+    ],
+    [
+      "Memory: the forgotten history",
+      "https://lcamtuf.substack.com/p/memory-the-forgotten-history"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
-      "2024-10-14, 17:25:50",
-      "https://news.ycombinator.com/item?id=41839686"
+      "2024-10-15, 03:28:52",
+      "https://news.ycombinator.com/item?id=41844624"
     ],
     [
-      "Ichigo: Local real-time voice AI",
-      "https://github.com/homebrewltd/ichigo"
+      "Unicode uses elephants as baseline comparison of cultural frequency for emoji",
+      "https://www.unicode.org/emoji/proposals.html#frequency-evidence"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 23:58:13",
+      "https://news.ycombinator.com/item?id=41843532"
+    ],
+    [
+      "A protocol for reliable notifications over a 1 bit fallible connection",
+      "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 20:51:30",
+      "https://news.ycombinator.com/item?id=41841853"
+    ],
+    [
+      "Emit",
+      "https://re.factorcode.org/2024/10/emit.html"
     ]
   ],
   [
