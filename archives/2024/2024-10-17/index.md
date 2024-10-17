@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 14:49:30](https://news.ycombinator.com/item?id=41870198) - [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
 * [2024-10-17, 14:48:51](https://news.ycombinator.com/item?id=41870190) - [For the love of God, stop talking about \"post-truth\"](https://www.conspicuouscognition.com/p/for-the-love-of-god-stop-talking)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
