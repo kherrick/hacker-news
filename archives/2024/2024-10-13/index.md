@@ -41,6 +41,7 @@
 * [2024-10-13, 15:32:45](https://news.ycombinator.com/item?id=41828867) - [Scientists found a way to make sound travel in only one direction](https://www.zmescience.com/science/news-science/scientists-found-a-way-to-make-sound-travel-in-only-one-direction/)
 * [2024-10-13, 15:32:36](https://news.ycombinator.com/item?id=41828864) - [DARPA Thinks Walls of Oysters Could Protect Shores Against Hurricanes](https://www.wired.com/story/darpa-thinks-walls-of-oysters-could-protect-shores-against-hurricanes/)
 * [2024-10-13, 15:31:32](https://news.ycombinator.com/item?id=41828854) - [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
+* [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
 * [2024-10-13, 15:03:03](https://news.ycombinator.com/item?id=41828611) - [Lessons learned from profiling an algorithm in Rust](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 15:01:48](https://news.ycombinator.com/item?id=41828601) - [The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
 * [2024-10-13, 14:54:54](https://news.ycombinator.com/item?id=41828542) - [Node.js, Pipes, and Disappearing Bytes](https://sxlijin.github.io/2024-10-09-node-stdout-disappearing-bytes)
