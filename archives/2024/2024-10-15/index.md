@@ -14,6 +14,7 @@
 * [2024-10-15, 21:05:31](https://news.ycombinator.com/item?id=41853117) - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-10-15, 20:51:28](https://news.ycombinator.com/item?id=41852971) - [The Rise and Fall of Matchbox's Toy-Car Empire](https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/)
 * [2024-10-15, 20:34:41](https://news.ycombinator.com/item?id=41852821) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.github.io/docs/)
+* [2024-10-15, 20:33:01](https://news.ycombinator.com/item?id=41852801) - [Romhack Research and Liveblog](https://nyuu.page/essays/romhack.html)
 * [2024-10-15, 20:04:26](https://news.ycombinator.com/item?id=41852556) - [X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 * [2024-10-15, 19:45:31](https://news.ycombinator.com/item?id=41852382) - [Ask HN: Where After WordPress?](https://news.ycombinator.com/item?id=41852382)
 * [2024-10-15, 19:36:41](https://news.ycombinator.com/item?id=41852295) - [Seeing God and Burning Plastic](https://ofthetwodreams.substack.com/p/seeing-god-and-burning-plastic-i)
