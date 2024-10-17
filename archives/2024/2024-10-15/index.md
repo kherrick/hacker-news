@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
 * [2024-10-15, 23:12:51](https://news.ycombinator.com/item?id=41854075) - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
+* [2024-10-15, 22:53:35](https://news.ycombinator.com/item?id=41853942) - [How I failed to make a game: Raycasting on the GBA](https://mcejp.github.io/2024/10/16/gba-raycasting.html)
 * [2024-10-15, 22:32:06](https://news.ycombinator.com/item?id=41853810) - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
 * [2024-10-15, 22:27:17](https://news.ycombinator.com/item?id=41853780) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
+* [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
 * [2024-10-15, 22:19:32](https://news.ycombinator.com/item?id=41853700) - [TwoSet Violin 'ends chapter' after eleven years](https://www.thestrad.com/news/twoset-violin-ends-chapter-after-eleven-years/18751.article)
 * [2024-10-15, 22:11:35](https://news.ycombinator.com/item?id=41853637) - [Why Don't We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
 * [2024-10-15, 21:45:32](https://news.ycombinator.com/item?id=41853441) - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
@@ -82,6 +84,7 @@
 * [2024-10-15, 04:35:37](https://news.ycombinator.com/item?id=41844982) - [Rodents remotely move matter using sound to enhance their sense of smell: study](https://www.buffalo.edu/news/releases/2024/10/rodents-sense-of-smell-nose.html)
 * [2024-10-15, 04:33:46](https://news.ycombinator.com/item?id=41844962) - [A Man and the Crowd (1928)](https://publicdomainreview.org/essay/the-man-and-the-crowd/)
 * [2024-10-15, 04:22:16](https://news.ycombinator.com/item?id=41844914) - [Grandmaster Expelled from Team Chess Championship After Phone Found in Toilet](https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship)
+* [2024-10-15, 03:28:52](https://news.ycombinator.com/item?id=41844624) - [Unicode uses elephants as baseline comparison of cultural frequency for emoji](https://www.unicode.org/emoji/proposals.html#frequency-evidence)
 * [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 * [2024-10-15, 03:05:45](https://news.ycombinator.com/item?id=41844517) - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)

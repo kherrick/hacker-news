@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [Not remotely cool: The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
+* [2024-10-17, 16:00:32](https://news.ycombinator.com/item?id=41870878) - [Cyber-Dojo: A place to practice programming](https://cyber-dojo.org:443/creator/home)
 * [2024-10-17, 14:58:36](https://news.ycombinator.com/item?id=41870289) - [Meta under fire for 'polluting' open-source](https://www.ft.com/content/397c50d8-8796-4042-a814-0ac2c068361f)
 * [2024-10-17, 14:49:30](https://news.ycombinator.com/item?id=41870198) - [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
 * [2024-10-17, 14:48:51](https://news.ycombinator.com/item?id=41870190) - [For the love of God, stop talking about \"post-truth\"](https://www.conspicuouscognition.com/p/for-the-love-of-god-stop-talking)
@@ -15,6 +17,7 @@
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
+* [2024-10-17, 11:42:22](https://news.ycombinator.com/item?id=41868677) - [The opponent-process theory of emotion (2010)](https://gettingstronger.org/2010/05/opponent-process-theory/)
 * [2024-10-17, 11:15:26](https://news.ycombinator.com/item?id=41868467) - [Magnet-free induction motor aims to nearly halve carbon emissions](https://newatlas.com/automotive/mahle-valeo-magnet-free-induction-motor/)
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
 * [2024-10-17, 10:10:49](https://news.ycombinator.com/item?id=41868090) - [Meta fires staff for 'using free meal vouchers to buy household goods'](https://www.theguardian.com/technology/2024/oct/17/meta-fires-staff-free-meal-vouchers-buy-household-goods)

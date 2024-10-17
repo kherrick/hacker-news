@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 23:58:13](https://news.ycombinator.com/item?id=41843532) - [A protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 23:51:39](https://news.ycombinator.com/item?id=41843489) - [Show HN: FTWA – Turn any website into an app](https://ftwa.mathix.dev/)
 * [2024-10-14, 23:13:37](https://news.ycombinator.com/item?id=41843198) - [Tesla Optimus bots were controlled by humans during the 'We, Robot' event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/)
 * [2024-10-14, 22:45:51](https://news.ycombinator.com/item?id=41842975) - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
@@ -13,6 +14,7 @@
 * [2024-10-14, 21:29:50](https://news.ycombinator.com/item?id=41842240) - [GPT-4o Jailbroken by Claiming It's an \"All-Responsive\" API Endpoint](https://twitter.com/mixedenn/status/1845939748235628564)
 * [2024-10-14, 21:26:41](https://news.ycombinator.com/item?id=41842211) - [OWASP C-Based Toolchain Hardening Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/C-Based_Toolchain_Hardening_Cheat_Sheet.html)
 * [2024-10-14, 21:10:41](https://news.ycombinator.com/item?id=41842060) - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
+* [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 20:49:31](https://news.ycombinator.com/item?id=41841835) - [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
 * [2024-10-14, 20:41:04](https://news.ycombinator.com/item?id=41841744) - [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
