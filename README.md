@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-17, 18:33:30](https://news.ycombinator.com/item?id=41872364) - [Python 3.12 vs. Python 3.13 – performance testing](https://en.lewoniewski.info/2024/python-3-12-vs-python-3-13-performance-testing/)
+* [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:31:44](https://news.ycombinator.com/item?id=41871721) - [AI Mathematical Olympiad – Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2)
-* [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 * [2024-10-17, 17:09:43](https://news.ycombinator.com/item?id=41871506) - [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
 * [2024-10-17, 17:09:03](https://news.ycombinator.com/item?id=41871499) - [Ask HN: Why is there not more concern about the physical security of Cloudflare?](https://news.ycombinator.com/item?id=41871499)
 * [2024-10-17, 16:57:49](https://news.ycombinator.com/item?id=41871403) - [The Kew Herbarium (2019)](https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins)
@@ -28,6 +27,7 @@
 * [2024-10-14, 23:58:13](https://news.ycombinator.com/item?id=41843532) - [A protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 18:08:52](https://news.ycombinator.com/item?id=41840175) - [Makerfaire Ottawa: Rule 110 (2015)](https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html)
+* [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
 * [2024-10-13, 07:23:07](https://news.ycombinator.com/item?id=41825906) - [Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
 
