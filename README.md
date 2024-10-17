@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
 * [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 20:03:28](https://news.ycombinator.com/item?id=41873215) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
@@ -11,7 +12,6 @@
 * [2024-10-17, 17:09:43](https://news.ycombinator.com/item?id=41871506) - [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
-* [2024-10-17, 16:20:30](https://news.ycombinator.com/item?id=41871090) - [Show HN: Sava OS – A desktop interface for your web browser](https://savaos.com/)
 * [2024-10-17, 16:18:32](https://news.ycombinator.com/item?id=41871068) - [Pg_parquet: An extension to connect Postgres and parquet](https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
