@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
+* [2024-10-17, 08:20:34](https://news.ycombinator.com/item?id=41867503) - [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 05:43:59](https://news.ycombinator.com/item?id=41866752) - [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
 * [2024-10-17, 05:42:06](https://news.ycombinator.com/item?id=41866742) - [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
@@ -10,9 +12,7 @@
 * [2024-10-16, 20:06:58](https://news.ycombinator.com/item?id=41863278) - [Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
 * [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
 * [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
-* [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [Optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
-* [2024-10-16, 16:11:49](https://news.ycombinator.com/item?id=41860810) - [Show HN: A fair Product Hunt alternative](https://simplelister.com/)
 * [2024-10-16, 14:56:22](https://news.ycombinator.com/item?id=41859805) - [Efficient high-resolution image synthesis with linear diffusion transformer](https://nvlabs.github.io/Sana/)
 * [2024-10-16, 13:52:55](https://news.ycombinator.com/item?id=41859047) - [Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
