@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
+* [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [Not remotely cool: The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
+* [2024-10-17, 14:58:36](https://news.ycombinator.com/item?id=41870289) - [Meta under fire for 'polluting' open-source](https://www.ft.com/content/397c50d8-8796-4042-a814-0ac2c068361f)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
@@ -25,9 +26,8 @@
 * [2024-10-15, 20:33:01](https://news.ycombinator.com/item?id=41852801) - [Romhack Research and Liveblog](https://nyuu.page/essays/romhack.html)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
-* [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
+* [2024-10-15, 06:03:25](https://news.ycombinator.com/item?id=41845397) - [RoRvsWild Ruby Documentation Theme](https://www.rorvswild.com/blog/2024/rorvswild-rdoc-theme)
 * [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
-* [2024-10-14, 13:09:17](https://news.ycombinator.com/item?id=41837171) - [Zero to custom MacroPad in 37 easy steps [video]](https://www.youtube.com/watch?v=PetCHwrCgGk&list=PLvpUCOCK8jv3PU4pR0Gunug12xrJHWhxj)
 * [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
 * [2024-10-13, 11:38:46](https://news.ycombinator.com/item?id=41827109) - [The Origin of Samples from Mars](https://samplesfrommars.com/blogs/the-sample-journal/10-years-of-samples-from-mars)
 

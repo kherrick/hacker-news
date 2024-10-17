@@ -74,6 +74,7 @@
 * [2024-10-15, 06:39:37](https://news.ycombinator.com/item?id=41845624) - [India's Renewable Energy Capacity Hits 200 GW Milestone, Accounts for 46.3%](https://www.ndtvprofit.com/business/india-renewable-energy-hits-200-gw-milestone-46-percent-total-power)
 * [2024-10-15, 06:34:23](https://news.ycombinator.com/item?id=41845596) - [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
 * [2024-10-15, 06:10:25](https://news.ycombinator.com/item?id=41845427) - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
+* [2024-10-15, 06:03:25](https://news.ycombinator.com/item?id=41845397) - [RoRvsWild Ruby Documentation Theme](https://www.rorvswild.com/blog/2024/rorvswild-rdoc-theme)
 * [2024-10-15, 05:49:54](https://news.ycombinator.com/item?id=41845325) - [Creating a tiny tensor library in C](https://github.com/apoorvnandan/tensor.h)
 * [2024-10-15, 05:49:32](https://news.ycombinator.com/item?id=41845322) - [10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)
 * [2024-10-15, 05:35:30](https://news.ycombinator.com/item?id=41845256) - [Ask HN: How do you add guard rails in LLM response without breaking streaming?](https://news.ycombinator.com/item?id=41845256)
