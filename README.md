@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
-* [2024-10-17, 11:15:26](https://news.ycombinator.com/item?id=41868467) - [Magnet-free induction motor aims to nearly halve carbon emissions](https://newatlas.com/automotive/mahle-valeo-magnet-free-induction-motor/)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 05:43:59](https://news.ycombinator.com/item?id=41866752) - [A Liveness Example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
 * [2024-10-17, 05:42:06](https://news.ycombinator.com/item?id=41866742) - [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
@@ -25,10 +25,10 @@
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
-* [2024-10-15, 05:30:09](https://news.ycombinator.com/item?id=41845232) - [Cell-Based Architecture Enhances Modern Distributed Systems](https://www.infoq.com/articles/cell-based-architecture-distributed-systems/)
 * [2024-10-14, 17:25:50](https://news.ycombinator.com/item?id=41839686) - [Ichigo: Local real-time voice AI](https://github.com/homebrewltd/ichigo)
 * [2024-10-14, 04:51:54](https://news.ycombinator.com/item?id=41834301) - [The Remarkable Legacy of Lewis Lapham](https://lithub.com/on-the-remarkable-legacy-of-lewis-lapham/)
 * [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
+* [2024-10-13, 11:38:46](https://news.ycombinator.com/item?id=41827109) - [The Origin of Samples from Mars](https://samplesfrommars.com/blogs/the-sample-journal/10-years-of-samples-from-mars)
 * [2024-10-12, 14:14:30](https://news.ycombinator.com/item?id=41819217) - [A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
 
 ## [Archives](archives/index.md)
