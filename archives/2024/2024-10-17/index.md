@@ -7,6 +7,7 @@
 * [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 20:03:28](https://news.ycombinator.com/item?id=41873215) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
+* [2024-10-17, 19:19:50](https://news.ycombinator.com/item?id=41872863) - [Class methods are Ruby's useEffect](https://www.campsite.com/blog/class-methods-are-rubys-useeffect)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 19:07:48](https://news.ycombinator.com/item?id=41872773) - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
 * [2024-10-17, 18:53:04](https://news.ycombinator.com/item?id=41872628) - [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
