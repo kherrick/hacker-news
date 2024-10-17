@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 14:49:30](https://news.ycombinator.com/item?id=41870198) - [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
+* [2024-10-17, 14:48:51](https://news.ycombinator.com/item?id=41870190) - [For the love of God, stop talking about \"post-truth\"](https://www.conspicuouscognition.com/p/for-the-love-of-god-stop-talking)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:23:32](https://news.ycombinator.com/item?id=41869962) - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent:I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
