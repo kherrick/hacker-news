@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 19:07:48](https://news.ycombinator.com/item?id=41872773) - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
 * [2024-10-17, 18:33:30](https://news.ycombinator.com/item?id=41872364) - [Python 3.12 vs. Python 3.13 – performance testing](https://en.lewoniewski.info/2024/python-3-12-vs-python-3-13-performance-testing/)
 * [2024-10-17, 18:15:33](https://news.ycombinator.com/item?id=41872156) - [How to Tax the Rich: Piketty](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/)
 * [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
