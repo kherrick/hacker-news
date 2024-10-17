@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-17, 19:07:48](https://news.ycombinator.com/item?id=41872773) - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
 * [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
@@ -11,6 +10,7 @@
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:20:30](https://news.ycombinator.com/item?id=41871090) - [Show HN: Sava OS – A desktop interface for your web browser](https://savaos.com/)
+* [2024-10-17, 16:14:39](https://news.ycombinator.com/item?id=41871024) - [Arithmetic is an underrated world-modeling technology](https://dynomight.substack.com/p/arithmetic)
 * [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
