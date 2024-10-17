@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-17, 14:49:30",
-      "https://news.ycombinator.com/item?id=41870198"
-    ],
-    [
-      "I Went from Reading 40 Books a Year to Reading 0",
-      "https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 14:31:18",
       "https://news.ycombinator.com/item?id=41870040"
     ],
@@ -107,6 +97,16 @@
     [
       "Using Cloudflare on your website could be blocking RSS users",
       "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 20:17:46",
+      "https://news.ycombinator.com/item?id=41863398"
+    ],
+    [
+      "Show HN: Automated smooth Nth order derivatives of noisy data",
+      "https://github.com/hugohadfield/kalmangrad"
     ]
   ],
   [
