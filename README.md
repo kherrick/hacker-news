@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 04:53:49](https://news.ycombinator.com/item?id=41866521) - [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)
 * [2024-10-17, 04:06:51](https://news.ycombinator.com/item?id=41866328) - [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
 * [2024-10-17, 01:15:46](https://news.ycombinator.com/item?id=41865511) - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
 * [2024-10-16, 23:31:32](https://news.ycombinator.com/item?id=41864947) - [Show HN: Clean News - A cleaner curation of world news events](https://cleannews.fyi)
@@ -19,7 +20,6 @@
 * [2024-10-16, 13:48:51](https://news.ycombinator.com/item?id=41859012) - [Traveling with Apple Vision Pro](https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/)
 * [2024-10-16, 13:44:37](https://news.ycombinator.com/item?id=41858975) - [Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC announces \"click-to-cancel\" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
-* [2024-10-16, 03:25:14](https://news.ycombinator.com/item?id=41855307) - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-15, 15:40:12](https://news.ycombinator.com/item?id=41849718) - [Triton Fork for Windows Support](https://github.com/woct0rdho/triton)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
