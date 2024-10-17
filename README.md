@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-17, 14:49:30](https://news.ycombinator.com/item?id=41870198) - [I Went from Reading 40 Books a Year to Reading 0](https://durmonski.com/self-improvement/from-reading-40-books-to-reading-0/)
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
@@ -11,6 +10,7 @@
 * [2024-10-17, 05:42:06](https://news.ycombinator.com/item?id=41866742) - [OpenVMM – A New VMM for Windows and Linux, Written in Rust](https://github.com/microsoft/openvmm)
 * [2024-10-17, 05:06:59](https://news.ycombinator.com/item?id=41866583) - [A CLI tool for management of Next.js applications](https://quicky.dev)
 * [2024-10-16, 22:46:37](https://news.ycombinator.com/item?id=41864632) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
+* [2024-10-16, 20:17:46](https://news.ycombinator.com/item?id=41863398) - [Show HN: Automated smooth Nth order derivatives of noisy data](https://github.com/hugohadfield/kalmangrad)
 * [2024-10-16, 20:06:58](https://news.ycombinator.com/item?id=41863278) - [Should We Chat, Too? Security Analysis of WeChat's Mmtls Encryption Protocol](https://citizenlab.ca/2024/10/should-we-chat-too-security-analysis-of-wechats-mmtls-encryption-protocol/)
 * [2024-10-16, 19:44:02](https://news.ycombinator.com/item?id=41863061) - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://github.com/usefulsensors/qc_npu_benchmark)
 * [2024-10-16, 18:18:07](https://news.ycombinator.com/item?id=41862028) - [We outsmarted CSGO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
