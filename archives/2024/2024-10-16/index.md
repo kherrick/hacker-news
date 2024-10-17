@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 23:31:32](https://news.ycombinator.com/item?id=41864947) - [Show HN: Clean News - A cleaner curation of world news events](https://cleannews.fyi)
+* [2024-10-16, 22:31:58](https://news.ycombinator.com/item?id=41864515) - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
 * [2024-10-16, 21:27:27](https://news.ycombinator.com/item?id=41864014) - [Show HN: Arch – an intelligent prompt gateway built on Envoy](https://github.com/katanemo/arch)
 * [2024-10-16, 21:17:35](https://news.ycombinator.com/item?id=41863937) - [Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-10-16, 20:37:46](https://news.ycombinator.com/item?id=41863600) - [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
