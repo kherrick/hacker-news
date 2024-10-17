@@ -31,6 +31,7 @@
 * [2024-10-14, 18:34:06](https://news.ycombinator.com/item?id=41840450) - [Gosub: A browser engine written in Rust](https://github.com/gosub-io/gosub-engine)
 * [2024-10-14, 18:28:54](https://news.ycombinator.com/item?id=41840390) - [The three-page paper that shook philosophy: Gettiers in software engineering](https://jsomers.net/blog/gettiers)
 * [2024-10-14, 18:21:40](https://news.ycombinator.com/item?id=41840323) - [Show HN: Bolt.new – dev sandbox with AI from StackBlitz](https://bolt.new/)
+* [2024-10-14, 18:08:52](https://news.ycombinator.com/item?id=41840175) - [Makerfaire Ottawa: Rule 110 (2015)](https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html)
 * [2024-10-14, 18:01:08](https://news.ycombinator.com/item?id=41840082) - ['Islands' of regularity discovered in the famously chaotic three-body problem](https://phys.org/news/2024-10-islands-regularity-famously-chaotic-body.html)
 * [2024-10-14, 17:57:00](https://news.ycombinator.com/item?id=41840023) - [Arm position can substantially overestimate blood pressure readings, study finds](https://medicalxpress.com/news/2024-10-commonly-arm-positions-substantially-overestimate.html)
 * [2024-10-14, 17:55:13](https://news.ycombinator.com/item?id=41839994) - [PayloadCMS: Open-Source, Fullstack Next.js Framework](https://github.com/payloadcms/payload)

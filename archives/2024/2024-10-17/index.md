@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 17:09:43](https://news.ycombinator.com/item?id=41871506) - [Rethinking School Design](https://architizer.com/blog/practice/details/education-architecture-changing-views-childhood/)
+* [2024-10-17, 17:00:07](https://news.ycombinator.com/item?id=41871427) - [The Shroud of Turin: History and Legends](https://michaelshermer.substack.com/p/the-shroud-of-turin)
+* [2024-10-17, 16:57:49](https://news.ycombinator.com/item?id=41871403) - [The Kew Herbarium (2019)](https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
+* [2024-10-17, 16:20:30](https://news.ycombinator.com/item?id=41871090) - [Show HN: Sava OS – A desktop interface for you web browser](https://savaos.com/)
 * [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [Not remotely cool: The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 16:00:32](https://news.ycombinator.com/item?id=41870878) - [Cyber-Dojo: A place to practice programming](https://cyber-dojo.org:443/creator/home)
