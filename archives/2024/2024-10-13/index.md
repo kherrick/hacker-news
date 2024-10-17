@@ -23,6 +23,7 @@
 * [2024-10-13, 19:42:26](https://news.ycombinator.com/item?id=41830906) - [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
 * [2024-10-13, 19:21:38](https://news.ycombinator.com/item?id=41830753) - [Show HN: The fastest Ethereum graph explorer (OpenSource)](https://dictynna.com/)
 * [2024-10-13, 19:16:41](https://news.ycombinator.com/item?id=41830717) - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
+* [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 * [2024-10-13, 18:41:33](https://news.ycombinator.com/item?id=41830421) - [HHKB and Realforce – Mechanical Programming and Gaming Keyboards](https://hhkeyboard.us/)
 * [2024-10-13, 18:37:13](https://news.ycombinator.com/item?id=41830375) - [AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [2024-10-13, 18:22:42](https://news.ycombinator.com/item?id=41830247) - [Cofounder Mode: My tactical guide to finding a cofounder](https://repromptai.com/blog/cofounder-mode-tactical-guide-finding-cofounder)

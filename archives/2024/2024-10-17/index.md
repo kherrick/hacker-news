@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
+* [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 19:07:48](https://news.ycombinator.com/item?id=41872773) - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
 * [2024-10-17, 18:53:04](https://news.ycombinator.com/item?id=41872628) - [Is Matt Mullenweg defending WordPress or sabotaging it?](https://torment-nexus.mathewingram.com/is-matt-mullenweg-defending-wordpress-or-sabotaging-it/)
 * [2024-10-17, 18:33:30](https://news.ycombinator.com/item?id=41872364) - [Python 3.12 vs. Python 3.13 – performance testing](https://en.lewoniewski.info/2024/python-3-12-vs-python-3-13-performance-testing/)
@@ -22,6 +23,7 @@
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:20:30](https://news.ycombinator.com/item?id=41871090) - [Show HN: Sava OS – A desktop interface for you web browser](https://savaos.com/)
+* [2024-10-17, 16:18:32](https://news.ycombinator.com/item?id=41871068) - [Pg_parquet: An extension to connect Postgres and parquet](https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet)
 * [2024-10-17, 16:14:39](https://news.ycombinator.com/item?id=41871024) - [Arithmetic is an underrated world-modeling technology](https://dynomight.substack.com/p/arithmetic)
 * [2024-10-17, 16:03:55](https://news.ycombinator.com/item?id=41870914) - [Not remotely cool: The science of \"Zoom fatigue\"](https://bigthink.com/business/not-remotely-cool-the-science-of-zoom-fatigue/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
