@@ -36,6 +36,7 @@
 * [2024-10-17, 14:23:32](https://news.ycombinator.com/item?id=41869962) - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent:I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
+* [2024-10-17, 13:12:43](https://news.ycombinator.com/item?id=41869359) - [Evaluation quirks, metric pitfalls and some recommendations](https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-17, 11:42:22](https://news.ycombinator.com/item?id=41868677) - [The opponent-process theory of emotion (2010)](https://gettingstronger.org/2010/05/opponent-process-theory/)
