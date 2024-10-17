@@ -55,6 +55,7 @@
 * [2024-10-15, 12:15:55](https://news.ycombinator.com/item?id=41847754) - [Trapped](https://vaaal88.itch.io/trapped)
 * [2024-10-15, 12:04:30](https://news.ycombinator.com/item?id=41847656) - [Study: Dark matter doesn't exist, the universe is 27B years old](https://www.earth.com/news/study-dark-matter-does-not-exist-and-the-universe-is-27-billion-years-old/)
 * [2024-10-15, 12:01:59](https://news.ycombinator.com/item?id=41847640) - [Asterinas: OS kernel written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
+* [2024-10-15, 11:56:44](https://news.ycombinator.com/item?id=41847587) - [Show HN: Gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
