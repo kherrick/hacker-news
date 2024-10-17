@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 08:42:03",
+      "https://news.ycombinator.com/item?id=41867608"
+    ],
+    [
+      "Raspberry Pi 3 fastboot in less than 2 seconds",
+      "https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 08:20:34",
       "https://news.ycombinator.com/item?id=41867503"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-10-17, 07:38:31",
+      "https://news.ycombinator.com/item?id=41867294"
+    ],
+    [
+      "Show HN: I'm building a Product Hunt alternative, it's 4 days old",
+      "https://www.launching.today/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 05:55:04",
       "https://news.ycombinator.com/item?id=41866802"
     ],
     [
       "Escaping the Chrome Sandbox Through DevTools",
       "https://ading.dev/blog/posts/chrome_sandbox_escape.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 05:43:59",
+      "https://news.ycombinator.com/item?id=41866752"
+    ],
+    [
+      "A Liveness Example in TLA+",
+      "https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2024-10-17, 01:15:46",
-      "https://news.ycombinator.com/item?id=41865511"
-    ],
-    [
-      "Possible futures for the Ethereum protocol, part 2: The Surge",
-      "https://vitalik.eth.limo/general/2024/10/17/futures2.html"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 22:46:37",
       "https://news.ycombinator.com/item?id=41864632"
     ],
     [
       "Using Cloudflare on your website could be blocking RSS users",
       "https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 22:31:58",
-      "https://news.ycombinator.com/item?id=41864515"
-    ],
-    [
-      "Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction",
-      "https://lotus3d.github.io/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-10-15, 12:18:36",
-      "https://news.ycombinator.com/item?id=41847787"
-    ],
-    [
-      "FIDO Alliance publishes new spec to let users move passkeys across providers",
-      "https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 11:52:48",
       "https://news.ycombinator.com/item?id=41847563"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-10-15, 04:33:46",
+      "https://news.ycombinator.com/item?id=41844962"
+    ],
+    [
+      "A Man and the Crowd (1928)",
+      "https://publicdomainreview.org/essay/the-man-and-the-crowd/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 17:25:50",
       "https://news.ycombinator.com/item?id=41839686"
     ],
@@ -287,16 +297,6 @@
     [
       "The Remarkable Legacy of Lewis Lapham",
       "https://lithub.com/on-the-remarkable-legacy-of-lewis-lapham/"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 14:14:30",
-      "https://news.ycombinator.com/item?id=41819217"
-    ],
-    [
-      "A History of Microwave Ovens",
-      "https://taylor.town/history-of-microwave-ovens"
     ]
   ]
 ]
