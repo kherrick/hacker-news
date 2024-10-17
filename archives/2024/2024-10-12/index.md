@@ -11,6 +11,7 @@
 * [2024-10-12, 22:08:01](https://news.ycombinator.com/item?id=41823134) - [Ask HN: What do you think of Theo Browne (a.k.a. t3.gg)?](https://news.ycombinator.com/item?id=41823134)
 * [2024-10-12, 21:39:57](https://news.ycombinator.com/item?id=41822910) - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
 * [2024-10-12, 21:24:33](https://news.ycombinator.com/item?id=41822769) - [Automating the most annoying aspects of blogging](https://blog.gingerbeardman.com/2024/10/11/automating-the-most-annoying-aspects-of-blogging/)
+* [2024-10-12, 21:16:03](https://news.ycombinator.com/item?id=41822687) - [Deriving the Kelly Criterion to Maximise Profits](https://obrhubr.org/kelly-criterion)
 * [2024-10-12, 20:56:07](https://news.ycombinator.com/item?id=41822487) - [Interview with Terence Tao in Barcelona](https://english.elpais.com/science-tech/2024-10-12/terence-tao-mathematician-its-not-good-for-something-as-important-as-ai-to-be-a-monopoly-held-by-one-or-two-companies.html)
 * [2024-10-12, 20:52:42](https://news.ycombinator.com/item?id=41822449) - [Some Notes on Upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/)
 * [2024-10-12, 20:46:49](https://news.ycombinator.com/item?id=41822413) - [Ask HN: What is it with this hate and disdain for interns/junior engineers?](https://news.ycombinator.com/item?id=41822413)

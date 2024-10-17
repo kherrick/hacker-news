@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 20:03:28](https://news.ycombinator.com/item?id=41873215) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-Level Chess Without Search](https://github.com/google-deepmind/searchless_chess)
@@ -19,10 +20,8 @@
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-17, 05:55:04](https://news.ycombinator.com/item?id=41866802) - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
-* [2024-10-16, 22:46:37](https://news.ycombinator.com/item?id=41864632) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-15, 22:53:35](https://news.ycombinator.com/item?id=41853942) - [How I failed to make a game: Raycasting on the GBA](https://mcejp.github.io/2024/10/16/gba-raycasting.html)
 * [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
-* [2024-10-15, 20:51:28](https://news.ycombinator.com/item?id=41852971) - [The Rise and Fall of Matchbox's Toy-Car Empire](https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/)
 * [2024-10-14, 23:58:13](https://news.ycombinator.com/item?id=41843532) - [A protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 18:08:52](https://news.ycombinator.com/item?id=41840175) - [Makerfaire Ottawa: Rule 110 (2015)](https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html)
@@ -30,6 +29,7 @@
 * [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 * [2024-10-13, 15:20:34](https://news.ycombinator.com/item?id=41828771) - [Defining Statistical Models in Jax?](https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments)
 * [2024-10-13, 07:23:07](https://news.ycombinator.com/item?id=41825906) - [Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
+* [2024-10-12, 21:16:03](https://news.ycombinator.com/item?id=41822687) - [Deriving the Kelly Criterion to Maximise Profits](https://obrhubr.org/kelly-criterion)
 
 ## [Archives](archives/index.md)
 
