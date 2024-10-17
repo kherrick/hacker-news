@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-10-17, 04:06:51",
-      "https://news.ycombinator.com/item?id=41866328"
-    ],
-    [
-      "WordPress retaliation impacts community",
-      "https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 01:15:46",
       "https://news.ycombinator.com/item?id=41865511"
     ],
     [
       "Possible futures for the Ethereum protocol, part 2: The Surge",
       "https://vitalik.eth.limo/general/2024/10/17/futures2.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 23:31:32",
-      "https://news.ycombinator.com/item?id=41864947"
-    ],
-    [
-      "Show HN: Clean News - A cleaner curation of world news events",
-      "https://cleannews.fyi"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "Optimizing the Ion compiler back end",
       "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 16:34:15",
+      "https://news.ycombinator.com/item?id=41861056"
+    ],
+    [
+      "Winamp deletes entire GitHub source code repo after a rocky few weeks",
+      "https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/"
     ]
   ],
   [
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2024-10-15, 12:18:36",
+      "https://news.ycombinator.com/item?id=41847787"
+    ],
+    [
+      "FIDO Alliance publishes new spec to let users move passkeys across providers",
+      "https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 11:52:48",
       "https://news.ycombinator.com/item?id=41847563"
     ],
     [
       "A solar gravitational lens will be humanity's most powerful telescope (2022)",
       "https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 09:16:36",
+      "https://news.ycombinator.com/item?id=41846623"
+    ],
+    [
+      "Show HN: SpeakMyVoice – App for people with vocal or speech difficulties",
+      "https://speakmyvoice.com"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Cell-Based Architecture Enhances Modern Distributed Systems",
       "https://www.infoq.com/articles/cell-based-architecture-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 21:26:41",
-      "https://news.ycombinator.com/item?id=41842211"
-    ],
-    [
-      "OWASP C-Based Toolchain Hardening Cheat Sheet",
-      "https://cheatsheetseries.owasp.org/cheatsheets/C-Based_Toolchain_Hardening_Cheat_Sheet.html"
     ]
   ],
   [
