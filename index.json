@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 22:36:38",
+      "https://news.ycombinator.com/item?id=41874511"
+    ],
+    [
+      "Wayland Apps in WireGuard Docker Containers",
+      "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 22:21:15",
       "https://news.ycombinator.com/item?id=41874394"
     ],
@@ -57,16 +67,6 @@
     [
       "Removing PGP from PyPI",
       "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 20:02:05",
-      "https://news.ycombinator.com/item?id=41873204"
-    ],
-    [
-      "Kagi Update: AI Image Filter for Search Results",
-      "https://help.kagi.com/kagi/features/exclude-ai-images.html"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-10-15, 20:51:28",
-      "https://news.ycombinator.com/item?id=41852971"
+      "2024-10-15, 11:56:44",
+      "https://news.ycombinator.com/item?id=41847587"
     ],
     [
-      "The Rise and Fall of Matchbox's Toy-Car Empire",
-      "https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/"
+      "Show HN: Gomponents, HTML components in pure Go",
+      "https://www.gomponents.com"
     ]
   ],
   [
