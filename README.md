@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
+* [2024-10-17, 10:06:23](https://news.ycombinator.com/item?id=41868060) - [12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux/)
 * [2024-10-17, 09:28:18](https://news.ycombinator.com/item?id=41867861) - [EV battery prices to fall by nearly 50 pct and near ICE parity by 2026](https://thedriven.io/2024/10/16/ev-battery-prices-to-fall-by-nearly-50-pct-and-near-ice-parity-by-2026-says-goldman-sachs/)
 * [2024-10-17, 08:46:01](https://news.ycombinator.com/item?id=41867626) - [X isn't important enough to feel the full force of EU regulation](https://www.theregister.com/2024/10/17/eu_x_dma_regulation/)
 * [2024-10-17, 08:42:03](https://news.ycombinator.com/item?id=41867608) - [Raspberry Pi 3 fastboot in less than 2 seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
@@ -23,7 +24,6 @@
 * [2024-10-16, 13:09:04](https://news.ycombinator.com/item?id=41858665) - [FTC announces \"click-to-cancel\" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-15, 20:51:28](https://news.ycombinator.com/item?id=41852971) - [The Rise and Fall of Matchbox's Toy-Car Empire](https://www.hagerty.com/media/automobilia/the-rise-and-fall-of-matchboxs-toy-car-empire/)
-* [2024-10-15, 16:58:58](https://news.ycombinator.com/item?id=41850589) - [Migrating from Create React App to Vite](https://klimer.eu/2024/07/06/migrating-from-create-react-app-to-vite/)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 * [2024-10-15, 07:44:42](https://news.ycombinator.com/item?id=41845934) - [H2tunnel – ngrok alternative for Node.js in 600 LOC and no dependencies](https://github.com/boronine/h2tunnel)

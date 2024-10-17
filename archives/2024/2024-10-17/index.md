@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
+* [2024-10-17, 10:06:23](https://news.ycombinator.com/item?id=41868060) - [12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux/)
 * [2024-10-17, 09:28:18](https://news.ycombinator.com/item?id=41867861) - [EV battery prices to fall by nearly 50 pct and near ICE parity by 2026](https://thedriven.io/2024/10/16/ev-battery-prices-to-fall-by-nearly-50-pct-and-near-ice-parity-by-2026-says-goldman-sachs/)
 * [2024-10-17, 08:46:01](https://news.ycombinator.com/item?id=41867626) - [X isn't important enough to feel the full force of EU regulation](https://www.theregister.com/2024/10/17/eu_x_dma_regulation/)
 * [2024-10-17, 08:42:03](https://news.ycombinator.com/item?id=41867608) - [Raspberry Pi 3 fastboot in less than 2 seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
