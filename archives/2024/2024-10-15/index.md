@@ -29,6 +29,7 @@
 * [2024-10-15, 16:06:29](https://news.ycombinator.com/item?id=41850017) - [The C23 edition of Modern C is now available for free](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 15:57:49](https://news.ycombinator.com/item?id=41849907) - [Command AI Bought by Amplitude](https://www.command.ai/blog/command-ai-is-now-part-of-amplitude/)
 * [2024-10-15, 15:42:27](https://news.ycombinator.com/item?id=41849735) - [OpenAI Is a Bad Business](https://www.wheresyoured.at/oai-business/)
+* [2024-10-15, 15:40:12](https://news.ycombinator.com/item?id=41849718) - [Triton Fork for Windows Support](https://github.com/woct0rdho/triton)
 * [2024-10-15, 14:40:54](https://news.ycombinator.com/item?id=41849110) - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple introduces iPad mini built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/)
 * [2024-10-15, 14:35:29](https://news.ycombinator.com/item?id=41849058) - [Apple announces new iPad mini geared towards Apple Intelligence](https://www.apple.com/ipad-mini/)
