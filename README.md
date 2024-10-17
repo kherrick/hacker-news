@@ -2,6 +2,7 @@
 
 * [2024-10-17, 04:06:51](https://news.ycombinator.com/item?id=41866328) - [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
 * [2024-10-17, 01:15:46](https://news.ycombinator.com/item?id=41865511) - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
+* [2024-10-16, 23:31:32](https://news.ycombinator.com/item?id=41864947) - [Show HN: Clean News - A cleaner curation of world news events](https://cleannews.fyi)
 * [2024-10-16, 22:31:58](https://news.ycombinator.com/item?id=41864515) - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
 * [2024-10-16, 21:17:35](https://news.ycombinator.com/item?id=41863937) - [Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure)
 * [2024-10-16, 20:37:46](https://news.ycombinator.com/item?id=41863600) - [Show HN: Greenmask 0.2 – Database anonymization tool](https://github.com/GreenmaskIO/greenmask)
@@ -22,7 +23,6 @@
 * [2024-10-16, 02:18:29](https://news.ycombinator.com/item?id=41855006) - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir)
 * [2024-10-15, 15:40:12](https://news.ycombinator.com/item?id=41849718) - [Triton Fork for Windows Support](https://github.com/woct0rdho/triton)
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope (2022)](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
-* [2024-10-15, 09:16:36](https://news.ycombinator.com/item?id=41846623) - [Show HN: SpeakMyVoice – App for people with vocal or speech difficulties](https://speakmyvoice.com)
 * [2024-10-15, 08:56:03](https://news.ycombinator.com/item?id=41846471) - [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 * [2024-10-15, 06:50:51](https://news.ycombinator.com/item?id=41845669) - [Jank development update – Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-15, 05:35:30](https://news.ycombinator.com/item?id=41845256) - [Ask HN: How do you add guard rails in LLM response without breaking streaming?](https://news.ycombinator.com/item?id=41845256)
