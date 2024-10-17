@@ -74,6 +74,7 @@
 * [2024-10-15, 05:35:30](https://news.ycombinator.com/item?id=41845256) - [Ask HN: How do you add guard rails in LLM response without breaking streaming?](https://news.ycombinator.com/item?id=41845256)
 * [2024-10-15, 05:30:09](https://news.ycombinator.com/item?id=41845232) - [Cell-Based Architecture Enhances Modern Distributed Systems](https://www.infoq.com/articles/cell-based-architecture-distributed-systems/)
 * [2024-10-15, 04:35:37](https://news.ycombinator.com/item?id=41844982) - [Rodents remotely move matter using sound to enhance their sense of smell: study](https://www.buffalo.edu/news/releases/2024/10/rodents-sense-of-smell-nose.html)
+* [2024-10-15, 04:33:46](https://news.ycombinator.com/item?id=41844962) - [A Man and the Crowd (1928)](https://publicdomainreview.org/essay/the-man-and-the-crowd/)
 * [2024-10-15, 04:22:16](https://news.ycombinator.com/item?id=41844914) - [Grandmaster Expelled from Team Chess Championship After Phone Found in Toilet](https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship)
 * [2024-10-15, 03:22:07](https://news.ycombinator.com/item?id=41844592) - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
 * [2024-10-15, 03:12:00](https://news.ycombinator.com/item?id=41844545) - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
