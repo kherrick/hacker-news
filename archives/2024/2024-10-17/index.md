@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 12:01:00](https://news.ycombinator.com/item?id=41868815) - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
