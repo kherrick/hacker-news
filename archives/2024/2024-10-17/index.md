@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 22:21:15](https://news.ycombinator.com/item?id=41874394) - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
 * [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
 * [2024-10-17, 21:07:48](https://news.ycombinator.com/item?id=41873801) - [The Prompt() Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
+* [2024-10-17, 20:47:50](https://news.ycombinator.com/item?id=41873614) - [ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones](https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones)
 * [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 20:03:28](https://news.ycombinator.com/item?id=41873215) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2024-10-17, 20:02:05](https://news.ycombinator.com/item?id=41873204) - [Kagi Update: AI Image Filter for Search Results](https://help.kagi.com/kagi/features/exclude-ai-images.html)
