@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-10-17, 17:50:54",
-      "https://news.ycombinator.com/item?id=41871899"
-    ],
-    [
-      "Qualcomm cancels Snapdragon Dev Kit, refunds all orders",
-      "https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 17:41:38",
       "https://news.ycombinator.com/item?id=41871812"
     ],
@@ -167,6 +157,16 @@
     [
       "Gamedev in Lisp. Part 2: Dungeons and Interfaces",
       "https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 13:12:43",
+      "https://news.ycombinator.com/item?id=41869359"
+    ],
+    [
+      "Evaluation quirks, metric pitfalls and some recommendations",
+      "https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html"
     ]
   ],
   [
