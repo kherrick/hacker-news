@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
-* [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His essential theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Apple Passwords’ generated strong password format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-18, 11:11:10](https://news.ycombinator.com/item?id=41878281) - [Microsoft and OpenAI's close partnership shows signs of fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
@@ -19,6 +17,7 @@
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What is theoretical computer science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's most lethal python hunters](https://gardenandgun.com/feature/python-hunter/)
+* [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 * [2024-10-17, 20:42:44](https://news.ycombinator.com/item?id=41873555) - [Where the Digital Sidewalk Ends](https://www.smolways.com/post/where-the-digital-sidewalk-ends)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 18:01:01](https://news.ycombinator.com/item?id=41872010) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
@@ -29,6 +28,7 @@
 * [2024-10-17, 12:56:20](https://news.ycombinator.com/item?id=41869237) - [What do you visualize while programming?](https://dillonshook.com/what-do-you-visualize-while-programming/)
 * [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
+* [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-15, 07:37:37](https://news.ycombinator.com/item?id=41845884) - [Perspectives on Floating Point](https://www.eigentales.com/Floating-Point/)
 
 ## [Archives](archives/index.md)
