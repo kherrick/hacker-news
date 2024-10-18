@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:27:08](https://news.ycombinator.com/item?id=41878365) - [Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-18, 11:11:10](https://news.ycombinator.com/item?id=41878281) - [Microsoft and OpenAI's Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
