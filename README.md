@@ -8,6 +8,7 @@
 * [2024-10-17, 22:21:15](https://news.ycombinator.com/item?id=41874394) - [C++ proposal: There are exactly 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
 * [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan (1992)](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
 * [2024-10-17, 21:23:29](https://news.ycombinator.com/item?id=41873957) - [Why does everyone run ancient Postgres versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
+* [2024-10-17, 20:46:54](https://news.ycombinator.com/item?id=41873606) - [Type 2 diabetes: New treatment eliminates insulin for 86% of patients](https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
@@ -20,6 +21,7 @@
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
+* [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)
 * [2024-10-15, 22:53:35](https://news.ycombinator.com/item?id=41853942) - [How I failed to make a game: Raycasting on the GBA](https://mcejp.github.io/2024/10/16/gba-raycasting.html)
 * [2024-10-15, 12:40:21](https://news.ycombinator.com/item?id=41847953) - [DigitalRiver/MyCommerce stopped paying vendors since July](https://news.ycombinator.com/item?id=41847953)
 * [2024-10-15, 11:56:44](https://news.ycombinator.com/item?id=41847587) - [Show HN: Gomponents, HTML components in pure Go](https://www.gomponents.com)
@@ -28,8 +30,6 @@
 * [2024-10-14, 09:25:14](https://news.ycombinator.com/item?id=41835784) - [A benchmark of three different floating point packages for the 6809](https://boston.conman.org/2024/10/13.1)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
-* [2024-10-13, 07:23:07](https://news.ycombinator.com/item?id=41825906) - [Amplification of electromagnetic fields by a rotating body](https://www.nature.com/articles/s41467-024-49689-w)
-* [2024-10-12, 21:16:03](https://news.ycombinator.com/item?id=41822687) - [Deriving the Kelly Criterion to Maximise Profits](https://obrhubr.org/kelly-criterion)
 
 ## [Archives](archives/index.md)
 
