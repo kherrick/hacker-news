@@ -19,6 +19,7 @@
 * [2024-10-18, 10:36:54](https://news.ycombinator.com/item?id=41878069) - [Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status](https://dl.acm.org/doi/10.1145/3689492.3690052)
 * [2024-10-18, 09:32:40](https://news.ycombinator.com/item?id=41877703) - [Google Is Cracking Down on Ad Blockers, But Here's How You Can Fight Back](https://lifehacker.com/tech/google-cracking-down-on-ad-blockers)
 * [2024-10-18, 09:28:30](https://news.ycombinator.com/item?id=41877688) - [The logical fallacy at the core of patent law, what does non-obviousness test?](https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpae075/7822599)
+* [2024-10-18, 09:10:36](https://news.ycombinator.com/item?id=41877609) - [Microsoft BitNet: inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-18, 07:35:21](https://news.ycombinator.com/item?id=41877134) - [Thank HN: 10 years and $15M ARR later: Thank you](https://news.ycombinator.com/item?id=41877134)
 * [2024-10-18, 06:56:30](https://news.ycombinator.com/item?id=41876979) - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)

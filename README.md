@@ -8,6 +8,7 @@
 * [2024-10-18, 10:51:49](https://news.ycombinator.com/item?id=41878167) - [Impact of Early Life Adversity on Reward Processing in Young Adults (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
 * [2024-10-18, 10:39:50](https://news.ycombinator.com/item?id=41878095) - [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
 * [2024-10-18, 10:36:54](https://news.ycombinator.com/item?id=41878069) - [Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status](https://dl.acm.org/doi/10.1145/3689492.3690052)
+* [2024-10-18, 09:10:36](https://news.ycombinator.com/item?id=41877609) - [Microsoft BitNet: inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
@@ -23,13 +24,12 @@
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
-* [2024-10-17, 13:12:43](https://news.ycombinator.com/item?id=41869359) - [Evaluation quirks, metric pitfalls and some recommendations](https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)
 * [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
-* [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
+* [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 
 ## [Archives](archives/index.md)
 
