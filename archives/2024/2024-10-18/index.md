@@ -7,6 +7,7 @@
 * [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 17:01:07](https://news.ycombinator.com/item?id=41881302) - [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)
+* [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
 * [2024-10-18, 15:25:13](https://news.ycombinator.com/item?id=41880295) - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
