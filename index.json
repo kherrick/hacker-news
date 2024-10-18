@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-18, 11:12:17",
+      "https://news.ycombinator.com/item?id=41878290"
+    ],
+    [
+      "Ricky Mondello » Apple Passwords' Generated Strong Password Format",
+      "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 11:11:10",
       "https://news.ycombinator.com/item?id=41878281"
     ],
@@ -17,26 +27,6 @@
     [
       "Fixed Timestep Without Interpolation",
       "https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 10:57:56",
-      "https://news.ycombinator.com/item?id=41878208"
-    ],
-    [
-      "How can we personalize learning?",
-      "https://blog.comini.in/p/how-can-we-personalize-learning"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 10:54:50",
-      "https://news.ycombinator.com/item?id=41878185"
-    ],
-    [
-      "EmailBTC – A new way to send and receive Bitcoin using only email addresses",
-      "https://emailbtc.net"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-10-17, 22:03:01",
-      "https://news.ycombinator.com/item?id=41874275"
-    ],
-    [
-      "The Fifth Generation Project in Japan (1992)",
-      "https://www.sjsu.edu/faculty/watkins/5thgen.htm"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 21:23:29",
       "https://news.ycombinator.com/item?id=41873957"
     ],
@@ -157,6 +137,16 @@
     [
       "Grandmaster-level chess without search",
       "https://github.com/google-deepmind/searchless_chess"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 17:32:40",
+      "https://news.ycombinator.com/item?id=41871729"
+    ],
+    [
+      "Industrious Dice",
+      "https://mathenchant.wordpress.com/2024/10/17/industrious-dice/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Gamedev in Lisp. Part 2: Dungeons and Interfaces",
       "https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 13:12:43",
+      "https://news.ycombinator.com/item?id=41869359"
+    ],
+    [
+      "Evaluation quirks, metric pitfalls and some recommendations",
+      "https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html"
     ]
   ],
   [
