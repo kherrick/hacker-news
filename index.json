@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-18, 21:31:17",
-      "https://news.ycombinator.com/item?id=41883685"
-    ],
-    [
-      "SpaceX is NASA's biggest lunar rival",
-      "https://www.economist.com/science-and-technology/2024/10/17/spacex-is-nasas-biggest-lunar-rival"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 21:28:04",
       "https://news.ycombinator.com/item?id=41883648"
     ],
@@ -25,8 +15,18 @@
       "https://news.ycombinator.com/item?id=41883111"
     ],
     [
-      "Sam Altman's eyeball-scanning crypto project has a new Orb and a new name",
+      "Worldcoin has a new Orb and is now just World",
       "https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 20:02:11",
+      "https://news.ycombinator.com/item?id=41882955"
+    ],
+    [
+      "Express v5",
+      "https://expressjs.com/2024/10/15/v5-release.html"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41880981"
     ],
     [
-      "The Feds Are Coming for John Deere over the Right to Repair",
+      "The feds are coming for John Deere over the right to repair",
       "https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41879072"
     ],
     [
-      "Code That Helped End Apartheid",
+      "Code that helped end Apartheid",
       "https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-10-18, 02:10:09",
+      "https://news.ycombinator.com/item?id=41875792"
+    ],
+    [
+      "Smart pointers for the kernel",
+      "https://lwn.net/Articles/992055/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 20:42:44",
       "https://news.ycombinator.com/item?id=41873555"
     ],
     [
       "Where the Digital Sidewalk Ends",
       "https://www.smolways.com/post/where-the-digital-sidewalk-ends"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 19:13:20",
-      "https://news.ycombinator.com/item?id=41872813"
-    ],
-    [
-      "Grandmaster-level chess without search",
-      "https://github.com/google-deepmind/searchless_chess"
     ]
   ],
   [
