@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
+* [2024-10-18, 15:25:13](https://news.ycombinator.com/item?id=41880295) - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an Open Source App: Usage, Costs and Community Donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
+* [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
 * [2024-10-18, 14:14:04](https://news.ycombinator.com/item?id=41879666) - [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
 * [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)

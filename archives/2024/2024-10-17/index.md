@@ -24,6 +24,7 @@
 * [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
+* [2024-10-17, 17:35:43](https://news.ycombinator.com/item?id=41871758) - [Method Values](https://blog.fogus.me/2024/08/19/on-method-values-part-1/)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:31:44](https://news.ycombinator.com/item?id=41871721) - [AI Mathematical Olympiad – Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit Tests as Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
