@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 10:50:34](https://news.ycombinator.com/item?id=41878158) - [AMD ROCm Looks Like It Will Be Supporting OpenCL 3.0 Soon](https://www.phoronix.com/news/AMD-ROCm-OpenCL-3.0-Soon)
 * [2024-10-18, 09:32:40](https://news.ycombinator.com/item?id=41877703) - [Google Is Cracking Down on Ad Blockers, But Here's How You Can Fight Back](https://lifehacker.com/tech/google-cracking-down-on-ad-blockers)
 * [2024-10-18, 09:28:30](https://news.ycombinator.com/item?id=41877688) - [The logical fallacy at the core of patent law, what does non-obviousness test?](https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpae075/7822599)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
