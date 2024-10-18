@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
 * [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
-* [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
+* [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-18, 11:00:09](https://news.ycombinator.com/item?id=41878220) - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 * [2024-10-18, 10:51:49](https://news.ycombinator.com/item?id=41878167) - [Impact of Early Life Adversity on Reward Processing in Young Adults (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
 * [2024-10-18, 10:39:50](https://news.ycombinator.com/item?id=41878095) - [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
@@ -18,7 +19,6 @@
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit tests as documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 * [2024-10-17, 17:00:07](https://news.ycombinator.com/item?id=41871427) - [The Shroud of Turin: History and Legends](https://michaelshermer.substack.com/p/the-shroud-of-turin)
-* [2024-10-17, 16:57:49](https://news.ycombinator.com/item?id=41871403) - [The Kew Herbarium (2019)](https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
