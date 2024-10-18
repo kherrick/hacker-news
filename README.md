@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
+* [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Mistake to take organs from a living person was averted, witnesses say](https://www.npr.org/sections/shots-health-news/2024/10/16/nx-s1-5113976/organ-transplantion-mistake-brain-dead-surgery-still-alive)
 * [2024-10-18, 04:16:09](https://news.ycombinator.com/item?id=41876293) - [Esmeralda](https://esmeralda.org/)
-* [2024-10-18, 03:17:26](https://news.ycombinator.com/item?id=41876071) - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
 * [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 * [2024-10-18, 00:52:04](https://news.ycombinator.com/item?id=41875358) - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
 * [2024-10-18, 00:15:56](https://news.ycombinator.com/item?id=41875152) - [DHL pioneered the sharing economy (2016)](https://www.flexport.com/blog/dhl-bills-of-lading/)
@@ -18,6 +17,7 @@
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
 * [2024-10-17, 16:18:32](https://news.ycombinator.com/item?id=41871068) - [Pg_parquet: An extension to connect Postgres and parquet](https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
+* [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)

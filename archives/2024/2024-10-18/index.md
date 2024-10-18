@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Mistake to take organs from a living person was averted, witnesses say](https://www.npr.org/sections/shots-health-news/2024/10/16/nx-s1-5113976/organ-transplantion-mistake-brain-dead-surgery-still-alive)
 * [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
 * [2024-10-18, 04:16:09](https://news.ycombinator.com/item?id=41876293) - [Esmeralda](https://esmeralda.org/)
 * [2024-10-18, 03:17:26](https://news.ycombinator.com/item?id=41876071) - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
