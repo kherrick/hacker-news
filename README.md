@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
+* [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an Open Source App: Usage, Costs and Community Donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
+* [2024-10-18, 14:14:04](https://news.ycombinator.com/item?id=41879666) - [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
 * [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
@@ -14,7 +17,6 @@
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's Most Lethal Python Hunters](https://gardenandgun.com/feature/python-hunter/)
 * [2024-10-18, 00:15:56](https://news.ycombinator.com/item?id=41875152) - [DHL pioneered the sharing economy (2016)](https://www.flexport.com/blog/dhl-bills-of-lading/)
-* [2024-10-18, 00:07:46](https://news.ycombinator.com/item?id=41875108) - [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 * [2024-10-17, 21:23:29](https://news.ycombinator.com/item?id=41873957) - [Why does everyone run ancient Postgres versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit tests as documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
@@ -24,12 +26,10 @@
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
-* [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)
 * [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-14, 18:08:52](https://news.ycombinator.com/item?id=41840175) - [Makerfaire Ottawa: Rule 110 (2015)](https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
-* [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 
 ## [Archives](archives/index.md)
 
