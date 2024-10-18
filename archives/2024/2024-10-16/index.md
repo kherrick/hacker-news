@@ -50,6 +50,7 @@
 * [2024-10-16, 12:11:52](https://news.ycombinator.com/item?id=41858162) - [Tesla needs to come clean about HW3 before the word 'fraud' comes out](https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-before-the-word-fraud-comes-out/)
 * [2024-10-16, 12:06:28](https://news.ycombinator.com/item?id=41858121) - [One possible housing crisis solution? Public housing for all income levels](https://www.npr.org/2024/10/07/nx-s1-5119633/housing-crisis-solution-public-housing-mixed-income-maryland)
 * [2024-10-16, 12:04:27](https://news.ycombinator.com/item?id=41858099) - [Reinventing Core Data Development with SwiftData Principles](https://fatbobman.com/en/posts/reinventing-core-data-development-with-swiftdata-principles/)
+* [2024-10-16, 11:51:33](https://news.ycombinator.com/item?id=41858024) - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 * [2024-10-16, 11:50:43](https://news.ycombinator.com/item?id=41858018) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-16, 11:09:51](https://news.ycombinator.com/item?id=41857754) - [The Internet Archive and its 916B saved web pages are back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
 * [2024-10-16, 10:29:34](https://news.ycombinator.com/item?id=41857503) - [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)
