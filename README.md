@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Mistake to take organs from a living person was averted, witnesses say](https://www.npr.org/sections/shots-health-news/2024/10/16/nx-s1-5113976/organ-transplantion-mistake-brain-dead-surgery-still-alive)
-* [2024-10-18, 04:16:09](https://news.ycombinator.com/item?id=41876293) - [Esmeralda](https://esmeralda.org/)
 * [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 * [2024-10-18, 00:52:04](https://news.ycombinator.com/item?id=41875358) - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
 * [2024-10-18, 00:15:56](https://news.ycombinator.com/item?id=41875152) - [DHL pioneered the sharing economy (2016)](https://www.flexport.com/blog/dhl-bills-of-lading/)
@@ -25,7 +23,9 @@
 * [2024-10-15, 12:40:21](https://news.ycombinator.com/item?id=41847953) - [Tell HN: DigitalRiver/MyCommerce stopped paying vendors since July](https://news.ycombinator.com/item?id=41847953)
 * [2024-10-15, 11:56:44](https://news.ycombinator.com/item?id=41847587) - [Show HN: Gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
+* [2024-10-15, 10:33:57](https://news.ycombinator.com/item?id=41847096) - [Show HN: Tamagotchi-like characters for AI assistants in JavaScript](https://github.com/Barqawiz/Tamagotchi)
 * [2024-10-15, 09:29:35](https://news.ycombinator.com/item?id=41846693) - [Watch YouTube videos on the album artwork of Windows music control bar](https://github.com/EtherDream/media-popup-player)
+* [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 09:25:14](https://news.ycombinator.com/item?id=41835784) - [A benchmark of three different floating point packages for the 6809](https://boston.conman.org/2024/10/13.1)
 * [2024-10-13, 21:47:46](https://news.ycombinator.com/item?id=41831948) - [ITX-Llama (Vortex86EX ITX Motherboard)](https://github.com/eivindbohler/itxllama)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
