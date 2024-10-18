@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-18, 20:21:57](https://news.ycombinator.com/item?id=41883111) - [Worldcoin has a new Orb and is now just World](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
 * [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 * [2024-10-18, 18:05:48](https://news.ycombinator.com/item?id=41881927) - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
@@ -25,6 +24,7 @@
 * [2024-10-17, 20:42:44](https://news.ycombinator.com/item?id=41873555) - [Where the Digital Sidewalk Ends](https://www.smolways.com/post/where-the-digital-sidewalk-ends)
 * [2024-10-17, 18:01:01](https://news.ycombinator.com/item?id=41872010) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 * [2024-10-17, 17:46:17](https://news.ycombinator.com/item?id=41871850) - [JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
+* [2024-10-17, 17:00:07](https://news.ycombinator.com/item?id=41871427) - [The Shroud of Turin: History and Legends](https://michaelshermer.substack.com/p/the-shroud-of-turin)
 * [2024-10-17, 15:57:54](https://news.ycombinator.com/item?id=41870858) - [Why conventional wisdom on health care is wrong (a primer) (2020)](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
 * [2024-10-17, 12:56:20](https://news.ycombinator.com/item?id=41869237) - [What do you visualize while programming?](https://dillonshook.com/what-do-you-visualize-while-programming/)
 * [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
