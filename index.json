@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-10-18, 16:01:40",
-      "https://news.ycombinator.com/item?id=41880649"
-    ],
-    [
-      "US to probe Tesla's 'Full Self-Driving' system after pedestrian killed",
-      "https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 15:25:13",
-      "https://news.ycombinator.com/item?id=41880295"
-    ],
-    [
-      "Open-source, uncensored alternative to CharacterAI",
-      "https://opencharacter.org"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 14:36:27",
       "https://news.ycombinator.com/item?id=41879854"
     ],
@@ -47,16 +27,6 @@
     [
       "Show HN: What happens if you make a crossword out of Reddit r/gaming",
       "https://news.ycombinator.com/item?id=41879754"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 14:14:04",
-      "https://news.ycombinator.com/item?id=41879666"
-    ],
-    [
-      "Permira completes Squarespace acquisition after upping bid to $7.2B",
-      "https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/"
     ]
   ],
   [
@@ -117,16 +87,6 @@
     [
       "Impact of Early Life Adversity on Reward Processing in Young Adults (2014)",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 10:39:50",
-      "https://news.ycombinator.com/item?id=41878095"
-    ],
-    [
-      "Net 9.0 LINQ Performance Improvements",
-      "https://blog.ndepend.com/net-9-0-linq-performance-improvements/"
     ]
   ],
   [
@@ -211,12 +171,12 @@
   ],
   [
     [
-      "2024-10-17, 21:23:29",
-      "https://news.ycombinator.com/item?id=41873957"
+      "2024-10-17, 20:42:44",
+      "https://news.ycombinator.com/item?id=41873555"
     ],
     [
-      "Why does everyone run ancient Postgres versions?",
-      "https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions"
+      "Where the Digital Sidewalk Ends",
+      "https://www.smolways.com/post/where-the-digital-sidewalk-ends"
     ]
   ],
   [
@@ -227,6 +187,26 @@
     [
       "Grandmaster-level chess without search",
       "https://github.com/google-deepmind/searchless_chess"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 18:01:01",
+      "https://news.ycombinator.com/item?id=41872010"
+    ],
+    [
+      "setBigTimeout",
+      "https://evanhahn.com/set-big-timeout/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 17:46:17",
+      "https://news.ycombinator.com/item?id=41871850"
+    ],
+    [
+      "JSON Patch",
+      "https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch"
     ]
   ],
   [
@@ -247,6 +227,46 @@
     [
       "The Shroud of Turin: History and Legends",
       "https://michaelshermer.substack.com/p/the-shroud-of-turin"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 15:57:54",
+      "https://news.ycombinator.com/item?id=41870858"
+    ],
+    [
+      "Why conventional wisdom on health care is wrong (a primer) (2020)",
+      "https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 12:56:20",
+      "https://news.ycombinator.com/item?id=41869237"
+    ],
+    [
+      "What do you visualize while programming?",
+      "https://dillonshook.com/what-do-you-visualize-while-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 12:53:04",
+      "https://news.ycombinator.com/item?id=41869215"
+    ],
+    [
+      "Hate the Process",
+      "https://ninjasandrobots.com/hate-the-process"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 10:56:34",
+      "https://news.ycombinator.com/item?id=41868353"
+    ],
+    [
+      "My solar-powered and self-hosted website",
+      "https://dri.es/my-solar-powered-and-self-hosted-website"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Perspectives on Floating Point",
       "https://www.eigentales.com/Floating-Point/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 18:08:52",
-      "https://news.ycombinator.com/item?id=41840175"
-    ],
-    [
-      "Makerfaire Ottawa: Rule 110 (2015)",
-      "https://blog.tahnok.me/post/makerfaire-ottawa-rule-110.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 21:22:48",
-      "https://news.ycombinator.com/item?id=41831735"
-    ],
-    [
-      "Use Prolog to improve LLM's reasoning",
-      "https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning"
     ]
   ]
 ]
