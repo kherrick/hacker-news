@@ -9,6 +9,7 @@
 * [2024-10-18, 14:14:04](https://news.ycombinator.com/item?id=41879666) - [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
 * [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
+* [2024-10-18, 12:35:57](https://news.ycombinator.com/item?id=41878836) - [Show HN: Desktop app displaying files on a 2D canvas](https://limandoc.com/)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:27:08](https://news.ycombinator.com/item?id=41878365) - [Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
