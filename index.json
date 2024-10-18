@@ -1,32 +1,42 @@
 [
   [
     [
-      "2024-10-18, 01:34:10",
-      "https://news.ycombinator.com/item?id=41875593"
+      "2024-10-18, 02:10:09",
+      "https://news.ycombinator.com/item?id=41875792"
     ],
     [
-      "Covid-19 linked to type 2 diabetes onset in children",
-      "https://medicalxpress.com/news/2024-10-covid-linked-diabetes-onset-children.html"
+      "Smart pointers for the kernel",
+      "https://lwn.net/Articles/992055/"
     ]
   ],
   [
     [
-      "2024-10-17, 23:23:05",
-      "https://news.ycombinator.com/item?id=41874813"
+      "2024-10-18, 00:52:04",
+      "https://news.ycombinator.com/item?id=41875358"
     ],
     [
-      "The Border Crisis Won't Be Solved at the Border",
-      "https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/"
+      "Show HN: I wrote an autodiff in C++ and implemented LeNet with it",
+      "https://gitlab.com/mebassett/quixotic-learning/-/tree/master"
     ]
   ],
   [
     [
-      "2024-10-17, 22:36:38",
-      "https://news.ycombinator.com/item?id=41874511"
+      "2024-10-18, 00:15:56",
+      "https://news.ycombinator.com/item?id=41875152"
     ],
     [
-      "Wayland Apps in WireGuard Docker Containers",
-      "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
+      "DHL Pioneered the Sharing Economy",
+      "https://www.flexport.com/blog/dhl-bills-of-lading/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 00:07:46",
+      "https://news.ycombinator.com/item?id=41875108"
+    ],
+    [
+      "SOFA - Start Often Finish rArely",
+      "https://tilde.town/~dozens/sofa/"
     ]
   ],
   [
@@ -35,18 +45,28 @@
       "https://news.ycombinator.com/item?id=41874394"
     ],
     [
-      "C++ proposal: There are 8 bits in a byte",
+      "C++ proposal: There are exactly 8 bits in a byte",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"
     ]
   ],
   [
     [
-      "2024-10-17, 22:05:39",
-      "https://news.ycombinator.com/item?id=41874286"
+      "2024-10-17, 22:03:01",
+      "https://news.ycombinator.com/item?id=41874275"
     ],
     [
-      "GPT-4o Jailbroken by saying it is connected to disk with any file on planet",
-      "https://twitter.com/mixedenn/status/1847035711985274947"
+      "The Fifth Generation Project in Japan (1992)",
+      "https://www.sjsu.edu/faculty/watkins/5thgen.htm"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 21:23:29",
+      "https://news.ycombinator.com/item?id=41873957"
+    ],
+    [
+      "Why does everyone run ancient Postgres versions?",
+      "https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions"
     ]
   ],
   [
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=41873606"
     ],
     [
-      "Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients",
+      "Type 2 diabetes: New treatment eliminates insulin for 86% of patients",
       "https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 20:03:28",
-      "https://news.ycombinator.com/item?id=41873215"
-    ],
-    [
-      "Removing PGP from PyPI",
-      "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41872813"
     ],
     [
-      "Grandmaster-Level Chess Without Search",
+      "Grandmaster-level chess without search",
       "https://github.com/google-deepmind/searchless_chess"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41871812"
     ],
     [
-      "Tubeworms live beneath the planetary crust around deep-sea vents",
+      "Tubeworms live around deep-sea vents",
       "https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents"
     ]
   ],
@@ -215,18 +225,8 @@
       "https://news.ycombinator.com/item?id=41847096"
     ],
     [
-      "Show HN: Tamagotchi-Like Characters for AI Assistants – All in JavaScript",
+      "Show HN: Tamagotchi-like characters for AI assistants in JavaScript",
       "https://github.com/Barqawiz/Tamagotchi"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 23:58:13",
-      "https://news.ycombinator.com/item?id=41843532"
-    ],
-    [
-      "A protocol for reliable notifications over a 1 bit fallible connection",
-      "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Emit",
       "https://re.factorcode.org/2024/10/emit.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 20:43:40",
+      "https://news.ycombinator.com/item?id=41841765"
+    ],
+    [
+      "Austin 3.7 – Python frame stack sampler for CPython",
+      "https://github.com/P403n1x87/austin"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Inkscape 1.4 Released",
       "https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 15:20:34",
-      "https://news.ycombinator.com/item?id=41828771"
-    ],
-    [
-      "Defining Statistical Models in Jax?",
-      "https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments"
     ]
   ],
   [
