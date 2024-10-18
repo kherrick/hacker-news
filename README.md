@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-* [2024-10-18, 17:01:25](https://news.ycombinator.com/item?id=41881306) - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
