@@ -6,6 +6,7 @@
 
 * [2024-10-18, 19:12:08](https://news.ycombinator.com/item?id=41882510) - [5.6M vacant homes and counting: There's a housing crisis brewing in the US](https://economictimes.indiatimes.com/news/international/us/5-6-million-vacant-homes-and-counting-there-is-a-massive-housing-crisis-brewing-in-america/articleshow/114329491.cms?from=mdr)
 * [2024-10-18, 19:02:44](https://news.ycombinator.com/item?id=41882430) - [Access your Raspberry Pi without a public IP](https://pinggy.io/blog/access_raspberry_pi_remotely_to_control_iot_devices/)
+* [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
 * [2024-10-18, 17:01:25](https://news.ycombinator.com/item?id=41881306) - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
