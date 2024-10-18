@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 06:56:30](https://news.ycombinator.com/item?id=41876979) - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
 * [2024-10-18, 06:25:34](https://news.ycombinator.com/item?id=41876821) - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
@@ -21,7 +22,6 @@
 * [2024-10-17, 11:43:00](https://news.ycombinator.com/item?id=41868683) - [Cats are (almost) liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 * [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)
 * [2024-10-16, 03:44:35](https://news.ycombinator.com/item?id=41855403) - [Ask HN: Tips for Hacking a TV?](https://news.ycombinator.com/item?id=41855403)
-* [2024-10-15, 22:53:35](https://news.ycombinator.com/item?id=41853942) - [How I failed to make a game: Raycasting on the GBA](https://mcejp.github.io/2024/10/16/gba-raycasting.html)
 * [2024-10-15, 12:40:21](https://news.ycombinator.com/item?id=41847953) - [Tell HN: DigitalRiver/MyCommerce stopped paying vendors since July](https://news.ycombinator.com/item?id=41847953)
 * [2024-10-15, 11:56:44](https://news.ycombinator.com/item?id=41847587) - [Show HN: Gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
