@@ -69,6 +69,7 @@
 * [2024-10-14, 10:28:45](https://news.ycombinator.com/item?id=41836128) - [Cwal: Scripting Engine Without a Language](https://fossil.wanderinghorse.net/r/cwal/home)
 * [2024-10-14, 10:18:54](https://news.ycombinator.com/item?id=41836071) - [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/)
 * [2024-10-14, 09:59:37](https://news.ycombinator.com/item?id=41835957) - [10B Integers Walk into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964)
+* [2024-10-14, 09:25:14](https://news.ycombinator.com/item?id=41835784) - [A benchmark of three different floating point packages for the 6809](https://boston.conman.org/2024/10/13.1)
 * [2024-10-14, 09:00:31](https://news.ycombinator.com/item?id=41835635) - [Happy Birthday to us KDE is 28 years old today](https://news.ycombinator.com/item?id=41835635)
 * [2024-10-14, 07:48:47](https://news.ycombinator.com/item?id=41835217) - [Blocking the \"Sign in with Google\" Prompt](https://superuser.com/questions/1773208/how-can-i-block-the-sign-in-with-google-prompt-on-websites)
 * [2024-10-14, 07:34:55](https://news.ycombinator.com/item?id=41835140) - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
