@@ -50,6 +50,7 @@
 * [2024-10-15, 12:56:51](https://news.ycombinator.com/item?id=41848088) - [TIL: iTerm2 has custom status bars](https://wompa.land/articles/iterm-status-bar)
 * [2024-10-15, 12:53:56](https://news.ycombinator.com/item?id=41848053) - [Looking for help for Bloxtor: A Free Open-Source Web App Framework](https://github.com/a19836/bloxtor)
 * [2024-10-15, 12:41:53](https://news.ycombinator.com/item?id=41847966) - [Ask HN: Recommendation for LLM-based \"documentation interaction\"](https://news.ycombinator.com/item?id=41847966)
+* [2024-10-15, 12:40:21](https://news.ycombinator.com/item?id=41847953) - [DigitalRiver/MyCommerce stopped paying vendors since July](https://news.ycombinator.com/item?id=41847953)
 * [2024-10-15, 12:39:42](https://news.ycombinator.com/item?id=41847948) - [Show HN: MacProxy Plus – Surf the Modern Web on Vintage Computers](https://github.com/hunterirving/macproxy_plus)
 * [2024-10-15, 12:18:36](https://news.ycombinator.com/item?id=41847787) - [FIDO Alliance publishes new spec to let users move passkeys across providers](https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/)
 * [2024-10-15, 12:15:55](https://news.ycombinator.com/item?id=41847754) - [Trapped](https://vaaal88.itch.io/trapped)
