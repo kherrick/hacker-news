@@ -3,7 +3,6 @@
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 17:01:07](https://news.ycombinator.com/item?id=41881302) - [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
-* [2024-10-18, 15:21:08](https://news.ycombinator.com/item?id=41880249) - [Another burnout post](https://gushogg-blake.com/p/blog-burnout/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
 * [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
@@ -29,6 +28,7 @@
 * [2024-10-17, 12:53:04](https://news.ycombinator.com/item?id=41869215) - [Hate the Process](https://ninjasandrobots.com/hate-the-process)
 * [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
+* [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-15, 07:37:37](https://news.ycombinator.com/item?id=41845884) - [Perspectives on Floating Point](https://www.eigentales.com/Floating-Point/)
 
 ## [Archives](archives/index.md)
