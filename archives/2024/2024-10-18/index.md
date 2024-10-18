@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 19:12:08](https://news.ycombinator.com/item?id=41882510) - [5.6M vacant homes and counting: There's a housing crisis brewing in the US](https://economictimes.indiatimes.com/news/international/us/5-6-million-vacant-homes-and-counting-there-is-a-massive-housing-crisis-brewing-in-america/articleshow/114329491.cms?from=mdr)
 * [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
+* [2024-10-18, 17:01:25](https://news.ycombinator.com/item?id=41881306) - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 17:01:07](https://news.ycombinator.com/item?id=41881302) - [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)
 * [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
