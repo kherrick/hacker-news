@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 07:35:21](https://news.ycombinator.com/item?id=41877134) - [Thank HN: 10 years and $15M ARR later: Thank you](https://news.ycombinator.com/item?id=41877134)
 * [2024-10-18, 06:56:30](https://news.ycombinator.com/item?id=41876979) - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
 * [2024-10-18, 06:25:34](https://news.ycombinator.com/item?id=41876821) - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
@@ -12,7 +13,6 @@
 * [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan (1992)](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
 * [2024-10-17, 21:23:29](https://news.ycombinator.com/item?id=41873957) - [Why does everyone run ancient Postgres versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
-* [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit tests as documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
