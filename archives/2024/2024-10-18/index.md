@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 11:27:08](https://news.ycombinator.com/item?id=41878365) - [Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
+* [2024-10-18, 11:11:10](https://news.ycombinator.com/item?id=41878281) - [Microsoft and OpenAI's Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
+* [2024-10-18, 11:00:09](https://news.ycombinator.com/item?id=41878220) - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
+* [2024-10-18, 10:51:49](https://news.ycombinator.com/item?id=41878167) - [Impact of Early Life Adversity on Reward Processing in Young Adults (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
 * [2024-10-18, 10:50:34](https://news.ycombinator.com/item?id=41878158) - [AMD ROCm Looks Like It Will Be Supporting OpenCL 3.0 Soon](https://www.phoronix.com/news/AMD-ROCm-OpenCL-3.0-Soon)
+* [2024-10-18, 10:39:50](https://news.ycombinator.com/item?id=41878095) - [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
+* [2024-10-18, 10:36:54](https://news.ycombinator.com/item?id=41878069) - [Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status](https://dl.acm.org/doi/10.1145/3689492.3690052)
 * [2024-10-18, 09:32:40](https://news.ycombinator.com/item?id=41877703) - [Google Is Cracking Down on Ad Blockers, But Here's How You Can Fight Back](https://lifehacker.com/tech/google-cracking-down-on-ad-blockers)
 * [2024-10-18, 09:28:30](https://news.ycombinator.com/item?id=41877688) - [The logical fallacy at the core of patent law, what does non-obviousness test?](https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpae075/7822599)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
@@ -16,6 +22,7 @@
 * [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Mistake to take organs from a living person was averted, witnesses say](https://www.npr.org/sections/shots-health-news/2024/10/16/nx-s1-5113976/organ-transplantion-mistake-brain-dead-surgery-still-alive)
 * [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
 * [2024-10-18, 04:16:09](https://news.ycombinator.com/item?id=41876293) - [Esmeralda](https://esmeralda.org/)
+* [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's Most Lethal Python Hunters](https://gardenandgun.com/feature/python-hunter/)
 * [2024-10-18, 03:17:26](https://news.ycombinator.com/item?id=41876071) - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
 * [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 * [2024-10-18, 01:34:10](https://news.ycombinator.com/item?id=41875593) - [Covid-19 linked to type 2 diabetes onset in children](https://medicalxpress.com/news/2024-10-covid-linked-diabetes-onset-children.html)
