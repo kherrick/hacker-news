@@ -6,6 +6,7 @@
 
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
 * [2024-10-18, 15:25:13](https://news.ycombinator.com/item?id=41880295) - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
+* [2024-10-18, 15:21:08](https://news.ycombinator.com/item?id=41880249) - [Another Burnout Post](https://gushogg-blake.com/p/blog-burnout/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an Open Source App: Usage, Costs and Community Donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
 * [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)

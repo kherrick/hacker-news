@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 15:21:08](https://news.ycombinator.com/item?id=41880249) - [Another Burnout Post](https://gushogg-blake.com/p/blog-burnout/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
 * [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
@@ -27,7 +28,6 @@
 * [2024-10-17, 12:56:20](https://news.ycombinator.com/item?id=41869237) - [What do you visualize while programming?](https://dillonshook.com/what-do-you-visualize-while-programming/)
 * [2024-10-17, 12:53:04](https://news.ycombinator.com/item?id=41869215) - [Hate the Process](https://ninjasandrobots.com/hate-the-process)
 * [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
-* [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-15, 07:37:37](https://news.ycombinator.com/item?id=41845884) - [Perspectives on Floating Point](https://www.eigentales.com/Floating-Point/)
 
