@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)
 * [2024-10-18, 03:17:26](https://news.ycombinator.com/item?id=41876071) - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
 * [2024-10-18, 02:10:09](https://news.ycombinator.com/item?id=41875792) - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
 * [2024-10-18, 00:52:04](https://news.ycombinator.com/item?id=41875358) - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
@@ -26,7 +27,6 @@
 * [2024-10-15, 12:40:21](https://news.ycombinator.com/item?id=41847953) - [DigitalRiver/MyCommerce stopped paying vendors since July](https://news.ycombinator.com/item?id=41847953)
 * [2024-10-15, 11:56:44](https://news.ycombinator.com/item?id=41847587) - [Show HN: Gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2024-10-15, 10:33:57](https://news.ycombinator.com/item?id=41847096) - [Show HN: Tamagotchi-like characters for AI assistants in JavaScript](https://github.com/Barqawiz/Tamagotchi)
-* [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 09:25:14](https://news.ycombinator.com/item?id=41835784) - [A benchmark of three different floating point packages for the 6809](https://boston.conman.org/2024/10/13.1)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
