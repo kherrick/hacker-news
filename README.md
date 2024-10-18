@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-18, 11:00:09](https://news.ycombinator.com/item?id=41878220) - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
@@ -16,10 +17,10 @@
 * [2024-10-17, 19:13:20](https://news.ycombinator.com/item?id=41872813) - [Grandmaster-level chess without search](https://github.com/google-deepmind/searchless_chess)
 * [2024-10-17, 17:32:40](https://news.ycombinator.com/item?id=41871729) - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 * [2024-10-17, 17:22:45](https://news.ycombinator.com/item?id=41871629) - [Unit tests as documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
+* [2024-10-17, 17:00:07](https://news.ycombinator.com/item?id=41871427) - [The Shroud of Turin: History and Legends](https://michaelshermer.substack.com/p/the-shroud-of-turin)
 * [2024-10-17, 16:57:49](https://news.ycombinator.com/item?id=41871403) - [The Kew Herbarium (2019)](https://us.toa.st/blogs/magazine/inside-the-kew-herbarium-matt-collins)
 * [2024-10-17, 16:54:49](https://news.ycombinator.com/item?id=41871375) - [Crokinole](https://pudding.cool/2024/10/crokinole/)
 * [2024-10-17, 16:42:04](https://news.ycombinator.com/item?id=41871262) - [NotebookLM launches feature to customize and guide audio overviews](https://blog.google/technology/ai/notebooklm-update-october-2024/)
-* [2024-10-17, 16:18:32](https://news.ycombinator.com/item?id=41871068) - [Pg_parquet: An extension to connect Postgres and parquet](https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet)
 * [2024-10-17, 16:01:16](https://news.ycombinator.com/item?id=41870887) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=41870887)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 13:12:43](https://news.ycombinator.com/item?id=41869359) - [Evaluation quirks, metric pitfalls and some recommendations](https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html)
@@ -27,7 +28,6 @@
 * [2024-10-16, 13:51:00](https://news.ycombinator.com/item?id=41859037) - [Bugs in LLM Training – Gradient Accumulation Fix](https://unsloth.ai/blog/gradient)
 * [2024-10-15, 22:25:18](https://news.ycombinator.com/item?id=41853767) - [Memory: the forgotten history](https://lcamtuf.substack.com/p/memory-the-forgotten-history)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
-* [2024-10-15, 03:28:52](https://news.ycombinator.com/item?id=41844624) - [Unicode uses elephants as baseline comparison of cultural frequency for emoji](https://www.unicode.org/emoji/proposals.html#frequency-evidence)
 * [2024-10-13, 21:22:48](https://news.ycombinator.com/item?id=41831735) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-13, 19:14:30](https://news.ycombinator.com/item?id=41830699) - [Inkscape 1.4 Released](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 

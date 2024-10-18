@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His Essential Theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:27:08](https://news.ycombinator.com/item?id=41878365) - [Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
