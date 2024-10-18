@@ -16,6 +16,7 @@
 * [2024-10-14, 21:10:41](https://news.ycombinator.com/item?id=41842060) - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
 * [2024-10-14, 20:51:30](https://news.ycombinator.com/item?id=41841853) - [Emit](https://re.factorcode.org/2024/10/emit.html)
 * [2024-10-14, 20:49:31](https://news.ycombinator.com/item?id=41841835) - [I don't want your AI](https://martinantos.com/I-don%27t-want-your-AI/)
+* [2024-10-14, 20:43:40](https://news.ycombinator.com/item?id=41841765) - [Austin 3.7 – Python frame stack sampler for CPython](https://github.com/P403n1x87/austin)
 * [2024-10-14, 20:41:04](https://news.ycombinator.com/item?id=41841744) - [Why World War WordPress Will End with a Zombie Fork](https://darnell.day/why-world-war-wordpress-will-end-with-a-zombie-fork)
 * [2024-10-14, 20:27:29](https://news.ycombinator.com/item?id=41841581) - [Project Euler](https://projecteuler.net/problem=912)
 * [2024-10-14, 20:07:27](https://news.ycombinator.com/item?id=41841366) - [Splitting engineering teams into defense and offense](https://www.greptile.com/blog/how-we-engineer)
