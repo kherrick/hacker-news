@@ -10,6 +10,7 @@
 * [2024-10-13, 22:22:16](https://news.ycombinator.com/item?id=41832215) - [Minetest – Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-13, 22:05:42](https://news.ycombinator.com/item?id=41832099) - [FriendlyElec NanoPi R5S as PTP Grandmaster Clock with GNSS/GPS Discipline (2022)](https://blog.kylemanna.com/hardware/nanopi-r5s-as-ptp-grandmaster-clock-with-gnss-gps-discipline/)
 * [2024-10-13, 21:59:19](https://news.ycombinator.com/item?id=41832043) - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
+* [2024-10-13, 21:47:46](https://news.ycombinator.com/item?id=41831948) - [ITX-Llama (Vortex86EX ITX Motherboard)](https://github.com/eivindbohler/itxllama)
 * [2024-10-13, 21:46:07](https://news.ycombinator.com/item?id=41831932) - [Black Voters Drift from Democrats, Imperiling Harris's Bid, Poll Shows](https://www.nytimes.com/2024/10/12/us/politics/poll-black-voters-harris-trump.html)
 * [2024-10-13, 21:37:45](https://news.ycombinator.com/item?id=41831861) - [Australian coal plant in 'extraordinary' survival experiment](https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504)
 * [2024-10-13, 21:31:01](https://news.ycombinator.com/item?id=41831794) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](http://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
