@@ -1,12 +1,72 @@
 [
   [
     [
+      "2024-10-18, 11:27:08",
+      "https://news.ycombinator.com/item?id=41878365"
+    ],
+    [
+      "Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity",
+      "https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 11:11:10",
+      "https://news.ycombinator.com/item?id=41878281"
+    ],
+    [
+      "Microsoft and OpenAI's Close Partnership Shows Signs of Fraying",
+      "https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 11:00:09",
+      "https://news.ycombinator.com/item?id=41878220"
+    ],
+    [
+      "Fixed Timestep Without Interpolation",
+      "https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 10:51:49",
+      "https://news.ycombinator.com/item?id=41878167"
+    ],
+    [
+      "Impact of Early Life Adversity on Reward Processing in Young Adults (2014)",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 10:50:34",
       "https://news.ycombinator.com/item?id=41878158"
     ],
     [
       "AMD ROCm Looks Like It Will Be Supporting OpenCL 3.0 Soon",
       "https://www.phoronix.com/news/AMD-ROCm-OpenCL-3.0-Soon"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 10:39:50",
+      "https://news.ycombinator.com/item?id=41878095"
+    ],
+    [
+      "Net 9.0 LINQ Performance Improvements",
+      "https://blog.ndepend.com/net-9-0-linq-performance-improvements/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 10:36:54",
+      "https://news.ycombinator.com/item?id=41878069"
+    ],
+    [
+      "Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status",
+      "https://dl.acm.org/doi/10.1145/3689492.3690052"
     ]
   ],
   [
@@ -41,6 +101,16 @@
   ],
   [
     [
+      "2024-10-18, 04:13:29",
+      "https://news.ycombinator.com/item?id=41876281"
+    ],
+    [
+      "One of Florida's Most Lethal Python Hunters",
+      "https://gardenandgun.com/feature/python-hunter/"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 00:15:56",
       "https://news.ycombinator.com/item?id=41875152"
     ],
@@ -57,16 +127,6 @@
     [
       "SOFA - Start Often Finish rArely",
       "https://tilde.town/~dozens/sofa/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 22:21:15",
-      "https://news.ycombinator.com/item?id=41874394"
-    ],
-    [
-      "C++ proposal: There are exactly 8 bits in a byte",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"
     ]
   ],
   [
@@ -97,26 +157,6 @@
     [
       "Grandmaster-level chess without search",
       "https://github.com/google-deepmind/searchless_chess"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 17:41:38",
-      "https://news.ycombinator.com/item?id=41871812"
-    ],
-    [
-      "Tubeworms live around deep-sea vents",
-      "https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 17:32:40",
-      "https://news.ycombinator.com/item?id=41871729"
-    ],
-    [
-      "Industrious Dice",
-      "https://mathenchant.wordpress.com/2024/10/17/industrious-dice/"
     ]
   ],
   [
@@ -157,16 +197,6 @@
     [
       "NotebookLM launches feature to customize and guide audio overviews",
       "https://blog.google/technology/ai/notebooklm-update-october-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 16:18:32",
-      "https://news.ycombinator.com/item?id=41871068"
-    ],
-    [
-      "Pg_parquet: An extension to connect Postgres and parquet",
-      "https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2024-10-15, 22:53:35",
-      "https://news.ycombinator.com/item?id=41853942"
-    ],
-    [
-      "How I failed to make a game: Raycasting on the GBA",
-      "https://mcejp.github.io/2024/10/16/gba-raycasting.html"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 22:25:18",
       "https://news.ycombinator.com/item?id=41853767"
     ],
     [
       "Memory: the forgotten history",
       "https://lcamtuf.substack.com/p/memory-the-forgotten-history"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 11:56:44",
-      "https://news.ycombinator.com/item?id=41847587"
-    ],
-    [
-      "Show HN: Gomponents, HTML components in pure Go",
-      "https://www.gomponents.com"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Unicode uses elephants as baseline comparison of cultural frequency for emoji",
       "https://www.unicode.org/emoji/proposals.html#frequency-evidence"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 09:25:14",
-      "https://news.ycombinator.com/item?id=41835784"
-    ],
-    [
-      "A benchmark of three different floating point packages for the 6809",
-      "https://boston.conman.org/2024/10/13.1"
     ]
   ],
   [
