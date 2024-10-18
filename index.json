@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-18, 19:02:44",
-      "https://news.ycombinator.com/item?id=41882430"
-    ],
-    [
-      "Access your Raspberry Pi without a public IP",
-      "https://pinggy.io/blog/access_raspberry_pi_remotely_to_control_iot_devices/"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 17:01:25",
       "https://news.ycombinator.com/item?id=41881306"
     ],
@@ -47,6 +37,16 @@
     [
       "Subvert – Collectively owned music marketplace",
       "https://subvert.fm/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 16:06:52",
+      "https://news.ycombinator.com/item?id=41880697"
+    ],
+    [
+      "Dolphin Swimming – A Review (1991) [pdf]",
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Fixed Timestep Without Interpolation",
       "https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 10:51:49",
+      "https://news.ycombinator.com/item?id=41878167"
+    ],
+    [
+      "Impact of early life adversity on reward processing in young adults (2014)",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Grandmaster-level chess without search",
       "https://github.com/google-deepmind/searchless_chess"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 18:01:01",
-      "https://news.ycombinator.com/item?id=41872010"
-    ],
-    [
-      "setBigTimeout",
-      "https://evanhahn.com/set-big-timeout/"
     ]
   ],
   [
