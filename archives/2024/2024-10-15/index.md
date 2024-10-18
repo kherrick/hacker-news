@@ -60,6 +60,7 @@
 * [2024-10-15, 11:52:48](https://news.ycombinator.com/item?id=41847563) - [A solar gravitational lens will be humanity's most powerful telescope](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [2024-10-15, 11:30:14](https://news.ycombinator.com/item?id=41847407) - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
 * [2024-10-15, 10:58:52](https://news.ycombinator.com/item?id=41847239) - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
+* [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 * [2024-10-15, 10:33:57](https://news.ycombinator.com/item?id=41847096) - [Show HN: Tamagotchi-Like Characters for AI Assistants – All in JavaScript](https://github.com/Barqawiz/Tamagotchi)
 * [2024-10-15, 10:14:41](https://news.ycombinator.com/item?id=41846986) - [Forscape – A Language and Editor for Scientific Computation](https://github.com/JohnDTill/Forscape)
 * [2024-10-15, 09:57:04](https://news.ycombinator.com/item?id=41846876) - [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)
