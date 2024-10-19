@@ -82,6 +82,7 @@
 * [2024-10-17, 04:53:49](https://news.ycombinator.com/item?id=41866521) - [Critical default credentials in Kubernetes allows SSH root access](https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/)
 * [2024-10-17, 04:06:51](https://news.ycombinator.com/item?id=41866328) - [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/)
 * [2024-10-17, 02:25:48](https://news.ycombinator.com/item?id=41865852) - [Sample what you can't compress; image auto-encoders wihtout GANs](https://arxiv.org/abs/2409.02529)
+* [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-17, 01:15:57](https://news.ycombinator.com/item?id=41865512) - [Redbox's Insane Bankruptcy Unwinding](https://sherwood.news/business/inside-redboxs-insane-bankruptcy/)
 * [2024-10-17, 01:15:46](https://news.ycombinator.com/item?id=41865511) - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
 * [2024-10-17, 00:01:59](https://news.ycombinator.com/item?id=41865141) - [Doctor Fukushi Masaichi and the Art of Preserving Tattooed Skin](https://www.dannydutch.com/post/doctor-fukushi-masaichi-and-the-art-of-preserving-tattooed-skin)

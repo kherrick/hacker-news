@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 17:10:30](https://news.ycombinator.com/item?id=41889027) - [Bluesky gains 1.2M in 2 days, 12M total after X disables blocking](https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572)
+* [2024-10-19, 16:54:17](https://news.ycombinator.com/item?id=41888917) - [As America's Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
+* [2024-10-19, 16:41:47](https://news.ycombinator.com/item?id=41888844) - [Spectra is a customizable, JavaScript ESP32 smartwatch](https://www.cnx-software.com/2024/10/18/spectra-customizable-javascript-esp32-s3-nrf52832-smartwatch/)
 * [2024-10-19, 16:33:14](https://news.ycombinator.com/item?id=41888806) - [U.S. to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
 * [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
+* [2024-10-19, 16:30:42](https://news.ycombinator.com/item?id=41888788) - [Town has no cell service, so the 'electrosensitive' have made it home](https://www.washingtonpost.com/style/of-interest/2024/10/18/green-bank-west-virginia-wv-electrosensitive-cell-service/)
 * [2024-10-19, 14:51:25](https://news.ycombinator.com/item?id=41888092) - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 * [2024-10-19, 14:45:30](https://news.ycombinator.com/item?id=41888050) - [ChatGPT's Name Bias and Apple's Findings on AI's Lack of Reasoning](https://medium.com/@researchgraph/chatgpts-name-bias-and-apple-s-findings-on-ai-s-lack-of-reasoning-major-flaws-revealed-b4a44c27fd75)
 * [2024-10-19, 14:24:05](https://news.ycombinator.com/item?id=41887923) - [Developers Now Required to Share Phone Number and Address on EU App Store](https://www.macrumors.com/2024/10/17/developers-eu-app-store-trader-requirements/)
 * [2024-10-19, 13:41:04](https://news.ycombinator.com/item?id=41887718) - [External RF-EMF Alters Cell Number and Reactive Oxygen Species Balance](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1425023/full)
+* [2024-10-19, 13:23:50](https://news.ycombinator.com/item?id=41887628) - [Plastic – A Modern NES Emulator That Works with EGUI and TUI](https://github.com/Amjad50/plastic)
 * [2024-10-19, 13:20:06](https://news.ycombinator.com/item?id=41887611) - [Rivian (RIVN) clashes with Bosch in new legal battle over EV motors](https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/)
 * [2024-10-19, 12:28:33](https://news.ycombinator.com/item?id=41887429) - [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
 * [2024-10-19, 12:26:20](https://news.ycombinator.com/item?id=41887419) - [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
