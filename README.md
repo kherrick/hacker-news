@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 17:19:26](https://news.ycombinator.com/item?id=41889091) - [WireGuard Performance with a Pi Zero (2019)](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
 * [2024-10-19, 17:10:30](https://news.ycombinator.com/item?id=41889027) - [Bluesky gains 1.2M in 2 days, 12M total after X disables blocking](https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572)
 * [2024-10-19, 16:54:17](https://news.ycombinator.com/item?id=41888917) - [As America's Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
 * [2024-10-19, 16:41:47](https://news.ycombinator.com/item?id=41888844) - [Spectra is a customizable, JavaScript ESP32 smartwatch](https://www.cnx-software.com/2024/10/18/spectra-customizable-javascript-esp32-s3-nrf52832-smartwatch/)
@@ -9,7 +10,6 @@
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 * [2024-10-19, 13:23:50](https://news.ycombinator.com/item?id=41887628) - [Plastic – A Modern NES Emulator That Works with EGUI and TUI](https://github.com/Amjad50/plastic)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
-* [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 * [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
