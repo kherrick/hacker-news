@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 03:36:11](https://news.ycombinator.com/item?id=41885463) - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
+* [2024-10-19, 03:27:56](https://news.ycombinator.com/item?id=41885434) - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
 * [2024-10-19, 02:58:15](https://news.ycombinator.com/item?id=41885313) - [Rekhta](https://en.wikipedia.org/wiki/Rekhta)
-* [2024-10-19, 00:46:15](https://news.ycombinator.com/item?id=41884740) - [US probes Tesla's Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-18, 23:59:43](https://news.ycombinator.com/item?id=41884543) - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
 * [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
@@ -15,7 +16,6 @@
 * [2024-10-18, 11:45:26](https://news.ycombinator.com/item?id=41878461) - [Frederick Law Olmsted: His essential theory (2000)](https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Apple Passwords’ generated strong password format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-18, 11:11:10](https://news.ycombinator.com/item?id=41878281) - [Microsoft and OpenAI's close partnership shows signs of fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
-* [2024-10-18, 11:00:09](https://news.ycombinator.com/item?id=41878220) - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 * [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's most lethal python hunters](https://gardenandgun.com/feature/python-hunter/)
