@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-19, 06:32:50",
-      "https://news.ycombinator.com/item?id=41886047"
-    ],
-    [
-      "Implementing Brainfuck in APL",
-      "https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html"
-    ]
-  ],
-  [
-    [
       "2024-10-19, 02:39:29",
       "https://news.ycombinator.com/item?id=41885231"
     ],
@@ -47,26 +37,6 @@
     [
       "Cross-Process Spectre Exploitation",
       "https://grsecurity.net/cross_process_spectre_exploitation"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 17:01:16",
-      "https://news.ycombinator.com/item?id=41881304"
-    ],
-    [
-      "Distro (YC S24) is hiring a tech lead",
-      "https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 16:52:31",
-      "https://news.ycombinator.com/item?id=41881204"
-    ],
-    [
-      "Steve's Jujutsu Tutorial",
-      "https://steveklabnik.github.io/jujutsu-tutorial/"
     ]
   ],
   [
@@ -127,6 +97,26 @@
     [
       "Code that helped end Apartheid",
       "https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 11:12:17",
+      "https://news.ycombinator.com/item?id=41878290"
+    ],
+    [
+      "Apple Passwords’ generated strong password format",
+      "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 11:11:10",
+      "https://news.ycombinator.com/item?id=41878281"
+    ],
+    [
+      "Microsoft and OpenAI's close partnership shows signs of fraying",
+      "https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-10-17, 10:23:28",
+      "https://news.ycombinator.com/item?id=41868168"
+    ],
+    [
+      "Adding syntax to the CPython interpreter",
+      "https://leontrolski.github.io/grammar.html"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 00:01:59",
       "https://news.ycombinator.com/item?id=41865141"
     ],
@@ -247,16 +247,6 @@
     [
       "Ask HN: Founders, what was the major sourcing channel for your first 100 users?",
       "https://news.ycombinator.com/item?id=41862332"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 16:45:36",
-      "https://news.ycombinator.com/item?id=41861158"
-    ],
-    [
-      "Ask HN: How do you organize your electronic components?",
-      "https://news.ycombinator.com/item?id=41861158"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Making of Micro Machines",
       "https://readonlymemory.com/the-making-of-micro-machines/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 10:41:33",
+      "https://news.ycombinator.com/item?id=41847149"
+    ],
+    [
+      "Hacker Typer",
+      "https://hackertyper.net"
     ]
   ]
 ]
