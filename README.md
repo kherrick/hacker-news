@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
+* [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 02:39:29](https://news.ycombinator.com/item?id=41885231) - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
@@ -11,7 +13,6 @@
 * [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [Code that helped end Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
 * [2024-10-18, 11:12:17](https://news.ycombinator.com/item?id=41878290) - [Apple Passwords’ generated strong password format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
-* [2024-10-18, 11:11:10](https://news.ycombinator.com/item?id=41878281) - [Microsoft and OpenAI's close partnership shows signs of fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 * [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's most lethal python hunters](https://gardenandgun.com/feature/python-hunter/)
@@ -27,7 +28,6 @@
 * [2024-10-16, 18:43:05](https://news.ycombinator.com/item?id=41862332) - [Ask HN: Founders, what was the major sourcing channel for your first 100 users?](https://news.ycombinator.com/item?id=41862332)
 * [2024-10-16, 11:51:33](https://news.ycombinator.com/item?id=41858024) - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 * [2024-10-16, 08:24:07](https://news.ycombinator.com/item?id=41856815) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
-* [2024-10-16, 04:14:59](https://news.ycombinator.com/item?id=41855537) - [Compiling Bigloo Scheme to WebAssembly](https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
 * [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 
