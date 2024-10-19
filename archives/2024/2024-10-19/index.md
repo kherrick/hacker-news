@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 12:26:20](https://news.ycombinator.com/item?id=41887419) - [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 09:13:39](https://news.ycombinator.com/item?id=41886658) - [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)

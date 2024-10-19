@@ -26,6 +26,7 @@
 * [2024-10-17, 18:15:33](https://news.ycombinator.com/item?id=41872156) - [How to Tax the Rich: Piketty](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/)
 * [2024-10-17, 18:04:39](https://news.ycombinator.com/item?id=41872046) - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
 * [2024-10-17, 18:01:01](https://news.ycombinator.com/item?id=41872010) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
+* [2024-10-17, 17:54:35](https://news.ycombinator.com/item?id=41871929) - [Do Fungi Recognize Shapes?](https://www.tohoku.ac.jp/en/press/do_fungi_recognize_shapes.html)
 * [2024-10-17, 17:50:54](https://news.ycombinator.com/item?id=41871899) - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
 * [2024-10-17, 17:46:17](https://news.ycombinator.com/item?id=41871850) - [JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
 * [2024-10-17, 17:41:38](https://news.ycombinator.com/item?id=41871812) - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)

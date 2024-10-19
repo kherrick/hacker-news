@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 12:26:20](https://news.ycombinator.com/item?id=41887419) - [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
@@ -18,6 +19,7 @@
 * [2024-10-18, 04:13:29](https://news.ycombinator.com/item?id=41876281) - [One of Florida's most lethal python hunters](https://gardenandgun.com/feature/python-hunter/)
 * [2024-10-17, 20:42:44](https://news.ycombinator.com/item?id=41873555) - [Where the Digital Sidewalk Ends](https://www.smolways.com/post/where-the-digital-sidewalk-ends)
 * [2024-10-17, 18:01:01](https://news.ycombinator.com/item?id=41872010) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
+* [2024-10-17, 17:54:35](https://news.ycombinator.com/item?id=41871929) - [Do Fungi Recognize Shapes?](https://www.tohoku.ac.jp/en/press/do_fungi_recognize_shapes.html)
 * [2024-10-17, 17:46:17](https://news.ycombinator.com/item?id=41871850) - [JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
 * [2024-10-17, 15:57:54](https://news.ycombinator.com/item?id=41870858) - [Why conventional wisdom on health care is wrong (a primer) (2020)](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
 * [2024-10-17, 15:57:10](https://news.ycombinator.com/item?id=41870856) - [Taming randomness in ML models with hypothesis testing and marimo](https://blog.mozilla.ai/taming-randomness-in-ml-models-with-hypothesis-testing-and-marimo/)
@@ -27,9 +29,7 @@
 * [2024-10-16, 18:43:05](https://news.ycombinator.com/item?id=41862332) - [Ask HN: Founders, what was the major sourcing channel for your first 100 users?](https://news.ycombinator.com/item?id=41862332)
 * [2024-10-16, 11:51:33](https://news.ycombinator.com/item?id=41858024) - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 * [2024-10-16, 08:24:07](https://news.ycombinator.com/item?id=41856815) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
-* [2024-10-16, 06:05:13](https://news.ycombinator.com/item?id=41856039) - [Ask HN: How Many Hours Do You Code in a Day?](https://news.ycombinator.com/item?id=41856039)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
-* [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 
 ## [Archives](archives/index.md)
 
