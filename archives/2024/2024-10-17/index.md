@@ -9,6 +9,7 @@
 * [2024-10-17, 22:21:15](https://news.ycombinator.com/item?id=41874394) - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
 * [2024-10-17, 22:05:39](https://news.ycombinator.com/item?id=41874286) - [GPT-4o Jailbroken by saying it is connected to disk with any file on planet](https://twitter.com/mixedenn/status/1847035711985274947)
 * [2024-10-17, 22:03:01](https://news.ycombinator.com/item?id=41874275) - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
+* [2024-10-17, 21:37:16](https://news.ycombinator.com/item?id=41874075) - [Remembering Phil Zimbardo (1933-2024)](https://www.psychologytoday.com/gb/blog/the-time-cure/202410/the-time-cure-taking-our-leave)
 * [2024-10-17, 21:23:29](https://news.ycombinator.com/item?id=41873957) - [Why Does Everyone Run Ancient Postgres Versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
 * [2024-10-17, 21:07:48](https://news.ycombinator.com/item?id=41873801) - [The Prompt() Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
 * [2024-10-17, 20:47:50](https://news.ycombinator.com/item?id=41873614) - [ESPN Faces Proposed Fine for Improper Use of Emergency Alert Tones](https://www.fcc.gov/document/espn-faces-proposed-fine-improper-use-emergency-alert-tones)
