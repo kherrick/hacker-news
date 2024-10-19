@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 07:24:13](https://news.ycombinator.com/item?id=41886244) - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
 * [2024-10-19, 05:32:32](https://news.ycombinator.com/item?id=41885843) - [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
 * [2024-10-19, 03:36:11](https://news.ycombinator.com/item?id=41885463) - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)

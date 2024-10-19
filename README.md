@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 07:24:13](https://news.ycombinator.com/item?id=41886244) - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
-* [2024-10-19, 03:15:43](https://news.ycombinator.com/item?id=41885380) - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
 * [2024-10-19, 02:39:29](https://news.ycombinator.com/item?id=41885231) - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
