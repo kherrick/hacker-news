@@ -14,6 +14,7 @@
 * [2024-10-19, 03:36:11](https://news.ycombinator.com/item?id=41885463) - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
 * [2024-10-19, 03:27:56](https://news.ycombinator.com/item?id=41885434) - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
 * [2024-10-19, 03:15:43](https://news.ycombinator.com/item?id=41885380) - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
+* [2024-10-19, 03:08:33](https://news.ycombinator.com/item?id=41885355) - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
 * [2024-10-19, 02:58:15](https://news.ycombinator.com/item?id=41885313) - [Rekhta](https://en.wikipedia.org/wiki/Rekhta)
 * [2024-10-19, 02:39:29](https://news.ycombinator.com/item?id=41885231) - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 * [2024-10-19, 02:25:23](https://news.ycombinator.com/item?id=41885179) - [Strep A kills half a million per year; why don't we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
