@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 20:42:02](https://news.ycombinator.com/item?id=41890633) - [It's time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+* [2024-10-19, 20:22:22](https://news.ycombinator.com/item?id=41890486) - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
+* [2024-10-19, 19:19:22](https://news.ycombinator.com/item?id=41889990) - [Autism's Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
+* [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
 * [2024-10-19, 18:29:20](https://news.ycombinator.com/item?id=41889605) - [Why the B-52 is outliving newer bombers [video]](https://www.youtube.com/watch?v=Zm6_kRHhtn8)
 * [2024-10-19, 18:19:59](https://news.ycombinator.com/item?id=41889543) - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
