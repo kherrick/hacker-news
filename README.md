@@ -25,7 +25,7 @@
 * [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 * [2024-10-17, 12:43:12](https://news.ycombinator.com/item?id=41869128) - [Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
-* [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
+* [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-16, 19:11:43](https://news.ycombinator.com/item?id=41862687) - [A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
 * [2024-10-16, 16:38:26](https://news.ycombinator.com/item?id=41861095) - [Rapid Liquid Print: Patented Gravity Free Manufacturing](https://www.rapidliquidprint.com/)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)
