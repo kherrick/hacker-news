@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-10-19, 05:32:32",
-      "https://news.ycombinator.com/item?id=41885843"
-    ],
-    [
-      "I Hate the Letter F",
-      "https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 03:36:11",
-      "https://news.ycombinator.com/item?id=41885463"
-    ],
-    [
-      "Cuba's grid goes offline with blackout after a major power plant fails",
-      "https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b"
-    ]
-  ],
-  [
-    [
       "2024-10-19, 03:15:43",
       "https://news.ycombinator.com/item?id=41885380"
     ],
@@ -67,6 +47,16 @@
     [
       "Cross-Process Spectre Exploitation",
       "https://grsecurity.net/cross_process_spectre_exploitation"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 17:01:16",
+      "https://news.ycombinator.com/item?id=41881304"
+    ],
+    [
+      "Distro (YC S24) is hiring a tech lead",
+      "https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Teaching old assert() new Tricks",
       "https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 04:14:59",
+      "https://news.ycombinator.com/item?id=41855537"
+    ],
+    [
+      "Compiling Bigloo Scheme to WebAssembly",
+      "https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/"
     ]
   ],
   [
