@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
 * [2024-10-17, 23:23:05](https://news.ycombinator.com/item?id=41874813) - [The Border Crisis Won't Be Solved at the Border](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/)
+* [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 22:36:38](https://news.ycombinator.com/item?id=41874511) - [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
 * [2024-10-17, 22:21:15](https://news.ycombinator.com/item?id=41874394) - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
 * [2024-10-17, 22:05:39](https://news.ycombinator.com/item?id=41874286) - [GPT-4o Jailbroken by saying it is connected to disk with any file on planet](https://twitter.com/mixedenn/status/1847035711985274947)
