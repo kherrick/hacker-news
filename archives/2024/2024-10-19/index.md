@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 17:19:26](https://news.ycombinator.com/item?id=41889091) - [WireGuard Performance with a Pi Zero (2019)](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
 * [2024-10-19, 17:10:30](https://news.ycombinator.com/item?id=41889027) - [Bluesky gains 1.2M in 2 days, 12M total after X disables blocking](https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572)
 * [2024-10-19, 16:54:17](https://news.ycombinator.com/item?id=41888917) - [As America's Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
 * [2024-10-19, 16:41:47](https://news.ycombinator.com/item?id=41888844) - [Spectra is a customizable, JavaScript ESP32 smartwatch](https://www.cnx-software.com/2024/10/18/spectra-customizable-javascript-esp32-s3-nrf52832-smartwatch/)
+* [2024-10-19, 16:33:45](https://news.ycombinator.com/item?id=41888808) - [Did Automattic commit open source theft?](https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/)
 * [2024-10-19, 16:33:14](https://news.ycombinator.com/item?id=41888806) - [U.S. to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
 * [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
 * [2024-10-19, 16:30:42](https://news.ycombinator.com/item?id=41888788) - [Town has no cell service, so the 'electrosensitive' have made it home](https://www.washingtonpost.com/style/of-interest/2024/10/18/green-bank-west-virginia-wv-electrosensitive-cell-service/)
