@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
 * [2024-10-19, 14:51:25](https://news.ycombinator.com/item?id=41888092) - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 * [2024-10-19, 14:45:30](https://news.ycombinator.com/item?id=41888050) - [ChatGPT's Name Bias and Apple's Findings on AI's Lack of Reasoning](https://medium.com/@researchgraph/chatgpts-name-bias-and-apple-s-findings-on-ai-s-lack-of-reasoning-major-flaws-revealed-b4a44c27fd75)
@@ -16,6 +17,7 @@
 * [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
+* [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 09:13:39](https://news.ycombinator.com/item?id=41886658) - [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
