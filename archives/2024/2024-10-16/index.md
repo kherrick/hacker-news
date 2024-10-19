@@ -67,6 +67,7 @@
 * [2024-10-16, 07:03:13](https://news.ycombinator.com/item?id=41856330) - [Digital River runs dry, hasn't paid developers for sales since July](https://www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/)
 * [2024-10-16, 05:56:06](https://news.ycombinator.com/item?id=41856008) - [Tell HN: The Wayback Machine is up, in read-only mode](https://news.ycombinator.com/item?id=41856008)
 * [2024-10-16, 05:26:35](https://news.ycombinator.com/item?id=41855886) - [I Self-Hosted Llama 3.2 with Coolify on My Home Server: A Step-by-Step Guide](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
+* [2024-10-16, 04:14:59](https://news.ycombinator.com/item?id=41855537) - [Compiling Bigloo Scheme to WebAssembly](https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/)
 * [2024-10-16, 04:07:22](https://news.ycombinator.com/item?id=41855512) - [Let Google Decide](https://cupofsquid.com/post/not-real/)
 * [2024-10-16, 03:44:35](https://news.ycombinator.com/item?id=41855403) - [Ask HN: Tips for Hacking a TV?](https://news.ycombinator.com/item?id=41855403)
 * [2024-10-16, 03:36:36](https://news.ycombinator.com/item?id=41855366) - [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
