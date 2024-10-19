@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
+* [2024-10-19, 18:19:59](https://news.ycombinator.com/item?id=41889543) - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 17:27:17](https://news.ycombinator.com/item?id=41889140) - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
@@ -14,7 +16,6 @@
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 03:08:33](https://news.ycombinator.com/item?id=41885355) - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
-* [2024-10-18, 12:20:53](https://news.ycombinator.com/item?id=41878720) - [The tiniest of impact craters](https://jatan.space/the-tiniest-of-impact-craters/)
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 19:56:38](https://news.ycombinator.com/item?id=41873165) - [NASA freezes Starliner missions](https://gizmodo.com/nasa-freezes-starliner-missions-after-boeing-leaves-astronauts-stranded-2000512963)
@@ -25,7 +26,6 @@
 * [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-16, 19:11:43](https://news.ycombinator.com/item?id=41862687) - [A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
-* [2024-10-16, 18:47:58](https://news.ycombinator.com/item?id=41862398) - [Artemis moon suit designed by Axiom Space and Prada revealed in Milan](http://www.collectspace.com/news/news-101624a-axemu-lunar-spacesuit-axiom-space-prada-reveal.html)
 * [2024-10-16, 16:38:26](https://news.ycombinator.com/item?id=41861095) - [Rapid Liquid Print: Patented Gravity Free Manufacturing](https://www.rapidliquidprint.com/)
 * [2024-10-16, 15:47:52](https://news.ycombinator.com/item?id=41860470) - [Universal Jointing for Submarine Cables](https://ujconsortium.com/information/what-is-universal-jointing)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)
