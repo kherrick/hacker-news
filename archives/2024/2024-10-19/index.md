@@ -8,6 +8,7 @@
 * [2024-10-19, 13:20:06](https://news.ycombinator.com/item?id=41887611) - [Rivian (RIVN) clashes with Bosch in new legal battle over EV motors](https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/)
 * [2024-10-19, 12:28:33](https://news.ycombinator.com/item?id=41887429) - [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
 * [2024-10-19, 12:26:20](https://news.ycombinator.com/item?id=41887419) - [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
+* [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 09:13:39](https://news.ycombinator.com/item?id=41886658) - [Saudi Arabian Neom project 'uses one fifth of steel'](https://www.agbi.com/giga-projects/2024/10/neom-uses-one-fifth-of-worlds-steel/)
