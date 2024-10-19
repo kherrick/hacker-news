@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-19, 17:44:29",
+      "https://news.ycombinator.com/item?id=41889284"
+    ],
+    [
+      "Eliza in SNOBOL4",
+      "https://dl.acm.org/doi/pdf/10.1145/987452.987458"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 17:19:26",
       "https://news.ycombinator.com/item?id=41889091"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-10-19, 16:54:17",
-      "https://news.ycombinator.com/item?id=41888917"
+      "2024-10-19, 17:10:30",
+      "https://news.ycombinator.com/item?id=41889027"
     ],
     [
-      "As America's Marijuana Use Grows, So Do the Harms",
-      "https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html"
+      "Bluesky gains 1.2M in 2 days, 12M total after X disables blocking",
+      "https://www.entrepreneur.com/business-news/x-rival-bluesky-gains-12-million-new-users-in-2-days/481572"
     ]
   ],
   [
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2024-10-19, 16:33:45",
+      "https://news.ycombinator.com/item?id=41888808"
+    ],
+    [
+      "Did Automattic commit open source theft?",
+      "https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 16:30:42",
       "https://news.ycombinator.com/item?id=41888788"
     ],
     [
       "Town has no cell service, so the 'electrosensitive' have made it home",
       "https://www.washingtonpost.com/style/of-interest/2024/10/18/green-bank-west-virginia-wv-electrosensitive-cell-service/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 14:51:25",
-      "https://news.ycombinator.com/item?id=41888092"
-    ],
-    [
-      "Boeing, Union reach wage deal to end strike",
-      "https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Send: Open-source fork of Firefox Send",
       "https://send.vis.ee/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 12:04:40",
-      "https://news.ycombinator.com/item?id=41887346"
-    ],
-    [
-      "Show HN: TCP \"slow-start\" simulation in Go",
-      "https://github.com/ritiksahni/cwnd-demo"
     ]
   ],
   [
