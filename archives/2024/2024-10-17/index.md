@@ -63,6 +63,7 @@
 * [2024-10-17, 11:42:22](https://news.ycombinator.com/item?id=41868677) - [The opponent-process theory of emotion (2010)](https://gettingstronger.org/2010/05/opponent-process-theory/)
 * [2024-10-17, 11:15:26](https://news.ycombinator.com/item?id=41868467) - [Magnet-free induction motor aims to nearly halve carbon emissions](https://newatlas.com/automotive/mahle-valeo-magnet-free-induction-motor/)
 * [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
+* [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 10:18:09](https://news.ycombinator.com/item?id=41868143) - [My experiences with Automattic: Part 3](https://aldavigdis.dev/2024/09/30/my-strange-experiences-with-automattic-part-3/)
 * [2024-10-17, 10:10:49](https://news.ycombinator.com/item?id=41868090) - [Meta fires staff for 'using free meal vouchers to buy household goods'](https://www.theguardian.com/technology/2024/oct/17/meta-fires-staff-free-meal-vouchers-buy-household-goods)
 * [2024-10-17, 10:06:23](https://news.ycombinator.com/item?id=41868060) - [12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux/)
