@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 02:58:15](https://news.ycombinator.com/item?id=41885313) - [Rekhta](https://en.wikipedia.org/wiki/Rekhta)
 * [2024-10-19, 00:46:15](https://news.ycombinator.com/item?id=41884740) - [US probes Tesla's Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-18, 23:59:43](https://news.ycombinator.com/item?id=41884543) - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
 * [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
@@ -29,7 +30,6 @@
 * [2024-10-16, 11:51:33](https://news.ycombinator.com/item?id=41858024) - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 * [2024-10-16, 08:24:07](https://news.ycombinator.com/item?id=41856815) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
-* [2024-10-15, 10:41:33](https://news.ycombinator.com/item?id=41847149) - [Hacker Typer](https://hackertyper.net)
 
 ## [Archives](archives/index.md)
 
