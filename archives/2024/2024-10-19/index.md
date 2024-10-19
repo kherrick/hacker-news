@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
 * [2024-10-19, 18:29:20](https://news.ycombinator.com/item?id=41889605) - [Why the B-52 is outliving newer bombers [video]](https://www.youtube.com/watch?v=Zm6_kRHhtn8)
 * [2024-10-19, 18:19:59](https://news.ycombinator.com/item?id=41889543) - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)

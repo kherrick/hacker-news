@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
-* [2024-10-19, 18:29:20](https://news.ycombinator.com/item?id=41889605) - [Why the B-52 is outliving newer bombers [video]](https://www.youtube.com/watch?v=Zm6_kRHhtn8)
 * [2024-10-19, 18:19:59](https://news.ycombinator.com/item?id=41889543) - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
