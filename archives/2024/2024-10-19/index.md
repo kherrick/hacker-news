@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 21:04:52](https://news.ycombinator.com/item?id=41890784) - [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
 * [2024-10-19, 20:42:02](https://news.ycombinator.com/item?id=41890633) - [It's time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+* [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 20:22:22](https://news.ycombinator.com/item?id=41890486) - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-19, 19:19:22](https://news.ycombinator.com/item?id=41889990) - [Autism's Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
