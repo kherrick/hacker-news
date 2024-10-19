@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 17:27:17](https://news.ycombinator.com/item?id=41889140) - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
 * [2024-10-19, 17:19:26](https://news.ycombinator.com/item?id=41889091) - [WireGuard Performance with a Pi Zero (2019)](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
@@ -13,7 +14,6 @@
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 03:08:33](https://news.ycombinator.com/item?id=41885355) - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
-* [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-18, 12:20:53](https://news.ycombinator.com/item?id=41878720) - [The tiniest of impact craters](https://jatan.space/the-tiniest-of-impact-craters/)
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
