@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 16:33:14](https://news.ycombinator.com/item?id=41888806) - [U.S. to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
 * [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
 * [2024-10-19, 14:51:25](https://news.ycombinator.com/item?id=41888092) - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)

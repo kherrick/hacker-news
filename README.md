@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
+* [2024-10-19, 16:33:14](https://news.ycombinator.com/item?id=41888806) - [U.S. to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
 * [2024-10-19, 14:51:25](https://news.ycombinator.com/item?id=41888092) - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
@@ -12,6 +12,7 @@
 * [2024-10-19, 02:39:29](https://news.ycombinator.com/item?id=41885231) - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
+* [2024-10-18, 16:52:31](https://news.ycombinator.com/item?id=41881204) - [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [Code that helped end Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
@@ -27,7 +28,6 @@
 * [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 00:01:59](https://news.ycombinator.com/item?id=41865141) - [Doctor Fukushi Masaichi and the art of preserving tattooed skin](https://www.dannydutch.com/post/doctor-fukushi-masaichi-and-the-art-of-preserving-tattooed-skin)
 * [2024-10-16, 19:11:43](https://news.ycombinator.com/item?id=41862687) - [A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
-* [2024-10-16, 14:56:23](https://news.ycombinator.com/item?id=41859806) - [Gang of Raccoons Mobs Woman in Casper Hotel Parking Lot](https://cowboystatedaily.com/2024/10/14/gang-of-raccoons-mobs-woman-in-casper-hotel-parking-lot/)
 * [2024-10-16, 11:51:33](https://news.ycombinator.com/item?id=41858024) - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 * [2024-10-15, 16:57:25](https://news.ycombinator.com/item?id=41850570) - [The Making of Micro Machines](https://readonlymemory.com/the-making-of-micro-machines/)
 
