@@ -26,6 +26,7 @@
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
 * [2024-10-18, 16:06:52](https://news.ycombinator.com/item?id=41880697) - [Dolphin Swimming – A Review (1991) [pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0)
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
+* [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-18, 15:25:13](https://news.ycombinator.com/item?id=41880295) - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
 * [2024-10-18, 15:21:08](https://news.ycombinator.com/item?id=41880249) - [Another Burnout Post](https://gushogg-blake.com/p/blog-burnout/)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
