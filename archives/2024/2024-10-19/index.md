@@ -9,6 +9,7 @@
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 20:22:22](https://news.ycombinator.com/item?id=41890486) - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
+* [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 19:19:22](https://news.ycombinator.com/item?id=41889990) - [Autism's Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
 * [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
