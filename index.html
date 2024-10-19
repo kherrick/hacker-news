@@ -141,11 +141,11 @@
             <h4>
               <span>2024-10-19 @ 07:29:56</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41886256"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -184,11 +184,11 @@
             <h4>
               <span>2024-10-19 @ 02:39:29</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41885231"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -235,6 +235,23 @@
             </h4>
           </section>
         </section>
+        <section id="41881304">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead"
+              >Distro (YC S24) is hiring a tech lead</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-18 @ 17:01:16</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41881204">
           <h3>
             <a
@@ -251,7 +268,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41881204"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -287,7 +304,7 @@
             <h4>
               <span>2024-10-18 @ 16:17:59</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41880829"
                   >Comments</a
@@ -333,13 +350,95 @@
             <h4>
               <span>2024-10-18 @ 14:35:22</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41879845"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41879754">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=41879754"
+              >Show HN: What happens if you make a crossword out of Reddit
+              r/gaming</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-18 @ 14:23:41</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41879754"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I started the project, "Joystick Jargon" combining traditional
+                crossword elements with gaming-related vocabulary. Here's the
+                technical process behind it:
+              </p>
+              <p>
+                1. Data Source: Used a 3.8 Million Rows Reddit dataset from
+                Hugging Face (<a
+                  href="https://huggingface.co/datasets/webis/tldr-17"
+                  >https://huggingface.co/datasets/webis/tldr-17</a
+                >).
+              </p>
+              <p>
+                2. Data Filtering: Narrowed down to gaming-related subreddits
+                (r/gaming, r/dota2, r/leagueoflegends).
+              </p>
+              <p>
+                3. Keyword Extraction: Employed ML techniques, specifically
+                BERT-embeddings and cosine similarity, to extract keywords from
+                the subreddits.
+              </p>
+              <p>
+                4. Data Preprocessing: Cleaned up data unsuitable for crossword
+                puzzles.
+              </p>
+              <p>
+                5. Grid Generation: Implemented a heuristic crossword algorithm
+                to create grids and place words efficiently.
+              </p>
+              <p>
+                6. Clue Generation: Utilized a Large Language Model to generate
+                context-aware clues for the placed words.
+              </p>
+              <p>
+                The resulting system creates crossword puzzles that blend
+                traditional elements with gaming terminology, achieving about a
+                50-50 mix.
+              </p>
+              <p>
+                This project is admittedly overengineered for its purpose, but
+                it was an interesting exploration into natural language
+                processing, optimization algorithms, and the intersection of
+                traditional word games with modern gaming culture.
+              </p>
+              <p>
+                A note on content: Since the data source is Reddit, some mature
+                language may appear in the puzzles. Manual filtering was minimal
+                to preserve authenticity.
+              </p>
+              <p>
+                You can try the puzzles here: &lt;<a
+                  href="https://capsloq.de/crosswords/joystick-jargon"
+                  >https://capsloq.de/crosswords/joystick-jargon</a
+                >&gt;
+              </p>
+              <p>
+                I'm curious about the HN community's thoughts on this approach
+                to puzzle generation? What other domains might benefit from
+                similar computational techniques for content creation?
+              </p>
+            </div>
           </section>
         </section>
         <section id="41879072">
@@ -354,32 +453,11 @@
             <h4>
               <span>2024-10-18 @ 13:05:21</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41879072"
                   >Comments</a
                 ><span class="descendants">: 162</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41878290">
-          <h3>
-            <a
-              class="item"
-              href="https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"
-              >Apple Passwords’ generated strong password format</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-18 @ 11:12:17</span
-              ><span class="points-container"
-                >Points: <span class="points">373</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41878290"
-                  >Comments</a
-                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -396,7 +474,7 @@
             <h4>
               <span>2024-10-18 @ 08:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">705</span></span
+                >Points: <span class="points">710</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41877513"
                   >Comments</a
@@ -415,7 +493,7 @@
             <h4>
               <span>2024-10-18 @ 06:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41876750"
                   >Comments</a
@@ -436,7 +514,7 @@
             <h4>
               <span>2024-10-18 @ 04:13:29</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41876281"
                   >Comments</a
@@ -466,25 +544,6 @@
             </h4>
           </section>
         </section>
-        <section id="41872411">
-          <h3>
-            <a class="item" href="https://en.wikipedia.org/wiki/PhotoDNA"
-              >PhotoDNA</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-17 @ 18:36:17</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41872411"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="41872010">
           <h3>
             <a class="item" href="https://evanhahn.com/set-big-timeout/"
@@ -495,7 +554,7 @@
             <h4>
               <span>2024-10-17 @ 18:01:01</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41872010"
                   >Comments</a
@@ -516,11 +575,11 @@
             <h4>
               <span>2024-10-17 @ 17:46:17</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41871850"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -542,7 +601,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41870858"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -560,7 +619,7 @@
             <h4>
               <span>2024-10-17 @ 15:57:10</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41870856"
                   >Comments</a
@@ -581,7 +640,7 @@
             <h4>
               <span>2024-10-17 @ 10:56:34</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41868353"
                   >Comments</a
@@ -607,7 +666,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41865141"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -626,7 +685,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41862687"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -642,7 +701,7 @@
             <h4>
               <span>2024-10-16 @ 18:43:05</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41862332"
                   >Comments</a
@@ -664,11 +723,11 @@
             <h4>
               <span>2024-10-16 @ 16:45:36</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41861158"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -691,7 +750,7 @@
             <h4>
               <span>2024-10-16 @ 11:51:33</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41858024"
                   >Comments</a
@@ -754,7 +813,7 @@
             <h4>
               <span>2024-10-15 @ 16:57:25</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41850570"
                   >Comments</a
