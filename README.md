@@ -19,7 +19,6 @@
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 10:23:23](https://news.ycombinator.com/item?id=41886938) - [Implementing an Intermediate Representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-* [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 19:56:38](https://news.ycombinator.com/item?id=41873165) - [NASA freezes Starliner missions](https://gizmodo.com/nasa-freezes-starliner-missions-after-boeing-leaves-astronauts-stranded-2000512963)
@@ -29,6 +28,7 @@
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 * [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
+* [2024-10-16, 18:47:58](https://news.ycombinator.com/item?id=41862398) - [Artemis moon suit designed by Axiom Space and Prada revealed in Milan](http://www.collectspace.com/news/news-101624a-axemu-lunar-spacesuit-axiom-space-prada-reveal.html)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)
 
 ## [Archives](archives/index.md)
