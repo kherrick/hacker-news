@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 03:08:33](https://news.ycombinator.com/item?id=41885355) - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
@@ -20,7 +21,6 @@
 * [2024-10-17, 17:46:17](https://news.ycombinator.com/item?id=41871850) - [JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
 * [2024-10-17, 15:57:54](https://news.ycombinator.com/item?id=41870858) - [Why conventional wisdom on health care is wrong (a primer) (2020)](https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/)
 * [2024-10-17, 15:57:10](https://news.ycombinator.com/item?id=41870856) - [Taming randomness in ML models with hypothesis testing and marimo](https://blog.mozilla.ai/taming-randomness-in-ml-models-with-hypothesis-testing-and-marimo/)
-* [2024-10-17, 10:56:34](https://news.ycombinator.com/item?id=41868353) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 00:01:59](https://news.ycombinator.com/item?id=41865141) - [Doctor Fukushi Masaichi and the art of preserving tattooed skin](https://www.dannydutch.com/post/doctor-fukushi-masaichi-and-the-art-of-preserving-tattooed-skin)
 * [2024-10-16, 19:11:43](https://news.ycombinator.com/item?id=41862687) - [A Simple open-source Phone programmable with Arduino](https://www.wiphone.io)
