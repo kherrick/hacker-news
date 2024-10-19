@@ -29,6 +29,7 @@
 * [2024-10-16, 17:15:24](https://news.ycombinator.com/item?id=41861442) - [75x faster: optimizing the Ion compiler back end](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 17:13:58](https://news.ycombinator.com/item?id=41861430) - [Show HN: Automated code instrumentation for structured events](https://news.ycombinator.com/item?id=41861430)
 * [2024-10-16, 17:00:03](https://news.ycombinator.com/item?id=41861301) - [Artie (YC S23) Is Hiring Founding BDRs](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr)
+* [2024-10-16, 16:45:36](https://news.ycombinator.com/item?id=41861158) - [Ask HN: How do you organize your electronic components?](https://news.ycombinator.com/item?id=41861158)
 * [2024-10-16, 16:34:15](https://news.ycombinator.com/item?id=41861056) - [Winamp deletes entire GitHub source code repo after a rocky few weeks](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
 * [2024-10-16, 16:18:39](https://news.ycombinator.com/item?id=41860909) - [ArchiveBox is evolving: the future of self-hosted internet archives](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
 * [2024-10-16, 16:13:26](https://news.ycombinator.com/item?id=41860835) - [The open future of networking hardware for AI](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/)
