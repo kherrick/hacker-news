@@ -20,7 +20,7 @@
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 19:56:38](https://news.ycombinator.com/item?id=41873165) - [NASA freezes Starliner missions](https://gizmodo.com/nasa-freezes-starliner-missions-after-boeing-leaves-astronauts-stranded-2000512963)
-* [2024-10-17, 17:54:35](https://news.ycombinator.com/item?id=41871929) - [Do Fungi Recognize Shapes?](https://www.tohoku.ac.jp/en/press/do_fungi_recognize_shapes.html)
+* [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 * [2024-10-17, 14:32:36](https://news.ycombinator.com/item?id=41870052) - [Understanding how bureaucracy develops](https://dhruvmethi.substack.com/p/bureaucracy)
 * [2024-10-17, 12:43:12](https://news.ycombinator.com/item?id=41869128) - [Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
