@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-19, 14:24:05](https://news.ycombinator.com/item?id=41887923) - [Developers Now Required to Share Phone Number and Address on EU App Store](https://www.macrumors.com/2024/10/17/developers-eu-app-store-trader-requirements/)
 * [2024-10-19, 13:20:06](https://news.ycombinator.com/item?id=41887611) - [Rivian (RIVN) clashes with Bosch in new legal battle over EV motors](https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/)
 * [2024-10-19, 12:28:33](https://news.ycombinator.com/item?id=41887429) - [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
 * [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
@@ -9,7 +10,6 @@
 * [2024-10-19, 02:39:29](https://news.ycombinator.com/item?id=41885231) - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
-* [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) is hiring a tech lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The feds are coming for John Deere over the right to repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 * [2024-10-18, 14:36:27](https://news.ycombinator.com/item?id=41879854) - [Show HN: Go Plan9 Memo](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 14:35:22](https://news.ycombinator.com/item?id=41879845) - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)

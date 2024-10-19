@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 14:24:05](https://news.ycombinator.com/item?id=41887923) - [Developers Now Required to Share Phone Number and Address on EU App Store](https://www.macrumors.com/2024/10/17/developers-eu-app-store-trader-requirements/)
 * [2024-10-19, 13:41:04](https://news.ycombinator.com/item?id=41887718) - [External RF-EMF Alters Cell Number and Reactive Oxygen Species Balance](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1425023/full)
 * [2024-10-19, 13:20:06](https://news.ycombinator.com/item?id=41887611) - [Rivian (RIVN) clashes with Bosch in new legal battle over EV motors](https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/)
 * [2024-10-19, 12:28:33](https://news.ycombinator.com/item?id=41887429) - [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
