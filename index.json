@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-10-20, 07:10:31",
-      "https://news.ycombinator.com/item?id=41893524"
-    ],
-    [
-      "Show HN: HN Update – Hourly News Broadcast of Top HN Stories",
-      "https://hnup.date/"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 06:33:55",
       "https://news.ycombinator.com/item?id=41893377"
     ],
@@ -277,6 +267,16 @@
     [
       "Blocking code is a leaky abstraction",
       "https://notgull.net/blocking-leaky/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 18:09:48",
+      "https://news.ycombinator.com/item?id=41889467"
+    ],
+    [
+      "Implementing neural networks on the \"3 cent\" 8-bit microcontroller",
+      "https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/"
     ]
   ],
   [
