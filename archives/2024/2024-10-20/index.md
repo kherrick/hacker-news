@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 16:14:47](https://news.ycombinator.com/item?id=41896351) - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
 * [2024-10-20, 16:07:43](https://news.ycombinator.com/item?id=41896297) - [Drasi: Microsoft's open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 * [2024-10-20, 15:39:53](https://news.ycombinator.com/item?id=41896052) - [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
 * [2024-10-20, 15:28:15](https://news.ycombinator.com/item?id=41895928) - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
@@ -15,7 +16,9 @@
 * [2024-10-20, 14:49:19](https://news.ycombinator.com/item?id=41895705) - [Apple's New iPad Mini Highlights the Company's AI Advantage](https://www.bloomberg.com/news/newsletters/2024-10-20/apple-s-latest-ipad-mini-highlights-ai-advantage-sonos-considers-new-headphones-m2hkz4mn)
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
+* [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
+* [2024-10-20, 12:53:29](https://news.ycombinator.com/item?id=41895048) - [The OSI lacks competence to define Open Source AI](https://samjohnston.org/2024/10/15/the-osi-lacks-competence-to-define-open-source-ai/)
 * [2024-10-20, 12:48:56](https://news.ycombinator.com/item?id=41895024) - [Sabotage Evaluations for Frontier Models](https://www.anthropic.com/research/sabotage-evaluations)
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
 * [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
