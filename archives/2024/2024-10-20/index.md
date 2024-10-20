@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 15:39:53](https://news.ycombinator.com/item?id=41896052) - [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
 * [2024-10-20, 15:28:15](https://news.ycombinator.com/item?id=41895928) - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
+* [2024-10-20, 15:14:29](https://news.ycombinator.com/item?id=41895835) - [Draw a Crocodile Without a Tail](https://twitter.com/PaoloCrosetto/status/1847985750580552178)
 * [2024-10-20, 15:01:21](https://news.ycombinator.com/item?id=41895775) - [1 in 6 Companies Are Hesitant to Hire Recent College Graduates](https://www.intelligent.com/1-in-6-companies-are-hesitant-to-hire-recent-college-graduates/)
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
+* [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
 * [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
+* [2024-10-20, 14:49:19](https://news.ycombinator.com/item?id=41895705) - [Apple's New iPad Mini Highlights the Company's AI Advantage](https://www.bloomberg.com/news/newsletters/2024-10-20/apple-s-latest-ipad-mini-highlights-ai-advantage-sonos-considers-new-headphones-m2hkz4mn)
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
 * [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
