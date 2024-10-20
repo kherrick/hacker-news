@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 11:09:22](https://news.ycombinator.com/item?id=41894566) - [Naval Is Mistaken](https://twitter.com/paulg/status/1847225545299251597)
