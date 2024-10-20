@@ -14,6 +14,7 @@
 * [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 * [2024-10-18, 19:12:08](https://news.ycombinator.com/item?id=41882510) - [5.6M vacant homes and counting: There's a housing crisis brewing in the US](https://economictimes.indiatimes.com/news/international/us/5-6-million-vacant-homes-and-counting-there-is-a-massive-housing-crisis-brewing-in-america/articleshow/114329491.cms?from=mdr)
 * [2024-10-18, 19:02:44](https://news.ycombinator.com/item?id=41882430) - [Access your Raspberry Pi without a public IP](https://pinggy.io/blog/access_raspberry_pi_remotely_to_control_iot_devices/)
+* [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-18, 18:05:48](https://news.ycombinator.com/item?id=41881927) - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)

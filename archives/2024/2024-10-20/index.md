@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 18:26:40](https://news.ycombinator.com/item?id=41897425) - [Amazon Removed Download and Transfer Option for New Kindles](https://blog.the-ebook-reader.com/2024/10/20/amazon-removed-download-and-transfer-option-for-new-kindles/)
 * [2024-10-20, 17:44:57](https://news.ycombinator.com/item?id=41897106) - [Microsoft asking us to buy new Windows 11 PCs is wasteful](https://www.xda-developers.com/microsoft-buy-new-windows-11-pcs-wasteful/)
+* [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [AI Detectors Falsely Accuse Students of Cheating–With Big Consequences](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [2024-10-20, 16:19:35](https://news.ycombinator.com/item?id=41896408) - [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
@@ -19,6 +21,7 @@
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
 * [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
+* [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-20, 14:49:19](https://news.ycombinator.com/item?id=41895705) - [Apple's New iPad Mini Highlights the Company's AI Advantage](https://www.bloomberg.com/news/newsletters/2024-10-20/apple-s-latest-ipad-mini-highlights-ai-advantage-sonos-considers-new-headphones-m2hkz4mn)
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
