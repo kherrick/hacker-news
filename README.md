@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
-* [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 * [2024-10-20, 04:04:36](https://news.ycombinator.com/item?id=41892773) - [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
 * [2024-10-20, 04:02:00](https://news.ycombinator.com/item?id=41892763) - [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
 * [2024-10-20, 02:26:02](https://news.ycombinator.com/item?id=41892432) - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
@@ -9,6 +7,7 @@
 * [2024-10-19, 23:39:43](https://news.ycombinator.com/item?id=41891694) - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 * [2024-10-19, 21:04:52](https://news.ycombinator.com/item?id=41890784) - [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
 * [2024-10-19, 21:00:35](https://news.ycombinator.com/item?id=41890762) - [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
+* [2024-10-19, 19:59:05](https://news.ycombinator.com/item?id=41890307) - [Nonfree software found in GNU Boot releases again, many distros affected](https://savannah.gnu.org/news/?id=10684)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
@@ -27,6 +26,7 @@
 * [2024-10-17, 14:32:36](https://news.ycombinator.com/item?id=41870052) - [Understanding how bureaucracy develops](https://dhruvmethi.substack.com/p/bureaucracy)
 * [2024-10-17, 12:43:12](https://news.ycombinator.com/item?id=41869128) - [Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
+* [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-16, 15:47:52](https://news.ycombinator.com/item?id=41860470) - [Universal Jointing for Submarine Cables](https://ujconsortium.com/information/what-is-universal-jointing)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)

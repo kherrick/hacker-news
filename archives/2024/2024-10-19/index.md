@@ -13,6 +13,7 @@
 * [2024-10-19, 20:22:22](https://news.ycombinator.com/item?id=41890486) - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 20:21:57](https://news.ycombinator.com/item?id=41890480) - [How I Use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-19, 20:18:54](https://news.ycombinator.com/item?id=41890460) - [Italy's Piracy Shield just blocked one of Google's CDN](https://mil04s43-in-f1.1e100.net)
+* [2024-10-19, 19:59:05](https://news.ycombinator.com/item?id=41890307) - [Nonfree software found in GNU Boot releases again, many distros affected](https://savannah.gnu.org/news/?id=10684)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 19:19:22](https://news.ycombinator.com/item?id=41889990) - [Autism's Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
 * [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
