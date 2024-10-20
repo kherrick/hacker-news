@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 04:52:46](https://news.ycombinator.com/item?id=41892946) - [AI Medical Imagery Model Offers Fast, Cost-Efficient Expert Analysis](https://developer.nvidia.com/blog/ai-medical-imagery-model-offers-fast-cost-efficient-expert-analysis/)
 * [2024-10-20, 04:04:36](https://news.ycombinator.com/item?id=41892773) - [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
 * [2024-10-20, 04:02:00](https://news.ycombinator.com/item?id=41892763) - [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
@@ -11,7 +12,6 @@
 * [2024-10-19, 21:00:35](https://news.ycombinator.com/item?id=41890762) - [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
 * [2024-10-19, 20:18:54](https://news.ycombinator.com/item?id=41890460) - [Italy's Piracy Shield just blocked one of Google's CDN](https://mil04s43-in-f1.1e100.net)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
-* [2024-10-19, 19:19:22](https://news.ycombinator.com/item?id=41889990) - [Autism's Four Core Subtypes](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)
 * [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 * [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
