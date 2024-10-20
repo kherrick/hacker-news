@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2024-10-20, 10:18:13](https://news.ycombinator.com/item?id=41894359) - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
@@ -25,6 +24,7 @@
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
+* [2024-10-17, 15:29:31](https://news.ycombinator.com/item?id=41870567) - [Time is a dimension, but not like space](https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/)
 * [2024-10-17, 14:32:36](https://news.ycombinator.com/item?id=41870052) - [Understanding how bureaucracy develops](https://dhruvmethi.substack.com/p/bureaucracy)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 * [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
