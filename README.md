@@ -18,7 +18,6 @@
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
-* [2024-10-20, 11:51:35](https://news.ycombinator.com/item?id=41894740) - [Winners of the 2024 IFComp](https://ifcomp.org/comp/2024)
 * [2024-10-20, 11:34:47](https://news.ycombinator.com/item?id=41894672) - [Route Planning in Transportation Networks (2015)](https://arxiv.org/abs/1504.05140)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The History of the Barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
@@ -30,6 +29,7 @@
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
+* [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 
 ## [Archives](archives/index.md)
 
