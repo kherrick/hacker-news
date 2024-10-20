@@ -15,6 +15,7 @@
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
 * [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
+* [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
 * [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 11:09:22](https://news.ycombinator.com/item?id=41894566) - [Naval Is Mistaken](https://twitter.com/paulg/status/1847225545299251597)
