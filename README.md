@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
-* [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
+* [2024-10-20, 06:15:14](https://news.ycombinator.com/item?id=41893287) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2024-10-20, 02:26:02](https://news.ycombinator.com/item?id=41892432) - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
 * [2024-10-20, 00:35:21](https://news.ycombinator.com/item?id=41891953) - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 * [2024-10-20, 00:00:15](https://news.ycombinator.com/item?id=41891799) - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
@@ -25,7 +25,7 @@
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 19:56:38](https://news.ycombinator.com/item?id=41873165) - [NASA freezes Starliner missions](https://gizmodo.com/nasa-freezes-starliner-missions-after-boeing-leaves-astronauts-stranded-2000512963)
 * [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
-* [2024-10-17, 15:29:31](https://news.ycombinator.com/item?id=41870567) - [Time: Yes, it's a dimension, but not like space](https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/)
+* [2024-10-17, 14:32:36](https://news.ycombinator.com/item?id=41870052) - [Understanding how bureaucracy develops](https://dhruvmethi.substack.com/p/bureaucracy)
 * [2024-10-17, 12:43:12](https://news.ycombinator.com/item?id=41869128) - [Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
 * [2024-10-16, 15:47:52](https://news.ycombinator.com/item?id=41860470) - [Universal Jointing for Submarine Cables](https://ujconsortium.com/information/what-is-universal-jointing)
