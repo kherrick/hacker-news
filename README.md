@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 08:57:12](https://news.ycombinator.com/item?id=41894025) - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 * [2024-10-20, 02:26:02](https://news.ycombinator.com/item?id=41892432) - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
@@ -14,7 +15,6 @@
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
-* [2024-10-19, 17:17:19](https://news.ycombinator.com/item?id=41889076) - [A Distributed Systems Reading List (2014)](https://dancres.github.io/Pages/)
 * [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
 * [2024-10-19, 13:23:50](https://news.ycombinator.com/item?id=41887628) - [Plastic – A Modern NES Emulator That Works with EGUI and TUI](https://github.com/Amjad50/plastic)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
