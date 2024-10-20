@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 04:52:46](https://news.ycombinator.com/item?id=41892946) - [AI Medical Imagery Model Offers Fast, Cost-Efficient Expert Analysis](https://developer.nvidia.com/blog/ai-medical-imagery-model-offers-fast-cost-efficient-expert-analysis/)
 * [2024-10-20, 04:14:52](https://news.ycombinator.com/item?id=41892815) - [LLM will never be AGI: The Proof](https://ycao.net/posts/llm-agi/)
