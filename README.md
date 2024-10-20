@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 15:28:15](https://news.ycombinator.com/item?id=41895928) - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
 * [2024-10-20, 15:01:21](https://news.ycombinator.com/item?id=41895775) - [1 in 6 Companies Are Hesitant to Hire Recent College Graduates](https://www.intelligent.com/1-in-6-companies-are-hesitant-to-hire-recent-college-graduates/)
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
@@ -17,7 +18,6 @@
 * [2024-10-19, 21:04:52](https://news.ycombinator.com/item?id=41890784) - [QUIC is not quick enough over fast internet](https://arxiv.org/abs/2310.09423)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
-* [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)

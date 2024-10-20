@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 15:28:15](https://news.ycombinator.com/item?id=41895928) - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
 * [2024-10-20, 15:01:21](https://news.ycombinator.com/item?id=41895775) - [1 in 6 Companies Are Hesitant to Hire Recent College Graduates](https://www.intelligent.com/1-in-6-companies-are-hesitant-to-hire-recent-college-graduates/)
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
