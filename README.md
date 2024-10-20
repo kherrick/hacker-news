@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
-* [2024-10-20, 16:19:35](https://news.ycombinator.com/item?id=41896408) - [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
 * [2024-10-20, 16:14:47](https://news.ycombinator.com/item?id=41896351) - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
 * [2024-10-20, 16:08:09](https://news.ycombinator.com/item?id=41896302) - [Bumblebee queens choose to hibernate in pesticide-contaminated soil](https://phys.org/news/2024-10-bumblebee-queens-hibernate-pesticide-contaminated.html)
 * [2024-10-20, 16:07:43](https://news.ycombinator.com/item?id=41896297) - [Drasi: Microsoft's open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
