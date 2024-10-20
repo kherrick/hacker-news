@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 17:44:57](https://news.ycombinator.com/item?id=41897106) - [Microsoft asking us to buy new Windows 11 PCs is wasteful](https://www.xda-developers.com/microsoft-buy-new-windows-11-pcs-wasteful/)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [2024-10-20, 16:19:35](https://news.ycombinator.com/item?id=41896408) - [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
