@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-10-20, 07:07:34",
-      "https://news.ycombinator.com/item?id=41893507"
-    ],
-    [
-      "A recent surge in global warming is not detectable yet",
-      "https://www.nature.com/articles/s43247-024-01711-1"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 05:12:40",
-      "https://news.ycombinator.com/item?id=41893029"
-    ],
-    [
-      "A New Artificial Intelligence Tool for Cancer",
-      "https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 04:04:36",
       "https://news.ycombinator.com/item?id=41892773"
     ],
@@ -87,6 +67,16 @@
     [
       "Show HN: I made a site to quick identify any plant and learn how to care for it",
       "https://frondly.app/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 19:59:05",
+      "https://news.ycombinator.com/item?id=41890307"
+    ],
+    [
+      "Nonfree software found in GNU Boot releases again, many distros affected",
+      "https://savannah.gnu.org/news/?id=10684"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Language is not essential for the cognitive processes that underlie thought",
       "https://www.scientificamerican.com/article/you-dont-need-words-to-think/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 10:23:28",
+      "https://news.ycombinator.com/item?id=41868168"
+    ],
+    [
+      "Adding syntax to the CPython interpreter",
+      "https://leontrolski.github.io/grammar.html"
     ]
   ],
   [
