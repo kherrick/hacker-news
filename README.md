@@ -13,7 +13,6 @@
 * [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
 * [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
-* [2024-10-20, 12:33:50](https://news.ycombinator.com/item?id=41894933) - [The useful use of cat](https://mrmr.io/cat)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-20, 11:34:47](https://news.ycombinator.com/item?id=41894672) - [Route Planning in Transportation Networks (2015)](https://arxiv.org/abs/1504.05140)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What docs-as-code means](https://passo.uno/what-docs-as-code-means/)
@@ -28,6 +27,7 @@
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 00:35:21](https://news.ycombinator.com/item?id=41891953) - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
+* [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 
