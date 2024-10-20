@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 10:18:13](https://news.ycombinator.com/item?id=41894359) - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
 * [2024-10-20, 08:57:12](https://news.ycombinator.com/item?id=41894025) - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
@@ -11,7 +12,6 @@
 * [2024-10-19, 19:59:05](https://news.ycombinator.com/item?id=41890307) - [Nonfree software found in GNU Boot releases again, many distros affected](https://savannah.gnu.org/news/?id=10684)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 19:06:34](https://news.ycombinator.com/item?id=41889876) - [Ribbonfarm Is Retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
-* [2024-10-19, 18:38:06](https://news.ycombinator.com/item?id=41889674) - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
