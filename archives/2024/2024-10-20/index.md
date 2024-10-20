@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 11:09:22](https://news.ycombinator.com/item?id=41894566) - [Naval Is Mistaken](https://twitter.com/paulg/status/1847225545299251597)
+* [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2024-10-20, 10:18:13](https://news.ycombinator.com/item?id=41894359) - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
 * [2024-10-20, 08:57:12](https://news.ycombinator.com/item?id=41894025) - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 11:09:22](https://news.ycombinator.com/item?id=41894566) - [Naval Is Mistaken](https://twitter.com/paulg/status/1847225545299251597)
+* [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2024-10-20, 10:18:13](https://news.ycombinator.com/item?id=41894359) - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
 * [2024-10-20, 08:57:12](https://news.ycombinator.com/item?id=41894025) - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
@@ -16,7 +18,6 @@
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
-* [2024-10-19, 13:23:50](https://news.ycombinator.com/item?id=41887628) - [Plastic – A Modern NES Emulator That Works with EGUI and TUI](https://github.com/Amjad50/plastic)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
 * [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
@@ -26,7 +27,6 @@
 * [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 * [2024-10-17, 14:32:36](https://news.ycombinator.com/item?id=41870052) - [Understanding how bureaucracy develops](https://dhruvmethi.substack.com/p/bureaucracy)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
-* [2024-10-17, 10:23:28](https://news.ycombinator.com/item?id=41868168) - [Adding syntax to the CPython interpreter](https://leontrolski.github.io/grammar.html)
 * [2024-10-17, 01:41:49](https://news.ycombinator.com/item?id=41865642) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-16, 15:47:52](https://news.ycombinator.com/item?id=41860470) - [Universal Jointing for Submarine Cables](https://ujconsortium.com/information/what-is-universal-jointing)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)
