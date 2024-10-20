@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 * [2024-10-20, 19:43:10](https://news.ycombinator.com/item?id=41897962) - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
 * [2024-10-20, 18:26:40](https://news.ycombinator.com/item?id=41897425) - [Amazon Removed Download and Transfer Option for New Kindles](https://blog.the-ebook-reader.com/2024/10/20/amazon-removed-download-and-transfer-option-for-new-kindles/)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
