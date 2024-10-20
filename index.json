@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-20, 11:09:22",
-      "https://news.ycombinator.com/item?id=41894566"
+      "2024-10-20, 11:24:22",
+      "https://news.ycombinator.com/item?id=41894631"
     ],
     [
-      "Naval Is Mistaken",
-      "https://twitter.com/paulg/status/1847225545299251597"
+      "What Docs-as-Code Means",
+      "https://passo.uno/what-docs-as-code-means/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "A New Artificial Intelligence Tool for Cancer",
       "https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 02:26:02",
-      "https://news.ycombinator.com/item?id=41892432"
-    ],
-    [
-      "Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Data Version Control",
       "https://dvc.org/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 13:23:50",
+      "https://news.ycombinator.com/item?id=41887628"
+    ],
+    [
+      "Plastic – A Modern NES Emulator That Works with EGUI and TUI",
+      "https://github.com/Amjad50/plastic"
     ]
   ],
   [
