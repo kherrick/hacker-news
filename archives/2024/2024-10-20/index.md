@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [2024-10-20, 16:19:35](https://news.ycombinator.com/item?id=41896408) - [Twitter blog posts from 2019-2024 appear to be missing from Internet Archive](https://twitter.com/0rf/status/1847814884794253671)
 * [2024-10-20, 16:14:47](https://news.ycombinator.com/item?id=41896351) - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
 * [2024-10-20, 16:08:09](https://news.ycombinator.com/item?id=41896302) - [Bumblebee queens choose to hibernate in pesticide-contaminated soil](https://phys.org/news/2024-10-bumblebee-queens-hibernate-pesticide-contaminated.html)
 * [2024-10-20, 16:07:43](https://news.ycombinator.com/item?id=41896297) - [Drasi: Microsoft's open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 * [2024-10-20, 15:39:53](https://news.ycombinator.com/item?id=41896052) - [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
+* [2024-10-20, 15:30:29](https://news.ycombinator.com/item?id=41895951) - [The Part of PostgreSQL We Hate the Most](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 15:28:15](https://news.ycombinator.com/item?id=41895928) - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
 * [2024-10-20, 15:14:29](https://news.ycombinator.com/item?id=41895835) - [Draw a Crocodile Without a Tail](https://twitter.com/PaoloCrosetto/status/1847985750580552178)
 * [2024-10-20, 15:01:21](https://news.ycombinator.com/item?id=41895775) - [1 in 6 Companies Are Hesitant to Hire Recent College Graduates](https://www.intelligent.com/1-in-6-companies-are-hesitant-to-hire-recent-college-graduates/)
