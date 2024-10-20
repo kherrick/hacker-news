@@ -2,8 +2,6 @@
 
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
-* [2024-10-20, 04:04:36](https://news.ycombinator.com/item?id=41892773) - [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
-* [2024-10-20, 04:02:00](https://news.ycombinator.com/item?id=41892763) - [Securing Hardware and Firmware Supply Chains](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/securing-hardware-and-firmware-supply-chains/ba-p/4268815)
 * [2024-10-20, 02:26:02](https://news.ycombinator.com/item?id=41892432) - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
 * [2024-10-20, 00:35:21](https://news.ycombinator.com/item?id=41891953) - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 * [2024-10-20, 00:00:15](https://news.ycombinator.com/item?id=41891799) - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
@@ -21,6 +19,8 @@
 * [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
 * [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
+* [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
+* [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
 * [2024-10-17, 23:09:46](https://news.ycombinator.com/item?id=41874738) - [Blue whale skeleton at New Bedford museum still oozing oil](https://www.wpri.com/news/street-stories/blue-whale-skeleton-at-new-bedford-museum-still-leaking-oil/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
 * [2024-10-17, 19:56:38](https://news.ycombinator.com/item?id=41873165) - [NASA freezes Starliner missions](https://gizmodo.com/nasa-freezes-starliner-missions-after-boeing-leaves-astronauts-stranded-2000512963)
