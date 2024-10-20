@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-10-20, 00:00:15",
+      "https://news.ycombinator.com/item?id=41891799"
+    ],
+    [
+      "Regarding our Cease and Desist letter to Automattic",
+      "https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 23:39:43",
+      "https://news.ycombinator.com/item?id=41891694"
+    ],
+    [
+      "Accountability sinks",
+      "https://aworkinglibrary.com/writing/accountability-sinks"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 23:31:36",
+      "https://news.ycombinator.com/item?id=41891658"
+    ],
+    [
+      "Booting Sun Sparc Servers",
+      "https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 21:04:52",
       "https://news.ycombinator.com/item?id=41890784"
     ],
     [
-      "QUIC Is Not Quick Enough over Fast Internet",
+      "QUIC is not quick enough over fast internet",
       "https://arxiv.org/abs/2310.09423"
     ]
   ],
   [
     [
-      "2024-10-19, 20:42:02",
-      "https://news.ycombinator.com/item?id=41890633"
+      "2024-10-19, 21:00:35",
+      "https://news.ycombinator.com/item?id=41890762"
     ],
     [
-      "It's time for operating systems to rediscover hardware",
-      "https://www.usenix.org/conference/osdi21/presentation/fri-keynote"
+      "Show HN: I made a site to quick identify any plant and learn how to care for it",
+      "https://frondly.app/"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2024-10-19, 20:21:57",
-      "https://news.ycombinator.com/item?id=41890480"
+      "2024-10-19, 20:18:54",
+      "https://news.ycombinator.com/item?id=41890460"
     ],
     [
-      "How I Use Git",
-      "https://registerspill.thorstenball.com/p/how-i-use-git"
+      "Italy's Piracy Shield just blocked one of Google's CDN",
+      "https://mil04s43-in-f1.1e100.net"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2024-10-19, 18:19:59",
-      "https://news.ycombinator.com/item?id=41889543"
+      "2024-10-19, 18:09:48",
+      "https://news.ycombinator.com/item?id=41889467"
     ],
     [
-      "Dwarf Fortress – Boatmurdered Part #1 – Intro (2006)",
-      "https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/"
+      "Implementing neural networks on the \"3 cent\" 8-bit microcontroller",
+      "https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-10-18, 16:01:40",
-      "https://news.ycombinator.com/item?id=41880649"
-    ],
-    [
-      "US probes Tesla's Full Self-Driving software after fatal crash",
-      "https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 23:09:46",
       "https://news.ycombinator.com/item?id=41874738"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2024-10-17, 14:32:36",
-      "https://news.ycombinator.com/item?id=41870052"
+      "2024-10-17, 15:29:31",
+      "https://news.ycombinator.com/item?id=41870567"
     ],
     [
-      "Understanding how bureaucracy develops",
-      "https://dhruvmethi.substack.com/p/bureaucracy"
+      "Time: Yes, it's a dimension, but not like space",
+      "https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Language is not essential for the cognitive processes that underlie thought",
       "https://www.scientificamerican.com/article/you-dont-need-words-to-think/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 10:23:28",
-      "https://news.ycombinator.com/item?id=41868168"
-    ],
-    [
-      "Adding syntax to the CPython interpreter",
-      "https://leontrolski.github.io/grammar.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 01:41:49",
-      "https://news.ycombinator.com/item?id=41865642"
-    ],
-    [
-      "Implementing Regular Expressions in TypeScript Types (Badly)",
-      "https://skalt.github.io/projects/brzozowski_ts/"
     ]
   ],
   [
