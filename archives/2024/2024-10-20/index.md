@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 23:24:19](https://news.ycombinator.com/item?id=41899354) - [Intelligence is not Enough [video]](https://www.youtube.com/watch?v=bQfJi7rjuEk)
+* [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
+* [2024-10-20, 23:06:04](https://news.ycombinator.com/item?id=41899225) - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
+* [2024-10-20, 22:41:24](https://news.ycombinator.com/item?id=41899085) - [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)
 * [2024-10-20, 22:31:43](https://news.ycombinator.com/item?id=41899031) - [Twitch blocks creating new accounts from Israeli IP's](https://twitter.com/dancantstream/status/1847991191221989620)
 * [2024-10-20, 22:11:21](https://news.ycombinator.com/item?id=41898910) - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
