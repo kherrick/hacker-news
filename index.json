@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-20, 20:01:19",
+      "https://news.ycombinator.com/item?id=41898076"
+    ],
+    [
+      "Show HN: Create mind maps to learn new things using AI",
+      "https://github.com/aotakeda/learn-thing"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 19:43:10",
       "https://news.ycombinator.com/item?id=41897962"
     ],
@@ -267,16 +277,6 @@
     [
       "Blocking code is a leaky abstraction",
       "https://notgull.net/blocking-leaky/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 18:09:48",
-      "https://news.ycombinator.com/item?id=41889467"
-    ],
-    [
-      "Implementing neural networks on the \"3 cent\" 8-bit microcontroller",
-      "https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/"
     ]
   ],
   [
