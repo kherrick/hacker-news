@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-10-20, 12:33:50",
-      "https://news.ycombinator.com/item?id=41894933"
-    ],
-    [
-      "The useful use of cat",
-      "https://mrmr.io/cat"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 12:33:39",
       "https://news.ycombinator.com/item?id=41894932"
     ],
@@ -277,6 +267,16 @@
     [
       "Blocking code is a leaky abstraction",
       "https://notgull.net/blocking-leaky/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 18:09:48",
+      "https://news.ycombinator.com/item?id=41889467"
+    ],
+    [
+      "Implementing neural networks on the \"3 cent\" 8-bit microcontroller",
+      "https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/"
     ]
   ],
   [
