@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 15:01:21](https://news.ycombinator.com/item?id=41895775) - [1 in 6 Companies Are Hesitant to Hire Recent College Graduates](https://www.intelligent.com/1-in-6-companies-are-hesitant-to-hire-recent-college-graduates/)
+* [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
+* [2024-10-20, 14:51:05](https://news.ycombinator.com/item?id=41895718) - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
 * [2024-10-20, 14:32:29](https://news.ycombinator.com/item?id=41895609) - [Energy-based model explains how chronic stress transforms into disease over time](https://www.sciencedirect.com/science/article/pii/S030645302200292X)
+* [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
 * [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
