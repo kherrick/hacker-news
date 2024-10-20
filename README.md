@@ -28,7 +28,7 @@
 * [2024-10-17, 15:29:31](https://news.ycombinator.com/item?id=41870567) - [Time: Yes, it's a dimension, but not like space](https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/)
 * [2024-10-17, 12:43:12](https://news.ycombinator.com/item?id=41869128) - [Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 12:10:30](https://news.ycombinator.com/item?id=41868884) - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
-* [2024-10-16, 18:47:58](https://news.ycombinator.com/item?id=41862398) - [Artemis moon suit designed by Axiom Space and Prada revealed in Milan](http://www.collectspace.com/news/news-101624a-axemu-lunar-spacesuit-axiom-space-prada-reveal.html)
+* [2024-10-16, 15:47:52](https://news.ycombinator.com/item?id=41860470) - [Universal Jointing for Submarine Cables](https://ujconsortium.com/information/what-is-universal-jointing)
 * [2024-10-16, 14:42:22](https://news.ycombinator.com/item?id=41859622) - [Medley Loops: The Basic System (Lisp Object-Oriented Programming System) [pdf]](https://interlisp.org/documentation/2024-loops-book-1.pdf)
 
 ## [Archives](archives/index.md)
