@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 22:31:43](https://news.ycombinator.com/item?id=41899031) - [Twitch blocks creating new accounts from Israeli IP's](https://twitter.com/dancantstream/status/1847991191221989620)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
 * [2024-10-20, 20:24:39](https://news.ycombinator.com/item?id=41898216) - [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
 * [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
@@ -19,7 +20,6 @@
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-20, 11:51:35](https://news.ycombinator.com/item?id=41894740) - [Winners of the 2024 IFComp](https://ifcomp.org/comp/2024)
 * [2024-10-20, 11:34:47](https://news.ycombinator.com/item?id=41894672) - [Route Planning in Transportation Networks (2015)](https://arxiv.org/abs/1504.05140)
-* [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What docs-as-code means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The History of the Barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)

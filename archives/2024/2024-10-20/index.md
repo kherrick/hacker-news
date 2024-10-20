@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 22:31:43](https://news.ycombinator.com/item?id=41899031) - [Twitch blocks creating new accounts from Israeli IP's](https://twitter.com/dancantstream/status/1847991191221989620)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
 * [2024-10-20, 21:25:02](https://news.ycombinator.com/item?id=41898603) - [Why I'm skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 20:24:39](https://news.ycombinator.com/item?id=41898216) - [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
