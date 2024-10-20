@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
 * [2024-10-20, 18:26:40](https://news.ycombinator.com/item?id=41897425) - [Amazon Removed Download and Transfer Option for New Kindles](https://blog.the-ebook-reader.com/2024/10/20/amazon-removed-download-and-transfer-option-for-new-kindles/)
+* [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:44:57](https://news.ycombinator.com/item?id=41897106) - [Microsoft asking us to buy new Windows 11 PCs is wasteful](https://www.xda-developers.com/microsoft-buy-new-windows-11-pcs-wasteful/)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [AI Detectors Falsely Accuse Students of Cheating–With Big Consequences](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)

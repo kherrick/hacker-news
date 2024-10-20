@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [AI Detectors Falsely Accuse Students of Cheating–With Big Consequences](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
@@ -23,7 +24,6 @@
 * [2024-10-19, 23:39:43](https://news.ycombinator.com/item?id=41891694) - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 * [2024-10-19, 19:39:19](https://news.ycombinator.com/item?id=41890158) - [The Languages of English, Math, and Programming](https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb)
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
-* [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-17, 21:24:29](https://news.ycombinator.com/item?id=41873968) - [Why do random forests work? They are self-regularizing adaptive smoothers](https://arxiv.org/abs/2402.01502)
