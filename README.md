@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-20, 23:24:19](https://news.ycombinator.com/item?id=41899354) - [Intelligence is not Enough [video]](https://www.youtube.com/watch?v=bQfJi7rjuEk)
+* [2024-10-20, 23:21:34](https://news.ycombinator.com/item?id=41899334) - [If you're curious why every username is a domain, it's because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 * [2024-10-20, 23:06:04](https://news.ycombinator.com/item?id=41899225) - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
 * [2024-10-20, 22:41:24](https://news.ycombinator.com/item?id=41899085) - [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)
@@ -19,7 +20,6 @@
 * [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
 * [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
-* [2024-10-20, 11:34:47](https://news.ycombinator.com/item?id=41894672) - [Route Planning in Transportation Networks (2015)](https://arxiv.org/abs/1504.05140)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The History of the Barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
 * [2024-10-20, 23:24:19](https://news.ycombinator.com/item?id=41899354) - [Intelligence is not Enough [video]](https://www.youtube.com/watch?v=bQfJi7rjuEk)
+* [2024-10-20, 23:21:34](https://news.ycombinator.com/item?id=41899334) - [If you're curious why every username is a domain, it's because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 * [2024-10-20, 23:06:04](https://news.ycombinator.com/item?id=41899225) - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
 * [2024-10-20, 22:41:24](https://news.ycombinator.com/item?id=41899085) - [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)
