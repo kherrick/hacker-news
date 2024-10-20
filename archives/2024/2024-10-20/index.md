@@ -7,6 +7,7 @@
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
 * [2024-10-20, 06:15:14](https://news.ycombinator.com/item?id=41893287) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
+* [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 * [2024-10-20, 04:52:46](https://news.ycombinator.com/item?id=41892946) - [AI Medical Imagery Model Offers Fast, Cost-Efficient Expert Analysis](https://developer.nvidia.com/blog/ai-medical-imagery-model-offers-fast-cost-efficient-expert-analysis/)
 * [2024-10-20, 04:14:52](https://news.ycombinator.com/item?id=41892815) - [LLM will never be AGI: The Proof](https://ycao.net/posts/llm-agi/)
 * [2024-10-20, 04:04:36](https://news.ycombinator.com/item?id=41892773) - [Why Surgeons Are Wearing the Apple Vision Pro in Operating Rooms](https://time.com/7093536/surgeons-apple-vision-pro/)
