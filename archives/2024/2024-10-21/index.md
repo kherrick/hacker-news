@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 10:12:53](https://news.ycombinator.com/item?id=41902536) - [One of the Last Navajo Code Talkers from World War II Dies at 107](https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39)
 * [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
 * [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [cat without `cat`](https://jarv.org/posts/cat-without-cat/)

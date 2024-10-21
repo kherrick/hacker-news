@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 10:12:53](https://news.ycombinator.com/item?id=41902536) - [One of the Last Navajo Code Talkers from World War II Dies at 107](https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39)
 * [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro's Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
@@ -29,7 +30,6 @@
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
-* [2024-10-17, 15:29:31](https://news.ycombinator.com/item?id=41870567) - [Time is a dimension, but not like space](https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/)
 
 ## [Archives](archives/index.md)
 
