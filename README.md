@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 03:35:30](https://news.ycombinator.com/item?id=41900463) - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
-* [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software engineer titles have almost lost all their meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
@@ -19,6 +18,7 @@
 * [2024-10-20, 15:30:29](https://news.ycombinator.com/item?id=41895951) - [MVCC – the part of PostgreSQL we hate the most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
+* [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:33:50](https://news.ycombinator.com/item?id=41894933) - [The useful use of cat](https://mrmr.io/cat)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
