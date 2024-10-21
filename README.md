@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
+* [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
+* [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro's Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
@@ -29,7 +30,6 @@
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
-* [2024-10-17, 15:29:31](https://news.ycombinator.com/item?id=41870567) - [Time is a dimension, but not like space](https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/)
 
 ## [Archives](archives/index.md)
 

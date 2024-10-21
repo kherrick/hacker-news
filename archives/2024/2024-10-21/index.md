@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
 * [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [cat without `cat`](https://jarv.org/posts/cat-without-cat/)
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
 * [2024-10-21, 06:04:44](https://news.ycombinator.com/item?id=41901100) - [IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
 * [2024-10-21, 05:53:05](https://news.ycombinator.com/item?id=41901037) - [AWS CEO tells workers to quit if they don't want to come back to the office](https://www.techradar.com/pro/aws-ceo-tells-workers-to-quit-if-they-dont-want-to-come-back-to-the-office)
 * [2024-10-21, 04:47:09](https://news.ycombinator.com/item?id=41900754) - [Six top Alzheimer's researchers accused of fraud](https://threadreaderapp.com/thread/1848020706082050500.html)
+* [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro's Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
 * [2024-10-21, 03:35:30](https://news.ycombinator.com/item?id=41900463) - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
 * [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
