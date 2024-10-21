@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 18:11:23](https://news.ycombinator.com/item?id=41906757) - [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
 * [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
 * [2024-10-21, 17:28:58](https://news.ycombinator.com/item?id=41906306) - [xAI Grok API Beta](https://twitter.com/elonmusk/status/1848398370219364385)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
@@ -16,6 +17,7 @@
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [Dracula author's lost story unearthed after 134 years](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 15:56:06](https://news.ycombinator.com/item?id=41905477) - [Brain endurance training improves older adults' cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
 * [2024-10-21, 15:27:40](https://news.ycombinator.com/item?id=41905215) - [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
+* [2024-10-21, 15:22:12](https://news.ycombinator.com/item?id=41905167) - [Ask HN: How to learn UI/UX as a data/BE engineer?](https://news.ycombinator.com/item?id=41905167)
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 * [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
 * [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
