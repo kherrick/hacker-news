@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 06:04:44](https://news.ycombinator.com/item?id=41901100) - [IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
+* [2024-10-21, 05:53:05](https://news.ycombinator.com/item?id=41901037) - [AWS CEO tells workers to quit if they don't want to come back to the office](https://www.techradar.com/pro/aws-ceo-tells-workers-to-quit-if-they-dont-want-to-come-back-to-the-office)
 * [2024-10-21, 03:35:30](https://news.ycombinator.com/item?id=41900463) - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
 * [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)

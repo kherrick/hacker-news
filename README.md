@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 06:04:44](https://news.ycombinator.com/item?id=41901100) - [IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
+* [2024-10-21, 05:53:05](https://news.ycombinator.com/item?id=41901037) - [AWS CEO tells workers to quit if they don't want to come back to the office](https://www.techradar.com/pro/aws-ceo-tells-workers-to-quit-if-they-dont-want-to-come-back-to-the-office)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
@@ -8,7 +10,6 @@
 * [2024-10-21, 00:11:45](https://news.ycombinator.com/item?id=41899586) - [David Lynch Interview Project](https://www.youtube.com/watch?v=P_vbYmPm_zU)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
-* [2024-10-20, 21:25:02](https://news.ycombinator.com/item?id=41898603) - [Skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [Do AI detectors work? Students face false cheating accusations](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
@@ -18,7 +19,6 @@
 * [2024-10-20, 15:30:29](https://news.ycombinator.com/item?id=41895951) - [MVCC – the part of PostgreSQL we hate the most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
-* [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:33:50](https://news.ycombinator.com/item?id=41894933) - [The useful use of cat](https://mrmr.io/cat)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
