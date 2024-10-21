@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-20, 23:24:19](https://news.ycombinator.com/item?id=41899354) - [Intelligence is not Enough [video]](https://www.youtube.com/watch?v=bQfJi7rjuEk)
+* [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+* [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
+* [2024-10-21, 00:11:45](https://news.ycombinator.com/item?id=41899586) - [David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.](https://www.youtube.com/watch?v=P_vbYmPm_zU)
 * [2024-10-20, 23:21:34](https://news.ycombinator.com/item?id=41899334) - [If you're curious why every username is a domain, it's because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
-* [2024-10-20, 23:06:04](https://news.ycombinator.com/item?id=41899225) - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
-* [2024-10-20, 22:41:24](https://news.ycombinator.com/item?id=41899085) - [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)
 * [2024-10-20, 22:11:21](https://news.ycombinator.com/item?id=41898910) - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
-* [2024-10-20, 20:24:39](https://news.ycombinator.com/item?id=41898216) - [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
+* [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 * [2024-10-20, 19:43:10](https://news.ycombinator.com/item?id=41897962) - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
-* [2024-10-20, 19:17:37](https://news.ycombinator.com/item?id=41897786) - [Computer Organization, free online textbook](https://marz.utk.edu/my-courses/cosc230/book/)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
@@ -30,6 +29,7 @@
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
+* [2024-10-17, 18:30:03](https://news.ycombinator.com/item?id=41872314) - [555 Timer Circuits](https://www.555-timer-circuits.com/)
 
 ## [Archives](archives/index.md)
 
