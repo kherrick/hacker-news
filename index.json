@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=41906949"
     ],
     [
-      "Perplexity AI's new tool makes researching the stock market 'delightful'",
+      "Perplexity AI's new tool for researching the stock market",
       "https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 17:44:49",
-      "https://news.ycombinator.com/item?id=41906465"
-    ],
-    [
-      "Robot vacuum cleaners hacked to spy on, insult owners",
-      "https://www.malwarebytes.com/blog/news/2024/10/robot-vacuum-cleaners-hacked-to-spy-on-insult-owners"
     ]
   ],
   [
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=41906283"
     ],
     [
-      "U.S. Border Surveillance Towers Have Always Been Broken",
+      "U.S. border surveillance towers have always been broken",
       "https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 17:03:38",
-      "https://news.ycombinator.com/item?id=41906093"
-    ],
-    [
-      "Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?",
-      "https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-10-20, 02:34:39",
+      "https://news.ycombinator.com/item?id=41892475"
+    ],
+    [
+      "Turing and the Primes (2016) [pdf]",
+      "https://people.maths.bris.ac.uk/~maarb/papers/turingprimes.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 09:31:09",
       "https://news.ycombinator.com/item?id=41886721"
     ],
@@ -297,6 +287,16 @@
     [
       "Plankton balloon to six times size in newly discovered mode of oceanic travel",
       "https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 13:39:56",
+      "https://news.ycombinator.com/item?id=41869572"
+    ],
+    [
+      "Workaround Clang v15 AArch64 miscompile that affects parallel collection",
+      "https://github.com/cisco/ChezScheme/pull/879"
     ]
   ]
 ]
