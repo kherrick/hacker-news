@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
-* [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 01:23:56](https://news.ycombinator.com/item?id=41899912) - [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
@@ -21,6 +20,7 @@
 * [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
 * [2024-10-20, 12:33:50](https://news.ycombinator.com/item?id=41894933) - [The useful use of cat](https://mrmr.io/cat)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
+* [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What docs-as-code means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The History of the Barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 10:38:17](https://news.ycombinator.com/item?id=41894451) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
