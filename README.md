@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
-* [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
 * [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
+* [2024-10-21, 14:00:54](https://news.ycombinator.com/item?id=41904250) - [Dear CTO: it's not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
 * [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
@@ -22,12 +22,12 @@
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [2024-10-20, 16:07:43](https://news.ycombinator.com/item?id=41896297) - [Drasi: Microsoft's open source data processing platform for event-driven systems](https://github.com/drasi-project/drasi-platform)
 * [2024-10-20, 15:30:29](https://news.ycombinator.com/item?id=41895951) - [MVCC – the part of PostgreSQL we hate the most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
-* [2024-10-20, 15:00:06](https://news.ycombinator.com/item?id=41895764) - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [2024-10-20, 14:56:32](https://news.ycombinator.com/item?id=41895746) - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
 * [2024-10-20, 12:33:39](https://news.ycombinator.com/item?id=41894932) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-20, 10:58:12](https://news.ycombinator.com/item?id=41894528) - [Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The history of the barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
+* [2024-10-19, 06:31:31](https://news.ycombinator.com/item?id=41886044) - [Turning the Crank: Design as a Mechanical Process](https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-18, 01:38:46](https://news.ycombinator.com/item?id=41875615) - [Plankton balloon to six times size in newly discovered mode of oceanic travel](https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html)
 
