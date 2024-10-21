@@ -17,6 +17,7 @@
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-18, 18:05:48](https://news.ycombinator.com/item?id=41881927) - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+* [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 * [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
 * [2024-10-18, 17:01:25](https://news.ycombinator.com/item?id=41881306) - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
