@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
+* [2024-10-21, 22:16:00](https://news.ycombinator.com/item?id=41909130) - [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)
 * [2024-10-21, 21:08:22](https://news.ycombinator.com/item?id=41908541) - [The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 * [2024-10-21, 20:50:25](https://news.ycombinator.com/item?id=41908400) - [Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
 * [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
@@ -8,7 +10,6 @@
 * [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
 * [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 * [2024-10-21, 18:28:29](https://news.ycombinator.com/item?id=41906928) - [Machine Learning to Computational Plasma Physics Reduced-Order Plasma Modeling](https://arxiv.org/abs/2409.02349)
-* [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. border surveillance towers have always been broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
@@ -25,7 +26,6 @@
 * [2024-10-20, 02:34:39](https://news.ycombinator.com/item?id=41892475) - [Turing and the Primes (2016) [pdf]](https://people.maths.bris.ac.uk/~maarb/papers/turingprimes.pdf)
 * [2024-10-19, 16:40:05](https://news.ycombinator.com/item?id=41888838) - [Vanity of Vanities: Fool's Cap Map of the World (Ca. 1585)](https://publicdomainreview.org/collection/fools-cap-map-of-the-world/)
 * [2024-10-19, 09:31:09](https://news.ycombinator.com/item?id=41886721) - [Morsle – A daily Morse code challenge](https://morsle.fun)
-* [2024-10-19, 06:31:31](https://news.ycombinator.com/item?id=41886044) - [Turning the Crank: Design as a Mechanical Process](https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/)
 * [2024-10-18, 19:02:44](https://news.ycombinator.com/item?id=41882430) - [Access your Raspberry Pi without a public IP](https://pinggy.io/blog/access_raspberry_pi_remotely_to_control_iot_devices/)
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 01:38:46](https://news.ycombinator.com/item?id=41875615) - [Plankton balloon to six times size in newly discovered mode of oceanic travel](https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html)

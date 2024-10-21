@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
+* [2024-10-21, 22:16:00](https://news.ycombinator.com/item?id=41909130) - [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)
 * [2024-10-21, 21:37:14](https://news.ycombinator.com/item?id=41908776) - [Philip Zimbardo, psychologist behind the 'Stanford Prison Experiment' dies at 91](https://news.stanford.edu/stories/2024/10/philip-zimbardo-the-psychologist-behind-stanford-prison-experiment-dies-at-age-91)
 * [2024-10-21, 21:08:22](https://news.ycombinator.com/item?id=41908541) - [The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 * [2024-10-21, 20:50:25](https://news.ycombinator.com/item?id=41908400) - [Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
