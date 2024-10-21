@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
+* [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
 * [2024-10-21, 13:50:55](https://news.ycombinator.com/item?id=41904147) - [Big browsers are about to throw a wrench in your ad-free paradise](https://www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)

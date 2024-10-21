@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-21, 13:50:55](https://news.ycombinator.com/item?id=41904147) - [Big browsers are about to throw a wrench in your ad-free paradise](https://www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/)
+* [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
+* [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
 * [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
@@ -8,9 +9,7 @@
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 * [2024-10-21, 12:00:47](https://news.ycombinator.com/item?id=41903190) - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2024-10-21, 09:51:52](https://news.ycombinator.com/item?id=41902407) - [Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
-* [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro’s Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
-* [2024-10-21, 04:07:46](https://news.ycombinator.com/item?id=41900607) - [How Much Science Is Fake?](https://osf.io/5rf2m/)
 * [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists Started to Decode Birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-20, 23:46:54](https://news.ycombinator.com/item?id=41899484) - [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
@@ -30,6 +29,7 @@
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The history of the barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
+* [2024-10-18, 01:38:46](https://news.ycombinator.com/item?id=41875615) - [Plankton balloon to six times size in newly discovered mode of oceanic travel](https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html)
 
 ## [Archives](archives/index.md)
 
