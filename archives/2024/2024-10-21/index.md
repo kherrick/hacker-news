@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 20:35:07](https://news.ycombinator.com/item?id=41908272) - [Meta's Israel Policy Chief Tried to Suppress Pro-Palestine Instagram Posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
@@ -12,6 +13,7 @@
 * [2024-10-21, 18:38:03](https://news.ycombinator.com/item?id=41907028) - [Meta's Israel Policy Chief tried to suppress pro-Palestinian posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
 * [2024-10-21, 18:31:41](https://news.ycombinator.com/item?id=41906970) - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 * [2024-10-21, 18:30:08](https://news.ycombinator.com/item?id=41906949) - [Perplexity AI's new tool makes researching the stock market 'delightful'](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
+* [2024-10-21, 18:28:29](https://news.ycombinator.com/item?id=41906928) - [Machine Learning to Computational Plasma Physics Reduced-Order Plasma Modeling](https://arxiv.org/abs/2409.02349)
 * [2024-10-21, 18:11:23](https://news.ycombinator.com/item?id=41906757) - [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
 * [2024-10-21, 17:56:20](https://news.ycombinator.com/item?id=41906591) - [Once You Try a Four-Day Workweek, It's Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
 * [2024-10-21, 17:55:01](https://news.ycombinator.com/item?id=41906572) - [Red Hat Reveals Major Enhancements to Red Hat Enterprise Linux AI](https://www.zdnet.com/article/red-hat-reveals-major-enhancements-to-red-hat-enterprise-linux-ai/)
