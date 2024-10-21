@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-21, 15:27:40",
-      "https://news.ycombinator.com/item?id=41905215"
-    ],
-    [
-      "Can SpaceX land a rocket with 1/2 cm accuracy?",
-      "https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 14:34:00",
       "https://news.ycombinator.com/item?id=41904601"
     ],
@@ -27,16 +17,6 @@
     [
       "Intelsat 33e breaks up in geostationary orbit",
       "https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 13:19:30",
-      "https://news.ycombinator.com/item?id=41903879"
-    ],
-    [
-      "Toyota's Betting Big on Electric Air Taxis",
-      "https://www.thedrive.com/news/toyotas-betting-big-on-electric-air-taxis"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-10-20, 23:46:54",
+      "https://news.ycombinator.com/item?id=41899484"
+    ],
+    [
+      "Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation",
+      "https://github.com/deepseek-ai/Janus"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 21:42:27",
       "https://news.ycombinator.com/item?id=41898723"
     ],
@@ -217,6 +207,16 @@
     [
       "MVCC – the part of PostgreSQL we hate the most (2023)",
       "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 15:00:06",
+      "https://news.ycombinator.com/item?id=41895764"
+    ],
+    [
+      "Internet Archive breached again through stolen access tokens",
+      "https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/"
     ]
   ],
   [
