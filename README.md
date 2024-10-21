@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [cat without `cat`](https://jarv.org/posts/cat-without-cat/)
 * [2024-10-21, 06:04:44](https://news.ycombinator.com/item?id=41901100) - [IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
-* [2024-10-21, 05:53:05](https://news.ycombinator.com/item?id=41901037) - [AWS CEO tells workers to quit if they don't want to come back to the office](https://www.techradar.com/pro/aws-ceo-tells-workers-to-quit-if-they-dont-want-to-come-back-to-the-office)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
