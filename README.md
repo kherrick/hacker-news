@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 13:50:55](https://news.ycombinator.com/item?id=41904147) - [Big browsers are about to throw a wrench in your ad-free paradise](https://www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+* [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
 * [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
 * [2024-10-21, 12:33:22](https://news.ycombinator.com/item?id=41903469) - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
@@ -28,8 +30,6 @@
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The history of the barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
-* [2024-10-18, 04:16:22](https://news.ycombinator.com/item?id=41876295) - [California Coolers](https://restoringhistory.com/california-coolers/)
-* [2024-10-18, 01:31:53](https://news.ycombinator.com/item?id=41875572) - [Emergence of ferromagnetism at onset Kondo breakdown in moiré bilayer lattices](https://phys.org/news/2024-10-physicists-emergence-ferromagnetism-onset-kondo.html)
 
 ## [Archives](archives/index.md)
 
