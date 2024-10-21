@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 * [2024-10-21, 02:32:41](https://news.ycombinator.com/item?id=41900203) - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
