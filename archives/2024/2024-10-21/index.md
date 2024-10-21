@@ -6,6 +6,7 @@
 
 * [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
 * [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
+* [2024-10-21, 14:00:54](https://news.ycombinator.com/item?id=41904250) - [Dear CTO: it's not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
 * [2024-10-21, 13:50:55](https://news.ycombinator.com/item?id=41904147) - [Big browsers are about to throw a wrench in your ad-free paradise](https://www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
@@ -17,6 +18,7 @@
 * [2024-10-21, 10:12:53](https://news.ycombinator.com/item?id=41902536) - [One of the Last Navajo Code Talkers from World War II Dies at 107](https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39)
 * [2024-10-21, 10:05:45](https://news.ycombinator.com/item?id=41902492) - [A simple C unit test framework](https://mattiasgustavsson.com/a-simple-c-unit-test-framework/)
 * [2024-10-21, 09:51:52](https://news.ycombinator.com/item?id=41902407) - [Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
+* [2024-10-21, 09:17:56](https://news.ycombinator.com/item?id=41902176) - [My free book \"Rust Projects – Write a Redis Clone\" is out](https://leanpub.com/rustprojects-redis)
 * [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 09:02:52](https://news.ycombinator.com/item?id=41902079) - [Show HN: Dynamic IPv4/6 records for Cloudflare](https://github.com/ddries/d2c.sh)
 * [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
