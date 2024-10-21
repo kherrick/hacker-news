@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 23:46:54](https://news.ycombinator.com/item?id=41899484) - [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
 * [2024-10-20, 23:24:19](https://news.ycombinator.com/item?id=41899354) - [Intelligence is not Enough [video]](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2024-10-20, 23:21:34](https://news.ycombinator.com/item?id=41899334) - [If you're curious why every username is a domain, it's because users are sites](https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)

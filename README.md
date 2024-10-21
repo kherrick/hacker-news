@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
-* [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
 * [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro's Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
+* [2024-10-20, 23:46:54](https://news.ycombinator.com/item?id=41899484) - [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 21:25:02](https://news.ycombinator.com/item?id=41898603) - [Skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
