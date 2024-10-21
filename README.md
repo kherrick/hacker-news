@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 23:03:24](https://news.ycombinator.com/item?id=41909463) - [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)
 * [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
 * [2024-10-21, 21:36:51](https://news.ycombinator.com/item?id=41908773) - [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
 * [2024-10-21, 21:29:33](https://news.ycombinator.com/item?id=41908701) - [The near impossible literacy test Louisiana used to suppress the black vote](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)
@@ -23,7 +24,6 @@
 * [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists working to decode birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
-* [2024-10-20, 02:34:39](https://news.ycombinator.com/item?id=41892475) - [Turing and the Primes (2016) [pdf]](https://people.maths.bris.ac.uk/~maarb/papers/turingprimes.pdf)
 * [2024-10-19, 16:40:05](https://news.ycombinator.com/item?id=41888838) - [Vanity of Vanities: Fool's Cap Map of the World (Ca. 1585)](https://publicdomainreview.org/collection/fools-cap-map-of-the-world/)
 * [2024-10-19, 09:31:09](https://news.ycombinator.com/item?id=41886721) - [Morsle – A daily Morse code challenge](https://morsle.fun)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)

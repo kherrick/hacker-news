@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 23:03:24](https://news.ycombinator.com/item?id=41909463) - [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)
 * [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
 * [2024-10-21, 22:21:23](https://news.ycombinator.com/item?id=41909179) - [C++: Uncompromised Performance, Undefined Behavior, & Move Semantics [video]](https://www.youtube.com/watch?v=fcRHiFH04a4)
 * [2024-10-21, 22:16:00](https://news.ycombinator.com/item?id=41909130) - [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)
