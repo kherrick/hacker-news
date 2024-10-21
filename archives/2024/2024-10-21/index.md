@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
 * [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
+* [2024-10-21, 22:21:23](https://news.ycombinator.com/item?id=41909179) - [C++: Uncompromised Performance, Undefined Behavior, & Move Semantics [video]](https://www.youtube.com/watch?v=fcRHiFH04a4)
 * [2024-10-21, 22:16:00](https://news.ycombinator.com/item?id=41909130) - [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)
 * [2024-10-21, 21:37:14](https://news.ycombinator.com/item?id=41908776) - [Philip Zimbardo, psychologist behind the 'Stanford Prison Experiment' dies at 91](https://news.stanford.edu/stories/2024/10/philip-zimbardo-the-psychologist-behind-stanford-prison-experiment-dies-at-age-91)
+* [2024-10-21, 21:36:51](https://news.ycombinator.com/item?id=41908773) - [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
 * [2024-10-21, 21:29:33](https://news.ycombinator.com/item?id=41908701) - [Take the Near Impossible Literacy Test Louisiana Used to Suppress Black Votes](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)
 * [2024-10-21, 21:08:22](https://news.ycombinator.com/item?id=41908541) - [The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 * [2024-10-21, 21:07:15](https://news.ycombinator.com/item?id=41908536) - [Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python](https://github.com/plasma-umass/scalene)
@@ -16,6 +18,7 @@
 * [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 * [2024-10-21, 20:20:17](https://news.ycombinator.com/item?id=41908132) - [Breaking Bad is a co-founder story disguised as a drug-dealing story](https://twitter.com/hnshah/status/1848046525391212902)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First Images from Euclid Are In](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
+* [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:46](https://news.ycombinator.com/item?id=41907353) - [New discovery reveals how diatoms capture CO2 so effectively](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-discovery-reveals-how-diatoms-capture-CO2-so-effectively-.html)
