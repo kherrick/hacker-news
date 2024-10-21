@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 03:35:30](https://news.ycombinator.com/item?id=41900463) - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
-* [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+* [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software engineer titles have almost lost all their meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
-* [2024-10-21, 02:32:41](https://news.ycombinator.com/item?id=41900203) - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
-* [2024-10-21, 00:11:45](https://news.ycombinator.com/item?id=41899586) - [David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.](https://www.youtube.com/watch?v=P_vbYmPm_zU)
+* [2024-10-21, 00:11:45](https://news.ycombinator.com/item?id=41899586) - [David Lynch Interview Project](https://www.youtube.com/watch?v=P_vbYmPm_zU)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
@@ -28,6 +27,7 @@
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly News Broadcast of Top HN Stories](https://hnup.date/)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
+* [2024-10-20, 00:35:21](https://news.ycombinator.com/item?id=41891953) - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 
