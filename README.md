@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
-* [2024-10-21, 01:23:56](https://news.ycombinator.com/item?id=41899912) - [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 23:08:42](https://news.ycombinator.com/item?id=41899245) - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)

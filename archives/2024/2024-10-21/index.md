@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
 * [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [cat without `cat`](https://jarv.org/posts/cat-without-cat/)
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
 * [2024-10-21, 06:04:44](https://news.ycombinator.com/item?id=41901100) - [IBM Granite 3.0: open enterprise models](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models)
