@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
+* [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 * [2024-10-21, 18:31:41](https://news.ycombinator.com/item?id=41906970) - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 * [2024-10-21, 18:30:08](https://news.ycombinator.com/item?id=41906949) - [Perplexity AI's new tool makes researching the stock market 'delightful'](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
 * [2024-10-21, 17:56:20](https://news.ycombinator.com/item?id=41906591) - [Once You Try a Four-Day Workweek, It's Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
@@ -9,7 +11,6 @@
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 15:56:06](https://news.ycombinator.com/item?id=41905477) - [Brain endurance training improves older adults' cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
 * [2024-10-21, 15:27:40](https://news.ycombinator.com/item?id=41905215) - [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
-* [2024-10-21, 15:22:12](https://news.ycombinator.com/item?id=41905167) - [Ask HN: How to learn UI/UX as a data/BE engineer?](https://news.ycombinator.com/item?id=41905167)
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
@@ -20,7 +21,6 @@
 * [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists working to decode birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 02:12:24](https://news.ycombinator.com/item?id=41900133) - [Werckmeister Temperment](https://en.wikipedia.org/wiki/Werckmeister_temperament)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
-* [2024-10-20, 22:11:21](https://news.ycombinator.com/item?id=41898910) - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [Do AI detectors work? Students face false cheating accusations](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 * [2024-10-20, 16:44:55](https://news.ycombinator.com/item?id=41896636) - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)

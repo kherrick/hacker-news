@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
 * [2024-10-21, 18:43:40](https://news.ycombinator.com/item?id=41907082) - [U.S. retailers list AMD Ryzen 7 9800X3D CPUs – prices range from $484 to $525](https://www.tomshardware.com/pc-components/cpus/two-u-s-retailers-list-amd-ryzen-7-9800x3d-cpus-ahead-of-launch-prices-range-from-usd484-to-usd525)
+* [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 * [2024-10-21, 18:38:03](https://news.ycombinator.com/item?id=41907028) - [Meta's Israel Policy Chief tried to suppress pro-Palestinian posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
 * [2024-10-21, 18:31:41](https://news.ycombinator.com/item?id=41906970) - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 * [2024-10-21, 18:30:08](https://news.ycombinator.com/item?id=41906949) - [Perplexity AI's new tool makes researching the stock market 'delightful'](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
