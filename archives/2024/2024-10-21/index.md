@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+* [2024-10-21, 12:33:22](https://news.ycombinator.com/item?id=41903469) - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
+* [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 * [2024-10-21, 12:00:47](https://news.ycombinator.com/item?id=41903190) - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2024-10-21, 11:07:23](https://news.ycombinator.com/item?id=41902864) - [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
 * [2024-10-21, 10:12:53](https://news.ycombinator.com/item?id=41902536) - [One of the Last Navajo Code Talkers from World War II Dies at 107](https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39)
@@ -12,6 +15,7 @@
 * [2024-10-21, 09:07:30](https://news.ycombinator.com/item?id=41902103) - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 * [2024-10-21, 09:02:52](https://news.ycombinator.com/item?id=41902079) - [Show HN: Dynamic IPv4/6 records for Cloudflare](https://github.com/ddries/d2c.sh)
 * [2024-10-21, 09:00:26](https://news.ycombinator.com/item?id=41902064) - [Show HN: Nextread.ai – Find you next book to read much easier](https://nextread.ai/)
+* [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-21, 07:02:00](https://news.ycombinator.com/item?id=41901433) - [C++23: ISO/IEC 14882:2024](https://www.iso.org/standard/83626.html)
 * [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [cat without `cat`](https://jarv.org/posts/cat-without-cat/)
 * [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
@@ -19,8 +23,10 @@
 * [2024-10-21, 05:53:05](https://news.ycombinator.com/item?id=41901037) - [AWS CEO tells workers to quit if they don't want to come back to the office](https://www.techradar.com/pro/aws-ceo-tells-workers-to-quit-if-they-dont-want-to-come-back-to-the-office)
 * [2024-10-21, 04:47:09](https://news.ycombinator.com/item?id=41900754) - [Six top Alzheimer's researchers accused of fraud](https://threadreaderapp.com/thread/1848020706082050500.html)
 * [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro's Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
+* [2024-10-21, 04:07:46](https://news.ycombinator.com/item?id=41900607) - [How Much Science Is Fake?](https://osf.io/5rf2m/)
 * [2024-10-21, 03:35:30](https://news.ycombinator.com/item?id=41900463) - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
 * [2024-10-21, 03:33:49](https://news.ycombinator.com/item?id=41900456) - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+* [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists Started to Decode Birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 02:32:41](https://news.ycombinator.com/item?id=41900203) - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
