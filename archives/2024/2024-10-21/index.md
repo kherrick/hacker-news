@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 21:08:22](https://news.ycombinator.com/item?id=41908541) - [The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 * [2024-10-21, 20:50:25](https://news.ycombinator.com/item?id=41908400) - [Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
 * [2024-10-21, 20:35:07](https://news.ycombinator.com/item?id=41908272) - [Meta's Israel Policy Chief Tried to Suppress Pro-Palestine Instagram Posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
 * [2024-10-21, 20:34:02](https://news.ycombinator.com/item?id=41908258) - [The Internet Archive is back, in read-only mode](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)

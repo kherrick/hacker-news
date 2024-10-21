@@ -63,6 +63,7 @@
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly News Broadcast of Top HN Stories](https://hnup.date/)
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
+* [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 06:15:14](https://news.ycombinator.com/item?id=41893287) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
