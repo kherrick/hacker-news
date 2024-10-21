@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-21, 06:19:20",
-      "https://news.ycombinator.com/item?id=41901168"
-    ],
-    [
-      "Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder",
-      "https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 04:16:14",
       "https://news.ycombinator.com/item?id=41900645"
     ],
@@ -47,6 +37,16 @@
     [
       "Memory safety without lifetime parameters",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 23:46:54",
+      "https://news.ycombinator.com/item?id=41899484"
+    ],
+    [
+      "Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation",
+      "https://github.com/deepseek-ai/Janus"
     ]
   ],
   [
