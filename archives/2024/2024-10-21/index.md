@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 17:03:38](https://news.ycombinator.com/item?id=41906093) - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
 * [2024-10-21, 16:26:49](https://news.ycombinator.com/item?id=41905765) - [Extinction of the Influenza B Yamagata Line During the Covid Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [Dracula author's lost story unearthed after 134 years](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 15:56:06](https://news.ycombinator.com/item?id=41905477) - [Brain endurance training improves older adults' cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
@@ -43,6 +44,7 @@
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
 * [2024-10-21, 02:32:41](https://news.ycombinator.com/item?id=41900203) - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
+* [2024-10-21, 02:12:24](https://news.ycombinator.com/item?id=41900133) - [Werckmeister Temperment](https://en.wikipedia.org/wiki/Werckmeister_temperament)
 * [2024-10-21, 01:23:56](https://news.ycombinator.com/item?id=41899912) - [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
