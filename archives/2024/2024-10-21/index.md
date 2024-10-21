@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 18:43:40](https://news.ycombinator.com/item?id=41907082) - [U.S. retailers list AMD Ryzen 7 9800X3D CPUs – prices range from $484 to $525](https://www.tomshardware.com/pc-components/cpus/two-u-s-retailers-list-amd-ryzen-7-9800x3d-cpus-ahead-of-launch-prices-range-from-usd484-to-usd525)
 * [2024-10-21, 18:38:03](https://news.ycombinator.com/item?id=41907028) - [Meta's Israel Policy Chief tried to suppress pro-Palestinian posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
+* [2024-10-21, 18:31:41](https://news.ycombinator.com/item?id=41906970) - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 * [2024-10-21, 18:11:23](https://news.ycombinator.com/item?id=41906757) - [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
+* [2024-10-21, 17:56:20](https://news.ycombinator.com/item?id=41906591) - [Once You Try a Four-Day Workweek, It's Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
 * [2024-10-21, 17:55:01](https://news.ycombinator.com/item?id=41906572) - [Red Hat Reveals Major Enhancements to Red Hat Enterprise Linux AI](https://www.zdnet.com/article/red-hat-reveals-major-enhancements-to-red-hat-enterprise-linux-ai/)
+* [2024-10-21, 17:44:49](https://news.ycombinator.com/item?id=41906465) - [Robot vacuum cleaners hacked to spy on, insult owners](https://www.malwarebytes.com/blog/news/2024/10/robot-vacuum-cleaners-hacked-to-spy-on-insult-owners)
 * [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
 * [2024-10-21, 17:28:58](https://news.ycombinator.com/item?id=41906306) - [xAI Grok API Beta](https://twitter.com/elonmusk/status/1848398370219364385)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
