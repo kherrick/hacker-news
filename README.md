@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 06:41:23](https://news.ycombinator.com/item?id=41901298) - [Cat without cat on the commandline](https://jarv.org/posts/cat-without-cat/)
+* [2024-10-21, 06:19:20](https://news.ycombinator.com/item?id=41901168) - [Google Drive Blackout in Italy After Another Major Anti-Piracy Blunder](https://torrentfreak.com/google-drive-blackout-in-italy-after-another-major-anti-piracy-blunder-241020/)
 * [2024-10-21, 04:47:09](https://news.ycombinator.com/item?id=41900754) - [Six top Alzheimer's researchers accused of fraud](https://threadreaderapp.com/thread/1848020706082050500.html)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-21, 03:00:29](https://news.ycombinator.com/item?id=41900312) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
@@ -27,7 +28,6 @@
 * [2024-10-20, 10:18:13](https://news.ycombinator.com/item?id=41894359) - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
 * [2024-10-20, 08:50:18](https://news.ycombinator.com/item?id=41893987) - [The Best Darn Grid Shader (Yet) (2023)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
-* [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 
