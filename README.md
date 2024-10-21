@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-21, 20:35:07](https://news.ycombinator.com/item?id=41908272) - [Meta's Israel Policy Chief Tried to Suppress Pro-Palestine Instagram Posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
+* [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
