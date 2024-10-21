@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 18:38:03](https://news.ycombinator.com/item?id=41907028) - [Meta's Israel Policy Chief tried to suppress pro-Palestinian posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
 * [2024-10-21, 18:11:23](https://news.ycombinator.com/item?id=41906757) - [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
+* [2024-10-21, 17:55:01](https://news.ycombinator.com/item?id=41906572) - [Red Hat Reveals Major Enhancements to Red Hat Enterprise Linux AI](https://www.zdnet.com/article/red-hat-reveals-major-enhancements-to-red-hat-enterprise-linux-ai/)
 * [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
 * [2024-10-21, 17:28:58](https://news.ycombinator.com/item?id=41906306) - [xAI Grok API Beta](https://twitter.com/elonmusk/status/1848398370219364385)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)

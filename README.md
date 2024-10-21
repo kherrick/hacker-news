@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-21, 18:11:23](https://news.ycombinator.com/item?id=41906757) - [Gary Marcus proposes gen AI boycott to push for regulation, tame Silicon Valley](https://www.theregister.com/2024/10/21/gary_marcus_ai_interview/)
-* [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
+* [2024-10-21, 18:38:03](https://news.ycombinator.com/item?id=41907028) - [Meta's Israel Policy Chief tried to suppress pro-Palestinian posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
+* [2024-10-21, 17:55:01](https://news.ycombinator.com/item?id=41906572) - [Red Hat Reveals Major Enhancements to Red Hat Enterprise Linux AI](https://www.zdnet.com/article/red-hat-reveals-major-enhancements-to-red-hat-enterprise-linux-ai/)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
 * [2024-10-21, 17:17:57](https://news.ycombinator.com/item?id=41906213) - [India's airline industry in chaos after 90 hoax bomb threats in a week](https://www.theguardian.com/world/2024/oct/21/india-airline-industry-in-chaos-after-90-hoax-bomb-threats-in-a-week)
 * [2024-10-21, 17:03:38](https://news.ycombinator.com/item?id=41906093) - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
