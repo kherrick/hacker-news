@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 16:26:49](https://news.ycombinator.com/item?id=41905765) - [Extinction of the Influenza B Yamagata Line During the Covid Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
+* [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [Dracula author's lost story unearthed after 134 years](https://www.bbc.com/news/articles/c4g9119l64qo)
+* [2024-10-21, 15:56:06](https://news.ycombinator.com/item?id=41905477) - [Brain endurance training improves older adults' cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
 * [2024-10-21, 15:27:40](https://news.ycombinator.com/item?id=41905215) - [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 * [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
