@@ -31,6 +31,7 @@
 * [2024-10-19, 16:56:15](https://news.ycombinator.com/item?id=41888937) - [Data Version Control](https://dvc.org/)
 * [2024-10-19, 16:54:17](https://news.ycombinator.com/item?id=41888917) - [As America's Marijuana Use Grows, So Do the Harms](https://www.nytimes.com/2024/10/04/us/cannabis-marijuana-risks-addiction.html)
 * [2024-10-19, 16:41:47](https://news.ycombinator.com/item?id=41888844) - [Spectra is a customizable, JavaScript ESP32 smartwatch](https://www.cnx-software.com/2024/10/18/spectra-customizable-javascript-esp32-s3-nrf52832-smartwatch/)
+* [2024-10-19, 16:40:05](https://news.ycombinator.com/item?id=41888838) - [Vanity of Vanities: Fool's Cap Map of the World (Ca. 1585)](https://publicdomainreview.org/collection/fools-cap-map-of-the-world/)
 * [2024-10-19, 16:33:45](https://news.ycombinator.com/item?id=41888808) - [Did Automattic commit open source theft?](https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/)
 * [2024-10-19, 16:33:14](https://news.ycombinator.com/item?id=41888806) - [U.S. to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system)
 * [2024-10-19, 16:32:33](https://news.ycombinator.com/item?id=41888804) - [Why Use React for Game Development?](https://jslegenddev.substack.com/p/why-use-react-for-game-development)
