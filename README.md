@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 15:27:40](https://news.ycombinator.com/item?id=41905215) - [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
 * [2024-10-21, 14:34:00](https://news.ycombinator.com/item?id=41904601) - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
 * [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
-* [2024-10-21, 14:00:54](https://news.ycombinator.com/item?id=41904250) - [Dear CTO: it's not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
+* [2024-10-21, 13:19:30](https://news.ycombinator.com/item?id=41903879) - [Toyota's Betting Big on Electric Air Taxis](https://www.thedrive.com/news/toyotas-betting-big-on-electric-air-taxis)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
 * [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
@@ -14,7 +15,6 @@
 * [2024-10-21, 04:16:14](https://news.ycombinator.com/item?id=41900645) - [Making Castro’s Feeds Update Faster the Lazy Way](https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way)
 * [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists Started to Decode Birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
-* [2024-10-20, 23:46:54](https://news.ycombinator.com/item?id=41899484) - [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [Do AI detectors work? Students face false cheating accusations](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
