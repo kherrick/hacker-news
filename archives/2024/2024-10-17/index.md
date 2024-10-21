@@ -62,6 +62,7 @@
 * [2024-10-17, 14:31:18](https://news.ycombinator.com/item?id=41870040) - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
 * [2024-10-17, 14:23:32](https://news.ycombinator.com/item?id=41869962) - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent:I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
 * [2024-10-17, 14:16:17](https://news.ycombinator.com/item?id=41869898) - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
+* [2024-10-17, 13:39:56](https://news.ycombinator.com/item?id=41869572) - [Workaround Clang v15 AArch64 miscompile that affects parallel collection](https://github.com/cisco/ChezScheme/pull/879)
 * [2024-10-17, 13:26:25](https://news.ycombinator.com/item?id=41869460) - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 * [2024-10-17, 13:12:43](https://news.ycombinator.com/item?id=41869359) - [Evaluation quirks, metric pitfalls and some recommendations](https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html)
 * [2024-10-17, 12:56:20](https://news.ycombinator.com/item?id=41869237) - [What do you visualize while programming?](https://dillonshook.com/what-do-you-visualize-while-programming/)
