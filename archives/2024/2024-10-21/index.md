@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
 * [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
+* [2024-10-21, 17:28:58](https://news.ycombinator.com/item?id=41906306) - [xAI Grok API Beta](https://twitter.com/elonmusk/status/1848398370219364385)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
 * [2024-10-21, 17:17:57](https://news.ycombinator.com/item?id=41906213) - [India's airline industry in chaos after 90 hoax bomb threats in a week](https://www.theguardian.com/world/2024/oct/21/india-airline-industry-in-chaos-after-90-hoax-bomb-threats-in-a-week)
 * [2024-10-21, 17:10:20](https://news.ycombinator.com/item?id=41906143) - [YouTube: The SiFive HiFive Premier P550 [video]](https://www.youtube.com/watch?v=QEOxjO2da6M)
