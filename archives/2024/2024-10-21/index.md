@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 17:29:41](https://news.ycombinator.com/item?id=41906313) - [Solar power from space? it might happen in a couple of years](https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/)
+* [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
+* [2024-10-21, 17:17:57](https://news.ycombinator.com/item?id=41906213) - [India's airline industry in chaos after 90 hoax bomb threats in a week](https://www.theguardian.com/world/2024/oct/21/india-airline-industry-in-chaos-after-90-hoax-bomb-threats-in-a-week)
+* [2024-10-21, 17:06:54](https://news.ycombinator.com/item?id=41906119) - [Welcome to the Era of the $20k Family Car Insurance Bill](https://www.nytimes.com/2024/10/19/your-money/car-insurance-family-plan-cost.html)
+* [2024-10-21, 17:03:56](https://news.ycombinator.com/item?id=41906094) - [A Media Player Without Peers – The Unreasonable Effectiveness of VLC](https://kylebenzle.com/vlc.html)
 * [2024-10-21, 17:03:38](https://news.ycombinator.com/item?id=41906093) - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
 * [2024-10-21, 16:26:49](https://news.ycombinator.com/item?id=41905765) - [Extinction of the Influenza B Yamagata Line During the Covid Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [Dracula author's lost story unearthed after 134 years](https://www.bbc.com/news/articles/c4g9119l64qo)
