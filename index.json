@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-10-20, 23:24:19",
-      "https://news.ycombinator.com/item?id=41899354"
+      "2024-10-21, 01:17:14",
+      "https://news.ycombinator.com/item?id=41899873"
     ],
     [
-      "Intelligence is not Enough [video]",
-      "https://www.youtube.com/watch?v=bQfJi7rjuEk"
+      "3D-Printed Active Electronics",
+      "https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 01:06:11",
+      "https://news.ycombinator.com/item?id=41899828"
+    ],
+    [
+      "Memory Safety Without Lifetime Parameters",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 00:11:45",
+      "https://news.ycombinator.com/item?id=41899586"
+    ],
+    [
+      "David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.",
+      "https://www.youtube.com/watch?v=P_vbYmPm_zU"
     ]
   ],
   [
@@ -31,26 +51,6 @@
   ],
   [
     [
-      "2024-10-20, 23:06:04",
-      "https://news.ycombinator.com/item?id=41899225"
-    ],
-    [
-      "Helping to build the open social web",
-      "https://werd.io/2024/helping-to-build-the-open-social-web"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 22:41:24",
-      "https://news.ycombinator.com/item?id=41899085"
-    ],
-    [
-      "Cuba Can't Keep the Lights On",
-      "https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 22:11:21",
       "https://news.ycombinator.com/item?id=41898910"
     ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-10-20, 20:24:39",
-      "https://news.ycombinator.com/item?id=41898216"
+      "2024-10-20, 21:42:27",
+      "https://news.ycombinator.com/item?id=41898723"
     ],
     [
-      "The empire of C++ strikes back with Safe C++ blueprint",
-      "https://www.theregister.com/2024/09/16/safe_c_plusplus/"
+      "Microsoft said it lost weeks of security logs for its customers' cloud products",
+      "https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "All-optical switch device paves way for faster fiber-optic communication",
       "https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 19:17:37",
-      "https://news.ycombinator.com/item?id=41897786"
-    ],
-    [
-      "Computer Organization, free online textbook",
-      "https://marz.utk.edu/my-courses/cosc230/book/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mosaic REALMAP: Explore Prague in detail with 1.26M images",
       "https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 18:30:03",
+      "https://news.ycombinator.com/item?id=41872314"
+    ],
+    [
+      "555 Timer Circuits",
+      "https://www.555-timer-circuits.com/"
     ]
   ]
 ]
