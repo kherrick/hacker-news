@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+* [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
 * [2024-10-21, 12:33:22](https://news.ycombinator.com/item?id=41903469) - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 * [2024-10-21, 12:00:47](https://news.ycombinator.com/item?id=41903190) - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
@@ -10,11 +11,9 @@
 * [2024-10-21, 04:07:46](https://news.ycombinator.com/item?id=41900607) - [How Much Science Is Fake?](https://osf.io/5rf2m/)
 * [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists Started to Decode Birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
-* [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory safety without lifetime parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 23:46:54](https://news.ycombinator.com/item?id=41899484) - [Janus: Decoupling Visual Encoding for Multimodal Understanding and Generation](https://github.com/deepseek-ai/Janus)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 21:25:02](https://news.ycombinator.com/item?id=41898603) - [Skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
-* [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
 * [2024-10-20, 18:01:43](https://news.ycombinator.com/item?id=41897214) - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
 * [2024-10-20, 17:26:46](https://news.ycombinator.com/item?id=41896973) - [Do AI detectors work? Students face false cheating accusations](https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations)
 * [2024-10-20, 17:02:36](https://news.ycombinator.com/item?id=41896789) - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
@@ -29,6 +28,7 @@
 * [2024-10-20, 10:46:37](https://news.ycombinator.com/item?id=41894485) - [The history of the barcode](https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
+* [2024-10-18, 04:16:22](https://news.ycombinator.com/item?id=41876295) - [California Coolers](https://restoringhistory.com/california-coolers/)
 * [2024-10-18, 01:31:53](https://news.ycombinator.com/item?id=41875572) - [Emergence of ferromagnetism at onset Kondo breakdown in moiré bilayer lattices](https://phys.org/news/2024-10-physicists-emergence-ferromagnetism-onset-kondo.html)
 
 ## [Archives](archives/index.md)

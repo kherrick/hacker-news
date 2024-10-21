@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+* [2024-10-21, 12:37:36](https://news.ycombinator.com/item?id=41903515) - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
 * [2024-10-21, 12:33:22](https://news.ycombinator.com/item?id=41903469) - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 * [2024-10-21, 12:00:47](https://news.ycombinator.com/item?id=41903190) - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
