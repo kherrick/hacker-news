@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 20:50:25](https://news.ycombinator.com/item?id=41908400) - [Sam's Club CTO to Exit Due to Walmart Relocation Policy](https://www.bloomberg.com/news/articles/2024-10-21/senior-walmart-wmt-executive-to-leave-company-due-to-relocation-policy)
 * [2024-10-21, 20:35:07](https://news.ycombinator.com/item?id=41908272) - [Meta's Israel Policy Chief Tried to Suppress Pro-Palestine Instagram Posts](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp/)
+* [2024-10-21, 20:34:02](https://news.ycombinator.com/item?id=41908258) - [The Internet Archive is back, in read-only mode](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
 * [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
