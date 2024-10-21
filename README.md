@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
+* [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
 * [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 * [2024-10-21, 18:31:41](https://news.ycombinator.com/item?id=41906970) - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 * [2024-10-21, 18:30:08](https://news.ycombinator.com/item?id=41906949) - [Perplexity AI's new tool makes researching the stock market 'delightful'](https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/)
-* [2024-10-21, 17:56:20](https://news.ycombinator.com/item?id=41906591) - [Once You Try a Four-Day Workweek, It's Hard to Go Back](https://www.bloomberg.com/news/articles/2024-10-21/four-day-workweek-experiment-in-germany-has-surprising-results)
-* [2024-10-21, 17:46:41](https://news.ycombinator.com/item?id=41906485) - [Harassment campaign targets open source developer, Wikipedia page deleted](https://www.redditmedia.com/r/selfhosted/comments/1g1425m/paperlessngx_bashing_on_mayan_edms_forum/)
 * [2024-10-21, 17:44:49](https://news.ycombinator.com/item?id=41906465) - [Robot vacuum cleaners hacked to spy on, insult owners](https://www.malwarebytes.com/blog/news/2024/10/robot-vacuum-cleaners-hacked-to-spy-on-insult-owners)
 * [2024-10-21, 17:26:54](https://news.ycombinator.com/item?id=41906283) - [U.S. Border Surveillance Towers Have Always Been Broken](https://www.eff.org/deeplinks/2024/10/us-border-surveillance-towers-have-always-been-broken)
 * [2024-10-21, 17:03:38](https://news.ycombinator.com/item?id=41906093) - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)

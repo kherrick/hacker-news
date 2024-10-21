@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
+* [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:29](https://news.ycombinator.com/item?id=41907350) - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
 * [2024-10-21, 18:43:40](https://news.ycombinator.com/item?id=41907082) - [U.S. retailers list AMD Ryzen 7 9800X3D CPUs – prices range from $484 to $525](https://www.tomshardware.com/pc-components/cpus/two-u-s-retailers-list-amd-ryzen-7-9800x3d-cpus-ahead-of-launch-prices-range-from-usd484-to-usd525)
 * [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
