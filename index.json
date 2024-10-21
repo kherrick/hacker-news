@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-10-20, 21:25:02",
+      "https://news.ycombinator.com/item?id=41898603"
+    ],
+    [
+      "Skeptical of rewriting JavaScript tools in \"faster\" languages",
+      "https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 20:01:19",
       "https://news.ycombinator.com/item?id=41898076"
     ],
@@ -107,6 +117,16 @@
     [
       "WebGPU-Based WiFi Simulator",
       "https://wifi-solver.com"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 17:26:46",
+      "https://news.ycombinator.com/item?id=41896973"
+    ],
+    [
+      "Do AI detectors work? Students face false cheating accusations",
+      "https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=41895951"
     ],
     [
-      "The Part of PostgreSQL We Hate the Most (2023)",
+      "MVCC – the part of PostgreSQL we hate the most (2023)",
       "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
     ]
   ],
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2024-10-20, 13:51:17",
-      "https://news.ycombinator.com/item?id=41895356"
+      "2024-10-20, 12:33:50",
+      "https://news.ycombinator.com/item?id=41894933"
     ],
     [
-      "VersaTiles – a complete FLOSS map stack",
-      "https://versatiles.org/"
+      "The useful use of cat",
+      "https://mrmr.io/cat"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-10-20, 06:33:55",
-      "https://news.ycombinator.com/item?id=41893377"
-    ],
-    [
-      "Scratches in 2001: A Space Osyssey (2018)",
-      "https://aphelis.net/scratches-kubrick-2001-space-odyssey/"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 05:54:34",
       "https://news.ycombinator.com/item?id=41893200"
     ],
     [
       "The IPv6 Transition",
       "https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 00:35:21",
-      "https://news.ycombinator.com/item?id=41891953"
-    ],
-    [
-      "Origin of 'Daemon' in Computing",
-      "https://www.takeourword.com/TOW146/page4.html"
     ]
   ],
   [
