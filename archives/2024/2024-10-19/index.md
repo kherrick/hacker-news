@@ -58,6 +58,7 @@
 * [2024-10-19, 07:24:13](https://news.ycombinator.com/item?id=41886244) - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
 * [2024-10-19, 06:32:50](https://news.ycombinator.com/item?id=41886047) - [Implementing Brainfuck in APL](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-19, 06:31:31](https://news.ycombinator.com/item?id=41886044) - [Turning the Crank: Design as a Mechanical Process](https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/)
+* [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-19, 05:32:32](https://news.ycombinator.com/item?id=41885843) - [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
 * [2024-10-19, 03:36:11](https://news.ycombinator.com/item?id=41885463) - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
 * [2024-10-19, 03:27:56](https://news.ycombinator.com/item?id=41885434) - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
