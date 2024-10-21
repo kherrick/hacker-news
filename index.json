@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-10-21, 10:12:53",
-      "https://news.ycombinator.com/item?id=41902536"
+      "2024-10-21, 12:00:47",
+      "https://news.ycombinator.com/item?id=41903190"
     ],
     [
-      "One of the Last Navajo Code Talkers from World War II Dies at 107",
-      "https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39"
+      "Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)",
+      "https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 11:07:23",
+      "https://news.ycombinator.com/item?id=41902864"
+    ],
+    [
+      "Rip2 – A safer, rust-based rm",
+      "https://github.com/MilesCranmer/rip2"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 10:05:45",
+      "https://news.ycombinator.com/item?id=41902492"
+    ],
+    [
+      "A simple C unit test framework",
+      "https://mattiasgustavsson.com/a-simple-c-unit-test-framework/"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 09:51:52",
+      "https://news.ycombinator.com/item?id=41902407"
+    ],
+    [
+      "Show HN: Erin – Open-source and self-hosted TikTok feed for your own videos",
+      "https://github.com/will-moss/erin"
     ]
   ],
   [
@@ -21,11 +51,21 @@
   ],
   [
     [
+      "2024-10-21, 07:02:00",
+      "https://news.ycombinator.com/item?id=41901433"
+    ],
+    [
+      "C++23: ISO/IEC 14882:2024",
+      "https://www.iso.org/standard/83626.html"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 04:16:14",
       "https://news.ycombinator.com/item?id=41900645"
     ],
     [
-      "Making Castro's Feeds Update Faster the Lazy Way",
+      "Making Castro’s Feeds Update Faster the Lazy Way",
       "https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way"
     ]
   ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2024-10-21, 01:06:11",
-      "https://news.ycombinator.com/item?id=41899828"
-    ],
-    [
-      "Memory safety without lifetime parameters",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 23:46:54",
       "https://news.ycombinator.com/item?id=41899484"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2024-10-20, 23:08:42",
-      "https://news.ycombinator.com/item?id=41899245"
-    ],
-    [
-      "A Console-Friendly Pastebin with binary support",
-      "https://paste.c-net.org/"
-    ]
-  ],
-  [
-    [
       "2024-10-20, 21:42:27",
       "https://news.ycombinator.com/item?id=41898723"
     ],
     [
       "Microsoft said it lost weeks of security logs for its customers' cloud products",
       "https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 21:25:02",
-      "https://news.ycombinator.com/item?id=41898603"
-    ],
-    [
-      "Skeptical of rewriting JavaScript tools in \"faster\" languages",
-      "https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Ultimate Conditional Syntax",
       "https://dl.acm.org/doi/10.1145/3689746"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 11:24:22",
-      "https://news.ycombinator.com/item?id=41894631"
-    ],
-    [
-      "What docs-as-code means",
-      "https://passo.uno/what-docs-as-code-means/"
     ]
   ],
   [
