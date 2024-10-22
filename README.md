@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 09:27:46](https://news.ycombinator.com/item?id=41912625) - [Don't Publish with IEEE](http://cr.yp.to/writing/ieee.html)
 * [2024-10-22, 07:54:32](https://news.ycombinator.com/item?id=41912160) - [Understanding Gaussians](https://gestalt.ink/gaussians)
 * [2024-10-22, 07:44:24](https://news.ycombinator.com/item?id=41912103) - [Singapore OKs 4,300km subsea cable for importing electricity from Australia](https://mothership.sg/2024/10/ema-conditional-approval-sun-cable/)
 * [2024-10-22, 07:00:49](https://news.ycombinator.com/item?id=41911882) - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
@@ -19,7 +20,6 @@
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:46](https://news.ycombinator.com/item?id=41907353) - [New discovery reveals how diatoms capture CO2 so effectively](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-discovery-reveals-how-diatoms-capture-CO2-so-effectively-.html)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
-* [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 21:25:29](https://news.ycombinator.com/item?id=41898607) - [Performance of popular microcontroller boards running uLisp](http://www.ulisp.com/show?36M3)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
