@@ -22,6 +22,7 @@
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 * [2024-10-18, 17:12:52](https://news.ycombinator.com/item?id=41881417) - [Compliant DNA origami nanoactuators as size-selective nanopores](https://onlinelibrary.wiley.com/doi/10.1002/adma.202405104)
+* [2024-10-18, 17:08:27](https://news.ycombinator.com/item?id=41881367) - [Poll: Do you use browser profiles?](https://news.ycombinator.com/item?id=41881367)
 * [2024-10-18, 17:01:25](https://news.ycombinator.com/item?id=41881306) - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
 * [2024-10-18, 17:01:16](https://news.ycombinator.com/item?id=41881304) - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
 * [2024-10-18, 17:01:07](https://news.ycombinator.com/item?id=41881302) - [AlphaFold reveals how sperm and egg hook up in intimate detail](https://www.nature.com/articles/d41586-024-03319-z)

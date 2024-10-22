@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 19:48:58](https://news.ycombinator.com/item?id=41917990) - [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 * [2024-10-22, 18:18:33](https://news.ycombinator.com/item?id=41917105) - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
@@ -23,12 +24,11 @@
 * [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
-* [2024-10-20, 05:16:00](https://news.ycombinator.com/item?id=41893049) - [The Mad Files](https://www.tabletmag.com/sections/arts-letters/articles/mad-magazine-files)
 * [2024-10-19, 06:33:46](https://news.ycombinator.com/item?id=41886051) - [Stages of Denial (2020)](https://beyondloom.com/blog/denial.html)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-18, 21:06:20](https://news.ycombinator.com/item?id=41883488) - [Show HN: I made a Sonic runner game in JavaScript](https://jslegend.itch.io/sonic-ring-run)
+* [2024-10-18, 17:08:27](https://news.ycombinator.com/item?id=41881367) - [Poll: Do you use browser profiles?](https://news.ycombinator.com/item?id=41881367)
 * [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
-* [2024-10-18, 12:51:35](https://news.ycombinator.com/item?id=41878961) - [Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)
 * [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
 
 ## [Archives](archives/index.md)
