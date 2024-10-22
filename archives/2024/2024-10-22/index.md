@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
+* [2024-10-22, 15:10:01](https://news.ycombinator.com/item?id=41915060) - [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
+* [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 13:29:12](https://news.ycombinator.com/item?id=41914056) - [World-First Starlink Service on Boeing 777 Launched by Qatar Airways](https://smartwithpoints.co.uk/p/qatar-airways-launches-world-first-starlink-service-on-boeing-777)
 * [2024-10-22, 13:26:28](https://news.ycombinator.com/item?id=41914025) - [Ghostty 1.0 Is Coming](https://mitchellh.com/writing/ghostty-is-coming)
