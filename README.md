@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 18:18:33](https://news.ycombinator.com/item?id=41917105) - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+* [2024-10-22, 18:01:49](https://news.ycombinator.com/item?id=41916922) - [RunwayML releases Act One: obsoleting traditional motion capture](https://runwayml.com/research/introducing-act-one)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:56:37](https://news.ycombinator.com/item?id=41916246) - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 * [2024-10-22, 16:06:55](https://news.ycombinator.com/item?id=41915724) - [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
 * [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-* [2024-10-22, 15:17:31](https://news.ycombinator.com/item?id=41915134) - [The Human Cost of Our AI-Driven Future](https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/)
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
@@ -27,7 +28,6 @@
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
 * [2024-10-18, 12:51:35](https://news.ycombinator.com/item?id=41878961) - [Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)
-* [2024-10-18, 12:19:02](https://news.ycombinator.com/item?id=41878706) - [Advice for first-time inventors from a patent engineer](https://spectrum.ieee.org/patent-engineer-lesley-ann-knee)
 * [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [A Mathematica interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
 * [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
 
