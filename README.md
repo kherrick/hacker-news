@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-* [2024-10-22, 15:10:01](https://news.ycombinator.com/item?id=41915060) - [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+* [2024-10-22, 12:47:12](https://news.ycombinator.com/item?id=41913686) - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
 * [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)

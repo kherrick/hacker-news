@@ -11,6 +11,7 @@
 * [2024-10-22, 13:29:12](https://news.ycombinator.com/item?id=41914056) - [World-First Starlink Service on Boeing 777 Launched by Qatar Airways](https://smartwithpoints.co.uk/p/qatar-airways-launches-world-first-starlink-service-on-boeing-777)
 * [2024-10-22, 13:26:28](https://news.ycombinator.com/item?id=41914025) - [Ghostty 1.0 Is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:50:42](https://news.ycombinator.com/item?id=41913711) - [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
+* [2024-10-22, 12:47:12](https://news.ycombinator.com/item?id=41913686) - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
 * [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
