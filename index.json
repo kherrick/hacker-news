@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-10-21, 23:19:00",
+      "https://news.ycombinator.com/item?id=41909564"
+    ],
+    [
+      "Math is still catching up to the genius of Ramanujan",
+      "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 20:15:36",
       "https://news.ycombinator.com/item?id=41908075"
     ],
@@ -287,16 +297,6 @@
     [
       "An Illustrated Guide to Maritime Signal Flags",
       "https://rabbitwaves.ca/site/flags_maritime.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 06:10:29",
-      "https://news.ycombinator.com/item?id=41876741"
-    ],
-    [
-      "Just want simple TLS for your .internal network?",
-      "https://github.com/nh2/internal-contstrained-pki"
     ]
   ]
 ]
