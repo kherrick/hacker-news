@@ -18,6 +18,7 @@
 * [2024-10-18, 19:02:44](https://news.ycombinator.com/item?id=41882430) - [Access your Raspberry Pi without a public IP](https://pinggy.io/blog/access_raspberry_pi_remotely_to_control_iot_devices/)
 * [2024-10-18, 18:38:39](https://news.ycombinator.com/item?id=41882226) - [Mosaic REALMAP: Explore Prague in detail with 1.26M images](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 * [2024-10-18, 18:05:48](https://news.ycombinator.com/item?id=41881927) - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
+* [2024-10-18, 18:02:35](https://news.ycombinator.com/item?id=41881897) - [What It's Like to Experience Polar Night in the Northernmost Town](https://www.smithsonianmag.com/travel/what-its-like-to-experience-polar-night-in-the-worlds-northernmost-town-180985271/)
 * [2024-10-18, 17:58:46](https://news.ycombinator.com/item?id=41881872) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 17:19:19](https://news.ycombinator.com/item?id=41881487) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
