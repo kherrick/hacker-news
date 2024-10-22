@@ -61,6 +61,7 @@
 * [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
 * [2024-10-18, 06:25:34](https://news.ycombinator.com/item?id=41876821) - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
+* [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Mistake to take organs from a living person was averted, witnesses say](https://www.npr.org/sections/shots-health-news/2024/10/16/nx-s1-5113976/organ-transplantion-mistake-brain-dead-surgery-still-alive)
 * [2024-10-18, 05:08:33](https://news.ycombinator.com/item?id=41876516) - [Kentucky hospital staff quit after asked to retrieve organs from living person](https://text.npr.org/nx-s1-5113976)

@@ -6,7 +6,6 @@
 * [2024-10-22, 04:33:25](https://news.ycombinator.com/item?id=41911228) - [Brazil Arrests 'USDoD' Hacker in FBI Infragard Breach](https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/)
 * [2024-10-22, 04:23:53](https://news.ycombinator.com/item?id=41911176) - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
 * [2024-10-22, 03:20:42](https://news.ycombinator.com/item?id=41910905) - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
-* [2024-10-22, 00:46:44](https://news.ycombinator.com/item?id=41910106) - [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 * [2024-10-22, 00:42:51](https://news.ycombinator.com/item?id=41910084) - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2024-10-22, 00:25:46](https://news.ycombinator.com/item?id=41909967) - [Apple's AirPods Pro hearing health features](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
 * [2024-10-22, 00:13:07](https://news.ycombinator.com/item?id=41909897) - [Transformers Utilization in Chart Understanding: A Review of Advances and Future](https://arxiv.org/abs/2410.13883)
@@ -30,6 +29,7 @@
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 11:50:59](https://news.ycombinator.com/item?id=41878515) - [How should the new <selectedoption> element work?](https://jakearchibald.com/2024/how-should-selectedoption-work/)
 * [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
+* [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
 
 ## [Archives](archives/index.md)
 
