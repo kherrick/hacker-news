@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math Is Still Catching Up to the Genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 * [2024-10-21, 23:03:24](https://news.ycombinator.com/item?id=41909463) - [Disney Plus and Hulu won't let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)
 * [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
 * [2024-10-21, 21:36:51](https://news.ycombinator.com/item?id=41908773) - [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
 * [2024-10-21, 21:29:33](https://news.ycombinator.com/item?id=41908701) - [The near impossible literacy test Louisiana used to suppress the black vote](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)
 * [2024-10-21, 21:07:15](https://news.ycombinator.com/item?id=41908536) - [Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python](https://github.com/plasma-umass/scalene)
-* [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First Images from Euclid Are In](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
