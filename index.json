@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41915958"
     ],
     [
-      "Show HN: Open-source Counter Strike like game",
+      "Show HN: Open-source Counter-Strike-like game",
       "https://github.com/solcloud/Counter-Strike"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "Show HN: Rust Web Framework",
       "https://github.com/levkk/rwf"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 12:36:29",
+      "https://news.ycombinator.com/item?id=41913610"
+    ],
+    [
+      "Against /tmp",
+      "https://dotat.at/@/2024-10-22-tmp.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs",
       "https://arxiv.org/abs/2410.13857"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 06:49:05",
-      "https://news.ycombinator.com/item?id=41876943"
-    ],
-    [
-      "A Mathematica interpreter in Typescript",
-      "https://www.spakhm.com/ts-wolfram"
     ]
   ],
   [
