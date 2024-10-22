@@ -14,6 +14,7 @@
 * [2024-10-20, 22:11:21](https://news.ycombinator.com/item?id=41898910) - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
+* [2024-10-20, 21:25:29](https://news.ycombinator.com/item?id=41898607) - [Performance of popular microcontroller boards running uLisp](http://www.ulisp.com/show?36M3)
 * [2024-10-20, 21:25:02](https://news.ycombinator.com/item?id=41898603) - [Why I'm skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 20:24:39](https://news.ycombinator.com/item?id=41898216) - [The empire of C++ strikes back with Safe C++ blueprint](https://www.theregister.com/2024/09/16/safe_c_plusplus/)
 * [2024-10-20, 20:01:19](https://news.ycombinator.com/item?id=41898076) - [Show HN: Create mind maps to learn new things using AI](https://github.com/aotakeda/learn-thing)
