@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41910106"
     ],
     [
-      "Are you tasty to mosquitoes? Study offers clues into when and why they bite",
+      "Study offers clues into when and why mosquitoes bite",
       "https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=41909967"
     ],
     [
-      "Apple's AirPods Pro hearing health features are as good as they sound",
+      "Apple's AirPods Pro hearing health features",
       "https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "Transitioning the Use of Cryptographic Algorithms and Key Lengths",
       "https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 21:29:33",
+      "https://news.ycombinator.com/item?id=41908701"
+    ],
+    [
+      "A near impossible literacy test Louisiana used to suppress the black vote",
+      "https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-10-19, 09:31:09",
-      "https://news.ycombinator.com/item?id=41886721"
+      "2024-10-19, 06:02:42",
+      "https://news.ycombinator.com/item?id=41885940"
     ],
     [
-      "Morsle – A daily Morse code challenge",
-      "https://morsle.fun"
+      "Civet: A Superset of TypeScript",
+      "https://civet.dev/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Floating point arithmetic types in C++ for any size and any base",
       "https://github.com/clemensmanert/fas"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 13:39:56",
-      "https://news.ycombinator.com/item?id=41869572"
-    ],
-    [
-      "Workaround Clang v15 AArch64 miscompile that affects parallel collection",
-      "https://github.com/cisco/ChezScheme/pull/879"
     ]
   ]
 ]
