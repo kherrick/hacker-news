@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS Uses Machine Learning to Show Large Lithium Potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 * [2024-10-22, 16:06:55](https://news.ycombinator.com/item?id=41915724) - [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
@@ -9,7 +10,6 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:47:12](https://news.ycombinator.com/item?id=41913686) - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
-* [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 * [2024-10-22, 12:01:04](https://news.ycombinator.com/item?id=41913403) - [MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
@@ -23,7 +23,7 @@
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
-* [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
+* [2024-10-20, 05:16:00](https://news.ycombinator.com/item?id=41893049) - [The Mad Files](https://www.tabletmag.com/sections/arts-letters/articles/mad-magazine-files)
 * [2024-10-19, 06:33:46](https://news.ycombinator.com/item?id=41886051) - [Stages of Denial (2020)](https://beyondloom.com/blog/denial.html)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-18, 12:51:35](https://news.ycombinator.com/item?id=41878961) - [Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)

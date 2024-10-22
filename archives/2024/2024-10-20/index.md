@@ -70,6 +70,7 @@
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
 * [2024-10-20, 05:54:34](https://news.ycombinator.com/item?id=41893200) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 05:16:20](https://news.ycombinator.com/item?id=41893052) - [SF MUNI approves $212M technology from Hitachi to replace floppy disks by 2028](https://www.sfchronicle.com/sf/article/muni-board-approves-new-train-control-system-19846976.php)
+* [2024-10-20, 05:16:00](https://news.ycombinator.com/item?id=41893049) - [The Mad Files](https://www.tabletmag.com/sections/arts-letters/articles/mad-magazine-files)
 * [2024-10-20, 05:12:40](https://news.ycombinator.com/item?id=41893029) - [A New Artificial Intelligence Tool for Cancer](https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer)
 * [2024-10-20, 04:52:46](https://news.ycombinator.com/item?id=41892946) - [AI Medical Imagery Model Offers Fast, Cost-Efficient Expert Analysis](https://developer.nvidia.com/blog/ai-medical-imagery-model-offers-fast-cost-efficient-expert-analysis/)
 * [2024-10-20, 04:14:52](https://news.ycombinator.com/item?id=41892815) - [LLM will never be AGI: The Proof](https://ycao.net/posts/llm-agi/)

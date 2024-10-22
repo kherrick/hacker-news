@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS Uses Machine Learning to Show Large Lithium Potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:28:46](https://news.ycombinator.com/item?id=41915966) - [Requiem for Raghavan](https://www.wheresyoured.at/requiem-for-raghavan/)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
