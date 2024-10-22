@@ -9,6 +9,7 @@
 * [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
 * [2024-10-21, 22:21:23](https://news.ycombinator.com/item?id=41909179) - [C++: Uncompromised Performance, Undefined Behavior, & Move Semantics [video]](https://www.youtube.com/watch?v=fcRHiFH04a4)
 * [2024-10-21, 22:16:00](https://news.ycombinator.com/item?id=41909130) - [Behind Many Powerful Women on Wall Street: A Doting 'Househusband'](https://www.wsj.com/lifestyle/careers/successful-professional-women-house-husband-1339832a)
+* [2024-10-21, 21:50:34](https://news.ycombinator.com/item?id=41908885) - [Vimium – The Hacker's Browser](https://github.com/philc/vimium)
 * [2024-10-21, 21:37:14](https://news.ycombinator.com/item?id=41908776) - [Philip Zimbardo, psychologist behind the 'Stanford Prison Experiment' dies at 91](https://news.stanford.edu/stories/2024/10/philip-zimbardo-the-psychologist-behind-stanford-prison-experiment-dies-at-age-91)
 * [2024-10-21, 21:36:51](https://news.ycombinator.com/item?id=41908773) - [Rope ROM of the Wang 720C desktop computer](https://forum.classic-computing.de/forum/index.php?thread/24293-vorstellung-f%C3%A4del-rom-des-wang-720c-tischrechners/)
 * [2024-10-21, 21:29:33](https://news.ycombinator.com/item?id=41908701) - [Take the Near Impossible Literacy Test Louisiana Used to Suppress Black Votes](https://www.openculture.com/2024/10/take-the-near-impossible-literacy-test-louisiana-used-to-suppress-the-black-vote.html)

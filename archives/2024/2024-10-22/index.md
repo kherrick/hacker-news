@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 02:53:21](https://news.ycombinator.com/item?id=41910756) - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
 * [2024-10-22, 01:30:51](https://news.ycombinator.com/item?id=41910309) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
 * [2024-10-22, 00:52:16](https://news.ycombinator.com/item?id=41910124) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-22, 00:46:44](https://news.ycombinator.com/item?id=41910106) - [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
