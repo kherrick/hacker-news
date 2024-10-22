@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-10-22, 20:00:31",
-      "https://news.ycombinator.com/item?id=41918087"
-    ],
-    [
-      "StabilityAI releases Stable Diffusion 3.5",
-      "https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 19:55:50",
       "https://news.ycombinator.com/item?id=41918059"
     ],
@@ -107,16 +97,6 @@
     [
       "USGS uses machine learning to show large lithium potential in Arkansas",
       "https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 16:56:37",
-      "https://news.ycombinator.com/item?id=41916246"
-    ],
-    [
-      "SEC charges four companies with misleading cyber disclosures",
-      "https://www.sec.gov/newsroom/press-releases/2024-174"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-10-18, 20:48:43",
+      "https://news.ycombinator.com/item?id=41883365"
+    ],
+    [
+      "Coreboot port for 486 motherboard (UM8881/6)",
+      "https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 18:02:35",
       "https://news.ycombinator.com/item?id=41881897"
     ],
@@ -297,6 +287,16 @@
     [
       "An Illustrated Guide to Maritime Signal Flags",
       "https://rabbitwaves.ca/site/flags_maritime.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 06:10:29",
+      "https://news.ycombinator.com/item?id=41876741"
+    ],
+    [
+      "Just want simple TLS for your .internal network?",
+      "https://github.com/nh2/internal-contstrained-pki"
     ]
   ]
 ]
