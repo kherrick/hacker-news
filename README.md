@@ -22,7 +22,6 @@
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
-* [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [IOCCC Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
@@ -30,6 +29,7 @@
 * [2024-10-19, 04:41:20](https://news.ycombinator.com/item?id=41885689) - [Ask HN: In 2024 what's the best way to manage contacts?](https://news.ycombinator.com/item?id=41885689)
 * [2024-10-18, 23:04:09](https://news.ycombinator.com/item?id=41884283) - [Building a Game with the Real Engine](https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html)
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
+* [2024-10-18, 11:50:59](https://news.ycombinator.com/item?id=41878515) - [How should the new <selectedoption> element work?](https://jakearchibald.com/2024/how-should-selectedoption-work/)
 
 ## [Archives](archives/index.md)
 
