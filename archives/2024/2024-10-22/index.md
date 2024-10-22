@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 13:26:28](https://news.ycombinator.com/item?id=41914025) - [Ghostty 1.0 Is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:50:42](https://news.ycombinator.com/item?id=41913711) - [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
 * [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
