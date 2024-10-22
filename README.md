@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 04:41:33](https://news.ycombinator.com/item?id=41911255) - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
 * [2024-10-22, 03:20:42](https://news.ycombinator.com/item?id=41910905) - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 * [2024-10-22, 02:53:21](https://news.ycombinator.com/item?id=41910756) - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
 * [2024-10-22, 01:30:51](https://news.ycombinator.com/item?id=41910309) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
 * [2024-10-22, 00:46:44](https://news.ycombinator.com/item?id=41910106) - [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 * [2024-10-22, 00:42:51](https://news.ycombinator.com/item?id=41910084) - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2024-10-22, 00:25:46](https://news.ycombinator.com/item?id=41909967) - [Apple's AirPods Pro hearing health features](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
-* [2024-10-22, 00:20:31](https://news.ycombinator.com/item?id=41909941) - [Wired's Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 * [2024-10-22, 00:13:07](https://news.ycombinator.com/item?id=41909897) - [Transformers Utilization in Chart Understanding: A Review of Advances and Future](https://arxiv.org/abs/2410.13883)
 * [2024-10-22, 00:01:23](https://news.ycombinator.com/item?id=41909827) - [Learning to Learn](https://kevin.the.li/posts/learning-to-learn/)
 * [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
@@ -22,7 +22,6 @@
 * [2024-10-21, 18:42:16](https://news.ycombinator.com/item?id=41907071) - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
-* [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
@@ -30,6 +29,7 @@
 * [2024-10-18, 23:04:09](https://news.ycombinator.com/item?id=41884283) - [Building a Game with the Real Engine](https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html)
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 11:50:59](https://news.ycombinator.com/item?id=41878515) - [How should the new <selectedoption> element work?](https://jakearchibald.com/2024/how-should-selectedoption-work/)
+* [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
 
 ## [Archives](archives/index.md)
 

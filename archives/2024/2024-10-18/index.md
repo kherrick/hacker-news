@@ -58,6 +58,7 @@
 * [2024-10-18, 08:50:00](https://news.ycombinator.com/item?id=41877513) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-18, 07:35:21](https://news.ycombinator.com/item?id=41877134) - [Thank HN: 10 years and $15M ARR later: Thank you](https://news.ycombinator.com/item?id=41877134)
 * [2024-10-18, 06:56:30](https://news.ycombinator.com/item?id=41876979) - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
+* [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
 * [2024-10-18, 06:25:34](https://news.ycombinator.com/item?id=41876821) - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
 * [2024-10-18, 06:12:39](https://news.ycombinator.com/item?id=41876750) - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 * [2024-10-18, 06:04:17](https://news.ycombinator.com/item?id=41876723) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
