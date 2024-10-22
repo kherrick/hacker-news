@@ -37,6 +37,7 @@
 * [2024-10-18, 14:23:41](https://news.ycombinator.com/item?id=41879754) - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
 * [2024-10-18, 14:14:04](https://news.ycombinator.com/item?id=41879666) - [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
 * [2024-10-18, 13:05:21](https://news.ycombinator.com/item?id=41879072) - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
+* [2024-10-18, 12:51:35](https://news.ycombinator.com/item?id=41878961) - [Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)
 * [2024-10-18, 12:51:22](https://news.ycombinator.com/item?id=41878959) - [LLMD: A Large Language Model for Interpreting Longitudinal Medical Records](https://arxiv.org/abs/2410.12860)
 * [2024-10-18, 12:35:57](https://news.ycombinator.com/item?id=41878836) - [Show HN: Desktop app displaying files on a 2D canvas](https://limandoc.com/)
 * [2024-10-18, 12:20:53](https://news.ycombinator.com/item?id=41878720) - [The tiniest of impact craters](https://jatan.space/the-tiniest-of-impact-craters/)
