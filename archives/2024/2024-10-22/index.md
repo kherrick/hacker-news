@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 20:29:38](https://news.ycombinator.com/item?id=41918383) - [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
+* [2024-10-22, 20:00:31](https://news.ycombinator.com/item?id=41918087) - [StabilityAI releases Stable Diffusion 3.5 – a step up in realism](https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism)
+* [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
 * [2024-10-22, 19:48:58](https://news.ycombinator.com/item?id=41917990) - [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 * [2024-10-22, 18:18:33](https://news.ycombinator.com/item?id=41917105) - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
