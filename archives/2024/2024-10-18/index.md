@@ -7,6 +7,7 @@
 * [2024-10-18, 23:59:43](https://news.ycombinator.com/item?id=41884543) - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
 * [2024-10-18, 23:46:00](https://news.ycombinator.com/item?id=41884485) - [Our Boundless Love for Big Sur May Be Killing It](https://www.nytimes.com/2024/10/18/travel/big-sur-tourism-california.html)
 * [2024-10-18, 23:31:26](https://news.ycombinator.com/item?id=41884415) - [Canada finds some euthanasia deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
+* [2024-10-18, 23:04:09](https://news.ycombinator.com/item?id=41884283) - [Building a Game with the Real Engine](https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html)
 * [2024-10-18, 21:31:17](https://news.ycombinator.com/item?id=41883685) - [SpaceX is NASA's biggest lunar rival](https://www.economist.com/science-and-technology/2024/10/17/spacex-is-nasas-biggest-lunar-rival)
 * [2024-10-18, 21:28:04](https://news.ycombinator.com/item?id=41883648) - [Meta Spirit LM: Open multimodal language model that freely mixes text and speech](https://twitter.com/AIatMeta/status/1847383580269510670)
 * [2024-10-18, 20:53:56](https://news.ycombinator.com/item?id=41883401) - [.txt raises $11.9M to make language models programmable](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/)
