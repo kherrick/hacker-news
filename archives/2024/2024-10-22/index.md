@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 23:12:04](https://news.ycombinator.com/item?id=41919717) - [Why Simone Giertz, the Queen of Useless Robots, Got Serious](https://spectrum.ieee.org/simone-giertz)
+* [2024-10-22, 23:03:52](https://news.ycombinator.com/item?id=41919670) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 * [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
+* [2024-10-22, 20:58:07](https://news.ycombinator.com/item?id=41918621) - [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
 * [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
 * [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
 * [2024-10-22, 20:32:28](https://news.ycombinator.com/item?id=41918414) - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
