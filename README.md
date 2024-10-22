@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-22, 04:41:33](https://news.ycombinator.com/item?id=41911255) - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
+* [2024-10-22, 04:23:53](https://news.ycombinator.com/item?id=41911176) - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
 * [2024-10-22, 03:20:42](https://news.ycombinator.com/item?id=41910905) - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 * [2024-10-22, 02:53:21](https://news.ycombinator.com/item?id=41910756) - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
 * [2024-10-22, 01:30:51](https://news.ycombinator.com/item?id=41910309) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
@@ -25,7 +26,6 @@
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
-* [2024-10-19, 04:41:20](https://news.ycombinator.com/item?id=41885689) - [Ask HN: In 2024 what's the best way to manage contacts?](https://news.ycombinator.com/item?id=41885689)
 * [2024-10-18, 23:04:09](https://news.ycombinator.com/item?id=41884283) - [Building a Game with the Real Engine](https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html)
 * [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 11:50:59](https://news.ycombinator.com/item?id=41878515) - [How should the new <selectedoption> element work?](https://jakearchibald.com/2024/how-should-selectedoption-work/)
