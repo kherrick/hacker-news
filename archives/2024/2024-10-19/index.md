@@ -60,6 +60,7 @@
 * [2024-10-19, 06:31:31](https://news.ycombinator.com/item?id=41886044) - [Turning the Crank: Design as a Mechanical Process](https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-19, 05:32:32](https://news.ycombinator.com/item?id=41885843) - [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
+* [2024-10-19, 04:41:20](https://news.ycombinator.com/item?id=41885689) - [Ask HN: In 2024 what's the best way to manage contacts?](https://news.ycombinator.com/item?id=41885689)
 * [2024-10-19, 03:36:11](https://news.ycombinator.com/item?id=41885463) - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
 * [2024-10-19, 03:27:56](https://news.ycombinator.com/item?id=41885434) - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
 * [2024-10-19, 03:15:43](https://news.ycombinator.com/item?id=41885380) - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
