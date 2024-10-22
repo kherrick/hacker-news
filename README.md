@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
+* [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
+* [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
+* [2024-10-22, 20:32:28](https://news.ycombinator.com/item?id=41918414) - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 20:29:38](https://news.ycombinator.com/item?id=41918383) - [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
 * [2024-10-22, 20:00:31](https://news.ycombinator.com/item?id=41918087) - [StabilityAI releases Stable Diffusion 3.5](https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism)
 * [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
@@ -22,14 +26,10 @@
 * [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 * [2024-10-22, 08:21:42](https://news.ycombinator.com/item?id=41912284) - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-22, 07:54:32](https://news.ycombinator.com/item?id=41912160) - [Understanding Gaussians](https://gestalt.ink/gaussians)
-* [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
-* [2024-10-19, 06:33:46](https://news.ycombinator.com/item?id=41886051) - [Stages of Denial (2020)](https://beyondloom.com/blog/denial.html)
 * [2024-10-18, 21:06:20](https://news.ycombinator.com/item?id=41883488) - [Show HN: I made a Sonic runner game in JavaScript](https://jslegend.itch.io/sonic-ring-run)
 * [2024-10-18, 18:02:35](https://news.ycombinator.com/item?id=41881897) - [What It's Like to Experience Polar Night in the Northernmost Town](https://www.smithsonianmag.com/travel/what-its-like-to-experience-polar-night-in-the-worlds-northernmost-town-180985271/)
 * [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
-* [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [A Mathematica interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
-* [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
 
 ## [Archives](archives/index.md)
 

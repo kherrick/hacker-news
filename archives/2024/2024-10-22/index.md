@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
+* [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
+* [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
+* [2024-10-22, 20:32:28](https://news.ycombinator.com/item?id=41918414) - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 20:29:38](https://news.ycombinator.com/item?id=41918383) - [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
 * [2024-10-22, 20:00:31](https://news.ycombinator.com/item?id=41918087) - [StabilityAI releases Stable Diffusion 3.5 – a step up in realism](https://www.tomsguide.com/ai/stabilityai-releases-stable-diffusion-3-5-a-step-up-in-realism)
 * [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
