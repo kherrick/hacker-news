@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 03:20:42](https://news.ycombinator.com/item?id=41910905) - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 * [2024-10-22, 02:53:21](https://news.ycombinator.com/item?id=41910756) - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
 * [2024-10-22, 01:30:51](https://news.ycombinator.com/item?id=41910309) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
 * [2024-10-22, 00:46:44](https://news.ycombinator.com/item?id=41910106) - [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
@@ -22,7 +23,6 @@
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 * [2024-10-21, 12:51:08](https://news.ycombinator.com/item?id=41903616) - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [IOCCC Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
-* [2024-10-21, 03:22:08](https://news.ycombinator.com/item?id=41900404) - [Scientists working to decode birdsong](https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
 * [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-20, 05:59:20](https://news.ycombinator.com/item?id=41893217) - [Paranormasight: A Game Exploring the Depths of Honjo in Tokyo](https://boilingsteam.com/paranormasight-review/)
