@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-22, 07:54:32",
+      "https://news.ycombinator.com/item?id=41912160"
+    ],
+    [
+      "Understanding Gaussians",
+      "https://gestalt.ink/gaussians"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 07:44:24",
       "https://news.ycombinator.com/item?id=41912103"
     ],
@@ -257,16 +267,6 @@
     [
       "Building a Game with the Real Engine",
       "https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 17:42:01",
-      "https://news.ycombinator.com/item?id=41881722"
-    ],
-    [
-      "Show HN: Floating point arithmetic types in C++ for any size and any base",
-      "https://github.com/clemensmanert/fas"
     ]
   ],
   [
