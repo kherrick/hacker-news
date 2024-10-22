@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-22, 16:28:46](https://news.ycombinator.com/item?id=41915966) - [Requiem for Raghavan](https://www.wheresyoured.at/requiem-for-raghavan/)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 * [2024-10-22, 16:06:55](https://news.ycombinator.com/item?id=41915724) - [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
@@ -10,6 +9,7 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:47:12](https://news.ycombinator.com/item?id=41913686) - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
+* [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 * [2024-10-22, 12:01:04](https://news.ycombinator.com/item?id=41913403) - [MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
