@@ -53,6 +53,7 @@
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
 * [2024-10-20, 11:51:35](https://news.ycombinator.com/item?id=41894740) - [Winners of the 2024 IFComp](https://ifcomp.org/comp/2024)
 * [2024-10-20, 11:34:47](https://news.ycombinator.com/item?id=41894672) - [Route Planning in Transportation Networks (2015)](https://arxiv.org/abs/1504.05140)
+* [2024-10-20, 11:34:15](https://news.ycombinator.com/item?id=41894669) - [RRR: A Succinct Rank/Select Index for Bit Vectors (2011)](https://www.alexbowe.com/rrr/)
 * [2024-10-20, 11:25:04](https://news.ycombinator.com/item?id=41894634) - [Debian Changes OpenSSH Packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 11:24:22](https://news.ycombinator.com/item?id=41894631) - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
 * [2024-10-20, 11:09:22](https://news.ycombinator.com/item?id=41894566) - [Naval Is Mistaken](https://twitter.com/paulg/status/1847225545299251597)
