@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 * [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
 * [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
 * [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
 * [2024-10-22, 20:32:28](https://news.ycombinator.com/item?id=41918414) - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 20:29:38](https://news.ycombinator.com/item?id=41918383) - [Elderly dementia patients are unwittingly fueling political campaigns](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/)
-* [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
 * [2024-10-22, 19:48:58](https://news.ycombinator.com/item?id=41917990) - [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 * [2024-10-22, 18:12:52](https://news.ycombinator.com/item?id=41917035) - [NIST Standard Reference Materials Catalog [pdf]](https://tsapps.nist.gov/srmext/certificates/documents/Current_SRM_Catalog.pdf)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
