@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25 (and has taken over the world)](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 * [2024-10-22, 09:42:15](https://news.ycombinator.com/item?id=41912687) - [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
 * [2024-10-22, 09:27:46](https://news.ycombinator.com/item?id=41912625) - [Don't Publish with IEEE](http://cr.yp.to/writing/ieee.html)
+* [2024-10-22, 08:31:46](https://news.ycombinator.com/item?id=41912329) - [A Lisp compiler to ARM written in Lisp](http://www.ulisp.com/show?4W2I)
 * [2024-10-22, 07:54:32](https://news.ycombinator.com/item?id=41912160) - [Understanding Gaussians](https://gestalt.ink/gaussians)
 * [2024-10-22, 07:44:24](https://news.ycombinator.com/item?id=41912103) - [Singapore OKs 4,300km subsea cable for importing electricity from Australia](https://mothership.sg/2024/10/ema-conditional-approval-sun-cable/)
 * [2024-10-22, 07:00:49](https://news.ycombinator.com/item?id=41911882) - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
