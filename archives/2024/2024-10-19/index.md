@@ -59,6 +59,7 @@
 * [2024-10-19, 08:49:43](https://news.ycombinator.com/item?id=41886572) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 07:29:56](https://news.ycombinator.com/item?id=41886256) - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 07:24:13](https://news.ycombinator.com/item?id=41886244) - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
+* [2024-10-19, 06:33:46](https://news.ycombinator.com/item?id=41886051) - [Stages of Denial](https://beyondloom.com/blog/denial.html)
 * [2024-10-19, 06:32:50](https://news.ycombinator.com/item?id=41886047) - [Implementing Brainfuck in APL](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-19, 06:31:31](https://news.ycombinator.com/item?id=41886044) - [Turning the Crank: Design as a Mechanical Process](https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
