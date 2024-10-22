@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-22, 17:30:51](https://news.ycombinator.com/item?id=41916574) - [Mining Bitcoin with pencil and paper: 0.67 hashes per day](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS Uses Machine Learning to Show Large Lithium Potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:56:37](https://news.ycombinator.com/item?id=41916246) - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
@@ -26,6 +25,7 @@
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
 * [2024-10-20, 05:16:00](https://news.ycombinator.com/item?id=41893049) - [The Mad Files](https://www.tabletmag.com/sections/arts-letters/articles/mad-magazine-files)
 * [2024-10-19, 06:33:46](https://news.ycombinator.com/item?id=41886051) - [Stages of Denial (2020)](https://beyondloom.com/blog/denial.html)
+* [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-18, 12:51:35](https://news.ycombinator.com/item?id=41878961) - [Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)
 * [2024-10-18, 12:19:02](https://news.ycombinator.com/item?id=41878706) - [Advice for first-time inventors from a patent engineer](https://spectrum.ieee.org/patent-engineer-lesley-ann-knee)
 * [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
