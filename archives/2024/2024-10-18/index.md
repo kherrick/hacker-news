@@ -27,6 +27,7 @@
 * [2024-10-18, 16:52:31](https://news.ycombinator.com/item?id=41881204) - [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 16:32:13](https://news.ycombinator.com/item?id=41880981) - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
 * [2024-10-18, 16:17:59](https://news.ycombinator.com/item?id=41880829) - [Subvert – The Collectively Owned Music Marketplace](https://subvert.fm/)
+* [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
 * [2024-10-18, 16:06:52](https://news.ycombinator.com/item?id=41880697) - [Dolphin Swimming – A Review (1991) [pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0)
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
 * [2024-10-18, 16:01:40](https://news.ycombinator.com/item?id=41880649) - [US probes Tesla's Full Self-Driving software after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/)
