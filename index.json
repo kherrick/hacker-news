@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=41912787"
     ],
     [
-      "MQTT turns 25 (and has taken over the world)",
+      "MQTT turns 25",
       "https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 09:42:15",
-      "https://news.ycombinator.com/item?id=41912687"
-    ],
-    [
-      "RISC-V Announces Ratification of the RVA23 Profile",
-      "https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41912625"
     ],
     [
-      "Don't Publish with IEEE",
+      "Don't Publish with IEEE (2005)",
       "http://cr.yp.to/writing/ieee.html"
     ]
   ],
@@ -117,6 +107,16 @@
     [
       "Math is still catching up to the genius of Ramanujan",
       "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 22:34:07",
+      "https://news.ycombinator.com/item?id=41909287"
+    ],
+    [
+      "Transitioning the Use of Cryptographic Algorithms and Key Lengths",
+      "https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd"
     ]
   ],
   [
