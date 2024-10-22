@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-10-22, 16:07:39",
-      "https://news.ycombinator.com/item?id=41915735"
-    ],
-    [
-      "Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1",
-      "https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 16:06:55",
       "https://news.ycombinator.com/item?id=41915724"
     ],
@@ -107,6 +97,16 @@
     [
       "Show HN: Rust Web Framework",
       "https://github.com/levkk/rwf"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 13:29:50",
+      "https://news.ycombinator.com/item?id=41914064"
+    ],
+    [
+      "Rustls Outperforms OpenSSL and BoringSSL",
+      "https://www.memorysafety.org/blog/rustls-performance-outperforms/"
     ]
   ],
   [
