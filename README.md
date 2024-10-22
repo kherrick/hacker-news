@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-22, 07:54:32](https://news.ycombinator.com/item?id=41912160) - [Understanding Gaussians](https://gestalt.ink/gaussians)
 * [2024-10-22, 07:44:24](https://news.ycombinator.com/item?id=41912103) - [Singapore OKs 4,300km subsea cable for importing electricity from Australia](https://mothership.sg/2024/10/ema-conditional-approval-sun-cable/)
 * [2024-10-22, 07:00:49](https://news.ycombinator.com/item?id=41911882) - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
 * [2024-10-22, 06:33:38](https://news.ycombinator.com/item?id=41911752) - [Tesla delays Cybertruck's range extender, reduces its range](https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/)
@@ -26,7 +27,6 @@
 * [2024-10-19, 08:49:43](https://news.ycombinator.com/item?id=41886572) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 06:02:42](https://news.ycombinator.com/item?id=41885940) - [Civet: A Superset of TypeScript](https://civet.dev/)
 * [2024-10-18, 23:04:09](https://news.ycombinator.com/item?id=41884283) - [Building a Game with the Real Engine](https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html)
-* [2024-10-18, 17:42:01](https://news.ycombinator.com/item?id=41881722) - [Show HN: Floating point arithmetic types in C++ for any size and any base](https://github.com/clemensmanert/fas)
 * [2024-10-18, 11:50:59](https://news.ycombinator.com/item?id=41878515) - [How should the new <selectedoption> element work?](https://jakearchibald.com/2024/how-should-selectedoption-work/)
 * [2024-10-18, 06:49:05](https://news.ycombinator.com/item?id=41876943) - [Writing a Mathematica Interpreter in Typescript](https://www.spakhm.com/ts-wolfram)
 * [2024-10-18, 06:10:29](https://news.ycombinator.com/item?id=41876741) - [Just want simple TLS for your .internal network?](https://github.com/nh2/internal-contstrained-pki)
