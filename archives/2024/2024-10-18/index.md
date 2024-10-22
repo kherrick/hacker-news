@@ -12,6 +12,7 @@
 * [2024-10-18, 21:28:04](https://news.ycombinator.com/item?id=41883648) - [Meta Spirit LM: Open multimodal language model that freely mixes text and speech](https://twitter.com/AIatMeta/status/1847383580269510670)
 * [2024-10-18, 21:06:20](https://news.ycombinator.com/item?id=41883488) - [Show HN: I made a Sonic runner game in JavaScript](https://jslegend.itch.io/sonic-ring-run)
 * [2024-10-18, 20:53:56](https://news.ycombinator.com/item?id=41883401) - [.txt raises $11.9M to make language models programmable](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/)
+* [2024-10-18, 20:48:43](https://news.ycombinator.com/item?id=41883365) - [Coreboot port for 486 motherboard (UM8881/6)](https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md)
 * [2024-10-18, 20:21:57](https://news.ycombinator.com/item?id=41883111) - [Sam Altman's eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
 * [2024-10-18, 20:02:11](https://news.ycombinator.com/item?id=41882955) - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
 * [2024-10-18, 19:12:08](https://news.ycombinator.com/item?id=41882510) - [5.6M vacant homes and counting: There's a housing crisis brewing in the US](https://economictimes.indiatimes.com/news/international/us/5-6-million-vacant-homes-and-counting-there-is-a-massive-housing-crisis-brewing-in-america/articleshow/114329491.cms?from=mdr)
