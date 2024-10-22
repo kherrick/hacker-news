@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-22, 13:26:28](https://news.ycombinator.com/item?id=41914025) - [Ghostty 1.0 Is Coming](https://mitchellh.com/writing/ghostty-is-coming)
+* [2024-10-22, 12:50:42](https://news.ycombinator.com/item?id=41913711) - [Malcolm Gladwell Holds His Ideas Loosely. He Thinks You Should, Too](https://www.nytimes.com/2024/09/26/business/malcolm-gladwell-revenge-of-the-tipping-point.html)
 * [2024-10-22, 12:36:29](https://news.ycombinator.com/item?id=41913610) - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
@@ -21,7 +21,7 @@
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
 * [2024-10-21, 19:11:46](https://news.ycombinator.com/item?id=41907353) - [New discovery reveals how diatoms capture CO2 so effectively](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-discovery-reveals-how-diatoms-capture-CO2-so-effectively-.html)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [An amateur historian has discovered a long-lost short story by Bram Stoker](https://www.bbc.com/news/articles/c4g9119l64qo)
-* [2024-10-20, 17:42:33](https://news.ycombinator.com/item?id=41897088) - [When machines could see you](http://dnlserrano.dev//2024/10/20/when-machines-could-see-you.html)
+* [2024-10-21, 03:21:54](https://news.ycombinator.com/item?id=41900402) - [ByteDance sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)
 * [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
 * [2024-10-19, 09:10:37](https://news.ycombinator.com/item?id=41886647) - [Raku Programming Language](https://raku.org/)
