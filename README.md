@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25 (and has taken over the world)](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
-* [2024-10-22, 09:42:15](https://news.ycombinator.com/item?id=41912687) - [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
-* [2024-10-22, 09:27:46](https://news.ycombinator.com/item?id=41912625) - [Don't Publish with IEEE](http://cr.yp.to/writing/ieee.html)
+* [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
+* [2024-10-22, 09:27:46](https://news.ycombinator.com/item?id=41912625) - [Don't Publish with IEEE (2005)](http://cr.yp.to/writing/ieee.html)
 * [2024-10-22, 08:31:46](https://news.ycombinator.com/item?id=41912329) - [A Lisp compiler to ARM written in Lisp](http://www.ulisp.com/show?4W2I)
 * [2024-10-22, 07:54:32](https://news.ycombinator.com/item?id=41912160) - [Understanding Gaussians](https://gestalt.ink/gaussians)
 * [2024-10-22, 07:00:49](https://news.ycombinator.com/item?id=41911882) - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
@@ -12,6 +11,7 @@
 * [2024-10-22, 00:42:51](https://news.ycombinator.com/item?id=41910084) - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2024-10-22, 00:01:23](https://news.ycombinator.com/item?id=41909827) - [Learning to Learn](https://kevin.the.li/posts/learning-to-learn/)
 * [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+* [2024-10-21, 22:34:07](https://news.ycombinator.com/item?id=41909287) - [Transitioning the Use of Cryptographic Algorithms and Key Lengths](https://csrc.nist.gov/pubs/sp/800/131/a/r3/ipd)
 * [2024-10-21, 21:07:15](https://news.ycombinator.com/item?id=41908536) - [Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python](https://github.com/plasma-umass/scalene)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
