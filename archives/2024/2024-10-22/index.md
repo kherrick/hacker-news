@@ -9,6 +9,7 @@
 * [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
 * [2024-10-22, 19:48:58](https://news.ycombinator.com/item?id=41917990) - [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 * [2024-10-22, 18:18:33](https://news.ycombinator.com/item?id=41917105) - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
+* [2024-10-22, 18:12:52](https://news.ycombinator.com/item?id=41917035) - [NIST Standard Reference Materials Catalog [pdf]](https://tsapps.nist.gov/srmext/certificates/documents/Current_SRM_Catalog.pdf)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 18:01:49](https://news.ycombinator.com/item?id=41916922) - [RunwayML releases Act One: obsoleting traditional motion capture](https://runwayml.com/research/introducing-act-one)
 * [2024-10-22, 17:50:36](https://news.ycombinator.com/item?id=41916804) - [Nearly 40% of software engineers will only work remotely (2023)](https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely)
