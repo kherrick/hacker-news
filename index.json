@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-10-23, 16:40:25",
-      "https://news.ycombinator.com/item?id=41926745"
+      "2024-10-23, 16:50:59",
+      "https://news.ycombinator.com/item?id=41926851"
     ],
     [
-      "Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE",
-      "https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:19:31",
-      "https://news.ycombinator.com/item?id=41926554"
-    ],
-    [
-      "What happens if the NY Times tech staff strikes on election night?",
-      "https://www.washingtonpost.com/style/media/2024/10/23/new-york-times-tech-guild-strike/"
+      "Wireshark Practical Jokes",
+      "https://wiki.wireshark.org/PracticalJokes"
     ]
   ],
   [
@@ -41,6 +31,16 @@
   ],
   [
     [
+      "2024-10-23, 14:52:34",
+      "https://news.ycombinator.com/item?id=41925644"
+    ],
+    [
+      "Show HN: I built a task manager that finally separates \"Do\" & \"Due\" dates",
+      "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 14:41:12",
       "https://news.ycombinator.com/item?id=41925511"
     ],
@@ -57,16 +57,6 @@
     [
       "SuperHTML is here to rescue you from syntax errors, and it's FOSS",
       "https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 13:20:30",
-      "https://news.ycombinator.com/item?id=41924804"
-    ],
-    [
-      "Users say T-Mobile must pay for killing \"lifetime\" price lock",
-      "https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Coreboot port for 486 motherboard (UM8881/6)",
       "https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 16:08:21",
+      "https://news.ycombinator.com/item?id=41880709"
+    ],
+    [
+      "An Illustrated Guide to Maritime Signal Flags",
+      "https://rabbitwaves.ca/site/flags_maritime.html"
     ]
   ],
   [
