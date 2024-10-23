@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 14:53:24",
+      "https://news.ycombinator.com/item?id=41925658"
+    ],
+    [
+      "Don't use \"click here\" for link text",
+      "https://www.dont-click-here.com/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 14:41:12",
       "https://news.ycombinator.com/item?id=41925511"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2024-10-23, 13:45:09",
-      "https://news.ycombinator.com/item?id=41925019"
+      "2024-10-23, 14:01:07",
+      "https://news.ycombinator.com/item?id=41925141"
     ],
     [
-      "Giant catapult launching satellites into orbit without the need of rocket fuel",
-      "https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/"
+      "SuperHTML is here to rescue you from syntax errors, and it's FOSS",
+      "https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 13:20:30",
+      "https://news.ycombinator.com/item?id=41924804"
+    ],
+    [
+      "Users say T-Mobile must pay for killing \"lifetime\" price lock",
+      "https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-22, 14:15:54",
-      "https://news.ycombinator.com/item?id=41914544"
-    ],
-    [
-      "Show HN: Rust Web Framework",
-      "https://github.com/levkk/rwf"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 02:30:28",
       "https://news.ycombinator.com/item?id=41900190"
     ],
@@ -217,16 +227,6 @@
     [
       "Ask HN: What's the most creative 'useless' program you've ever written?",
       "https://news.ycombinator.com/item?id=41894765"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 14:24:08",
-      "https://news.ycombinator.com/item?id=41887924"
-    ],
-    [
-      "Triaging Clang C++ front end bugs",
-      "https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html"
     ]
   ],
   [
