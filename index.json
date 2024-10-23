@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-23, 18:00:11",
+      "https://news.ycombinator.com/item?id=41927624"
+    ],
+    [
+      "Show HN: A macOS Client for HuggingFace Chat",
+      "https://github.com/huggingface/chat-macOS"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 17:50:08",
+      "https://news.ycombinator.com/item?id=41927503"
+    ],
+    [
+      "Landowner Sues After State Searches Property Without Warrant or Consent",
+      "https://www.agweb.com/news/business/farmland/rural-landowner-sues-after-state-searches-property-without-warrant-or-cons"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 17:44:18",
       "https://news.ycombinator.com/item?id=41927436"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2024-10-23, 17:17:05",
-      "https://news.ycombinator.com/item?id=41927168"
-    ],
-    [
-      "Why is Apple so bad at marketing its TV shows?",
-      "https://www.fastcompany.com/91209369/why-is-apple-tv-plus-so-bad-at-marketing"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 17:00:21",
       "https://news.ycombinator.com/item?id=41926978"
     ],
     [
       "Goldman and Apple 'illegally sidestepped' obligations to credit-card customers",
       "https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:59:32",
-      "https://news.ycombinator.com/item?id=41926967"
-    ],
-    [
-      "Apple and Goldman Sachs deceived Apple Card customers, regulators say",
-      "https://www.washingtonpost.com/business/2024/10/23/apple-card-goldman-sachs-cfpb/"
     ]
   ],
   [
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2024-10-23, 16:11:57",
-      "https://news.ycombinator.com/item?id=41926472"
+      "2024-10-23, 15:23:12",
+      "https://news.ycombinator.com/item?id=41925982"
     ],
     [
-      "Lawsuit challenges Virginia City's use of cameras for warrantless surveillance",
-      "https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/"
+      "The Maker of Ozempic Is Trying to Block Compounded Versions of Its Drug",
+      "https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language",
       "https://news.ycombinator.com/item?id=41924787"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 11:42:02",
-      "https://news.ycombinator.com/item?id=41923945"
-    ],
-    [
-      "TCP Fast Open? Not so fast (2021)",
-      "https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2024-10-22, 09:58:10",
+      "https://news.ycombinator.com/item?id=41912769"
+    ],
+    [
+      "Reinforcement Learning: An Introduction (2018)",
+      "http://incompleteideas.net/book/the-book-2nd.html"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 09:29:30",
       "https://news.ycombinator.com/item?id=41912633"
     ],
     [
       "Taming the buck with a Type III compensator",
       "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 06:35:04",
-      "https://news.ycombinator.com/item?id=41911758"
-    ],
-    [
-      "The brain collector: a scientist unravelling the mysteries of grey matter",
-      "https://www.theguardian.com/science/2024/oct/22/ancient-brain-collector-alexandra-morton-hayward-heslington"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Semantic Macros Text Editor",
       "https://samtxt.samrawal.com/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 20:42:49",
+      "https://news.ycombinator.com/item?id=41890642"
+    ],
+    [
+      "Shanghai Before the Foreigners",
+      "https://jaapgrolleman.com/shanghai-before-the-foreigners/"
     ]
   ]
 ]
