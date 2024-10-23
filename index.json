@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 20:52:13",
+      "https://news.ycombinator.com/item?id=41929174"
+    ],
+    [
+      "Everything I built with Claude Artifacts this week",
+      "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 19:31:51",
       "https://news.ycombinator.com/item?id=41928529"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-10-23, 18:10:24",
-      "https://news.ycombinator.com/item?id=41927743"
+      "2024-10-23, 18:04:07",
+      "https://news.ycombinator.com/item?id=41927672"
     ],
     [
-      "OpenObserve: Observability platform for logs, metrics, traces, analytics",
-      "https://github.com/openobserve/openobserve"
+      "The last issue of The Embedded Muse (#500)",
+      "https://www.ganssle.com/tem/tem500.html"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-10-23, 07:00:15",
-      "https://news.ycombinator.com/item?id=41922556"
-    ],
-    [
-      "NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers",
-      "https://www.newscatcherapi.com/career/web-crawling-scraping-engineer"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 06:24:16",
       "https://news.ycombinator.com/item?id=41922356"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-10-22, 05:43:18",
-      "https://news.ycombinator.com/item?id=41911513"
-    ],
-    [
-      "Species in Pieces",
-      "http://species-in-pieces.com"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 05:02:16",
       "https://news.ycombinator.com/item?id=41911335"
     ],
@@ -287,6 +277,16 @@
     [
       "Best Practices for Bulk Optimization of Queries in PostgreSQL",
       "https://substack.com/home/post/p-150506520"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 09:26:48",
+      "https://news.ycombinator.com/item?id=41894158"
+    ],
+    [
+      "DawVert – a DAW project file converter",
+      "https://github.com/SatyrDiamond/DawVert"
     ]
   ],
   [
