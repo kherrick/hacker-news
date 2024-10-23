@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-23, 20:25:09",
+      "https://news.ycombinator.com/item?id=41928968"
+    ],
+    [
+      "Post-postal: What did we lose when we stopped writing letters?",
+      "https://resobscura.substack.com/p/post-postal"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 19:31:51",
       "https://news.ycombinator.com/item?id=41928529"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: Open-source low-code email editor",
       "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 18:04:07",
-      "https://news.ycombinator.com/item?id=41927672"
-    ],
-    [
-      "The last issue of The Embedded Muse (#500)",
-      "https://www.ganssle.com/tem/tem500.html"
     ]
   ],
   [
@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=41926942"
     ],
     [
-      "GitButler: Fearless Rebasing",
+      "GitButler: Fearless rebasing",
       "https://blog.gitbutler.com/fearless-rebasing/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:50:59",
-      "https://news.ycombinator.com/item?id=41926851"
-    ],
-    [
-      "Practical Jokes (2007)",
-      "https://wiki.wireshark.org/PracticalJokes"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-10-23, 09:44:36",
+      "https://news.ycombinator.com/item?id=41923429"
+    ],
+    [
+      "Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure",
+      "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 08:13:47",
       "https://news.ycombinator.com/item?id=41922928"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=41903425"
     ],
     [
-      "Best Practices for Bulk Optimization of Queries in PostgreSQL",
+      "Bulk optimization of queries in Postgres",
       "https://substack.com/home/post/p-150506520"
     ]
   ],
