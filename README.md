@@ -19,7 +19,7 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:37:15](https://news.ycombinator.com/item?id=41913617) - [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
-* [2024-10-22, 05:58:17](https://news.ycombinator.com/item?id=41911575) - [Defender Sound Studio](https://www.zapspace.net/defender_sound/)
+* [2024-10-22, 08:21:42](https://news.ycombinator.com/item?id=41912284) - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-20, 22:09:46](https://news.ycombinator.com/item?id=41898898) - [Why computational predictive toxicology is hard](https://www.owlposting.com/p/a-primer-on-why-computational-predictive)
