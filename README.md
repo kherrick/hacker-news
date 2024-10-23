@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 16:40:25](https://news.ycombinator.com/item?id=41926745) - [Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE](https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/)
-* [2024-10-23, 16:19:31](https://news.ycombinator.com/item?id=41926554) - [What happens if the NY Times tech staff strikes on election night?](https://www.washingtonpost.com/style/media/2024/10/23/new-york-times-tech-guild-strike/)
+* [2024-10-23, 16:50:59](https://news.ycombinator.com/item?id=41926851) - [Wireshark Practical Jokes](https://wiki.wireshark.org/PracticalJokes)
 * [2024-10-23, 16:16:25](https://news.ycombinator.com/item?id=41926515) - [Paper mills: the 'cartel-like' companies behind fraudulent scientific journals](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
 * [2024-10-23, 16:11:57](https://news.ycombinator.com/item?id=41926472) - [Federal Suit Challenges City's Use of 170+ Cameras for Warrantless Surveillance](https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/)
+* [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that finally separates \"Do\" & \"Due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V is currently slow compared to modern CPUs](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 * [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
-* [2024-10-23, 13:20:30](https://news.ycombinator.com/item?id=41924804) - [Users say T-Mobile must pay for killing \"lifetime\" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 11:42:02](https://news.ycombinator.com/item?id=41923945) - [TCP Fast Open? Not so fast (2021)](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
@@ -29,6 +28,7 @@
 * [2024-10-19, 06:32:50](https://news.ycombinator.com/item?id=41886047) - [Implementing Brainfuck in APL](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-19, 02:29:00](https://news.ycombinator.com/item?id=41885192) - [What makes a person seem wise?](https://theconversation.com/what-makes-a-person-seem-wise-global-study-finds-that-cultures-do-differ-but-not-as-much-as-youd-think-238808)
 * [2024-10-18, 20:48:43](https://news.ycombinator.com/item?id=41883365) - [Coreboot port for 486 motherboard (UM8881/6)](https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md)
+* [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
 * [2024-10-18, 14:46:58](https://news.ycombinator.com/item?id=41879930) - [Supporting Task Switching with Reinforcement Learning](https://dl.acm.org/doi/10.1145/3613904.3642063)
 
 ## [Archives](archives/index.md)
