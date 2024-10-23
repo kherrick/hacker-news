@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 17:44:18](https://news.ycombinator.com/item?id=41927436) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
+* [2024-10-23, 17:28:39](https://news.ycombinator.com/item?id=41927286) - [Show HN: Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/)
 * [2024-10-23, 17:17:05](https://news.ycombinator.com/item?id=41927168) - [Why is Apple so bad at marketing its TV shows?](https://www.fastcompany.com/91209369/why-is-apple-tv-plus-so-bad-at-marketing)
 * [2024-10-23, 17:00:21](https://news.ycombinator.com/item?id=41926978) - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 * [2024-10-23, 16:59:32](https://news.ycombinator.com/item?id=41926967) - [Apple and Goldman Sachs deceived Apple Card customers, regulators say](https://www.washingtonpost.com/business/2024/10/23/apple-card-goldman-sachs-cfpb/)
@@ -25,6 +27,7 @@
 * [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
+* [2024-10-23, 13:33:49](https://news.ycombinator.com/item?id=41924917) - [Self-Documenting Code](https://lackofimagination.org/2024/10/self-documenting-code/)
 * [2024-10-23, 13:20:30](https://news.ycombinator.com/item?id=41924804) - [Users say T-Mobile must pay for killing \"lifetime\" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
@@ -39,6 +42,7 @@
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 10:21:29](https://news.ycombinator.com/item?id=41923585) - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
+* [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 * [2024-10-23, 07:38:17](https://news.ycombinator.com/item?id=41922737) - [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
 * [2024-10-23, 07:24:38](https://news.ycombinator.com/item?id=41922670) - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
 * [2024-10-23, 07:11:05](https://news.ycombinator.com/item?id=41922605) - [New Claude AI can take over your computer](https://newatlas.com/ai-humanoids/anthropic-claude-computer-use-agent-ai/)
