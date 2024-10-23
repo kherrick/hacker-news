@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 17:17:05](https://news.ycombinator.com/item?id=41927168) - [Why is Apple so bad at marketing its TV shows?](https://www.fastcompany.com/91209369/why-is-apple-tv-plus-so-bad-at-marketing)
+* [2024-10-23, 17:00:21](https://news.ycombinator.com/item?id=41926978) - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
+* [2024-10-23, 16:59:32](https://news.ycombinator.com/item?id=41926967) - [Apple and Goldman Sachs deceived Apple Card customers, regulators say](https://www.washingtonpost.com/business/2024/10/23/apple-card-goldman-sachs-cfpb/)
 * [2024-10-23, 16:50:59](https://news.ycombinator.com/item?id=41926851) - [Wireshark Practical Jokes](https://wiki.wireshark.org/PracticalJokes)
 * [2024-10-23, 16:50:53](https://news.ycombinator.com/item?id=41926849) - [Lars Tunbjörk documented the rise of alienating online work](https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos)
 * [2024-10-23, 16:44:01](https://news.ycombinator.com/item?id=41926770) - [Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine](https://github.com/corbt/agent.exe)
