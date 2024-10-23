@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-23, 11:51:22](https://news.ycombinator.com/item?id=41924013) - [Can A.I. Be Blamed for a Teen's Suicide?](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html)
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
@@ -21,7 +22,6 @@
 * [2024-10-21, 23:19:00](https://news.ycombinator.com/item?id=41909564) - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
-* [2024-10-20, 22:09:46](https://news.ycombinator.com/item?id=41898898) - [Why computational predictive toxicology is hard](https://www.owlposting.com/p/a-primer-on-why-computational-predictive)
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
 * [2024-10-19, 14:24:08](https://news.ycombinator.com/item?id=41887924) - [Triaging Clang C++ front end bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 12:10:46](https://news.ycombinator.com/item?id=41887360) - [Show HN: I made tool for slicing up samples to Ableton Move presets](https://github.com/alexfedosov/move-tool)
