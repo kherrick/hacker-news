@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
+* [2024-10-23, 20:25:09](https://news.ycombinator.com/item?id=41928968) - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 * [2024-10-23, 19:35:31](https://news.ycombinator.com/item?id=41928570) - [The Company Helping America's Health Insurers Deny Coverage for Care](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
@@ -54,6 +55,7 @@
 * [2024-10-23, 10:35:26](https://news.ycombinator.com/item?id=41923641) - [Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others](https://blog.hyperknot.com/p/comparing-auth-providers)
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 10:21:29](https://news.ycombinator.com/item?id=41923585) - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
+* [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 * [2024-10-23, 07:38:17](https://news.ycombinator.com/item?id=41922737) - [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
