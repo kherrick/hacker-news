@@ -129,25 +129,107 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="41924013">
+        <section id="41924787">
           <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html"
-              >Can A.I. Be Blamed for a Teen's Suicide?</a
+            <a class="item" href="https://news.ycombinator.com/item?id=41924787"
+              >Launch HN: GPT Driver (YC S21) – End-to-end app testing in
+              natural language</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-23 @ 11:51:22</span
+              <span>2024-10-23 @ 13:18:17</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41924013"
+                ><a href="https://news.ycombinator.com/item?id=41924787"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://mobileboost.io/">https://mobileboost.io/</a>).
+              We’re building GPT Driver, an AI-native approach to create and
+              execute end-to-end (E2E) tests on mobile applications. Our
+              solution allows teams to define tests in natural language and
+              prevents test flakiness by taking a visual approach paired with
+              LLM (Large Language Model) reasoning. This helps achieve E2E test
+              coverage with a fraction of the usual effort.
+              <p>
+                You can watch a brief product walkthrough here:
+                <a href="https://www.youtube.com/watch?v=5-Ge2fqdlxc"
+                  >https://www.youtube.com/watch?v=5-Ge2fqdlxc</a
+                >
+              </p>
+              <p>
+                In terms of trying the product out: since the service is
+                resource-intensive (we provide hosted virtual/real phone
+                instances), we don't currently have a playground available.
+                However, you can see some examples here
+                <a href="https://mobileboost.io/showcases"
+                  >https://mobileboost.io/showcases</a
+                >
+                and book a demo of GPT Driver testing your app through our
+                website.
+              </p>
+              <p>
+                Why we built this: working at previous startups and scaleups, we
+                saw how as app teams grew, QA teams would struggle to ensure
+                everything was still working. This caused tension between teams
+                and resulted in bugs making it into production.
+              </p>
+              <p>
+                You’d expect automated tests to help, but these were a huge
+                effort because only engineers could create the tests, and the
+                apps themselves kept changing—breaking the tests regularly and
+                leading to high maintenance overhead. Functional tests often
+                failed not because of actual app errors, but due to changes like
+                copy updates or modifications to element IDs. This was already a
+                challenge, even before considering the added complexities of
+                multiple platforms, different environments, multilingual UIs,
+                marketing popups, A/B tests, or minor UI changes from
+                third-party authentication or payment providers.
+              </p>
+              <p>
+                We realized that combining computer vision with LLM reasoning
+                could solve the common flakiness issues in E2E testing. So, we
+                launched GPT Driver—a no-code editor paired with a hosted
+                emulator/simulator service that allows teams to set up test
+                automation efficiently. Our visual + LLM reasoning test
+                execution reduces false alarms, enabling teams to integrate
+                their E2E tests into their CI/CD pipelines without getting
+                blocked. Some interesting technical challenges we faced along
+                the way: (1) UI Object Detection from Vision Input: We had to
+                train object detection models (YOLO and Faster R-CNN based) on a
+                subset of the RICO dataset as well as our own dataset to be able
+                to interact accurately with the UI. (2) Reasoning with Current
+                LLMs: We have to shorten instructions, action history, and
+                screen content during runtime for better results, as handling
+                large amounts of input tokens remains a challenge. We also work
+                with reasoning templates to achieve robust decision-making. (3)
+                Performance Optimization: We optimized our agentic loop to make
+                decisions in less than 4 seconds. To reduce this further, we
+                implemented caching mechanisms and offer a command-first
+                approach, where our AI agent only takes over when the command
+                fails.
+              </p>
+              <p>
+                Since launching GPT Driver, we’ve seen adoption by technical
+                teams, both with and without dedicated QA roles. Compared to
+                code-based tests, the core benefit is the reduction of both the
+                manual work and the time required to maintain effective E2E
+                tests. This approach is particularly powerful for apps which
+                have a lot of dynamic screens and content such as Duolingo which
+                we have been working with since a couple of months.
+                Additionally, the tests can now also be managed by
+                non-engineers.
+              </p>
+              <p>
+                We’d love to hear about your experiences with E2E test
+                automation—what approaches have worked or didn’t work for you?
+                What features would you find valuable?
+              </p>
+            </div>
           </section>
         </section>
         <section id="41923387">
@@ -163,11 +245,11 @@
             <h4>
               <span>2024-10-23 @ 09:36:35</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41923387"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -189,6 +271,25 @@
             </h4>
           </section>
         </section>
+        <section id="41922356">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=iwVu2BWLZqA"
+              >The Incredible Machine (1968)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-23 @ 06:24:16</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41922356"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41922081">
           <h3>
             <a class="item" href="https://bernsteinbear.com/blog/row-poly/"
@@ -199,7 +300,7 @@
             <h4>
               <span>2024-10-23 @ 05:26:23</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41922081"
                   >Comments</a
@@ -218,7 +319,7 @@
             <h4>
               <span>2024-10-23 @ 01:13:28</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41920591"
                   >Comments</a
@@ -239,11 +340,11 @@
             <h4>
               <span>2024-10-23 @ 00:48:24</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">398</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41920401"
                   >Comments</a
-                ><span class="descendants">: 282</span></span
+                ><span class="descendants">: 285</span></span
               >
             </h4>
           </section>
@@ -260,7 +361,7 @@
             <h4>
               <span>2024-10-22 @ 23:09:37</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41919711"
                   >Comments</a
@@ -281,11 +382,11 @@
             <h4>
               <span>2024-10-22 @ 22:28:10</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41919365"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -302,11 +403,11 @@
             <h4>
               <span>2024-10-22 @ 22:12:15</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41919262"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -323,11 +424,11 @@
             <h4>
               <span>2024-10-22 @ 18:11:03</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41917016"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -345,11 +446,11 @@
             <h4>
               <span>2024-10-22 @ 17:05:01</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41916322"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -364,11 +465,11 @@
             <h4>
               <span>2024-10-22 @ 16:27:51</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">353</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41915958"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -385,11 +486,11 @@
             <h4>
               <span>2024-10-22 @ 16:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41915724"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -406,11 +507,11 @@
             <h4>
               <span>2024-10-22 @ 15:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">522</span></span
+                >Points: <span class="points">528</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41915187"
                   >Comments</a
-                ><span class="descendants">: 303</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -427,11 +528,11 @@
             <h4>
               <span>2024-10-22 @ 15:02:46</span
               ><span class="points-container"
-                >Points: <span class="points">1269</span></span
+                >Points: <span class="points">1280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41914989"
                   >Comments</a
-                ><span class="descendants">: 647</span></span
+                ><span class="descendants">: 652</span></span
               >
             </h4>
           </section>
@@ -448,11 +549,11 @@
             <h4>
               <span>2024-10-22 @ 14:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41914845"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -467,11 +568,11 @@
             <h4>
               <span>2024-10-22 @ 14:15:54</span
               ><span class="points-container"
-                >Points: <span class="points">444</span></span
+                >Points: <span class="points">446</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41914544"
                   >Comments</a
-                ><span class="descendants">: 229</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
             <div class="text">
@@ -503,23 +604,38 @@
             </div>
           </section>
         </section>
-        <section id="41912284">
+        <section id="41913520">
           <h3>
-            <a class="item" href="https://blog.plover.com/math/PM.html"
-              >One Plus One Equals Two (2006)</a
+            <a class="item" href="https://ambulate.app"
+              >Show HN: Ambulate – Detailed Trip Planning</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-10-22 @ 08:21:42</span
+              <span>2024-10-22 @ 12:19:43</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41912284"
+                ><a href="https://news.ycombinator.com/item?id=41913520"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Features - Manage itineraries - Add activities and map markers -
+                Add routes (upload GPX or plot by hand on map) - Desktop and
+                mobile
+              </p>
+              <p>
+                It is free to try (login using Google or create a user).
+                Alternatively the slides on the home page give an idea of the
+                UI.
+              </p>
+              <p>
+                I'll appreciate any thoughts and feedback you care to share:)
+              </p>
+            </div>
           </section>
         </section>
         <section id="41911575">
@@ -532,53 +648,11 @@
             <h4>
               <span>2024-10-22 @ 05:58:17</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41911575"
                   >Comments</a
                 ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41909564">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/"
-              >Math is still catching up to the genius of Ramanujan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-21 @ 23:19:00</span
-              ><span class="points-container"
-                >Points: <span class="points">786</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41909564"
-                  >Comments</a
-                ><span class="descendants">: 400</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41908075">
-          <h3>
-            <a
-              class="item"
-              href="https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4"
-              >First images from Euclid are in</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-21 @ 20:15:36</span
-              ><span class="points-container"
-                >Points: <span class="points">1347</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41908075"
-                  >Comments</a
-                ><span class="descendants">: 363</span></span
               >
             </h4>
           </section>
@@ -595,7 +669,7 @@
             <h4>
               <span>2024-10-21 @ 02:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41900190"
                   >Comments</a
@@ -615,11 +689,11 @@
             <h4>
               <span>2024-10-20 @ 11:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41894765"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
             <div class="text">
@@ -652,7 +726,7 @@
             <h4>
               <span>2024-10-19 @ 14:24:08</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41887924"
                   >Comments</a
@@ -676,7 +750,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41887360"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -698,11 +772,11 @@
             <h4>
               <span>2024-10-19 @ 11:11:43</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41887153"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -719,7 +793,7 @@
             <h4>
               <span>2024-10-19 @ 06:32:50</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41886047"
                   >Comments</a
@@ -749,6 +823,27 @@
             </h4>
           </section>
         </section>
+        <section id="41881897">
+          <h3>
+            <a
+              class="item"
+              href="https://www.smithsonianmag.com/travel/what-its-like-to-experience-polar-night-in-the-worlds-northernmost-town-180985271/"
+              >Polar Night in the Northernmost Town</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-18 @ 18:02:35</span
+              ><span class="points-container"
+                >Points: <span class="points">71</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41881897"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41880709">
           <h3>
             <a
@@ -761,11 +856,11 @@
             <h4>
               <span>2024-10-18 @ 16:08:21</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41880709"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -782,7 +877,7 @@
             <h4>
               <span>2024-10-18 @ 14:46:58</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41879930"
                   >Comments</a
