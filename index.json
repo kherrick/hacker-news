@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41927286"
     ],
     [
-      "Show HN: Nix at work: FlakeHub Cache and private flakes",
+      "Nix at work: FlakeHub Cache and private flakes",
       "https://determinate.systems/posts/flakehub-cache-and-private-flakes/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41926849"
     ],
     [
-      "Lars Tunbjörk documented the rise of alienating online work",
+      "Lars Tunbjörk documented the rise of alienating office work",
       "https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=41925644"
     ],
     [
-      "Show HN: I built a task manager that finally separates \"Do\" & \"Due\" dates",
+      "Show HN: I built a task manager that separates \"do\" and \"due\" dates",
       "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-10-22, 04:08:02",
-      "https://news.ycombinator.com/item?id=41911099"
-    ],
-    [
-      "I got dysentery in a human challenge trial",
-      "https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 02:30:28",
       "https://news.ycombinator.com/item?id=41900190"
     ],
     [
       "Solving Sudoku in Python Packaging",
       "https://github.com/konstin/sudoku-in-python-packaging"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 22:11:21",
+      "https://news.ycombinator.com/item?id=41898910"
+    ],
+    [
+      "Show HN: Semantic Macros Text Editor",
+      "https://samtxt.samrawal.com/"
     ]
   ]
 ]
