@@ -48,6 +48,7 @@
 * [2024-10-19, 12:28:33](https://news.ycombinator.com/item?id=41887429) - [NASA Drops Boeing Starliner from Upcoming Missions](https://jalopnik.com/nasa-drops-boeing-starliner-from-upcoming-missions-1851676293)
 * [2024-10-19, 12:26:20](https://news.ycombinator.com/item?id=41887419) - [Woman, 82, still rides same bike she was given at 13](https://www.telegraph.co.uk/world-news/2024/10/18/dutch-woman-82-rides-bike/)
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
+* [2024-10-19, 12:10:46](https://news.ycombinator.com/item?id=41887360) - [Show HN: I made tool for slicing up samples to Ableton Move presets](https://github.com/alexfedosov/move-tool)
 * [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)

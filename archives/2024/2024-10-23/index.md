@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 07:24:38](https://news.ycombinator.com/item?id=41922670) - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
 * [2024-10-23, 07:11:05](https://news.ycombinator.com/item?id=41922605) - [New Claude AI can take over your computer](https://newatlas.com/ai-humanoids/anthropic-claude-computer-use-agent-ai/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
