@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 14:53:24](https://news.ycombinator.com/item?id=41925658) - [Don't use \"click here\" for link text](https://www.dont-click-here.com/)
 * [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 * [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
+* [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
+* [2024-10-23, 13:20:30](https://news.ycombinator.com/item?id=41924804) - [Users say T-Mobile must pay for killing \"lifetime\" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 11:51:22](https://news.ycombinator.com/item?id=41924013) - [Can A.I. Be Blamed for a Teen's Suicide?](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html)
