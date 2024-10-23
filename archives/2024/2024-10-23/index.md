@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
+* [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)

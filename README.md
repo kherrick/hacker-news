@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
+* [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
-* [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 10:35:26](https://news.ycombinator.com/item?id=41923641) - [Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others](https://blog.hyperknot.com/p/comparing-auth-providers)
@@ -16,7 +17,6 @@
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
-* [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
