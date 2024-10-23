@@ -40,6 +40,7 @@
 * [2024-10-19, 14:51:25](https://news.ycombinator.com/item?id=41888092) - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
 * [2024-10-19, 14:46:48](https://news.ycombinator.com/item?id=41888061) - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
 * [2024-10-19, 14:45:30](https://news.ycombinator.com/item?id=41888050) - [ChatGPT's Name Bias and Apple's Findings on AI's Lack of Reasoning](https://medium.com/@researchgraph/chatgpts-name-bias-and-apple-s-findings-on-ai-s-lack-of-reasoning-major-flaws-revealed-b4a44c27fd75)
+* [2024-10-19, 14:24:08](https://news.ycombinator.com/item?id=41887924) - [Triaging Clang C++ front end bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:24:05](https://news.ycombinator.com/item?id=41887923) - [Developers Now Required to Share Phone Number and Address on EU App Store](https://www.macrumors.com/2024/10/17/developers-eu-app-store-trader-requirements/)
 * [2024-10-19, 13:41:04](https://news.ycombinator.com/item?id=41887718) - [External RF-EMF Alters Cell Number and Reactive Oxygen Species Balance](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1425023/full)
 * [2024-10-19, 13:23:50](https://news.ycombinator.com/item?id=41887628) - [Plastic – A Modern NES Emulator That Works with EGUI and TUI](https://github.com/Amjad50/plastic)

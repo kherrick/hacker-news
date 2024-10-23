@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 04:09:14](https://news.ycombinator.com/item?id=41921723) - [In a first, Wikipedia takes down article globally after Delhi HC order](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece)
 * [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
 * [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [SQLite is replacing its canonical build process](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
 * [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
