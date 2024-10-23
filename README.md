@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 19:35:31](https://news.ycombinator.com/item?id=41928570) - [The Company Helping America's Health Insurers Deny Coverage for Care](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 * [2024-10-23, 18:10:24](https://news.ycombinator.com/item?id=41927743) - [OpenObserve: Observability platform for logs, metrics, traces, analytics](https://github.com/openobserve/openobserve)
@@ -12,6 +11,7 @@
 * [2024-10-23, 16:44:01](https://news.ycombinator.com/item?id=41926770) - [Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine](https://github.com/corbt/agent.exe)
 * [2024-10-23, 16:31:58](https://news.ycombinator.com/item?id=41926669) - [A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
 * [2024-10-23, 16:16:25](https://news.ycombinator.com/item?id=41926515) - [Paper mills: the 'cartel-like' companies behind fraudulent scientific journals](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
+* [2024-10-23, 15:31:29](https://news.ycombinator.com/item?id=41926067) - [Show HN: Srcbook – Self-hosted alternative to AI app builders](https://github.com/srcbookdev/srcbook/blob/main/README.md)
 * [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that separates \"do\" and \"due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 14:50:10](https://news.ycombinator.com/item?id=41925622) - [BazelCon 2024 Recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
