@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-10-23, 16:50:53",
-      "https://news.ycombinator.com/item?id=41926849"
+      "2024-10-23, 16:50:59",
+      "https://news.ycombinator.com/item?id=41926851"
     ],
     [
-      "Lars Tunbjörk documented the rise of alienating office work",
-      "https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos"
+      "Practical Jokes (2007)",
+      "https://wiki.wireshark.org/PracticalJokes"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
       "https://github.com/corbt/agent.exe"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:40:25",
+      "https://news.ycombinator.com/item?id=41926745"
+    ],
+    [
+      "Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE",
+      "https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2024-10-23, 14:50:10",
+      "https://news.ycombinator.com/item?id=41925622"
+    ],
+    [
+      "BazelCon 2024 Recap",
+      "https://blogsystem5.substack.com/p/bazelcon-2024-recap"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 14:23:29",
       "https://news.ycombinator.com/item?id=41925323"
     ],
@@ -127,16 +147,6 @@
     [
       "Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language",
       "https://news.ycombinator.com/item?id=41924787"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 11:39:49",
-      "https://news.ycombinator.com/item?id=41923931"
-    ],
-    [
-      "The global surveillance free-for-all in mobile ad data",
-      "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reinforcement Learning: An Introduction (2018)",
       "http://incompleteideas.net/book/the-book-2nd.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 05:43:18",
-      "https://news.ycombinator.com/item?id=41911513"
-    ],
-    [
-      "Species in Pieces",
-      "http://species-in-pieces.com"
     ]
   ],
   [
