@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 11:33:13](https://news.ycombinator.com/item?id=41923901) - [I Had $100k in Debt So I Moved into My Car](https://macleans.ca/society/i-had-100000-in-debt-so-i-moved-into-my-car/)
 * [2024-10-23, 11:31:30](https://news.ycombinator.com/item?id=41923890) - [Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
 * [2024-10-23, 11:03:20](https://news.ycombinator.com/item?id=41923766) - [Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
 * [2024-10-23, 10:21:29](https://news.ycombinator.com/item?id=41923585) - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
