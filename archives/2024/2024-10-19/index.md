@@ -55,6 +55,7 @@
 * [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
 * [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
 * [2024-10-19, 10:27:28](https://news.ycombinator.com/item?id=41886956) - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
+* [2024-10-19, 10:24:48](https://news.ycombinator.com/item?id=41886945) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-19, 10:23:23](https://news.ycombinator.com/item?id=41886938) - [Implementing an Intermediate Representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 10:19:41](https://news.ycombinator.com/item?id=41886920) - [PhotoDNA and Limitations (2021)](https://hackerfactor.com/blog/index.php?/archives/931-PhotoDNA-and-Limitations.html)
 * [2024-10-19, 09:31:09](https://news.ycombinator.com/item?id=41886721) - [Morsle – The daily Morse code challenge](https://morsle.fun)
