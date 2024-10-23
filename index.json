@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 02:10:50",
+      "https://news.ycombinator.com/item?id=41921045"
+    ],
+    [
+      "Show HN: Ryde, a Rust Web Framework",
+      "https://github.com/swlkr/ryde"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 01:13:28",
       "https://news.ycombinator.com/item?id=41920591"
     ],
@@ -37,6 +47,16 @@
     [
       "Solving Sudoku with the Python package resolver",
       "https://github.com/konstin/sudoku-in-python-packaging"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 00:13:37",
+      "https://news.ycombinator.com/item?id=41920127"
+    ],
+    [
+      "The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers",
+      "https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/"
     ]
   ],
   [
@@ -97,36 +117,6 @@
     [
       "How fast is quantum entanglement? Scientists investigate it at attosecond scale",
       "https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 20:32:28",
-      "https://news.ycombinator.com/item?id=41918414"
-    ],
-    [
-      "A Report from the 2024 Image-Based Linux Summit",
-      "https://lwn.net/SubscriberLink/994704/0356b274aa959853/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 19:48:58",
-      "https://news.ycombinator.com/item?id=41917990"
-    ],
-    [
-      "TSMC told US of chip in Huawei product after TechInsights finding, source says",
-      "https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 18:12:52",
-      "https://news.ycombinator.com/item?id=41917035"
-    ],
-    [
-      "NIST Standard Reference Materials Catalog [pdf]",
-      "https://tsapps.nist.gov/srmext/certificates/documents/Current_SRM_Catalog.pdf"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "RRR: A Succinct Rank/Select Index for Bit Vectors (2011)",
       "https://www.alexbowe.com/rrr/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 17:29:14",
+      "https://news.ycombinator.com/item?id=41889155"
+    ],
+    [
+      "Two examples of hover styles on images",
+      "https://alexwlchan.net/2024/hover-states/"
     ]
   ],
   [
