@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 07:11:05](https://news.ycombinator.com/item?id=41922605) - [New Claude AI can take over your computer](https://newatlas.com/ai-humanoids/anthropic-claude-computer-use-agent-ai/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
@@ -22,6 +21,7 @@
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+* [2024-10-22, 08:21:42](https://news.ycombinator.com/item?id=41912284) - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-22, 05:58:17](https://news.ycombinator.com/item?id=41911575) - [Defender Sound Studio](https://www.zapspace.net/defender_sound/)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
