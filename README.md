@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
+* [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [SQLite is replacing its canonical build process](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
 * [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 01:00:32](https://news.ycombinator.com/item?id=41920491) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
@@ -7,7 +9,6 @@
 * [2024-10-23, 00:13:37](https://news.ycombinator.com/item?id=41920127) - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
 * [2024-10-22, 23:12:04](https://news.ycombinator.com/item?id=41919717) - [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
 * [2024-10-22, 23:09:37](https://news.ycombinator.com/item?id=41919711) - [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
-* [2024-10-22, 22:28:10](https://news.ycombinator.com/item?id=41919365) - [I Got Dysentary So You Don't Have To](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 * [2024-10-22, 20:58:07](https://news.ycombinator.com/item?id=41918621) - [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
 * [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
@@ -20,7 +21,6 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
-* [2024-10-22, 08:21:42](https://news.ycombinator.com/item?id=41912284) - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-22, 05:58:17](https://news.ycombinator.com/item?id=41911575) - [Defender Sound Studio](https://www.zapspace.net/defender_sound/)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
