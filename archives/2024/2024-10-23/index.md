@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
+* [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 * [2024-10-23, 18:27:55](https://news.ycombinator.com/item?id=41927909) - [I built a 20k watt microwave oven [video]](https://www.youtube.com/watch?v=mg79n_ndR68)
 * [2024-10-23, 18:10:24](https://news.ycombinator.com/item?id=41927743) - [OpenObserve: Observability platform for logs, metrics, traces, analytics](https://github.com/openobserve/openobserve)
 * [2024-10-23, 18:00:11](https://news.ycombinator.com/item?id=41927624) - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
