@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 14:59:21](https://news.ycombinator.com/item?id=41925725) - [LLMs Aren't Thinking, They're Just Counting Votes](https://vishnurnair.substack.com/p/llms-arent-thinking-theyre-just-counting)
 * [2024-10-23, 14:53:24](https://news.ycombinator.com/item?id=41925658) - [Don't use \"click here\" for link text](https://www.dont-click-here.com/)
 * [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
 * [2024-10-23, 13:20:30](https://news.ycombinator.com/item?id=41924804) - [Users say T-Mobile must pay for killing \"lifetime\" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+* [2024-10-23, 11:39:49](https://news.ycombinator.com/item?id=41923931) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 * [2024-10-23, 10:35:26](https://news.ycombinator.com/item?id=41923641) - [Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others](https://blog.hyperknot.com/p/comparing-auth-providers)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 06:24:16](https://news.ycombinator.com/item?id=41922356) - [The Incredible Machine (1968) [video]](https://www.youtube.com/watch?v=iwVu2BWLZqA)
