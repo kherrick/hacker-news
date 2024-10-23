@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 16:40:25](https://news.ycombinator.com/item?id=41926745) - [Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE](https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/)
 * [2024-10-23, 16:19:31](https://news.ycombinator.com/item?id=41926554) - [What happens if the NY Times tech staff strikes on election night?](https://www.washingtonpost.com/style/media/2024/10/23/new-york-times-tech-guild-strike/)
 * [2024-10-23, 16:16:25](https://news.ycombinator.com/item?id=41926515) - [Paper mills: the 'cartel-like' companies behind fraudulent scientific journals](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
 * [2024-10-23, 16:11:57](https://news.ycombinator.com/item?id=41926472) - [Federal Suit Challenges City's Use of 170+ Cameras for Warrantless Surveillance](https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/)
