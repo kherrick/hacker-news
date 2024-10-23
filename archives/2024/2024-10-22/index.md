@@ -55,6 +55,7 @@
 * [2024-10-22, 07:44:24](https://news.ycombinator.com/item?id=41912103) - [Singapore OKs 4,300km subsea cable for importing electricity from Australia](https://mothership.sg/2024/10/ema-conditional-approval-sun-cable/)
 * [2024-10-22, 07:00:49](https://news.ycombinator.com/item?id=41911882) - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
 * [2024-10-22, 06:33:38](https://news.ycombinator.com/item?id=41911752) - [Tesla delays Cybertruck's range extender, reduces its range](https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/)
+* [2024-10-22, 05:58:17](https://news.ycombinator.com/item?id=41911575) - [Defender Sound Studio](https://www.zapspace.net/defender_sound/)
 * [2024-10-22, 04:41:33](https://news.ycombinator.com/item?id=41911255) - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
 * [2024-10-22, 04:33:25](https://news.ycombinator.com/item?id=41911228) - [Brazil Arrests 'USDoD' Hacker in FBI Infragard Breach](https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/)
 * [2024-10-22, 04:23:53](https://news.ycombinator.com/item?id=41911176) - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
