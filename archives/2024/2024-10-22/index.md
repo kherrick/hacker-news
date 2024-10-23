@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 23:42:57](https://news.ycombinator.com/item?id=41919907) - [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
 * [2024-10-22, 23:12:04](https://news.ycombinator.com/item?id=41919717) - [Why Simone Giertz, the Queen of Useless Robots, Got Serious](https://spectrum.ieee.org/simone-giertz)
 * [2024-10-22, 23:03:52](https://news.ycombinator.com/item?id=41919670) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
