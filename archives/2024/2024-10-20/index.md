@@ -65,6 +65,7 @@
 * [2024-10-20, 08:57:12](https://news.ycombinator.com/item?id=41894025) - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
 * [2024-10-20, 08:50:18](https://news.ycombinator.com/item?id=41893987) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 * [2024-10-20, 07:10:31](https://news.ycombinator.com/item?id=41893524) - [Show HN: HN Update – Hourly News Broadcast of Top HN Stories](https://hnup.date/)
+* [2024-10-20, 07:10:11](https://news.ycombinator.com/item?id=41893521) - [Explaining color gamuts and color spaces in HDTVs and monitors](https://www.wired.com/story/what-are-color-gamuts-and-why-do-they-matter/)
 * [2024-10-20, 07:07:34](https://news.ycombinator.com/item?id=41893507) - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
 * [2024-10-20, 06:33:55](https://news.ycombinator.com/item?id=41893377) - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 * [2024-10-20, 06:29:37](https://news.ycombinator.com/item?id=41893359) - [Mind Wandering: More than a Bad Habit (2018) [pdf]](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf)

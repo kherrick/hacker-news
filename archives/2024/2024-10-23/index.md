@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 10:21:29](https://news.ycombinator.com/item?id=41923585) - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 * [2024-10-23, 07:38:17](https://news.ycombinator.com/item?id=41922737) - [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
 * [2024-10-23, 07:24:38](https://news.ycombinator.com/item?id=41922670) - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
