@@ -62,6 +62,7 @@
 * [2024-10-22, 04:41:33](https://news.ycombinator.com/item?id=41911255) - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
 * [2024-10-22, 04:33:25](https://news.ycombinator.com/item?id=41911228) - [Brazil Arrests 'USDoD' Hacker in FBI Infragard Breach](https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/)
 * [2024-10-22, 04:23:53](https://news.ycombinator.com/item?id=41911176) - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
+* [2024-10-22, 04:08:02](https://news.ycombinator.com/item?id=41911099) - [I got dysentery in a human challenge trial](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 * [2024-10-22, 03:20:42](https://news.ycombinator.com/item?id=41910905) - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 * [2024-10-22, 02:53:21](https://news.ycombinator.com/item?id=41910756) - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
 * [2024-10-22, 01:30:51](https://news.ycombinator.com/item?id=41910309) - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
