@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 07:24:38",
+      "https://news.ycombinator.com/item?id=41922670"
+    ],
+    [
+      "Scientists Say Our Water Cycle Has Started Breaking Down",
+      "https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 07:00:15",
       "https://news.ycombinator.com/item?id=41922556"
     ],
@@ -77,16 +87,6 @@
     [
       "Arm is canceling Qualcomm's chip design license",
       "https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 00:13:37",
-      "https://news.ycombinator.com/item?id=41920127"
-    ],
-    [
-      "The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers",
-      "https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-10-22, 08:21:42",
-      "https://news.ycombinator.com/item?id=41912284"
-    ],
-    [
-      "One Plus One Equals Two (2006)",
-      "https://blog.plover.com/math/PM.html"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 05:58:17",
       "https://news.ycombinator.com/item?id=41911575"
     ],
@@ -267,6 +257,16 @@
     [
       "Triaging Clang C++ front end bugs",
       "https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 12:10:46",
+      "https://news.ycombinator.com/item?id=41887360"
+    ],
+    [
+      "Show HN: I made tool for slicing up samples to Ableton Move presets",
+      "https://github.com/alexfedosov/move-tool"
     ]
   ],
   [
