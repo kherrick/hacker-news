@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 18:00:11](https://news.ycombinator.com/item?id=41927624) - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
+* [2024-10-23, 17:50:08](https://news.ycombinator.com/item?id=41927503) - [Landowner Sues After State Searches Property Without Warrant or Consent](https://www.agweb.com/news/business/farmland/rural-landowner-sues-after-state-searches-property-without-warrant-or-cons)
 * [2024-10-23, 17:44:18](https://news.ycombinator.com/item?id=41927436) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-23, 17:28:39](https://news.ycombinator.com/item?id=41927286) - [Show HN: Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/)
 * [2024-10-23, 17:17:05](https://news.ycombinator.com/item?id=41927168) - [Why is Apple so bad at marketing its TV shows?](https://www.fastcompany.com/91209369/why-is-apple-tv-plus-so-bad-at-marketing)

@@ -8,6 +8,7 @@
 * [2024-10-19, 23:31:36](https://news.ycombinator.com/item?id=41891658) - [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
 * [2024-10-19, 21:04:52](https://news.ycombinator.com/item?id=41890784) - [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
 * [2024-10-19, 21:00:35](https://news.ycombinator.com/item?id=41890762) - [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
+* [2024-10-19, 20:42:49](https://news.ycombinator.com/item?id=41890642) - [Shanghai Before the Foreigners](https://jaapgrolleman.com/shanghai-before-the-foreigners/)
 * [2024-10-19, 20:42:02](https://news.ycombinator.com/item?id=41890633) - [It's time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
 * [2024-10-19, 20:24:02](https://news.ycombinator.com/item?id=41890497) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 20:22:22](https://news.ycombinator.com/item?id=41890486) - [Smurf: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)

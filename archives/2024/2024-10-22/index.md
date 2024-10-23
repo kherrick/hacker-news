@@ -51,6 +51,7 @@
 * [2024-10-22, 11:36:12](https://news.ycombinator.com/item?id=41913276) - [The Journal of Open Source Software](https://joss.theoj.org)
 * [2024-10-22, 10:55:33](https://news.ycombinator.com/item?id=41913057) - [Parks on the Air](https://parksontheair.com/index.html)
 * [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25 (and has taken over the world)](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
+* [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-22, 09:42:15](https://news.ycombinator.com/item?id=41912687) - [RISC-V Announces Ratification of the RVA23 Profile](https://riscv.org/announcements/2024/10/risc-v-announces-ratification-of-the-rva23-profile-standard/)
 * [2024-10-22, 09:29:30](https://news.ycombinator.com/item?id=41912633) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-22, 09:27:46](https://news.ycombinator.com/item?id=41912625) - [Don't Publish with IEEE](http://cr.yp.to/writing/ieee.html)
