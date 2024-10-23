@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
 * [2024-10-23, 02:10:50](https://news.ycombinator.com/item?id=41921045) - [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 01:00:32](https://news.ycombinator.com/item?id=41920491) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
@@ -12,7 +13,6 @@
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 * [2024-10-22, 20:58:07](https://news.ycombinator.com/item?id=41918621) - [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
 * [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
-* [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)

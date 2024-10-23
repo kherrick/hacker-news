@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
 * [2024-10-23, 02:10:50](https://news.ycombinator.com/item?id=41921045) - [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 01:00:32](https://news.ycombinator.com/item?id=41920491) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
