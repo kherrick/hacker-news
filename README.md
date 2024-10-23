@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
+* [2024-10-23, 07:38:17](https://news.ycombinator.com/item?id=41922737) - [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 04:09:42](https://news.ycombinator.com/item?id=41921725) - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
@@ -18,7 +19,6 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:37:15](https://news.ycombinator.com/item?id=41913617) - [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
-* [2024-10-22, 08:21:42](https://news.ycombinator.com/item?id=41912284) - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-22, 05:58:17](https://news.ycombinator.com/item?id=41911575) - [Defender Sound Studio](https://www.zapspace.net/defender_sound/)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
