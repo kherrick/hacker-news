@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 04:09:14](https://news.ycombinator.com/item?id=41921723) - [In a first, Wikipedia takes down article globally after Delhi HC order](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece)
+* [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+* [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
 * [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
 * [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [Migration of the build system to autosetup](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
 * [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
@@ -8,7 +9,6 @@
 * [2024-10-23, 01:00:32](https://news.ycombinator.com/item?id=41920491) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
 * [2024-10-23, 00:48:24](https://news.ycombinator.com/item?id=41920401) - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
 * [2024-10-23, 00:13:37](https://news.ycombinator.com/item?id=41920127) - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
-* [2024-10-22, 23:12:04](https://news.ycombinator.com/item?id=41919717) - [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
 * [2024-10-22, 23:09:37](https://news.ycombinator.com/item?id=41919711) - [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
 * [2024-10-22, 22:28:10](https://news.ycombinator.com/item?id=41919365) - [I Got Dysentary So You Don't Have To](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
