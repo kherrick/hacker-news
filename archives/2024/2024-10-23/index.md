@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 19:35:31](https://news.ycombinator.com/item?id=41928570) - [The Company Helping America's Health Insurers Deny Coverage for Care](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 * [2024-10-23, 18:30:35](https://news.ycombinator.com/item?id=41927942) - [The greenhouse gas footprint of liquefied natural gas (LNG) exported from the US](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ese3.1934)
