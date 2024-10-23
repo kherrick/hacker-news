@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 14:59:21](https://news.ycombinator.com/item?id=41925725) - [LLMs Aren't Thinking, They're Just Counting Votes](https://vishnurnair.substack.com/p/llms-arent-thinking-theyre-just-counting)
 * [2024-10-23, 14:53:24](https://news.ycombinator.com/item?id=41925658) - [Don't use \"click here\" for link text](https://www.dont-click-here.com/)
 * [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 * [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
