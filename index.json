@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41921673"
     ],
     [
-      "SQLite is replacing its canonical build process",
+      "Migration of the build system to autosetup",
       "https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e"
     ]
   ],
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-10-22, 22:28:10",
+      "https://news.ycombinator.com/item?id=41919365"
+    ],
+    [
+      "I Got Dysentary So You Don't Have To",
+      "https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 22:12:15",
       "https://news.ycombinator.com/item?id=41919262"
     ],
@@ -107,16 +117,6 @@
     [
       "Captive Portal IPv6 Support",
       "https://github.com/abdulkader-alrezej/ipv6spot"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 20:36:58",
-      "https://news.ycombinator.com/item?id=41918448"
-    ],
-    [
-      "Show HN: I made a tool for curating and sharing links as lists",
-      "https://snack.xyz/"
     ]
   ],
   [
