@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 11:49:19",
+      "https://news.ycombinator.com/item?id=41923998"
+    ],
+    [
+      "Boeing CEO says the company must fundamentally change as losses surge",
+      "https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 11:33:13",
       "https://news.ycombinator.com/item?id=41923901"
     ],
@@ -67,16 +77,6 @@
     [
       "Adding row polymorphism to Damas-Hindley-Milner",
       "https://bernsteinbear.com/blog/row-poly/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 03:58:31",
-      "https://news.ycombinator.com/item?id=41921673"
-    ],
-    [
-      "Migration of the build system to autosetup",
-      "https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-10-21, 20:15:36",
-      "https://news.ycombinator.com/item?id=41908075"
-    ],
-    [
-      "First images from Euclid are in",
-      "https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 02:30:28",
       "https://news.ycombinator.com/item?id=41900190"
     ],
@@ -297,6 +287,16 @@
     [
       "An Illustrated Guide to Maritime Signal Flags",
       "https://rabbitwaves.ca/site/flags_maritime.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 14:46:58",
+      "https://news.ycombinator.com/item?id=41879930"
+    ],
+    [
+      "Supporting Task Switching with Reinforcement Learning",
+      "https://dl.acm.org/doi/10.1145/3613904.3642063"
     ]
   ]
 ]
