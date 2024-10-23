@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 11:51:22](https://news.ycombinator.com/item?id=41924013) - [Can A.I. Be Blamed for a Teen's Suicide?](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html)
 * [2024-10-23, 11:49:19](https://news.ycombinator.com/item?id=41923998) - [Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
 * [2024-10-23, 11:33:13](https://news.ycombinator.com/item?id=41923901) - [I Had $100k in Debt So I Moved into My Car](https://macleans.ca/society/i-had-100000-in-debt-so-i-moved-into-my-car/)
@@ -15,6 +16,7 @@
 * [2024-10-23, 07:24:38](https://news.ycombinator.com/item?id=41922670) - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
 * [2024-10-23, 07:11:05](https://news.ycombinator.com/item?id=41922605) - [New Claude AI can take over your computer](https://newatlas.com/ai-humanoids/anthropic-claude-computer-use-agent-ai/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
+* [2024-10-23, 06:24:16](https://news.ycombinator.com/item?id=41922356) - [The Incredible Machine (1968)](https://www.youtube.com/watch?v=iwVu2BWLZqA)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
 * [2024-10-23, 04:09:42](https://news.ycombinator.com/item?id=41921725) - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
