@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-23, 07:24:38](https://news.ycombinator.com/item?id=41922670) - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
@@ -9,6 +8,7 @@
 * [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [Migration of the build system to autosetup](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 00:48:24](https://news.ycombinator.com/item?id=41920401) - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
+* [2024-10-23, 00:13:37](https://news.ycombinator.com/item?id=41920127) - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
 * [2024-10-22, 23:09:37](https://news.ycombinator.com/item?id=41919711) - [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
 * [2024-10-22, 22:28:10](https://news.ycombinator.com/item?id=41919365) - [I Got Dysentary So You Don't Have To](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
