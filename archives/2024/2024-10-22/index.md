@@ -49,6 +49,7 @@
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 * [2024-10-22, 12:01:04](https://news.ycombinator.com/item?id=41913403) - [MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
 * [2024-10-22, 11:36:12](https://news.ycombinator.com/item?id=41913276) - [The Journal of Open Source Software](https://joss.theoj.org)
+* [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-22, 10:55:33](https://news.ycombinator.com/item?id=41913057) - [Parks on the Air](https://parksontheair.com/index.html)
 * [2024-10-22, 10:45:43](https://news.ycombinator.com/item?id=41913009) - [Seeing faces in things: A model and dataset for pareidolia](https://mhamilton.net/facesinthings)
 * [2024-10-22, 10:01:24](https://news.ycombinator.com/item?id=41912787) - [MQTT turns 25 (and has taken over the world)](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
