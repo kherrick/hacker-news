@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
+* [2024-10-23, 04:09:42](https://news.ycombinator.com/item?id=41921725) - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
 * [2024-10-23, 04:09:14](https://news.ycombinator.com/item?id=41921723) - [In a first, Wikipedia takes down article globally after Delhi HC order](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece)
 * [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
 * [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [SQLite is replacing its canonical build process](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
