@@ -23,6 +23,7 @@
 * [2024-10-19, 18:09:48](https://news.ycombinator.com/item?id=41889467) - [Implementing neural networks on the \"3 cent\" 8-bit microcontroller](https://cpldcpu.wordpress.com/2024/05/02/machine-learning-mnist-inference-on-the-3-cent-microcontroller/)
 * [2024-10-19, 18:03:32](https://news.ycombinator.com/item?id=41889414) - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
 * [2024-10-19, 17:44:29](https://news.ycombinator.com/item?id=41889284) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
+* [2024-10-19, 17:29:14](https://news.ycombinator.com/item?id=41889155) - [Two examples of hover styles on images](https://alexwlchan.net/2024/hover-states/)
 * [2024-10-19, 17:27:17](https://news.ycombinator.com/item?id=41889140) - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
 * [2024-10-19, 17:19:26](https://news.ycombinator.com/item?id=41889091) - [WireGuard Performance with a Pi Zero (2019)](https://oct8l.gitlab.io/posts/2019/140/wireguard-performance-with-a-pi-zero/)
 * [2024-10-19, 17:17:19](https://news.ycombinator.com/item?id=41889076) - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)

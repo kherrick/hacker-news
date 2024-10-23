@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 02:10:50](https://news.ycombinator.com/item?id=41921045) - [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 01:00:32](https://news.ycombinator.com/item?id=41920491) - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
 * [2024-10-23, 00:48:24](https://news.ycombinator.com/item?id=41920401) - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
 * [2024-10-23, 00:35:21](https://news.ycombinator.com/item?id=41920294) - [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
+* [2024-10-23, 00:13:37](https://news.ycombinator.com/item?id=41920127) - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
