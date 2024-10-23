@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 21:52:32](https://news.ycombinator.com/item?id=41929585) - [Getting Called \"Paid Actor\" by Linus Torvalds](https://typeblog.net/55833/getting-called-paid-actor-by-linus-torvalds)
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 20:25:09](https://news.ycombinator.com/item?id=41928968) - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 * [2024-10-23, 19:35:31](https://news.ycombinator.com/item?id=41928570) - [The Company Helping America's Health Insurers Deny Coverage for Care](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
