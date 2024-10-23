@@ -2,7 +2,6 @@
 
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-* [2024-10-23, 18:30:35](https://news.ycombinator.com/item?id=41927942) - [The greenhouse gas footprint of liquefied natural gas (LNG) exported from the US](https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ese3.1934)
 * [2024-10-23, 18:00:11](https://news.ycombinator.com/item?id=41927624) - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
 * [2024-10-23, 17:44:18](https://news.ycombinator.com/item?id=41927436) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-23, 17:00:21](https://news.ycombinator.com/item?id=41926978) - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
@@ -16,6 +15,7 @@
 * [2024-10-23, 14:50:10](https://news.ycombinator.com/item?id=41925622) - [BazelCon 2024 Recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+* [2024-10-23, 11:39:49](https://news.ycombinator.com/item?id=41923931) - [The global surveillance free-for-all in mobile ad data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
