@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 16:40:25",
+      "https://news.ycombinator.com/item?id=41926745"
+    ],
+    [
+      "Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE",
+      "https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 16:19:31",
       "https://news.ycombinator.com/item?id=41926554"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-10-23, 14:53:24",
-      "https://news.ycombinator.com/item?id=41925658"
-    ],
-    [
-      "Don't use \"click here\" for link text",
-      "https://www.dont-click-here.com/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 14:41:12",
       "https://news.ycombinator.com/item?id=41925511"
     ],
@@ -57,6 +57,16 @@
     [
       "SuperHTML is here to rescue you from syntax errors, and it's FOSS",
       "https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 13:20:30",
+      "https://news.ycombinator.com/item?id=41924804"
+    ],
+    [
+      "Users say T-Mobile must pay for killing \"lifetime\" price lock",
+      "https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "The Dawn of a New Era for Supernova 1987a (2017)",
       "https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 22:12:15",
-      "https://news.ycombinator.com/item?id=41919262"
-    ],
-    [
-      "How DRAM changed the world",
-      "https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world"
     ]
   ],
   [
