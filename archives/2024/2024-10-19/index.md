@@ -50,6 +50,7 @@
 * [2024-10-19, 12:17:15](https://news.ycombinator.com/item?id=41887378) - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
 * [2024-10-19, 12:10:46](https://news.ycombinator.com/item?id=41887360) - [Show HN: I made tool for slicing up samples to Ableton Move presets](https://github.com/alexfedosov/move-tool)
 * [2024-10-19, 12:04:40](https://news.ycombinator.com/item?id=41887346) - [Show HN: TCP \"slow-start\" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
+* [2024-10-19, 11:11:43](https://news.ycombinator.com/item?id=41887153) - [Breaking Bad: How Compilers Break Constant-Time~Implementations](https://arxiv.org/abs/2410.13489)
 * [2024-10-19, 10:59:42](https://news.ycombinator.com/item?id=41887099) - [Zen: Firefox Based Browser](https://zen-browser.app/)
 * [2024-10-19, 10:39:30](https://news.ycombinator.com/item?id=41887011) - [Probabalistic Spin Glass (2022)](https://bytepawn.com/probabilistic-spin-glass-conclusion.html)
 * [2024-10-19, 10:37:32](https://news.ycombinator.com/item?id=41887004) - [S3 as a Git remote and LFS server](https://github.com/awslabs/git-remote-s3)
