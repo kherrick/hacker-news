@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-23, 23:33:28](https://news.ycombinator.com/item?id=41930326) - [The Vision Pro reportedly suspended because of weak demand](https://www.msn.com/en-us/money/markets/the-vision-pro-reportedly-suspended-because-of-weak-demand/ar-AA1sO7bu)
-* [2024-10-23, 22:26:44](https://news.ycombinator.com/item?id=41929826) - [iOS 18.2 Lets EU Users Delete App Store, Safari, Messages, Camera and Photos](https://www.macrumors.com/2024/10/23/ios-18-2-eu-delete-apps/)
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 20:25:09](https://news.ycombinator.com/item?id=41928968) - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
@@ -27,6 +26,7 @@
 * [2024-10-22, 10:45:43](https://news.ycombinator.com/item?id=41913009) - [Seeing faces in things: A model and dataset for pareidolia](https://mhamilton.net/facesinthings)
 * [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-22, 09:29:30](https://news.ycombinator.com/item?id=41912633) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
+* [2024-10-22, 05:02:16](https://news.ycombinator.com/item?id=41911335) - [The Script Creator](https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred)
 * [2024-10-21, 12:27:27](https://news.ycombinator.com/item?id=41903425) - [Bulk optimization of queries in Postgres](https://substack.com/home/post/p-150506520)
 * [2024-10-20, 09:26:48](https://news.ycombinator.com/item?id=41894158) - [DawVert – a DAW project file converter](https://github.com/SatyrDiamond/DawVert)
 * [2024-10-19, 20:42:49](https://news.ycombinator.com/item?id=41890642) - [Shanghai Before the Foreigners](https://jaapgrolleman.com/shanghai-before-the-foreigners/)
