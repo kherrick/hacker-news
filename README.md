@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-23, 11:49:19](https://news.ycombinator.com/item?id=41923998) - [Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
 * [2024-10-23, 11:33:13](https://news.ycombinator.com/item?id=41923901) - [I Had $100k in Debt So I Moved into My Car](https://macleans.ca/society/i-had-100000-in-debt-so-i-moved-into-my-car/)
 * [2024-10-23, 11:31:30](https://news.ycombinator.com/item?id=41923890) - [Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
 * [2024-10-23, 11:03:20](https://news.ycombinator.com/item?id=41923766) - [Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
@@ -7,7 +8,6 @@
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
-* [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [Migration of the build system to autosetup](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-22, 23:09:37](https://news.ycombinator.com/item?id=41919711) - [The Dawn of a New Era for Supernova 1987a (2017)](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
@@ -20,7 +20,6 @@
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [A new JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 12:37:15](https://news.ycombinator.com/item?id=41913617) - [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
-* [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-20, 22:09:46](https://news.ycombinator.com/item?id=41898898) - [Why computational predictive toxicology is hard](https://www.owlposting.com/p/a-primer-on-why-computational-predictive)
 * [2024-10-20, 11:56:31](https://news.ycombinator.com/item?id=41894765) - [Ask HN: What's the most creative 'useless' program you've ever written?](https://news.ycombinator.com/item?id=41894765)
@@ -30,6 +29,7 @@
 * [2024-10-19, 06:32:50](https://news.ycombinator.com/item?id=41886047) - [Implementing Brainfuck in APL](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-18, 20:48:43](https://news.ycombinator.com/item?id=41883365) - [Coreboot port for 486 motherboard (UM8881/6)](https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md)
 * [2024-10-18, 16:08:21](https://news.ycombinator.com/item?id=41880709) - [An Illustrated Guide to Maritime Signal Flags](https://rabbitwaves.ca/site/flags_maritime.html)
+* [2024-10-18, 14:46:58](https://news.ycombinator.com/item?id=41879930) - [Supporting Task Switching with Reinforcement Learning](https://dl.acm.org/doi/10.1145/3613904.3642063)
 
 ## [Archives](archives/index.md)
 
