@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-23, 14:50:10",
+      "https://news.ycombinator.com/item?id=41925622"
+    ],
+    [
+      "BazelCon 2024 Recap",
+      "https://blogsystem5.substack.com/p/bazelcon-2024-recap"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 14:01:07",
       "https://news.ycombinator.com/item?id=41925141"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-10-23, 11:42:02",
+      "https://news.ycombinator.com/item?id=41923945"
+    ],
+    [
+      "TCP Fast Open? Not so fast (2021)",
+      "https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 11:39:49",
       "https://news.ycombinator.com/item?id=41923931"
     ],
@@ -67,6 +87,16 @@
     [
       "Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others",
       "https://blog.hyperknot.com/p/comparing-auth-providers"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 10:29:15",
+      "https://news.ycombinator.com/item?id=41923625"
+    ],
+    [
+      "Probably pay attention to tokenizers",
+      "https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-10-22, 15:21:58",
-      "https://news.ycombinator.com/item?id=41915187"
-    ],
-    [
-      "FTC's rule banning fake online reviews goes into effect",
-      "https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 15:02:46",
       "https://news.ycombinator.com/item?id=41914989"
     ],
@@ -207,16 +227,6 @@
     [
       "A new JSON data type for ClickHouse",
       "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 14:15:54",
-      "https://news.ycombinator.com/item?id=41914544"
-    ],
-    [
-      "Show HN: Rust Web Framework",
-      "https://github.com/levkk/rwf"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Coreboot port for 486 motherboard (UM8881/6)",
       "https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 16:08:21",
-      "https://news.ycombinator.com/item?id=41880709"
-    ],
-    [
-      "An Illustrated Guide to Maritime Signal Flags",
-      "https://rabbitwaves.ca/site/flags_maritime.html"
     ]
   ],
   [
