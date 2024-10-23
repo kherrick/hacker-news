@@ -5,8 +5,48 @@
       "https://news.ycombinator.com/item?id=41926851"
     ],
     [
-      "Wireshark Practical Jokes",
+      "Practical Jokes (2007)",
       "https://wiki.wireshark.org/PracticalJokes"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:50:53",
+      "https://news.ycombinator.com/item?id=41926849"
+    ],
+    [
+      "Lars Tunbjörk documented the rise of alienating online work",
+      "https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:44:01",
+      "https://news.ycombinator.com/item?id=41926770"
+    ],
+    [
+      "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
+      "https://github.com/corbt/agent.exe"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:40:25",
+      "https://news.ycombinator.com/item?id=41926745"
+    ],
+    [
+      "Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE",
+      "https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:31:58",
+      "https://news.ycombinator.com/item?id=41926669"
+    ],
+    [
+      "A DSL for peephole transformation rules of integer operations in the PyPy JIT",
+      "https://pypy.org/posts/2024/10/jit-peephole-dsl.html"
     ]
   ],
   [
@@ -25,8 +65,18 @@
       "https://news.ycombinator.com/item?id=41926472"
     ],
     [
-      "Federal Suit Challenges City's Use of 170+ Cameras for Warrantless Surveillance",
+      "Lawsuit challenges Virginia City's use of cameras for warrantless surveillance",
       "https://ij.org/press-release/federal-lawsuit-challenges-virginia-citys-use-of-over-170-cameras-to-conduct-prolonged-warrantless-surveillance-of-entire-driving-population/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 15:23:12",
+      "https://news.ycombinator.com/item?id=41925982"
+    ],
+    [
+      "The Maker of Ozempic Is Trying to Block Compounded Versions of Its Drug",
+      "https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/"
     ]
   ],
   [
@@ -95,18 +145,8 @@
       "https://news.ycombinator.com/item?id=41923931"
     ],
     [
-      "The Global Surveillance Free-for-All in Mobile Ad Data",
+      "The global surveillance free-for-all in mobile ad data",
       "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 10:35:26",
-      "https://news.ycombinator.com/item?id=41923641"
-    ],
-    [
-      "Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others",
-      "https://blog.hyperknot.com/p/comparing-auth-providers"
     ]
   ],
   [
@@ -147,16 +187,6 @@
     [
       "Adding row polymorphism to Damas-Hindley-Milner",
       "https://bernsteinbear.com/blog/row-poly/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 01:13:28",
-      "https://news.ycombinator.com/item?id=41920591"
-    ],
-    [
-      "Solving the Mystery of ARM7TDMI Multiply Carry Flag",
-      "https://bmchtech.github.io/post/multiply/"
     ]
   ],
   [
@@ -221,22 +251,22 @@
   ],
   [
     [
-      "2024-10-22, 15:02:46",
-      "https://news.ycombinator.com/item?id=41914989"
-    ],
-    [
-      "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-      "https://www.anthropic.com/news/3-5-models-and-computer-use"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 14:47:00",
       "https://news.ycombinator.com/item?id=41914845"
     ],
     [
       "A new JSON data type for ClickHouse",
       "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 04:08:02",
+      "https://news.ycombinator.com/item?id=41911099"
+    ],
+    [
+      "I got dysentery in a human challenge trial",
+      "https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/"
     ]
   ],
   [
@@ -251,12 +281,12 @@
   ],
   [
     [
-      "2024-10-19, 06:32:50",
-      "https://news.ycombinator.com/item?id=41886047"
+      "2024-10-20, 22:11:21",
+      "https://news.ycombinator.com/item?id=41898910"
     ],
     [
-      "Implementing Brainfuck in APL",
-      "https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html"
+      "Show HN: Semantic Macros Text Editor",
+      "https://samtxt.samrawal.com/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "What makes a person seem wise?",
       "https://theconversation.com/what-makes-a-person-seem-wise-global-study-finds-that-cultures-do-differ-but-not-as-much-as-youd-think-238808"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 20:48:43",
-      "https://news.ycombinator.com/item?id=41883365"
-    ],
-    [
-      "Coreboot port for 486 motherboard (UM8881/6)",
-      "https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 16:08:21",
-      "https://news.ycombinator.com/item?id=41880709"
-    ],
-    [
-      "An Illustrated Guide to Maritime Signal Flags",
-      "https://rabbitwaves.ca/site/flags_maritime.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 14:46:58",
-      "https://news.ycombinator.com/item?id=41879930"
-    ],
-    [
-      "Supporting Task Switching with Reinforcement Learning",
-      "https://dl.acm.org/doi/10.1145/3613904.3642063"
     ]
   ]
 ]
