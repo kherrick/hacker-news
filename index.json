@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-23, 17:44:18",
+      "https://news.ycombinator.com/item?id=41927436"
+    ],
+    [
+      "My NumPy year: Creating a DType for the next generation of scientific computing",
+      "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 17:28:39",
+      "https://news.ycombinator.com/item?id=41927286"
+    ],
+    [
+      "Show HN: Nix at work: FlakeHub Cache and private flakes",
+      "https://determinate.systems/posts/flakehub-cache-and-private-flakes/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 17:17:05",
       "https://news.ycombinator.com/item?id=41927168"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-10-23, 16:40:25",
-      "https://news.ycombinator.com/item?id=41926745"
-    ],
-    [
-      "Leveraging Class E address space to mitigate IPv4 exhaustion issues in GKE",
-      "https://cloud.google.com/blog/products/containers-kubernetes/how-class-e-addresses-solve-for-ip-address-exhaustion-in-gke/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 16:31:58",
       "https://news.ycombinator.com/item?id=41926669"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-10-23, 15:23:12",
-      "https://news.ycombinator.com/item?id=41925982"
-    ],
-    [
-      "The Maker of Ozempic Is Trying to Block Compounded Versions of Its Drug",
-      "https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 14:52:34",
       "https://news.ycombinator.com/item?id=41925644"
     ],
@@ -121,32 +121,12 @@
   ],
   [
     [
-      "2024-10-23, 14:50:10",
-      "https://news.ycombinator.com/item?id=41925622"
+      "2024-10-23, 13:33:49",
+      "https://news.ycombinator.com/item?id=41924917"
     ],
     [
-      "BazelCon 2024 Recap",
-      "https://blogsystem5.substack.com/p/bazelcon-2024-recap"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 14:01:07",
-      "https://news.ycombinator.com/item?id=41925141"
-    ],
-    [
-      "SuperHTML is here to rescue you from syntax errors, and it's FOSS",
-      "https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 13:20:17",
-      "https://news.ycombinator.com/item?id=41924801"
-    ],
-    [
-      "Carbon Sequestration by Recycling Cement, Aggregates, and Concrete",
-      "https://www.mdpi.com/1996-1944/17/20/5020"
+      "Self-Documenting Code",
+      "https://lackofimagination.org/2024/10/self-documenting-code/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-10-23, 08:13:47",
+      "https://news.ycombinator.com/item?id=41922928"
+    ],
+    [
+      "What happens when you make a move in lichess.org?",
+      "https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 07:00:15",
       "https://news.ycombinator.com/item?id=41922556"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-10-22, 20:58:55",
-      "https://news.ycombinator.com/item?id=41918626"
-    ],
-    [
-      "Her Majesty’s Rat-Catcher (2013)",
-      "https://www.laphamsquarterly.org/roundtable/her-majestys-rat-catcher"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 18:11:03",
       "https://news.ycombinator.com/item?id=41917016"
     ],
@@ -251,12 +231,52 @@
   ],
   [
     [
+      "2024-10-22, 10:55:33",
+      "https://news.ycombinator.com/item?id=41913057"
+    ],
+    [
+      "Parks on the Air",
+      "https://parksontheair.com/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 09:29:30",
+      "https://news.ycombinator.com/item?id=41912633"
+    ],
+    [
+      "Taming the buck with a Type III compensator",
+      "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 06:35:04",
+      "https://news.ycombinator.com/item?id=41911758"
+    ],
+    [
+      "The brain collector: a scientist unravelling the mysteries of grey matter",
+      "https://www.theguardian.com/science/2024/oct/22/ancient-brain-collector-alexandra-morton-hayward-heslington"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 05:43:18",
       "https://news.ycombinator.com/item?id=41911513"
     ],
     [
       "Species in Pieces",
       "http://species-in-pieces.com"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 05:02:16",
+      "https://news.ycombinator.com/item?id=41911335"
+    ],
+    [
+      "The Script Creator",
+      "https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Solving Sudoku in Python Packaging",
       "https://github.com/konstin/sudoku-in-python-packaging"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 22:11:21",
-      "https://news.ycombinator.com/item?id=41898910"
-    ],
-    [
-      "Show HN: Semantic Macros Text Editor",
-      "https://samtxt.samrawal.com/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 02:29:00",
-      "https://news.ycombinator.com/item?id=41885192"
-    ],
-    [
-      "What makes a person seem wise?",
-      "https://theconversation.com/what-makes-a-person-seem-wise-global-study-finds-that-cultures-do-differ-but-not-as-much-as-youd-think-238808"
     ]
   ]
 ]
