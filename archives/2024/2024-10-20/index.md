@@ -12,6 +12,7 @@
 * [2024-10-20, 22:41:24](https://news.ycombinator.com/item?id=41899085) - [Cuba Can't Keep the Lights On](https://www.wsj.com/opinion/cuba-cant-keep-the-lights-on-electricity-grid-blackouts-27b4ebe5)
 * [2024-10-20, 22:31:43](https://news.ycombinator.com/item?id=41899031) - [Twitch blocks creating new accounts from Israeli IP's](https://twitter.com/dancantstream/status/1847991191221989620)
 * [2024-10-20, 22:11:21](https://news.ycombinator.com/item?id=41898910) - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
+* [2024-10-20, 22:09:46](https://news.ycombinator.com/item?id=41898898) - [Why computational predictive toxicology is hard](https://www.owlposting.com/p/a-primer-on-why-computational-predictive)
 * [2024-10-20, 21:44:08](https://news.ycombinator.com/item?id=41898736) - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
 * [2024-10-20, 21:42:27](https://news.ycombinator.com/item?id=41898723) - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 * [2024-10-20, 21:25:29](https://news.ycombinator.com/item?id=41898607) - [Performance of popular microcontroller boards running uLisp](http://www.ulisp.com/show?36M3)
