@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 20:01:14](https://news.ycombinator.com/item?id=41939158) - [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)
+* [2024-10-24, 19:59:21](https://news.ycombinator.com/item?id=41939142) - [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
 * [2024-10-24, 19:52:08](https://news.ycombinator.com/item?id=41939077) - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
 * [2024-10-24, 19:46:58](https://news.ycombinator.com/item?id=41939027) - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 * [2024-10-24, 19:31:12](https://news.ycombinator.com/item?id=41938888) - [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
 * [2024-10-24, 19:29:57](https://news.ycombinator.com/item?id=41938876) - [Serge Semin's Goodbye to the Linux Kernel](https://lore.kernel.org/lkml/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
+* [2024-10-24, 19:23:38](https://news.ycombinator.com/item?id=41938819) - [Lingo: A Go micro language framework for building Domain Specific Languages](https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/)
 * [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 * [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
 * [2024-10-24, 18:30:30](https://news.ycombinator.com/item?id=41938209) - [Many people overestimate the percentage of immigrants in their country](https://ourworldindata.org/data-insights/many-people-overestimate-the-percentage-of-immigrants-in-their-country)
@@ -51,6 +54,7 @@
 * [2024-10-24, 08:43:42](https://news.ycombinator.com/item?id=41933472) - [Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine](https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/)
 * [2024-10-24, 08:29:39](https://news.ycombinator.com/item?id=41933364) - [Netflix Shuts Down Its AAA Game Studio](https://www.gamefile.news/p/netflix-team-blue-socal-studio)
 * [2024-10-24, 07:46:06](https://news.ycombinator.com/item?id=41933078) - [Show HN: Microsoft Teams Ticketing System – Ticketing as a Service](https://www.teamswork.app/best-microsoft-teams-ticketing-service-desk)
+* [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
 * [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 04:00:06](https://news.ycombinator.com/item?id=41931773) - [Why I'm Leaving OpenAI and What I'm Doing Next](https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im)
