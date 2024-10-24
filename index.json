@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-10-24, 02:12:43",
+      "https://news.ycombinator.com/item?id=41931244"
+    ],
+    [
+      "How do merging supermassive black holes pass the final parsec?",
+      "https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 01:31:16",
       "https://news.ycombinator.com/item?id=41931035"
     ],
@@ -87,6 +97,16 @@
     [
       "Show HN: RF Hunter – Find hidden cameras and other devices",
       "https://github.com/RamboRogers/rfhunter"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 22:26:44",
+      "https://news.ycombinator.com/item?id=41929826"
+    ],
+    [
+      "iOS 18.2 Lets EU Users Delete App Store, Safari, Messages, Camera and Photos",
+      "https://www.macrumors.com/2024/10/23/ios-18-2-eu-delete-apps/"
     ]
   ],
   [
@@ -147,26 +167,6 @@
     [
       "Show HN: Open-source low-code email editor",
       "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:31:58",
-      "https://news.ycombinator.com/item?id=41926669"
-    ],
-    [
-      "A DSL for peephole transformation rules of integer operations in the PyPy JIT",
-      "https://pypy.org/posts/2024/10/jit-peephole-dsl.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 14:52:34",
-      "https://news.ycombinator.com/item?id=41925644"
-    ],
-    [
-      "Show HN: I built a task manager that separates \"do\" and \"due\" dates",
-      "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
     ]
   ],
   [
@@ -271,12 +271,22 @@
   ],
   [
     [
-      "2024-10-21, 08:12:09",
-      "https://news.ycombinator.com/item?id=41901826"
+      "2024-10-21, 12:00:51",
+      "https://news.ycombinator.com/item?id=41903192"
     ],
     [
-      "Implementing attributes for plain text using subranges like Emacs",
-      "https://akkartik.name/post/2024-10-20-devlog"
+      "Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results",
+      "http://www.arxiv.org/pdf/2410.12043"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 02:07:31",
+      "https://news.ycombinator.com/item?id=41900117"
+    ],
+    [
+      "How I Got a Digital Nomad Visa for Japan",
+      "https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What Color is Your Function? (2015)",
       "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 13:35:21",
-      "https://news.ycombinator.com/item?id=41895278"
-    ],
-    [
-      "Irreproducible Results (2011)",
-      "https://kk.org/thetechnium/irreproducible/"
     ]
   ]
 ]
