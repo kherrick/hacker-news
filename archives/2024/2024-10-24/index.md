@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 20:19:48](https://news.ycombinator.com/item?id=41939318) - [Boeing 787s must be reset every 51 days or 'misleading data' is shown to pilots](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 * [2024-10-24, 20:01:14](https://news.ycombinator.com/item?id=41939158) - [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)
 * [2024-10-24, 19:59:21](https://news.ycombinator.com/item?id=41939142) - [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
 * [2024-10-24, 19:52:08](https://news.ycombinator.com/item?id=41939077) - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)

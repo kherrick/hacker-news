@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-24, 20:19:48](https://news.ycombinator.com/item?id=41939318) - [Boeing 787s must be reset every 51 days or 'misleading data' is shown to pilots](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 * [2024-10-24, 20:01:14](https://news.ycombinator.com/item?id=41939158) - [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)
 * [2024-10-24, 19:59:21](https://news.ycombinator.com/item?id=41939142) - [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
 * [2024-10-24, 19:52:08](https://news.ycombinator.com/item?id=41939077) - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
@@ -29,7 +30,6 @@
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
 * [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
-* [2024-10-19, 19:26:14](https://news.ycombinator.com/item?id=41890048) - [Nonlinear Schrödinger numerical simulation in 3D](https://marl0ny.github.io/split-operator-simulations/js/3d.html)
 
 ## [Archives](archives/index.md)
 
