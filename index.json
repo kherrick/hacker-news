@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-23, 23:33:28",
-      "https://news.ycombinator.com/item?id=41930326"
+      "2024-10-24, 00:07:31",
+      "https://news.ycombinator.com/item?id=41930523"
     ],
     [
-      "The Vision Pro reportedly suspended because of weak demand",
-      "https://www.msn.com/en-us/money/markets/the-vision-pro-reportedly-suspended-because-of-weak-demand/ar-AA1sO7bu"
+      "After 16 years of development, Postbox Inc. is winding down its operations",
+      "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 00:06:35",
+      "https://news.ycombinator.com/item?id=41930517"
+    ],
+    [
+      "Tesla has been testing a robotaxi service in the Bay Area for most of the year",
+      "https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees"
     ]
   ],
   [
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-10-23, 21:40:28",
+      "https://news.ycombinator.com/item?id=41929505"
+    ],
+    [
+      "It has been [33] days since the last Hubris kernel bug",
+      "https://hubris.oxide.computer/bugs/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 20:52:13",
       "https://news.ycombinator.com/item?id=41929174"
     ],
     [
       "Everything I built with Claude Artifacts this week",
       "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 20:25:09",
-      "https://news.ycombinator.com/item?id=41928968"
-    ],
-    [
-      "Post-postal: What did we lose when we stopped writing letters?",
-      "https://resobscura.substack.com/p/post-postal"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Goldman and Apple 'illegally sidestepped' obligations to credit-card customers",
       "https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:57:25",
-      "https://news.ycombinator.com/item?id=41926942"
-    ],
-    [
-      "GitButler now supports first class conflicts, making rebasing less annoying",
-      "https://blog.gitbutler.com/fearless-rebasing/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-10-22, 05:02:16",
-      "https://news.ycombinator.com/item?id=41911335"
-    ],
-    [
-      "The Script Creator",
-      "https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 12:27:27",
       "https://news.ycombinator.com/item?id=41903425"
     ],
     [
       "Bulk optimization of queries in Postgres",
       "https://substack.com/home/post/p-150506520"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 13:35:21",
+      "https://news.ycombinator.com/item?id=41895278"
+    ],
+    [
+      "Irreproducible Results",
+      "https://kk.org/thetechnium/irreproducible/"
     ]
   ],
   [
