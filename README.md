@@ -9,7 +9,6 @@
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-24, 00:07:31](https://news.ycombinator.com/item?id=41930523) - [Postbox has been acquired by eM Client](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
-* [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 * [2024-10-23, 16:31:58](https://news.ycombinator.com/item?id=41926669) - [A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
@@ -29,6 +28,7 @@
 * [2024-10-21, 08:12:09](https://news.ycombinator.com/item?id=41901826) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-21, 02:07:31](https://news.ycombinator.com/item?id=41900117) - [How I Got a Digital Nomad Visa for Japan](https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan)
+* [2024-10-20, 22:23:57](https://news.ycombinator.com/item?id=41898986) - [GPT-based translator for large pptx files](https://news.ycombinator.com/item?id=41898986)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results (2011)](https://kk.org/thetechnium/irreproducible/)
 
 ## [Archives](archives/index.md)
