@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=41937815"
     ],
     [
-      "Zigler: Zig Nifs in Elixir",
+      "Zigler: Zig NIFs in Elixir",
       "https://github.com/E-xyza/zigler"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41937664"
     ],
     [
-      "Security Research on Private Cloud Compute",
+      "Security research on Private Cloud Compute",
       "https://security.apple.com/blog/pcc-security-research/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41937443"
     ],
     [
-      "The Lion of St. Mark's Square in Venice Is Chinese: Isotopic Analyses Confirm It",
+      "The Lion of St. Mark's Square in Venice Is Chinese",
       "https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/"
     ]
   ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-10-23, 10:46:49",
-      "https://news.ycombinator.com/item?id=41923693"
-    ],
-    [
-      "Building Document-Centric, CRDT-Native Editors",
-      "https://blocksuite.io/blog/document-centric.html"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 06:51:40",
       "https://news.ycombinator.com/item?id=41922503"
     ],
@@ -297,6 +287,16 @@
     [
       "Data Lifeboat",
       "https://www.flickr.org/programs/content-mobility/data-lifeboat/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 19:26:14",
+      "https://news.ycombinator.com/item?id=41890048"
+    ],
+    [
+      "Nonlinear Schrödinger numerical simulation in 3D",
+      "https://marl0ny.github.io/split-operator-simulations/js/3d.html"
     ]
   ]
 ]
