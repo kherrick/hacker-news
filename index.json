@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41939189"
     ],
     [
-      "Quit Social Media",
+      "Quit Social Media (2016)",
       "https://calnewport.com/quit-social-media/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41938831"
     ],
     [
-      "Brush – a new super compatible Gaussian splatting engine in Rust",
+      "Brush – A new compatible Gaussian splatting engine",
       "https://github.com/ArthurBrussee/brush"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "Quantized Llama models with increased speed and a reduced memory footprint",
       "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 18:31:38",
+      "https://news.ycombinator.com/item?id=41938220"
+    ],
+    [
+      "BYD EV teardown in Japan reveals secrets to its affordability",
+      "https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-10-24, 16:51:32",
-      "https://news.ycombinator.com/item?id=41937289"
-    ],
-    [
-      "Throw more AI at your problems",
-      "https://frontierai.substack.com/p/throw-more-ai-at-your-problems"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 16:43:27",
       "https://news.ycombinator.com/item?id=41937218"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-10-24, 00:21:36",
-      "https://news.ycombinator.com/item?id=41930628"
-    ],
-    [
-      "Show HN: RF Hunter – Find hidden cameras and other devices",
-      "https://github.com/RamboRogers/rfhunter"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 21:30:02",
       "https://news.ycombinator.com/item?id=41929412"
     ],
     [
       "Calculating the norm of a complex number",
       "https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 13:33:49",
+      "https://news.ycombinator.com/item?id=41924917"
+    ],
+    [
+      "Self-Documenting Code",
+      "https://lackofimagination.org/2024/10/self-documenting-code/"
     ]
   ],
   [
