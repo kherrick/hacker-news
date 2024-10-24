@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 17:36:23](https://news.ycombinator.com/item?id=41937666) - [Cable companies ask 5th Circuit to block FTC's click-to-cancel rule](https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/)
+* [2024-10-24, 17:28:28](https://news.ycombinator.com/item?id=41937591) - [React Native – New Architecture is here](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
 * [2024-10-24, 17:20:03](https://news.ycombinator.com/item?id=41937531) - [Ozempic linked to lower Alzheimer's risk in people with Type 2 diabetes](https://www.nbcnews.com/health/health-news/ozempic-linked-lower-alzheimers-risk-people-type-2-diabetes-rcna176821)
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese: Isotopic Analyses Confirm It](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 17:00:56](https://news.ycombinator.com/item?id=41937383) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
 * [2024-10-24, 16:37:41](https://news.ycombinator.com/item?id=41937162) - [DNA stores data in bits after epigenetic upgrade](https://www.nature.com/articles/d41586-024-03443-w)
 * [2024-10-24, 16:15:15](https://news.ycombinator.com/item?id=41936939) - [Bay Area cops are getting a new Siri-type tool for fighting sideshows](https://www.sfgate.com/tech/article/bay-area-cops-get-sideshow-tool-flock-safety-19858497.php)
+* [2024-10-24, 16:08:34](https://news.ycombinator.com/item?id=41936890) - [The Rise and Fall of IQ: The Cognitive Divide](https://onepercentrule.substack.com/p/the-rise-and-fall-of-iq-the-cognitive)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
 * [2024-10-24, 15:45:28](https://news.ycombinator.com/item?id=41936688) - [The U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics](https://www.404media.co/inside-the-u-s-government-bought-tool-that-can-track-phones-at-abortion-clinics/)
 * [2024-10-24, 15:30:55](https://news.ycombinator.com/item?id=41936527) - [Uber, Lyft drivers block Manhattan traffic to protest lockouts](https://www.amny.com/transit/uber-lyft-drivers-block-traffic-lockouts/)
