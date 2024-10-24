@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 19:52:08](https://news.ycombinator.com/item?id=41939077) - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
 * [2024-10-24, 19:46:58](https://news.ycombinator.com/item?id=41939027) - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 * [2024-10-24, 19:31:12](https://news.ycombinator.com/item?id=41938888) - [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
+* [2024-10-24, 19:29:57](https://news.ycombinator.com/item?id=41938876) - [Serge Semin's Goodbye to the Linux Kernel](https://lore.kernel.org/lkml/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
 * [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 * [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
