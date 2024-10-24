@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-24, 15:30:55",
-      "https://news.ycombinator.com/item?id=41936527"
+      "2024-10-24, 15:51:21",
+      "https://news.ycombinator.com/item?id=41936745"
     ],
     [
-      "Uber, Lyft drivers block Manhattan traffic to protest lockouts",
-      "https://www.amny.com/transit/uber-lyft-drivers-block-traffic-lockouts/"
+      "Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations",
+      "https://news.ycombinator.com/item?id=41936745"
     ]
   ],
   [
@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2024-10-24, 12:15:27",
-      "https://news.ycombinator.com/item?id=41934746"
-    ],
-    [
-      "Show HN: 2048 turned 10 this year, I built an updated version to celebrate",
-      "https://play2048.co"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 12:01:16",
       "https://news.ycombinator.com/item?id=41934674"
     ],
     [
       "CodeCrafters (YC S22) is hiring a full-stack engineer",
       "https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 11:39:28",
-      "https://news.ycombinator.com/item?id=41934542"
-    ],
-    [
-      "How one engineer beat the ban on home computers in socialist Yugoslavia",
-      "https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-10-23, 14:52:34",
+      "https://news.ycombinator.com/item?id=41925644"
+    ],
+    [
+      "Show HN: I built a task manager that separates \"do\" and \"due\" dates",
+      "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 13:18:17",
       "https://news.ycombinator.com/item?id=41924787"
     ],
@@ -237,6 +227,16 @@
     [
       "Probably pay attention to tokenizers",
       "https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 09:44:36",
+      "https://news.ycombinator.com/item?id=41923429"
+    ],
+    [
+      "Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure",
+      "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"
     ]
   ],
   [
