@@ -89,6 +89,7 @@
 * [2024-10-21, 02:32:41](https://news.ycombinator.com/item?id=41900203) - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
 * [2024-10-21, 02:30:28](https://news.ycombinator.com/item?id=41900190) - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-21, 02:12:24](https://news.ycombinator.com/item?id=41900133) - [Werckmeister Temperment](https://en.wikipedia.org/wiki/Werckmeister_temperament)
+* [2024-10-21, 02:07:31](https://news.ycombinator.com/item?id=41900117) - [How I Got a Digital Nomad Visa for Japan](https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan)
 * [2024-10-21, 01:23:56](https://news.ycombinator.com/item?id=41899912) - [Show HN: Doom Inside an SVG](https://www.chrisdalke.com/doom.svg)
 * [2024-10-21, 01:17:14](https://news.ycombinator.com/item?id=41899873) - [3D-Printed Active Electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 * [2024-10-21, 01:06:11](https://news.ycombinator.com/item?id=41899828) - [Memory Safety Without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)

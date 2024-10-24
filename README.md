@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
 * [2024-10-24, 02:39:23](https://news.ycombinator.com/item?id=41931392) - [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
 * [2024-10-24, 02:12:43](https://news.ycombinator.com/item?id=41931244) - [How do merging supermassive black holes pass the final parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
 * [2024-10-24, 01:31:16](https://news.ycombinator.com/item?id=41931035) - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
-* [2024-10-24, 01:19:22](https://news.ycombinator.com/item?id=41930967) - [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
 * [2024-10-24, 00:43:36](https://news.ycombinator.com/item?id=41930772) - [Rust in enterprise kernels](https://lwn.net/Articles/993337/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-24, 00:07:31](https://news.ycombinator.com/item?id=41930523) - [Postbox has been acquired by eM Client](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
@@ -19,6 +17,7 @@
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple may stop producing Vision Pro by the end of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+* [2024-10-23, 10:33:18](https://news.ycombinator.com/item?id=41923635) - [Ask HN: Website with 6^16 subpages and 80k+ daily bots](https://news.ycombinator.com/item?id=41923635)
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
@@ -29,6 +28,7 @@
 * [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-21, 08:12:09](https://news.ycombinator.com/item?id=41901826) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad](https://osa1.net/posts/2024-10-09-oop-good.html)
+* [2024-10-21, 02:07:31](https://news.ycombinator.com/item?id=41900117) - [How I Got a Digital Nomad Visa for Japan](https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results (2011)](https://kk.org/thetechnium/irreproducible/)
 
 ## [Archives](archives/index.md)
