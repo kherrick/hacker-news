@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 08:43:42](https://news.ycombinator.com/item?id=41933472) - [Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine](https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/)
+* [2024-10-24, 08:29:39](https://news.ycombinator.com/item?id=41933364) - [Netflix Shuts Down Its AAA Game Studio](https://www.gamefile.news/p/netflix-team-blue-socal-studio)
 * [2024-10-24, 07:46:06](https://news.ycombinator.com/item?id=41933078) - [Show HN: Microsoft Teams Ticketing System – Ticketing as a Service](https://www.teamswork.app/best-microsoft-teams-ticketing-service-desk)
+* [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 04:00:06](https://news.ycombinator.com/item?id=41931773) - [Why I'm Leaving OpenAI and What I'm Doing Next](https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
