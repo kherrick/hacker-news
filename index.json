@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-24, 04:00:06",
-      "https://news.ycombinator.com/item?id=41931773"
-    ],
-    [
-      "Why I'm Leaving OpenAI and What I'm Doing Next",
-      "https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 03:18:23",
       "https://news.ycombinator.com/item?id=41931572"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=41931392"
     ],
     [
-      "TSMC Cuts Off Client After Discovering Chips Sent to Huawei",
+      "TSMC cuts off client after discovering chips sent to Huawei",
       "https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41931244"
     ],
     [
-      "How Do Merging Supermassive Black Holes Pass the Final Parsec?",
+      "How do merging supermassive black holes pass the final parsec?",
       "https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=41930772"
     ],
     [
-      "Rust in Enterprise Kernels",
+      "Rust in enterprise kernels",
       "https://lwn.net/Articles/993337/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41930628"
     ],
     [
-      "RF Hunter, find hidden cameras and other devices",
+      "Show HN: RF Hunter – Find hidden cameras and other devices",
       "https://github.com/RamboRogers/rfhunter"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=41930523"
     ],
     [
-      "After 16 years of development, Postbox Inc. is winding down its operations",
+      "Postbox has been acquired by eM Client",
       "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client"
     ]
   ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2024-10-21, 12:27:27",
+      "https://news.ycombinator.com/item?id=41903425"
+    ],
+    [
+      "Bulk optimization of queries in Postgres",
+      "https://substack.com/home/post/p-150506520"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 13:35:21",
       "https://news.ycombinator.com/item?id=41895278"
     ],
     [
-      "Irreproducible Results",
+      "Irreproducible Results (2011)",
       "https://kk.org/thetechnium/irreproducible/"
     ]
   ]
