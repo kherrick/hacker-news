@@ -54,6 +54,7 @@
 * [2024-10-21, 14:12:15](https://news.ycombinator.com/item?id=41904385) - [VPTQ: Extreme low-bit Quantization for real LLMs](https://github.com/microsoft/VPTQ)
 * [2024-10-21, 14:09:14](https://news.ycombinator.com/item?id=41904346) - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
 * [2024-10-21, 14:00:54](https://news.ycombinator.com/item?id=41904250) - [Dear CTO: it's not 2015 anymore](https://blog.godfreyai.com/p/dear-cto-its-not-2015-anymore)
+* [2024-10-21, 13:52:06](https://news.ycombinator.com/item?id=41904158) - [Show HN: The Best Free Online Teleprompter?](https://iphoneteleprompter.com/)
 * [2024-10-21, 13:50:55](https://news.ycombinator.com/item?id=41904147) - [Big browsers are about to throw a wrench in your ad-free paradise](https://www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/)
 * [2024-10-21, 13:19:30](https://news.ycombinator.com/item?id=41903879) - [Toyota's Betting Big on Electric Air Taxis](https://www.thedrive.com/news/toyotas-betting-big-on-electric-air-taxis)
 * [2024-10-21, 13:18:08](https://news.ycombinator.com/item?id=41903864) - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)

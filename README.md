@@ -24,12 +24,12 @@
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 12:15:27](https://news.ycombinator.com/item?id=41934746) - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
 * [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
-* [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 13:33:49](https://news.ycombinator.com/item?id=41924917) - [Self-Documenting Code](https://lackofimagination.org/2024/10/self-documenting-code/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
 * [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
+* [2024-10-21, 13:52:06](https://news.ycombinator.com/item?id=41904158) - [Show HN: The Best Free Online Teleprompter?](https://iphoneteleprompter.com/)
 
 ## [Archives](archives/index.md)
 
