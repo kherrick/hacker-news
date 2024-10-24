@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-10-24, 18:15:27",
+      "https://news.ycombinator.com/item?id=41938051"
+    ],
+    [
+      "Claude Computer Use – Is Vision the Ultimate API?",
+      "https://www.thariq.io/blog/claudecomputer/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 17:53:26",
+      "https://news.ycombinator.com/item?id=41937815"
+    ],
+    [
+      "Zigler: Zig Nifs in Elixir",
+      "https://github.com/E-xyza/zigler"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 17:50:48",
+      "https://news.ycombinator.com/item?id=41937793"
+    ],
+    [
+      "APL Cultivations",
+      "https://xpqz.github.io/cultivations/Intro.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 17:49:30",
+      "https://news.ycombinator.com/item?id=41937780"
+    ],
+    [
+      "Dynamic Models of Gentrification",
+      "https://arxiv.org/abs/2410.18004"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 17:36:23",
       "https://news.ycombinator.com/item?id=41937666"
     ],
@@ -11,11 +51,21 @@
   ],
   [
     [
+      "2024-10-24, 17:36:06",
+      "https://news.ycombinator.com/item?id=41937664"
+    ],
+    [
+      "Security Research on Private Cloud Compute",
+      "https://security.apple.com/blog/pcc-security-research/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 17:28:28",
       "https://news.ycombinator.com/item?id=41937591"
     ],
     [
-      "React Native – New Architecture is here",
+      "New Architecture is here",
       "https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here"
     ]
   ],
@@ -71,22 +121,32 @@
   ],
   [
     [
-      "2024-10-24, 16:15:15",
-      "https://news.ycombinator.com/item?id=41936939"
+      "2024-10-24, 16:51:32",
+      "https://news.ycombinator.com/item?id=41937289"
     ],
     [
-      "Bay Area cops are getting a new Siri-type tool for fighting sideshows",
-      "https://www.sfgate.com/tech/article/bay-area-cops-get-sideshow-tool-flock-safety-19858497.php"
+      "Throw more AI at your problems",
+      "https://frontierai.substack.com/p/throw-more-ai-at-your-problems"
     ]
   ],
   [
     [
-      "2024-10-24, 16:08:34",
-      "https://news.ycombinator.com/item?id=41936890"
+      "2024-10-24, 16:43:27",
+      "https://news.ycombinator.com/item?id=41937218"
     ],
     [
-      "The Rise and Fall of IQ: The Cognitive Divide",
-      "https://onepercentrule.substack.com/p/the-rise-and-fall-of-iq-the-cognitive"
+      "Why did you write a new RTOS for CHERIoT?",
+      "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 16:26:08",
+      "https://news.ycombinator.com/item?id=41937046"
+    ],
+    [
+      "Self-Hosting Marketing Automation Software: A Guide",
+      "https://www.laudspeaker.com/post/self-hosting-marketing-automation-software-a-guide"
     ]
   ],
   [
@@ -96,7 +156,7 @@
     ],
     [
       "Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations",
-      "https://news.ycombinator.com/item?id=41936745"
+      "https://github.com/Skyvern-AI/Skyvern"
     ]
   ],
   [
@@ -115,7 +175,7 @@
       "https://news.ycombinator.com/item?id=41936001"
     ],
     [
-      "JetBrains Rider is now free for non-commercial use",
+      "Rider is now free for non-commercial use",
       "https://www.jetbrains.com/rider/"
     ]
   ],
@@ -131,32 +191,12 @@
   ],
   [
     [
-      "2024-10-24, 13:12:13",
-      "https://news.ycombinator.com/item?id=41935166"
+      "2024-10-24, 12:15:27",
+      "https://news.ycombinator.com/item?id=41934746"
     ],
     [
-      "Show HN: Which Animal Shares Your Body Fat Percentage?",
-      "https://animalbodyfatmatch.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 07:11:45",
-      "https://news.ycombinator.com/item?id=41932831"
-    ],
-    [
-      "A field guide to the central, creeping section of the San Andreas Fault (2006)",
-      "https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 03:18:23",
-      "https://news.ycombinator.com/item?id=41931572"
-    ],
-    [
-      "AWS data center latencies, visualized",
-      "https://benjdd.com/aws/"
+      "Show HN: 2048 turned 10 this year, I built an updated version to celebrate",
+      "https://play2048.co"
     ]
   ],
   [
@@ -167,16 +207,6 @@
     [
       "Pretty.c",
       "https://github.com/aartaka/pretty.c"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 01:31:16",
-      "https://news.ycombinator.com/item?id=41931035"
-    ],
-    [
-      "NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch",
-      "https://netguard.me/"
     ]
   ],
   [
@@ -211,22 +241,22 @@
   ],
   [
     [
-      "2024-10-23, 22:24:21",
-      "https://news.ycombinator.com/item?id=41929804"
-    ],
-    [
-      "Show HN: Wall-mounted diffusion mirror that turns reflections into paintings",
-      "https://www.matthieulc.com/posts/pablonet/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 21:31:02",
       "https://news.ycombinator.com/item?id=41929424"
     ],
     [
       "Sinusoidal Sunlight",
       "https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 21:30:02",
+      "https://news.ycombinator.com/item?id=41929412"
+    ],
+    [
+      "Calculating the norm of a complex number",
+      "https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-10-23, 19:31:51",
-      "https://news.ycombinator.com/item?id=41928529"
+      "2024-10-23, 11:00:15",
+      "https://news.ycombinator.com/item?id=41923753"
     ],
     [
-      "Playstation Vita Architecture (Part 1)",
-      "https://www.copetti.org/writings/consoles/playstation-vita/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 10:46:49",
-      "https://news.ycombinator.com/item?id=41923693"
-    ],
-    [
-      "Building Document-Centric, CRDT-Native Editors",
-      "https://blocksuite.io/blog/document-centric.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 08:13:47",
-      "https://news.ycombinator.com/item?id=41922928"
-    ],
-    [
-      "What happens when you make a move in lichess.org?",
-      "https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"
+      "Never Missing the Train Again",
+      "https://lilymara.xyz/posts/2024/01/transit-kindle/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Data Lifeboat",
       "https://www.flickr.org/programs/content-mobility/data-lifeboat/"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 12:00:51",
-      "https://news.ycombinator.com/item?id=41903192"
-    ],
-    [
-      "Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results",
-      "http://www.arxiv.org/pdf/2410.12043"
     ]
   ]
 ]
