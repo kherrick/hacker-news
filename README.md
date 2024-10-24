@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-24, 01:31:16](https://news.ycombinator.com/item?id=41931035) - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
+* [2024-10-24, 01:24:51](https://news.ycombinator.com/item?id=41931007) - [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
 * [2024-10-24, 00:07:31](https://news.ycombinator.com/item?id=41930523) - [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
-* [2024-10-24, 00:06:35](https://news.ycombinator.com/item?id=41930517) - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 * [2024-10-23, 21:40:28](https://news.ycombinator.com/item?id=41929505) - [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-* [2024-10-23, 18:00:11](https://news.ycombinator.com/item?id=41927624) - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
 * [2024-10-23, 17:00:21](https://news.ycombinator.com/item?id=41926978) - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 * [2024-10-23, 16:44:01](https://news.ycombinator.com/item?id=41926770) - [Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine](https://github.com/corbt/agent.exe)
 * [2024-10-23, 16:31:58](https://news.ycombinator.com/item?id=41926669) - [A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
@@ -15,6 +15,7 @@
 * [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that separates \"do\" and \"due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+* [2024-10-23, 11:55:38](https://news.ycombinator.com/item?id=41924045) - [Ask HN: Is It Wrong to Use My Personal Laptop for Work?](https://news.ycombinator.com/item?id=41924045)
 * [2024-10-23, 11:39:49](https://news.ycombinator.com/item?id=41923931) - [The global surveillance free-for-all in mobile ad data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
@@ -29,7 +30,6 @@
 * [2024-10-21, 12:27:27](https://news.ycombinator.com/item?id=41903425) - [Bulk optimization of queries in Postgres](https://substack.com/home/post/p-150506520)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results](https://kk.org/thetechnium/irreproducible/)
 * [2024-10-20, 09:26:48](https://news.ycombinator.com/item?id=41894158) - [DawVert – a DAW project file converter](https://github.com/SatyrDiamond/DawVert)
-* [2024-10-19, 20:42:49](https://news.ycombinator.com/item?id=41890642) - [Shanghai Before the Foreigners](https://jaapgrolleman.com/shanghai-before-the-foreigners/)
 
 ## [Archives](archives/index.md)
 

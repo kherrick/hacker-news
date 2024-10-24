@@ -51,6 +51,7 @@
 * [2024-10-23, 13:20:30](https://news.ycombinator.com/item?id=41924804) - [Users say T-Mobile must pay for killing \"lifetime\" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
 * [2024-10-23, 13:20:17](https://news.ycombinator.com/item?id=41924801) - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
+* [2024-10-23, 11:55:38](https://news.ycombinator.com/item?id=41924045) - [Ask HN: Is It Wrong to Use My Personal Laptop for Work?](https://news.ycombinator.com/item?id=41924045)
 * [2024-10-23, 11:51:22](https://news.ycombinator.com/item?id=41924013) - [Can A.I. Be Blamed for a Teen's Suicide?](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html)
 * [2024-10-23, 11:49:19](https://news.ycombinator.com/item?id=41923998) - [Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
 * [2024-10-23, 11:42:02](https://news.ycombinator.com/item?id=41923945) - [TCP Fast Open? Not so fast (2021)](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
