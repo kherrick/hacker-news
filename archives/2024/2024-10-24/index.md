@@ -6,6 +6,7 @@
 
 * [2024-10-24, 17:36:23](https://news.ycombinator.com/item?id=41937666) - [Cable companies ask 5th Circuit to block FTC's click-to-cancel rule](https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/)
 * [2024-10-24, 17:28:28](https://news.ycombinator.com/item?id=41937591) - [React Native – New Architecture is here](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
+* [2024-10-24, 17:25:42](https://news.ycombinator.com/item?id=41937572) - [Show HN: PreCog AI – Automatic AI Model Selection for Any Task](https://precog.ubik.studio/)
 * [2024-10-24, 17:20:03](https://news.ycombinator.com/item?id=41937531) - [Ozempic linked to lower Alzheimer's risk in people with Type 2 diabetes](https://www.nbcnews.com/health/health-news/ozempic-linked-lower-alzheimers-risk-people-type-2-diabetes-rcna176821)
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese: Isotopic Analyses Confirm It](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 17:00:56](https://news.ycombinator.com/item?id=41937383) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
@@ -19,6 +20,7 @@
 * [2024-10-24, 15:13:33](https://news.ycombinator.com/item?id=41936328) - [She Was Arrested for Praying in Her Head](https://www.thefp.com/p/abortion-buffer-zones-united-kingdom-free-speech-arrested-for-praying-in-her-head)
 * [2024-10-24, 15:12:34](https://news.ycombinator.com/item?id=41936316) - [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+* [2024-10-24, 14:19:13](https://news.ycombinator.com/item?id=41935766) - [Why that one coworker got fired for no reason](https://gieseanw.wordpress.com/2024/10/24/why-that-one-coworker-got-fired-for-no-reason/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 * [2024-10-24, 13:11:53](https://news.ycombinator.com/item?id=41935164) - [He Died Building a Ship for the U.S. Government. His Family Got Nothing](https://www.propublica.org/article/immigration-louisiana-houma-shipbuilding-jobs-safety)
