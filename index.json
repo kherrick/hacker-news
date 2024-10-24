@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-10-24, 01:31:16",
+      "https://news.ycombinator.com/item?id=41931035"
+    ],
+    [
+      "NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch",
+      "https://netguard.me/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 01:24:51",
+      "https://news.ycombinator.com/item?id=41931007"
+    ],
+    [
+      "Ground beef stimulates more protein synthesis than soy based meat",
+      "https://www.sciencedirect.com/science/article/pii/S0002916524007275"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 00:07:31",
       "https://news.ycombinator.com/item?id=41930523"
     ],
     [
       "After 16 years of development, Postbox Inc. is winding down its operations",
       "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 00:06:35",
-      "https://news.ycombinator.com/item?id=41930517"
-    ],
-    [
-      "Tesla has been testing a robotaxi service in the Bay Area for most of the year",
-      "https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Show HN: Open-source low-code email editor",
       "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 18:00:11",
-      "https://news.ycombinator.com/item?id=41927624"
-    ],
-    [
-      "Show HN: A macOS Client for HuggingFace Chat",
-      "https://github.com/huggingface/chat-macOS"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language",
       "https://news.ycombinator.com/item?id=41924787"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 11:55:38",
+      "https://news.ycombinator.com/item?id=41924045"
+    ],
+    [
+      "Ask HN: Is It Wrong to Use My Personal Laptop for Work?",
+      "https://news.ycombinator.com/item?id=41924045"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "DawVert – a DAW project file converter",
       "https://github.com/SatyrDiamond/DawVert"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 20:42:49",
-      "https://news.ycombinator.com/item?id=41890642"
-    ],
-    [
-      "Shanghai Before the Foreigners",
-      "https://jaapgrolleman.com/shanghai-before-the-foreigners/"
     ]
   ]
 ]
