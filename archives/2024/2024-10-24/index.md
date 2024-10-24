@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
 * [2024-10-24, 18:30:30](https://news.ycombinator.com/item?id=41938209) - [Many people overestimate the percentage of immigrants in their country](https://ourworldindata.org/data-insights/many-people-overestimate-the-percentage-of-immigrants-in-their-country)
 * [2024-10-24, 18:29:23](https://news.ycombinator.com/item?id=41938204) - [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
 * [2024-10-24, 18:22:02](https://news.ycombinator.com/item?id=41938125) - [Tim Burton: The internet makes me quite depressed](https://www.bbc.com/news/articles/c154gqxel1eo)
