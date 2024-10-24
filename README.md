@@ -28,7 +28,7 @@
 * [2024-10-22, 10:45:43](https://news.ycombinator.com/item?id=41913009) - [Seeing faces in things: A model and dataset for pareidolia](https://mhamilton.net/facesinthings)
 * [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-22, 09:29:30](https://news.ycombinator.com/item?id=41912633) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
-* [2024-10-21, 12:27:27](https://news.ycombinator.com/item?id=41903425) - [Bulk optimization of queries in Postgres](https://substack.com/home/post/p-150506520)
+* [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results (2011)](https://kk.org/thetechnium/irreproducible/)
 
 ## [Archives](archives/index.md)
