@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 04:00:06](https://news.ycombinator.com/item?id=41931773) - [Why I'm Leaving OpenAI and What I'm Doing Next](https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)

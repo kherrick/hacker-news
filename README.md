@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
 * [2024-10-24, 02:39:23](https://news.ycombinator.com/item?id=41931392) - [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
@@ -25,9 +26,8 @@
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-22, 10:55:33](https://news.ycombinator.com/item?id=41913057) - [Parks on the Air](https://parksontheair.com/index.html)
-* [2024-10-22, 10:45:43](https://news.ycombinator.com/item?id=41913009) - [Seeing faces in things: A model and dataset for pareidolia](https://mhamilton.net/facesinthings)
 * [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
-* [2024-10-22, 09:29:30](https://news.ycombinator.com/item?id=41912633) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
+* [2024-10-21, 08:12:09](https://news.ycombinator.com/item?id=41901826) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:28:18](https://news.ycombinator.com/item?id=41901577) - [OOP is not that bad](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results (2011)](https://kk.org/thetechnium/irreproducible/)
 
