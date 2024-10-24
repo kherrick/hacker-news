@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 * [2024-10-24, 12:15:27](https://news.ycombinator.com/item?id=41934746) - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
 * [2024-10-24, 12:01:16](https://news.ycombinator.com/item?id=41934674) - [CodeCrafters (YC S22) is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
 * [2024-10-24, 11:39:28](https://news.ycombinator.com/item?id=41934542) - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
@@ -26,7 +27,6 @@
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
-* [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-21, 12:00:51](https://news.ycombinator.com/item?id=41903192) - [Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results](http://www.arxiv.org/pdf/2410.12043)
 * [2024-10-21, 02:07:31](https://news.ycombinator.com/item?id=41900117) - [How I Got a Digital Nomad Visa for Japan](https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan)
 * [2024-10-20, 20:21:26](https://news.ycombinator.com/item?id=41898204) - [What Color is Your Function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
