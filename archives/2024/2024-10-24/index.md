@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 11:39:28](https://news.ycombinator.com/item?id=41934542) - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
 * [2024-10-24, 10:49:55](https://news.ycombinator.com/item?id=41934219) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/all/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
 * [2024-10-24, 08:43:42](https://news.ycombinator.com/item?id=41933472) - [Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine](https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/)
 * [2024-10-24, 08:29:39](https://news.ycombinator.com/item?id=41933364) - [Netflix Shuts Down Its AAA Game Studio](https://www.gamefile.news/p/netflix-team-blue-socal-studio)
