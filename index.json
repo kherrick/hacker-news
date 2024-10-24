@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-24, 15:45:28",
-      "https://news.ycombinator.com/item?id=41936688"
-    ],
-    [
-      "The U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics",
-      "https://www.404media.co/inside-the-u-s-government-bought-tool-that-can-track-phones-at-abortion-clinics/"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 15:12:34",
       "https://news.ycombinator.com/item?id=41936316"
     ],
@@ -37,16 +27,6 @@
     [
       "JetBrains Rider is now free for non-commercial use",
       "https://www.jetbrains.com/rider/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 14:17:23",
-      "https://news.ycombinator.com/item?id=41935741"
-    ],
-    [
-      "Developing with Docker",
-      "https://danielquinn.org/blog/developing-with-docker/"
     ]
   ],
   [
@@ -187,6 +167,26 @@
     [
       "Show HN: Open-source low-code email editor",
       "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:31:58",
+      "https://news.ycombinator.com/item?id=41926669"
+    ],
+    [
+      "A DSL for peephole transformation rules of integer operations in the PyPy JIT",
+      "https://pypy.org/posts/2024/10/jit-peephole-dsl.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 14:52:34",
+      "https://news.ycombinator.com/item?id=41925644"
+    ],
+    [
+      "Show HN: I built a task manager that separates \"do\" and \"due\" dates",
+      "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
     ]
   ],
   [
