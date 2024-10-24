@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+* [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 * [2024-10-24, 13:11:53](https://news.ycombinator.com/item?id=41935164) - [He Died Building a Ship for the U.S. Government. His Family Got Nothing](https://www.propublica.org/article/immigration-louisiana-houma-shipbuilding-jobs-safety)
 * [2024-10-24, 12:15:27](https://news.ycombinator.com/item?id=41934746) - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
