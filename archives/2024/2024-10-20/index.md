@@ -46,6 +46,7 @@
 * [2024-10-20, 14:28:26](https://news.ycombinator.com/item?id=41895582) - [Show HN: Client Side anti-RAG solution](https://ai.unturf.com/#client-side)
 * [2024-10-20, 14:23:54](https://news.ycombinator.com/item?id=41895561) - [Apple's macOS Sequoia lets you snap windows into position](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
 * [2024-10-20, 13:51:17](https://news.ycombinator.com/item?id=41895356) - [VersaTiles – a complete FLOSS map stack](https://versatiles.org/)
+* [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results](https://kk.org/thetechnium/irreproducible/)
 * [2024-10-20, 12:54:21](https://news.ycombinator.com/item?id=41895056) - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:53:29](https://news.ycombinator.com/item?id=41895048) - [The OSI lacks competence to define Open Source AI](https://samjohnston.org/2024/10/15/the-osi-lacks-competence-to-define-open-source-ai/)
 * [2024-10-20, 12:48:56](https://news.ycombinator.com/item?id=41895024) - [Sabotage Evaluations for Frontier Models](https://www.anthropic.com/research/sabotage-evaluations)
