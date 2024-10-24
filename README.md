@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
+* [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 * [2024-10-24, 18:29:23](https://news.ycombinator.com/item?id=41938204) - [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
 * [2024-10-24, 18:15:27](https://news.ycombinator.com/item?id=41938051) - [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
 * [2024-10-24, 17:53:26](https://news.ycombinator.com/item?id=41937815) - [Zigler: Zig NIFs in Elixir](https://github.com/E-xyza/zigler)
