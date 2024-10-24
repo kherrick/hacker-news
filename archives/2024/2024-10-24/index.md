@@ -17,6 +17,7 @@
 * [2024-10-24, 01:31:16](https://news.ycombinator.com/item?id=41931035) - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
 * [2024-10-24, 01:24:51](https://news.ycombinator.com/item?id=41931007) - [Ground beef stimulates more protein synthesis than soy based meat](https://www.sciencedirect.com/science/article/pii/S0002916524007275)
 * [2024-10-24, 01:19:22](https://news.ycombinator.com/item?id=41930967) - [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
+* [2024-10-24, 00:48:03](https://news.ycombinator.com/item?id=41930790) - [Zero or Sign Extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 * [2024-10-24, 00:43:36](https://news.ycombinator.com/item?id=41930772) - [Rust in Enterprise Kernels](https://lwn.net/Articles/993337/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [RF Hunter, find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-24, 00:07:31](https://news.ycombinator.com/item?id=41930523) - [After 16 years of development, Postbox Inc. is winding down its operations](https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client)
