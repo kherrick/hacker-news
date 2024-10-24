@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 02:39:23](https://news.ycombinator.com/item?id=41931392) - [TSMC Cuts Off Client After Discovering Chips Sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
 * [2024-10-24, 02:12:43](https://news.ycombinator.com/item?id=41931244) - [How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
 * [2024-10-24, 01:31:16](https://news.ycombinator.com/item?id=41931035) - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)

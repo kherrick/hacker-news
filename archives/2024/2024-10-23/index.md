@@ -60,6 +60,7 @@
 * [2024-10-23, 11:31:30](https://news.ycombinator.com/item?id=41923890) - [Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
 * [2024-10-23, 11:03:20](https://news.ycombinator.com/item?id=41923766) - [Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
 * [2024-10-23, 10:35:26](https://news.ycombinator.com/item?id=41923641) - [Comparing Auth from Supabase, Firebase, Auth.js, Ory, Clerk and Others](https://blog.hyperknot.com/p/comparing-auth-providers)
+* [2024-10-23, 10:33:18](https://news.ycombinator.com/item?id=41923635) - [Ask HN: Website with 6^16 subpages and 80k+ daily bots](https://news.ycombinator.com/item?id=41923635)
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 10:21:29](https://news.ycombinator.com/item?id=41923585) - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
 * [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
