@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 20:19:48",
+      "https://news.ycombinator.com/item?id=41939318"
+    ],
+    [
+      "Boeing 787s must be reset every 51 days or 'misleading data' is shown to pilots",
+      "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 20:01:14",
       "https://news.ycombinator.com/item?id=41939158"
     ],
@@ -287,16 +297,6 @@
     [
       "Riot Games: Peeking into Valorant's Netcode (2020)",
       "https://technology.riotgames.com/news/peeking-valorants-netcode"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 19:26:14",
-      "https://news.ycombinator.com/item?id=41890048"
-    ],
-    [
-      "Nonlinear Schrödinger numerical simulation in 3D",
-      "https://marl0ny.github.io/split-operator-simulations/js/3d.html"
     ]
   ]
 ]
