@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-24, 08:29:39](https://news.ycombinator.com/item?id=41933364) - [Netflix Shuts Down Its AAA Game Studio](https://www.gamefile.news/p/netflix-team-blue-socal-studio)
+* [2024-10-24, 10:49:55](https://news.ycombinator.com/item?id=41934219) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/all/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
 * [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
@@ -9,9 +9,9 @@
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 22:26:28](https://news.ycombinator.com/item?id=41929822) - [Show HN: Satoshi9000 analog BTC key generator (mechanical)](https://news.ycombinator.com/item?id=41929822)
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+* [2024-10-23, 21:31:02](https://news.ycombinator.com/item?id=41929424) - [Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-* [2024-10-23, 17:00:21](https://news.ycombinator.com/item?id=41926978) - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 * [2024-10-23, 16:31:58](https://news.ycombinator.com/item?id=41926669) - [A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
 * [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that separates \"do\" and \"due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)

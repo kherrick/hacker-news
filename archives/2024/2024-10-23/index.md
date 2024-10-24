@@ -10,6 +10,7 @@
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 * [2024-10-23, 21:52:32](https://news.ycombinator.com/item?id=41929585) - [Getting Called \"Paid Actor\" by Linus Torvalds](https://typeblog.net/55833/getting-called-paid-actor-by-linus-torvalds)
 * [2024-10-23, 21:40:28](https://news.ycombinator.com/item?id=41929505) - [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
+* [2024-10-23, 21:31:02](https://news.ycombinator.com/item?id=41929424) - [Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 20:25:09](https://news.ycombinator.com/item?id=41928968) - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 * [2024-10-23, 20:14:15](https://news.ycombinator.com/item?id=41928893) - [Tesla Q3 2024 Financial Results [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q3-2024-Update.pdf)
