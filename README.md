@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+* [2024-10-24, 21:20:45](https://news.ycombinator.com/item?id=41939911) - [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
 * [2024-10-24, 21:00:46](https://news.ycombinator.com/item?id=41939714) - [Viva Labs (YC W22) is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
 * [2024-10-24, 20:04:52](https://news.ycombinator.com/item?id=41939189) - [Quit Social Media (2016)](https://calnewport.com/quit-social-media/)
 * [2024-10-24, 19:59:21](https://news.ycombinator.com/item?id=41939142) - [Fast Development with Zed and Dev Containers](https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635)
-* [2024-10-24, 19:52:08](https://news.ycombinator.com/item?id=41939077) - [Official Raspberry Pi NVMe SSD Review](https://bret.dk/official-raspberry-pi-nvme-ssd-review/)
 * [2024-10-24, 19:46:58](https://news.ycombinator.com/item?id=41939027) - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 * [2024-10-24, 19:31:12](https://news.ycombinator.com/item?id=41938888) - [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
