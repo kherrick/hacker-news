@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-24, 20:01:14",
+      "https://news.ycombinator.com/item?id=41939158"
+    ],
+    [
+      "Ultra fast key value store (in C btw)",
+      "https://freshql.ai/blog_fast_storage.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 19:59:21",
+      "https://news.ycombinator.com/item?id=41939142"
+    ],
+    [
+      "Fast Development with Zed and Dev Containers",
+      "https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 19:52:08",
       "https://news.ycombinator.com/item?id=41939077"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2024-10-24, 19:29:57",
-      "https://news.ycombinator.com/item?id=41938876"
-    ],
-    [
-      "Serge Semin's Goodbye to the Linux Kernel",
-      "https://lore.kernel.org/lkml/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 19:24:36",
       "https://news.ycombinator.com/item?id=41938831"
     ],
     [
       "Brush – a new super compatible Gaussian splatting engine in Rust",
       "https://github.com/ArthurBrussee/brush"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 19:23:38",
+      "https://news.ycombinator.com/item?id=41938819"
+    ],
+    [
+      "Lingo: A Go micro language framework for building Domain Specific Languages",
+      "https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/"
     ]
   ],
   [
@@ -61,22 +81,22 @@
   ],
   [
     [
-      "2024-10-24, 18:31:38",
-      "https://news.ycombinator.com/item?id=41938220"
-    ],
-    [
-      "BYD EV Teardown in Japan Reveals the Secret to Its Affordability",
-      "https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 18:29:23",
       "https://news.ycombinator.com/item?id=41938204"
     ],
     [
       "Data viz project that maps all earthquakes by magnitude",
       "https://seismic-explorer.concord.org"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 18:15:27",
+      "https://news.ycombinator.com/item?id=41938051"
+    ],
+    [
+      "Claude Computer Use – Is Vision the Ultimate API?",
+      "https://www.thariq.io/blog/claudecomputer/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-10-24, 00:48:03",
-      "https://news.ycombinator.com/item?id=41930790"
+      "2024-10-24, 07:35:56",
+      "https://news.ycombinator.com/item?id=41932995"
     ],
     [
-      "Zero or Sign Extend",
-      "https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 00:21:36",
-      "https://news.ycombinator.com/item?id=41930628"
-    ],
-    [
-      "Show HN: RF Hunter – Find hidden cameras and other devices",
-      "https://github.com/RamboRogers/rfhunter"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 21:31:02",
-      "https://news.ycombinator.com/item?id=41929424"
-    ],
-    [
-      "Sinusoidal Sunlight",
-      "https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/"
+      "LibLISA – Instruction Discovery and Analysis on x86-64",
+      "https://liblisa.nl/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-10-23, 20:45:19",
-      "https://news.ycombinator.com/item?id=41929122"
-    ],
-    [
-      "How to grip Bronze Age swords",
-      "https://www.bookandsword.com/2024/10/19/how-to-grip-bronze-age-swords-response-to-dimicator-and-matt-easton/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 11:00:15",
       "https://news.ycombinator.com/item?id=41923753"
     ],
     [
       "Never Missing the Train Again",
       "https://lilymara.xyz/posts/2024/01/transit-kindle/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 08:29:41",
+      "https://news.ycombinator.com/item?id=41923018"
+    ],
+    [
+      "The Anvil Text Editor",
+      "http://anvil-editor.net/"
     ]
   ],
   [
