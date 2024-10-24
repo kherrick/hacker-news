@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 12:01:16](https://news.ycombinator.com/item?id=41934674) - [CodeCrafters (YC S22) is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
 * [2024-10-24, 11:39:28](https://news.ycombinator.com/item?id=41934542) - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
 * [2024-10-24, 11:22:02](https://news.ycombinator.com/item?id=41934425) - [Get any AI to generate an image of a glass of wine that is full to the brim](https://old.reddit.com/r/ChatGPT/comments/1gas25l/your_mission_should_you_choose_to_accept_it_is_to/)
 * [2024-10-24, 10:49:55](https://news.ycombinator.com/item?id=41934219) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/all/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
