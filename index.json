@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 19:52:08",
+      "https://news.ycombinator.com/item?id=41939077"
+    ],
+    [
+      "Official Raspberry Pi NVMe SSD Review",
+      "https://bret.dk/official-raspberry-pi-nvme-ssd-review/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 19:46:58",
       "https://news.ycombinator.com/item?id=41939027"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Desktop Sandbox for Secure Cloud Computer Use",
       "https://github.com/e2b-dev/desktop"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 19:29:57",
+      "https://news.ycombinator.com/item?id=41938876"
+    ],
+    [
+      "Serge Semin's Goodbye to the Linux Kernel",
+      "https://lore.kernel.org/lkml/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Data viz project that maps all earthquakes by magnitude",
       "https://seismic-explorer.concord.org"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 18:15:27",
-      "https://news.ycombinator.com/item?id=41938051"
-    ],
-    [
-      "Claude Computer Use – Is Vision the Ultimate API?",
-      "https://www.thariq.io/blog/claudecomputer/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-10-24, 16:26:08",
-      "https://news.ycombinator.com/item?id=41937046"
-    ],
-    [
-      "Self-Hosting Marketing Automation Software: A Guide",
-      "https://www.laudspeaker.com/post/self-hosting-marketing-automation-software-a-guide"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 15:51:21",
       "https://news.ycombinator.com/item?id=41936745"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-10-24, 03:01:58",
-      "https://news.ycombinator.com/item?id=41931507"
+      "2024-10-24, 00:48:03",
+      "https://news.ycombinator.com/item?id=41930790"
     ],
     [
-      "Pretty.c",
-      "https://github.com/aartaka/pretty.c"
+      "Zero or Sign Extend",
+      "https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Show HN: RF Hunter – Find hidden cameras and other devices",
       "https://github.com/RamboRogers/rfhunter"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 21:31:02",
+      "https://news.ycombinator.com/item?id=41929424"
+    ],
+    [
+      "Sinusoidal Sunlight",
+      "https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Riot Games: Peeking into Valorant's Netcode (2020)",
       "https://technology.riotgames.com/news/peeking-valorants-netcode"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 04:43:45",
-      "https://news.ycombinator.com/item?id=41921897"
-    ],
-    [
-      "Data Lifeboat",
-      "https://www.flickr.org/programs/content-mobility/data-lifeboat/"
     ]
   ],
   [
