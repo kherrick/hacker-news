@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-24, 11:39:28](https://news.ycombinator.com/item?id=41934542) - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
+* [2024-10-24, 11:22:02](https://news.ycombinator.com/item?id=41934425) - [Get any AI to generate an image of a glass of wine that is full to the brim](https://old.reddit.com/r/ChatGPT/comments/1gas25l/your_mission_should_you_choose_to_accept_it_is_to/)
 * [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
@@ -14,7 +15,6 @@
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
 * [2024-10-23, 16:31:58](https://news.ycombinator.com/item?id=41926669) - [A DSL for peephole transformation rules of integer operations in the PyPy JIT](https://pypy.org/posts/2024/10/jit-peephole-dsl.html)
-* [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that separates \"do\" and \"due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 10:46:49](https://news.ycombinator.com/item?id=41923693) - [Building Document-Centric, CRDT-Native Editors](https://blocksuite.io/blog/document-centric.html)
 * [2024-10-23, 10:33:18](https://news.ycombinator.com/item?id=41923635) - [Ask HN: Website with 6^16 subpages and 80k+ daily bots](https://news.ycombinator.com/item?id=41923635)
