@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
 * [2024-10-24, 15:30:55](https://news.ycombinator.com/item?id=41936527) - [Uber, Lyft drivers block Manhattan traffic to protest lockouts](https://www.amny.com/transit/uber-lyft-drivers-block-traffic-lockouts/)
 * [2024-10-24, 15:13:33](https://news.ycombinator.com/item?id=41936328) - [She Was Arrested for Praying in Her Head](https://www.thefp.com/p/abortion-buffer-zones-united-kingdom-free-speech-arrested-for-praying-in-her-head)
 * [2024-10-24, 15:12:34](https://news.ycombinator.com/item?id=41936316) - [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
