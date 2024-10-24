@@ -21,6 +21,7 @@
 * [2024-10-23, 10:29:15](https://news.ycombinator.com/item?id=41923625) - [Probably pay attention to tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
+* [2024-10-23, 03:27:46](https://news.ycombinator.com/item?id=41921494) - [Necromanteion of Acheron](https://en.wikipedia.org/wiki/Necromanteion_of_Acheron)
 * [2024-10-22, 18:11:03](https://news.ycombinator.com/item?id=41917016) - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 * [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-22, 10:55:33](https://news.ycombinator.com/item?id=41913057) - [Parks on the Air](https://parksontheair.com/index.html)
@@ -29,7 +30,6 @@
 * [2024-10-22, 09:29:30](https://news.ycombinator.com/item?id=41912633) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-21, 12:27:27](https://news.ycombinator.com/item?id=41903425) - [Bulk optimization of queries in Postgres](https://substack.com/home/post/p-150506520)
 * [2024-10-20, 13:35:21](https://news.ycombinator.com/item?id=41895278) - [Irreproducible Results](https://kk.org/thetechnium/irreproducible/)
-* [2024-10-20, 09:26:48](https://news.ycombinator.com/item?id=41894158) - [DawVert – a DAW project file converter](https://github.com/SatyrDiamond/DawVert)
 
 ## [Archives](archives/index.md)
 
