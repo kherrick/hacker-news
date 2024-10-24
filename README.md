@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
+* [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
 * [2024-10-24, 18:29:23](https://news.ycombinator.com/item?id=41938204) - [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
 * [2024-10-24, 18:15:27](https://news.ycombinator.com/item?id=41938051) - [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
 * [2024-10-24, 17:53:26](https://news.ycombinator.com/item?id=41937815) - [Zigler: Zig NIFs in Elixir](https://github.com/E-xyza/zigler)
@@ -22,7 +23,6 @@
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
 * [2024-10-24, 00:48:03](https://news.ycombinator.com/item?id=41930790) - [Zero or Sign Extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
-* [2024-10-23, 22:26:28](https://news.ycombinator.com/item?id=41929822) - [Show HN: Satoshi9000 analog BTC key generator (mechanical)](https://news.ycombinator.com/item?id=41929822)
 * [2024-10-23, 21:31:02](https://news.ycombinator.com/item?id=41929424) - [Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 20:45:19](https://news.ycombinator.com/item?id=41929122) - [How to grip Bronze Age swords](https://www.bookandsword.com/2024/10/19/how-to-grip-bronze-age-swords-response-to-dimicator-and-matt-easton/)
