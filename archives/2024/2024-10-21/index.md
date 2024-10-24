@@ -62,6 +62,7 @@
 * [2024-10-21, 12:33:22](https://news.ycombinator.com/item?id=41903469) - [The Secret History of Mongols: A Digital History Approach](https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK)
 * [2024-10-21, 12:27:27](https://news.ycombinator.com/item?id=41903425) - [Best Practices for Bulk Optimization of Queries in PostgreSQL](https://substack.com/home/post/p-150506520)
 * [2024-10-21, 12:24:32](https://news.ycombinator.com/item?id=41903399) - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
+* [2024-10-21, 12:00:51](https://news.ycombinator.com/item?id=41903192) - [Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results](http://www.arxiv.org/pdf/2410.12043)
 * [2024-10-21, 12:00:47](https://news.ycombinator.com/item?id=41903190) - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2024-10-21, 11:07:23](https://news.ycombinator.com/item?id=41902864) - [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
 * [2024-10-21, 10:12:53](https://news.ycombinator.com/item?id=41902536) - [One of the Last Navajo Code Talkers from World War II Dies at 107](https://apnews.com/article/navajo-code-talkers-word-war-ii-5f527f43eebaede11eb86f7bdad27a39)
