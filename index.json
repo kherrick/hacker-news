@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-24, 13:11:53",
-      "https://news.ycombinator.com/item?id=41935164"
-    ],
-    [
-      "He Died Building a Ship for the U.S. Government. His Family Got Nothing",
-      "https://www.propublica.org/article/immigration-louisiana-houma-shipbuilding-jobs-safety"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 12:15:27",
       "https://news.ycombinator.com/item?id=41934746"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-10-23, 08:29:41",
-      "https://news.ycombinator.com/item?id=41923018"
+      "2024-10-23, 09:44:36",
+      "https://news.ycombinator.com/item?id=41923429"
     ],
     [
-      "The Anvil Text Editor",
-      "http://anvil-editor.net/"
+      "Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure",
+      "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Tragedy of Google Books (2017)",
       "https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 11:12:10",
+      "https://news.ycombinator.com/item?id=41913145"
+    ],
+    [
+      "My NumPy year: Creating a DType for the next generation of scientific computing",
+      "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
     ]
   ],
   [
