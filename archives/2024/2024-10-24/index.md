@@ -6,6 +6,7 @@
 
 * [2024-10-24, 18:30:30](https://news.ycombinator.com/item?id=41938209) - [Many people overestimate the percentage of immigrants in their country](https://ourworldindata.org/data-insights/many-people-overestimate-the-percentage-of-immigrants-in-their-country)
 * [2024-10-24, 18:29:23](https://news.ycombinator.com/item?id=41938204) - [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
+* [2024-10-24, 18:22:02](https://news.ycombinator.com/item?id=41938125) - [Tim Burton: The internet makes me quite depressed](https://www.bbc.com/news/articles/c154gqxel1eo)
 * [2024-10-24, 18:15:27](https://news.ycombinator.com/item?id=41938051) - [Claude Computer Use – Is Vision the Ultimate API?](https://www.thariq.io/blog/claudecomputer/)
 * [2024-10-24, 17:53:26](https://news.ycombinator.com/item?id=41937815) - [Zigler: Zig Nifs in Elixir](https://github.com/E-xyza/zigler)
 * [2024-10-24, 17:50:48](https://news.ycombinator.com/item?id=41937793) - [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
