@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-24, 02:39:23",
+      "https://news.ycombinator.com/item?id=41931392"
+    ],
+    [
+      "TSMC Cuts Off Client After Discovering Chips Sent to Huawei",
+      "https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 02:12:43",
+      "https://news.ycombinator.com/item?id=41931244"
+    ],
+    [
+      "How Do Merging Supermassive Black Holes Pass the Final Parsec?",
+      "https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 01:31:16",
       "https://news.ycombinator.com/item?id=41931035"
     ],
@@ -17,6 +37,36 @@
     [
       "Ground beef stimulates more protein synthesis than soy based meat",
       "https://www.sciencedirect.com/science/article/pii/S0002916524007275"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 01:19:22",
+      "https://news.ycombinator.com/item?id=41930967"
+    ],
+    [
+      "Chromium uses web search for .internal TLD instead of opening URL",
+      "https://issues.chromium.org/issues/375219954"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 00:43:36",
+      "https://news.ycombinator.com/item?id=41930772"
+    ],
+    [
+      "Rust in Enterprise Kernels",
+      "https://lwn.net/Articles/993337/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 00:21:36",
+      "https://news.ycombinator.com/item?id=41930628"
+    ],
+    [
+      "RF Hunter, find hidden cameras and other devices",
+      "https://github.com/RamboRogers/rfhunter"
     ]
   ],
   [
@@ -91,32 +141,12 @@
   ],
   [
     [
-      "2024-10-23, 16:44:01",
-      "https://news.ycombinator.com/item?id=41926770"
-    ],
-    [
-      "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
-      "https://github.com/corbt/agent.exe"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 16:31:58",
       "https://news.ycombinator.com/item?id=41926669"
     ],
     [
       "A DSL for peephole transformation rules of integer operations in the PyPy JIT",
       "https://pypy.org/posts/2024/10/jit-peephole-dsl.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 15:31:29",
-      "https://news.ycombinator.com/item?id=41926067"
-    ],
-    [
-      "Show HN: Srcbook – Self-hosted alternative to AI app builders",
-      "https://github.com/srcbookdev/srcbook/blob/main/README.md"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2024-10-23, 11:55:38",
-      "https://news.ycombinator.com/item?id=41924045"
-    ],
-    [
-      "Ask HN: Is It Wrong to Use My Personal Laptop for Work?",
-      "https://news.ycombinator.com/item?id=41924045"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 11:39:49",
-      "https://news.ycombinator.com/item?id=41923931"
-    ],
-    [
-      "The global surveillance free-for-all in mobile ad data",
-      "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 10:29:15",
       "https://news.ycombinator.com/item?id=41923625"
     ],
@@ -197,16 +207,6 @@
     [
       "What happens when you make a move in lichess.org?",
       "https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 06:24:16",
-      "https://news.ycombinator.com/item?id=41922356"
-    ],
-    [
-      "The Incredible Machine (1968) [video]",
-      "https://www.youtube.com/watch?v=iwVu2BWLZqA"
     ]
   ],
   [
