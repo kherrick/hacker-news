@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 15:13:33](https://news.ycombinator.com/item?id=41936328) - [She Was Arrested for Praying in Her Head](https://www.thefp.com/p/abortion-buffer-zones-united-kingdom-free-speech-arrested-for-praying-in-her-head)
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)

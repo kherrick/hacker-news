@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-24, 15:13:33](https://news.ycombinator.com/item?id=41936328) - [She Was Arrested for Praying in Her Head](https://www.thefp.com/p/abortion-buffer-zones-united-kingdom-free-speech-arrested-for-praying-in-her-head)
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 * [2024-10-24, 12:15:27](https://news.ycombinator.com/item?id=41934746) - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
 * [2024-10-24, 12:01:16](https://news.ycombinator.com/item?id=41934674) - [CodeCrafters (YC S22) is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
+* [2024-10-24, 11:39:28](https://news.ycombinator.com/item?id=41934542) - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
 * [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 * [2024-10-24, 03:01:58](https://news.ycombinator.com/item?id=41931507) - [Pretty.c](https://github.com/aartaka/pretty.c)
@@ -17,7 +19,6 @@
 * [2024-10-23, 21:31:02](https://news.ycombinator.com/item?id=41929424) - [Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
 * [2024-10-23, 19:31:51](https://news.ycombinator.com/item?id=41928529) - [Playstation Vita Architecture (Part 1)](https://www.copetti.org/writings/consoles/playstation-vita/)
 * [2024-10-23, 18:54:59](https://news.ycombinator.com/item?id=41928203) - [Show HN: Open-source low-code email editor](https://github.com/dittofeed/dittofeed/tree/main/packages/emailo)
-* [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that separates \"do\" and \"due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 13:18:17](https://news.ycombinator.com/item?id=41924787) - [Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language](https://news.ycombinator.com/item?id=41924787)
 * [2024-10-23, 10:46:49](https://news.ycombinator.com/item?id=41923693) - [Building Document-Centric, CRDT-Native Editors](https://blocksuite.io/blog/document-centric.html)
 * [2024-10-23, 10:33:18](https://news.ycombinator.com/item?id=41923635) - [Ask HN: Website with 6^16 subpages and 80k+ daily bots](https://news.ycombinator.com/item?id=41923635)
@@ -28,7 +29,6 @@
 * [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-22, 09:58:10](https://news.ycombinator.com/item?id=41912769) - [Reinforcement Learning: An Introduction (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 * [2024-10-21, 12:00:51](https://news.ycombinator.com/item?id=41903192) - [Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results](http://www.arxiv.org/pdf/2410.12043)
-* [2024-10-21, 08:12:09](https://news.ycombinator.com/item?id=41901826) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 02:07:31](https://news.ycombinator.com/item?id=41900117) - [How I Got a Digital Nomad Visa for Japan](https://www.tokyodev.com/articles/how-i-got-a-digital-nomad-visa-for-japan)
 
 ## [Archives](archives/index.md)
