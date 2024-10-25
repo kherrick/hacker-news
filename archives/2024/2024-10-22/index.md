@@ -9,6 +9,7 @@
 * [2024-10-22, 23:09:37](https://news.ycombinator.com/item?id=41919711) - [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
 * [2024-10-22, 23:03:52](https://news.ycombinator.com/item?id=41919670) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 * [2024-10-22, 22:28:10](https://news.ycombinator.com/item?id=41919365) - [I Got Dysentary So You Don't Have To](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/)
+* [2024-10-22, 22:13:38](https://news.ycombinator.com/item?id=41919275) - [The Ballad of the Inquisition's Greatest Witch Trial](https://www.historytoday.com/archive/history-matters/ballad-inquisitions-greatest-witch-trial)
 * [2024-10-22, 22:12:15](https://news.ycombinator.com/item?id=41919262) - [DRAM Changed the World](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 * [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
 * [2024-10-22, 20:58:55](https://news.ycombinator.com/item?id=41918626) - [Her Majesty’s Rat-Catcher (2013)](https://www.laphamsquarterly.org/roundtable/her-majestys-rat-catcher)
