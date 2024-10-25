@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos Killed Washington Post Endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 * [2024-10-25, 19:29:56](https://news.ycombinator.com/item?id=41948773) - [Tesla's Cybertruck is outselling almost every other EV in the U](https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10)
 * [2024-10-25, 19:20:21](https://news.ycombinator.com/item?id=41948666) - [UK Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 * [2024-10-25, 18:54:28](https://news.ycombinator.com/item?id=41948433) - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 * [2024-10-25, 18:46:43](https://news.ycombinator.com/item?id=41948348) - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
-* [2024-10-25, 18:19:39](https://news.ycombinator.com/item?id=41948041) - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
 * [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 * [2024-10-25, 18:15:06](https://news.ycombinator.com/item?id=41947980) - [LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 * [2024-10-25, 18:08:06](https://news.ycombinator.com/item?id=41947892) - [Federal investigators probe Tether](https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5)
