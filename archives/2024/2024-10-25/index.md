@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
 * [2024-10-25, 17:00:53](https://news.ycombinator.com/item?id=41947169) - [Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
 * [2024-10-25, 15:57:45](https://news.ycombinator.com/item?id=41946497) - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
@@ -25,6 +26,7 @@
 * [2024-10-25, 12:35:21](https://news.ycombinator.com/item?id=41944637) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
 * [2024-10-25, 12:32:53](https://news.ycombinator.com/item?id=41944612) - [The \"Godfather of AI\" Predicted I Wouldn't Have a Job. He Was Wrong](https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction)
 * [2024-10-25, 11:41:04](https://news.ycombinator.com/item?id=41944284) - [Copilot vs. Cursor vs. Cody vs. Supermaven vs. Aider](https://www.vincentschmalbach.com/copilot-vs-cursor-vs-cody-vs-supermaven-vs-aider/)
+* [2024-10-25, 11:11:24](https://news.ycombinator.com/item?id=41944121) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 09:57:44](https://news.ycombinator.com/item?id=41943756) - [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
 * [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
 * [2024-10-25, 09:23:04](https://news.ycombinator.com/item?id=41943589) - [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
