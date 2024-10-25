@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 21:36:25](https://news.ycombinator.com/item?id=41950039) - [No Way Down: Chemical Release at Wacker Polysilicon [video]](https://www.youtube.com/watch?v=CcMnf86n8_U)
 * [2024-10-25, 20:34:46](https://news.ycombinator.com/item?id=41949408) - [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
 * [2024-10-25, 20:02:36](https://news.ycombinator.com/item?id=41949098) - [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
@@ -28,7 +29,6 @@
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming Joins Are Hard](https://estuary.dev/streaming-joins-are-hard/)
-* [2024-10-21, 20:01:02](https://news.ycombinator.com/item?id=41907928) - [New largest prime number found See all 41,024,320 digits [video]](https://www.youtube.com/watch?v=zsyGRDrDfbI)
 * [2024-10-21, 16:07:24](https://news.ycombinator.com/item?id=41905595) - [Making Of: Line Drawing Tutorial (2017)](https://www.redblobgames.com/making-of/line-drawing/)
 
 ## [Archives](archives/index.md)
