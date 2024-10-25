@@ -18,6 +18,7 @@
 * [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
 * [2024-10-25, 17:03:52](https://news.ycombinator.com/item?id=41947201) - [The future of software is Nix](https://determinate.systems/posts/the-future-is-nix/)
 * [2024-10-25, 17:00:53](https://news.ycombinator.com/item?id=41947169) - [Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
+* [2024-10-25, 16:54:54](https://news.ycombinator.com/item?id=41947105) - [US satellite jammer is set for delivery as flaws are fixed](https://www.bloomberg.com/news/articles/2024-10-24/space-jammer-to-aim-at-russian-chinese-satellites-is-readied-as-flaws-are-fixed)
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
 * [2024-10-25, 15:57:45](https://news.ycombinator.com/item?id=41946497) - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
 * [2024-10-25, 15:53:10](https://news.ycombinator.com/item?id=41946453) - [SELinux Bypasses](https://klecko.github.io/posts/selinux-bypasses/)
