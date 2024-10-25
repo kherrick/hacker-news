@@ -21,6 +21,7 @@
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
+* [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
@@ -28,7 +29,6 @@
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
 * [2024-10-23, 05:56:07](https://news.ycombinator.com/item?id=41922216) - [Writer Underwriting Writer](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)
-* [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
 * [2024-10-22, 05:43:18](https://news.ycombinator.com/item?id=41911513) - [Species in Pieces](http://species-in-pieces.com)
 
 ## [Archives](archives/index.md)
