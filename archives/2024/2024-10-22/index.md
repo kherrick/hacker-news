@@ -39,6 +39,7 @@
 * [2024-10-22, 15:10:01](https://news.ycombinator.com/item?id=41915060) - [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
+* [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming Joins Are Hard](https://estuary.dev/streaming-joins-are-hard/)
 * [2024-10-22, 14:15:54](https://news.ycombinator.com/item?id=41914544) - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 * [2024-10-22, 13:29:50](https://news.ycombinator.com/item?id=41914064) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 13:29:12](https://news.ycombinator.com/item?id=41914056) - [World-First Starlink Service on Boeing 777 Launched by Qatar Airways](https://smartwithpoints.co.uk/p/qatar-airways-launches-world-first-starlink-service-on-boeing-777)

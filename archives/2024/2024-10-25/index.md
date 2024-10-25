@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 19:16:16](https://news.ycombinator.com/item?id=41948631) - [Jeff Bezos kills Washington Post editorial board presidential endorsement](https://www.washingtonpost.com/style/media/2024/10/25/washington-post-endorsement-president/)
+* [2024-10-25, 18:54:28](https://news.ycombinator.com/item?id=41948433) - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 * [2024-10-25, 18:46:43](https://news.ycombinator.com/item?id=41948348) - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 * [2024-10-25, 18:19:39](https://news.ycombinator.com/item?id=41948041) - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
 * [2024-10-25, 18:17:45](https://news.ycombinator.com/item?id=41948012) - [The Raspberry Pi AI HAT+ with Up to 26 Tops](https://www.raspberrypi.com/news/raspberry-pi-ai-hat/)
