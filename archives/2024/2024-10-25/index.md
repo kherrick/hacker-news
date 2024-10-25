@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:19:31](https://news.ycombinator.com/item?id=41945562) - [Microsoft CEO Nadella asked for pay reduction after security slip](https://www.cnbc.com/2024/10/24/microsoft-ceo-nadella-requested-pay-reduction-after-security-incidents.html)
+* [2024-10-25, 13:59:25](https://news.ycombinator.com/item?id=41945372) - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
 * [2024-10-25, 13:38:57](https://news.ycombinator.com/item?id=41945169) - [Waymo closes $5.6B investment round](https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/)
