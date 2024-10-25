@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-25, 13:05:30](https://news.ycombinator.com/item?id=41944882) - [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
 * [2024-10-25, 12:59:41](https://news.ycombinator.com/item?id=41944836) - [Astronauts return from nearly eight months on ISS after Starliner problems](https://www.theguardian.com/science/2024/oct/25/spacex-astronauts-return-to-earth-after-delay-due-to-boeing-capsule-snags)
@@ -23,7 +24,6 @@
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 * [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
-* [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 08:45:37](https://news.ycombinator.com/item?id=41923109) - [A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)

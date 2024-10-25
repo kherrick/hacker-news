@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-25, 13:05:30](https://news.ycombinator.com/item?id=41944882) - [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
 * [2024-10-25, 12:59:41](https://news.ycombinator.com/item?id=41944836) - [Astronauts return from nearly eight months on ISS after Starliner problems](https://www.theguardian.com/science/2024/oct/25/spacex-astronauts-return-to-earth-after-delay-due-to-boeing-capsule-snags)
