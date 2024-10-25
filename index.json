@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-25, 20:36:26",
+      "https://news.ycombinator.com/item?id=41949424"
+    ],
+    [
+      "KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects",
+      "https://kitops.ml/docs/overview.html"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 20:34:46",
       "https://news.ycombinator.com/item?id=41949408"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=41947355"
     ],
     [
-      "Dijkstra's algorithm prove as universally optimal way to find graph's best route",
+      "Universal optimality of Dijkstra via beyond-worst-case heaps",
       "https://arxiv.org/abs/2311.11793"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-10-25, 13:59:25",
-      "https://news.ycombinator.com/item?id=41945372"
-    ],
-    [
-      "Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds",
-      "https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 13:54:04",
       "https://news.ycombinator.com/item?id=41945308"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-10-23, 05:56:07",
-      "https://news.ycombinator.com/item?id=41922216"
-    ],
-    [
-      "Writer Underwriting Writer",
-      "https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 22:10:03",
       "https://news.ycombinator.com/item?id=41919246"
     ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=41914736"
     ],
     [
-      "Streaming Joins Are Hard",
+      "Streaming joins are hard",
       "https://estuary.dev/streaming-joins-are-hard/"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 00:42:31",
+      "https://news.ycombinator.com/item?id=41910080"
+    ],
+    [
+      "Show HN: Optimizing compiler for a large subset of C, written in Rust",
+      "https://github.com/xqb64/ucc"
     ]
   ],
   [
