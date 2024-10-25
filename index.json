@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-10-25, 13:10:13",
+      "https://news.ycombinator.com/item?id=41944919"
+    ],
+    [
+      "Why ghosts wear clothes or white sheets instead of appearing in the nude",
+      "https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 13:05:30",
+      "https://news.ycombinator.com/item?id=41944882"
+    ],
+    [
+      "The mystifying, acrimonious battle between Arm and Qualcomm",
+      "https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 12:35:21",
+      "https://news.ycombinator.com/item?id=41944637"
+    ],
+    [
+      "Notes on Anthropic's Computer Use Ability",
+      "https://composio.dev/blog/claude-computer-use/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 12:32:53",
       "https://news.ycombinator.com/item?id=41944612"
     ],
     [
-      "The \"Godfather of AI\" Predicted I Wouldn't Have a Job. He Was Wrong",
+      "Geoffrey Hinton said machine learning would outperform radiologists by now",
       "https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 11:41:04",
+      "https://news.ycombinator.com/item?id=41944284"
+    ],
+    [
+      "Copilot vs. Cursor vs. Cody vs. Supermaven vs. Aider",
+      "https://www.vincentschmalbach.com/copilot-vs-cursor-vs-cody-vs-supermaven-vs-aider/"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "Smarter Than 'Ctrl+F': Linking Directly to Web Page Content",
       "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 06:27:20",
+      "https://news.ycombinator.com/item?id=41942746"
+    ],
+    [
+      "Italy declares its \"web tax\" applicable to any digital service worldwide",
+      "https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "OpenFeature – a vendor-agnostic, community-driven API for feature flagging",
       "https://github.com/open-feature"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 00:53:59",
-      "https://news.ycombinator.com/item?id=41941308"
-    ],
-    [
-      "Show HN: Rust based AWS Lambda Logs Viewer (TUI)",
-      "https://github.com/resola-ai/rust-aws-tui"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Quit Social Media (2016)",
       "https://calnewport.com/quit-social-media/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 19:46:58",
-      "https://news.ycombinator.com/item?id=41939027"
-    ],
-    [
-      "Show HN: TypeSchema – A JSON specification to describe data models",
-      "https://typeschema.org/"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-10-24, 00:21:36",
-      "https://news.ycombinator.com/item?id=41930628"
-    ],
-    [
-      "Show HN: RF Hunter – Find hidden cameras and other devices",
-      "https://github.com/RamboRogers/rfhunter"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 21:30:02",
-      "https://news.ycombinator.com/item?id=41929412"
-    ],
-    [
-      "Calculating the norm of a complex number",
-      "https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 16:55:08",
       "https://news.ycombinator.com/item?id=41926907"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2024-10-23, 10:03:53",
-      "https://news.ycombinator.com/item?id=41923518"
+      "2024-10-23, 08:45:37",
+      "https://news.ycombinator.com/item?id=41923109"
     ],
     [
-      "TLA from First Principles",
-      "https://buttondown.com/hillelwayne/archive/tla-from-first-principles/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 06:51:40",
-      "https://news.ycombinator.com/item?id=41922503"
-    ],
-    [
-      "Riot Games: Peeking into Valorant's Netcode (2020)",
-      "https://technology.riotgames.com/news/peeking-valorants-netcode"
+      "A Primer on Vintage Cassette Decks: How to Find a Good One",
+      "https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-10-23, 05:39:20",
-      "https://news.ycombinator.com/item?id=41922136"
+      "2024-10-22, 22:13:38",
+      "https://news.ycombinator.com/item?id=41919275"
     ],
     [
-      "When Samsung meets MediaTek: the story of a small bug chain [pdf]",
-      "https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf"
+      "The Ballad of the Inquisition's Greatest Witch Trial",
+      "https://www.historytoday.com/archive/history-matters/ballad-inquisitions-greatest-witch-trial"
     ]
   ],
   [
