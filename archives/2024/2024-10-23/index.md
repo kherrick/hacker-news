@@ -72,6 +72,7 @@
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-23, 09:44:36](https://news.ycombinator.com/item?id=41923429) - [Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/)
 * [2024-10-23, 09:36:35](https://news.ycombinator.com/item?id=41923387) - [Huawei makes divorce from Android official with HarmonyOS NEXT launch](https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/)
+* [2024-10-23, 08:45:37](https://news.ycombinator.com/item?id=41923109) - [A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
 * [2024-10-23, 08:13:47](https://news.ycombinator.com/item?id=41922928) - [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
 * [2024-10-23, 07:38:17](https://news.ycombinator.com/item?id=41922737) - [Show HN: ClickHouse User Defined Table Function in Python](https://github.com/auxten/SQL-On-Everything)
