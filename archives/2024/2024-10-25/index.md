@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 03:14:58](https://news.ycombinator.com/item?id=41941930) - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
 * [2024-10-25, 01:12:00](https://news.ycombinator.com/item?id=41941414) - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
 * [2024-10-25, 00:54:55](https://news.ycombinator.com/item?id=41941312) - [Women in tech still face a torrid time from LinkedIn lechers](https://www.crikey.com.au/2024/10/25/wisetech-linkedin-richard-white-tech-industry-women-stem/)
