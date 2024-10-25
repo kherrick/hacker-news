@@ -21,6 +21,7 @@
 * [2024-10-21, 20:31:07](https://news.ycombinator.com/item?id=41908231) - [T-Mobile, AT&T oppose unlocking rule, claim locked phones are good for users](https://arstechnica.com/tech-policy/2024/10/t-mobile-att-oppose-unlocking-rule-claim-locked-phones-are-good-for-users/)
 * [2024-10-21, 20:20:17](https://news.ycombinator.com/item?id=41908132) - [Breaking Bad is a co-founder story disguised as a drug-dealing story](https://twitter.com/hnshah/status/1848046525391212902)
 * [2024-10-21, 20:15:36](https://news.ycombinator.com/item?id=41908075) - [First Images from Euclid Are In](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
+* [2024-10-21, 20:01:02](https://news.ycombinator.com/item?id=41907928) - [New largest prime number found See all 41,024,320 digits [video]](https://www.youtube.com/watch?v=zsyGRDrDfbI)
 * [2024-10-21, 19:42:15](https://news.ycombinator.com/item?id=41907719) - [Show HN: Data Formulator – AI-powered data visualization from Microsoft Research](https://github.com/microsoft/data-formulator)
 * [2024-10-21, 19:16:38](https://news.ycombinator.com/item?id=41907412) - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 * [2024-10-21, 19:12:13](https://news.ycombinator.com/item?id=41907360) - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
