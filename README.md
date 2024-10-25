@@ -7,7 +7,6 @@
 * [2024-10-25, 01:12:00](https://news.ycombinator.com/item?id=41941414) - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
 * [2024-10-25, 00:53:59](https://news.ycombinator.com/item?id=41941308) - [Show HN: Rust based AWS Lambda Logs Viewer (TUI)](https://github.com/resola-ai/rust-aws-tui)
 * [2024-10-25, 00:05:08](https://news.ycombinator.com/item?id=41941052) - [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
-* [2024-10-24, 23:17:40](https://news.ycombinator.com/item?id=41940778) - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
@@ -28,6 +27,7 @@
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
+* [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
 * [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
 * [2024-10-22, 05:43:18](https://news.ycombinator.com/item?id=41911513) - [Species in Pieces](http://species-in-pieces.com)
 
