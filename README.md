@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
 * [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
 * [2024-10-25, 20:34:46](https://news.ycombinator.com/item?id=41949408) - [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
 * [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
@@ -29,7 +30,6 @@
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
 * [2024-10-22, 00:42:31](https://news.ycombinator.com/item?id=41910080) - [Show HN: Optimizing compiler for a large subset of C, written in Rust](https://github.com/xqb64/ucc)
-* [2024-10-21, 16:07:24](https://news.ycombinator.com/item?id=41905595) - [Making Of: Line Drawing Tutorial (2017)](https://www.redblobgames.com/making-of/line-drawing/)
 
 ## [Archives](archives/index.md)
 
