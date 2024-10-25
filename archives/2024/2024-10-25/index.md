@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 17:40:52](https://news.ycombinator.com/item?id=41947566) - [Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
+* [2024-10-25, 17:34:54](https://news.ycombinator.com/item?id=41947513) - [Infinite Git Repos on Cloudflare Workers](https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers)
 * [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
 * [2024-10-25, 17:00:53](https://news.ycombinator.com/item?id=41947169) - [Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)

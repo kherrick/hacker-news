@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 17:40:52](https://news.ycombinator.com/item?id=41947566) - [Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
+* [2024-10-25, 17:34:54](https://news.ycombinator.com/item?id=41947513) - [Infinite Git Repos on Cloudflare Workers](https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers)
 * [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
 * [2024-10-25, 17:00:53](https://news.ycombinator.com/item?id=41947169) - [Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
@@ -11,10 +13,8 @@
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 11:11:24](https://news.ycombinator.com/item?id=41944121) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
-* [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
-* [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-24, 20:04:52](https://news.ycombinator.com/item?id=41939189) - [Quit Social Media (2016)](https://calnewport.com/quit-social-media/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
