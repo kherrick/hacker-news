@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-25, 22:17:57",
+      "https://news.ycombinator.com/item?id=41950392"
+    ],
+    [
+      "Wikipedia article blocked worldwide by Delhi High Court",
+      "https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 20:36:26",
       "https://news.ycombinator.com/item?id=41949424"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Optimizing compiler for a large subset of C, written in Rust",
       "https://github.com/xqb64/ucc"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 16:07:24",
-      "https://news.ycombinator.com/item?id=41905595"
-    ],
-    [
-      "Making Of: Line Drawing Tutorial (2017)",
-      "https://www.redblobgames.com/making-of/line-drawing/"
     ]
   ]
 ]
