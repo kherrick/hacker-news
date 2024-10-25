@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 06:27:20](https://news.ycombinator.com/item?id=41942746) - [Italy declares its \"web tax\" applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 03:42:11](https://news.ycombinator.com/item?id=41942023) - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
@@ -17,6 +16,7 @@
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
 * [2024-10-24, 19:23:38](https://news.ycombinator.com/item?id=41938819) - [Lingo: A Go micro language framework for building Domain Specific Languages](https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/)
 * [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
+* [2024-10-24, 18:29:23](https://news.ycombinator.com/item?id=41938204) - [Data viz project that maps all earthquakes by magnitude](https://seismic-explorer.concord.org)
 * [2024-10-24, 17:53:26](https://news.ycombinator.com/item?id=41937815) - [Zigler: Zig NIFs in Elixir](https://github.com/E-xyza/zigler)
 * [2024-10-24, 17:36:06](https://news.ycombinator.com/item?id=41937664) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
