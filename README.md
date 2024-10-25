@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 03:14:58](https://news.ycombinator.com/item?id=41941930) - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
@@ -8,6 +7,7 @@
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+* [2024-10-24, 20:19:48](https://news.ycombinator.com/item?id=41939318) - [Boeing 787s must be reset every 51 days or 'misleading data' is shown (2020)](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 * [2024-10-24, 20:04:52](https://news.ycombinator.com/item?id=41939189) - [Quit Social Media (2016)](https://calnewport.com/quit-social-media/)
 * [2024-10-24, 19:46:58](https://news.ycombinator.com/item?id=41939027) - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
