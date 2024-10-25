@@ -10,6 +10,7 @@
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-24, 21:20:45](https://news.ycombinator.com/item?id=41939911) - [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
 * [2024-10-24, 21:00:46](https://news.ycombinator.com/item?id=41939714) - [Viva Labs (YC W22) Is Hiring Video/Image AI Research Lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
+* [2024-10-24, 20:22:37](https://news.ycombinator.com/item?id=41939347) - [A Picture Is Worth 4.6 Terabits 19th-century photography technique employed](https://spectrum.ieee.org/clark-johnson-profile)
 * [2024-10-24, 20:19:48](https://news.ycombinator.com/item?id=41939318) - [Boeing 787s must be reset every 51 days or 'misleading data' is shown to pilots](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 * [2024-10-24, 20:04:52](https://news.ycombinator.com/item?id=41939189) - [Quit Social Media](https://calnewport.com/quit-social-media/)
 * [2024-10-24, 20:01:14](https://news.ycombinator.com/item?id=41939158) - [Ultra fast key value store (in C btw)](https://freshql.ai/blog_fast_storage.html)
