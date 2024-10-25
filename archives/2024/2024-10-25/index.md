@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 12:32:53](https://news.ycombinator.com/item?id=41944612) - [The \"Godfather of AI\" Predicted I Wouldn't Have a Job. He Was Wrong](https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction)
 * [2024-10-25, 09:57:44](https://news.ycombinator.com/item?id=41943756) - [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
+* [2024-10-25, 09:23:04](https://news.ycombinator.com/item?id=41943589) - [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
 * [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
