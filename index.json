@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-25, 19:29:56",
-      "https://news.ycombinator.com/item?id=41948773"
-    ],
-    [
-      "Tesla's Cybertruck is outselling almost every other EV in the U",
-      "https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 19:20:21",
       "https://news.ycombinator.com/item?id=41948666"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2024-10-25, 18:19:39",
+      "https://news.ycombinator.com/item?id=41948041"
+    ],
+    [
+      "Hacker attack causes log-in problems for Swiss media",
+      "https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 18:15:42",
       "https://news.ycombinator.com/item?id=41947985"
     ],
@@ -77,16 +77,6 @@
     [
       "Federal investigators probe Tether",
       "https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 18:07:59",
-      "https://news.ycombinator.com/item?id=41947890"
-    ],
-    [
-      "Geico repatriates work from the cloud, continues ambitious infra overhaul",
-      "https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Notes on the new Claude analysis JavaScript code execution tool",
       "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 22:41:03",
+      "https://news.ycombinator.com/item?id=41940580"
+    ],
+    [
+      "Bitwarden SDK relicensed from proprietary to GPLv3",
+      "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
     ]
   ],
   [
