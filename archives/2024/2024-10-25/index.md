@@ -14,6 +14,7 @@
 * [2024-10-25, 12:32:53](https://news.ycombinator.com/item?id=41944612) - [The \"Godfather of AI\" Predicted I Wouldn't Have a Job. He Was Wrong](https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction)
 * [2024-10-25, 11:41:04](https://news.ycombinator.com/item?id=41944284) - [Copilot vs. Cursor vs. Cody vs. Supermaven vs. Aider](https://www.vincentschmalbach.com/copilot-vs-cursor-vs-cody-vs-supermaven-vs-aider/)
 * [2024-10-25, 09:57:44](https://news.ycombinator.com/item?id=41943756) - [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
+* [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
 * [2024-10-25, 09:23:04](https://news.ycombinator.com/item?id=41943589) - [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
 * [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
