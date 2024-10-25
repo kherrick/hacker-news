@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=41950392"
     ],
     [
-      "Wikipedia article blocked worldwide by Delhi High Court",
+      "Wikipedia article blocked worldwide by Delhi high court",
       "https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 20:42:12",
-      "https://news.ycombinator.com/item?id=41949502"
-    ],
-    [
-      "Efficient Microresonator Frequency Combs",
-      "https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Notes on the new Claude analysis JavaScript code execution tool",
       "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 22:41:03",
+      "https://news.ycombinator.com/item?id=41940580"
+    ],
+    [
+      "Bitwarden SDK relicensed from proprietary to GPLv3",
+      "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
     ]
   ],
   [
