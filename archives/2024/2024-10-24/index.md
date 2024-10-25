@@ -35,6 +35,7 @@
 * [2024-10-24, 17:28:28](https://news.ycombinator.com/item?id=41937591) - [React Native – New Architecture is here](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
 * [2024-10-24, 17:25:42](https://news.ycombinator.com/item?id=41937572) - [Show HN: PreCog AI – Automatic AI Model Selection for Any Task](https://precog.ubik.studio/)
 * [2024-10-24, 17:20:03](https://news.ycombinator.com/item?id=41937531) - [Ozempic linked to lower Alzheimer's risk in people with Type 2 diabetes](https://www.nbcnews.com/health/health-news/ozempic-linked-lower-alzheimers-risk-people-type-2-diabetes-rcna176821)
+* [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese: Isotopic Analyses Confirm It](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 17:00:56](https://news.ycombinator.com/item?id=41937383) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)

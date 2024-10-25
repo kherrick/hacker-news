@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 18:46:43](https://news.ycombinator.com/item?id=41948348) - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
 * [2024-10-25, 18:19:39](https://news.ycombinator.com/item?id=41948041) - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
 * [2024-10-25, 18:17:45](https://news.ycombinator.com/item?id=41948012) - [The Raspberry Pi AI HAT+ with Up to 26 Tops](https://www.raspberrypi.com/news/raspberry-pi-ai-hat/)
 * [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
+* [2024-10-25, 18:15:06](https://news.ycombinator.com/item?id=41947980) - [LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 * [2024-10-25, 18:08:06](https://news.ycombinator.com/item?id=41947892) - [Federal Investigators Probe Cryptocurrency Firm Tether](https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5)
 * [2024-10-25, 18:07:59](https://news.ycombinator.com/item?id=41947890) - [Geico repatriates work from the cloud, continues ambitious infra overhaul](https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/)
 * [2024-10-25, 18:05:44](https://news.ycombinator.com/item?id=41947865) - [Our Investment in Pacific Fusion](https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/)
@@ -16,8 +18,10 @@
 * [2024-10-25, 17:39:51](https://news.ycombinator.com/item?id=41947555) - [Fuckthis.app – Software products for exasperated people](https://justin.searls.co/shots/2024-10-25-12h33m45s/)
 * [2024-10-25, 17:34:54](https://news.ycombinator.com/item?id=41947513) - [Infinite Git Repos on Cloudflare Workers](https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers)
 * [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
+* [2024-10-25, 17:19:12](https://news.ycombinator.com/item?id=41947355) - [Dijkstra's algorithm prove as universally optimal way to find graph's best route](https://arxiv.org/abs/2311.11793)
 * [2024-10-25, 17:03:52](https://news.ycombinator.com/item?id=41947201) - [The future of software is Nix](https://determinate.systems/posts/the-future-is-nix/)
 * [2024-10-25, 17:00:53](https://news.ycombinator.com/item?id=41947169) - [Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase](https://www.instantdb.com/hiring)
+* [2024-10-25, 16:57:29](https://news.ycombinator.com/item?id=41947135) - [How Excessive Red Meat Consumption Increases Colorectal Cancer Risk](https://www.nccs.com.sg/news/research/scientists-discover-how-excessive-red-meat-consumption-increases-colorectal-cancer-risk)
 * [2024-10-25, 16:54:54](https://news.ycombinator.com/item?id=41947105) - [US satellite jammer is set for delivery as flaws are fixed](https://www.bloomberg.com/news/articles/2024-10-24/space-jammer-to-aim-at-russian-chinese-satellites-is-readied-as-flaws-are-fixed)
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
 * [2024-10-25, 15:57:45](https://news.ycombinator.com/item?id=41946497) - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
