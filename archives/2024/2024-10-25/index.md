@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 17:54:20](https://news.ycombinator.com/item?id=41947730) - [Fraudsters steal 22 tonnes of high-value cheddar](https://www.bbc.co.uk/news/articles/cje03dq2pyyo)
+* [2024-10-25, 17:42:02](https://news.ycombinator.com/item?id=41947580) - [Superlinker: A tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 * [2024-10-25, 17:40:52](https://news.ycombinator.com/item?id=41947566) - [Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
 * [2024-10-25, 17:34:54](https://news.ycombinator.com/item?id=41947513) - [Infinite Git Repos on Cloudflare Workers](https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers)
 * [2024-10-25, 17:23:35](https://news.ycombinator.com/item?id=41947403) - [It's not just obesity. Drugs like Ozempic will change the world](https://www.economist.com/leaders/2024/10/24/its-not-just-obesity-drugs-like-ozempic-will-change-the-world)
@@ -11,6 +13,7 @@
 * [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
 * [2024-10-25, 15:57:45](https://news.ycombinator.com/item?id=41946497) - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
 * [2024-10-25, 15:48:27](https://news.ycombinator.com/item?id=41946401) - [Disposable vapes to be banned in England and Wales](https://www.bbc.com/news/articles/cd7n3zyp114o)
+* [2024-10-25, 15:46:50](https://news.ycombinator.com/item?id=41946386) - [Polish radio station ditches DJs, journalists for AI-generated college kids](https://www.theregister.com/2024/10/25/polish_radio_station_ai_hosts/)
 * [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:26:23](https://news.ycombinator.com/item?id=41946188) - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
