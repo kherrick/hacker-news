@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 09:57:44](https://news.ycombinator.com/item?id=41943756) - [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-25, 07:16:33](https://news.ycombinator.com/item?id=41942978) - [Law Enforcement Undermines Tor](https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/)
@@ -27,9 +26,10 @@
 * [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
+* [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
 * [2024-10-23, 05:56:07](https://news.ycombinator.com/item?id=41922216) - [Writer Underwriting Writer](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)
 * [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
-* [2024-10-22, 05:43:18](https://news.ycombinator.com/item?id=41911513) - [Species in Pieces](http://species-in-pieces.com)
+* [2024-10-22, 05:02:16](https://news.ycombinator.com/item?id=41911335) - [The Script Creator](https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred)
 
 ## [Archives](archives/index.md)
 
