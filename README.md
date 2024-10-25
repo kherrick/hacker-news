@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 00:54:55](https://news.ycombinator.com/item?id=41941312) - [Women in tech still face a torrid time from LinkedIn lechers](https://www.crikey.com.au/2024/10/25/wisetech-linkedin-richard-white-tech-industry-women-stem/)
+* [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
+* [2024-10-25, 01:12:00](https://news.ycombinator.com/item?id=41941414) - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
 * [2024-10-25, 00:53:59](https://news.ycombinator.com/item?id=41941308) - [Show HN: Rust based AWS Lambda Logs Viewer (TUI)](https://github.com/resola-ai/rust-aws-tui)
 * [2024-10-25, 00:05:08](https://news.ycombinator.com/item?id=41941052) - [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
 * [2024-10-24, 23:17:40](https://news.ycombinator.com/item?id=41940778) - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
@@ -19,17 +20,16 @@
 * [2024-10-24, 17:36:06](https://news.ycombinator.com/item?id=41937664) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
-* [2024-10-24, 16:43:27](https://news.ycombinator.com/item?id=41937218) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 12:15:27](https://news.ycombinator.com/item?id=41934746) - [Show HN: 2048 turned 10 this year, I built an updated version to celebrate](https://play2048.co)
-* [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 13:33:49](https://news.ycombinator.com/item?id=41924917) - [Self-Documenting Code](https://lackofimagination.org/2024/10/self-documenting-code/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
 * [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
 * [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
+* [2024-10-22, 05:43:18](https://news.ycombinator.com/item?id=41911513) - [Species in Pieces](http://species-in-pieces.com)
 
 ## [Archives](archives/index.md)
 
