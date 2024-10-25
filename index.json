@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-10-24, 22:41:03",
-      "https://news.ycombinator.com/item?id=41940580"
-    ],
-    [
-      "Bitwarden SDK relicensed from proprietary to GPLv3",
-      "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 20:22:37",
       "https://news.ycombinator.com/item?id=41939347"
     ],
@@ -267,6 +257,16 @@
     [
       "TCP over TCP is a bad idea (2000)",
       "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 01:42:15",
+      "https://news.ycombinator.com/item?id=41920822"
+    ],
+    [
+      "Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]",
+      "https://inria.hal.science/hal-01568396v1/document"
     ]
   ],
   [
