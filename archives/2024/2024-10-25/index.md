@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 16:12:59](https://news.ycombinator.com/item?id=41946671) - [New species of tardigrade reveals secrets of radiation-resisting powers](https://www.nature.com/articles/d41586-024-03484-1)
+* [2024-10-25, 15:57:45](https://news.ycombinator.com/item?id=41946497) - [Ensuring Stability and Security: Recent Timeline](https://wpengine.com/blog/ensuring-stability-and-security/)
+* [2024-10-25, 15:48:27](https://news.ycombinator.com/item?id=41946401) - [Disposable vapes to be banned in England and Wales](https://www.bbc.com/news/articles/cd7n3zyp114o)
+* [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:26:23](https://news.ycombinator.com/item?id=41946188) - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:54:15](https://news.ycombinator.com/item?id=41945838) - [Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)

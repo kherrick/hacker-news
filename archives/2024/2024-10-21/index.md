@@ -47,6 +47,7 @@
 * [2024-10-21, 17:03:38](https://news.ycombinator.com/item?id=41906093) - [Wild animals are spiraling to extinction. Can a bunch of bureaucrats save them?](https://www.vox.com/down-to-earth/378593/cop16-united-nations-cali-columbia-convention-bioligical-diversity-nature-conservation)
 * [2024-10-21, 16:26:49](https://news.ycombinator.com/item?id=41905765) - [Extinction of the Influenza B Yamagata Line During the Covid Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/)
 * [2024-10-21, 16:14:31](https://news.ycombinator.com/item?id=41905664) - [Dracula author's lost story unearthed after 134 years](https://www.bbc.com/news/articles/c4g9119l64qo)
+* [2024-10-21, 16:07:24](https://news.ycombinator.com/item?id=41905595) - [Making Of: Line Drawing Tutorial (2017)](https://www.redblobgames.com/making-of/line-drawing/)
 * [2024-10-21, 15:56:06](https://news.ycombinator.com/item?id=41905477) - [Brain endurance training improves older adults' cognitive, physical performance](https://www.sciencedirect.com/science/article/pii/S1469029224001687)
 * [2024-10-21, 15:27:40](https://news.ycombinator.com/item?id=41905215) - [Can SpaceX land a rocket with 1/2 cm accuracy?](https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/)
 * [2024-10-21, 15:22:12](https://news.ycombinator.com/item?id=41905167) - [Ask HN: How to learn UI/UX as a data/BE engineer?](https://news.ycombinator.com/item?id=41905167)
