@@ -2,7 +2,6 @@
 
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
-* [2024-10-25, 03:42:11](https://news.ycombinator.com/item?id=41942023) - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 * [2024-10-25, 03:14:58](https://news.ycombinator.com/item?id=41941930) - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 * [2024-10-25, 03:04:52](https://news.ycombinator.com/item?id=41941883) - [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
@@ -23,6 +22,7 @@
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
+* [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-23, 08:45:37](https://news.ycombinator.com/item?id=41923109) - [A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)
