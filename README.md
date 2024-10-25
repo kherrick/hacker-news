@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-25, 07:35:25](https://news.ycombinator.com/item?id=41943063) - [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)
@@ -11,6 +10,7 @@
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+* [2024-10-24, 20:19:48](https://news.ycombinator.com/item?id=41939318) - [Boeing 787s must be reset every 51 days or 'misleading data' is shown (2020)](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 * [2024-10-24, 20:04:52](https://news.ycombinator.com/item?id=41939189) - [Quit Social Media (2016)](https://calnewport.com/quit-social-media/)
 * [2024-10-24, 19:46:58](https://news.ycombinator.com/item?id=41939027) - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – A new compatible Gaussian splatting engine](https://github.com/ArthurBrussee/brush)
