@@ -2,7 +2,6 @@
 
 * [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
 * [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
-* [2024-10-25, 20:34:46](https://news.ycombinator.com/item?id=41949408) - [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
 * [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
 * [2024-10-25, 20:02:36](https://news.ycombinator.com/item?id=41949098) - [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
@@ -21,6 +20,7 @@
 * [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers discover complex carbon molecules in interstellar space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
+* [2024-10-25, 13:59:25](https://news.ycombinator.com/item?id=41945372) - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic (2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
 * [2024-10-24, 20:22:37](https://news.ycombinator.com/item?id=41939347) - [19th-century photography technique employed in novel data storage method](https://spectrum.ieee.org/clark-johnson-profile)
