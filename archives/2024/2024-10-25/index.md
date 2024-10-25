@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
 * [2024-10-25, 06:27:20](https://news.ycombinator.com/item?id=41942746) - [Italy declares its \"web tax\" applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 03:14:58](https://news.ycombinator.com/item?id=41941930) - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
@@ -18,7 +19,6 @@
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
-* [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
