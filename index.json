@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-25, 19:16:16",
-      "https://news.ycombinator.com/item?id=41948631"
-    ],
-    [
-      "Jeff Bezos kills Washington Post editorial board presidential endorsement",
-      "https://www.washingtonpost.com/style/media/2024/10/25/washington-post-endorsement-president/"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 18:54:28",
       "https://news.ycombinator.com/item?id=41948433"
     ],
@@ -37,16 +27,6 @@
     [
       "Hacker attack causes log-in problems for Swiss media",
       "https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 18:17:45",
-      "https://news.ycombinator.com/item?id=41948012"
-    ],
-    [
-      "The Raspberry Pi AI HAT+ with Up to 26 Tops",
-      "https://www.raspberrypi.com/news/raspberry-pi-ai-hat/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-10-24, 22:41:03",
+      "https://news.ycombinator.com/item?id=41940580"
+    ],
+    [
+      "Bitwarden SDK relicensed from proprietary to GPLv3",
+      "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 20:22:37",
       "https://news.ycombinator.com/item?id=41939347"
     ],
@@ -257,6 +247,16 @@
     [
       "TCP over TCP is a bad idea (2000)",
       "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 16:55:08",
+      "https://news.ycombinator.com/item?id=41926907"
+    ],
+    [
+      "Yes, we did discover the Higgs",
+      "https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/"
     ]
   ],
   [
