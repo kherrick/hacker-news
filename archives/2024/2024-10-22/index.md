@@ -34,6 +34,7 @@
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
 * [2024-10-22, 16:06:55](https://news.ycombinator.com/item?id=41915724) - [The PlanetScale vectors public beta](https://planetscale.com/blog/announcing-planetscale-vectors-public-beta)
+* [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 * [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
 * [2024-10-22, 15:17:31](https://news.ycombinator.com/item?id=41915134) - [The Human Cost of Our AI-Driven Future](https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/)
 * [2024-10-22, 15:10:01](https://news.ycombinator.com/item?id=41915060) - [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 19:29:56](https://news.ycombinator.com/item?id=41948773) - [Tesla's Cybertruck is outselling almost every other EV in the U](https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10)
+* [2024-10-25, 19:20:21](https://news.ycombinator.com/item?id=41948666) - [UK Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 * [2024-10-25, 19:16:16](https://news.ycombinator.com/item?id=41948631) - [Jeff Bezos kills Washington Post editorial board presidential endorsement](https://www.washingtonpost.com/style/media/2024/10/25/washington-post-endorsement-president/)
 * [2024-10-25, 18:54:28](https://news.ycombinator.com/item?id=41948433) - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 * [2024-10-25, 18:46:43](https://news.ycombinator.com/item?id=41948348) - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
