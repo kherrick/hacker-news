@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-25, 19:16:16",
+      "https://news.ycombinator.com/item?id=41948631"
+    ],
+    [
+      "Jeff Bezos kills Washington Post editorial board presidential endorsement",
+      "https://www.washingtonpost.com/style/media/2024/10/25/washington-post-endorsement-president/"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:54:28",
+      "https://news.ycombinator.com/item?id=41948433"
+    ],
+    [
+      "OmniParser for Pure Vision Based GUI Agent",
+      "https://microsoft.github.io/OmniParser/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 18:46:43",
       "https://news.ycombinator.com/item?id=41948348"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-10-25, 18:05:44",
-      "https://news.ycombinator.com/item?id=41947865"
-    ],
-    [
-      "A high-profile geneticist is launching Pacific Fusion",
-      "https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 17:40:52",
       "https://news.ycombinator.com/item?id=41947566"
     ],
@@ -107,16 +117,6 @@
     [
       "Dijkstra's algorithm prove as universally optimal way to find graph's best route",
       "https://arxiv.org/abs/2311.11793"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 17:03:52",
-      "https://news.ycombinator.com/item?id=41947201"
-    ],
-    [
-      "The future of software is Nix",
-      "https://determinate.systems/posts/the-future-is-nix/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-10-24, 22:41:03",
-      "https://news.ycombinator.com/item?id=41940580"
-    ],
-    [
-      "Bitwarden SDK relicensed from proprietary to GPLv3",
-      "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 20:22:37",
       "https://news.ycombinator.com/item?id=41939347"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-10-23, 16:55:08",
-      "https://news.ycombinator.com/item?id=41926907"
+      "2024-10-24, 12:50:28",
+      "https://news.ycombinator.com/item?id=41934992"
     ],
     [
-      "Yes, we did discover the Higgs",
-      "https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/"
+      "TCP over TCP is a bad idea (2000)",
+      "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Pygfx",
       "https://docs.pygfx.org/stable/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 14:35:57",
+      "https://news.ycombinator.com/item?id=41914736"
+    ],
+    [
+      "Streaming Joins Are Hard",
+      "https://estuary.dev/streaming-joins-are-hard/"
     ]
   ],
   [
