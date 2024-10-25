@@ -81,5 +81,6 @@
 * [2024-10-22, 00:42:51](https://news.ycombinator.com/item?id=41910084) - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2024-10-22, 00:25:46](https://news.ycombinator.com/item?id=41909967) - [Apple's AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
 * [2024-10-22, 00:20:31](https://news.ycombinator.com/item?id=41909941) - [Wired's Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
+* [2024-10-22, 00:19:10](https://news.ycombinator.com/item?id=41909933) - [Humans Are Evolving Right Before Our Eyes on the Tibetan Plateau](https://www.sciencealert.com/humans-are-evolving-right-before-our-eyes-on-the-tibetan-plateau)
 * [2024-10-22, 00:13:07](https://news.ycombinator.com/item?id=41909897) - [Transformers Utilization in Chart Understanding: A Review of Advances and Future](https://arxiv.org/abs/2410.13883)
 * [2024-10-22, 00:01:23](https://news.ycombinator.com/item?id=41909827) - [Learning to Learn](https://kevin.the.li/posts/learning-to-learn/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
+* [2024-10-25, 14:19:31](https://news.ycombinator.com/item?id=41945562) - [Microsoft CEO Nadella asked for pay reduction after security slip](https://www.cnbc.com/2024/10/24/microsoft-ceo-nadella-requested-pay-reduction-after-security-incidents.html)
+* [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-25, 13:05:30](https://news.ycombinator.com/item?id=41944882) - [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
-* [2024-10-25, 12:59:41](https://news.ycombinator.com/item?id=41944836) - [Astronauts return from nearly eight months on ISS after Starliner problems](https://www.theguardian.com/science/2024/oct/25/spacex-astronauts-return-to-earth-after-delay-due-to-boeing-capsule-snags)
 * [2024-10-25, 12:35:21](https://news.ycombinator.com/item?id=41944637) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use/)
 * [2024-10-25, 09:23:04](https://news.ycombinator.com/item?id=41943589) - [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
@@ -26,10 +26,10 @@
 * [2024-10-24, 00:21:36](https://news.ycombinator.com/item?id=41930628) - [Show HN: RF Hunter – Find hidden cameras and other devices](https://github.com/RamboRogers/rfhunter)
 * [2024-10-23, 16:55:08](https://news.ycombinator.com/item?id=41926907) - [Yes, we did discover the Higgs](https://theoryandpractice.org/2024/10/Yes,%20we%20did%20discover%20the%20Higgs!/)
 * [2024-10-23, 11:00:15](https://news.ycombinator.com/item?id=41923753) - [Never Missing the Train Again](https://lilymara.xyz/posts/2024/01/transit-kindle/)
-* [2024-10-23, 08:45:37](https://news.ycombinator.com/item?id=41923109) - [A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)
 * [2024-10-23, 05:56:07](https://news.ycombinator.com/item?id=41922216) - [Writer Underwriting Writer](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)
 * [2024-10-22, 22:13:38](https://news.ycombinator.com/item?id=41919275) - [The Ballad of the Inquisition's Greatest Witch Trial](https://www.historytoday.com/archive/history-matters/ballad-inquisitions-greatest-witch-trial)
 * [2024-10-22, 05:02:16](https://news.ycombinator.com/item?id=41911335) - [The Script Creator](https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred)
+* [2024-10-22, 00:19:10](https://news.ycombinator.com/item?id=41909933) - [Humans Are Evolving Right Before Our Eyes on the Tibetan Plateau](https://www.sciencealert.com/humans-are-evolving-right-before-our-eyes-on-the-tibetan-plateau)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 14:19:31](https://news.ycombinator.com/item?id=41945562) - [Microsoft CEO Nadella asked for pay reduction after security slip](https://www.cnbc.com/2024/10/24/microsoft-ceo-nadella-requested-pay-reduction-after-security-incidents.html)
+* [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets instead of appearing in the nude](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-25, 13:05:30](https://news.ycombinator.com/item?id=41944882) - [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889)
