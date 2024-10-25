@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
+* [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 03:42:11](https://news.ycombinator.com/item?id=41942023) - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 * [2024-10-25, 03:14:58](https://news.ycombinator.com/item?id=41941930) - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
+* [2024-10-25, 03:04:52](https://news.ycombinator.com/item?id=41941883) - [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
 * [2024-10-25, 01:26:45](https://news.ycombinator.com/item?id=41941493) - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
 * [2024-10-25, 01:12:00](https://news.ycombinator.com/item?id=41941414) - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
 * [2024-10-25, 00:54:55](https://news.ycombinator.com/item?id=41941312) - [Women in tech still face a torrid time from LinkedIn lechers](https://www.crikey.com.au/2024/10/25/wisetech-linkedin-richard-white-tech-industry-women-stem/)
