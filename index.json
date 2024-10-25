@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-25, 18:46:43",
+      "https://news.ycombinator.com/item?id=41948348"
+    ],
+    [
+      "Electro-agriculture: Revolutionizing farming for a sustainable future",
+      "https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 18:19:39",
       "https://news.ycombinator.com/item?id=41948041"
     ],
@@ -27,6 +37,16 @@
     [
       "The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]",
       "https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:15:06",
+      "https://news.ycombinator.com/item?id=41947980"
+    ],
+    [
+      "LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C",
+      "https://www.netsurf-browser.org/projects/libnsfb/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-10-25, 17:54:20",
-      "https://news.ycombinator.com/item?id=41947730"
-    ],
-    [
-      "Fraudsters steal 22 tonnes of high-value cheddar",
-      "https://www.bbc.co.uk/news/articles/cje03dq2pyyo"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 17:40:52",
       "https://news.ycombinator.com/item?id=41947566"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-10-25, 17:19:12",
+      "https://news.ycombinator.com/item?id=41947355"
+    ],
+    [
+      "Dijkstra's algorithm prove as universally optimal way to find graph's best route",
+      "https://arxiv.org/abs/2311.11793"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 17:03:52",
       "https://news.ycombinator.com/item?id=41947201"
     ],
@@ -107,6 +127,16 @@
     [
       "Instant (YC S22) is hiring a founding engineer to build a modern Firebase",
       "https://www.instantdb.com/hiring"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 16:57:29",
+      "https://news.ycombinator.com/item?id=41947135"
+    ],
+    [
+      "How Excessive Red Meat Consumption Increases Colorectal Cancer Risk",
+      "https://www.nccs.com.sg/news/research/scientists-discover-how-excessive-red-meat-consumption-increases-colorectal-cancer-risk"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-10-25, 01:26:45",
-      "https://news.ycombinator.com/item?id=41941493"
-    ],
-    [
-      "OpenFeature – a vendor-agnostic, community-driven API for feature flagging",
-      "https://github.com/open-feature"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 22:41:03",
       "https://news.ycombinator.com/item?id=41940580"
     ],
     [
       "Bitwarden SDK relicensed from proprietary to GPLv3",
       "https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 21:26:09",
-      "https://news.ycombinator.com/item?id=41939967"
-    ],
-    [
-      "Why Safety Profiles Failed",
-      "https://www.circle-lang.org/draft-profiles.html"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2024-10-24, 20:04:52",
-      "https://news.ycombinator.com/item?id=41939189"
+      "2024-10-24, 17:16:51",
+      "https://news.ycombinator.com/item?id=41937507"
     ],
     [
-      "Quit Social Media (2016)",
-      "https://calnewport.com/quit-social-media/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 18:52:44",
-      "https://news.ycombinator.com/item?id=41938473"
-    ],
-    [
-      "Quantized Llama models with increased speed and a reduced memory footprint",
-      "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1"
+      "All political ads running on Google in the US",
+      "https://adstransparency.google.com/political?region=US&topic=political"
     ]
   ],
   [
