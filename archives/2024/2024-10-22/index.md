@@ -82,6 +82,7 @@
 * [2024-10-22, 00:52:16](https://news.ycombinator.com/item?id=41910124) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-22, 00:46:44](https://news.ycombinator.com/item?id=41910106) - [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
 * [2024-10-22, 00:42:51](https://news.ycombinator.com/item?id=41910084) - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+* [2024-10-22, 00:42:31](https://news.ycombinator.com/item?id=41910080) - [Show HN: Optimizing compiler for a large subset of C, written in Rust](https://github.com/xqb64/ucc)
 * [2024-10-22, 00:25:46](https://news.ycombinator.com/item?id=41909967) - [Apple's AirPods Pro hearing health features are as good as they sound](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
 * [2024-10-22, 00:20:31](https://news.ycombinator.com/item?id=41909941) - [Wired's Attack on Privacy](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 * [2024-10-22, 00:19:10](https://news.ycombinator.com/item?id=41909933) - [Humans Are Evolving Right Before Our Eyes on the Tibetan Plateau](https://www.sciencealert.com/humans-are-evolving-right-before-our-eyes-on-the-tibetan-plateau)

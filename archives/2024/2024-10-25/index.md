@@ -7,6 +7,7 @@
 * [2024-10-25, 21:36:25](https://news.ycombinator.com/item?id=41950039) - [No Way Down: Chemical Release at Wacker Polysilicon [video]](https://www.youtube.com/watch?v=CcMnf86n8_U)
 * [2024-10-25, 20:38:51](https://news.ycombinator.com/item?id=41949455) - [Namecheap charged my card, didn't deliver the domain, then upped price by 200x](https://news.ycombinator.com/item?id=41949455)
 * [2024-10-25, 20:37:51](https://news.ycombinator.com/item?id=41949441) - [US Copyright Office \"frees the McFlurry,\" allowing repair of ice cream machines](https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/)
+* [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
 * [2024-10-25, 20:34:46](https://news.ycombinator.com/item?id=41949408) - [Did too many games release in Q3 of 2024?](https://howtomarketagame.com/2024/10/24/did-too-many-games-release-in-q3-of-2024/)
 * [2024-10-25, 20:33:40](https://news.ycombinator.com/item?id=41949388) - [5th Circuit Can't Wait to Lock You into Scammy Subscriptions for a Little Longer](https://ballsandstrikes.org/law-politics/click-to-cancel-ftc-fifth-circuit/)
 * [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos Killed Washington Post Endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
