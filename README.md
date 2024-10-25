@@ -27,8 +27,8 @@
 * [2024-10-23, 10:03:53](https://news.ycombinator.com/item?id=41923518) - [TLA from First Principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-23, 08:45:37](https://news.ycombinator.com/item?id=41923109) - [A Primer on Vintage Cassette Decks: How to Find a Good One](https://insheepsclothinghifi.com/a-primer-on-vintage-cassette-decks-how-to-find-a-good-one/)
 * [2024-10-23, 08:29:41](https://news.ycombinator.com/item?id=41923018) - [The Anvil Text Editor](http://anvil-editor.net/)
-* [2024-10-23, 05:56:07](https://news.ycombinator.com/item?id=41922216) - [Writer Underwriting Writer](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)
 * [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
+* [2024-10-22, 05:43:18](https://news.ycombinator.com/item?id=41911513) - [Species in Pieces](http://species-in-pieces.com)
 * [2024-10-22, 05:02:16](https://news.ycombinator.com/item?id=41911335) - [The Script Creator](https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred)
 
 ## [Archives](archives/index.md)
