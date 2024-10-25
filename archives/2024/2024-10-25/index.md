@@ -6,6 +6,7 @@
 
 * [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
 * [2024-10-25, 21:36:25](https://news.ycombinator.com/item?id=41950039) - [No Way Down: Chemical Release at Wacker Polysilicon [video]](https://www.youtube.com/watch?v=CcMnf86n8_U)
+* [2024-10-25, 20:42:12](https://news.ycombinator.com/item?id=41949502) - [Efficient Microresonator Frequency Combs](https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5)
 * [2024-10-25, 20:38:51](https://news.ycombinator.com/item?id=41949455) - [Namecheap charged my card, didn't deliver the domain, then upped price by 200x](https://news.ycombinator.com/item?id=41949455)
 * [2024-10-25, 20:37:51](https://news.ycombinator.com/item?id=41949441) - [US Copyright Office \"frees the McFlurry,\" allowing repair of ice cream machines](https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/)
 * [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)

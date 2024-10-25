@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
+* [2024-10-25, 20:42:12](https://news.ycombinator.com/item?id=41949502) - [Efficient Microresonator Frequency Combs](https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5)
 * [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
 * [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
@@ -29,7 +30,6 @@
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
-* [2024-10-22, 00:42:31](https://news.ycombinator.com/item?id=41910080) - [Show HN: Optimizing compiler for a large subset of C, written in Rust](https://github.com/xqb64/ucc)
 
 ## [Archives](archives/index.md)
 
