@@ -9,6 +9,7 @@
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-25, 07:35:25](https://news.ycombinator.com/item?id=41943063) - [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)
+* [2024-10-25, 07:16:33](https://news.ycombinator.com/item?id=41942978) - [Law Enforcement Undermines Tor](https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/)
 * [2024-10-25, 06:27:20](https://news.ycombinator.com/item?id=41942746) - [Italy declares its \"web tax\" applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
