@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi High Court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
-* [2024-10-25, 20:42:12](https://news.ycombinator.com/item?id=41949502) - [Efficient Microresonator Frequency Combs](https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5)
+* [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi high court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
 * [2024-10-25, 20:36:26](https://news.ycombinator.com/item?id=41949424) - [KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects](https://kitops.ml/docs/overview.html)
 * [2024-10-25, 20:22:52](https://news.ycombinator.com/item?id=41949297) - [Jeff Bezos killed Washington Post endorsement of Kamala Harris](https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html)
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
@@ -24,6 +23,7 @@
 * [2024-10-25, 13:59:25](https://news.ycombinator.com/item?id=41945372) - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic (2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
+* [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 20:22:37](https://news.ycombinator.com/item?id=41939347) - [19th-century photography technique employed in novel data storage method](https://spectrum.ieee.org/clark-johnson-profile)
 * [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
 * [2024-10-24, 12:50:28](https://news.ycombinator.com/item?id=41934992) - [TCP over TCP is a bad idea (2000)](https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html)
