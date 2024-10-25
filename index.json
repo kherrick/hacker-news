@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-10-25, 18:19:39",
+      "https://news.ycombinator.com/item?id=41948041"
+    ],
+    [
+      "Hacker attack causes log-in problems for Swiss media",
+      "https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:17:45",
+      "https://news.ycombinator.com/item?id=41948012"
+    ],
+    [
+      "The Raspberry Pi AI HAT+ with Up to 26 Tops",
+      "https://www.raspberrypi.com/news/raspberry-pi-ai-hat/"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:15:42",
+      "https://news.ycombinator.com/item?id=41947985"
+    ],
+    [
+      "The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]",
+      "https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:08:06",
+      "https://news.ycombinator.com/item?id=41947892"
+    ],
+    [
+      "Federal Investigators Probe Cryptocurrency Firm Tether",
+      "https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:07:59",
+      "https://news.ycombinator.com/item?id=41947890"
+    ],
+    [
+      "Geico repatriates work from the cloud, continues ambitious infra overhaul",
+      "https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:05:44",
+      "https://news.ycombinator.com/item?id=41947865"
+    ],
+    [
+      "Our Investment in Pacific Fusion",
+      "https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 17:54:20",
       "https://news.ycombinator.com/item?id=41947730"
     ],
@@ -31,12 +91,32 @@
   ],
   [
     [
+      "2024-10-25, 17:39:51",
+      "https://news.ycombinator.com/item?id=41947555"
+    ],
+    [
+      "Fuckthis.app – Software products for exasperated people",
+      "https://justin.searls.co/shots/2024-10-25-12h33m45s/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 17:34:54",
       "https://news.ycombinator.com/item?id=41947513"
     ],
     [
-      "Infinite Git Repos on Cloudflare Workers",
+      "Infinite Git repos on Cloudflare workers",
       "https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 17:03:52",
+      "https://news.ycombinator.com/item?id=41947201"
+    ],
+    [
+      "The future of software is Nix",
+      "https://determinate.systems/posts/the-future-is-nix/"
     ]
   ],
   [
@@ -45,7 +125,7 @@
       "https://news.ycombinator.com/item?id=41947169"
     ],
     [
-      "Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase",
+      "Instant (YC S22) is hiring a founding engineer to build a modern Firebase",
       "https://www.instantdb.com/hiring"
     ]
   ],
@@ -61,32 +141,12 @@
   ],
   [
     [
-      "2024-10-25, 15:46:50",
-      "https://news.ycombinator.com/item?id=41946386"
+      "2024-10-25, 15:53:10",
+      "https://news.ycombinator.com/item?id=41946453"
     ],
     [
-      "Polish radio station ditches DJs, journalists for AI-generated college kids",
-      "https://www.theregister.com/2024/10/25/polish_radio_station_ai_hosts/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 15:46:22",
-      "https://news.ycombinator.com/item?id=41946381"
-    ],
-    [
-      "Astronomers Discover Complex Carbon Molecules in Interstellar Space",
-      "https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 15:26:23",
-      "https://news.ycombinator.com/item?id=41946188"
-    ],
-    [
-      "Smartphone buyers meh on AI, care more about battery life",
-      "https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/"
+      "SELinux Bypasses",
+      "https://klecko.github.io/posts/selinux-bypasses/"
     ]
   ],
   [
@@ -125,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41945308"
     ],
     [
-      "Category Theory Illustrated: Logic(2021)",
+      "Category Theory Illustrated: Logic (2021)",
       "https://abuseofnotation.github.io/category-theory-illustrated/05_logic/"
     ]
   ],
@@ -135,7 +195,7 @@
       "https://news.ycombinator.com/item?id=41944121"
     ],
     [
-      "Unsafe Rust Is Harder Than C",
+      "Unsafe Rust is harder than C",
       "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
     ]
   ],
@@ -181,22 +241,22 @@
   ],
   [
     [
+      "2024-10-24, 20:22:37",
+      "https://news.ycombinator.com/item?id=41939347"
+    ],
+    [
+      "A Picture Is Worth 4.6 Terabits 19th-century photography technique employed",
+      "https://spectrum.ieee.org/clark-johnson-profile"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 20:04:52",
       "https://news.ycombinator.com/item?id=41939189"
     ],
     [
       "Quit Social Media (2016)",
       "https://calnewport.com/quit-social-media/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 19:24:36",
-      "https://news.ycombinator.com/item?id=41938831"
-    ],
-    [
-      "Brush – A new compatible Gaussian splatting engine",
-      "https://github.com/ArthurBrussee/brush"
     ]
   ],
   [
@@ -211,66 +271,6 @@
   ],
   [
     [
-      "2024-10-24, 17:53:26",
-      "https://news.ycombinator.com/item?id=41937815"
-    ],
-    [
-      "Zigler: Zig NIFs in Elixir",
-      "https://github.com/E-xyza/zigler"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 17:36:06",
-      "https://news.ycombinator.com/item?id=41937664"
-    ],
-    [
-      "Security research on Private Cloud Compute",
-      "https://security.apple.com/blog/pcc-security-research/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 17:08:43",
-      "https://news.ycombinator.com/item?id=41937443"
-    ],
-    [
-      "The Lion of St. Mark's Square in Venice Is Chinese",
-      "https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 16:54:53",
-      "https://news.ycombinator.com/item?id=41937319"
-    ],
-    [
-      "Post World War II Food",
-      "https://www.nps.gov/articles/post-wwii-food.htm"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 07:35:56",
-      "https://news.ycombinator.com/item?id=41932995"
-    ],
-    [
-      "LibLISA – Instruction Discovery and Analysis on x86-64",
-      "https://liblisa.nl/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 00:21:36",
-      "https://news.ycombinator.com/item?id=41930628"
-    ],
-    [
-      "Show HN: RF Hunter – Find hidden cameras and other devices",
-      "https://github.com/RamboRogers/rfhunter"
-    ]
-  ],
-  [
-    [
       "2024-10-23, 16:55:08",
       "https://news.ycombinator.com/item?id=41926907"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-10-23, 11:00:15",
-      "https://news.ycombinator.com/item?id=41923753"
+      "2024-10-22, 22:10:03",
+      "https://news.ycombinator.com/item?id=41919246"
     ],
     [
-      "Never Missing the Train Again",
-      "https://lilymara.xyz/posts/2024/01/transit-kindle/"
+      "Pygfx",
+      "https://docs.pygfx.org/stable/index.html"
     ]
   ],
   [
