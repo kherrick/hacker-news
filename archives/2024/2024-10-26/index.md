@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+* [2024-10-26, 13:58:27](https://news.ycombinator.com/item?id=41954755) - [Hacktoberfest 2024](https://hacktoberfest.com)
 * [2024-10-26, 12:53:09](https://news.ycombinator.com/item?id=41954445) - [Lily Allen Says Her OnlyFans Feet Pictures Make More Money Than Spotify Streams](https://variety.com/2024/music/news/lily-allen-onlyfans-feet-pictures-spotify-1236191247/)
 * [2024-10-26, 08:43:40](https://news.ycombinator.com/item?id=41953494) - [On Linux MAINTAINERS file removal of Russian developers](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
 * [2024-10-26, 08:12:44](https://news.ycombinator.com/item?id=41953365) - [Cancellation of Naval Academy Lecture by Ruth Ben-Ghiat Threatens Inst. Autonomy](https://pen.org/press-release/cancellation-of-naval-academy-lecture-by-ruth-ben-ghiat-at-behest-of-republican-politicians-threatens-institutional-autonomy/)
