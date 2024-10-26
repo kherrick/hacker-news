@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 21:23:55](https://news.ycombinator.com/item?id=41957829) - [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
@@ -9,7 +10,6 @@
 * [2024-10-26, 17:09:48](https://news.ycombinator.com/item?id=41956089) - [Opera will always help you block ads natively](https://blogs.opera.com/news/2024/10/opera-support-manifest-v2-ad-blocking/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 16:01:16](https://news.ycombinator.com/item?id=41955580) - [Identifying factors contributing to \"bad days\" for software developers](https://arxiv.org/abs/2410.18379)
-* [2024-10-26, 15:45:42](https://news.ycombinator.com/item?id=41955473) - [Open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 * [2024-10-26, 15:27:37](https://news.ycombinator.com/item?id=41955353) - [Should JavaScript be split into two languages?](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
 * [2024-10-26, 15:14:36](https://news.ycombinator.com/item?id=41955255) - [How to configure an Ethernet connection between iPad and RaspberryPi with USB-C](https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/)
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)

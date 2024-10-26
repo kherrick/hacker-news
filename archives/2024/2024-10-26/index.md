@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 21:23:55](https://news.ycombinator.com/item?id=41957829) - [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [AHA was paid to say heart disease caused by saturated fat (2022)](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
