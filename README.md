@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
-* [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - ['We took on Google and they were forced to pay out £2B'](https://www.bbc.com/news/articles/cjr431lr72jo)
+* [2024-10-26, 23:38:18](https://news.ycombinator.com/item?id=41958561) - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
+* [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - [\"We took on Google and they were forced to pay out £2B\"](https://www.bbc.com/news/articles/cjr431lr72jo)
 * [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
-* [2024-10-26, 21:42:16](https://news.ycombinator.com/item?id=41957938) - [On Friday 21st March 2025, the sun will set on the British \"Empire\"](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
+* [2024-10-26, 22:35:41](https://news.ycombinator.com/item?id=41958224) - [Teens Want Less Sex in Movies and TV Shows, Study Finds](https://variety.com/2024/film/news/teens-sex-movies-tv-shows-study-preferences-babygirl-tell-me-lies-1236189703/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:45:58](https://news.ycombinator.com/item?id=41957601) - [PineNote Community Edition: Preorder coming soon](https://pine64.com/product/pinenote-community-edition-coming-soon/)
 * [2024-10-26, 20:42:17](https://news.ycombinator.com/item?id=41957585) - [Long wave radio fans mourn fading frequencies (2023)](https://www.bbc.com/news/business-66644709)
@@ -18,7 +19,7 @@
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows driver signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: A text-only blog engine using Cloudflare workers and KV store](https://github.com/jonfraser/simpletext)
-* [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [AMA: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
+* [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Show HN: Mdx – Execute your Markdown code blocks, now in Go](https://github.com/dim0x69/mdx)
 * [2024-10-26, 00:22:42](https://news.ycombinator.com/item?id=41951420) - [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
 * [2024-10-26, 00:20:26](https://news.ycombinator.com/item?id=41951408) - [How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
@@ -29,7 +30,6 @@
 * [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases in mice](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
-* [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [The Japanese word ikigai refers to a passion that gives joy to life (2022)](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 
 ## [Archives](archives/index.md)
 
