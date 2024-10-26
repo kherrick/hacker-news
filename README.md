@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 19:22:40](https://news.ycombinator.com/item?id=41957056) - [JetKVM: Tiny IP KVM That's Not an Apple Watch](https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch)
 * [2024-10-26, 18:34:45](https://news.ycombinator.com/item?id=41956742) - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
@@ -22,7 +23,6 @@
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
 * [2024-10-25, 20:02:36](https://news.ycombinator.com/item?id=41949098) - [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
 * [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
-* [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases in mice](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-22, 20:52:31](https://news.ycombinator.com/item?id=41918574) - [How do you put on an Apollo spacesuit? (2015)](https://airandspace.si.edu/stories/editorial/how-do-you-put-apollo-spacesuit)
 * [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [Our Better Nature: Great Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
