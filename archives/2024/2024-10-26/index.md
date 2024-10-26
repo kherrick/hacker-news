@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - ['We took on Google and they were forced to pay out £2B'](https://www.bbc.com/news/articles/cjr431lr72jo)
+* [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
 * [2024-10-26, 21:42:16](https://news.ycombinator.com/item?id=41957938) - [On Friday 21st March 2025, the sun will set on the British \"Empire\"](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
 * [2024-10-26, 21:23:55](https://news.ycombinator.com/item?id=41957829) - [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)

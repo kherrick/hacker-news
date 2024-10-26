@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - ['We took on Google and they were forced to pay out £2B'](https://www.bbc.com/news/articles/cjr431lr72jo)
+* [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
 * [2024-10-26, 21:42:16](https://news.ycombinator.com/item?id=41957938) - [On Friday 21st March 2025, the sun will set on the British \"Empire\"](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:45:58](https://news.ycombinator.com/item?id=41957601) - [PineNote Community Edition: Preorder coming soon](https://pine64.com/product/pinenote-community-edition-coming-soon/)
@@ -12,7 +14,6 @@
 * [2024-10-26, 17:09:48](https://news.ycombinator.com/item?id=41956089) - [Opera will always help you block ads natively](https://blogs.opera.com/news/2024/10/opera-support-manifest-v2-ad-blocking/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 16:01:16](https://news.ycombinator.com/item?id=41955580) - [Identifying factors contributing to \"bad days\" for software developers](https://arxiv.org/abs/2410.18379)
-* [2024-10-26, 15:27:37](https://news.ycombinator.com/item?id=41955353) - [Should JavaScript be split into two languages?](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
 * [2024-10-26, 15:14:36](https://news.ycombinator.com/item?id=41955255) - [How to configure an Ethernet connection between iPad and RaspberryPi with USB-C](https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/)
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows driver signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
@@ -29,7 +30,6 @@
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases in mice](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-22, 16:29:32](https://news.ycombinator.com/item?id=41915978) - [Order and orient the keys on your keychain](https://practicalbetterments.com/order-and-orient-the-keys-on-your-keychain/)
-* [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [The Japanese word ikigai refers to a passion that gives joy to life (2022)](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 
 ## [Archives](archives/index.md)
 
