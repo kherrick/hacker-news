@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-26, 18:34:45",
+      "https://news.ycombinator.com/item?id=41956742"
+    ],
+    [
+      "Ion engines could take us to the solar gravitational lens in less than 13 years",
+      "https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 17:59:47",
       "https://news.ycombinator.com/item?id=41956495"
     ],
@@ -37,6 +47,16 @@
     [
       "Open washing – why companies pretend to be open source",
       "https://www.theregister.com/2024/10/25/opinion_open_washing/"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 15:27:37",
+      "https://news.ycombinator.com/item?id=41955353"
+    ],
+    [
+      "Should JavaScript be split into two languages?",
+      "https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/"
     ]
   ],
   [
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2024-10-25, 18:54:28",
-      "https://news.ycombinator.com/item?id=41948433"
-    ],
-    [
-      "OmniParser for Pure Vision Based GUI Agent",
-      "https://microsoft.github.io/OmniParser/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 15:12:45",
-      "https://news.ycombinator.com/item?id=41946036"
-    ],
-    [
-      "Battleships Logic Puzzle",
-      "https://lukerissacher.com/battleships"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 14:58:44",
-      "https://news.ycombinator.com/item?id=41945894"
-    ],
-    [
-      "A deep dive into Linux's new mseal syscall",
-      "https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 17:16:51",
       "https://news.ycombinator.com/item?id=41937507"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-10-24, 14:54:44",
-      "https://news.ycombinator.com/item?id=41936117"
+      "2024-10-24, 16:03:09",
+      "https://news.ycombinator.com/item?id=41936855"
     ],
     [
-      "Light and Shadow",
-      "https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/"
+      "Using LLMs to enhance our testing practices",
+      "https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms"
     ]
   ],
   [
@@ -237,16 +227,6 @@
     [
       "Live imaging of ovulation in action reveals three distinct phases in mice",
       "https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 20:58:55",
-      "https://news.ycombinator.com/item?id=41918626"
-    ],
-    [
-      "Her Majesty’s Rat-Catcher (2013)",
-      "https://www.laphamsquarterly.org/roundtable/her-majestys-rat-catcher"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Vampire Number",
       "https://mathworld.wolfram.com/VampireNumber.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 11:44:02",
+      "https://news.ycombinator.com/item?id=41913319"
+    ],
+    [
+      "Marketing the Odin programming language is weird",
+      "http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 00:19:10",
+      "https://news.ycombinator.com/item?id=41909933"
+    ],
+    [
+      "Adaptation to high-altitude hypoxia on the Tibetan Plateau",
+      "https://www.sciencealert.com/humans-are-evolving-right-before-our-eyes-on-the-tibetan-plateau"
     ]
   ]
 ]
