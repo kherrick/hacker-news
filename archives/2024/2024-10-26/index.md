@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
 * [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
+* [2024-10-26, 18:34:45](https://news.ycombinator.com/item?id=41956742) - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 17:45:20](https://news.ycombinator.com/item?id=41956374) - [Why Freelancing Isn't the Dream It's Made Out to Be](https://medium.com/mr-plan-publication/why-freelancing-isnt-the-dream-it-s-made-out-to-be-730b6f355681)
 * [2024-10-26, 17:08:41](https://news.ycombinator.com/item?id=41956080) - [35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)

@@ -45,6 +45,7 @@
 * [2024-10-24, 16:26:08](https://news.ycombinator.com/item?id=41937046) - [Self-Hosting Marketing Automation Software: A Guide](https://www.laudspeaker.com/post/self-hosting-marketing-automation-software-a-guide)
 * [2024-10-24, 16:15:15](https://news.ycombinator.com/item?id=41936939) - [Bay Area cops are getting a new Siri-type tool for fighting sideshows](https://www.sfgate.com/tech/article/bay-area-cops-get-sideshow-tool-flock-safety-19858497.php)
 * [2024-10-24, 16:08:34](https://news.ycombinator.com/item?id=41936890) - [The Rise and Fall of IQ: The Cognitive Divide](https://onepercentrule.substack.com/p/the-rise-and-fall-of-iq-the-cognitive)
+* [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://news.ycombinator.com/item?id=41936745)
 * [2024-10-24, 15:51:21](https://news.ycombinator.com/item?id=41936745) - [Launch HN: Skyvern (YC S23) – open-source AI agent for browser automations](https://github.com/Skyvern-AI/Skyvern)
 * [2024-10-24, 15:45:28](https://news.ycombinator.com/item?id=41936688) - [The U.S. Government-Bought Tool That Can Track Phones at Abortion Clinics](https://www.404media.co/inside-the-u-s-government-bought-tool-that-can-track-phones-at-abortion-clinics/)
