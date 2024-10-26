@@ -2,7 +2,7 @@
 
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 13:58:27](https://news.ycombinator.com/item?id=41954755) - [Hacktoberfest 2024](https://hacktoberfest.com)
-* [2024-10-26, 12:53:09](https://news.ycombinator.com/item?id=41954445) - [Lily Allen Says Her OnlyFans Feet Pictures Make More Money Than Spotify Streams](https://variety.com/2024/music/news/lily-allen-onlyfans-feet-pictures-spotify-1236191247/)
+* [2024-10-26, 12:05:24](https://news.ycombinator.com/item?id=41954242) - [PeaZip 10.0.0 Released](https://peazip.github.io/changelog.html)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
 * [2024-10-26, 02:23:47](https://news.ycombinator.com/item?id=41952006) - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
