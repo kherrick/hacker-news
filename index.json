@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-10-26, 02:16:18",
-      "https://news.ycombinator.com/item?id=41951972"
+      "2024-10-26, 01:45:27",
+      "https://news.ycombinator.com/item?id=41951817"
     ],
     [
-      "Cqwrteur's fork of Linux kernel, rename it to Cinux",
-      "https://github.com/Cqinux/cinux"
+      "MrBeast's Faux Philanthropy",
+      "https://unherd.com/2024/10/mrbeasts-faux-philanthropy/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Wikipedia article blocked worldwide by Delhi high court",
       "https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 20:22:52",
-      "https://news.ycombinator.com/item?id=41949297"
-    ],
-    [
-      "Jeff Bezos killed Washington Post endorsement of Kamala Harris",
-      "https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Toasty, an async ORM for Rust",
       "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 14:15:57",
+      "https://news.ycombinator.com/item?id=41925262"
+    ],
+    [
+      "Bringing full text search to Elixir's Ecto",
+      "https://moosie.us/paradex"
     ]
   ],
   [
