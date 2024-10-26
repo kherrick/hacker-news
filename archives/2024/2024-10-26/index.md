@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
+* [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [AHA was paid to say heart disease caused by saturated fat (2022)](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
 * [2024-10-26, 19:22:40](https://news.ycombinator.com/item?id=41957056) - [JetKVM: Tiny IP KVM That's Not an Apple Watch](https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
@@ -11,6 +13,7 @@
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 17:45:20](https://news.ycombinator.com/item?id=41956374) - [Why Freelancing Isn't the Dream It's Made Out to Be](https://medium.com/mr-plan-publication/why-freelancing-isnt-the-dream-it-s-made-out-to-be-730b6f355681)
+* [2024-10-26, 17:09:48](https://news.ycombinator.com/item?id=41956089) - [Opera will always help you block ads natively](https://blogs.opera.com/news/2024/10/opera-support-manifest-v2-ad-blocking/)
 * [2024-10-26, 17:08:41](https://news.ycombinator.com/item?id=41956080) - [35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [2024-10-26, 17:05:11](https://news.ycombinator.com/item?id=41956056) - [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
