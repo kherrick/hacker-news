@@ -23,13 +23,13 @@
 * [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers discover complex carbon molecules in interstellar space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
-* [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic (2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-24, 14:54:44](https://news.ycombinator.com/item?id=41936117) - [Light and Shadow](https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/)
 * [2024-10-23, 21:49:51](https://news.ycombinator.com/item?id=41929565) - [Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 14:15:57](https://news.ycombinator.com/item?id=41925262) - [Bringing full text search to Elixir's Ecto](https://moosie.us/paradex)
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
+* [2024-10-22, 11:44:02](https://news.ycombinator.com/item?id=41913319) - [Marketing the Odin Programming Language Is Weird](http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/)
 
 ## [Archives](archives/index.md)
 

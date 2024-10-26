@@ -54,6 +54,7 @@
 * [2024-10-22, 12:19:43](https://news.ycombinator.com/item?id=41913520) - [Show HN: Ambulate – Detailed Trip Planning](https://ambulate.app)
 * [2024-10-22, 12:05:41](https://news.ycombinator.com/item?id=41913437) - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 * [2024-10-22, 12:01:04](https://news.ycombinator.com/item?id=41913403) - [MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
+* [2024-10-22, 11:44:02](https://news.ycombinator.com/item?id=41913319) - [Marketing the Odin Programming Language Is Weird](http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/)
 * [2024-10-22, 11:36:12](https://news.ycombinator.com/item?id=41913276) - [The Journal of Open Source Software](https://joss.theoj.org)
 * [2024-10-22, 11:12:10](https://news.ycombinator.com/item?id=41913145) - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-22, 10:55:33](https://news.ycombinator.com/item?id=41913057) - [Parks on the Air](https://parksontheair.com/index.html)
