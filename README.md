@@ -5,7 +5,6 @@
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
 * [2024-10-26, 02:23:47](https://news.ycombinator.com/item?id=41952006) - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
-* [2024-10-26, 00:47:35](https://news.ycombinator.com/item?id=41951564) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2024-10-26, 00:23:04](https://news.ycombinator.com/item?id=41951421) - [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
 * [2024-10-26, 00:20:26](https://news.ycombinator.com/item?id=41951408) - [How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
 * [2024-10-25, 23:43:41](https://news.ycombinator.com/item?id=41951131) - [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
@@ -28,6 +27,7 @@
 * [2024-10-23, 14:15:57](https://news.ycombinator.com/item?id=41925262) - [Bringing full text search to Elixir's Ecto](https://moosie.us/paradex)
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
+* [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [The Rise of Giant Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
 * [2024-10-22, 11:44:02](https://news.ycombinator.com/item?id=41913319) - [Marketing the Odin Programming Language Is Weird](http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/)
 
