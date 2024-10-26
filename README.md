@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 03:48:26](https://news.ycombinator.com/item?id=41952375) - [Tesla headquarters spills gallons of lime-green liquid into Bay Area street](https://www.sfgate.com/tech/article/tesla-spills-lime-green-liquid-19863951.php)
 * [2024-10-26, 02:23:47](https://news.ycombinator.com/item?id=41952006) - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
 * [2024-10-26, 01:45:27](https://news.ycombinator.com/item?id=41951817) - [MrBeast's Faux Philanthropy](https://unherd.com/2024/10/mrbeasts-faux-philanthropy/)
 * [2024-10-26, 00:23:04](https://news.ycombinator.com/item?id=41951421) - [OSI readies controversial open-source AI definition](https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/)
-* [2024-10-26, 00:22:42](https://news.ycombinator.com/item?id=41951420) - [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
 * [2024-10-26, 00:20:26](https://news.ycombinator.com/item?id=41951408) - [How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
 * [2024-10-25, 23:43:41](https://news.ycombinator.com/item?id=41951131) - [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
 * [2024-10-25, 22:19:00](https://news.ycombinator.com/item?id=41950398) - [Redact-a-Chat](https://redact-a-chat.com/#/)
