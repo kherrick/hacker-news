@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
+* [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 17:45:20](https://news.ycombinator.com/item?id=41956374) - [Why Freelancing Isn't the Dream It's Made Out to Be](https://medium.com/mr-plan-publication/why-freelancing-isnt-the-dream-it-s-made-out-to-be-730b6f355681)
 * [2024-10-26, 17:08:41](https://news.ycombinator.com/item?id=41956080) - [35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [2024-10-26, 17:05:11](https://news.ycombinator.com/item?id=41956056) - [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)
@@ -13,6 +15,7 @@
 * [2024-10-26, 15:55:10](https://news.ycombinator.com/item?id=41955539) - [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)
 * [2024-10-26, 15:45:42](https://news.ycombinator.com/item?id=41955473) - [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 * [2024-10-26, 15:27:37](https://news.ycombinator.com/item?id=41955353) - [Should JavaScript be split into two languages? Google proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
+* [2024-10-26, 15:15:45](https://news.ycombinator.com/item?id=41955265) - [Ask HN: Escape from TCR? Family shared SMS](https://news.ycombinator.com/item?id=41955265)
 * [2024-10-26, 15:14:36](https://news.ycombinator.com/item?id=41955255) - [How to configure an Ethernet connection between iPad and RaspberryPi with USB-C](https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/)
 * [2024-10-26, 15:10:54](https://news.ycombinator.com/item?id=41955230) - [Collapse of key Atlantic current could have catastrophic impacts](https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf)
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
@@ -26,6 +29,7 @@
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
+* [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' Seduced Silicon Valley](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:08:25](https://news.ycombinator.com/item?id=41952915) - [Akon's Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
