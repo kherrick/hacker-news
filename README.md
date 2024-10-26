@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
-* [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
 * [2024-10-26, 02:23:47](https://news.ycombinator.com/item?id=41952006) - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
@@ -22,6 +21,7 @@
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic (2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-24, 14:54:44](https://news.ycombinator.com/item?id=41936117) - [Light and Shadow](https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/)
+* [2024-10-24, 12:50:28](https://news.ycombinator.com/item?id=41934992) - [TCP over TCP is a bad idea (2000)](https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html)
 * [2024-10-23, 21:49:51](https://news.ycombinator.com/item?id=41929565) - [Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 14:15:57](https://news.ycombinator.com/item?id=41925262) - [Bringing full text search to Elixir's Ecto](https://moosie.us/paradex)
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
