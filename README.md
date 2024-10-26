@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 12:53:09](https://news.ycombinator.com/item?id=41954445) - [Lily Allen Says Her OnlyFans Feet Pictures Make More Money Than Spotify Streams](https://variety.com/2024/music/news/lily-allen-onlyfans-feet-pictures-spotify-1236191247/)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
@@ -29,7 +30,6 @@
 * [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [The Rise of Giant Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
-* [2024-10-22, 11:44:02](https://news.ycombinator.com/item?id=41913319) - [Marketing the Odin Programming Language Is Weird](http://www.gingerbill.org/article/2024/09/08/odin-weird-to-market/)
 
 ## [Archives](archives/index.md)
 
