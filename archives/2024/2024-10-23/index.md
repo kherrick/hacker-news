@@ -9,6 +9,7 @@
 * [2024-10-23, 22:26:28](https://news.ycombinator.com/item?id=41929822) - [Show HN: Satoshi9000 analog BTC key generator (mechanical)](https://news.ycombinator.com/item?id=41929822)
 * [2024-10-23, 22:24:21](https://news.ycombinator.com/item?id=41929804) - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
 * [2024-10-23, 21:52:32](https://news.ycombinator.com/item?id=41929585) - [Getting Called \"Paid Actor\" by Linus Torvalds](https://typeblog.net/55833/getting-called-paid-actor-by-linus-torvalds)
+* [2024-10-23, 21:49:51](https://news.ycombinator.com/item?id=41929565) - [Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:40:28](https://news.ycombinator.com/item?id=41929505) - [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
 * [2024-10-23, 21:31:02](https://news.ycombinator.com/item?id=41929424) - [Sinusoidal Sunlight](https://leancrew.com/all-this/2024/10/sinusoidal-sunlight/)
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
