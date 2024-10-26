@@ -51,6 +51,7 @@
 * [2024-10-24, 15:30:55](https://news.ycombinator.com/item?id=41936527) - [Uber, Lyft drivers block Manhattan traffic to protest lockouts](https://www.amny.com/transit/uber-lyft-drivers-block-traffic-lockouts/)
 * [2024-10-24, 15:13:33](https://news.ycombinator.com/item?id=41936328) - [She Was Arrested for Praying in Her Head](https://www.thefp.com/p/abortion-buffer-zones-united-kingdom-free-speech-arrested-for-praying-in-her-head)
 * [2024-10-24, 15:12:34](https://news.ycombinator.com/item?id=41936316) - [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
+* [2024-10-24, 14:54:44](https://news.ycombinator.com/item?id=41936117) - [Light and Shadow](https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/)
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 14:19:13](https://news.ycombinator.com/item?id=41935766) - [Why that one coworker got fired for no reason](https://gieseanw.wordpress.com/2024/10/24/why-that-one-coworker-got-fired-for-no-reason/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 * [2024-10-26, 06:08:25](https://news.ycombinator.com/item?id=41952915) - [Akon's Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
