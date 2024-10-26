@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-26, 07:19:07",
+      "https://news.ycombinator.com/item?id=41953155"
+    ],
+    [
+      "NixOS Is Not Reproducible",
+      "https://linderud.dev/blog/nixos-is-not-reproducible/"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 06:36:22",
       "https://news.ycombinator.com/item?id=41952994"
     ],
@@ -147,16 +157,6 @@
     [
       "Electro-agriculture: Revolutionizing farming for a sustainable future",
       "https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 18:15:06",
-      "https://news.ycombinator.com/item?id=41947980"
-    ],
-    [
-      "LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C",
-      "https://www.netsurf-browser.org/projects/libnsfb/"
     ]
   ],
   [
