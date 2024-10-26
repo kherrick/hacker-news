@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 16:45:45](https://news.ycombinator.com/item?id=41955902) - [Scientists Mapping Landslide Risk in Alaska. Some Homeowners Don't Want to Know.](https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html)
 * [2024-10-26, 16:10:01](https://news.ycombinator.com/item?id=41955650) - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
 * [2024-10-26, 15:55:10](https://news.ycombinator.com/item?id=41955539) - [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)
 * [2024-10-26, 15:45:42](https://news.ycombinator.com/item?id=41955473) - [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
-* [2024-10-26, 15:10:54](https://news.ycombinator.com/item?id=41955230) - [Collapse of key Atlantic current could have catastrophic impacts](https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf)
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
