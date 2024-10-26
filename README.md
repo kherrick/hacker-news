@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 15:27:37](https://news.ycombinator.com/item?id=41955353) - [Should JavaScript be split into two languages? Google proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
@@ -12,7 +13,6 @@
 * [2024-10-25, 22:17:57](https://news.ycombinator.com/item?id=41950392) - [Wikipedia article blocked worldwide by Delhi high court](https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation)
 * [2024-10-25, 20:03:56](https://news.ycombinator.com/item?id=41949108) - [In the US, regenerative farming practices require unlearning past advice](https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/)
 * [2024-10-25, 20:02:36](https://news.ycombinator.com/item?id=41949098) - [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
-* [2024-10-25, 19:20:21](https://news.ycombinator.com/item?id=41948666) - [Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it (2020)](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 * [2024-10-25, 18:54:28](https://news.ycombinator.com/item?id=41948433) - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 * [2024-10-25, 17:40:52](https://news.ycombinator.com/item?id=41947566) - [Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
 * [2024-10-25, 17:19:12](https://news.ycombinator.com/item?id=41947355) - [Universal optimality of Dijkstra via beyond-worst-case heaps](https://arxiv.org/abs/2311.11793)
