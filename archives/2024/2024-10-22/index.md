@@ -15,6 +15,7 @@
 * [2024-10-22, 22:00:53](https://news.ycombinator.com/item?id=41919173) - [Meta Bans Accounts Tracking Private Jets for Zuckerberg, Musk](https://www.bloomberg.com/news/articles/2024-10-22/meta-bans-accounts-tracking-private-jets-for-zuckerberg-musk)
 * [2024-10-22, 20:58:55](https://news.ycombinator.com/item?id=41918626) - [Her Majesty’s Rat-Catcher (2013)](https://www.laphamsquarterly.org/roundtable/her-majestys-rat-catcher)
 * [2024-10-22, 20:58:07](https://news.ycombinator.com/item?id=41918621) - [Captive Portal IPv6 Support](https://github.com/abdulkader-alrezej/ipv6spot)
+* [2024-10-22, 20:52:31](https://news.ycombinator.com/item?id=41918574) - [How do you put on an Apollo spacesuit?](https://airandspace.si.edu/stories/editorial/how-do-you-put-apollo-spacesuit)
 * [2024-10-22, 20:36:58](https://news.ycombinator.com/item?id=41918448) - [Show HN: I made a tool for curating and sharing links as lists](https://snack.xyz/)
 * [2024-10-22, 20:36:45](https://news.ycombinator.com/item?id=41918446) - [How fast is quantum entanglement? Scientists investigate it at attosecond scale](https://phys.org/news/2024-10-fast-quantum-entanglement-scientists-attosecond.html)
 * [2024-10-22, 20:32:28](https://news.ycombinator.com/item?id=41918414) - [A Report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
