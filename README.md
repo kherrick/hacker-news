@@ -21,7 +21,6 @@
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic (2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
-* [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
 * [2024-10-24, 20:22:37](https://news.ycombinator.com/item?id=41939347) - [19th-century photography technique employed in novel data storage method](https://spectrum.ieee.org/clark-johnson-profile)
 * [2024-10-24, 12:50:28](https://news.ycombinator.com/item?id=41934992) - [TCP over TCP is a bad idea (2000)](https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html)
 * [2024-10-23, 21:49:51](https://news.ycombinator.com/item?id=41929565) - [Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
@@ -29,6 +28,7 @@
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
 * [2024-10-22, 17:01:49](https://news.ycombinator.com/item?id=41916289) - [How I Defeated an MMO Game Hack Author](https://thecodist.com/how-i-defeated-an-mmo-game-hack-author/)
+* [2024-10-22, 16:46:59](https://news.ycombinator.com/item?id=41916143) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-22, 14:35:57](https://news.ycombinator.com/item?id=41914736) - [Streaming joins are hard](https://estuary.dev/streaming-joins-are-hard/)
 
 ## [Archives](archives/index.md)
