@@ -8,6 +8,7 @@
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [AHA was paid to say heart disease caused by saturated fat (2022)](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
+* [2024-10-26, 20:45:58](https://news.ycombinator.com/item?id=41957601) - [PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
 * [2024-10-26, 19:22:40](https://news.ycombinator.com/item?id=41957056) - [JetKVM: Tiny IP KVM That's Not an Apple Watch](https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
