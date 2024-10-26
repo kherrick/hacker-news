@@ -42,6 +42,7 @@
 * [2024-10-26, 08:12:44](https://news.ycombinator.com/item?id=41953365) - [Cancellation of Naval Academy Lecture by Ruth Ben-Ghiat Threatens Inst. Autonomy](https://pen.org/press-release/cancellation-of-naval-academy-lecture-by-ruth-ben-ghiat-at-behest-of-republican-politicians-threatens-institutional-autonomy/)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
+* [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [AMA: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' Seduced Silicon Valley](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:08:25](https://news.ycombinator.com/item?id=41952915) - [Akon's Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
