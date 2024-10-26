@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 * [2024-10-26, 06:08:25](https://news.ycombinator.com/item?id=41952915) - [Akon's Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
@@ -15,7 +16,6 @@
 * [2024-10-25, 19:20:21](https://news.ycombinator.com/item?id=41948666) - [Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it (2020)](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 * [2024-10-25, 18:54:28](https://news.ycombinator.com/item?id=41948433) - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
 * [2024-10-25, 18:46:43](https://news.ycombinator.com/item?id=41948348) - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
-* [2024-10-25, 18:15:06](https://news.ycombinator.com/item?id=41947980) - [LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 * [2024-10-25, 17:40:52](https://news.ycombinator.com/item?id=41947566) - [Detecting when LLMs are uncertain](https://www.thariq.io/blog/entropix/)
 * [2024-10-25, 17:19:12](https://news.ycombinator.com/item?id=41947355) - [Universal optimality of Dijkstra via beyond-worst-case heaps](https://arxiv.org/abs/2311.11793)
 * [2024-10-25, 15:53:10](https://news.ycombinator.com/item?id=41946453) - [SELinux bypasses](https://klecko.github.io/posts/selinux-bypasses/)
