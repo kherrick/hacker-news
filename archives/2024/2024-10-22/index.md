@@ -29,6 +29,7 @@
 * [2024-10-22, 17:50:36](https://news.ycombinator.com/item?id=41916804) - [Nearly 40% of software engineers will only work remotely (2023)](https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely)
 * [2024-10-22, 17:30:51](https://news.ycombinator.com/item?id=41916574) - [Mining Bitcoin with pencil and paper: 0.67 hashes per day](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 * [2024-10-22, 17:05:01](https://news.ycombinator.com/item?id=41916322) - [USGS Uses Machine Learning to Show Large Lithium Potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
+* [2024-10-22, 17:01:49](https://news.ycombinator.com/item?id=41916289) - [How I Defeated an MMO Game Hack Author](https://thecodist.com/how-i-defeated-an-mmo-game-hack-author/)
 * [2024-10-22, 16:56:37](https://news.ycombinator.com/item?id=41916246) - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 * [2024-10-22, 16:28:46](https://news.ycombinator.com/item?id=41915966) - [Requiem for Raghavan](https://www.wheresyoured.at/requiem-for-raghavan/)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
