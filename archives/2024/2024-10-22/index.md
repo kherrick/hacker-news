@@ -34,6 +34,7 @@
 * [2024-10-22, 17:01:49](https://news.ycombinator.com/item?id=41916289) - [How I Defeated an MMO Game Hack Author](https://thecodist.com/how-i-defeated-an-mmo-game-hack-author/)
 * [2024-10-22, 16:56:37](https://news.ycombinator.com/item?id=41916246) - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
 * [2024-10-22, 16:46:59](https://news.ycombinator.com/item?id=41916143) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+* [2024-10-22, 16:29:32](https://news.ycombinator.com/item?id=41915978) - [Order and orient the keys on your keychain](https://practicalbetterments.com/order-and-orient-the-keys-on-your-keychain/)
 * [2024-10-22, 16:28:46](https://news.ycombinator.com/item?id=41915966) - [Requiem for Raghavan](https://www.wheresyoured.at/requiem-for-raghavan/)
 * [2024-10-22, 16:27:51](https://news.ycombinator.com/item?id=41915958) - [Show HN: Open-source Counter Strike like game](https://github.com/solcloud/Counter-Strike)
 * [2024-10-22, 16:07:39](https://news.ycombinator.com/item?id=41915735) - [Show HN: Steiner – An open-source reasoning model inspired by OpenAI o1](https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855)
