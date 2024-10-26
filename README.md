@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
-* [2024-10-26, 13:58:27](https://news.ycombinator.com/item?id=41954755) - [Hacktoberfest 2024](https://hacktoberfest.com)
 * [2024-10-26, 12:05:24](https://news.ycombinator.com/item?id=41954242) - [PeaZip 10.0.0 Released](https://peazip.github.io/changelog.html)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
@@ -22,6 +21,7 @@
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
+* [2024-10-24, 14:54:44](https://news.ycombinator.com/item?id=41936117) - [Light and Shadow](https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/)
 * [2024-10-23, 21:49:51](https://news.ycombinator.com/item?id=41929565) - [Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
