@@ -50,6 +50,7 @@
 * [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 * [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+* [2024-10-23, 14:15:57](https://news.ycombinator.com/item?id=41925262) - [Bringing full text search to Elixir's Ecto](https://moosie.us/paradex)
 * [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
