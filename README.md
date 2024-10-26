@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 16:10:01](https://news.ycombinator.com/item?id=41955650) - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
@@ -11,7 +10,7 @@
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows driver signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: A text-only blog engine using Cloudflare workers and KV store](https://github.com/jonfraser/simpletext)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
-* [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' Seduced Silicon Valley](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
+* [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Show HN: Mdx – Execute your Markdown code blocks, now in Go](https://github.com/dim0x69/mdx)
 * [2024-10-26, 02:23:47](https://news.ycombinator.com/item?id=41952006) - [Adventures in algorithmic trading on the Runescape Grand Exchange](https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange)
 * [2024-10-26, 00:22:42](https://news.ycombinator.com/item?id=41951420) - [We Can Terraform the American West](https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/)
@@ -29,6 +28,7 @@
 * [2024-10-22, 20:52:31](https://news.ycombinator.com/item?id=41918574) - [How do you put on an Apollo spacesuit? (2015)](https://airandspace.si.edu/stories/editorial/how-do-you-put-apollo-spacesuit)
 * [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [Our Better Nature: Great Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [The Japanese word ikigai refers to a passion that gives joy to life (2022)](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
+* [2024-10-22, 15:05:28](https://news.ycombinator.com/item?id=41915011) - [Quantum Computing – An Update](https://steveblank.com/2024/10/22/quantum-computing-an-update/)
 * [2024-10-22, 14:45:50](https://news.ycombinator.com/item?id=41914835) - [Vampire Number](https://mathworld.wolfram.com/VampireNumber.html)
 
 ## [Archives](archives/index.md)

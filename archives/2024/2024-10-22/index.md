@@ -42,6 +42,7 @@
 * [2024-10-22, 15:21:58](https://news.ycombinator.com/item?id=41915187) - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
 * [2024-10-22, 15:17:31](https://news.ycombinator.com/item?id=41915134) - [The Human Cost of Our AI-Driven Future](https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/)
 * [2024-10-22, 15:10:01](https://news.ycombinator.com/item?id=41915060) - [Anthropic Claude 3.5 Sonnet and Haiku](https://twitter.com/anthropicai/status/1848742740420341988)
+* [2024-10-22, 15:05:28](https://news.ycombinator.com/item?id=41915011) - [Quantum Computing – An Update](https://steveblank.com/2024/10/22/quantum-computing-an-update/)
 * [2024-10-22, 15:02:46](https://news.ycombinator.com/item?id=41914989) - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 * [2024-10-22, 14:47:00](https://news.ycombinator.com/item?id=41914845) - [We built a new powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-22, 14:45:50](https://news.ycombinator.com/item?id=41914835) - [Vampire Number](https://mathworld.wolfram.com/VampireNumber.html)
