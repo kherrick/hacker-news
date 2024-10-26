@@ -24,12 +24,12 @@
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-24, 17:16:51](https://news.ycombinator.com/item?id=41937507) - [All political ads running on Google in the US](https://adstransparency.google.com/political?region=US&topic=political)
-* [2024-10-24, 14:54:44](https://news.ycombinator.com/item?id=41936117) - [Light and Shadow](https://catlikecoding.com/godot/true-top-down-2d/4-light-and-shadow/)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-22, 22:10:03](https://news.ycombinator.com/item?id=41919246) - [Pygfx](https://docs.pygfx.org/stable/index.html)
 * [2024-10-22, 20:52:31](https://news.ycombinator.com/item?id=41918574) - [How do you put on an Apollo spacesuit?](https://airandspace.si.edu/stories/editorial/how-do-you-put-apollo-spacesuit)
 * [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [The Rise of Giant Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
 * [2024-10-22, 15:41:09](https://news.ycombinator.com/item?id=41915414) - [Ikigai: The Japanese Secret to a Joyful Life](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html)
+* [2024-10-22, 14:45:50](https://news.ycombinator.com/item?id=41914835) - [Vampire Number](https://mathworld.wolfram.com/VampireNumber.html)
 
 ## [Archives](archives/index.md)
 
