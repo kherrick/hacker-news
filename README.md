@@ -13,7 +13,7 @@
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 02:35:22](https://news.ycombinator.com/item?id=41959428) - [We shrunk our Javascript monorepo git size](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
-* [2024-10-27, 01:52:05](https://news.ycombinator.com/item?id=41959256) - [Character Amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/)
+* [2024-10-27, 01:26:53](https://news.ycombinator.com/item?id=41959147) - [10 Years of HexaPDF](https://gettalong.org/blog/2024/10-years-of-hexapdf.html)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 * [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
