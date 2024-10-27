@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Oxfam says close to $41B in World Bank climate finance unaccounted for](https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
 * [2024-10-27, 17:38:10](https://news.ycombinator.com/item?id=41964200) - [How fast can you parse a CSV file in C#?](https://lemire.me/blog/2024/10/17/how-fast-can-you-parse-a-csv-file-in-c/)
+* [2024-10-27, 17:36:36](https://news.ycombinator.com/item?id=41964191) - [Freenet: A decentralized alternative to world wide web](https://freenet.org/)
 * [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 17:24:43](https://news.ycombinator.com/item?id=41964117) - [\"An utter shitshow\": Inside the Transport for London cyberattack](https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport)
 * [2024-10-27, 17:08:08](https://news.ycombinator.com/item?id=41963996) - [Using SQLite as Storage for Web Server Static Content](https://clace.io/blog/sqlite/)
