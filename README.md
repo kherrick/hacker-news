@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 05:43:38](https://news.ycombinator.com/item?id=41960114) - [Google to develop AI that takes over computers, The Information reports](https://www.reuters.com/technology/artificial-intelligence/google-develop-ai-that-takes-over-computers-information-reports-2024-10-26/)
 * [2024-10-27, 05:33:09](https://news.ycombinator.com/item?id=41960085) - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
 * [2024-10-27, 05:15:10](https://news.ycombinator.com/item?id=41960023) - [Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
 * [2024-10-27, 05:12:36](https://news.ycombinator.com/item?id=41960011) - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
@@ -11,7 +12,6 @@
 * [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
 * [2024-10-26, 23:43:21](https://news.ycombinator.com/item?id=41958599) - [First scientific study of the Paris catacombs](https://www.theguardian.com/world/2024/oct/19/bodies-quarry-shafts-millions-buried-paris-catacombs)
 * [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
-* [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
 * [2024-10-26, 22:41:29](https://news.ycombinator.com/item?id=41958255) - [Canvas Fingerprinting](https://browserleaks.com/canvas)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
