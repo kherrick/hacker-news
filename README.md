@@ -23,7 +23,7 @@
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 01:52:05](https://news.ycombinator.com/item?id=41959256) - [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
-* [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
+* [2024-10-26, 17:38:47](https://news.ycombinator.com/item?id=41956331) - [Show HN: Ezcrypt – A file encryption tool (simple, strong, public domain)](https://codeberg.org/ezcrypt/ezcrypt)
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [SDL-based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
