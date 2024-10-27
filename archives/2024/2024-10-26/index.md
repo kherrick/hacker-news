@@ -59,6 +59,7 @@
 * [2024-10-26, 08:47:16](https://news.ycombinator.com/item?id=41953509) - [All the electricity you'll need for 40 years](https://www.innerpathing.com/p/all-the-electricity-youll-need-for)
 * [2024-10-26, 08:43:40](https://news.ycombinator.com/item?id=41953494) - [On Linux MAINTAINERS file removal of Russian developers](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
 * [2024-10-26, 08:12:44](https://news.ycombinator.com/item?id=41953365) - [Cancellation of Naval Academy Lecture by Ruth Ben-Ghiat Threatens Inst. Autonomy](https://pen.org/press-release/cancellation-of-naval-academy-lecture-by-ruth-ben-ghiat-at-behest-of-republican-politicians-threatens-institutional-autonomy/)
+* [2024-10-26, 08:01:47](https://news.ycombinator.com/item?id=41953323) - [Serious Fun](https://www.scattered-thoughts.net/writing/serious-fun/)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
 * [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
