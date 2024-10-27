@@ -11,6 +11,8 @@
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 14:27:05](https://news.ycombinator.com/item?id=41962820) - [Don't use Summer and Winter for event invites, it's \"northern\" and not inclusive](https://www.nature.com/articles/d41586-024-03245-0)
 * [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+* [2024-10-27, 13:52:26](https://news.ycombinator.com/item?id=41962627) - [Privacy4Cars](https://privacy4cars.com/)
+* [2024-10-27, 13:41:58](https://news.ycombinator.com/item?id=41962559) - [Show HN: Decentralized Twitter clone built on Ethereum blockchain](https://github.com/Dyslex7c/Decentralized-Twitter)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
 * [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
