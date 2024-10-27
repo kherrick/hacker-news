@@ -34,6 +34,7 @@
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
 * [2024-10-26, 17:45:20](https://news.ycombinator.com/item?id=41956374) - [Why Freelancing Isn't the Dream It's Made Out to Be](https://medium.com/mr-plan-publication/why-freelancing-isnt-the-dream-it-s-made-out-to-be-730b6f355681)
+* [2024-10-26, 17:38:47](https://news.ycombinator.com/item?id=41956331) - [Show HN: Ezcrypt – A file encryption tool (simple, strong, public domain)](https://codeberg.org/ezcrypt/ezcrypt)
 * [2024-10-26, 17:09:48](https://news.ycombinator.com/item?id=41956089) - [Opera will always help you block ads natively](https://blogs.opera.com/news/2024/10/opera-support-manifest-v2-ad-blocking/)
 * [2024-10-26, 17:08:41](https://news.ycombinator.com/item?id=41956080) - [35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [2024-10-26, 17:05:11](https://news.ycombinator.com/item?id=41956056) - [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)

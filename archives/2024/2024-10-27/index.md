@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 17:24:43](https://news.ycombinator.com/item?id=41964117) - [\"An utter shitshow\": Inside the Transport for London cyberattack](https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport)
 * [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) Is Hiring for Their 4th Founding Full-Stack Engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 * [2024-10-27, 16:58:45](https://news.ycombinator.com/item?id=41963931) - [Country Comparisons Real GDP (purchasing power parity)](https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
