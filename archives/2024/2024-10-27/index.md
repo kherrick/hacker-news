@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 11:04:23](https://news.ycombinator.com/item?id=41961550) - [Decomplexifying Curl](https://daniel.haxx.se/blog/2024/10/27/decomplexifying-curl/)
 * [2024-10-27, 10:34:15](https://news.ycombinator.com/item?id=41961391) - [UK sleep experts say it's time to kill daylight saving for good](https://www.theregister.com/2024/10/27/abolish_daylight_saving_time/)
 * [2024-10-27, 10:24:43](https://news.ycombinator.com/item?id=41961356) - [Some people with ADHD thrive in periods of stress, new study shows](https://www.theguardian.com/us-news/2024/oct/26/adhd-symptoms-high-stress)
 * [2024-10-27, 10:07:38](https://news.ycombinator.com/item?id=41961265) - [Hiding data/code in Android APK embedded signatures](https://lists.reproducible-builds.org/pipermail/rb-general/2023-January/002825.html)
@@ -21,6 +22,7 @@
 * [2024-10-27, 05:12:36](https://news.ycombinator.com/item?id=41960011) - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 02:53:39](https://news.ycombinator.com/item?id=41959498) - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
+* [2024-10-27, 02:47:46](https://news.ycombinator.com/item?id=41959471) - [Room-Temperature Superconductivity Heats Up](https://cacm.acm.org/news/room-temperature-superconductivity-heats-up/)
 * [2024-10-27, 02:35:22](https://news.ycombinator.com/item?id=41959428) - [Shrunked JavaScript monorepo Git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-27, 00:25:42](https://news.ycombinator.com/item?id=41958862) - [Former Intel CEO says splitting Intel isn't good for the U.S.](https://www.tomshardware.com/tech-industry/former-intel-ceo-says-splitting-intel-isnt-good-for-the-u-s)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
