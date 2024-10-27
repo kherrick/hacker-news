@@ -24,7 +24,7 @@
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
-* [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
+* [2024-10-26, 06:00:39](https://news.ycombinator.com/item?id=41952889) - [A Venerable and Time-Tested Guide](https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 * [2024-10-24, 08:50:50](https://news.ycombinator.com/item?id=41933527) - [A brief history of Notion's data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
