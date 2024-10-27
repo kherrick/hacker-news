@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 10:24:43](https://news.ycombinator.com/item?id=41961356) - [Some people with ADHD thrive in periods of stress, new study shows](https://www.theguardian.com/us-news/2024/oct/26/adhd-symptoms-high-stress)
 * [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
@@ -12,7 +13,6 @@
 * [2024-10-27, 02:35:22](https://news.ycombinator.com/item?id=41959428) - [Shrunked JavaScript monorepo Git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 * [2024-10-26, 23:47:02](https://news.ycombinator.com/item?id=41958620) - [Debugging my wife's alarm clock](https://ntietz.com/blog/debugging-my-wifes-alarm-clock/)
-* [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
 * [2024-10-26, 23:43:21](https://news.ycombinator.com/item?id=41958599) - [First scientific study of the Paris catacombs](https://www.theguardian.com/world/2024/oct/19/bodies-quarry-shafts-millions-buried-paris-catacombs)
 * [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
