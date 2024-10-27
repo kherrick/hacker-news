@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
+* [2024-10-27, 15:58:19](https://news.ycombinator.com/item?id=41963497) - [Marijuana Arrests Comprised over 40 Percent of Drug Arrests over Dozen States](https://norml.org/blog/2024/10/21/fbi-marijuana-related-arrests-comprised-over-40-percent-of-all-drug-arrests-in-more-than-a-dozen-states-in-2023/)
 * [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:52:48](https://news.ycombinator.com/item?id=41962983) - [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
