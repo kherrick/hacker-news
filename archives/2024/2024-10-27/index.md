@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
 * [2024-10-27, 07:12:10](https://news.ycombinator.com/item?id=41960442) - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
 * [2024-10-27, 07:07:53](https://news.ycombinator.com/item?id=41960426) - [Stunning fossil trapped in amber reveals previously unknown species](https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html)
