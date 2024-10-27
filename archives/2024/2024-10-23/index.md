@@ -97,6 +97,7 @@
 * [2024-10-23, 04:09:14](https://news.ycombinator.com/item?id=41921723) - [In a first, Wikipedia takes down article globally after Delhi HC order](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece)
 * [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
 * [2024-10-23, 03:58:31](https://news.ycombinator.com/item?id=41921673) - [SQLite is replacing its canonical build process](https://sqlite.org/forum/forumpost/b7e2d83c0bcfae1e)
+* [2024-10-23, 03:51:45](https://news.ycombinator.com/item?id=41921635) - [Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
 * [2024-10-23, 03:27:46](https://news.ycombinator.com/item?id=41921494) - [Necromanteion of Acheron](https://en.wikipedia.org/wiki/Necromanteion_of_Acheron)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
