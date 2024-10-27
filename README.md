@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-27, 05:43:38](https://news.ycombinator.com/item?id=41960114) - [Google to develop AI that takes over computers, The Information reports](https://www.reuters.com/technology/artificial-intelligence/google-develop-ai-that-takes-over-computers-information-reports-2024-10-26/)
 * [2024-10-27, 05:33:09](https://news.ycombinator.com/item?id=41960085) - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
 * [2024-10-27, 05:15:10](https://news.ycombinator.com/item?id=41960023) - [Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
 * [2024-10-27, 05:12:36](https://news.ycombinator.com/item?id=41960011) - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
@@ -24,6 +23,7 @@
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
+* [2024-10-26, 00:20:26](https://news.ycombinator.com/item?id=41951408) - [How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
 * [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
