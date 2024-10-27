@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
+* [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
+* [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 * [2024-10-27, 11:04:23](https://news.ycombinator.com/item?id=41961550) - [Decomplexifying Curl](https://daniel.haxx.se/blog/2024/10/27/decomplexifying-curl/)
 * [2024-10-27, 10:34:15](https://news.ycombinator.com/item?id=41961391) - [UK sleep experts say it's time to kill daylight saving for good](https://www.theregister.com/2024/10/27/abolish_daylight_saving_time/)
