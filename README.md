@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 05:33:09](https://news.ycombinator.com/item?id=41960085) - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
+* [2024-10-27, 05:15:10](https://news.ycombinator.com/item?id=41960023) - [Should elephants have the same rights as people? A Colorado court may decide](https://www.denver7.com/news/state-news/should-elephants-have-the-same-rights-as-people-a-colorado-court-may-decide)
 * [2024-10-27, 05:12:36](https://news.ycombinator.com/item?id=41960011) - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 02:53:39](https://news.ycombinator.com/item?id=41959498) - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
@@ -11,7 +13,6 @@
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
 * [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions?](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
 * [2024-10-26, 22:41:29](https://news.ycombinator.com/item?id=41958255) - [Canvas Fingerprinting](https://browserleaks.com/canvas)
-* [2024-10-26, 22:25:09](https://news.ycombinator.com/item?id=41958180) - [The Electoral College was nearly abolished in 1970](https://www.history.com/news/electoral-college-nearly-abolished-thurmond)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:42:17](https://news.ycombinator.com/item?id=41957585) - [Long wave radio fans mourn fading frequencies (2023)](https://www.bbc.com/news/business-66644709)
 * [2024-10-26, 20:13:22](https://news.ycombinator.com/item?id=41957377) - [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
@@ -23,7 +24,6 @@
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-* [2024-10-26, 00:20:26](https://news.ycombinator.com/item?id=41951408) - [How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video]](https://www.youtube.com/watch?v=SioCwvR_PYY)
 * [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-23, 14:41:11](https://news.ycombinator.com/item?id=41925510) - [Migrating birds find refuge in pop-up habitats](https://www.hcn.org/articles/migrating-birds-find-refuge-in-pop-up-habitats/)
