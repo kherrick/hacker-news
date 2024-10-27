@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 14:52:48](https://news.ycombinator.com/item?id=41962983) - [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 * [2024-10-27, 14:40:18](https://news.ycombinator.com/item?id=41962901) - [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
+* [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
+* [2024-10-27, 14:27:05](https://news.ycombinator.com/item?id=41962820) - [Don't use Summer and Winter for event invites, it's \"northern\" and not inclusive](https://www.nature.com/articles/d41586-024-03245-0)
 * [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
@@ -18,6 +21,7 @@
 * [2024-10-27, 10:07:38](https://news.ycombinator.com/item?id=41961265) - [Hiding data/code in Android APK embedded signatures](https://lists.reproducible-builds.org/pipermail/rb-general/2023-January/002825.html)
 * [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
 * [2024-10-27, 09:45:09](https://news.ycombinator.com/item?id=41961149) - [Wafer Scale – Trilogy Systems: Part 2](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359)
+* [2024-10-27, 09:27:05](https://news.ycombinator.com/item?id=41961050) - [The EU Throws a Hand Grenade on Software Liability](https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
