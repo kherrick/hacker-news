@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
 * [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
 * [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
@@ -21,14 +22,13 @@
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart’s law isn’t as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
-* [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 * [2024-10-26, 08:53:52](https://news.ycombinator.com/item?id=41953537) - [I've never used cohost but I miss it](https://plume.pink/blog-cohost/)
 * [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-* [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
+* [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 
 ## [Archives](archives/index.md)

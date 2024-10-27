@@ -47,6 +47,7 @@
 * [2024-10-23, 14:53:24](https://news.ycombinator.com/item?id=41925658) - [Don't use \"click here\" for link text](https://www.dont-click-here.com/)
 * [2024-10-23, 14:52:34](https://news.ycombinator.com/item?id=41925644) - [Show HN: I built a task manager that finally separates \"Do\" & \"Due\" dates](https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874)
 * [2024-10-23, 14:50:10](https://news.ycombinator.com/item?id=41925622) - [BazelCon 2024 Recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
+* [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-23, 14:41:12](https://news.ycombinator.com/item?id=41925511) - [RISC-V in 2024 is slower than you think](https://benhouston3d.com/blog/risc-v-in-2024-is-slow)
 * [2024-10-23, 14:41:11](https://news.ycombinator.com/item?id=41925510) - [Migrating birds find refuge in pop-up habitats](https://www.hcn.org/articles/migrating-birds-find-refuge-in-pop-up-habitats/)
 * [2024-10-23, 14:24:19](https://news.ycombinator.com/item?id=41925333) - [Israel’s Secret Stealth Drone](https://www.twz.com/air/the-existence-of-israels-secret-stealth-drone-should-come-as-no-surprise)
