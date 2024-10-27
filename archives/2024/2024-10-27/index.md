@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 19:02:41](https://news.ycombinator.com/item?id=41964769) - [Will the China Cycle Come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Oxfam says close to $41B in World Bank climate finance unaccounted for](https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)

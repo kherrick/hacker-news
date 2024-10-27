@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 19:02:41](https://news.ycombinator.com/item?id=41964769) - [Will the China Cycle Come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Oxfam says close to $41B in World Bank climate finance unaccounted for](https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
@@ -27,7 +28,6 @@
 * [2024-10-26, 08:47:16](https://news.ycombinator.com/item?id=41953509) - [All the electricity you'll need for 40 years](https://www.innerpathing.com/p/all-the-electricity-youll-need-for)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
-* [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-23, 03:51:45](https://news.ycombinator.com/item?id=41921635) - [Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 
