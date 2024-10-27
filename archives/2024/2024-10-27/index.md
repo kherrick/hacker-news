@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) Is Hiring for Their 4th Founding Full-Stack Engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
+* [2024-10-27, 16:58:45](https://news.ycombinator.com/item?id=41963931) - [Country Comparisons Real GDP (purchasing power parity)](https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
 * [2024-10-27, 15:58:19](https://news.ycombinator.com/item?id=41963497) - [Marijuana Arrests Comprised over 40 Percent of Drug Arrests over Dozen States](https://norml.org/blog/2024/10/21/fbi-marijuana-related-arrests-comprised-over-40-percent-of-all-drug-arrests-in-more-than-a-dozen-states-in-2023/)
 * [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)

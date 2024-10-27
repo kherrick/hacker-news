@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) Is Hiring for Their 4th Founding Full-Stack Engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
+* [2024-10-27, 16:58:45](https://news.ycombinator.com/item?id=41963931) - [Country Comparisons Real GDP (purchasing power parity)](https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
-* [2024-10-27, 15:58:19](https://news.ycombinator.com/item?id=41963497) - [Marijuana Arrests Comprised over 40 Percent of Drug Arrests over Dozen States](https://norml.org/blog/2024/10/21/fbi-marijuana-related-arrests-comprised-over-40-percent-of-all-drug-arrests-in-more-than-a-dozen-states-in-2023/)
 * [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
@@ -16,7 +17,6 @@
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 * [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
-* [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
 * [2024-10-26, 20:13:22](https://news.ycombinator.com/item?id=41957377) - [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
@@ -26,8 +26,8 @@
 * [2024-10-26, 08:53:52](https://news.ycombinator.com/item?id=41953537) - [I've never used cohost but I miss it](https://plume.pink/blog-cohost/)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
+* [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
-* [2024-10-23, 15:31:36](https://news.ycombinator.com/item?id=41926070) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 
