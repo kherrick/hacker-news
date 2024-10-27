@@ -5,6 +5,11 @@
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
 * [2024-10-26, 23:49:48](https://news.ycombinator.com/item?id=41958642) - [Google preps 'Jarvis' AI agent that works in Chrome](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/)
+* [2024-10-26, 23:47:02](https://news.ycombinator.com/item?id=41958620) - [Debugging my wife's alarm clock](https://ntietz.com/blog/debugging-my-wifes-alarm-clock/)
+* [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
+* [2024-10-26, 23:44:47](https://news.ycombinator.com/item?id=41958611) - [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
+* [2024-10-26, 23:43:21](https://news.ycombinator.com/item?id=41958599) - [First scientific study of the Paris catacombs](https://www.theguardian.com/world/2024/oct/19/bodies-quarry-shafts-millions-buried-paris-catacombs)
+* [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
 * [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 * [2024-10-26, 23:38:18](https://news.ycombinator.com/item?id=41958561) - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
