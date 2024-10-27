@@ -55,6 +55,7 @@
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [AMA: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:36:22](https://news.ycombinator.com/item?id=41952994) - [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' Seduced Silicon Valley](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
+* [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the Human Brain Contends with the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 * [2024-10-26, 06:08:25](https://news.ycombinator.com/item?id=41952915) - [Akon's Cryptocurrency City in Senegal Has Evaporated](https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/)
 * [2024-10-26, 06:05:54](https://news.ycombinator.com/item?id=41952908) - [Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books](https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767)
 * [2024-10-26, 05:34:20](https://news.ycombinator.com/item?id=41952779) - [Mdx – Execute Your Markdown Code Blocks, Now in Go](https://github.com/dim0x69/mdx)
