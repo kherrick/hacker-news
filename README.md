@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 02:53:39](https://news.ycombinator.com/item?id=41959498) - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 * [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 * [2024-10-26, 23:38:18](https://news.ycombinator.com/item?id=41958561) - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
@@ -12,7 +13,6 @@
 * [2024-10-26, 18:34:45](https://news.ycombinator.com/item?id=41956742) - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
-* [2024-10-26, 15:14:36](https://news.ycombinator.com/item?id=41955255) - [How to configure an Ethernet connection between iPad and RaspberryPi with USB-C](https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/)
 * [2024-10-26, 14:38:11](https://news.ycombinator.com/item?id=41955003) - [Deep dive: the instability of op-amps](https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps)
 * [2024-10-26, 14:12:40](https://news.ycombinator.com/item?id=41954825) - [New Windows driver signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
