@@ -13,6 +13,7 @@
 * [2024-10-27, 10:24:43](https://news.ycombinator.com/item?id=41961356) - [Some people with ADHD thrive in periods of stress, new study shows](https://www.theguardian.com/us-news/2024/oct/26/adhd-symptoms-high-stress)
 * [2024-10-27, 10:07:38](https://news.ycombinator.com/item?id=41961265) - [Hiding data/code in Android APK embedded signatures](https://lists.reproducible-builds.org/pipermail/rb-general/2023-January/002825.html)
 * [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
+* [2024-10-27, 09:45:09](https://news.ycombinator.com/item?id=41961149) - [Wafer Scale – Trilogy Systems: Part 2](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
