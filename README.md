@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 * [2024-10-27, 14:40:18](https://news.ycombinator.com/item?id=41962901) - [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
-* [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
 * [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 * [2024-10-27, 09:45:09](https://news.ycombinator.com/item?id=41961149) - [Wafer Scale – Trilogy Systems: Part 2](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359)
@@ -14,7 +14,6 @@
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 02:35:22](https://news.ycombinator.com/item?id=41959428) - [We shrunk our Javascript monorepo git size](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-27, 01:52:05](https://news.ycombinator.com/item?id=41959256) - [Character Amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/)
-* [2024-10-27, 01:26:53](https://news.ycombinator.com/item?id=41959147) - [10 Years of HexaPDF](https://gettalong.org/blog/2024/10-years-of-hexapdf.html)
 * [2024-10-27, 00:09:50](https://news.ycombinator.com/item?id=41958766) - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
 * [2024-10-26, 23:42:19](https://news.ycombinator.com/item?id=41958593) - [James Webb Telescope discovers some quasars that seem to exist in isolation](https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
@@ -28,6 +27,7 @@
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
+* [2024-10-23, 15:31:36](https://news.ycombinator.com/item?id=41926070) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 

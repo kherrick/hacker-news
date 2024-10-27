@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:52:48](https://news.ycombinator.com/item?id=41962983) - [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 * [2024-10-27, 14:40:18](https://news.ycombinator.com/item?id=41962901) - [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
