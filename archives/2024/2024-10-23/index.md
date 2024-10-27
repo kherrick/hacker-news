@@ -52,6 +52,7 @@
 * [2024-10-23, 14:23:29](https://news.ycombinator.com/item?id=41925323) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 14:15:57](https://news.ycombinator.com/item?id=41925262) - [Bringing full text search to Elixir's Ecto](https://moosie.us/paradex)
 * [2024-10-23, 14:01:07](https://news.ycombinator.com/item?id=41925141) - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
+* [2024-10-23, 13:59:35](https://news.ycombinator.com/item?id=41925130) - [Using a BCI with LLM for enabling ALS patients to speak again with family](https://thevccorner.substack.com/p/from-sci-fi-to-reality)
 * [2024-10-23, 13:45:09](https://news.ycombinator.com/item?id=41925019) - [Giant catapult launching satellites into orbit without the need of rocket fuel](https://www.thebrighterside.news/space/giant-catapult-defies-gravity-by-launching-satellites-into-orbit-without-the-need-of-rocket-fuel/)
 * [2024-10-23, 13:44:08](https://news.ycombinator.com/item?id=41925006) - [Apple May Stop Producing Vision Pro by the End of 2024](https://www.macrumors.com/2024/10/23/apple-may-stop-producing-vision-pro-by-end-of-2024/)
 * [2024-10-23, 13:33:49](https://news.ycombinator.com/item?id=41924917) - [Self-Documenting Code](https://lackofimagination.org/2024/10/self-documenting-code/)
@@ -103,3 +104,4 @@
 * [2024-10-23, 00:48:24](https://news.ycombinator.com/item?id=41920401) - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
 * [2024-10-23, 00:35:21](https://news.ycombinator.com/item?id=41920294) - [Solving Sudoku with the Python package resolver](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-23, 00:13:37](https://news.ycombinator.com/item?id=41920127) - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
+* [2024-10-23, 00:04:30](https://news.ycombinator.com/item?id=41920055) - [How JPEG XL Compares to Other Image Codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs)

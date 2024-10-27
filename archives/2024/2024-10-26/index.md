@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 23:49:48](https://news.ycombinator.com/item?id=41958642) - [Google preps 'Jarvis' AI agent that works in Chrome](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/)
 * [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 * [2024-10-26, 23:38:18](https://news.ycombinator.com/item?id=41958561) - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
+* [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
 * [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - ['We took on Google and they were forced to pay out £2B'](https://www.bbc.com/news/articles/cjr431lr72jo)
 * [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
+* [2024-10-26, 22:41:29](https://news.ycombinator.com/item?id=41958255) - [Canvas Fingerprinting – BrowserLeaks](https://browserleaks.com/canvas)
 * [2024-10-26, 22:35:41](https://news.ycombinator.com/item?id=41958224) - [Teens Want Less Sex in Movies and TV Shows, Study Finds](https://variety.com/2024/film/news/teens-sex-movies-tv-shows-study-preferences-babygirl-tell-me-lies-1236189703/)
+* [2024-10-26, 22:35:05](https://news.ycombinator.com/item?id=41958221) - [ADHD and Managing Your Professional Reputation](https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation)
 * [2024-10-26, 21:42:16](https://news.ycombinator.com/item?id=41957938) - [On Friday 21st March 2025, the sun will set on the British \"Empire\"](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
 * [2024-10-26, 21:23:55](https://news.ycombinator.com/item?id=41957829) - [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
