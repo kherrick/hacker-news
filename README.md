@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
-* [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
+* [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing left to solve](https://lmnt.me/blog/nothing-left-to-solve.html)
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-* [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [Meta's Open Source NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
+* [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [The MIPS ThinkPad, kind of (2022)](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
@@ -29,6 +28,7 @@
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
 * [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://www.bnl.gov/newsroom/news.php?a=222117)
 * [2024-10-23, 06:10:49](https://news.ycombinator.com/item?id=41922295) - [Optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
+* [2024-10-23, 03:51:45](https://news.ycombinator.com/item?id=41921635) - [Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 
 ## [Archives](archives/index.md)
