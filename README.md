@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 10:34:15](https://news.ycombinator.com/item?id=41961391) - [UK sleep experts say it's time to kill daylight saving for good](https://www.theregister.com/2024/10/27/abolish_daylight_saving_time/)
 * [2024-10-27, 10:24:43](https://news.ycombinator.com/item?id=41961356) - [Some people with ADHD thrive in periods of stress, new study shows](https://www.theguardian.com/us-news/2024/oct/26/adhd-symptoms-high-stress)
 * [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
-* [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 * [2024-10-27, 07:12:10](https://news.ycombinator.com/item?id=41960442) - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
 * [2024-10-27, 06:25:26](https://news.ycombinator.com/item?id=41960272) - [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
 * [2024-10-27, 05:45:52](https://news.ycombinator.com/item?id=41960124) - [DragonRuby Game Toolkit hits v6.0](https://dragonruby.itch.io/dragonruby-gtk/devlog/809843/dragonruby-hits-v60)
@@ -27,9 +27,9 @@
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 * [2024-10-24, 08:50:50](https://news.ycombinator.com/item?id=41933527) - [A brief history of Notion's data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
-* [2024-10-23, 13:59:35](https://news.ycombinator.com/item?id=41925130) - [Using a BCI with LLM for enabling ALS patients to speak again with family](https://thevccorner.substack.com/p/from-sci-fi-to-reality)
 * [2024-10-23, 00:04:30](https://news.ycombinator.com/item?id=41920055) - [How JPEG XL compares to other image codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs)
 * [2024-10-22, 18:02:29](https://news.ycombinator.com/item?id=41916924) - [Evolution in real time: Scientists see evolution in 30-year snail experiment](https://phys.org/news/2024-10-evolution-real-scientists-witness-year.html)
+* [2024-10-22, 16:29:32](https://news.ycombinator.com/item?id=41915978) - [Order and orient the keys on your keychain](https://practicalbetterments.com/order-and-orient-the-keys-on-your-keychain/)
 
 ## [Archives](archives/index.md)
 
