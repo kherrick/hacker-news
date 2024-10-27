@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-27, 00:25:42",
+      "https://news.ycombinator.com/item?id=41958862"
+    ],
+    [
+      "Former Intel CEO says splitting Intel isn't good for the U.S.",
+      "https://www.tomshardware.com/tech-industry/former-intel-ceo-says-splitting-intel-isnt-good-for-the-u-s"
+    ]
+  ],
+  [
+    [
+      "2024-10-27, 00:09:50",
+      "https://news.ycombinator.com/item?id=41958766"
+    ],
+    [
+      "I discovered mysterious hidden signals on a public radio channel [video]",
+      "https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 23:49:48",
+      "https://news.ycombinator.com/item?id=41958642"
+    ],
+    [
+      "Google preps 'Jarvis' AI agent that works in Chrome",
+      "https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 23:39:50",
       "https://news.ycombinator.com/item?id=41958575"
     ],
@@ -21,32 +51,32 @@
   ],
   [
     [
-      "2024-10-26, 23:16:01",
-      "https://news.ycombinator.com/item?id=41958425"
+      "2024-10-26, 23:36:27",
+      "https://news.ycombinator.com/item?id=41958550"
     ],
     [
-      "\"We took on Google and they were forced to pay out £2B\"",
-      "https://www.bbc.com/news/articles/cjr431lr72jo"
+      "ZombAIs: From Prompt Injection to C2 with Claude Computer Use",
+      "https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/"
     ]
   ],
   [
     [
-      "2024-10-26, 23:15:13",
-      "https://news.ycombinator.com/item?id=41958420"
+      "2024-10-26, 22:41:29",
+      "https://news.ycombinator.com/item?id=41958255"
     ],
     [
-      "California is torn between clashing Anglo traditions",
-      "https://unherd.com/2024/10/californias-woes-were-born-in-england/"
+      "Canvas Fingerprinting – BrowserLeaks",
+      "https://browserleaks.com/canvas"
     ]
   ],
   [
     [
-      "2024-10-26, 22:35:41",
-      "https://news.ycombinator.com/item?id=41958224"
+      "2024-10-26, 22:35:05",
+      "https://news.ycombinator.com/item?id=41958221"
     ],
     [
-      "Teens Want Less Sex in Movies and TV Shows, Study Finds",
-      "https://variety.com/2024/film/news/teens-sex-movies-tv-shows-study-preferences-babygirl-tell-me-lies-1236189703/"
+      "ADHD and Managing Your Professional Reputation",
+      "https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair",
       "https://news.ycombinator.com/item?id=41957685"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 20:45:58",
-      "https://news.ycombinator.com/item?id=41957601"
-    ],
-    [
-      "PineNote Community Edition: Preorder coming soon",
-      "https://pine64.com/product/pinenote-community-edition-coming-soon/"
     ]
   ],
   [
@@ -111,52 +131,12 @@
   ],
   [
     [
-      "2024-10-26, 17:59:47",
-      "https://news.ycombinator.com/item?id=41956495"
-    ],
-    [
-      "Sudha Car Museum",
-      "https://twitter.com/anandmahindra/status/1850005999811174634"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 17:09:48",
-      "https://news.ycombinator.com/item?id=41956089"
-    ],
-    [
-      "Opera will always help you block ads natively",
-      "https://blogs.opera.com/news/2024/10/opera-support-manifest-v2-ad-blocking/"
-    ]
-  ],
-  [
-    [
       "2024-10-26, 16:46:52",
       "https://news.ycombinator.com/item?id=41955912"
     ],
     [
       "Understanding Round Robin DNS",
       "https://blog.hyperknot.com/p/understanding-round-robin-dns"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 16:01:16",
-      "https://news.ycombinator.com/item?id=41955580"
-    ],
-    [
-      "Identifying factors contributing to \"bad days\" for software developers",
-      "https://arxiv.org/abs/2410.18379"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 15:14:36",
-      "https://news.ycombinator.com/item?id=41955255"
-    ],
-    [
-      "How to configure an Ethernet connection between iPad and RaspberryPi with USB-C",
-      "https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/"
     ]
   ],
   [
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2024-10-26, 12:40:58",
-      "https://news.ycombinator.com/item?id=41954399"
-    ],
-    [
-      "Show HN: A text-only blog engine using Cloudflare workers and KV store",
-      "https://github.com/jonfraser/simpletext"
-    ]
-  ],
-  [
-    [
       "2024-10-26, 06:57:28",
       "https://news.ycombinator.com/item?id=41953063"
     ],
@@ -201,12 +171,12 @@
   ],
   [
     [
-      "2024-10-26, 05:34:20",
-      "https://news.ycombinator.com/item?id=41952779"
+      "2024-10-26, 06:33:01",
+      "https://news.ycombinator.com/item?id=41952984"
     ],
     [
-      "Show HN: Mdx – Execute your Markdown code blocks, now in Go",
-      "https://github.com/dim0x69/mdx"
+      "How 'Factorio' seduced Silicon Valley and me",
+      "https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2024-10-23, 13:59:35",
+      "https://news.ycombinator.com/item?id=41925130"
+    ],
+    [
+      "Using a BCI with LLM for enabling ALS patients to speak again with family",
+      "https://thevccorner.substack.com/p/from-sci-fi-to-reality"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 02:56:24",
       "https://news.ycombinator.com/item?id=41921311"
     ],
     [
       "Live imaging of ovulation in action reveals three distinct phases in mice",
       "https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 00:04:30",
+      "https://news.ycombinator.com/item?id=41920055"
+    ],
+    [
+      "How JPEG XL Compares to Other Image Codecs",
+      "https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 16:29:32",
+      "https://news.ycombinator.com/item?id=41915978"
+    ],
+    [
+      "Order and orient the keys on your keychain",
+      "https://practicalbetterments.com/order-and-orient-the-keys-on-your-keychain/"
     ]
   ]
 ]
