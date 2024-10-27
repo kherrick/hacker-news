@@ -20,6 +20,7 @@
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
+* [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
@@ -29,7 +30,6 @@
 * [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 * [2024-10-23, 13:59:35](https://news.ycombinator.com/item?id=41925130) - [Using a BCI with LLM for enabling ALS patients to speak again with family](https://thevccorner.substack.com/p/from-sci-fi-to-reality)
 * [2024-10-23, 00:04:30](https://news.ycombinator.com/item?id=41920055) - [How JPEG XL compares to other image codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs)
-* [2024-10-22, 16:29:32](https://news.ycombinator.com/item?id=41915978) - [Order and orient the keys on your keychain](https://practicalbetterments.com/order-and-orient-the-keys-on-your-keychain/)
 
 ## [Archives](archives/index.md)
 
