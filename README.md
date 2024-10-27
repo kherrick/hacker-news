@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
+* [2024-10-27, 14:40:18](https://news.ycombinator.com/item?id=41962901) - [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
 * [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
@@ -7,7 +9,6 @@
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 * [2024-10-27, 09:45:09](https://news.ycombinator.com/item?id=41961149) - [Wafer Scale – Trilogy Systems: Part 2](https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359)
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
-* [2024-10-27, 05:33:09](https://news.ycombinator.com/item?id=41960085) - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 02:35:22](https://news.ycombinator.com/item?id=41959428) - [We shrunk our Javascript monorepo git size](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-27, 01:52:05](https://news.ycombinator.com/item?id=41959256) - [Character Amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/)
@@ -26,7 +27,6 @@
 * [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-26, 06:22:44](https://news.ycombinator.com/item?id=41952953) - [How the human brain contends with the strangeness of zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-* [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
 * [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)

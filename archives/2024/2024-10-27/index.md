@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
+* [2024-10-27, 14:40:18](https://news.ycombinator.com/item?id=41962901) - [Cissp Cheatsheet](https://old.reddit.com/r/cissp/comments/uzpwcw/cissp_cheatsheet_for_exam_preparation/)
 * [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
