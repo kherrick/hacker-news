@@ -57,6 +57,7 @@
 * [2024-10-24, 14:19:13](https://news.ycombinator.com/item?id=41935766) - [Why that one coworker got fired for no reason](https://gieseanw.wordpress.com/2024/10/24/why-that-one-coworker-got-fired-for-no-reason/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 * [2024-10-24, 14:08:33](https://news.ycombinator.com/item?id=41935642) - [When does generative AI qualify for fair use?](http://suchir.net/fair_use.html)
+* [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 * [2024-10-24, 13:11:53](https://news.ycombinator.com/item?id=41935164) - [He Died Building a Ship for the U.S. Government. His Family Got Nothing](https://www.propublica.org/article/immigration-louisiana-houma-shipbuilding-jobs-safety)
 * [2024-10-24, 12:50:28](https://news.ycombinator.com/item?id=41934992) - [TCP over TCP is a bad idea (2000)](https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html)
