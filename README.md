@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
 * [2024-10-27, 19:02:41](https://news.ycombinator.com/item?id=41964769) - [Will the China cycle come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [The MIPS ThinkPad, kind of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
@@ -11,7 +12,6 @@
 * [2024-10-27, 17:06:49](https://news.ycombinator.com/item?id=41963988) - [Rapamycin: One Drug, Many Effects (2014)](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(14)00007-2)
 * [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
-* [2024-10-27, 16:50:06](https://news.ycombinator.com/item?id=41963886) - [Chiplet Marketplace, Sustainability Top Discussions at OCP Summit](https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/)
 * [2024-10-27, 16:31:43](https://news.ycombinator.com/item?id=41963768) - [It all started with a perceptron](https://medium.com/@vincentlambert0/it-all-started-with-a-perceptron-86bd0fb80b96)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)
@@ -19,7 +19,6 @@
 * [2024-10-27, 14:47:22](https://news.ycombinator.com/item?id=41962944) - [Axiomatics: Mathematical thought and high modernism](https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism)
 * [2024-10-27, 14:45:23](https://news.ycombinator.com/item?id=41962930) - [In some scientific papers, words expressing uncertainty have decreased (2023)](https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased)
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
-* [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace (2016)](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin waltz unearthed after nearly 200 years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
@@ -28,6 +27,7 @@
 * [2024-10-26, 08:47:16](https://news.ycombinator.com/item?id=41953509) - [All the electricity you'll need for 40 years](https://www.innerpathing.com/p/all-the-electricity-youll-need-for)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
 * [2024-10-23, 14:42:04](https://news.ycombinator.com/item?id=41925522) - [Highest-Voltage Electron Gun](https://www.bnl.gov/newsroom/news.php?a=222117)
+* [2024-10-23, 06:10:49](https://news.ycombinator.com/item?id=41922295) - [Optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
 * [2024-10-23, 03:51:45](https://news.ycombinator.com/item?id=41921635) - [Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 

@@ -89,6 +89,7 @@
 * [2024-10-23, 07:00:15](https://news.ycombinator.com/item?id=41922556) - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
 * [2024-10-23, 06:51:40](https://news.ycombinator.com/item?id=41922503) - [Riot Games: Peeking into Valorant's Netcode (2020)](https://technology.riotgames.com/news/peeking-valorants-netcode)
 * [2024-10-23, 06:24:16](https://news.ycombinator.com/item?id=41922356) - [The Incredible Machine (1968)](https://www.youtube.com/watch?v=iwVu2BWLZqA)
+* [2024-10-23, 06:10:49](https://news.ycombinator.com/item?id=41922295) - [Optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
 * [2024-10-23, 05:56:07](https://news.ycombinator.com/item?id=41922216) - [Writer Underwriting Writer](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)
 * [2024-10-23, 05:39:20](https://news.ycombinator.com/item?id=41922136) - [When Samsung meets MediaTek: the story of a small bug chain [pdf]](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf)
 * [2024-10-23, 05:26:23](https://news.ycombinator.com/item?id=41922081) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
