@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents: The web is losing. A comeback is possible](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
 * [2024-10-27, 19:03:33](https://news.ycombinator.com/item?id=41964775) - [Matt Mullenweg's Bull(enweg)](https://bullenweg.org/)
