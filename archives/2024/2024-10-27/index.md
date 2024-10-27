@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 14:10:47](https://news.ycombinator.com/item?id=41962750) - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 * [2024-10-27, 13:34:14](https://news.ycombinator.com/item?id=41962509) - [The Prophet of Cyberspace](https://www.filfre.net/2016/11/the-prophet-of-cyberspace/)
 * [2024-10-27, 13:17:02](https://news.ycombinator.com/item?id=41962411) - [Scientists developed a novel method to detect lies](https://www.universal-sci.com/headlines/2020/12/17/spotting-liars-is-hard-but-our-new-method-is-effective-and-ethical)
 * [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
