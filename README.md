@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents: The web is losing. A comeback is possible](https://infrequently.org/2024/10/platforms-are-competitions/)
+* [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
+* [2024-10-27, 19:03:33](https://news.ycombinator.com/item?id=41964775) - [Matt Mullenweg's Bull(enweg)](https://bullenweg.org/)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [The MIPS ThinkPad, kind of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
@@ -15,7 +16,6 @@
 * [2024-10-27, 16:31:43](https://news.ycombinator.com/item?id=41963768) - [It all started with a perceptron](https://medium.com/@vincentlambert0/it-all-started-with-a-perceptron-86bd0fb80b96)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)
-* [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing (2021)](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:47:22](https://news.ycombinator.com/item?id=41962944) - [Axiomatics: Mathematical thought and high modernism](https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism)
 * [2024-10-27, 14:45:23](https://news.ycombinator.com/item?id=41962930) - [In some scientific papers, words expressing uncertainty have decreased (2023)](https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased)
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
