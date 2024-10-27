@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
 * [2024-10-24, 23:17:40](https://news.ycombinator.com/item?id=41940778) - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
+* [2024-10-24, 22:56:44](https://news.ycombinator.com/item?id=41940663) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST – By Paul Lefebvre](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
 * [2024-10-24, 21:33:03](https://news.ycombinator.com/item?id=41940045) - [Bias and Deviation Weighted Graph Search for NLOS Indoor RTLS Calibration](https://www.mdpi.com/2079-9292/13/20/3993)
