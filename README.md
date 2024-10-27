@@ -28,7 +28,7 @@
 * [2024-10-25, 18:15:42](https://news.ycombinator.com/item?id=41947985) - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 * [2024-10-25, 13:10:13](https://news.ycombinator.com/item?id=41944919) - [Why ghosts wear clothes or white sheets](https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
-* [2024-10-23, 13:59:35](https://news.ycombinator.com/item?id=41925130) - [Using a BCI with LLM for enabling ALS patients to speak again with family](https://thevccorner.substack.com/p/from-sci-fi-to-reality)
+* [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
 * [2024-10-22, 18:02:29](https://news.ycombinator.com/item?id=41916924) - [Evolution in real time: Scientists see evolution in 30-year snail experiment](https://phys.org/news/2024-10-evolution-real-scientists-witness-year.html)
 
 ## [Archives](archives/index.md)
