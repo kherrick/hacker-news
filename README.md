@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-* [2024-10-27, 19:02:41](https://news.ycombinator.com/item?id=41964769) - [Will the China cycle come for Airbus and Boeing?](https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus)
 * [2024-10-27, 18:41:49](https://news.ycombinator.com/item?id=41964639) - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [The MIPS ThinkPad, kind of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
@@ -23,6 +22,7 @@
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin waltz unearthed after nearly 200 years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 01:52:05](https://news.ycombinator.com/item?id=41959256) - [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/)
+* [2024-10-26, 23:47:02](https://news.ycombinator.com/item?id=41958620) - [Debugging my wife's alarm clock](https://ntietz.com/blog/debugging-my-wifes-alarm-clock/)
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [SDL-based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
 * [2024-10-26, 08:47:16](https://news.ycombinator.com/item?id=41953509) - [All the electricity you'll need for 40 years](https://www.innerpathing.com/p/all-the-electricity-youll-need-for)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
