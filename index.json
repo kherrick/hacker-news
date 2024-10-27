@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-10-27, 22:14:45",
-      "https://news.ycombinator.com/item?id=41966114"
-    ],
-    [
-      "Ask HN: What Are You Working On? (October 2024)",
-      "https://news.ycombinator.com/item?id=41966114"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 20:40:12",
       "https://news.ycombinator.com/item?id=41965495"
     ],
     [
-      "Nothing Left to Solve",
+      "Nothing left to solve",
       "https://lmnt.me/blog/nothing-left-to-solve.html"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41964980"
     ],
     [
-      "Meta's Open Source NotebookLM",
+      "NotebookLlama: An open source version of NotebookLM",
       "https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Optimizers need a rethink",
       "https://typesanitizer.com/blog/rethink-optimizers.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 03:51:45",
+      "https://news.ycombinator.com/item?id=41921635"
+    ],
+    [
+      "Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces",
+      "https://arxiv.org/abs/2410.09918"
     ]
   ],
   [
