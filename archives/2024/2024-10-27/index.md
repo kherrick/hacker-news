@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
 * [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)

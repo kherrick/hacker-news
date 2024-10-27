@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-27, 09:48:42](https://news.ycombinator.com/item?id=41961166) - [Jellyfin 10.10.0](https://jellyfin.org/posts/jellyfin-release-10.10.0/)
 * [2024-10-27, 09:23:52](https://news.ycombinator.com/item?id=41961034) - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
 * [2024-10-27, 09:08:00](https://news.ycombinator.com/item?id=41960954) - ['Fandom has toxified the world': Watchmen author Alan Moore](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)
-* [2024-10-27, 08:59:52](https://news.ycombinator.com/item?id=41960914) - [Writes and Write-Nots](https://paulgraham.com/writes.html)
 * [2024-10-27, 07:12:10](https://news.ycombinator.com/item?id=41960442) - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
 * [2024-10-27, 06:25:26](https://news.ycombinator.com/item?id=41960272) - [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
 * [2024-10-27, 05:45:52](https://news.ycombinator.com/item?id=41960124) - [DragonRuby Game Toolkit hits v6.0](https://dragonruby.itch.io/dragonruby-gtk/devlog/809843/dragonruby-hits-v60)
@@ -22,7 +22,6 @@
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
-* [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:33:01](https://news.ycombinator.com/item?id=41952984) - [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e)
 * [2024-10-24, 16:03:09](https://news.ycombinator.com/item?id=41936855) - [Using LLMs to enhance our testing practices](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)
@@ -30,6 +29,7 @@
 * [2024-10-24, 08:50:50](https://news.ycombinator.com/item?id=41933527) - [A brief history of Notion's data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 * [2024-10-23, 13:59:35](https://news.ycombinator.com/item?id=41925130) - [Using a BCI with LLM for enabling ALS patients to speak again with family](https://thevccorner.substack.com/p/from-sci-fi-to-reality)
 * [2024-10-23, 00:04:30](https://news.ycombinator.com/item?id=41920055) - [How JPEG XL compares to other image codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs)
+* [2024-10-22, 18:02:29](https://news.ycombinator.com/item?id=41916924) - [Evolution in real time: Scientists see evolution in 30-year snail experiment](https://phys.org/news/2024-10-evolution-real-scientists-witness-year.html)
 
 ## [Archives](archives/index.md)
 
