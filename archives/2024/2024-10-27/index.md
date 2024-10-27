@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
 * [2024-10-27, 18:18:20](https://news.ycombinator.com/item?id=41964467) - [Old Vintage Computing Research: The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+* [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis, the Federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
 * [2024-10-27, 17:38:10](https://news.ycombinator.com/item?id=41964200) - [How fast can you parse a CSV file in C#?](https://lemire.me/blog/2024/10/17/how-fast-can-you-parse-a-csv-file-in-c/)
 * [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 17:24:43](https://news.ycombinator.com/item?id=41964117) - [\"An utter shitshow\": Inside the Transport for London cyberattack](https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport)
@@ -13,6 +14,7 @@
 * [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) Is Hiring for Their 4th Founding Full-Stack Engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
 * [2024-10-27, 16:58:45](https://news.ycombinator.com/item?id=41963931) - [Country Comparisons Real GDP (purchasing power parity)](https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/)
+* [2024-10-27, 16:52:55](https://news.ycombinator.com/item?id=41963906) - [What Is a Raspberry Pi AI Kit?](https://raspberrytips.com/what-is-raspberry-pi-ai-kit/)
 * [2024-10-27, 16:50:29](https://news.ycombinator.com/item?id=41963890) - [ModelKit: Transforming AI/ML artifact sharing and management across lifecycles](https://kitops.ml/docs/modelkit/intro.html)
 * [2024-10-27, 16:50:06](https://news.ycombinator.com/item?id=41963886) - [Chiplet Marketplace, Sustainability Top Discussions at OCP Summit](https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
