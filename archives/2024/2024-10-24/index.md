@@ -7,6 +7,7 @@
 * [2024-10-24, 23:17:40](https://news.ycombinator.com/item?id=41940778) - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
 * [2024-10-24, 21:57:54](https://news.ycombinator.com/item?id=41940266) - [ST Book, the Notebook Atari ST – By Paul Lefebvre](https://www.goto10retro.com/p/st-book-the-notebook-atari-st)
+* [2024-10-24, 21:33:03](https://news.ycombinator.com/item?id=41940045) - [Bias and Deviation Weighted Graph Search for NLOS Indoor RTLS Calibration](https://www.mdpi.com/2079-9292/13/20/3993)
 * [2024-10-24, 21:26:09](https://news.ycombinator.com/item?id=41939967) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-24, 21:20:45](https://news.ycombinator.com/item?id=41939911) - [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
 * [2024-10-24, 21:00:46](https://news.ycombinator.com/item?id=41939714) - [Viva Labs (YC W22) Is Hiring Video/Image AI Research Lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
