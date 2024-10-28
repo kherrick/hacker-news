@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2024-10-28, 21:06:50",
-      "https://news.ycombinator.com/item?id=41976286"
+      "2024-10-28, 20:37:42",
+      "https://news.ycombinator.com/item?id=41975993"
     ],
     [
-      "Is Porn Misleading Men?",
-      "https://aella.substack.com/p/is-porn-misleading-men"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 20:35:51",
-      "https://news.ycombinator.com/item?id=41975966"
-    ],
-    [
-      "The Surprising Story Behind America's Most Popular 'I Voted' Sticker",
-      "https://www.aarp.org/politics-society/history/info-2024/i-voted-sticker.html"
+      "Why so few Matt Levines?",
+      "https://gwern.net/matt-levine"
     ]
   ],
   [
@@ -91,26 +81,6 @@
   ],
   [
     [
-      "2024-10-28, 18:47:43",
-      "https://news.ycombinator.com/item?id=41974647"
-    ],
-    [
-      "Why are ML compilers so hard? (2021)",
-      "https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 18:47:06",
-      "https://news.ycombinator.com/item?id=41974637"
-    ],
-    [
-      "So long WordPress",
-      "https://chriswiegman.com/2024/10/so-long-wordpress/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 17:53:21",
       "https://news.ycombinator.com/item?id=41974011"
     ],
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2024-10-28, 17:14:11",
+      "https://news.ycombinator.com/item?id=41973559"
+    ],
+    [
+      "Critique of Freakonomics interview with psychologist Ellen Langer",
+      "https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:33:11",
       "https://news.ycombinator.com/item?id=41973065"
     ],
@@ -167,6 +147,16 @@
     [
       "The sins of the 90s: Questioning a puzzling claim about mass surveillance",
       "https://blog.cr.yp.to/20241028-surveillance.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 15:18:32",
+      "https://news.ycombinator.com/item?id=41971932"
+    ],
+    [
+      "Psychological safety vs. high standards: A misunderstood dynamic",
+      "https://www.leadingsapiens.com/psychological-safety-vs-high-standards/"
     ]
   ],
   [
@@ -211,26 +201,6 @@
   ],
   [
     [
-      "2024-10-27, 22:14:45",
-      "https://news.ycombinator.com/item?id=41966114"
-    ],
-    [
-      "Ask HN: What Are You Working On? (October 2024)",
-      "https://news.ycombinator.com/item?id=41966114"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 06:37:27",
-      "https://news.ycombinator.com/item?id=41952999"
-    ],
-    [
-      "State-space models can learn in-context by gradient descent",
-      "https://arxiv.org/abs/2410.11687"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 18:44:39",
       "https://news.ycombinator.com/item?id=41948323"
     ],
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2024-10-25, 15:00:15",
+      "https://news.ycombinator.com/item?id=41945918"
+    ],
+    [
+      "Care Doesn't Scale",
+      "https://stevenscrawls.com/care-doesnt-scale/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 14:07:45",
       "https://news.ycombinator.com/item?id=41945458"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-10-25, 01:19:26",
+      "https://news.ycombinator.com/item?id=41941451"
+    ],
+    [
+      "Using Rust in non-Rust servers to improve performance",
+      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 21:31:09",
       "https://news.ycombinator.com/item?id=41940017"
     ],
@@ -297,6 +287,16 @@
     [
       "70% of meteorites from 3 collisions in asteroid belt within past 40M years",
       "https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 15:54:11",
+      "https://news.ycombinator.com/item?id=41926320"
+    ],
+    [
+      "Debugging audio artifacts caused by... a serial port?",
+      "https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port"
     ]
   ]
 ]
