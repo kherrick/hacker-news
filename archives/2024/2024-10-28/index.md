@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
+* [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 * [2024-10-28, 19:00:06](https://news.ycombinator.com/item?id=41974789) - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
+* [2024-10-28, 18:54:22](https://news.ycombinator.com/item?id=41974718) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 * [2024-10-28, 18:47:06](https://news.ycombinator.com/item?id=41974637) - [So Long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
 * [2024-10-28, 18:06:00](https://news.ycombinator.com/item?id=41974159) - [GenAI's dirty secret: It's set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
 * [2024-10-28, 18:01:46](https://news.ycombinator.com/item?id=41974126) - [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
