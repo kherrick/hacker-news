@@ -50,6 +50,7 @@
 * [2024-10-25, 15:46:50](https://news.ycombinator.com/item?id=41946386) - [Polish radio station ditches DJs, journalists for AI-generated college kids](https://www.theregister.com/2024/10/25/polish_radio_station_ai_hosts/)
 * [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:26:23](https://news.ycombinator.com/item?id=41946188) - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
+* [2024-10-25, 15:21:28](https://news.ycombinator.com/item?id=41946133) - [Study: DNA corroborates \"Well-man\" tale from Norse saga](https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:59:39](https://news.ycombinator.com/item?id=41945904) - [Amazon Says It Has a First Amendment Right to Union Bust](https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/)
