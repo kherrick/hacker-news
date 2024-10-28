@@ -13,6 +13,7 @@
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 * [2024-10-28, 05:05:38](https://news.ycombinator.com/item?id=41968008) - [Digital Nomads Are Exploiting the World](https://www.thrillist.com/travel/nation/digital-nomads-criticism-locals-exploitation)
+* [2024-10-28, 04:35:16](https://news.ycombinator.com/item?id=41967912) - [Nested Loops Revisited Again](https://ieeexplore.ieee.org/abstract/document/10184629/)
 * [2024-10-28, 04:32:06](https://news.ycombinator.com/item?id=41967897) - [- 418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
 * [2024-10-28, 02:28:50](https://news.ycombinator.com/item?id=41967293) - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
