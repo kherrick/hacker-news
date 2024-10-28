@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-28, 15:03:01",
-      "https://news.ycombinator.com/item?id=41971726"
+      "2024-10-28, 15:33:29",
+      "https://news.ycombinator.com/item?id=41972143"
     ],
     [
-      "New iMac with M4",
-      "https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/"
+      "Experts say a proposed revamp to the recycling symbol is still deceptive",
+      "https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 15:18:32",
+      "https://news.ycombinator.com/item?id=41971932"
+    ],
+    [
+      "Psychological Safety vs. High Standards: A Misunderstood Dynamic",
+      "https://www.leadingsapiens.com/psychological-safety-vs-high-standards/"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2024-10-26, 09:43:18",
-      "https://news.ycombinator.com/item?id=41953712"
-    ],
-    [
-      "SDL-based Lua programming environment for kids similar to Codea",
-      "https://github.com/antirez/load81"
-    ]
-  ],
-  [
-    [
       "2024-10-26, 09:33:21",
       "https://news.ycombinator.com/item?id=41953691"
     ],
     [
       "GoLic, injects license into source code files",
       "https://github.com/AbsaOSS/golic"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 06:37:27",
+      "https://news.ycombinator.com/item?id=41952999"
+    ],
+    [
+      "State-space models can learn in-context by gradient descent",
+      "https://arxiv.org/abs/2410.11687"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Becoming physically immune to brute-force attacks (2021)",
       "https://seirdy.one/posts/2021/01/12/password-strength/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 18:24:10",
-      "https://news.ycombinator.com/item?id=41938149"
-    ],
-    [
-      "Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500 (2023)",
-      "https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/"
     ]
   ],
   [
