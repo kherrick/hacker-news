@@ -55,6 +55,7 @@
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
 * [2024-10-26, 12:05:24](https://news.ycombinator.com/item?id=41954242) - [PeaZip 10.0.0 Released](https://peazip.github.io/changelog.html)
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [Antirez/load81: SDL based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
+* [2024-10-26, 09:33:21](https://news.ycombinator.com/item?id=41953691) - [GoLic, injects license into source code files](https://github.com/AbsaOSS/golic)
 * [2024-10-26, 08:53:52](https://news.ycombinator.com/item?id=41953537) - [I've never used cohost but I miss it](https://plume.pink/blog-cohost/)
 * [2024-10-26, 08:47:16](https://news.ycombinator.com/item?id=41953509) - [All the electricity you'll need for 40 years](https://www.innerpathing.com/p/all-the-electricity-youll-need-for)
 * [2024-10-26, 08:43:40](https://news.ycombinator.com/item?id=41953494) - [On Linux MAINTAINERS file removal of Russian developers](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
