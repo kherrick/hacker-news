@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-28, 15:33:29",
-      "https://news.ycombinator.com/item?id=41972143"
+      "2024-10-28, 15:34:54",
+      "https://news.ycombinator.com/item?id=41972172"
     ],
     [
-      "Experts say a proposed revamp to the recycling symbol is still deceptive",
-      "https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/"
+      "The sins of the 90s: Questioning a puzzling claim about mass surveillance",
+      "https://blog.cr.yp.to/20241028-surveillance.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Psychological Safety vs. High Standards: A Misunderstood Dynamic",
       "https://www.leadingsapiens.com/psychological-safety-vs-high-standards/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 15:11:37",
+      "https://news.ycombinator.com/item?id=41971835"
+    ],
+    [
+      "Apple Intelligence is available today on iPhone, iPad, and Mac",
+      "https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/"
     ]
   ],
   [
@@ -41,26 +51,6 @@
   ],
   [
     [
-      "2024-10-28, 13:33:42",
-      "https://news.ycombinator.com/item?id=41970874"
-    ],
-    [
-      "Gravity is not a force",
-      "https://superposer.substack.com/p/gravity-is-not-a-force"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 13:09:53",
-      "https://news.ycombinator.com/item?id=41970697"
-    ],
-    [
-      "Family medicine is in decline",
-      "https://thewalrus.ca/your-doctor-wont-see-you/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 10:53:19",
       "https://news.ycombinator.com/item?id=41969753"
     ],
@@ -77,6 +67,16 @@
     [
       "Write code that is easy to delete, not easy to extend (2016)",
       "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 06:46:54",
+      "https://news.ycombinator.com/item?id=41968348"
+    ],
+    [
+      "The Event Horizon Telescope image might need a correction",
+      "https://academic.oup.com/mnras/article/534/4/3237/7660988"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-10-27, 19:17:59",
-      "https://news.ycombinator.com/item?id=41964882"
-    ],
-    [
-      "RP FLIP escapes wrecker's claws",
-      "https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 16:58:56",
       "https://news.ycombinator.com/item?id=41963932"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-10-26, 09:43:18",
+      "https://news.ycombinator.com/item?id=41953712"
+    ],
+    [
+      "SDL-based Lua programming environment for kids similar to Codea",
+      "https://github.com/antirez/load81"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 09:33:21",
       "https://news.ycombinator.com/item?id=41953691"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-10-25, 18:07:11",
-      "https://news.ycombinator.com/item?id=41947881"
-    ],
-    [
-      "x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd",
-      "https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 01:19:26",
       "https://news.ycombinator.com/item?id=41941451"
     ],
@@ -247,6 +237,16 @@
     [
       "Becoming physically immune to brute-force attacks (2021)",
       "https://seirdy.one/posts/2021/01/12/password-strength/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 18:24:10",
+      "https://news.ycombinator.com/item?id=41938149"
+    ],
+    [
+      "Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500 (2023)",
+      "https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/"
     ]
   ],
   [
