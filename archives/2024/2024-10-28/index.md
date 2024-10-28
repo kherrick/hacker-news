@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [F.A. Hayek – The Use of Knowledge in Society [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 * [2024-10-28, 13:59:05](https://news.ycombinator.com/item?id=41971060) - [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
 * [2024-10-28, 13:58:25](https://news.ycombinator.com/item?id=41971054) - [Exercise Paradox](https://en.wikipedia.org/wiki/Exercise_paradox)
 * [2024-10-28, 13:38:18](https://news.ycombinator.com/item?id=41970903) - [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
