@@ -12,6 +12,7 @@
 * [2024-10-28, 15:11:37](https://news.ycombinator.com/item?id=41971835) - [Apple Intelligence is available today on iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [F.A. Hayek – The Use of Knowledge in Society [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+* [2024-10-28, 14:11:24](https://news.ycombinator.com/item?id=41971182) - [Dramatic drop in marijuana use among U.S. youth over a decade](https://www.fau.edu/newsdesk/articles/marijuana-use-teens-study.php)
 * [2024-10-28, 13:59:05](https://news.ycombinator.com/item?id=41971060) - [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
 * [2024-10-28, 13:58:25](https://news.ycombinator.com/item?id=41971054) - [Exercise Paradox](https://en.wikipedia.org/wiki/Exercise_paradox)
 * [2024-10-28, 13:38:18](https://news.ycombinator.com/item?id=41970903) - [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
