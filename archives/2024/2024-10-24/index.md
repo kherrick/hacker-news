@@ -75,6 +75,7 @@
 * [2024-10-24, 07:35:56](https://news.ycombinator.com/item?id=41932995) - [LibLISA – Instruction Discovery and Analysis on x86-64](https://liblisa.nl/)
 * [2024-10-24, 07:11:45](https://news.ycombinator.com/item?id=41932831) - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
+* [2024-10-24, 05:34:11](https://news.ycombinator.com/item?id=41932244) - [For the strongest disc golf throws, it's all in the thumbs](https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/)
 * [2024-10-24, 05:29:50](https://news.ycombinator.com/item?id=41932225) - [Goodbye from a Linux Community Volunteer](https://lore.kernel.org/netdev/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/T/#u)
 * [2024-10-24, 04:00:06](https://news.ycombinator.com/item?id=41931773) - [Why I'm Leaving OpenAI and What I'm Doing Next](https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im)
 * [2024-10-24, 03:18:23](https://news.ycombinator.com/item?id=41931572) - [AWS data center latencies, visualized](https://benjdd.com/aws/)
