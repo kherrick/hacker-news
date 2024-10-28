@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-28, 15:03:01",
+      "https://news.ycombinator.com/item?id=41971726"
+    ],
+    [
+      "New iMac with M4",
+      "https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 14:26:02",
       "https://news.ycombinator.com/item?id=41971333"
     ],
     [
-      "F.A. Hayek – The Use of Knowledge in Society [pdf]",
+      "The Use of Knowledge in Society (1945) [pdf]",
       "https://www.kysq.org/docs/Hayek_45.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 13:33:42",
+      "https://news.ycombinator.com/item?id=41970874"
+    ],
+    [
+      "Gravity is not a force",
+      "https://superposer.substack.com/p/gravity-is-not-a-force"
     ]
   ],
   [
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2024-10-28, 13:09:53",
+      "https://news.ycombinator.com/item?id=41970697"
+    ],
+    [
+      "Family medicine is in decline",
+      "https://thewalrus.ca/your-doctor-wont-see-you/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 10:53:19",
       "https://news.ycombinator.com/item?id=41969753"
     ],
     [
-      "Gothic Architecture Became Spooky",
+      "How Gothic Architecture Became Spooky",
       "https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=41967897"
     ],
     [
-      "418 I'm a Teapot",
+      "418 I’m a teapot",
       "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418"
     ]
   ],
@@ -117,16 +147,6 @@
     [
       "NewPipe on Linux, Using Android_translation_layer",
       "https://flathub.org/apps/net.newpipe.NewPipe"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 15:57:10",
-      "https://news.ycombinator.com/item?id=41963491"
-    ],
-    [
-      "Pollen: A publishing system written in Racket",
-      "https://docs.racket-lang.org/pollen/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd",
       "https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 15:00:15",
-      "https://news.ycombinator.com/item?id=41945918"
-    ],
-    [
-      "Care Doesn't Scale",
-      "https://stevenscrawls.com/care-doesnt-scale/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hoard of coins from Norman Conquest is Britain's most valuable treasure find",
       "https://www.cnn.com/2024/10/22/science/norman-coins-most-valuable-find-britain-intl-scli/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 19:17:22",
-      "https://news.ycombinator.com/item?id=41917674"
-    ],
-    [
-      "'Visual clutter' alters information flow in the brain",
-      "https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain"
     ]
   ]
 ]
