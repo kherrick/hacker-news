@@ -23,6 +23,7 @@
 * [2024-10-24, 19:29:57](https://news.ycombinator.com/item?id=41938876) - [Serge Semin's Goodbye to the Linux Kernel](https://lore.kernel.org/lkml/2m53bmuzemamzc4jzk2bj7tli22ruaaqqe34a2shtdtqrd52hp@alifh66en3rj/)
 * [2024-10-24, 19:24:36](https://news.ycombinator.com/item?id=41938831) - [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
 * [2024-10-24, 19:23:38](https://news.ycombinator.com/item?id=41938819) - [Lingo: A Go micro language framework for building Domain Specific Languages](https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/)
+* [2024-10-24, 19:22:01](https://news.ycombinator.com/item?id=41938803) - [Age-related changes in gait, balance, and strength parameters](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310764)
 * [2024-10-24, 18:52:44](https://news.ycombinator.com/item?id=41938473) - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
 * [2024-10-24, 18:31:38](https://news.ycombinator.com/item?id=41938220) - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
 * [2024-10-24, 18:30:30](https://news.ycombinator.com/item?id=41938209) - [Many people overestimate the percentage of immigrants in their country](https://ourworldindata.org/data-insights/many-people-overestimate-the-percentage-of-immigrants-in-their-country)
