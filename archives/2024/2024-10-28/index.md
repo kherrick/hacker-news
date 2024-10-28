@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
+* [2024-10-28, 08:24:05](https://news.ycombinator.com/item?id=41968797) - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 * [2024-10-28, 07:24:07](https://news.ycombinator.com/item?id=41968511) - [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
