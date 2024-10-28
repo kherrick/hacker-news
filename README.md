@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
-* [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-28, 08:24:05](https://news.ycombinator.com/item?id=41968797) - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
@@ -27,6 +26,7 @@
 * [2024-10-24, 18:24:10](https://news.ycombinator.com/item?id=41938149) - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
 * [2024-10-24, 05:34:11](https://news.ycombinator.com/item?id=41932244) - [For the strongest disc golf throws, it's all in the thumbs](https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/)
 * [2024-10-23, 06:10:49](https://news.ycombinator.com/item?id=41922295) - [Optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
+* [2024-10-23, 04:10:51](https://news.ycombinator.com/item?id=41921733) - [The Brain Collector](https://www.theguardian.com/science/2024/oct/22/ancient-brain-collector-alexandra-morton-hayward-heslington)
 * [2024-10-23, 02:27:25](https://news.ycombinator.com/item?id=41921153) - [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
 * [2024-10-22, 23:37:52](https://news.ycombinator.com/item?id=41919881) - [Hoard of coins from Norman Conquest is Britain's most valuable treasure find](https://www.cnn.com/2024/10/22/science/norman-coins-most-valuable-find-britain-intl-scli/index.html)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)

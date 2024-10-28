@@ -97,6 +97,7 @@
 * [2024-10-23, 05:22:51](https://news.ycombinator.com/item?id=41922069) - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
 * [2024-10-23, 04:43:45](https://news.ycombinator.com/item?id=41921897) - [Data Lifeboat](https://www.flickr.org/programs/content-mobility/data-lifeboat/)
 * [2024-10-23, 04:21:38](https://news.ycombinator.com/item?id=41921802) - [Cheap Light Transformed Civilization](https://bigthink.com/the-past/genius-and-blood-how-cheap-light-transformed-civilization/)
+* [2024-10-23, 04:10:51](https://news.ycombinator.com/item?id=41921733) - [The Brain Collector](https://www.theguardian.com/science/2024/oct/22/ancient-brain-collector-alexandra-morton-hayward-heslington)
 * [2024-10-23, 04:09:42](https://news.ycombinator.com/item?id=41921725) - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
 * [2024-10-23, 04:09:14](https://news.ycombinator.com/item?id=41921723) - [In a first, Wikipedia takes down article globally after Delhi HC order](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece)
 * [2024-10-23, 04:05:03](https://news.ycombinator.com/item?id=41921703) - [One Square Minesweeper](https://onesquareminesweeper.com/)
