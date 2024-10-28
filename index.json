@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=41967897"
     ],
     [
-      "- 418 I'm a Teapot",
+      "418 I'm a Teapot",
       "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 01:50:30",
+      "https://news.ycombinator.com/item?id=41967147"
+    ],
+    [
+      "Could you pass this 8th grade test from 1912?",
+      "https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 00:42:15",
+      "https://news.ycombinator.com/item?id=41966865"
+    ],
+    [
+      "The Coming Technological Singularity (1993)",
+      "https://mindstalk.net/vinge/vinge-sing.html"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-10-27, 17:08:08",
-      "https://news.ycombinator.com/item?id=41963996"
-    ],
-    [
-      "Using SQLite as storage for web server static content",
-      "https://clace.io/blog/sqlite/"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 17:00:09",
       "https://news.ycombinator.com/item?id=41963942"
     ],
@@ -117,16 +127,6 @@
     [
       "Axiomatics: Mathematical thought and high modernism",
       "https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 14:27:09",
-      "https://news.ycombinator.com/item?id=41962822"
-    ],
-    [
-      "Using less memory to look up IP addresses in Mess With DNS",
-      "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-10-24, 06:21:19",
-      "https://news.ycombinator.com/item?id=41932501"
-    ],
-    [
-      "Long-term tracking of social structure in groups of rats",
-      "https://www.nature.com/articles/s41598-024-72437-5"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 05:34:11",
       "https://news.ycombinator.com/item?id=41932244"
     ],
@@ -247,6 +237,16 @@
     [
       "Did DORA's last update create an encryption loophole?",
       "https://evervault.com/blog/did-dora-s-last-update-create-an-encryption-loophole"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 06:10:49",
+      "https://news.ycombinator.com/item?id=41922295"
+    ],
+    [
+      "Optimizers need a rethink",
+      "https://typesanitizer.com/blog/rethink-optimizers.html"
     ]
   ],
   [
