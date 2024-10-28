@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 21:08:16",
+      "https://news.ycombinator.com/item?id=41976311"
+    ],
+    [
+      "A return to hand-written notes by learning to read and write",
+      "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 20:18:32",
+      "https://news.ycombinator.com/item?id=41975741"
+    ],
+    [
+      "Improving Xwayland Window Resizing",
+      "https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 20:08:53",
       "https://news.ycombinator.com/item?id=41975645"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2024-10-28, 19:09:22",
-      "https://news.ycombinator.com/item?id=41974882"
-    ],
-    [
-      "Tesla introduces new standard electrical connector",
-      "https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 18:54:22",
       "https://news.ycombinator.com/item?id=41974718"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=41974647"
     ],
     [
-      "Why Are ML Compilers So Hard? « Pete Warden's Blog",
+      "Why Are ML Compilers So Hard? « Pete Warden's Blog (2021)",
       "https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Debian's \"secret\" sauce",
       "https://lwn.net/Articles/990177/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 01:19:26",
-      "https://news.ycombinator.com/item?id=41941451"
-    ],
-    [
-      "Using Rust in non-Rust servers to improve performance",
-      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
     ]
   ],
   [
