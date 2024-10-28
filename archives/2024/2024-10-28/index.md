@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 13:59:05](https://news.ycombinator.com/item?id=41971060) - [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
+* [2024-10-28, 13:58:25](https://news.ycombinator.com/item?id=41971054) - [Exercise Paradox](https://en.wikipedia.org/wiki/Exercise_paradox)
 * [2024-10-28, 13:38:18](https://news.ycombinator.com/item?id=41970903) - [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
 * [2024-10-28, 13:28:20](https://news.ycombinator.com/item?id=41970831) - [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
 * [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Your Doctor Won't See You Now–Or Ever Again](https://thewalrus.ca/your-doctor-wont-see-you/)

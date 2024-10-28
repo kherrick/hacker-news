@@ -28,6 +28,7 @@
 * [2024-10-25, 18:15:06](https://news.ycombinator.com/item?id=41947980) - [LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C](https://www.netsurf-browser.org/projects/libnsfb/)
 * [2024-10-25, 18:08:06](https://news.ycombinator.com/item?id=41947892) - [Federal Investigators Probe Cryptocurrency Firm Tether](https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5)
 * [2024-10-25, 18:07:59](https://news.ycombinator.com/item?id=41947890) - [Geico repatriates work from the cloud, continues ambitious infra overhaul](https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/)
+* [2024-10-25, 18:07:11](https://news.ycombinator.com/item?id=41947881) - [x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd](https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/)
 * [2024-10-25, 18:05:44](https://news.ycombinator.com/item?id=41947865) - [Our Investment in Pacific Fusion](https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/)
 * [2024-10-25, 17:54:20](https://news.ycombinator.com/item?id=41947730) - [Fraudsters steal 22 tonnes of high-value cheddar](https://www.bbc.co.uk/news/articles/cje03dq2pyyo)
 * [2024-10-25, 17:42:02](https://news.ycombinator.com/item?id=41947580) - [Superlinker: A tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
