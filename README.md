@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-28, 02:28:50](https://news.ycombinator.com/item?id=41967293) - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
-* [2024-10-28, 01:50:30](https://news.ycombinator.com/item?id=41967147) - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
 * [2024-10-28, 00:25:53](https://news.ycombinator.com/item?id=41966785) - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 * [2024-10-27, 23:38:44](https://news.ycombinator.com/item?id=41966574) - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 * [2024-10-27, 22:24:19](https://news.ycombinator.com/item?id=41966180) - [Bulma CSS Framework](https://bulma.io/)
@@ -9,6 +8,7 @@
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
+* [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
 * [2024-10-27, 17:08:08](https://news.ycombinator.com/item?id=41963996) - [Using SQLite as storage for web server static content](https://clace.io/blog/sqlite/)
 * [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
