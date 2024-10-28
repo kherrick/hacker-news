@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
-* [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 * [2024-10-28, 04:35:16](https://news.ycombinator.com/item?id=41967912) - [Nested Loops Revisited Again (2023)](https://ieeexplore.ieee.org/abstract/document/10184629/)
@@ -22,6 +21,7 @@
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [SDL-based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-24, 22:56:44](https://news.ycombinator.com/item?id=41940663) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
+* [2024-10-24, 22:15:40](https://news.ycombinator.com/item?id=41940394) - [Preserved tracks suggest non-avian dinosaurs used their wings to run](https://www.newscientist.com/article/2452672-preserved-tracks-suggest-non-avian-dinosaurs-used-their-wings-to-run/)
 * [2024-10-24, 18:24:10](https://news.ycombinator.com/item?id=41938149) - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
 * [2024-10-24, 05:34:11](https://news.ycombinator.com/item?id=41932244) - [For the strongest disc golf throws, it's all in the thumbs](https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/)
 * [2024-10-23, 06:10:49](https://news.ycombinator.com/item?id=41922295) - [Optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
