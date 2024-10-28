@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 * [2024-10-28, 21:06:50](https://news.ycombinator.com/item?id=41976286) - [Is Porn Misleading Men?](https://aella.substack.com/p/is-porn-misleading-men)
 * [2024-10-28, 20:37:42](https://news.ycombinator.com/item?id=41975993) - [Why so few Matt Levines?](https://gwern.net/matt-levine)

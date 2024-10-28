@@ -15,6 +15,7 @@
 * [2024-10-23, 21:30:02](https://news.ycombinator.com/item?id=41929412) - [Calculating the norm of a complex number](https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/)
 * [2024-10-23, 20:52:13](https://news.ycombinator.com/item?id=41929174) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-23, 20:45:19](https://news.ycombinator.com/item?id=41929122) - [How to Grip Bronze Age Swords](https://www.bookandsword.com/2024/10/19/how-to-grip-bronze-age-swords-response-to-dimicator-and-matt-easton/)
+* [2024-10-23, 20:31:53](https://news.ycombinator.com/item?id=41929021) - [Dogs and the Salem Witch Trials](https://www.atlasobscura.com/articles/salem-witch-trials-dogs)
 * [2024-10-23, 20:25:09](https://news.ycombinator.com/item?id=41928968) - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 * [2024-10-23, 20:14:15](https://news.ycombinator.com/item?id=41928893) - [Tesla Q3 2024 Financial Results [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q3-2024-Update.pdf)
 * [2024-10-23, 19:35:31](https://news.ycombinator.com/item?id=41928570) - [The Company Helping America's Health Insurers Deny Coverage for Care](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
