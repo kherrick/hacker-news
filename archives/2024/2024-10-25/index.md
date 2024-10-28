@@ -70,6 +70,7 @@
 * [2024-10-25, 09:40:59](https://news.ycombinator.com/item?id=41943662) - [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
 * [2024-10-25, 09:23:04](https://news.ycombinator.com/item?id=41943589) - [Eartho: Open-Source, Privacy-Focused Alternative to Google Sign-In](https://github.com/eartho-group/eartho)
 * [2024-10-25, 08:43:04](https://news.ycombinator.com/item?id=41943424) - [Tech boom forces US funds to dump shares to avoid breach of tax rules](https://www.ft.com/content/05b21f37-bf3f-436c-9544-dcacf675afee)
+* [2024-10-25, 08:35:51](https://news.ycombinator.com/item?id=41943393) - [Python PGP proposal poses packaging puzzles](https://lwn.net/SubscriberLink/993787/0dad7bd3d8ead026/)
 * [2024-10-25, 07:44:01](https://news.ycombinator.com/item?id=41943117) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 07:41:36](https://news.ycombinator.com/item?id=41943098) - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-25, 07:35:25](https://news.ycombinator.com/item?id=41943063) - [A Modern CSS Reset (2024 update)](https://www.joshwcomeau.com/css/custom-css-reset/)

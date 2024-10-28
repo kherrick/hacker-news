@@ -63,6 +63,7 @@
 * [2024-10-26, 08:01:47](https://news.ycombinator.com/item?id=41953323) - [Serious Fun](https://www.scattered-thoughts.net/writing/serious-fun/)
 * [2024-10-26, 08:00:59](https://news.ycombinator.com/item?id=41953319) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 07:59:37](https://news.ycombinator.com/item?id=41953314) - [The Fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
+* [2024-10-26, 07:22:07](https://news.ycombinator.com/item?id=41953165) - [It is fine not to like a piece of Free software](https://neilzone.co.uk/2024/10/it-is-fine-not-to-like-a-piece-of-free-software-and-other-oft-unstated-foss-related-freedoms/)
 * [2024-10-26, 07:19:07](https://news.ycombinator.com/item?id=41953155) - [NixOS Is Not Reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-10-26, 06:57:28](https://news.ycombinator.com/item?id=41953063) - [AMA: GpuOwl/PRPLL, GPU software used to find the largest prime number](https://news.ycombinator.com/item?id=41953063)
 * [2024-10-26, 06:37:27](https://news.ycombinator.com/item?id=41952999) - [State-space models can learn in-context by gradient descent](https://arxiv.org/abs/2410.11687)
