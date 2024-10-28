@@ -56,6 +56,7 @@
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-25, 14:54:15](https://news.ycombinator.com/item?id=41945838) - [Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)
 * [2024-10-25, 14:19:31](https://news.ycombinator.com/item?id=41945562) - [Microsoft CEO Nadella asked for pay reduction after security slip](https://www.cnbc.com/2024/10/24/microsoft-ceo-nadella-requested-pay-reduction-after-security-incidents.html)
+* [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 13:59:25](https://news.ycombinator.com/item?id=41945372) - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
 * [2024-10-25, 13:54:04](https://news.ycombinator.com/item?id=41945308) - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 * [2024-10-25, 13:41:55](https://news.ycombinator.com/item?id=41945188) - [Getting Claude Computer Use agent to spin up another agent in its VM](https://twitter.com/Gavriel_Cohen/status/1849035735493378399)
