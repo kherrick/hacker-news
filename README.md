@@ -2,9 +2,9 @@
 
 * [2024-10-28, 15:33:29](https://news.ycombinator.com/item?id=41972143) - [Experts say a proposed revamp to the recycling symbol is still deceptive](https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/)
 * [2024-10-28, 15:18:32](https://news.ycombinator.com/item?id=41971932) - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
+* [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 * [2024-10-28, 13:33:42](https://news.ycombinator.com/item?id=41970874) - [Gravity is not a force](https://superposer.substack.com/p/gravity-is-not-a-force)
-* [2024-10-28, 13:19:48](https://news.ycombinator.com/item?id=41970769) - [More farms are turning to automation amid labor shortages](https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/)
 * [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Family medicine is in decline](https://thewalrus.ca/your-doctor-wont-see-you/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [How Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
