@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 * [2024-10-28, 09:45:39](https://news.ycombinator.com/item?id=41969334) - [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 * [2024-10-28, 09:44:17](https://news.ycombinator.com/item?id=41969327) - [How to Build Your Career in AI [pdf]](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)
 * [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
