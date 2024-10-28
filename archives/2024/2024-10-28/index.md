@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
+* [2024-10-28, 17:14:11](https://news.ycombinator.com/item?id=41973559) - [Freakonomics does it again (not in a good way). Jeez, these guys are credulous](https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
@@ -42,3 +44,4 @@
 * [2024-10-28, 01:42:17](https://news.ycombinator.com/item?id=41967120) - [Apple iPhone 16 Is Now Illegal in Indonesia, Ban Leaves Tourists in the Lurch](https://www.news18.com/tech/apple-iphone-16-is-now-illegal-in-indonesia-ban-leaves-tourists-in-the-lurch-9099034.html)
 * [2024-10-28, 00:42:15](https://news.ycombinator.com/item?id=41966865) - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
 * [2024-10-28, 00:25:53](https://news.ycombinator.com/item?id=41966785) - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+* [2024-10-28, 00:01:38](https://news.ycombinator.com/item?id=41966679) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
