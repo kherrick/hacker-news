@@ -64,6 +64,7 @@
 * [2024-10-24, 14:43:26](https://news.ycombinator.com/item?id=41936001) - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
 * [2024-10-24, 14:19:13](https://news.ycombinator.com/item?id=41935766) - [Why that one coworker got fired for no reason](https://gieseanw.wordpress.com/2024/10/24/why-that-one-coworker-got-fired-for-no-reason/)
 * [2024-10-24, 14:17:23](https://news.ycombinator.com/item?id=41935741) - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
+* [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:08:33](https://news.ycombinator.com/item?id=41935642) - [When does generative AI qualify for fair use?](http://suchir.net/fair_use.html)
 * [2024-10-24, 13:32:46](https://news.ycombinator.com/item?id=41935319) - [Comparison of configuration file languages (2016)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 * [2024-10-24, 13:12:13](https://news.ycombinator.com/item?id=41935166) - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)

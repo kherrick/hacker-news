@@ -11,7 +11,6 @@
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 * [2024-10-28, 17:53:21](https://news.ycombinator.com/item?id=41974011) - [Don't implement unification by recursion](https://www.philipzucker.com/unify/)
 * [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
-* [2024-10-28, 17:14:11](https://news.ycombinator.com/item?id=41973559) - [Critique of Freakonomics interview with psychologist Ellen Langer](https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
@@ -28,6 +27,7 @@
 * [2024-10-25, 01:19:26](https://news.ycombinator.com/item?id=41941451) - [Using Rust in non-Rust servers to improve performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-24, 21:31:09](https://news.ycombinator.com/item?id=41940017) - [TI expands internal manufacturing for gallium nitride (GAN) semiconductors](https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-10-24-texas-instruments-expands-internal-manufacturing-for-gallium-nitride--gan--semiconductors--quadrupling-capacity.html)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
+* [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-23, 20:31:53](https://news.ycombinator.com/item?id=41929021) - [Dogs and the Salem Witch Trials](https://www.atlasobscura.com/articles/salem-witch-trials-dogs)
 * [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
