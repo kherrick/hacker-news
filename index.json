@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 13:59:05",
+      "https://news.ycombinator.com/item?id=41971060"
+    ],
+    [
+      "M-series MacBook SSD storage upgrade (non-official) [video]",
+      "https://www.youtube.com/watch?v=E3N-z-Y8cuw"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 13:58:25",
+      "https://news.ycombinator.com/item?id=41971054"
+    ],
+    [
+      "Exercise Paradox",
+      "https://en.wikipedia.org/wiki/Exercise_paradox"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 13:38:18",
       "https://news.ycombinator.com/item?id=41970903"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-10-27, 19:46:11",
-      "https://news.ycombinator.com/item?id=41965091"
-    ],
-    [
-      "Platform Strategy and Its Discontents",
-      "https://infrequently.org/2024/10/platforms-are-competitions/"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 19:17:59",
       "https://news.ycombinator.com/item?id=41964882"
     ],
@@ -117,26 +127,6 @@
     [
       "NewPipe on Linux, Using Android_translation_layer",
       "https://flathub.org/apps/net.newpipe.NewPipe"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 15:57:10",
-      "https://news.ycombinator.com/item?id=41963491"
-    ],
-    [
-      "Pollen: A publishing system written in Racket",
-      "https://docs.racket-lang.org/pollen/"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 14:27:09",
-      "https://news.ycombinator.com/item?id=41962822"
-    ],
-    [
-      "Using less memory to look up IP addresses in Mess With DNS",
-      "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "GoLic, injects license into source code files",
       "https://github.com/AbsaOSS/golic"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 18:07:11",
+      "https://news.ycombinator.com/item?id=41947881"
+    ],
+    [
+      "x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd",
+      "https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/"
     ]
   ],
   [
