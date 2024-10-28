@@ -2,7 +2,6 @@
 
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
-* [2024-10-28, 19:00:06](https://news.ycombinator.com/item?id=41974789) - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
 * [2024-10-28, 18:54:22](https://news.ycombinator.com/item?id=41974718) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 * [2024-10-28, 18:47:06](https://news.ycombinator.com/item?id=41974637) - [So Long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
 * [2024-10-28, 18:01:46](https://news.ycombinator.com/item?id=41974126) - [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
@@ -28,6 +27,7 @@
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
 * [2024-10-25, 01:19:26](https://news.ycombinator.com/item?id=41941451) - [Using Rust in non-Rust servers to improve performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-25, 00:21:07](https://news.ycombinator.com/item?id=41941141) - [Oriental hornets can't get drunk](https://www.economist.com/science-and-technology/2024/10/23/why-oriental-hornets-cant-get-drunk)
+* [2024-10-24, 21:31:09](https://news.ycombinator.com/item?id=41940017) - [TI expands internal manufacturing for gallium nitride (GAN) semiconductors](https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-10-24-texas-instruments-expands-internal-manufacturing-for-gallium-nitride--gan--semiconductors--quadrupling-capacity.html)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging Audio Artifacts Caused by a Serial Port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
