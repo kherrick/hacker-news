@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:33:29](https://news.ycombinator.com/item?id=41972143) - [Experts say a proposed revamp to the recycling symbol is still deceptive](https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/)
 * [2024-10-28, 15:18:32](https://news.ycombinator.com/item?id=41971932) - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
+* [2024-10-28, 15:11:37](https://news.ycombinator.com/item?id=41971835) - [Apple Intelligence is available today on iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [F.A. Hayek – The Use of Knowledge in Society [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 * [2024-10-28, 13:59:05](https://news.ycombinator.com/item?id=41971060) - [M-series MacBook SSD storage upgrade (non-official) [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
