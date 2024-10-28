@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 22:24:19](https://news.ycombinator.com/item?id=41966180) - [Bulma CSS Framework](https://bulma.io/)
 * [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
 * [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents: The web is losing. A comeback is possible](https://infrequently.org/2024/10/platforms-are-competitions/)
