@@ -17,7 +17,7 @@
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [How Gothic architecture became spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
-* [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
+* [2024-10-28, 08:19:25](https://news.ycombinator.com/item?id=41968775) - [How we didn't find the Product market fit](https://markobalaic.medium.com/how-we-searched-for-a-product-market-fit-with-200-000-pre-seed-funding-part-2-4d022bdb9127)
 * [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
 * [2024-10-26, 07:22:07](https://news.ycombinator.com/item?id=41953165) - [It is fine not to like a piece of Free software](https://neilzone.co.uk/2024/10/it-is-fine-not-to-like-a-piece-of-free-software-and-other-oft-unstated-foss-related-freedoms/)
 * [2024-10-26, 06:37:27](https://news.ycombinator.com/item?id=41952999) - [State-space models can learn in-context by gradient descent](https://arxiv.org/abs/2410.11687)
