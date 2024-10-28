@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 12:08:58",
+      "https://news.ycombinator.com/item?id=41970261"
+    ],
+    [
+      "Bootloader Unlock Wall of Shame",
+      "https://github.com/melontini/bootloader-unlock-wall-of-shame"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 11:44:19",
+      "https://news.ycombinator.com/item?id=41970089"
+    ],
+    [
+      "A new release of Raspberry Pi OS",
+      "https://www.raspberrypi.com/news/a-new-release-of-raspberry-pi-os/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 10:53:19",
       "https://news.ycombinator.com/item?id=41969753"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2024-10-28, 03:56:47",
-      "https://news.ycombinator.com/item?id=41967734"
-    ],
-    [
-      "Mill: A fast JVM build tool for Java and Scala",
-      "https://mill-build.org/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 00:42:15",
       "https://news.ycombinator.com/item?id=41966865"
     ],
     [
       "The Coming Technological Singularity (1993)",
       "https://mindstalk.net/vinge/vinge-sing.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 23:38:44",
-      "https://news.ycombinator.com/item?id=41966574"
-    ],
-    [
-      "TLS Callbacks (2012)",
-      "https://legend.octopuslabs.io/archives/2418/2418.htm"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "RP FLIP escapes wrecker's claws",
       "https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/"
+    ]
+  ],
+  [
+    [
+      "2024-10-27, 17:08:08",
+      "https://news.ycombinator.com/item?id=41963996"
+    ],
+    [
+      "Using SQLite as storage for web server static content",
+      "https://clace.io/blog/sqlite/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Cheap Light Transformed Civilization",
       "https://bigthink.com/the-past/genius-and-blood-how-cheap-light-transformed-civilization/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 04:10:51",
-      "https://news.ycombinator.com/item?id=41921733"
-    ],
-    [
-      "The Brain Collector",
-      "https://www.theguardian.com/science/2024/oct/22/ancient-brain-collector-alexandra-morton-hayward-heslington"
     ]
   ],
   [
