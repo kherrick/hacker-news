@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-28, 21:48:27](https://news.ycombinator.com/item?id=41976754) - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 * [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-10-28, 21:40:38](https://news.ycombinator.com/item?id=41976673) - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
@@ -18,9 +17,10 @@
 * [2024-10-28, 15:18:32](https://news.ycombinator.com/item?id=41971932) - [Psychological safety vs. high standards: A misunderstood dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [How Gothic architecture became spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
+* [2024-10-28, 08:19:25](https://news.ycombinator.com/item?id=41968775) - [How we didn't find product market fit](https://markobalaic.medium.com/how-we-searched-for-a-product-market-fit-with-200-000-pre-seed-funding-part-2-4d022bdb9127)
 * [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
+* [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-25, 18:44:39](https://news.ycombinator.com/item?id=41948323) - [High-resolution postmortem human brain MRI at 7 tesla](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/)
-* [2024-10-25, 16:01:05](https://news.ycombinator.com/item?id=41946534) - [How not to sort by average rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 * [2024-10-25, 15:21:28](https://news.ycombinator.com/item?id=41946133) - [Study: DNA corroborates \"Well-man\" tale from Norse saga](https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/)
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
