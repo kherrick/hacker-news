@@ -5,7 +5,6 @@
 * [2024-10-28, 19:00:06](https://news.ycombinator.com/item?id=41974789) - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
 * [2024-10-28, 18:54:22](https://news.ycombinator.com/item?id=41974718) - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
 * [2024-10-28, 18:47:06](https://news.ycombinator.com/item?id=41974637) - [So Long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
-* [2024-10-28, 18:06:00](https://news.ycombinator.com/item?id=41974159) - [GenAI is set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
 * [2024-10-28, 18:01:46](https://news.ycombinator.com/item?id=41974126) - [Apple Intelligence is coming to the EU in April 2025](https://techcrunch.com/2024/10/28/apple-intelligence-is-coming-to-the-eu-in-april-2025/)
 * [2024-10-28, 17:53:21](https://news.ycombinator.com/item?id=41974011) - [Don't Implement Unification by Recursion](https://www.philipzucker.com/unify/)
 * [2024-10-28, 17:28:50](https://news.ycombinator.com/item?id=41973732) - [NY Times Gets 230 Wrong Again](https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/)
@@ -30,6 +29,7 @@
 * [2024-10-25, 01:19:26](https://news.ycombinator.com/item?id=41941451) - [Using Rust in non-Rust servers to improve performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-25, 00:21:07](https://news.ycombinator.com/item?id=41941141) - [Oriental hornets can't get drunk](https://www.economist.com/science-and-technology/2024/10/23/why-oriental-hornets-cant-get-drunk)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
+* [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging Audio Artifacts Caused by a Serial Port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
 ## [Archives](archives/index.md)
 
