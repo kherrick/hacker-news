@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-28, 02:28:50](https://news.ycombinator.com/item?id=41967293) - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
 * [2024-10-28, 01:50:30](https://news.ycombinator.com/item?id=41967147) - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
 * [2024-10-28, 00:42:15](https://news.ycombinator.com/item?id=41966865) - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
 * [2024-10-28, 00:25:53](https://news.ycombinator.com/item?id=41966785) - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
@@ -9,7 +10,6 @@
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-* [2024-10-27, 17:39:17](https://news.ycombinator.com/item?id=41964210) - [Ibis: Federated Wikipedia alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative)
 * [2024-10-27, 17:08:08](https://news.ycombinator.com/item?id=41963996) - [Using SQLite as storage for web server static content](https://clace.io/blog/sqlite/)
 * [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
@@ -25,11 +25,11 @@
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [SDL-based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
 * [2024-10-26, 08:01:47](https://news.ycombinator.com/item?id=41953323) - [Serious fun](https://www.scattered-thoughts.net/writing/serious-fun/)
 * [2024-10-24, 22:56:44](https://news.ycombinator.com/item?id=41940663) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
-* [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
 * [2024-10-24, 05:34:11](https://news.ycombinator.com/item?id=41932244) - [For the strongest disc golf throws, it's all in the thumbs](https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/)
 * [2024-10-23, 04:21:38](https://news.ycombinator.com/item?id=41921802) - [Cheap Light Transformed Civilization](https://bigthink.com/the-past/genius-and-blood-how-cheap-light-transformed-civilization/)
 * [2024-10-22, 23:37:52](https://news.ycombinator.com/item?id=41919881) - [Hoard of coins from Norman Conquest is Britain's most valuable treasure find](https://www.cnn.com/2024/10/22/science/norman-coins-most-valuable-find-britain-intl-scli/index.html)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
+* [2024-10-22, 19:14:08](https://news.ycombinator.com/item?id=41917635) - [Building a simple oscillator based Ising machine for research and education](https://arxiv.org/abs/2410.00523)
 
 ## [Archives](archives/index.md)
 

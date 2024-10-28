@@ -25,6 +25,7 @@
 * [2024-10-22, 19:55:50](https://news.ycombinator.com/item?id=41918059) - [IBM's new SWE agents for developers](https://research.ibm.com/blog/ibm-swe-agents)
 * [2024-10-22, 19:48:58](https://news.ycombinator.com/item?id=41917990) - [TSMC told US of chip in Huawei product after TechInsights finding, source says](https://www.reuters.com/technology/tsmc-told-us-chip-huawei-device-after-techinsights-finding-source-says-2024-10-22/)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
+* [2024-10-22, 19:14:08](https://news.ycombinator.com/item?id=41917635) - [Building a simple oscillator based Ising machine for research and education](https://arxiv.org/abs/2410.00523)
 * [2024-10-22, 19:04:39](https://news.ycombinator.com/item?id=41917549) - [The Rise of Giant Pumpkins](https://www.saturdayeveningpost.com/2024/10/our-better-nature-great-pumpkins/)
 * [2024-10-22, 18:18:33](https://news.ycombinator.com/item?id=41917105) - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
 * [2024-10-22, 18:12:52](https://news.ycombinator.com/item?id=41917035) - [NIST Standard Reference Materials Catalog [pdf]](https://tsapps.nist.gov/srmext/certificates/documents/Current_SRM_Catalog.pdf)
