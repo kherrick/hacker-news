@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:33:29](https://news.ycombinator.com/item?id=41972143) - [Experts say a proposed revamp to the recycling symbol is still deceptive](https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/)
 * [2024-10-28, 15:18:32](https://news.ycombinator.com/item?id=41971932) - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
