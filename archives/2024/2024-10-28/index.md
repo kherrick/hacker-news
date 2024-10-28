@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 18:06:00](https://news.ycombinator.com/item?id=41974159) - [GenAI's dirty secret: It's set to create a mountainous increase in e-waste](https://www.theregister.com/2024/10/28/genai_dirty_secret/)
 * [2024-10-28, 17:29:55](https://news.ycombinator.com/item?id=41973744) - [Ask HN: What's your favorite text-based adventure game?](https://news.ycombinator.com/item?id=41973744)
+* [2024-10-28, 17:28:50](https://news.ycombinator.com/item?id=41973732) - [NY Times Gets 230 Wrong Again; Misrepresenting History and the First Amendment](https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/)
 * [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
 * [2024-10-28, 17:14:11](https://news.ycombinator.com/item?id=41973559) - [Freakonomics does it again (not in a good way). Jeez, these guys are credulous](https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
