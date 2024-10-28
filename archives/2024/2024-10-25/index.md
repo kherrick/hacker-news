@@ -48,6 +48,7 @@
 * [2024-10-25, 15:46:22](https://news.ycombinator.com/item?id=41946381) - [Astronomers Discover Complex Carbon Molecules in Interstellar Space](https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space)
 * [2024-10-25, 15:26:23](https://news.ycombinator.com/item?id=41946188) - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
 * [2024-10-25, 15:12:45](https://news.ycombinator.com/item?id=41946036) - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
+* [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:59:39](https://news.ycombinator.com/item?id=41945904) - [Amazon Says It Has a First Amendment Right to Union Bust](https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/)
 * [2024-10-25, 14:58:44](https://news.ycombinator.com/item?id=41945894) - [A deep dive into Linux's new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 * [2024-10-25, 14:54:15](https://news.ycombinator.com/item?id=41945838) - [Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)
