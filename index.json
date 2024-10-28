@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-28, 07:24:07",
-      "https://news.ycombinator.com/item?id=41968511"
+      "2024-10-28, 08:40:53",
+      "https://news.ycombinator.com/item?id=41968892"
     ],
     [
-      "SQLite Rsync: Database Remote-Copy Tool for SQLite",
-      "https://sqlite.org/rsync.html"
+      "On Good Software Engineers",
+      "https://candost.blog/on-good-software-engineers/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 08:24:05",
+      "https://news.ycombinator.com/item?id=41968797"
+    ],
+    [
+      "Suite smells: testing legacy code",
+      "https://bitfieldconsulting.com/posts/testing-legacy-code"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "418 I'm a Teapot",
       "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 03:56:47",
-      "https://news.ycombinator.com/item?id=41967734"
-    ],
-    [
-      "Mill: A fast JVM build tool for Java and Scala",
-      "https://mill-build.org/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-10-27, 14:47:22",
-      "https://news.ycombinator.com/item?id=41962944"
-    ],
-    [
-      "Axiomatics: Mathematical thought and high modernism",
-      "https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 12:45:02",
       "https://news.ycombinator.com/item?id=41962205"
     ],
@@ -237,6 +227,16 @@
     [
       "Becoming physically immune to brute-force attacks (2021)",
       "https://seirdy.one/posts/2021/01/12/password-strength/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 18:24:10",
+      "https://news.ycombinator.com/item?id=41938149"
+    ],
+    [
+      "Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500",
+      "https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/"
     ]
   ],
   [
