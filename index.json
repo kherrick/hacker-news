@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-10-28, 19:24:19",
+      "https://news.ycombinator.com/item?id=41975047"
+    ],
+    [
+      "We're forking Flutter. This is why",
+      "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 19:09:22",
+      "https://news.ycombinator.com/item?id=41974882"
+    ],
+    [
+      "Tesla introduces new standard electrical connector",
+      "https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 19:00:06",
       "https://news.ycombinator.com/item?id=41974789"
     ],
     [
       "AI Slop Is Flooding Medium",
       "https://www.wired.com/story/ai-generated-medium-posts-content-moderation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 18:54:22",
+      "https://news.ycombinator.com/item?id=41974718"
+    ],
+    [
+      "Millions may rely on groundwater contaminated with PFAS for drinking water",
+      "https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Don't Implement Unification by Recursion",
       "https://www.philipzucker.com/unify/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 17:50:44",
-      "https://news.ycombinator.com/item?id=41973986"
-    ],
-    [
-      "Apple iPhone 16 sales blocked in Indonesia due to local parts rule",
-      "https://asia.nikkei.com/Business/Technology/Apple-iPhone-16-sales-blocked-in-Indonesia-due-to-local-parts-rule"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-10-25, 08:35:51",
-      "https://news.ycombinator.com/item?id=41943393"
-    ],
-    [
-      "Python PGP proposal poses packaging puzzles",
-      "https://lwn.net/SubscriberLink/993787/0dad7bd3d8ead026/"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 01:48:13",
       "https://news.ycombinator.com/item?id=41941585"
     ],
@@ -287,16 +297,6 @@
     [
       "70% of meteorites from 3 collisions in asteroid belt within past 40M years",
       "https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 15:54:11",
-      "https://news.ycombinator.com/item?id=41926320"
-    ],
-    [
-      "Debugging Audio Artifacts Caused by a Serial Port?",
-      "https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port"
     ]
   ]
 ]
