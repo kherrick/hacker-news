@@ -2,6 +2,7 @@
 
 * [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-10-28, 21:40:38](https://news.ycombinator.com/item?id=41976673) - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
+* [2024-10-28, 21:28:29](https://news.ycombinator.com/item?id=41976529) - [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 * [2024-10-28, 20:37:42](https://news.ycombinator.com/item?id=41975993) - [Why so few Matt Levines?](https://gwern.net/matt-levine)
 * [2024-10-28, 20:18:32](https://news.ycombinator.com/item?id=41975741) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
@@ -10,7 +11,6 @@
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 * [2024-10-28, 17:53:21](https://news.ycombinator.com/item?id=41974011) - [Don't implement unification by recursion](https://www.philipzucker.com/unify/)
 * [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
-* [2024-10-28, 17:14:11](https://news.ycombinator.com/item?id=41973559) - [Critique of Freakonomics interview with psychologist Ellen Langer](https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
