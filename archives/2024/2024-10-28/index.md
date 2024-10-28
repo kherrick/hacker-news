@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 09:45:39](https://news.ycombinator.com/item?id=41969334) - [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 * [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-28, 08:24:05](https://news.ycombinator.com/item?id=41968797) - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
