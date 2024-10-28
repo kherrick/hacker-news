@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-28, 20:08:53](https://news.ycombinator.com/item?id=41975645) - [Shenzhou-18 Crew Records Video Showcasing Life, Work in Space](https://www.youtube.com/watch?v=IMoomWmIkww)
-* [2024-10-28, 19:50:34](https://news.ycombinator.com/item?id=41975395) - [200k subscribers flee 'Washington Post' after Bezos blocks Harris endorsement](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations)
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:13:06](https://news.ycombinator.com/item?id=41974919) - [DMCA takedown notices and counter-notices received at GitHub](https://github.com/github/dmca)
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
@@ -18,6 +17,7 @@
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [How Gothic architecture became spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 * [2024-10-28, 08:19:25](https://news.ycombinator.com/item?id=41968775) - [How we didn't find the Product market fit](https://markobalaic.medium.com/how-we-searched-for-a-product-market-fit-with-200-000-pre-seed-funding-part-2-4d022bdb9127)
+* [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
 * [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
 * [2024-10-26, 07:22:07](https://news.ycombinator.com/item?id=41953165) - [It is fine not to like a piece of Free software](https://neilzone.co.uk/2024/10/it-is-fine-not-to-like-a-piece-of-free-software-and-other-oft-unstated-foss-related-freedoms/)
 * [2024-10-26, 06:37:27](https://news.ycombinator.com/item?id=41952999) - [State-space models can learn in-context by gradient descent](https://arxiv.org/abs/2410.11687)
