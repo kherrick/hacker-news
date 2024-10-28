@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-28, 13:09:53",
+      "https://news.ycombinator.com/item?id=41970697"
+    ],
+    [
+      "Your Doctor Won't See You Now–Or Ever Again",
+      "https://thewalrus.ca/your-doctor-wont-see-you/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 10:53:19",
       "https://news.ycombinator.com/item?id=41969753"
     ],
@@ -17,16 +27,6 @@
     [
       "Write code that is easy to delete, not easy to extend (2016)",
       "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 06:46:54",
-      "https://news.ycombinator.com/item?id=41968348"
-    ],
-    [
-      "The Event Horizon Telescope image might need a correction",
-      "https://academic.oup.com/mnras/article/534/4/3237/7660988"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "RP FLIP escapes wrecker's claws",
       "https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 17:08:08",
-      "https://news.ycombinator.com/item?id=41963996"
-    ],
-    [
-      "Using SQLite as storage for web server static content",
-      "https://clace.io/blog/sqlite/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "SDL-based Lua programming environment for kids similar to Codea",
       "https://github.com/antirez/load81"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 09:33:21",
+      "https://news.ycombinator.com/item?id=41953691"
+    ],
+    [
+      "GoLic, injects license into source code files",
+      "https://github.com/AbsaOSS/golic"
     ]
   ],
   [
