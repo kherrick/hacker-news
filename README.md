@@ -4,7 +4,7 @@
 * [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
-* [2024-10-28, 04:35:16](https://news.ycombinator.com/item?id=41967912) - [Nested Loops Revisited Again](https://ieeexplore.ieee.org/abstract/document/10184629/)
+* [2024-10-28, 04:35:16](https://news.ycombinator.com/item?id=41967912) - [Nested Loops Revisited Again (2023)](https://ieeexplore.ieee.org/abstract/document/10184629/)
 * [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
 * [2024-10-28, 00:42:15](https://news.ycombinator.com/item?id=41966865) - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
 * [2024-10-27, 23:38:44](https://news.ycombinator.com/item?id=41966574) - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
