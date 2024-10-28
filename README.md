@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-28, 05:05:38](https://news.ycombinator.com/item?id=41968008) - [Digital Nomads Are Exploiting the World](https://www.thrillist.com/travel/nation/digital-nomads-criticism-locals-exploitation)
 * [2024-10-28, 00:25:53](https://news.ycombinator.com/item?id=41966785) - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 * [2024-10-27, 23:38:44](https://news.ycombinator.com/item?id=41966574) - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 * [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
@@ -13,6 +12,7 @@
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)
 * [2024-10-27, 14:47:22](https://news.ycombinator.com/item?id=41962944) - [Axiomatics: Mathematical thought and high modernism](https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism)
+* [2024-10-27, 14:45:23](https://news.ycombinator.com/item?id=41962930) - [In some scientific papers, words expressing uncertainty have decreased (2023)](https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased)
 * [2024-10-27, 14:27:09](https://news.ycombinator.com/item?id=41962822) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin waltz unearthed after nearly 200 years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
