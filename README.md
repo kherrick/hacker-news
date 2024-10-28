@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-28, 13:38:18](https://news.ycombinator.com/item?id=41970903) - [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
 * [2024-10-28, 13:28:20](https://news.ycombinator.com/item?id=41970831) - [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
-* [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Your Doctor Won't See You Now–Or Ever Again](https://thewalrus.ca/your-doctor-wont-see-you/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
