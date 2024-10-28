@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 04:32:06](https://news.ycombinator.com/item?id=41967897) - [418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2024-10-28, 01:50:30](https://news.ycombinator.com/item?id=41967147) - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
 * [2024-10-28, 00:42:15](https://news.ycombinator.com/item?id=41966865) - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
@@ -8,7 +9,7 @@
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-* [2024-10-27, 17:00:09](https://news.ycombinator.com/item?id=41963942) - [Hyperbound (YC S23) is hiring a 4th founding full-stack engineer](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer)
+* [2024-10-27, 17:08:08](https://news.ycombinator.com/item?id=41963996) - [Using SQLite as storage for web server static content](https://clace.io/blog/sqlite/)
 * [2024-10-27, 16:58:56](https://news.ycombinator.com/item?id=41963932) - [NewPipe on Linux, Using Android_translation_layer](https://flathub.org/apps/net.newpipe.NewPipe)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)
 * [2024-10-27, 14:47:22](https://news.ycombinator.com/item?id=41962944) - [Axiomatics: Mathematical thought and high modernism](https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism)
@@ -29,7 +30,6 @@
 * [2024-10-23, 02:27:25](https://news.ycombinator.com/item?id=41921153) - [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
 * [2024-10-22, 23:37:52](https://news.ycombinator.com/item?id=41919881) - [Hoard of coins from Norman Conquest is Britain's most valuable treasure find](https://www.cnn.com/2024/10/22/science/norman-coins-most-valuable-find-britain-intl-scli/index.html)
 * [2024-10-22, 19:17:22](https://news.ycombinator.com/item?id=41917674) - ['Visual clutter' alters information flow in the brain](https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain)
-* [2024-10-22, 19:14:08](https://news.ycombinator.com/item?id=41917635) - [Building a simple oscillator based Ising machine for research and education](https://arxiv.org/abs/2410.00523)
 
 ## [Archives](archives/index.md)
 
