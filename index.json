@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-10-28, 18:06:00",
-      "https://news.ycombinator.com/item?id=41974159"
-    ],
-    [
-      "GenAI is set to create a mountainous increase in e-waste",
-      "https://www.theregister.com/2024/10/28/genai_dirty_secret/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 18:01:46",
       "https://news.ycombinator.com/item?id=41974126"
     ],
@@ -297,6 +287,16 @@
     [
       "70% of meteorites from 3 collisions in asteroid belt within past 40M years",
       "https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 15:54:11",
+      "https://news.ycombinator.com/item?id=41926320"
+    ],
+    [
+      "Debugging Audio Artifacts Caused by a Serial Port?",
+      "https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port"
     ]
   ]
 ]
