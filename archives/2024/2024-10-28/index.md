@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:33:29](https://news.ycombinator.com/item?id=41972143) - [Experts say a proposed revamp to the recycling symbol is still deceptive](https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/)
@@ -15,6 +16,7 @@
 * [2024-10-28, 13:58:25](https://news.ycombinator.com/item?id=41971054) - [Exercise Paradox](https://en.wikipedia.org/wiki/Exercise_paradox)
 * [2024-10-28, 13:38:18](https://news.ycombinator.com/item?id=41970903) - [FSF is working on freedom in machine learning applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications)
 * [2024-10-28, 13:33:42](https://news.ycombinator.com/item?id=41970874) - [Gravity is not a force](https://superposer.substack.com/p/gravity-is-not-a-force)
+* [2024-10-28, 13:31:00](https://news.ycombinator.com/item?id=41970854) - [EU Digital Markets Act: Litigation Against Apple](https://fsfe.org/activities/apple-litigation/)
 * [2024-10-28, 13:28:20](https://news.ycombinator.com/item?id=41970831) - [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
 * [2024-10-28, 13:19:48](https://news.ycombinator.com/item?id=41970769) - [More farms are turning to automation amid labor shortages](https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/)
 * [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Your Doctor Won't See You Now–Or Ever Again](https://thewalrus.ca/your-doctor-wont-see-you/)
