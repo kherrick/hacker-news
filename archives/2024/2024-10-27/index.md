@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 23:38:44](https://news.ycombinator.com/item?id=41966574) - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 * [2024-10-27, 22:24:19](https://news.ycombinator.com/item?id=41966180) - [Bulma CSS Framework](https://bulma.io/)
 * [2024-10-27, 22:14:45](https://news.ycombinator.com/item?id=41966114) - [Ask HN: What Are You Working On? (October 2024)](https://news.ycombinator.com/item?id=41966114)
 * [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
