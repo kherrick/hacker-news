@@ -104,6 +104,7 @@
 * [2024-10-23, 03:27:46](https://news.ycombinator.com/item?id=41921494) - [Necromanteion of Acheron](https://en.wikipedia.org/wiki/Necromanteion_of_Acheron)
 * [2024-10-23, 02:56:24](https://news.ycombinator.com/item?id=41921311) - [Live imaging of ovulation in action reveals three distinct phases](https://phys.org/news/2024-10-imaging-ovulation-action-reveals-distinct.html)
 * [2024-10-23, 02:49:15](https://news.ycombinator.com/item?id=41921280) - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
+* [2024-10-23, 02:27:25](https://news.ycombinator.com/item?id=41921153) - [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
 * [2024-10-23, 02:10:50](https://news.ycombinator.com/item?id=41921045) - [Show HN: Ryde, a Rust Web Framework](https://github.com/swlkr/ryde)
 * [2024-10-23, 01:42:15](https://news.ycombinator.com/item?id=41920822) - [Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf]](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-23, 01:13:28](https://news.ycombinator.com/item?id=41920591) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
