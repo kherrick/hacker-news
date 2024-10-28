@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-28, 07:24:07",
+      "https://news.ycombinator.com/item?id=41968511"
+    ],
+    [
+      "SQLite Rsync: Database Remote-Copy Tool for SQLite",
+      "https://sqlite.org/rsync.html"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 07:04:20",
       "https://news.ycombinator.com/item?id=41968409"
     ],
     [
       "Write code that is easy to delete, not easy to extend",
       "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 05:18:33",
+      "https://news.ycombinator.com/item?id=41968044"
+    ],
+    [
+      "Show HN: Finstruments - Financial instrument library built with Python",
+      "https://github.com/kyleloomis/finstruments"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-10-27, 17:08:08",
-      "https://news.ycombinator.com/item?id=41963996"
-    ],
-    [
-      "Using SQLite as storage for web server static content",
-      "https://clace.io/blog/sqlite/"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 16:58:56",
       "https://news.ycombinator.com/item?id=41963932"
     ],
@@ -127,16 +137,6 @@
     [
       "Axiomatics: Mathematical thought and high modernism",
       "https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 14:27:09",
-      "https://news.ycombinator.com/item?id=41962822"
-    ],
-    [
-      "Using less memory to look up IP addresses in Mess With DNS",
-      "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
     ]
   ],
   [
