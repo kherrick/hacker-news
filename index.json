@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 17:17:01",
+      "https://news.ycombinator.com/item?id=41973591"
+    ],
+    [
+      "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
+      "https://openpipe.ai/blog/hacker-news-rlhf-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 17:14:11",
+      "https://news.ycombinator.com/item?id=41973559"
+    ],
+    [
+      "Freakonomics does it again (not in a good way). Jeez, these guys are credulous",
+      "https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:33:11",
       "https://news.ycombinator.com/item?id=41973065"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-10-28, 14:26:02",
-      "https://news.ycombinator.com/item?id=41971333"
-    ],
-    [
-      "The Use of Knowledge in Society (1945) [pdf]",
-      "https://www.kysq.org/docs/Hayek_45.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 14:11:24",
       "https://news.ycombinator.com/item?id=41971182"
     ],
@@ -77,16 +87,6 @@
     [
       "How Gothic Architecture Became Spooky",
       "https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 07:04:20",
-      "https://news.ycombinator.com/item?id=41968409"
-    ],
-    [
-      "Write code that is easy to delete, not easy to extend (2016)",
-      "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to"
     ]
   ],
   [
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2024-10-28, 00:42:15",
-      "https://news.ycombinator.com/item?id=41966865"
+      "2024-10-28, 00:01:38",
+      "https://news.ycombinator.com/item?id=41966679"
     ],
     [
-      "The Coming Technological Singularity (1993)",
-      "https://mindstalk.net/vinge/vinge-sing.html"
+      "Can a Rubik's Cube be brute-forced?",
+      "https://www.stylewarning.com/posts/brute-force-rubiks-cube/"
     ]
   ],
   [
@@ -181,26 +181,6 @@
   ],
   [
     [
-      "2024-10-27, 11:57:04",
-      "https://news.ycombinator.com/item?id=41961866"
-    ],
-    [
-      "A Chopin waltz unearthed after nearly 200 years",
-      "https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 01:52:05",
-      "https://news.ycombinator.com/item?id=41959256"
-    ],
-    [
-      "Character amnesia in China",
-      "https://globalchinapulse.net/character-amnesia-in-china/"
-    ]
-  ],
-  [
-    [
       "2024-10-26, 09:33:21",
       "https://news.ycombinator.com/item?id=41953691"
     ],
@@ -221,6 +201,26 @@
   ],
   [
     [
+      "2024-10-25, 18:44:39",
+      "https://news.ycombinator.com/item?id=41948323"
+    ],
+    [
+      "High-resolution postmortem human brain MRI at 7 tesla",
+      "https://pulkit-khandelwal.github.io/exvivo-brain-upenn/"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 07:31:49",
+      "https://news.ycombinator.com/item?id=41943048"
+    ],
+    [
+      "Visualizing the Nucleus [video]",
+      "https://www.youtube.com/watch?v=ach9JLGs2Yc"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 01:19:26",
       "https://news.ycombinator.com/item?id=41941451"
     ],
@@ -237,6 +237,16 @@
     [
       "Becoming physically immune to brute-force attacks (2021)",
       "https://seirdy.one/posts/2021/01/12/password-strength/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 21:49:20",
+      "https://news.ycombinator.com/item?id=41940197"
+    ],
+    [
+      "Minotaur: A SIMD-Oriented Synthesizing Superoptimizer [pdf]",
+      "https://users.cs.utah.edu/~regehr/minotaur-oopsla24.pdf"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Cheap Light Transformed Civilization",
       "https://bigthink.com/the-past/genius-and-blood-how-cheap-light-transformed-civilization/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 02:27:25",
-      "https://news.ycombinator.com/item?id=41921153"
-    ],
-    [
-      "Room temp chirality switching and detection in a helimagnetic MnAu2 thin film",
-      "https://www.nature.com/articles/s41467-024-46326-4"
     ]
   ],
   [
