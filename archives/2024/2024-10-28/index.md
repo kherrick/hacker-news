@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
+* [2024-10-28, 20:18:32](https://news.ycombinator.com/item?id=41975741) - [Improving Xwayland Window Resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-28, 20:08:53](https://news.ycombinator.com/item?id=41975645) - [Shenzhou-18 Crew Records Video Showcasing Life, Work in Space](https://www.youtube.com/watch?v=IMoomWmIkww)
 * [2024-10-28, 19:50:34](https://news.ycombinator.com/item?id=41975395) - [200k subscribers flee 'Washington Post' after Bezos blocks Harris endorsement](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations)
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
