@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-28, 02:28:50](https://news.ycombinator.com/item?id=41967293) - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
 * [2024-10-28, 00:25:53](https://news.ycombinator.com/item?id=41966785) - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 * [2024-10-27, 23:38:44](https://news.ycombinator.com/item?id=41966574) - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 * [2024-10-27, 22:24:19](https://news.ycombinator.com/item?id=41966180) - [Bulma CSS Framework](https://bulma.io/)
@@ -25,6 +24,7 @@
 * [2024-10-24, 22:56:44](https://news.ycombinator.com/item?id=41940663) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
 * [2024-10-24, 06:21:19](https://news.ycombinator.com/item?id=41932501) - [Long-term tracking of social structure in groups of rats](https://www.nature.com/articles/s41598-024-72437-5)
 * [2024-10-24, 05:34:11](https://news.ycombinator.com/item?id=41932244) - [For the strongest disc golf throws, it's all in the thumbs](https://arstechnica.com/science/2024/10/how-physics-can-improve-your-disc-golf-game/)
+* [2024-10-23, 14:10:20](https://news.ycombinator.com/item?id=41925216) - [Did DORA's last update create an encryption loophole?](https://evervault.com/blog/did-dora-s-last-update-create-an-encryption-loophole)
 * [2024-10-23, 04:21:38](https://news.ycombinator.com/item?id=41921802) - [Cheap Light Transformed Civilization](https://bigthink.com/the-past/genius-and-blood-how-cheap-light-transformed-civilization/)
 * [2024-10-23, 02:27:25](https://news.ycombinator.com/item?id=41921153) - [Room temp chirality switching and detection in a helimagnetic MnAu2 thin film](https://www.nature.com/articles/s41467-024-46326-4)
 * [2024-10-22, 23:37:52](https://news.ycombinator.com/item?id=41919881) - [Hoard of coins from Norman Conquest is Britain's most valuable treasure find](https://www.cnn.com/2024/10/22/science/norman-coins-most-valuable-find-britain-intl-scli/index.html)
