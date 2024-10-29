@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 22:12:07](https://news.ycombinator.com/item?id=41989962) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/)
 * [2024-10-29, 21:24:32](https://news.ycombinator.com/item?id=41989555) - [Generative AI could generate tons of e-waste by decade's end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP BotsIn.Space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 20:08:15](https://news.ycombinator.com/item?id=41988760) - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
