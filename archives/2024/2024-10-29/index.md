@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
+* [2024-10-29, 03:44:04](https://news.ycombinator.com/item?id=41979175) - [Why Are Americans So Rich?](https://www.richardhanania.com/p/why-are-americans-so-rich)
 * [2024-10-29, 03:00:30](https://news.ycombinator.com/item?id=41978940) - [Haiku OS domain has been hijacked](https://haiku-os.org)
 * [2024-10-29, 02:43:07](https://news.ycombinator.com/item?id=41978845) - [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
 * [2024-10-29, 02:28:09](https://news.ycombinator.com/item?id=41978773) - [I dare you to read this and still feel good about tipping](https://www.washingtonpost.com/news/wonk/wp/2016/02/18/i-dare-you-to-read-this-and-still-feel-ok-about-tipping-in-the-united-states/)
