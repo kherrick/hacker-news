@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 20:08:15](https://news.ycombinator.com/item?id=41988760) - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
 * [2024-10-29, 19:03:43](https://news.ycombinator.com/item?id=41988165) - [Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
@@ -19,8 +20,6 @@
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A deep history of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-* [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
-* [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 01:31:28](https://news.ycombinator.com/item?id=41978478) - [The electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
 * [2024-10-28, 22:47:42](https://news.ycombinator.com/item?id=41977353) - [The Pentaconta Crossbar and Exchange](https://www.calling315.com/pentaconta)
 * [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
@@ -29,6 +28,7 @@
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The unnecessary decline of U.S. numerical weather prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
+* [2024-10-26, 23:44:47](https://news.ycombinator.com/item?id=41958611) - [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
 * [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
 
 ## [Archives](archives/index.md)

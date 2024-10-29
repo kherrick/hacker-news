@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 20:08:15](https://news.ycombinator.com/item?id=41988760) - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
 * [2024-10-29, 19:03:43](https://news.ycombinator.com/item?id=41988165) - [Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
