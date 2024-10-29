@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-29, 09:40:17",
-      "https://news.ycombinator.com/item?id=41981508"
-    ],
-    [
-      "Recent BGP leak that redirected internet traffic through Russia",
-      "https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/"
-    ]
-  ],
-  [
-    [
       "2024-10-29, 08:43:59",
       "https://news.ycombinator.com/item?id=41980986"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2024-10-28, 17:17:01",
+      "https://news.ycombinator.com/item?id=41973591"
+    ],
+    [
+      "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
+      "https://openpipe.ai/blog/hacker-news-rlhf-part-1"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:33:11",
       "https://news.ycombinator.com/item?id=41973065"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=41969312"
     ],
     [
-      "Survival Analysis Part I: Basic concepts and first analyses",
+      "Survival Analysis Part I: Basic concepts and first analyses (2003)",
       "https://www.nature.com/articles/6601118"
     ]
   ],
