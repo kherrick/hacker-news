@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
+* [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
-* [2024-10-29, 03:44:04](https://news.ycombinator.com/item?id=41979175) - [Why Are Americans So Rich?](https://www.richardhanania.com/p/why-are-americans-so-rich)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
 * [2024-10-29, 00:49:24](https://news.ycombinator.com/item?id=41978235) - [Ask HN: Can calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
@@ -27,6 +26,7 @@
 * [2024-10-25, 15:21:28](https://news.ycombinator.com/item?id=41946133) - [Study: DNA corroborates \"Well-man\" tale from Norse saga](https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/)
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
+* [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
