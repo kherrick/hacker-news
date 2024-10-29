@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
+* [2024-10-29, 14:20:29](https://news.ycombinator.com/item?id=41984105) - [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)
 * [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
 * [2024-10-29, 14:15:58](https://news.ycombinator.com/item?id=41984060) - [Apple is turning The Oregon Trail into a movie](https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/)
 * [2024-10-29, 14:01:46](https://news.ycombinator.com/item?id=41983932) - [ElasticSearch and many other repos are gone](https://github.com/elastic/elasticsearch)

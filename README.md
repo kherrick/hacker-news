@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
+* [2024-10-29, 14:20:29](https://news.ycombinator.com/item?id=41984105) - [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)
 * [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
 * [2024-10-29, 14:15:58](https://news.ycombinator.com/item?id=41984060) - [Apple is turning The Oregon Trail into a movie](https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/)
 * [2024-10-29, 14:01:46](https://news.ycombinator.com/item?id=41983932) - [ElasticSearch and many other repos are gone](https://github.com/elastic/elasticsearch)
@@ -10,7 +12,6 @@
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-* [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 01:31:28](https://news.ycombinator.com/item?id=41978478) - [The secret electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
@@ -24,12 +25,11 @@
 * [2024-10-28, 20:18:32](https://news.ycombinator.com/item?id=41975741) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses (2003)](https://www.nature.com/articles/6601118)
+* [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-26, 09:06:36](https://news.ycombinator.com/item?id=41953583) - [Dispelling Myths about Randomisation](https://www.bps.org.uk/psychologist/dispelling-myths-about-randomisation)
-* [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-24, 20:40:50](https://news.ycombinator.com/item?id=41939528) - [A Venerable and Time-Tested Guide: The Chicago Manual of Style, 18th Edition](https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/)
-* [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 
 ## [Archives](archives/index.md)
 
