@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2024-10-29, 03:44:04](https://news.ycombinator.com/item?id=41979175) - [Why Are Americans So Rich?](https://www.richardhanania.com/p/why-are-americans-so-rich)

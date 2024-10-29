@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
@@ -18,7 +19,7 @@
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
-* [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+* [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses](https://www.nature.com/articles/6601118)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-25, 18:44:39](https://news.ycombinator.com/item?id=41948323) - [High-resolution postmortem human brain MRI at 7 tesla](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/)
@@ -26,7 +27,6 @@
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
-* [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 16:53:52](https://news.ycombinator.com/item?id=41937306) - [The Circular Electronics Design Guide](https://www.ifixit.com/News/101938/introducing-the-circular-electronics-design-guide)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
