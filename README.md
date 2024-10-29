@@ -26,9 +26,9 @@
 * [2024-10-25, 15:00:15](https://news.ycombinator.com/item?id=41945918) - [Care Doesn't Scale](https://stevenscrawls.com/care-doesnt-scale/)
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
+* [2024-10-24, 20:59:29](https://news.ycombinator.com/item?id=41939700) - [How the New Raspberry Pi AI Hat Supercharges LLMs at the Edge](https://blog.novusteck.com/how-the-new-raspberry-pi-ai-hat-supercharges-llms-at-the-edge)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
-* [2024-10-23, 20:31:53](https://news.ycombinator.com/item?id=41929021) - [Dogs and the Salem Witch Trials](https://www.atlasobscura.com/articles/salem-witch-trials-dogs)
 * [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
 ## [Archives](archives/index.md)
