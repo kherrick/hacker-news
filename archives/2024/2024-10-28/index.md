@@ -67,6 +67,7 @@
 * [2024-10-28, 07:24:07](https://news.ycombinator.com/item?id=41968511) - [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 06:46:54](https://news.ycombinator.com/item?id=41968348) - [The Event Horizon Telescope image might need a correction](https://academic.oup.com/mnras/article/534/4/3237/7660988)
+* [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-28, 05:27:58](https://news.ycombinator.com/item?id=41968083) - [Eclipse Steady – Java Code Analysis](https://github.com/eclipse/steady)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 * [2024-10-28, 05:11:40](https://news.ycombinator.com/item?id=41968026) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
