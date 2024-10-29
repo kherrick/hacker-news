@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-10-28, 17:17:01",
-      "https://news.ycombinator.com/item?id=41973591"
-    ],
-    [
-      "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
-      "https://openpipe.ai/blog/hacker-news-rlhf-part-1"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:33:11",
       "https://news.ycombinator.com/item?id=41973065"
     ],
@@ -277,6 +267,16 @@
     [
       "Debian's \"secret\" sauce",
       "https://lwn.net/Articles/990177/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 21:49:20",
+      "https://news.ycombinator.com/item?id=41940197"
+    ],
+    [
+      "Minotaur: A SIMD-Oriented Synthesizing Superoptimizer [pdf]",
+      "https://users.cs.utah.edu/~regehr/minotaur-oopsla24.pdf"
     ]
   ],
   [
