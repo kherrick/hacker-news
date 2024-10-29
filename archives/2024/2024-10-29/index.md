@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 17:26:30](https://news.ycombinator.com/item?id=41987055) - [Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case](https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/)
 * [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
 * [2024-10-29, 16:50:56](https://news.ycombinator.com/item?id=41986436) - [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
@@ -21,6 +22,7 @@
 * [2024-10-29, 14:01:46](https://news.ycombinator.com/item?id=41983932) - [ElasticSearch and many other repos are gone](https://github.com/elastic/elasticsearch)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:23:04](https://news.ycombinator.com/item?id=41983607) - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
+* [2024-10-29, 13:04:31](https://news.ycombinator.com/item?id=41983441) - [Meta's AI Abundance](https://stratechery.com/2024/metas-ai-abundance/)
 * [2024-10-29, 13:01:18](https://news.ycombinator.com/item?id=41983415) - [OutRun: Open-source, privacy oriented, outdoor fitness tracker](https://outrun.tadris.de/)
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)

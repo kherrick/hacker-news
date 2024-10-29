@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 17:26:30](https://news.ycombinator.com/item?id=41987055) - [Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case](https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/)
 * [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
 * [2024-10-29, 16:50:56](https://news.ycombinator.com/item?id=41986436) - [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
-* [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
-* [2024-10-29, 16:22:36](https://news.ycombinator.com/item?id=41985956) - [Claude is now available on GitHub Copilot](https://www.anthropic.com/news/github-copilot)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 16:18:32](https://news.ycombinator.com/item?id=41985883) - [Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
 * [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
@@ -12,6 +11,7 @@
 * [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:23:04](https://news.ycombinator.com/item?id=41983607) - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
+* [2024-10-29, 13:04:31](https://news.ycombinator.com/item?id=41983441) - [Meta's AI Abundance](https://stratechery.com/2024/metas-ai-abundance/)
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
