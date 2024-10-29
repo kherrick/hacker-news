@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-10-29, 00:49:24",
-      "https://news.ycombinator.com/item?id=41978235"
-    ],
-    [
-      "Ask HN: Can Calculus be taught without differentiating or integrating by hand?",
-      "https://news.ycombinator.com/item?id=41978235"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 21:48:27",
       "https://news.ycombinator.com/item?id=41976754"
     ],
@@ -127,6 +117,16 @@
     [
       "Don't implement unification by recursion",
       "https://www.philipzucker.com/unify/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 17:17:01",
+      "https://news.ycombinator.com/item?id=41973591"
+    ],
+    [
+      "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
+      "https://openpipe.ai/blog/hacker-news-rlhf-part-1"
     ]
   ],
   [
