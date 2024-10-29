@@ -15,6 +15,7 @@
 * [2024-10-29, 16:13:18](https://news.ycombinator.com/item?id=41985785) - [Raspberry Pi OS's yearslong switch from X Window to Wayland is now official](https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/)
 * [2024-10-29, 16:13:04](https://news.ycombinator.com/item?id=41985781) - [Video game libraries lose legal appeal to emulate physical games online](https://arstechnica.com/gaming/2024/10/copyright-office-libraries-cant-share-remotely-emulated-versions-of-physical-games/)
 * [2024-10-29, 15:58:20](https://news.ycombinator.com/item?id=41985524) - [Show HN: Timeline-Based Citizen Journalism](https://goingon.org)
+* [2024-10-29, 15:37:47](https://news.ycombinator.com/item?id=41985118) - [Omnivore Is Joining ElevenLabs](https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs)
 * [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 15:00:21](https://news.ycombinator.com/item?id=41984519) - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 * [2024-10-29, 14:56:00](https://news.ycombinator.com/item?id=41984466) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
