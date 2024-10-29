@@ -2,6 +2,7 @@
 
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
+* [2024-10-29, 19:03:43](https://news.ycombinator.com/item?id=41988165) - [Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
 * [2024-10-29, 18:58:20](https://news.ycombinator.com/item?id=41988110) - [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
@@ -29,7 +30,6 @@
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The unnecessary decline of U.S. numerical weather prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
-* [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 ## [Archives](archives/index.md)
 
