@@ -80,6 +80,7 @@
 * [2024-10-25, 07:31:49](https://news.ycombinator.com/item?id=41943048) - [Visualizing the Nucleus [video]](https://www.youtube.com/watch?v=ach9JLGs2Yc)
 * [2024-10-25, 07:16:33](https://news.ycombinator.com/item?id=41942978) - [Law Enforcement Undermines Tor](https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/)
 * [2024-10-25, 06:27:20](https://news.ycombinator.com/item?id=41942746) - [Italy declares its \"web tax\" applicable to any digital service worldwide](https://www.reuters.com/markets/europe/italy-stiffens-terms-digital-services-tax-2025-budget-2024-10-16/)
+* [2024-10-25, 06:17:39](https://news.ycombinator.com/item?id=41942693) - [Lost Silk Road cities discovered in Uzbek mountains](https://www.bbc.co.uk/news/articles/c238kv8ddeyo)
 * [2024-10-25, 03:58:30](https://news.ycombinator.com/item?id=41942103) - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
 * [2024-10-25, 03:56:32](https://news.ycombinator.com/item?id=41942096) - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
 * [2024-10-25, 03:42:11](https://news.ycombinator.com/item?id=41942023) - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
