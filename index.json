@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-29, 03:00:30",
-      "https://news.ycombinator.com/item?id=41978940"
+      "2024-10-29, 03:49:33",
+      "https://news.ycombinator.com/item?id=41979195"
     ],
     [
-      "Haiku OS domain has been hijacked",
-      "https://haiku-os.org"
+      "Swift – A great language strangled by governance",
+      "https://blog.jacobstechtavern.com/p/apple-is-killing-swift"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-10-29, 00:49:24",
+      "https://news.ycombinator.com/item?id=41978235"
+    ],
+    [
+      "Ask HN: Can calculus be taught without differentiating or integrating by hand?",
+      "https://news.ycombinator.com/item?id=41978235"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 21:48:27",
       "https://news.ycombinator.com/item?id=41976754"
     ],
@@ -51,21 +61,11 @@
   ],
   [
     [
-      "2024-10-28, 21:40:38",
-      "https://news.ycombinator.com/item?id=41976673"
-    ],
-    [
-      "Show HN: Marmite: Zero Config Static Site Generator written in Rust",
-      "https://github.com/rochacbruno/marmite"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 21:28:29",
       "https://news.ycombinator.com/item?id=41976529"
     ],
     [
-      "HTML Form Validation is heavily underused",
+      "HTML Form Validation is underused",
       "https://expressionstatement.com/html-form-validation-is-heavily-underused"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-10-28, 17:17:01",
+      "https://news.ycombinator.com/item?id=41973591"
+    ],
+    [
+      "Using reinforcement learning and $4.80 of GPU time to find the best HN post",
+      "https://openpipe.ai/blog/hacker-news-rlhf-part-1"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:33:11",
       "https://news.ycombinator.com/item?id=41973065"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2024-10-28, 10:53:19",
-      "https://news.ycombinator.com/item?id=41969753"
+      "2024-10-28, 14:26:02",
+      "https://news.ycombinator.com/item?id=41971333"
     ],
     [
-      "How Gothic architecture became spooky",
-      "https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky"
+      "The Use of Knowledge in Society (1945) [pdf]",
+      "https://www.kysq.org/docs/Hayek_45.pdf"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Evaluate Markdown code blocks within Vim",
       "https://github.com/gpanders/vim-medieval"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 06:37:27",
+      "https://news.ycombinator.com/item?id=41952999"
+    ],
+    [
+      "State-space models can learn in-context by gradient descent",
+      "https://arxiv.org/abs/2410.11687"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-10-25, 06:17:39",
-      "https://news.ycombinator.com/item?id=41942693"
-    ],
-    [
-      "Lost Silk Road cities discovered in Uzbek mountains",
-      "https://www.bbc.co.uk/news/articles/c238kv8ddeyo"
-    ]
-  ],
-  [
-    [
       "2024-10-25, 01:48:13",
       "https://news.ycombinator.com/item?id=41941585"
     ],
     [
       "Debian's \"secret\" sauce",
       "https://lwn.net/Articles/990177/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 01:19:26",
-      "https://news.ycombinator.com/item?id=41941451"
-    ],
-    [
-      "Using Rust in non-Rust servers to improve performance",
-      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
     ]
   ],
   [
