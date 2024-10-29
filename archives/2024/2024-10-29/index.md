@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
+* [2024-10-29, 16:50:56](https://news.ycombinator.com/item?id=41986436) - [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-29, 16:22:36](https://news.ycombinator.com/item?id=41985956) - [Claude is now available on GitHub Copilot](https://www.anthropic.com/news/github-copilot)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)

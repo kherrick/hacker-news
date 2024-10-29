@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
+* [2024-10-29, 16:50:56](https://news.ycombinator.com/item?id=41986436) - [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-29, 16:22:36](https://news.ycombinator.com/item?id=41985956) - [Claude is now available on GitHub Copilot](https://www.anthropic.com/news/github-copilot)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
@@ -12,7 +14,6 @@
 * [2024-10-29, 13:23:04](https://news.ycombinator.com/item?id=41983607) - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
-* [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
@@ -23,7 +24,6 @@
 * [2024-10-28, 21:28:29](https://news.ycombinator.com/item?id=41976529) - [HTML Form Validation is underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
 * [2024-10-28, 21:13:48](https://news.ycombinator.com/item?id=41976368) - [Show HN: Basis – a production focused robotics framework](https://github.com/basis-robotics/basis)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
-* [2024-10-28, 20:18:32](https://news.ycombinator.com/item?id=41975741) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
