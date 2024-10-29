@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
+* [2024-10-29, 14:15:58](https://news.ycombinator.com/item?id=41984060) - [Apple is turning The Oregon Trail into a movie](https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/)
+* [2024-10-29, 14:01:46](https://news.ycombinator.com/item?id=41983932) - [ElasticSearch and many other repos are gone](https://github.com/elastic/elasticsearch)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:23:04](https://news.ycombinator.com/item?id=41983607) - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
+* [2024-10-29, 13:01:18](https://news.ycombinator.com/item?id=41983415) - [OutRun: Open-source, privacy oriented, outdoor fitness tracker](https://outrun.tadris.de/)
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
