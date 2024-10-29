@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 23:50:11](https://news.ycombinator.com/item?id=41940969) - [Excel Turing Machine (2013)](https://www.felienne.com/archives/2974)
 * [2024-10-24, 23:17:40](https://news.ycombinator.com/item?id=41940778) - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
 * [2024-10-24, 22:56:44](https://news.ycombinator.com/item?id=41940663) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
 * [2024-10-24, 22:41:03](https://news.ycombinator.com/item?id=41940580) - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
