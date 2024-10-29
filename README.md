@@ -18,7 +18,6 @@
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
-* [2024-10-28, 05:27:58](https://news.ycombinator.com/item?id=41968083) - [Eclipse Steady – Java Code Analysis](https://github.com/eclipse/steady)
 * [2024-10-27, 11:37:57](https://news.ycombinator.com/item?id=41961761) - [The Great Exhibition unveils the only office roller coaster in Stockholm](https://www.creativeboom.com/news/worlds-first-office-roller-coaster-launches-in-stockholm/)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 06:37:27](https://news.ycombinator.com/item?id=41952999) - [State-space models can learn in-context by gradient descent](https://arxiv.org/abs/2410.11687)
@@ -29,6 +28,7 @@
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
+* [2024-10-23, 20:31:53](https://news.ycombinator.com/item?id=41929021) - [Dogs and the Salem Witch Trials](https://www.atlasobscura.com/articles/salem-witch-trials-dogs)
 * [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
 ## [Archives](archives/index.md)
