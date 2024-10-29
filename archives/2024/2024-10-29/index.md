@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2024-10-29, 03:00:30](https://news.ycombinator.com/item?id=41978940) - [Haiku OS domain has been hijacked](https://haiku-os.org)
 * [2024-10-29, 02:43:07](https://news.ycombinator.com/item?id=41978845) - [Greenland Is Gorgeous and Uncrowded. Now Here Come the Americans.](https://www.wsj.com/lifestyle/travel/greenland-flights-nonstop-united-nuuk-overtourism-62b8b8ee)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - ['Rescue Party' [Arthur C. Clarke, 1946]](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
