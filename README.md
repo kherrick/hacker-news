@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 03:00:30](https://news.ycombinator.com/item?id=41978940) - [Haiku OS domain has been hijacked](https://haiku-os.org)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
 * [2024-10-28, 21:48:27](https://news.ycombinator.com/item?id=41976754) - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
@@ -28,7 +29,6 @@
 * [2024-10-25, 01:19:26](https://news.ycombinator.com/item?id=41941451) - [Using Rust in non-Rust servers to improve performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
-* [2024-10-23, 20:31:53](https://news.ycombinator.com/item?id=41929021) - [Dogs and the Salem Witch Trials](https://www.atlasobscura.com/articles/salem-witch-trials-dogs)
 * [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
 ## [Archives](archives/index.md)
