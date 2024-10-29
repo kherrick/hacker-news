@@ -19,7 +19,7 @@
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
-* [2024-10-27, 11:37:57](https://news.ycombinator.com/item?id=41961761) - [The Great Exhibition unveils the only office roller coaster in Stockholm](https://www.creativeboom.com/news/worlds-first-office-roller-coaster-launches-in-stockholm/)
+* [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-25, 18:44:39](https://news.ycombinator.com/item?id=41948323) - [High-resolution postmortem human brain MRI at 7 tesla](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/)
