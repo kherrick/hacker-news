@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 * [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
@@ -17,11 +18,9 @@
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
-* [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 * [2024-10-28, 09:45:39](https://news.ycombinator.com/item?id=41969334) - [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 * [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses (2003)](https://www.nature.com/articles/6601118)
-* [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-26, 09:06:36](https://news.ycombinator.com/item?id=41953583) - [Dispelling Myths about Randomisation](https://www.bps.org.uk/psychologist/dispelling-myths-about-randomisation)
 * [2024-10-25, 18:44:39](https://news.ycombinator.com/item?id=41948323) - [High-resolution postmortem human brain MRI at 7 tesla](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/)
@@ -29,6 +28,7 @@
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-24, 21:49:20](https://news.ycombinator.com/item?id=41940197) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer [pdf]](https://users.cs.utah.edu/~regehr/minotaur-oopsla24.pdf)
+* [2024-10-24, 20:40:50](https://news.ycombinator.com/item?id=41939528) - [A Venerable and Time-Tested Guide: The Chicago Manual of Style, 18th Edition](https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 
 ## [Archives](archives/index.md)
