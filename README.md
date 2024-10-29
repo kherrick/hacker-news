@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
+* [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
+* [2024-10-29, 02:28:09](https://news.ycombinator.com/item?id=41978773) - [I dare you to read this and still feel good about tipping](https://www.washingtonpost.com/news/wonk/wp/2016/02/18/i-dare-you-to-read-this-and-still-feel-ok-about-tipping-in-the-united-states/)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
 * [2024-10-29, 00:49:24](https://news.ycombinator.com/item?id=41978235) - [Ask HN: Can calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
@@ -29,7 +30,6 @@
 * [2024-10-24, 20:59:29](https://news.ycombinator.com/item?id=41939700) - [How the New Raspberry Pi AI Hat Supercharges LLMs at the Edge](https://blog.novusteck.com/how-the-new-raspberry-pi-ai-hat-supercharges-llms-at-the-edge)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
-* [2024-10-23, 15:54:11](https://news.ycombinator.com/item?id=41926320) - [Debugging audio artifacts caused by... a serial port?](https://www.recall.ai/post/debugging-audio-artifacts-caused-by-a-serial-port)
 
 ## [Archives](archives/index.md)
 
