@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 21:24:32](https://news.ycombinator.com/item?id=41989555) - [Generative AI could generate tons of e-waste by decade's end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
+* [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP BotsIn.Space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 20:08:15](https://news.ycombinator.com/item?id=41988760) - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle](https://www.bbc.com/news/articles/crmznzkly3go)
@@ -22,14 +24,12 @@
 * [2024-10-29, 01:31:28](https://news.ycombinator.com/item?id=41978478) - [The electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
 * [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
 * [2024-10-28, 21:28:29](https://news.ycombinator.com/item?id=41976529) - [HTML Form Validation is underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
-* [2024-10-28, 21:13:48](https://news.ycombinator.com/item?id=41976368) - [Show HN: Basis – a production focused robotics framework](https://github.com/basis-robotics/basis)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
 * [2024-10-28, 08:46:45](https://news.ycombinator.com/item?id=41968942) - [Jump Trading, Virtu and the 'hidden optical fibre cable' under an Ohio field](https://www.ft.com/content/099342e4-cae8-4ac7-86bd-a3f2048065e8)
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The unnecessary decline of U.S. numerical weather prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-26, 23:44:47](https://news.ycombinator.com/item?id=41958611) - [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
-* [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
 
 ## [Archives](archives/index.md)
 
