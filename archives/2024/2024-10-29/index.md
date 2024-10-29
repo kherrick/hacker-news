@@ -11,6 +11,7 @@
 * [2024-10-29, 18:58:20](https://news.ycombinator.com/item?id=41988110) - [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 17:26:30](https://news.ycombinator.com/item?id=41987055) - [Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case](https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/)
+* [2024-10-29, 17:19:44](https://news.ycombinator.com/item?id=41986926) - [OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition](https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/)
 * [2024-10-29, 17:00:42](https://news.ycombinator.com/item?id=41986582) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer)
 * [2024-10-29, 16:50:56](https://news.ycombinator.com/item?id=41986436) - [X Algorithm Feeds Users Political Content Whether They Want It or Not](https://www.wsj.com/politics/elections/x-twitter-political-content-election-2024-28f2dadd)
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
