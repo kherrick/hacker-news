@@ -55,6 +55,7 @@
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 12:05:24](https://news.ycombinator.com/item?id=41954242) - [PeaZip 10.0.0 Released](https://peazip.github.io/changelog.html)
+* [2024-10-26, 09:56:55](https://news.ycombinator.com/item?id=41953761) - [Amusement park built for accessibility and free for disabled](https://morganswonderland.org/)
 * [2024-10-26, 09:43:18](https://news.ycombinator.com/item?id=41953712) - [Antirez/load81: SDL based Lua programming environment for kids similar to Codea](https://github.com/antirez/load81)
 * [2024-10-26, 09:33:21](https://news.ycombinator.com/item?id=41953691) - [GoLic, injects license into source code files](https://github.com/AbsaOSS/golic)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
