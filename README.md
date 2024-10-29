@@ -4,7 +4,6 @@
 * [2024-10-29, 03:49:33](https://news.ycombinator.com/item?id=41979195) - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
-* [2024-10-29, 00:49:24](https://news.ycombinator.com/item?id=41978235) - [Ask HN: Can calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
 * [2024-10-29, 00:42:26](https://news.ycombinator.com/item?id=41978197) - [What's New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-28, 21:48:27](https://news.ycombinator.com/item?id=41976754) - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 * [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
@@ -29,6 +28,7 @@
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
+* [2024-10-24, 16:53:52](https://news.ycombinator.com/item?id=41937306) - [The Circular Electronics Design Guide](https://www.ifixit.com/News/101938/introducing-the-circular-electronics-design-guide)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 
 ## [Archives](archives/index.md)

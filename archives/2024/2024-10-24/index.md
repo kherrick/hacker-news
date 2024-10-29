@@ -49,6 +49,7 @@
 * [2024-10-24, 17:08:43](https://news.ycombinator.com/item?id=41937443) - [The Lion of St. Mark's Square in Venice Is Chinese: Isotopic Analyses Confirm It](https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/)
 * [2024-10-24, 17:00:56](https://news.ycombinator.com/item?id=41937383) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6)
 * [2024-10-24, 16:54:53](https://news.ycombinator.com/item?id=41937319) - [Post World War II Food](https://www.nps.gov/articles/post-wwii-food.htm)
+* [2024-10-24, 16:53:52](https://news.ycombinator.com/item?id=41937306) - [The Circular Electronics Design Guide](https://www.ifixit.com/News/101938/introducing-the-circular-electronics-design-guide)
 * [2024-10-24, 16:51:32](https://news.ycombinator.com/item?id=41937289) - [Throw more AI at your problems](https://frontierai.substack.com/p/throw-more-ai-at-your-problems)
 * [2024-10-24, 16:43:27](https://news.ycombinator.com/item?id=41937218) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 16:37:41](https://news.ycombinator.com/item?id=41937162) - [DNA stores data in bits after epigenetic upgrade](https://www.nature.com/articles/d41586-024-03443-w)
