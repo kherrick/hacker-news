@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 09:40:17](https://news.ycombinator.com/item?id=41981508) - [Recent BGP leak that redirected internet traffic through Russia](https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/)
 * [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
@@ -21,7 +22,6 @@
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-26, 09:06:36](https://news.ycombinator.com/item?id=41953583) - [Dispelling Myths about Randomisation](https://www.bps.org.uk/psychologist/dispelling-myths-about-randomisation)
-* [2024-10-26, 06:37:27](https://news.ycombinator.com/item?id=41952999) - [State-space models can learn in-context by gradient descent](https://arxiv.org/abs/2410.11687)
 * [2024-10-25, 18:44:39](https://news.ycombinator.com/item?id=41948323) - [High-resolution postmortem human brain MRI at 7 tesla](https://pulkit-khandelwal.github.io/exvivo-brain-upenn/)
 * [2024-10-25, 15:21:28](https://news.ycombinator.com/item?id=41946133) - [Study: DNA corroborates \"Well-man\" tale from Norse saga](https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/)
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
