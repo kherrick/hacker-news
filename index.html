@@ -142,11 +142,33 @@
             <h4>
               <span>2024-10-29 @ 13:24:55</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41983622"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="41983607">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry"
+              >Shopify Is Winning Salesforce Clients, Stoking E-Commerce
+              Rivalry</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-29 @ 13:23:04</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41983607"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -163,13 +185,137 @@
             <h4>
               <span>2024-10-29 @ 13:00:49</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41983412"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="41983409">
+          <h3>
+            <a class="item" href="https://github.com/Integuru-AI/Integuru"
+              >Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs
+              Using LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-29 @ 13:00:40</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41983409"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://integuru.ai">https://integuru.ai</a>). We build
+              low-latency integrations with platforms lacking official APIs. We
+              take custom requests and manage creation, hosting, and
+              authentication. To automate our work, we built an open-source AI
+              agent that reverse-engineers internal APIs to generate integration
+              code. Here’s a demo:
+              <a href="https://www.youtube.com/watch?v=7OJ4w5BCpQ0"
+                >https://www.youtube.com/watch?v=7OJ4w5BCpQ0</a
+              >.
+              <p>
+                Many products need integrations with third-party services, but
+                platforms often lack official APIs. Examples include logistics
+                software, financial services, electronic health records (EHRs),
+                and government websites. To build low-latency integrations,
+                developers must reverse-engineer internal APIs, but this can get
+                complicated. With Integuru, you can have easier access to
+                integrations.
+              </p>
+              <p>
+                We started as recent college grads trying to make US income tax
+                data accessible. We contacted banks, brokerages, payroll
+                software, and more to request access to their APIs, but none
+                took us seriously. We resorted to building integrations with
+                these systems to extract documents like W-2s and 1099s. We
+                initially used browser automation but ran into two big problems:
+                our integrations (1) weren’t reliable due to changing UIs and
+                (2) had slow execution speeds due to spinning up browsers and
+                waiting for pages to load. We experimented with AI-based
+                automation maintenance, but it didn’t solve slow speeds. So, we
+                concluded that browser automation is useful when execution speed
+                isn’t essential, but reverse engineering is often the only path
+                for performant integrations.
+              </p>
+              <p>
+                Through reverse-engineering dozens of platforms, we noticed many
+                internal API design patterns that LLMs could decipher. We built
+                an agent to automate the creation of integrations. Today,
+                Integuru can analyze a platform’s internal API designs and build
+                an integration in minutes.
+              </p>
+              <p>
+                The agent mimics what a human does when reverse-engineering. Say
+                you want to download utility bills from a utility website. You’d
+                first use Integuru to generate a file of network requests and a
+                file of cookies. You pair these two files with a prompt about
+                your desired action—in this case, to download utility bills.
+              </p>
+              <p>
+                Integuru identifies the final request that downloads utility
+                bills. The request URL might look like this:
+                <a
+                  href="https://www.example.com/utility-bills?accountId=123&amp;userId=456"
+                  >https://www.example.com/utility-bills?accountId=123&amp;userId=4...</a
+                >. It then identifies parts of the request that depend on other
+                requests. The example URL contains dynamic parts— accountId and
+                userId—that usually are in the response of previous request(s).
+                It then finds other requests whose response contains any of
+                these and adds them to the dependency graph. The newly found
+                request URLs might look like
+                <a href="https://www.example.com/getAccountId"
+                  >https://www.example.com/getAccountId</a
+                >,
+                <a href="https://www.example.com/getUserId"
+                  >https://www.example.com/getUserId</a
+                >, and so on.
+              </p>
+              <p>
+                This process repeats until the most recently found request
+                doesn’t depend on any other request. Integuru then traverses up
+                the graph, starting from the requests without dependencies while
+                converting each request into a runnable function.
+              </p>
+              <p>
+                Integuru supports a surprising number of use cases like
+                downloading documents, sending money, creating virtual cards…
+                People already use the agent to build low-latency APIs for
+                platforms like Robinhood, transportation management systems
+                (TMS), and more. However, the agent still has limitations due to
+                current LLM capabilities and long-tail edge cases, but we’ve
+                been giving each platform to the agent for the first try. When
+                the agent does struggle, we find the generated graphs and code
+                still helpful as references for us to complete the work
+                manually.
+              </p>
+              <p>
+                The agent and all integrations are open-source under AGPL-3.0.
+                We charge for services to (1) build custom integrations when the
+                agent struggles or for your convenience, (2) handle hosting, and
+                (3) manage authentication using authentication cookies from
+                authenticated browser sessions. We charge per API call with an
+                implementation fee for new platforms.
+              </p>
+              <p>
+                We’re currently working to increase the agent’s coverage and
+                improve code generation. We will continue to iterate and want to
+                one day allow developers to integrate with all platforms
+                instantly.
+              </p>
+              <p>
+                Integuru is still an early effort. We’re passionate about
+                automating integrations and would love your feedback!
+              </p>
+            </div>
           </section>
         </section>
         <section id="41982994">
@@ -190,6 +336,28 @@
             </h4>
           </section>
         </section>
+        <section id="41982698">
+          <h3>
+            <a
+              class="item"
+              href="https://delroth.net/posts/spoofed-mass-scan-abuse/"
+              >How to get the whole planet to send abuse complaints to your best
+              friends</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-29 @ 11:17:57</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=41982698"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41980986">
           <h3>
             <a
@@ -203,11 +371,11 @@
             <h4>
               <span>2024-10-29 @ 08:43:59</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41980986"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -222,11 +390,11 @@
             <h4>
               <span>2024-10-29 @ 08:03:55</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41980681"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
             <div class="text">
@@ -261,11 +429,11 @@
             <h4>
               <span>2024-10-29 @ 03:50:23</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41979203"
                   >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 244</span></span
               >
             </h4>
           </section>
@@ -282,11 +450,11 @@
             <h4>
               <span>2024-10-29 @ 01:31:28</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41978478"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -301,11 +469,11 @@
             <h4>
               <span>2024-10-29 @ 00:42:26</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41978197"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -320,7 +488,7 @@
             <h4>
               <span>2024-10-28 @ 22:47:42</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41977353"
                   >Comments</a
@@ -341,11 +509,11 @@
             <h4>
               <span>2024-10-28 @ 22:31:11</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41977205"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -360,11 +528,11 @@
             <h4>
               <span>2024-10-28 @ 21:48:27</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41976754"
                   >Comments</a
-                ><span class="descendants">: 517</span></span
+                ><span class="descendants">: 526</span></span
               >
             </h4>
           </section>
@@ -381,11 +549,11 @@
             <h4>
               <span>2024-10-28 @ 21:28:29</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41976529"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -400,11 +568,11 @@
             <h4>
               <span>2024-10-28 @ 21:13:48</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41976368"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -437,11 +605,11 @@
             <h4>
               <span>2024-10-28 @ 21:08:16</span
               ><span class="points-container"
-                >Points: <span class="points">467</span></span
+                >Points: <span class="points">474</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41976311"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -458,11 +626,11 @@
             <h4>
               <span>2024-10-28 @ 20:18:32</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41975741"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -479,32 +647,11 @@
             <h4>
               <span>2024-10-28 @ 19:24:19</span
               ><span class="points-container"
-                >Points: <span class="points">719</span></span
+                >Points: <span class="points">723</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41975047"
                   >Comments</a
-                ><span class="descendants">: 593</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41974882">
-          <h3>
-            <a
-              class="item"
-              href="https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity"
-              >Standardizing Automotive Connectivity</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-28 @ 19:09:22</span
-              ><span class="points-container"
-                >Points: <span class="points">142</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41974882"
-                  >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 598</span></span
               >
             </h4>
           </section>
@@ -521,52 +668,11 @@
             <h4>
               <span>2024-10-28 @ 16:33:11</span
               ><span class="points-container"
-                >Points: <span class="points">431</span></span
+                >Points: <span class="points">436</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41973065"
                   >Comments</a
-                ><span class="descendants">: 315</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41971333">
-          <h3>
-            <a class="item" href="https://www.kysq.org/docs/Hayek_45.pdf"
-              >The Use of Knowledge in Society (1945) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-28 @ 14:26:02</span
-              ><span class="points-container"
-                >Points: <span class="points">94</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41971333"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="41969334">
-          <h3>
-            <a
-              class="item"
-              href="https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read"
-              >Sci-fi books that you may never have heard of, but definitely
-              should read</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-28 @ 09:45:39</span
-              ><span class="points-container"
-                >Points: <span class="points">154</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=41969334"
-                  >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -582,7 +688,7 @@
             <h4>
               <span>2024-10-28 @ 09:42:56</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41969312"
                   >Comments</a
@@ -603,11 +709,11 @@
             <h4>
               <span>2024-10-26 @ 09:21:03</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41953641"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -624,11 +730,11 @@
             <h4>
               <span>2024-10-26 @ 09:06:36</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41953583"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -645,7 +751,7 @@
             <h4>
               <span>2024-10-25 @ 18:44:39</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41948323"
                   >Comments</a
@@ -676,7 +782,7 @@
             <h4>
               <span>2024-10-25 @ 15:21:28</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41946133"
                   >Comments</a
@@ -695,11 +801,11 @@
             <h4>
               <span>2024-10-25 @ 14:07:45</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41945458"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
             <div class="text">
@@ -810,11 +916,11 @@
             <h4>
               <span>2024-10-25 @ 02:55:38</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41941845"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
             <div class="text">
@@ -864,7 +970,7 @@
             <h4>
               <span>2024-10-24 @ 21:49:20</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41940197"
                   >Comments</a
@@ -886,7 +992,7 @@
             <h4>
               <span>2024-10-24 @ 20:40:50</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41939528"
                   >Comments</a
@@ -907,7 +1013,7 @@
             <h4>
               <span>2024-10-24 @ 14:16:26</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41935730"
                   >Comments</a
