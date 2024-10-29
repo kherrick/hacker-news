@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-29, 21:24:32](https://news.ycombinator.com/item?id=41989555) - [Generative AI could generate tons of e-waste by decade's end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
+* [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
+* [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
+* [2024-10-29, 20:11:18](https://news.ycombinator.com/item?id=41988799) - [Nuclear Fusion's New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle](https://www.bbc.com/news/articles/crmznzkly3go)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 17:19:44](https://news.ycombinator.com/item?id=41986926) - [OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition](https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/)
@@ -23,11 +25,9 @@
 * [2024-10-28, 21:13:48](https://news.ycombinator.com/item?id=41976368) - [Show HN: Basis – a production focused robotics framework](https://github.com/basis-robotics/basis)
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
 * [2024-10-28, 08:46:45](https://news.ycombinator.com/item?id=41968942) - [Jump Trading, Virtu and the 'hidden optical fibre cable' under an Ohio field](https://www.ft.com/content/099342e4-cae8-4ac7-86bd-a3f2048065e8)
-* [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The unnecessary decline of U.S. numerical weather prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-26, 23:44:47](https://news.ycombinator.com/item?id=41958611) - [Trying Arroost](https://edibotopic.com/blog/doing/leisure-sick/)
-* [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 

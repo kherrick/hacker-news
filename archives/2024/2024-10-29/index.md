@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 * [2024-10-29, 22:12:07](https://news.ycombinator.com/item?id=41989962) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/)
 * [2024-10-29, 22:11:32](https://news.ycombinator.com/item?id=41989960) - [Waymo does over 150k paid trips and over 1M autonomous miles every week](https://twitter.com/waymo/status/1851365483972538407)
 * [2024-10-29, 21:24:32](https://news.ycombinator.com/item?id=41989555) - [Generative AI could generate tons of e-waste by decade's end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP BotsIn.Space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
+* [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
+* [2024-10-29, 20:11:18](https://news.ycombinator.com/item?id=41988799) - [Nuclear Fusion's New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
 * [2024-10-29, 20:08:15](https://news.ycombinator.com/item?id=41988760) - [Strava was used to locate the most powerful people](https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people)
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
