@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 09:10:23](https://news.ycombinator.com/item?id=41981183) - [NASA's oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
 * [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
@@ -16,7 +17,6 @@
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
 * [2024-10-28, 14:26:02](https://news.ycombinator.com/item?id=41971333) - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
-* [2024-10-28, 09:45:39](https://news.ycombinator.com/item?id=41969334) - [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 * [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses (2003)](https://www.nature.com/articles/6601118)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)

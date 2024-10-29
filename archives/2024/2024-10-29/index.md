@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
 * [2024-10-29, 09:40:17](https://news.ycombinator.com/item?id=41981508) - [Recent BGP leak that redirected internet traffic through Russia](https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/)
+* [2024-10-29, 09:10:23](https://news.ycombinator.com/item?id=41981183) - [NASA's oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
 * [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
 * [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
