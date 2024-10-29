@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
+* [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
