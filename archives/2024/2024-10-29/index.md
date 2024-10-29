@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 15:00:21](https://news.ycombinator.com/item?id=41984519) - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 * [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
 * [2024-10-29, 14:20:29](https://news.ycombinator.com/item?id=41984105) - [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)

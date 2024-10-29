@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 15:00:21](https://news.ycombinator.com/item?id=41984519) - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
-* [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
 * [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
-* [2024-10-29, 14:15:58](https://news.ycombinator.com/item?id=41984060) - [Apple is turning The Oregon Trail into a movie](https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/)
-* [2024-10-29, 14:01:46](https://news.ycombinator.com/item?id=41983932) - [ElasticSearch and many other repos are gone](https://github.com/elastic/elasticsearch)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:23:04](https://news.ycombinator.com/item?id=41983607) - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
 * [2024-10-29, 13:01:18](https://news.ycombinator.com/item?id=41983415) - [OutRun: Open-source, privacy oriented, outdoor fitness tracker](https://outrun.tadris.de/)
@@ -28,8 +26,10 @@
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-26, 09:06:36](https://news.ycombinator.com/item?id=41953583) - [Dispelling Myths about Randomisation](https://www.bps.org.uk/psychologist/dispelling-myths-about-randomisation)
+* [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-24, 20:40:50](https://news.ycombinator.com/item?id=41939528) - [A Venerable and Time-Tested Guide: The Chicago Manual of Style, 18th Edition](https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/)
+* [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 
 ## [Archives](archives/index.md)
 
