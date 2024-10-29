@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-29, 22:12:07",
-      "https://news.ycombinator.com/item?id=41989962"
+      "2024-10-29, 22:11:32",
+      "https://news.ycombinator.com/item?id=41989960"
     ],
     [
-      "\"No way to prevent this\" say users of only language where this regularly happens",
-      "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-9632/"
+      "Waymo does over 150k paid trips and over 1M autonomous miles every week",
+      "https://twitter.com/waymo/status/1851365483972538407"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "RIP botsin.space",
       "https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 20:08:15",
-      "https://news.ycombinator.com/item?id=41988760"
-    ],
-    [
-      "Strava was used to locate the most powerful people",
-      "https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Jump Trading, Virtu and the 'hidden optical fibre cable' under an Ohio field",
       "https://www.ft.com/content/099342e4-cae8-4ac7-86bd-a3f2048065e8"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 06:01:42",
+      "https://news.ycombinator.com/item?id=41968173"
+    ],
+    [
+      "Go library for in-process vector search and embeddings with llama.cpp",
+      "https://github.com/kelindar/search"
     ]
   ],
   [
