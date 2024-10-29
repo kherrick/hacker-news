@@ -12,7 +12,6 @@
 * [2024-10-28, 20:18:32](https://news.ycombinator.com/item?id=41975741) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
-* [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
@@ -28,6 +27,7 @@
 * [2024-10-25, 14:07:45](https://news.ycombinator.com/item?id=41945458) - [Show HN: Trench – Open-source analytics infrastructure](https://github.com/FrigadeHQ/trench)
 * [2024-10-25, 02:55:38](https://news.ycombinator.com/item?id=41941845) - [Ask HN: Real-time speech-to-speech translation](https://news.ycombinator.com/item?id=41941845)
 * [2024-10-25, 01:48:13](https://news.ycombinator.com/item?id=41941585) - [Debian's \"secret\" sauce](https://lwn.net/Articles/990177/)
+* [2024-10-24, 21:49:20](https://news.ycombinator.com/item?id=41940197) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer [pdf]](https://users.cs.utah.edu/~regehr/minotaur-oopsla24.pdf)
 * [2024-10-24, 18:56:12](https://news.ycombinator.com/item?id=41938528) - [70% of meteorites from 3 collisions in asteroid belt within past 40M years](https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/)
 * [2024-10-24, 14:16:26](https://news.ycombinator.com/item?id=41935730) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 
