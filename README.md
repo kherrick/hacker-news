@@ -2,7 +2,6 @@
 
 * [2024-10-29, 01:37:59](https://news.ycombinator.com/item?id=41978513) - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 * [2024-10-29, 00:52:26](https://news.ycombinator.com/item?id=41978246) - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
-* [2024-10-29, 00:49:24](https://news.ycombinator.com/item?id=41978235) - [Ask HN: Can Calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
 * [2024-10-28, 21:48:27](https://news.ycombinator.com/item?id=41976754) - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 * [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-10-28, 21:40:38](https://news.ycombinator.com/item?id=41976673) - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
@@ -13,6 +12,7 @@
 * [2024-10-28, 19:24:19](https://news.ycombinator.com/item?id=41975047) - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:09:22](https://news.ycombinator.com/item?id=41974882) - [Standardizing Automotive Connectivity](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
 * [2024-10-28, 17:53:21](https://news.ycombinator.com/item?id=41974011) - [Don't implement unification by recursion](https://www.philipzucker.com/unify/)
+* [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [Buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
 * [2024-10-28, 15:03:01](https://news.ycombinator.com/item?id=41971726) - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
