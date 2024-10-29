@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
+* [2024-10-29, 16:22:36](https://news.ycombinator.com/item?id=41985956) - [Claude is now available on GitHub Copilot](https://www.anthropic.com/news/github-copilot)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub Cuts AI Deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 16:18:32](https://news.ycombinator.com/item?id=41985883) - [Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
 * [2024-10-29, 16:13:18](https://news.ycombinator.com/item?id=41985785) - [Raspberry Pi OS's yearslong switch from X Window to Wayland is now official](https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/)
