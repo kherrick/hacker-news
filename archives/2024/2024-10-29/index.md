@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 17:26:30](https://news.ycombinator.com/item?id=41987055) - [Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case](https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/)
@@ -17,6 +18,7 @@
 * [2024-10-29, 16:13:18](https://news.ycombinator.com/item?id=41985785) - [Raspberry Pi OS's yearslong switch from X Window to Wayland is now official](https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/)
 * [2024-10-29, 16:13:04](https://news.ycombinator.com/item?id=41985781) - [Video game libraries lose legal appeal to emulate physical games online](https://arstechnica.com/gaming/2024/10/copyright-office-libraries-cant-share-remotely-emulated-versions-of-physical-games/)
 * [2024-10-29, 15:58:20](https://news.ycombinator.com/item?id=41985524) - [Show HN: Timeline-Based Citizen Journalism](https://goingon.org)
+* [2024-10-29, 15:40:27](https://news.ycombinator.com/item?id=41985176) - [Vector databases are the wrong abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
 * [2024-10-29, 15:37:47](https://news.ycombinator.com/item?id=41985118) - [Omnivore Is Joining ElevenLabs](https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs)
 * [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 15:00:21](https://news.ycombinator.com/item?id=41984519) - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
