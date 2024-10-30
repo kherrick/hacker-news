@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 10:53:09](https://news.ycombinator.com/item?id=41993556) - [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-30, 08:42:24](https://news.ycombinator.com/item?id=41992975) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
