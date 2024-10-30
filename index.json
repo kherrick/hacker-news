@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 14:22:18",
+      "https://news.ycombinator.com/item?id=41995201"
+    ],
+    [
+      "Internal representations of LLMs encode information about truthfulness",
+      "https://arxiv.org/abs/2410.02707"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 14:12:14",
       "https://news.ycombinator.com/item?id=41995051"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing in Pictures: Richard Scarry and the art of children's literature",
       "https://yalereview.org/article/chris-ware-richard-scarry"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 13:00:40",
-      "https://news.ycombinator.com/item?id=41983409"
-    ],
-    [
-      "Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs",
-      "https://github.com/Integuru-AI/Integuru"
     ]
   ],
   [
