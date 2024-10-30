@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 19:07:12](https://news.ycombinator.com/item?id=41998983) - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
+* [2024-10-30, 18:57:41](https://news.ycombinator.com/item?id=41998874) - [Why Are Close Elections So Common?](https://www.scientificamerican.com/article/why-are-close-elections-so-common/)
 * [2024-10-30, 18:54:29](https://news.ycombinator.com/item?id=41998842) - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
 * [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
