@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 02:09:42](https://news.ycombinator.com/item?id=41991291) - [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
 * [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
+* [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 * [2024-10-29, 22:26:39](https://news.ycombinator.com/item?id=41990068) - [A Performance Comparison of Modern Garbage Collectors (2021) [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
-* [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
-* [2024-10-29, 20:50:07](https://news.ycombinator.com/item?id=41989239) - [A collection of Halloween postcards from \"golden age\" of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
+* [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/full/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or Ten New Proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
 * [2024-10-29, 20:11:18](https://news.ycombinator.com/item?id=41988799) - [Nuclear Fusion's New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle](https://www.bbc.com/news/articles/crmznzkly3go)
@@ -29,7 +30,6 @@
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
-* [2024-10-25, 12:50:08](https://news.ycombinator.com/item?id=41944747) - [Lies, intrigue, lawsuits: The last battle for a 'cursed' giant emerald](https://www.washingtonpost.com/world/2024/10/25/bahia-emerald-brazil/)
 
 ## [Archives](archives/index.md)
 
