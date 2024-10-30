@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
@@ -24,7 +25,6 @@
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 15:40:27](https://news.ycombinator.com/item?id=41985176) - [Vector databases are the wrong abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
-* [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-28, 01:45:06](https://news.ycombinator.com/item?id=41967127) - [Wazuh – open-source Security Platform](https://wazuh.com/)
