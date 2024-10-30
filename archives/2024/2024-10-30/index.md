@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
 * [2024-10-30, 19:07:12](https://news.ycombinator.com/item?id=41998983) - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 * [2024-10-30, 18:57:41](https://news.ycombinator.com/item?id=41998874) - [Why Are Close Elections So Common?](https://www.scientificamerican.com/article/why-are-close-elections-so-common/)
@@ -14,6 +15,7 @@
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:39:24](https://news.ycombinator.com/item?id=41998011) - [Show HN: Supercharge Your Mac](https://sindresorhus.com/supercharge)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
+* [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
 * [2024-10-30, 16:54:29](https://news.ycombinator.com/item?id=41997405) - [EU AI Act is much worse than you think](https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu)
