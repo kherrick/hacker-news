@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-30, 19:07:12",
+      "https://news.ycombinator.com/item?id=41998983"
+    ],
+    [
+      "Sketchy financials send Supermicro auditors running for the hills",
+      "https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 18:58:48",
       "https://news.ycombinator.com/item?id=41998891"
     ],
     [
       "Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]",
       "https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 18:57:41",
+      "https://news.ycombinator.com/item?id=41998874"
+    ],
+    [
+      "Why Are Close Elections So Common?",
+      "https://www.scientificamerican.com/article/why-are-close-elections-so-common/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=41996213"
     ],
     [
-      "Representing Web Applications as Knowledge Graphs",
+      "Representing web applications as knowledge graphs",
       "https://arxiv.org/abs/2410.17258"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-10-30, 06:54:50",
-      "https://news.ycombinator.com/item?id=41992419"
-    ],
-    [
-      "AI Flame Graphs",
-      "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 06:50:10",
       "https://news.ycombinator.com/item?id=41992399"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2024-10-29, 08:29:15",
+      "https://news.ycombinator.com/item?id=41980894"
+    ],
+    [
+      "AI Flame Graphs",
+      "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 02:26:01",
       "https://news.ycombinator.com/item?id=41967283"
     ],
@@ -271,31 +291,11 @@
   ],
   [
     [
-      "2024-10-27, 11:30:34",
-      "https://news.ycombinator.com/item?id=41961716"
-    ],
-    [
-      "Bridging Search and Recommendation in Generative Retrieval",
-      "https://dl.acm.org/doi/10.1145/3640457.3688123"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 23:25:28",
-      "https://news.ycombinator.com/item?id=41958480"
-    ],
-    [
-      "RebrickNet – Lego Part Detector",
-      "https://rebrickable.com/rebricknet/submit/"
-    ]
-  ],
-  [
-    [
       "2024-10-26, 16:22:14",
       "https://news.ycombinator.com/item?id=41955731"
     ],
     [
-      "Evolutionary history of the fruits we commonly eat",
+      "Fruits (2020)",
       "https://graphallthethings.com/posts/fruits"
     ]
   ]
