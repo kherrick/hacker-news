@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
+* [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
 * [2024-10-30, 13:33:07](https://news.ycombinator.com/item?id=41994567) - [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
 * [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
@@ -24,10 +26,8 @@
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-* [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-28, 01:45:06](https://news.ycombinator.com/item?id=41967127) - [Wazuh – open-source Security Platform](https://wazuh.com/)
-* [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Evolutionary history of the fruits we commonly eat](https://graphallthethings.com/posts/fruits)
 

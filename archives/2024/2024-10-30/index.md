@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
+* [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
 * [2024-10-30, 13:33:07](https://news.ycombinator.com/item?id=41994567) - [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
 * [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
