@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
+* [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 * [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
 * [2024-10-30, 19:07:12](https://news.ycombinator.com/item?id=41998983) - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
@@ -11,8 +13,10 @@
 * [2024-10-30, 18:54:29](https://news.ycombinator.com/item?id=41998842) - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
 * [2024-10-30, 18:54:06](https://news.ycombinator.com/item?id=41998840) - [BYD quarterly sales beat Tesla for first time](https://www.ft.com/content/fcc2db63-fb5a-4ae3-ab05-b8136b5193f4)
 * [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
+* [2024-10-30, 18:11:59](https://news.ycombinator.com/item?id=41998416) - [The unlikely inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
+* [2024-10-30, 17:44:43](https://news.ycombinator.com/item?id=41998083) - [Mistakes from building a model to scalp concert tickets](https://datastream.substack.com/p/mistakes-from-my-failed-startup-in)
 * [2024-10-30, 17:39:24](https://news.ycombinator.com/item?id=41998011) - [Show HN: Supercharge Your Mac](https://sindresorhus.com/supercharge)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
@@ -27,6 +31,7 @@
 * [2024-10-30, 15:02:09](https://news.ycombinator.com/item?id=41995718) - [Apple Introduces M4 Pro and M4 Max](https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, Fast, and Adorable AI Kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
+* [2024-10-30, 14:36:11](https://news.ycombinator.com/item?id=41995427) - [Show HN: Routing24 – Free route optimization in the browser](https://routing24.com)
 * [2024-10-30, 14:25:12](https://news.ycombinator.com/item?id=41995253) - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
 * [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
