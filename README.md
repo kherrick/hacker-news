@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 08:25:28](https://news.ycombinator.com/item?id=41992899) - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
+* [2024-10-30, 08:19:51](https://news.ycombinator.com/item?id=41992870) - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2024-10-30, 06:50:10](https://news.ycombinator.com/item?id=41992399) - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
 * [2024-10-30, 06:48:55](https://news.ycombinator.com/item?id=41992394) - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
@@ -26,10 +28,8 @@
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-27, 20:49:39](https://news.ycombinator.com/item?id=41965555) - [An Evaluation of the Remote Viewing Program: Operational Applications (1995) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
-* [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
-* [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 ## [Archives](archives/index.md)
 
