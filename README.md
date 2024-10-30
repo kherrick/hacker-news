@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-30, 02:22:01](https://news.ycombinator.com/item?id=41991360) - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/)
-* [2024-10-30, 02:19:15](https://news.ycombinator.com/item?id=41991340) - [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom)
+* [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 * [2024-10-29, 22:26:39](https://news.ycombinator.com/item?id=41990068) - [A Performance Comparison of Modern Garbage Collectors (2021) [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
@@ -23,12 +22,13 @@
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 01:31:28](https://news.ycombinator.com/item?id=41978478) - [The electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
-* [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
 * [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
+* [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
+* [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 ## [Archives](archives/index.md)
