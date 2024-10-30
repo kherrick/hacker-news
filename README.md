@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
-* [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
+* [2024-10-30, 01:58:49](https://news.ycombinator.com/item?id=41991241) - [K4 – High performance open-source transactional, durable embedded storage engine](https://github.com/guycipher/k4)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 * [2024-10-29, 22:26:39](https://news.ycombinator.com/item?id=41990068) - [A Performance Comparison of Modern Garbage Collectors (2021) [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
