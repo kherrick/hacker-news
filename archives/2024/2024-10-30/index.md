@@ -8,6 +8,7 @@
 * [2024-10-30, 15:02:56](https://news.ycombinator.com/item?id=41995730) - [Pushing the Frontiers of Audio Generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 * [2024-10-30, 15:02:09](https://news.ycombinator.com/item?id=41995718) - [Apple Introduces M4 Pro and M4 Max](https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
+* [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, Fast, and Adorable AI Kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
 * [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
 * [2024-10-30, 14:11:44](https://news.ycombinator.com/item?id=41995041) - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)

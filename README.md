@@ -3,6 +3,7 @@
 * [2024-10-30, 15:46:35](https://news.ycombinator.com/item?id=41996425) - [Cheap Solar Panels Are Changing the World](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
 * [2024-10-30, 15:02:56](https://news.ycombinator.com/item?id=41995730) - [Pushing the Frontiers of Audio Generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
+* [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, Fast, and Adorable AI Kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
 * [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:11:44](https://news.ycombinator.com/item?id=41995041) - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
@@ -23,13 +24,12 @@
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 15:40:27](https://news.ycombinator.com/item?id=41985176) - [Vector databases are the wrong abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
-* [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
+* [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-28, 01:45:06](https://news.ycombinator.com/item?id=41967127) - [Wazuh – open-source Security Platform](https://wazuh.com/)
 * [2024-10-27, 11:30:34](https://news.ycombinator.com/item?id=41961716) - [Bridging Search and Recommendation in Generative Retrieval](https://dl.acm.org/doi/10.1145/3640457.3688123)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Evolutionary history of the fruits we commonly eat](https://graphallthethings.com/posts/fruits)
-* [2024-10-25, 03:01:19](https://news.ycombinator.com/item?id=41941869) - [Excel has a row limit of 1,048,576 rows and a column limit of 16,384 column](https://rowzero.io/blog/excel-row-limit)
 
 ## [Archives](archives/index.md)
 
