@@ -10,7 +10,6 @@
 * [2024-10-30, 04:58:38](https://news.ycombinator.com/item?id=41992068) - [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
-* [2024-10-29, 22:26:39](https://news.ycombinator.com/item?id=41990068) - [A Performance Comparison of Modern Garbage Collectors (2021) [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/full/)
 * [2024-10-29, 20:11:18](https://news.ycombinator.com/item?id=41988799) - [Nuclear Fusion's New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
@@ -29,6 +28,7 @@
 * [2024-10-27, 20:49:39](https://news.ycombinator.com/item?id=41965555) - [An Evaluation of the Remote Viewing Program: Operational Applications (1995) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
+* [2024-10-26, 17:34:36](https://news.ycombinator.com/item?id=41956304) - [Remington Rand – By Bradford Morgan White](https://www.abortretry.fail/p/remington-rand)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 ## [Archives](archives/index.md)
