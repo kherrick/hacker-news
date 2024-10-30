@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 10:53:09](https://news.ycombinator.com/item?id=41993556) - [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
-* [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-30, 08:42:24](https://news.ycombinator.com/item?id=41992975) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 08:25:28](https://news.ycombinator.com/item?id=41992899) - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
@@ -29,6 +28,7 @@
 * [2024-10-28, 01:45:06](https://news.ycombinator.com/item?id=41967127) - [Wazuh – open-source Security Platform](https://wazuh.com/)
 * [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-27, 20:49:39](https://news.ycombinator.com/item?id=41965555) - [An Evaluation of the Remote Viewing Program: Operational Applications (1995) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
+* [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
 
 ## [Archives](archives/index.md)
