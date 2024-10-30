@@ -7,6 +7,7 @@
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2024-10-30, 06:50:10](https://news.ycombinator.com/item?id=41992399) - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
 * [2024-10-30, 06:48:55](https://news.ycombinator.com/item?id=41992394) - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
+* [2024-10-30, 06:47:10](https://news.ycombinator.com/item?id=41992388) - [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 05:02:37](https://news.ycombinator.com/item?id=41992081) - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 * [2024-10-30, 04:58:38](https://news.ycombinator.com/item?id=41992068) - [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
