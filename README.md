@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 04:35:20](https://news.ycombinator.com/item?id=41992007) - [Project 25, and Why It's Bad](https://economixcomix.com/2024/10/18/project-2025-and-why-its-bad/)
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
@@ -28,7 +29,6 @@
 * [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
-* [2024-10-26, 23:46:42](https://news.ycombinator.com/item?id=41958617) - [Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video]](https://www.youtube.com/watch?v=E8Lhqri8tZk)
 * [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 
 ## [Archives](archives/index.md)
