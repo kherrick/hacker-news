@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
@@ -15,6 +14,7 @@
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
 * [2024-10-30, 12:39:46](https://news.ycombinator.com/item?id=41994189) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
+* [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
 * [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [Ed Roberts created the personal computer industry (2023)](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 * [2024-10-30, 09:32:23](https://news.ycombinator.com/item?id=41993219) - [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
