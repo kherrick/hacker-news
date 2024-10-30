@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-30, 04:35:20](https://news.ycombinator.com/item?id=41992007) - [Project 25, and Why It's Bad](https://economixcomix.com/2024/10/18/project-2025-and-why-its-bad/)
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-29, 23:02:07](https://news.ycombinator.com/item?id=41990326) - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
@@ -23,6 +22,7 @@
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 01:31:28](https://news.ycombinator.com/item?id=41978478) - [The electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
+* [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
 * [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
