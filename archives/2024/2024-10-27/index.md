@@ -51,6 +51,7 @@
 * [2024-10-27, 13:07:12](https://news.ycombinator.com/item?id=41962356) - [After the Deluge](https://www.realclearinvestigations.com/articles/2024/10/25/after_the_deluge_1067586.html)
 * [2024-10-27, 12:45:02](https://news.ycombinator.com/item?id=41962205) - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 * [2024-10-27, 11:57:04](https://news.ycombinator.com/item?id=41961866) - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
+* [2024-10-27, 11:52:32](https://news.ycombinator.com/item?id=41961846) - [Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau](https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like)
 * [2024-10-27, 11:37:57](https://news.ycombinator.com/item?id=41961761) - [The Great Exhibition unveils the only office roller coaster in Stockholm](https://www.creativeboom.com/news/worlds-first-office-roller-coaster-launches-in-stockholm/)
 * [2024-10-27, 11:30:34](https://news.ycombinator.com/item?id=41961716) - [Bridging Search and Recommendation in Generative Retrieval](https://dl.acm.org/doi/10.1145/3640457.3688123)
 * [2024-10-27, 11:04:23](https://news.ycombinator.com/item?id=41961550) - [Decomplexifying Curl](https://daniel.haxx.se/blog/2024/10/27/decomplexifying-curl/)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:33:14](https://news.ycombinator.com/item?id=42000626) - [Is Patrick Mackenzie's salary negotiation guide relevant in today's market?](https://news.ycombinator.com/item?id=42000626)
+* [2024-10-30, 20:59:46](https://news.ycombinator.com/item?id=42000242) - [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
 * [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 * [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)

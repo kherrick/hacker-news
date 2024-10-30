@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:33:14](https://news.ycombinator.com/item?id=42000626) - [Is Patrick Mackenzie's salary negotiation guide relevant in today's market?](https://news.ycombinator.com/item?id=42000626)
+* [2024-10-30, 20:59:46](https://news.ycombinator.com/item?id=42000242) - [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
 * [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 * [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4, but 95% less expensive](https://www.deepseek.com/)
@@ -8,8 +10,6 @@
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [CFPB finalizes personal financial data rights rule](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
-* [2024-10-30, 17:44:43](https://news.ycombinator.com/item?id=41998083) - [Mistakes from building a model to scalp concert tickets](https://datastream.substack.com/p/mistakes-from-my-failed-startup-in)
-* [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) is hiring full stack engineers (remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
@@ -25,9 +25,9 @@
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 02:09:42](https://news.ycombinator.com/item?id=41991291) - [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
-* [2024-10-29, 11:46:30](https://news.ycombinator.com/item?id=41982887) - [The Art of Stealing (2013)](https://www.nrc.nl/kunsthal-en/)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
+* [2024-10-27, 11:52:32](https://news.ycombinator.com/item?id=41961846) - [Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau](https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like)
 * [2024-10-26, 18:38:20](https://news.ycombinator.com/item?id=41956768) - [Morsing of the Dead [video]](https://www.youtube.com/watch?v=lspdmPEJZ3I)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
 
