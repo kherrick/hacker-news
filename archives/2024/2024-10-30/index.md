@@ -19,6 +19,7 @@
 * [2024-10-30, 17:44:43](https://news.ycombinator.com/item?id=41998083) - [Mistakes from building a model to scalp concert tickets](https://datastream.substack.com/p/mistakes-from-my-failed-startup-in)
 * [2024-10-30, 17:39:24](https://news.ycombinator.com/item?id=41998011) - [Show HN: Supercharge Your Mac](https://sindresorhus.com/supercharge)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
+* [2024-10-30, 17:17:30](https://news.ycombinator.com/item?id=41997740) - [Designing a Query Execution Engine](https://www.trychroma.com/engineering/execution-engine)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)

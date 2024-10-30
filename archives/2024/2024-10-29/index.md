@@ -51,6 +51,7 @@
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
+* [2024-10-29, 11:46:30](https://news.ycombinator.com/item?id=41982887) - [The Art of Stealing (2013)](https://www.nrc.nl/kunsthal-en/)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 09:40:17](https://news.ycombinator.com/item?id=41981508) - [Recent BGP leak that redirected internet traffic through Russia](https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/)
 * [2024-10-29, 09:10:23](https://news.ycombinator.com/item?id=41981183) - [NASA's oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
