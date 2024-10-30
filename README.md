@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
+* [2024-10-30, 06:50:10](https://news.ycombinator.com/item?id=41992399) - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
 * [2024-10-30, 06:48:55](https://news.ycombinator.com/item?id=41992394) - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 05:02:37](https://news.ycombinator.com/item?id=41992081) - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
+* [2024-10-30, 04:58:38](https://news.ycombinator.com/item?id=41992068) - [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-29, 22:47:41](https://news.ycombinator.com/item?id=41990219) - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
 * [2024-10-29, 22:26:39](https://news.ycombinator.com/item?id=41990068) - [A Performance Comparison of Modern Garbage Collectors (2021) [pdf]](https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf)
@@ -16,7 +18,6 @@
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 16:18:32](https://news.ycombinator.com/item?id=41985883) - [Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices](https://plugins.jetbrains.com/plugin/24683-kasama)
 * [2024-10-29, 15:40:27](https://news.ycombinator.com/item?id=41985176) - [Vector databases are the wrong abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
-* [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
@@ -28,7 +29,6 @@
 * [2024-10-27, 05:13:02](https://news.ycombinator.com/item?id=41960013) - [Scythe Works Without Borders](https://scytheworks.ca/scythe-works-without-borders/)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
-* [2024-10-26, 09:21:03](https://news.ycombinator.com/item?id=41953641) - [Programming a computer for playing chess (1950) [pdf]](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf)
 * [2024-10-25, 18:11:03](https://news.ycombinator.com/item?id=41947934) - [Honda Is Already Testing a Manual Transmission for EVs](https://www.thedrive.com/news/honda-is-already-testing-a-manual-transmission-for-evs)
 
 ## [Archives](archives/index.md)
