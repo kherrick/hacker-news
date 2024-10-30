@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
+* [2024-10-30, 13:33:07](https://news.ycombinator.com/item?id=41994567) - [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
 * [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
-* [2024-10-30, 11:35:01](https://news.ycombinator.com/item?id=41993782) - [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)
-* [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
-* [2024-10-30, 11:32:58](https://news.ycombinator.com/item?id=41993771) - [AMD Q3'2024 Financials – By Ryan Smith and Dr. Ian Cutress](https://morethanmoore.substack.com/p/amd-q32024-financials)
+* [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [The Secret Father of Modern Computing (2023)](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
+* [2024-10-30, 11:32:58](https://news.ycombinator.com/item?id=41993771) - [AMD Q3'2024 Financials](https://morethanmoore.substack.com/p/amd-q32024-financials)
 * [2024-10-30, 11:12:59](https://news.ycombinator.com/item?id=41993662) - [Astral: Next-Gen Python Tooling](https://astral.sh/)
 * [2024-10-30, 11:10:47](https://news.ycombinator.com/item?id=41993648) - [Pg_analytics is now PostgreSQL Licensed](https://github.com/paradedb/pg_analytics)
 * [2024-10-30, 09:32:23](https://news.ycombinator.com/item?id=41993219) - [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
