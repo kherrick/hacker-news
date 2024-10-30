@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
+* [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:39:24](https://news.ycombinator.com/item?id=41998011) - [Show HN: Supercharge Your Mac](https://sindresorhus.com/supercharge)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
+* [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
 * [2024-10-30, 16:54:29](https://news.ycombinator.com/item?id=41997405) - [EU AI Act is much worse than you think](https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu)
 * [2024-10-30, 16:16:19](https://news.ycombinator.com/item?id=41996859) - [LlamaPReview: AI Github PR Reviewer That Learns Your Codebase](https://github.com/marketplace/llamapreview)
