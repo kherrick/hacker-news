@@ -13,6 +13,7 @@
 * [2024-10-26, 23:39:50](https://news.ycombinator.com/item?id=41958575) - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
 * [2024-10-26, 23:38:18](https://news.ycombinator.com/item?id=41958561) - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
 * [2024-10-26, 23:36:27](https://news.ycombinator.com/item?id=41958550) - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+* [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
 * [2024-10-26, 23:16:01](https://news.ycombinator.com/item?id=41958425) - ['We took on Google and they were forced to pay out £2B'](https://www.bbc.com/news/articles/cjr431lr72jo)
 * [2024-10-26, 23:15:13](https://news.ycombinator.com/item?id=41958420) - [California is torn between clashing Anglo traditions](https://unherd.com/2024/10/californias-woes-were-born-in-england/)
 * [2024-10-26, 22:41:29](https://news.ycombinator.com/item?id=41958255) - [Canvas Fingerprinting – BrowserLeaks](https://browserleaks.com/canvas)
