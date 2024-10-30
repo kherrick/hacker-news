@@ -5,7 +5,6 @@
 * [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
 * [2024-10-30, 19:07:12](https://news.ycombinator.com/item?id=41998983) - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
-* [2024-10-30, 18:54:29](https://news.ycombinator.com/item?id=41998842) - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [CFPB finalizes personal financial data rights rule](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:44:43](https://news.ycombinator.com/item?id=41998083) - [Mistakes from building a model to scalp concert tickets](https://datastream.substack.com/p/mistakes-from-my-failed-startup-in)
@@ -29,6 +28,7 @@
 * [2024-10-29, 11:46:30](https://news.ycombinator.com/item?id=41982887) - [The Art of Stealing (2013)](https://www.nrc.nl/kunsthal-en/)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
+* [2024-10-26, 18:38:20](https://news.ycombinator.com/item?id=41956768) - [Morsing of the Dead [video]](https://www.youtube.com/watch?v=lspdmPEJZ3I)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
 
 ## [Archives](archives/index.md)

@@ -31,6 +31,7 @@
 * [2024-10-26, 19:22:40](https://news.ycombinator.com/item?id=41957056) - [JetKVM: Tiny IP KVM That's Not an Apple Watch](https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
 * [2024-10-26, 18:41:08](https://news.ycombinator.com/item?id=41956788) - [Microsoft fires employees who organized vigil for Palestinians killed in Gaza](https://apnews.com/article/microsoft-fired-workers-israel-palestinians-gaza-72de6fe1f35db9398e3b6785203c6bbf)
+* [2024-10-26, 18:38:20](https://news.ycombinator.com/item?id=41956768) - [Morsing of the Dead [video]](https://www.youtube.com/watch?v=lspdmPEJZ3I)
 * [2024-10-26, 18:34:45](https://news.ycombinator.com/item?id=41956742) - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
 * [2024-10-26, 18:13:03](https://news.ycombinator.com/item?id=41956587) - [Goodhart's law isn't as useful as you might think (2023)](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-10-26, 17:59:47](https://news.ycombinator.com/item?id=41956495) - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
