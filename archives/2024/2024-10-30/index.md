@@ -11,6 +11,7 @@
 * [2024-10-30, 08:25:28](https://news.ycombinator.com/item?id=41992899) - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 08:19:51](https://news.ycombinator.com/item?id=41992870) - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 * [2024-10-30, 07:36:52](https://news.ycombinator.com/item?id=41992632) - [Software freedom isn't about licenses – it's about power (2021)](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
+* [2024-10-30, 07:06:39](https://news.ycombinator.com/item?id=41992467) - [Plants find light using gaps between their cells](https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/)
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2024-10-30, 06:54:50](https://news.ycombinator.com/item?id=41992419) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-30, 06:50:10](https://news.ycombinator.com/item?id=41992399) - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
