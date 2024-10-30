@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-10-30, 17:00:02",
+      "https://news.ycombinator.com/item?id=41997490"
+    ],
+    [
+      "Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)",
+      "https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 15:46:35",
       "https://news.ycombinator.com/item?id=41996425"
     ],
     [
-      "Cheap Solar Panels Are Changing the World",
+      "Cheap solar panels are changing the world",
       "https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=41995730"
     ],
     [
-      "Pushing the Frontiers of Audio Generation",
+      "Pushing the frontiers of audio generation",
       "https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/"
     ]
   ],
@@ -131,32 +141,12 @@
   ],
   [
     [
-      "2024-10-30, 08:25:28",
-      "https://news.ycombinator.com/item?id=41992899"
-    ],
-    [
-      "Eighteen Years of ABI Stability",
-      "https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 07:07:24",
       "https://news.ycombinator.com/item?id=41992472"
     ],
     [
       "Algorithmic Music Generation with Python",
       "https://github.com/atiriko/Music"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 07:00:25",
-      "https://news.ycombinator.com/item?id=41992441"
-    ],
-    [
-      "Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)",
-      "https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs",
       "https://github.com/Integuru-AI/Integuru"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 09:38:04",
+      "https://news.ycombinator.com/item?id=41969291"
+    ],
+    [
+      "Using Survival Analysis to estimate product lifetime",
+      "https://jumpdata.co.uk/using-survival-analysis-to-estimate-product-lifetime/"
     ]
   ],
   [
