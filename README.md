@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 * [2024-10-30, 22:11:50](https://news.ycombinator.com/item?id=42001037) - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
 * [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
@@ -18,7 +19,6 @@
 * [2024-10-30, 15:33:11](https://news.ycombinator.com/item?id=41996213) - [Representing web applications as knowledge graphs](https://arxiv.org/abs/2410.17258)
 * [2024-10-30, 15:02:56](https://news.ycombinator.com/item?id=41995730) - [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
-* [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, fast, and adorable AI kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
 * [2024-10-30, 14:36:11](https://news.ycombinator.com/item?id=41995427) - [Show HN: Routing24 – Free route optimization in the browser](https://routing24.com)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
