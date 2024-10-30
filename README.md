@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 17:39:24](https://news.ycombinator.com/item?id=41998011) - [Show HN: Supercharge Your Mac](https://sindresorhus.com/supercharge)
 * [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
 * [2024-10-30, 16:16:19](https://news.ycombinator.com/item?id=41996859) - [LlamaPReview: AI Github PR Reviewer That Learns Your Codebase](https://github.com/marketplace/llamapreview)
@@ -8,7 +9,6 @@
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, Fast, and Adorable AI Kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
 * [2024-10-30, 14:25:12](https://news.ycombinator.com/item?id=41995253) - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
-* [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [LLMs know more than they show: On the intrinsic representation of hallucinations](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:11:44](https://news.ycombinator.com/item?id=41995041) - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
