@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
+* [2024-10-30, 08:42:24](https://news.ycombinator.com/item?id=41992975) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 08:25:28](https://news.ycombinator.com/item?id=41992899) - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 08:19:51](https://news.ycombinator.com/item?id=41992870) - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 * [2024-10-30, 07:36:52](https://news.ycombinator.com/item?id=41992632) - [Software freedom isn't about licenses – it's about power (2021)](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2024-10-30, 06:48:55](https://news.ycombinator.com/item?id=41992394) - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
-* [2024-10-30, 06:47:10](https://news.ycombinator.com/item?id=41992388) - [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 05:02:37](https://news.ycombinator.com/item?id=41992081) - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 * [2024-10-30, 04:58:38](https://news.ycombinator.com/item?id=41992068) - [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
