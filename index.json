@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-10-30, 21:48:25",
+      "https://news.ycombinator.com/item?id=42000784"
+    ],
+    [
+      "OpenZFS deduplication is good now and you shouldn't use it",
+      "https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 21:33:14",
       "https://news.ycombinator.com/item?id=42000626"
     ],
     [
       "Is Patrick Mackenzie's salary negotiation guide relevant in today's market?",
       "https://news.ycombinator.com/item?id=42000626"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 20:59:46",
+      "https://news.ycombinator.com/item?id=42000242"
+    ],
+    [
+      "The realities of building an IPv6-only city – APNIC",
+      "https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/"
     ]
   ],
   [
@@ -77,26 +97,6 @@
     [
       "CFPB finalizes personal financial data rights rule",
       "https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 17:44:43",
-      "https://news.ycombinator.com/item?id=41998083"
-    ],
-    [
-      "Mistakes from building a model to scalp concert tickets",
-      "https://datastream.substack.com/p/mistakes-from-my-failed-startup-in"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 17:23:33",
-      "https://news.ycombinator.com/item?id=41997823"
-    ],
-    [
-      "The Karma connection in Chrome Web Store",
-      "https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-10-29, 11:46:30",
-      "https://news.ycombinator.com/item?id=41982887"
-    ],
-    [
-      "The Art of Stealing (2013)",
-      "https://www.nrc.nl/kunsthal-en/"
-    ]
-  ],
-  [
-    [
       "2024-10-29, 08:29:15",
       "https://news.ycombinator.com/item?id=41980894"
     ],
@@ -277,6 +267,16 @@
     [
       "Rubocop-obsession: RuboCop extension focused on higher-level concepts",
       "https://github.com/jeromedalbert/rubocop-obsession"
+    ]
+  ],
+  [
+    [
+      "2024-10-27, 11:52:32",
+      "https://news.ycombinator.com/item?id=41961846"
+    ],
+    [
+      "Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau",
+      "https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like"
     ]
   ],
   [
