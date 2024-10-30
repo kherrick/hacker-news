@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
@@ -19,15 +20,14 @@
 * [2024-10-30, 06:54:50](https://news.ycombinator.com/item?id=41992419) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 05:02:37](https://news.ycombinator.com/item?id=41992081) - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
-* [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/full/)
 * [2024-10-29, 17:19:44](https://news.ycombinator.com/item?id=41986926) - [OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition](https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/)
 * [2024-10-29, 16:27:56](https://news.ycombinator.com/item?id=41986048) - [Using an 8K TV as a Monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-29, 16:20:17](https://news.ycombinator.com/item?id=41985915) - [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic)
 * [2024-10-29, 15:40:27](https://news.ycombinator.com/item?id=41985176) - [Vector databases are the wrong abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
 * [2024-10-29, 13:24:55](https://news.ycombinator.com/item?id=41983622) - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
-* [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-28, 01:45:06](https://news.ycombinator.com/item?id=41967127) - [Wazuh – open-source Security Platform](https://wazuh.com/)
+* [2024-10-27, 11:30:34](https://news.ycombinator.com/item?id=41961716) - [Bridging Search and Recommendation in Generative Retrieval](https://dl.acm.org/doi/10.1145/3640457.3688123)
 * [2024-10-26, 23:25:28](https://news.ycombinator.com/item?id=41958480) - [RebrickNet – Lego Part Detector](https://rebrickable.com/rebricknet/submit/)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Evolutionary history of the fruits we commonly eat](https://graphallthethings.com/posts/fruits)
 
