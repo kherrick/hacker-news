@@ -8,6 +8,7 @@
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 * [2024-10-30, 18:57:41](https://news.ycombinator.com/item?id=41998874) - [Why Are Close Elections So Common?](https://www.scientificamerican.com/article/why-are-close-elections-so-common/)
 * [2024-10-30, 18:54:29](https://news.ycombinator.com/item?id=41998842) - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
+* [2024-10-30, 18:54:06](https://news.ycombinator.com/item?id=41998840) - [BYD quarterly sales beat Tesla for first time](https://www.ft.com/content/fcc2db63-fb5a-4ae3-ab05-b8136b5193f4)
 * [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
