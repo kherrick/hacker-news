@@ -42,6 +42,7 @@
 * [2024-10-26, 17:05:11](https://news.ycombinator.com/item?id=41956056) - [Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?](https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/)
 * [2024-10-26, 16:46:52](https://news.ycombinator.com/item?id=41955912) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 16:45:45](https://news.ycombinator.com/item?id=41955902) - [Scientists Mapping Landslide Risk in Alaska. Some Homeowners Don't Want to Know.](https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html)
+* [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Evolutionary history of the fruits we commonly eat](https://graphallthethings.com/posts/fruits)
 * [2024-10-26, 16:10:01](https://news.ycombinator.com/item?id=41955650) - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
 * [2024-10-26, 16:01:16](https://news.ycombinator.com/item?id=41955580) - [Identifying Factors Contributing to \"Bad Days\" for Software Developers](https://arxiv.org/abs/2410.18379)
 * [2024-10-26, 15:55:10](https://news.ycombinator.com/item?id=41955539) - [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)

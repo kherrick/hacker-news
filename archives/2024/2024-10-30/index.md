@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
+* [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 * [2024-10-30, 10:53:09](https://news.ycombinator.com/item?id=41993556) - [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
+* [2024-10-30, 09:32:23](https://news.ycombinator.com/item?id=41993219) - [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-30, 08:42:24](https://news.ycombinator.com/item?id=41992975) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 08:25:28](https://news.ycombinator.com/item?id=41992899) - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 08:19:51](https://news.ycombinator.com/item?id=41992870) - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 * [2024-10-30, 07:36:52](https://news.ycombinator.com/item?id=41992632) - [Software freedom isn't about licenses – it's about power (2021)](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
+* [2024-10-30, 07:07:24](https://news.ycombinator.com/item?id=41992472) - [Algorithmic Music Generation with Python](https://github.com/atiriko/Music)
 * [2024-10-30, 07:06:39](https://news.ycombinator.com/item?id=41992467) - [Plants find light using gaps between their cells](https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/)
 * [2024-10-30, 07:00:25](https://news.ycombinator.com/item?id=41992441) - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2024-10-30, 06:54:50](https://news.ycombinator.com/item?id=41992419) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
