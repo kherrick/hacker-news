@@ -7,6 +7,7 @@
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 14:22:18](https://news.ycombinator.com/item?id=41995201) - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 * [2024-10-30, 14:12:14](https://news.ycombinator.com/item?id=41995051) - [What's new in Fedora KDE 41](https://fedoramagazine.org/whats-new-in-fedora-kde-41/)
+* [2024-10-30, 14:11:44](https://news.ycombinator.com/item?id=41995041) - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
 * [2024-10-30, 13:33:07](https://news.ycombinator.com/item?id=41994567) - [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
