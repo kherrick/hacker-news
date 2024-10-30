@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 17:23:33](https://news.ycombinator.com/item?id=41997823) - [The Karma Connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
 * [2024-10-30, 16:54:29](https://news.ycombinator.com/item?id=41997405) - [EU AI Act is much worse than you think](https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu)
 * [2024-10-30, 16:16:19](https://news.ycombinator.com/item?id=41996859) - [LlamaPReview: AI Github PR Reviewer That Learns Your Codebase](https://github.com/marketplace/llamapreview)
