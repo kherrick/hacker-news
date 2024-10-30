@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:33:14](https://news.ycombinator.com/item?id=42000626) - [Is Patrick Mackenzie's salary negotiation guide relevant in today's market?](https://news.ycombinator.com/item?id=42000626)
 * [2024-10-30, 20:59:46](https://news.ycombinator.com/item?id=42000242) - [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)

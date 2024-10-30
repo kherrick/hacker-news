@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:33:14](https://news.ycombinator.com/item?id=42000626) - [Is Patrick Mackenzie's salary negotiation guide relevant in today's market?](https://news.ycombinator.com/item?id=42000626)
 * [2024-10-30, 20:59:46](https://news.ycombinator.com/item?id=42000242) - [The realities of building an IPv6-only city – APNIC](https://blog.apnic.net/2024/10/29/the-realities-of-building-an-ipv6-only-city/)
@@ -27,7 +28,6 @@
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
-* [2024-10-27, 11:52:32](https://news.ycombinator.com/item?id=41961846) - [Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau](https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like)
 * [2024-10-26, 18:38:20](https://news.ycombinator.com/item?id=41956768) - [Morsing of the Dead [video]](https://www.youtube.com/watch?v=lspdmPEJZ3I)
 * [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
 
