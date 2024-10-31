@@ -69,6 +69,7 @@
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 06:53:20](https://news.ycombinator.com/item?id=41968366) - [Ask HN: Local RAG with private knowledge base](https://news.ycombinator.com/item?id=41968366)
 * [2024-10-28, 06:46:54](https://news.ycombinator.com/item?id=41968348) - [The Event Horizon Telescope image might need a correction](https://academic.oup.com/mnras/article/534/4/3237/7660988)
+* [2024-10-28, 06:35:48](https://news.ycombinator.com/item?id=41968299) - [What's new with Robinhood, our in-house load balancing service](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
 * [2024-10-28, 06:01:42](https://news.ycombinator.com/item?id=41968173) - [Go library for in-process vector search and embeddings with llama.cpp](https://github.com/kelindar/search)
 * [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
 * [2024-10-28, 05:27:58](https://news.ycombinator.com/item?id=41968083) - [Eclipse Steady – Java Code Analysis](https://github.com/eclipse/steady)
