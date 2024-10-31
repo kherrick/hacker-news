@@ -76,6 +76,7 @@
 * [2024-10-28, 05:27:58](https://news.ycombinator.com/item?id=41968083) - [Eclipse Steady – Java Code Analysis](https://github.com/eclipse/steady)
 * [2024-10-28, 05:18:33](https://news.ycombinator.com/item?id=41968044) - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
 * [2024-10-28, 05:11:40](https://news.ycombinator.com/item?id=41968026) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
+* [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-28, 05:05:38](https://news.ycombinator.com/item?id=41968008) - [Digital Nomads Are Exploiting the World](https://www.thrillist.com/travel/nation/digital-nomads-criticism-locals-exploitation)
 * [2024-10-28, 04:35:16](https://news.ycombinator.com/item?id=41967912) - [Nested Loops Revisited Again](https://ieeexplore.ieee.org/abstract/document/10184629/)
 * [2024-10-28, 04:32:06](https://news.ycombinator.com/item?id=41967897) - [- 418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
