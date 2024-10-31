@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 17:23:08](https://news.ycombinator.com/item?id=42009039) - [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
 * [2024-10-31, 17:05:32](https://news.ycombinator.com/item?id=42008826) - [Ford to Halt F-150 Lightning Production as EV Demand Wanes](https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes)
 * [2024-10-31, 17:01:53](https://news.ycombinator.com/item?id=42008775) - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
+* [2024-10-31, 17:01:46](https://news.ycombinator.com/item?id=42008772) - [Decoupling Design from Engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
 * [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
 * [2024-10-31, 16:58:11](https://news.ycombinator.com/item?id=42008723) - [1374 Days – My Journey with Long Covid](http://giorgialupi.com/1374-days-nyt-visual-oped)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
+* [2024-10-31, 15:43:02](https://news.ycombinator.com/item?id=42008005) - [What I've Learned Building with AI](https://halcyon.eco/blog/building-with-ai)
 * [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
+* [2024-10-31, 15:04:27](https://news.ycombinator.com/item?id=42007649) - [Claude for Desktop](https://claude.ai/download)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
