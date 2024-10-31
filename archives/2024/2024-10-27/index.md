@@ -38,6 +38,7 @@
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust's borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:52:48](https://news.ycombinator.com/item?id=41962983) - [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
+* [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-27, 14:49:02](https://news.ycombinator.com/item?id=41962956) - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 * [2024-10-27, 14:47:22](https://news.ycombinator.com/item?id=41962944) - [Axiomatics: Mathematical thought and high modernism](https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism)
 * [2024-10-27, 14:45:23](https://news.ycombinator.com/item?id=41962930) - [In some scientific papers, words expressing uncertainty have decreased (2023)](https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased)
