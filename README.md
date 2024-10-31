@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
 * [2024-10-31, 18:37:44](https://news.ycombinator.com/item?id=42010004) - [China sanctions US drone maker Skydio](https://www.skydio.com/blog/chinas-sanctions-on-skydio)
 * [2024-10-31, 18:30:35](https://news.ycombinator.com/item?id=42009916) - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
 * [2024-10-31, 18:09:18](https://news.ycombinator.com/item?id=42009636) - [Nearly 90% of our AI crawler traffic is from ByteDance](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
@@ -21,7 +22,6 @@
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-thought can hurt performance on tasks where thinking makes humans worse](https://arxiv.org/abs/2410.21333)
 * [2024-10-30, 15:30:47](https://news.ycombinator.com/item?id=41996156) - [Cooking with black plastic is particularly crucial to avoid](https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/)
-* [2024-10-30, 02:09:42](https://news.ycombinator.com/item?id=41991291) - [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
