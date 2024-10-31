@@ -28,8 +28,8 @@
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust's borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-26, 17:26:02](https://news.ycombinator.com/item?id=41956213) - [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)
-* [2024-10-26, 16:03:28](https://news.ycombinator.com/item?id=41955594) - [Robert Fergusson: Scotia's Bard](https://www.historytoday.com/archive/history-matters/robert-fergusson-scotias-bard)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
+* [2024-10-26, 11:06:08](https://news.ycombinator.com/item?id=41954030) - [Ask HN: Alternative to Emacs with undo-tree functionality?](https://news.ycombinator.com/item?id=41954030)
 
 ## [Archives](archives/index.md)
 
