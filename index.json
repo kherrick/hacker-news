@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-10-31, 00:43:42",
-      "https://news.ycombinator.com/item?id=42002262"
+      "2024-10-31, 02:32:28",
+      "https://news.ycombinator.com/item?id=42002873"
     ],
     [
-      "I Attended Google's Creator Conversation Event, and It Turned into a Funeral",
-      "https://www.giantfreakinrobot.com/tech/google-creators-event.html"
+      "Typing fast is not so important",
+      "https://morgan.zoemp.be/slowdown/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 02:00:53",
+      "https://news.ycombinator.com/item?id=42002699"
+    ],
+    [
+      "The History Of The Monokai Color Scheme",
+      "https://monokai.pro/history"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=41999340"
     ],
     [
-      "Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse",
+      "Chain-of-thought can hurt performance on tasks where thinking makes humans worse",
       "https://arxiv.org/abs/2410.21333"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-10-30, 15:33:11",
-      "https://news.ycombinator.com/item?id=41996213"
-    ],
-    [
-      "Representing web applications as knowledge graphs",
-      "https://arxiv.org/abs/2410.17258"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 15:02:56",
       "https://news.ycombinator.com/item?id=41995730"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-10-29, 09:05:55",
-      "https://news.ycombinator.com/item?id=41981109"
-    ],
-    [
-      "Show HN: The Probability Times",
-      "https://theprobabilitytimes.com"
-    ]
-  ],
-  [
-    [
       "2024-10-29, 08:29:15",
       "https://news.ycombinator.com/item?id=41980894"
     ],
@@ -277,6 +267,16 @@
     [
       "Rubocop-obsession: RuboCop extension focused on higher-level concepts",
       "https://github.com/jeromedalbert/rubocop-obsession"
+    ]
+  ],
+  [
+    [
+      "2024-10-27, 15:25:48",
+      "https://news.ycombinator.com/item?id=41963259"
+    ],
+    [
+      "A comparison of Rust's borrow checker to the one in C#",
+      "https://em-tg.github.io/csborrow/"
     ]
   ],
   [
