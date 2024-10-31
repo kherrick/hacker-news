@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-31, 17:01:30",
+      "https://news.ycombinator.com/item?id=42008768"
+    ],
+    [
+      "Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI",
+      "https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 16:41:22",
+      "https://news.ycombinator.com/item?id=42008569"
+    ],
+    [
+      "Introducing ChatGPT Search",
+      "https://openai.com/index/introducing-chatgpt-search/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 16:32:31",
       "https://news.ycombinator.com/item?id=42008499"
     ],
@@ -57,16 +77,6 @@
     [
       "Probability-Generating Functions",
       "https://entropicthoughts.com/probability-generating-functions"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 07:01:11",
-      "https://news.ycombinator.com/item?id=42004147"
-    ],
-    [
-      "Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)",
-      "https://www.clipboardhealth.com/engineering"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-10-30, 17:10:43",
-      "https://news.ycombinator.com/item?id=41997648"
-    ],
-    [
-      "Show HN: AI OmniGen – AI Image Generator with Consistent Visuals",
-      "https://aiomnigen.com"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 15:30:47",
       "https://news.ycombinator.com/item?id=41996156"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-10-28, 23:38:38",
-      "https://news.ycombinator.com/item?id=41977769"
-    ],
-    [
-      "Ask HN: Is a Carnival sized application of Lenz's law possible?",
-      "https://news.ycombinator.com/item?id=41977769"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:37:13",
       "https://news.ycombinator.com/item?id=41973116"
     ],
@@ -257,6 +247,16 @@
     [
       "There is no such thing as a global method (in Ruby)",
       "https://zverok.space/blog/2024-10-21-global_functions.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 00:01:38",
+      "https://news.ycombinator.com/item?id=41966679"
+    ],
+    [
+      "Can a Rubik's Cube be brute-forced?",
+      "https://www.stylewarning.com/posts/brute-force-rubiks-cube/"
     ]
   ],
   [
