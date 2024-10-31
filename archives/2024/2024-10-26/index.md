@@ -61,6 +61,7 @@
 * [2024-10-26, 13:58:27](https://news.ycombinator.com/item?id=41954755) - [Hacktoberfest 2024](https://hacktoberfest.com)
 * [2024-10-26, 12:53:09](https://news.ycombinator.com/item?id=41954445) - [Lily Allen Says Her OnlyFans Feet Pictures Make More Money Than Spotify Streams](https://variety.com/2024/music/news/lily-allen-onlyfans-feet-pictures-spotify-1236191247/)
 * [2024-10-26, 12:40:58](https://news.ycombinator.com/item?id=41954399) - [Show HN: Simple Text Blog](https://github.com/jonfraser/simpletext)
+* [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
 * [2024-10-26, 12:08:29](https://news.ycombinator.com/item?id=41954254) - [Evaluate Markdown code blocks within Vim](https://github.com/gpanders/vim-medieval)
 * [2024-10-26, 12:05:24](https://news.ycombinator.com/item?id=41954242) - [PeaZip 10.0.0 Released](https://peazip.github.io/changelog.html)
 * [2024-10-26, 09:56:55](https://news.ycombinator.com/item?id=41953761) - [Amusement park built for accessibility and free for disabled](https://morganswonderland.org/)
