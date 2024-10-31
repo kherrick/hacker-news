@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 17:05:32](https://news.ycombinator.com/item?id=42008826) - [Ford to Halt F-150 Lightning Production as EV Demand Wanes](https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes)
+* [2024-10-31, 17:01:53](https://news.ycombinator.com/item?id=42008775) - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
 * [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
+* [2024-10-31, 16:58:11](https://news.ycombinator.com/item?id=42008723) - [1374 Days – My Journey with Long Covid](http://giorgialupi.com/1374-days-nyt-visual-oped)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
 * [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
