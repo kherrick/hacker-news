@@ -6,6 +6,7 @@
 
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
+* [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 * [2024-10-31, 04:00:48](https://news.ycombinator.com/item?id=42003369) - [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
 * [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
 * [2024-10-31, 02:32:28](https://news.ycombinator.com/item?id=42002873) - [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
