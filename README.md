@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 17:23:08](https://news.ycombinator.com/item?id=42009039) - [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
-* [2024-10-31, 17:01:53](https://news.ycombinator.com/item?id=42008775) - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
 * [2024-10-31, 17:01:46](https://news.ycombinator.com/item?id=42008772) - [Decoupling Design from Engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
 * [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
 * [2024-10-31, 16:58:11](https://news.ycombinator.com/item?id=42008723) - [1374 Days – My Journey with Long Covid](http://giorgialupi.com/1374-days-nyt-visual-oped)
