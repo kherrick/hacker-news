@@ -20,6 +20,7 @@
 * [2024-10-26, 22:35:41](https://news.ycombinator.com/item?id=41958224) - [Teens Want Less Sex in Movies and TV Shows, Study Finds](https://variety.com/2024/film/news/teens-sex-movies-tv-shows-study-preferences-babygirl-tell-me-lies-1236189703/)
 * [2024-10-26, 22:35:05](https://news.ycombinator.com/item?id=41958221) - [ADHD and Managing Your Professional Reputation](https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation)
 * [2024-10-26, 22:25:09](https://news.ycombinator.com/item?id=41958180) - [How the Electoral College Was Nearly Abolished in 1970](https://www.history.com/news/electoral-college-nearly-abolished-thurmond)
+* [2024-10-26, 21:56:55](https://news.ycombinator.com/item?id=41958028) - [Rocket Cars in Cleveland](https://www.wsj.com/lifestyle/cars/you-dont-need-to-be-a-billionaire-to-ride-in-her-rocket-car-43c42c89)
 * [2024-10-26, 21:42:16](https://news.ycombinator.com/item?id=41957938) - [On Friday 21st March 2025, the sun will set on the British \"Empire\"](https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/)
 * [2024-10-26, 21:23:55](https://news.ycombinator.com/item?id=41957829) - [Bullenweg.com is no longer available following threats of legal action](https://bullenweg.com/)
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
