@@ -1,9 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter [audio]](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
-* [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [SSH Remoting](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
-* [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 * [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 * [2024-10-30, 23:19:19](https://news.ycombinator.com/item?id=42001642) - [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
@@ -29,7 +26,10 @@
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-26, 17:26:02](https://news.ycombinator.com/item?id=41956213) - [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)
+* [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
+* [2024-10-26, 16:03:28](https://news.ycombinator.com/item?id=41955594) - [Robert Fergusson: Scotia's Bard](https://www.historytoday.com/archive/history-matters/robert-fergusson-scotias-bard)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
+* [2024-10-26, 11:06:08](https://news.ycombinator.com/item?id=41954030) - [Ask HN: Alternative to Emacs with undo-tree functionality?](https://news.ycombinator.com/item?id=41954030)
 
 ## [Archives](archives/index.md)
 
