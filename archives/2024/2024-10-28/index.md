@@ -70,6 +70,7 @@
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-28, 08:24:05](https://news.ycombinator.com/item?id=41968797) - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
 * [2024-10-28, 08:19:25](https://news.ycombinator.com/item?id=41968775) - [How we didn't find the Product market fit](https://markobalaic.medium.com/how-we-searched-for-a-product-market-fit-with-200-000-pre-seed-funding-part-2-4d022bdb9127)
+* [2024-10-28, 08:02:44](https://news.ycombinator.com/item?id=41968704) - [Tyler-Style Font Maker](https://chromakopiafontgenerator.org/)
 * [2024-10-28, 07:24:07](https://news.ycombinator.com/item?id=41968511) - [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 07:04:20](https://news.ycombinator.com/item?id=41968409) - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [2024-10-28, 06:53:20](https://news.ycombinator.com/item?id=41968366) - [Ask HN: Local RAG with private knowledge base](https://news.ycombinator.com/item?id=41968366)

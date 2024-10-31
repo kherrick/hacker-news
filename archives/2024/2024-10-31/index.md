@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Physical Intelligence's first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 20:32:03](https://news.ycombinator.com/item?id=42011193) - [Wait Until 8th](https://www.waituntil8th.org)
 * [2024-10-31, 19:43:52](https://news.ycombinator.com/item?id=42010712) - [Sam Altman says lack of compute is delaying the company's products](https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/)
