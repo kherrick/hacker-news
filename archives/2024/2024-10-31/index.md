@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
