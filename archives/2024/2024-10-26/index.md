@@ -52,6 +52,7 @@
 * [2024-10-26, 16:01:16](https://news.ycombinator.com/item?id=41955580) - [Identifying Factors Contributing to \"Bad Days\" for Software Developers](https://arxiv.org/abs/2410.18379)
 * [2024-10-26, 15:55:10](https://news.ycombinator.com/item?id=41955539) - [There are only two asset classes: ownership and debt](https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b)
 * [2024-10-26, 15:45:42](https://news.ycombinator.com/item?id=41955473) - [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
+* [2024-10-26, 15:44:42](https://news.ycombinator.com/item?id=41955464) - [Hear the sounds of Earth's magnetic field from 41,000 years ago](https://www.usatoday.com/story/graphics/2024/10/26/eerie-sound-of-earth-magnetic-field/75796956007/)
 * [2024-10-26, 15:27:37](https://news.ycombinator.com/item?id=41955353) - [Should JavaScript be split into two languages? Google proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/)
 * [2024-10-26, 15:19:53](https://news.ycombinator.com/item?id=41955302) - [Who is the skeleton buried by a secret society under this Baltimore bar?](https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/)
 * [2024-10-26, 15:15:45](https://news.ycombinator.com/item?id=41955265) - [Ask HN: Escape from TCR? Family shared SMS](https://news.ycombinator.com/item?id=41955265)
