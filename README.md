@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
@@ -17,6 +16,7 @@
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 15:30:47](https://news.ycombinator.com/item?id=41996156) - [Cooking with black plastic is particularly crucial to avoid](https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/)
 * [2024-10-30, 15:02:56](https://news.ycombinator.com/item?id=41995730) - [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
+* [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 06:21:05](https://news.ycombinator.com/item?id=41992314) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 02:09:42](https://news.ycombinator.com/item?id=41991291) - [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
