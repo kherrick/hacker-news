@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-31, 15:23:39",
+      "https://news.ycombinator.com/item?id=42007835"
+    ],
+    [
+      "MikroTik and Ampere co-developing a product line with server-class CPUs",
+      "https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 13:28:31",
       "https://news.ycombinator.com/item?id=42006698"
     ],
@@ -107,16 +117,6 @@
     [
       "Steam games will need to disclose kernel-level anti-cheat on store pages",
       "https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 18:58:48",
-      "https://news.ycombinator.com/item?id=41998891"
-    ],
-    [
-      "Google’s TOS doesn’t eliminate a user’s Fourth Amendment rights, judge rules [pdf]",
-      "https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-10-28, 06:35:48",
+      "https://news.ycombinator.com/item?id=41968299"
+    ],
+    [
+      "What’s new with Robinhood, our in-house load balancing service",
+      "https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 05:11:09",
       "https://news.ycombinator.com/item?id=41968024"
     ],
@@ -267,16 +277,6 @@
     [
       "A comparison of Rust’s borrow checker to the one in C#",
       "https://em-tg.github.io/csborrow/"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 14:52:15",
-      "https://news.ycombinator.com/item?id=41962981"
-    ],
-    [
-      "The Frankfurt Kitchen (2011)",
-      "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/"
     ]
   ],
   [
