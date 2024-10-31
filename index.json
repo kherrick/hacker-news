@@ -11,22 +11,32 @@
   ],
   [
     [
-      "2024-10-30, 22:11:50",
-      "https://news.ycombinator.com/item?id=42001037"
+      "2024-10-30, 23:39:01",
+      "https://news.ycombinator.com/item?id=42001811"
     ],
     [
-      "SaaS that analyses and monitors your tests (similar tool used daily at Meta)",
-      "https://www.testpulse.io"
+      "Generative AI Scripting",
+      "https://microsoft.github.io/genaiscript/"
     ]
   ],
   [
     [
-      "2024-10-30, 22:11:08",
-      "https://news.ycombinator.com/item?id=42001030"
+      "2024-10-30, 23:19:19",
+      "https://news.ycombinator.com/item?id=42001642"
     ],
     [
-      "Why anti-cheat software utilize kernel drivers (2020)",
-      "https://secret.club/2020/04/17/kernel-anticheats.html"
+      "It Might Be Possible to Detect Gravitons After All",
+      "https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 22:16:22",
+      "https://news.ycombinator.com/item?id=42001081"
+    ],
+    [
+      "Show HN: G-win – .gcode parser written in Rust with winnow",
+      "https://crates.io/crates/g-win"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Crafting Painterly Shaders",
       "https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 17:55:05",
-      "https://news.ycombinator.com/item?id=41998192"
-    ],
-    [
-      "CFPB finalizes personal financial data rights rule",
-      "https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-10-26, 16:22:14",
-      "https://news.ycombinator.com/item?id=41955731"
+      "2024-10-26, 19:26:29",
+      "https://news.ycombinator.com/item?id=41957078"
     ],
     [
-      "Fruits (2020)",
-      "https://graphallthethings.com/posts/fruits"
+      "Sekino's Art World",
+      "https://www.sekinoworld.com/"
     ]
   ]
 ]
