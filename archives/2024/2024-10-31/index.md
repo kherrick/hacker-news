@@ -1,0 +1,9 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-31](index.md)
+
+* [2024-10-31, 00:43:42](https://news.ycombinator.com/item?id=42002262) - [I Attended Google's Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
+* [2024-10-31, 00:31:18](https://news.ycombinator.com/item?id=42002196) - [Women code differently, but no worse, than men, study says](https://academic.oup.com/jcmc/article/29/1/zmad049/7596747)
+* [2024-10-31, 00:19:08](https://news.ycombinator.com/item?id=42002120) - [FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd)
