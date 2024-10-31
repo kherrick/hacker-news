@@ -34,6 +34,7 @@
 * [2024-10-28, 17:28:50](https://news.ycombinator.com/item?id=41973732) - [NY Times Gets 230 Wrong Again; Misrepresenting History and the First Amendment](https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/)
 * [2024-10-28, 17:17:01](https://news.ycombinator.com/item?id=41973591) - [Using reinforcement learning and $4.80 of GPU time to find the best HN post](https://openpipe.ai/blog/hacker-news-rlhf-part-1)
 * [2024-10-28, 17:14:11](https://news.ycombinator.com/item?id=41973559) - [Freakonomics does it again (not in a good way). Jeez, these guys are credulous](https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/)
+* [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)

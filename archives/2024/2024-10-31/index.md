@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 12:01:03](https://news.ycombinator.com/item?id=42005955) - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
+* [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+* [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 * [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
+* [2024-10-31, 06:36:17](https://news.ycombinator.com/item?id=42004052) - [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
 * [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 * [2024-10-31, 04:00:48](https://news.ycombinator.com/item?id=42003369) - [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
 * [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
