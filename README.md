@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
@@ -14,7 +15,6 @@
 * [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
-* [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 15:30:47](https://news.ycombinator.com/item?id=41996156) - [Cooking with black plastic is particularly crucial to avoid](https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/)
 * [2024-10-30, 15:02:56](https://news.ycombinator.com/item?id=41995730) - [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
