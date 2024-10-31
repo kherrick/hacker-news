@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
 * [2024-10-31, 02:32:28](https://news.ycombinator.com/item?id=42002873) - [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
 * [2024-10-31, 02:00:53](https://news.ycombinator.com/item?id=42002699) - [The History Of The Monokai Color Scheme](https://monokai.pro/history)
 * [2024-10-31, 00:43:42](https://news.ycombinator.com/item?id=42002262) - [I Attended Google's Creator Conversation Event, and It Turned into a Funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html)
