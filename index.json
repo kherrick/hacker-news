@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-10-30, 15:00:20",
-      "https://news.ycombinator.com/item?id=41995701"
-    ],
-    [
-      "M4 MacBook Pro",
-      "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 13:45:14",
       "https://news.ycombinator.com/item?id=41994658"
     ],
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=41968299"
     ],
     [
-      "What's new with Robinhood, our in-house load balancing service",
+      "What’s new with Robinhood, our in-house load balancing service",
       "https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 05:11:09",
+      "https://news.ycombinator.com/item?id=41968024"
+    ],
+    [
+      "There is no such thing as a global method (in Ruby)",
+      "https://zverok.space/blog/2024-10-21-global_functions.html"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41965322"
     ],
     [
-      "\"The Assayer\" by Galileo Galilei (1623) [pdf]",
+      "“The Assayer” by Galileo Galilei (1623) [pdf]",
       "https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf"
     ]
   ],
