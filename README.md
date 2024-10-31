@@ -2,6 +2,7 @@
 
 * [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
 * [2024-10-31, 17:41:13](https://news.ycombinator.com/item?id=42009290) - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
+* [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Cancer's Magic Bullet: An In-Depth Review of Antibody Drug Conjugates (ADCs)](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 17:27:31](https://news.ycombinator.com/item?id=42009087) - [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
 * [2024-10-31, 17:01:46](https://news.ycombinator.com/item?id=42008772) - [Decoupling design from engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
@@ -20,7 +21,6 @@
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or ten new proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
-* [2024-10-29, 20:36:44](https://news.ycombinator.com/item?id=41989087) - [The Rip in the World](https://longreads.com/2024/10/24/iceland-volcano-disaster-jonah-walters/)
 * [2024-10-29, 18:06:53](https://news.ycombinator.com/item?id=41987571) - [Oliver Heaviside and the coaxial cable (2016)](https://www.waveform.com/blogs/main/146807175-oliver-heaviside-and-the-coaxial-cable)
 * [2024-10-29, 17:46:55](https://news.ycombinator.com/item?id=41987349) - [The Return of Stealth Mountain](https://xeiaso.net/blog/2024/stealth-mountain-returns/)
 * [2024-10-28, 20:19:01](https://news.ycombinator.com/item?id=41975746) - [Suits, money laundering, and linear programming](https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/)
