@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-31, 00:43:42",
+      "https://news.ycombinator.com/item?id=42002262"
+    ],
+    [
+      "I Attended Google's Creator Conversation Event, and It Turned into a Funeral",
+      "https://www.giantfreakinrobot.com/tech/google-creators-event.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 00:31:18",
+      "https://news.ycombinator.com/item?id=42002196"
+    ],
+    [
+      "Women code differently, but no worse, than men, study says",
+      "https://academic.oup.com/jcmc/article/29/1/zmad049/7596747"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 00:19:08",
+      "https://news.ycombinator.com/item?id=42002120"
+    ],
+    [
+      "FDA Permits Marketing of Digital Game to Improve Attention in ADHD Children",
+      "https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 23:44:25",
       "https://news.ycombinator.com/item?id=42001852"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42001642"
     ],
     [
-      "It Might Be Possible to Detect Gravitons After All",
+      "It might be possible to detect gravitons after all",
       "https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Steam games will need to disclose kernel-level anti-cheat on store pages",
       "https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 19:31:06",
-      "https://news.ycombinator.com/item?id=41999226"
-    ],
-    [
-      "First H5N1 Detections in Swine",
-      "https://www.aphis.usda.gov/news/agency-announcements/federal-state-veterinary-agencies-share-update-hpai-detections-oregon"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-30, 14:36:11",
-      "https://news.ycombinator.com/item?id=41995427"
-    ],
-    [
-      "Show HN: Routing24 – Free route optimization in the browser",
-      "https://routing24.com"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 13:45:14",
       "https://news.ycombinator.com/item?id=41994658"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2024-10-30, 08:49:54",
-      "https://news.ycombinator.com/item?id=41993012"
-    ],
-    [
-      "Classic 3D videogame shadow techniques",
-      "https://30fps.net/pages/videogame-shadows/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 06:48:55",
-      "https://news.ycombinator.com/item?id=41992394"
-    ],
-    [
-      "NASA reconnected with Voyager 1 after a brief pause",
-      "https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 06:21:05",
       "https://news.ycombinator.com/item?id=41992314"
     ],
     [
       "Australia/Lord_Howe is the weirdest timezone",
       "https://ssoready.com/blog/engineering/truths-programmers-timezones/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 05:02:37",
+      "https://news.ycombinator.com/item?id=41992081"
+    ],
+    [
+      "1BRC Coding Challenge: Nerd Sniping the Java Community",
+      "https://www.infoq.com/presentations/1brc/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-10-29, 09:05:55",
+      "https://news.ycombinator.com/item?id=41981109"
+    ],
+    [
+      "Show HN: The Probability Times",
+      "https://theprobabilitytimes.com"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 08:29:15",
       "https://news.ycombinator.com/item?id=41980894"
     ],
     [
       "AI Flame Graphs",
       "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 06:53:20",
-      "https://news.ycombinator.com/item?id=41968366"
-    ],
-    [
-      "Ask HN: Local RAG with private knowledge base",
-      "https://news.ycombinator.com/item?id=41968366"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-10-26, 19:26:29",
-      "https://news.ycombinator.com/item?id=41957078"
+      "2024-10-26, 17:26:02",
+      "https://news.ycombinator.com/item?id=41956213"
     ],
     [
-      "Sekino's Art World",
-      "https://www.sekinoworld.com/"
+      "Cerebras Trains Llama Models to Leap over GPUs",
+      "https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/"
     ]
   ]
 ]
