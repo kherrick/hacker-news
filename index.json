@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-31, 08:12:40",
+      "https://news.ycombinator.com/item?id=42004492"
+    ],
+    [
+      "Rust and C++ with Steve Klabnik and Herb Sutter",
+      "https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 07:14:13",
       "https://news.ycombinator.com/item?id=42004206"
     ],
@@ -227,16 +237,6 @@
     [
       "What's new with Robinhood, our in-house load balancing service",
       "https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 05:59:14",
-      "https://news.ycombinator.com/item?id=41968167"
-    ],
-    [
-      "Rubocop-obsession: RuboCop extension focused on higher-level concepts",
-      "https://github.com/jeromedalbert/rubocop-obsession"
     ]
   ],
   [
