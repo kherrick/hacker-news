@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 * [2024-10-31, 12:01:03](https://news.ycombinator.com/item?id=42005955) - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
