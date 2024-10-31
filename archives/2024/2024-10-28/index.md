@@ -56,6 +56,7 @@
 * [2024-10-28, 13:28:20](https://news.ycombinator.com/item?id=41970831) - [GDDR7 Memory Supercharges AI Inference](https://semiengineering.com/gddr7-memory-supercharges-ai-inference/)
 * [2024-10-28, 13:19:48](https://news.ycombinator.com/item?id=41970769) - [More farms are turning to automation amid labor shortages](https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/)
 * [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Your Doctor Won't See You Now–Or Ever Again](https://thewalrus.ca/your-doctor-wont-see-you/)
+* [2024-10-28, 12:16:14](https://news.ycombinator.com/item?id=41970318) - [Ask HN: What ist your AdBlock strategy?](https://news.ycombinator.com/item?id=41970318)
 * [2024-10-28, 12:08:58](https://news.ycombinator.com/item?id=41970261) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 11:44:19](https://news.ycombinator.com/item?id=41970089) - [A new release of Raspberry Pi OS](https://www.raspberrypi.com/news/a-new-release-of-raspberry-pi-os/)
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
