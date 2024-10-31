@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 17:42:23](https://news.ycombinator.com/item?id=42009310) - [Ask HN: What do you think would happen if Google and YouTube split?](https://news.ycombinator.com/item?id=42009310)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 17:23:08](https://news.ycombinator.com/item?id=42009039) - [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
 * [2024-10-31, 17:01:46](https://news.ycombinator.com/item?id=42008772) - [Decoupling Design from Engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
@@ -14,11 +15,9 @@
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 * [2024-10-31, 06:36:17](https://news.ycombinator.com/item?id=42004052) - [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
-* [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 * [2024-10-30, 23:19:19](https://news.ycombinator.com/item?id=42001642) - [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-thought can hurt performance on tasks where thinking makes humans worse](https://arxiv.org/abs/2410.21333)
-* [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 15:30:47](https://news.ycombinator.com/item?id=41996156) - [Cooking with black plastic is particularly crucial to avoid](https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/)
@@ -28,6 +27,7 @@
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-28, 00:01:38](https://news.ycombinator.com/item?id=41966679) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
+* [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Robots.txt pitfalls: what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-26, 15:44:42](https://news.ycombinator.com/item?id=41955464) - [Hear the sounds of Earth's magnetic field from 41,000 years ago](https://www.usatoday.com/story/graphics/2024/10/26/eerie-sound-of-earth-magnetic-field/75796956007/)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
 
