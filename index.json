@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-31, 00:31:18",
-      "https://news.ycombinator.com/item?id=42002196"
-    ],
-    [
-      "Women code differently, but no worse, than men, study says",
-      "https://academic.oup.com/jcmc/article/29/1/zmad049/7596747"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 00:19:08",
       "https://news.ycombinator.com/item?id=42002120"
     ],
@@ -77,16 +67,6 @@
     [
       "OpenZFS deduplication is good now and you shouldn't use it",
       "https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 21:35:15",
-      "https://news.ycombinator.com/item?id=42000651"
-    ],
-    [
-      "Hi Google, please stop pooping the bed: a desperate plea from the indie web",
-      "https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-10-30, 06:48:55",
+      "https://news.ycombinator.com/item?id=41992394"
+    ],
+    [
+      "NASA reconnected with Voyager 1 after a brief pause",
+      "https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 06:21:05",
       "https://news.ycombinator.com/item?id=41992314"
     ],
@@ -287,6 +277,16 @@
     [
       "Rubocop-obsession: RuboCop extension focused on higher-level concepts",
       "https://github.com/jeromedalbert/rubocop-obsession"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 17:38:47",
+      "https://news.ycombinator.com/item?id=41956331"
+    ],
+    [
+      "Show HN: Ezcrypt – A file encryption tool (simple, strong, public domain)",
+      "https://codeberg.org/ezcrypt/ezcrypt"
     ]
   ],
   [
