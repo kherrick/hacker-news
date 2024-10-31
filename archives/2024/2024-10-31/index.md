@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 19:37:54](https://news.ycombinator.com/item?id=42010653) - [The United States' NSTC EUV Accelerator Is Coming to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 * [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
 * [2024-10-31, 18:37:44](https://news.ycombinator.com/item?id=42010004) - [China sanctions US drone maker Skydio](https://www.skydio.com/blog/chinas-sanctions-on-skydio)
 * [2024-10-31, 18:30:35](https://news.ycombinator.com/item?id=42009916) - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)

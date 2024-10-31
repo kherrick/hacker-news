@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 19:37:54](https://news.ycombinator.com/item?id=42010653) - [The United States' NSTC EUV Accelerator Is Coming to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 * [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
 * [2024-10-31, 17:41:13](https://news.ycombinator.com/item?id=42009290) - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
 * [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Cancer's Magic Bullet: An In-Depth Review of Antibody Drug Conjugates (ADCs)](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
@@ -16,7 +17,6 @@
 * [2024-10-31, 02:12:23](https://news.ycombinator.com/item?id=42002757) - [Legal bid for Ecuador forest to be recognised as song co-creator](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator)
 * [2024-10-30, 20:32:58](https://news.ycombinator.com/item?id=41999923) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
-* [2024-10-30, 20:26:02](https://news.ycombinator.com/item?id=41999840) - [Nulls: Revisiting null representation in modern columnar formats](https://dl.acm.org/doi/10.1145/3662010.3663452)
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
