@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
 * [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+* [2024-10-30, 23:39:01](https://news.ycombinator.com/item?id=42001811) - [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
+* [2024-10-30, 23:19:19](https://news.ycombinator.com/item?id=42001642) - [It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+* [2024-10-30, 22:16:22](https://news.ycombinator.com/item?id=42001081) - [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
 * [2024-10-30, 22:11:50](https://news.ycombinator.com/item?id=42001037) - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
 * [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)

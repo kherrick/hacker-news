@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
-* [2024-10-30, 22:11:50](https://news.ycombinator.com/item?id=42001037) - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
-* [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
+* [2024-10-30, 23:39:01](https://news.ycombinator.com/item?id=42001811) - [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
+* [2024-10-30, 23:19:19](https://news.ycombinator.com/item?id=42001642) - [It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+* [2024-10-30, 22:16:22](https://news.ycombinator.com/item?id=42001081) - [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:35:15](https://news.ycombinator.com/item?id=42000651) - [Hi Google, please stop pooping the bed: a desperate plea from the indie web](https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-Thought Can Hurt Performance on Tasks Where Thinking Makes Humans Worse](https://arxiv.org/abs/2410.21333)
@@ -11,7 +12,6 @@
 * [2024-10-30, 19:24:21](https://news.ycombinator.com/item?id=41999151) - [DeepSeek v2.5 – open-source LLM comparable to GPT-4, but 95% less expensive](https://www.deepseek.com/)
 * [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
-* [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [CFPB finalizes personal financial data rights rule](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 17:10:43](https://news.ycombinator.com/item?id=41997648) - [Show HN: AI OmniGen – AI Image Generator with Consistent Visuals](https://aiomnigen.com)
 * [2024-10-30, 17:00:02](https://news.ycombinator.com/item?id=41997490) - [Infisical (YC W23) is hiring full stack engineers (remote or in SF)](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote)
@@ -29,7 +29,7 @@
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 06:53:20](https://news.ycombinator.com/item?id=41968366) - [Ask HN: Local RAG with private knowledge base](https://news.ycombinator.com/item?id=41968366)
 * [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
-* [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
+* [2024-10-26, 19:26:29](https://news.ycombinator.com/item?id=41957078) - [Sekino's Art World](https://www.sekinoworld.com/)
 
 ## [Archives](archives/index.md)
 
