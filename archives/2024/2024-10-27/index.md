@@ -10,6 +10,7 @@
 * [2024-10-27, 21:15:07](https://news.ycombinator.com/item?id=41965750) - [The Universal Relation](https://bernsteinbear.com/blog/on-the-universal-relation/)
 * [2024-10-27, 20:49:39](https://news.ycombinator.com/item?id=41965555) - [An Evaluation of the Remote Viewing Program: Operational Applications (1995) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
 * [2024-10-27, 20:40:12](https://news.ycombinator.com/item?id=41965495) - [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)
+* [2024-10-27, 20:17:46](https://news.ycombinator.com/item?id=41965322) - [\"The Assayer\" by Galileo Galilei (1623) [pdf]](https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf)
 * [2024-10-27, 19:46:11](https://news.ycombinator.com/item?id=41965091) - [Platform Strategy and Its Discontents: The web is losing. A comeback is possible](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 19:31:02](https://news.ycombinator.com/item?id=41964980) - [Meta's Open Source NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 * [2024-10-27, 19:17:59](https://news.ycombinator.com/item?id=41964882) - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
