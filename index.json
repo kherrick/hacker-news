@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-31, 20:36:53",
+      "https://news.ycombinator.com/item?id=42011239"
+    ],
+    [
+      "An Update on Apple M1/M2 GPU Drivers",
+      "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 20:32:03",
       "https://news.ycombinator.com/item?id=42011193"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-10-31, 19:43:52",
-      "https://news.ycombinator.com/item?id=42010712"
-    ],
-    [
-      "Sam Altman says lack of compute is delaying the company's products",
-      "https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 19:37:54",
       "https://news.ycombinator.com/item?id=42010653"
     ],
     [
-      "The United States' NSTC EUV Accelerator Is Coming to Albany",
+      "The National EUV Accelerator comes to Albany",
       "https://research.ibm.com/blog/euv-center-albany-nstc"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 18:49:14",
-      "https://news.ycombinator.com/item?id=42010130"
-    ],
-    [
-      "Ghost jobs are wreaking havoc on tech workers",
-      "https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php"
     ]
   ],
   [
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2024-10-31, 17:27:31",
+      "https://news.ycombinator.com/item?id=42009087"
+    ],
+    [
+      "Show HN: Shimmer – ADHD-adapted body doubling",
+      "https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 17:01:46",
       "https://news.ycombinator.com/item?id=42008772"
     ],
@@ -97,6 +97,16 @@
     [
       "ChatGPT Search",
       "https://openai.com/index/introducing-chatgpt-search/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 16:32:31",
+      "https://news.ycombinator.com/item?id=42008499"
+    ],
+    [
+      "Smashing the Limits: Installing Windows XP in DOSBox-X",
+      "https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-10-28, 16:37:13",
-      "https://news.ycombinator.com/item?id=41973116"
+      "2024-10-28, 16:03:23",
+      "https://news.ycombinator.com/item?id=41972605"
     ],
     [
-      "Web Assembly audio decoders highly optimized for size and performance",
-      "https://github.com/eshaz/wasm-audio-decoders"
+      "Crux, a Precise Verifier for Rust and Other Languages",
+      "https://arxiv.org/abs/2410.18280"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "There is no such thing as a global method in Ruby",
       "https://zverok.space/blog/2024-10-21-global_functions.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 16:20:43",
-      "https://news.ycombinator.com/item?id=41963667"
-    ],
-    [
-      "A day and night running round a track",
-      "https://www.bbc.co.uk/sport/athletics/articles/cn8y4mky8v9o"
     ]
   ],
   [
