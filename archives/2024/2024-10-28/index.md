@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 23:38:38](https://news.ycombinator.com/item?id=41977769) - [Ask HN: Is a Carnival sized application of Lenz's law possible?](https://news.ycombinator.com/item?id=41977769)
 * [2024-10-28, 23:26:21](https://news.ycombinator.com/item?id=41977665) - [Show HN: Apache ResilientDB, High-Performance Open-Source Blockchain](https://resilientdb.incubator.apache.org/)
 * [2024-10-28, 22:47:42](https://news.ycombinator.com/item?id=41977353) - [The Pentaconta Crossbar and Exchange](https://www.calling315.com/pentaconta)
 * [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
