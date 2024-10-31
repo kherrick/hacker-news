@@ -24,10 +24,10 @@
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 06:35:48](https://news.ycombinator.com/item?id=41968299) - [What's new with Robinhood, our in-house load balancing service](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
-* [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust's borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-26, 17:26:02](https://news.ycombinator.com/item?id=41956213) - [Cerebras Trains Llama Models to Leap over GPUs](https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/)
+* [2024-10-26, 16:22:14](https://news.ycombinator.com/item?id=41955731) - [Fruits (2020)](https://graphallthethings.com/posts/fruits)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
 * [2024-10-26, 11:06:08](https://news.ycombinator.com/item?id=41954030) - [Ask HN: Alternative to Emacs with undo-tree functionality?](https://news.ycombinator.com/item?id=41954030)
 
