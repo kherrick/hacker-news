@@ -79,6 +79,7 @@
 * [2024-10-27, 05:12:36](https://news.ycombinator.com/item?id=41960011) - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
 * [2024-10-27, 05:12:18](https://news.ycombinator.com/item?id=41960010) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Robots.txt pitfalls: what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
+* [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
 * [2024-10-27, 04:37:17](https://news.ycombinator.com/item?id=41959893) - [The rollercoaster king: the man behind the UK's fastest thrill-ride](https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia)
 * [2024-10-27, 02:53:39](https://news.ycombinator.com/item?id=41959498) - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
 * [2024-10-27, 02:47:46](https://news.ycombinator.com/item?id=41959471) - [Room-Temperature Superconductivity Heats Up](https://cacm.acm.org/news/room-temperature-superconductivity-heats-up/)

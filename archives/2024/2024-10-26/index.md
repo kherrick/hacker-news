@@ -29,6 +29,7 @@
 * [2024-10-26, 20:45:58](https://news.ycombinator.com/item?id=41957601) - [PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
 * [2024-10-26, 20:42:17](https://news.ycombinator.com/item?id=41957585) - [Long wave radio fans mourn fading frequencies (2023)](https://www.bbc.com/news/business-66644709)
 * [2024-10-26, 20:13:22](https://news.ycombinator.com/item?id=41957377) - [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)
+* [2024-10-26, 19:28:15](https://news.ycombinator.com/item?id=41957092) - [Amanatides and Woo's fast voxel traversal](https://m4xc.dev/articles/amanatides-and-woo/)
 * [2024-10-26, 19:26:29](https://news.ycombinator.com/item?id=41957078) - [Sekino's Art World](https://www.sekinoworld.com/)
 * [2024-10-26, 19:22:40](https://news.ycombinator.com/item?id=41957056) - [JetKVM: Tiny IP KVM That's Not an Apple Watch](https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch)
 * [2024-10-26, 19:14:30](https://news.ycombinator.com/item?id=41957008) - [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
