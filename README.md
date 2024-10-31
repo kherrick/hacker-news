@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
@@ -11,7 +12,6 @@
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 19:42:41](https://news.ycombinator.com/item?id=41999340) - [Chain-of-thought can hurt performance on tasks where thinking makes humans worse](https://arxiv.org/abs/2410.21333)
 * [2024-10-30, 19:39:59](https://news.ycombinator.com/item?id=41999314) - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
-* [2024-10-30, 18:58:48](https://news.ycombinator.com/item?id=41998891) - [Google’s TOS doesn’t eliminate a user’s Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:16:43](https://news.ycombinator.com/item?id=41997727) - [SimpleQA](https://openai.com/index/introducing-simpleqa/)
 * [2024-10-30, 15:30:47](https://news.ycombinator.com/item?id=41996156) - [Cooking with black plastic is particularly crucial to avoid](https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/)
@@ -24,10 +24,10 @@
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 23:38:38](https://news.ycombinator.com/item?id=41977769) - [Ask HN: Is a Carnival sized application of Lenz's law possible?](https://news.ycombinator.com/item?id=41977769)
 * [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
+* [2024-10-28, 06:35:48](https://news.ycombinator.com/item?id=41968299) - [What’s new with Robinhood, our in-house load balancing service](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-27, 20:17:46](https://news.ycombinator.com/item?id=41965322) - [“The Assayer” by Galileo Galilei (1623) [pdf]](https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
-* [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-26, 15:44:42](https://news.ycombinator.com/item?id=41955464) - [Hear the sounds of Earth's magnetic field from 41,000 years ago](https://www.usatoday.com/story/graphics/2024/10/26/eerie-sound-of-earth-magnetic-field/75796956007/)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
 
