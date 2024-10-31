@@ -33,6 +33,7 @@
 * [2024-10-27, 16:50:29](https://news.ycombinator.com/item?id=41963890) - [ModelKit: Transforming AI/ML artifact sharing and management across lifecycles](https://kitops.ml/docs/modelkit/intro.html)
 * [2024-10-27, 16:50:06](https://news.ycombinator.com/item?id=41963886) - [Chiplet Marketplace, Sustainability Top Discussions at OCP Summit](https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/)
 * [2024-10-27, 16:31:43](https://news.ycombinator.com/item?id=41963768) - [It all started with a perceptron](https://medium.com/@vincentlambert0/it-all-started-with-a-perceptron-86bd0fb80b96)
+* [2024-10-27, 16:20:43](https://news.ycombinator.com/item?id=41963667) - [A 24-hour party of pain – a day and night running round a track](https://www.bbc.co.uk/sport/athletics/articles/cn8y4mky8v9o)
 * [2024-10-27, 16:16:11](https://news.ycombinator.com/item?id=41963635) - [What is the first American graphic novel?](https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic)
 * [2024-10-27, 15:58:19](https://news.ycombinator.com/item?id=41963497) - [Marijuana Arrests Comprised over 40 Percent of Drug Arrests over Dozen States](https://norml.org/blog/2024/10/21/fbi-marijuana-related-arrests-comprised-over-40-percent-of-all-drug-arrests-in-more-than-a-dozen-states-in-2023/)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)

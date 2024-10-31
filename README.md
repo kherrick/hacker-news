@@ -26,9 +26,9 @@
 * [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-28, 00:01:38](https://news.ycombinator.com/item?id=41966679) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
+* [2024-10-27, 16:20:43](https://news.ycombinator.com/item?id=41963667) - [A 24-hour party of pain – a day and night running round a track](https://www.bbc.co.uk/sport/athletics/articles/cn8y4mky8v9o)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Robots.txt pitfalls: what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
-* [2024-10-26, 15:44:42](https://news.ycombinator.com/item?id=41955464) - [Hear the sounds of Earth's magnetic field from 41,000 years ago](https://www.usatoday.com/story/graphics/2024/10/26/eerie-sound-of-earth-magnetic-field/75796956007/)
 * [2024-10-26, 12:35:42](https://news.ycombinator.com/item?id=41954375) - [Do hard things carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully)
 
 ## [Archives](archives/index.md)
