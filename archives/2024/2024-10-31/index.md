@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
+* [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
 * [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
