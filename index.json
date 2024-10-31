@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42004492"
     ],
     [
-      "Rust and C++ with Steve Klabnik and Herb Sutter",
+      "Rust and C++ with Steve Klabnik and Herb Sutter [audio]",
       "https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42004206"
     ],
     [
-      "Zed: SSH Remoting Is Here",
+      "SSH Remoting",
       "https://zed.dev/blog/remote-development"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=41963259"
     ],
     [
-      "A comparison of Rust's borrow checker to the one in C#",
+      "A comparison of Rust’s borrow checker to the one in C#",
       "https://em-tg.github.io/csborrow/"
     ]
   ],
