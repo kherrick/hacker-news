@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
 * [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
@@ -23,7 +24,6 @@
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-28, 06:35:48](https://news.ycombinator.com/item?id=41968299) - [What's new with Robinhood, our in-house load balancing service](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
-* [2024-10-28, 05:59:14](https://news.ycombinator.com/item?id=41968167) - [Rubocop-obsession: RuboCop extension focused on higher-level concepts](https://github.com/jeromedalbert/rubocop-obsession)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust's borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)
 * [2024-10-26, 21:56:55](https://news.ycombinator.com/item?id=41958028) - [Rocket Cars in Cleveland](https://www.wsj.com/lifestyle/cars/you-dont-need-to-be-a-billionaire-to-ride-in-her-rocket-car-43c42c89)

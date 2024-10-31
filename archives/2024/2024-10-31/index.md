@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
 * [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
