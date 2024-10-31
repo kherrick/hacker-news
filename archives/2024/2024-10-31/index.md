@@ -10,6 +10,7 @@
 * [2024-10-31, 18:09:18](https://news.ycombinator.com/item?id=42009636) - [Nearly 90% of our AI crawler traffic is from ByteDance](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
 * [2024-10-31, 17:42:23](https://news.ycombinator.com/item?id=42009310) - [Ask HN: What do you think would happen if Google and YouTube split?](https://news.ycombinator.com/item?id=42009310)
 * [2024-10-31, 17:41:13](https://news.ycombinator.com/item?id=42009290) - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
+* [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Cancer's Magic Bullet: An In-Depth Review of Antibody Drug Conjugates (ADCs)](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 17:27:31](https://news.ycombinator.com/item?id=42009087) - [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
 * [2024-10-31, 17:23:08](https://news.ycombinator.com/item?id=42009039) - [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
