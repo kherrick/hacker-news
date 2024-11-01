@@ -17,7 +17,6 @@
 * [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
-* [2024-10-31, 15:04:27](https://news.ycombinator.com/item?id=42007649) - [Claude for Desktop](https://claude.ai/download)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
@@ -29,6 +28,7 @@
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-10-28, 00:35:16](https://news.ycombinator.com/item?id=41966842) - [What's New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
+* [2024-10-27, 13:49:07](https://news.ycombinator.com/item?id=41962608) - [Is there now a generation of users who never worked with files?](https://blog.hyperknot.com/p/is-there-now-a-generation-of-users)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 
 ## [Archives](archives/index.md)
