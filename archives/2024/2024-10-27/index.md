@@ -38,6 +38,7 @@
 * [2024-10-27, 15:58:19](https://news.ycombinator.com/item?id=41963497) - [Marijuana Arrests Comprised over 40 Percent of Drug Arrests over Dozen States](https://norml.org/blog/2024/10/21/fbi-marijuana-related-arrests-comprised-over-40-percent-of-all-drug-arrests-in-more-than-a-dozen-states-in-2023/)
 * [2024-10-27, 15:57:10](https://news.ycombinator.com/item?id=41963491) - [Pollen: A publishing system written in Racket](https://docs.racket-lang.org/pollen/)
 * [2024-10-27, 15:25:48](https://news.ycombinator.com/item?id=41963259) - [A comparison of Rust's borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
+* [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 * [2024-10-27, 15:02:10](https://news.ycombinator.com/item?id=41963063) - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
 * [2024-10-27, 14:52:48](https://news.ycombinator.com/item?id=41962983) - [The Blowout No One Sees Coming](https://app.vantagedatahouse.com/analysis/TheBlowoutNoOneSeesComing-1)
 * [2024-10-27, 14:52:15](https://news.ycombinator.com/item?id=41962981) - [The Frankfurt Kitchen (2011)](https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/)

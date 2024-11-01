@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 07:44:20](https://news.ycombinator.com/item?id=42014817) - [It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
@@ -17,7 +18,6 @@
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
-* [2024-10-30, 20:32:58](https://news.ycombinator.com/item?id=41999923) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
@@ -28,7 +28,7 @@
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
-* [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
+* [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 
 ## [Archives](archives/index.md)
