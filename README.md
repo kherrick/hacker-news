@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet (2017)](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
@@ -11,7 +12,6 @@
 * [2024-10-31, 18:03:23](https://news.ycombinator.com/item?id=42009570) - [What sank the Bayesian superyacht in Italy?](https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html)
 * [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
-* [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) seeks Python back end engineers to build a database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 15:04:27](https://news.ycombinator.com/item?id=42007649) - [Claude for Desktop](https://claude.ai/download)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
@@ -22,12 +22,12 @@
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
+* [2024-10-29, 20:50:07](https://news.ycombinator.com/item?id=41989239) - [A collection of Halloween postcards from \"golden age\" of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or ten new proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
 * [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
-* [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
 
