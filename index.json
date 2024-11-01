@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 08:25:42",
+      "https://news.ycombinator.com/item?id=42015005"
+    ],
+    [
+      "Universe would die before monkey with keyboard writes Shakespeare, study finds",
+      "https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 07:44:20",
       "https://news.ycombinator.com/item?id=42014817"
     ],
@@ -237,16 +247,6 @@
     [
       "Five or ten new proofs of the Pythagorean Theorem",
       "https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 16:37:13",
-      "https://news.ycombinator.com/item?id=41973116"
-    ],
-    [
-      "Web Assembly audio decoders highly optimized for size and performance",
-      "https://github.com/eshaz/wasm-audio-decoders"
     ]
   ],
   [
