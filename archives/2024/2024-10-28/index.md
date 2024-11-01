@@ -63,6 +63,7 @@
 * [2024-10-28, 11:17:12](https://news.ycombinator.com/item?id=41969908) - [AgiBot X1, a modular humanoid robot with high dof](https://github.com/AgibotTech/agibot_x1_train)
 * [2024-10-28, 11:15:23](https://news.ycombinator.com/item?id=41969899) - [Pimp My Man](https://kszenes.github.io/blog/2024/Manpager/)
 * [2024-10-28, 10:53:19](https://news.ycombinator.com/item?id=41969753) - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
+* [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-10-28, 09:45:39](https://news.ycombinator.com/item?id=41969334) - [Sci-fi books that you may never have heard of, but definitely should read](https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read)
 * [2024-10-28, 09:44:17](https://news.ycombinator.com/item?id=41969327) - [How to Build Your Career in AI [pdf]](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)
 * [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses](https://www.nature.com/articles/6601118)
