@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 09:37:25](https://news.ycombinator.com/item?id=42015323) - [Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
 * [2024-11-01, 08:25:42](https://news.ycombinator.com/item?id=42015005) - [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
 * [2024-11-01, 07:44:20](https://news.ycombinator.com/item?id=42014817) - [It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)

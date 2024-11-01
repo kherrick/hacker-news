@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 09:37:25](https://news.ycombinator.com/item?id=42015323) - [Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
 * [2024-11-01, 08:25:42](https://news.ycombinator.com/item?id=42015005) - [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
 * [2024-11-01, 07:44:20](https://news.ycombinator.com/item?id=42014817) - [It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
@@ -10,7 +11,6 @@
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 20:32:03](https://news.ycombinator.com/item?id=42011193) - [Wait Until 8th](https://www.waituntil8th.org)
-* [2024-10-31, 19:37:54](https://news.ycombinator.com/item?id=42010653) - [The National EUV Accelerator comes to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
 * [2024-10-31, 18:03:23](https://news.ycombinator.com/item?id=42009570) - [What sank the Bayesian superyacht in Italy?](https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html)
 * [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
@@ -23,11 +23,11 @@
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
-* [2024-10-29, 20:50:07](https://news.ycombinator.com/item?id=41989239) - [A collection of Halloween postcards from \"golden age\" of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or ten new proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
+* [2024-10-28, 00:35:16](https://news.ycombinator.com/item?id=41966842) - [What's New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 
