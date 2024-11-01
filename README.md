@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
+* [2024-11-01, 15:42:58](https://news.ycombinator.com/item?id=42018096) - [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
@@ -12,10 +14,8 @@
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 09:30:13](https://news.ycombinator.com/item?id=42015284) - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
-* [2024-11-01, 08:25:42](https://news.ycombinator.com/item?id=42015005) - [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
-* [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
