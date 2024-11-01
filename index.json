@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-11-01, 10:11:54",
-      "https://news.ycombinator.com/item?id=42015506"
-    ],
-    [
-      "Winlator is an Android application that lets you to run Windows (x86_64) apps",
-      "https://github.com/brunodev85/winlator"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 09:37:25",
-      "https://news.ycombinator.com/item?id=42015323"
-    ],
-    [
-      "Men Arrested for Transcribing a Movie, Posting Details to a Website",
-      "https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 09:30:13",
       "https://news.ycombinator.com/item?id=42015284"
     ],
     [
       "Using the Strangler Fig with Mobile Apps",
       "https://martinfowler.com/articles/strangler-fig-mobile-apps.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 07:44:20",
-      "https://news.ycombinator.com/item?id=42014817"
-    ],
-    [
-      "It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head",
-      "https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall"
     ]
   ],
   [
@@ -57,6 +27,16 @@
     [
       "Pythagora (GPT Pilot) (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 06:45:01",
+      "https://news.ycombinator.com/item?id=42014588"
+    ],
+    [
+      "Apple silently uploads your passwords and keeps them",
+      "https://lapcatsoftware.com/articles/2024/10/4.html"
     ]
   ],
   [
@@ -107,16 +87,6 @@
     [
       "An Update on Apple M1/M2 GPU Drivers",
       "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 20:32:03",
-      "https://news.ycombinator.com/item?id=42011193"
-    ],
-    [
-      "Wait Until 8th",
-      "https://www.waituntil8th.org"
     ]
   ],
   [
@@ -201,6 +171,26 @@
   ],
   [
     [
+      "2024-10-31, 06:40:48",
+      "https://news.ycombinator.com/item?id=42004069"
+    ],
+    [
+      "Food Colorants Before Aniline Dyes (1991) [pdf]",
+      "https://acshist.scs.illinois.edu/bulletin_open_access/num10/num10%20p25-31.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 20:32:58",
+      "https://news.ycombinator.com/item?id=41999923"
+    ],
+    [
+      "Everyone is wrong about that Slack flowchart",
+      "https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 20:27:12",
       "https://news.ycombinator.com/item?id=41999852"
     ],
@@ -241,6 +231,36 @@
   ],
   [
     [
+      "2024-10-29, 20:40:41",
+      "https://news.ycombinator.com/item?id=41989134"
+    ],
+    [
+      "Five or ten new proofs of the Pythagorean Theorem",
+      "https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 20:19:01",
+      "https://news.ycombinator.com/item?id=41975746"
+    ],
+    [
+      "Suits, money laundering, and linear programming",
+      "https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 16:37:13",
+      "https://news.ycombinator.com/item?id=41973116"
+    ],
+    [
+      "Web Assembly audio decoders highly optimized for size and performance",
+      "https://github.com/eshaz/wasm-audio-decoders"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:03:23",
       "https://news.ycombinator.com/item?id=41972605"
     ],
@@ -277,26 +297,6 @@
     [
       "34x34x34 Rubik's Cube",
       "https://ruwix.com/blog/34x34x34-rubiks-cube-record/"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 13:49:07",
-      "https://news.ycombinator.com/item?id=41962608"
-    ],
-    [
-      "Is there now a generation of users who never worked with files?",
-      "https://blog.hyperknot.com/p/is-there-now-a-generation-of-users"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 05:09:23",
-      "https://news.ycombinator.com/item?id=41960003"
-    ],
-    [
-      "Tell HN: Robots.txt pitfalls – what I learned the hard way",
-      "https://news.ycombinator.com/item?id=41960003"
     ]
   ]
 ]
