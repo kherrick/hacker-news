@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 12:21:42",
+      "https://news.ycombinator.com/item?id=42016225"
+    ],
+    [
+      "Crowds gather in Dublin for fake Halloween parade posted on social media",
+      "https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 09:30:13",
       "https://news.ycombinator.com/item?id=42015284"
     ],
@@ -27,16 +37,6 @@
     [
       "Pythagora (GPT Pilot) (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 06:45:01",
-      "https://news.ycombinator.com/item?id=42014588"
-    ],
-    [
-      "Apple silently uploads your passwords and keeps them",
-      "https://lapcatsoftware.com/articles/2024/10/4.html"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "An Update on Apple M1/M2 GPU Drivers",
       "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 18:03:23",
-      "https://news.ycombinator.com/item?id=42009570"
-    ],
-    [
-      "What sank the Bayesian superyacht in Italy?",
-      "https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Suits, money laundering, and linear programming",
       "https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 18:06:31",
+      "https://news.ycombinator.com/item?id=41974168"
+    ],
+    [
+      "RTP: One protocol to rule them all?",
+      "https://paper.wf/binarycat/rtp"
     ]
   ],
   [
