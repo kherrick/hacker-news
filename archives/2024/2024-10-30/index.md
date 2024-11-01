@@ -48,6 +48,7 @@
 * [2024-10-30, 15:02:09](https://news.ycombinator.com/item?id=41995718) - [Apple Introduces M4 Pro and M4 Max](https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/)
 * [2024-10-30, 15:00:20](https://news.ycombinator.com/item?id=41995701) - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising Publishing](https://john.onolan.org/democratising-publishing/)
+* [2024-10-30, 14:50:23](https://news.ycombinator.com/item?id=41995589) - [Recursion, Tidy Stars, and Water Lilies](https://planktonvalhalla.com/20241030-recursion-tidy-stars-and-water-lilies/)
 * [2024-10-30, 14:48:10](https://news.ycombinator.com/item?id=41995568) - [ThunderKittens: Simple, Fast, and Adorable AI Kernels](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2)
 * [2024-10-30, 14:36:11](https://news.ycombinator.com/item?id=41995427) - [Show HN: Routing24 – Free route optimization in the browser](https://routing24.com)
 * [2024-10-30, 14:25:12](https://news.ycombinator.com/item?id=41995253) - [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
