@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-01, 01:09:33",
+      "https://news.ycombinator.com/item?id=42013117"
+    ],
+    [
+      "Technical Women and Women-in-Tech",
+      "https://deadsimpletech.com/blog/women_in_tech"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 00:50:42",
+      "https://news.ycombinator.com/item?id=42013032"
+    ],
+    [
+      "VMware Workstation Shifting from Proprietary Code to Using Upstream KVM",
+      "https://www.phoronix.com/news/VMware-Workstation-KVM"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 21:34:34",
       "https://news.ycombinator.com/item?id=42011770"
     ],
@@ -17,16 +37,6 @@
     [
       "An Update on Apple M1/M2 GPU Drivers",
       "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 20:32:03",
-      "https://news.ycombinator.com/item?id=42011193"
-    ],
-    [
-      "Wait Until 8th",
-      "https://www.waituntil8th.org"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-10-31, 17:27:31",
+      "https://news.ycombinator.com/item?id=42009087"
+    ],
+    [
+      "Show HN: Shimmer – ADHD-adapted body doubling",
+      "https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 17:01:30",
       "https://news.ycombinator.com/item?id=42008768"
     ],
@@ -87,16 +107,6 @@
     [
       "ChatGPT Search",
       "https://openai.com/index/introducing-chatgpt-search/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 16:32:31",
-      "https://news.ycombinator.com/item?id=42008499"
-    ],
-    [
-      "Smashing the Limits: Installing Windows XP in DOSBox-X",
-      "https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "NandGame – Build a computer from scratch",
       "https://www.nandgame.com"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 20:26:02",
-      "https://news.ycombinator.com/item?id=41999840"
-    ],
-    [
-      "Nulls: Revisiting null representation in modern columnar formats",
-      "https://dl.acm.org/doi/10.1145/3662010.3663452"
     ]
   ],
   [
