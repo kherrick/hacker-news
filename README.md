@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 19:17:56](https://news.ycombinator.com/item?id=42020538) - [Half of Young Voters Say They've Lied about Which Candidates They Support](https://www.msn.com/en-us/news/politics/half-of-young-voters-say-they-ve-lied-about-which-candidates-they-support-new-poll-finds/ar-AA1thZks)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook](https://shellhaters.org/talk)
 * [2024-11-01, 17:02:14](https://news.ycombinator.com/item?id=42019083) - [Broadwell's EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
-* [2024-11-01, 15:42:58](https://news.ycombinator.com/item?id=42018096) - [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 * [2024-11-01, 15:19:46](https://news.ycombinator.com/item?id=42017771) - [Using Large Language Models to Catch Vulnerabilities](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
