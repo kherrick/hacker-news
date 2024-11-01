@@ -19,6 +19,7 @@
 * [2024-11-01, 13:15:47](https://news.ycombinator.com/item?id=42016639) - [Ink: React for interactive CLI apps](https://github.com/vadimdemedes/ink)
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
+* [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
@@ -29,7 +30,6 @@
 * [2024-10-29, 14:14:16](https://news.ycombinator.com/item?id=41984038) - [Iceberg A-68: The story of how a mega-berg transformed the ocean](https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean)
 * [2024-10-29, 12:58:16](https://news.ycombinator.com/item?id=41983394) - [Show HN: Holos – Configure Helm and Kustomize Holistically with Cue](https://holos.run/docs/guides/helm/)
 * [2024-10-28, 21:53:14](https://news.ycombinator.com/item?id=41976815) - [Microprocessor's Romance with Integers](https://www.freecodecamp.org/news/microprocessors-romance-with-integers/)
-* [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 
 ## [Archives](archives/index.md)
 
