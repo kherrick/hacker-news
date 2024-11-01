@@ -63,6 +63,7 @@
 * [2024-10-30, 11:35:01](https://news.ycombinator.com/item?id=41993782) - [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)
 * [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 * [2024-10-30, 11:32:58](https://news.ycombinator.com/item?id=41993771) - [AMD Q3'2024 Financials – By Ryan Smith and Dr. Ian Cutress](https://morethanmoore.substack.com/p/amd-q32024-financials)
+* [2024-10-30, 11:22:37](https://news.ycombinator.com/item?id=41993717) - [A Zine on Multiset Rewriting](https://wiki.xxiivv.com/site/pocket_rewriting.html)
 * [2024-10-30, 11:12:59](https://news.ycombinator.com/item?id=41993662) - [Astral: Next-Gen Python Tooling](https://astral.sh/)
 * [2024-10-30, 11:10:47](https://news.ycombinator.com/item?id=41993648) - [Pg_analytics is now PostgreSQL Licensed](https://github.com/paradedb/pg_analytics)
 * [2024-10-30, 10:53:09](https://news.ycombinator.com/item?id=41993556) - [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
