@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 13:49:43](https://news.ycombinator.com/item?id=42016904) - [How to Train Yourself to Go to Sleep Earlier](https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 12:21:42](https://news.ycombinator.com/item?id=42016225) - [Crowds gather in Dublin for fake Halloween parade posted on social media](https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/)
 * [2024-11-01, 10:11:54](https://news.ycombinator.com/item?id=42015506) - [Winlator is an Android application that lets you to run Windows (x86_64) apps](https://github.com/brunodev85/winlator)
@@ -15,6 +16,7 @@
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 06:45:01](https://news.ycombinator.com/item?id=42014588) - [Apple silently uploads your passwords and keeps them](https://lapcatsoftware.com/articles/2024/10/4.html)
+* [2024-11-01, 04:26:04](https://news.ycombinator.com/item?id=42014045) - [UTF-8 characters that behave oddly when the case is changed](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
