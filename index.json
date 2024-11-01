@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-11-01, 15:59:01",
-      "https://news.ycombinator.com/item?id=42018282"
-    ],
-    [
-      "How to inspect TLS encrypted traffic",
-      "https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 15:56:28",
-      "https://news.ycombinator.com/item?id=42018247"
-    ],
-    [
-      "ADHD should not be treated as a disorder",
-      "https://www.economist.com/leaders/2024/10/30/adhd-should-not-be-treated-as-a-disorder"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 15:36:27",
       "https://news.ycombinator.com/item?id=42018013"
     ],
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2024-11-01, 04:26:04",
-      "https://news.ycombinator.com/item?id=42014045"
-    ],
-    [
-      "UTF-8 characters that behave oddly when the case is changed",
-      "https://gist.github.com/rendello/d37552507a389656e248f3255a618127"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 03:38:37",
       "https://news.ycombinator.com/item?id=42013843"
     ],
@@ -207,6 +177,16 @@
     [
       "ChatGPT Search",
       "https://openai.com/index/introducing-chatgpt-search/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 13:28:31",
+      "https://news.ycombinator.com/item?id=42006698"
+    ],
+    [
+      "Fuzzing between the lines in popular barcode software",
+      "https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "NandGame – Build a computer from scratch",
       "https://www.nandgame.com"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 18:53:50",
+      "https://news.ycombinator.com/item?id=41998838"
+    ],
+    [
+      "Sets, types and type checking",
+      "https://kaleidawave.github.io/posts/sets-types-and-type-checking/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 14:52:55",
+      "https://news.ycombinator.com/item?id=41995615"
+    ],
+    [
+      "Democratising publishing",
+      "https://john.onolan.org/democratising-publishing/"
     ]
   ],
   [
