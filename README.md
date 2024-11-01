@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-01, 19:33:35](https://news.ycombinator.com/item?id=42020670) - [The Cult of Microsoft](https://www.wheresyoured.at/the-cult-of-microsoft/)
 * [2024-11-01, 19:11:49](https://news.ycombinator.com/item?id=42020486) - [A 22 percent increase in the German minimum wage: nothing crazy](https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
@@ -23,6 +22,7 @@
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+* [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-30, 14:50:23](https://news.ycombinator.com/item?id=41995589) - [Recursion, Tidy Stars, and Water Lilies](https://planktonvalhalla.com/20241030-recursion-tidy-stars-and-water-lilies/)
