@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 16:25:44](https://news.ycombinator.com/item?id=42018603) - [ISO C23 Standard Published](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 15:59:01](https://news.ycombinator.com/item?id=42018282) - [How to inspect TLS encrypted traffic](https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/)
 * [2024-11-01, 15:56:28](https://news.ycombinator.com/item?id=42018247) - [ADHD should not be treated as a disorder](https://www.economist.com/leaders/2024/10/30/adhd-should-not-be-treated-as-a-disorder)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)

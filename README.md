@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 16:25:44](https://news.ycombinator.com/item?id=42018603) - [ISO C23 Standard Published](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
@@ -24,7 +25,6 @@
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
 * [2024-10-31, 06:40:48](https://news.ycombinator.com/item?id=42004069) - [Food Colorants Before Aniline Dyes (1991) [pdf]](https://acshist.scs.illinois.edu/bulletin_open_access/num10/num10%20p25-31.pdf)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
-* [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
 * [2024-10-28, 13:01:34](https://news.ycombinator.com/item?id=41970640) - [Debugging Compiled Code for R with Positron](https://www.tylermw.com/posts/coding/debugging_cpp_in_positron.html)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
