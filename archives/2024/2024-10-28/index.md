@@ -67,6 +67,7 @@
 * [2024-10-28, 09:42:56](https://news.ycombinator.com/item?id=41969312) - [Survival Analysis Part I: Basic concepts and first analyses](https://www.nature.com/articles/6601118)
 * [2024-10-28, 09:38:04](https://news.ycombinator.com/item?id=41969291) - [Using Survival Analysis to estimate product lifetime](https://jumpdata.co.uk/using-survival-analysis-to-estimate-product-lifetime/)
 * [2024-10-28, 08:46:45](https://news.ycombinator.com/item?id=41968942) - [Jump Trading, Virtu and the 'hidden optical fibre cable' under an Ohio field](https://www.ft.com/content/099342e4-cae8-4ac7-86bd-a3f2048065e8)
+* [2024-10-28, 08:46:44](https://news.ycombinator.com/item?id=41968940) - [Bionic reading converter for ePub in Rust](https://github.com/mmatczuk/bioniconv)
 * [2024-10-28, 08:40:53](https://news.ycombinator.com/item?id=41968892) - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 * [2024-10-28, 08:32:20](https://news.ycombinator.com/item?id=41968840) - [The Unnecessary Decline of U.S. Numerical Weather Prediction](https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html)
 * [2024-10-28, 08:24:05](https://news.ycombinator.com/item?id=41968797) - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
