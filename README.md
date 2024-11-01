@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook](https://shellhaters.org/talk)
@@ -28,7 +29,6 @@
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-29, 22:57:55](https://news.ycombinator.com/item?id=41990292) - [Show HN: I built PixSpeed to optimize website images for free](https://pixspeed.com/)
 * [2024-10-29, 14:14:16](https://news.ycombinator.com/item?id=41984038) - [Iceberg A-68: The story of how a mega-berg transformed the ocean](https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean)
-* [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s Were a Watershed for Swear Words (2022)](https://www.historytoday.com/archive/explicit-content)
 * [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 
 ## [Archives](archives/index.md)
