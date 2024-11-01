@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-01, 15:01:57",
+      "https://news.ycombinator.com/item?id=42017580"
+    ],
+    [
+      "Ask HN: Who is hiring? (November 2024)",
+      "https://news.ycombinator.com/item?id=42017580"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 14:49:45",
+      "https://news.ycombinator.com/item?id=42017453"
+    ],
+    [
+      "Iconic Gun-Makers Gave Sensitive Customer Information to Political Operatives",
+      "https://www.propublica.org/article/gunmakers-owners-sensitive-personal-information-glock-remington-nssf"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 14:22:53",
+      "https://news.ycombinator.com/item?id=42017163"
+    ],
+    [
+      "Analyzing Go Build Times (2023)",
+      "https://blog.howardjohn.info/posts/go-build-times/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 14:10:07",
       "https://news.ycombinator.com/item?id=42017048"
     ],
@@ -11,22 +41,12 @@
   ],
   [
     [
-      "2024-11-01, 14:05:47",
-      "https://news.ycombinator.com/item?id=42017012"
+      "2024-11-01, 13:24:27",
+      "https://news.ycombinator.com/item?id=42016718"
     ],
     [
-      "Why Pascal Deserves a Second Look",
-      "https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 13:53:32",
-      "https://news.ycombinator.com/item?id=42016931"
-    ],
-    [
-      "Apple's M4 Max chip is the fastest single-core performer in consumer computing",
-      "https://twitter.com/LeakerApple/status/1852280766471999661"
+      "Google employees pressure execs at all-hands meeting for clarity on cost cuts",
+      "https://www.cnbc.com/2024/11/01/google-employees-pressure-execs-at-all-hands-for-clarity-on-cost-cuts.html"
     ]
   ],
   [
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2024-11-01, 12:21:42",
-      "https://news.ycombinator.com/item?id=42016225"
-    ],
-    [
-      "Crowds gather in Dublin for fake Halloween parade posted on social media",
-      "https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 09:30:13",
       "https://news.ycombinator.com/item?id=42015284"
     ],
     [
       "Using the Strangler Fig with Mobile Apps",
       "https://martinfowler.com/articles/strangler-fig-mobile-apps.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 08:25:42",
+      "https://news.ycombinator.com/item?id=42015005"
+    ],
+    [
+      "Universe would die before monkey with keyboard writes Shakespeare, study finds",
+      "https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-10-31, 08:15:23",
+      "https://news.ycombinator.com/item?id=42004508"
+    ],
+    [
+      "The Dual Nature of Events in Event-Driven Architecture",
+      "https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 06:57:35",
       "https://news.ycombinator.com/item?id=42004133"
     ],
@@ -237,36 +267,6 @@
     [
       "Democratising publishing",
       "https://john.onolan.org/democratising-publishing/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 16:37:13",
-      "https://news.ycombinator.com/item?id=41973116"
-    ],
-    [
-      "Web Assembly audio decoders highly optimized for size and performance",
-      "https://github.com/eshaz/wasm-audio-decoders"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 16:03:23",
-      "https://news.ycombinator.com/item?id=41972605"
-    ],
-    [
-      "Crux, a Precise Verifier for Rust and Other Languages",
-      "https://arxiv.org/abs/2410.18280"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 15:34:58",
-      "https://news.ycombinator.com/item?id=41972173"
-    ],
-    [
-      "Lectron System, the Arduino Precursor",
-      "https://lectron.info/"
     ]
   ],
   [
