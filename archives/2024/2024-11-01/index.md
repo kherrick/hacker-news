@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 17:38:24](https://news.ycombinator.com/item?id=42019488) - [300 people applied to rent $700/month sleeping pods in downtown San Francisco](https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis)
 * [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 * [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
+* [2024-11-01, 17:02:14](https://news.ycombinator.com/item?id=42019083) - [Broadwell's EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
 * [2024-11-01, 16:25:44](https://news.ycombinator.com/item?id=42018603) - [ISO C23 Standard Published](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 15:59:01](https://news.ycombinator.com/item?id=42018282) - [How to inspect TLS encrypted traffic](https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/)
 * [2024-11-01, 15:56:28](https://news.ycombinator.com/item?id=42018247) - [ADHD should not be treated as a disorder](https://www.economist.com/leaders/2024/10/30/adhd-should-not-be-treated-as-a-disorder)
