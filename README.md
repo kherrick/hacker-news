@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:38:24](https://news.ycombinator.com/item?id=42019488) - [300 people applied to rent $700/month sleeping pods in downtown San Francisco](https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis)
 * [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 * [2024-11-01, 17:02:14](https://news.ycombinator.com/item?id=42019083) - [Broadwell's EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
@@ -21,13 +22,12 @@
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
-* [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
+* [2024-10-29, 22:57:55](https://news.ycombinator.com/item?id=41990292) - [Show HN: I built PixSpeed to optimize website images for free](https://pixspeed.com/)
 * [2024-10-29, 14:14:16](https://news.ycombinator.com/item?id=41984038) - [Iceberg A-68: The story of how a mega-berg transformed the ocean](https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean)
 * [2024-10-28, 13:01:34](https://news.ycombinator.com/item?id=41970640) - [Debugging Compiled Code for R with Positron](https://www.tylermw.com/posts/coding/debugging_cpp_in_positron.html)
-* [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s Were a Watershed for Swear Words (2022)](https://www.historytoday.com/archive/explicit-content)
 * [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 
