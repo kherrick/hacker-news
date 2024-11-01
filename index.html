@@ -129,6 +129,117 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42017833">
+          <h3>
+            <a class="item" href="https://github.com/mxmlnkn/ratarmount"
+              >Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a
+              FUSE filesystem</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-01 @ 15:25:03</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42017833"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Since my first posted introduction of ratarmount [0], 2 years
+                have gone by and many features have been added.
+              </p>
+              <p>
+                To summarize, ratarmount enables working with archived contents
+                exposed as a filesystem without the data having to be extracted
+                to disk:
+              </p>
+              <p></p>
+              <pre><code>    pip install ratarmount
+    ratarmount archive.tar mounted
+    ls -la mounted
+</code></pre>
+              I started this project after noticing the slowness of archivemount
+              with large TAR files and wondering how this could be because the
+              file contents exist at some offset in the archive file and it
+              should not be difficult to read that data. Turns out, that part
+              was not difficult, however packaging everything nicely, adding
+              tests, and adding many more formats and features such as union
+              mounting and recursive mounting, are the things keeping me busy on
+              this project until today. Since the last Show HN, a libarchive,
+              SquashFS, fsspec, and many more backends have been added, so that
+              it now should be able to read every format that archivemount can
+              and some more, and even read them remotely. However, performance
+              for any use case besides bzip2/gzip-compressed TARs may vary even
+              though I did my best.
+              <p>
+                Personally, I am using it view to packed folders with many small
+                files that do not change anymore. I pack these folders because
+                else copying to other hard drives takes much longer. I'm also
+                using it when I want to avoid the command line. I have added
+                ratarmount as a Caja user script for mounting via right-click.
+                This way, I can mount an archive and then copy the contents to
+                another drive to effectively do the extraction and copying in
+                one step. Initially, I have also used it to train on the
+                ImageNet TAR archive directly.
+              </p>
+              <p>
+                I probably should have released a 1.0.0 some years ago because I
+                have kept the command line interface and even the index file
+                format compatible as best as possible between the several 0.x
+                versions already.
+              </p>
+              <p>Some larger future features on my wishlist are:</p>
+              <p>
+                - A new indexed_lz4 backend. This should be doable inside my
+                indexed_bzip2 [1] / rapidgzip [2] backend library.
+              </p>
+              <p>
+                - A custom ZIP and SquashFS reader accelerated by rapidgzip and
+                indexed_bzip2 to enable faster seeking inside large files inside
+                those archives.
+              </p>
+              <p>
+                - I am eagerly awaiting the Linux Kernel FUSE BPF support [3],
+                which might enable some further latency reductions for use cases
+                with very small files / very small reads, at least in the case
+                of working with uncompressed archives. I have done comparisons
+                for such archives (100k images a 100 KiB) and noticed that
+                direct access via the Python library ratarmountcore was roughly
+                two times faster than access via ratarmount and FUSE. Maybe I'll
+                even find the time to play around with the existing unmerged
+                FUSE BPF patch set.
+              </p>
+              <p>
+                [0]
+                <a href="https://news.ycombinator.com/item?id=30631387"
+                  >https://news.ycombinator.com/item?id=30631387</a
+                >
+              </p>
+              <p>
+                [1]
+                <a href="https://news.ycombinator.com/item?id=31875318"
+                  >https://news.ycombinator.com/item?id=31875318</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://news.ycombinator.com/item?id=37378411"
+                  >https://news.ycombinator.com/item?id=37378411</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://lwn.net/Articles/937433/"
+                  >https://lwn.net/Articles/937433/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42017580">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=42017580"
@@ -139,11 +250,11 @@
             <h4>
               <span>2024-11-01 @ 15:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42017580"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -214,7 +325,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42017504"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -232,32 +343,11 @@
             <h4>
               <span>2024-11-01 @ 14:47:34</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42017428"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42017163">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.howardjohn.info/posts/go-build-times/"
-              >Analyzing Go Build Times (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-01 @ 14:22:53</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42017163"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -273,7 +363,7 @@
             <h4>
               <span>2024-11-01 @ 14:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42017048"
                   >Comments</a
@@ -295,11 +385,30 @@
             <h4>
               <span>2024-11-01 @ 13:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42016718"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42016639">
+          <h3>
+            <a class="item" href="https://github.com/vadimdemedes/ink"
+              >Ink: React for Interactive CLI Apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-01 @ 13:15:47</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42016639"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -317,11 +426,11 @@
             <h4>
               <span>2024-11-01 @ 12:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42016478"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -360,11 +469,11 @@
             <h4>
               <span>2024-11-01 @ 08:25:42</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42015005"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -379,7 +488,7 @@
             <h4>
               <span>2024-11-01 @ 07:02:48</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42014650"
                   >Comments</a
@@ -417,11 +526,11 @@
             <h4>
               <span>2024-11-01 @ 04:26:04</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42014045"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -438,7 +547,7 @@
             <h4>
               <span>2024-11-01 @ 03:38:37</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42013843"
                   >Comments</a
@@ -459,11 +568,11 @@
             <h4>
               <span>2024-11-01 @ 03:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42013762"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -502,32 +611,11 @@
             <h4>
               <span>2024-10-31 @ 20:36:53</span
               ><span class="points-container"
-                >Points: <span class="points">531</span></span
+                >Points: <span class="points">534</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42011239"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42009196">
-          <h3>
-            <a
-              class="item"
-              href="https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates"
-              >Antibody Drug Conjugates: A frontier in cancer treatment</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-10-31 @ 17:35:11</span
-              ><span class="points-container"
-                >Points: <span class="points">89</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42009196"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -544,11 +632,11 @@
             <h4>
               <span>2024-10-31 @ 16:41:22</span
               ><span class="points-container"
-                >Points: <span class="points">1340</span></span
+                >Points: <span class="points">1343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42008569"
                   >Comments</a
-                ><span class="descendants">: 1113</span></span
+                ><span class="descendants">: 1119</span></span
               >
             </h4>
           </section>
@@ -565,7 +653,7 @@
             <h4>
               <span>2024-10-31 @ 13:28:31</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42006698"
                   >Comments</a
@@ -587,11 +675,11 @@
             <h4>
               <span>2024-10-31 @ 11:11:52</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42005601"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -608,11 +696,11 @@
             <h4>
               <span>2024-10-31 @ 08:15:23</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42004508"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -668,7 +756,7 @@
             <h4>
               <span>2024-10-30 @ 20:27:12</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41999852"
                   >Comments</a
@@ -689,11 +777,11 @@
             <h4>
               <span>2024-10-30 @ 18:53:50</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41998838"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -710,11 +798,11 @@
             <h4>
               <span>2024-10-30 @ 15:58:39</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41996608"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -735,7 +823,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41995615"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -750,7 +838,7 @@
             <h4>
               <span>2024-10-28 @ 09:57:38</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41969416"
                   >Comments</a
@@ -771,7 +859,7 @@
             <h4>
               <span>2024-10-28 @ 04:18:16</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41967849"
                   >Comments</a
@@ -792,11 +880,11 @@
             <h4>
               <span>2024-10-27 @ 15:06:25</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41963104"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
