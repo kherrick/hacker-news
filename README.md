@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
-* [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
-* [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
+* [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet (2017)](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 * [2024-11-01, 01:57:40](https://news.ycombinator.com/item?id=42013368) - [DAWN: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
 * [2024-11-01, 01:04:01](https://news.ycombinator.com/item?id=42013091) - [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
@@ -18,6 +17,7 @@
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
+* [2024-10-30, 20:32:58](https://news.ycombinator.com/item?id=41999923) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 15:58:39](https://news.ycombinator.com/item?id=41996608) - [The carefulness knob](https://surfingcomplexity.blog/2024/10/29/the-carefulness-knob/)
@@ -26,8 +26,8 @@
 * [2024-10-28, 18:06:31](https://news.ycombinator.com/item?id=41974168) - [RTP: One protocol to rule them all?](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
-* [2024-10-28, 08:46:44](https://news.ycombinator.com/item?id=41968940) - [Bionic reading converter for ePub in Rust](https://github.com/mmatczuk/bioniconv)
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method in Ruby](https://zverok.space/blog/2024-10-21-global_functions.html)
+* [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
 
