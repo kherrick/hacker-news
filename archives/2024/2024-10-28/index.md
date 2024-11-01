@@ -8,6 +8,7 @@
 * [2024-10-28, 23:26:21](https://news.ycombinator.com/item?id=41977665) - [Show HN: Apache ResilientDB, High-Performance Open-Source Blockchain](https://resilientdb.incubator.apache.org/)
 * [2024-10-28, 22:47:42](https://news.ycombinator.com/item?id=41977353) - [The Pentaconta Crossbar and Exchange](https://www.calling315.com/pentaconta)
 * [2024-10-28, 22:31:11](https://news.ycombinator.com/item?id=41977205) - [Why Slight Failed: A Slight Post-Mortem](https://www.colmanhumphrey.com/posts/why-slight-failed/)
+* [2024-10-28, 21:53:14](https://news.ycombinator.com/item?id=41976815) - [Microprocessor's Romance with Integers](https://www.freecodecamp.org/news/microprocessors-romance-with-integers/)
 * [2024-10-28, 21:48:27](https://news.ycombinator.com/item?id=41976754) - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 * [2024-10-28, 21:43:25](https://news.ycombinator.com/item?id=41976698) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-10-28, 21:40:38](https://news.ycombinator.com/item?id=41976673) - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
