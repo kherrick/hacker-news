@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-11-01, 03:24:17",
-      "https://news.ycombinator.com/item?id=42013762"
-    ],
-    [
-      "Embeddings Are Underrated",
-      "https://technicalwriting.dev/data/embeddings.html"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 03:02:58",
       "https://news.ycombinator.com/item?id=42013683"
     ],
     [
-      "Org Mode Syntax Cheat Sheet",
+      "Org Mode Syntax Cheat Sheet (2017)",
       "https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/"
     ]
   ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-10-30, 20:32:58",
+      "https://news.ycombinator.com/item?id=41999923"
+    ],
+    [
+      "Everyone is wrong about that Slack flowchart",
+      "https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 20:27:12",
       "https://news.ycombinator.com/item?id=41999852"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-10-28, 08:46:44",
-      "https://news.ycombinator.com/item?id=41968940"
-    ],
-    [
-      "Bionic reading converter for ePub in Rust",
-      "https://github.com/mmatczuk/bioniconv"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 05:11:09",
       "https://news.ycombinator.com/item?id=41968024"
     ],
     [
       "There is no such thing as a global method in Ruby",
       "https://zverok.space/blog/2024-10-21-global_functions.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-27, 17:30:03",
+      "https://news.ycombinator.com/item?id=41964149"
+    ],
+    [
+      "The unreleased Commodore HHC-4's identity",
+      "http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html"
     ]
   ],
   [
