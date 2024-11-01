@@ -17,7 +17,6 @@
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the regular expression that checks if a number is prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
-* [2024-10-31, 02:12:23](https://news.ycombinator.com/item?id=42002757) - [Legal bid for Ecuador forest to be recognised as song co-creator](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator)
 * [2024-10-30, 20:32:58](https://news.ycombinator.com/item?id=41999923) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-30, 20:27:12](https://news.ycombinator.com/item?id=41999852) - [NandGame – Build a computer from scratch](https://www.nandgame.com)
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
@@ -28,6 +27,7 @@
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
+* [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
 
