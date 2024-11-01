@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-11-01, 04:13:31",
-      "https://news.ycombinator.com/item?id=42014000"
-    ],
-    [
-      "Elite School Will Offer a Day Off for Students Distressed by Election",
-      "https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 03:38:37",
       "https://news.ycombinator.com/item?id=42013843"
     ],
     [
       "What is the point of an online conference?",
       "https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 03:24:17",
+      "https://news.ycombinator.com/item?id=42013762"
+    ],
+    [
+      "Embeddings Are Underrated",
+      "https://technicalwriting.dev/data/embeddings.html"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-10-28, 18:06:31",
-      "https://news.ycombinator.com/item?id=41974168"
-    ],
-    [
-      "RTP: One protocol to rule them all?",
-      "https://paper.wf/binarycat/rtp"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:03:23",
       "https://news.ycombinator.com/item?id=41972605"
     ],
@@ -267,6 +257,16 @@
     [
       "Lectron System, the Arduino Precursor",
       "https://lectron.info/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 09:57:38",
+      "https://news.ycombinator.com/item?id=41969416"
+    ],
+    [
+      "CIL: C Intermediate Language",
+      "https://github.com/goblint/cil"
     ]
   ],
   [
