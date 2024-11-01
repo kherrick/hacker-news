@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
+* [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
+* [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 * [2024-11-01, 02:47:46](https://news.ycombinator.com/item?id=42013608) - [Sugar Rationing Lowered Diabetes and Hypertension in British Children](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html)
 * [2024-11-01, 01:59:50](https://news.ycombinator.com/item?id=42013379) - [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
 * [2024-11-01, 01:57:40](https://news.ycombinator.com/item?id=42013368) - [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
