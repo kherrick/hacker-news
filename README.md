@@ -2,6 +2,7 @@
 
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 09:30:13](https://news.ycombinator.com/item?id=42015284) - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
+* [2024-11-01, 07:38:06](https://news.ycombinator.com/item?id=42014791) - [Mac Mini with M4 Pro is the fastest Mac ever benchmarked](https://www.macrumors.com/2024/10/31/m4-pro-chip-benchmark-results/)
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
@@ -24,7 +25,6 @@
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or ten new proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
 * [2024-10-28, 20:19:01](https://news.ycombinator.com/item?id=41975746) - [Suits, money laundering, and linear programming](https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/)
-* [2024-10-28, 18:06:31](https://news.ycombinator.com/item?id=41974168) - [RTP: One protocol to rule them all?](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
