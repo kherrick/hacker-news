@@ -17,6 +17,8 @@
 * [2024-11-01, 15:42:58](https://news.ycombinator.com/item?id=42018096) - [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
+* [2024-11-01, 15:19:46](https://news.ycombinator.com/item?id=42017771) - [Using Large Language Models to Catch Vulnerabilities](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
+* [2024-11-01, 15:16:16](https://news.ycombinator.com/item?id=42017726) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
 * [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 * [2024-11-01, 14:49:45](https://news.ycombinator.com/item?id=42017453) - [Iconic Gun-Makers Gave Sensitive Customer Information to Political Operatives](https://www.propublica.org/article/gunmakers-owners-sensitive-personal-information-glock-remington-nssf)
