@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-01, 12:21:42](https://news.ycombinator.com/item?id=42016225) - [Crowds gather in Dublin for fake Halloween parade posted on social media](https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/)
+* [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 09:30:13](https://news.ycombinator.com/item?id=42015284) - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
-* [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
+* [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-11-01, 01:04:01](https://news.ycombinator.com/item?id=42013091) - [A conserved fertilization complex bridges sperm and egg in vertebrates](https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue)
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
