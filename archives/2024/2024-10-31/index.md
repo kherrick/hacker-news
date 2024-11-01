@@ -39,6 +39,7 @@
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the Regular Expression That Checks If a Number Is Prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+* [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
