@@ -11,6 +11,7 @@
 * [2024-11-01, 07:44:20](https://news.ycombinator.com/item?id=42014817) - [It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 * [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
+* [2024-11-01, 06:45:01](https://news.ycombinator.com/item?id=42014588) - [Apple silently uploads your passwords and keeps them](https://lapcatsoftware.com/articles/2024/10/4.html)
 * [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
