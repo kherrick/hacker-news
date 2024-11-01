@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-11-01, 01:09:33",
-      "https://news.ycombinator.com/item?id=42013117"
+      "2024-11-01, 01:59:50",
+      "https://news.ycombinator.com/item?id=42013379"
     ],
     [
-      "Technical Women and Women-in-Tech",
-      "https://deadsimpletech.com/blog/women_in_tech"
+      "Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk",
+      "https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 01:57:40",
+      "https://news.ycombinator.com/item?id=42013368"
+    ],
+    [
+      "Dawn: Designing Distributed Agents in a Worldwide Network",
+      "https://arxiv.org/abs/2410.22339"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 01:42:13",
+      "https://news.ycombinator.com/item?id=42013298"
+    ],
+    [
+      "Let's Encrypt is unable to validate domain names",
+      "https://letsencrypt.status.io/pages/55957a99e800baa4470002da"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 01:04:01",
+      "https://news.ycombinator.com/item?id=42013091"
+    ],
+    [
+      "A conserved fertilization complex bridges sperm and egg in vertebrates",
+      "https://www.cell.com/cell/fulltext/S0092-8674(24)01093-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424010936%3Fshowall%3Dtrue"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "The National EUV Accelerator comes to Albany",
       "https://research.ibm.com/blog/euv-center-albany-nstc"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 18:03:23",
-      "https://news.ycombinator.com/item?id=42009570"
-    ],
-    [
-      "Bayesian Yacht Sinking",
-      "https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2024-10-28, 20:19:01",
-      "https://news.ycombinator.com/item?id=41975746"
-    ],
-    [
-      "Suits, money laundering, and linear programming",
-      "https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 18:06:31",
-      "https://news.ycombinator.com/item?id=41974168"
-    ],
-    [
-      "RTP: One protocol to rule them all?",
-      "https://paper.wf/binarycat/rtp"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:03:23",
       "https://news.ycombinator.com/item?id=41972605"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-10-28, 08:02:44",
-      "https://news.ycombinator.com/item?id=41968704"
+      "2024-10-28, 08:46:44",
+      "https://news.ycombinator.com/item?id=41968940"
     ],
     [
-      "Tyler-Style Font Maker",
-      "https://chromakopiafontgenerator.org/"
+      "Bionic reading converter for ePub in Rust",
+      "https://github.com/mmatczuk/bioniconv"
     ]
   ],
   [
