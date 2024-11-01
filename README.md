@@ -2,6 +2,7 @@
 
 * [2024-11-01, 21:02:46](https://news.ycombinator.com/item?id=42021535) - [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
 * [2024-11-01, 20:45:00](https://news.ycombinator.com/item?id=42021380) - [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
+* [2024-11-01, 20:30:13](https://news.ycombinator.com/item?id=42021237) - [Linux on Apple Silicon with Alyssa Rosenzweig](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook (2010)](https://shellhaters.org/talk)
@@ -13,7 +14,6 @@
 * [2024-11-01, 15:16:16](https://news.ycombinator.com/item?id=42017726) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
 * [2024-11-01, 15:01:56](https://news.ycombinator.com/item?id=42017578) - [Ask HN: Who wants to be hired? (November 2024)](https://news.ycombinator.com/item?id=42017578)
-* [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 * [2024-11-01, 14:10:07](https://news.ycombinator.com/item?id=42017048) - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
 * [2024-11-01, 13:53:32](https://news.ycombinator.com/item?id=42016931) - [Apple's M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 * [2024-11-01, 13:15:47](https://news.ycombinator.com/item?id=42016639) - [Ink: React for interactive CLI apps](https://github.com/vadimdemedes/ink)
