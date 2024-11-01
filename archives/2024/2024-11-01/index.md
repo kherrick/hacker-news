@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 14:10:07](https://news.ycombinator.com/item?id=42017048) - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
+* [2024-11-01, 14:05:47](https://news.ycombinator.com/item?id=42017012) - [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
+* [2024-11-01, 13:53:32](https://news.ycombinator.com/item?id=42016931) - [Apple's M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 * [2024-11-01, 13:49:43](https://news.ycombinator.com/item?id=42016904) - [How to Train Yourself to Go to Sleep Earlier](https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 12:21:42](https://news.ycombinator.com/item?id=42016225) - [Crowds gather in Dublin for fake Halloween parade posted on social media](https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/)
