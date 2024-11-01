@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 08:25:42](https://news.ycombinator.com/item?id=42015005) - [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
 * [2024-11-01, 07:44:20](https://news.ycombinator.com/item?id=42014817) - [It's been 30 years since Intel's infamous Pentium FDIV bug reared its ugly head](https://www.tomshardware.com/pc-components/cpus/its-been-30-years-since-intels-infamous-pentium-fdiv-bug-reared-its-ugly-head-a-math-bug-caused-intels-first-cpu-recall)
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
@@ -24,7 +25,6 @@
 * [2024-10-30, 14:52:55](https://news.ycombinator.com/item?id=41995615) - [Democratising publishing](https://john.onolan.org/democratising-publishing/)
 * [2024-10-29, 20:50:07](https://news.ycombinator.com/item?id=41989239) - [A collection of Halloween postcards from \"golden age\" of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or ten new proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)
-* [2024-10-28, 16:37:13](https://news.ycombinator.com/item?id=41973116) - [Web Assembly audio decoders highly optimized for size and performance](https://github.com/eshaz/wasm-audio-decoders)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 09:57:38](https://news.ycombinator.com/item?id=41969416) - [CIL: C Intermediate Language](https://github.com/goblint/cil)
