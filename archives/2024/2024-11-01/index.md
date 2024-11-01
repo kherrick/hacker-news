@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 10:11:54](https://news.ycombinator.com/item?id=42015506) - [Winlator is an Android application that lets you to run Windows (x86_64) apps](https://github.com/brunodev85/winlator)
 * [2024-11-01, 09:37:25](https://news.ycombinator.com/item?id=42015323) - [Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
 * [2024-11-01, 09:30:13](https://news.ycombinator.com/item?id=42015284) - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
 * [2024-11-01, 08:25:42](https://news.ycombinator.com/item?id=42015005) - [Universe would die before monkey with keyboard writes Shakespeare, study finds](https://www.theguardian.com/science/2024/nov/01/infinite-monkey-theorem-keyboard-tyepwriter-shakespeare-study)
