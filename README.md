@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet (2017)](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
 * [2024-11-01, 01:57:40](https://news.ycombinator.com/item?id=42013368) - [DAWN: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
@@ -26,7 +27,6 @@
 * [2024-10-28, 18:06:31](https://news.ycombinator.com/item?id=41974168) - [RTP: One protocol to rule them all?](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
-* [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method in Ruby](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)

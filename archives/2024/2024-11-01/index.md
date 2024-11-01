@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
