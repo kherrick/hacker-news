@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 02:47:46](https://news.ycombinator.com/item?id=42013608) - [Sugar Rationing Lowered Diabetes and Hypertension in British Children](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html)
 * [2024-11-01, 01:59:50](https://news.ycombinator.com/item?id=42013379) - [Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk/)
 * [2024-11-01, 01:57:40](https://news.ycombinator.com/item?id=42013368) - [Dawn: Designing Distributed Agents in a Worldwide Network](https://arxiv.org/abs/2410.22339)
 * [2024-11-01, 01:42:13](https://news.ycombinator.com/item?id=42013298) - [Let's Encrypt is unable to validate domain names](https://letsencrypt.status.io/pages/55957a99e800baa4470002da)
