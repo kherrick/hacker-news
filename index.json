@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-01, 13:49:43",
-      "https://news.ycombinator.com/item?id=42016904"
+      "2024-11-01, 14:10:07",
+      "https://news.ycombinator.com/item?id=42017048"
     ],
     [
-      "How to Train Yourself to Go to Sleep Earlier",
-      "https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier"
+      "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters",
+      "https://arxiv.org/abs/2410.23168"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 14:05:47",
+      "https://news.ycombinator.com/item?id=42017012"
+    ],
+    [
+      "Why Pascal Deserves a Second Look",
+      "https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 13:53:32",
+      "https://news.ycombinator.com/item?id=42016931"
+    ],
+    [
+      "Apple's M4 Max chip is the fastest single-core performer in consumer computing",
+      "https://twitter.com/LeakerApple/status/1852280766471999661"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Using the Strangler Fig with Mobile Apps",
       "https://martinfowler.com/articles/strangler-fig-mobile-apps.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 07:38:06",
-      "https://news.ycombinator.com/item?id=42014791"
-    ],
-    [
-      "Mac Mini with M4 Pro is the fastest Mac ever benchmarked",
-      "https://www.macrumors.com/2024/10/31/m4-pro-chip-benchmark-results/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-10-29, 20:40:41",
-      "https://news.ycombinator.com/item?id=41989134"
-    ],
-    [
-      "Five or ten new proofs of the Pythagorean Theorem",
-      "https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 20:19:01",
-      "https://news.ycombinator.com/item?id=41975746"
-    ],
-    [
-      "Suits, money laundering, and linear programming",
-      "https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:37:13",
       "https://news.ycombinator.com/item?id=41973116"
     ],
@@ -287,6 +277,16 @@
     [
       "CIL: C Intermediate Language",
       "https://github.com/goblint/cil"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 04:18:16",
+      "https://news.ycombinator.com/item?id=41967849"
+    ],
+    [
+      "The 1600s Were a Watershed for Swear Words (2022)",
+      "https://www.historytoday.com/archive/explicit-content"
     ]
   ],
   [
