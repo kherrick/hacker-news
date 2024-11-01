@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-01, 02:47:46",
-      "https://news.ycombinator.com/item?id=42013608"
+      "2024-11-01, 03:38:37",
+      "https://news.ycombinator.com/item?id=42013843"
     ],
     [
-      "Sugar Rationing Lowered Diabetes and Hypertension in British Children",
-      "https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html"
+      "What is the point of an online conference?",
+      "https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "An Update on Apple M1/M2 GPU Drivers",
       "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 20:32:03",
+      "https://news.ycombinator.com/item?id=42011193"
+    ],
+    [
+      "Wait Until 8th",
+      "https://www.waituntil8th.org"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-10-31, 02:12:23",
-      "https://news.ycombinator.com/item?id=42002757"
-    ],
-    [
-      "Legal bid for Ecuador forest to be recognised as song co-creator",
-      "https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 20:32:58",
       "https://news.ycombinator.com/item?id=41999923"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-10-28, 16:37:13",
-      "https://news.ycombinator.com/item?id=41973116"
+      "2024-10-28, 18:06:31",
+      "https://news.ycombinator.com/item?id=41974168"
     ],
     [
-      "Web Assembly audio decoders highly optimized for size and performance",
-      "https://github.com/eshaz/wasm-audio-decoders"
+      "RTP: One protocol to rule them all?",
+      "https://paper.wf/binarycat/rtp"
     ]
   ],
   [
