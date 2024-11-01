@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
+* [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 * [2024-11-01, 15:42:58](https://news.ycombinator.com/item?id=42018096) - [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 * [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
 * [2024-11-01, 16:25:44](https://news.ycombinator.com/item?id=42018603) - [ISO C23 Standard Published](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 15:59:01](https://news.ycombinator.com/item?id=42018282) - [How to inspect TLS encrypted traffic](https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/)
