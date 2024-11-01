@@ -7,7 +7,6 @@
 * [2024-10-31, 18:03:23](https://news.ycombinator.com/item?id=42009570) - [Bayesian Yacht Sinking](https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html)
 * [2024-10-31, 17:35:11](https://news.ycombinator.com/item?id=42009196) - [Antibody Drug Conjugates: A frontier in cancer treatment](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
-* [2024-10-31, 17:27:31](https://news.ycombinator.com/item?id=42009087) - [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
 * [2024-10-31, 17:01:30](https://news.ycombinator.com/item?id=42008768) - [Activeloop (YC S18) seeks Python back end engineers to build a database for AI](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
@@ -28,6 +27,7 @@
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
 * [2024-10-28, 08:02:44](https://news.ycombinator.com/item?id=41968704) - [Tyler-Style Font Maker](https://chromakopiafontgenerator.org/)
 * [2024-10-28, 05:11:09](https://news.ycombinator.com/item?id=41968024) - [There is no such thing as a global method in Ruby](https://zverok.space/blog/2024-10-21-global_functions.html)
+* [2024-10-27, 17:30:03](https://news.ycombinator.com/item?id=41964149) - [The unreleased Commodore HHC-4's identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 05:09:23](https://news.ycombinator.com/item?id=41960003) - [Tell HN: Robots.txt pitfalls – what I learned the hard way](https://news.ycombinator.com/item?id=41960003)
 * [2024-10-27, 04:38:36](https://news.ycombinator.com/item?id=41959897) - [Lichens in cemetaries and a scientist who studies them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
 
