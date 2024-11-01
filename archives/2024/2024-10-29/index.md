@@ -26,6 +26,7 @@
 * [2024-10-29, 18:58:20](https://news.ycombinator.com/item?id=41988110) - [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 18:06:53](https://news.ycombinator.com/item?id=41987571) - [Oliver Heaviside and the coaxial cable (2016)](https://www.waveform.com/blogs/main/146807175-oliver-heaviside-and-the-coaxial-cable)
+* [2024-10-29, 18:00:51](https://news.ycombinator.com/item?id=41987512) - [Guide to applying to YC – from a founder who was accepted on the third try](https://getfluently.notion.site/Y-Combinator-Application-Guide-1286a9ce04d98004b4dac50cf66fb883)
 * [2024-10-29, 17:46:55](https://news.ycombinator.com/item?id=41987349) - [The Return of Stealth Mountain](https://xeiaso.net/blog/2024/stealth-mountain-returns/)
 * [2024-10-29, 17:26:30](https://news.ycombinator.com/item?id=41987055) - [Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case](https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/)
 * [2024-10-29, 17:19:44](https://news.ycombinator.com/item?id=41986926) - [OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition](https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 20:45:00](https://news.ycombinator.com/item?id=42021380) - [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
 * [2024-11-01, 19:33:35](https://news.ycombinator.com/item?id=42020670) - [The Cult of Microsoft](https://www.wheresyoured.at/the-cult-of-microsoft/)
 * [2024-11-01, 19:17:56](https://news.ycombinator.com/item?id=42020538) - [Half of Young Voters Say They've Lied about Which Candidates They Support](https://www.msn.com/en-us/news/politics/half-of-young-voters-say-they-ve-lied-about-which-candidates-they-support-new-poll-finds/ar-AA1thZks)
 * [2024-11-01, 19:11:49](https://news.ycombinator.com/item?id=42020486) - [A 22 percent increase in the German minimum wage: nothing crazy](https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum)

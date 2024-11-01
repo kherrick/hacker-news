@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-01, 19:11:49](https://news.ycombinator.com/item?id=42020486) - [A 22 percent increase in the German minimum wage: nothing crazy](https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum)
+* [2024-11-01, 20:45:00](https://news.ycombinator.com/item?id=42021380) - [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
-* [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook (2010)](https://shellhaters.org/talk)
 * [2024-11-01, 17:11:20](https://news.ycombinator.com/item?id=42019192) - [Tell HN: We (Causal) got acquired – thank you HN](https://news.ycombinator.com/item?id=42019192)
@@ -28,6 +27,7 @@
 * [2024-10-30, 14:50:23](https://news.ycombinator.com/item?id=41995589) - [Recursion, Tidy Stars, and Water Lilies](https://planktonvalhalla.com/20241030-recursion-tidy-stars-and-water-lilies/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-29, 22:57:55](https://news.ycombinator.com/item?id=41990292) - [Show HN: I built PixSpeed to optimize website images for free](https://pixspeed.com/)
+* [2024-10-29, 18:00:51](https://news.ycombinator.com/item?id=41987512) - [Guide to applying to YC – from a founder who was accepted on the third try](https://getfluently.notion.site/Y-Combinator-Application-Guide-1286a9ce04d98004b4dac50cf66fb883)
 * [2024-10-29, 14:14:16](https://news.ycombinator.com/item?id=41984038) - [Iceberg A-68: The story of how a mega-berg transformed the ocean](https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean)
 * [2024-10-27, 15:06:25](https://news.ycombinator.com/item?id=41963104) - [34x34x34 Rubik's Cube](https://ruwix.com/blog/34x34x34-rubiks-cube-record/)
 
