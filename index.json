@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 21:02:46",
+      "https://news.ycombinator.com/item?id=42021535"
+    ],
+    [
+      "Low-cost, portable device can detect colorectal and prostate cancer in an hour",
+      "https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 20:45:00",
       "https://news.ycombinator.com/item?id=42021380"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-11-01, 18:47:28",
-      "https://news.ycombinator.com/item?id=42020253"
+      "2024-11-01, 18:05:31",
+      "https://news.ycombinator.com/item?id=42019782"
     ],
     [
-      "The Elimination Strategy – Why More Makes Your SaaS Worth Less",
-      "https://slimsaas.com/blog/elimination-strategy/"
+      "Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS",
+      "https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Broadwell's EDRAM: VCache Before VCache Was Cool",
       "https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 16:56:39",
-      "https://news.ycombinator.com/item?id=42019000"
-    ],
-    [
-      "Show HN: Autotab Instruct – Claude Computer Use with Guardrails for Reliability",
-      "https://news.ycombinator.com/item?id=42019000"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-11-01, 14:34:52",
-      "https://news.ycombinator.com/item?id=42017296"
-    ],
-    [
-      "Notes for an annotation SDK (2021)",
-      "https://blog.jonudell.net/2021/09/03/notes-for-an-annotation-sdk/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 14:10:07",
       "https://news.ycombinator.com/item?id=42017048"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42016639"
     ],
     [
-      "Ink: React for Interactive CLI Apps",
+      "Ink: React for interactive CLI apps",
       "https://github.com/vadimdemedes/ink"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Iceberg A-68: The story of how a mega-berg transformed the ocean",
       "https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 21:53:14",
+      "https://news.ycombinator.com/item?id=41976815"
+    ],
+    [
+      "Microprocessor's Romance with Integers",
+      "https://www.freecodecamp.org/news/microprocessors-romance-with-integers/"
     ]
   ],
   [
