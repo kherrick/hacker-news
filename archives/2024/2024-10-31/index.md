@@ -43,6 +43,7 @@
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
+* [2024-10-31, 06:40:48](https://news.ycombinator.com/item?id=42004069) - [Food Colorants Before Aniline Dyes (1991) [pdf]](https://acshist.scs.illinois.edu/bulletin_open_access/num10/num10%20p25-31.pdf)
 * [2024-10-31, 06:36:17](https://news.ycombinator.com/item?id=42004052) - [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
 * [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 * [2024-10-31, 04:00:48](https://news.ycombinator.com/item?id=42003369) - [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
