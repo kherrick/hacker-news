@@ -23,12 +23,12 @@
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 14:46:10](https://news.ycombinator.com/item?id=41995549) - [Boston Dynamics robot Atlas goes hands on [video]](https://www.youtube.com/watch?v=F_7IPm7f1vI)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
-* [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 18:06:53](https://news.ycombinator.com/item?id=41987571) - [Oliver Heaviside and the coaxial cable (2016)](https://www.waveform.com/blogs/main/146807175-oliver-heaviside-and-the-coaxial-cable)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
 * [2024-10-29, 14:42:07](https://news.ycombinator.com/item?id=41984315) - [Show HN: Super Simple CRC32 Implementation](https://github.com/dch82/crc32)
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
+* [2024-10-28, 12:47:36](https://news.ycombinator.com/item?id=41970554) - ['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 ## [Archives](archives/index.md)
