@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-11-01, 17:02:14",
-      "https://news.ycombinator.com/item?id=42019083"
-    ],
-    [
-      "Broadwell's EDRAM: VCache Before VCache Was Cool",
-      "https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 15:36:27",
       "https://news.ycombinator.com/item?id=42018013"
     ],
@@ -147,16 +137,6 @@
     [
       "Using Large Language Models to Catch Vulnerabilities",
       "https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 15:16:16",
-      "https://news.ycombinator.com/item?id=42017726"
-    ],
-    [
-      "Implementing a Tiny CPU Rasterizer",
-      "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)",
       "https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 11:58:44",
+      "https://news.ycombinator.com/item?id=41982974"
+    ],
+    [
+      "The trailing dot in domain names matter",
+      "https://lacot.org/blog/2024/10/29/the-trailing-dot-in-domain-names-a-detail-that-is-often-poorly-managed.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 12:27:43",
+      "https://news.ycombinator.com/item?id=41970394"
+    ],
+    [
+      "Stick to boring architecture for as long as possible",
+      "https://addyosmani.com/blog/boring-architecture/"
     ]
   ],
   [
