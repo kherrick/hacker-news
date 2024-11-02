@@ -10,6 +10,7 @@
 * [2024-10-30, 22:16:22](https://news.ycombinator.com/item?id=42001081) - [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
 * [2024-10-30, 22:11:50](https://news.ycombinator.com/item?id=42001037) - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
 * [2024-10-30, 22:11:08](https://news.ycombinator.com/item?id=42001030) - [Why anti-cheat software utilize kernel drivers (2020)](https://secret.club/2020/04/17/kernel-anticheats.html)
+* [2024-10-30, 22:07:36](https://news.ycombinator.com/item?id=42000994) - [Panic at the SPA](https://www.hai.haus/post/panic-at-the-spa/)
 * [2024-10-30, 21:48:25](https://news.ycombinator.com/item?id=42000784) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-30, 21:35:15](https://news.ycombinator.com/item?id=42000651) - [Hi Google, please stop pooping the bed: a desperate plea from the indie web](https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate)
 * [2024-10-30, 21:33:14](https://news.ycombinator.com/item?id=42000626) - [Is Patrick Mackenzie's salary negotiation guide relevant in today's market?](https://news.ycombinator.com/item?id=42000626)
