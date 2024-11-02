@@ -72,6 +72,7 @@
 * [2024-10-29, 08:43:59](https://news.ycombinator.com/item?id=41980986) - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
 * [2024-10-29, 08:29:15](https://news.ycombinator.com/item?id=41980894) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-29, 08:03:55](https://news.ycombinator.com/item?id=41980681) - [Show HN: I built an app to use a QR code as my doorbell](https://dingdongdoorbell.com)
+* [2024-10-29, 07:24:34](https://news.ycombinator.com/item?id=41980319) - [Minor degree of hypohydration adversely influences cognition](https://pubmed.ncbi.nlm.nih.gov/27510536/)
 * [2024-10-29, 06:07:54](https://news.ycombinator.com/item?id=41979906) - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
 * [2024-10-29, 05:03:45](https://news.ycombinator.com/item?id=41979547) - [Cadillac Ranch over 50 years is 'both interesting and odd' to Ant Farm artist](https://www.amarillo.com/story/news/2024/06/25/cadillac-ranch-at-50-exhibit-shows-evolution-of-original-art-installation-wyatt-mcspadden-chip-lord/74194279007/)
 * [2024-10-29, 03:50:23](https://news.ycombinator.com/item?id=41979203) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
