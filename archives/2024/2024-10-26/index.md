@@ -26,6 +26,7 @@
 * [2024-10-26, 21:00:32](https://news.ycombinator.com/item?id=41957685) - [Carma (YC W24) hiring founding SWEs (remote) to build the next Uber for auto repair](https://news.ycombinator.com/item?id=41957685)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [Saturated fat: the making and unmaking of a scientific consensus (2022)](https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx)
 * [2024-10-26, 20:51:32](https://news.ycombinator.com/item?id=41957637) - [AHA was paid to say heart disease caused by saturated fat (2022)](https://www.eviemagazine.com/post/american-heart-association-was-paid-procter-gamble-heart-disease-saturated-fat-seed-oils-sugar)
+* [2024-10-26, 20:48:49](https://news.ycombinator.com/item?id=41957615) - [Prompts are Programs](https://blog.sigplan.org/2024/10/22/prompts-are-programs/)
 * [2024-10-26, 20:45:58](https://news.ycombinator.com/item?id=41957601) - [PineNote Community Edition](https://pine64.com/product/pinenote-community-edition-coming-soon/)
 * [2024-10-26, 20:42:17](https://news.ycombinator.com/item?id=41957585) - [Long wave radio fans mourn fading frequencies (2023)](https://www.bbc.com/news/business-66644709)
 * [2024-10-26, 20:13:22](https://news.ycombinator.com/item?id=41957377) - [Olivetti’s Ivrea](https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383)

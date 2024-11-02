@@ -2,7 +2,6 @@
 
 * [2024-11-02, 04:30:31](https://news.ycombinator.com/item?id=42024083) - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
 * [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
-* [2024-11-01, 23:56:29](https://news.ycombinator.com/item?id=42022796) - [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
 * [2024-11-01, 23:35:37](https://news.ycombinator.com/item?id=42022649) - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
 * [2024-11-01, 22:23:23](https://news.ycombinator.com/item?id=42022151) - [Sleep regularity is a stronger predictor of mortality than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
@@ -30,6 +29,7 @@
 * [2024-10-29, 11:58:44](https://news.ycombinator.com/item?id=41982974) - [The trailing dot in domain names matter](https://lacot.org/blog/2024/10/29/the-trailing-dot-in-domain-names-a-detail-that-is-often-poorly-managed.html)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s were a watershed for swear words (2022)](https://www.historytoday.com/archive/explicit-content)
+* [2024-10-26, 20:48:49](https://news.ycombinator.com/item?id=41957615) - [Prompts are Programs](https://blog.sigplan.org/2024/10/22/prompts-are-programs/)
 
 ## [Archives](archives/index.md)
 
