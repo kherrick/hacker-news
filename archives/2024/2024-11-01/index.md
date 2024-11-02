@@ -10,6 +10,7 @@
 * [2024-11-01, 22:50:39](https://news.ycombinator.com/item?id=42022335) - [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
 * [2024-11-01, 22:23:23](https://news.ycombinator.com/item?id=42022151) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+* [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-11-01, 21:02:46](https://news.ycombinator.com/item?id=42021535) - [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
 * [2024-11-01, 20:45:00](https://news.ycombinator.com/item?id=42021380) - [Show HN: I Built a Rock, Paper, Scissors roguelike in React](https://xtremerps.com)
 * [2024-11-01, 20:30:13](https://news.ycombinator.com/item?id=42021237) - [Linux on Apple Silicon with Alyssa Rosenzweig](https://softwareengineeringdaily.com/2024/10/15/linux-apple-silicon-alyssa-rosenzweig/)
