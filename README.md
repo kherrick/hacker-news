@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-02, 09:24:57](https://news.ycombinator.com/item?id=42025123) - [Rivian's chief software officer says in-car buttons are 'an anomaly'](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
 * [2024-11-02, 07:31:00](https://news.ycombinator.com/item?id=42024661) - [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 05:25:40](https://news.ycombinator.com/item?id=42024246) - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
@@ -20,7 +21,6 @@
 * [2024-11-01, 13:53:32](https://news.ycombinator.com/item?id=42016931) - [Apple's M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
-* [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost-lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
