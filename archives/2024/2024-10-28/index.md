@@ -16,6 +16,7 @@
 * [2024-10-28, 21:13:48](https://news.ycombinator.com/item?id=41976368) - [Show HN: Basis – a production focused robotics framework](https://github.com/basis-robotics/basis)
 * [2024-10-28, 21:08:16](https://news.ycombinator.com/item?id=41976311) - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 * [2024-10-28, 21:06:50](https://news.ycombinator.com/item?id=41976286) - [Is Porn Misleading Men?](https://aella.substack.com/p/is-porn-misleading-men)
+* [2024-10-28, 20:53:21](https://news.ycombinator.com/item?id=41976165) - [Lady Baker and the Source of the Nile](https://harkness.substack.com/p/lady-baker-and-the-source-of-the)
 * [2024-10-28, 20:37:42](https://news.ycombinator.com/item?id=41975993) - [Why so few Matt Levines?](https://gwern.net/matt-levine)
 * [2024-10-28, 20:35:51](https://news.ycombinator.com/item?id=41975966) - [The Surprising Story Behind America's Most Popular 'I Voted' Sticker](https://www.aarp.org/politics-society/history/info-2024/i-voted-sticker.html)
 * [2024-10-28, 20:19:01](https://news.ycombinator.com/item?id=41975746) - [Suits, money laundering, and linear programming](https://andrewpwheeler.com/2024/10/28/suits-money-laundering-and-linear-programming/)

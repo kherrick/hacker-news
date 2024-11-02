@@ -27,7 +27,7 @@
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 11:22:37](https://news.ycombinator.com/item?id=41993717) - [A Zine on Multiset Rewriting](https://wiki.xxiivv.com/site/pocket_rewriting.html)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
-* [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost-lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
+* [2024-10-28, 20:53:21](https://news.ycombinator.com/item?id=41976165) - [Lady Baker and the Source of the Nile](https://harkness.substack.com/p/lady-baker-and-the-source-of-the)
 * [2024-10-28, 15:52:06](https://news.ycombinator.com/item?id=41972433) - [They want your ethics for $105](https://ntietz.com/blog/ethics-105-dollars/)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review – science, sex and motorcycles](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 
