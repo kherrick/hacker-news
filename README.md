@@ -2,7 +2,6 @@
 
 * [2024-11-01, 23:56:29](https://news.ycombinator.com/item?id=42022796) - [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
 * [2024-11-01, 23:35:37](https://news.ycombinator.com/item?id=42022649) - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
-* [2024-11-01, 22:50:39](https://news.ycombinator.com/item?id=42022335) - [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
 * [2024-11-01, 22:23:23](https://news.ycombinator.com/item?id=42022151) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 * [2024-11-01, 21:02:46](https://news.ycombinator.com/item?id=42021535) - [Low-cost, portable device can detect colorectal and prostate cancer in an hour](https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html)
@@ -21,13 +20,14 @@
 * [2024-11-01, 13:53:32](https://news.ycombinator.com/item?id=42016931) - [Apple's M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
+* [2024-11-01, 07:02:48](https://news.ycombinator.com/item?id=42014650) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
-* [2024-10-30, 22:07:36](https://news.ycombinator.com/item?id=42000994) - [Panic at the SPA](https://www.hai.haus/post/panic-at-the-spa/)
 * [2024-10-30, 11:22:37](https://news.ycombinator.com/item?id=41993717) - [A Zine on Multiset Rewriting](https://wiki.xxiivv.com/site/pocket_rewriting.html)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
+* [2024-10-28, 20:53:21](https://news.ycombinator.com/item?id=41976165) - [Lady Baker and the Source of the Nile](https://harkness.substack.com/p/lady-baker-and-the-source-of-the)
 * [2024-10-28, 15:52:06](https://news.ycombinator.com/item?id=41972433) - [They want your ethics for $105](https://ntietz.com/blog/ethics-105-dollars/)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review – science, sex and motorcycles](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 
