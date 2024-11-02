@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-02, 20:09:27",
+      "https://news.ycombinator.com/item?id=42028911"
+    ],
+    [
+      "Sortledton: A Universal, Transactional Graph Data Structure [pdf]",
+      "https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-02, 19:57:30",
+      "https://news.ycombinator.com/item?id=42028833"
+    ],
+    [
+      "Next Generation Out of Band Garbage Collection",
+      "https://railsatscale.com/2024-10-23-next-generation-oob-gc/"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 19:54:47",
       "https://news.ycombinator.com/item?id=42028814"
     ],
@@ -27,16 +47,6 @@
     [
       "Brute-Forcing the LLM Guardrails",
       "https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 17:28:52",
-      "https://news.ycombinator.com/item?id=42027767"
-    ],
-    [
-      "Static Basic Block Versioning",
-      "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "Weird Lexical Syntax",
       "https://justine.lol/lex/"
+    ]
+  ],
+  [
+    [
+      "2024-11-02, 07:00:44",
+      "https://news.ycombinator.com/item?id=42024554"
+    ],
+    [
+      "Tabular (YC S24) Is Hiring",
+      "https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "The inventor of the automatic rice cooker",
       "https://spectrum.ieee.org/toshiba-rice-cooker"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 23:30:50",
-      "https://news.ycombinator.com/item?id=41990523"
-    ],
-    [
-      "'An incurable romantic': The boy who lived a secret life in World of Warcraft",
-      "https://www.bbc.com/culture/article/20241024-the-remarkable-story-of-the-boy-who-lived-a-secret-life-in-world-of-warcraft"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 20:51:57",
-      "https://news.ycombinator.com/item?id=41989260"
-    ],
-    [
-      "Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)",
-      "https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/"
     ]
   ],
   [
