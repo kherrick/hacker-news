@@ -6,6 +6,7 @@
 
 * [2024-11-02, 09:46:49](https://news.ycombinator.com/item?id=42025217) - [Cppfront v0.8.0](https://github.com/hsutter/cppfront/releases/tag/v0.8.0)
 * [2024-11-02, 09:24:57](https://news.ycombinator.com/item?id=42025123) - [Rivian's chief software officer says in-car buttons are 'an anomaly'](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
+* [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
 * [2024-11-02, 07:31:00](https://news.ycombinator.com/item?id=42024661) - [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 06:44:41](https://news.ycombinator.com/item?id=42024501) - [Highly cited engineer offers guaranteed publication in return for coauthorship](https://retractionwatch.com/2024/10/30/highly-cited-engineer-offers-guaranteed-publication-citations-in-return-for-coauthorship/)
