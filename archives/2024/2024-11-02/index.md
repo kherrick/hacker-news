@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
 * [2024-11-02, 16:56:26](https://news.ycombinator.com/item?id=42027564) - [Britain's postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
 * [2024-11-02, 16:25:54](https://news.ycombinator.com/item?id=42027358) - [Steve Sims Interview on Soft White Underbelly [video]](https://www.youtube.com/watch?v=G8GEp0aM0dg)
 * [2024-11-02, 16:19:41](https://news.ycombinator.com/item?id=42027308) - [Killing the Command message: should we use Events or Documents? (2007)](https://learn.microsoft.com/en-us/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents)

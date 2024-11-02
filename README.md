@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
 * [2024-11-02, 16:56:26](https://news.ycombinator.com/item?id=42027564) - [Britain's postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
 * [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
@@ -13,7 +14,6 @@
 * [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
 * [2024-11-01, 23:35:37](https://news.ycombinator.com/item?id=42022649) - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
-* [2024-11-01, 17:11:20](https://news.ycombinator.com/item?id=42019192) - [Tell HN: We (Causal) got acquired – thank you HN](https://news.ycombinator.com/item?id=42019192)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
 * [2024-11-01, 14:10:07](https://news.ycombinator.com/item?id=42017048) - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
