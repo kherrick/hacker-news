@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 06:29:18](https://news.ycombinator.com/item?id=42024439) - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
@@ -18,7 +19,6 @@
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
-* [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 18:06:28](https://news.ycombinator.com/item?id=41998337) - [A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
