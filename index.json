@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-11-02, 06:04:57",
-      "https://news.ycombinator.com/item?id=42024342"
-    ],
-    [
-      "Cramming Solitaire onto a Nintendo E-Reader card",
-      "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 02:41:08",
       "https://news.ycombinator.com/item?id=42023667"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2024-11-01, 22:43:15",
-      "https://news.ycombinator.com/item?id=42022282"
-    ],
-    [
-      "Nvidia to join Dow Jones Industrial Average, replacing Intel",
-      "https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 21:36:01",
       "https://news.ycombinator.com/item?id=42021786"
     ],
@@ -161,22 +141,12 @@
   ],
   [
     [
-      "2024-11-01, 15:16:16",
-      "https://news.ycombinator.com/item?id=42017726"
+      "2024-10-31, 18:50:00",
+      "https://news.ycombinator.com/item?id=42010136"
     ],
     [
-      "Implementing a Tiny CPU Rasterizer",
-      "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 15:01:56",
-      "https://news.ycombinator.com/item?id=42017578"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (November 2024)",
-      "https://news.ycombinator.com/item?id=42017578"
+      "Cramming Solitaire onto a Nintendo E-Reader card",
+      "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
     ]
   ],
   [
@@ -211,12 +181,32 @@
   ],
   [
     [
-      "2024-10-30, 09:51:41",
-      "https://news.ycombinator.com/item?id=41993303"
+      "2024-10-30, 14:50:23",
+      "https://news.ycombinator.com/item?id=41995589"
     ],
     [
-      "Math and puzzle fans find magic in Martin Gardner's legacy",
-      "https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/"
+      "Recursion, Tidy Stars, and Water Lilies",
+      "https://planktonvalhalla.com/20241030-recursion-tidy-stars-and-water-lilies/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 14:46:10",
+      "https://news.ycombinator.com/item?id=41995549"
+    ],
+    [
+      "Boston Dynamics robot Atlas goes hands on [video]",
+      "https://www.youtube.com/watch?v=F_7IPm7f1vI"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 09:08:45",
+      "https://news.ycombinator.com/item?id=41993096"
+    ],
+    [
+      "The inventor of the automatic rice cooker",
+      "https://spectrum.ieee.org/toshiba-rice-cooker"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Signal: Online MIDI Editor",
       "https://github.com/ryohey/signal"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 14:27:39",
+      "https://news.ycombinator.com/item?id=41984184"
+    ],
+    [
+      "Prisma Postgres – Runs on bare metal and unikernels",
+      "https://www.prisma.io/blog/announcing-prisma-postgres-early-access"
     ]
   ],
   [
