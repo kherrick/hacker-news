@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-11-02, 13:33:39",
-      "https://news.ycombinator.com/item?id=42026292"
-    ],
-    [
-      "Mercedes-Benz opens its own recycling facility for EV batteries",
-      "https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 13:04:50",
-      "https://news.ycombinator.com/item?id=42026167"
-    ],
-    [
-      "Saving Satoshi: An open-source game for learning Bitcoin programming",
-      "https://savingsatoshi.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 07:45:26",
       "https://news.ycombinator.com/item?id=42024727"
     ],
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2024-11-01, 15:19:46",
+      "https://news.ycombinator.com/item?id=42017771"
+    ],
+    [
+      "Using Large Language Models to Catch Vulnerabilities",
+      "https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 15:16:16",
       "https://news.ycombinator.com/item?id=42017726"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2024-11-01, 13:49:43",
-      "https://news.ycombinator.com/item?id=42016904"
-    ],
-    [
-      "How to Train Yourself to Go to Sleep Earlier",
-      "https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 13:09:50",
       "https://news.ycombinator.com/item?id=42016597"
     ],
@@ -201,6 +181,26 @@
   ],
   [
     [
+      "2024-10-31, 08:29:40",
+      "https://news.ycombinator.com/item?id=42004581"
+    ],
+    [
+      "Almost Secure (2011)",
+      "https://debugmo.de/2011/11/almost-secure/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 08:15:23",
+      "https://news.ycombinator.com/item?id=42004508"
+    ],
+    [
+      "The Dual Nature of Events in Event-Driven Architecture",
+      "https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 07:18:09",
       "https://news.ycombinator.com/item?id=42004219"
     ],
@@ -217,6 +217,16 @@
     [
       "A Serious Man: On Bruno Latour",
       "https://www.jhiblog.org/2024/10/28/a-serious-man/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 09:51:41",
+      "https://news.ycombinator.com/item?id=41993303"
+    ],
+    [
+      "Math and puzzle fans find magic in Martin Gardner's legacy",
+      "https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Signal: Online MIDI Editor",
       "https://github.com/ryohey/signal"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 07:24:34",
-      "https://news.ycombinator.com/item?id=41980319"
-    ],
-    [
-      "Minor degree of hypohydration adversely influences cognition",
-      "https://pubmed.ncbi.nlm.nih.gov/27510536/"
     ]
   ],
   [
