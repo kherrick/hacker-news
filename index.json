@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-01, 23:29:12",
-      "https://news.ycombinator.com/item?id=42022599"
+      "2024-11-01, 23:56:29",
+      "https://news.ycombinator.com/item?id=42022796"
     ],
     [
-      "Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average",
-      "https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average"
+      "Okta – Username Above 52 Characters Security Advisory",
+      "https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 23:35:37",
+      "https://news.ycombinator.com/item?id=42022649"
+    ],
+    [
+      "Direct Sockets API in Chrome 131",
+      "https://chromestatus.com/feature/6398297361088512"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-11-01, 13:15:47",
-      "https://news.ycombinator.com/item?id=42016639"
-    ],
-    [
-      "Ink: React for interactive CLI apps",
-      "https://github.com/vadimdemedes/ink"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 13:09:50",
       "https://news.ycombinator.com/item?id=42016597"
     ],
@@ -207,6 +207,16 @@
     [
       "Alexander the Great's tunic identified in royal tomb at Vergina?",
       "https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 07:02:48",
+      "https://news.ycombinator.com/item?id=42014650"
+    ],
+    [
+      "Oasis: A Universe in a Transformer",
+      "https://oasis-model.github.io/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2024-10-29, 18:00:51",
-      "https://news.ycombinator.com/item?id=41987512"
+      "2024-10-28, 15:52:06",
+      "https://news.ycombinator.com/item?id=41972433"
     ],
     [
-      "Guide to applying to YC – from a founder who was accepted on the third try",
-      "https://getfluently.notion.site/Y-Combinator-Application-Guide-1286a9ce04d98004b4dac50cf66fb883"
+      "They want your ethics for $105",
+      "https://ntietz.com/blog/ethics-105-dollars/"
     ]
   ],
   [
     [
-      "2024-10-29, 12:58:16",
-      "https://news.ycombinator.com/item?id=41983394"
+      "2024-10-28, 05:00:34",
+      "https://news.ycombinator.com/item?id=41967988"
     ],
     [
-      "Show HN: Holos – Configure Helm and Kustomize Holistically with Cue",
-      "https://holos.run/docs/guides/helm/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 21:53:14",
-      "https://news.ycombinator.com/item?id=41976815"
-    ],
-    [
-      "Microprocessor's Romance with Integers",
-      "https://www.freecodecamp.org/news/microprocessors-romance-with-integers/"
+      "Letters by Oliver Sacks review – science, sex and motorcycles",
+      "https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review"
     ]
   ]
 ]
