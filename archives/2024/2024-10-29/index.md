@@ -14,6 +14,7 @@
 * [2024-10-29, 21:24:32](https://news.ycombinator.com/item?id=41989555) - [Generative AI could generate tons of e-waste by decade's end](https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html)
 * [2024-10-29, 21:18:58](https://news.ycombinator.com/item?id=41989511) - [RIP BotsIn.Space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 20:57:32](https://news.ycombinator.com/item?id=41989322) - [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/full/)
+* [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 20:50:07](https://news.ycombinator.com/item?id=41989239) - [A collection of Halloween postcards from \"golden age\" of picture postcards](https://publicdomainreview.org/collection/halloween-postcards/)
 * [2024-10-29, 20:41:25](https://news.ycombinator.com/item?id=41989141) - [Sabine Baring-Gould's Book of Were-Wolves (1865)](https://publicdomainreview.org/collection/the-book-of-were-wolves/)
 * [2024-10-29, 20:40:41](https://news.ycombinator.com/item?id=41989134) - [Five or Ten New Proofs of the Pythagorean Theorem](https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240)

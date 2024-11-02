@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 05:25:40](https://news.ycombinator.com/item?id=42024246) - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-02, 04:30:31](https://news.ycombinator.com/item?id=42024083) - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
 * [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
@@ -23,9 +24,8 @@
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
-* [2024-10-30, 11:22:37](https://news.ycombinator.com/item?id=41993717) - [A Zine on Multiset Rewriting](https://wiki.xxiivv.com/site/pocket_rewriting.html)
-* [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost-lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
+* [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 11:58:44](https://news.ycombinator.com/item?id=41982974) - [The trailing dot in domain names matter](https://lacot.org/blog/2024/10/29/the-trailing-dot-in-domain-names-a-detail-that-is-often-poorly-managed.html)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s were a watershed for swear words (2022)](https://www.historytoday.com/archive/explicit-content)
