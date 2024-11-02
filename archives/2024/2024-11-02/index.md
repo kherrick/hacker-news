@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 16:56:26](https://news.ycombinator.com/item?id=42027564) - [Britain's postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
 * [2024-11-02, 16:25:54](https://news.ycombinator.com/item?id=42027358) - [Steve Sims Interview on Soft White Underbelly [video]](https://www.youtube.com/watch?v=G8GEp0aM0dg)
 * [2024-11-02, 16:19:41](https://news.ycombinator.com/item?id=42027308) - [Killing the Command message: should we use Events or Documents? (2007)](https://learn.microsoft.com/en-us/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents)
 * [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
@@ -11,6 +12,7 @@
 * [2024-11-02, 13:33:39](https://news.ycombinator.com/item?id=42026292) - [Mercedes-Benz opens its own recycling facility for EV batteries](https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/)
 * [2024-11-02, 13:04:50](https://news.ycombinator.com/item?id=42026167) - [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
+* [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [Show HN: SpawELO - small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 09:54:54](https://news.ycombinator.com/item?id=42025256) - [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
 * [2024-11-02, 09:46:49](https://news.ycombinator.com/item?id=42025217) - [Cppfront v0.8.0](https://github.com/hsutter/cppfront/releases/tag/v0.8.0)
 * [2024-11-02, 09:24:57](https://news.ycombinator.com/item?id=42025123) - [Rivian's chief software officer says in-car buttons are 'an anomaly'](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
