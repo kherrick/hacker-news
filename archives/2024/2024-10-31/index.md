@@ -9,6 +9,7 @@
 * [2024-10-31, 20:32:03](https://news.ycombinator.com/item?id=42011193) - [Wait Until 8th](https://www.waituntil8th.org)
 * [2024-10-31, 19:43:52](https://news.ycombinator.com/item?id=42010712) - [Sam Altman says lack of compute is delaying the company's products](https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/)
 * [2024-10-31, 19:37:54](https://news.ycombinator.com/item?id=42010653) - [The United States' NSTC EUV Accelerator Is Coming to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
+* [2024-10-31, 18:50:00](https://news.ycombinator.com/item?id=42010136) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
 * [2024-10-31, 18:37:44](https://news.ycombinator.com/item?id=42010004) - [China sanctions US drone maker Skydio](https://www.skydio.com/blog/chinas-sanctions-on-skydio)
 * [2024-10-31, 18:30:35](https://news.ycombinator.com/item?id=42009916) - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)

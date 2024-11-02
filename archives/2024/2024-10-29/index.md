@@ -49,6 +49,7 @@
 * [2024-10-29, 14:56:00](https://news.ycombinator.com/item?id=41984466) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 * [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
+* [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 14:20:29](https://news.ycombinator.com/item?id=41984105) - [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)
 * [2024-10-29, 14:17:39](https://news.ycombinator.com/item?id=41984073) - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
 * [2024-10-29, 14:15:58](https://news.ycombinator.com/item?id=41984060) - [Apple is turning The Oregon Trail into a movie](https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/)
