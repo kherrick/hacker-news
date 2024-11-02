@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-02](index.md)
+
+* [2024-11-02, 04:30:31](https://news.ycombinator.com/item?id=42024083) - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
+* [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
