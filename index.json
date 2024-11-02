@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-11-02, 17:28:52",
+      "https://news.ycombinator.com/item?id=42027767"
+    ],
+    [
+      "Static Basic Block Versioning",
+      "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 17:10:25",
       "https://news.ycombinator.com/item?id=42027654"
     ],
@@ -147,16 +157,6 @@
     [
       "Show HN: Midnight Reminders via Morse Code",
       "https://github.com/dmd/morse"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 21:36:01",
-      "https://news.ycombinator.com/item?id=42021786"
-    ],
-    [
-      "The performance of hashing for similar function detection",
-      "https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/"
     ]
   ],
   [
