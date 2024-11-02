@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+* [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:54:47](https://news.ycombinator.com/item?id=42028814) - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
@@ -12,7 +13,6 @@
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
-* [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 02:41:08](https://news.ycombinator.com/item?id=42023667) - [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
 * [2024-11-02, 01:11:29](https://news.ycombinator.com/item?id=42023237) - [Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)

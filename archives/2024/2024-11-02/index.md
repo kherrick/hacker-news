@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+* [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:54:47](https://news.ycombinator.com/item?id=42028814) - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 * [2024-11-02, 19:36:29](https://news.ycombinator.com/item?id=42028678) - [Israel has destroyed or damaged nearly a quarter of buildings in Lebanon's south](https://www.washingtonpost.com/world/2024/10/31/israel-war-lebanon-south-destruction/)
