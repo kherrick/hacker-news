@@ -19,7 +19,6 @@
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
-* [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 18:06:28](https://news.ycombinator.com/item?id=41998337) - [A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
@@ -28,6 +27,7 @@
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
 * [2024-10-29, 05:03:45](https://news.ycombinator.com/item?id=41979547) - [Cadillac Ranch over 50 years is 'both interesting and odd' to Ant Farm artist](https://www.amarillo.com/story/news/2024/06/25/cadillac-ranch-at-50-exhibit-shows-evolution-of-original-art-installation-wyatt-mcspadden-chip-lord/74194279007/)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
+* [2024-10-28, 12:47:36](https://news.ycombinator.com/item?id=41970554) - ['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s were a watershed for swear words (2022)](https://www.historytoday.com/archive/explicit-content)
 

@@ -62,6 +62,7 @@
 * [2024-10-28, 13:09:53](https://news.ycombinator.com/item?id=41970697) - [Your Doctor Won't See You Now–Or Ever Again](https://thewalrus.ca/your-doctor-wont-see-you/)
 * [2024-10-28, 13:01:34](https://news.ycombinator.com/item?id=41970640) - [Debugging Compiled Code for R with Positron](https://www.tylermw.com/posts/coding/debugging_cpp_in_positron.html)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
+* [2024-10-28, 12:47:36](https://news.ycombinator.com/item?id=41970554) - ['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
 * [2024-10-28, 12:27:43](https://news.ycombinator.com/item?id=41970394) - [Stick to boring architecture for as long as possible](https://addyosmani.com/blog/boring-architecture/)
 * [2024-10-28, 12:16:14](https://news.ycombinator.com/item?id=41970318) - [Ask HN: What ist your AdBlock strategy?](https://news.ycombinator.com/item?id=41970318)
 * [2024-10-28, 12:08:58](https://news.ycombinator.com/item?id=41970261) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
