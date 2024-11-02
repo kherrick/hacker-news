@@ -48,6 +48,7 @@
 * [2024-10-29, 15:15:09](https://news.ycombinator.com/item?id=41984695) - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
 * [2024-10-29, 15:00:21](https://news.ycombinator.com/item?id=41984519) - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 * [2024-10-29, 14:56:00](https://news.ycombinator.com/item?id=41984466) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
+* [2024-10-29, 14:42:07](https://news.ycombinator.com/item?id=41984315) - [Show HN: Super Simple CRC32 Implementation](https://github.com/dch82/crc32)
 * [2024-10-29, 14:39:52](https://news.ycombinator.com/item?id=41984292) - [An Italian 'fruit detective' who investigates centuries-old paintings](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 * [2024-10-29, 14:37:08](https://news.ycombinator.com/item?id=41984269) - [Leave the Internet Archive Alone](https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html)
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
