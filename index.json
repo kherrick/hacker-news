@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-01, 23:56:29",
-      "https://news.ycombinator.com/item?id=42022796"
-    ],
-    [
-      "Okta – Username Above 52 Characters Security Advisory",
-      "https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 23:35:37",
       "https://news.ycombinator.com/item?id=42022649"
     ],
@@ -297,6 +287,16 @@
     [
       "The 1600s were a watershed for swear words (2022)",
       "https://www.historytoday.com/archive/explicit-content"
+    ]
+  ],
+  [
+    [
+      "2024-10-26, 20:48:49",
+      "https://news.ycombinator.com/item?id=41957615"
+    ],
+    [
+      "Prompts are Programs",
+      "https://blog.sigplan.org/2024/10/22/prompts-are-programs/"
     ]
   ]
 ]
