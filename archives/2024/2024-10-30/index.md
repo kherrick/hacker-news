@@ -30,6 +30,7 @@
 * [2024-10-30, 18:53:50](https://news.ycombinator.com/item?id=41998838) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 * [2024-10-30, 18:15:31](https://news.ycombinator.com/item?id=41998453) - [MrBeast Investigation](https://www.loock.io/blog/mrbeast-investigation)
 * [2024-10-30, 18:11:59](https://news.ycombinator.com/item?id=41998416) - [The unlikely inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
+* [2024-10-30, 18:06:28](https://news.ycombinator.com/item?id=41998337) - [A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
 * [2024-10-30, 18:05:23](https://news.ycombinator.com/item?id=41998319) - [Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/)
 * [2024-10-30, 17:55:05](https://news.ycombinator.com/item?id=41998192) - [No Matter What the Bank Says, It's Your Money, Your Data, and Your Choice](https://www.eff.org/deeplinks/2024/10/no-matter-what-bank-says-its-your-money-your-data-and-your-choice)
 * [2024-10-30, 17:44:43](https://news.ycombinator.com/item?id=41998083) - [Mistakes from building a model to scalp concert tickets](https://datastream.substack.com/p/mistakes-from-my-failed-startup-in)
