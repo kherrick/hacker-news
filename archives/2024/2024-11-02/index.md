@@ -16,4 +16,5 @@
 * [2024-11-02, 05:25:40](https://news.ycombinator.com/item?id=42024246) - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-02, 04:30:31](https://news.ycombinator.com/item?id=42024083) - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
 * [2024-11-02, 02:41:08](https://news.ycombinator.com/item?id=42023667) - [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
+* [2024-11-02, 01:11:29](https://news.ycombinator.com/item?id=42023237) - [Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
 * [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
