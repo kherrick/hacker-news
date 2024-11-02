@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-02, 16:19:41](https://news.ycombinator.com/item?id=42027308) - [Killing the Command message: should we use Events or Documents? (2007)](https://learn.microsoft.com/en-us/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents)
 * [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
@@ -23,6 +22,7 @@
 * [2024-10-31, 11:44:19](https://news.ycombinator.com/item?id=42005821) - [Xpanceo smart contact lenses hands-on](https://skarredghost.com/2024/10/31/xpanceo-smart-contact-lenses-hands-on/)
 * [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 18:06:28](https://news.ycombinator.com/item?id=41998337) - [A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
+* [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and puzzle fans find magic in Martin Gardner's legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
 * [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost-lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
 * [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
