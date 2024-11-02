@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-11-02, 18:15:29",
-      "https://news.ycombinator.com/item?id=42028106"
-    ],
-    [
-      "Brute-Forcing the LLM Guardrails",
-      "https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 17:28:52",
       "https://news.ycombinator.com/item?id=42027767"
     ],
@@ -187,6 +177,16 @@
     [
       "Xpanceo smart contact lenses hands-on",
       "https://skarredghost.com/2024/10/31/xpanceo-smart-contact-lenses-hands-on/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 09:53:14",
+      "https://news.ycombinator.com/item?id=42005105"
+    ],
+    [
+      "Make It Ephemeral: Software Should Decay and Lose Data",
+      "https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/"
     ]
   ],
   [
