@@ -36,6 +36,7 @@
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 * [2024-10-31, 12:01:03](https://news.ycombinator.com/item?id=42005955) - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
+* [2024-10-31, 11:44:19](https://news.ycombinator.com/item?id=42005821) - [Xpanceo smart contact lenses hands-on](https://skarredghost.com/2024/10/31/xpanceo-smart-contact-lenses-hands-on/)
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the Regular Expression That Checks If a Number Is Prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)

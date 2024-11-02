@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 * [2024-11-02, 15:00:20](https://news.ycombinator.com/item?id=42026770) - [US Government memo shows Ethel Rosenberg was not a spy but executed her anyway](https://www.bloomberg.com/news/newsletters/2024-11-01/using-foia-to-lift-the-veil-of-secrecy-on-a-cold-war-secret)
 * [2024-11-02, 13:33:39](https://news.ycombinator.com/item?id=42026292) - [Mercedes-Benz opens its own recycling facility for EV batteries](https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/)
 * [2024-11-02, 13:04:50](https://news.ycombinator.com/item?id=42026167) - [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
