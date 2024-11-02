@@ -26,8 +26,8 @@
 * [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost-lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
 * [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
-* [2024-10-29, 05:03:45](https://news.ycombinator.com/item?id=41979547) - [Cadillac Ranch over 50 years is 'both interesting and odd' to Ant Farm artist](https://www.amarillo.com/story/news/2024/06/25/cadillac-ranch-at-50-exhibit-shows-evolution-of-original-art-installation-wyatt-mcspadden-chip-lord/74194279007/)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
+* [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns (too much)](https://www.projectgus.com/2024/01/kona-motor-turns/)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s were a watershed for swear words (2022)](https://www.historytoday.com/archive/explicit-content)
 
