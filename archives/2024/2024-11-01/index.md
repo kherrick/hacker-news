@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 23:56:29](https://news.ycombinator.com/item?id=42022796) - [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+* [2024-11-01, 23:35:37](https://news.ycombinator.com/item?id=42022649) - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
 * [2024-11-01, 23:29:12](https://news.ycombinator.com/item?id=42022599) - [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)
 * [2024-11-01, 22:50:39](https://news.ycombinator.com/item?id=42022335) - [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
