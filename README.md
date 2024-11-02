@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+* [2024-11-02, 18:15:29](https://news.ycombinator.com/item?id=42028106) - [Brute-Forcing the LLM Guardrails](https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4)
 * [2024-11-02, 17:28:52](https://news.ycombinator.com/item?id=42027767) - [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
 * [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
 * [2024-11-02, 16:56:26](https://news.ycombinator.com/item?id=42027564) - [Britain's postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
@@ -12,7 +13,6 @@
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 02:41:08](https://news.ycombinator.com/item?id=42023667) - [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
 * [2024-11-02, 01:11:29](https://news.ycombinator.com/item?id=42023237) - [Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
-* [2024-11-02, 00:44:42](https://news.ycombinator.com/item?id=42023089) - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
 * [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)

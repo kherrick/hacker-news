@@ -7,6 +7,7 @@
 * [2024-11-02, 19:36:29](https://news.ycombinator.com/item?id=42028678) - [Israel has destroyed or damaged nearly a quarter of buildings in Lebanon's south](https://www.washingtonpost.com/world/2024/10/31/israel-war-lebanon-south-destruction/)
 * [2024-11-02, 19:25:01](https://news.ycombinator.com/item?id=42028589) - [Quantum Machines and Nvidia use ML toward error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method: Birth, Evolution, and Future (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+* [2024-11-02, 18:15:29](https://news.ycombinator.com/item?id=42028106) - [Brute-Forcing the LLM Guardrails](https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4)
 * [2024-11-02, 18:08:44](https://news.ycombinator.com/item?id=42028047) - [Colossus AI Supercluster with over 100k Nvidia H100 GPUs](https://twitter.com/ServeTheHome/status/1850917031421399543)
 * [2024-11-02, 17:28:52](https://news.ycombinator.com/item?id=42027767) - [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
 * [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
