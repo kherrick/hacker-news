@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 19:25:01](https://news.ycombinator.com/item?id=42028589) - [Quantum Machines and Nvidia use ML toward error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
+* [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method: Birth, Evolution, and Future (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
 * [2024-11-02, 18:08:44](https://news.ycombinator.com/item?id=42028047) - [Colossus AI Supercluster with over 100k Nvidia H100 GPUs](https://twitter.com/ServeTheHome/status/1850917031421399543)
+* [2024-11-02, 17:28:52](https://news.ycombinator.com/item?id=42027767) - [Static Basic Block Versioning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.28)
 * [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
 * [2024-11-02, 16:56:26](https://news.ycombinator.com/item?id=42027564) - [Britain's postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life)
+* [2024-11-02, 16:49:10](https://news.ycombinator.com/item?id=42027499) - [Ring-Based Mid-Air Gesture Typing System Using Deep Learning Word Prediction](https://arxiv.org/abs/2410.18100)
 * [2024-11-02, 16:25:54](https://news.ycombinator.com/item?id=42027358) - [Steve Sims Interview on Soft White Underbelly [video]](https://www.youtube.com/watch?v=G8GEp0aM0dg)
 * [2024-11-02, 16:19:41](https://news.ycombinator.com/item?id=42027308) - [Killing the Command message: should we use Events or Documents? (2007)](https://learn.microsoft.com/en-us/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents)
 * [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
