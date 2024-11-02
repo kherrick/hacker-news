@@ -60,6 +60,7 @@
 * [2024-10-29, 13:00:49](https://news.ycombinator.com/item?id=41983412) - [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
 * [2024-10-29, 13:00:40](https://news.ycombinator.com/item?id=41983409) - [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
 * [2024-10-29, 12:58:16](https://news.ycombinator.com/item?id=41983394) - [Show HN: Holos – Configure Helm and Kustomize Holistically with Cue](https://holos.run/docs/guides/helm/)
+* [2024-10-29, 12:24:35](https://news.ycombinator.com/item?id=41983156) - [Textcasting: Applying the Philosophy of Podcasting to Text (2022)](https://textcasting.org)
 * [2024-10-29, 12:00:56](https://news.ycombinator.com/item?id=41982994) - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
 * [2024-10-29, 11:58:44](https://news.ycombinator.com/item?id=41982974) - [The trailing dot in domain names matter](https://lacot.org/blog/2024/10/29/the-trailing-dot-in-domain-names-a-detail-that-is-often-poorly-managed.html)
 * [2024-10-29, 11:46:30](https://news.ycombinator.com/item?id=41982887) - [The Art of Stealing (2013)](https://www.nrc.nl/kunsthal-en/)
