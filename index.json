@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-02, 07:45:26",
+      "https://news.ycombinator.com/item?id=42024727"
+    ],
+    [
+      "Weird Lexical Syntax",
+      "https://justine.lol/lex/"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 07:00:44",
       "https://news.ycombinator.com/item?id=42024554"
     ],
@@ -37,6 +47,16 @@
     [
       "Nvidia to join Dow Jones Industrial Average, replacing Intel",
       "https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 19:03:45",
+      "https://news.ycombinator.com/item?id=42020406"
+    ],
+    [
+      "Budget Android (€99) vs. Expensive iPhone (€1000)",
+      "https://willem.com/blog/2018-10-09_using-a-budget-android-as-main-smartphone/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-11-01, 13:15:47",
-      "https://news.ycombinator.com/item?id=42016639"
-    ],
-    [
-      "Ink: React for interactive CLI apps",
-      "https://github.com/vadimdemedes/ink"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 13:09:50",
       "https://news.ycombinator.com/item?id=42016597"
     ],
@@ -207,16 +217,6 @@
     [
       "RCE Vulnerability in QBittorrent",
       "https://sharpsec.run/rce-vulnerability-in-qbittorrent/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 11:22:37",
-      "https://news.ycombinator.com/item?id=41993717"
-    ],
-    [
-      "A Zine on Multiset Rewriting",
-      "https://wiki.xxiivv.com/site/pocket_rewriting.html"
     ]
   ],
   [
