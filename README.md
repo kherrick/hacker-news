@@ -17,7 +17,6 @@
 * [2024-11-01, 13:15:47](https://news.ycombinator.com/item?id=42016639) - [Ink: React for interactive CLI apps](https://github.com/vadimdemedes/ink)
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
-* [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
@@ -28,6 +27,7 @@
 * [2024-10-29, 20:51:57](https://news.ycombinator.com/item?id=41989260) - [Hokusai's five ghoulish prints for the series Hyaku Monogatari (ca. 1830)](https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
 * [2024-10-29, 11:58:44](https://news.ycombinator.com/item?id=41982974) - [The trailing dot in domain names matter](https://lacot.org/blog/2024/10/29/the-trailing-dot-in-domain-names-a-detail-that-is-often-poorly-managed.html)
+* [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
 * [2024-10-28, 05:00:34](https://news.ycombinator.com/item?id=41967988) - [Letters by Oliver Sacks review](https://www.theguardian.com/books/2024/oct/25/letters-by-oliver-sacks-review)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s were a watershed for swear words (2022)](https://www.historytoday.com/archive/explicit-content)
 
