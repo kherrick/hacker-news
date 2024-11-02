@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-02, 15:00:20](https://news.ycombinator.com/item?id=42026770) - [US Government memo shows Ethel Rosenberg was not a spy but executed her anyway](https://www.bloomberg.com/news/newsletters/2024-11-01/using-foia-to-lift-the-veil-of-secrecy-on-a-cold-war-secret)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 06:29:18](https://news.ycombinator.com/item?id=42024439) - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
@@ -11,7 +12,6 @@
 * [2024-11-01, 22:43:15](https://news.ycombinator.com/item?id=42022282) - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
 * [2024-11-01, 17:11:20](https://news.ycombinator.com/item?id=42019192) - [Tell HN: We (Causal) got acquired – thank you HN](https://news.ycombinator.com/item?id=42019192)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
-* [2024-11-01, 15:19:46](https://news.ycombinator.com/item?id=42017771) - [Using Large Language Models to Catch Vulnerabilities](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
 * [2024-11-01, 15:16:16](https://news.ycombinator.com/item?id=42017726) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
 * [2024-11-01, 15:01:56](https://news.ycombinator.com/item?id=42017578) - [Ask HN: Who wants to be hired? (November 2024)](https://news.ycombinator.com/item?id=42017578)
