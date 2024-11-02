@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 22:07:09](https://news.ycombinator.com/item?id=42029542) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
