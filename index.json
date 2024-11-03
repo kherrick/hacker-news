@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 21:18:32",
+      "https://news.ycombinator.com/item?id=42036163"
+    ],
+    [
+      "Moving Off Heroku, Slowly",
+      "https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 20:45:50",
       "https://news.ycombinator.com/item?id=42035981"
     ],
@@ -167,16 +177,6 @@
     [
       "Speed, scale and reliability: 25 years of Google datacenter networking evolution",
       "https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 01:47:23",
-      "https://news.ycombinator.com/item?id=42030625"
-    ],
-    [
-      "Ractor – a Rust Actor Framework",
-      "https://slawlor.github.io/ractor/quickstart/"
     ]
   ],
   [
