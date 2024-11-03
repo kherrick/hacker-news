@@ -36,6 +36,7 @@
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 * [2024-11-01, 15:19:46](https://news.ycombinator.com/item?id=42017771) - [Using Large Language Models to Catch Vulnerabilities](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
 * [2024-11-01, 15:16:16](https://news.ycombinator.com/item?id=42017726) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
+* [2024-11-01, 15:10:51](https://news.ycombinator.com/item?id=42017670) - [Turn your phone or tablet into a chess clock](https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
 * [2024-11-01, 15:01:56](https://news.ycombinator.com/item?id=42017578) - [Ask HN: Who wants to be hired? (November 2024)](https://news.ycombinator.com/item?id=42017578)
 * [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
