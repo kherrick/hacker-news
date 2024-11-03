@@ -6,6 +6,7 @@
 
 * [2024-10-30, 23:44:25](https://news.ycombinator.com/item?id=42001852) - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
 * [2024-10-30, 23:39:01](https://news.ycombinator.com/item?id=42001811) - [Generative AI Scripting](https://microsoft.github.io/genaiscript/)
+* [2024-10-30, 23:33:23](https://news.ycombinator.com/item?id=42001762) - [In search of Nirad Chaudhuri (2021)](https://thespectator.com/book-and-art/search-nirad-chaudhuri-india/)
 * [2024-10-30, 23:19:19](https://news.ycombinator.com/item?id=42001642) - [It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 * [2024-10-30, 22:16:22](https://news.ycombinator.com/item?id=42001081) - [Show HN: G-win – .gcode parser written in Rust with winnow](https://crates.io/crates/g-win)
 * [2024-10-30, 22:11:50](https://news.ycombinator.com/item?id=42001037) - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
