@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 21:18:32](https://news.ycombinator.com/item?id=42036163) - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 * [2024-11-03, 20:45:50](https://news.ycombinator.com/item?id=42035981) - [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
 * [2024-11-03, 20:34:44](https://news.ycombinator.com/item?id=42035921) - [Show HN: Replacicon – Create and customize app icons on macOS](https://replacicon.app)
 * [2024-11-03, 20:06:25](https://news.ycombinator.com/item?id=42035743) - [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
@@ -17,7 +18,6 @@
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
-* [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
 * [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-11-01, 15:10:51](https://news.ycombinator.com/item?id=42017670) - [Turn your phone or tablet into a chess clock](https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock)
