@@ -64,6 +64,7 @@
 * [2024-11-01, 06:45:01](https://news.ycombinator.com/item?id=42014588) - [Apple silently uploads your passwords and keeps them](https://lapcatsoftware.com/articles/2024/10/4.html)
 * [2024-11-01, 04:26:04](https://news.ycombinator.com/item?id=42014045) - [UTF-8 characters that behave oddly when the case is changed](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
+* [2024-11-01, 03:50:54](https://news.ycombinator.com/item?id=42013902) - [XTP: Make Squishy Software](https://www.getxtp.com/blog/meet-xtp)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:24:17](https://news.ycombinator.com/item?id=42013762) - [Embeddings Are Underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-11-01, 03:02:58](https://news.ycombinator.com/item?id=42013683) - [Org Mode Syntax Cheat Sheet](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
