@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-02, 22:07:09",
-      "https://news.ycombinator.com/item?id=42029542"
-    ],
-    [
-      "Breaking CityHash64, MurmurHash2/3, wyhash, and more",
-      "https://orlp.net/blog/breaking-hash-functions/"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 20:09:27",
       "https://news.ycombinator.com/item?id=42028911"
     ],
@@ -197,6 +187,16 @@
     [
       "Cramming Solitaire onto a Nintendo E-Reader card",
       "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 07:18:09",
+      "https://news.ycombinator.com/item?id=42004219"
+    ],
+    [
+      "RCE Vulnerability in QBittorrent",
+      "https://sharpsec.run/rce-vulnerability-in-qbittorrent/"
     ]
   ],
   [
