@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 09:32:13](https://news.ycombinator.com/item?id=42032065) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 06:33:16](https://news.ycombinator.com/item?id=42031476) - [AI overwhelmingly prefers white and male job candidates](https://www.geekwire.com/2024/ai-overwhelmingly-prefers-white-and-male-job-candidates-in-new-test-of-resume-screening-bias/)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 04:20:58](https://news.ycombinator.com/item?id=42031138) - [The Prozac Era. What Next?](https://davidhealy.org/the-prozac-era-what-next/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 09:32:13](https://news.ycombinator.com/item?id=42032065) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
@@ -14,7 +15,6 @@
 * [2024-11-02, 16:04:40](https://news.ycombinator.com/item?id=42027187) - [Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script](https://github.com/rbbydotdev/someday)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
-* [2024-11-02, 01:11:29](https://news.ycombinator.com/item?id=42023237) - [Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
 * [2024-11-01, 03:50:54](https://news.ycombinator.com/item?id=42013902) - [XTP: Make Squishy Software](https://www.getxtp.com/blog/meet-xtp)
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
