@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
-* [2024-11-03, 03:22:16](https://news.ycombinator.com/item?id=42030949) - [A Golang Pipeline Abomination](https://poxate.com/blog/golang-pipeline-abomination)
-* [2024-11-03, 03:21:57](https://news.ycombinator.com/item?id=42030946) - [Understanding pain, mental illness, and grief](https://dhruvmethi.substack.com/p/understanding-pain-mental-illness)
+* [2024-11-03, 03:22:16](https://news.ycombinator.com/item?id=42030949) - [A Golang pipeline abomination](https://poxate.com/blog/golang-pipeline-abomination)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
@@ -29,6 +28,7 @@
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 10:06:28](https://news.ycombinator.com/item?id=41981886) - [Inspecting North Korea's Digital Map App: Licensing and API Insights](https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
+* [2024-10-28, 12:47:36](https://news.ycombinator.com/item?id=41970554) - ['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 ## [Archives](archives/index.md)
