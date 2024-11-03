@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 20:06:25",
+      "https://news.ycombinator.com/item?id=42035743"
+    ],
+    [
+      "Redox OS gets RISC-V support",
+      "https://www.phoronix.com/news/Redox-OS-For-October-2024"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 19:46:50",
       "https://news.ycombinator.com/item?id=42035601"
     ],
@@ -157,16 +167,6 @@
     [
       "Ractor – a Rust Actor Framework",
       "https://slawlor.github.io/ractor/quickstart/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 19:57:30",
-      "https://news.ycombinator.com/item?id=42028833"
-    ],
-    [
-      "Next Generation Out of Band Garbage Collection",
-      "https://railsatscale.com/2024-10-23-next-generation-oob-gc/"
     ]
   ],
   [
