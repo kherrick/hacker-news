@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 17:34:17](https://news.ycombinator.com/item?id=42034534) - [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
+* [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
+* [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
 * [2024-11-03, 16:52:35](https://news.ycombinator.com/item?id=42034146) - [I couldn't find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
 * [2024-11-03, 16:09:34](https://news.ycombinator.com/item?id=42033827) - [The AP has called winners in elections for more than 170 years. How it's done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
@@ -23,12 +26,9 @@
 * [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-31, 03:58:01](https://news.ycombinator.com/item?id=42003355) - [Big Data for the Leviathan](https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan)
-* [2024-10-30, 13:08:35](https://news.ycombinator.com/item?id=41994390) - [Preserving the history of retiring cruise ships](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
-* [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
-* [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 ## [Archives](archives/index.md)
