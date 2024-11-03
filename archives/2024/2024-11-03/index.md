@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
 * [2024-11-03, 14:37:25](https://news.ycombinator.com/item?id=42033295) - [Auth Wiki](https://auth.wiki/)
+* [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 14:29:26](https://news.ycombinator.com/item?id=42033238) - [A new copyright rule lets McDonald's fix its own broken ice cream machines](https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law)
 * [2024-11-03, 13:18:24](https://news.ycombinator.com/item?id=42032906) - [Intel might be too big to fail – policymakers discussing potential solutions](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
 * [2024-11-03, 12:33:18](https://news.ycombinator.com/item?id=42032693) - [I Waited 10B Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
