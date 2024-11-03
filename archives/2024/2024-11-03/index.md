@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
+* [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 21:19:02](https://news.ycombinator.com/item?id=42036165) - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
 * [2024-11-03, 21:18:32](https://news.ycombinator.com/item?id=42036163) - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 * [2024-11-03, 20:45:50](https://news.ycombinator.com/item?id=42035981) - [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)

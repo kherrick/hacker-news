@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
+* [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 21:19:02](https://news.ycombinator.com/item?id=42036165) - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
 * [2024-11-03, 21:18:32](https://news.ycombinator.com/item?id=42036163) - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 * [2024-11-03, 20:45:50](https://news.ycombinator.com/item?id=42035981) - [Hacker News Data Map](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
@@ -7,10 +9,8 @@
 * [2024-11-03, 20:06:25](https://news.ycombinator.com/item?id=42035743) - [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 * [2024-11-03, 20:00:06](https://news.ycombinator.com/item?id=42035701) - [Subscriptions Drive Views of Extremist Videos on YouTube](https://home.dartmouth.edu/news/2023/09/subscriptions-drive-views-extremist-videos-youtube)
 * [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
-* [2024-11-03, 19:17:45](https://news.ycombinator.com/item?id=42035383) - [Uranus' moon Miranda may have an ocean beneath its surface](https://phys.org/news/2024-10-uranus-moon-miranda-ocean-beneath.html)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 18:45:12](https://news.ycombinator.com/item?id=42035133) - [The Confusing State of RCS](https://substack.com/home/post/p-151067817)
-* [2024-11-03, 18:43:51](https://news.ycombinator.com/item?id=42035118) - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
@@ -23,13 +23,13 @@
 * [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-11-01, 15:10:51](https://news.ycombinator.com/item?id=42017670) - [Turn your phone or tablet into a chess clock](https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock)
 * [2024-11-01, 13:39:21](https://news.ycombinator.com/item?id=42016816) - [Programming NetBIOS on OS/2](https://www.os2museum.com/wp/programming-netbios-on-os-2/)
+* [2024-11-01, 07:28:14](https://news.ycombinator.com/item?id=42014753) - [Mirrord Mirrord on the wall, who's most processed of them all](https://vibhavstechdiary.substack.com/p/mirrord-mirrord-on-the-wall-whos)
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 * [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
 * [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
-* [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 ## [Archives](archives/index.md)
 
