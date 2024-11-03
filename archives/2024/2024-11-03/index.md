@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 18:43:51](https://news.ycombinator.com/item?id=42035118) - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
 * [2024-11-03, 18:32:47](https://news.ycombinator.com/item?id=42035015) - [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
+* [2024-11-03, 18:28:04](https://news.ycombinator.com/item?id=42034974) - [Commentary: Time to terminate the torture of time changes – Miami Herald](https://www.miamiherald.com/opinion/us-viewpoints/article294697994.html)
 * [2024-11-03, 17:34:17](https://news.ycombinator.com/item?id=42034534) - [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
 * [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
+* [2024-11-03, 16:58:50](https://news.ycombinator.com/item?id=42034196) - [Missing open-source contributor presents a dilemma when accepting their PR](https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/)
 * [2024-11-03, 16:52:35](https://news.ycombinator.com/item?id=42034146) - [I couldn't find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
 * [2024-11-03, 16:09:34](https://news.ycombinator.com/item?id=42033827) - [The AP has called winners in elections for more than 170 years. How it's done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
 * [2024-11-03, 16:03:12](https://news.ycombinator.com/item?id=42033790) - [D2: Declarative Diagramming – A modern language that turns text to diagrams](https://d2lang.com/)
