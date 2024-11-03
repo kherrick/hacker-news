@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
+* [2024-11-03, 19:17:45](https://news.ycombinator.com/item?id=42035383) - [Uranus' moon Miranda may have an ocean beneath its surface](https://phys.org/news/2024-10-uranus-moon-miranda-ocean-beneath.html)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 18:43:51](https://news.ycombinator.com/item?id=42035118) - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
@@ -15,7 +16,6 @@
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 02:39:51](https://news.ycombinator.com/item?id=42030832) - [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
-* [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
