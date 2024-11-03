@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 20:06:25](https://news.ycombinator.com/item?id=42035743) - [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 * [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
 * [2024-11-03, 19:17:45](https://news.ycombinator.com/item?id=42035383) - [Uranus' moon Miranda may have an ocean beneath its surface](https://phys.org/news/2024-10-uranus-moon-miranda-ocean-beneath.html)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
