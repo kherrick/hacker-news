@@ -27,8 +27,8 @@
 * [2024-10-29, 16:54:20](https://news.ycombinator.com/item?id=41986500) - [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 10:06:28](https://news.ycombinator.com/item?id=41981886) - [Inspecting North Korea's Digital Map App: Licensing and API Insights](https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/)
+* [2024-10-28, 15:52:26](https://news.ycombinator.com/item?id=41972435) - [Repeatability: As Difficult as it is Important](https://systemsapproach.org/2024/10/28/repeatability-as-difficult-as-it-is-important/)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
-* [2024-10-28, 12:47:36](https://news.ycombinator.com/item?id=41970554) - ['I grew up with it': readers on the enduring appeal of Microsoft Excel](https://www.theguardian.com/technology/2024/oct/28/microsoft-excel-spreadsheet-program-40-years)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
 ## [Archives](archives/index.md)

@@ -43,6 +43,7 @@
 * [2024-10-28, 16:33:11](https://news.ycombinator.com/item?id=41973065) - [2024-10-26 buy payphones and retire](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
 * [2024-10-28, 16:25:37](https://news.ycombinator.com/item?id=41972953) - [Scott Fitzgerald's Last Act](https://www.city-journal.org/article/scott-fitzgeralds-last-act)
 * [2024-10-28, 16:03:23](https://news.ycombinator.com/item?id=41972605) - [Crux, a Precise Verifier for Rust and Other Languages](https://arxiv.org/abs/2410.18280)
+* [2024-10-28, 15:52:26](https://news.ycombinator.com/item?id=41972435) - [Repeatability: As Difficult as it is Important](https://systemsapproach.org/2024/10/28/repeatability-as-difficult-as-it-is-important/)
 * [2024-10-28, 15:52:06](https://news.ycombinator.com/item?id=41972433) - [They want your ethics for $105](https://ntietz.com/blog/ethics-105-dollars/)
 * [2024-10-28, 15:34:58](https://news.ycombinator.com/item?id=41972173) - [Lectron System, the Arduino Precursor](https://lectron.info/)
 * [2024-10-28, 15:34:54](https://news.ycombinator.com/item?id=41972172) - [The sins of the 90s: Questioning a puzzling claim about mass surveillance](https://blog.cr.yp.to/20241028-surveillance.html)
