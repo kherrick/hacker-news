@@ -8,4 +8,6 @@
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
 * [2024-11-03, 03:22:16](https://news.ycombinator.com/item?id=42030949) - [A Golang Pipeline Abomination](https://poxate.com/blog/golang-pipeline-abomination)
 * [2024-11-03, 03:21:57](https://news.ycombinator.com/item?id=42030946) - [Understanding pain, mental illness, and grief](https://dhruvmethi.substack.com/p/understanding-pain-mental-illness)
+* [2024-11-03, 02:39:51](https://news.ycombinator.com/item?id=42030832) - [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
+* [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
