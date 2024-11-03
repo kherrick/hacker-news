@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-03, 14:37:25",
-      "https://news.ycombinator.com/item?id=42033295"
+      "2024-11-03, 14:29:57",
+      "https://news.ycombinator.com/item?id=42033241"
     ],
     [
-      "Auth Wiki",
-      "https://auth.wiki/"
+      "Touchscreens are out, and tactile controls are back",
+      "https://spectrum.ieee.org/touchscreens"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 13:18:24",
+      "https://news.ycombinator.com/item?id=42032906"
+    ],
+    [
+      "Intel might be too big to fail",
+      "https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover"
     ]
   ],
   [
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2024-11-03, 02:39:51",
+      "https://news.ycombinator.com/item?id=42030832"
+    ],
+    [
+      "Ask HN: What would you preserve if the internet were to go down tomorrow?",
+      "https://news.ycombinator.com/item?id=42030832"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 01:47:23",
       "https://news.ycombinator.com/item?id=42030625"
     ],
     [
       "Ractor – a Rust Actor Framework",
       "https://slawlor.github.io/ractor/quickstart/"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 01:06:37",
+      "https://news.ycombinator.com/item?id=42030463"
+    ],
+    [
+      "Security flaws found in Nvidia GeForce GPUs",
+      "https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-11-02, 12:42:07",
-      "https://news.ycombinator.com/item?id=42026054"
-    ],
-    [
-      "Cash: A small jQuery alternative for modern browsers",
-      "https://github.com/fabiospampinato/cash"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 12:19:24",
       "https://news.ycombinator.com/item?id=42025951"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-10-31, 22:42:05",
-      "https://news.ycombinator.com/item?id=42012301"
-    ],
-    [
-      "Colorado scrambles to change voting-system passwords after accidental leak",
-      "https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 19:01:55",
       "https://news.ycombinator.com/item?id=42010249"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-10-31, 18:50:00",
-      "https://news.ycombinator.com/item?id=42010136"
+      "2024-10-31, 11:57:25",
+      "https://news.ycombinator.com/item?id=42005920"
     ],
     [
-      "Cramming Solitaire onto a Nintendo E-Reader card",
-      "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
+      "A React Renderer for Gnome JavaScript",
+      "https://github.com/react-gjs/renderer"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2024-10-30, 13:08:35",
+      "https://news.ycombinator.com/item?id=41994390"
+    ],
+    [
+      "Saving historic cruise ships",
+      "https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 09:08:45",
       "https://news.ycombinator.com/item?id=41993096"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-10-29, 17:46:59",
-      "https://news.ycombinator.com/item?id=41987352"
-    ],
-    [
-      "Signal: Online MIDI Editor",
-      "https://github.com/ryohey/signal"
-    ]
-  ],
-  [
-    [
       "2024-10-29, 14:27:39",
       "https://news.ycombinator.com/item?id=41984184"
     ],
     [
       "Prisma Postgres – Runs on bare metal and unikernels",
       "https://www.prisma.io/blog/announcing-prisma-postgres-early-access"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 10:06:28",
-      "https://news.ycombinator.com/item?id=41981886"
-    ],
-    [
-      "Inspecting North Korea's Digital Map App: Licensing and API Insights",
-      "https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/"
     ]
   ],
   [
