@@ -8,6 +8,7 @@
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
+* [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
 * [2024-11-03, 16:52:35](https://news.ycombinator.com/item?id=42034146) - [I couldn't find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
 * [2024-11-03, 16:09:34](https://news.ycombinator.com/item?id=42033827) - [The AP has called winners in elections for more than 170 years. How it's done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
 * [2024-11-03, 16:03:12](https://news.ycombinator.com/item?id=42033790) - [D2: Declarative Diagramming – A modern language that turns text to diagrams](https://d2lang.com/)
