@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2024-11-03, 09:27:22",
+      "https://news.ycombinator.com/item?id=42032035"
+    ],
+    [
+      "Advances in Zero-Knowledge Proofs: Bridging the Gap Between Theory and Practice [pdf]",
+      "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 04:29:14",
       "https://news.ycombinator.com/item?id=42031169"
     ],
     [
       "Speed, scale and reliability: 25 years of Google datacenter networking evolution",
       "https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 04:14:36",
-      "https://news.ycombinator.com/item?id=42031117"
-    ],
-    [
-      "Toyota to buy clean power from a $1.1B solar farm in Texas",
-      "https://electrek.co/2024/11/01/toyota-solar-farm-texas/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Show HN: A minimalist (brutalist?) website for sharing all your links",
       "https://lynx.boo"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 16:49:10",
-      "https://news.ycombinator.com/item?id=42027499"
-    ],
-    [
-      "Ring-Based Mid-Air Gesture Typing System Using Deep Learning Word Prediction",
-      "https://arxiv.org/abs/2410.18100"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Inspecting North Korea's Digital Map App: Licensing and API Insights",
       "https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 00:16:24",
+      "https://news.ycombinator.com/item?id=41978035"
+    ],
+    [
+      "Create block devices on your computer backed by Redstone Memory",
+      "https://github.com/williambl/blockblockdevice"
     ]
   ],
   [
