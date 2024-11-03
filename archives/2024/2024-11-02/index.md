@@ -26,6 +26,7 @@
 * [2024-11-02, 13:33:39](https://news.ycombinator.com/item?id=42026292) - [Mercedes-Benz opens its own recycling facility for EV batteries](https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/)
 * [2024-11-02, 13:04:50](https://news.ycombinator.com/item?id=42026167) - [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
+* [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://pypi.org/project/venvstacks/)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [Show HN: SpawELO - small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 09:54:54](https://news.ycombinator.com/item?id=42025256) - [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
 * [2024-11-02, 09:46:49](https://news.ycombinator.com/item?id=42025217) - [Cppfront v0.8.0](https://github.com/hsutter/cppfront/releases/tag/v0.8.0)
