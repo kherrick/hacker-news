@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-03, 04:20:58](https://news.ycombinator.com/item?id=42031138) - [The Prozac Era. What Next?](https://davidhealy.org/the-prozac-era-what-next/)
+* [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
-* [2024-11-03, 02:39:51](https://news.ycombinator.com/item?id=42030832) - [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
@@ -22,6 +21,7 @@
 * [2024-10-31, 18:50:00](https://news.ycombinator.com/item?id=42010136) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-10-31, 03:14:47](https://news.ycombinator.com/item?id=42003136) - [Writing Is a Visual Language](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)
 * [2024-10-30, 14:46:10](https://news.ycombinator.com/item?id=41995549) - [Boston Dynamics robot Atlas goes hands on [video]](https://www.youtube.com/watch?v=F_7IPm7f1vI)
+* [2024-10-30, 13:08:35](https://news.ycombinator.com/item?id=41994390) - [Where Cruise Ships Go to Die. Meet the Man Saving Them](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
 * [2024-10-29, 16:54:20](https://news.ycombinator.com/item?id=41986500) - [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)

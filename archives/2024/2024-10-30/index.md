@@ -61,6 +61,7 @@
 * [2024-10-30, 13:45:14](https://news.ycombinator.com/item?id=41994658) - [Launch HN: FlyCode (YC S22) – Stop losing revenue due to failed payments](https://news.ycombinator.com/item?id=41994658)
 * [2024-10-30, 13:42:52](https://news.ycombinator.com/item?id=41994640) - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
 * [2024-10-30, 13:33:07](https://news.ycombinator.com/item?id=41994567) - [Gross Apple Marketing](https://jonathanbuys.com/Gross_Apple_Marketing/)
+* [2024-10-30, 13:08:35](https://news.ycombinator.com/item?id=41994390) - [Where Cruise Ships Go to Die. Meet the Man Saving Them](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 * [2024-10-30, 12:39:46](https://news.ycombinator.com/item?id=41994189) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
 * [2024-10-30, 11:35:01](https://news.ycombinator.com/item?id=41993782) - [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)

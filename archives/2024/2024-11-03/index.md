@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 04:20:58](https://news.ycombinator.com/item?id=42031138) - [The Prozac Era. What Next?](https://davidhealy.org/the-prozac-era-what-next/)
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
 * [2024-11-03, 03:22:16](https://news.ycombinator.com/item?id=42030949) - [A Golang Pipeline Abomination](https://poxate.com/blog/golang-pipeline-abomination)
