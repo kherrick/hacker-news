@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 06:33:16](https://news.ycombinator.com/item?id=42031476) - [AI overwhelmingly prefers white and male job candidates](https://www.geekwire.com/2024/ai-overwhelmingly-prefers-white-and-male-job-candidates-in-new-test-of-resume-screening-bias/)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 04:14:36](https://news.ycombinator.com/item?id=42031117) - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
@@ -24,7 +25,6 @@
 * [2024-10-30, 13:08:35](https://news.ycombinator.com/item?id=41994390) - [Where Cruise Ships Go to Die. Meet the Man Saving Them](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-29, 17:46:59](https://news.ycombinator.com/item?id=41987352) - [Signal: Online MIDI Editor](https://github.com/ryohey/signal)
-* [2024-10-29, 16:54:20](https://news.ycombinator.com/item?id=41986500) - [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 10:06:28](https://news.ycombinator.com/item?id=41981886) - [Inspecting North Korea's Digital Map App: Licensing and API Insights](https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/)
 * [2024-10-28, 15:52:26](https://news.ycombinator.com/item?id=41972435) - [Repeatability: As Difficult as it is Important](https://systemsapproach.org/2024/10/28/repeatability-as-difficult-as-it-is-important/)
