@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
+* [2024-11-03, 16:52:35](https://news.ycombinator.com/item?id=42034146) - [I couldn't find a free, no-login, no-AI checklist app–so I built one](https://lalacheck.fly.dev/)
+* [2024-11-03, 16:09:34](https://news.ycombinator.com/item?id=42033827) - [The AP has called winners in elections for more than 170 years. How it's done](https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413)
 * [2024-11-03, 16:03:12](https://news.ycombinator.com/item?id=42033790) - [D2: Declarative Diagramming – A modern language that turns text to diagrams](https://d2lang.com/)
 * [2024-11-03, 15:03:26](https://news.ycombinator.com/item?id=42033432) - [Zed – The Editor for What's Next](https://zed.dev/)
 * [2024-11-03, 14:37:25](https://news.ycombinator.com/item?id=42033295) - [Auth Wiki](https://auth.wiki/)
