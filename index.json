@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 22:35:16",
+      "https://news.ycombinator.com/item?id=42036652"
+    ],
+    [
+      "HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD",
+      "https://hardenedbsd.org/content/easy-feature-comparison"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 21:42:26",
       "https://news.ycombinator.com/item?id=42036305"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-11-03, 18:45:12",
-      "https://news.ycombinator.com/item?id=42035133"
-    ],
-    [
-      "The Confusing State of RCS",
-      "https://substack.com/home/post/p-151067817"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 17:52:25",
       "https://news.ycombinator.com/item?id=42034675"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2024-11-01, 21:36:01",
-      "https://news.ycombinator.com/item?id=42021786"
+      "2024-11-01, 16:37:16",
+      "https://news.ycombinator.com/item?id=42018740"
     ],
     [
-      "The performance of hashing for similar function detection",
-      "https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/"
+      "PacCam: Pac-Man controlled with your face",
+      "https://eieio.games/paccam/"
     ]
   ],
   [
