@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 13:18:24](https://news.ycombinator.com/item?id=42032906) - [Intel might be too big to fail – policymakers discussing potential solutions](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
 * [2024-11-03, 12:17:24](https://news.ycombinator.com/item?id=42032638) - [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
-* [2024-11-03, 09:27:22](https://news.ycombinator.com/item?id=42032035) - [Advances in Zero-Knowledge Proofs: Bridging the Gap Between Theory and Practice [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf)
-* [2024-11-03, 07:58:03](https://news.ycombinator.com/item?id=42031753) - [Hacker News Explorer](https://chromewebstore.google.com/detail/hn-explorer/amiaaonefodebppoklclafmglnkleobk)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
@@ -20,6 +19,7 @@
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 * [2024-10-31, 18:50:00](https://news.ycombinator.com/item?id=42010136) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+* [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
 * [2024-10-30, 14:46:10](https://news.ycombinator.com/item?id=41995549) - [Boston Dynamics robot Atlas goes hands on [video]](https://www.youtube.com/watch?v=F_7IPm7f1vI)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)

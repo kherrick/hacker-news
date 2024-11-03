@@ -45,6 +45,7 @@
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
 * [2024-10-31, 09:53:14](https://news.ycombinator.com/item?id=42005105) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)
 * [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+* [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
 * [2024-10-31, 08:29:40](https://news.ycombinator.com/item?id=42004581) - [Almost Secure (2011)](https://debugmo.de/2011/11/almost-secure/)
 * [2024-10-31, 08:15:23](https://news.ycombinator.com/item?id=42004508) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 08:12:40](https://news.ycombinator.com/item?id=42004492) - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
