@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 21:19:02](https://news.ycombinator.com/item?id=42036165) - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)

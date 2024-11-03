@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 21:19:02](https://news.ycombinator.com/item?id=42036165) - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
@@ -10,7 +11,6 @@
 * [2024-11-03, 20:06:25](https://news.ycombinator.com/item?id=42035743) - [Redox OS gets RISC-V support](https://www.phoronix.com/news/Redox-OS-For-October-2024)
 * [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
-* [2024-11-03, 18:45:12](https://news.ycombinator.com/item?id=42035133) - [The Confusing State of RCS](https://substack.com/home/post/p-151067817)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
@@ -19,7 +19,7 @@
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
-* [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
+* [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
 * [2024-11-01, 15:10:51](https://news.ycombinator.com/item?id=42017670) - [Turn your phone or tablet into a chess clock](https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock)
 * [2024-11-01, 13:39:21](https://news.ycombinator.com/item?id=42016816) - [Programming NetBIOS on OS/2](https://www.os2museum.com/wp/programming-netbios-on-os-2/)
 * [2024-11-01, 07:28:14](https://news.ycombinator.com/item?id=42014753) - [Mirrord Mirrord on the wall, who's most processed of them all](https://vibhavstechdiary.substack.com/p/mirrord-mirrord-on-the-wall-whos)
