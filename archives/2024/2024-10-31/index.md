@@ -56,6 +56,7 @@
 * [2024-10-31, 06:36:17](https://news.ycombinator.com/item?id=42004052) - [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
 * [2024-10-31, 04:12:27](https://news.ycombinator.com/item?id=42003428) - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
 * [2024-10-31, 04:00:48](https://news.ycombinator.com/item?id=42003369) - [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
+* [2024-10-31, 03:14:47](https://news.ycombinator.com/item?id=42003136) - [Writing Is a Visual Language](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)
 * [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
 * [2024-10-31, 02:32:28](https://news.ycombinator.com/item?id=42002873) - [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
 * [2024-10-31, 02:12:23](https://news.ycombinator.com/item?id=42002757) - [Legal bid for Ecuador forest to be recognised as song co-creator](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator)
