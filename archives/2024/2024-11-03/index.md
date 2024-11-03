@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 18:32:47](https://news.ycombinator.com/item?id=42035015) - [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
 * [2024-11-03, 17:34:17](https://news.ycombinator.com/item?id=42034534) - [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)

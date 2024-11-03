@@ -48,6 +48,7 @@
 * [2024-11-01, 14:05:47](https://news.ycombinator.com/item?id=42017012) - [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
 * [2024-11-01, 13:53:32](https://news.ycombinator.com/item?id=42016931) - [Apple's M4 Max chip is the fastest single-core performer in consumer computing](https://twitter.com/LeakerApple/status/1852280766471999661)
 * [2024-11-01, 13:49:43](https://news.ycombinator.com/item?id=42016904) - [How to Train Yourself to Go to Sleep Earlier](https://www.sleepfoundation.org/sleep-hygiene/how-to-go-to-sleep-earlier)
+* [2024-11-01, 13:39:21](https://news.ycombinator.com/item?id=42016816) - [Programming NetBIOS on OS/2](https://www.os2museum.com/wp/programming-netbios-on-os-2/)
 * [2024-11-01, 13:24:27](https://news.ycombinator.com/item?id=42016718) - [Google employees pressure execs at all-hands meeting for clarity on cost cuts](https://www.cnbc.com/2024/11/01/google-employees-pressure-execs-at-all-hands-for-clarity-on-cost-cuts.html)
 * [2024-11-01, 13:15:47](https://news.ycombinator.com/item?id=42016639) - [Ink: React for Interactive CLI Apps](https://github.com/vadimdemedes/ink)
 * [2024-11-01, 13:09:50](https://news.ycombinator.com/item?id=42016597) - [Make It Yourself](https://makeityourself.org/)
