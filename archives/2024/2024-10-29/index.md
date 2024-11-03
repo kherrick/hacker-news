@@ -93,3 +93,4 @@
 * [2024-10-29, 00:49:24](https://news.ycombinator.com/item?id=41978235) - [Ask HN: Can Calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
 * [2024-10-29, 00:45:47](https://news.ycombinator.com/item?id=41978213) - [How to Learn Things by Yourself](https://brunothedev.github.io/p/2024-10-28-how_to_learn.html)
 * [2024-10-29, 00:42:26](https://news.ycombinator.com/item?id=41978197) - [What's New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
+* [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
