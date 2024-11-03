@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-03, 21:42:26",
+      "https://news.ycombinator.com/item?id=42036305"
+    ],
+    [
+      "Why systemd is a problem for embedded Linux",
+      "https://kevinboone.me/systemd_embedded.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 21:42:03",
+      "https://news.ycombinator.com/item?id=42036303"
+    ],
+    [
+      "Do you need Redis? PostgreSQL does queuing, locking, and pub/sub",
+      "https://spin.atomicobject.com/redis-postgresql/"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 21:19:02",
       "https://news.ycombinator.com/item?id=42036165"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-11-03, 19:17:45",
-      "https://news.ycombinator.com/item?id=42035383"
-    ],
-    [
-      "Uranus' moon Miranda may have an ocean beneath its surface",
-      "https://phys.org/news/2024-10-uranus-moon-miranda-ocean-beneath.html"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 19:09:19",
       "https://news.ycombinator.com/item?id=42035319"
     ],
@@ -97,16 +107,6 @@
     [
       "The Confusing State of RCS",
       "https://substack.com/home/post/p-151067817"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 18:43:51",
-      "https://news.ycombinator.com/item?id=42035118"
-    ],
-    [
-      "Coordinated Community Response Mitigates Fediverse Spam Attack",
-      "https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-11-01, 07:28:14",
+      "https://news.ycombinator.com/item?id=42014753"
+    ],
+    [
+      "Mirrord Mirrord on the wall, who's most processed of them all",
+      "https://vibhavstechdiary.substack.com/p/mirrord-mirrord-on-the-wall-whos"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 20:20:12",
       "https://news.ycombinator.com/item?id=42011078"
     ],
@@ -287,16 +297,6 @@
     [
       "Create block devices on your computer backed by Redstone Memory",
       "https://github.com/williambl/blockblockdevice"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 12:29:57",
-      "https://news.ycombinator.com/item?id=41970406"
-    ],
-    [
-      "The motor turns too much",
-      "https://www.projectgus.com/2024/01/kona-motor-turns/"
     ]
   ]
 ]
