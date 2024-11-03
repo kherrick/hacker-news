@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-11-03, 17:52:25",
+      "https://news.ycombinator.com/item?id=42034675"
+    ],
+    [
+      "gptel: a simple LLM client for Emacs",
+      "https://github.com/karthink/gptel"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 17:32:52",
       "https://news.ycombinator.com/item?id=42034521"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-11-03, 16:52:35",
-      "https://news.ycombinator.com/item?id=42034146"
+      "2024-11-03, 16:21:03",
+      "https://news.ycombinator.com/item?id=42033913"
     ],
     [
-      "I couldn't find a free, no-login, no-AI checklist app–so I built one",
-      "https://lalacheck.fly.dev/"
+      "Top discoveries about ancient people from DNA in 2023",
+      "https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2024-11-02, 10:44:42",
-      "https://news.ycombinator.com/item?id=42025469"
-    ],
-    [
-      "SpawELO – small free matchmaking system for LAN parties",
-      "https://blog.spawek.com/SpawELO"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 07:45:26",
       "https://news.ycombinator.com/item?id=42024727"
     ],
     [
       "Weird Lexical Syntax",
       "https://justine.lol/lex/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 21:36:01",
+      "https://news.ycombinator.com/item?id=42021786"
+    ],
+    [
+      "The performance of hashing for similar function detection",
+      "https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A React Renderer for Gnome JavaScript",
       "https://github.com/react-gjs/renderer"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 09:07:17",
-      "https://news.ycombinator.com/item?id=42004786"
-    ],
-    [
-      "How to Correctly Sum Up Numbers",
-      "https://cedardb.com/blog/overflow_handling/"
     ]
   ],
   [
