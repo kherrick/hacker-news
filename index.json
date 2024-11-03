@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-11-03, 14:29:26",
-      "https://news.ycombinator.com/item?id=42033238"
-    ],
-    [
-      "A new copyright rule lets McDonald's fix its own broken ice cream machines",
-      "https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 12:33:18",
-      "https://news.ycombinator.com/item?id=42032693"
-    ],
-    [
-      "I Waited 10B Cycles and All I Got Was This Loading Screen",
-      "https://blog.preyneyv.dev/doing-less-with-more"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 12:17:24",
       "https://news.ycombinator.com/item?id=42032638"
     ],
@@ -57,6 +37,16 @@
     [
       "Ractor – a Rust Actor Framework",
       "https://slawlor.github.io/ractor/quickstart/"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 01:06:37",
+      "https://news.ycombinator.com/item?id=42030463"
+    ],
+    [
+      "Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP",
+      "https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html"
     ]
   ],
   [
@@ -136,7 +126,7 @@
     ],
     [
       "Venvstacks: Virtual Environment Stacks for Python",
-      "https://pypi.org/project/venvstacks/"
+      "https://lmstudio.ai/blog/venvstacks"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Prisma Postgres – Runs on bare metal and unikernels",
       "https://www.prisma.io/blog/announcing-prisma-postgres-early-access"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 10:06:28",
+      "https://news.ycombinator.com/item?id=41981886"
+    ],
+    [
+      "Inspecting North Korea's Digital Map App: Licensing and API Insights",
+      "https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/"
     ]
   ],
   [
