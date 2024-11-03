@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
+* [2024-11-03, 16:03:12](https://news.ycombinator.com/item?id=42033790) - [D2: Declarative Diagramming – A modern language that turns text to diagrams](https://d2lang.com/)
+* [2024-11-03, 15:03:26](https://news.ycombinator.com/item?id=42033432) - [Zed – The Editor for What's Next](https://zed.dev/)
 * [2024-11-03, 14:37:25](https://news.ycombinator.com/item?id=42033295) - [Auth Wiki](https://auth.wiki/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 14:29:26](https://news.ycombinator.com/item?id=42033238) - [A new copyright rule lets McDonald's fix its own broken ice cream machines](https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law)
