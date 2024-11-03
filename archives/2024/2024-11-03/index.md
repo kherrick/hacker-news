@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
+* [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 18:43:51](https://news.ycombinator.com/item?id=42035118) - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
 * [2024-11-03, 18:32:47](https://news.ycombinator.com/item?id=42035015) - [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
 * [2024-11-03, 18:28:04](https://news.ycombinator.com/item?id=42034974) - [Commentary: Time to terminate the torture of time changes – Miami Herald](https://www.miamiherald.com/opinion/us-viewpoints/article294697994.html)

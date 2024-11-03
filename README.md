@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-03, 19:46:50](https://news.ycombinator.com/item?id=42035601) - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
+* [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 18:43:51](https://news.ycombinator.com/item?id=42035118) - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
@@ -15,7 +17,6 @@
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
-* [2024-11-02, 17:10:25](https://news.ycombinator.com/item?id=42027654) - [Show HN: A minimalist (brutalist?) website for sharing all your links](https://lynx.boo)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
@@ -26,7 +27,6 @@
 * [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-31, 03:58:01](https://news.ycombinator.com/item?id=42003355) - [Big Data for the Leviathan](https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan)
-* [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
 * [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
