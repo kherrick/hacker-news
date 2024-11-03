@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
-* [2024-11-02, 22:07:09](https://news.ycombinator.com/item?id=42029542) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
@@ -20,6 +19,7 @@
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 * [2024-10-31, 18:50:00](https://news.ycombinator.com/item?id=42010136) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+* [2024-10-31, 07:18:09](https://news.ycombinator.com/item?id=42004219) - [RCE Vulnerability in QBittorrent](https://sharpsec.run/rce-vulnerability-in-qbittorrent/)
 * [2024-10-30, 18:06:28](https://news.ycombinator.com/item?id=41998337) - [A Serious Man: On Bruno Latour](https://www.jhiblog.org/2024/10/28/a-serious-man/)
 * [2024-10-30, 14:46:10](https://news.ycombinator.com/item?id=41995549) - [Boston Dynamics robot Atlas goes hands on [video]](https://www.youtube.com/watch?v=F_7IPm7f1vI)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
