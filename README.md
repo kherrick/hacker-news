@@ -17,6 +17,7 @@
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [SpawELO – small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
+* [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 * [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
@@ -27,7 +28,6 @@
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
 * [2024-10-29, 14:27:39](https://news.ycombinator.com/item?id=41984184) - [Prisma Postgres – Runs on bare metal and unikernels](https://www.prisma.io/blog/announcing-prisma-postgres-early-access)
 * [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
-* [2024-10-28, 15:52:26](https://news.ycombinator.com/item?id=41972435) - [Repeatability: As Difficult as it is Important](https://systemsapproach.org/2024/10/28/repeatability-as-difficult-as-it-is-important/)
 * [2024-10-28, 12:49:57](https://news.ycombinator.com/item?id=41970571) - [Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free](https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking)
 * [2024-10-28, 12:29:57](https://news.ycombinator.com/item?id=41970406) - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 
