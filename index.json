@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-11-04, 16:32:05",
-      "https://news.ycombinator.com/item?id=42043139"
+      "2024-11-04, 17:02:00",
+      "https://news.ycombinator.com/item?id=42043539"
     ],
     [
-      "Iceland embraced a shorter work week. Here's how it turned out",
-      "https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html"
+      "Manjaro Linux prepares to enable telemetry by default",
+      "https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163"
     ]
   ],
   [
     [
-      "2024-11-04, 16:29:59",
-      "https://news.ycombinator.com/item?id=42043108"
+      "2024-11-04, 17:00:32",
+      "https://news.ycombinator.com/item?id=42043519"
     ],
     [
-      "Amazon to cough $75B on capex in 2024, more next year",
-      "https://www.theregister.com/2024/11/01/amazon_75b_capex/"
+      "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
+      "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 16:44:49",
+      "https://news.ycombinator.com/item?id=42043324"
+    ],
+    [
+      "Tinylangs: Programming languages in 50 lines of Python",
+      "https://github.com/zserge/tinylangs"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-11-04, 12:02:01",
-      "https://news.ycombinator.com/item?id=42040747"
-    ],
-    [
-      "PropelAuth (YC W22) is hiring Fullstack and Rust engineers",
-      "https://www.ycombinator.com/companies/propelauth/jobs"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 11:25:25",
       "https://news.ycombinator.com/item?id=42040549"
     ],
@@ -145,18 +145,8 @@
       "https://news.ycombinator.com/item?id=42039053"
     ],
     [
-      "Unfortunate things about performance reviews",
+      "Unfortunate things about performance reviews (2021)",
       "http://rachelbythebay.com/w/2021/02/19/perf/"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 05:06:42",
-      "https://news.ycombinator.com/item?id=42038653"
-    ],
-    [
-      "I've had a change of heart regarding employee metrics",
-      "http://rachelbythebay.com/w/2024/11/03/metrics/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Touchscreens are out, and tactile controls are back",
       "https://spectrum.ieee.org/touchscreens"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 08:05:25",
+      "https://news.ycombinator.com/item?id=42014906"
+    ],
+    [
+      "Rewrite it in Rails",
+      "https://dirkjonker.bearblog.dev/rewrite-it-in-rails/"
     ]
   ],
   [
