@@ -57,6 +57,7 @@
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
 * [2024-11-01, 12:21:42](https://news.ycombinator.com/item?id=42016225) - [Crowds gather in Dublin for fake Halloween parade posted on social media](https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/)
+* [2024-11-01, 11:17:17](https://news.ycombinator.com/item?id=42015812) - [Ritonavir Form III: A Coincidental Concurrent Discovery](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01017)
 * [2024-11-01, 10:11:54](https://news.ycombinator.com/item?id=42015506) - [Winlator is an Android application that lets you to run Windows (x86_64) apps](https://github.com/brunodev85/winlator)
 * [2024-11-01, 09:37:25](https://news.ycombinator.com/item?id=42015323) - [Men Arrested for Transcribing a Movie, Posting Details to a Website](https://torrentfreak.com/men-arrested-for-transcribing-godzilla-minus-one-posting-details-to-a-website-241031/)
 * [2024-11-01, 09:30:13](https://news.ycombinator.com/item?id=42015284) - [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html)
