@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
+* [2024-11-04, 19:24:50](https://news.ycombinator.com/item?id=42045140) - [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
+* [2024-11-04, 19:16:32](https://news.ycombinator.com/item?id=42045046) - [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
@@ -10,10 +13,10 @@
 * [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's called a dance floor](https://www.seekhifi.com/its-called-a-dance-floor/)
 * [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
+* [2024-11-04, 15:27:54](https://news.ycombinator.com/item?id=42042401) - [Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,Perplexity](https://github.com/mem0ai/mem0-chrome-extension)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
-* [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
@@ -25,11 +28,8 @@
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 * [2024-11-03, 22:17:59](https://news.ycombinator.com/item?id=42036536) - [The Secret of Ramsey Numbers](https://cacm.acm.org/news/the-secret-of-ramsey-numbers/)
-* [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to decide what to eat](https://whatdinner.com/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
-* [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
-* [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 
 ## [Archives](archives/index.md)
 

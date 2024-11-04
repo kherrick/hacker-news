@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
+* [2024-11-04, 19:24:50](https://news.ycombinator.com/item?id=42045140) - [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
+* [2024-11-04, 19:16:32](https://news.ycombinator.com/item?id=42045046) - [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
@@ -23,6 +26,7 @@
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
 * [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
 * [2024-11-04, 15:28:50](https://news.ycombinator.com/item?id=42042412) - [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
+* [2024-11-04, 15:27:54](https://news.ycombinator.com/item?id=42042401) - [Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,Perplexity](https://github.com/mem0ai/mem0-chrome-extension)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 15:07:37](https://news.ycombinator.com/item?id=42042188) - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)
