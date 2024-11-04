@@ -2,8 +2,6 @@
 
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
-* [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
-* [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad software keeps cyber security companies in business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
@@ -26,10 +24,12 @@
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 * [2024-11-03, 22:17:59](https://news.ycombinator.com/item?id=42036536) - [The Secret of Ramsey Numbers](https://cacm.acm.org/news/the-secret-of-ramsey-numbers/)
+* [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to decide what to eat](https://whatdinner.com/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-01, 08:05:25](https://news.ycombinator.com/item?id=42014906) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
+* [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 
 ## [Archives](archives/index.md)
 
