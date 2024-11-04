@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 17:02:00](https://news.ycombinator.com/item?id=42043539) - [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
+* [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
+* [2024-11-04, 16:44:49](https://news.ycombinator.com/item?id=42043324) - [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
 * [2024-11-04, 16:35:59](https://news.ycombinator.com/item?id=42043191) - [OpenWrt One](https://openwrt.org/toh/openwrt/one)
 * [2024-11-04, 16:32:05](https://news.ycombinator.com/item?id=42043139) - [Iceland embraced a shorter work week. Here's how it turned out](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
 * [2024-11-04, 16:29:59](https://news.ycombinator.com/item?id=42043108) - [Amazon to cough $75B on capex in 2024, more next year](https://www.theregister.com/2024/11/01/amazon_75b_capex/)
