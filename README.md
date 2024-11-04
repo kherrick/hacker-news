@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 * [2024-11-04, 02:02:29](https://news.ycombinator.com/item?id=42037743) - [Adding IPv6 to My Home Network (2024-11-03)](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
@@ -20,7 +21,6 @@
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview gone wrong](https://www.ashu1461.com/interview-gone-wrong/)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
-* [2024-11-01, 13:39:21](https://news.ycombinator.com/item?id=42016816) - [Programming NetBIOS on OS/2](https://www.os2museum.com/wp/programming-netbios-on-os-2/)
 * [2024-11-01, 11:17:17](https://news.ycombinator.com/item?id=42015812) - [Ritonavir Form III: A Coincidental Concurrent Discovery](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01017)
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
