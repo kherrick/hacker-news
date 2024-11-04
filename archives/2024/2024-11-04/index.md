@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 19:49:03](https://news.ycombinator.com/item?id=42045367) - [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
 * [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)

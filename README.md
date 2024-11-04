@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 19:49:03](https://news.ycombinator.com/item?id=42045367) - [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
 * [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
@@ -17,7 +18,6 @@
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's called a dance floor](https://www.seekhifi.com/its-called-a-dance-floor/)
 * [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
-* [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
@@ -28,8 +28,8 @@
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews (2021)](http://rachelbythebay.com/w/2021/02/19/perf/)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [A change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
+* [2024-11-01, 16:32:42](https://news.ycombinator.com/item?id=42018687) - [Virtual archaeology: Recreating the first PC I ever used (2022)](https://fabulous.systems/posts/2022/12/virtual-archaeology-recreating-my-first-computer/)
 * [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
-* [2024-10-29, 11:46:30](https://news.ycombinator.com/item?id=41982887) - [The Art of Stealing (2013)](https://www.nrc.nl/kunsthal-en/)
 
 ## [Archives](archives/index.md)
 

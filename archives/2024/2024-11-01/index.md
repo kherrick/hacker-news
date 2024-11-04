@@ -30,6 +30,7 @@
 * [2024-11-01, 17:02:14](https://news.ycombinator.com/item?id=42019083) - [Broadwell's EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)
 * [2024-11-01, 16:56:39](https://news.ycombinator.com/item?id=42019000) - [Show HN: Autotab Instruct – Claude Computer Use with Guardrails for Reliability](https://news.ycombinator.com/item?id=42019000)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
+* [2024-11-01, 16:32:42](https://news.ycombinator.com/item?id=42018687) - [Virtual archaeology: Recreating the first PC I ever used (2022)](https://fabulous.systems/posts/2022/12/virtual-archaeology-recreating-my-first-computer/)
 * [2024-11-01, 16:25:44](https://news.ycombinator.com/item?id=42018603) - [ISO C23 Standard Published](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 16:15:13](https://news.ycombinator.com/item?id=42018462) - [Japan's Eightfold Fence (2017)](https://americanaffairsjournal.org/2017/08/japans-eightfold-fence/)
 * [2024-11-01, 15:59:01](https://news.ycombinator.com/item?id=42018282) - [How to inspect TLS encrypted traffic](https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/)
