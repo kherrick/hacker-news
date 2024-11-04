@@ -52,6 +52,7 @@
 * [2024-10-31, 12:01:03](https://news.ycombinator.com/item?id=42005955) - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
 * [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 11:44:19](https://news.ycombinator.com/item?id=42005821) - [Xpanceo smart contact lenses hands-on](https://skarredghost.com/2024/10/31/xpanceo-smart-contact-lenses-hands-on/)
+* [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the Regular Expression That Checks If a Number Is Prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)

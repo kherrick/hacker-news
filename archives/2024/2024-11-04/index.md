@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 22:52:55](https://news.ycombinator.com/item?id=42046902) - [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
 * [2024-11-04, 22:29:57](https://news.ycombinator.com/item?id=42046660) - [Employment Barometer in Germany Falls Further](https://www.ifo.de/en/facts/2024-11-04/employment-barometer-germany-falls-further-october-2024)
 * [2024-11-04, 22:20:14](https://news.ycombinator.com/item?id=42046599) - [Harris slams Speaker Mike Johnson for saying the GOP may repeal CHIPS Act](https://www.nbcnews.com/politics/kamala-harris/harris-slams-mike-johnson-gop-repeal-chips-act-rcna178513)
+* [2024-11-04, 22:19:49](https://news.ycombinator.com/item?id=42046596) - [US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
+* [2024-11-04, 22:10:52](https://news.ycombinator.com/item?id=42046522) - [Yale prof solves part of math's 'Rosetta](https://news.yale.edu/2024/11/01/geometry-masterpiece-yale-prof-solves-part-maths-rosetta-stone)
+* [2024-11-04, 22:01:37](https://news.ycombinator.com/item?id=42046418) - [Learn Awk in Y Minutes](https://learnxinyminutes.com/docs/awk/)
 * [2024-11-04, 21:48:19](https://news.ycombinator.com/item?id=42046316) - [Generative AI Has an E-Waste Problem](https://spectrum.ieee.org/e-waste)
 * [2024-11-04, 21:46:36](https://news.ycombinator.com/item?id=42046295) - [Perplexity CEO offers AI company's services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
+* [2024-11-04, 21:40:51](https://news.ycombinator.com/item?id=42046266) - [Local Peer-to-Peer API Draft Community Group Report](https://WICG.github.io/local-peer-to-peer/)
 * [2024-11-04, 21:32:04](https://news.ycombinator.com/item?id=42046196) - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
 * [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
