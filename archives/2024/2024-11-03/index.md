@@ -6,6 +6,7 @@
 
 * [2024-11-03, 23:50:44](https://news.ycombinator.com/item?id=42037120) - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
+* [2024-11-03, 22:47:19](https://news.ycombinator.com/item?id=42036733) - [Why Facts Don't Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 * [2024-11-03, 22:40:52](https://news.ycombinator.com/item?id=42036694) - [Show HN: I launched a super cheap and simple to use OCR tool for macOS](https://www.textcapture.app/)
 * [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 22:23:19](https://news.ycombinator.com/item?id=42036571) - [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)

@@ -37,6 +37,7 @@
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
 * [2024-10-31, 15:04:27](https://news.ycombinator.com/item?id=42007649) - [Claude for Desktop](https://claude.ai/download)
 * [2024-10-31, 14:49:42](https://news.ycombinator.com/item?id=42007491) - [Show HN: Cerebellum – Open-Source Browser Control with Claude 3.5 Computer Use](https://github.com/theredsix/cerebellum)
+* [2024-10-31, 14:15:07](https://news.ycombinator.com/item?id=42007144) - [Project Hessdalen](https://old.hessdalen.org/index_e.shtml)
 * [2024-10-31, 13:28:31](https://news.ycombinator.com/item?id=42006698) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
