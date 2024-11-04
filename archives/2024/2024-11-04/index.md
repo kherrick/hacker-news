@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
 * [2024-11-04, 16:35:59](https://news.ycombinator.com/item?id=42043191) - [OpenWrt One](https://openwrt.org/toh/openwrt/one)
+* [2024-11-04, 16:32:05](https://news.ycombinator.com/item?id=42043139) - [Iceland embraced a shorter work week. Here's how it turned out](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
+* [2024-11-04, 16:29:59](https://news.ycombinator.com/item?id=42043108) - [Amazon to cough $75B on capex in 2024, more next year](https://www.theregister.com/2024/11/01/amazon_75b_capex/)
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
 * [2024-11-04, 15:28:50](https://news.ycombinator.com/item?id=42042412) - [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
