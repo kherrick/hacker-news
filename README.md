@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 10:22:47](https://news.ycombinator.com/item?id=42040189) - [Ask HN: Niche technical knowledge not found on the internet?](https://news.ycombinator.com/item?id=42040189)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
@@ -11,7 +12,6 @@
 * [2024-11-03, 20:34:44](https://news.ycombinator.com/item?id=42035921) - [Show HN: Replacicon – Create and customize app icons on macOS](https://replacicon.app)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
-* [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
 * [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
 * [2024-11-03, 16:58:50](https://news.ycombinator.com/item?id=42034196) - [Missing open-source contributor presents a dilemma when accepting their PR](https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/)
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
