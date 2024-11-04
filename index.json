@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-04, 08:41:22",
-      "https://news.ycombinator.com/item?id=42039683"
-    ],
-    [
-      "Moving my website from Netlify to Caddy",
-      "https://alexwlchan.net/2024/netlify-to-caddy/"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 08:18:53",
       "https://news.ycombinator.com/item?id=42039596"
     ],
@@ -21,12 +11,22 @@
   ],
   [
     [
-      "2024-11-04, 07:40:06",
-      "https://news.ycombinator.com/item?id=42039406"
+      "2024-11-04, 07:51:52",
+      "https://news.ycombinator.com/item?id=42039454"
     ],
     [
-      "City council faces £216.5M loss over Oracle system debacle",
-      "https://www.theregister.com/2024/08/20/birmingham_oracle_cost/"
+      "Soda Is Making a Comeback",
+      "https://www.cnn.com/2024/11/01/business/coke-dr-pepper-soda/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 05:38:52",
+      "https://news.ycombinator.com/item?id=42038821"
+    ],
+    [
+      "Internet Archive \"Save Page Now\" has been re-enabled",
+      "https://web.archive.org/save/"
     ]
   ],
   [
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2024-11-03, 22:35:16",
-      "https://news.ycombinator.com/item?id=42036652"
-    ],
-    [
-      "HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD",
-      "https://hardenedbsd.org/content/easy-feature-comparison"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 22:11:08",
       "https://news.ycombinator.com/item?id=42036476"
     ],
     [
       "GJS: Node.js Like Runtime for Gnome",
       "https://gjs.guide/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 21:42:03",
-      "https://news.ycombinator.com/item?id=42036303"
-    ],
-    [
-      "Do you need Redis? PostgreSQL does queuing, locking, and pub/sub",
-      "https://spin.atomicobject.com/redis-postgresql/"
     ]
   ],
   [
@@ -121,12 +101,12 @@
   ],
   [
     [
-      "2024-11-03, 20:45:50",
-      "https://news.ycombinator.com/item?id=42035981"
+      "2024-11-03, 20:44:01",
+      "https://news.ycombinator.com/item?id=42035971"
     ],
     [
-      "Hacker News Data Map [180MB]",
-      "https://lmcinnes.github.io/datamapplot_examples/hackernews/"
+      "Hermes 3 – Nous Research",
+      "https://nousresearch.com/hermes3/"
     ]
   ],
   [
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2024-11-03, 17:02:51",
+      "https://news.ycombinator.com/item?id=42034242"
+    ],
+    [
+      "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+      "https://news.ycombinator.com/item?id=42034242"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 17:02:11",
       "https://news.ycombinator.com/item?id=42034237"
     ],
     [
       "pg_flo – Stream, transform, and re-route PostgreSQL data in real-time",
       "https://www.pgflo.io/"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 16:58:50",
+      "https://news.ycombinator.com/item?id=42034196"
+    ],
+    [
+      "Missing open-source contributor presents a dilemma when accepting their PR",
+      "https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/"
     ]
   ],
   [
@@ -191,6 +191,26 @@
   ],
   [
     [
+      "2024-11-03, 02:39:51",
+      "https://news.ycombinator.com/item?id=42030832"
+    ],
+    [
+      "Ask HN: What would you preserve if the internet were to go down tomorrow?",
+      "https://news.ycombinator.com/item?id=42030832"
+    ]
+  ],
+  [
+    [
+      "2024-11-02, 12:19:24",
+      "https://news.ycombinator.com/item?id=42025951"
+    ],
+    [
+      "Venvstacks: Virtual Environment Stacks for Python",
+      "https://lmstudio.ai/blog/venvstacks"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 18:32:28",
       "https://news.ycombinator.com/item?id=42020103"
     ],
@@ -207,6 +227,16 @@
     [
       "PacCam: Pac-Man controlled with your face",
       "https://eieio.games/paccam/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 13:39:21",
+      "https://news.ycombinator.com/item?id=42016816"
+    ],
+    [
+      "Programming NetBIOS on OS/2",
+      "https://www.os2museum.com/wp/programming-netbios-on-os-2/"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-10-31, 14:39:15",
-      "https://news.ycombinator.com/item?id=42007373"
-    ],
-    [
-      "Programming Avant-Garde",
-      "https://mmapped.blog/posts/32-programming-avant-garde"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 14:15:07",
       "https://news.ycombinator.com/item?id=42007144"
     ],
     [
       "Project Hessdalen",
       "https://old.hessdalen.org/index_e.shtml"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 14:14:26",
-      "https://news.ycombinator.com/item?id=42007138"
-    ],
-    [
-      "ASCII control characters in my terminal",
-      "https://jvns.ca/blog/2024/10/31/ascii-control-characters/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Programming languages that blew my mind (2023)",
       "https://yoric.github.io/post/programming-languages-that-blew-my-mind/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 21:45:22",
-      "https://news.ycombinator.com/item?id=42000752"
-    ],
-    [
-      "ClickPy – Python Package Analytics",
-      "https://clickpy.clickhouse.com/"
     ]
   ]
 ]
