@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 03:25:49",
+      "https://news.ycombinator.com/item?id=42038139"
+    ],
+    [
+      "Please just stop saying \"just\" (2019)",
+      "https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 02:52:14",
       "https://news.ycombinator.com/item?id=42037982"
     ],
@@ -47,6 +57,16 @@
     [
       "Hertz-dev, the first open-source base model for conversational audio",
       "https://si.inc/hertz-dev/"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 22:47:19",
+      "https://news.ycombinator.com/item?id=42036733"
+    ],
+    [
+      "Why Facts Don't Change Our Minds",
+      "https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Hacker News Data Map [180MB]",
       "https://lmcinnes.github.io/datamapplot_examples/hackernews/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 20:34:44",
-      "https://news.ycombinator.com/item?id=42035921"
-    ],
-    [
-      "Show HN: Replacicon – Create and customize app icons on macOS",
-      "https://replacicon.app"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-11-01, 13:39:21",
-      "https://news.ycombinator.com/item?id=42016816"
-    ],
-    [
-      "Programming NetBIOS on OS/2",
-      "https://www.os2museum.com/wp/programming-netbios-on-os-2/"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 21:56:35",
       "https://news.ycombinator.com/item?id=42011976"
     ],
@@ -261,6 +261,26 @@
   ],
   [
     [
+      "2024-10-31, 14:15:07",
+      "https://news.ycombinator.com/item?id=42007144"
+    ],
+    [
+      "Project Hessdalen",
+      "https://old.hessdalen.org/index_e.shtml"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 11:57:25",
+      "https://news.ycombinator.com/item?id=42005920"
+    ],
+    [
+      "A React Renderer for Gnome JavaScript",
+      "https://github.com/react-gjs/renderer"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 09:03:19",
       "https://news.ycombinator.com/item?id=42004756"
     ],
@@ -277,26 +297,6 @@
     [
       "Unix core utilities implemented in Haskell",
       "https://github.com/Gandalf-/coreutils"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 00:16:24",
-      "https://news.ycombinator.com/item?id=41978035"
-    ],
-    [
-      "Create block devices on your computer backed by Redstone Memory",
-      "https://github.com/williambl/blockblockdevice"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 02:50:22",
-      "https://news.ycombinator.com/item?id=41967396"
-    ],
-    [
-      "The Distracted Mind During a Crisis (2020)",
-      "https://distributed.blog/2020/04/29/adam-gazzaley-distracted-mind/"
     ]
   ]
 ]
