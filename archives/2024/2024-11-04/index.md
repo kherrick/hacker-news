@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 22:29:57](https://news.ycombinator.com/item?id=42046660) - [Employment Barometer in Germany Falls Further](https://www.ifo.de/en/facts/2024-11-04/employment-barometer-germany-falls-further-october-2024)
 * [2024-11-04, 22:20:14](https://news.ycombinator.com/item?id=42046599) - [Harris slams Speaker Mike Johnson for saying the GOP may repeal CHIPS Act](https://www.nbcnews.com/politics/kamala-harris/harris-slams-mike-johnson-gop-repeal-chips-act-rcna178513)
 * [2024-11-04, 21:48:19](https://news.ycombinator.com/item?id=42046316) - [Generative AI Has an E-Waste Problem](https://spectrum.ieee.org/e-waste)
 * [2024-11-04, 21:46:36](https://news.ycombinator.com/item?id=42046295) - [Perplexity CEO offers AI company's services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
