@@ -23,13 +23,13 @@
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview Gone Wrong](https://www.ashu1461.com/interview-gone-wrong/)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
 * [2024-11-01, 13:39:21](https://news.ycombinator.com/item?id=42016816) - [Programming NetBIOS on OS/2](https://www.os2museum.com/wp/programming-netbios-on-os-2/)
-* [2024-11-01, 04:16:07](https://news.ycombinator.com/item?id=42014013) - [A Week of Failing to Pay with Bitcoin in El Salvador](https://reason.com/2024/10/31/a-week-of-failing-to-pay-with-bitcoin-in-el-salvador/)
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
 * [2024-10-29, 00:16:24](https://news.ycombinator.com/item?id=41978035) - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
+* [2024-10-28, 02:50:22](https://news.ycombinator.com/item?id=41967396) - [The Distracted Mind During a Crisis (2020)](https://distributed.blog/2020/04/29/adam-gazzaley-distracted-mind/)
 
 ## [Archives](archives/index.md)
 

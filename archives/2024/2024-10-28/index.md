@@ -101,6 +101,7 @@
 * [2024-10-28, 04:32:06](https://news.ycombinator.com/item?id=41967897) - [- 418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2024-10-28, 04:18:16](https://news.ycombinator.com/item?id=41967849) - [The 1600s Were a Watershed for Swear Words (2022)](https://www.historytoday.com/archive/explicit-content)
 * [2024-10-28, 03:56:47](https://news.ycombinator.com/item?id=41967734) - [Mill: A fast JVM build tool for Java and Scala](https://mill-build.org/)
+* [2024-10-28, 02:50:22](https://news.ycombinator.com/item?id=41967396) - [The Distracted Mind During a Crisis (2020)](https://distributed.blog/2020/04/29/adam-gazzaley-distracted-mind/)
 * [2024-10-28, 02:28:50](https://news.ycombinator.com/item?id=41967293) - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
 * [2024-10-28, 02:26:01](https://news.ycombinator.com/item?id=41967283) - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
 * [2024-10-28, 01:50:30](https://news.ycombinator.com/item?id=41967147) - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
