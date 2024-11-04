@@ -13,6 +13,7 @@
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
+* [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
@@ -27,7 +28,6 @@
 * [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to decide what to eat](https://whatdinner.com/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
-* [2024-11-01, 08:05:25](https://news.ycombinator.com/item?id=42014906) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 
