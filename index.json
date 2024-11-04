@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 12:39:55",
+      "https://news.ycombinator.com/item?id=42040987"
+    ],
+    [
+      "A Missing IDE Feature",
+      "https://matklad.github.io/2024/10/14/missing-ide-feature.html"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 12:08:30",
       "https://news.ycombinator.com/item?id=42040795"
     ],
@@ -17,6 +27,16 @@
     [
       "PropelAuth (YC W22) is hiring Fullstack and Rust engineers",
       "https://www.ycombinator.com/companies/propelauth/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 11:55:30",
+      "https://news.ycombinator.com/item?id=42040706"
+    ],
+    [
+      "Is the Q Source the Origin of the Gospels?",
+      "https://www.thecollector.com/q-source-origin-gospels/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-11-03, 20:56:05",
-      "https://news.ycombinator.com/item?id=42036041"
-    ],
-    [
-      "Show HN: Tinder, but to Decide What to Eat",
-      "https://whatdinner.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 19:09:19",
       "https://news.ycombinator.com/item?id=42035319"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-11-01, 21:36:01",
-      "https://news.ycombinator.com/item?id=42021786"
-    ],
-    [
-      "The performance of hashing for similar function detection",
-      "https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 18:32:28",
       "https://news.ycombinator.com/item?id=42020103"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-10-31, 14:50:07",
+      "https://news.ycombinator.com/item?id=42007496"
+    ],
+    [
+      "The heartbreak behind Dorothy Parker's wit",
+      "https://www.washingtonpost.com/books/2024/10/31/dorothy-parker-books-review/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 09:03:19",
       "https://news.ycombinator.com/item?id=42004756"
     ],
     [
       "Programming languages that blew my mind (2023)",
       "https://yoric.github.io/post/programming-languages-that-blew-my-mind/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 06:07:34",
-      "https://news.ycombinator.com/item?id=41992270"
-    ],
-    [
-      "Unix core utilities implemented in Haskell",
-      "https://github.com/Gandalf-/coreutils"
     ]
   ],
   [
