@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-04, 19:32:44",
+      "https://news.ycombinator.com/item?id=42045212"
+    ],
+    [
+      "FFmpeg up to 94x performance boost after implementing handwritten assembly code",
+      "https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 19:24:50",
+      "https://news.ycombinator.com/item?id=42045140"
+    ],
+    [
+      "Nutrient Levels in Retail Grocery Stores",
+      "https://altered.substack.com/p/walmart"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 19:16:32",
+      "https://news.ycombinator.com/item?id=42045046"
+    ],
+    [
+      "404 Media Is Partnering with Wired",
+      "https://www.404media.co/404-media-is-partnering-with-wired/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 18:55:40",
       "https://news.ycombinator.com/item?id=42044860"
     ],
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2024-11-04, 15:27:54",
+      "https://news.ycombinator.com/item?id=42042401"
+    ],
+    [
+      "Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,Perplexity",
+      "https://github.com/mem0ai/mem0-chrome-extension"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 15:26:32",
       "https://news.ycombinator.com/item?id=42042382"
     ],
@@ -127,16 +167,6 @@
     [
       "Alonzo Church: Architect of computer intelligence",
       "https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 14:49:44",
-      "https://news.ycombinator.com/item?id=42042016"
-    ],
-    [
-      "What Every Developer Should Know About GPU Computing (2023)",
-      "https://blog.codingconfessions.com/p/gpu-computing"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2024-11-03, 20:56:05",
-      "https://news.ycombinator.com/item?id=42036041"
-    ],
-    [
-      "Show HN: Tinder, but to decide what to eat",
-      "https://whatdinner.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 19:09:19",
       "https://news.ycombinator.com/item?id=42035319"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-11-03, 14:29:57",
-      "https://news.ycombinator.com/item?id=42033241"
-    ],
-    [
-      "Touchscreens are out, and tactile controls are back",
-      "https://spectrum.ieee.org/touchscreens"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 18:08:38",
       "https://news.ycombinator.com/item?id=42009627"
     ],
     [
       "The Varieties of Mystical Experience",
       "https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 18:00:07",
-      "https://news.ycombinator.com/item?id=42009532"
-    ],
-    [
-      "Scalable watermarking for identifying large language model outputs",
-      "https://www.nature.com/articles/s41586-024-08025-4"
     ]
   ]
 ]
