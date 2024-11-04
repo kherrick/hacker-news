@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-04, 03:25:49](https://news.ycombinator.com/item?id=42038139) - [Please just stop saying \"just\" (2019)](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
+* [2024-11-04, 02:56:09](https://news.ycombinator.com/item?id=42038004) - [New better alterative to XML, JSON and YAML](https://xenondata.org)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+* [2024-11-04, 02:50:19](https://news.ycombinator.com/item?id=42037976) - [There is mounting evidence that starting a business reduces stress](https://fortune.com/2024/03/25/mounting-evidence-starting-business-reduces-stress-persistent-myths-stopping-employees-careers-success/)
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-04, 00:19:24](https://news.ycombinator.com/item?id=42037260) - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
 * [2024-11-03, 23:50:44](https://news.ycombinator.com/item?id=42037120) - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
@@ -18,7 +20,6 @@
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:02:51](https://news.ycombinator.com/item?id=42034242) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42034242)
 * [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
-* [2024-11-03, 16:58:50](https://news.ycombinator.com/item?id=42034196) - [Missing open-source contributor presents a dilemma when accepting their PR](https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/)
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
@@ -27,7 +28,6 @@
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 14:15:07](https://news.ycombinator.com/item?id=42007144) - [Project Hessdalen](https://old.hessdalen.org/index_e.shtml)
-* [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming languages that blew my mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
 
