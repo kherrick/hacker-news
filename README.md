@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
 * [2024-11-04, 12:39:55](https://news.ycombinator.com/item?id=42040987) - [A Missing IDE Feature](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-11-04, 12:02:01](https://news.ycombinator.com/item?id=42040747) - [PropelAuth (YC W22) is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
@@ -14,13 +15,13 @@
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 * [2024-11-03, 22:17:59](https://news.ycombinator.com/item?id=42036536) - [The Secret of Ramsey Numbers](https://cacm.acm.org/news/the-secret-of-ramsey-numbers/)
-* [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
 * [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
 * [2024-11-03, 16:58:50](https://news.ycombinator.com/item?id=42034196) - [Missing open-source contributor presents a dilemma when accepting their PR](https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/)
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
+* [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview gone wrong](https://www.ashu1461.com/interview-gone-wrong/)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
 * [2024-11-01, 11:17:17](https://news.ycombinator.com/item?id=42015812) - [Ritonavir Form III: A Coincidental Concurrent Discovery](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01017)
@@ -29,7 +30,6 @@
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 * [2024-10-31, 14:50:07](https://news.ycombinator.com/item?id=42007496) - [The heartbreak behind Dorothy Parker's wit](https://www.washingtonpost.com/books/2024/10/31/dorothy-parker-books-review/)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming languages that blew my mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
-* [2024-10-30, 04:22:06](https://news.ycombinator.com/item?id=41991951) - [It's a Palworld After All a Lawyer Explains Nintendo vs. Palworld [video]](https://www.youtube.com/watch?v=8apzrwv75i0)
 
 ## [Archives](archives/index.md)
 
