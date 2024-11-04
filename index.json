@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-11-03, 21:42:26",
-      "https://news.ycombinator.com/item?id=42036305"
-    ],
-    [
-      "Why systemd is a problem for embedded Linux",
-      "https://kevinboone.me/systemd_embedded.html"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 21:42:03",
       "https://news.ycombinator.com/item?id=42036303"
     ],
@@ -277,6 +267,16 @@
     [
       "ASCII control characters in my terminal",
       "https://jvns.ca/blog/2024/10/31/ascii-control-characters/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 12:21:26",
+      "https://news.ycombinator.com/item?id=42006125"
+    ],
+    [
+      "Open-source wheeled biped robot",
+      "https://github.com/upkie/upkie"
     ]
   ],
   [
