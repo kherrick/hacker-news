@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
 * [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad software keeps cyber security companies in business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
@@ -12,7 +13,6 @@
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
-* [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of Frame Pointer Unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
