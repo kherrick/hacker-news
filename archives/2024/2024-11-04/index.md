@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
+* [2024-11-04, 15:07:37](https://news.ycombinator.com/item?id=42042188) - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)
 * [2024-11-04, 14:58:12](https://news.ycombinator.com/item?id=42042082) - [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
+* [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
