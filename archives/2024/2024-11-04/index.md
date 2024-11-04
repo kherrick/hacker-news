@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
 * [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad Software Keeps Cyber Security Companies in Business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
@@ -11,6 +12,7 @@
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
+* [2024-11-04, 17:03:00](https://news.ycombinator.com/item?id=42043552) - [Show HN: Convert any website into a React component](https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp)
 * [2024-11-04, 17:02:38](https://news.ycombinator.com/item?id=42043549) - [Back to the future: Writing 6502 assembler with Amazon Q Developer](https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer)
 * [2024-11-04, 17:02:00](https://news.ycombinator.com/item?id=42043539) - [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
 * [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
@@ -28,6 +30,7 @@
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
+* [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
