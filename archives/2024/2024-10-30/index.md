@@ -93,6 +93,7 @@
 * [2024-10-30, 05:02:37](https://news.ycombinator.com/item?id=41992081) - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 * [2024-10-30, 04:58:38](https://news.ycombinator.com/item?id=41992068) - [Stupidity](https://onepercentrule.substack.com/p/stupidity-our-biggest-threat)
 * [2024-10-30, 04:35:20](https://news.ycombinator.com/item?id=41992007) - [Project 25, and Why It's Bad](https://economixcomix.com/2024/10/18/project-2025-and-why-its-bad/)
+* [2024-10-30, 04:22:06](https://news.ycombinator.com/item?id=41991951) - [It's a Palworld After All a Lawyer Explains Nintendo vs. Palworld [video]](https://www.youtube.com/watch?v=8apzrwv75i0)
 * [2024-10-30, 02:32:48](https://news.ycombinator.com/item?id=41991419) - [The Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 * [2024-10-30, 02:22:01](https://news.ycombinator.com/item?id=41991360) - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/)
 * [2024-10-30, 02:20:59](https://news.ycombinator.com/item?id=41991352) - [The almost lost art of rosin potatoes](https://thecookscook.com/features/the-almost-lost-art-of-rosin-potatoes/)
