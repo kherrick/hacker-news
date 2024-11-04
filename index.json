@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-11-04, 14:58:12",
+      "https://news.ycombinator.com/item?id=42042082"
+    ],
+    [
+      "New York Times Tech Workers Strike Ahead of Election",
+      "https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 14:41:28",
+      "https://news.ycombinator.com/item?id=42041917"
+    ],
+    [
+      "We're Leaving Kubernetes",
+      "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 13:50:31",
       "https://news.ycombinator.com/item?id=42041500"
     ],
     [
       "Large Language Models Are Changing Collective Intelligence Forever",
       "https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 12:39:55",
-      "https://news.ycombinator.com/item?id=42040987"
-    ],
-    [
-      "A Missing IDE Feature",
-      "https://matklad.github.io/2024/10/14/missing-ide-feature.html"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "The history of Unix's ioctl and signal about window sizes",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 06:30:00",
+      "https://news.ycombinator.com/item?id=42039053"
+    ],
+    [
+      "Unfortunate things about performance reviews",
+      "http://rachelbythebay.com/w/2021/02/19/perf/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-11-03, 17:52:25",
-      "https://news.ycombinator.com/item?id=42034675"
-    ],
-    [
-      "gptel: a simple LLM client for Emacs",
-      "https://github.com/karthink/gptel"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 17:02:11",
       "https://news.ycombinator.com/item?id=42034237"
     ],
     [
       "pg_flo – Stream, transform, and re-route PostgreSQL data in real-time",
       "https://www.pgflo.io/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 16:58:50",
-      "https://news.ycombinator.com/item?id=42034196"
-    ],
-    [
-      "Missing open-source contributor presents a dilemma when accepting their PR",
-      "https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Touchscreens are out, and tactile controls are back",
       "https://spectrum.ieee.org/touchscreens"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 12:19:24",
-      "https://news.ycombinator.com/item?id=42025951"
-    ],
-    [
-      "Venvstacks: Virtual Environment Stacks for Python",
-      "https://lmstudio.ai/blog/venvstacks"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "To what extent is science a strong-link problem?",
       "https://svpow.com/2024/10/30/to-what-extent-is-science-a-strong-link-problem/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 09:33:59",
+      "https://news.ycombinator.com/item?id=41993231"
+    ],
+    [
+      "Tip of the day #2: A safer arena allocator",
+      "https://gaultier.github.io/blog/tip_of_the_day_2.html"
     ]
   ]
 ]
