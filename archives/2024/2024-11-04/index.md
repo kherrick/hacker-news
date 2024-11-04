@@ -9,6 +9,7 @@
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
+* [2024-11-04, 13:11:39](https://news.ycombinator.com/item?id=42041205) - [I feel that NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
 * [2024-11-04, 12:39:55](https://news.ycombinator.com/item?id=42040987) - [A Missing IDE Feature](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Workers Go on Strike](https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html)
 * [2024-11-04, 12:02:01](https://news.ycombinator.com/item?id=42040747) - [PropelAuth (YC W22) is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
