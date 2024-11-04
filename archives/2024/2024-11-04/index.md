@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
 * [2024-11-04, 12:39:55](https://news.ycombinator.com/item?id=42040987) - [A Missing IDE Feature](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
@@ -17,6 +18,7 @@
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 08:41:22](https://news.ycombinator.com/item?id=42039683) - [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
 * [2024-11-04, 08:18:53](https://news.ycombinator.com/item?id=42039596) - [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+* [2024-11-04, 08:13:45](https://news.ycombinator.com/item?id=42039569) - [Quincy Jones, music titan, dies at 91](https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21)
 * [2024-11-04, 07:51:52](https://news.ycombinator.com/item?id=42039454) - [Soda Is Making a Comeback](https://www.cnn.com/2024/11/01/business/coke-dr-pepper-soda/index.html)
 * [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
