@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42045140"
     ],
     [
-      "Nutrient Levels in Retail Grocery Stores",
+      "Nutrient levels in retail grocery stores",
       "https://altered.substack.com/p/walmart"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42043948"
     ],
     [
-      "DBT for Unstructured Data – DataChain",
+      "DataChain: DBT for Unstructured Data",
       "https://github.com/iterative/datachain"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42043939"
     ],
     [
-      "Writing Secure Go Code",
+      "Writing secure Go code",
       "https://jarosz.dev/article/writing-secure-go-code/"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-11-04, 14:41:28",
+      "https://news.ycombinator.com/item?id=42041917"
+    ],
+    [
+      "We're Leaving Kubernetes",
+      "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 14:00:59",
       "https://news.ycombinator.com/item?id=42041581"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42040549"
     ],
     [
-      "Limitations of Frame Pointer Unwinding",
+      "Limitations of frame pointer unwinding",
       "https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "An embarrassingly simple approach to recover unlearned knowledge for LLMs",
       "https://arxiv.org/abs/2410.16454"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 22:17:59",
-      "https://news.ycombinator.com/item?id=42036536"
-    ],
-    [
-      "The Secret of Ramsey Numbers",
-      "https://cacm.acm.org/news/the-secret-of-ramsey-numbers/"
     ]
   ],
   [
