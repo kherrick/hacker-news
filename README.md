@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
 * [2024-11-04, 17:02:00](https://news.ycombinator.com/item?id=42043539) - [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
 * [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
 * [2024-11-04, 16:44:49](https://news.ycombinator.com/item?id=42043324) - [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
@@ -25,7 +26,6 @@
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-01, 08:05:25](https://news.ycombinator.com/item?id=42014906) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
-* [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 * [2024-10-31, 14:50:07](https://news.ycombinator.com/item?id=42007496) - [The heartbreak behind Dorothy Parker's wit](https://www.washingtonpost.com/books/2024/10/31/dorothy-parker-books-review/)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming languages that blew my mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
