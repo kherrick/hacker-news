@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 00:42:58",
+      "https://news.ycombinator.com/item?id=42037386"
+    ],
+    [
+      "Scientists glue two proteins together, driving cancer cells to self-destruct",
+      "https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 00:19:24",
       "https://news.ycombinator.com/item?id=42037260"
     ],
@@ -27,16 +37,6 @@
     [
       "Hertz-dev, the first open-source base model for conversational audio",
       "https://si.inc/hertz-dev/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 22:40:52",
-      "https://news.ycombinator.com/item?id=42036694"
-    ],
-    [
-      "Show HN: I launched a super cheap and simple to use OCR tool for macOS",
-      "https://www.textcapture.app/"
     ]
   ],
   [
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-11-03, 21:19:02",
-      "https://news.ycombinator.com/item?id=42036165"
+      "2024-11-03, 21:42:03",
+      "https://news.ycombinator.com/item?id=42036303"
     ],
     [
-      "Bill Atkinson doxxed Douglas Adams in 1987",
-      "https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987"
+      "Do you need Redis? PostgreSQL does queuing, locking, and pub/sub",
+      "https://spin.atomicobject.com/redis-postgresql/"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-11-01, 18:32:28",
+      "https://news.ycombinator.com/item?id=42020103"
+    ],
+    [
+      "Interview Gone Wrong",
+      "https://www.ashu1461.com/interview-gone-wrong/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 16:37:16",
       "https://news.ycombinator.com/item?id=42018740"
     ],
@@ -217,16 +227,6 @@
     [
       "Programming NetBIOS on OS/2",
       "https://www.os2museum.com/wp/programming-netbios-on-os-2/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 07:28:14",
-      "https://news.ycombinator.com/item?id=42014753"
-    ],
-    [
-      "Mirrord Mirrord on the wall, who's most processed of them all",
-      "https://vibhavstechdiary.substack.com/p/mirrord-mirrord-on-the-wall-whos"
     ]
   ],
   [
