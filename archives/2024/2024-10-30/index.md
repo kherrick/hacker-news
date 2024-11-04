@@ -75,6 +75,7 @@
 * [2024-10-30, 11:10:47](https://news.ycombinator.com/item?id=41993648) - [Pg_analytics is now PostgreSQL Licensed](https://github.com/paradedb/pg_analytics)
 * [2024-10-30, 10:53:09](https://news.ycombinator.com/item?id=41993556) - [Musk, Bezos need just 90 minutes to match your lifetime carbon footprint: Oxfam](https://www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/)
 * [2024-10-30, 09:51:41](https://news.ycombinator.com/item?id=41993303) - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
+* [2024-10-30, 09:33:59](https://news.ycombinator.com/item?id=41993231) - [Tip of the day #2: A safer arena allocator](https://gaultier.github.io/blog/tip_of_the_day_2.html)
 * [2024-10-30, 09:32:23](https://news.ycombinator.com/item?id=41993219) - [2-adic numbering for binary tilings](https://11011110.github.io/blog/2024/10/28/2-adic-numbering-binary.html)
 * [2024-10-30, 09:08:45](https://news.ycombinator.com/item?id=41993096) - [The inventor of the automatic rice cooker](https://spectrum.ieee.org/toshiba-rice-cooker)
 * [2024-10-30, 08:49:54](https://news.ycombinator.com/item?id=41993012) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)

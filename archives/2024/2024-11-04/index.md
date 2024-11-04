@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 14:58:12](https://news.ycombinator.com/item?id=42042082) - [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
+* [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
@@ -22,6 +24,7 @@
 * [2024-11-04, 07:51:52](https://news.ycombinator.com/item?id=42039454) - [Soda Is Making a Comeback](https://www.cnn.com/2024/11/01/business/coke-dr-pepper-soda/index.html)
 * [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
+* [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews](http://rachelbythebay.com/w/2021/02/19/perf/)
 * [2024-11-04, 05:58:27](https://news.ycombinator.com/item?id=42038911) - [USB Insight Hub](https://www.crowdsupply.com/aerio-solutions/usb-insight-hub)
 * [2024-11-04, 05:38:52](https://news.ycombinator.com/item?id=42038821) - [Internet Archive \"Save Page Now\" has been re-enabled](https://web.archive.org/save/)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
