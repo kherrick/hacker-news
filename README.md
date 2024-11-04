@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
-* [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad Software Keeps Cyber Security Companies in Business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
+* [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad software keeps cyber security companies in business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
@@ -12,7 +12,8 @@
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
-* [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times tech workers go on strike](https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html)
+* [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
+* [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of Frame Pointer Unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
@@ -28,7 +29,6 @@
 * [2024-11-01, 08:05:25](https://news.ycombinator.com/item?id=42014906) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
-* [2024-10-31, 14:50:07](https://news.ycombinator.com/item?id=42007496) - [The heartbreak behind Dorothy Parker's wit](https://www.washingtonpost.com/books/2024/10/31/dorothy-parker-books-review/)
 * [2024-10-30, 11:37:14](https://news.ycombinator.com/item?id=41993801) - [To what extent is science a strong-link problem?](https://svpow.com/2024/10/30/to-what-extent-is-science-a-strong-link-problem/)
 
 ## [Archives](archives/index.md)
