@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-04, 10:22:47](https://news.ycombinator.com/item?id=42040189) - [Ask HN: Niche technical knowledge not found on the internet?](https://news.ycombinator.com/item?id=42040189)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+* [2024-11-04, 02:41:19](https://news.ycombinator.com/item?id=42037929) - [The Saga of a Celebrated Scientist – and His Rodent Dystopia](https://www.chronicle.com/article/the-saga-of-a-celebrated-scientist-and-his-rodent-dystopia)
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 * [2024-11-03, 22:11:08](https://news.ycombinator.com/item?id=42036476) - [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
