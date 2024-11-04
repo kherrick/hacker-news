@@ -66,6 +66,7 @@
 * [2024-10-30, 13:08:35](https://news.ycombinator.com/item?id=41994390) - [Where Cruise Ships Go to Die. Meet the Man Saving Them](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 * [2024-10-30, 12:39:46](https://news.ycombinator.com/item?id=41994189) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 11:41:21](https://news.ycombinator.com/item?id=41993832) - [EPA cancels pesticide shown to be harmful to unborn babies](https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/)
+* [2024-10-30, 11:37:14](https://news.ycombinator.com/item?id=41993801) - [To what extent is science a strong-link problem?](https://svpow.com/2024/10/30/to-what-extent-is-science-a-strong-link-problem/)
 * [2024-10-30, 11:35:01](https://news.ycombinator.com/item?id=41993782) - [GLP-1s like Ozempic are among the most important drug breakthroughs ever](https://www.economist.com/briefing/2024/10/24/glp-1s-like-ozempic-are-among-the-most-important-drug-breakthroughs-ever)
 * [2024-10-30, 11:33:25](https://news.ycombinator.com/item?id=41993773) - [The Secret Father of Modern Computing](https://every.to/the-crazy-ones/the-secret-father-of-modern-computing)
 * [2024-10-30, 11:32:58](https://news.ycombinator.com/item?id=41993771) - [AMD Q3'2024 Financials – By Ryan Smith and Dr. Ian Cutress](https://morethanmoore.substack.com/p/amd-q32024-financials)

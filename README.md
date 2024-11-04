@@ -21,7 +21,6 @@
 * [2024-11-03, 16:58:50](https://news.ycombinator.com/item?id=42034196) - [Missing open-source contributor presents a dilemma when accepting their PR](https://bettersoftware.uk/2024/11/03/missing-open-source-contributor-presents-a-dilemma-when-accepting-their-contribution/)
 * [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
-* [2024-11-01, 21:36:01](https://news.ycombinator.com/item?id=42021786) - [The performance of hashing for similar function detection](https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/)
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview gone wrong](https://www.ashu1461.com/interview-gone-wrong/)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
 * [2024-11-01, 11:17:17](https://news.ycombinator.com/item?id=42015812) - [Ritonavir Form III: A Coincidental Concurrent Discovery](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01017)
@@ -30,6 +29,7 @@
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 * [2024-10-31, 14:50:07](https://news.ycombinator.com/item?id=42007496) - [The heartbreak behind Dorothy Parker's wit](https://www.washingtonpost.com/books/2024/10/31/dorothy-parker-books-review/)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming languages that blew my mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
+* [2024-10-30, 11:37:14](https://news.ycombinator.com/item?id=41993801) - [To what extent is science a strong-link problem?](https://svpow.com/2024/10/30/to-what-extent-is-science-a-strong-link-problem/)
 
 ## [Archives](archives/index.md)
 
