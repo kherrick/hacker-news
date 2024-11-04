@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 20:01:57",
+      "https://news.ycombinator.com/item?id=42045477"
+    ],
+    [
+      "Blog Writing for Developers (2023)",
+      "https://rmoff.net/2023/07/19/blog-writing-for-developers/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 19:49:03",
       "https://news.ycombinator.com/item?id=42045367"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-11-04, 14:49:44",
-      "https://news.ycombinator.com/item?id=42042016"
-    ],
-    [
-      "What Every Developer Should Know About GPU Computing (2023)",
-      "https://blog.codingconfessions.com/p/gpu-computing"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 14:41:28",
       "https://news.ycombinator.com/item?id=42041917"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-11-04, 08:13:45",
-      "https://news.ycombinator.com/item?id=42039569"
-    ],
-    [
-      "Quincy Jones has died",
-      "https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 07:39:27",
       "https://news.ycombinator.com/item?id=42039401"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2024-11-04, 02:52:14",
-      "https://news.ycombinator.com/item?id=42037982"
+      "2024-11-04, 06:30:00",
+      "https://news.ycombinator.com/item?id=42039053"
     ],
     [
-      "An embarrassingly simple approach to recover unlearned knowledge for LLMs",
-      "https://arxiv.org/abs/2410.16454"
+      "Unfortunate things about performance reviews (2021)",
+      "http://rachelbythebay.com/w/2021/02/19/perf/"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 05:06:42",
+      "https://news.ycombinator.com/item?id=42038653"
+    ],
+    [
+      "A change of heart regarding employee metrics",
+      "http://rachelbythebay.com/w/2024/11/03/metrics/"
     ]
   ],
   [
