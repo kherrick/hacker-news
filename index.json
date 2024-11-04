@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-11-04, 13:11:39",
+      "https://news.ycombinator.com/item?id=42041205"
+    ],
+    [
+      "I feel that NAT is inevitable even with IPv6",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 12:02:01",
       "https://news.ycombinator.com/item?id=42040747"
     ],
@@ -197,16 +207,6 @@
     [
       "Touchscreens are out, and tactile controls are back",
       "https://spectrum.ieee.org/touchscreens"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 21:36:01",
-      "https://news.ycombinator.com/item?id=42021786"
-    ],
-    [
-      "The performance of hashing for similar function detection",
-      "https://edmcman.github.io/blog/2024-01-11--fuzzy-hashing-for-code-comparisons/"
     ]
   ],
   [
