@@ -10,6 +10,7 @@
 * [2024-11-03, 22:40:52](https://news.ycombinator.com/item?id=42036694) - [Show HN: I launched a super cheap and simple to use OCR tool for macOS](https://www.textcapture.app/)
 * [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 22:23:19](https://news.ycombinator.com/item?id=42036571) - [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
+* [2024-11-03, 22:17:59](https://news.ycombinator.com/item?id=42036536) - [The Secret of Ramsey Numbers](https://cacm.acm.org/news/the-secret-of-ramsey-numbers/)
 * [2024-11-03, 22:11:08](https://news.ycombinator.com/item?id=42036476) - [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
 * [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)

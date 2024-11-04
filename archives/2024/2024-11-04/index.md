@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 12:02:01](https://news.ycombinator.com/item?id=42040747) - [PropelAuth (YC W22) is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
+* [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q Source the Origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 11:34:45](https://news.ycombinator.com/item?id=42040600) - [Is yt-dlp/yt-dlp compromised?](https://github.com/yt-dlp/yt-dlp/releases)
 * [2024-11-04, 10:22:47](https://news.ycombinator.com/item?id=42040189) - [Ask HN: Niche technical knowledge not found on the internet?](https://news.ycombinator.com/item?id=42040189)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
