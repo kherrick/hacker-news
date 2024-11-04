@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-04, 03:25:49](https://news.ycombinator.com/item?id=42038139) - [Please just stop saying \"just\" (2019)](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
-* [2024-11-04, 02:56:09](https://news.ycombinator.com/item?id=42038004) - [New better alterative to XML, JSON and YAML](https://xenondata.org)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 * [2024-11-04, 02:50:19](https://news.ycombinator.com/item?id=42037976) - [There is mounting evidence that starting a business reduces stress](https://fortune.com/2024/03/25/mounting-evidence-starting-business-reduces-stress-persistent-myths-stopping-employees-careers-success/)
 * [2024-11-04, 02:02:29](https://news.ycombinator.com/item?id=42037743) - [Adding IPv6 to My Home Network (2024-11-03)](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
@@ -11,6 +10,7 @@
 * [2024-11-03, 22:47:19](https://news.ycombinator.com/item?id=42036733) - [Why Facts Don't Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 * [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 22:23:19](https://news.ycombinator.com/item?id=42036571) - [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
+* [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
 * [2024-11-03, 20:45:50](https://news.ycombinator.com/item?id=42035981) - [Hacker News Data Map [180MB]](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
