@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
+* [2024-11-04, 15:28:50](https://news.ycombinator.com/item?id=42042412) - [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-11-04, 15:07:37](https://news.ycombinator.com/item?id=42042188) - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)

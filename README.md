@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
+* [2024-11-04, 15:28:50](https://news.ycombinator.com/item?id=42042412) - [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
-* [2024-11-04, 15:07:37](https://news.ycombinator.com/item?id=42042188) - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times tech workers go on strike](https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html)
@@ -20,7 +21,6 @@
 * [2024-11-03, 22:17:59](https://news.ycombinator.com/item?id=42036536) - [The Secret of Ramsey Numbers](https://cacm.acm.org/news/the-secret-of-ramsey-numbers/)
 * [2024-11-03, 19:09:19](https://news.ycombinator.com/item?id=42035319) - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
 * [2024-11-03, 17:02:11](https://news.ycombinator.com/item?id=42034237) - [pg_flo – Stream, transform, and re-route PostgreSQL data in real-time](https://www.pgflo.io/)
-* [2024-11-03, 16:21:03](https://news.ycombinator.com/item?id=42033913) - [Top discoveries about ancient people from DNA in 2023](https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2023/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-01, 16:37:16](https://news.ycombinator.com/item?id=42018740) - [PacCam: Pac-Man controlled with your face](https://eieio.games/paccam/)
 * [2024-11-01, 16:15:13](https://news.ycombinator.com/item?id=42018462) - [Japan's Eightfold Fence (2017)](https://americanaffairsjournal.org/2017/08/japans-eightfold-fence/)
