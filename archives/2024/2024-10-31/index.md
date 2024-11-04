@@ -18,6 +18,7 @@
 * [2024-10-31, 18:37:44](https://news.ycombinator.com/item?id=42010004) - [China sanctions US drone maker Skydio](https://www.skydio.com/blog/chinas-sanctions-on-skydio)
 * [2024-10-31, 18:30:35](https://news.ycombinator.com/item?id=42009916) - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
 * [2024-10-31, 18:09:18](https://news.ycombinator.com/item?id=42009636) - [Nearly 90% of our AI crawler traffic is from ByteDance](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
+* [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
 * [2024-10-31, 18:03:23](https://news.ycombinator.com/item?id=42009570) - [Bayesian Yacht Sinking](https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html)
 * [2024-10-31, 18:00:07](https://news.ycombinator.com/item?id=42009532) - [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 * [2024-10-31, 17:42:23](https://news.ycombinator.com/item?id=42009310) - [Ask HN: What do you think would happen if Google and YouTube split?](https://news.ycombinator.com/item?id=42009310)

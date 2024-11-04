@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 17:50:04](https://news.ycombinator.com/item?id=42044141) - [Wi-Fi 8: Pioneering the Future of Connectivity](https://www.mediatek.com/tek-talk-blogs/wi-fi-8-pioneering-the-future-of-connectivity)
 * [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
+* [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing Secure Go Code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
+* [2024-11-04, 17:02:38](https://news.ycombinator.com/item?id=42043549) - [Back to the future: Writing 6502 assembler with Amazon Q Developer](https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer)
 * [2024-11-04, 17:02:00](https://news.ycombinator.com/item?id=42043539) - [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
 * [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
 * [2024-11-04, 16:44:49](https://news.ycombinator.com/item?id=42043324) - [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
@@ -13,6 +16,7 @@
 * [2024-11-04, 16:32:05](https://news.ycombinator.com/item?id=42043139) - [Iceland embraced a shorter work week. Here's how it turned out](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
 * [2024-11-04, 16:29:59](https://news.ycombinator.com/item?id=42043108) - [Amazon to cough $75B on capex in 2024, more next year](https://www.theregister.com/2024/11/01/amazon_75b_capex/)
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
+* [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
 * [2024-11-04, 15:28:50](https://news.ycombinator.com/item?id=42042412) - [Scientists Document Lost Mountain Cities on Silk Road in Uzbekistan](https://www.usnews.com/news/world/articles/2024-10-23/scientists-document-lost-mountain-cities-on-silk-road-in-uzbekistan)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
