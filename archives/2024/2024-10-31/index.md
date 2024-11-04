@@ -48,6 +48,7 @@
 * [2024-10-31, 12:52:20](https://news.ycombinator.com/item?id=42006407) - [Voyager 1 phones home with transmitter that hasn't been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
 * [2024-10-31, 12:37:52](https://news.ycombinator.com/item?id=42006265) - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
 * [2024-10-31, 12:21:26](https://news.ycombinator.com/item?id=42006125) - [Open-source wheeled biped robot](https://github.com/upkie/upkie)
+* [2024-10-31, 12:09:19](https://news.ycombinator.com/item?id=42006015) - [All Talks from the Matrix Conference](https://matrix.org/blog/2024/10/29/matrixconf/)
 * [2024-10-31, 12:01:03](https://news.ycombinator.com/item?id=42005955) - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
 * [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 11:44:19](https://news.ycombinator.com/item?id=42005821) - [Xpanceo smart contact lenses hands-on](https://skarredghost.com/2024/10/31/xpanceo-smart-contact-lenses-hands-on/)
