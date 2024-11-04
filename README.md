@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
-* [2024-11-04, 03:25:49](https://news.ycombinator.com/item?id=42038139) - [Please just stop saying \"just\" (2019)](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 * [2024-11-04, 02:02:29](https://news.ycombinator.com/item?id=42037743) - [Adding IPv6 to My Home Network (2024-11-03)](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
@@ -10,6 +9,7 @@
 * [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
 * [2024-11-03, 22:23:19](https://news.ycombinator.com/item?id=42036571) - [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
 * [2024-11-03, 22:11:08](https://news.ycombinator.com/item?id=42036476) - [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
+* [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
 * [2024-11-03, 20:45:50](https://news.ycombinator.com/item?id=42035981) - [Hacker News Data Map [180MB]](https://lmcinnes.github.io/datamapplot_examples/hackernews/)
