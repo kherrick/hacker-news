@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DBT for Unstructured Data – DataChain](https://github.com/iterative/datachain)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
-* [2024-11-04, 17:02:00](https://news.ycombinator.com/item?id=42043539) - [Manjaro Linux prepares to enable telemetry by default](https://forum.manjaro.org/t/testers-needed-manjaro-data-donor/170163)
 * [2024-11-04, 17:00:32](https://news.ycombinator.com/item?id=42043519) - [Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer)
 * [2024-11-04, 16:44:49](https://news.ycombinator.com/item?id=42043324) - [Tinylangs: Programming languages in 50 lines of Python](https://github.com/zserge/tinylangs)
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's Called a Dance Floor](https://www.seekhifi.com/its-called-a-dance-floor/)
