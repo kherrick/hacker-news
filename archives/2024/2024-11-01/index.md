@@ -19,6 +19,7 @@
 * [2024-11-01, 19:11:49](https://news.ycombinator.com/item?id=42020486) - [A 22 percent increase in the German minimum wage: nothing crazy](https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum)
 * [2024-11-01, 19:03:45](https://news.ycombinator.com/item?id=42020406) - [Budget Android (€99) vs. Expensive iPhone (€1000)](https://willem.com/blog/2018-10-09_using-a-budget-android-as-main-smartphone/)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
+* [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview Gone Wrong](https://www.ashu1461.com/interview-gone-wrong/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:38:24](https://news.ycombinator.com/item?id=42019488) - [300 people applied to rent $700/month sleeping pods in downtown San Francisco](https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis)
