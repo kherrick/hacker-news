@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Workers Go on Strike](https://www.nytimes.com/2024/11/04/business/media/new-york-times-strike.html)
 * [2024-11-04, 12:02:01](https://news.ycombinator.com/item?id=42040747) - [PropelAuth (YC W22) is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q Source the Origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
+* [2024-11-04, 11:43:35](https://news.ycombinator.com/item?id=42040650) - [Show HN: SplatGallery – A Community-Driven Gallery for Gaussian Splats](https://www.splatgallery.com/)
 * [2024-11-04, 11:34:45](https://news.ycombinator.com/item?id=42040600) - [Is yt-dlp/yt-dlp compromised?](https://github.com/yt-dlp/yt-dlp/releases)
+* [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of Frame Pointer Unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 * [2024-11-04, 10:22:47](https://news.ycombinator.com/item?id=42040189) - [Ask HN: Niche technical knowledge not found on the internet?](https://news.ycombinator.com/item?id=42040189)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 08:41:22](https://news.ycombinator.com/item?id=42039683) - [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
