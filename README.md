@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 22:20:14](https://news.ycombinator.com/item?id=42046599) - [Harris slams Speaker Mike Johnson for saying the GOP may repeal CHIPS Act](https://www.nbcnews.com/politics/kamala-harris/harris-slams-mike-johnson-gop-repeal-chips-act-rcna178513)
+* [2024-11-04, 21:48:19](https://news.ycombinator.com/item?id=42046316) - [Generative AI Has an E-Waste Problem](https://spectrum.ieee.org/e-waste)
 * [2024-11-04, 21:46:36](https://news.ycombinator.com/item?id=42046295) - [Perplexity CEO offers AI company's services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
 * [2024-11-04, 21:32:04](https://news.ycombinator.com/item?id=42046196) - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
-* [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Insomnia, but not lack of sleep, may hasten brain shrinkage: study](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
-* [2024-11-04, 19:49:03](https://news.ycombinator.com/item?id=42045367) - [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
 * [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
