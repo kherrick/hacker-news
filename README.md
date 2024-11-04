@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
+* [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 03:06:18](https://news.ycombinator.com/item?id=42038053) - [BC7 optimal solid-color blocks](https://fgiesen.wordpress.com/2024/11/03/bc7-optimal-solid-color-blocks/)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
@@ -26,7 +27,6 @@
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 12:21:26](https://news.ycombinator.com/item?id=42006125) - [Open-source wheeled biped robot](https://github.com/upkie/upkie)
-* [2024-10-31, 11:57:25](https://news.ycombinator.com/item?id=42005920) - [A React Renderer for Gnome JavaScript](https://github.com/react-gjs/renderer)
 * [2024-10-31, 09:03:19](https://news.ycombinator.com/item?id=42004756) - [Programming languages that blew my mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-31, 03:58:01](https://news.ycombinator.com/item?id=42003355) - [Big Data for the Leviathan](https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan)
 * [2024-10-30, 06:07:34](https://news.ycombinator.com/item?id=41992270) - [Unix core utilities implemented in Haskell](https://github.com/Gandalf-/coreutils)
