@@ -36,6 +36,7 @@
 * [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
 * [2024-10-31, 15:23:39](https://news.ycombinator.com/item?id=42007835) - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
 * [2024-10-31, 15:04:27](https://news.ycombinator.com/item?id=42007649) - [Claude for Desktop](https://claude.ai/download)
+* [2024-10-31, 14:58:28](https://news.ycombinator.com/item?id=42007586) - [New Nintendo Music app could spell more trouble for illicit soundtrack posters](https://arstechnica.com/gaming/2024/10/will-the-new-nintendo-music-app-lead-to-more-dmca-takedowns-from-nintendo/)
 * [2024-10-31, 14:49:42](https://news.ycombinator.com/item?id=42007491) - [Show HN: Cerebellum – Open-Source Browser Control with Claude 3.5 Computer Use](https://github.com/theredsix/cerebellum)
 * [2024-10-31, 14:39:15](https://news.ycombinator.com/item?id=42007373) - [Programming Avant-Garde](https://mmapped.blog/posts/32-programming-avant-garde)
 * [2024-10-31, 14:15:07](https://news.ycombinator.com/item?id=42007144) - [Project Hessdalen](https://old.hessdalen.org/index_e.shtml)
