@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 05:58:27](https://news.ycombinator.com/item?id=42038911) - [USB Insight Hub](https://www.crowdsupply.com/aerio-solutions/usb-insight-hub)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
 * [2024-11-04, 02:02:29](https://news.ycombinator.com/item?id=42037743) - [Adding IPv6 to My Home Network (2024-11-03)](https://code.jeremyevans.net/2024-11-03-adding-ipv6-to-my-home-network.html)
@@ -7,7 +8,6 @@
 * [2024-11-03, 23:50:44](https://news.ycombinator.com/item?id=42037120) - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
 * [2024-11-03, 23:30:48](https://news.ycombinator.com/item?id=42036995) - [Hertz-dev, the first open-source base model for conversational audio](https://si.inc/hertz-dev/)
 * [2024-11-03, 22:35:16](https://news.ycombinator.com/item?id=42036652) - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
-* [2024-11-03, 22:23:19](https://news.ycombinator.com/item?id=42036571) - [Wasp Flamethrower Drone Attachment](https://throwflame.com/products/flamethrower-drone-kit/)
 * [2024-11-03, 22:11:08](https://news.ycombinator.com/item?id=42036476) - [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
 * [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)

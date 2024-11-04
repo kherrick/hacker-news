@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 05:58:27](https://news.ycombinator.com/item?id=42038911) - [USB Insight Hub](https://www.crowdsupply.com/aerio-solutions/usb-insight-hub)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 03:25:49](https://news.ycombinator.com/item?id=42038139) - [Please just stop saying \"just\" (2019)](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
 * [2024-11-04, 02:56:09](https://news.ycombinator.com/item?id=42038004) - [New better alterative to XML, JSON and YAML](https://xenondata.org)
