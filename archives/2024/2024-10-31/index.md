@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
+* [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Physical Intelligence's first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 20:32:03](https://news.ycombinator.com/item?id=42011193) - [Wait Until 8th](https://www.waituntil8th.org)

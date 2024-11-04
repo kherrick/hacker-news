@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-04](index.md)
+
+* [2024-11-04, 00:19:24](https://news.ycombinator.com/item?id=42037260) - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)

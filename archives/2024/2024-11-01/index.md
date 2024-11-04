@@ -67,6 +67,7 @@
 * [2024-11-01, 07:01:09](https://news.ycombinator.com/item?id=42014642) - [Pythagora (GPT Pilot) (YC W24) Is Hiring](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world)
 * [2024-11-01, 06:45:01](https://news.ycombinator.com/item?id=42014588) - [Apple silently uploads your passwords and keeps them](https://lapcatsoftware.com/articles/2024/10/4.html)
 * [2024-11-01, 04:26:04](https://news.ycombinator.com/item?id=42014045) - [UTF-8 characters that behave oddly when the case is changed](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
+* [2024-11-01, 04:16:07](https://news.ycombinator.com/item?id=42014013) - [A Week of Failing to Pay with Bitcoin in El Salvador](https://reason.com/2024/10/31/a-week-of-failing-to-pay-with-bitcoin-in-el-salvador/)
 * [2024-11-01, 04:13:31](https://news.ycombinator.com/item?id=42014000) - [Elite School Will Offer a Day Off for Students Distressed by Election](https://www.nytimes.com/2024/10/31/nyregion/fieldston-school-election-attendance.html)
 * [2024-11-01, 03:50:54](https://news.ycombinator.com/item?id=42013902) - [XTP: Make Squishy Software](https://www.getxtp.com/blog/meet-xtp)
 * [2024-11-01, 03:38:37](https://news.ycombinator.com/item?id=42013843) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
