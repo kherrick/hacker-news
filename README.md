@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-04, 21:32:04](https://news.ycombinator.com/item?id=42046196) - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
 * [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Insomnia, but not lack of sleep, may hasten brain shrinkage: study](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
@@ -25,7 +26,6 @@
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of frame pointer unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
-* [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews (2021)](http://rachelbythebay.com/w/2021/02/19/perf/)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [A change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-01, 16:32:42](https://news.ycombinator.com/item?id=42018687) - [Virtual archaeology: Recreating the first PC I ever used (2022)](https://fabulous.systems/posts/2022/12/virtual-archaeology-recreating-my-first-computer/)
