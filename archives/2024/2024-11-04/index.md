@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 08:41:22](https://news.ycombinator.com/item?id=42039683) - [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
+* [2024-11-04, 08:18:53](https://news.ycombinator.com/item?id=42039596) - [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
 * [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 * [2024-11-04, 05:58:27](https://news.ycombinator.com/item?id=42038911) - [USB Insight Hub](https://www.crowdsupply.com/aerio-solutions/usb-insight-hub)
 * [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
