@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-05, 16:35:23",
+      "https://news.ycombinator.com/item?id=42052918"
+    ],
+    [
+      "2022 Uber told staff to use kill switch during raids to stop police seeing data",
+      "https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 15:34:12",
       "https://news.ycombinator.com/item?id=42052263"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2024-11-05, 15:32:51",
-      "https://news.ycombinator.com/item?id=42052253"
-    ],
-    [
-      "The future belongs to those who prepare like Dwarkesh Patel",
-      "https://meridian.mercury.com/dwarkesh-patel"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 15:27:03",
       "https://news.ycombinator.com/item?id=42052207"
     ],
     [
-      "Show HN: Varse – Simple remote server variables",
+      "Show HN: Varse – Simple remote application config",
       "https://github.com/varse-io/varse"
     ]
   ],
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-11-05, 13:06:57",
+      "https://news.ycombinator.com/item?id=42051197"
+    ],
+    [
+      "State of Python 3.13 Performance: Free-Threading",
+      "https://codspeed.io/blog/state-of-python-3-13-performance-free-threading"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 12:04:14",
       "https://news.ycombinator.com/item?id=42050862"
     ],
@@ -157,16 +167,6 @@
     [
       "Low-poly image generation using evolutionary algorithms in Ruby (2023)",
       "https://thomascountz.com/2023/07/30/low-poly-image-generation"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 23:39:15",
-      "https://news.ycombinator.com/item?id=42047243"
-    ],
-    [
-      "Aldebaran 1959 Spacecraft Concept (2010)",
-      "https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-11-04, 17:00:32",
+      "https://news.ycombinator.com/item?id=42043519"
+    ],
+    [
+      "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
+      "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 15:29:07",
       "https://news.ycombinator.com/item?id=42042417"
     ],
@@ -287,16 +297,6 @@
     [
       "Scalable self-improvement for compiler optimization",
       "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 06:56:04",
-      "https://news.ycombinator.com/item?id=42004127"
-    ],
-    [
-      "When Projects Stop",
-      "https://thefoggiest.dev/2024/10/31/when-projects-stop"
     ]
   ]
 ]
