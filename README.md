@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 22:22:07](https://news.ycombinator.com/item?id=42055702) - [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)
 * [2024-11-05, 22:00:19](https://news.ycombinator.com/item?id=42055558) - [Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
 * [2024-11-05, 21:26:45](https://news.ycombinator.com/item?id=42055312) - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
 * [2024-11-05, 21:16:22](https://news.ycombinator.com/item?id=42055242) - [Apple to Face First EU Fine Under Bloc's Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
@@ -18,7 +19,6 @@
 * [2024-11-05, 15:25:44](https://news.ycombinator.com/item?id=42052194) - [PiML: Python Interpretable Machine Learning Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
-* [2024-11-05, 14:20:49](https://news.ycombinator.com/item?id=42051643) - [Netflix Europe offices raided in tax fraud probe](https://www.bbc.co.uk/news/articles/cwy1vze09wwo)
 * [2024-11-05, 13:52:31](https://news.ycombinator.com/item?id=42051452) - [We Shall Fight in the Buttery – Oxford's War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 22:22:07](https://news.ycombinator.com/item?id=42055702) - [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)
 * [2024-11-05, 22:00:19](https://news.ycombinator.com/item?id=42055558) - [Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
 * [2024-11-05, 21:26:45](https://news.ycombinator.com/item?id=42055312) - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
 * [2024-11-05, 21:16:22](https://news.ycombinator.com/item?id=42055242) - [Apple to Face First EU Fine Under Bloc's Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
