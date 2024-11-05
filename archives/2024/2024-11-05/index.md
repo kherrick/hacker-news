@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 18:52:09](https://news.ycombinator.com/item?id=42054186) - [Tencent drops a 389B MoE model(Open-source and free for commercial use))](https://github.com/Tencent/Tencent-Hunyuan-Large)
 * [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
@@ -12,6 +13,7 @@
 * [2024-11-05, 16:35:23](https://news.ycombinator.com/item?id=42052918) - [2022 Uber told staff to use kill switch during raids to stop police seeing data](https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data)
 * [2024-11-05, 16:23:56](https://news.ycombinator.com/item?id=42052793) - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
 * [2024-11-05, 16:19:43](https://news.ycombinator.com/item?id=42052745) - [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
+* [2024-11-05, 16:03:46](https://news.ycombinator.com/item?id=42052558) - [WebRL: Training LLM Web Agents via Self-Evolving Online Reinforcement Learning](https://arxiv.org/abs/2411.02337)
 * [2024-11-05, 15:51:43](https://news.ycombinator.com/item?id=42052432) - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
 * [2024-11-05, 15:34:12](https://news.ycombinator.com/item?id=42052263) - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
 * [2024-11-05, 15:32:51](https://news.ycombinator.com/item?id=42052253) - [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)

@@ -40,6 +40,7 @@
 * [2024-11-01, 16:15:13](https://news.ycombinator.com/item?id=42018462) - [Japan's Eightfold Fence (2017)](https://americanaffairsjournal.org/2017/08/japans-eightfold-fence/)
 * [2024-11-01, 15:59:01](https://news.ycombinator.com/item?id=42018282) - [How to inspect TLS encrypted traffic](https://blog.apnic.net/2024/10/14/how-to-inspect-tls-encrypted-traffic/)
 * [2024-11-01, 15:56:28](https://news.ycombinator.com/item?id=42018247) - [ADHD should not be treated as a disorder](https://www.economist.com/leaders/2024/10/30/adhd-should-not-be-treated-as-a-disorder)
+* [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every Boring Problem Found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-11-01, 15:50:43](https://news.ycombinator.com/item?id=42018193) - [Servicing a iRobot Roomba from 2011](https://willem.com/blog/2019-03-20_servicing-a-robot-vacuum-cleaner/)
 * [2024-11-01, 15:42:58](https://news.ycombinator.com/item?id=42018096) - [How China Is Like the 19th Century U.S.](https://www.construction-physics.com/p/how-china-is-like-the-19th-century)
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
