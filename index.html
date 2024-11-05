@@ -129,6 +129,56 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42053747">
+          <h3>
+            <a class="item" href="https://github.com/fortress-build/whirlwind"
+              >Show HN: Whirlwind – Async concurrent hashmap for Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-05 @ 18:02:18</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42053747"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://news.ycombinator.com/item?id=41426998"
+                >https://news.ycombinator.com/item?id=41426998</a
+              >).
+              <p>
+                We use a lot of async Rust internally, and created this library
+                out of a need for an async-aware concurrent hashmap since there
+                weren’t many available in the Rust ecosystem.
+              </p>
+              <p>
+                Whirlwind is a sharded HashMap with a fully asynchronous API.
+                Just as dashmap is a replacement for
+                std::sync::RwLock&lt;HashMap&gt;, whirlwind aims to be a
+                replacement for tokio::sync::RwLock&lt;HashMap&gt;. It has a
+                similar design and performance characteristics to dashmap, but
+                seems to perform better in read-heavy workloads with tokio's
+                green threading.
+              </p>
+              <p>
+                Benchmarks are in the readme! We used an asyncified version of
+                dashmap's benchmark suite. The project is in a pretty early
+                stage and I'm sure there are flaws, but I'm pretty happy with
+                the performance.
+              </p>
+              <p>
+                There is some unsafe involved, but we run Miri in ci to
+                (hopefully) catch undefined behavior well before it's in an
+                actual release.
+              </p>
+              <p>We'd appreciate any feedback! Thanks in advance :)</p>
+            </div>
+          </section>
+        </section>
         <section id="42053180">
           <h3>
             <a class="item" href="https://github.com/dstackai/dstack"
@@ -139,11 +189,11 @@
             <h4>
               <span>2024-11-05 @ 16:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42053180"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -160,11 +210,11 @@
             <h4>
               <span>2024-11-05 @ 16:46:41</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42053043"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -181,11 +231,11 @@
             <h4>
               <span>2024-11-05 @ 16:23:56</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42052793"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -201,11 +251,11 @@
             <h4>
               <span>2024-11-05 @ 15:51:43</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42052432"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -339,7 +389,7 @@
             <h4>
               <span>2024-11-05 @ 15:25:44</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42052194"
                   >Comments</a
@@ -358,11 +408,11 @@
             <h4>
               <span>2024-11-05 @ 15:18:34</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42052143"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -377,11 +427,11 @@
             <h4>
               <span>2024-11-05 @ 14:59:15</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051968"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -398,11 +448,11 @@
             <h4>
               <span>2024-11-05 @ 14:49:41</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051857"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -420,7 +470,7 @@
             <h4>
               <span>2024-11-05 @ 14:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051687"
                   >Comments</a
@@ -441,11 +491,11 @@
             <h4>
               <span>2024-11-05 @ 14:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051643"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -483,11 +533,11 @@
             <h4>
               <span>2024-11-05 @ 13:52:31</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051452"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -504,7 +554,7 @@
             <h4>
               <span>2024-11-05 @ 13:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051368"
                   >Comments</a
@@ -529,7 +579,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42051231"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -575,27 +625,6 @@
             </div>
           </section>
         </section>
-        <section id="42048021">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
-              >Netnews: The Origin Story [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-05 @ 02:09:16</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42048021"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="42047320">
           <h3>
             <a
@@ -609,11 +638,11 @@
             <h4>
               <span>2024-11-04 @ 23:50:49</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42047320"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -635,7 +664,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42046953"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -652,7 +681,7 @@
             <h4>
               <span>2024-11-04 @ 20:05:19</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42045509"
                   >Comments</a
@@ -673,7 +702,7 @@
             <h4>
               <span>2024-11-04 @ 20:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42045477"
                   >Comments</a
@@ -696,7 +725,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42044771"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -722,25 +751,6 @@
             </h4>
           </section>
         </section>
-        <section id="42043747">
-          <h3>
-            <a class="item" href="http://48calc.org/"
-              >DB48X: High Performance Scientific Calculator, Reinvented</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-04 @ 17:19:34</span
-              ><span class="points-container"
-                >Points: <span class="points">184</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42043747"
-                  >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="42043552">
           <h3>
             <a
@@ -753,11 +763,11 @@
             <h4>
               <span>2024-11-04 @ 17:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42043552"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
             <div class="text">
@@ -867,11 +877,11 @@
             <h4>
               <span>2024-11-04 @ 15:29:07</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42042417"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -909,7 +919,7 @@
             <h4>
               <span>2024-11-04 @ 14:00:59</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42041581"
                   >Comments</a
@@ -939,6 +949,25 @@
             </h4>
           </section>
         </section>
+        <section id="42012092">
+          <h3>
+            <a class="item" href="https://oasis-model.github.io/"
+              >Oasis: A Universe in a Transformer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-10-31 @ 22:10:45</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42012092"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="41988127">
           <h3>
             <a
@@ -951,7 +980,7 @@
             <h4>
               <span>2024-10-29 @ 18:59:52</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=41988127"
                   >Comments</a
