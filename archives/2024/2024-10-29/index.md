@@ -25,6 +25,7 @@
 * [2024-10-29, 19:15:30](https://news.ycombinator.com/item?id=41988285) - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
 * [2024-10-29, 19:04:15](https://news.ycombinator.com/item?id=41988171) - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
 * [2024-10-29, 19:03:43](https://news.ycombinator.com/item?id=41988165) - [Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
+* [2024-10-29, 18:59:52](https://news.ycombinator.com/item?id=41988127) - [Myths and Realities: Prosecutors and Criminal Justice Reform](https://www.brennancenter.org/our-work/research-reports/myths-and-realities-prosecutors-and-criminal-justice-reform)
 * [2024-10-29, 18:58:20](https://news.ycombinator.com/item?id=41988110) - [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
 * [2024-10-29, 18:49:31](https://news.ycombinator.com/item?id=41988030) - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 * [2024-10-29, 18:06:53](https://news.ycombinator.com/item?id=41987571) - [Oliver Heaviside and the coaxial cable (2016)](https://www.waveform.com/blogs/main/146807175-oliver-heaviside-and-the-coaxial-cable)
