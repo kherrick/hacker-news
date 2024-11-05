@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-11-05, 18:49:01",
-      "https://news.ycombinator.com/item?id=42054162"
-    ],
-    [
-      "A List of Ternary Operators",
-      "https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 18:46:31",
       "https://news.ycombinator.com/item?id=42054144"
     ],
@@ -111,22 +101,22 @@
   ],
   [
     [
+      "2024-11-05, 16:03:46",
+      "https://news.ycombinator.com/item?id=42052558"
+    ],
+    [
+      "WebRL: Training LLM Web Agents via Self-Evolving Online Reinforcement Learning",
+      "https://arxiv.org/abs/2411.02337"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 15:51:43",
       "https://news.ycombinator.com/item?id=42052432"
     ],
     [
       "Show HN: I wrote an open-source browser alternative for Computer Use for any LLM",
       "https://github.com/gregpr07/browser-use"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 15:27:03",
-      "https://news.ycombinator.com/item?id=42052207"
-    ],
-    [
-      "Show HN: Varse – Simple remote application config",
-      "https://github.com/varse-io/varse"
     ]
   ],
   [
@@ -161,12 +151,22 @@
   ],
   [
     [
-      "2024-11-05, 14:15:10",
-      "https://news.ycombinator.com/item?id=42051607"
+      "2024-11-05, 14:49:41",
+      "https://news.ycombinator.com/item?id=42051857"
     ],
     [
-      "Notes on Binary Soup",
-      "https://www.marginalia.nu/log/a_112_slop_ideas/"
+      "Will plants grow on the moon?",
+      "https://worldsensorium.com/will-plants-grow-on-the-moon/"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 14:26:42",
+      "https://news.ycombinator.com/item?id=42051687"
+    ],
+    [
+      "Wooden satellite heads to space in Mars exploration test",
+      "https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719"
     ]
   ],
   [
@@ -197,6 +197,26 @@
     [
       "What if they are all wrong? (2020)",
       "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 13:06:57",
+      "https://news.ycombinator.com/item?id=42051197"
+    ],
+    [
+      "State of Python 3.13 performance: Free-threading",
+      "https://codspeed.io/blog/state-of-python-3-13-performance-free-threading"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 12:50:16",
+      "https://news.ycombinator.com/item?id=42051098"
+    ],
+    [
+      "DeepMind debuts watermarks for AI-generated text",
+      "https://spectrum.ieee.org/watermark"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Every boring problem found in eBPF (2022)",
       "https://tmpout.sh/2/4.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 22:10:45",
-      "https://news.ycombinator.com/item?id=42012092"
-    ],
-    [
-      "Oasis: A Universe in a Transformer",
-      "https://oasis-model.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 21:10:17",
-      "https://news.ycombinator.com/item?id=42011543"
-    ],
-    [
-      "The Lines, They Are A-Changin'",
-      "https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287"
     ]
   ]
 ]
