@@ -12,6 +12,7 @@
 * [2024-11-05, 21:26:45](https://news.ycombinator.com/item?id=42055312) - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
 * [2024-11-05, 21:16:22](https://news.ycombinator.com/item?id=42055242) - [Apple to Face First EU Fine Under Bloc's Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
 * [2024-11-05, 20:33:29](https://news.ycombinator.com/item?id=42054904) - [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
+* [2024-11-05, 20:22:34](https://news.ycombinator.com/item?id=42054835) - [Traceroute Isn't Real](https://gekk.info/articles/traceroute.htm)
 * [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
 * [2024-11-05, 20:16:40](https://news.ycombinator.com/item?id=42054791) - [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
