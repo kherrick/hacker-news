@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
 * [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 * [2024-11-05, 16:23:56](https://news.ycombinator.com/item?id=42052793) - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
 * [2024-11-05, 15:51:43](https://news.ycombinator.com/item?id=42052432) - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
@@ -17,7 +18,6 @@
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby (2023)](https://thomascountz.com/2023/07/30/low-poly-image-generation)
-* [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept (2010)](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 * [2024-11-04, 22:58:50](https://news.ycombinator.com/item?id=42046953) - [World’s oldest tree? Genetic analysis traces evolution of iconic Pando forest](https://www.nature.com/articles/d41586-024-03570-4)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)

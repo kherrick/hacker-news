@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
 * [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 * [2024-11-05, 16:35:23](https://news.ycombinator.com/item?id=42052918) - [2022 Uber told staff to use kill switch during raids to stop police seeing data](https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data)
 * [2024-11-05, 16:23:56](https://news.ycombinator.com/item?id=42052793) - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
