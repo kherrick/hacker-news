@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-05, 05:20:04](https://news.ycombinator.com/item?id=42048795) - [MrBeast's pitch decks get leaked](https://www.indiehackers.com/post/creators/mrbeasts-pitch-decks-get-leaked-and-they-aren-t-pretty-yJl2DI4mrKBcbtZixoB9)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
 * [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-05, 00:58:11](https://news.ycombinator.com/item?id=42047677) - [Pagination widows, or, Why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
+* [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept (2010)](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 * [2024-11-04, 22:19:49](https://news.ycombinator.com/item?id=42046596) - [Forest Service decision to halt prescribed burns California is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)

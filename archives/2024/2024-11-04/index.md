@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 * [2024-11-04, 22:52:55](https://news.ycombinator.com/item?id=42046902) - [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
 * [2024-11-04, 22:29:57](https://news.ycombinator.com/item?id=42046660) - [Employment Barometer in Germany Falls Further](https://www.ifo.de/en/facts/2024-11-04/employment-barometer-germany-falls-further-october-2024)
