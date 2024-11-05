@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
-* [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-05, 00:58:11](https://news.ycombinator.com/item?id=42047677) - [Pagination widows, or, why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
 * [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
