@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 13:52:31](https://news.ycombinator.com/item?id=42051452) - [We Shall Fight in the Buttery – Oxford's War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
+* [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
 * [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
 * [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [Google Is Now Watermarking Its AI-Generated Text](https://spectrum.ieee.org/watermark)

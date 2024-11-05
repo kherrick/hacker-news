@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 13:52:31](https://news.ycombinator.com/item?id=42051452) - [We Shall Fight in the Buttery – Oxford's War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
+* [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
 * [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
@@ -26,10 +28,8 @@
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook building subsea cable that will encompass the world](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
-* [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [A change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
-* [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
+* [2024-11-01, 20:55:15](https://news.ycombinator.com/item?id=42021470) - [Scalable self-improvement for compiler optimization](https://research.google/blog/scalable-self-improvement-for-compiler-optimization/)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
-* [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
 
 ## [Archives](archives/index.md)
 
