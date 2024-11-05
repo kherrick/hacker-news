@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-05, 18:02:18",
+      "https://news.ycombinator.com/item?id=42053747"
+    ],
+    [
+      "Show HN: Whirlwind – Async concurrent hashmap for Rust",
+      "https://github.com/fortress-build/whirlwind"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 16:56:31",
       "https://news.ycombinator.com/item?id=42053180"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-11-05, 02:09:16",
-      "https://news.ycombinator.com/item?id=42048021"
-    ],
-    [
-      "Netnews: The Origin Story [pdf]",
-      "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 23:50:49",
       "https://news.ycombinator.com/item?id=42047320"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-11-04, 17:19:34",
-      "https://news.ycombinator.com/item?id=42043747"
-    ],
-    [
-      "DB48X: High Performance Scientific Calculator, Reinvented",
-      "http://48calc.org/"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 17:03:00",
       "https://news.ycombinator.com/item?id=42043552"
     ],
@@ -287,6 +277,16 @@
     [
       "Scalable self-improvement for compiler optimization",
       "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 22:10:45",
+      "https://news.ycombinator.com/item?id=42012092"
+    ],
+    [
+      "Oasis: A Universe in a Transformer",
+      "https://oasis-model.github.io/"
     ]
   ],
   [
