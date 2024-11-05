@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-05, 04:36:45](https://news.ycombinator.com/item?id=42048640) - [The average age of U.S. homebuyers jumps to 56](https://www.cnbc.com/2024/11/04/homebuyer-average-age-rises-to-56-amid-rising-homeownership-costs.html)
+* [2024-11-05, 06:52:12](https://news.ycombinator.com/item?id=42049180) - [Programmer in Berlin: Culture](https://wickedchicken.github.io/post/programmer-in-berlin-culture/)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
 * [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
