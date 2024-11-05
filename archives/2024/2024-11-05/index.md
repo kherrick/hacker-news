@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 23:04:45](https://news.ycombinator.com/item?id=42055979) - [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 * [2024-11-05, 22:22:07](https://news.ycombinator.com/item?id=42055702) - [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)
+* [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf]](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:00:19](https://news.ycombinator.com/item?id=42055558) - [Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
+* [2024-11-05, 22:00:05](https://news.ycombinator.com/item?id=42055556) - [The Eternal Mainframe (2013)](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2024-11-05, 21:26:45](https://news.ycombinator.com/item?id=42055312) - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
 * [2024-11-05, 21:16:22](https://news.ycombinator.com/item?id=42055242) - [Apple to Face First EU Fine Under Bloc's Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
 * [2024-11-05, 20:33:29](https://news.ycombinator.com/item?id=42054904) - [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
