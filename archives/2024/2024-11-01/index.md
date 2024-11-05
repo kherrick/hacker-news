@@ -21,6 +21,7 @@
 * [2024-11-01, 19:03:45](https://news.ycombinator.com/item?id=42020406) - [Budget Android (€99) vs. Expensive iPhone (€1000)](https://willem.com/blog/2018-10-09_using-a-budget-android-as-main-smartphone/)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview Gone Wrong](https://www.ashu1461.com/interview-gone-wrong/)
+* [2024-11-01, 18:23:57](https://news.ycombinator.com/item?id=42020016) - [Math's 'Bunkbed Conjecture' Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:57:39](https://news.ycombinator.com/item?id=42019694) - [How Apple Watch estimates VO2Max within 1.2 ml/kg/min without a treadmill test](https://www.empirical.health/blog/apple-watch-cardio-fitness-accuracy-vo2max/)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
