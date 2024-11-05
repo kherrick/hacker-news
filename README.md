@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-05, 20:33:29](https://news.ycombinator.com/item?id=42054904) - [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
+* [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
 * [2024-11-05, 20:16:40](https://news.ycombinator.com/item?id=42054791) - [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 19:43:34](https://news.ycombinator.com/item?id=42054569) - [Vega's Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
@@ -11,7 +12,6 @@
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
-* [2024-11-05, 16:23:56](https://news.ycombinator.com/item?id=42052793) - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
 * [2024-11-05, 15:51:43](https://news.ycombinator.com/item?id=42052432) - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
 * [2024-11-05, 15:27:03](https://news.ycombinator.com/item?id=42052207) - [Show HN: Varse – Simple remote application config](https://github.com/varse-io/varse)
 * [2024-11-05, 15:25:44](https://news.ycombinator.com/item?id=42052194) - [PiML: Python Interpretable Machine Learning Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
