@@ -11,36 +11,6 @@
   ],
   [
     [
-      "2024-11-05, 14:57:29",
-      "https://news.ycombinator.com/item?id=42051951"
-    ],
-    [
-      "Iceland embraced a shorter work week",
-      "https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 14:57:27",
-      "https://news.ycombinator.com/item?id=42051950"
-    ],
-    [
-      "The BPF instruction set architecture is now RFC 9669",
-      "https://lwn.net/Articles/997002/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 14:53:17",
-      "https://news.ycombinator.com/item?id=42051895"
-    ],
-    [
-      "Apple 'broke law' by pushing out labor-organizing dev",
-      "https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 14:26:42",
       "https://news.ycombinator.com/item?id=42051687"
     ],
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2024-11-04, 23:39:15",
+      "https://news.ycombinator.com/item?id=42047243"
+    ],
+    [
+      "Aldebaran 1959 Spacecraft Concept (2010)",
+      "https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 22:58:50",
       "https://news.ycombinator.com/item?id=42046953"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-11-04, 17:34:57",
+      "https://news.ycombinator.com/item?id=42043948"
+    ],
+    [
+      "DataChain: DBT for Unstructured Data",
+      "https://github.com/iterative/datachain"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 17:34:28",
       "https://news.ycombinator.com/item?id=42043939"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-11-04, 17:00:32",
+      "https://news.ycombinator.com/item?id=42043519"
+    ],
+    [
+      "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
+      "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 16:04:07",
       "https://news.ycombinator.com/item?id=42042810"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-11-04, 15:26:32",
+      "https://news.ycombinator.com/item?id=42042382"
+    ],
+    [
+      "What should a logo for NeXT look like? (1986)",
+      "https://www.paulrand.design/work/NeXT-Computers.html"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 14:51:10",
       "https://news.ycombinator.com/item?id=42042025"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-11-04, 14:49:44",
-      "https://news.ycombinator.com/item?id=42042016"
+      "2024-11-04, 14:41:28",
+      "https://news.ycombinator.com/item?id=42041917"
     ],
     [
-      "What Every Developer Should Know About GPU Computing (2023)",
-      "https://blog.codingconfessions.com/p/gpu-computing"
+      "We're Leaving Kubernetes",
+      "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
       "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 09:48:27",
-      "https://news.ycombinator.com/item?id=41981674"
-    ],
-    [
-      "Managing Distributed State with GenServers in Phoenix and Elixir",
-      "https://blog.appsignal.com/2024/10/29/managing-distributed-state-with-genservers-in-phoenix-and-elixir.html"
     ]
   ]
 ]
