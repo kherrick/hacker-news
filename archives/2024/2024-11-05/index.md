@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
+* [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
 * [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [Google Is Now Watermarking Its AI-Generated Text](https://spectrum.ieee.org/watermark)
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)

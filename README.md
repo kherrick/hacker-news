@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
-* [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [Google is now watermarking its AI-generated text](https://spectrum.ieee.org/watermark)
-* [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
+* [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
+* [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-05, 00:58:11](https://news.ycombinator.com/item?id=42047677) - [Pagination widows, or, why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
