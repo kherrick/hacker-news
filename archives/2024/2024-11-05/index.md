@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 * [2024-11-05, 16:35:23](https://news.ycombinator.com/item?id=42052918) - [2022 Uber told staff to use kill switch during raids to stop police seeing data](https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data)
+* [2024-11-05, 16:19:43](https://news.ycombinator.com/item?id=42052745) - [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
 * [2024-11-05, 15:34:12](https://news.ycombinator.com/item?id=42052263) - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
 * [2024-11-05, 15:32:51](https://news.ycombinator.com/item?id=42052253) - [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
 * [2024-11-05, 15:27:03](https://news.ycombinator.com/item?id=42052207) - [Show HN: Varse – Simple remote server variables](https://github.com/varse-io/varse)

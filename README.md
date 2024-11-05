@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-05, 16:35:23](https://news.ycombinator.com/item?id=42052918) - [2022 Uber told staff to use kill switch during raids to stop police seeing data](https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data)
+* [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
+* [2024-11-05, 16:19:43](https://news.ycombinator.com/item?id=42052745) - [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
 * [2024-11-05, 15:34:12](https://news.ycombinator.com/item?id=42052263) - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
 * [2024-11-05, 15:27:03](https://news.ycombinator.com/item?id=42052207) - [Show HN: Varse – Simple remote application config](https://github.com/varse-io/varse)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
@@ -18,7 +19,6 @@
 * [2024-11-05, 00:58:11](https://news.ycombinator.com/item?id=42047677) - [Pagination widows, or, why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
 * [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby (2023)](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-04, 22:58:50](https://news.ycombinator.com/item?id=42046953) - [World’s oldest tree? Genetic analysis traces evolution of iconic Pando forest](https://www.nature.com/articles/d41586-024-03570-4)
-* [2024-11-04, 22:19:49](https://news.ycombinator.com/item?id=42046596) - [USFS decision to halt prescribed burns in California is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagram as Code](https://diagrams.mingrammer.com/)
