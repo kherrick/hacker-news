@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
@@ -24,7 +25,6 @@
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:03:00](https://news.ycombinator.com/item?id=42043552) - [Show HN: Convert any website into a React component](https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp)
-* [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook building subsea cable that will encompass the world](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-01, 20:55:15](https://news.ycombinator.com/item?id=42021470) - [Scalable self-improvement for compiler optimization](https://research.google/blog/scalable-self-improvement-for-compiler-optimization/)

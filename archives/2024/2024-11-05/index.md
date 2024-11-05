@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
