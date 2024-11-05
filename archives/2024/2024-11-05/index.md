@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 14:22:04](https://news.ycombinator.com/item?id=42051651) - [Why shouldn't you give money to homeless people?](https://spiralprogress.com/2024/11/04/why-shouldnt-you-give-money-to-homeless-people/)
+* [2024-11-05, 14:20:49](https://news.ycombinator.com/item?id=42051643) - [Netflix Europe offices raided in tax fraud probe](https://www.bbc.co.uk/news/articles/cwy1vze09wwo)
 * [2024-11-05, 13:52:31](https://news.ycombinator.com/item?id=42051452) - [We Shall Fight in the Buttery – Oxford's War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)

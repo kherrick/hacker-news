@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 14:22:04](https://news.ycombinator.com/item?id=42051651) - [Why shouldn't you give money to homeless people?](https://spiralprogress.com/2024/11/04/why-shouldnt-you-give-money-to-homeless-people/)
+* [2024-11-05, 14:20:49](https://news.ycombinator.com/item?id=42051643) - [Netflix Europe offices raided in tax fraud probe](https://www.bbc.co.uk/news/articles/cwy1vze09wwo)
 * [2024-11-05, 13:52:31](https://news.ycombinator.com/item?id=42051452) - [We Shall Fight in the Buttery – Oxford's War 1939–1945](https://literaryreview.co.uk/we-shall-fight-in-the-buttery)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-05, 13:13:17](https://news.ycombinator.com/item?id=42051231) - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
@@ -19,7 +21,6 @@
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
 * [2024-11-04, 17:03:00](https://news.ycombinator.com/item?id=42043552) - [Show HN: Convert any website into a React component](https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp)
-* [2024-11-04, 17:02:38](https://news.ycombinator.com/item?id=42043549) - [Back to the future: Writing 6502 assembler with Amazon Q Developer](https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer)
 * [2024-11-04, 16:04:07](https://news.ycombinator.com/item?id=42042810) - [It's called a dance floor](https://www.seekhifi.com/its-called-a-dance-floor/)
 * [2024-11-04, 15:29:07](https://news.ycombinator.com/item?id=42042417) - [The Roots of Fear: Understanding the Amygdala](https://www.ucdavis.edu/news/roots-fear-understanding-amygdala)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
@@ -27,7 +28,6 @@
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook building subsea cable that will encompass the world](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
-* [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
 * [2024-11-01, 20:55:15](https://news.ycombinator.com/item?id=42021470) - [Scalable self-improvement for compiler optimization](https://research.google/blog/scalable-self-improvement-for-compiler-optimization/)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 
