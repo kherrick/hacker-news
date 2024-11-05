@@ -59,6 +59,7 @@
 * [2024-10-31, 11:16:44](https://news.ycombinator.com/item?id=42005635) - [Moving to a World Beyond \"p < 0.05\" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * [2024-10-31, 11:11:52](https://news.ycombinator.com/item?id=42005601) - [Demystifying the Regular Expression That Checks If a Number Is Prime (2016)](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 * [2024-10-31, 11:11:00](https://news.ycombinator.com/item?id=42005597) - [Ethernet at NANOG 92](https://www.potaroo.net/ispcol/2024-10/ethernet.html)
+* [2024-10-31, 10:06:47](https://news.ycombinator.com/item?id=42005191) - [Show HN: Samsar One Version One is now live](https://app.samsar.one/)
 * [2024-10-31, 09:53:14](https://news.ycombinator.com/item?id=42005105) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)
 * [2024-10-31, 09:36:18](https://news.ycombinator.com/item?id=42004976) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 * [2024-10-31, 09:07:17](https://news.ycombinator.com/item?id=42004786) - [How to Correctly Sum Up Numbers](https://cedardb.com/blog/overflow_handling/)
