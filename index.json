@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-05, 02:20:46",
-      "https://news.ycombinator.com/item?id=42048065"
-    ],
-    [
-      "Nvidia and its partners built a system to bypass U.S. export restrictions",
-      "https://twitter.com/kakashiii111/status/1853433531260649532"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 02:09:16",
       "https://news.ycombinator.com/item?id=42048021"
     ],
@@ -257,6 +247,16 @@
     [
       "How Apple Watch estimates VO2Max within 1.2 ml/kg/min without a treadmill test",
       "https://www.empirical.health/blog/apple-watch-cardio-fitness-accuracy-vo2max/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 14:35:47",
+      "https://news.ycombinator.com/item?id=42017312"
+    ],
+    [
+      "Avoiding recompilation hell in Elixir with mix xref",
+      "https://r.ena.to/blog/avoiding-recompilation-hell-in-elixir-with-mix-xref/"
     ]
   ],
   [
