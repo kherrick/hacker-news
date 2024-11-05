@@ -28,7 +28,7 @@
 * [2024-11-01, 17:57:39](https://news.ycombinator.com/item?id=42019694) - [How Apple Watch estimates VO2Max within 1.2 ml/kg/min without a treadmill test](https://www.empirical.health/blog/apple-watch-cardio-fitness-accuracy-vo2max/)
 * [2024-11-01, 14:35:47](https://news.ycombinator.com/item?id=42017312) - [Avoiding recompilation hell in Elixir with mix xref](https://r.ena.to/blog/avoiding-recompilation-hell-in-elixir-with-mix-xref/)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
-* [2024-10-31, 15:57:29](https://news.ycombinator.com/item?id=42008154) - [Triple Density Floppy, Anyone?](https://www.vogons.org/viewtopic.php?t=98550)
+* [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
 * [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
 
 ## [Archives](archives/index.md)
