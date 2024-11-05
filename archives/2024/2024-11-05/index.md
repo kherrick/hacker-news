@@ -13,6 +13,7 @@
 * [2024-11-05, 14:57:29](https://news.ycombinator.com/item?id=42051951) - [Iceland embraced a shorter work week](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
 * [2024-11-05, 14:57:27](https://news.ycombinator.com/item?id=42051950) - [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
 * [2024-11-05, 14:53:17](https://news.ycombinator.com/item?id=42051895) - [Apple 'broke law' by pushing out labor-organizing dev](https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/)
+* [2024-11-05, 14:49:41](https://news.ycombinator.com/item?id=42051857) - [Will Plants Grow on the Moon?](https://worldsensorium.com/will-plants-grow-on-the-moon/)
 * [2024-11-05, 14:26:42](https://news.ycombinator.com/item?id=42051687) - [World's First Wooden Satellite Heads to Space in Mars Exploration Test](https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719)
 * [2024-11-05, 14:22:04](https://news.ycombinator.com/item?id=42051651) - [Why shouldn't you give money to homeless people?](https://spiralprogress.com/2024/11/04/why-shouldnt-you-give-money-to-homeless-people/)
 * [2024-11-05, 14:20:49](https://news.ycombinator.com/item?id=42051643) - [Netflix Europe offices raided in tax fraud probe](https://www.bbc.co.uk/news/articles/cwy1vze09wwo)

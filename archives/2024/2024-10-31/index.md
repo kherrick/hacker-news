@@ -69,6 +69,7 @@
 * [2024-10-31, 07:14:13](https://news.ycombinator.com/item?id=42004206) - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 07:01:11](https://news.ycombinator.com/item?id=42004147) - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
 * [2024-10-31, 06:57:35](https://news.ycombinator.com/item?id=42004133) - [Hazel: A live functional programming environment featuring typed holes](https://hazel.org/)
+* [2024-10-31, 06:56:04](https://news.ycombinator.com/item?id=42004127) - [When Projects Stop](https://thefoggiest.dev/2024/10/31/when-projects-stop)
 * [2024-10-31, 06:40:48](https://news.ycombinator.com/item?id=42004069) - [Food Colorants Before Aniline Dyes (1991) [pdf]](https://acshist.scs.illinois.edu/bulletin_open_access/num10/num10%20p25-31.pdf)
 * [2024-10-31, 06:36:17](https://news.ycombinator.com/item?id=42004052) - [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
 * [2024-10-31, 04:40:42](https://news.ycombinator.com/item?id=42003557) - [The Therapist in the Machine](https://thebaffler.com/salvos/the-therapist-in-the-machine-mcallen)
