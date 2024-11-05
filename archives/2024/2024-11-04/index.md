@@ -6,6 +6,7 @@
 
 * [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
+* [2024-11-04, 22:58:50](https://news.ycombinator.com/item?id=42046953) - [World's oldest tree? Genetic analysis traces evolution of iconic Pando forest](https://www.nature.com/articles/d41586-024-03570-4)
 * [2024-11-04, 22:52:55](https://news.ycombinator.com/item?id=42046902) - [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
 * [2024-11-04, 22:29:57](https://news.ycombinator.com/item?id=42046660) - [Employment Barometer in Germany Falls Further](https://www.ifo.de/en/facts/2024-11-04/employment-barometer-germany-falls-further-october-2024)
 * [2024-11-04, 22:20:14](https://news.ycombinator.com/item?id=42046599) - [Harris slams Speaker Mike Johnson for saying the GOP may repeal CHIPS Act](https://www.nbcnews.com/politics/kamala-harris/harris-slams-mike-johnson-gop-repeal-chips-act-rcna178513)
@@ -51,6 +52,7 @@
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
+* [2024-11-04, 14:04:16](https://news.ycombinator.com/item?id=42041611) - [Oasis AI](https://oasis.decart.ai/starting-point)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
