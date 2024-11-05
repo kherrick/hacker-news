@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 15:14:49](https://news.ycombinator.com/item?id=42052105) - [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
+* [2024-11-05, 14:57:29](https://news.ycombinator.com/item?id=42051951) - [Iceland embraced a shorter work week](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
+* [2024-11-05, 14:57:27](https://news.ycombinator.com/item?id=42051950) - [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
+* [2024-11-05, 14:53:17](https://news.ycombinator.com/item?id=42051895) - [Apple 'broke law' by pushing out labor-organizing dev](https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/)
 * [2024-11-05, 14:26:42](https://news.ycombinator.com/item?id=42051687) - [World's First Wooden Satellite Heads to Space in Mars Exploration Test](https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719)
 * [2024-11-05, 14:22:04](https://news.ycombinator.com/item?id=42051651) - [Why shouldn't you give money to homeless people?](https://spiralprogress.com/2024/11/04/why-shouldnt-you-give-money-to-homeless-people/)
 * [2024-11-05, 14:20:49](https://news.ycombinator.com/item?id=42051643) - [Netflix Europe offices raided in tax fraud probe](https://www.bbc.co.uk/news/articles/cwy1vze09wwo)

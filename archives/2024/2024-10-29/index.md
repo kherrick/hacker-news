@@ -73,6 +73,7 @@
 * [2024-10-29, 11:17:57](https://news.ycombinator.com/item?id=41982698) - [How to get the whole planet to send abuse complaints to your best friends](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:06:28](https://news.ycombinator.com/item?id=41981886) - [Inspecting North Korea's Digital Map App: Licensing and API Insights](https://nkinternet.wordpress.com/2024/10/28/inspecting-north-koreas-digital-map-app-licensing-api-insights/)
 * [2024-10-29, 09:59:08](https://news.ycombinator.com/item?id=41981812) - [The eukaryote, the first cell to get organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
+* [2024-10-29, 09:48:27](https://news.ycombinator.com/item?id=41981674) - [Managing Distributed State with GenServers in Phoenix and Elixir](https://blog.appsignal.com/2024/10/29/managing-distributed-state-with-genservers-in-phoenix-and-elixir.html)
 * [2024-10-29, 09:40:17](https://news.ycombinator.com/item?id=41981508) - [Recent BGP leak that redirected internet traffic through Russia](https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/)
 * [2024-10-29, 09:10:23](https://news.ycombinator.com/item?id=41981183) - [NASA's oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/)
 * [2024-10-29, 09:05:55](https://news.ycombinator.com/item?id=41981109) - [Show HN: The Probability Times](https://theprobabilitytimes.com)
