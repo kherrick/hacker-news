@@ -24,6 +24,7 @@
 * [2024-11-01, 18:23:57](https://news.ycombinator.com/item?id=42020016) - [Math's 'Bunkbed Conjecture' Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 * [2024-11-01, 18:05:31](https://news.ycombinator.com/item?id=42019782) - [Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS](https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5)
 * [2024-11-01, 17:57:39](https://news.ycombinator.com/item?id=42019694) - [How Apple Watch estimates VO2Max within 1.2 ml/kg/min without a treadmill test](https://www.empirical.health/blog/apple-watch-cardio-fitness-accuracy-vo2max/)
+* [2024-11-01, 17:55:12](https://news.ycombinator.com/item?id=42019672) - [Bird wings inspire new approach to flight safety](https://engineering.princeton.edu/news/2024/10/28/bird-wings-inspire-new-approach-flight-safety)
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:38:24](https://news.ycombinator.com/item?id=42019488) - [300 people applied to rent $700/month sleeping pods in downtown San Francisco](https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis)
 * [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
