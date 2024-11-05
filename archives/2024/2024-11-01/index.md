@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
 * [2024-11-01, 23:56:29](https://news.ycombinator.com/item?id=42022796) - [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+* [2024-11-01, 23:52:31](https://news.ycombinator.com/item?id=42022769) - [Typology of Old German Spinning Tops (1935)](https://www.presentandcorrect.com/blogs/blog/typology-of-old-german-spinning-tops-1935)
 * [2024-11-01, 23:35:37](https://news.ycombinator.com/item?id=42022649) - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
 * [2024-11-01, 23:29:12](https://news.ycombinator.com/item?id=42022599) - [Nvidia (NVDA) to Replace Intel in the Dow Jones Industrial Average](https://www.tipranks.com/news/nvidia-nvda-to-replace-intel-in-the-dow-jones-industrial-average)
 * [2024-11-01, 22:50:39](https://news.ycombinator.com/item?id=42022335) - [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
