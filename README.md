@@ -12,7 +12,6 @@
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
-* [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DataChain: DBT for Unstructured Data](https://github.com/iterative/datachain)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
 * [2024-11-04, 17:03:00](https://news.ycombinator.com/item?id=42043552) - [Show HN: Convert any website into a React component](https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp)
@@ -28,6 +27,7 @@
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 08:13:45](https://news.ycombinator.com/item?id=42039569) - [Quincy Jones has died](https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21)
 * [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews (2021)](http://rachelbythebay.com/w/2021/02/19/perf/)
+* [2024-11-01, 15:50:43](https://news.ycombinator.com/item?id=42018193) - [Servicing a iRobot Roomba from 2011](https://willem.com/blog/2019-03-20_servicing-a-robot-vacuum-cleaner/)
 * [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
 * [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
 
