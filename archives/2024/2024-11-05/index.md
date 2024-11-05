@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 20:16:40](https://news.ycombinator.com/item?id=42054791) - [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
+* [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 18:52:09](https://news.ycombinator.com/item?id=42054186) - [Tencent drops a 389B MoE model(Open-source and free for commercial use))](https://github.com/Tencent/Tencent-Hunyuan-Large)
 * [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
