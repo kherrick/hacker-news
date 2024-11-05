@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-11-05, 22:22:07",
-      "https://news.ycombinator.com/item?id=42055702"
-    ],
-    [
-      "Google CEO Pichai Tells Employees to Stay Neutral",
-      "https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 22:00:19",
       "https://news.ycombinator.com/item?id=42055558"
     ],
     [
-      "Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her",
+      "Tracking down a mysterious skateboarder from 1979",
       "https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979"
     ]
   ],
@@ -37,26 +27,6 @@
     [
       "Apple to Face First EU Fine Under Bloc's Digital Markets Act",
       "https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 20:33:29",
-      "https://news.ycombinator.com/item?id=42054904"
-    ],
-    [
-      "Polymarket Paid US Social Media Influencers for Election Content",
-      "https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 20:16:40",
-      "https://news.ycombinator.com/item?id=42054791"
-    ],
-    [
-      "Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program",
-      "https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi"
     ]
   ],
   [
@@ -85,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42054449"
     ],
     [
-      "First time ever, AMD outsells Intel in the datacenter space",
+      "AMD outsells Intel in the datacenter space",
       "https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space"
     ]
   ],
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42052143"
     ],
     [
-      "Hacking 700M Electronic Arts Accounts",
+      "Hacking 700M Electronic Arts accounts",
       "https://battleda.sh/blog/ea-account-takeover"
     ]
   ],
@@ -187,6 +157,16 @@
     [
       "Hacker Fab",
       "https://docs.hackerfab.org/hacker-fab-space"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 14:15:10",
+      "https://news.ycombinator.com/item?id=42051607"
+    ],
+    [
+      "Notes on Binary Soup",
+      "https://www.marginalia.nu/log/a_112_slop_ideas/"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=42051368"
     ],
     [
-      "Failure Analysis of the Arecibo 305 Meter Telescope Collapse",
+      "Failure analysis of the Arecibo 305 meter telescope collapse",
       "https://nap.nationalacademies.org/read/26982/chapter/1"
     ]
   ],
@@ -241,12 +221,32 @@
   ],
   [
     [
-      "2024-11-04, 18:46:42",
-      "https://news.ycombinator.com/item?id=42044771"
+      "2024-11-04, 18:55:40",
+      "https://news.ycombinator.com/item?id=42044860"
     ],
     [
-      "Diagram as Code",
-      "https://diagrams.mingrammer.com/"
+      "Ralph Abraham was always looking for the big picture",
+      "https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 12:51:30",
+      "https://news.ycombinator.com/item?id=42041070"
+    ],
+    [
+      "Rhombus: A New Spin on Macros (2023)",
+      "https://dl.acm.org/doi/10.1145/3622818"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 07:19:27",
+      "https://news.ycombinator.com/item?id=42039296"
+    ],
+    [
+      "Shaderblocks: Block-based image editing",
+      "https://thejenkinscomic.net/shaderblocks/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=42018195"
     ],
     [
-      "Every Boring Problem Found in eBPF (2022)",
+      "Every boring problem found in eBPF (2022)",
       "https://tmpout.sh/2/4.html"
     ]
   ],
