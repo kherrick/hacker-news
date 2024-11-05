@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 15:34:12](https://news.ycombinator.com/item?id=42052263) - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
+* [2024-11-05, 15:32:51](https://news.ycombinator.com/item?id=42052253) - [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
+* [2024-11-05, 15:27:03](https://news.ycombinator.com/item?id=42052207) - [Show HN: Varse – Simple remote server variables](https://github.com/varse-io/varse)
+* [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 15:14:49](https://news.ycombinator.com/item?id=42052105) - [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
+* [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-05, 14:57:29](https://news.ycombinator.com/item?id=42051951) - [Iceland embraced a shorter work week](https://www.cnn.com/2024/10/25/business/iceland-shorter-working-week-economy/index.html)
 * [2024-11-05, 14:57:27](https://news.ycombinator.com/item?id=42051950) - [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
 * [2024-11-05, 14:53:17](https://news.ycombinator.com/item?id=42051895) - [Apple 'broke law' by pushing out labor-organizing dev](https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/)
