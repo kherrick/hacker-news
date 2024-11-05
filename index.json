@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-11-05, 23:04:45",
+      "https://news.ycombinator.com/item?id=42055979"
+    ],
+    [
+      "Mozilla is eliminating its advocacy division",
+      "https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 22:12:02",
+      "https://news.ycombinator.com/item?id=42055644"
+    ],
+    [
+      "Unix Programmer's Manual Third Edition [pdf]",
+      "https://dspinellis.github.io/unix-v3man/v3man.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 22:00:19",
       "https://news.ycombinator.com/item?id=42055558"
     ],
     [
       "Tracking down a mysterious skateboarder from 1979",
       "https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 22:00:05",
+      "https://news.ycombinator.com/item?id=42055556"
+    ],
+    [
+      "The Eternal Mainframe (2013)",
+      "https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-11-05, 18:46:31",
-      "https://news.ycombinator.com/item?id=42054144"
-    ],
-    [
-      "Rd-TableBench – Accurately evaluating table extraction",
-      "https://reducto.ai/blog/rd-tablebench"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 18:02:18",
       "https://news.ycombinator.com/item?id=42053747"
     ],
@@ -97,16 +117,6 @@
     [
       "Soft matter mechanics of baseball's Rubbing Mud",
       "https://www.pnas.org/doi/10.1073/pnas.2413514121"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 16:03:46",
-      "https://news.ycombinator.com/item?id=42052558"
-    ],
-    [
-      "WebRL: Training LLM Web Agents via Self-Evolving Online Reinforcement Learning",
-      "https://arxiv.org/abs/2411.02337"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Wooden satellite heads to space in Mars exploration test",
       "https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 13:52:31",
-      "https://news.ycombinator.com/item?id=42051452"
-    ],
-    [
-      "We Shall Fight in the Buttery – Oxford's War 1939–1945",
-      "https://literaryreview.co.uk/we-shall-fight-in-the-buttery"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-11-01, 20:55:15",
-      "https://news.ycombinator.com/item?id=42021470"
-    ],
-    [
-      "Scalable self-improvement for compiler optimization",
-      "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 20:27:21",
       "https://news.ycombinator.com/item?id=42021212"
     ],
@@ -297,6 +287,16 @@
     [
       "Every boring problem found in eBPF (2022)",
       "https://tmpout.sh/2/4.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 14:46:59",
+      "https://news.ycombinator.com/item?id=42007462"
+    ],
+    [
+      "Lisp Query Notation (LQN)",
+      "https://inconvergent.net/2024/lisp-query-notation/"
     ]
   ]
 ]
