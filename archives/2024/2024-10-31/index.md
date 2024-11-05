@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
 * [2024-10-31, 22:42:05](https://news.ycombinator.com/item?id=42012301) - [Colorado scrambles to change voting-system passwords after accidental leak](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
+* [2024-10-31, 22:10:45](https://news.ycombinator.com/item?id=42012092) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
 * [2024-10-31, 21:56:35](https://news.ycombinator.com/item?id=42011976) - [A Hamiltonian Circuit for Rubik's Cube](https://bruce.cubing.net/ham333/rubikhamiltonexplanation.html)
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Physical Intelligence's first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
