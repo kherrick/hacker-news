@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 16:35:23](https://news.ycombinator.com/item?id=42052918) - [2022 Uber told staff to use kill switch during raids to stop police seeing data](https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data)
 * [2024-11-05, 15:34:12](https://news.ycombinator.com/item?id=42052263) - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
 * [2024-11-05, 15:32:51](https://news.ycombinator.com/item?id=42052253) - [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
 * [2024-11-05, 15:27:03](https://news.ycombinator.com/item?id=42052207) - [Show HN: Varse – Simple remote server variables](https://github.com/varse-io/varse)
