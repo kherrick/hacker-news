@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
+* [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-05, 02:06:35](https://news.ycombinator.com/item?id=42048009) - [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
 * [2024-11-05, 00:58:11](https://news.ycombinator.com/item?id=42047677) - [Pagination widows, or, Why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
 * [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept (2010)](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
 * [2024-11-04, 22:19:49](https://news.ycombinator.com/item?id=42046596) - [US Forest Service decision to halt prescribed burns in ca is history repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
-* [2024-11-04, 21:32:04](https://news.ycombinator.com/item?id=42046196) - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
@@ -27,9 +28,8 @@
 * [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of frame pointer unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 * [2024-11-04, 08:13:45](https://news.ycombinator.com/item?id=42039569) - [Quincy Jones has died](https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21)
 * [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews (2021)](http://rachelbythebay.com/w/2021/02/19/perf/)
-* [2024-10-31, 18:08:38](https://news.ycombinator.com/item?id=42009627) - [The Varieties of Mystical Experience](https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361)
+* [2024-11-01, 15:50:43](https://news.ycombinator.com/item?id=42018193) - [Servicing a iRobot Roomba from 2011](https://willem.com/blog/2019-03-20_servicing-a-robot-vacuum-cleaner/)
 * [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
-* [2024-10-31, 04:40:42](https://news.ycombinator.com/item?id=42003557) - [The Therapist in the Machine](https://thebaffler.com/salvos/the-therapist-in-the-machine-mcallen)
 
 ## [Archives](archives/index.md)
 
