@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 02:47:19](https://news.ycombinator.com/item?id=42048160) - [New OpenAI Feature: Predicted Outputs](https://simonwillison.net/2024/Nov/4/predicted-outputs/)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
 * [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
@@ -11,7 +12,6 @@
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
-* [2024-11-04, 17:34:57](https://news.ycombinator.com/item?id=42043948) - [DataChain: DBT for Unstructured Data](https://github.com/iterative/datachain)
 * [2024-11-04, 17:34:28](https://news.ycombinator.com/item?id=42043939) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 17:19:34](https://news.ycombinator.com/item?id=42043747) - [DB48X: High Performance Scientific Calculator, Reinvented](http://48calc.org/)
 * [2024-11-04, 17:03:00](https://news.ycombinator.com/item?id=42043552) - [Show HN: Convert any website into a React component](https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp)
