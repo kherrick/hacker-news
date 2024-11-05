@@ -6,8 +6,12 @@
 
 * [2024-11-05, 20:16:40](https://news.ycombinator.com/item?id=42054791) - [Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program](https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. Chip Revival Plan Chooses Sites](https://spectrum.ieee.org/nstc)
+* [2024-11-05, 20:05:02](https://news.ycombinator.com/item?id=42054718) - [First wooden satellite launched into space](https://phys.org/news/2024-11-world-wooden-satellite-space.html)
+* [2024-11-05, 19:43:34](https://news.ycombinator.com/item?id=42054569) - [Vega's Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
+* [2024-11-05, 19:27:15](https://news.ycombinator.com/item?id=42054449) - [First time ever, AMD outsells Intel in the datacenter space](https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space)
 * [2024-11-05, 18:52:09](https://news.ycombinator.com/item?id=42054186) - [Tencent drops a 389B MoE model(Open-source and free for commercial use))](https://github.com/Tencent/Tencent-Hunyuan-Large)
 * [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
+* [2024-11-05, 18:46:31](https://news.ycombinator.com/item?id=42054144) - [Rd-TableBench – Accurately evaluating table extraction](https://reducto.ai/blog/rd-tablebench)
 * [2024-11-05, 18:31:34](https://news.ycombinator.com/item?id=42054013) - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
