@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
 * [2024-11-05, 07:38:17](https://news.ycombinator.com/item?id=42049418) - [Blood Sugar Control Is a Key Factor in Slowing Brain Aging, Mediterranean Diet++](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
 * [2024-11-05, 06:52:12](https://news.ycombinator.com/item?id=42049180) - [Programmer in Berlin: Culture](https://wickedchicken.github.io/post/programmer-in-berlin-culture/)
 * [2024-11-05, 05:20:04](https://news.ycombinator.com/item?id=42048795) - [MrBeast's pitch decks get leaked](https://www.indiehackers.com/post/creators/mrbeasts-pitch-decks-get-leaked-and-they-aren-t-pretty-yJl2DI4mrKBcbtZixoB9)
