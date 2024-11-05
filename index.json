@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-11-05, 16:19:43",
-      "https://news.ycombinator.com/item?id=42052745"
+      "2024-11-05, 16:23:56",
+      "https://news.ycombinator.com/item?id=42052793"
     ],
     [
-      "Drugmaker shut down after black schmutz found in injectable weight-loss drug",
-      "https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/"
+      "Why software only moves forward",
+      "https://swizec.com/blog/why-software-only-moves-forward/"
     ]
   ],
   [
     [
-      "2024-11-05, 15:34:12",
-      "https://news.ycombinator.com/item?id=42052263"
+      "2024-11-05, 15:51:43",
+      "https://news.ycombinator.com/item?id=42052432"
     ],
     [
-      "Boeing Ends Crippling Strike as Workers Accept Latest Offer",
-      "https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer"
+      "Show HN: I wrote an open-source browser alternative for Computer Use for any LLM",
+      "https://github.com/gregpr07/browser-use"
     ]
   ],
   [
@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2024-11-05, 15:25:44",
+      "https://news.ycombinator.com/item?id=42052194"
+    ],
+    [
+      "PiML: Python Interpretable Machine Learning Toolbox",
+      "https://github.com/SelfExplainML/PiML-Toolbox"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 15:18:34",
       "https://news.ycombinator.com/item?id=42052143"
     ],
     [
       "Hacking 700M Electronic Arts Accounts",
       "https://battleda.sh/blog/ea-account-takeover"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 15:14:49",
-      "https://news.ycombinator.com/item?id=42052105"
-    ],
-    [
-      "New documentary reveals that 21,000 laborers have died working Saudi Vision 2030",
-      "https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2024-11-05, 13:06:57",
-      "https://news.ycombinator.com/item?id=42051197"
+      "2024-11-05, 12:30:57",
+      "https://news.ycombinator.com/item?id=42051005"
     ],
     [
-      "State of Python 3.13 Performance: Free-Threading",
-      "https://codspeed.io/blog/state-of-python-3-13-performance-free-threading"
+      "Git Config",
+      "https://blog.izissise.net/posts/gitconfig/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Netnews: The Origin Story [pdf]",
       "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 00:58:11",
-      "https://news.ycombinator.com/item?id=42047677"
-    ],
-    [
-      "Pagination widows, or, why I'm embarrassed about my eBook (2023)",
-      "https://clagnut.com/blog/2426"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scalable self-improvement for compiler optimization",
       "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 18:59:52",
+      "https://news.ycombinator.com/item?id=41988127"
+    ],
+    [
+      "Myths and Realities: Prosecutors and Criminal Justice Reform",
+      "https://www.brennancenter.org/our-work/research-reports/myths-and-realities-prosecutors-and-criminal-justice-reform"
     ]
   ]
 ]
