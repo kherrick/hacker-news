@@ -24,7 +24,7 @@
 * [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
 * [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-04, 08:13:45](https://news.ycombinator.com/item?id=42039569) - [Quincy Jones has died](https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21)
-* [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews (2021)](http://rachelbythebay.com/w/2021/02/19/perf/)
+* [2024-11-01, 15:50:43](https://news.ycombinator.com/item?id=42018193) - [Servicing a robot vacuum cleaner (2019)](https://willem.com/blog/2019-03-20_servicing-a-robot-vacuum-cleaner/)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 * [2024-11-01, 08:45:11](https://news.ycombinator.com/item?id=42015085) - [Former Bayesian captain on sinking, vessel ballast and stability](https://www.sailingscuttlebutt.com/2024/08/27/former-bayesian-captain-offers-insight/)
 * [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
