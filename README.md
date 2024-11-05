@@ -25,10 +25,10 @@
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-04, 22:58:50](https://news.ycombinator.com/item?id=42046953) - [World’s oldest tree? Genetic analysis traces evolution of iconic Pando forest](https://www.nature.com/articles/d41586-024-03570-4)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagram as Code](https://diagrams.mingrammer.com/)
-* [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: Architect of computer intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 * [2024-11-01, 20:55:15](https://news.ycombinator.com/item?id=42021470) - [Scalable self-improvement for compiler optimization](https://research.google/blog/scalable-self-improvement-for-compiler-optimization/)
 * [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every Boring Problem Found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-10-31, 22:10:45](https://news.ycombinator.com/item?id=42012092) - [Oasis: A Universe in a Transformer](https://oasis-model.github.io/)
+* [2024-10-31, 21:10:17](https://news.ycombinator.com/item?id=42011543) - [The Lines, They Are A-Changin'](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-10-31, 10:06:47](https://news.ycombinator.com/item?id=42005191) - [Show HN: Samsar One Version One is now live](https://app.samsar.one/)
 
 ## [Archives](archives/index.md)
