@@ -26,8 +26,8 @@
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook building subsea cable that will encompass the world](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
+* [2024-11-04, 05:06:42](https://news.ycombinator.com/item?id=42038653) - [A change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
 * [2024-11-04, 00:42:58](https://news.ycombinator.com/item?id=42037386) - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
-* [2024-11-01, 17:55:12](https://news.ycombinator.com/item?id=42019672) - [Bird wings inspire new approach to flight safety](https://engineering.princeton.edu/news/2024/10/28/bird-wings-inspire-new-approach-flight-safety)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 * [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
 
