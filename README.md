@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
-* [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to K8 for AI/ML tasks](https://github.com/dstackai/dstack)
+* [2024-11-05, 16:56:31](https://news.ycombinator.com/item?id=42053180) - [Dstack: An alternative to k8s for AI/ML tasks](https://github.com/dstackai/dstack)
 * [2024-11-05, 16:46:41](https://news.ycombinator.com/item?id=42053043) - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 * [2024-11-05, 16:23:56](https://news.ycombinator.com/item?id=42052793) - [Why software only moves forward](https://swizec.com/blog/why-software-only-moves-forward/)
 * [2024-11-05, 15:51:43](https://news.ycombinator.com/item?id=42052432) - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
