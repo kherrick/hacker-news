@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-05, 02:47:19",
-      "https://news.ycombinator.com/item?id=42048160"
-    ],
-    [
-      "New OpenAI Feature: Predicted Outputs",
-      "https://simonwillison.net/2024/Nov/4/predicted-outputs/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 02:39:50",
       "https://news.ycombinator.com/item?id=42048129"
     ],
@@ -37,16 +27,6 @@
     [
       "Netnews: The Origin Story [pdf]",
       "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 02:06:35",
-      "https://news.ycombinator.com/item?id=42048009"
-    ],
-    [
-      "Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes",
-      "https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-11-04, 17:02:38",
+      "https://news.ycombinator.com/item?id=42043549"
+    ],
+    [
+      "Back to the future: Writing 6502 assembler with Amazon Q Developer",
+      "https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 17:00:32",
       "https://news.ycombinator.com/item?id=42043519"
     ],
@@ -211,11 +201,21 @@
   ],
   [
     [
+      "2024-11-04, 14:41:28",
+      "https://news.ycombinator.com/item?id=42041917"
+    ],
+    [
+      "We're Leaving Kubernetes",
+      "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 14:00:59",
       "https://news.ycombinator.com/item?id=42041581"
     ],
     [
-      "Facebook Building Subsea Cable That Will Encompass the World",
+      "Facebook building subsea cable that will encompass the world",
       "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html"
     ]
   ],
