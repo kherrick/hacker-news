@@ -49,6 +49,7 @@
 * [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 * [2024-11-01, 14:49:45](https://news.ycombinator.com/item?id=42017453) - [Iconic Gun-Makers Gave Sensitive Customer Information to Political Operatives](https://www.propublica.org/article/gunmakers-owners-sensitive-personal-information-glock-remington-nssf)
 * [2024-11-01, 14:47:34](https://news.ycombinator.com/item?id=42017428) - [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
+* [2024-11-01, 14:35:47](https://news.ycombinator.com/item?id=42017312) - [Avoiding recompilation hell in Elixir with mix xref](https://r.ena.to/blog/avoiding-recompilation-hell-in-elixir-with-mix-xref/)
 * [2024-11-01, 14:34:52](https://news.ycombinator.com/item?id=42017296) - [Notes for an Annotation SDK (2021)](https://blog.jonudell.net/2021/09/03/notes-for-an-annotation-sdk/)
 * [2024-11-01, 14:22:53](https://news.ycombinator.com/item?id=42017163) - [Analyzing Go Build Times (2023)](https://blog.howardjohn.info/posts/go-build-times/)
 * [2024-11-01, 14:10:07](https://news.ycombinator.com/item?id=42017048) - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
