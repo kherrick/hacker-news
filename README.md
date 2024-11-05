@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-05, 07:38:17](https://news.ycombinator.com/item?id=42049418) - [Blood Sugar Control Is a Key Factor in Slowing Brain Aging, Mediterranean Diet++](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
 * [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
@@ -21,8 +22,6 @@
 * [2024-11-04, 14:49:44](https://news.ycombinator.com/item?id=42042016) - [What Every Developer Should Know About GPU Computing (2023)](https://blog.codingconfessions.com/p/gpu-computing)
 * [2024-11-04, 14:41:28](https://news.ycombinator.com/item?id=42041917) - [We're Leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook building subsea cable that will encompass the world](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
-* [2024-11-04, 12:08:30](https://news.ycombinator.com/item?id=42040795) - [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/)
-* [2024-11-04, 11:55:30](https://news.ycombinator.com/item?id=42040706) - [Is the Q source the origin of the Gospels?](https://www.thecollector.com/q-source-origin-gospels/)
 * [2024-11-01, 23:52:31](https://news.ycombinator.com/item?id=42022769) - [Typology of Old German Spinning Tops (1935)](https://www.presentandcorrect.com/blogs/blog/typology-of-old-german-spinning-tops-1935)
 * [2024-11-01, 15:50:43](https://news.ycombinator.com/item?id=42018193) - [Servicing a robot vacuum cleaner (2019)](https://willem.com/blog/2019-03-20_servicing-a-robot-vacuum-cleaner/)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
@@ -30,6 +29,7 @@
 * [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
 * [2024-10-31, 15:57:29](https://news.ycombinator.com/item?id=42008154) - [Triple Density Floppy, Anyone?](https://www.vogons.org/viewtopic.php?t=98550)
 * [2024-10-31, 11:18:49](https://news.ycombinator.com/item?id=42005646) - [Data Commons](https://datacommons.org/)
+* [2024-10-29, 09:59:08](https://news.ycombinator.com/item?id=41981812) - [The eukaryote, the first cell to get organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 ## [Archives](archives/index.md)
 
