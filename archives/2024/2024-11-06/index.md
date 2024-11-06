@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
 * [2024-11-06, 09:02:28](https://news.ycombinator.com/item?id=42058302) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
+* [2024-11-06, 08:43:57](https://news.ycombinator.com/item?id=42058153) - [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
 * [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter (Oct 2024)](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
 * [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
