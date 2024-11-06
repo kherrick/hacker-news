@@ -31,6 +31,7 @@
 * [2024-11-01, 17:47:37](https://news.ycombinator.com/item?id=42019586) - [Notepad++ is 21 years old](https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/)
 * [2024-11-01, 17:38:24](https://news.ycombinator.com/item?id=42019488) - [300 people applied to rent $700/month sleeping pods in downtown San Francisco](https://www.theguardian.com/society/2024/oct/31/san-francisco-sleeping-pods-affordable-housing-crisis)
 * [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
+* [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook](https://shellhaters.org/talk)
 * [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
 * [2024-11-01, 17:11:20](https://news.ycombinator.com/item?id=42019192) - [Tell HN: We (Causal) got acquired – thank you HN](https://news.ycombinator.com/item?id=42019192)
