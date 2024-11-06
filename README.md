@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 03:21:09](https://news.ycombinator.com/item?id=42057036) - [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
 * [2024-11-06, 02:54:44](https://news.ycombinator.com/item?id=42056954) - [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
@@ -16,7 +17,6 @@
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 19:43:34](https://news.ycombinator.com/item?id=42054569) - [Vega's Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
 * [2024-11-05, 19:27:15](https://news.ycombinator.com/item?id=42054449) - [AMD outsells Intel in the datacenter space](https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space)
-* [2024-11-05, 18:52:09](https://news.ycombinator.com/item?id=42054186) - [Tencent Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large)
 * [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 15:51:43](https://news.ycombinator.com/item?id=42052432) - [Show HN: I wrote an open-source browser alternative for Computer Use for any LLM](https://github.com/gregpr07/browser-use)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
