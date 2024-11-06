@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-06, 23:04:39](https://news.ycombinator.com/item?id=42070946) - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
+* [2024-11-06, 23:02:27](https://news.ycombinator.com/item?id=42070925) - [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
 * [2024-11-06, 22:26:38](https://news.ycombinator.com/item?id=42070489) - [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
 * [2024-11-06, 22:00:09](https://news.ycombinator.com/item?id=42070153) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
@@ -14,7 +15,6 @@
 * [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
 * [2024-11-06, 15:01:00](https://news.ycombinator.com/item?id=42063346) - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
-* [2024-11-06, 14:53:31](https://news.ycombinator.com/item?id=42063210) - [Show HN: Term-Lisp – A Lisp, based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
