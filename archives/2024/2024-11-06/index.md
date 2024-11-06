@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 16:59:19](https://news.ycombinator.com/item?id=42065269) - [The Reasons Authoritarianism Is Growing – and How to Reverse It](https://www.scottsantens.com/the-hidden-reasons-authoritarianism-is-growing-and-how-to-reverse-it-ubi/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
 * [2024-11-06, 15:01:00](https://news.ycombinator.com/item?id=42063346) - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
 * [2024-11-06, 14:38:02](https://news.ycombinator.com/item?id=42062934) - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)

@@ -7,6 +7,7 @@
 * [2024-11-02, 22:07:58](https://news.ycombinator.com/item?id=42029546) - [Apple's M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/)
 * [2024-11-02, 22:07:09](https://news.ycombinator.com/item?id=42029542) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 20:09:27](https://news.ycombinator.com/item?id=42028911) - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
+* [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:54:47](https://news.ycombinator.com/item?id=42028814) - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
