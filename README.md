@@ -4,7 +4,6 @@
 * [2024-11-06, 00:47:30](https://news.ycombinator.com/item?id=42056515) - [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
 * [2024-11-06, 00:04:46](https://news.ycombinator.com/item?id=42056330) - [More Oracle Layoffs Started Nov. 1, Cloud Unit Impacted](https://www.channelfutures.com/channel-business/more-oracle-layoffs-started-nov-1-cloud-unit-impacted#)
-* [2024-11-05, 23:18:38](https://news.ycombinator.com/item?id=42056056) - [Show HN: Firecrawl-Simple – Stable fork of Firecrawl optimized for self-hosting](https://github.com/devflowinc/firecrawl-simple)
 * [2024-11-05, 23:04:45](https://news.ycombinator.com/item?id=42055979) - [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 * [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
@@ -30,6 +29,7 @@
 * [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every boring problem found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-10-31, 14:46:59](https://news.ycombinator.com/item?id=42007462) - [Lisp Query Notation (LQN)](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-10-31, 10:00:07](https://news.ycombinator.com/item?id=42005147) - [Algorithm = Logic and Control [pdf]](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
+* [2024-10-31, 03:06:54](https://news.ycombinator.com/item?id=42003087) - [Why Aren't There B Batteries? (2022)](https://www.thebatterygenie.com/why-arent-there-b-batteries/)
 
 ## [Archives](archives/index.md)
 

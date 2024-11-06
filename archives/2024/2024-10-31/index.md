@@ -82,6 +82,7 @@
 * [2024-10-31, 04:00:48](https://news.ycombinator.com/item?id=42003369) - [Hurmet: A Notebook for Calculations](https://hurmet.org/sample)
 * [2024-10-31, 03:58:01](https://news.ycombinator.com/item?id=42003355) - [Big Data for the Leviathan](https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan)
 * [2024-10-31, 03:14:47](https://news.ycombinator.com/item?id=42003136) - [Writing Is a Visual Language](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)
+* [2024-10-31, 03:06:54](https://news.ycombinator.com/item?id=42003087) - [Why Aren't There B Batteries? (2022)](https://www.thebatterygenie.com/why-arent-there-b-batteries/)
 * [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
 * [2024-10-31, 02:32:28](https://news.ycombinator.com/item?id=42002873) - [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
 * [2024-10-31, 02:12:23](https://news.ycombinator.com/item?id=42002757) - [Legal bid for Ecuador forest to be recognised as song co-creator](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator)
