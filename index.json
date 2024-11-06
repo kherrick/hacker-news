@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=42057851"
     ],
     [
-      "New images of Jupiter (Oct 2024)",
+      "New images of Jupiter",
       "https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 07:12:43",
-      "https://news.ycombinator.com/item?id=42057758"
-    ],
-    [
-      "2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini",
-      "https://twitter.com/seatedro/status/1853262737557590479"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Failure analysis of the Arecibo 305 meter telescope collapse",
       "https://nap.nationalacademies.org/read/26982/chapter/1"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 13:06:57",
+      "https://news.ycombinator.com/item?id=42051197"
+    ],
+    [
+      "State of Python 3.13 performance: Free-threading",
+      "https://codspeed.io/blog/state-of-python-3-13-performance-free-threading"
     ]
   ],
   [
