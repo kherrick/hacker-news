@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-11-05, 22:08:24",
+      "https://news.ycombinator.com/item?id=42055616"
+    ],
+    [
+      "What Shapes Do Matrix Multiplications Like?",
+      "https://www.thonking.ai/p/what-shapes-do-matrix-multiplications"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 11:48:06",
       "https://news.ycombinator.com/item?id=42025785"
     ],
@@ -277,16 +287,6 @@
     [
       "Kernel optimization with BOLT (binary optimization and layout tool)",
       "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 20:26:02",
-      "https://news.ycombinator.com/item?id=41999840"
-    ],
-    [
-      "Nulls: Revisiting null representation in modern columnar formats",
-      "https://dl.acm.org/doi/10.1145/3662010.3663452"
     ]
   ],
   [
