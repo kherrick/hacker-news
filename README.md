@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
+* [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
 * [2024-11-06, 13:00:12](https://news.ycombinator.com/item?id=42061599) - [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
 * [2024-11-06, 12:39:10](https://news.ycombinator.com/item?id=42061313) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
@@ -22,7 +23,6 @@
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
-* [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure analysis of the Arecibo 305 meter telescope collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
 * [2024-11-01, 22:14:36](https://news.ycombinator.com/item?id=42022093) - [The Monkey and the Coconuts: An Introduction to the Extended Euclidean Algorithm](https://github.com/WinVector/Examples/blob/main/puzzles/DividingCoconuts/Monkey_and_Coconuts.ipynb)
 * [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
