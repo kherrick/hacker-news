@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 19:33:49](https://news.ycombinator.com/item?id=42067973) - [Japan's declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
 * [2024-11-06, 19:29:56](https://news.ycombinator.com/item?id=42067918) - [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
 * [2024-11-06, 19:00:52](https://news.ycombinator.com/item?id=42067474) - [ChatGPT now on chat.com](https://chat.com/)
 * [2024-11-06, 18:50:02](https://news.ycombinator.com/item?id=42067275) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
@@ -14,7 +15,6 @@
 * [2024-11-06, 14:32:32](https://news.ycombinator.com/item?id=42062841) - [Switch 2 will be backwards compatible with Switch](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
-* [2024-11-06, 12:39:10](https://news.ycombinator.com/item?id=42061313) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 * [2024-11-06, 11:26:36](https://news.ycombinator.com/item?id=42060286) - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 * [2024-11-06, 09:07:17](https://news.ycombinator.com/item?id=42058355) - [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
