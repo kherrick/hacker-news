@@ -11,6 +11,7 @@
 * [2024-11-06, 18:49:17](https://news.ycombinator.com/item?id=42067265) - [Starship's Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
 * [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn unstructured documents into usable data](https://news.ycombinator.com/item?id=42066500)
 * [2024-11-06, 17:57:10](https://news.ycombinator.com/item?id=42066341) - [Politicians are Jungian symbols, policies are facades](https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths)
+* [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
 * [2024-11-06, 17:14:25](https://news.ycombinator.com/item?id=42065538) - [Learning Not to Trust the All-In Podcast in Ten Minutes](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
 * [2024-11-06, 16:59:19](https://news.ycombinator.com/item?id=42065269) - [The Reasons Authoritarianism Is Growing – and How to Reverse It](https://www.scottsantens.com/the-hidden-reasons-authoritarianism-is-growing-and-how-to-reverse-it-ubi/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
