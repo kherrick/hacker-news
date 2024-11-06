@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-11-06, 00:47:30",
+      "https://news.ycombinator.com/item?id=42056515"
+    ],
+    [
+      "The Antitrust Revolution – Liberal democracy's last stand against Big Tech",
+      "https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 00:24:48",
+      "https://news.ycombinator.com/item?id=42056420"
+    ],
+    [
+      "Only 5.3% of US welders are women. After years as a professor, I became one",
+      "https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 00:04:46",
+      "https://news.ycombinator.com/item?id=42056330"
+    ],
+    [
+      "More Oracle Layoffs Started Nov. 1, Cloud Unit Impacted",
+      "https://www.channelfutures.com/channel-business/more-oracle-layoffs-started-nov-1-cloud-unit-impacted#"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 23:18:38",
+      "https://news.ycombinator.com/item?id=42056056"
+    ],
+    [
+      "Show HN: Firecrawl-Simple – Stable fork of Firecrawl optimized for self-hosting",
+      "https://github.com/devflowinc/firecrawl-simple"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 23:04:45",
       "https://news.ycombinator.com/item?id=42055979"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42055644"
     ],
     [
-      "Unix Programmer's Manual Third Edition [pdf]",
+      "Unix Programmer's Manual Third Edition [pdf] (1973)",
       "https://dspinellis.github.io/unix-v3man/v3man.pdf"
     ]
   ],
@@ -51,32 +91,22 @@
   ],
   [
     [
-      "2024-11-05, 21:26:45",
-      "https://news.ycombinator.com/item?id=42055312"
-    ],
-    [
-      "The US Navy Put Cameras on Dolphins and the Results Were Wild",
-      "https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 21:16:22",
-      "https://news.ycombinator.com/item?id=42055242"
-    ],
-    [
-      "Apple to Face First EU Fine Under Bloc's Digital Markets Act",
-      "https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 20:22:34",
       "https://news.ycombinator.com/item?id=42054835"
     ],
     [
       "Traceroute Isn't Real",
       "https://gekk.info/articles/traceroute.htm"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 20:14:02",
+      "https://news.ycombinator.com/item?id=42054779"
+    ],
+    [
+      "U.S. chip revival plan chooses sites",
+      "https://spectrum.ieee.org/nstc"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2024-11-05, 18:49:01",
-      "https://news.ycombinator.com/item?id=42054162"
-    ],
-    [
-      "Ternary Operators",
-      "https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 18:02:18",
       "https://news.ycombinator.com/item?id=42053747"
     ],
     [
       "Show HN: Whirlwind – Async concurrent hashmap for Rust",
       "https://github.com/fortress-build/whirlwind"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 16:46:41",
-      "https://news.ycombinator.com/item?id=42053043"
-    ],
-    [
-      "Soft matter mechanics of baseball's Rubbing Mud",
-      "https://www.pnas.org/doi/10.1073/pnas.2413514121"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Hacker Fab",
       "https://docs.hackerfab.org/hacker-fab-space"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 14:49:41",
-      "https://news.ycombinator.com/item?id=42051857"
-    ],
-    [
-      "Will plants grow on the moon?",
-      "https://worldsensorium.com/will-plants-grow-on-the-moon/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-11-04, 22:58:50",
-      "https://news.ycombinator.com/item?id=42046953"
-    ],
-    [
-      "World’s oldest tree? Genetic analysis traces evolution of iconic Pando forest",
-      "https://www.nature.com/articles/d41586-024-03570-4"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 18:55:40",
       "https://news.ycombinator.com/item?id=42044860"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2024-11-04, 07:19:27",
-      "https://news.ycombinator.com/item?id=42039296"
-    ],
-    [
-      "Shaderblocks: Block-based image editing",
-      "https://thejenkinscomic.net/shaderblocks/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 20:27:21",
       "https://news.ycombinator.com/item?id=42021212"
     ],
     [
       "Generating Lever-Door Puzzles with JavaScript",
       "https://blog.reconquer.online/generating-lever-door-puzzles"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 18:47:01",
+      "https://news.ycombinator.com/item?id=42020247"
+    ],
+    [
+      "DuckDB over Pandas/Polars",
+      "https://www.pgrs.net/2024/11/01/duckdb-over-pandas-polars/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lisp Query Notation (LQN)",
       "https://inconvergent.net/2024/lisp-query-notation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 10:00:07",
+      "https://news.ycombinator.com/item?id=42005147"
+    ],
+    [
+      "Algorithm = Logic and Control [pdf]",
+      "https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf"
     ]
   ]
 ]
