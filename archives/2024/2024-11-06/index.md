@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter (Oct 2024)](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
+* [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
 * [2024-11-06, 06:40:56](https://news.ycombinator.com/item?id=42057597) - [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)
 * [2024-11-06, 06:06:51](https://news.ycombinator.com/item?id=42057478) - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
 * [2024-11-06, 06:03:21](https://news.ycombinator.com/item?id=42057465) - [Show HN: Real-time ChatGPT-like data analysis for US Election](https://dashboard.itsverve.com/public)
