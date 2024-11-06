@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 12:39:10",
+      "https://news.ycombinator.com/item?id=42061313"
+    ],
+    [
+      "What has case distinction but is neither uppercase nor lowercase?",
+      "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 12:07:06",
       "https://news.ycombinator.com/item?id=42060856"
     ],
@@ -37,26 +47,6 @@
     [
       "Upcoming changes to the DNSSEC root trust anchor",
       "https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 08:43:57",
-      "https://news.ycombinator.com/item?id=42058153"
-    ],
-    [
-      "Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content",
-      "https://apps.apple.com/au/app/postpocket/id6670723615"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 08:30:26",
-      "https://news.ycombinator.com/item?id=42058091"
-    ],
-    [
-      "Perhaps Rust Needs \"Defer\"",
-      "https://gaultier.github.io/blog/perhaps_rust_needs_defer.html"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-11-05, 20:19:13",
-      "https://news.ycombinator.com/item?id=42054813"
+      "2024-11-05, 22:00:05",
+      "https://news.ycombinator.com/item?id=42055556"
     ],
     [
-      "Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation",
-      "https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/"
+      "The Eternal Mainframe (2013)",
+      "https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Kernel optimization with BOLT (binary optimization and layout tool)",
       "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 20:26:02",
+      "https://news.ycombinator.com/item?id=41999840"
+    ],
+    [
+      "Nulls: Revisiting null representation in modern columnar formats",
+      "https://dl.acm.org/doi/10.1145/3662010.3663452"
     ]
   ]
 ]
