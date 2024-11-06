@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-06, 06:40:56",
-      "https://news.ycombinator.com/item?id=42057597"
+      "2024-11-06, 07:30:37",
+      "https://news.ycombinator.com/item?id=42057851"
     ],
     [
-      "A GitHub repo that curates all the awesome repos",
-      "https://github.com/bayandin/awesome-awesomeness"
+      "New images of Jupiter (Oct 2024)",
+      "https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 07:12:43",
+      "https://news.ycombinator.com/item?id=42057758"
+    ],
+    [
+      "2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini",
+      "https://twitter.com/seatedro/status/1853262737557590479"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "The Spiral of Wrath: The crash of Armavia flight 967",
       "https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 23:04:45",
-      "https://news.ycombinator.com/item?id=42055979"
-    ],
-    [
-      "Mozilla is eliminating its advocacy division",
-      "https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-11-05, 12:04:14",
-      "https://news.ycombinator.com/item?id=42050862"
-    ],
-    [
-      "Show HN: rallyup – Lightweight Wake-on-LAN Scheduler",
-      "https://github.com/darwindarak/rallyup"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 11:09:41",
       "https://news.ycombinator.com/item?id=42025619"
     ],
     [
       "Superstreamer – OSS streaming toolkit from video source to player",
       "https://github.com/matvp91/superstreamer"
+    ]
+  ],
+  [
+    [
+      "2024-11-02, 01:40:22",
+      "https://news.ycombinator.com/item?id=42023385"
+    ],
+    [
+      "Storybits: Error Resistant Mnemonics",
+      "https://rya.nc/storybits.html"
     ]
   ],
   [
