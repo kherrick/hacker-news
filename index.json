@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-11-06, 18:05:55",
+      "https://news.ycombinator.com/item?id=42066500"
+    ],
+    [
+      "Launch HN: Midship (YC S24) – Turn unstructured documents into usable data",
+      "https://news.ycombinator.com/item?id=42066500"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 17:14:25",
       "https://news.ycombinator.com/item?id=42065538"
     ],
     [
-      "Learning Not to Trust the All-In Podcast in Ten Minutes",
+      "Learning not to trust the All-In podcast",
       "https://passingtime.substack.com/p/learning-not-to-trust-the-all-in"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Private Cloud Compute Security Guide",
       "https://security.apple.com/documentation/private-cloud-compute/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 13:37:03",
+      "https://news.ycombinator.com/item?id=42062074"
+    ],
+    [
+      "Monorepo – Our Experience",
+      "https://ente.io/blog/monorepo-retrospective/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-11-06, 05:35:31",
-      "https://news.ycombinator.com/item?id=42057378"
-    ],
-    [
-      "GoToSocial WASM-based SQLite driver and BSD",
-      "https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 04:05:01",
       "https://news.ycombinator.com/item?id=42057139"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-11-05, 22:12:02",
-      "https://news.ycombinator.com/item?id=42055644"
-    ],
-    [
-      "Unix Programmer's Manual Third Edition [pdf] (1973)",
-      "https://dspinellis.github.io/unix-v3man/v3man.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 22:08:24",
-      "https://news.ycombinator.com/item?id=42055616"
-    ],
-    [
-      "What Shapes Do Matrix Multiplications Like?",
-      "https://www.thonking.ai/p/what-shapes-do-matrix-multiplications"
-    ]
-  ],
-  [
-    [
       "2024-11-02, 20:05:17",
       "https://news.ycombinator.com/item?id=42028890"
     ],
@@ -267,6 +257,16 @@
     [
       "Superstreamer – OSS streaming toolkit from video source to player",
       "https://github.com/matvp91/superstreamer"
+    ]
+  ],
+  [
+    [
+      "2024-11-02, 06:29:18",
+      "https://news.ycombinator.com/item?id=42024439"
+    ],
+    [
+      "Breaking the image: a 12th-century Ai Weiwei?",
+      "https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html"
     ]
   ],
   [
