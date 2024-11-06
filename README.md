@@ -2,6 +2,7 @@
 
 * [2024-11-06, 06:40:56](https://news.ycombinator.com/item?id=42057597) - [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)
 * [2024-11-06, 05:57:15](https://news.ycombinator.com/item?id=42057451) - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
+* [2024-11-06, 05:51:40](https://news.ycombinator.com/item?id=42057431) - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
 * [2024-11-06, 05:35:31](https://news.ycombinator.com/item?id=42057378) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-06, 04:05:01](https://news.ycombinator.com/item?id=42057139) - [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * [2024-11-06, 03:21:09](https://news.ycombinator.com/item?id=42057036) - [Tracker Beeper (2022)](https://berthub.eu/articles/posts/tracker-beeper/)
@@ -10,7 +11,6 @@
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 * [2024-11-05, 23:04:45](https://news.ycombinator.com/item?id=42055979) - [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
-* [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
 * [2024-11-05, 22:00:05](https://news.ycombinator.com/item?id=42055556) - [The Eternal Mainframe (2013)](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
