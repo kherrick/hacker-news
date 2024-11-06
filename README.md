@@ -8,7 +8,7 @@
 * [2024-11-06, 18:50:02](https://news.ycombinator.com/item?id=42067275) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 18:49:17](https://news.ycombinator.com/item?id=42067265) - [Starship's Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
 * [2024-11-06, 18:46:53](https://news.ycombinator.com/item?id=42067233) - [Physicists Spot Quantum Tornadoes Twirling in a 'Supersolid'](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-* [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn PDFs and Images into usable data](https://news.ycombinator.com/item?id=42066500)
+* [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn PDFs, docs, and images into usable data](https://news.ycombinator.com/item?id=42066500)
 * [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
 * [2024-11-06, 17:14:25](https://news.ycombinator.com/item?id=42065538) - [Learning not to trust the All-In podcast](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
