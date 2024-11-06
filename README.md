@@ -2,6 +2,7 @@
 
 * [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter (Oct 2024)](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
 * [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
+* [2024-11-06, 06:49:49](https://news.ycombinator.com/item?id=42057647) - [Trump wins presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 * [2024-11-06, 05:57:15](https://news.ycombinator.com/item?id=42057451) - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
 * [2024-11-06, 05:51:40](https://news.ycombinator.com/item?id=42057431) - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
 * [2024-11-06, 05:35:31](https://news.ycombinator.com/item?id=42057378) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
@@ -23,7 +24,6 @@
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure analysis of the Arecibo 305 meter telescope collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
-* [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 performance: Free-threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
 * [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [DeepMind debuts watermarks for AI-generated text](https://spectrum.ieee.org/watermark)
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
 * [2024-11-02, 01:40:22](https://news.ycombinator.com/item?id=42023385) - [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
