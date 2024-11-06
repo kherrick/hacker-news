@@ -34,6 +34,7 @@
 * [2024-11-01, 17:29:12](https://news.ycombinator.com/item?id=42019398) - [Diabetes risk soars for adults who had a sweet tooth as kids](https://www.nature.com/articles/d41586-024-03535-7)
 * [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-11-01, 17:22:55](https://news.ycombinator.com/item?id=42019318) - [The Shell Hater's Handbook](https://shellhaters.org/talk)
+* [2024-11-01, 17:14:23](https://news.ycombinator.com/item?id=42019228) - [The Decline of the Working Musician](https://www.newyorker.com/magazine/2024/10/28/band-people-franz-nicolay-book-review)
 * [2024-11-01, 17:13:25](https://news.ycombinator.com/item?id=42019217) - [Claude can now view images within a PDF](https://twitter.com/AnthropicAI/status/1852393688451653849)
 * [2024-11-01, 17:11:20](https://news.ycombinator.com/item?id=42019192) - [Tell HN: We (Causal) got acquired – thank you HN](https://news.ycombinator.com/item?id=42019192)
 * [2024-11-01, 17:02:14](https://news.ycombinator.com/item?id=42019083) - [Broadwell's EDRAM: VCache Before VCache Was Cool](https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache)

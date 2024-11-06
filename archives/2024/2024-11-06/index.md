@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 20:04:41](https://news.ycombinator.com/item?id=42068485) - [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
 * [2024-11-06, 19:33:49](https://news.ycombinator.com/item?id=42067973) - [Japan's declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
 * [2024-11-06, 19:29:56](https://news.ycombinator.com/item?id=42067918) - [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
 * [2024-11-06, 19:00:52](https://news.ycombinator.com/item?id=42067474) - [ChatGPT now on chat.com](https://chat.com/)
 * [2024-11-06, 18:50:02](https://news.ycombinator.com/item?id=42067275) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 18:49:17](https://news.ycombinator.com/item?id=42067265) - [Starship's Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
+* [2024-11-06, 18:46:53](https://news.ycombinator.com/item?id=42067233) - [Physicists Spot Quantum Tornadoes Twirling in a 'Supersolid'](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
 * [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn unstructured documents into usable data](https://news.ycombinator.com/item?id=42066500)
 * [2024-11-06, 17:57:10](https://news.ycombinator.com/item?id=42066341) - [Politicians are Jungian symbols, policies are facades](https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths)
 * [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
