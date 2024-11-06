@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 06:40:56](https://news.ycombinator.com/item?id=42057597) - [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)
 * [2024-11-06, 06:06:51](https://news.ycombinator.com/item?id=42057478) - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
+* [2024-11-06, 06:03:21](https://news.ycombinator.com/item?id=42057465) - [Show HN: Real-time ChatGPT-like data analysis for US Election](https://dashboard.itsverve.com/public)
 * [2024-11-06, 05:57:15](https://news.ycombinator.com/item?id=42057451) - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
 * [2024-11-06, 05:35:31](https://news.ycombinator.com/item?id=42057378) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-06, 04:05:01](https://news.ycombinator.com/item?id=42057139) - [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
