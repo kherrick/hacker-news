@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-06, 05:57:15",
-      "https://news.ycombinator.com/item?id=42057451"
-    ],
-    [
-      "Windows 2022 Servers Unexpectedly Upgrading to 2025",
-      "https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 05:51:40",
       "https://news.ycombinator.com/item?id=42057431"
     ],
@@ -197,6 +187,16 @@
     [
       "Show HN: Whirlwind – Async concurrent hashmap for Rust",
       "https://github.com/fortress-build/whirlwind"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 15:51:43",
+      "https://news.ycombinator.com/item?id=42052432"
+    ],
+    [
+      "Show HN: I wrote an open-source browser alternative for Computer Use for any LLM",
+      "https://github.com/gregpr07/browser-use"
     ]
   ],
   [
