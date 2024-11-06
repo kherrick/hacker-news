@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 09:02:28",
+      "https://news.ycombinator.com/item?id=42058302"
+    ],
+    [
+      "Upcoming changes to the DNSSEC root trust anchor",
+      "https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 08:30:26",
       "https://news.ycombinator.com/item?id=42058091"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-11-05, 19:43:34",
-      "https://news.ycombinator.com/item?id=42054569"
-    ],
-    [
-      "Vega's Puzzling Disk",
-      "https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 19:27:15",
       "https://news.ycombinator.com/item?id=42054449"
     ],
@@ -187,16 +187,6 @@
     [
       "Show HN: Whirlwind – Async concurrent hashmap for Rust",
       "https://github.com/fortress-build/whirlwind"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 15:51:43",
-      "https://news.ycombinator.com/item?id=42052432"
-    ],
-    [
-      "Show HN: I wrote an open-source browser alternative for Computer Use for any LLM",
-      "https://github.com/gregpr07/browser-use"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Storybits: Error Resistant Mnemonics",
       "https://rya.nc/storybits.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 17:28:03",
+      "https://news.ycombinator.com/item?id=42019382"
+    ],
+    [
+      "Now lie in it: an uxntal retrospective",
+      "https://wiki.xxiivv.com/site/now_lie_in_it.html"
     ]
   ],
   [
