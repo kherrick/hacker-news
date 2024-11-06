@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 23:18:38](https://news.ycombinator.com/item?id=42056056) - [Show HN: Firecrawl-Simple – Stable fork of Firecrawl optimized for self-hosting](https://github.com/devflowinc/firecrawl-simple)
 * [2024-11-05, 23:04:45](https://news.ycombinator.com/item?id=42055979) - [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 * [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:22:07](https://news.ycombinator.com/item?id=42055702) - [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)
