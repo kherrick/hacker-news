@@ -21,7 +21,7 @@
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
-* [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
+* [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-02, 11:48:06](https://news.ycombinator.com/item?id=42025785) - [Fact [pdf]](https://ranjitjhala.github.io/static/fact_dsl.pdf)
