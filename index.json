@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-06, 01:58:48",
-      "https://news.ycombinator.com/item?id=42056756"
-    ],
-    [
-      "MOATs Aren't Useful",
-      "https://rohan.ga/blog/moats/"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 01:26:43",
       "https://news.ycombinator.com/item?id=42056644"
     ],
@@ -87,6 +77,26 @@
     [
       "Unix Programmer's Manual Third Edition [pdf] (1973)",
       "https://dspinellis.github.io/unix-v3man/v3man.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 22:08:24",
+      "https://news.ycombinator.com/item?id=42055616"
+    ],
+    [
+      "What Shapes Do Matrix Multiplications Like?",
+      "https://www.thonking.ai/p/what-shapes-do-matrix-multiplications"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 22:00:19",
+      "https://news.ycombinator.com/item?id=42055558"
+    ],
+    [
+      "Tracking down a mysterious skateboarder from 1979",
+      "https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Superstreamer – OSS streaming toolkit from video source to player",
       "https://github.com/matvp91/superstreamer"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 18:47:01",
-      "https://news.ycombinator.com/item?id=42020247"
-    ],
-    [
-      "DuckDB over Pandas/Polars",
-      "https://www.pgrs.net/2024/11/01/duckdb-over-pandas-polars/"
     ]
   ],
   [
