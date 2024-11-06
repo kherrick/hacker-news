@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 14:38:02](https://news.ycombinator.com/item?id=42062934) - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
+* [2024-11-06, 14:32:32](https://news.ycombinator.com/item?id=42062841) - [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
 * [2024-11-06, 13:54:04](https://news.ycombinator.com/item?id=42062294) - [It's raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)

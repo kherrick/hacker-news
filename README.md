@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 14:38:02](https://news.ycombinator.com/item?id=42062934) - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
+* [2024-11-06, 14:32:32](https://news.ycombinator.com/item?id=42062841) - [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
 * [2024-11-06, 13:54:04](https://news.ycombinator.com/item?id=42062294) - [It's raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
@@ -19,9 +21,7 @@
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
-* [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
-* [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-02, 11:48:06](https://news.ycombinator.com/item?id=42025785) - [Fact [pdf]](https://ranjitjhala.github.io/static/fact_dsl.pdf)
