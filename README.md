@@ -19,7 +19,6 @@
 * [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 19:27:15](https://news.ycombinator.com/item?id=42054449) - [AMD outsells Intel in the datacenter space](https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space)
-* [2024-11-05, 18:02:18](https://news.ycombinator.com/item?id=42053747) - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure analysis of the Arecibo 305 meter telescope collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
@@ -29,6 +28,7 @@
 * [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every boring problem found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-10-31, 14:46:59](https://news.ycombinator.com/item?id=42007462) - [Lisp Query Notation (LQN)](https://inconvergent.net/2024/lisp-query-notation/)
+* [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-31, 10:00:07](https://news.ycombinator.com/item?id=42005147) - [Algorithm = Logic and Control [pdf]](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
 
 ## [Archives](archives/index.md)
