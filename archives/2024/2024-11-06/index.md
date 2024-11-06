@@ -6,6 +6,7 @@
 
 * [2024-11-06, 23:04:39](https://news.ycombinator.com/item?id=42070946) - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
 * [2024-11-06, 22:26:38](https://news.ycombinator.com/item?id=42070489) - [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
+* [2024-11-06, 22:00:09](https://news.ycombinator.com/item?id=42070153) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-06, 21:25:58](https://news.ycombinator.com/item?id=42069677) - [German Coalition Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-06, 21:10:39](https://news.ycombinator.com/item?id=42069453) - [Ollama 0.4 is released with support for Meta's Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
