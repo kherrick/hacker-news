@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
-* [2024-11-06, 06:49:49](https://news.ycombinator.com/item?id=42057647) - [Trump wins presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
+* [2024-11-06, 06:49:49](https://news.ycombinator.com/item?id=42057647) - [Former President Trump is projected to win the presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 * [2024-11-06, 05:57:15](https://news.ycombinator.com/item?id=42057451) - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
 * [2024-11-06, 05:51:40](https://news.ycombinator.com/item?id=42057431) - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
 * [2024-11-06, 05:35:31](https://news.ycombinator.com/item?id=42057378) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
