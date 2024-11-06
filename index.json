@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-11-05, 18:02:18",
-      "https://news.ycombinator.com/item?id=42053747"
-    ],
-    [
-      "Show HN: Whirlwind – Async concurrent hashmap for Rust",
-      "https://github.com/fortress-build/whirlwind"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 15:18:34",
       "https://news.ycombinator.com/item?id=42052143"
     ],
@@ -287,6 +277,16 @@
     [
       "Lisp Query Notation (LQN)",
       "https://inconvergent.net/2024/lisp-query-notation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 10:45:19",
+      "https://news.ycombinator.com/item?id=42005429"
+    ],
+    [
+      "Kernel optimization with BOLT (binary optimization and layout tool)",
+      "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
     ]
   ],
   [
