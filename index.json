@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-11-06, 01:58:48",
+      "https://news.ycombinator.com/item?id=42056756"
+    ],
+    [
+      "MOATs Aren't Useful",
+      "https://rohan.ga/blog/moats/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 01:26:43",
+      "https://news.ycombinator.com/item?id=42056644"
+    ],
+    [
+      "The Spiral of Wrath: The crash of Armavia flight 967",
+      "https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 00:47:30",
       "https://news.ycombinator.com/item?id=42056515"
     ],
     [
-      "The Antitrust Revolution – Liberal democracy's last stand against Big Tech",
+      "The Antitrust Revolution",
       "https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-11-05, 22:00:19",
-      "https://news.ycombinator.com/item?id=42055558"
-    ],
-    [
-      "Tracking down a mysterious skateboarder from 1979",
-      "https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 22:00:05",
       "https://news.ycombinator.com/item?id=42055556"
     ],
@@ -97,6 +107,16 @@
     [
       "Traceroute Isn't Real",
       "https://gekk.info/articles/traceroute.htm"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 20:19:13",
+      "https://news.ycombinator.com/item?id=42054813"
+    ],
+    [
+      "Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation",
+      "https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Show HN: I wrote an open-source browser alternative for Computer Use for any LLM",
       "https://github.com/gregpr07/browser-use"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 15:25:44",
-      "https://news.ycombinator.com/item?id=42052194"
-    ],
-    [
-      "PiML: Python Interpretable Machine Learning Toolbox",
-      "https://github.com/SelfExplainML/PiML-Toolbox"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2024-11-04, 18:55:40",
-      "https://news.ycombinator.com/item?id=42044860"
+      "2024-11-02, 11:09:41",
+      "https://news.ycombinator.com/item?id=42025619"
     ],
     [
-      "Ralph Abraham was always looking for the big picture",
-      "https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 20:27:21",
-      "https://news.ycombinator.com/item?id=42021212"
-    ],
-    [
-      "Generating Lever-Door Puzzles with JavaScript",
-      "https://blog.reconquer.online/generating-lever-door-puzzles"
+      "Superstreamer – OSS streaming toolkit from video source to player",
+      "https://github.com/matvp91/superstreamer"
     ]
   ],
   [
