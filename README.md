@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 21:25:58](https://news.ycombinator.com/item?id=42069677) - [German Coalition Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+* [2024-11-06, 21:10:39](https://news.ycombinator.com/item?id=42069453) - [Ollama 0.4 is released with support for Meta's Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 * [2024-11-06, 21:00:44](https://news.ycombinator.com/item?id=42069320) - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 * [2024-11-06, 20:04:41](https://news.ycombinator.com/item?id=42068485) - [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
 * [2024-11-06, 18:50:02](https://news.ycombinator.com/item?id=42067275) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
@@ -24,9 +26,7 @@
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
-* [2024-11-02, 18:27:31](https://news.ycombinator.com/item?id=42028181) - [Solving the Siberian Crater Mystery](https://nautil.us/the-mystery-of-the-siberian-craters-1051317/)
 * [2024-11-02, 09:03:28](https://news.ycombinator.com/item?id=42025037) - [131M American Buildings](https://tech.marksblogg.com/ornl-fema-buildings.html)
-* [2024-11-02, 06:29:18](https://news.ycombinator.com/item?id=42024439) - [Breaking the image: a 12th-century Ai Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
 * [2024-11-01, 17:14:23](https://news.ycombinator.com/item?id=42019228) - [The Decline of the Working Musician](https://www.newyorker.com/magazine/2024/10/28/band-people-franz-nicolay-book-review)
 * [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
