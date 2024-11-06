@@ -24,10 +24,10 @@
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
+* [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
 * [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
 * [2024-11-02, 06:29:18](https://news.ycombinator.com/item?id=42024439) - [Breaking the image: a 12th-century Ai Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
-* [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
 
