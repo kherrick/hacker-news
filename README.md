@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 02:54:44](https://news.ycombinator.com/item?id=42056954) - [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 * [2024-11-06, 00:47:30](https://news.ycombinator.com/item?id=42056515) - [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
@@ -29,7 +30,6 @@
 * [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every boring problem found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-10-31, 14:46:59](https://news.ycombinator.com/item?id=42007462) - [Lisp Query Notation (LQN)](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-10-31, 10:00:07](https://news.ycombinator.com/item?id=42005147) - [Algorithm = Logic and Control [pdf]](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
-* [2024-10-31, 03:06:54](https://news.ycombinator.com/item?id=42003087) - [Why Aren't There B Batteries? (2022)](https://www.thebatterygenie.com/why-arent-there-b-batteries/)
 
 ## [Archives](archives/index.md)
 
