@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
+* [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:00:12](https://news.ycombinator.com/item?id=42061599) - [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
 * [2024-11-06, 12:39:10](https://news.ycombinator.com/item?id=42061313) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
@@ -16,7 +16,7 @@
 * [2024-11-06, 02:54:44](https://news.ycombinator.com/item?id=42056954) - [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 02:46:58](https://news.ycombinator.com/item?id=42056918) - [98.css – A design system for building faithful recreations of old UIs](https://jdan.github.io/98.css/)
-* [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
+* [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
@@ -24,12 +24,12 @@
 * [2024-11-05, 14:59:15](https://news.ycombinator.com/item?id=42051968) - [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space)
 * [2024-11-05, 13:37:42](https://news.ycombinator.com/item?id=42051368) - [Failure analysis of the Arecibo 305 meter telescope collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
-* [2024-11-02, 01:40:22](https://news.ycombinator.com/item?id=42023385) - [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
 * [2024-11-01, 22:14:36](https://news.ycombinator.com/item?id=42022093) - [The Monkey and the Coconuts: An Introduction to the Extended Euclidean Algorithm](https://github.com/WinVector/Examples/blob/main/puzzles/DividingCoconuts/Monkey_and_Coconuts.ipynb)
 * [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-10-31, 14:46:59](https://news.ycombinator.com/item?id=42007462) - [Lisp Query Notation (LQN)](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-30, 20:26:02](https://news.ycombinator.com/item?id=41999840) - [Nulls: Revisiting null representation in modern columnar formats](https://dl.acm.org/doi/10.1145/3662010.3663452)
+* [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
 
 ## [Archives](archives/index.md)
 
