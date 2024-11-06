@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-06, 06:06:51](https://news.ycombinator.com/item?id=42057478) - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
+* [2024-11-06, 04:05:01](https://news.ycombinator.com/item?id=42057139) - [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * [2024-11-06, 03:21:09](https://news.ycombinator.com/item?id=42057036) - [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
 * [2024-11-06, 02:54:44](https://news.ycombinator.com/item?id=42056954) - [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 * [2024-11-06, 00:47:30](https://news.ycombinator.com/item?id=42056515) - [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
-* [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
 * [2024-11-05, 23:04:45](https://news.ycombinator.com/item?id=42055979) - [Mozilla is eliminating its advocacy division](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
 * [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)

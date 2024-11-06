@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
 * [2024-11-06, 06:06:51](https://news.ycombinator.com/item?id=42057478) - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
+* [2024-11-06, 04:05:01](https://news.ycombinator.com/item?id=42057139) - [Why the deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * [2024-11-06, 03:21:09](https://news.ycombinator.com/item?id=42057036) - [What if your computer beeps each time it sends data to Google?](https://berthub.eu/articles/posts/tracker-beeper/)
 * [2024-11-06, 02:54:44](https://news.ycombinator.com/item?id=42056954) - [Defibrillation devices save lives using 1k times less electricity](https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html)
 * [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
