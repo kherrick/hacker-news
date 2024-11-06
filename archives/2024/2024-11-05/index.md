@@ -9,6 +9,7 @@
 * [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:22:07](https://news.ycombinator.com/item?id=42055702) - [Google CEO Pichai Tells Employees to Stay Neutral](https://www.washingtonpost.com/elections/2024/11/04/trump-harris-election-live-updates/)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf]](https://dspinellis.github.io/unix-v3man/v3man.pdf)
+* [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
 * [2024-11-05, 22:00:19](https://news.ycombinator.com/item?id=42055558) - [Tony Hawk wanted to track down a mysterious skateboarder from 1979. We found her](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
 * [2024-11-05, 22:00:05](https://news.ycombinator.com/item?id=42055556) - [The Eternal Mainframe (2013)](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2024-11-05, 21:26:45](https://news.ycombinator.com/item?id=42055312) - [The US Navy Put Cameras on Dolphins and the Results Were Wild](https://www.sciencealert.com/the-us-navy-put-cameras-on-dolphins-and-the-results-were-wild)
