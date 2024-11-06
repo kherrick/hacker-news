@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 01:58:48](https://news.ycombinator.com/item?id=42056756) - [MOATs Aren't Useful](https://rohan.ga/blog/moats/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 * [2024-11-06, 00:47:30](https://news.ycombinator.com/item?id=42056515) - [The Antitrust Revolution – Liberal democracy's last stand against Big Tech](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)

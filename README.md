@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 02:48:06](https://news.ycombinator.com/item?id=42056923) - [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 * [2024-11-06, 01:26:43](https://news.ycombinator.com/item?id=42056644) - [The Spiral of Wrath: The crash of Armavia flight 967](https://admiralcloudberg.medium.com/the-spiral-of-wrath-the-crash-of-armavia-flight-967-c7d84541f0f7)
 * [2024-11-06, 00:47:30](https://news.ycombinator.com/item?id=42056515) - [The Antitrust Revolution](https://harpers.org/archive/2024/10/the-antitrust-revolution-big-tech-barry-c-lynn/)
 * [2024-11-06, 00:24:48](https://news.ycombinator.com/item?id=42056420) - [Only 5.3% of US welders are women. After years as a professor, I became one](https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431)
@@ -8,7 +9,6 @@
 * [2024-11-05, 22:58:21](https://news.ycombinator.com/item?id=42055946) - [Pm-AMM: A Uniform Automated Market Maker for Prediction Markets](https://www.paradigm.xyz/2024/11/pm-amm)
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
-* [2024-11-05, 22:00:19](https://news.ycombinator.com/item?id=42055558) - [Tracking down a mysterious skateboarder from 1979](https://www.ncrabbithole.com/p/tony-hawk-fayetteville-nc-girl-skateboarder-1979)
 * [2024-11-05, 22:00:05](https://news.ycombinator.com/item?id=42055556) - [The Eternal Mainframe (2013)](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2024-11-05, 20:22:34](https://news.ycombinator.com/item?id=42054835) - [Traceroute Isn't Real](https://gekk.info/articles/traceroute.htm)
 * [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
