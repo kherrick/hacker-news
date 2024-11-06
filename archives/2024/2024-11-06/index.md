@@ -7,6 +7,7 @@
 * [2024-11-06, 16:59:19](https://news.ycombinator.com/item?id=42065269) - [The Reasons Authoritarianism Is Growing – and How to Reverse It](https://www.scottsantens.com/the-hidden-reasons-authoritarianism-is-growing-and-how-to-reverse-it-ubi/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
 * [2024-11-06, 15:01:00](https://news.ycombinator.com/item?id=42063346) - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
+* [2024-11-06, 14:53:31](https://news.ycombinator.com/item?id=42063210) - [Show HN: Term-Lisp – A Lisp, based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-11-06, 14:38:02](https://news.ycombinator.com/item?id=42062934) - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
 * [2024-11-06, 14:32:32](https://news.ycombinator.com/item?id=42062841) - [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
 * [2024-11-06, 13:54:04](https://news.ycombinator.com/item?id=42062294) - [It's raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
