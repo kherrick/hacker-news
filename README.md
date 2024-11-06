@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-06, 11:26:36](https://news.ycombinator.com/item?id=42060286) - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 * [2024-11-06, 09:02:28](https://news.ycombinator.com/item?id=42058302) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:43:57](https://news.ycombinator.com/item?id=42058153) - [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
 * [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
@@ -16,7 +17,6 @@
 * [2024-11-05, 22:12:02](https://news.ycombinator.com/item?id=42055644) - [Unix Programmer's Manual Third Edition [pdf] (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-05, 22:08:24](https://news.ycombinator.com/item?id=42055616) - [What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
 * [2024-11-05, 22:00:05](https://news.ycombinator.com/item?id=42055556) - [The Eternal Mainframe (2013)](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
-* [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
 * [2024-11-05, 20:14:02](https://news.ycombinator.com/item?id=42054779) - [U.S. chip revival plan chooses sites](https://spectrum.ieee.org/nstc)
 * [2024-11-05, 19:27:15](https://news.ycombinator.com/item?id=42054449) - [AMD outsells Intel in the datacenter space](https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space)
 * [2024-11-05, 15:18:34](https://news.ycombinator.com/item?id=42052143) - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
@@ -25,11 +25,11 @@
 * [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [DeepMind debuts watermarks for AI-generated text](https://spectrum.ieee.org/watermark)
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
 * [2024-11-02, 01:40:22](https://news.ycombinator.com/item?id=42023385) - [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
+* [2024-11-01, 22:14:36](https://news.ycombinator.com/item?id=42022093) - [The Monkey and the Coconuts: An Introduction to the Extended Euclidean Algorithm](https://github.com/WinVector/Examples/blob/main/puzzles/DividingCoconuts/Monkey_and_Coconuts.ipynb)
 * [2024-11-01, 17:28:03](https://news.ycombinator.com/item?id=42019382) - [Now lie in it: an uxntal retrospective](https://wiki.xxiivv.com/site/now_lie_in_it.html)
 * [2024-11-01, 15:50:56](https://news.ycombinator.com/item?id=42018195) - [Every boring problem found in eBPF (2022)](https://tmpout.sh/2/4.html)
 * [2024-10-31, 14:46:59](https://news.ycombinator.com/item?id=42007462) - [Lisp Query Notation (LQN)](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
-* [2024-10-31, 10:00:07](https://news.ycombinator.com/item?id=42005147) - [Algorithm = Logic and Control [pdf]](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
 
 ## [Archives](archives/index.md)
 

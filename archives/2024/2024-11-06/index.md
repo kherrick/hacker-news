@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 11:26:36](https://news.ycombinator.com/item?id=42060286) - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 * [2024-11-06, 09:02:28](https://news.ycombinator.com/item?id=42058302) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:43:57](https://news.ycombinator.com/item?id=42058153) - [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
 * [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
