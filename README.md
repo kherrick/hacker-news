@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 * [2024-11-07, 20:14:19](https://news.ycombinator.com/item?id=42080473) - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
@@ -9,7 +10,6 @@
 * [2024-11-07, 18:20:10](https://news.ycombinator.com/item?id=42079301) - [A counter-intuitive guide to better leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
 * [2024-11-07, 18:17:20](https://news.ycombinator.com/item?id=42079275) - [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
 * [2024-11-07, 18:14:11](https://news.ycombinator.com/item?id=42079237) - [Gardens reduce seasonal hunger gaps for farmland pollinators](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1523)
-* [2024-11-07, 17:58:09](https://news.ycombinator.com/item?id=42079086) - [Ask HN: Why did consumer 3D printing take so long to be invented?](https://news.ycombinator.com/item?id=42079086)
 * [2024-11-07, 17:31:25](https://news.ycombinator.com/item?id=42078826) - [Imaging shapes of atomic nuclei in high-energy nuclear collisions](https://www.nature.com/articles/s41586-024-08097-2)
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:06:28](https://news.ycombinator.com/item?id=42078536) - [Launch HN: Codebuff (YC F24) – CLI tool that writes code for you](https://news.ycombinator.com/item?id=42078536)

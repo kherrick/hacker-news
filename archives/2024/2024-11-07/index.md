@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 * [2024-11-07, 20:14:19](https://news.ycombinator.com/item?id=42080473) - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
