@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
+* [2024-11-07, 15:01:26](https://news.ycombinator.com/item?id=42077209) - [Meta does a U-turn, will share its technology with Five Eyes members](https://news.slashdot.org/story/24/11/05/043209/meta-permits-its-ai-models-to-be-used-for-us-military-purposes)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
+* [2024-11-07, 14:16:00](https://news.ycombinator.com/item?id=42076814) - [XMPP: The Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:03:12](https://news.ycombinator.com/item?id=42076719) - [States Still Ban Community-Owned Broadband Networks Because AT&T and Comcast](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
 * [2024-11-07, 13:32:11](https://news.ycombinator.com/item?id=42076487) - [Growing Food Instead of Lawns in California Front Yards](https://www.nytimes.com/2024/11/05/climate/microfarms-cropswapla-food-deserts.html)
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [What Came First, The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
