@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-07, 10:12:03",
-      "https://news.ycombinator.com/item?id=42075325"
+      "2024-11-07, 10:48:43",
+      "https://news.ycombinator.com/item?id=42075513"
     ],
     [
-      "What if everyone pointed a laser pointer at the moon? [video]",
-      "https://www.youtube.com/watch?v=JqFSGkFPipM"
+      "This Microservice Should Have Been a Library",
+      "https://gist.github.com/philippta/98a7644a424cdbf2653a641da0271cfc"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Launch HN: Midship (YC S24) – Turn PDFs, docs, and images into usable data",
       "https://news.ycombinator.com/item?id=42066500"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 17:15:43",
-      "https://news.ycombinator.com/item?id=42065561"
-    ],
-    [
-      "Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue",
-      "https://github.com/stoix-dev/stoix-cloud-saver"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "It's time for a modern synthesis kernel (2019)",
       "https://blog.regehr.org/archives/1676"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 22:14:12",
+      "https://news.ycombinator.com/item?id=42022088"
+    ],
+    [
+      "Linux Syscall Support",
+      "https://chromium.googlesource.com/linux-syscall-support/"
     ]
   ],
   [
