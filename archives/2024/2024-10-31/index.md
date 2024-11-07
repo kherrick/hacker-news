@@ -15,6 +15,7 @@
 * [2024-10-31, 20:20:12](https://news.ycombinator.com/item?id=42011078) - [The Submerged Nabataean Temple in Puteoli at Pozzuoli, Italy](https://www.cambridge.org/core/journals/antiquity/article/submerged-nabataean-temple-in-puteoli-at-pozzuoli-italy-first-campaign-of-underwater-research/446AE61E8E3ECBC6CFA7DF6239452967)
 * [2024-10-31, 19:43:52](https://news.ycombinator.com/item?id=42010712) - [Sam Altman says lack of compute is delaying the company's products](https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/)
 * [2024-10-31, 19:37:54](https://news.ycombinator.com/item?id=42010653) - [The United States' NSTC EUV Accelerator Is Coming to Albany](https://research.ibm.com/blog/euv-center-albany-nstc)
+* [2024-10-31, 19:04:07](https://news.ycombinator.com/item?id=42010274) - [Polyglot Maxxie and Minnie](https://jcarroll.com.au/2024/10/26/polyglot-maxxie-and-minnie/)
 * [2024-10-31, 19:01:55](https://news.ycombinator.com/item?id=42010249) - [Get me out of data hell](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
 * [2024-10-31, 18:50:00](https://news.ycombinator.com/item?id=42010136) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-10-31, 18:49:14](https://news.ycombinator.com/item?id=42010130) - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)

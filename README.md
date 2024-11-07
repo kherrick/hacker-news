@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
 * [2024-11-07, 05:51:32](https://news.ycombinator.com/item?id=42073801) - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 * [2024-11-07, 04:42:53](https://news.ycombinator.com/item?id=42073488) - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 * [2024-11-07, 03:28:36](https://news.ycombinator.com/item?id=42073066) - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
@@ -20,15 +21,14 @@
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
-* [2024-11-06, 09:07:17](https://news.ycombinator.com/item?id=42058355) - [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
 * [2024-11-03, 02:30:21](https://news.ycombinator.com/item?id=42030798) - [Jeopardy game using LLM and Python](https://github.com/kmarker1101/jeopardy)
 * [2024-11-03, 01:44:41](https://news.ycombinator.com/item?id=42030615) - [The evolutionary mystery of the German cockroach](https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/)
 * [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
 * [2024-11-02, 09:03:28](https://news.ycombinator.com/item?id=42025037) - [131M American Buildings](https://tech.marksblogg.com/ornl-fema-buildings.html)
 * [2024-11-01, 12:06:19](https://news.ycombinator.com/item?id=42016115) - [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)
 * [2024-11-01, 09:27:22](https://news.ycombinator.com/item?id=42015269) - [The guy who gave a negative review to Battlezone 98 Redux after playing 8k hours](https://www.pcgamer.com/games/strategy/i-tracked-down-the-guy-who-gave-a-negative-review-to-battlezone-98-redux-after-playing-for-over-8-000-hours-and-came-away-convinced-he-was-right/)
+* [2024-10-31, 19:04:07](https://news.ycombinator.com/item?id=42010274) - [Polyglot Maxxie and Minnie](https://jcarroll.com.au/2024/10/26/polyglot-maxxie-and-minnie/)
 * [2024-10-31, 16:21:18](https://news.ycombinator.com/item?id=42008401) - [A rudimentary quantum network link between Dutch cities](https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities)
-* [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
 
 ## [Archives](archives/index.md)
