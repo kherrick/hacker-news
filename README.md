@@ -2,6 +2,8 @@
 
 * [2024-11-07, 21:18:55](https://news.ycombinator.com/item?id=42081157) - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
 * [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
+* [2024-11-07, 20:48:48](https://news.ycombinator.com/item?id=42080821) - [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
+* [2024-11-07, 20:42:10](https://news.ycombinator.com/item?id=42080747) - [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
 * [2024-11-07, 19:32:04](https://news.ycombinator.com/item?id=42080012) - [Kagi Translate](https://blog.kagi.com/kagi-translate)
@@ -9,7 +11,6 @@
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
 * [2024-11-07, 18:20:10](https://news.ycombinator.com/item?id=42079301) - [A counter-intuitive guide to better leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
 * [2024-11-07, 18:17:20](https://news.ycombinator.com/item?id=42079275) - [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
-* [2024-11-07, 18:14:11](https://news.ycombinator.com/item?id=42079237) - [Gardens reduce seasonal hunger gaps for farmland pollinators](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1523)
 * [2024-11-07, 17:31:25](https://news.ycombinator.com/item?id=42078826) - [Imaging shapes of atomic nuclei in high-energy nuclear collisions](https://www.nature.com/articles/s41586-024-08097-2)
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:06:28](https://news.ycombinator.com/item?id=42078536) - [Launch HN: Codebuff (YC F24) – CLI tool that writes code for you](https://news.ycombinator.com/item?id=42078536)
@@ -27,7 +28,6 @@
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
-* [2024-11-01, 06:04:04](https://news.ycombinator.com/item?id=42014443) - [A blind but elusive critter that was presumed extinct is rediscovered](https://www.washingtonpost.com/climate-environment/2023/12/03/dewinton-golden-mole-rediscovered-dna/)
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 
