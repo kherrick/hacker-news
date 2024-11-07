@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-07, 08:02:21",
+      "https://news.ycombinator.com/item?id=42074592"
+    ],
+    [
+      "Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon",
+      "https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 06:40:21",
       "https://news.ycombinator.com/item?id=42074083"
     ],
@@ -227,16 +237,6 @@
     [
       "The evolutionary mystery of the German cockroach",
       "https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 20:05:17",
-      "https://news.ycombinator.com/item?id=42028890"
-    ],
-    [
-      "Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)",
-      "https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/"
     ]
   ],
   [
