@@ -65,6 +65,8 @@
 * [2024-11-05, 02:47:19](https://news.ycombinator.com/item?id=42048160) - [New OpenAI Feature: Predicted Outputs](https://simonwillison.net/2024/Nov/4/predicted-outputs/)
 * [2024-11-05, 02:45:05](https://news.ycombinator.com/item?id=42048153) - [Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug](https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
+* [2024-11-05, 02:33:03](https://news.ycombinator.com/item?id=42048105) - [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
+* [2024-11-05, 02:27:38](https://news.ycombinator.com/item?id=42048091) - [19th-Century 'Toy Book' Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
 * [2024-11-05, 02:20:46](https://news.ycombinator.com/item?id=42048065) - [Nvidia and its partners built a sophisticated system to bypass U.S. restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
 * [2024-11-05, 02:09:16](https://news.ycombinator.com/item?id=42048021) - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2024-11-05, 02:06:35](https://news.ycombinator.com/item?id=42048009) - [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
