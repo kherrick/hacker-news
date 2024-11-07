@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 21:18:55](https://news.ycombinator.com/item?id=42081157) - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
 * [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 * [2024-11-07, 20:14:19](https://news.ycombinator.com/item?id=42080473) - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
