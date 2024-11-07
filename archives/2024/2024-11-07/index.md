@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 13:32:11](https://news.ycombinator.com/item?id=42076487) - [Growing Food Instead of Lawns in California Front Yards](https://www.nytimes.com/2024/11/05/climate/microfarms-cropswapla-food-deserts.html)
+* [2024-11-07, 13:06:41](https://news.ycombinator.com/item?id=42076312) - [Ask HN: How do you see GitHub Spark, threat to developer community or a helper?](https://news.ycombinator.com/item?id=42076312)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
