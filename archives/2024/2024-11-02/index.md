@@ -46,6 +46,7 @@
 * [2024-11-02, 06:04:57](https://news.ycombinator.com/item?id=42024342) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-11-02, 05:25:40](https://news.ycombinator.com/item?id=42024246) - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-02, 04:30:31](https://news.ycombinator.com/item?id=42024083) - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
+* [2024-11-02, 02:50:33](https://news.ycombinator.com/item?id=42023707) - [It's time for a modern synthesis kernel (2019)](https://blog.regehr.org/archives/1676)
 * [2024-11-02, 02:41:08](https://news.ycombinator.com/item?id=42023667) - [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
 * [2024-11-02, 01:40:22](https://news.ycombinator.com/item?id=42023385) - [Storybits: Error Resistant Mnemonics](https://rya.nc/storybits.html)
 * [2024-11-02, 01:11:29](https://news.ycombinator.com/item?id=42023237) - [Show HN: Midnight Reminders via Morse Code](https://github.com/dmd/morse)
