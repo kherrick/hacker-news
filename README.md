@@ -18,7 +18,7 @@
 * [2024-11-07, 15:54:38](https://news.ycombinator.com/item?id=42077735) - [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [AI for real-time fusion plasma behavior prediction and manipulation](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
-* [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
+* [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [Masters of Horror and Magic: The German folklorists who helped build a nation](https://theamericanscholar.org/masters-of-horror-and-magic/)
@@ -26,10 +26,10 @@
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm Not Mutable, I'm Partially Instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
+* [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 06:04:04](https://news.ycombinator.com/item?id=42014443) - [A blind but elusive critter that was presumed extinct is rediscovered](https://www.washingtonpost.com/climate-environment/2023/12/03/dewinton-golden-mole-rediscovered-dna/)
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
-* [2024-10-31, 07:22:22](https://news.ycombinator.com/item?id=42004228) - [Kliktopia Archive](https://kliktopia.org)
 
 ## [Archives](archives/index.md)
 
