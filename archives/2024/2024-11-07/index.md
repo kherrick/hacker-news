@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
+* [2024-11-07, 22:22:58](https://news.ycombinator.com/item?id=42081764) - [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
 * [2024-11-07, 22:18:50](https://news.ycombinator.com/item?id=42081726) - [Trump's likely FCC chair wrote Project 2025 chapter on how he'd run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
 * [2024-11-07, 21:18:55](https://news.ycombinator.com/item?id=42081157) - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
 * [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)

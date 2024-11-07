@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
+* [2024-11-07, 22:22:58](https://news.ycombinator.com/item?id=42081764) - [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
 * [2024-11-07, 21:18:55](https://news.ycombinator.com/item?id=42081157) - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
-* [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird flu infections undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 * [2024-11-07, 20:48:48](https://news.ycombinator.com/item?id=42080821) - [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
 * [2024-11-07, 20:42:10](https://news.ycombinator.com/item?id=42080747) - [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
 * [2024-11-07, 20:06:39](https://news.ycombinator.com/item?id=42080377) - [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
@@ -21,7 +22,6 @@
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
-* [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-03, 14:55:06](https://news.ycombinator.com/item?id=42033389) - [Show HN: Directional antenna alignment using phone motion sensors](https://star.conor.link/)
