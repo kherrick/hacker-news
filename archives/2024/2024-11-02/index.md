@@ -35,6 +35,7 @@
 * [2024-11-02, 11:09:41](https://news.ycombinator.com/item?id=42025619) - [Superstreamer – OSS streaming toolkit from video source to player](https://github.com/matvp91/superstreamer)
 * [2024-11-02, 10:44:42](https://news.ycombinator.com/item?id=42025469) - [Show HN: SpawELO - small free matchmaking system for LAN parties](https://blog.spawek.com/SpawELO)
 * [2024-11-02, 09:54:54](https://news.ycombinator.com/item?id=42025256) - [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
+* [2024-11-02, 09:50:53](https://news.ycombinator.com/item?id=42025233) - [Cat Is Listening to You](https://nautil.us/your-cat-is-listening-to-you-1045745/)
 * [2024-11-02, 09:46:49](https://news.ycombinator.com/item?id=42025217) - [Cppfront v0.8.0](https://github.com/hsutter/cppfront/releases/tag/v0.8.0)
 * [2024-11-02, 09:24:57](https://news.ycombinator.com/item?id=42025123) - [Rivian's chief software officer says in-car buttons are 'an anomaly'](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
 * [2024-11-02, 09:03:28](https://news.ycombinator.com/item?id=42025037) - [131M American Buildings](https://tech.marksblogg.com/ornl-fema-buildings.html)
