@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 22:18:50](https://news.ycombinator.com/item?id=42081726) - [Trump's likely FCC chair wrote Project 2025 chapter on how he'd run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
 * [2024-11-07, 21:18:55](https://news.ycombinator.com/item?id=42081157) - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
 * [2024-11-07, 21:17:29](https://news.ycombinator.com/item?id=42081139) - [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/)
 * [2024-11-07, 20:48:48](https://news.ycombinator.com/item?id=42080821) - [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
