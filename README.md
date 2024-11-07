@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
+* [2024-11-07, 19:32:04](https://news.ycombinator.com/item?id=42080012) - [Kagi Translate](https://blog.kagi.com/kagi-translate)
 * [2024-11-07, 19:06:14](https://news.ycombinator.com/item?id=42079768) - [Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
+* [2024-11-07, 19:05:11](https://news.ycombinator.com/item?id=42079758) - [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
 * [2024-11-07, 18:20:10](https://news.ycombinator.com/item?id=42079301) - [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
 * [2024-11-07, 18:17:20](https://news.ycombinator.com/item?id=42079275) - [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
@@ -22,14 +25,11 @@
 * [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm Not Mutable, I'm Partially Instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
-* [2024-11-05, 02:33:03](https://news.ycombinator.com/item?id=42048105) - [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 06:04:04](https://news.ycombinator.com/item?id=42014443) - [A blind but elusive critter that was presumed extinct is rediscovered](https://www.washingtonpost.com/climate-environment/2023/12/03/dewinton-golden-mole-rediscovered-dna/)
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
-* [2024-10-31, 21:15:48](https://news.ycombinator.com/item?id=42011599) - [A Font Book of Squiggles in Tristram Shandy](https://www.oneletterwords.com/tristram-shandy-squiggles/)
 * [2024-10-31, 07:22:22](https://news.ycombinator.com/item?id=42004228) - [Kliktopia Archive](https://kliktopia.org)
-* [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 
 ## [Archives](archives/index.md)
 
