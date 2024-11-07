@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
-* [2024-11-07, 16:47:30](https://news.ycombinator.com/item?id=42078324) - [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
 * [2024-11-07, 15:54:38](https://news.ycombinator.com/item?id=42077735) - [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
@@ -14,7 +14,6 @@
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm Not Mutable, I'm Partially Instantiated (Prolog)](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-07, 02:32:44](https://news.ycombinator.com/item?id=42072709) - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 * [2024-11-07, 02:24:38](https://news.ycombinator.com/item?id=42072647) - [The English Paradox: Four decades of life and language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
-* [2024-11-06, 23:32:15](https://news.ycombinator.com/item?id=42071228) - [Ping Rate Clock](https://github.com/turingbirds/ping-clock)
 * [2024-11-06, 22:00:09](https://news.ycombinator.com/item?id=42070153) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
@@ -30,6 +29,7 @@
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 * [2024-10-31, 16:21:18](https://news.ycombinator.com/item?id=42008401) - [A rudimentary quantum network link between Dutch cities](https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities)
 * [2024-10-31, 12:52:27](https://news.ycombinator.com/item?id=42006409) - [CodSpeed – integrated CI tool for performance testing](https://codspeed.io/)
+* [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 
 ## [Archives](archives/index.md)
 

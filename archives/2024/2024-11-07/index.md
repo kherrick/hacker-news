@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
 * [2024-11-07, 16:53:11](https://news.ycombinator.com/item?id=42078382) - [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
 * [2024-11-07, 16:47:30](https://news.ycombinator.com/item?id=42078324) - [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
