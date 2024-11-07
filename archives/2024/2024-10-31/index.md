@@ -37,6 +37,7 @@
 * [2024-10-31, 16:58:11](https://news.ycombinator.com/item?id=42008723) - [1374 Days – My Journey with Long Covid](http://giorgialupi.com/1374-days-nyt-visual-oped)
 * [2024-10-31, 16:41:22](https://news.ycombinator.com/item?id=42008569) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-10-31, 16:32:31](https://news.ycombinator.com/item?id=42008499) - [Smashing the Limits: Installing Windows XP in DOSBox-X](https://fabulous.systems/posts/2023/07/installing-windows-xp-in-dosbox-x/)
+* [2024-10-31, 16:21:18](https://news.ycombinator.com/item?id=42008401) - [A rudimentary quantum network link between Dutch cities](https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities)
 * [2024-10-31, 15:57:29](https://news.ycombinator.com/item?id=42008154) - [Triple Density Floppy, Anyone?](https://www.vogons.org/viewtopic.php?t=98550)
 * [2024-10-31, 15:43:02](https://news.ycombinator.com/item?id=42008005) - [What I've Learned Building with AI](https://halcyon.eco/blog/building-with-ai)
 * [2024-10-31, 15:28:54](https://news.ycombinator.com/item?id=42007880) - [Star Citizen player reports CIG is making him sign an NDA before getting refund](https://massivelyop.com/2024/10/30/star-citizen-player-reports-cig-is-making-him-sign-an-nda-before-getting-a-refund/)
