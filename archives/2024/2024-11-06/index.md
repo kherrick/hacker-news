@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 23:38:58](https://news.ycombinator.com/item?id=42071310) - [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
 * [2024-11-06, 23:04:39](https://news.ycombinator.com/item?id=42070946) - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
 * [2024-11-06, 23:02:27](https://news.ycombinator.com/item?id=42070925) - [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
 * [2024-11-06, 22:26:38](https://news.ycombinator.com/item?id=42070489) - [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
