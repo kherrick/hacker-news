@@ -2,6 +2,7 @@
 
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
+* [2024-11-07, 16:25:40](https://news.ycombinator.com/item?id=42078067) - [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
 * [2024-11-07, 15:54:38](https://news.ycombinator.com/item?id=42077735) - [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
@@ -18,7 +19,6 @@
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
-* [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 * [2024-11-05, 02:33:03](https://news.ycombinator.com/item?id=42048105) - [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
 * [2024-11-05, 02:27:38](https://news.ycombinator.com/item?id=42048091) - [19th-Century ‘Toy Book’ Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
