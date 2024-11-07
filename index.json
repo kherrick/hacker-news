@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-07, 16:53:11",
-      "https://news.ycombinator.com/item?id=42078382"
-    ],
-    [
-      "Has the market spoken? Time to pick up Golang and Rust?",
-      "https://news.ycombinator.com/item?id=42078382"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 16:47:30",
       "https://news.ycombinator.com/item?id=42078324"
     ],
@@ -57,16 +47,6 @@
     [
       "Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)",
       "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 14:16:00",
-      "https://news.ycombinator.com/item?id=42076814"
-    ],
-    [
-      "XMPP: The Gem of Instant Messaging",
-      "https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-11-06, 23:32:15",
+      "https://news.ycombinator.com/item?id=42071228"
+    ],
+    [
+      "Ping Rate Clock",
+      "https://github.com/turingbirds/ping-clock"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 22:00:09",
       "https://news.ycombinator.com/item?id=42070153"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-11-06, 13:37:03",
+      "https://news.ycombinator.com/item?id=42062074"
+    ],
+    [
+      "Monorepo – Our Experience",
+      "https://ente.io/blog/monorepo-retrospective/"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 12:07:06",
       "https://news.ycombinator.com/item?id=42060856"
     ],
@@ -231,22 +231,32 @@
   ],
   [
     [
-      "2024-11-03, 15:05:20",
-      "https://news.ycombinator.com/item?id=42033444"
-    ],
-    [
-      "Somebody Please Get Me This Desktop Wind Tunnel for Christmas",
-      "https://www.thedrive.com/news/funtech-lab-scaled-down-desktop-toy-car-wind-tunnel-price-specs-pictures"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 22:14:12",
       "https://news.ycombinator.com/item?id=42022088"
     ],
     [
       "Linux Syscall Support",
       "https://chromium.googlesource.com/linux-syscall-support/"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 17:14:23",
+      "https://news.ycombinator.com/item?id=42019228"
+    ],
+    [
+      "The decline of the working musician",
+      "https://www.newyorker.com/magazine/2024/10/28/band-people-franz-nicolay-book-review"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 06:04:04",
+      "https://news.ycombinator.com/item?id=42014443"
+    ],
+    [
+      "A blind but elusive critter that was presumed extinct is rediscovered",
+      "https://www.washingtonpost.com/climate-environment/2023/12/03/dewinton-golden-mole-rediscovered-dna/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "CodSpeed – integrated CI tool for performance testing",
       "https://codspeed.io/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 02:19:10",
-      "https://news.ycombinator.com/item?id=42002798"
-    ],
-    [
-      "Looking into the Nintendo Alarmo",
-      "https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html"
     ]
   ]
 ]
