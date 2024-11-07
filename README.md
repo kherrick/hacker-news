@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-07, 14:03:12](https://news.ycombinator.com/item?id=42076719) - [States Still Ban Community-Owned Broadband Networks Because AT&T and Comcast](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
+* [2024-11-07, 14:03:12](https://news.ycombinator.com/item?id=42076719) - [Sixteen U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
 * [2024-11-07, 13:32:11](https://news.ycombinator.com/item?id=42076487) - [Growing Food Instead of Lawns in California Front Yards](https://www.nytimes.com/2024/11/05/climate/microfarms-cropswapla-food-deserts.html)
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [What Came First, The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
@@ -22,7 +22,7 @@
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 * [2024-11-05, 02:33:03](https://news.ycombinator.com/item?id=42048105) - [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
-* [2024-11-05, 02:27:38](https://news.ycombinator.com/item?id=42048091) - [19th-Century 'Toy Book' Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
+* [2024-11-05, 02:27:38](https://news.ycombinator.com/item?id=42048091) - [19th-Century ‘Toy Book’ Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
 * [2024-11-02, 02:50:33](https://news.ycombinator.com/item?id=42023707) - [It's time for a modern synthesis kernel (2019)](https://blog.regehr.org/archives/1676)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 17:14:23](https://news.ycombinator.com/item?id=42019228) - [The decline of the working musician](https://www.newyorker.com/magazine/2024/10/28/band-people-franz-nicolay-book-review)
