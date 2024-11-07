@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-11-06, 04:05:01",
-      "https://news.ycombinator.com/item?id=42057139"
-    ],
-    [
-      "The deep learning boom caught almost everyone by surprise",
-      "https://www.understandingai.org/p/why-the-deep-learning-boom-caught"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 02:30:21",
       "https://news.ycombinator.com/item?id=42030798"
     ],
@@ -287,6 +277,16 @@
     [
       "A rudimentary quantum network link between Dutch cities",
       "https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 10:45:19",
+      "https://news.ycombinator.com/item?id=42005429"
+    ],
+    [
+      "Kernel optimization with BOLT (binary optimization and layout tool)",
+      "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
     ]
   ],
   [
