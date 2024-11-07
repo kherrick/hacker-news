@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 03:28:36](https://news.ycombinator.com/item?id=42073066) - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
 * [2024-11-07, 02:24:38](https://news.ycombinator.com/item?id=42072647) - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
