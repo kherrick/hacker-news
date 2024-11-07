@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
 * [2024-11-07, 14:03:12](https://news.ycombinator.com/item?id=42076719) - [Sixteen U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/)
-* [2024-11-07, 13:32:11](https://news.ycombinator.com/item?id=42076487) - [Growing Food Instead of Lawns in California Front Yards](https://www.nytimes.com/2024/11/05/climate/microfarms-cropswapla-food-deserts.html)
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [What Came First, The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
