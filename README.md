@@ -2,6 +2,7 @@
 
 * [2024-11-07, 04:42:53](https://news.ycombinator.com/item?id=42073488) - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 * [2024-11-07, 03:28:36](https://news.ycombinator.com/item?id=42073066) - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
+* [2024-11-07, 02:32:44](https://news.ycombinator.com/item?id=42072709) - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 * [2024-11-07, 02:24:38](https://news.ycombinator.com/item?id=42072647) - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
 * [2024-11-06, 23:38:58](https://news.ycombinator.com/item?id=42071310) - [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
 * [2024-11-06, 23:32:15](https://news.ycombinator.com/item?id=42071228) - [Ping Rate Clock](https://github.com/turingbirds/ping-clock)
@@ -10,7 +11,6 @@
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-06, 21:00:44](https://news.ycombinator.com/item?id=42069320) - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 * [2024-11-06, 20:56:47](https://news.ycombinator.com/item?id=42069246) - [One year, 41M digits: How Luke Durant found the largest known prime number](https://www.washingtonpost.com/science/2024/10/23/nvidia-prime-mersenne-gpu-cloud/)
-* [2024-11-06, 18:50:02](https://news.ycombinator.com/item?id=42067275) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 18:46:53](https://news.ycombinator.com/item?id=42067233) - [Physicists spot quantum tornadoes twirling in a 'supersolid'](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
 * [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn PDFs, docs, and images into usable data](https://news.ycombinator.com/item?id=42066500)
 * [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
