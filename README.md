@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
@@ -25,10 +26,9 @@
 * [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
 * [2024-11-02, 02:50:33](https://news.ycombinator.com/item?id=42023707) - [It's time for a modern synthesis kernel (2019)](https://blog.regehr.org/archives/1676)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
-* [2024-11-01, 12:06:19](https://news.ycombinator.com/item?id=42016115) - [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)
-* [2024-11-01, 09:27:22](https://news.ycombinator.com/item?id=42015269) - [The guy who gave a negative review to Battlezone 98 Redux after playing 8k hours](https://www.pcgamer.com/games/strategy/i-tracked-down-the-guy-who-gave-a-negative-review-to-battlezone-98-redux-after-playing-for-over-8-000-hours-and-came-away-convinced-he-was-right/)
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 * [2024-10-31, 16:21:18](https://news.ycombinator.com/item?id=42008401) - [A rudimentary quantum network link between Dutch cities](https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities)
+* [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
 
 ## [Archives](archives/index.md)

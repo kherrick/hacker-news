@@ -88,6 +88,7 @@
 * [2024-10-31, 03:06:54](https://news.ycombinator.com/item?id=42003087) - [Why Aren't There B Batteries? (2022)](https://www.thebatterygenie.com/why-arent-there-b-batteries/)
 * [2024-10-31, 02:51:45](https://news.ycombinator.com/item?id=42002994) - [Astronomers Found Something Cold and Wet Near Uranus](https://gizmodo.com/astronomers-found-something-cold-and-wet-near-uranus-2000518316)
 * [2024-10-31, 02:32:28](https://news.ycombinator.com/item?id=42002873) - [Typing fast is not so important](https://morgan.zoemp.be/slowdown/)
+* [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-31, 02:12:23](https://news.ycombinator.com/item?id=42002757) - [Legal bid for Ecuador forest to be recognised as song co-creator](https://www.theguardian.com/world/2024/oct/25/legal-bid-for-ecuador-forest-to-be-recognised-as-song-co-creator)
 * [2024-10-31, 02:00:53](https://news.ycombinator.com/item?id=42002699) - [The History Of The Monokai Color Scheme](https://monokai.pro/history)
 * [2024-10-31, 01:04:55](https://news.ycombinator.com/item?id=42002362) - [Using Raspberry Pi as a network impairment](https://medium.com/@fuji246/basic-setup-757df3bee085)
