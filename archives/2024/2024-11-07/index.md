@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 10:48:43](https://news.ycombinator.com/item?id=42075513) - [This Microservice Should Have Been a Library](https://gist.github.com/philippta/98a7644a424cdbf2653a641da0271cfc)
 * [2024-11-07, 10:24:27](https://news.ycombinator.com/item?id=42075387) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
 * [2024-11-07, 10:12:03](https://news.ycombinator.com/item?id=42075325) - [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)
@@ -14,6 +15,7 @@
 * [2024-11-07, 04:42:53](https://news.ycombinator.com/item?id=42073488) - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 * [2024-11-07, 03:57:06](https://news.ycombinator.com/item?id=42073232) - [The Secret System Behind Every Call You Make Is About to Change Hands](https://www.hackingbutlegal.com/p/the-secret-system-behind-every-call)
 * [2024-11-07, 03:28:36](https://news.ycombinator.com/item?id=42073066) - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
+* [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm Not Mutable, I'm Partially Instantiated (Prolog)](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-07, 02:37:37](https://news.ycombinator.com/item?id=42072750) - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 * [2024-11-07, 02:32:44](https://news.ycombinator.com/item?id=42072709) - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 * [2024-11-07, 02:24:38](https://news.ycombinator.com/item?id=42072647) - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
