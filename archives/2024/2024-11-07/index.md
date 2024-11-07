@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 17:58:09](https://news.ycombinator.com/item?id=42079086) - [Ask HN: Why did home 3D printing take so long to be invented?](https://news.ycombinator.com/item?id=42079086)
+* [2024-11-07, 17:31:25](https://news.ycombinator.com/item?id=42078826) - [Imaging shapes of atomic nuclei in high-energy nuclear collisions](https://www.nature.com/articles/s41586-024-08097-2)
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
 * [2024-11-07, 16:53:11](https://news.ycombinator.com/item?id=42078382) - [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
