@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-11-07, 18:17:20",
+      "https://news.ycombinator.com/item?id=42079275"
+    ],
+    [
+      "Edge Scripting: Build and run applications at the edge",
+      "https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 17:58:09",
       "https://news.ycombinator.com/item?id=42079086"
     ],
     [
-      "Ask HN: Why did home 3D printing take so long to be invented?",
+      "Ask HN: Why did consumer 3D printing take so long to be invented?",
       "https://news.ycombinator.com/item?id=42079086"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Using Ghidra and Python to Reverse Engineer Ecco the Dolphin (Dreamcast)",
       "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 14:03:12",
-      "https://news.ycombinator.com/item?id=42076719"
-    ],
-    [
-      "Sixteen U.S. states still ban community-owned broadband networks",
-      "https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-11-06, 13:48:55",
-      "https://news.ycombinator.com/item?id=42062230"
-    ],
-    [
-      "Private Cloud Compute Security Guide",
-      "https://security.apple.com/documentation/private-cloud-compute/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 02:33:03",
       "https://news.ycombinator.com/item?id=42048105"
     ],
@@ -267,6 +257,16 @@
     [
       "Automat",
       "https://automat.org"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 21:15:48",
+      "https://news.ycombinator.com/item?id=42011599"
+    ],
+    [
+      "A Font Book of Squiggles in Tristram Shandy",
+      "https://www.oneletterwords.com/tristram-shandy-squiggles/"
     ]
   ],
   [
