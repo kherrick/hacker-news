@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 10:12:03](https://news.ycombinator.com/item?id=42075325) - [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)
 * [2024-11-07, 08:02:21](https://news.ycombinator.com/item?id=42074592) - [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
 * [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)

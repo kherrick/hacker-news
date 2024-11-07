@@ -47,6 +47,7 @@
 * [2024-11-03, 13:18:24](https://news.ycombinator.com/item?id=42032906) - [Intel might be too big to fail – policymakers discussing potential solutions](https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover)
 * [2024-11-03, 12:33:18](https://news.ycombinator.com/item?id=42032693) - [I Waited 10B Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more)
 * [2024-11-03, 12:17:24](https://news.ycombinator.com/item?id=42032638) - [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
+* [2024-11-03, 12:05:19](https://news.ycombinator.com/item?id=42032580) - [Looking Back to Move Forward: The Power of Scientific History](https://tobiacavalli.com/blog/looking-back-to-move-forward/)
 * [2024-11-03, 11:56:22](https://news.ycombinator.com/item?id=42032550) - [Quantum Machines, Nvidia use machine learning to get closer to quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
 * [2024-11-03, 11:17:56](https://news.ycombinator.com/item?id=42032411) - [Show HN: Kis.tools – A directory of tools that work](https://kis.tools)
 * [2024-11-03, 11:09:08](https://news.ycombinator.com/item?id=42032387) - [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
