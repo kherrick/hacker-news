@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-11-07, 02:37:37",
+      "https://news.ycombinator.com/item?id=42072750"
+    ],
+    [
+      "Bringing Faster Exceptions to Rust",
+      "https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 02:32:44",
       "https://news.ycombinator.com/item?id=42072709"
     ],
@@ -45,8 +55,18 @@
       "https://news.ycombinator.com/item?id=42072647"
     ],
     [
-      "The English paradox: Four decades of life and language in Japan",
+      "The English Paradox: Four decades of life and language in Japan",
       "https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 02:07:55",
+      "https://news.ycombinator.com/item?id=42072530"
+    ],
+    [
+      "Is the US an Ochlocracy?",
+      "https://anacyclosis.org/portfolio/what-is-anacyclosis/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-06, 09:07:17",
-      "https://news.ycombinator.com/item?id=42058355"
-    ],
-    [
-      "3D Rotation Design",
-      "https://www.mattkeeter.com/projects/rotation/"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 04:05:01",
       "https://news.ycombinator.com/item?id=42057139"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42030798"
     ],
     [
-      "Jeopardy Game Using LLM and Python",
+      "Jeopardy game using LLM and Python",
       "https://github.com/kmarker1101/jeopardy"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "A rudimentary quantum network link between Dutch cities",
       "https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 10:45:19",
-      "https://news.ycombinator.com/item?id=42005429"
-    ],
-    [
-      "Kernel optimization with BOLT (binary optimization and layout tool)",
-      "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
     ]
   ],
   [
