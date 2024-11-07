@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 10:48:43](https://news.ycombinator.com/item?id=42075513) - [This Microservice Should Have Been a Library](https://gist.github.com/philippta/98a7644a424cdbf2653a641da0271cfc)
 * [2024-11-07, 10:24:27](https://news.ycombinator.com/item?id=42075387) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
