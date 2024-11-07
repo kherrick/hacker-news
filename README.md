@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 08:02:21](https://news.ycombinator.com/item?id=42074592) - [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
 * [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
 * [2024-11-07, 05:51:32](https://news.ycombinator.com/item?id=42073801) - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 * [2024-11-07, 04:42:53](https://news.ycombinator.com/item?id=42073488) - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
@@ -23,7 +24,6 @@
 * [2024-11-05, 02:27:38](https://news.ycombinator.com/item?id=42048091) - [19th-Century 'Toy Book' Used Science to Prove That Ghosts Were an Illusion](https://www.smithsonianmag.com/history/this-19th-century-toy-book-used-science-to-prove-that-ghosts-were-simply-an-illusion-180985347/)
 * [2024-11-03, 02:30:21](https://news.ycombinator.com/item?id=42030798) - [Jeopardy game using LLM and Python](https://github.com/kmarker1101/jeopardy)
 * [2024-11-03, 01:44:41](https://news.ycombinator.com/item?id=42030615) - [The evolutionary mystery of the German cockroach](https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/)
-* [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
 * [2024-11-02, 09:03:28](https://news.ycombinator.com/item?id=42025037) - [131M American Buildings](https://tech.marksblogg.com/ornl-fema-buildings.html)
 * [2024-11-01, 12:06:19](https://news.ycombinator.com/item?id=42016115) - [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)
 * [2024-11-01, 09:27:22](https://news.ycombinator.com/item?id=42015269) - [The guy who gave a negative review to Battlezone 98 Redux after playing 8k hours](https://www.pcgamer.com/games/strategy/i-tracked-down-the-guy-who-gave-a-negative-review-to-battlezone-98-redux-after-playing-for-over-8-000-hours-and-came-away-convinced-he-was-right/)
