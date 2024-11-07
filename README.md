@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-07, 08:02:21](https://news.ycombinator.com/item?id=42074592) - [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
-* [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
+* [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 05:51:32](https://news.ycombinator.com/item?id=42073801) - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 * [2024-11-07, 02:37:37](https://news.ycombinator.com/item?id=42072750) - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 * [2024-11-07, 02:32:44](https://news.ycombinator.com/item?id=42072709) - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
