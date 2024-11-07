@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-07, 19:06:14](https://news.ycombinator.com/item?id=42079768) - [Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
 * [2024-11-07, 18:20:10](https://news.ycombinator.com/item?id=42079301) - [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
 * [2024-11-07, 18:17:20](https://news.ycombinator.com/item?id=42079275) - [Edge Scripting: Build and run applications at the edge](https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/)
@@ -27,7 +28,6 @@
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 * [2024-10-31, 21:15:48](https://news.ycombinator.com/item?id=42011599) - [A Font Book of Squiggles in Tristram Shandy](https://www.oneletterwords.com/tristram-shandy-squiggles/)
-* [2024-10-31, 12:52:27](https://news.ycombinator.com/item?id=42006409) - [CodSpeed – integrated CI tool for performance testing](https://codspeed.io/)
 * [2024-10-31, 07:22:22](https://news.ycombinator.com/item?id=42004228) - [Kliktopia Archive](https://kliktopia.org)
 * [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 

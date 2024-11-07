@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 19:06:14](https://news.ycombinator.com/item?id=42079768) - [Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
 * [2024-11-07, 18:28:57](https://news.ycombinator.com/item?id=42079389) - [Palantir Secures $99M Army Contract for User-Centered ML](https://executivegov.com/2024/09/palantir-army-contract-user-centered-ml/)
 * [2024-11-07, 18:20:10](https://news.ycombinator.com/item?id=42079301) - [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
