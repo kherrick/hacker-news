@@ -19,7 +19,6 @@
 * [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [Masters of Horror and Magic: The German folklorists who helped build a nation](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
-* [2024-11-07, 05:51:32](https://news.ycombinator.com/item?id=42073801) - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm Not Mutable, I'm Partially Instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-06, 21:23:50](https://news.ycombinator.com/item?id=42069646) - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
 * [2024-11-05, 02:33:03](https://news.ycombinator.com/item?id=42048105) - [Gladiators in ancient Anatolia lived to entertain the masses](https://archaeology.org/issues/november-december-2024/features/let-the-games-begin/)
@@ -29,6 +28,7 @@
 * [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 * [2024-10-31, 21:15:48](https://news.ycombinator.com/item?id=42011599) - [A Font Book of Squiggles in Tristram Shandy](https://www.oneletterwords.com/tristram-shandy-squiggles/)
 * [2024-10-31, 12:52:27](https://news.ycombinator.com/item?id=42006409) - [CodSpeed – integrated CI tool for performance testing](https://codspeed.io/)
+* [2024-10-31, 07:22:22](https://news.ycombinator.com/item?id=42004228) - [Kliktopia Archive](https://kliktopia.org)
 * [2024-10-31, 02:19:10](https://news.ycombinator.com/item?id=42002798) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 
 ## [Archives](archives/index.md)
