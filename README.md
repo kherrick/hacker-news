@@ -21,7 +21,6 @@
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
-* [2024-11-06, 04:05:01](https://news.ycombinator.com/item?id=42057139) - [The deep learning boom caught almost everyone by surprise](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * [2024-11-03, 02:30:21](https://news.ycombinator.com/item?id=42030798) - [Jeopardy game using LLM and Python](https://github.com/kmarker1101/jeopardy)
 * [2024-11-03, 01:44:41](https://news.ycombinator.com/item?id=42030615) - [The evolutionary mystery of the German cockroach](https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/)
 * [2024-11-02, 20:05:17](https://news.ycombinator.com/item?id=42028890) - [Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
@@ -29,6 +28,7 @@
 * [2024-11-01, 12:06:19](https://news.ycombinator.com/item?id=42016115) - [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)
 * [2024-11-01, 09:27:22](https://news.ycombinator.com/item?id=42015269) - [The guy who gave a negative review to Battlezone 98 Redux after playing 8k hours](https://www.pcgamer.com/games/strategy/i-tracked-down-the-guy-who-gave-a-negative-review-to-battlezone-98-redux-after-playing-for-over-8-000-hours-and-came-away-convinced-he-was-right/)
 * [2024-10-31, 16:21:18](https://news.ycombinator.com/item?id=42008401) - [A rudimentary quantum network link between Dutch cities](https://www.tudelft.nl/en/2024/tu-delft/a-rudimentary-quantum-network-link-between-dutch-cities)
+* [2024-10-31, 10:45:19](https://news.ycombinator.com/item?id=42005429) - [Kernel optimization with BOLT (binary optimization and layout tool)](https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/)
 * [2024-10-30, 08:15:37](https://news.ycombinator.com/item?id=41992851) - [Model Predictive Control in the Browser with WebAssembly](https://garethx.com/posts/cart-pole-mpc/)
 
 ## [Archives](archives/index.md)
