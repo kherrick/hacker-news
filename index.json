@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-07, 12:00:21",
+      "https://news.ycombinator.com/item?id=42075900"
+    ],
+    [
+      "Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)",
+      "https://www.workatastartup.com/companies/optery"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 07:20:32",
       "https://news.ycombinator.com/item?id=42074348"
     ],
@@ -17,6 +27,16 @@
     [
       "Evaluating the world model implicit in a generative model",
       "https://arxiv.org/abs/2406.03689"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 03:17:45",
+      "https://news.ycombinator.com/item?id=42073001"
+    ],
+    [
+      "I'm Not Mutable, I'm Partially Instantiated (Prolog)",
+      "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-11-06, 23:04:39",
-      "https://news.ycombinator.com/item?id=42070946"
-    ],
-    [
-      "Trudeau government bans TikTok from operating in Canada",
-      "https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 22:00:09",
       "https://news.ycombinator.com/item?id=42070153"
     ],
@@ -107,16 +117,6 @@
     [
       "Launch HN: Midship (YC S24) – Turn PDFs, docs, and images into usable data",
       "https://news.ycombinator.com/item?id=42066500"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 17:15:43",
-      "https://news.ycombinator.com/item?id=42065561"
-    ],
-    [
-      "Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue",
-      "https://github.com/stoix-dev/stoix-cloud-saver"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-11-06, 05:51:40",
+      "https://news.ycombinator.com/item?id=42057431"
+    ],
+    [
+      "Useful built-in macOS command-line utilities",
+      "https://weiyen.net/articles/useful-macos-cmd-line-utilities"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 02:33:03",
       "https://news.ycombinator.com/item?id=42048105"
     ],
@@ -197,16 +207,6 @@
     [
       "Looking Back to Move Forward: The Power of Scientific History",
       "https://tobiacavalli.com/blog/looking-back-to-move-forward/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 02:30:21",
-      "https://news.ycombinator.com/item?id=42030798"
-    ],
-    [
-      "Jeopardy game using LLM and Python",
-      "https://github.com/kmarker1101/jeopardy"
     ]
   ],
   [
