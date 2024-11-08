@@ -1,52 +1,32 @@
 [
   [
     [
-      "2024-11-08, 15:58:29",
-      "https://news.ycombinator.com/item?id=42087805"
+      "2024-11-08, 16:12:56",
+      "https://news.ycombinator.com/item?id=42087932"
     ],
     [
-      "Thunderbird Turns 20 Years Old",
-      "https://updates.thunderbird.net/en-US/thunderbird/128.0/nov24/"
+      "First image of our Milky Way's black hole may be inaccurate, scientists say",
+      "https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say"
     ]
   ],
   [
     [
-      "2024-11-08, 15:17:05",
-      "https://news.ycombinator.com/item?id=42087478"
+      "2024-11-08, 15:59:12",
+      "https://news.ycombinator.com/item?id=42087811"
     ],
     [
-      "Man sick of crashes sues Intel for allegedly hiding CPU defects",
-      "https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/"
+      "It feels like 2004 again",
+      "https://www.anildash.com//2024/10/15/its-2004-again/"
     ]
   ],
   [
     [
-      "2024-11-08, 15:02:23",
-      "https://news.ycombinator.com/item?id=42087346"
+      "2024-11-08, 15:55:02",
+      "https://news.ycombinator.com/item?id=42087770"
     ],
     [
-      "TSMC will stop making 7 nm chips for Chinese customers",
-      "https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 14:40:27",
-      "https://news.ycombinator.com/item?id=42087182"
-    ],
-    [
-      "Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation",
-      "https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 14:37:10",
-      "https://news.ycombinator.com/item?id=42087147"
-    ],
-    [
-      "Ease of maintenance is a feature",
-      "https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/"
+      "The Weeds Are Winning",
+      "https://longreads.com/2024/11/07/the-weeds-are-winning/"
     ]
   ],
   [
@@ -57,16 +37,6 @@
     [
       "Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74",
       "https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 13:15:39",
-      "https://news.ycombinator.com/item?id=42086615"
-    ],
-    [
-      "How is the SSD installed – M4 Mac Mini (2024)",
-      "https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-11-07, 18:35:22",
+      "https://news.ycombinator.com/item?id=42079460"
+    ],
+    [
+      "QNX is now free for anything non-commercial, plus there's an RPi image",
+      "https://blackberry.qnx.com/en/products/qnx-everywhere"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 17:12:39",
       "https://news.ycombinator.com/item?id=42078581"
     ],
@@ -227,6 +207,16 @@
     [
       "Using Ghidra and Python to reverse engineer Ecco the Dolphin",
       "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 03:17:45",
+      "https://news.ycombinator.com/item?id=42073001"
+    ],
+    [
+      "I'm not mutable, I'm partially instantiated",
+      "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The evolution of nepotism in academia, 1088-1800",
       "https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 12:14:35",
+      "https://news.ycombinator.com/item?id=42016173"
+    ],
+    [
+      "Show HN: Nondeterministic finite queued dialog automaton",
+      "https://gitlab.com/z-s-e/nfqda"
     ]
   ]
 ]
