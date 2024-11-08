@@ -15,6 +15,7 @@
 * [2024-11-06, 21:10:39](https://news.ycombinator.com/item?id=42069453) - [Ollama 0.4 is released with support for Meta's Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 * [2024-11-06, 21:00:44](https://news.ycombinator.com/item?id=42069320) - [Exposure to phthalate compromises brain function in adult vertebrates](https://www.sciencedirect.com/science/article/pii/S0147651324012636)
 * [2024-11-06, 20:56:47](https://news.ycombinator.com/item?id=42069246) - [One year, 41M digits: How Luke Durant found the largest known prime number](https://www.washingtonpost.com/science/2024/10/23/nvidia-prime-mersenne-gpu-cloud/)
+* [2024-11-06, 20:06:29](https://news.ycombinator.com/item?id=42068510) - [Funding restored for man-page maintenance](https://lwn.net/Articles/997193/)
 * [2024-11-06, 20:04:41](https://news.ycombinator.com/item?id=42068485) - [Caring for yourself while caring for others](https://magazine.medlineplus.gov/article/caring-for-yourself-while-caring-for-others)
 * [2024-11-06, 19:33:49](https://news.ycombinator.com/item?id=42067973) - [Japan's declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
 * [2024-11-06, 19:29:56](https://news.ycombinator.com/item?id=42067918) - [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)

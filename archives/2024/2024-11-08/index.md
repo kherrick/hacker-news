@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
+* [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
 * [2024-11-08, 21:17:57](https://news.ycombinator.com/item?id=42090544) - [Apple Macintosh before System 7](https://earlymacintosh.org/)
 * [2024-11-08, 21:00:16](https://news.ycombinator.com/item?id=42090433) - [Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
 * [2024-11-08, 20:41:32](https://news.ycombinator.com/item?id=42090306) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
