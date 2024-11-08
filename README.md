@@ -29,7 +29,7 @@
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Roaring Bitmap Compression](https://arxiv.org/abs/1603.06549)
-* [2024-10-31, 21:13:16](https://news.ycombinator.com/item?id=42011573) - [From molecule to medicine, with Ross Rheingans-Yoo](https://www.complexsystemspodcast.com/episodes/drug-development-ross-rheingans-yoo/)
+* [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 
 ## [Archives](archives/index.md)
 
