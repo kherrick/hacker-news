@@ -55,6 +55,7 @@
 * [2024-11-03, 11:09:08](https://news.ycombinator.com/item?id=42032387) - [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
 * [2024-11-03, 09:32:13](https://news.ycombinator.com/item?id=42032065) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 09:27:22](https://news.ycombinator.com/item?id=42032035) - [Advances in Zero-Knowledge Proofs: Bridging the Gap Between Theory and Practice [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf)
+* [2024-11-03, 07:58:46](https://news.ycombinator.com/item?id=42031756) - [How to send a photo around the world in 1926 (2013)](https://gizmodo.com/how-to-send-a-photo-around-the-world-in-1926-533206646)
 * [2024-11-03, 07:58:03](https://news.ycombinator.com/item?id=42031753) - [Hacker News Explorer](https://chromewebstore.google.com/detail/hn-explorer/amiaaonefodebppoklclafmglnkleobk)
 * [2024-11-03, 06:33:16](https://news.ycombinator.com/item?id=42031476) - [AI overwhelmingly prefers white and male job candidates](https://www.geekwire.com/2024/ai-overwhelmingly-prefers-white-and-male-job-candidates-in-new-test-of-resume-screening-bias/)
 * [2024-11-03, 04:29:14](https://news.ycombinator.com/item?id=42031169) - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
