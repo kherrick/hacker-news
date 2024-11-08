@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 21:00:16](https://news.ycombinator.com/item?id=42090433) - [Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
 * [2024-11-08, 20:41:32](https://news.ycombinator.com/item?id=42090306) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
 * [2024-11-08, 20:12:43](https://news.ycombinator.com/item?id=42090087) - [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
 * [2024-11-08, 19:44:37](https://news.ycombinator.com/item?id=42089883) - [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
