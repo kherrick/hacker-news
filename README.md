@@ -23,13 +23,13 @@
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
-* [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, Engineer, Genius and Juggler?](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-03, 14:55:06](https://news.ycombinator.com/item?id=42033389) - [Show HN: Directional antenna alignment using phone motion sensors](https://star.conor.link/)
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Roaring Bitmap Compression](https://arxiv.org/abs/1603.06549)
+* [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
 
 ## [Archives](archives/index.md)
 
