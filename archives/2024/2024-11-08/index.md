@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 15:58:29](https://news.ycombinator.com/item?id=42087805) - [Thunderbird Turns 20 Years Old](https://updates.thunderbird.net/en-US/thunderbird/128.0/nov24/)
+* [2024-11-08, 15:17:05](https://news.ycombinator.com/item?id=42087478) - [Man sick of crashes sues Intel for allegedly hiding CPU defects](https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/)
 * [2024-11-08, 15:02:23](https://news.ycombinator.com/item?id=42087346) - [TSMC will stop making 7 nm chips for Chinese customers](https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/)
 * [2024-11-08, 14:40:27](https://news.ycombinator.com/item?id=42087182) - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
 * [2024-11-08, 14:37:10](https://news.ycombinator.com/item?id=42087147) - [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
