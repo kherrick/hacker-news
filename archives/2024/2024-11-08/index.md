@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
+* [2024-11-08, 17:37:18](https://news.ycombinator.com/item?id=42088731) - [Pirating \"The Pirate Bay\" TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
 * [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 * [2024-11-08, 17:00:41](https://news.ycombinator.com/item?id=42088382) - [Aviator (YC S21) Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
 * [2024-11-08, 16:45:39](https://news.ycombinator.com/item?id=42088250) - [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
@@ -21,6 +23,7 @@
 * [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 14:13:17](https://news.ycombinator.com/item?id=42086987) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
 * [2024-11-08, 13:15:39](https://news.ycombinator.com/item?id=42086615) - [How is the SSD installed – M4 Mac Mini (2024)](https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed)
+* [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to self-host all of Bluesky except the AppView (for now)](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to Self-Host All of Bluesky](https://alice.bsky.sh)
 * [2024-11-08, 13:11:47](https://news.ycombinator.com/item?id=42086577) - [Functional Programming in Go](https://bitfieldconsulting.com/posts/functional)
 * [2024-11-08, 13:07:24](https://news.ycombinator.com/item?id=42086555) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
