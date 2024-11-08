@@ -24,6 +24,7 @@
 * [2024-11-01, 19:17:56](https://news.ycombinator.com/item?id=42020538) - [Half of Young Voters Say They've Lied about Which Candidates They Support](https://www.msn.com/en-us/news/politics/half-of-young-voters-say-they-ve-lied-about-which-candidates-they-support-new-poll-finds/ar-AA1thZks)
 * [2024-11-01, 19:11:49](https://news.ycombinator.com/item?id=42020486) - [A 22 percent increase in the German minimum wage: nothing crazy](https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum)
 * [2024-11-01, 19:03:45](https://news.ycombinator.com/item?id=42020406) - [Budget Android (€99) vs. Expensive iPhone (€1000)](https://willem.com/blog/2018-10-09_using-a-budget-android-as-main-smartphone/)
+* [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Roaring Bitmap Compression](https://arxiv.org/abs/1603.06549)
 * [2024-11-01, 18:47:28](https://news.ycombinator.com/item?id=42020253) - [The Elimination Strategy – Why More Makes Your SaaS Worth Less](https://slimsaas.com/blog/elimination-strategy/)
 * [2024-11-01, 18:47:01](https://news.ycombinator.com/item?id=42020247) - [DuckDB over Pandas/Polars](https://www.pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
 * [2024-11-01, 18:32:28](https://news.ycombinator.com/item?id=42020103) - [Interview Gone Wrong](https://www.ashu1461.com/interview-gone-wrong/)
