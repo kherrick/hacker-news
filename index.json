@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-11-08, 00:56:49",
-      "https://news.ycombinator.com/item?id=42082998"
-    ],
-    [
-      "FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant",
-      "https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 21:33:42",
       "https://news.ycombinator.com/item?id=42081309"
     ],
@@ -197,6 +187,16 @@
     [
       "Hyperlight: Virtual machine-based security for functions at scale",
       "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 16:25:40",
+      "https://news.ycombinator.com/item?id=42078067"
+    ],
+    [
+      "Show HN: BemiDB – Postgres read replica optimized for analytics",
+      "https://github.com/BemiHQ/BemiDB"
     ]
   ],
   [
