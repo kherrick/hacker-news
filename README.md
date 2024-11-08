@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 14:40:27](https://news.ycombinator.com/item?id=42087182) - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
+* [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 13:15:39](https://news.ycombinator.com/item?id=42086615) - [How is the SSD installed – M4 Mac Mini (2024)](https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed)
 * [2024-11-08, 13:07:24](https://news.ycombinator.com/item?id=42086555) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
@@ -18,8 +20,6 @@
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 * [2024-11-07, 17:06:28](https://news.ycombinator.com/item?id=42078536) - [Launch HN: Codebuff (YC F24) – CLI tool that writes code for you](https://news.ycombinator.com/item?id=42078536)
-* [2024-11-07, 17:01:31](https://news.ycombinator.com/item?id=42078476) - [Hyperlight: Virtual machine-based security for functions at scale](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
-* [2024-11-07, 16:25:40](https://news.ycombinator.com/item?id=42078067) - [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [AI for real-time fusion plasma behavior prediction and manipulation](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
