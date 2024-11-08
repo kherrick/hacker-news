@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 21:55:40](https://news.ycombinator.com/item?id=42090771) - [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
 * [2024-11-08, 21:17:57](https://news.ycombinator.com/item?id=42090544) - [Apple Macintosh before System 7](https://earlymacintosh.org/)
 * [2024-11-08, 21:00:16](https://news.ycombinator.com/item?id=42090433) - [Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
+* [2024-11-08, 20:59:47](https://news.ycombinator.com/item?id=42090430) - [I Quit Google to Work for Myself (2018)](https://mtlynch.io/why-i-quit-google/)
 * [2024-11-08, 19:28:23](https://news.ycombinator.com/item?id=42089740) - [Algol-68 seemed like a good idea – until it wasn't](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 18:23:00](https://news.ycombinator.com/item?id=42089196) - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
-* [2024-11-08, 17:43:42](https://news.ycombinator.com/item?id=42088789) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
 * [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 * [2024-11-08, 16:45:39](https://news.ycombinator.com/item?id=42088250) - [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
@@ -29,7 +30,6 @@
 * [2024-11-03, 17:38:11](https://news.ycombinator.com/item?id=42034559) - [Tracing Colonial Mexico with Maps and Ink (2020)](https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
-* [2024-11-01, 12:14:35](https://news.ycombinator.com/item?id=42016173) - [Show HN: Nondeterministic finite queued dialog automaton](https://gitlab.com/z-s-e/nfqda)
 
 ## [Archives](archives/index.md)
 
