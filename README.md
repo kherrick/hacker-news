@@ -20,16 +20,16 @@
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
+* [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-06, 08:31:42](https://news.ycombinator.com/item?id=42058097) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
-* [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-03, 14:55:06](https://news.ycombinator.com/item?id=42033389) - [Show HN: Directional antenna alignment using phone motion sensors](https://star.conor.link/)
-* [2024-11-03, 07:58:46](https://news.ycombinator.com/item?id=42031756) - [How to send a photo around the world in 1926 (2013)](https://gizmodo.com/how-to-send-a-photo-around-the-world-in-1926-533206646)
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
+* [2024-11-01, 01:07:56](https://news.ycombinator.com/item?id=42013109) - [Automat](https://automat.org)
 
 ## [Archives](archives/index.md)
 
