@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 20:41:32](https://news.ycombinator.com/item?id=42090306) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
 * [2024-11-08, 20:12:43](https://news.ycombinator.com/item?id=42090087) - [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
+* [2024-11-08, 18:23:00](https://news.ycombinator.com/item?id=42089196) - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
 * [2024-11-08, 17:43:42](https://news.ycombinator.com/item?id=42088789) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
 * [2024-11-08, 17:37:18](https://news.ycombinator.com/item?id=42088731) - [Pirating \"The Pirate Bay\" TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
@@ -11,9 +13,8 @@
 * [2024-11-08, 15:29:27](https://news.ycombinator.com/item?id=42087560) - [Making Electronic Calipers](https://kevinlynagh.com/calipertron/)
 * [2024-11-08, 15:22:16](https://news.ycombinator.com/item?id=42087517) - [Gravity's Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)
 * [2024-11-08, 14:57:14](https://news.ycombinator.com/item?id=42087309) - [The Cybergypsies (Indra Sinha, 1999)](https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/)
-* [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
+* [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, voice of AOL's 'you've got mail' alert, has died](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 14:13:17](https://news.ycombinator.com/item?id=42086987) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
-* [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to self-host all of Bluesky except the AppView (for now)](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
@@ -27,7 +28,6 @@
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 17:38:11](https://news.ycombinator.com/item?id=42034559) - [Tracing Colonial Mexico with Maps and Ink (2020)](https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
-* [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 * [2024-11-01, 12:14:35](https://news.ycombinator.com/item?id=42016173) - [Show HN: Nondeterministic finite queued dialog automaton](https://gitlab.com/z-s-e/nfqda)
 
