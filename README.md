@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-08, 16:21:41](https://news.ycombinator.com/item?id=42088024) - [How Much Porn Are We Watching? A Lot](https://thewalrus.ca/when-porn-becomes-communal/)
 * [2024-11-08, 16:12:56](https://news.ycombinator.com/item?id=42087932) - [First image of our Milky Way's black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
 * [2024-11-08, 15:59:12](https://news.ycombinator.com/item?id=42087811) - [It feels like 2004 again](https://www.anildash.com//2024/10/15/its-2004-again/)
 * [2024-11-08, 15:55:02](https://news.ycombinator.com/item?id=42087770) - [The Weeds Are Winning](https://longreads.com/2024/11/07/the-weeds-are-winning/)
@@ -23,6 +22,7 @@
 * [2024-11-07, 17:06:28](https://news.ycombinator.com/item?id=42078536) - [Launch HN: Codebuff (YC F24) – CLI tool that writes code for you](https://news.ycombinator.com/item?id=42078536)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [AI for real-time fusion plasma behavior prediction and manipulation](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
+* [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-04, 18:47:14](https://news.ycombinator.com/item?id=42044781) - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, Engineer, Genius and Juggler? (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
