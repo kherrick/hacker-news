@@ -46,6 +46,7 @@
 * [2024-11-06, 08:31:42](https://news.ycombinator.com/item?id=42058097) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 * [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter (Oct 2024)](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
+* [2024-11-06, 07:28:56](https://news.ycombinator.com/item?id=42057841) - [How to Flatten nested JSON arrays (2024)](https://datazip.io/blog/flatten-array/)
 * [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
 * [2024-11-06, 06:49:49](https://news.ycombinator.com/item?id=42057647) - [Trump wins presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 * [2024-11-06, 06:40:56](https://news.ycombinator.com/item?id=42057597) - [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)
