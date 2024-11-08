@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-08, 14:40:27",
+      "https://news.ycombinator.com/item?id=42087182"
+    ],
+    [
+      "Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation",
+      "https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 14:29:09",
+      "https://news.ycombinator.com/item?id=42087087"
+    ],
+    [
+      "Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74",
+      "https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 13:15:39",
       "https://news.ycombinator.com/item?id=42086615"
     ],
@@ -177,26 +197,6 @@
     [
       "Launch HN: Codebuff (YC F24) – CLI tool that writes code for you",
       "https://news.ycombinator.com/item?id=42078536"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 17:01:31",
-      "https://news.ycombinator.com/item?id=42078476"
-    ],
-    [
-      "Hyperlight: Virtual machine-based security for functions at scale",
-      "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 16:25:40",
-      "https://news.ycombinator.com/item?id=42078067"
-    ],
-    [
-      "Show HN: BemiDB – Postgres read replica optimized for analytics",
-      "https://github.com/BemiHQ/BemiDB"
     ]
   ],
   [
