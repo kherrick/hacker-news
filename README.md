@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-08, 06:48:48](https://news.ycombinator.com/item?id=42084753) - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
+* [2024-11-08, 05:15:58](https://news.ycombinator.com/item?id=42084369) - [Corinthian Bronze](https://en.wikipedia.org/wiki/Corinthian_bronze)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-08, 01:47:01](https://news.ycombinator.com/item?id=42083292) - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
@@ -19,7 +20,6 @@
 * [2024-11-07, 16:25:40](https://news.ycombinator.com/item?id=42078067) - [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [AI for real-time fusion plasma behavior prediction and manipulation](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/)
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
-* [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
