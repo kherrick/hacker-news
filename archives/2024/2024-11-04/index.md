@@ -25,6 +25,7 @@
 * [2024-11-04, 19:24:50](https://news.ycombinator.com/item?id=42045140) - [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
 * [2024-11-04, 19:16:32](https://news.ycombinator.com/item?id=42045046) - [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
+* [2024-11-04, 18:47:14](https://news.ycombinator.com/item?id=42044781) - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
