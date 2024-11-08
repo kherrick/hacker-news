@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 20:12:43](https://news.ycombinator.com/item?id=42090087) - [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
 * [2024-11-08, 19:44:37](https://news.ycombinator.com/item?id=42089883) - [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
 * [2024-11-08, 17:43:42](https://news.ycombinator.com/item?id=42088789) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
@@ -22,7 +23,6 @@
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA proposes ending use of oral phenylephrine as OTC nasal decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
-* [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops suspect iOS 18 iPhones are communicating to force reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
 * [2024-11-07, 21:33:42](https://news.ycombinator.com/item?id=42081309) - [The Charms of Catastrophe (1978)](https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/)
 * [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
