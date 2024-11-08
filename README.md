@@ -23,12 +23,12 @@
 * [2024-11-07, 21:33:42](https://news.ycombinator.com/item?id=42081309) - [The Charms of Catastrophe (1978)](https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/)
 * [2024-11-07, 20:06:39](https://news.ycombinator.com/item?id=42080377) - [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
 * [2024-11-07, 17:12:39](https://news.ycombinator.com/item?id=42078581) - [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
-* [2024-11-04, 15:20:07](https://news.ycombinator.com/item?id=42042304) - [Parsing arguments in Rust with no dependencies](https://ntietz.com/blog/parsing-arguments-rust-no-deps/)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, Engineer, Genius and Juggler? (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Consistently faster and smaller compressed bitmaps with Roaring (2016)](https://arxiv.org/abs/1603.06549)
+* [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 * [2024-11-01, 12:14:35](https://news.ycombinator.com/item?id=42016173) - [Show HN: Nondeterministic finite queued dialog automaton](https://gitlab.com/z-s-e/nfqda)
 
 ## [Archives](archives/index.md)
