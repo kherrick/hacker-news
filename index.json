@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-08, 02:49:47",
-      "https://news.ycombinator.com/item?id=42083630"
-    ],
-    [
-      "Kagi Translate",
-      "https://translate.kagi.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 02:37:02",
       "https://news.ycombinator.com/item?id=42083559"
     ],
@@ -277,6 +267,16 @@
     [
       "Practical Radio Circuits (2003) [pdf]",
       "https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 22:14:12",
+      "https://news.ycombinator.com/item?id=42022088"
+    ],
+    [
+      "Linux Syscall Support",
+      "https://chromium.googlesource.com/linux-syscall-support/"
     ]
   ],
   [
