@@ -76,6 +76,7 @@
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 * [2024-11-01, 12:54:14](https://news.ycombinator.com/item?id=42016478) - [Alexander the Great's tunic identified in royal tomb at Vergina?](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503)
 * [2024-11-01, 12:21:42](https://news.ycombinator.com/item?id=42016225) - [Crowds gather in Dublin for fake Halloween parade posted on social media](https://www.thejournal.ie/dublin-fake-halloween-parade-6529584-Oct2024/)
+* [2024-11-01, 12:14:35](https://news.ycombinator.com/item?id=42016173) - [Show HN: Nondeterministic finite queued dialog automaton](https://gitlab.com/z-s-e/nfqda)
 * [2024-11-01, 12:06:19](https://news.ycombinator.com/item?id=42016115) - [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)
 * [2024-11-01, 11:17:17](https://news.ycombinator.com/item?id=42015812) - [Ritonavir Form III: A Coincidental Concurrent Discovery](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01017)
 * [2024-11-01, 10:59:42](https://news.ycombinator.com/item?id=42015703) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
