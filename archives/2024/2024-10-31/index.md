@@ -10,6 +10,7 @@
 * [2024-10-31, 21:34:34](https://news.ycombinator.com/item?id=42011770) - [Physical Intelligence's first generalist robotic model](https://www.physicalintelligence.company/blog/pi0?blog)
 * [2024-10-31, 21:15:48](https://news.ycombinator.com/item?id=42011599) - [A Font Book of Squiggles in Tristram Shandy](https://www.oneletterwords.com/tristram-shandy-squiggles/)
 * [2024-10-31, 21:13:28](https://news.ycombinator.com/item?id=42011575) - [The Backrooms Wiki](https://daytenrose.substack.com/p/26-the-backrooms-wiki)
+* [2024-10-31, 21:13:16](https://news.ycombinator.com/item?id=42011573) - [From molecule to medicine, with Ross Rheingans-Yoo](https://www.complexsystemspodcast.com/episodes/drug-development-ross-rheingans-yoo/)
 * [2024-10-31, 21:10:17](https://news.ycombinator.com/item?id=42011543) - [The Lines, They Are A-Changin'](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
 * [2024-10-31, 20:36:53](https://news.ycombinator.com/item?id=42011239) - [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-10-31, 20:32:03](https://news.ycombinator.com/item?id=42011193) - [Wait Until 8th](https://www.waituntil8th.org)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-08, 06:04:00](https://news.ycombinator.com/item?id=42084571) - [There's Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-08, 01:47:01](https://news.ycombinator.com/item?id=42083292) - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
@@ -30,6 +29,7 @@
 * [2024-11-01, 22:14:12](https://news.ycombinator.com/item?id=42022088) - [Linux Syscall Support](https://chromium.googlesource.com/linux-syscall-support/)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
 * [2024-11-01, 02:25:40](https://news.ycombinator.com/item?id=42013508) - [Ultraprecise method of aligning 3D semiconductor chips invented](https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html)
+* [2024-10-31, 21:13:16](https://news.ycombinator.com/item?id=42011573) - [From molecule to medicine, with Ross Rheingans-Yoo](https://www.complexsystemspodcast.com/episodes/drug-development-ross-rheingans-yoo/)
 
 ## [Archives](archives/index.md)
 
