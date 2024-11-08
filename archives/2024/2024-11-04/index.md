@@ -58,6 +58,7 @@
 * [2024-11-04, 14:00:59](https://news.ycombinator.com/item?id=42041581) - [Facebook Building Subsea Cable That Will Encompass the World](https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html)
 * [2024-11-04, 13:50:31](https://news.ycombinator.com/item?id=42041500) - [Large Language Models Are Changing Collective Intelligence Forever](https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html)
 * [2024-11-04, 13:36:18](https://news.ycombinator.com/item?id=42041397) - [Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices](https://fossforce.com/2024/11/once-linuxs-biggest-enemy-darl-mcbride-dies-and-nobody-notices/)
+* [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
 * [2024-11-04, 13:23:45](https://news.ycombinator.com/item?id=42041301) - [A 94x speed improvement demonstrated using handwritten assembly](https://twitter.com/FFmpeg/status/1852542388851601913)
 * [2024-11-04, 13:11:39](https://news.ycombinator.com/item?id=42041205) - [I feel that NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
 * [2024-11-04, 12:51:30](https://news.ycombinator.com/item?id=42041070) - [Rhombus: A New Spin on Macros (2023)](https://dl.acm.org/doi/10.1145/3622818)

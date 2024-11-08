@@ -23,11 +23,11 @@
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA proposes ending use of oral phenylephrine as OTC nasal decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
 * [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops suspect iOS 18 iPhones are communicating to force reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
 * [2024-11-07, 21:33:42](https://news.ycombinator.com/item?id=42081309) - [The Charms of Catastrophe (1978)](https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/)
+* [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
-* [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Consistently faster and smaller compressed bitmaps with Roaring (2016)](https://arxiv.org/abs/1603.06549)
 * [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 * [2024-11-01, 12:14:35](https://news.ycombinator.com/item?id=42016173) - [Show HN: Nondeterministic finite queued dialog automaton](https://gitlab.com/z-s-e/nfqda)
 
