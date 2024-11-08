@@ -25,10 +25,10 @@
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
 * [2024-11-04, 18:47:14](https://news.ycombinator.com/item?id=42044781) - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
-* [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, Engineer, Genius and Juggler?](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
+* [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, Engineer, Genius and Juggler? (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-01, 20:52:45](https://news.ycombinator.com/item?id=42021450) - [Functional ultrasound through the skull](https://brainhack.vercel.app/fus)
-* [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Roaring Bitmap Compression](https://arxiv.org/abs/1603.06549)
+* [2024-11-01, 18:57:07](https://news.ycombinator.com/item?id=42020345) - [Consistently faster and smaller compressed bitmaps with Roaring (2016)](https://arxiv.org/abs/1603.06549)
 * [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 
 ## [Archives](archives/index.md)
