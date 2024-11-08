@@ -40,6 +40,7 @@
 * [2024-11-02, 09:24:57](https://news.ycombinator.com/item?id=42025123) - [Rivian's chief software officer says in-car buttons are 'an anomaly'](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
 * [2024-11-02, 09:03:28](https://news.ycombinator.com/item?id=42025037) - [131M American Buildings](https://tech.marksblogg.com/ornl-fema-buildings.html)
 * [2024-11-02, 07:45:26](https://news.ycombinator.com/item?id=42024727) - [Weird Lexical Syntax](https://justine.lol/lex/)
+* [2024-11-02, 07:34:28](https://news.ycombinator.com/item?id=42024680) - [Practical Radio Circuits (2003) [pdf]](https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf)
 * [2024-11-02, 07:31:00](https://news.ycombinator.com/item?id=42024661) - [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
 * [2024-11-02, 07:00:44](https://news.ycombinator.com/item?id=42024554) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 * [2024-11-02, 06:44:41](https://news.ycombinator.com/item?id=42024501) - [Highly cited engineer offers guaranteed publication in return for coauthorship](https://retractionwatch.com/2024/10/30/highly-cited-engineer-offers-guaranteed-publication-citations-in-return-for-coauthorship/)
