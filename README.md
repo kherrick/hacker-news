@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:48:48](https://news.ycombinator.com/item?id=42084753) - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
@@ -8,7 +9,6 @@
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
 * [2024-11-08, 00:44:32](https://news.ycombinator.com/item?id=42082892) - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 * [2024-11-07, 23:50:58](https://news.ycombinator.com/item?id=42082498) - [Wild Ball](https://r3f-drei-rapier.surge.sh)
-* [2024-11-07, 20:42:10](https://news.ycombinator.com/item?id=42080747) - [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
 * [2024-11-07, 20:06:39](https://news.ycombinator.com/item?id=42080377) - [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
 * [2024-11-07, 19:05:11](https://news.ycombinator.com/item?id=42079758) - [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
