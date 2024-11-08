@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-08, 06:04:00",
+      "https://news.ycombinator.com/item?id=42084571"
+    ],
+    [
+      "There's Almost No Gitlab",
+      "https://julien.danjou.info/p/theres-almost-no-gitlab"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 02:37:02",
       "https://news.ycombinator.com/item?id=42083559"
     ],
@@ -227,16 +237,6 @@
     [
       "I'm not mutable, I'm partially instantiated",
       "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 08:30:26",
-      "https://news.ycombinator.com/item?id=42058091"
-    ],
-    [
-      "Perhaps Rust Needs \"Defer\"",
-      "https://gaultier.github.io/blog/perhaps_rust_needs_defer.html"
     ]
   ],
   [
