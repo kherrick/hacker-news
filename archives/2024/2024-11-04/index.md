@@ -78,6 +78,7 @@
 * [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)
 * [2024-11-04, 07:39:27](https://news.ycombinator.com/item?id=42039401) - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
+* [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-04, 06:30:00](https://news.ycombinator.com/item?id=42039053) - [Unfortunate things about performance reviews](http://rachelbythebay.com/w/2021/02/19/perf/)
 * [2024-11-04, 05:58:27](https://news.ycombinator.com/item?id=42038911) - [USB Insight Hub](https://www.crowdsupply.com/aerio-solutions/usb-insight-hub)
 * [2024-11-04, 05:38:52](https://news.ycombinator.com/item?id=42038821) - [Internet Archive \"Save Page Now\" has been re-enabled](https://web.archive.org/save/)
