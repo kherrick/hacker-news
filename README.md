@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 17:43:42](https://news.ycombinator.com/item?id=42088789) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
 * [2024-11-08, 17:37:18](https://news.ycombinator.com/item?id=42088731) - [Pirating \"The Pirate Bay\" TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
 * [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
@@ -10,7 +11,6 @@
 * [2024-11-08, 14:57:14](https://news.ycombinator.com/item?id=42087309) - [The Cybergypsies (Indra Sinha, 1999)](https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/)
 * [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 14:13:17](https://news.ycombinator.com/item?id=42086987) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
-* [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to self-host all of Bluesky except the AppView (for now)](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
