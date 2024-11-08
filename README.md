@@ -8,7 +8,7 @@
 * [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:54:22](https://news.ycombinator.com/item?id=42084779) - [The 'Invisibility Cloak' – Slash-Proc Magic](https://dfir.ch/posts/slash-proc/)
 * [2024-11-08, 06:48:48](https://news.ycombinator.com/item?id=42084753) - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
-* [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
+* [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 05:09:25](https://news.ycombinator.com/item?id=42084344) - [Intentrace: Strace for Everyone](https://github.com/sectordistrict/intentrace)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
