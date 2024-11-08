@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-11-08, 07:30:31",
+      "https://news.ycombinator.com/item?id=42084977"
+    ],
+    [
+      "Perceptually lossless (talking head) video compression at 22kbit/s",
+      "https://mlumiste.com/technical/liveportrait-compression/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 06:48:48",
       "https://news.ycombinator.com/item?id=42084753"
     ],
     [
       "Methodology is bullshit: principles for product velocity",
       "https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 05:15:58",
-      "https://news.ycombinator.com/item?id=42084369"
-    ],
-    [
-      "Corinthian Bronze",
-      "https://en.wikipedia.org/wiki/Corinthian_bronze"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Wild Ball",
       "https://r3f-drei-rapier.surge.sh"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 20:42:10",
-      "https://news.ycombinator.com/item?id=42080747"
-    ],
-    [
-      "Five minutes of exercise a day could lower blood pressure",
-      "https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Practical Radio Circuits (2003) [pdf]",
       "https://www.fracassi.net/iw2ntf/manuali/practical-radio-circuits-raymond-haigh.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 22:14:12",
+      "https://news.ycombinator.com/item?id=42022088"
+    ],
+    [
+      "Linux Syscall Support",
+      "https://chromium.googlesource.com/linux-syscall-support/"
     ]
   ],
   [
