@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:48:48](https://news.ycombinator.com/item?id=42084753) - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
 * [2024-11-08, 06:04:00](https://news.ycombinator.com/item?id=42084571) - [There's Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)
 * [2024-11-08, 05:15:58](https://news.ycombinator.com/item?id=42084369) - [Corinthian Bronze](https://en.wikipedia.org/wiki/Corinthian_bronze)
