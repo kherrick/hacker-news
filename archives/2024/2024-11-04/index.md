@@ -48,6 +48,7 @@
 * [2024-11-04, 15:27:54](https://news.ycombinator.com/item?id=42042401) - [Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,Perplexity](https://github.com/mem0ai/mem0-chrome-extension)
 * [2024-11-04, 15:26:32](https://news.ycombinator.com/item?id=42042382) - [What should a logo for NeXT look like? (1986)](https://www.paulrand.design/work/NeXT-Computers.html)
 * [2024-11-04, 15:26:17](https://news.ycombinator.com/item?id=42042379) - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
+* [2024-11-04, 15:20:07](https://news.ycombinator.com/item?id=42042304) - [Parsing arguments in Rust with no dependencies](https://ntietz.com/blog/parsing-arguments-rust-no-deps/)
 * [2024-11-04, 15:07:37](https://news.ycombinator.com/item?id=42042188) - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)
 * [2024-11-04, 14:58:12](https://news.ycombinator.com/item?id=42042082) - [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
 * [2024-11-04, 14:51:10](https://news.ycombinator.com/item?id=42042025) - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
