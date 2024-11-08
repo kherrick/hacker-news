@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 * [2024-11-08, 17:00:41](https://news.ycombinator.com/item?id=42088382) - [Aviator (YC S21) Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
 * [2024-11-08, 16:45:39](https://news.ycombinator.com/item?id=42088250) - [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
-* [2024-11-08, 16:12:56](https://news.ycombinator.com/item?id=42087932) - [First image of our Milky Way's black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
 * [2024-11-08, 15:55:02](https://news.ycombinator.com/item?id=42087770) - [The Weeds Are Winning](https://longreads.com/2024/11/07/the-weeds-are-winning/)
 * [2024-11-08, 15:22:16](https://news.ycombinator.com/item?id=42087517) - [Gravity's Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)
 * [2024-11-08, 14:57:14](https://news.ycombinator.com/item?id=42087309) - [The Cybergypsies (Indra Sinha, 1999)](https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/)
