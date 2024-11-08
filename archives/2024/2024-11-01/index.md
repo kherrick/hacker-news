@@ -54,6 +54,7 @@
 * [2024-11-01, 15:36:27](https://news.ycombinator.com/item?id=42018013) - [Apple Acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 * [2024-11-01, 15:25:03](https://news.ycombinator.com/item?id=42017833) - [Show HN: Ratarmount 1.0.0 – Rapid access to large archives via a FUSE filesystem](https://github.com/mxmlnkn/ratarmount)
 * [2024-11-01, 15:19:46](https://news.ycombinator.com/item?id=42017771) - [Using Large Language Models to Catch Vulnerabilities](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
+* [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 * [2024-11-01, 15:16:16](https://news.ycombinator.com/item?id=42017726) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html)
 * [2024-11-01, 15:10:51](https://news.ycombinator.com/item?id=42017670) - [Turn your phone or tablet into a chess clock](https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock)
 * [2024-11-01, 15:01:57](https://news.ycombinator.com/item?id=42017580) - [Ask HN: Who is hiring? (November 2024)](https://news.ycombinator.com/item?id=42017580)
