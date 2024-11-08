@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-11-08, 17:00:41",
+      "https://news.ycombinator.com/item?id=42088382"
+    ],
+    [
+      "Aviator (YC S21) Is hiring engineers to build a DevEx platform",
+      "https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 16:45:39",
+      "https://news.ycombinator.com/item?id=42088250"
+    ],
+    [
+      "Colors of the Court – NBA Uniforms",
+      "https://pudding.cool/2024/10/nba-uniforms/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 16:12:56",
       "https://news.ycombinator.com/item?id=42087932"
     ],
     [
       "First image of our Milky Way's black hole may be inaccurate, scientists say",
       "https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 15:59:12",
-      "https://news.ycombinator.com/item?id=42087811"
-    ],
-    [
-      "It feels like 2004 again",
-      "https://www.anildash.com//2024/10/15/its-2004-again/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "How to Self-Host All of Bluesky",
       "https://alice.bsky.sh"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 13:11:47",
+      "https://news.ycombinator.com/item?id=42086577"
+    ],
+    [
+      "Functional Programming in Go",
+      "https://bitfieldconsulting.com/posts/functional"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Multiple new macOS sandbox escape vulnerabilities",
       "https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 05:09:25",
-      "https://news.ycombinator.com/item?id=42084344"
-    ],
-    [
-      "Intentrace: Strace for Everyone",
-      "https://github.com/sectordistrict/intentrace"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I'm not mutable, I'm partially instantiated",
       "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 18:47:14",
-      "https://news.ycombinator.com/item?id=42044781"
-    ],
-    [
-      "Netflix is removing nearly all of its interactive titles",
-      "https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games"
     ]
   ],
   [
