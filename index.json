@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-08, 16:21:41",
-      "https://news.ycombinator.com/item?id=42088024"
-    ],
-    [
-      "How Much Porn Are We Watching? A Lot",
-      "https://thewalrus.ca/when-porn-becomes-communal/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 16:12:56",
       "https://news.ycombinator.com/item?id=42087932"
     ],
@@ -227,6 +217,16 @@
     [
       "Using Ghidra and Python to reverse engineer Ecco the Dolphin",
       "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 03:17:45",
+      "https://news.ycombinator.com/item?id=42073001"
+    ],
+    [
+      "I'm not mutable, I'm partially instantiated",
+      "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
     ]
   ],
   [
