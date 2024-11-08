@@ -30,6 +30,7 @@
 * [2024-11-03, 18:32:47](https://news.ycombinator.com/item?id=42035015) - [$200M a year, 700k tons of rice, space tech: deal for North Korea in joining war](https://www.koreaherald.com/view.php?ud=20241103050116)
 * [2024-11-03, 18:28:04](https://news.ycombinator.com/item?id=42034974) - [Commentary: Time to terminate the torture of time changes – Miami Herald](https://www.miamiherald.com/opinion/us-viewpoints/article294697994.html)
 * [2024-11-03, 17:52:25](https://news.ycombinator.com/item?id=42034675) - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
+* [2024-11-03, 17:38:11](https://news.ycombinator.com/item?id=42034559) - [Tracing Colonial Mexico with Maps and Ink (2020)](https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/)
 * [2024-11-03, 17:34:17](https://news.ycombinator.com/item?id=42034534) - [Engineers invent high-yield atmospheric water capture device for arid regions](https://techxplore.com/news/2024-10-high-yield-atmospheric-capture-device.html)
 * [2024-11-03, 17:32:52](https://news.ycombinator.com/item?id=42034521) - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 * [2024-11-03, 17:16:39](https://news.ycombinator.com/item?id=42034362) - [The DeskThing: the perfect desk assistant](https://github.com/ItsRiprod/DeskThing)
