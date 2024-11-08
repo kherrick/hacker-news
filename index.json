@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-08, 15:58:29",
+      "https://news.ycombinator.com/item?id=42087805"
+    ],
+    [
+      "Thunderbird Turns 20 Years Old",
+      "https://updates.thunderbird.net/en-US/thunderbird/128.0/nov24/"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 15:17:05",
+      "https://news.ycombinator.com/item?id=42087478"
+    ],
+    [
+      "Man sick of crashes sues Intel for allegedly hiding CPU defects",
+      "https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 15:02:23",
       "https://news.ycombinator.com/item?id=42087346"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-11-07, 18:35:22",
-      "https://news.ycombinator.com/item?id=42079460"
-    ],
-    [
-      "QNX is now free for anything non-commercial, plus there's an RPi image",
-      "https://blackberry.qnx.com/en/products/qnx-everywhere"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 17:12:39",
       "https://news.ycombinator.com/item?id=42078581"
     ],
@@ -217,16 +227,6 @@
     [
       "Using Ghidra and Python to reverse engineer Ecco the Dolphin",
       "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 03:17:45",
-      "https://news.ycombinator.com/item?id=42073001"
-    ],
-    [
-      "I'm not mutable, I'm partially instantiated",
-      "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
     ]
   ],
   [
