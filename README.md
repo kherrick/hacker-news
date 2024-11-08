@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 22:49:11](https://news.ycombinator.com/item?id=42091092) - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
 * [2024-11-08, 21:55:40](https://news.ycombinator.com/item?id=42090771) - [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
@@ -9,7 +10,6 @@
 * [2024-11-08, 19:28:23](https://news.ycombinator.com/item?id=42089740) - [Algol-68 seemed like a good idea – until it wasn't](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 18:23:00](https://news.ycombinator.com/item?id=42089196) - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
-* [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 * [2024-11-08, 16:45:39](https://news.ycombinator.com/item?id=42088250) - [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
 * [2024-11-08, 15:29:27](https://news.ycombinator.com/item?id=42087560) - [Making Electronic Calipers](https://kevinlynagh.com/calipertron/)
 * [2024-11-08, 15:22:16](https://news.ycombinator.com/item?id=42087517) - [Gravity's Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)

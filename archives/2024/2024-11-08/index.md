@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 22:49:11](https://news.ycombinator.com/item?id=42091092) - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
 * [2024-11-08, 21:55:40](https://news.ycombinator.com/item?id=42090771) - [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
