@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 06:04:00](https://news.ycombinator.com/item?id=42084571) - [There's Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)
 * [2024-11-08, 02:49:47](https://news.ycombinator.com/item?id=42083630) - [Kagi Translate](https://translate.kagi.com/)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)

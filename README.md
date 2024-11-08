@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 06:04:00](https://news.ycombinator.com/item?id=42084571) - [There's Almost No Gitlab](https://julien.danjou.info/p/theres-almost-no-gitlab)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-08, 01:47:01](https://news.ycombinator.com/item?id=42083292) - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
@@ -23,7 +24,6 @@
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
-* [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
 * [2024-11-04, 18:55:40](https://news.ycombinator.com/item?id=42044860) - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
 * [2024-11-03, 14:55:06](https://news.ycombinator.com/item?id=42033389) - [Show HN: Directional antenna alignment using phone motion sensors](https://star.conor.link/)
