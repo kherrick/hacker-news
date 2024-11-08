@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-07, 22:34:33",
-      "https://news.ycombinator.com/item?id=42081874"
+      "2024-11-08, 01:03:42",
+      "https://news.ycombinator.com/item?id=42083052"
     ],
     [
-      "Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots",
-      "https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/"
+      "Police Freak Out at iPhones Mysteriously Rebooting Themselves, Locking Cops Out",
+      "https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 00:44:32",
+      "https://news.ycombinator.com/item?id=42082892"
+    ],
+    [
+      "Ham Radio 101: What is WSPR?",
+      "https://www.onallbands.com/ham-radio-101-what-is-wspr/"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 23:50:58",
+      "https://news.ycombinator.com/item?id=42082498"
+    ],
+    [
+      "Wild Ball",
+      "https://r3f-drei-rapier.surge.sh"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-11-07, 21:18:55",
-      "https://news.ycombinator.com/item?id=42081157"
+      "2024-11-07, 22:00:27",
+      "https://news.ycombinator.com/item?id=42081574"
     ],
     [
-      "Sega is delisting 60 classic games from Steam, so now's the time to grab them",
-      "https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/"
+      "Tell HN: Telegram is most likely doing client side scanning; I quit Telegram",
+      "https://news.ycombinator.com/item?id=42081574"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-11-07, 19:32:04",
-      "https://news.ycombinator.com/item?id=42080012"
-    ],
-    [
-      "Kagi Translate",
-      "https://blog.kagi.com/kagi-translate"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 19:05:11",
       "https://news.ycombinator.com/item?id=42079758"
     ],
@@ -97,16 +107,6 @@
     [
       "QNX is now free for anything non-commercial, plus there's an RPi image",
       "https://blackberry.qnx.com/en/products/qnx-everywhere"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 18:20:10",
-      "https://news.ycombinator.com/item?id=42079301"
-    ],
-    [
-      "A counter-intuitive guide to better leadership",
-      "https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership"
     ]
   ],
   [
@@ -241,22 +241,32 @@
   ],
   [
     [
+      "2024-11-06, 08:31:42",
+      "https://news.ycombinator.com/item?id=42058097"
+    ],
+    [
+      "Turing kicked us out of Heaven (2023)",
+      "https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 08:30:26",
+      "https://news.ycombinator.com/item?id=42058091"
+    ],
+    [
+      "Perhaps Rust Needs \"Defer\"",
+      "https://gaultier.github.io/blog/perhaps_rust_needs_defer.html"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 14:55:06",
       "https://news.ycombinator.com/item?id=42033389"
     ],
     [
       "Show HN: Directional antenna alignment using phone motion sensors",
       "https://star.conor.link/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 09:50:53",
-      "https://news.ycombinator.com/item?id=42025233"
-    ],
-    [
-      "Cat Is Listening to You",
-      "https://nautil.us/your-cat-is-listening-to-you-1045745/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ultraprecise method of aligning 3D semiconductor chips invented",
       "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 01:07:56",
-      "https://news.ycombinator.com/item?id=42013109"
-    ],
-    [
-      "Automat",
-      "https://automat.org"
     ]
   ]
 ]
