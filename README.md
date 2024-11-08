@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-08, 02:49:47](https://news.ycombinator.com/item?id=42083630) - [Kagi Translate](https://translate.kagi.com/)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-08, 01:47:01](https://news.ycombinator.com/item?id=42083292) - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
@@ -21,7 +22,6 @@
 * [2024-11-07, 14:25:30](https://news.ycombinator.com/item?id=42076884) - [Using Ghidra and Python to reverse engineer Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin)
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from a conversation about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
-* [2024-11-07, 07:20:32](https://news.ycombinator.com/item?id=42074348) - [URAvatar: Universal Relightable Gaussian Codec Avatars](https://junxuan-li.github.io/urgca-website/)
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [The Brothers Grimm: A Biography](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 03:17:45](https://news.ycombinator.com/item?id=42073001) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-06, 08:31:42](https://news.ycombinator.com/item?id=42058097) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
