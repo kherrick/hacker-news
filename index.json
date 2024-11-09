@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42095879"
     ],
     [
-      "Jaws – a JavaScript to WASM ahead of time compiler",
+      "Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler",
       "https://github.com/drogus/jaws"
     ]
   ],
@@ -25,8 +25,8 @@
       "https://news.ycombinator.com/item?id=42095580"
     ],
     [
-      "OpenCoder: Open-Source LLM for Coding",
-      "https://arxiv.org/abs/2411.04905"
+      "OpenCoder: Open Cookbook for Top-Tier Code Large Language Models",
+      "https://opencoder-llm.github.io/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Trellis (YC W24) is hiring eng to turn documents into database",
       "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 16:38:08",
+      "https://news.ycombinator.com/item?id=42095302"
+    ],
+    [
+      "When machine learning tells the wrong story",
+      "https://jackcook.com/2024/11/09/bigger-fish.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Iterative α-(de)blending and Stochastic Interpolants",
       "http://nicktasios.nl/posts/iterative-alpha-deblending/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 09:06:00",
-      "https://news.ycombinator.com/item?id=42058345"
-    ],
-    [
-      "Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering",
-      "https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55"
     ]
   ],
   [
