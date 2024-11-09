@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 23:57:13](https://news.ycombinator.com/item?id=42091423) - [It's legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
+* [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
+* [2024-11-08, 23:08:02](https://news.ycombinator.com/item?id=42091181) - [Maelstrom: High-Performance Matrix Home-Server Written in Rust](https://github.com/maelstrom-rs/maelstrom)
 * [2024-11-08, 22:49:11](https://news.ycombinator.com/item?id=42091092) - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
 * [2024-11-08, 22:42:20](https://news.ycombinator.com/item?id=42091043) - [Claude AI to process secret government data through new Palantir deal](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/)
 * [2024-11-08, 21:55:40](https://news.ycombinator.com/item?id=42090771) - [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
+* [2024-11-08, 21:21:09](https://news.ycombinator.com/item?id=42090568) - [What does a scientist look like? Children drawing women more than ever before](https://www.science.org/content/article/what-does-scientist-look-children-are-drawing-women-more-ever)
 * [2024-11-08, 21:17:57](https://news.ycombinator.com/item?id=42090544) - [Apple Macintosh before System 7](https://earlymacintosh.org/)
 * [2024-11-08, 21:00:16](https://news.ycombinator.com/item?id=42090433) - [Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory](https://www.getzep.com/careers)
 * [2024-11-08, 20:59:47](https://news.ycombinator.com/item?id=42090430) - [I Quit Google to Work for Myself (2018)](https://mtlynch.io/why-i-quit-google/)

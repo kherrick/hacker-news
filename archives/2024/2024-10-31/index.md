@@ -33,6 +33,7 @@
 * [2024-10-31, 17:27:41](https://news.ycombinator.com/item?id=42009089) - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
 * [2024-10-31, 17:27:31](https://news.ycombinator.com/item?id=42009087) - [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
 * [2024-10-31, 17:23:08](https://news.ycombinator.com/item?id=42009039) - [Model Distillation in the API](https://openai.com/index/api-model-distillation/)
+* [2024-10-31, 17:10:07](https://news.ycombinator.com/item?id=42008891) - ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)
 * [2024-10-31, 17:05:32](https://news.ycombinator.com/item?id=42008826) - [Ford to Halt F-150 Lightning Production as EV Demand Wanes](https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes)
 * [2024-10-31, 17:01:53](https://news.ycombinator.com/item?id=42008775) - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
 * [2024-10-31, 17:01:46](https://news.ycombinator.com/item?id=42008772) - [Decoupling Design from Engineering](https://buttondown.com/defragmenter/archive/decoupling-design-from-engineering/)
