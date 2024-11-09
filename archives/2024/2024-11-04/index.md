@@ -6,6 +6,7 @@
 
 * [2024-11-04, 23:50:49](https://news.ycombinator.com/item?id=42047320) - [Low-poly image generation using evolutionary algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-04, 23:39:15](https://news.ycombinator.com/item?id=42047243) - [Aldebaran 1959 Spacecraft Concept](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
+* [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
 * [2024-11-04, 22:58:50](https://news.ycombinator.com/item?id=42046953) - [World's oldest tree? Genetic analysis traces evolution of iconic Pando forest](https://www.nature.com/articles/d41586-024-03570-4)
 * [2024-11-04, 22:52:55](https://news.ycombinator.com/item?id=42046902) - [Escape the Surveillance Web with Gemini](https://john.soban.ski/gemini.html)
 * [2024-11-04, 22:29:57](https://news.ycombinator.com/item?id=42046660) - [Employment Barometer in Germany Falls Further](https://www.ifo.de/en/facts/2024-11-04/employment-barometer-germany-falls-further-october-2024)
@@ -21,6 +22,7 @@
 * [2024-11-04, 20:23:48](https://news.ycombinator.com/item?id=42045658) - [Poor Sleep in Midlife Is Linked to Faster Brain Atrophy](https://www.ucsf.edu/news/2024/10/428701/poor-sleep-midlife-linked-faster-brain-atrophy)
 * [2024-11-04, 20:05:19](https://news.ycombinator.com/item?id=42045509) - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 * [2024-11-04, 20:01:57](https://news.ycombinator.com/item?id=42045477) - [Blog Writing for Developers (2023)](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
+* [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
 * [2024-11-04, 19:49:03](https://news.ycombinator.com/item?id=42045367) - [Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7)
 * [2024-11-04, 19:32:44](https://news.ycombinator.com/item?id=42045212) - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
 * [2024-11-04, 19:24:50](https://news.ycombinator.com/item?id=42045140) - [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
