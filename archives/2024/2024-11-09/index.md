@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
+* [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
 * [2024-11-09, 17:01:20](https://news.ycombinator.com/item?id=42095454) - [20 Years Ago Today: 'Firefox Browser Takes on Microsoft'](https://news.slashdot.org/story/24/11/09/0531257/20-years-ago-today-firefox-browser-takes-on-microsoft)
 * [2024-11-09, 17:01:12](https://news.ycombinator.com/item?id=42095453) - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
