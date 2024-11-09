@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 * [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
 * [2024-11-09, 12:43:28](https://news.ycombinator.com/item?id=42094122) - ['A disabled South Park character from 24 years ago is getting me harassed today'](https://www.bbc.com/news/articles/c9dl0nqdl10o)
