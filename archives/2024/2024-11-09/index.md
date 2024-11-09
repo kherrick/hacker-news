@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 19:04:48](https://news.ycombinator.com/item?id=42096208) - [DNA firm [Atlas Biomed] holding highly sensitive data 'vanishes' without warning](https://www.bbc.co.uk/news/articles/cz7wl7rpndjo)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
+* [2024-11-09, 17:13:02](https://news.ycombinator.com/item?id=42095513) - [There aren't enough smart people in biology doing something boring](https://www.owlposting.com/p/there-arent-enough-smart-people-in)
 * [2024-11-09, 17:01:20](https://news.ycombinator.com/item?id=42095454) - [20 Years Ago Today: 'Firefox Browser Takes on Microsoft'](https://news.slashdot.org/story/24/11/09/0531257/20-years-ago-today-firefox-browser-takes-on-microsoft)
 * [2024-11-09, 17:01:12](https://news.ycombinator.com/item?id=42095453) - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-11-09, 16:47:58](https://news.ycombinator.com/item?id=42095374) - [Following Wyoming Example, Feds Limit Foreign Crypto Mines Near Military Bases](https://cowboystatedaily.com/2024/11/08/following-wyoming-example-feds-limit-foreign-crypto-mines-near-military-bases/)
 * [2024-11-09, 16:46:14](https://news.ycombinator.com/item?id=42095362) - [Australia to ban under-16s from social media – but can't say how TikTok](https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it)
 * [2024-11-09, 16:40:48](https://news.ycombinator.com/item?id=42095319) - [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 * [2024-11-09, 16:38:08](https://news.ycombinator.com/item?id=42095302) - [When machine learning tells the wrong story](https://jackcook.com/2024/11/09/bigger-fish.html)
+* [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 * [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
 * [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:25:34](https://news.ycombinator.com/item?id=42094589) - [Defending the Tor network: Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
