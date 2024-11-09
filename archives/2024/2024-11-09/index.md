@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 10:06:44](https://news.ycombinator.com/item?id=42093560) - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)

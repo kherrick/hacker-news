@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 10:06:44](https://news.ycombinator.com/item?id=42093560) - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
@@ -14,7 +15,6 @@
 * [2024-11-08, 20:59:47](https://news.ycombinator.com/item?id=42090430) - [I quit Google to work for myself (2018)](https://mtlynch.io/why-i-quit-google/)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
 * [2024-11-08, 15:29:27](https://news.ycombinator.com/item?id=42087560) - [Making Electronic Calipers](https://kevinlynagh.com/calipertron/)
-* [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
