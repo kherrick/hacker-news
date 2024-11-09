@@ -55,6 +55,7 @@
 * [2024-11-05, 13:06:57](https://news.ycombinator.com/item?id=42051197) - [State of Python 3.13 Performance: Free-Threading](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading)
 * [2024-11-05, 12:50:16](https://news.ycombinator.com/item?id=42051098) - [Google Is Now Watermarking Its AI-Generated Text](https://spectrum.ieee.org/watermark)
 * [2024-11-05, 12:30:57](https://news.ycombinator.com/item?id=42051005) - [Git Config](https://blog.izissise.net/posts/gitconfig/)
+* [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
