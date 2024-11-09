@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-09, 19:17:04](https://news.ycombinator.com/item?id=42096269) - [Study reveals superbug MRSA's double defense against antibiotics](https://phys.org/news/2024-10-mrsa-defense-antibiotics-superbug-evolved.html)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
@@ -20,6 +19,7 @@
 * [2024-11-07, 17:00:38](https://news.ycombinator.com/item?id=42078469) - [Since the '60s, Ford has stored cars underground in a Kansas City cave](https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/)
 * [2024-11-07, 10:39:05](https://news.ycombinator.com/item?id=42075467) - [Lynis – Security auditing and hardening tool, for Unix-based systems](https://github.com/CISOfy/lynis)
 * [2024-11-07, 04:29:25](https://news.ycombinator.com/item?id=42073406) - [Calculating at Pencil and Paper Scale](https://win-vector.com/2024/11/06/calculating-at-pencil-and-paper-scale/)
+* [2024-11-06, 09:52:03](https://news.ycombinator.com/item?id=42058888) - [Iterative α-(de)blending and Stochastic Interpolants](http://nicktasios.nl/posts/iterative-alpha-deblending/)
 * [2024-11-06, 09:06:00](https://news.ycombinator.com/item?id=42058345) - [Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering](https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55)
 * [2024-11-06, 01:29:34](https://news.ycombinator.com/item?id=42056654) - [Using Two ReMarkables](https://www.ohrg.org/using-two-remarkables)
 * [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
