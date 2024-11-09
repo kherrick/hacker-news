@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 14:41:22",
+      "https://news.ycombinator.com/item?id=42094663"
+    ],
+    [
+      "PSA: SQLite does not do checksums",
+      "https://avi.im/blag/2024/sqlite-bit-flip/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 14:23:30",
       "https://news.ycombinator.com/item?id=42094573"
     ],
@@ -247,16 +257,6 @@
     [
       "A CC-By Open-Source TTS Model with Voice Cloning",
       "https://huggingface.co/OuteAI/OuteTTS-0.1-350M"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 13:30:57",
-      "https://news.ycombinator.com/item?id=42041355"
-    ],
-    [
-      "Python Logic Simulation Library",
-      "https://github.com/cjdrake/seqlogic"
     ]
   ],
   [
