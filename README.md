@@ -17,7 +17,6 @@
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
-* [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-06, 20:06:29](https://news.ycombinator.com/item?id=42068510) - [Funding restored for man-page maintenance](https://lwn.net/Articles/997193/)
@@ -29,6 +28,7 @@
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
+* [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 * [2024-10-31, 17:10:07](https://news.ycombinator.com/item?id=42008891) - ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)
 
 ## [Archives](archives/index.md)
