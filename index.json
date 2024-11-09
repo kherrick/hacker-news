@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-11-08, 07:30:31",
-      "https://news.ycombinator.com/item?id=42084977"
-    ],
-    [
-      "Perceptually lossless (talking head) video compression at 22kbit/s",
-      "https://mlumiste.com/technical/liveportrait-compression/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 06:10:14",
       "https://news.ycombinator.com/item?id=42084588"
     ],
@@ -217,6 +207,16 @@
     [
       "Funding restored for man-page maintenance",
       "https://lwn.net/Articles/997193/"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 17:36:17",
+      "https://news.ycombinator.com/item?id=42043967"
+    ],
+    [
+      "A CC-By Open-Source TTS Model with Voice Cloning",
+      "https://huggingface.co/OuteAI/OuteTTS-0.1-350M"
     ]
   ],
   [
