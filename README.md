@@ -20,6 +20,7 @@
 * [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+* [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops suspect iOS 18 iPhones are communicating to force reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
 * [2024-11-06, 20:06:29](https://news.ycombinator.com/item?id=42068510) - [Funding restored for man-page maintenance](https://lwn.net/Articles/997193/)
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-04, 17:36:17](https://news.ycombinator.com/item?id=42043967) - [A CC-By Open-Source TTS Model with Voice Cloning](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)
@@ -28,7 +29,6 @@
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
-* [2024-11-01, 14:54:08](https://news.ycombinator.com/item?id=42017504) - [Throbac: THrifty Roman numeral BAckwards-looking Computer](https://mitmuseum.mit.edu/collections/object/2007.030.011)
 * [2024-10-31, 17:10:07](https://news.ycombinator.com/item?id=42008891) - ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)
 
 ## [Archives](archives/index.md)
