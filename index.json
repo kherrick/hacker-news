@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-09, 17:01:12",
+      "https://news.ycombinator.com/item?id=42095453"
+    ],
+    [
+      "Trellis (YC W24) is hiring eng to turn documents into database",
+      "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 16:47:58",
       "https://news.ycombinator.com/item?id=42095374"
     ],
     [
       "Following Wyoming Example, Feds Limit Foreign Crypto Mines Near Military Bases",
       "https://cowboystatedaily.com/2024/11/08/following-wyoming-example-feds-limit-foreign-crypto-mines-near-military-bases/"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 16:40:48",
+      "https://news.ycombinator.com/item?id=42095319"
+    ],
+    [
+      "A brief history of privacy protection on Macs",
+      "https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-11-09, 14:41:22",
-      "https://news.ycombinator.com/item?id=42094663"
+      "2024-11-09, 14:25:34",
+      "https://news.ycombinator.com/item?id=42094589"
     ],
     [
-      "SQLite does not do checksums",
-      "https://avi.im/blag/2024/sqlite-bit-flip/"
+      "Defending the Tor network: Mitigating IP spoofing against Tor",
+      "https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-11-09, 05:28:16",
-      "https://news.ycombinator.com/item?id=42092700"
-    ],
-    [
-      "Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]",
-      "https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 23:46:46",
       "https://news.ycombinator.com/item?id=42091365"
     ],
@@ -127,16 +137,6 @@
     [
       "Notes on Guyana",
       "https://mattlakeman.org/2024/11/08/notes-on-guyana/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 21:00:16",
-      "https://news.ycombinator.com/item?id=42090433"
-    ],
-    [
-      "Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory",
-      "https://www.getzep.com/careers"
     ]
   ],
   [
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2024-11-08, 15:29:27",
-      "https://news.ycombinator.com/item?id=42087560"
-    ],
-    [
-      "Making Electronic Calipers",
-      "https://kevinlynagh.com/calipertron/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 15:22:16",
       "https://news.ycombinator.com/item?id=42087517"
     ],
     [
       "Gravity's Eastern Voyage",
       "https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 17:00:38",
+      "https://news.ycombinator.com/item?id=42078469"
+    ],
+    [
+      "Since the '60s, Ford has stored cars underground in a Kansas City cave",
+      "https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2024-11-06, 10:40:39",
-      "https://news.ycombinator.com/item?id=42059650"
+      "2024-11-06, 22:51:35",
+      "https://news.ycombinator.com/item?id=42070807"
     ],
     [
-      "Optimize Database Performance in Ruby on Rails and ActiveRecord",
-      "https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html"
+      "Writing Tiny Desktop Apps in C and GTK3 (2022)",
+      "https://danielc.dev/blog/tiny-windows-linux-gtk-apps/"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering",
       "https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 01:29:34",
+      "https://news.ycombinator.com/item?id=42056654"
+    ],
+    [
+      "Using Two ReMarkables",
+      "https://www.ohrg.org/using-two-remarkables"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A CC-By Open-Source TTS Model with Voice Cloning",
       "https://huggingface.co/OuteAI/OuteTTS-0.1-350M"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 08:14:14",
-      "https://news.ycombinator.com/item?id=42039574"
-    ],
-    [
-      "Earth endured over one million years of rain in the \"Carnian Pluvial Event\"",
-      "https://www.earth.com/news/earth-endured-a-million-years-of-rain-in-the-carnian-pluvial-event/"
     ]
   ],
   [
