@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
@@ -25,7 +26,6 @@
 * [2024-11-06, 09:06:00](https://news.ycombinator.com/item?id=42058345) - [Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering](https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55)
 * [2024-11-04, 20:47:39](https://news.ycombinator.com/item?id=42045830) - [The Saturn V FUELDRAULIC Gimbal System (1963)](https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system)
 * [2024-11-04, 17:36:17](https://news.ycombinator.com/item?id=42043967) - [A CC-By Open-Source TTS Model with Voice Cloning](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)
-* [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
