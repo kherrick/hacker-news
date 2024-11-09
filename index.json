@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-11-08, 21:00:16",
-      "https://news.ycombinator.com/item?id=42090433"
-    ],
-    [
-      "Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory",
-      "https://www.getzep.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 20:59:47",
       "https://news.ycombinator.com/item?id=42090430"
     ],
@@ -247,6 +237,16 @@
     [
       "A CC-By Open-Source TTS Model with Voice Cloning",
       "https://huggingface.co/OuteAI/OuteTTS-0.1-350M"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 13:30:57",
+      "https://news.ycombinator.com/item?id=42041355"
+    ],
+    [
+      "Python Logic Simulation Library",
+      "https://github.com/cjdrake/seqlogic"
     ]
   ],
   [
