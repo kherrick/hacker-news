@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-09, 18:14:30",
+      "https://news.ycombinator.com/item?id=42095879"
+    ],
+    [
+      "Jaws – a JavaScript to WASM ahead of time compiler",
+      "https://github.com/drogus/jaws"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 17:55:29",
+      "https://news.ycombinator.com/item?id=42095752"
+    ],
+    [
+      "Windows Process Injection",
+      "https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 17:27:30",
       "https://news.ycombinator.com/item?id=42095580"
     ],
@@ -17,36 +37,6 @@
     [
       "Trellis (YC W24) is hiring eng to turn documents into database",
       "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 16:46:14",
-      "https://news.ycombinator.com/item?id=42095362"
-    ],
-    [
-      "Australia to ban under-16s from social media – but can't say how TikTok",
-      "https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 16:40:48",
-      "https://news.ycombinator.com/item?id=42095319"
-    ],
-    [
-      "A brief history of privacy protection on Macs",
-      "https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 16:38:08",
-      "https://news.ycombinator.com/item?id=42095302"
-    ],
-    [
-      "When machine learning tells the wrong story",
-      "https://jackcook.com/2024/11/09/bigger-fish.html"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Mitochondria Are Alive",
       "https://www.asimov.press/p/mitochondria"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 15:29:27",
+      "https://news.ycombinator.com/item?id=42087560"
+    ],
+    [
+      "Making Electronic Calipers",
+      "https://kevinlynagh.com/calipertron/"
     ]
   ],
   [
