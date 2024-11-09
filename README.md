@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
@@ -17,7 +18,6 @@
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
-* [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-07, 17:00:38](https://news.ycombinator.com/item?id=42078469) - [Since the '60s, Ford has stored cars underground in a Kansas City cave](https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/)
 * [2024-11-06, 01:29:34](https://news.ycombinator.com/item?id=42056654) - [Using Two ReMarkables](https://www.ohrg.org/using-two-remarkables)
