@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-11-09, 15:47:29",
+      "https://news.ycombinator.com/item?id=42095012"
+    ],
+    [
+      "SQLite is not a single connection database",
+      "https://igorstechnoclub.com/most-common-sqlite-misconception/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 14:41:22",
       "https://news.ycombinator.com/item?id=42094663"
     ],
     [
-      "PSA: SQLite does not do checksums",
+      "SQLite does not do checksums",
       "https://avi.im/blag/2024/sqlite-bit-flip/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Mergiraf: a syntax-aware merge driver for Git",
       "https://mergiraf.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 09:59:29",
-      "https://news.ycombinator.com/item?id=42093541"
-    ],
-    [
-      "Cache Directory Tagging Specification (2004)",
-      "https://bford.info/cachedir/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-11-04, 08:14:14",
+      "https://news.ycombinator.com/item?id=42039574"
+    ],
+    [
+      "Earth endured over one million years of rain in the \"Carnian Pluvial Event\"",
+      "https://www.earth.com/news/earth-endured-a-million-years-of-rain-in-the-carnian-pluvial-event/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 06:56:23",
       "https://news.ycombinator.com/item?id=42039184"
     ],
@@ -287,16 +297,6 @@
     [
       "Obtainium: Get Android App Updates Directly from the Source",
       "https://obtainium.imranr.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 17:10:07",
-      "https://news.ycombinator.com/item?id=42008891"
-    ],
-    [
-      "'Smart' insulin prevents diabetic highs – and deadly lows",
-      "https://www.nature.com/articles/d41586-024-03357-7#ref-CR1"
     ]
   ]
 ]
