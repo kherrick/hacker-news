@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-08, 23:57:13",
+      "https://news.ycombinator.com/item?id=42091423"
+    ],
+    [
+      "It's legal for police to use deception in interrogations. Some want that to end",
+      "https://text.npr.org/nx-s1-4974964"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 23:46:46",
+      "https://news.ycombinator.com/item?id=42091365"
+    ],
+    [
+      "Delta: A syntax-highlighting pager for Git, diff, grep, and blame output",
+      "https://github.com/dandavison/delta"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 23:08:02",
+      "https://news.ycombinator.com/item?id=42091181"
+    ],
+    [
+      "Maelstrom: High-Performance Matrix Home-Server Written in Rust",
+      "https://github.com/maelstrom-rs/maelstrom"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 22:49:11",
       "https://news.ycombinator.com/item?id=42091092"
     ],
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2024-11-08, 21:21:09",
+      "https://news.ycombinator.com/item?id=42090568"
+    ],
+    [
+      "What does a scientist look like? Children drawing women more than ever before",
+      "https://www.science.org/content/article/what-does-scientist-look-children-are-drawing-women-more-ever"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 21:17:57",
       "https://news.ycombinator.com/item?id=42090544"
     ],
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42090430"
     ],
     [
-      "I Quit Google to Work for Myself (2018)",
+      "I quit Google to work for myself (2018)",
       "https://mtlynch.io/why-i-quit-google/"
     ]
   ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2024-11-08, 16:45:39",
-      "https://news.ycombinator.com/item?id=42088250"
-    ],
-    [
-      "Colors of the Court – NBA Uniforms",
-      "https://pudding.cool/2024/10/nba-uniforms/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 15:29:27",
       "https://news.ycombinator.com/item?id=42087560"
     ],
@@ -137,16 +167,6 @@
     [
       "The Cybergypsies (Indra Sinha, 1999)",
       "https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 14:13:17",
-      "https://news.ycombinator.com/item?id=42086987"
-    ],
-    [
-      "Toy Models of Superposition (2022)",
-      "https://transformer-circuits.pub/2022/toy_model/index.html#motivation"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-11-08, 07:30:31",
-      "https://news.ycombinator.com/item?id=42084977"
-    ],
-    [
-      "Perceptually lossless (talking head) video compression at 22kbit/s",
-      "https://mlumiste.com/technical/liveportrait-compression/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 06:10:14",
       "https://news.ycombinator.com/item?id=42084588"
     ],
@@ -217,16 +227,6 @@
     [
       "FDA proposes ending use of oral phenylephrine as OTC nasal decongestant",
       "https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 21:33:42",
-      "https://news.ycombinator.com/item?id=42081309"
-    ],
-    [
-      "The Charms of Catastrophe (1978)",
-      "https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-11-03, 17:38:11",
-      "https://news.ycombinator.com/item?id=42034559"
-    ],
-    [
-      "Tracing Colonial Mexico with Maps and Ink (2020)",
-      "https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 17:09:42",
       "https://news.ycombinator.com/item?id=42034305"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-11-01, 15:16:57",
-      "https://news.ycombinator.com/item?id=42017730"
+      "2024-11-03, 01:54:43",
+      "https://news.ycombinator.com/item?id=42030654"
     ],
     [
-      "The evolution of nepotism in academia, 1088-1800",
-      "https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1"
+      "A Craving for Calculation",
+      "https://technicshistory.com/2024/11/03/a-craving-for-calculation/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 17:10:07",
+      "https://news.ycombinator.com/item?id=42008891"
+    ],
+    [
+      "'Smart' insulin prevents diabetic highs – and deadly lows",
+      "https://www.nature.com/articles/d41586-024-03357-7#ref-CR1"
     ]
   ]
 ]
