@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
@@ -19,7 +20,6 @@
 * [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-07, 17:00:38](https://news.ycombinator.com/item?id=42078469) - [Since the '60s, Ford has stored cars underground in a Kansas City cave](https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/)
-* [2024-11-06, 01:29:34](https://news.ycombinator.com/item?id=42056654) - [Using Two ReMarkables](https://www.ohrg.org/using-two-remarkables)
 * [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
 * [2024-11-04, 20:47:39](https://news.ycombinator.com/item?id=42045830) - [The Saturn V FUELDRAULIC Gimbal System (1963)](https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system)
