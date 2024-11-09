@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 09:48:08",
+      "https://news.ycombinator.com/item?id=42093511"
+    ],
+    [
+      "Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI",
+      "https://github.com/JohannesKaufmann/html-to-markdown"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 09:12:30",
       "https://news.ycombinator.com/item?id=42093394"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-11-08, 21:31:43",
-      "https://news.ycombinator.com/item?id=42090633"
-    ],
-    [
-      "My Notes on Apple Math Notes",
-      "https://mlajtos.mu/posts/new-kind-of-paper-5"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 21:00:16",
       "https://news.ycombinator.com/item?id=42090433"
     ],
@@ -107,16 +107,6 @@
     [
       "I quit Google to work for myself (2018)",
       "https://mtlynch.io/why-i-quit-google/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 18:23:00",
-      "https://news.ycombinator.com/item?id=42089196"
-    ],
-    [
-      "Why 4D geometry makes me sad [video]",
-      "https://www.youtube.com/watch?v=piJkuavhV50"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Optimize Database Performance in Ruby on Rails and ActiveRecord",
       "https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 09:06:00",
+      "https://news.ycombinator.com/item?id=42058345"
+    ],
+    [
+      "Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering",
+      "https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55"
     ]
   ],
   [
