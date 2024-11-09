@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 05:54:51",
+      "https://news.ycombinator.com/item?id=42092755"
+    ],
+    [
+      "Maxun: Open-Source No-Code Web Data Extraction Platform",
+      "https://github.com/getmaxun/maxun"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 03:40:57",
       "https://news.ycombinator.com/item?id=42092385"
     ],
@@ -37,16 +47,6 @@
     [
       "Delta: A syntax-highlighting pager for Git, diff, grep, and blame output",
       "https://github.com/dandavison/delta"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 22:49:11",
-      "https://news.ycombinator.com/item?id=42091092"
-    ],
-    [
-      "Neural Optical Flow for PIV in Fluids",
-      "https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72"
     ]
   ],
   [
