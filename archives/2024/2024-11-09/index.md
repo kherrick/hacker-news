@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-09](index.md)
+
+* [2024-11-09, 02:17:58](https://news.ycombinator.com/item?id=42092086) - [Among unmarried adults, women without children have as much wealth as single men](https://www.pewresearch.org/short-reads/2024/11/04/among-unmarried-adults-women-without-children-have-as-much-wealth-as-single-men/)
