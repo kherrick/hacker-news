@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 19:17:04](https://news.ycombinator.com/item?id=42096269) - [Study reveals superbug MRSA's double defense against antibiotics](https://phys.org/news/2024-10-mrsa-defense-antibiotics-superbug-evolved.html)
 * [2024-11-09, 19:04:48](https://news.ycombinator.com/item?id=42096208) - [DNA firm [Atlas Biomed] holding highly sensitive data 'vanishes' without warning](https://www.bbc.co.uk/news/articles/cz7wl7rpndjo)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
