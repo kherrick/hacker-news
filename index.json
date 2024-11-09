@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 20:54:11",
+      "https://news.ycombinator.com/item?id=42096837"
+    ],
+    [
+      "Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files",
+      "https://docs.visprex.com/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 20:35:04",
       "https://news.ycombinator.com/item?id=42096717"
     ],
@@ -167,16 +177,6 @@
     [
       "Texture-Less Text Rendering",
       "https://poniesandlight.co.uk/reflect/debug_print_text/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 23:46:46",
-      "https://news.ycombinator.com/item?id=42091365"
-    ],
-    [
-      "Delta: A syntax-highlighting pager for Git, diff, grep, and blame output",
-      "https://github.com/dandavison/delta"
     ]
   ],
   [
