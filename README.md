@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 03:40:57](https://news.ycombinator.com/item?id=42092385) - [NASA Remains Silent on Why Crew Went to Hospital After Dragon Splashdown](https://gizmodo.com/nasa-remains-stubbornly-silent-on-dragon-splashdown-that-sent-crew-to-hospital-2000522187)
 * [2024-11-09, 01:39:07](https://news.ycombinator.com/item?id=42091909) - [Following up \"Mother of all Htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 23:57:13](https://news.ycombinator.com/item?id=42091423) - [It's legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
 * [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
@@ -20,15 +21,14 @@
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-06, 20:06:29](https://news.ycombinator.com/item?id=42068510) - [Funding restored for man-page maintenance](https://lwn.net/Articles/997193/)
+* [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-04, 17:36:17](https://news.ycombinator.com/item?id=42043967) - [A CC-By Open-Source TTS Model with Voice Cloning](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)
 * [2024-11-04, 16:58:21](https://news.ycombinator.com/item?id=42043490) - [Auden's Island](https://hedgehogreview.com/issues/in-need-of-repair/articles/audens-island)
 * [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-04, 02:04:18](https://news.ycombinator.com/item?id=42037750) - [Ham radio enthusiasts who help keep the NYC Marathon running smoothly](https://www.popsci.com/technology/ham-radio-new-york-marathon/)
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
-* [2024-11-03, 17:09:42](https://news.ycombinator.com/item?id=42034305) - [Claude Shannon: Mathematician, engineer, genius and juggler (2017)](https://www.juggle.org/claude-shannon-mathematician-engineer-genius-juggler/)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
-* [2024-11-01, 15:16:57](https://news.ycombinator.com/item?id=42017730) - [The evolution of nepotism in academia, 1088-1800](https://link.springer.com/article/10.1007/s10887-024-09244-0#auth-David_de_la-Croix-Aff1)
 * [2024-10-31, 17:10:07](https://news.ycombinator.com/item?id=42008891) - ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)
 
 ## [Archives](archives/index.md)
