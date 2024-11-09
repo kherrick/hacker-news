@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 21:10:41](https://news.ycombinator.com/item?id=42096915) - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 * [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
@@ -28,7 +29,6 @@
 * [2024-11-04, 13:00:47](https://news.ycombinator.com/item?id=42041129) - [Automat: A tangible interface for virtual things](https://automat.org)
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
-* [2024-11-02, 19:39:16](https://news.ycombinator.com/item?id=42028697) - [Nikolai Fyodorov wanted to resurrect the dead to live among the stars](https://lz.kubicki.org/a-letter-about-nikolai-fyodorov/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)

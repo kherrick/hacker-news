@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 21:10:41](https://news.ycombinator.com/item?id=42096915) - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 * [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 19:17:04](https://news.ycombinator.com/item?id=42096269) - [Study reveals superbug MRSA's double defense against antibiotics](https://phys.org/news/2024-10-mrsa-defense-antibiotics-superbug-evolved.html)
