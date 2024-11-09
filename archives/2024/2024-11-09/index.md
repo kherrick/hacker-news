@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
+* [2024-11-09, 10:06:44](https://news.ycombinator.com/item?id=42093560) - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 09:12:30](https://news.ycombinator.com/item?id=42093394) - [When you ask ChatGPT \"Tell me a story\" it's always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
