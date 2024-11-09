@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 22:53:49](https://news.ycombinator.com/item?id=42029827) - [Why Pg_dump Is Amazing](http://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 22:11:28](https://news.ycombinator.com/item?id=42029574) - [Don't return named tuples in new APIs](https://snarky.ca/dont-use-named-tuples-in-new-apis/)
 * [2024-11-02, 22:07:58](https://news.ycombinator.com/item?id=42029546) - [Apple's M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/)
 * [2024-11-02, 22:07:09](https://news.ycombinator.com/item?id=42029542) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
