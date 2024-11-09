@@ -13,6 +13,7 @@
 * [2024-11-02, 20:02:23](https://news.ycombinator.com/item?id=42028873) - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 * [2024-11-02, 19:57:30](https://news.ycombinator.com/item?id=42028833) - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
 * [2024-11-02, 19:54:47](https://news.ycombinator.com/item?id=42028814) - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
+* [2024-11-02, 19:39:16](https://news.ycombinator.com/item?id=42028697) - [The Russian librarian who wanted to resurrect the dead to live among the stars](https://lz.kubicki.org/a-letter-about-nikolai-fyodorov/)
 * [2024-11-02, 19:36:29](https://news.ycombinator.com/item?id=42028678) - [Israel has destroyed or damaged nearly a quarter of buildings in Lebanon's south](https://www.washingtonpost.com/world/2024/10/31/israel-war-lebanon-south-destruction/)
 * [2024-11-02, 19:25:01](https://news.ycombinator.com/item?id=42028589) - [Quantum Machines and Nvidia use ML toward error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
 * [2024-11-02, 19:23:40](https://news.ycombinator.com/item?id=42028569) - [Eighty Years of the Finite Element Method: Birth, Evolution, and Future (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
