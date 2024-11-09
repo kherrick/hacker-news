@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 * [2024-11-09, 22:15:13](https://news.ycombinator.com/item?id=42097251) - [SCIM: System for Cross-Domain Identity Management](https://scim.cloud/)
 * [2024-11-09, 21:45:00](https://news.ycombinator.com/item?id=42097086) - [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
 * [2024-11-09, 21:10:41](https://news.ycombinator.com/item?id=42096915) - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
@@ -28,7 +29,6 @@
 * [2024-11-04, 20:47:39](https://news.ycombinator.com/item?id=42045830) - [The Saturn V FUELDRAULIC Gimbal System (1963)](https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system)
 * [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
-* [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)
