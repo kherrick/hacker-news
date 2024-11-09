@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42095752"
     ],
     [
-      "Windows Process Injection",
+      "Early Cascade Injection: From Windows process creation to stealthy injection",
       "https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/"
     ]
   ],
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-11-09, 14:18:24",
+      "https://news.ycombinator.com/item?id=42094546"
+    ],
+    [
+      "FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI",
+      "https://epochai.org/frontiermath/the-benchmark"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 13:53:33",
       "https://news.ycombinator.com/item?id=42094427"
     ],
@@ -91,12 +101,32 @@
   ],
   [
     [
+      "2024-11-09, 11:33:28",
+      "https://news.ycombinator.com/item?id=42093851"
+    ],
+    [
+      "Somebody moved UK's oldest satellite",
+      "https://www.bbc.co.uk/news/articles/cpwrr58801yo"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 11:06:10",
       "https://news.ycombinator.com/item?id=42093756"
     ],
     [
       "Mergiraf: a syntax-aware merge driver for Git",
       "https://mergiraf.org/"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 09:59:29",
+      "https://news.ycombinator.com/item?id=42093541"
+    ],
+    [
+      "Cache Directory Tagging Specification (2004)",
+      "https://bford.info/cachedir/"
     ]
   ],
   [
@@ -151,52 +181,12 @@
   ],
   [
     [
-      "2024-11-08, 17:39:43",
-      "https://news.ycombinator.com/item?id=42088758"
-    ],
-    [
-      "Mitochondria Are Alive",
-      "https://www.asimov.press/p/mitochondria"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 15:22:16",
-      "https://news.ycombinator.com/item?id=42087517"
-    ],
-    [
-      "Gravity's Eastern Voyage",
-      "https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 17:00:38",
       "https://news.ycombinator.com/item?id=42078469"
     ],
     [
       "Since the '60s, Ford has stored cars underground in a Kansas City cave",
       "https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 10:39:05",
-      "https://news.ycombinator.com/item?id=42075467"
-    ],
-    [
-      "Lynis – Security auditing and hardening tool, for Unix-based systems",
-      "https://github.com/CISOfy/lynis"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 09:52:03",
-      "https://news.ycombinator.com/item?id=42058888"
-    ],
-    [
-      "Iterative α-(de)blending and Stochastic Interpolants",
-      "http://nicktasios.nl/posts/iterative-alpha-deblending/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Automat: A tangible interface for virtual things",
       "https://automat.org"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 20:47:56",
+      "https://news.ycombinator.com/item?id=42035990"
+    ],
+    [
+      "A Brief History of Cyrix",
+      "https://www.abortretry.fail/p/a-brief-history-of-cyrix"
     ]
   ],
   [
