@@ -33,6 +33,7 @@
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-informed Shadowgraph Network: End-to-end Density Field Reconstruction](https://arxiv.org/abs/2410.20203)
 * [2024-11-07, 17:02:50](https://news.ycombinator.com/item?id=42078500) - [Physics-Informed Network for Density Field Reconstruction](https://synthical.com/article/Physics-informed-Shadowgraph-Network%3A-An-End-to-end-Density-Field-Reconstruction-Method-084acc85-6746-4775-88d9-183cbfffbe43)
 * [2024-11-07, 17:01:31](https://news.ycombinator.com/item?id=42078476) - [Hyperlight: Virtual machine-based security for functions at scale](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
+* [2024-11-07, 17:00:38](https://news.ycombinator.com/item?id=42078469) - [Since the '60s, Ford has stored cars underground in a Kansas City cave](https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/)
 * [2024-11-07, 16:53:11](https://news.ycombinator.com/item?id=42078382) - [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
 * [2024-11-07, 16:47:30](https://news.ycombinator.com/item?id=42078324) - [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
 * [2024-11-07, 16:25:40](https://news.ycombinator.com/item?id=42078067) - [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)

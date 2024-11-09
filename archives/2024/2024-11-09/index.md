@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 17:01:12](https://news.ycombinator.com/item?id=42095453) - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-11-09, 16:47:58](https://news.ycombinator.com/item?id=42095374) - [Following Wyoming Example, Feds Limit Foreign Crypto Mines Near Military Bases](https://cowboystatedaily.com/2024/11/08/following-wyoming-example-feds-limit-foreign-crypto-mines-near-military-bases/)
+* [2024-11-09, 16:40:48](https://news.ycombinator.com/item?id=42095319) - [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 * [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
 * [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+* [2024-11-09, 14:25:34](https://news.ycombinator.com/item?id=42094589) - [Defending the Tor network: Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 * [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
