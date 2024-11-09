@@ -2,7 +2,6 @@
 
 * [2024-11-09, 05:54:51](https://news.ycombinator.com/item?id=42092755) - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
-* [2024-11-09, 03:40:57](https://news.ycombinator.com/item?id=42092385) - [NASA Remains Silent on Why Crew Went to Hospital After Dragon Splashdown](https://gizmodo.com/nasa-remains-stubbornly-silent-on-dragon-splashdown-that-sent-crew-to-hospital-2000522187)
 * [2024-11-08, 23:57:13](https://news.ycombinator.com/item?id=42091423) - [It's legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
 * [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
 * [2024-11-08, 22:49:11](https://news.ycombinator.com/item?id=42091092) - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
@@ -18,6 +17,7 @@
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
+* [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
 * [2024-11-08, 06:10:14](https://news.ycombinator.com/item?id=42084588) - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-06, 20:06:29](https://news.ycombinator.com/item?id=42068510) - [Funding restored for man-page maintenance](https://lwn.net/Articles/997193/)
