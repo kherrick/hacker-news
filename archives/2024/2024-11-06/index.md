@@ -44,6 +44,7 @@
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-06, 10:18:45](https://news.ycombinator.com/item?id=42059336) - [Understanding Ruby 3.3 Concurrency: A Comprehensive Guide](https://blog.bestwebventures.in/understanding-ruby-concurrency-a-comprehensive-guide)
 * [2024-11-06, 09:07:17](https://news.ycombinator.com/item?id=42058355) - [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
+* [2024-11-06, 09:06:00](https://news.ycombinator.com/item?id=42058345) - [Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering](https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55)
 * [2024-11-06, 09:02:28](https://news.ycombinator.com/item?id=42058302) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:43:57](https://news.ycombinator.com/item?id=42058153) - [Just Launched: PostPocket – Effortlessly Save and Organize Your Online Content](https://apps.apple.com/au/app/postpocket/id6670723615)
 * [2024-11-06, 08:31:42](https://news.ycombinator.com/item?id=42058097) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
