@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-09, 05:54:51](https://news.ycombinator.com/item?id=42092755) - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 * [2024-11-09, 03:40:57](https://news.ycombinator.com/item?id=42092385) - [NASA Remains Silent on Why Crew Went to Hospital After Dragon Splashdown](https://gizmodo.com/nasa-remains-stubbornly-silent-on-dragon-splashdown-that-sent-crew-to-hospital-2000522187)
 * [2024-11-09, 01:39:07](https://news.ycombinator.com/item?id=42091909) - [Following up \"Mother of all Htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 23:57:13](https://news.ycombinator.com/item?id=42091423) - [It's legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
 * [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
-* [2024-11-08, 22:49:11](https://news.ycombinator.com/item?id=42091092) - [Neural Optical Flow for PIV in Fluids](https://synthical.com/article/Article-at-Synthical-56a49fbb-6842-45bb-aac1-97cd23711f72)
 * [2024-11-08, 22:42:20](https://news.ycombinator.com/item?id=42091043) - [Claude AI to process secret government data through new Palantir deal](https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/)
 * [2024-11-08, 21:55:40](https://news.ycombinator.com/item?id=42090771) - [What Is a Staff Engineer?](https://nishtahir.com/what-is-a-staff-engineer/)
 * [2024-11-08, 21:31:43](https://news.ycombinator.com/item?id=42090633) - [My Notes on Apple Math Notes](https://mlajtos.mu/posts/new-kind-of-paper-5)
