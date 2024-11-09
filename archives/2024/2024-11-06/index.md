@@ -43,6 +43,7 @@
 * [2024-11-06, 11:26:36](https://news.ycombinator.com/item?id=42060286) - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-06, 10:18:45](https://news.ycombinator.com/item?id=42059336) - [Understanding Ruby 3.3 Concurrency: A Comprehensive Guide](https://blog.bestwebventures.in/understanding-ruby-concurrency-a-comprehensive-guide)
+* [2024-11-06, 09:52:03](https://news.ycombinator.com/item?id=42058888) - [Iterative α-(de)blending and Stochastic Interpolants](http://nicktasios.nl/posts/iterative-alpha-deblending/)
 * [2024-11-06, 09:07:17](https://news.ycombinator.com/item?id=42058355) - [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
 * [2024-11-06, 09:06:00](https://news.ycombinator.com/item?id=42058345) - [Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering](https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55)
 * [2024-11-06, 09:02:28](https://news.ycombinator.com/item?id=42058302) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
