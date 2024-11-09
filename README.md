@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+* [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
+* [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
-* [2024-11-09, 09:59:29](https://news.ycombinator.com/item?id=42093541) - [Cache Directory Tagging Specification (2004)](https://bford.info/cachedir/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
@@ -25,11 +25,11 @@
 * [2024-11-04, 20:47:39](https://news.ycombinator.com/item?id=42045830) - [The Saturn V FUELDRAULIC Gimbal System (1963)](https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system)
 * [2024-11-04, 17:36:17](https://news.ycombinator.com/item?id=42043967) - [A CC-By Open-Source TTS Model with Voice Cloning](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)
 * [2024-11-04, 13:30:57](https://news.ycombinator.com/item?id=42041355) - [Python Logic Simulation Library](https://github.com/cjdrake/seqlogic)
+* [2024-11-04, 08:14:14](https://news.ycombinator.com/item?id=42039574) - [Earth endured over one million years of rain in the \"Carnian Pluvial Event\"](https://www.earth.com/news/earth-endured-a-million-years-of-rain-in-the-carnian-pluvial-event/)
 * [2024-11-04, 06:56:23](https://news.ycombinator.com/item?id=42039184) - [In Memory of Stiver](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 22:53:49](https://news.ycombinator.com/item?id=42029827) - [Why Pg_dump Is Amazing](http://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
-* [2024-10-31, 17:10:07](https://news.ycombinator.com/item?id=42008891) - ['Smart' insulin prevents diabetic highs – and deadly lows](https://www.nature.com/articles/d41586-024-03357-7#ref-CR1)
 
 ## [Archives](archives/index.md)
 

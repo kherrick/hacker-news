@@ -77,6 +77,7 @@
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 08:41:22](https://news.ycombinator.com/item?id=42039683) - [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
 * [2024-11-04, 08:18:53](https://news.ycombinator.com/item?id=42039596) - [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+* [2024-11-04, 08:14:14](https://news.ycombinator.com/item?id=42039574) - [Earth endured over one million years of rain in the \"Carnian Pluvial Event\"](https://www.earth.com/news/earth-endured-a-million-years-of-rain-in-the-carnian-pluvial-event/)
 * [2024-11-04, 08:13:45](https://news.ycombinator.com/item?id=42039569) - [Quincy Jones, music titan, dies at 91](https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21)
 * [2024-11-04, 07:51:52](https://news.ycombinator.com/item?id=42039454) - [Soda Is Making a Comeback](https://www.cnn.com/2024/11/01/business/coke-dr-pepper-soda/index.html)
 * [2024-11-04, 07:40:06](https://news.ycombinator.com/item?id=42039406) - [City council faces £216.5M loss over Oracle system debacle](https://www.theregister.com/2024/08/20/birmingham_oracle_cost/)

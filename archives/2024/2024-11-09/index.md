@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
 * [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
