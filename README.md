@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-09, 17:01:20](https://news.ycombinator.com/item?id=42095454) - [20 Years Ago Today: 'Firefox Browser Takes on Microsoft'](https://news.slashdot.org/story/24/11/09/0531257/20-years-ago-today-firefox-browser-takes-on-microsoft)
 * [2024-11-09, 17:01:12](https://news.ycombinator.com/item?id=42095453) - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-11-09, 16:46:14](https://news.ycombinator.com/item?id=42095362) - [Australia to ban under-16s from social media – but can't say how TikTok](https://www.theguardian.com/australia-news/2024/nov/07/australian-government-to-legislate-social-media-age-limit-of-16-but-cant-say-how-platforms-will-enforce-it)
 * [2024-11-09, 16:40:48](https://news.ycombinator.com/item?id=42095319) - [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 * [2024-11-09, 16:38:08](https://news.ycombinator.com/item?id=42095302) - [When machine learning tells the wrong story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
-* [2024-11-09, 14:25:34](https://news.ycombinator.com/item?id=42094589) - [Defending the Tor network: Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
+* [2024-11-09, 14:25:34](https://news.ycombinator.com/item?id=42094589) - [Mitigating IP spoofing against Tor](https://blog.torproject.org/defending-tor-mitigating-IP-spoofing/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
@@ -28,7 +28,7 @@
 * [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
 * [2024-11-04, 17:36:17](https://news.ycombinator.com/item?id=42043967) - [A CC-By Open-Source TTS Model with Voice Cloning](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
-* [2024-11-02, 19:39:16](https://news.ycombinator.com/item?id=42028697) - [The Russian librarian who wanted to resurrect the dead to live among the stars](https://lz.kubicki.org/a-letter-about-nikolai-fyodorov/)
+* [2024-11-02, 19:39:16](https://news.ycombinator.com/item?id=42028697) - [Nikolai Fyodorov wanted to resurrect the dead to live among the stars](https://lz.kubicki.org/a-letter-about-nikolai-fyodorov/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)
