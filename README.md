@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
-* [2024-11-09, 21:45:00](https://news.ycombinator.com/item?id=42097086) - [Om Malik – With AI, the Future of Augmented Reality Is in Your Ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
+* [2024-11-09, 21:45:00](https://news.ycombinator.com/item?id=42097086) - [With AI, the future of augmented reality is in your ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
 * [2024-11-09, 21:10:41](https://news.ycombinator.com/item?id=42096915) - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 * [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
