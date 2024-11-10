@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-10, 18:05:45",
+      "https://news.ycombinator.com/item?id=42101536"
+    ],
+    [
+      "Rust Trademark Policy Updates",
+      "https://foundation.rust-lang.org/news/rust-trademark-policy-updates/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 17:23:59",
+      "https://news.ycombinator.com/item?id=42101327"
+    ],
+    [
+      "Procrastination and the fear of not being good enough",
+      "https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 17:20:26",
       "https://news.ycombinator.com/item?id=42101312"
     ],
@@ -17,16 +37,6 @@
     [
       "Section 230 Immunizes OnlyFans for User-Uploaded Video–DOE vs. Fenix",
       "https://blog.ericgoldman.org/archives/2024/11/section-230-immunizes-onlyfans-for-user-uploaded-video-doe-v-fenix.htm"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 17:07:38",
-      "https://news.ycombinator.com/item?id=42101248"
-    ],
-    [
-      "Tuberculosis is rising in the U.S. again. How did we get here?",
-      "https://www.nationalgeographic.com/science/article/us-tuberculosis-tb-rates-rising"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG",
       "https://github.com/bhavnicksm/chonkie"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 15:42:27",
+      "https://news.ycombinator.com/item?id=42100736"
+    ],
+    [
+      "We All Scream for Ice Cream",
+      "https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "GenMC: Model checking for concurrent C programs",
       "https://plv.mpi-sws.org/genmc/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 00:51:54",
-      "https://news.ycombinator.com/item?id=42097856"
-    ],
-    [
-      "A skeleton made from the bones of at least eight people thousands of years apart",
-      "https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Mergiraf: a syntax-aware merge driver for Git",
       "https://mergiraf.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 09:48:08",
-      "https://news.ycombinator.com/item?id=42093511"
-    ],
-    [
-      "Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI",
-      "https://github.com/JohannesKaufmann/html-to-markdown"
     ]
   ],
   [
