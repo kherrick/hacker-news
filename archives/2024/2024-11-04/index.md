@@ -96,6 +96,7 @@
 * [2024-11-04, 03:06:18](https://news.ycombinator.com/item?id=42038053) - [BC7 optimal solid-color blocks](https://fgiesen.wordpress.com/2024/11/03/bc7-optimal-solid-color-blocks/)
 * [2024-11-04, 02:56:09](https://news.ycombinator.com/item?id=42038004) - [New better alterative to XML, JSON and YAML](https://xenondata.org)
 * [2024-11-04, 02:52:14](https://news.ycombinator.com/item?id=42037982) - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+* [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
 * [2024-11-04, 02:50:19](https://news.ycombinator.com/item?id=42037976) - [There is mounting evidence that starting a business reduces stress](https://fortune.com/2024/03/25/mounting-evidence-starting-business-reduces-stress-persistent-myths-stopping-employees-careers-success/)
 * [2024-11-04, 02:41:19](https://news.ycombinator.com/item?id=42037929) - [The Saga of a Celebrated Scientist – and His Rodent Dystopia](https://www.chronicle.com/article/the-saga-of-a-celebrated-scientist-and-his-rodent-dystopia)
 * [2024-11-04, 02:04:18](https://news.ycombinator.com/item?id=42037750) - [Ham radio enthusiasts who help keep the NYC Marathon running smoothly](https://www.popsci.com/technology/ham-radio-new-york-marathon/)

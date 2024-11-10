@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 12:09:27](https://news.ycombinator.com/item?id=42099769) - [M4 and M4 Pro Mac minis are probably Apple's best Mac minis](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+* [2024-11-10, 12:06:04](https://news.ycombinator.com/item?id=42099761) - [High Power Mode for M4 Pro Macs](https://mjtsai.com/blog/2024/11/08/high-power-mode-for-m4-pro-macs/)
 * [2024-11-10, 11:11:11](https://news.ycombinator.com/item?id=42099596) - [Andrej Karpathy on learning(should never be fun)](https://twitter.com/karpathy/status/1756380066580455557)
 * [2024-11-10, 10:30:47](https://news.ycombinator.com/item?id=42099472) - [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
 * [2024-11-10, 09:39:22](https://news.ycombinator.com/item?id=42099308) - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
