@@ -11,6 +11,7 @@
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Early Cascade Injection: From Windows process creation to stealthy injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
+* [2024-11-09, 17:01:12](https://news.ycombinator.com/item?id=42095453) - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-11-09, 16:38:08](https://news.ycombinator.com/item?id=42095302) - [When machine learning tells the wrong story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
@@ -27,7 +28,6 @@
 * [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
 * [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
-* [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
