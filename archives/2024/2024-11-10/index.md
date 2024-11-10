@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 16:09:07](https://news.ycombinator.com/item?id=42100876) - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
