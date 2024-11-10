@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
+* [2024-11-10, 16:53:57](https://news.ycombinator.com/item?id=42101190) - [Thoughts on the Resiliency of Web Projects](https://aaronparecki.com/2024/08/31/9/too-many-projects)
+* [2024-11-10, 16:53:19](https://news.ycombinator.com/item?id=42101181) - [OpenID Connect specifications published as ISO standards](https://self-issued.info/?p=2573)
+* [2024-11-10, 16:45:10](https://news.ycombinator.com/item?id=42101107) - [Salary expectations questions – How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 * [2024-11-10, 16:09:07](https://news.ycombinator.com/item?id=42100876) - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
