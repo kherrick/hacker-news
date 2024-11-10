@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-10, 01:30:39",
-      "https://news.ycombinator.com/item?id=42097996"
-    ],
-    [
-      "Verbalize – text editor with writing assistance for Brazilian Portuguese",
-      "https://news.ycombinator.com/item?id=42097996"
-    ]
-  ],
-  [
-    [
       "2024-11-10, 00:51:54",
       "https://news.ycombinator.com/item?id=42097856"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI",
       "https://github.com/JohannesKaufmann/html-to-markdown"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 07:46:22",
+      "https://news.ycombinator.com/item?id=42093112"
+    ],
+    [
+      "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
+      "https://hanlab.mit.edu/blog/svdquant"
     ]
   ],
   [
