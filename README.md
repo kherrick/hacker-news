@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 13:31:25](https://news.ycombinator.com/item?id=42100110) - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-11-10, 12:11:31](https://news.ycombinator.com/item?id=42099778) - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
 * [2024-11-10, 10:29:58](https://news.ycombinator.com/item?id=42099469) - [Ask HN: Where to put a static page that would last forever](https://news.ycombinator.com/item?id=42099469)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
@@ -7,7 +8,6 @@
 * [2024-11-10, 02:26:32](https://news.ycombinator.com/item?id=42098236) - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
 * [2024-11-10, 00:51:54](https://news.ycombinator.com/item?id=42097856) - [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
 * [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
-* [2024-11-09, 21:10:41](https://news.ycombinator.com/item?id=42096915) - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
 * [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)
