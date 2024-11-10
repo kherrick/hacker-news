@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-11-10, 15:42:27",
-      "https://news.ycombinator.com/item?id=42100736"
-    ],
-    [
-      "We All Scream for Ice Cream",
-      "https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/"
-    ]
-  ],
-  [
-    [
       "2024-11-10, 15:21:00",
       "https://news.ycombinator.com/item?id=42100660"
     ],
@@ -277,6 +267,16 @@
     [
       "DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos",
       "https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 10:27:06",
+      "https://news.ycombinator.com/item?id=42075403"
+    ],
+    [
+      "Memory64",
+      "https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md"
     ]
   ],
   [
