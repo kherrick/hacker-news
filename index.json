@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-11-10, 17:20:26",
+      "https://news.ycombinator.com/item?id=42101312"
+    ],
+    [
+      "What's New in F# 9",
+      "https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 16:53:57",
+      "https://news.ycombinator.com/item?id=42101190"
+    ],
+    [
+      "Thoughts on the Resiliency of Web Projects",
+      "https://aaronparecki.com/2024/08/31/9/too-many-projects"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 16:53:19",
+      "https://news.ycombinator.com/item?id=42101181"
+    ],
+    [
+      "OpenID Connect specifications published as ISO standards",
+      "https://self-issued.info/?p=2573"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 16:45:10",
+      "https://news.ycombinator.com/item?id=42101107"
+    ],
+    [
+      "Salary expectations questions – How should you answer them?",
+      "https://fearlesssalarynegotiation.com/salary-expectations-interview-question/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 16:09:07",
       "https://news.ycombinator.com/item?id=42100876"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-11-09, 17:55:29",
-      "https://news.ycombinator.com/item?id=42095752"
-    ],
-    [
-      "Early Cascade Injection: From Windows process creation to stealthy injection",
-      "https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 17:27:30",
       "https://news.ycombinator.com/item?id=42095580"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-11-09, 11:33:28",
-      "https://news.ycombinator.com/item?id=42093851"
-    ],
-    [
-      "Somebody moved the UK's oldest satellite in the mid 1970s, but no one knows who",
-      "https://www.bbc.co.uk/news/articles/cpwrr58801yo"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 11:06:10",
       "https://news.ycombinator.com/item?id=42093756"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-11-08, 21:44:20",
-      "https://news.ycombinator.com/item?id=42090704"
-    ],
-    [
-      "Notes on Guyana",
-      "https://mattlakeman.org/2024/11/08/notes-on-guyana/"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 11:52:27",
       "https://news.ycombinator.com/item?id=42075855"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2024-11-06, 22:37:34",
-      "https://news.ycombinator.com/item?id=42070630"
-    ],
-    [
-      "Hard Cases for a Handle Theory",
-      "https://www.cabinetmagazine.org/issues/68/dolven.php"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 11:59:39",
       "https://news.ycombinator.com/item?id=42060750"
     ],
     [
       "Mind-Bending Soviet Era Oil Rig City on the Caspian Sea",
       "https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 21:02:21",
+      "https://news.ycombinator.com/item?id=42055134"
+    ],
+    [
+      "Honeybee gene specifies collective behavior, research shows",
+      "https://phys.org/news/2024-11-honeybee-gene-behavior.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ratting on wildlife crime: training rats to detect illegally trafficked wildlife",
       "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1444126/full"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 13:24:05",
-      "https://news.ycombinator.com/item?id=42026251"
-    ],
-    [
-      "Obtainium: Get Android App Updates Directly from the Source",
-      "https://obtainium.imranr.dev/"
     ]
   ]
 ]
