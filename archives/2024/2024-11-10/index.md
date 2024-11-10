@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
 * [2024-11-10, 19:04:42](https://news.ycombinator.com/item?id=42101916) - [A life that added up to something (Obituary of Paul Erdòs)](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
+* [2024-11-10, 19:00:16](https://news.ycombinator.com/item?id=42101890) - [A Lunar Space Elevator Could Be Built for $2B [pdf]](https://www.hou.usra.edu/meetings/newviews2018/pdf/6016.pdf)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:34:09](https://news.ycombinator.com/item?id=42101705) - [Ruby might be better than Python for new learners](https://ronynn.github.io/ruby-might-be-better-than-python/)
