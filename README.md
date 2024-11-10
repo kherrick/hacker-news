@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-10, 19:04:42](https://news.ycombinator.com/item?id=42101916) - [A life that added up to something (Obituary of Paul Erdòs)](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
-* [2024-11-10, 19:00:16](https://news.ycombinator.com/item?id=42101890) - [A Lunar Space Elevator Could Be Built for $2B [pdf]](https://www.hou.usra.edu/meetings/newviews2018/pdf/6016.pdf)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:05:45](https://news.ycombinator.com/item?id=42101536) - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
@@ -28,6 +27,7 @@
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-05, 21:02:21](https://news.ycombinator.com/item?id=42055134) - [Honeybee gene specifies collective behavior, research shows](https://phys.org/news/2024-11-honeybee-gene-behavior.html)
+* [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
 * [2024-11-02, 14:06:12](https://news.ycombinator.com/item?id=42026468) - [Ratting on wildlife crime: training rats to detect illegally trafficked wildlife](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1444126/full)
 
