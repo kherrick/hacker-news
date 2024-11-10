@@ -6,6 +6,7 @@
 
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
+* [2024-11-10, 18:34:09](https://news.ycombinator.com/item?id=42101705) - [Ruby might be better than Python for new learners](https://ronynn.github.io/ruby-might-be-better-than-python/)
 * [2024-11-10, 18:05:45](https://news.ycombinator.com/item?id=42101536) - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
 * [2024-11-10, 17:23:59](https://news.ycombinator.com/item?id=42101327) - [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
 * [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)

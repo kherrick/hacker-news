@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
 * [2024-11-07, 23:50:58](https://news.ycombinator.com/item?id=42082498) - [Wild Ball](https://r3f-drei-rapier.surge.sh)
+* [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
 * [2024-11-07, 22:34:33](https://news.ycombinator.com/item?id=42081874) - [Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
 * [2024-11-07, 22:22:58](https://news.ycombinator.com/item?id=42081764) - [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
 * [2024-11-07, 22:18:50](https://news.ycombinator.com/item?id=42081726) - [Trump's likely FCC chair wrote Project 2025 chapter on how he'd run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
