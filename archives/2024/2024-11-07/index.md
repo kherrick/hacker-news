@@ -18,6 +18,7 @@
 * [2024-11-07, 20:14:19](https://news.ycombinator.com/item?id=42080473) - [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
 * [2024-11-07, 20:11:38](https://news.ycombinator.com/item?id=42080434) - [Probing unknown unknowns: A new generation of telescopes](https://mappingignorance.org/2024/10/30/probing-unknown-unknowns-a-new-generation-of-telescopes/)
 * [2024-11-07, 20:06:39](https://news.ycombinator.com/item?id=42080377) - [Show HN: Draw.Audio – A musical sketchpad using the Web Audio API](https://draw.audio)
+* [2024-11-07, 20:02:10](https://news.ycombinator.com/item?id=42080327) - [Tickets Are for Remembering](https://www.publicbooks.org/tickets-are-for-remembering/)
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
 * [2024-11-07, 19:32:04](https://news.ycombinator.com/item?id=42080012) - [Kagi Translate](https://blog.kagi.com/kagi-translate)
