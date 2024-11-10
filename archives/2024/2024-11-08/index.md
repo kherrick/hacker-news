@@ -65,3 +65,4 @@
 * [2024-11-08, 01:03:42](https://news.ycombinator.com/item?id=42083052) - [Police Freak Out at iPhones Mysteriously Rebooting Themselves, Locking Cops Out](https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/)
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
 * [2024-11-08, 00:44:32](https://news.ycombinator.com/item?id=42082892) - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
+* [2024-11-08, 00:38:30](https://news.ycombinator.com/item?id=42082841) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
