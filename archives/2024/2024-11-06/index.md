@@ -9,6 +9,7 @@
 * [2024-11-06, 23:04:39](https://news.ycombinator.com/item?id=42070946) - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
 * [2024-11-06, 23:02:27](https://news.ycombinator.com/item?id=42070925) - [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
 * [2024-11-06, 22:51:35](https://news.ycombinator.com/item?id=42070807) - [Writing Tiny Desktop Apps in C and GTK3 (2022)](https://danielc.dev/blog/tiny-windows-linux-gtk-apps/)
+* [2024-11-06, 22:37:34](https://news.ycombinator.com/item?id=42070630) - [Hard Cases for a Handle Theory](https://www.cabinetmagazine.org/issues/68/dolven.php)
 * [2024-11-06, 22:26:38](https://news.ycombinator.com/item?id=42070489) - [Sin taxes are suffering from a shortage of sinners](https://www.economist.com/finance-and-economics/2024/10/31/sin-taxes-are-suffering-from-a-shortage-of-sinners)
 * [2024-11-06, 22:00:09](https://news.ycombinator.com/item?id=42070153) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-06, 21:25:58](https://news.ycombinator.com/item?id=42069677) - [German Coalition Government Collapses](https://www.euronews.com/my-europe/2024/11/06/german-coalition-government-collapses-chancellor-scholz-fires-finance-minister-lindner)
