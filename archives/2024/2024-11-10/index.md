@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 18:05:45](https://news.ycombinator.com/item?id=42101536) - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
+* [2024-11-10, 17:23:59](https://news.ycombinator.com/item?id=42101327) - [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
 * [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 17:09:17](https://news.ycombinator.com/item?id=42101253) - [Section 230 Immunizes OnlyFans for User-Uploaded Video–DOE vs. Fenix](https://blog.ericgoldman.org/archives/2024/11/section-230-immunizes-onlyfans-for-user-uploaded-video-doe-v-fenix.htm)
 * [2024-11-10, 17:07:38](https://news.ycombinator.com/item?id=42101248) - [Tuberculosis is rising in the U.S. again. How did we get here?](https://www.nationalgeographic.com/science/article/us-tuberculosis-tb-rates-rising)
@@ -12,6 +14,7 @@
 * [2024-11-10, 16:45:10](https://news.ycombinator.com/item?id=42101107) - [Salary expectations questions – How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 * [2024-11-10, 16:09:07](https://news.ycombinator.com/item?id=42100876) - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
+* [2024-11-10, 15:42:27](https://news.ycombinator.com/item?id=42100736) - [We All Scream for Ice Cream](https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/)
 * [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 15:17:31](https://news.ycombinator.com/item?id=42100645) - [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
