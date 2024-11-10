@@ -17,7 +17,6 @@
 * [2024-11-10, 16:53:19](https://news.ycombinator.com/item?id=42101181) - [OpenID Connect specifications published as ISO standards](https://self-issued.info/?p=2573)
 * [2024-11-10, 16:09:07](https://news.ycombinator.com/item?id=42100876) - [JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
-* [2024-11-10, 15:42:27](https://news.ycombinator.com/item?id=42100736) - [We All Scream for Ice Cream](https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 15:17:31](https://news.ycombinator.com/item?id=42100645) - [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
 * [2024-11-10, 13:31:25](https://news.ycombinator.com/item?id=42100110) - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
@@ -28,6 +27,7 @@
 * [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
 * [2024-11-07, 20:11:38](https://news.ycombinator.com/item?id=42080434) - [Probing unknown unknowns: A new generation of telescopes](https://mappingignorance.org/2024/10/30/probing-unknown-unknowns-a-new-generation-of-telescopes/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
+* [2024-11-07, 10:27:06](https://news.ycombinator.com/item?id=42075403) - [Memory64](https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-05, 21:02:21](https://news.ycombinator.com/item?id=42055134) - [Honeybee gene specifies collective behavior, research shows](https://phys.org/news/2024-11-honeybee-gene-behavior.html)
 

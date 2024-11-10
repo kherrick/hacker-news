@@ -55,6 +55,7 @@
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
 * [2024-11-07, 10:48:43](https://news.ycombinator.com/item?id=42075513) - [This Microservice Should Have Been a Library](https://gist.github.com/philippta/98a7644a424cdbf2653a641da0271cfc)
 * [2024-11-07, 10:39:05](https://news.ycombinator.com/item?id=42075467) - [Lynis – Security auditing and hardening tool, for Unix-based systems](https://github.com/CISOfy/lynis)
+* [2024-11-07, 10:27:06](https://news.ycombinator.com/item?id=42075403) - [Memory64](https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md)
 * [2024-11-07, 10:24:27](https://news.ycombinator.com/item?id=42075387) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
 * [2024-11-07, 10:20:12](https://news.ycombinator.com/item?id=42075365) - [A mod that turns TI-84 calculators into GPT-based cheating device](https://github.com/chromalock/TI-32)
 * [2024-11-07, 10:12:03](https://news.ycombinator.com/item?id=42075325) - [What if everyone pointed a laser pointer at the moon? [video]](https://www.youtube.com/watch?v=JqFSGkFPipM)
