@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
+* [2024-11-10, 17:07:38](https://news.ycombinator.com/item?id=42101248) - [Tuberculosis is rising in the U.S. again. How did we get here?](https://www.nationalgeographic.com/science/article/us-tuberculosis-tb-rates-rising)
 * [2024-11-10, 16:53:57](https://news.ycombinator.com/item?id=42101190) - [Thoughts on the Resiliency of Web Projects](https://aaronparecki.com/2024/08/31/9/too-many-projects)
 * [2024-11-10, 16:53:19](https://news.ycombinator.com/item?id=42101181) - [OpenID Connect specifications published as ISO standards](https://self-issued.info/?p=2573)
 * [2024-11-10, 16:45:10](https://news.ycombinator.com/item?id=42101107) - [Salary expectations questions – How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
@@ -13,7 +14,6 @@
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 00:51:54](https://news.ycombinator.com/item?id=42097856) - [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
-* [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 * [2024-11-09, 20:54:11](https://news.ycombinator.com/item?id=42096837) - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler](https://github.com/drogus/jaws)

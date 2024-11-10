@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
 * [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
+* [2024-11-10, 17:07:38](https://news.ycombinator.com/item?id=42101248) - [Tuberculosis is rising in the U.S. again. How did we get here?](https://www.nationalgeographic.com/science/article/us-tuberculosis-tb-rates-rising)
 * [2024-11-10, 16:53:57](https://news.ycombinator.com/item?id=42101190) - [Thoughts on the Resiliency of Web Projects](https://aaronparecki.com/2024/08/31/9/too-many-projects)
 * [2024-11-10, 16:53:19](https://news.ycombinator.com/item?id=42101181) - [OpenID Connect specifications published as ISO standards](https://self-issued.info/?p=2573)
 * [2024-11-10, 16:45:10](https://news.ycombinator.com/item?id=42101107) - [Salary expectations questions – How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
