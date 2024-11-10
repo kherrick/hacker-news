@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 23:38:21](https://news.ycombinator.com/item?id=42103400) - [New York Times Word Usage Frequency Chart](https://davidrozado.substack.com/p/new-york-times-word-usage-frequency)
+* [2024-11-10, 23:10:33](https://news.ycombinator.com/item?id=42103257) - [Australia's 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
 * [2024-11-10, 23:00:32](https://news.ycombinator.com/item?id=42103195) - [It's 10am and Dad's Doing Jell-O Shots. Must Be Parents' Weekend](https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532)
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape (2023)](https://social.treehouse.systems/@marcan/110252202169575508)
 * [2024-11-10, 21:58:17](https://news.ycombinator.com/item?id=42102881) - [Another simple online DNS query tool](https://nstoolbox.com/)
@@ -7,7 +9,6 @@
 * [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2024-11-10, 19:56:00](https://news.ycombinator.com/item?id=42102235) - [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
-* [2024-11-10, 19:01:40](https://news.ycombinator.com/item?id=42101902) - [The history of the epigraph from Appointment in Samarra (2022)](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
@@ -21,7 +22,6 @@
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 12:11:31](https://news.ycombinator.com/item?id=42099778) - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
-* [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
 * [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 * [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
 * [2024-11-07, 20:11:38](https://news.ycombinator.com/item?id=42080434) - [Probing unknown unknowns: A new generation of telescopes](https://mappingignorance.org/2024/10/30/probing-unknown-unknowns-a-new-generation-of-telescopes/)
