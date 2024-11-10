@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-10, 03:01:07](https://news.ycombinator.com/item?id=42098342) - [ChatGPT Brought Down an Online Education Giant](https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2)
 * [2024-11-10, 01:30:39](https://news.ycombinator.com/item?id=42097996) - [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
 * [2024-11-10, 00:51:54](https://news.ycombinator.com/item?id=42097856) - [Archaeologists Puzzled by Skeleton of Bones of People Who Died 1000's Yrs Apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
 * [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
@@ -27,6 +26,7 @@
 * [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
 * [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
+* [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
