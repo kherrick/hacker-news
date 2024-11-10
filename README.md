@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-10, 10:30:47](https://news.ycombinator.com/item?id=42099472) - [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
+* [2024-11-10, 11:11:11](https://news.ycombinator.com/item?id=42099596) - [Andrej Karpathy on learning(should never be fun)](https://twitter.com/karpathy/status/1756380066580455557)
 * [2024-11-10, 09:39:22](https://news.ycombinator.com/item?id=42099308) - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
