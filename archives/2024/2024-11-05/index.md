@@ -58,6 +58,7 @@
 * [2024-11-05, 12:30:57](https://news.ycombinator.com/item?id=42051005) - [Git Config](https://blog.izissise.net/posts/gitconfig/)
 * [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-05, 12:04:14](https://news.ycombinator.com/item?id=42050862) - [Show HN: Spinup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
+* [2024-11-05, 11:14:55](https://news.ycombinator.com/item?id=42050573) - [HashML-DSA Considered Harmful](https://keymaterial.net/2024/11/05/hashml-dsa-considered-harmful/)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
 * [2024-11-05, 07:38:17](https://news.ycombinator.com/item?id=42049418) - [Blood Sugar Control Is a Key Factor in Slowing Brain Aging, Mediterranean Diet++](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)

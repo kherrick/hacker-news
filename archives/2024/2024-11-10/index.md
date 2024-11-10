@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-10](index.md)
+
+* [2024-11-10, 00:25:40](https://news.ycombinator.com/item?id=42097774) - [LLMs have reached a point of diminishing returns](https://garymarcus.substack.com/p/confirmed-llms-have-indeed-reached)
