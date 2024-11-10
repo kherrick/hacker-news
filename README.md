@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 09:39:22](https://news.ycombinator.com/item?id=42099308) - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 02:26:32](https://news.ycombinator.com/item?id=42098236) - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
@@ -28,7 +29,6 @@
 * [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-04, 18:16:19](https://news.ycombinator.com/item?id=42044426) - [Measuring keyboard-to-photon latency with a light sensor (2023)](https://thume.ca/2020/05/20/making-a-latency-tester/)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
-* [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)
