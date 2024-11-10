@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-10, 22:01:19",
-      "https://news.ycombinator.com/item?id=42102898"
+      "2024-11-10, 21:47:10",
+      "https://news.ycombinator.com/item?id=42102820"
     ],
     [
-      "'It's not close' – Israel committing genocide concludes Wikipedia ending debate",
-      "https://www.middleeastmonitor.com/20241108-its-not-close-israel-committing-genocide-concludes-wikipedia-ending-editorial-debate/"
+      "California's gas prices to increase 65 cents per gallon with new fuel standards",
+      "https://abc7news.com/post/californias-air-resources-board-vote-new-fuel-standards-could-increase-gas-prices-65-cents-gallon/15528843/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 20:48:11",
+      "https://news.ycombinator.com/item?id=42102530"
+    ],
+    [
+      "The Design of a Self-Compiling C Transpiler Targeting POSIX Shell",
+      "https://dl.acm.org/doi/10.1145/3687997.3695639"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-11-10, 13:31:25",
-      "https://news.ycombinator.com/item?id=42100110"
-    ],
-    [
-      "Dobble (The Mathematics Of) (2018)",
-      "https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/"
-    ]
-  ],
-  [
-    [
       "2024-11-10, 12:11:31",
       "https://news.ycombinator.com/item?id=42099778"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-11-07, 19:38:46",
-      "https://news.ycombinator.com/item?id=42080081"
-    ],
-    [
-      "DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos",
-      "https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 10:27:06",
       "https://news.ycombinator.com/item?id=42075403"
     ],
@@ -287,6 +277,16 @@
     [
       "Mind-Bending Soviet Era Oil Rig City on the Caspian Sea",
       "https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 11:20:59",
+      "https://news.ycombinator.com/item?id=42060215"
+    ],
+    [
+      "Bthreads: A Simple and Easy Paradigm for Clojure",
+      "https://thomascothran.tech/2024/10/a-new-paradigm/"
     ]
   ],
   [
