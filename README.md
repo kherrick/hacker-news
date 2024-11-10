@@ -26,9 +26,9 @@
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
 * [2024-11-06, 22:37:34](https://news.ycombinator.com/item?id=42070630) - [Hard Cases for a Handle Theory](https://www.cabinetmagazine.org/issues/68/dolven.php)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
-* [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
+* [2024-11-02, 23:02:46](https://news.ycombinator.com/item?id=42029880) - [The Little Brass Box Company](https://www.littlebrassbox.com)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)
