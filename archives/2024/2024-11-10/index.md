@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 23:00:32](https://news.ycombinator.com/item?id=42103195) - [It's 10am and Dad's Doing Jell-O Shots. Must Be Parents' Weekend](https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532)
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape](https://social.treehouse.systems/@marcan/110252202169575508)
 * [2024-11-10, 22:01:19](https://news.ycombinator.com/item?id=42102898) - ['It's not close' – Israel committing genocide concludes Wikipedia ending debate](https://www.middleeastmonitor.com/20241108-its-not-close-israel-committing-genocide-concludes-wikipedia-ending-editorial-debate/)
 * [2024-11-10, 21:58:17](https://news.ycombinator.com/item?id=42102881) - [Another simple online DNS query tool](https://nstoolbox.com/)

@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 23:00:32](https://news.ycombinator.com/item?id=42103195) - [It's 10am and Dad's Doing Jell-O Shots. Must Be Parents' Weekend](https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532)
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape (2023)](https://social.treehouse.systems/@marcan/110252202169575508)
 * [2024-11-10, 21:58:17](https://news.ycombinator.com/item?id=42102881) - [Another simple online DNS query tool](https://nstoolbox.com/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2024-11-10, 19:56:00](https://news.ycombinator.com/item?id=42102235) - [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
-* [2024-11-10, 19:04:42](https://news.ycombinator.com/item?id=42101916) - [A life that added up to something (Obituary of Paul Erdòs)](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
 * [2024-11-10, 19:01:40](https://news.ycombinator.com/item?id=42101902) - [The history of the epigraph from Appointment in Samarra (2022)](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
