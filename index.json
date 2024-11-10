@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-11-10, 00:25:40",
+      "https://news.ycombinator.com/item?id=42097774"
+    ],
+    [
+      "LLMs have reached a point of diminishing returns",
+      "https://garymarcus.substack.com/p/confirmed-llms-have-indeed-reached"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 22:17:23",
       "https://news.ycombinator.com/item?id=42097261"
     ],
     [
       "Grim Fandango",
       "https://www.filfre.net/2024/11/grim-fandango/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 21:45:00",
-      "https://news.ycombinator.com/item?id=42097086"
-    ],
-    [
-      "With AI, the future of augmented reality is in your ears",
-      "https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-11-08, 23:46:46",
-      "https://news.ycombinator.com/item?id=42091365"
-    ],
-    [
-      "Delta: A syntax-highlighting pager for Git, diff, grep, and blame output",
-      "https://github.com/dandavison/delta"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 21:44:20",
       "https://news.ycombinator.com/item?id=42090704"
     ],
@@ -237,6 +227,16 @@
     [
       "Zig's (.{}){} Syntax",
       "https://www.openmymind.net/Zigs-weird-syntax/"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 11:14:55",
+      "https://news.ycombinator.com/item?id=42050573"
+    ],
+    [
+      "HashML-DSA Considered Harmful",
+      "https://keymaterial.net/2024/11/05/hashml-dsa-considered-harmful/"
     ]
   ],
   [
