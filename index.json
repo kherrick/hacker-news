@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-10, 07:22:07",
+      "https://news.ycombinator.com/item?id=42098921"
+    ],
+    [
+      "Brewington Hardaway Becomes First U.S. Born Black Grandmaster",
+      "https://www.chess.com/news/view/brewington-hardaway-earns-gm-title"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 07:02:35",
       "https://news.ycombinator.com/item?id=42098880"
     ],
     [
       "Earth Could Be Alien to Humans by 2500 (2021)",
       "https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 03:57:37",
+      "https://news.ycombinator.com/item?id=42098491"
+    ],
+    [
+      "Audio Decomposition – open-source seperation of music to constituent instruments",
+      "https://matthew-bird.com/blogs/Audio-Decomposition.html"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Physical Intelligence's first generalist policy AI can finally do your laundry",
       "https://www.physicalintelligence.company/blog/pi0"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 01:30:39",
-      "https://news.ycombinator.com/item?id=42097996"
-    ],
-    [
-      "Verbalize – text editor with writing assistance for Brazilian Portuguese",
-      "https://news.ycombinator.com/item?id=42097996"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI",
       "https://github.com/JohannesKaufmann/html-to-markdown"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 07:46:22",
-      "https://news.ycombinator.com/item?id=42093112"
-    ],
-    [
-      "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
-      "https://hanlab.mit.edu/blog/svdquant"
     ]
   ],
   [
