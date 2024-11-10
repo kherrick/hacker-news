@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2024-11-10, 19:23:59](https://news.ycombinator.com/item?id=42102034) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful/)
