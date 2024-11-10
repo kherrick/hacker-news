@@ -19,6 +19,7 @@
 * [2024-11-09, 16:38:08](https://news.ycombinator.com/item?id=42095302) - [When machine learning tells the wrong story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 * [2024-11-09, 14:18:24](https://news.ycombinator.com/item?id=42094546) - [FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI](https://epochai.org/frontiermath/the-benchmark)
+* [2024-11-09, 11:33:28](https://news.ycombinator.com/item?id=42093851) - [Somebody moved the UK's oldest satellite in the mid 1970s, but no one knows who](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
@@ -28,7 +29,6 @@
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
-* [2024-11-02, 23:02:46](https://news.ycombinator.com/item?id=42029880) - [The Little Brass Box Company](https://www.littlebrassbox.com)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)
