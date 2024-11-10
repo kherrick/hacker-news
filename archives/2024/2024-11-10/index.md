@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 15:17:31](https://news.ycombinator.com/item?id=42100645) - [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
 * [2024-11-10, 15:03:07](https://news.ycombinator.com/item?id=42100594) - [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
 * [2024-11-10, 14:53:36](https://news.ycombinator.com/item?id=42100560) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 14:42:12](https://news.ycombinator.com/item?id=42100499) - [ASCII Delimited Text – Not CSV or Tab Delimited Text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/)
+* [2024-11-10, 14:33:10](https://news.ycombinator.com/item?id=42100442) - [Atari ST Programming: Hatari, STOS and Turbo C](https://retrogamecoders.com/atari-st-programming-atari-stos-and-turbo-c/)
 * [2024-11-10, 13:31:25](https://news.ycombinator.com/item?id=42100110) - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-11-10, 13:30:54](https://news.ycombinator.com/item?id=42100107) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:11:31](https://news.ycombinator.com/item?id=42099778) - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
