@@ -11,6 +11,7 @@
 * [2024-11-10, 11:11:11](https://news.ycombinator.com/item?id=42099596) - [Andrej Karpathy on learning(should never be fun)](https://twitter.com/karpathy/status/1756380066580455557)
 * [2024-11-10, 10:30:47](https://news.ycombinator.com/item?id=42099472) - [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
 * [2024-11-10, 10:29:58](https://news.ycombinator.com/item?id=42099469) - [Ask HN: Where to put a static page that would last forever](https://news.ycombinator.com/item?id=42099469)
+* [2024-11-10, 10:07:37](https://news.ycombinator.com/item?id=42099398) - [Linux Asceticism](https://www.rugu.dev/en/blog/linux-asceticism/)
 * [2024-11-10, 09:39:22](https://news.ycombinator.com/item?id=42099308) - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
 * [2024-11-10, 07:22:07](https://news.ycombinator.com/item?id=42098921) - [Brewington Hardaway Becomes First U.S. Born Black Grandmaster](https://www.chess.com/news/view/brewington-hardaway-earns-gm-title)
 * [2024-11-10, 07:02:35](https://news.ycombinator.com/item?id=42098880) - [Earth Could Be Alien to Humans by 2500 (2021)](https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/)
