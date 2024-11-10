@@ -24,10 +24,10 @@
 * [2024-11-09, 17:27:30](https://news.ycombinator.com/item?id=42095580) - [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
 * [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 * [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
+* [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-05, 21:02:21](https://news.ycombinator.com/item?id=42055134) - [Honeybee gene specifies collective behavior, research shows](https://phys.org/news/2024-11-honeybee-gene-behavior.html)
-* [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
 * [2024-11-02, 14:06:12](https://news.ycombinator.com/item?id=42026468) - [Ratting on wildlife crime: training rats to detect illegally trafficked wildlife](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1444126/full)
 
