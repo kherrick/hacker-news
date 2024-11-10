@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 22:01:19](https://news.ycombinator.com/item?id=42102898) - ['It's not close' – Israel committing genocide concludes Wikipedia ending debate](https://www.middleeastmonitor.com/20241108-its-not-close-israel-committing-genocide-concludes-wikipedia-ending-editorial-debate/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
@@ -9,7 +10,6 @@
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
-* [2024-11-10, 18:05:45](https://news.ycombinator.com/item?id=42101536) - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
 * [2024-11-10, 17:46:26](https://news.ycombinator.com/item?id=42101434) - [Web Locks API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API)
 * [2024-11-10, 17:23:59](https://news.ycombinator.com/item?id=42101327) - [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
 * [2024-11-10, 17:20:26](https://news.ycombinator.com/item?id=42101312) - [What's New in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
