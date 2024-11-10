@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 15:17:31](https://news.ycombinator.com/item?id=42100645) - [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
 * [2024-11-10, 15:03:07](https://news.ycombinator.com/item?id=42100594) - [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
@@ -8,7 +9,6 @@
 * [2024-11-10, 13:31:25](https://news.ycombinator.com/item?id=42100110) - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-11-10, 13:30:54](https://news.ycombinator.com/item?id=42100107) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:11:31](https://news.ycombinator.com/item?id=42099778) - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
-* [2024-11-10, 10:07:37](https://news.ycombinator.com/item?id=42099398) - [Linux Asceticism](https://www.rugu.dev/en/blog/linux-asceticism/)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 00:51:54](https://news.ycombinator.com/item?id=42097856) - [A skeleton made from the bones of at least eight people thousands of years apart](https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/)
@@ -23,12 +23,12 @@
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
-* [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
 * [2024-11-06, 22:37:34](https://news.ycombinator.com/item?id=42070630) - [Hard Cases for a Handle Theory](https://www.cabinetmagazine.org/issues/68/dolven.php)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
 * [2024-11-04, 02:50:41](https://news.ycombinator.com/item?id=42037977) - [19th Century Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
+* [2024-11-02, 14:06:12](https://news.ycombinator.com/item?id=42026468) - [Ratting on wildlife crime: training rats to detect illegally trafficked wildlife](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1444126/full)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 
 ## [Archives](archives/index.md)

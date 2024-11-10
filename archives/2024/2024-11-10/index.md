@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 15:38:49](https://news.ycombinator.com/item?id=42100723) - [To know if big tech harms society requires research – which big tech manipulates](https://theconversation.com/is-big-tech-harming-society-to-find-out-we-need-research-but-its-being-manipulated-by-big-tech-itself-240110)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-10, 15:17:31](https://news.ycombinator.com/item?id=42100645) - [Functional architecture of cerebral cortex during naturalistic movie watching](https://www.cell.com/neuron/fulltext/S0896-6273(24)00726-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324007268%3Fshowall%3Dtrue)
 * [2024-11-10, 15:03:07](https://news.ycombinator.com/item?id=42100594) - [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
