@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-10, 07:02:35](https://news.ycombinator.com/item?id=42098880) - [Earth Could Be Alien to Humans by 2500 (2021)](https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 02:26:32](https://news.ycombinator.com/item?id=42098236) - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
 * [2024-11-10, 01:30:39](https://news.ycombinator.com/item?id=42097996) - [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
@@ -18,7 +19,6 @@
 * [2024-11-09, 11:33:28](https://news.ycombinator.com/item?id=42093851) - [Somebody moved the UK's oldest satellite in the mid 1970s, but no one knows who](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
-* [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 * [2024-11-08, 21:44:20](https://news.ycombinator.com/item?id=42090704) - [Notes on Guyana](https://mattlakeman.org/2024/11/08/notes-on-guyana/)
 * [2024-11-07, 17:00:38](https://news.ycombinator.com/item?id=42078469) - [Since the '60s, Ford has stored cars underground in a Kansas City cave](https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/)
@@ -26,8 +26,8 @@
 * [2024-11-05, 12:23:08](https://news.ycombinator.com/item?id=42050954) - [Zig's (.{}){} Syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-04, 23:12:28](https://news.ycombinator.com/item?id=42047027) - [Ticketmaster’s attempt to game arbitration services fails](https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm)
 * [2024-11-04, 19:49:16](https://news.ycombinator.com/item?id=42045373) - [HPV vaccination: How the world can eliminate cervical cancer](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)
+* [2024-11-04, 18:16:19](https://news.ycombinator.com/item?id=42044426) - [Measuring keyboard-to-photon latency with a light sensor (2023)](https://thume.ca/2020/05/20/making-a-latency-tester/)
 * [2024-11-04, 07:19:27](https://news.ycombinator.com/item?id=42039296) - [Shaderblocks: Block-based image editing](https://thejenkinscomic.net/shaderblocks/)
-* [2024-11-03, 20:47:56](https://news.ycombinator.com/item?id=42035990) - [A Brief History of Cyrix](https://www.abortretry.fail/p/a-brief-history-of-cyrix)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
 

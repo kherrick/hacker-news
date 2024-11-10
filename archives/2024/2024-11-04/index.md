@@ -31,6 +31,7 @@
 * [2024-11-04, 18:47:14](https://news.ycombinator.com/item?id=42044781) - [Netflix is removing nearly all of its interactive titles](https://www.theverge.com/2024/11/4/24287857/netflix-removing-interactive-titles-games)
 * [2024-11-04, 18:46:42](https://news.ycombinator.com/item?id=42044771) - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [2024-11-04, 18:21:59](https://news.ycombinator.com/item?id=42044494) - [Designing a Home Radio Telescope for 21 Cm Emission](https://arxiv.org/abs/2411.00057)
+* [2024-11-04, 18:16:19](https://news.ycombinator.com/item?id=42044426) - [Measuring keyboard-to-photon latency with a light sensor (2023)](https://thume.ca/2020/05/20/making-a-latency-tester/)
 * [2024-11-04, 18:13:43](https://news.ycombinator.com/item?id=42044403) - [Grindr Illegally Used RTO to Thwart Union, Forced Out 1/2 of Staff, NLRB Alleges](https://www.bloomberg.com/news/articles/2024-11-04/grindr-rto-plan-that-caused-80-terminations-was-illegally-imposed-nlrb-alleges)
 * [2024-11-04, 18:07:10](https://news.ycombinator.com/item?id=42044328) - [Bad Software Keeps Cyber Security Companies in Business](https://www.dogesec.com/blog/bad_software_keeps_security_industry_in_business/)
 * [2024-11-04, 17:50:04](https://news.ycombinator.com/item?id=42044141) - [Wi-Fi 8: Pioneering the Future of Connectivity](https://www.mediatek.com/tek-talk-blogs/wi-fi-8-pioneering-the-future-of-connectivity)
