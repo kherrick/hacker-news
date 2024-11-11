@@ -32,6 +32,7 @@
 * [2024-11-02, 14:06:12](https://news.ycombinator.com/item?id=42026468) - [Ratting on wildlife crime: training rats to detect illegally trafficked wildlife](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1444126/full)
 * [2024-11-02, 13:33:39](https://news.ycombinator.com/item?id=42026292) - [Mercedes-Benz opens its own recycling facility for EV batteries](https://arstechnica.com/cars/2024/10/mercedes-benz-opens-its-own-recycling-facility-for-ev-batteries/)
 * [2024-11-02, 13:24:05](https://news.ycombinator.com/item?id=42026251) - [Obtainium: Get Android App Updates Directly from the Source](https://obtainium.imranr.dev/)
+* [2024-11-02, 13:21:21](https://news.ycombinator.com/item?id=42026239) - [What Is a Workstation?](https://etbe.coker.com.au/2024/11/02/what-is-workstation/)
 * [2024-11-02, 13:04:50](https://news.ycombinator.com/item?id=42026167) - [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://pypi.org/project/venvstacks/)
