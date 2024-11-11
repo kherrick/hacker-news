@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
 * [2024-11-11, 16:04:51](https://news.ycombinator.com/item?id=42108109) - [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
@@ -14,7 +15,6 @@
 * [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Behaviors reveal sophisticated tool use and possible “pranking” among pachyderms](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 * [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
-* [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)

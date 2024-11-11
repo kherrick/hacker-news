@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
 * [2024-11-11, 16:04:51](https://news.ycombinator.com/item?id=42108109) - [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 * [2024-11-11, 15:46:07](https://news.ycombinator.com/item?id=42107966) - [Traditional Japanese Salted Aged Salmon Recipe for 1,000 Years [video]](https://www.youtube.com/watch?v=DLaaqv1Tykg)
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
