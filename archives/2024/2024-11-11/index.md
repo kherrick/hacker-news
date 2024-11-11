@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 18:58:08](https://news.ycombinator.com/item?id=42109544) - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 17:00:21](https://news.ycombinator.com/item?id=42108592) - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)

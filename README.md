@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 18:58:08](https://news.ycombinator.com/item?id=42109544) - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 17:00:21](https://news.ycombinator.com/item?id=42108592) - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)
@@ -11,8 +12,8 @@
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did scientists revive an extinct animal or just breed a less stripey zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
+* [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
-* [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 * [2024-11-11, 11:35:37](https://news.ycombinator.com/item?id=42106404) - [Decoding Hera](https://destevez.net/2024/11/decoding-hera/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I sent an Ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
@@ -29,7 +30,6 @@
 * [2024-11-05, 16:45:50](https://news.ycombinator.com/item?id=42053031) - [Show HN: Lyceum – An MMO game built with Zig and Erlang](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
 * [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
-* [2024-11-04, 03:38:39](https://news.ycombinator.com/item?id=42038219) - [Byoyomi Explained (1997)](https://www.britgo.org/bgj/10643.html)
 
 ## [Archives](archives/index.md)
 
