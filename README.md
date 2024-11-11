@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 17:00:21](https://news.ycombinator.com/item?id=42108592) - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)
 * [2024-11-11, 16:34:01](https://news.ycombinator.com/item?id=42108360) - [The Death and Life of Prediction Markets at Google](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)
-* [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
+* [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond (2016)](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
 * [2024-11-11, 16:23:18](https://news.ycombinator.com/item?id=42108278) - [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning [pdf]](http://www.mit.edu/~akyurek/papers/ttt.pdf)
 * [2024-11-11, 16:04:51](https://news.ycombinator.com/item?id=42108109) - [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
@@ -10,7 +11,7 @@
 * [2024-11-11, 14:10:25](https://news.ycombinator.com/item?id=42107212) - [A hot day, a fan provides little benefit when the temperature exceeds 35°C](https://www.science.org/content/article/when-is-it-too-hot-use-fan)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
-* [2024-11-11, 11:40:03](https://news.ycombinator.com/item?id=42106427) - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
+* [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 * [2024-11-11, 11:35:37](https://news.ycombinator.com/item?id=42106404) - [Decoding Hera](https://destevez.net/2024/11/decoding-hera/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I sent an Ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
@@ -29,7 +30,6 @@
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
 * [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
 * [2024-11-04, 03:38:39](https://news.ycombinator.com/item?id=42038219) - [Byoyomi Explained (1997)](https://www.britgo.org/bgj/10643.html)
-* [2024-11-02, 13:21:21](https://news.ycombinator.com/item?id=42026239) - [What Is a Workstation?](https://etbe.coker.com.au/2024/11/02/what-is-workstation/)
 
 ## [Archives](archives/index.md)
 
