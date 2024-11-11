@@ -54,6 +54,7 @@
 * [2024-11-03, 12:17:24](https://news.ycombinator.com/item?id=42032638) - [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
 * [2024-11-03, 12:05:19](https://news.ycombinator.com/item?id=42032580) - [Looking Back to Move Forward: The Power of Scientific History](https://tobiacavalli.com/blog/looking-back-to-move-forward/)
 * [2024-11-03, 11:56:22](https://news.ycombinator.com/item?id=42032550) - [Quantum Machines, Nvidia use machine learning to get closer to quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
+* [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 * [2024-11-03, 11:17:56](https://news.ycombinator.com/item?id=42032411) - [Show HN: Kis.tools – A directory of tools that work](https://kis.tools)
 * [2024-11-03, 11:09:08](https://news.ycombinator.com/item?id=42032387) - [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
 * [2024-11-03, 09:32:13](https://news.ycombinator.com/item?id=42032065) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)

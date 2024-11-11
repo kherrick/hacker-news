@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-11, 21:02:11](https://news.ycombinator.com/item?id=42110407) - [High Levels of Banned PFAS Detected in Hershey's Packaging](https://grizzlyreports.com/hsy/)
+* [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
 * [2024-11-11, 20:58:29](https://news.ycombinator.com/item?id=42110379) - [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
 * [2024-11-11, 20:29:20](https://news.ycombinator.com/item?id=42110194) - [The online sports gambling experiment](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
@@ -18,7 +18,6 @@
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat works – a chord naming algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
-* [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I sent an Ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-09, 06:19:58](https://news.ycombinator.com/item?id=42092835) - [Moore Curve Voronoi Animation](https://bleuje.com/js_sketches/moore-voronoi/)
@@ -30,6 +29,7 @@
 * [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
+* [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 
 ## [Archives](archives/index.md)
 
