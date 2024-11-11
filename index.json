@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42108816"
     ],
     [
-      "Optimizing a WebGPU Kernel to 1TFLOP of Performance",
+      "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
       "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
     ]
   ],
