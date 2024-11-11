@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 14:41:26](https://news.ycombinator.com/item?id=42107461) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 * [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
-* [2024-11-11, 13:56:32](https://news.ycombinator.com/item?id=42107120) - [Memecoins Are the Point](http://jpkoning.blogspot.com/2024/10/memecoins-are-point.html)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
@@ -12,7 +12,7 @@
 * [2024-11-11, 11:35:37](https://news.ycombinator.com/item?id=42106404) - [Decoding Hera](https://destevez.net/2024/11/decoding-hera/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I sent an Ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
-* [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
+* [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Behaviors reveal sophisticated tool use and possible “pranking” among pachyderms](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 * [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
