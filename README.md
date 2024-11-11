@@ -2,6 +2,7 @@
 
 * [2024-11-11, 22:43:22](https://news.ycombinator.com/item?id=42111120) - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
 * [2024-11-11, 22:39:25](https://news.ycombinator.com/item?id=42111094) - [Misguided Apple Intelligence ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
+* [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
 * [2024-11-11, 20:58:29](https://news.ycombinator.com/item?id=42110379) - [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
@@ -26,7 +27,6 @@
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
-* [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
