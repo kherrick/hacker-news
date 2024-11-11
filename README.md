@@ -6,7 +6,6 @@
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
 * [2024-11-11, 20:58:29](https://news.ycombinator.com/item?id=42110379) - [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
-* [2024-11-11, 20:29:20](https://news.ycombinator.com/item?id=42110194) - [The online sports gambling experiment](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
 * [2024-11-11, 20:20:08](https://news.ycombinator.com/item?id=42110149) - [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
@@ -30,6 +29,7 @@
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
+* [2024-11-02, 12:41:10](https://news.ycombinator.com/item?id=42026048) - [Question Sets and All Paths](https://andrewpwheeler.com/2024/11/02/question-sets-and-all-paths/)
 
 ## [Archives](archives/index.md)
 

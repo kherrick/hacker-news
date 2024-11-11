@@ -35,6 +35,7 @@
 * [2024-11-02, 13:21:21](https://news.ycombinator.com/item?id=42026239) - [What Is a Workstation?](https://etbe.coker.com.au/2024/11/02/what-is-workstation/)
 * [2024-11-02, 13:04:50](https://news.ycombinator.com/item?id=42026167) - [Saving Satoshi: An open-source game for learning Bitcoin programming](https://savingsatoshi.com/)
 * [2024-11-02, 12:42:07](https://news.ycombinator.com/item?id=42026054) - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
+* [2024-11-02, 12:41:10](https://news.ycombinator.com/item?id=42026048) - [Question Sets and All Paths](https://andrewpwheeler.com/2024/11/02/question-sets-and-all-paths/)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://pypi.org/project/venvstacks/)
 * [2024-11-02, 12:19:24](https://news.ycombinator.com/item?id=42025951) - [Venvstacks: Virtual Environment Stacks for Python](https://lmstudio.ai/blog/venvstacks)
 * [2024-11-02, 11:48:06](https://news.ycombinator.com/item?id=42025785) - [Fact [pdf]](https://ranjitjhala.github.io/static/fact_dsl.pdf)
