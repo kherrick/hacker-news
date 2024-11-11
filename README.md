@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 01:36:01](https://news.ycombinator.com/item?id=42103910) - [Who Would Support Deploying the Military to Domestic Protests?](https://www.lawfaremedia.org/article/who-would-support-deploying-the-military-to-domestic-protests)
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
-* [2024-11-11, 01:06:22](https://news.ycombinator.com/item?id=42103761) - [Standing Desk Might Be as Bad as Sitting All Day](https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day)
 * [2024-11-11, 00:19:29](https://news.ycombinator.com/item?id=42103576) - [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
 * [2024-11-10, 23:10:33](https://news.ycombinator.com/item?id=42103257) - [Australia's 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape (2023)](https://social.treehouse.systems/@marcan/110252202169575508)
