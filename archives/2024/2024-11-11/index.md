@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 12:00:13](https://news.ycombinator.com/item?id=42106538) - [Haven (YC W23) Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
+* [2024-11-11, 11:40:03](https://news.ycombinator.com/item?id=42106427) - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
 * [2024-11-11, 10:02:10](https://news.ycombinator.com/item?id=42105869) - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
+* [2024-11-11, 09:57:35](https://news.ycombinator.com/item?id=42105835) - [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 09:46:38](https://news.ycombinator.com/item?id=42105767) - [Java-Based No-Code and Low-Code Application Bootstrapping Tools Review](https://www.infoq.com/articles/java-no-code-bootstrapping-tools/)
 * [2024-11-11, 08:50:43](https://news.ycombinator.com/item?id=42105508) - [Mattel apologises after Wicked movie dolls link to porn site on packaging](https://www.theguardian.com/film/2024/nov/11/mattel-apologises-after-mistakenly-linking-to-porn-website-on-wicked-dolls)
