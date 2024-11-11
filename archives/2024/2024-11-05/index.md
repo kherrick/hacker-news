@@ -72,6 +72,7 @@
 * [2024-11-05, 05:20:04](https://news.ycombinator.com/item?id=42048795) - [MrBeast's pitch decks get leaked](https://www.indiehackers.com/post/creators/mrbeasts-pitch-decks-get-leaked-and-they-aren-t-pretty-yJl2DI4mrKBcbtZixoB9)
 * [2024-11-05, 04:36:45](https://news.ycombinator.com/item?id=42048640) - [The average age of U.S. homebuyers jumps to 56](https://www.cnbc.com/2024/11/04/homebuyer-average-age-rises-to-56-amid-rising-homeownership-costs.html)
 * [2024-11-05, 03:31:41](https://news.ycombinator.com/item?id=42048362) - [Internet Archive Services Update](https://blog.archive.org/2024/10/28/internet-archive-services-update/)
+* [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The Heist That Made the Mona Lisa Famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-05, 02:47:19](https://news.ycombinator.com/item?id=42048160) - [New OpenAI Feature: Predicted Outputs](https://simonwillison.net/2024/Nov/4/predicted-outputs/)
 * [2024-11-05, 02:45:05](https://news.ycombinator.com/item?id=42048153) - [Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug](https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985)
 * [2024-11-05, 02:39:50](https://news.ycombinator.com/item?id=42048129) - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
