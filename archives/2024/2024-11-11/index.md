@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
 * [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)

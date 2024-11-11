@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
 * [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
@@ -21,7 +22,6 @@
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
-* [2024-11-07, 20:11:38](https://news.ycombinator.com/item?id=42080434) - [Probing unknown unknowns: A new generation of telescopes](https://mappingignorance.org/2024/10/30/probing-unknown-unknowns-a-new-generation-of-telescopes/)
 * [2024-11-07, 20:02:10](https://news.ycombinator.com/item?id=42080327) - [Tickets Are for Remembering](https://www.publicbooks.org/tickets-are-for-remembering/)
 * [2024-11-07, 10:27:06](https://news.ycombinator.com/item?id=42075403) - [Memory64](https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
