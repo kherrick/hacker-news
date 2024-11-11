@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-11, 08:25:35](https://news.ycombinator.com/item?id=42105400) - [TSMC cannot make 2nm chips abroad now: MOEA](https://www.taipeitimes.com/News/biz/archives/2024/11/08/2003826545)
-* [2024-11-11, 07:55:59](https://news.ycombinator.com/item?id=42105274) - [Apple courier may have stolen 2 MacBooks, ... Apple is not going to help](https://forums.macrumors.com/threads/apple-courier-uber-may-have-stolen-2-macbooks-i-bought-and-its-looking-like-apple-is-not-going-to-help.2441932/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
@@ -25,6 +24,7 @@
 * [2024-11-06, 18:33:58](https://news.ycombinator.com/item?id=42067016) - [In-Bed Emergency Protection from Phone-on-Face Drops](https://www.core77.com/posts/134219/In-Bed-Emergency-Protection-From-Phone-on-Face-Drops)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-06, 11:54:06](https://news.ycombinator.com/item?id=42060663) - [Review of Vienna: How the City of Ideas Created the Modern World](https://www.nybooks.com/articles/2024/11/21/the-legacy-of-red-vienna-richard-cockett-uglow/)
+* [2024-11-06, 11:20:59](https://news.ycombinator.com/item?id=42060215) - [Bthreads: A Simple and Easy Paradigm for Clojure](https://thomascothran.tech/2024/10/a-new-paradigm/)
 * [2024-11-05, 18:59:14](https://news.ycombinator.com/item?id=42054246) - [Scientists decipher two-photon vision](https://phys.org/news/2024-11-scientists-decipher-photon-vision.html)
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
