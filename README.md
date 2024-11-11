@@ -6,7 +6,6 @@
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [Inside the $20M business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 * [2024-11-11, 14:10:25](https://news.ycombinator.com/item?id=42107212) - [A hot day, a fan provides little benefit when the temperature exceeds 35°C](https://www.science.org/content/article/when-is-it-too-hot-use-fan)
-* [2024-11-11, 14:08:34](https://news.ycombinator.com/item?id=42107196) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
 * [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
@@ -17,6 +16,7 @@
 * [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Behaviors reveal sophisticated tool use and possible “pranking” among pachyderms](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 * [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
+* [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
@@ -27,9 +27,9 @@
 * [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 16:45:50](https://news.ycombinator.com/item?id=42053031) - [Show HN: Lyceum – An MMO game built with Zig and Erlang](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
+* [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
 * [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
 * [2024-11-04, 03:38:39](https://news.ycombinator.com/item?id=42038219) - [Byoyomi Explained (1997)](https://www.britgo.org/bgj/10643.html)
-* [2024-11-03, 00:17:26](https://news.ycombinator.com/item?id=42030233) - [Data movement bottlenecks to large-scale model training: Scaling past 1e28 FLOP](https://epochai.org/blog/data-movement-bottlenecks-scaling-past-1e28-flop)
 
 ## [Archives](archives/index.md)
 
