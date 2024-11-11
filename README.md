@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-11, 19:25:37](https://news.ycombinator.com/item?id=42109751) - ['Brain stars' store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)
+* [2024-11-11, 19:43:17](https://news.ycombinator.com/item?id=42109892) - [PGQueuer v0.15.0 Released – Now with Recurring Job Scheduling](https://github.com/janbjorge/pgqueuer/releases/tag/v0.15.0)
 * [2024-11-11, 18:58:08](https://news.ycombinator.com/item?id=42109544) - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:41:19](https://news.ycombinator.com/item?id=42108907) - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
