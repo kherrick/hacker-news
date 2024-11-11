@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 12:44:05](https://news.ycombinator.com/item?id=42106724) - [\"The Hatpin Peril\" Terrorized Men Who Couldn't Handle the 20th-Century Woman](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:06:22](https://news.ycombinator.com/item?id=42106568) - [ERP rollout at Europe's largest local council slammed](https://www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/)
 * [2024-11-11, 12:00:13](https://news.ycombinator.com/item?id=42106538) - [Haven (YC W23) Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
@@ -16,7 +17,6 @@
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
-* [2024-11-10, 17:23:59](https://news.ycombinator.com/item?id=42101327) - [Procrastination and the fear of not being good enough](https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
