@@ -2,7 +2,6 @@
 
 * [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
-* [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 * [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 * [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
@@ -22,13 +21,14 @@
 * [2024-11-10, 15:21:00](https://news.ycombinator.com/item?id=42100660) - [Typesetting Engines: A Programmer's Perspective](https://blog.ppresume.com/posts/on-typesetting-engines)
 * [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
+* [2024-11-07, 20:11:38](https://news.ycombinator.com/item?id=42080434) - [Probing unknown unknowns: A new generation of telescopes](https://mappingignorance.org/2024/10/30/probing-unknown-unknowns-a-new-generation-of-telescopes/)
 * [2024-11-07, 20:02:10](https://news.ycombinator.com/item?id=42080327) - [Tickets Are for Remembering](https://www.publicbooks.org/tickets-are-for-remembering/)
 * [2024-11-07, 10:27:06](https://news.ycombinator.com/item?id=42075403) - [Memory64](https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-06, 11:20:59](https://news.ycombinator.com/item?id=42060215) - [Bthreads: A Simple and Easy Paradigm for Clojure](https://thomascothran.tech/2024/10/a-new-paradigm/)
 * [2024-11-05, 18:59:14](https://news.ycombinator.com/item?id=42054246) - [Scientists decipher two-photon vision](https://phys.org/news/2024-11-scientists-decipher-photon-vision.html)
-* [2024-11-05, 18:21:33](https://news.ycombinator.com/item?id=42053932) - [Western Digital SSDs and Legacy Macs](https://www.geeklan.co.uk/?p=3354)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
+* [2024-11-04, 09:38:54](https://news.ycombinator.com/item?id=42039957) - [Languages ... by finite semigroups [generalised to] trees and graphs (2020)[pdf]](https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf)
 * [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
 
 ## [Archives](archives/index.md)

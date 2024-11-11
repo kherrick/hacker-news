@@ -79,6 +79,7 @@
 * [2024-11-04, 11:34:45](https://news.ycombinator.com/item?id=42040600) - [Is yt-dlp/yt-dlp compromised?](https://github.com/yt-dlp/yt-dlp/releases)
 * [2024-11-04, 11:25:25](https://news.ycombinator.com/item?id=42040549) - [Limitations of Frame Pointer Unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 * [2024-11-04, 10:22:47](https://news.ycombinator.com/item?id=42040189) - [Ask HN: Niche technical knowledge not found on the internet?](https://news.ycombinator.com/item?id=42040189)
+* [2024-11-04, 09:38:54](https://news.ycombinator.com/item?id=42039957) - [Languages ... by finite semigroups [generalised to] trees and graphs (2020)[pdf]](https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf)
 * [2024-11-04, 09:35:19](https://news.ycombinator.com/item?id=42039935) - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 * [2024-11-04, 08:41:22](https://news.ycombinator.com/item?id=42039683) - [Moving my website from Netlify to Caddy](https://alexwlchan.net/2024/netlify-to-caddy/)
 * [2024-11-04, 08:18:53](https://news.ycombinator.com/item?id=42039596) - [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
