@@ -48,6 +48,7 @@
 * [2024-11-08, 13:11:47](https://news.ycombinator.com/item?id=42086577) - [Functional Programming in Go](https://bitfieldconsulting.com/posts/functional)
 * [2024-11-08, 13:07:24](https://news.ycombinator.com/item?id=42086555) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
+* [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
 * [2024-11-08, 07:43:02](https://news.ycombinator.com/item?id=42085036) - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
 * [2024-11-08, 07:30:31](https://news.ycombinator.com/item?id=42084977) - [Perceptually lossless (talking head) video compression at 22kbit/s](https://mlumiste.com/technical/liveportrait-compression/)
