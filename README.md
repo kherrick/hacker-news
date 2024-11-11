@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 22:20:05](https://news.ycombinator.com/item?id=42110959) - [Ben Horowitz's Cozy Relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
 * [2024-11-11, 20:58:29](https://news.ycombinator.com/item?id=42110379) - [Homage to Alexander Grothendieck](https://igrothendieck.org/en/homage-to-alexander-grothendieck/)
@@ -11,7 +12,6 @@
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 16:34:01](https://news.ycombinator.com/item?id=42108360) - [The death and life of prediction markets at Google](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)
 * [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond (2016)](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
-* [2024-11-11, 16:23:18](https://news.ycombinator.com/item?id=42108278) - [The surprising effectiveness of test-time training for abstract reasoning [pdf]](https://www.mit.edu/~akyurek/papers/ttt.pdf)
 * [2024-11-11, 16:04:51](https://news.ycombinator.com/item?id=42108109) - [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 * [2024-11-11, 16:00:10](https://news.ycombinator.com/item?id=42108077) - [Brian Kernighan Reflects on Unix: A History and a Memoir [video]](https://www.youtube.com/watch?v=VloimYuCxBs)
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did scientists revive an extinct animal or just breed a less stripey zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
