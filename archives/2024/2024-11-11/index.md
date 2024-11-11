@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Kernel to 1TFLOP of Performance](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 17:00:21](https://news.ycombinator.com/item?id=42108592) - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)
 * [2024-11-11, 16:34:01](https://news.ycombinator.com/item?id=42108360) - [The Death and Life of Prediction Markets at Google](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google)
