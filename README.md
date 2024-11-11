@@ -2,6 +2,7 @@
 
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 * [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
+* [2024-11-11, 13:56:32](https://news.ycombinator.com/item?id=42107120) - [Memecoins Are the Point](http://jpkoning.blogspot.com/2024/10/memecoins-are-point.html)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
@@ -17,7 +18,6 @@
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
-* [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-08, 18:46:19](https://news.ycombinator.com/item?id=42089407) - [Why langurs drink salt water](https://nachrichten.idw-online.de/2024/10/28/why-langurs-drink-salt-water)
