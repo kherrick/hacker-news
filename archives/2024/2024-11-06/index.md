@@ -47,6 +47,7 @@
 * [2024-11-06, 11:20:59](https://news.ycombinator.com/item?id=42060215) - [Bthreads: A Simple and Easy Paradigm for Clojure](https://thomascothran.tech/2024/10/a-new-paradigm/)
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-06, 10:18:45](https://news.ycombinator.com/item?id=42059336) - [Understanding Ruby 3.3 Concurrency: A Comprehensive Guide](https://blog.bestwebventures.in/understanding-ruby-concurrency-a-comprehensive-guide)
+* [2024-11-06, 09:54:21](https://news.ycombinator.com/item?id=42058920) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-06, 09:52:03](https://news.ycombinator.com/item?id=42058888) - [Iterative α-(de)blending and Stochastic Interpolants](http://nicktasios.nl/posts/iterative-alpha-deblending/)
 * [2024-11-06, 09:07:17](https://news.ycombinator.com/item?id=42058355) - [3D Rotation Design](https://www.mattkeeter.com/projects/rotation/)
 * [2024-11-06, 09:06:00](https://news.ycombinator.com/item?id=42058345) - [Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering](https://medium.com/@med.elhamly/segmenting-credit-card-customers-with-k-means-a-fun-dive-into-clustering-c7d2ed519b55)
