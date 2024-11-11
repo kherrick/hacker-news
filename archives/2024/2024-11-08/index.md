@@ -49,6 +49,7 @@
 * [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to Self-Host All of Bluesky](https://alice.bsky.sh)
 * [2024-11-08, 13:11:47](https://news.ycombinator.com/item?id=42086577) - [Functional Programming in Go](https://bitfieldconsulting.com/posts/functional)
 * [2024-11-08, 13:07:24](https://news.ycombinator.com/item?id=42086555) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
+* [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 08:30:54](https://news.ycombinator.com/item?id=42085273) - [Λ-2D: An Exploration of Drawing as Programming Language](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
@@ -69,3 +70,4 @@
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
 * [2024-11-08, 00:44:32](https://news.ycombinator.com/item?id=42082892) - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 * [2024-11-08, 00:38:30](https://news.ycombinator.com/item?id=42082841) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
+* [2024-11-08, 00:25:49](https://news.ycombinator.com/item?id=42082746) - [A brief history of the word \"fuck\"](https://lithub.com/a-brief-history-of-the-most-famous-swear-word-in-the-world/)
