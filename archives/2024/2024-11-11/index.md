@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 19:25:37](https://news.ycombinator.com/item?id=42109751) - ['Brain stars' store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)
 * [2024-11-11, 19:20:37](https://news.ycombinator.com/item?id=42109712) - [LICENSE.TXT [video]](https://www.youtube.com/watch?v=CUleKnUUaGI)
 * [2024-11-11, 18:58:08](https://news.ycombinator.com/item?id=42109544) - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
