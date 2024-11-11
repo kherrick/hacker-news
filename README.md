@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
 * [2024-11-11, 01:36:01](https://news.ycombinator.com/item?id=42103910) - [Who Would Support Deploying the Military to Domestic Protests?](https://www.lawfaremedia.org/article/who-would-support-deploying-the-military-to-domestic-protests)
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-11, 00:19:29](https://news.ycombinator.com/item?id=42103576) - [Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%](https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585)
@@ -7,9 +8,7 @@
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape (2023)](https://social.treehouse.systems/@marcan/110252202169575508)
 * [2024-11-10, 21:58:17](https://news.ycombinator.com/item?id=42102881) - [Another simple online DNS query tool](https://nstoolbox.com/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
-* [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
-* [2024-11-10, 19:56:00](https://news.ycombinator.com/item?id=42102235) - [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
 * [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
@@ -30,6 +29,7 @@
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)
 * [2024-11-06, 11:20:59](https://news.ycombinator.com/item?id=42060215) - [Bthreads: A Simple and Easy Paradigm for Clojure](https://thomascothran.tech/2024/10/a-new-paradigm/)
 * [2024-11-05, 18:59:14](https://news.ycombinator.com/item?id=42054246) - [Scientists decipher two-photon vision](https://phys.org/news/2024-11-scientists-decipher-photon-vision.html)
+* [2024-11-05, 18:21:33](https://news.ycombinator.com/item?id=42053932) - [Western Digital SSDs and Legacy Macs](https://www.geeklan.co.uk/?p=3354)
 
 ## [Archives](archives/index.md)
 

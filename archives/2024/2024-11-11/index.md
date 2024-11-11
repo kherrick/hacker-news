@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 02:25:49](https://news.ycombinator.com/item?id=42104144) - [Welcome to the Antarctic Fire Department](http://www.antarcticfire.org/)
 * [2024-11-11, 01:36:01](https://news.ycombinator.com/item?id=42103910) - [Who Would Support Deploying the Military to Domestic Protests?](https://www.lawfaremedia.org/article/who-would-support-deploying-the-military-to-domestic-protests)
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-11, 01:06:22](https://news.ycombinator.com/item?id=42103761) - [Standing Desk Might Be as Bad as Sitting All Day](https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day)
