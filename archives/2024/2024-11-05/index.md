@@ -24,6 +24,7 @@
 * [2024-11-05, 20:05:02](https://news.ycombinator.com/item?id=42054718) - [First wooden satellite launched into space](https://phys.org/news/2024-11-world-wooden-satellite-space.html)
 * [2024-11-05, 19:43:34](https://news.ycombinator.com/item?id=42054569) - [Vega's Puzzling Disk](https://www.centauri-dreams.org/2024/11/05/vegas-puzzling-disk/)
 * [2024-11-05, 19:27:15](https://news.ycombinator.com/item?id=42054449) - [First time ever, AMD outsells Intel in the datacenter space](https://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space)
+* [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 18:59:14](https://news.ycombinator.com/item?id=42054246) - [Scientists decipher two-photon vision](https://phys.org/news/2024-11-scientists-decipher-photon-vision.html)
 * [2024-11-05, 18:52:09](https://news.ycombinator.com/item?id=42054186) - [Tencent drops a 389B MoE model(Open-source and free for commercial use))](https://github.com/Tencent/Tencent-Hunyuan-Large)
 * [2024-11-05, 18:49:01](https://news.ycombinator.com/item?id=42054162) - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)

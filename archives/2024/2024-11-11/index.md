@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:06:22](https://news.ycombinator.com/item?id=42106568) - [ERP rollout at Europe's largest local council slammed](https://www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/)
 * [2024-11-11, 12:00:13](https://news.ycombinator.com/item?id=42106538) - [Haven (YC W23) Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
+* [2024-11-11, 11:52:44](https://news.ycombinator.com/item?id=42106504) - [A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth](https://www.theregister.com/2024/11/11/mark_shuttleworth_ubuntu_interview/)
 * [2024-11-11, 11:40:03](https://news.ycombinator.com/item?id=42106427) - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
 * [2024-11-11, 10:02:10](https://news.ycombinator.com/item?id=42105869) - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
 * [2024-11-11, 09:57:35](https://news.ycombinator.com/item?id=42105835) - [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
