@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 10:02:10](https://news.ycombinator.com/item?id=42105869) - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
 * [2024-11-11, 08:25:35](https://news.ycombinator.com/item?id=42105400) - [TSMC cannot make 2nm chips abroad now: MOEA](https://www.taipeitimes.com/News/biz/archives/2024/11/08/2003826545)
 * [2024-11-11, 07:55:59](https://news.ycombinator.com/item?id=42105274) - [Apple courier may have stolen 2 MacBooks, ... Apple is not going to help](https://forums.macrumors.com/threads/apple-courier-uber-may-have-stolen-2-macbooks-i-bought-and-its-looking-like-apple-is-not-going-to-help.2441932/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
