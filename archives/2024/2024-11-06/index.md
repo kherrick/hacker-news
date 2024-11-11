@@ -58,6 +58,7 @@
 * [2024-11-06, 08:31:42](https://news.ycombinator.com/item?id=42058097) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 * [2024-11-06, 08:30:26](https://news.ycombinator.com/item?id=42058091) - [Perhaps Rust Needs \"Defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 07:59:01](https://news.ycombinator.com/item?id=42057964) - [Pushed Authorization Requests (Par) in Asp.net Core 9](https://nestenius.se/net/pushed-authorization-requests-par-in-asp-net-core-9/)
+* [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-06, 07:30:37](https://news.ycombinator.com/item?id=42057851) - [New images of Jupiter (Oct 2024)](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
 * [2024-11-06, 07:28:56](https://news.ycombinator.com/item?id=42057841) - [How to Flatten nested JSON arrays (2024)](https://datazip.io/blog/flatten-array/)
 * [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
