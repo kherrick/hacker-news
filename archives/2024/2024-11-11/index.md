@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 19:43:17](https://news.ycombinator.com/item?id=42109892) - [PGQueuer v0.15.0 Released – Now with Recurring Job Scheduling](https://github.com/janbjorge/pgqueuer/releases/tag/v0.15.0)
 * [2024-11-11, 19:25:37](https://news.ycombinator.com/item?id=42109751) - ['Brain stars' store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)
 * [2024-11-11, 19:20:37](https://news.ycombinator.com/item?id=42109712) - [LICENSE.TXT [video]](https://www.youtube.com/watch?v=CUleKnUUaGI)

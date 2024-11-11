@@ -41,6 +41,7 @@
 * [2024-11-09, 09:12:30](https://news.ycombinator.com/item?id=42093394) - [When you ask ChatGPT \"Tell me a story\" it's always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
+* [2024-11-09, 06:19:58](https://news.ycombinator.com/item?id=42092835) - [Moore Curve Voronoi Animation](https://bleuje.com/js_sketches/moore-voronoi/)
 * [2024-11-09, 05:54:51](https://news.ycombinator.com/item?id=42092755) - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
 * [2024-11-09, 04:01:29](https://news.ycombinator.com/item?id=42092453) - [Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos](https://allthatsinteresting.com/glyptodon-fossils)
