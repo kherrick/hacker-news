@@ -21,12 +21,22 @@
   ],
   [
     [
-      "2024-11-11, 09:46:38",
-      "https://news.ycombinator.com/item?id=42105767"
+      "2024-11-11, 08:50:43",
+      "https://news.ycombinator.com/item?id=42105508"
     ],
     [
-      "Java-Based No-Code and Low-Code Application Bootstrapping Tools Review",
-      "https://www.infoq.com/articles/java-no-code-bootstrapping-tools/"
+      "Mattel apologises after Wicked movie dolls link to porn site on packaging",
+      "https://www.theguardian.com/film/2024/nov/11/mattel-apologises-after-mistakenly-linking-to-porn-website-on-wicked-dolls"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 08:25:32",
+      "https://news.ycombinator.com/item?id=42105398"
+    ],
+    [
+      "Australian scientists thought to be on the verge of curing paralysis",
+      "https://www.9news.com.au/national/spinal-cord-research-trials-using-nerve-cells-from-nose-to-treat-paralysis-queensland-griffith-university/a90c494b-1042-4ab3-b631-67e9d565ceb2"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Apple threatened workers over their talk about pay and remote work, feds charge",
       "https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 04:08:05",
-      "https://news.ycombinator.com/item?id=42104531"
-    ],
-    [
-      "Virtual Windows 3.11 Computer",
-      "https://pieter.com/"
     ]
   ],
   [
@@ -161,22 +161,12 @@
   ],
   [
     [
-      "2024-11-10, 17:46:26",
-      "https://news.ycombinator.com/item?id=42101434"
+      "2024-11-10, 17:23:59",
+      "https://news.ycombinator.com/item?id=42101327"
     ],
     [
-      "Web Locks API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 16:53:19",
-      "https://news.ycombinator.com/item?id=42101181"
-    ],
-    [
-      "OpenID Connect specifications published as ISO standards",
-      "https://self-issued.info/?p=2573"
+      "Procrastination and the fear of not being good enough",
+      "https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-11-06, 18:33:58",
-      "https://news.ycombinator.com/item?id=42067016"
+      "2024-11-07, 10:27:06",
+      "https://news.ycombinator.com/item?id=42075403"
     ],
     [
-      "In-Bed Emergency Protection from Phone-on-Face Drops",
-      "https://www.core77.com/posts/134219/In-Bed-Emergency-Protection-From-Phone-on-Face-Drops"
+      "Memory64",
+      "https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Review of Vienna: How the City of Ideas Created the Modern World",
       "https://www.nybooks.com/articles/2024/11/21/the-legacy-of-red-vienna-richard-cockett-uglow/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 11:20:59",
+      "https://news.ycombinator.com/item?id=42060215"
+    ],
+    [
+      "Bthreads: A Simple and Easy Paradigm for Clojure",
+      "https://thomascothran.tech/2024/10/a-new-paradigm/"
     ]
   ],
   [
