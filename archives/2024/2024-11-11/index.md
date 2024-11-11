@@ -11,6 +11,7 @@
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 * [2024-11-11, 14:41:26](https://news.ycombinator.com/item?id=42107461) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
+* [2024-11-11, 14:08:34](https://news.ycombinator.com/item?id=42107196) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
 * [2024-11-11, 13:56:32](https://news.ycombinator.com/item?id=42107120) - [Memecoins Are the Point](http://jpkoning.blogspot.com/2024/10/memecoins-are-point.html)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
