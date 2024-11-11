@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-11, 14:41:26](https://news.ycombinator.com/item?id=42107461) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
+* [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
-* [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
@@ -18,6 +17,7 @@
 * [2024-11-11, 01:13:22](https://news.ycombinator.com/item?id=42103788) - [Evolving a NoSQL Database Schema](https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 18:40:25](https://news.ycombinator.com/item?id=42101742) - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
+* [2024-11-10, 18:37:49](https://news.ycombinator.com/item?id=42101729) - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
 * [2024-11-10, 18:30:55](https://news.ycombinator.com/item?id=42101688) - [Bjorn: A powerful network scanning and offensive security tool for Raspberry Pi](https://github.com/infinition/Bjorn)
 * [2024-11-10, 15:58:25](https://news.ycombinator.com/item?id=42100819) - [Show HN: Chonkie – A Fast, Lightweight Text Chunking Library for RAG](https://github.com/bhavnicksm/chonkie)
 * [2024-11-08, 18:46:19](https://news.ycombinator.com/item?id=42089407) - [Why langurs drink salt water](https://nachrichten.idw-online.de/2024/10/28/why-langurs-drink-salt-water)
@@ -27,9 +27,9 @@
 * [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 16:45:50](https://news.ycombinator.com/item?id=42053031) - [Show HN: Lyceum – An MMO game built with Zig and Erlang](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
-* [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
 * [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
 * [2024-11-04, 03:38:39](https://news.ycombinator.com/item?id=42038219) - [Byoyomi Explained (1997)](https://www.britgo.org/bgj/10643.html)
+* [2024-11-03, 00:17:26](https://news.ycombinator.com/item?id=42030233) - [Data movement bottlenecks to large-scale model training: Scaling past 1e28 FLOP](https://epochai.org/blog/data-movement-bottlenecks-scaling-past-1e28-flop)
 
 ## [Archives](archives/index.md)
 

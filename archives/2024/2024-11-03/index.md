@@ -74,3 +74,4 @@
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-03, 01:44:41](https://news.ycombinator.com/item?id=42030615) - [The evolutionary mystery of the German cockroach](https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
+* [2024-11-03, 00:17:26](https://news.ycombinator.com/item?id=42030233) - [Data movement bottlenecks to large-scale model training: Scaling past 1e28 FLOP](https://epochai.org/blog/data-movement-bottlenecks-scaling-past-1e28-flop)
