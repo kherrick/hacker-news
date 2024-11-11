@@ -6,6 +6,8 @@
 
 * [2024-11-11, 21:02:11](https://news.ycombinator.com/item?id=42110407) - [High Levels of Banned PFAS Detected in Hershey's Packaging](https://grizzlyreports.com/hsy/)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
+* [2024-11-11, 20:29:20](https://news.ycombinator.com/item?id=42110194) - [The Online Sports Gambling Experiment Has Failed](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
+* [2024-11-11, 20:20:08](https://news.ycombinator.com/item?id=42110149) - [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 19:43:17](https://news.ycombinator.com/item?id=42109892) - [PGQueuer v0.15.0 Released – Now with Recurring Job Scheduling](https://github.com/janbjorge/pgqueuer/releases/tag/v0.15.0)
 * [2024-11-11, 19:25:37](https://news.ycombinator.com/item?id=42109751) - ['Brain stars' store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)

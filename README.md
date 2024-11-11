@@ -2,6 +2,8 @@
 
 * [2024-11-11, 21:02:11](https://news.ycombinator.com/item?id=42110407) - [High Levels of Banned PFAS Detected in Hershey's Packaging](https://grizzlyreports.com/hsy/)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
+* [2024-11-11, 20:29:20](https://news.ycombinator.com/item?id=42110194) - [The Online Sports Gambling Experiment Has Failed](https://thezvi.substack.com/p/the-online-sports-gambling-experiment)
+* [2024-11-11, 20:20:08](https://news.ycombinator.com/item?id=42110149) - [Security Is a Useless Controls Problem](https://securityis.substack.com/p/security-is-a-useless-controls-problem)
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:41:19](https://news.ycombinator.com/item?id=42108907) - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
@@ -19,17 +21,15 @@
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I sent an Ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Behaviors reveal sophisticated tool use and possible “pranking” among pachyderms](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
-* [2024-11-11, 02:45:26](https://news.ycombinator.com/item?id=42104224) - [Show HN: Krita RGBA Tech – Bringing Realistic Metal to Life in Open-Source Art](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-09, 06:19:58](https://news.ycombinator.com/item?id=42092835) - [Moore Curve Voronoi Animation](https://bleuje.com/js_sketches/moore-voronoi/)
-* [2024-11-07, 23:41:39](https://news.ycombinator.com/item?id=42082430) - [Show HN: I made a tiny device for automatically recording digital pianos](https://jamcorder.com/)
+* [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-06, 11:54:06](https://news.ycombinator.com/item?id=42060663) - [Review of Vienna: How the City of Ideas Created the Modern World](https://www.nybooks.com/articles/2024/11/21/the-legacy-of-red-vienna-richard-cockett-uglow/)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-05, 19:10:34](https://news.ycombinator.com/item?id=42054327) - [Boeing Wonderland: The Fake Cities on America's West Coast (2013)](https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/)
 * [2024-11-05, 16:45:50](https://news.ycombinator.com/item?id=42053031) - [Show HN: Lyceum – An MMO game built with Zig and Erlang](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The Heist That Made the Mona Lisa Famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-04, 21:38:05](https://news.ycombinator.com/item?id=42046247) - [The Long Road to End Tuberculosis](https://www.asimov.press/p/end-tb)
-* [2024-11-04, 07:25:56](https://news.ycombinator.com/item?id=42039327) - [Adventures in Probability](https://buttondown.com/jaffray/archive/adventures-in-probability/)
 
 ## [Archives](archives/index.md)
 
