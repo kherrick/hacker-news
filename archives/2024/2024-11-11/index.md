@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 17:00:21](https://news.ycombinator.com/item?id=42108592) - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)
 * [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
 * [2024-11-11, 16:04:51](https://news.ycombinator.com/item?id=42108109) - [TinyTroupe, a new LLM-powered multiagent persona simulation Python library](https://github.com/microsoft/TinyTroupe)
 * [2024-11-11, 15:46:07](https://news.ycombinator.com/item?id=42107966) - [Traditional Japanese Salted Aged Salmon Recipe for 1,000 Years [video]](https://www.youtube.com/watch?v=DLaaqv1Tykg)
@@ -11,6 +12,7 @@
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did Scientists Revive an Extinct Animal or Just Breed a Less Stripey Zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 * [2024-11-11, 14:41:26](https://news.ycombinator.com/item?id=42107461) - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [2024-11-11, 14:29:49](https://news.ycombinator.com/item?id=42107357) - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
+* [2024-11-11, 14:10:25](https://news.ycombinator.com/item?id=42107212) - [A hot day, a fan provides little benefit when the temperature exceeds 35°C](https://www.science.org/content/article/when-is-it-too-hot-use-fan)
 * [2024-11-11, 14:08:34](https://news.ycombinator.com/item?id=42107196) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
 * [2024-11-11, 13:56:32](https://news.ycombinator.com/item?id=42107120) - [Memecoins Are the Point](http://jpkoning.blogspot.com/2024/10/memecoins-are-point.html)
