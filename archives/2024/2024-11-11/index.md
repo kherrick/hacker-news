@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 07:55:59](https://news.ycombinator.com/item?id=42105274) - [Apple courier may have stolen 2 MacBooks, ... Apple is not going to help](https://forums.macrumors.com/threads/apple-courier-uber-may-have-stolen-2-macbooks-i-bought-and-its-looking-like-apple-is-not-going-to-help.2441932/)
 * [2024-11-11, 07:35:28](https://news.ycombinator.com/item?id=42105190) - [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
+* [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
 * [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
