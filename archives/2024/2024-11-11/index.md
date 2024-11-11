@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
+* [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:44:05](https://news.ycombinator.com/item?id=42106724) - [\"The Hatpin Peril\" Terrorized Men Who Couldn't Handle the 20th-Century Woman](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-11, 12:06:22](https://news.ycombinator.com/item?id=42106568) - [ERP rollout at Europe's largest local council slammed](https://www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/)
 * [2024-11-11, 12:02:43](https://news.ycombinator.com/item?id=42106548) - [How Chordcat Works, a Chord Naming Algorithm](https://blog.s20n.dev/posts/how-chordcat-works/)
 * [2024-11-11, 12:00:13](https://news.ycombinator.com/item?id=42106538) - [Haven (YC W23) Is Hiring](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer)
 * [2024-11-11, 11:52:44](https://news.ycombinator.com/item?id=42106504) - [A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth](https://www.theregister.com/2024/11/11/mark_shuttleworth_ubuntu_interview/)
+* [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 * [2024-11-11, 11:40:03](https://news.ycombinator.com/item?id=42106427) - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
+* [2024-11-11, 11:35:37](https://news.ycombinator.com/item?id=42106404) - [Decoding Hera](https://destevez.net/2024/11/decoding-hera/)
 * [2024-11-11, 10:02:10](https://news.ycombinator.com/item?id=42105869) - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
 * [2024-11-11, 09:57:35](https://news.ycombinator.com/item?id=42105835) - [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
