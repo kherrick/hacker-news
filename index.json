@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-10, 23:38:21",
-      "https://news.ycombinator.com/item?id=42103400"
+      "2024-11-11, 01:13:22",
+      "https://news.ycombinator.com/item?id=42103788"
     ],
     [
-      "New York Times Word Usage Frequency Chart",
-      "https://davidrozado.substack.com/p/new-york-times-word-usage-frequency"
+      "Evolving a NoSQL Database Schema",
+      "https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 01:06:22",
+      "https://news.ycombinator.com/item?id=42103761"
+    ],
+    [
+      "Standing Desk Might Be as Bad as Sitting All Day",
+      "https://www.sciencealert.com/your-standing-desk-might-actually-be-as-bad-as-sitting-all-day"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 00:19:29",
+      "https://news.ycombinator.com/item?id=42103576"
+    ],
+    [
+      "Chegg Is on Its Last Legs After ChatGPT Sent Its Stock Down 99%",
+      "https://gizmodo.com/chegg-is-on-its-last-legs-after-chatgpt-sent-its-stock-down-99-2000522585"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Australia's 3G Shutdown – Why your 4G/5G Phone is now Blocked",
       "https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 23:00:32",
-      "https://news.ycombinator.com/item?id=42103195"
-    ],
-    [
-      "It's 10am and Dad's Doing Jell-O Shots. Must Be Parents' Weekend",
-      "https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-11-09, 16:36:19",
-      "https://news.ycombinator.com/item?id=42095292"
-    ],
-    [
-      "IronCalc – Open-Source Spreadsheet Engine",
-      "https://www.ironcalc.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-07, 23:41:39",
       "https://news.ycombinator.com/item?id=42082430"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-11-05, 21:02:21",
-      "https://news.ycombinator.com/item?id=42055134"
+      "2024-11-06, 09:54:21",
+      "https://news.ycombinator.com/item?id=42058920"
     ],
     [
-      "Honeybee gene specifies collective behavior, research shows",
-      "https://phys.org/news/2024-11-honeybee-gene-behavior.html"
+      "Why I love Rust for tokenising and parsing",
+      "https://xnacly.me/posts/2024/rust-pldev/"
     ]
   ],
   [
