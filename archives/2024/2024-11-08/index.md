@@ -20,6 +20,7 @@
 * [2024-11-08, 20:12:43](https://news.ycombinator.com/item?id=42090087) - [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
 * [2024-11-08, 19:44:37](https://news.ycombinator.com/item?id=42089883) - [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
 * [2024-11-08, 19:28:23](https://news.ycombinator.com/item?id=42089740) - [Algol-68 seemed like a good idea – until it wasn't](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
+* [2024-11-08, 18:46:19](https://news.ycombinator.com/item?id=42089407) - [Why langurs drink salt water](https://nachrichten.idw-online.de/2024/10/28/why-langurs-drink-salt-water)
 * [2024-11-08, 18:23:00](https://news.ycombinator.com/item?id=42089196) - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
 * [2024-11-08, 17:43:42](https://news.ycombinator.com/item?id=42088789) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 17:39:43](https://news.ycombinator.com/item?id=42088758) - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
