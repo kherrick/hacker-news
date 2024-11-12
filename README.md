@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)
+* [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
+* [2024-11-12, 06:31:18](https://news.ycombinator.com/item?id=42113296) - [I Will Always Be Angry About Software Engineering](https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
@@ -21,7 +22,6 @@
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 03:48:52](https://news.ycombinator.com/item?id=42098475) - [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.marinecorpstimes.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)
-* [2024-11-09, 06:16:53](https://news.ycombinator.com/item?id=42092830) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
