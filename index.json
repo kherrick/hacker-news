@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-11-12, 19:16:53",
-      "https://news.ycombinator.com/item?id=42118638"
+      "2024-11-12, 19:55:45",
+      "https://news.ycombinator.com/item?id=42119042"
     ],
     [
-      "Sentry just gave $750k to open source projects",
-      "https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/"
+      "Show HN: Jelly – A Simpler Shared Inbox for Small Teams",
+      "https://letsjelly.com/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 19:48:14",
+      "https://news.ycombinator.com/item?id=42118970"
+    ],
+    [
+      "Mom jailed for letting 10-year-old walk alone to town",
+      "https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 18:50:45",
+      "https://news.ycombinator.com/item?id=42118399"
+    ],
+    [
+      "Bypassing regulatory locks, hacking AirPods and Faraday cages",
+      "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 18:37:17",
+      "https://news.ycombinator.com/item?id=42118286"
+    ],
+    [
+      "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
+      "https://community-scripts.github.io/ProxmoxVE/"
     ]
   ],
   [
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42118180"
     ],
     [
-      "Visualizing 13M Bluesky Users",
+      "Visualizing 13M Bluesky users",
       "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42117912"
     ],
     [
-      "Large Language Models in National Security Applications",
+      "Large language models in national security applications",
       "https://arxiv.org/abs/2407.03453"
     ]
   ],
@@ -41,22 +71,12 @@
   ],
   [
     [
-      "2024-11-12, 16:17:00",
-      "https://news.ycombinator.com/item?id=42116811"
+      "2024-11-12, 14:51:31",
+      "https://news.ycombinator.com/item?id=42115873"
     ],
     [
-      "Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers",
-      "https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 15:20:46",
-      "https://news.ycombinator.com/item?id=42116140"
-    ],
-    [
-      "A stubborn computer scientist accidentally launched the deep learning boom",
-      "https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/"
+      "A neurology ICU nurse on AI in hospitals",
+      "https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42115611"
     ],
     [
-      "Jepsen: Bufstream 0.1.0",
+      "Jepsen: Bufstream 0.1",
       "https://jepsen.io/analyses/bufstream-0.1.0"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-11-11, 23:11:19",
-      "https://news.ycombinator.com/item?id=42111260"
-    ],
-    [
-      "Bus Number – The GitHub plugin my coworkers asked me not to write",
-      "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 22:41:33",
       "https://news.ycombinator.com/item?id=42111109"
     ],
@@ -207,16 +217,6 @@
     [
       "How I ship projects at big tech companies",
       "https://www.seangoedecke.com/how-to-ship/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 22:10:37",
-      "https://news.ycombinator.com/item?id=42110877"
-    ],
-    [
-      "I Don't Have Spotify",
-      "https://github.com/sjdonado/idonthavespotify"
     ]
   ],
   [
