@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 12:00:13](https://news.ycombinator.com/item?id=42114845) - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
 * [2024-11-12, 11:38:44](https://news.ycombinator.com/item?id=42114729) - [Apple M4 Pro analysis – fast, but not as efficient](https://www.notebookcheck.net/Apple-M4-Pro-analysis-Extremely-fast-but-not-as-efficient.915270.0.html)
 * [2024-11-12, 10:33:25](https://news.ycombinator.com/item?id=42114367) - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
 * [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
@@ -23,5 +24,7 @@
 * [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
 * [2024-11-12, 03:09:27](https://news.ycombinator.com/item?id=42112439) - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
 * [2024-11-12, 03:07:33](https://news.ycombinator.com/item?id=42112432) - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
+* [2024-11-12, 02:09:03](https://news.ycombinator.com/item?id=42112193) - [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
+* [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
