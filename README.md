@@ -25,7 +25,7 @@
 * [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
-* [2024-11-09, 06:21:36](https://news.ycombinator.com/item?id=42092836) - [Anton Seder's the Animal in Decorative Art (1896)](https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/)
+* [2024-11-09, 11:23:37](https://news.ycombinator.com/item?id=42093803) - [Ask HN: What hacks/tips do you use to make AI work better for you?](https://news.ycombinator.com/item?id=42093803)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 09:47:50](https://news.ycombinator.com/item?id=42075197) - [Peng quadrotor autonomy framework visualized in the browser](https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)

@@ -33,6 +33,7 @@
 * [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
 * [2024-11-09, 12:43:28](https://news.ycombinator.com/item?id=42094122) - ['A disabled South Park character from 24 years ago is getting me harassed today'](https://www.bbc.com/news/articles/c9dl0nqdl10o)
 * [2024-11-09, 11:33:28](https://news.ycombinator.com/item?id=42093851) - [Somebody moved UK's oldest satellite](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
+* [2024-11-09, 11:23:37](https://news.ycombinator.com/item?id=42093803) - [Ask HN: What hacks/tips do you use to make AI work better for you?](https://news.ycombinator.com/item?id=42093803)
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 10:06:44](https://news.ycombinator.com/item?id=42093560) - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
