@@ -27,9 +27,9 @@
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-05, 08:38:57](https://news.ycombinator.com/item?id=42049736) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
+* [2024-11-03, 21:31:24](https://news.ycombinator.com/item?id=42036242) - [The History and Evolution of Playing Cards](https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 * [2024-11-03, 05:52:56](https://news.ycombinator.com/item?id=42031384) - [Chi-Fi Tuning – Why It Sounds So Damn Piercing to Western Ears (2020)](https://www.audioreviews.org/chi-fi-tuning/)
-* [2024-11-03, 01:49:42](https://news.ycombinator.com/item?id=42030638) - [Making Pop Rocks from scratch (is complicated) [video]](https://www.youtube.com/watch?v=_uiAcr2449w)
 
 ## [Archives](archives/index.md)
 
