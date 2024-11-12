@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-11-12, 16:02:20",
-      "https://news.ycombinator.com/item?id=42116639"
-    ],
-    [
-      "The Future of Programming: Copilots vs. Agents (Part I)",
-      "https://eastwind.substack.com/p/the-future-of-programming-copilots"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 15:20:46",
       "https://news.ycombinator.com/item?id=42116140"
     ],
@@ -237,6 +227,16 @@
     [
       "Visualizing World War II",
       "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 17:29:39",
+      "https://news.ycombinator.com/item?id=42108816"
+    ],
+    [
+      "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
+      "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
     ]
   ],
   [
