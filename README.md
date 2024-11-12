@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)
-* [2024-11-12, 09:00:26](https://news.ycombinator.com/item?id=42113886) - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
+* [2024-11-12, 06:36:43](https://news.ycombinator.com/item?id=42113315) - [The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby](https://www.nature.com/articles/s41550-024-02389-3)
 * [2024-11-12, 06:31:18](https://news.ycombinator.com/item?id=42113296) - [I Will Always Be Angry About Software Engineering](https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
