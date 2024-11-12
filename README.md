@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 22:11:24](https://news.ycombinator.com/item?id=42120331) - [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
+* [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving Your Space](https://heather-buchel.com/blog/2024/11/carving-space/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency is incredible](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
 * [2024-11-12, 21:26:23](https://news.ycombinator.com/item?id=42119869) - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
 * [2024-11-12, 21:09:04](https://news.ycombinator.com/item?id=42119733) - [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
@@ -20,10 +22,8 @@
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:44:03](https://news.ycombinator.com/item?id=42115072) - [Ohmaps: your image montage is a resistor network](https://hunsley.io/posts/2024/image-montage-is-resistor-network/)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
-* [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 04:31:26](https://news.ycombinator.com/item?id=42112817) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
-* [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Show HN: Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I wish someone told me about Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
