@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
 * [2024-11-12, 21:26:23](https://news.ycombinator.com/item?id=42119869) - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+* [2024-11-12, 21:09:04](https://news.ycombinator.com/item?id=42119733) - [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
 * [2024-11-12, 21:08:41](https://news.ycombinator.com/item?id=42119731) - [Steam drops Windows 7 and 8 support with the latest client](https://www.tomshardware.com/video-games/pc-gaming/steam-drops-windows-7-and-8-support-with-the-latest-client-users-told-to-update-to-a-more-recent-version-of-windows-to-continue-gaming)
 * [2024-11-12, 21:00:40](https://news.ycombinator.com/item?id=42119674) - [Nowadays (YC S23) Is Hiring](https://news.ycombinator.com/item?id=42119674)
 * [2024-11-12, 20:49:14](https://news.ycombinator.com/item?id=42119575) - [Spanish police arrest ex-fraud chief after €20M found in walls of his house](https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house)

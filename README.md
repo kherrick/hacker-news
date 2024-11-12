@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-12, 21:26:23](https://news.ycombinator.com/item?id=42119869) - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+* [2024-11-12, 21:09:04](https://news.ycombinator.com/item?id=42119733) - [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
 * [2024-11-12, 21:08:41](https://news.ycombinator.com/item?id=42119731) - [Steam drops Windows 7 and 8 support with the latest client](https://www.tomshardware.com/video-games/pc-gaming/steam-drops-windows-7-and-8-support-with-the-latest-client-users-told-to-update-to-a-more-recent-version-of-windows-to-continue-gaming)
 * [2024-11-12, 21:00:40](https://news.ycombinator.com/item?id=42119674) - [Nowadays (YC S23) Is Hiring](https://news.ycombinator.com/item?id=42119674)
 * [2024-11-12, 20:49:14](https://news.ycombinator.com/item?id=42119575) - [Spanish police arrest ex-fraud chief after €20M found in walls of his house](https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house)
@@ -25,7 +26,6 @@
 * [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Show HN: Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I wish someone told me about Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
-* [2024-11-11, 22:41:33](https://news.ycombinator.com/item?id=42111109) - [Tinfoil.com – Dedicated to the preservation of early recorded sounds](http://tinfoil.com/)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
