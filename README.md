@@ -20,6 +20,7 @@
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 03:48:52](https://news.ycombinator.com/item?id=42098475) - [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.marinecorpstimes.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)
+* [2024-11-09, 06:19:58](https://news.ycombinator.com/item?id=42092835) - [Moore Curve Voronoi Animation](https://bleuje.com/js_sketches/moore-voronoi/)
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
@@ -28,7 +29,6 @@
 * [2024-11-03, 21:31:24](https://news.ycombinator.com/item?id=42036242) - [The History and Evolution of Playing Cards](https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck)
 * [2024-11-03, 14:44:49](https://news.ycombinator.com/item?id=42033330) - [Leveraging the lightcone around the source of truth with Postgres](https://benoitessiambre.com/pgcentrism.html)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
-* [2024-11-03, 08:57:11](https://news.ycombinator.com/item?id=42031924) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-03, 01:49:42](https://news.ycombinator.com/item?id=42030638) - [Making Pop Rocks from scratch (is complicated) [video]](https://www.youtube.com/watch?v=_uiAcr2449w)
 
 ## [Archives](archives/index.md)
