@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 14:12:39](https://news.ycombinator.com/item?id=42115611) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 12:05:15](https://news.ycombinator.com/item?id=42114874) - [Rust Needs an Official Specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 12:01:39](https://news.ycombinator.com/item?id=42114852) - [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
@@ -31,4 +32,5 @@
 * [2024-11-12, 02:09:03](https://news.ycombinator.com/item?id=42112193) - [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
+* [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
