@@ -11,42 +11,12 @@
   ],
   [
     [
-      "2024-11-12, 16:34:24",
-      "https://news.ycombinator.com/item?id=42117008"
-    ],
-    [
-      "Waymo One is now open to all in Los Angeles",
-      "https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 16:30:07",
-      "https://news.ycombinator.com/item?id=42116967"
-    ],
-    [
-      "US Senate to Revive Software Patents with PERA Bill Vote on Thursday",
-      "https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 16:17:00",
       "https://news.ycombinator.com/item?id=42116811"
     ],
     [
       "Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers",
       "https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 15:37:09",
-      "https://news.ycombinator.com/item?id=42116318"
-    ],
-    [
-      "The Wired Guide to Protecting Yourself from Government Surveillance",
-      "https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/"
     ]
   ],
   [
@@ -67,6 +37,16 @@
     [
       "Don't Do This with PostgreSQL",
       "https://wiki.postgresql.org/wiki/Don%27t_Do_This"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 14:40:00",
+      "https://news.ycombinator.com/item?id=42115805"
+    ],
+    [
+      "Secret Service Says Users Agreed to Location Tracking in Terms and Conditions",
+      "https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "Visualizing World War II",
       "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 20:11:40",
+      "https://news.ycombinator.com/item?id=42110081"
+    ],
+    [
+      "Testing the Z80 Chip with a 1970s Beauty",
+      "https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 17:29:39",
+      "https://news.ycombinator.com/item?id=42108816"
+    ],
+    [
+      "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
+      "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
     ]
   ],
   [
