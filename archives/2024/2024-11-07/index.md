@@ -67,6 +67,7 @@
 * [2024-11-07, 06:46:37](https://news.ycombinator.com/item?id=42074124) - [Masters of Horror and Magic: The German folklorists who helped build a nation](https://theamericanscholar.org/masters-of-horror-and-magic/)
 * [2024-11-07, 06:40:21](https://news.ycombinator.com/item?id=42074083) - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
 * [2024-11-07, 05:51:32](https://news.ycombinator.com/item?id=42073801) - [Evaluating the World Model Implicit in a Generative Model](https://arxiv.org/abs/2406.03689)
+* [2024-11-07, 05:32:19](https://news.ycombinator.com/item?id=42073712) - [Harnessing Vision for Computation (2008) [pdf]](https://www.changizi.com/uploads/8/3/4/4/83445868/viscomp.pdf)
 * [2024-11-07, 04:42:53](https://news.ycombinator.com/item?id=42073488) - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 * [2024-11-07, 04:29:25](https://news.ycombinator.com/item?id=42073406) - [Calculating at Pencil and Paper Scale](https://win-vector.com/2024/11/06/calculating-at-pencil-and-paper-scale/)
 * [2024-11-07, 03:57:06](https://news.ycombinator.com/item?id=42073232) - [The Secret System Behind Every Call You Make Is About to Change Hands](https://www.hackingbutlegal.com/p/the-secret-system-behind-every-call)
