@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
 * [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
@@ -21,7 +22,6 @@
 * [2024-11-11, 22:10:37](https://news.ycombinator.com/item?id=42110877) - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
-* [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-07, 22:19:10](https://news.ycombinator.com/item?id=42081729) - [Method for the determination of the luminance of two-photon vision stimuli](https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-10-5818&id=559565)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Egyptian priestess burial chamber unearthed after 4000 yrs Sensational discovery](https://nypost.com/2024/11/06/science/egyptian-priestess-mummy-unearthed-from-extraordinary-tomb-after-4000-years/)
