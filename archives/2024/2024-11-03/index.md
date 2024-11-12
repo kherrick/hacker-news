@@ -61,6 +61,7 @@
 * [2024-11-03, 11:09:08](https://news.ycombinator.com/item?id=42032387) - [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
 * [2024-11-03, 09:32:13](https://news.ycombinator.com/item?id=42032065) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 09:27:22](https://news.ycombinator.com/item?id=42032035) - [Advances in Zero-Knowledge Proofs: Bridging the Gap Between Theory and Practice [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf)
+* [2024-11-03, 08:57:11](https://news.ycombinator.com/item?id=42031924) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-03, 07:58:46](https://news.ycombinator.com/item?id=42031756) - [How to send a photo around the world in 1926 (2013)](https://gizmodo.com/how-to-send-a-photo-around-the-world-in-1926-533206646)
 * [2024-11-03, 07:58:03](https://news.ycombinator.com/item?id=42031753) - [Hacker News Explorer](https://chromewebstore.google.com/detail/hn-explorer/amiaaonefodebppoklclafmglnkleobk)
 * [2024-11-03, 07:28:00](https://news.ycombinator.com/item?id=42031642) - [Can humans say the largest prime number before we find the next one?](https://saytheprime.com/)
