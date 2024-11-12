@@ -8,6 +8,7 @@
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
 * [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
+* [2024-11-12, 16:02:20](https://news.ycombinator.com/item?id=42116639) - [The Future of Programming: Copilots vs. Agents (Part I)](https://eastwind.substack.com/p/the-future-of-programming-copilots)
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
 * [2024-11-12, 15:13:46](https://news.ycombinator.com/item?id=42116072) - [Don't Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
@@ -49,4 +50,5 @@
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+* [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
