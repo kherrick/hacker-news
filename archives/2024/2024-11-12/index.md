@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 10:33:25](https://news.ycombinator.com/item?id=42114367) - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
 * [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
 * [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)
 * [2024-11-12, 09:00:26](https://news.ycombinator.com/item?id=42113886) - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
