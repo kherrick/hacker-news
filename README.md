@@ -23,11 +23,11 @@
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
+* [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Egyptian priestess burial chamber unearthed after 4000 yrs Sensational discovery](https://nypost.com/2024/11/06/science/egyptian-priestess-mummy-unearthed-from-extraordinary-tomb-after-4000-years/)
 * [2024-11-07, 16:02:16](https://news.ycombinator.com/item?id=42077815) - [Shfla: Shoegaze Hierarchical Fractal Language Architecture](https://github.com/Tetraslam/SHFLA)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
 * [2024-11-07, 09:47:50](https://news.ycombinator.com/item?id=42075197) - [Peng quadrotor autonomy framework visualized in the browser](https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd)
-* [2024-11-07, 01:31:53](https://news.ycombinator.com/item?id=42072293) - [Product Quality Through Change Management (1999)](https://www.ravenbrook.com/doc/1999/05/20/pqtcm/)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 
