@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A Simpler Shared Inbox for Small Teams](https://letsjelly.com/)
+* [2024-11-12, 19:48:14](https://news.ycombinator.com/item?id=42118970) - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
 * [2024-11-12, 19:16:53](https://news.ycombinator.com/item?id=42118638) - [Sentry just gave $750k to open source projects](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)
+* [2024-11-12, 18:50:45](https://news.ycombinator.com/item?id=42118399) - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
+* [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-12, 18:25:02](https://news.ycombinator.com/item?id=42118175) - [The False Promise of Device-Based Education](https://www.afterbabel.com/p/false-promise-of-device-based-ed)
 * [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
