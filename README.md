@@ -22,7 +22,6 @@
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:44:03](https://news.ycombinator.com/item?id=42115072) - [Ohmaps: your image montage is a resistor network](https://hunsley.io/posts/2024/image-montage-is-resistor-network/)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
-* [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 04:31:26](https://news.ycombinator.com/item?id=42112817) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I wish someone told me about Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
@@ -30,6 +29,7 @@
 * [2024-11-07, 21:06:28](https://news.ycombinator.com/item?id=42081010) - [How do you juggle WFH with a baby?](https://subscribe.marissagoldberg.com/posts/how-do-you-juggle-wfh-with-a-baby)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
+* [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 
 ## [Archives](archives/index.md)
 

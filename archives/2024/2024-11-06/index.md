@@ -27,6 +27,7 @@
 * [2024-11-06, 18:46:53](https://news.ycombinator.com/item?id=42067233) - [Physicists Spot Quantum Tornadoes Twirling in a 'Supersolid'](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
 * [2024-11-06, 18:33:58](https://news.ycombinator.com/item?id=42067016) - [In-Bed Emergency Protection from Phone-on-Face Drops](https://www.core77.com/posts/134219/In-Bed-Emergency-Protection-From-Phone-on-Face-Drops)
 * [2024-11-06, 18:05:55](https://news.ycombinator.com/item?id=42066500) - [Launch HN: Midship (YC S24) – Turn unstructured documents into usable data](https://news.ycombinator.com/item?id=42066500)
+* [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-06, 17:57:10](https://news.ycombinator.com/item?id=42066341) - [Politicians are Jungian symbols, policies are facades](https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths)
 * [2024-11-06, 17:15:43](https://news.ycombinator.com/item?id=42065561) - [Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue](https://github.com/stoix-dev/stoix-cloud-saver)
 * [2024-11-06, 17:14:25](https://news.ycombinator.com/item?id=42065538) - [Learning Not to Trust the All-In Podcast in Ten Minutes](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
