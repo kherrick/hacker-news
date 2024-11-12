@@ -66,6 +66,7 @@
 * [2024-11-05, 11:14:55](https://news.ycombinator.com/item?id=42050573) - [HashML-DSA Considered Harmful](https://keymaterial.net/2024/11/05/hashml-dsa-considered-harmful/)
 * [2024-11-05, 09:30:53](https://news.ycombinator.com/item?id=42050010) - [Understanding privacy risk with k-anonymity and l-diversity](https://marcusolsson.dev/k-anonymity-and-l-diversity/)
 * [2024-11-05, 09:16:06](https://news.ycombinator.com/item?id=42049936) - [Show HN: IMDb SQL Best Movie Finder](https://www.imdb-sql.com/)
+* [2024-11-05, 08:38:57](https://news.ycombinator.com/item?id=42049736) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
 * [2024-11-05, 07:38:17](https://news.ycombinator.com/item?id=42049418) - [Blood Sugar Control Is a Key Factor in Slowing Brain Aging, Mediterranean Diet++](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
 * [2024-11-05, 06:52:12](https://news.ycombinator.com/item?id=42049180) - [Programmer in Berlin: Culture](https://wickedchicken.github.io/post/programmer-in-berlin-culture/)
 * [2024-11-05, 06:19:10](https://news.ycombinator.com/item?id=42049018) - [Statistical challenges and misreadings of literature create unreplicable science [pdf]](https://stat.columbia.edu/~gelman/research/unpublished/healing.pdf)
