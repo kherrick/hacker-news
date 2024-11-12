@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 21:08:41](https://news.ycombinator.com/item?id=42119731) - [Steam drops Windows 7 and 8 support with the latest client](https://www.tomshardware.com/video-games/pc-gaming/steam-drops-windows-7-and-8-support-with-the-latest-client-users-told-to-update-to-a-more-recent-version-of-windows-to-continue-gaming)
 * [2024-11-12, 21:00:40](https://news.ycombinator.com/item?id=42119674) - [Nowadays (YC S23) Is Hiring](https://news.ycombinator.com/item?id=42119674)
 * [2024-11-12, 20:49:14](https://news.ycombinator.com/item?id=42119575) - [Spanish police arrest ex-fraud chief after €20M found in walls of his house](https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house)
 * [2024-11-12, 20:13:08](https://news.ycombinator.com/item?id=42119219) - [Russian Family Lived Alone in the Siberian Wilderness for 40 Years](https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/)
 * [2024-11-12, 20:07:32](https://news.ycombinator.com/item?id=42119141) - [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
+* [2024-11-12, 20:05:07](https://news.ycombinator.com/item?id=42119117) - [Is 'Toxic Fashion' making us sick? A look at the chemicals lurking in our clothe](https://www.npr.org/2023/07/19/1188343293/is-toxic-fashion-making-us-sick-a-look-at-the-chemicals-lurking-in-our-clothes)
 * [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A simpler shared inbox for small teams](https://letsjelly.com/)
 * [2024-11-12, 19:49:59](https://news.ycombinator.com/item?id=42118989) - [Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands](https://github.com/olivierloverde/gmail-agent)
 * [2024-11-12, 19:00:55](https://news.ycombinator.com/item?id=42118496) - [Spin 3.0 – open-source tooling for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v3)
@@ -18,7 +20,6 @@
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
-* [2024-11-12, 04:43:06](https://news.ycombinator.com/item?id=42112864) - [Blame the Gerbils](https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils)
 * [2024-11-12, 04:31:26](https://news.ycombinator.com/item?id=42112817) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I wish someone told me about Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
@@ -28,7 +29,6 @@
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
-* [2024-11-07, 09:47:50](https://news.ycombinator.com/item?id=42075197) - [Peng quadrotor autonomy framework visualized in the browser](https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd)
 * [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 
 ## [Archives](archives/index.md)

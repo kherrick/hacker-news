@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 21:08:41](https://news.ycombinator.com/item?id=42119731) - [Steam drops Windows 7 and 8 support with the latest client](https://www.tomshardware.com/video-games/pc-gaming/steam-drops-windows-7-and-8-support-with-the-latest-client-users-told-to-update-to-a-more-recent-version-of-windows-to-continue-gaming)
 * [2024-11-12, 21:00:40](https://news.ycombinator.com/item?id=42119674) - [Nowadays (YC S23) Is Hiring](https://news.ycombinator.com/item?id=42119674)
 * [2024-11-12, 20:49:14](https://news.ycombinator.com/item?id=42119575) - [Spanish police arrest ex-fraud chief after €20M found in walls of his house](https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house)
 * [2024-11-12, 20:45:24](https://news.ycombinator.com/item?id=42119542) - [Cash App migrated 400TB of data to PlanetScale's cloud](https://planetscale.com/case-studies/cash-app)
 * [2024-11-12, 20:13:08](https://news.ycombinator.com/item?id=42119219) - [Russian Family Lived Alone in the Siberian Wilderness for 40 Years](https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/)
 * [2024-11-12, 20:07:32](https://news.ycombinator.com/item?id=42119141) - [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
+* [2024-11-12, 20:05:07](https://news.ycombinator.com/item?id=42119117) - [Is 'Toxic Fashion' making us sick? A look at the chemicals lurking in our clothe](https://www.npr.org/2023/07/19/1188343293/is-toxic-fashion-making-us-sick-a-look-at-the-chemicals-lurking-in-our-clothes)
 * [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A Simpler Shared Inbox for Small Teams](https://letsjelly.com/)
 * [2024-11-12, 19:49:59](https://news.ycombinator.com/item?id=42118989) - [Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands](https://github.com/olivierloverde/gmail-agent)
 * [2024-11-12, 19:48:14](https://news.ycombinator.com/item?id=42118970) - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
