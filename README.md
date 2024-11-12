@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A Simpler Shared Inbox for Small Teams](https://letsjelly.com/)
-* [2024-11-12, 19:48:14](https://news.ycombinator.com/item?id=42118970) - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
+* [2024-11-12, 19:00:55](https://news.ycombinator.com/item?id=42118496) - [Spin 3.0 – open-source tooling for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v3)
 * [2024-11-12, 18:50:45](https://news.ycombinator.com/item?id=42118399) - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
