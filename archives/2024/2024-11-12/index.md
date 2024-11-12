@@ -11,6 +11,7 @@
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-12, 18:25:02](https://news.ycombinator.com/item?id=42118175) - [The False Promise of Device-Based Education](https://www.afterbabel.com/p/false-promise-of-device-based-ed)
+* [2024-11-12, 18:04:19](https://news.ycombinator.com/item?id=42117970) - [Show HN: Open-source Kibana alternative for logs and traces in ClickHouse](https://github.com/hyperdxio/hyperdx/tree/v2)
 * [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 * [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
