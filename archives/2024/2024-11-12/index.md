@@ -13,6 +13,7 @@
 * [2024-11-12, 15:13:46](https://news.ycombinator.com/item?id=42116072) - [Don't Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 * [2024-11-12, 15:01:37](https://news.ycombinator.com/item?id=42115958) - [I Lost $210 to a Stripe Dispute Despite Proof](https://zarar.dev/how-i-lost-210-to-a-stripe-dispute-despite-proof/)
 * [2024-11-12, 14:51:31](https://news.ycombinator.com/item?id=42115873) - [I'm a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
+* [2024-11-12, 14:40:00](https://news.ycombinator.com/item?id=42115805) - [Secret Service Says Users Agreed to Location Tracking in Terms and Conditions](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/)
 * [2024-11-12, 14:13:55](https://news.ycombinator.com/item?id=42115623) - [YouTube in Android introduces UI bugs](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)
 * [2024-11-12, 14:12:39](https://news.ycombinator.com/item?id=42115611) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 14:11:11](https://news.ycombinator.com/item?id=42115597) - [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
