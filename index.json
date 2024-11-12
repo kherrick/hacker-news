@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-11-12, 16:34:24",
+      "https://news.ycombinator.com/item?id=42117008"
+    ],
+    [
+      "Waymo One is now open to all in Los Angeles",
+      "https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 16:17:00",
       "https://news.ycombinator.com/item?id=42116811"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-11-12, 16:02:20",
+      "https://news.ycombinator.com/item?id=42116639"
+    ],
+    [
+      "The Future of Programming: Copilots vs. Agents (Part I)",
+      "https://eastwind.substack.com/p/the-future-of-programming-copilots"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 15:20:46",
       "https://news.ycombinator.com/item?id=42116140"
     ],
     [
       "A stubborn computer scientist accidentally launched the deep learning boom",
       "https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 14:40:00",
-      "https://news.ycombinator.com/item?id=42115805"
-    ],
-    [
-      "Secret Service Says Users Agreed to Location Tracking in Terms and Conditions",
-      "https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "The EdTech Revolution Has Failed",
       "https://www.afterbabel.com/p/the-edtech-revolution-has-failed"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 13:53:11",
-      "https://news.ycombinator.com/item?id=42115453"
-    ],
-    [
-      "Show HN: We built the simplest Online Unit Converter for everyday use",
-      "https://www.betaconvert.com"
     ]
   ],
   [
@@ -145,8 +145,18 @@
       "https://news.ycombinator.com/item?id=42111896"
     ],
     [
-      "What I Wish Someone Told Me About Postgres",
+      "What I wish someone told me about Postgres",
       "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 00:58:54",
+      "https://news.ycombinator.com/item?id=42111892"
+    ],
+    [
+      "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
+      "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
       "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 18:04:20",
-      "https://news.ycombinator.com/item?id=42088996"
-    ],
-    [
-      "How to find exploits in video games",
-      "https://shalzuth.com/Blog/FindingExploitsInGames"
     ]
   ],
   [
