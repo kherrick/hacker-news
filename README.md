@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 * [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
@@ -23,7 +24,6 @@
 * [2024-11-11, 22:10:37](https://news.ycombinator.com/item?id=42110877) - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
-* [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-09, 06:21:36](https://news.ycombinator.com/item?id=42092836) - [Anton Seder's the Animal in Decorative Art (1896)](https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:02:16](https://news.ycombinator.com/item?id=42077815) - [Shfla: Shoegaze Hierarchical Fractal Language Architecture](https://github.com/Tetraslam/SHFLA)
