@@ -24,7 +24,7 @@
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
-* [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Egyptian priestess burial chamber unearthed after 4000 yrs Sensational discovery](https://nypost.com/2024/11/06/science/egyptian-priestess-mummy-unearthed-from-extraordinary-tomb-after-4000-years/)
+* [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:02:16](https://news.ycombinator.com/item?id=42077815) - [Shfla: Shoegaze Hierarchical Fractal Language Architecture](https://github.com/Tetraslam/SHFLA)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
 * [2024-11-07, 09:47:50](https://news.ycombinator.com/item?id=42075197) - [Peng quadrotor autonomy framework visualized in the browser](https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd)
