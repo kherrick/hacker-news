@@ -129,6 +129,194 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42117277">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=42117277"
+              >Instant (YC S22) Is Hiring a Founding Engineer to Help Build a
+              Modern Firebase</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-12 @ 17:01:44</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Instant is (a) a really hard problem (b) that users want (c)
+                worked on by an excellent team (d) where you can have immense
+                impact and (e) be compensated accordingly.
+              </p>
+              <p>Let me explain:</p>
+              <p>## (a) a really hard problem</p>
+              <p>
+                For the last two years, we’ve been hacking on Instant, the
+                modern Firebase. Instant is a database you can use directly from
+                the browser; you write queries, and they stay in sync, work
+                offline, and come with optimistic updates out of the box. You
+                get auth, and a system for running permissions too. You also
+                have support for presence, and SDKs for React, vanilla JS, and
+                React Native.
+              </p>
+              <p>
+                For years we were in a cave building and talking to a core group
+                of users; Instant turned out to be one of the hardest products
+                we’ve ever worked on. We built a multi-tenant architecture, so
+                we could offer a free tier that never freezes (you can even spin
+                up a database without signing up, check out the tutorial [1]. We
+                had to write a query engine on the backend, and a sync layer on
+                top of that. To do it, we scoured articles on Figma’s LiveGraph,
+                Asana’s Luna, and Andy Pavlo’s courses.
+              </p>
+              <p>
+                We open sourced last month, and had one of the largest Show HN’s
+                for a YC company [2]. And soon after that, we announced a 3.4M
+                seed round, backed by James Tamplin (the founder of Firebase),
+                Paul Graham, Greg Brockman, Jeff Dean, Amjad Masad, Karri
+                Saarinen, and 50+ technical angels.
+              </p>
+              <p>## (b) that users want</p>
+              <p>
+                Since launch, we have been flooded with user requests. Some of
+                the largest infra and AI companies have reached out to us for
+                integrations. We have people asking for enterprise deals, and
+                had to turn some down due to bandwidth.
+              </p>
+              <p>
+                You probably resonate yourself — you know how much of a schlep
+                software development can be: spin up databases, write endpoints,
+                funnel data to store, and finally paint screens. You do all of
+                that, and the app is just ok. If you want to make it great, time
+                to add reactivity, optimistic updates, and offline mode.
+              </p>
+              <p>
+                It doesn’t have to be this hard. There’s a missing abstraction,
+                and it looks like a database you can use in the browser.
+                Companies like Figma, Asana, Linear, and Notion have all built
+                this internally. It’s obvious to us that most apps will be built
+                this way in the future, and we built Instant to power them.
+              </p>
+              <p>## (c) worked on by an excellent team</p>
+              <p>
+                For the longest time, we’ve been a very small team: right now
+                it’s just 3 of us: Joe Averbukh, Daniel Woelfel, and me. We’ve
+                known each-other for 10 years, and have worked across companies
+                together. We think small teams of very talented people are
+                special; It’s more fun, you get more autonomy, and you form
+                relationships for life.
+              </p>
+              <p>
+                This is how it feels at Instant. Each of us own projects that
+                would have deserved large infrastructure orgs at other
+                companies. Each of us takes our craft and our word seriously;
+                it’s a breath of fresh air to work together, knowing that when
+                you ask for help, you have someone who you deeply respect by
+                your side.
+              </p>
+              <p>## (d) where you can have immense impact</p>
+              <p>
+                Our current architecture got us to a new stage, but to really
+                excel at this next stage, there’s <i>a lot more</i> to do.
+              </p>
+              <p>
+                We recently had to turn down 2 customers because they would have
+                added 2 magnitudes more traffic. Our infrastructure can’t handle
+                that yet, but perhaps with your help, they will. Maybe you could
+                dive deep into our sync engine: what kind of algorithms can we
+                write to improve invalidation? How can we jig postgres to make
+                queries even faster? How can we send less data to the client?
+              </p>
+              <p>
+                We have a storage service in beta. We want to make it the best
+                one on the market. We want files to live in your database too,
+                so they can be reactive, and work with permissions out of the
+                box. You shouldn’t have to deal with presigned URLs. You
+                shouldn’t need triggers to sync different datastores. You should
+                just be able to upload files from the client.
+              </p>
+              <p>
+                We have a multi-tenant database you can start with, but what
+                about existing companies? They already use Postgres. Well, what
+                if we created a Postgres adapter for Instant? We could take
+                Instant queries and translated them to postgres SQL. What kind
+                of [postgres introspection queries](<a
+                  href="https://github.com/instantdb/instant/blob/main/server/src/instant/db/pg_introspect.clj#L28"
+                  >https://github.com/instantdb/instant/blob/main/server/src/in...</a
+                >) would you need to write to infer the schema?
+              </p>
+              <p>
+                Right now we have no story for load testing. We want to build a
+                suite to track metrics to track perf and have visibility on
+                improvements/degradation. Even something akin to the one-laptop
+                solution [4] Figma had up to 2020 would be a big win for us. Can
+                you build it?
+              </p>
+              <p>
+                Or how about our client side SDK. Our reactive layer on the
+                client is a state machine, and it’s getting out of control.
+                Maybe it’s time to introduce observables. Can you add them? We
+                should be able to introspect into the state of the client: what
+                happens when you make a transaction? Can we see it propagate and
+                change throughout the SDK?
+              </p>
+              <p>## (e) be compensated accordingly</p>
+              <p>
+                If this was a few months ago, I would not have written this, I
+                didn’t think the risk/reward would be worth it for you. But at
+                this point, I really think it is. We’re just at the point where
+                we could hit PMF with your help, and since we haven’t raised an
+                A yet, we can offer you significant equity to make it happen.
+              </p>
+              <p>
+                If you’re the kind of person who gets excited about this stuff,
+                who truly loves their craft, and wants to work with others who
+                do, who moves fast, but isn’t afraid to look deep into the
+                ‘scarier’ programming problems. we want to talk to you.
+              </p>
+              <p>
+                [1] Tutorial:
+                <a href="https://instantdb.com/tutorial"
+                  >https://instantdb.com/tutorial</a
+                >
+                [2] Show HN:
+                <a href="https://news.ycombinator.com/item?id=41322281"
+                  >https://news.ycombinator.com/item?id=41322281</a
+                >
+                [3] Seed round:
+                <a href="https://x.com/stopachka/status/1841514927099437144"
+                  >https://x.com/stopachka/status/1841514927099437144</a
+                >
+                [4] One laptop solution:
+                <a href="https://www.figma.com/blog/keeping-figma-fast/"
+                  >https://www.figma.com/blog/keeping-figma-fast/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="42117008">
+          <h3>
+            <a
+              class="item"
+              href="https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/"
+              >Waymo One is now open to all in Los Angeles</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-12 @ 16:34:24</span
+              ><span class="points-container"
+                >Points: <span class="points">81</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42117008"
+                  >Comments</a
+                ><span class="descendants">: 51</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42116967">
           <h3>
             <a
@@ -142,11 +330,11 @@
             <h4>
               <span>2024-11-12 @ 16:30:07</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42116967"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -164,11 +352,11 @@
             <h4>
               <span>2024-11-12 @ 16:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42116811"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -186,11 +374,11 @@
             <h4>
               <span>2024-11-12 @ 15:37:09</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42116318"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -208,7 +396,7 @@
             <h4>
               <span>2024-11-12 @ 15:20:46</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42116140"
                   >Comments</a
@@ -229,11 +417,11 @@
             <h4>
               <span>2024-11-12 @ 15:13:46</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42116072"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -248,11 +436,11 @@
             <h4>
               <span>2024-11-12 @ 14:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42115611"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -269,13 +457,42 @@
             <h4>
               <span>2024-11-12 @ 14:11:11</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42115597"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42115453">
+          <h3>
+            <a class="item" href="https://www.betaconvert.com"
+              >Show HN: We built the simplest Online Unit Converter for everyday
+              use</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-12 @ 13:53:11</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42115453"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                200+ unit converters in Area, Length, Mass, Speed, Temperature,
+                and Time categories; Precision: up to 28 decimal places;
+                Conversion formulas with examples; Neat UI with light/dark
+                theme.
+              </p>
+              <p>Enjoy using it.</p>
+            </div>
           </section>
         </section>
         <section id="42115310">
@@ -291,28 +508,11 @@
             <h4>
               <span>2024-11-12 @ 13:29:30</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42115310"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42114845">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused"
-              >TaxGPT (YC S24) Is Hiring Staff Software Engineer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-12 @ 12:00:13</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
@@ -329,11 +529,11 @@
             <h4>
               <span>2024-11-12 @ 07:11:50</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42113449"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -348,7 +548,7 @@
             <h4>
               <span>2024-11-12 @ 05:44:58</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42113113"
                   >Comments</a
@@ -373,7 +573,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42112864"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -389,11 +589,11 @@
             <h4>
               <span>2024-11-12 @ 04:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42112817"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -450,11 +650,11 @@
             <h4>
               <span>2024-11-12 @ 00:59:44</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42111896"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -472,11 +672,11 @@
             <h4>
               <span>2024-11-11 @ 23:11:19</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42111260"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -492,11 +692,11 @@
             <h4>
               <span>2024-11-11 @ 22:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42111109"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -511,11 +711,11 @@
             <h4>
               <span>2024-11-11 @ 22:30:26</span
               ><span class="points-container"
-                >Points: <span class="points">991</span></span
+                >Points: <span class="points">1009</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42111031"
                   >Comments</a
-                ><span class="descendants">: 278</span></span
+                ><span class="descendants">: 281</span></span
               >
             </h4>
           </section>
@@ -530,11 +730,11 @@
             <h4>
               <span>2024-11-11 @ 22:10:37</span
               ><span class="points-container"
-                >Points: <span class="points">622</span></span
+                >Points: <span class="points">628</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42110877"
                   >Comments</a
-                ><span class="descendants">: 312</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -551,11 +751,11 @@
             <h4>
               <span>2024-11-11 @ 21:41:37</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">397</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42110677"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -572,32 +772,11 @@
             <h4>
               <span>2024-11-11 @ 21:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42110588"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42108816">
-          <h3>
-            <a
-              class="item"
-              href="https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
-              >Optimizing a WebGPU Matmul Kernel for 1 TFLOP</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-11 @ 17:29:39</span
-              ><span class="points-container"
-                >Points: <span class="points">160</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42108816"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -637,11 +816,11 @@
             <h4>
               <span>2024-11-07 @ 19:13:57</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42079838"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -661,27 +840,6 @@
                 ><a href="https://news.ycombinator.com/item?id=42077815"
                   >Comments</a
                 ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42076537">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars"
-              >Astronomers may have spotted the smallest possible stars</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-07 @ 13:39:05</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42076537"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -719,11 +877,11 @@
             <h4>
               <span>2024-11-06 @ 07:43:55</span
               ><span class="points-container"
-                >Points: <span class="points">472</span></span
+                >Points: <span class="points">475</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42057903"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -741,7 +899,7 @@
             <h4>
               <span>2024-11-05 @ 21:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42055121"
                   >Comments</a
