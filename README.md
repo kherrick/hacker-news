@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-12, 03:09:27](https://news.ycombinator.com/item?id=42112439) - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
@@ -28,6 +27,7 @@
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-03, 21:31:24](https://news.ycombinator.com/item?id=42036242) - [The History and Evolution of Playing Cards](https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck)
+* [2024-11-03, 14:44:49](https://news.ycombinator.com/item?id=42033330) - [Leveraging the lightcone around the source of truth with Postgres](https://benoitessiambre.com/pgcentrism.html)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 * [2024-11-03, 01:49:42](https://news.ycombinator.com/item?id=42030638) - [Making Pop Rocks from scratch (is complicated) [video]](https://www.youtube.com/watch?v=_uiAcr2449w)
 
