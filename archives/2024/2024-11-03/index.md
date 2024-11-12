@@ -14,6 +14,7 @@
 * [2024-11-03, 22:11:08](https://news.ycombinator.com/item?id=42036476) - [GJS: Node.js Like Runtime for Gnome](https://gjs.guide/)
 * [2024-11-03, 21:42:26](https://news.ycombinator.com/item?id=42036305) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-03, 21:42:03](https://news.ycombinator.com/item?id=42036303) - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
+* [2024-11-03, 21:31:24](https://news.ycombinator.com/item?id=42036242) - [The History and Evolution of Playing Cards](https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck)
 * [2024-11-03, 21:19:02](https://news.ycombinator.com/item?id=42036165) - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
 * [2024-11-03, 21:18:32](https://news.ycombinator.com/item?id=42036163) - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
 * [2024-11-03, 20:56:05](https://news.ycombinator.com/item?id=42036041) - [Show HN: Tinder, but to Decide What to Eat](https://whatdinner.com/)
