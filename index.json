@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-11-12, 12:27:52",
-      "https://news.ycombinator.com/item?id=42114990"
+      "2024-11-12, 14:12:39",
+      "https://news.ycombinator.com/item?id=42115611"
     ],
     [
-      "Two Upstart Search Engines Are Teaming Up to Take on Google",
-      "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 12:05:15",
-      "https://news.ycombinator.com/item?id=42114874"
-    ],
-    [
-      "Rust Needs an Official Specification",
-      "https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification"
+      "Jepsen: Bufstream 0.1.0",
+      "https://jepsen.io/analyses/bufstream-0.1.0"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Visual inference exploration and experimentation playground",
       "https://github.com/devidw/inferit"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 00:59:44",
+      "https://news.ycombinator.com/item?id=42111896"
+    ],
+    [
+      "What I Wish Someone Told Me About Postgres",
+      "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42072293"
     ],
     [
-      "Product Quality Through Change Management",
+      "Product Quality Through Change Management (1999)",
       "https://www.ravenbrook.com/doc/1999/05/20/pqtcm/"
     ]
   ],
