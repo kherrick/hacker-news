@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 19:16:53](https://news.ycombinator.com/item?id=42118638) - [Sentry just gave $750k to open source projects](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 * [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
-* [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
 * [2024-11-12, 14:12:39](https://news.ycombinator.com/item?id=42115611) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
