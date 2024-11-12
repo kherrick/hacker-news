@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 03:07:33](https://news.ycombinator.com/item?id=42112432) - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)

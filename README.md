@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 03:07:33](https://news.ycombinator.com/item?id=42112432) - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
@@ -12,7 +13,6 @@
 * [2024-11-11, 20:11:40](https://news.ycombinator.com/item?id=42110081) - [Testing the Z80 Chip with a 1970s Beauty](https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s)
 * [2024-11-11, 17:41:19](https://news.ycombinator.com/item?id=42108907) - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
-* [2024-11-11, 16:29:05](https://news.ycombinator.com/item?id=42108325) - [The Doodle Theorem, and Beyond (2016)](https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/)
 * [2024-11-11, 16:00:10](https://news.ycombinator.com/item?id=42108077) - [Brian Kernighan Reflects on Unix: A History and a Memoir [video]](https://www.youtube.com/watch?v=VloimYuCxBs)
 * [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [The business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did scientists revive an extinct animal or just breed a less stripey zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
