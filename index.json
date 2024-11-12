@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 16:17:00",
+      "https://news.ycombinator.com/item?id=42116811"
+    ],
+    [
+      "Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers",
+      "https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 15:37:09",
       "https://news.ycombinator.com/item?id=42116318"
     ],
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2024-11-12, 15:01:37",
-      "https://news.ycombinator.com/item?id=42115958"
+      "2024-11-12, 15:13:46",
+      "https://news.ycombinator.com/item?id=42116072"
     ],
     [
-      "I Lost $210 to a Stripe Dispute Despite Proof",
-      "https://zarar.dev/how-i-lost-210-to-a-stripe-dispute-despite-proof/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 14:13:55",
-      "https://news.ycombinator.com/item?id=42115623"
-    ],
-    [
-      "YouTube in Android introduces UI bugs",
-      "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en"
+      "Don't Do This with PostgreSQL",
+      "https://wiki.postgresql.org/wiki/Don%27t_Do_This"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
       "https://aidantr.github.io/files/AI_innovation.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 12:01:39",
-      "https://news.ycombinator.com/item?id=42114852"
-    ],
-    [
-      "What science reveals about our tendency toward corruption",
-      "https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-11-11, 20:11:40",
+      "https://news.ycombinator.com/item?id=42110081"
+    ],
+    [
+      "Testing the Z80 Chip with a 1970s Beauty",
+      "https://mtsi.substack.com/p/testing-the-z80-chip-with-a-1970s"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 17:29:39",
       "https://news.ycombinator.com/item?id=42108816"
     ],
@@ -237,6 +237,16 @@
     [
       "Method for the determination of the luminance of two-photon vision stimuli",
       "https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-10-5818&id=559565"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 19:13:57",
+      "https://news.ycombinator.com/item?id=42079838"
+    ],
+    [
+      "Egyptian priestess burial chamber unearthed after 4000 yrs Sensational discovery",
+      "https://nypost.com/2024/11/06/science/egyptian-priestess-mummy-unearthed-from-extraordinary-tomb-after-4000-years/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Revealing causal links in complex systems: New algorithm shows hidden influences",
       "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 05:52:56",
-      "https://news.ycombinator.com/item?id=42031384"
-    ],
-    [
-      "Chi-Fi Tuning – Why It Sounds So Damn Piercing to Western Ears (2020)",
-      "https://www.audioreviews.org/chi-fi-tuning/"
     ]
   ]
 ]
