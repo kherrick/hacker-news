@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
+* [2024-11-12, 15:13:46](https://news.ycombinator.com/item?id=42116072) - [Don't Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 * [2024-11-12, 15:01:37](https://news.ycombinator.com/item?id=42115958) - [I Lost $210 to a Stripe Dispute Despite Proof](https://zarar.dev/how-i-lost-210-to-a-stripe-dispute-despite-proof/)
 * [2024-11-12, 14:51:31](https://news.ycombinator.com/item?id=42115873) - [I'm a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
 * [2024-11-12, 14:13:55](https://news.ycombinator.com/item?id=42115623) - [YouTube in Android introduces UI bugs](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)

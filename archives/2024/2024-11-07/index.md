@@ -24,6 +24,7 @@
 * [2024-11-07, 20:02:06](https://news.ycombinator.com/item?id=42080326) - [Bluesky's at Protocol: Pros and Cons for Developers](https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/)
 * [2024-11-07, 19:38:46](https://news.ycombinator.com/item?id=42080081) - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
 * [2024-11-07, 19:32:04](https://news.ycombinator.com/item?id=42080012) - [Kagi Translate](https://blog.kagi.com/kagi-translate)
+* [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Egyptian priestess burial chamber unearthed after 4000 yrs Sensational discovery](https://nypost.com/2024/11/06/science/egyptian-priestess-mummy-unearthed-from-extraordinary-tomb-after-4000-years/)
 * [2024-11-07, 19:06:14](https://news.ycombinator.com/item?id=42079768) - [Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
 * [2024-11-07, 19:05:11](https://news.ycombinator.com/item?id=42079758) - [Sustainable Web Interest Group Is Formed](https://www.w3.org/blog/2024/sustainable-web-interest-group-is-formed/)
 * [2024-11-07, 18:35:22](https://news.ycombinator.com/item?id=42079460) - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
