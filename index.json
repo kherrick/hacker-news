@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-12, 10:23:37",
-      "https://news.ycombinator.com/item?id=42114318"
+      "2024-11-12, 09:28:31",
+      "https://news.ycombinator.com/item?id=42114051"
     ],
     [
-      "SHA-256 0573e7473",
-      "https://susam.net/sha-256-0573e7473.html"
+      "Dev Fonts",
+      "https://devfonts.gafi.dev/"
     ]
   ],
   [
@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2024-11-12, 01:21:11",
-      "https://news.ycombinator.com/item?id=42112005"
-    ],
-    [
-      "This morning for no obvious reason, I remembered the Fuel Rats",
-      "https://hachyderm.io/@danderson/113465421567555186"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 00:09:37",
-      "https://news.ycombinator.com/item?id=42111597"
-    ],
-    [
-      "Git and Jujutsu: In Miniature",
-      "https://lottia.net/notes/0013-git-jujutsu-miniature.html"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 23:11:19",
       "https://news.ycombinator.com/item?id=42111260"
     ],
@@ -87,16 +67,6 @@
     [
       "How I ship projects at big tech companies",
       "https://www.seangoedecke.com/how-to-ship/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 22:12:55",
-      "https://news.ycombinator.com/item?id=42110901"
-    ],
-    [
-      "YubiKey still selling old stock with vulnerable firmware",
-      "https://news.ycombinator.com/item?id=42110901"
     ]
   ],
   [
@@ -127,16 +97,6 @@
     [
       "Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead",
       "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 20:58:29",
-      "https://news.ycombinator.com/item?id=42110379"
-    ],
-    [
-      "Homage to Alexander Grothendieck",
-      "https://igrothendieck.org/en/homage-to-alexander-grothendieck/"
     ]
   ],
   [
@@ -181,6 +141,16 @@
   ],
   [
     [
+      "2024-11-11, 15:35:44",
+      "https://news.ycombinator.com/item?id=42107870"
+    ],
+    [
+      "The business of gutting failed Bay Area tech companies",
+      "https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 14:52:36",
       "https://news.ycombinator.com/item?id=42107534"
     ],
@@ -217,6 +187,16 @@
     [
       "Marine pilot loses command after ejecting from F-35B that kept flying",
       "https://www.marinecorpstimes.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 06:19:58",
+      "https://news.ycombinator.com/item?id=42092835"
+    ],
+    [
+      "Moore Curve Voronoi Animation",
+      "https://bleuje.com/js_sketches/moore-voronoi/"
     ]
   ],
   [
@@ -271,22 +251,42 @@
   ],
   [
     [
-      "2024-11-05, 08:38:57",
-      "https://news.ycombinator.com/item?id=42049736"
+      "2024-11-05, 19:10:34",
+      "https://news.ycombinator.com/item?id=42054327"
     ],
     [
-      "Functors to Monads: A Story of Shapes",
-      "https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html"
+      "Boeing Wonderland: The Fake Cities on America's West Coast (2013)",
+      "https://warfarehistorynetwork.com/article/boeing-wonderland-the-fake-cities-on-americas-west-coast/"
     ]
   ],
   [
     [
-      "2024-11-03, 11:29:18",
-      "https://news.ycombinator.com/item?id=42032451"
+      "2024-11-05, 02:47:39",
+      "https://news.ycombinator.com/item?id=42048162"
     ],
     [
-      "I2P Anonymous Network",
-      "https://geti2p.net/en/"
+      "The heist that made the Mona Lisa famous",
+      "https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 21:31:24",
+      "https://news.ycombinator.com/item?id=42036242"
+    ],
+    [
+      "The History and Evolution of Playing Cards",
+      "https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 14:44:49",
+      "https://news.ycombinator.com/item?id=42033330"
+    ],
+    [
+      "Leveraging the lightcone around the source of truth with Postgres",
+      "https://benoitessiambre.com/pgcentrism.html"
     ]
   ],
   [
