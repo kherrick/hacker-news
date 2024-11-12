@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
+* [2024-11-12, 12:05:15](https://news.ycombinator.com/item?id=42114874) - [Rust Needs an Official Specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 12:01:39](https://news.ycombinator.com/item?id=42114852) - [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
 * [2024-11-12, 12:00:13](https://news.ycombinator.com/item?id=42114845) - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
 * [2024-11-12, 11:38:44](https://news.ycombinator.com/item?id=42114729) - [Apple M4 Pro analysis – fast, but not as efficient](https://www.notebookcheck.net/Apple-M4-Pro-analysis-Extremely-fast-but-not-as-efficient.915270.0.html)

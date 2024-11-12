@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
+* [2024-11-12, 12:05:15](https://news.ycombinator.com/item?id=42114874) - [Rust Needs an Official Specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 12:01:39](https://news.ycombinator.com/item?id=42114852) - [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
 * [2024-11-12, 12:00:13](https://news.ycombinator.com/item?id=42114845) - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
 * [2024-11-12, 11:35:24](https://news.ycombinator.com/item?id=42114711) - [The Lost Reading Items of Ilya Sutskever's AI Reading List](https://tensorlabbet.com/2024/11/11/lost-reading-items/)
@@ -23,7 +24,6 @@
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 * [2024-11-10, 03:48:52](https://news.ycombinator.com/item?id=42098475) - [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.marinecorpstimes.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
-* [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-07, 16:02:16](https://news.ycombinator.com/item?id=42077815) - [Shfla: Shoegaze Hierarchical Fractal Language Architecture](https://github.com/Tetraslam/SHFLA)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
 * [2024-11-07, 01:31:53](https://news.ycombinator.com/item?id=42072293) - [Product Quality Through Change Management](https://www.ravenbrook.com/doc/1999/05/20/pqtcm/)
