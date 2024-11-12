@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 06:56:39](https://news.ycombinator.com/item?id=42113398) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 05:02:05](https://news.ycombinator.com/item?id=42112945) - [Der Spiegel Proclaims the End of the West](https://www.spiegel.de/international/world/donald-trump-and-the-new-world-order-the-end-of-the-west-a-b71fa1bd-6147-47a4-8738-5c17eff44a55)
