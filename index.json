@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-12, 03:09:27",
-      "https://news.ycombinator.com/item?id=42112439"
-    ],
-    [
-      "The transition from GIMP 2.x to GIMP 3.0 took two decades",
-      "https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 01:21:11",
       "https://news.ycombinator.com/item?id=42112005"
     ],
@@ -277,6 +267,16 @@
     [
       "The History and Evolution of Playing Cards",
       "https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 14:44:49",
+      "https://news.ycombinator.com/item?id=42033330"
+    ],
+    [
+      "Leveraging the lightcone around the source of truth with Postgres",
+      "https://benoitessiambre.com/pgcentrism.html"
     ]
   ],
   [
