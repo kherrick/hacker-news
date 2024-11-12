@@ -26,8 +26,8 @@
 * [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-07, 13:39:05](https://news.ycombinator.com/item?id=42076537) - [Astronomers may have spotted the smallest possible stars](https://www.science.org/content/article/astronomers-may-have-spotted-smallest-possible-stars)
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
+* [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 * [2024-11-05, 08:38:57](https://news.ycombinator.com/item?id=42049736) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
-* [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 * [2024-11-03, 05:52:56](https://news.ycombinator.com/item?id=42031384) - [Chi-Fi Tuning – Why It Sounds So Damn Piercing to Western Ears (2020)](https://www.audioreviews.org/chi-fi-tuning/)
 

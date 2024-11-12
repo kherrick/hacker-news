@@ -16,6 +16,7 @@
 * [2024-11-05, 21:16:22](https://news.ycombinator.com/item?id=42055242) - [Apple to Face First EU Fine Under Bloc's Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act)
 * [2024-11-05, 21:15:46](https://news.ycombinator.com/item?id=42055238) - [ML analysis tracks the evolution of 16th-century European astronomical thought](https://phys.org/news/2024-10-machine-analysis-tracks-evolution-16th.html)
 * [2024-11-05, 21:02:21](https://news.ycombinator.com/item?id=42055134) - [Honeybee gene specifies collective behavior, research shows](https://phys.org/news/2024-11-honeybee-gene-behavior.html)
+* [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 * [2024-11-05, 20:33:29](https://news.ycombinator.com/item?id=42054904) - [Polymarket Paid US Social Media Influencers for Election Content](https://www.bloomberg.com/news/articles/2024-11-05/polymarket-paid-us-social-media-influencers-for-election-content)
 * [2024-11-05, 20:22:34](https://news.ycombinator.com/item?id=42054835) - [Traceroute Isn't Real](https://gekk.info/articles/traceroute.htm)
 * [2024-11-05, 20:19:13](https://news.ycombinator.com/item?id=42054813) - [Why Companies Are Ditching the Cloud: The Rise of Cloud Repatriation](https://thenewstack.io/why-companies-are-ditching-the-cloud-the-rise-of-cloud-repatriation/)
