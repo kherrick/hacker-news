@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 18:25:23",
+      "https://news.ycombinator.com/item?id=42118180"
+    ],
+    [
+      "Visualizing 13M Bluesky Users",
+      "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 17:58:17",
       "https://news.ycombinator.com/item?id=42117912"
     ],
@@ -227,16 +237,6 @@
     [
       "Visualizing World War II",
       "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 17:29:39",
-      "https://news.ycombinator.com/item?id=42108816"
-    ],
-    [
-      "Optimizing a WebGPU Matmul Kernel for 1 TFLOP",
-      "https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel"
     ]
   ],
   [
