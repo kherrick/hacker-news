@@ -47,6 +47,7 @@
 * [2024-11-03, 15:05:20](https://news.ycombinator.com/item?id=42033444) - [Somebody Please Get Me This Desktop Wind Tunnel for Christmas](https://www.thedrive.com/news/funtech-lab-scaled-down-desktop-toy-car-wind-tunnel-price-specs-pictures)
 * [2024-11-03, 15:03:26](https://news.ycombinator.com/item?id=42033432) - [Zed – The Editor for What's Next](https://zed.dev/)
 * [2024-11-03, 14:55:06](https://news.ycombinator.com/item?id=42033389) - [Show HN: Directional antenna alignment using phone motion sensors](https://star.conor.link/)
+* [2024-11-03, 14:44:49](https://news.ycombinator.com/item?id=42033330) - [Leveraging the lightcone around the source of truth with Postgres](https://benoitessiambre.com/pgcentrism.html)
 * [2024-11-03, 14:37:25](https://news.ycombinator.com/item?id=42033295) - [Auth Wiki](https://auth.wiki/)
 * [2024-11-03, 14:29:57](https://news.ycombinator.com/item?id=42033241) - [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens)
 * [2024-11-03, 14:29:26](https://news.ycombinator.com/item?id=42033238) - [A new copyright rule lets McDonald's fix its own broken ice cream machines](https://www.npr.org/2024/11/02/g-s1-31893/mcdonalds-broken-ice-cream-machine-copyright-law)
