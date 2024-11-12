@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-12, 10:33:25](https://news.ycombinator.com/item?id=42114367) - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
-* [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)
+* [2024-11-12, 11:38:44](https://news.ycombinator.com/item?id=42114729) - [Apple M4 Pro analysis – fast, but not as efficient](https://www.notebookcheck.net/Apple-M4-Pro-analysis-Extremely-fast-but-not-as-efficient.915270.0.html)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
-* [2024-11-12, 06:36:43](https://news.ycombinator.com/item?id=42113315) - [The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby](https://www.nature.com/articles/s41550-024-02389-3)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
+* [2024-11-12, 04:43:06](https://news.ycombinator.com/item?id=42112864) - [Blame the Gerbils](https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils)
+* [2024-11-12, 04:31:26](https://news.ycombinator.com/item?id=42112817) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
