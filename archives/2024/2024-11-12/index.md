@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
 * [2024-11-12, 14:51:31](https://news.ycombinator.com/item?id=42115873) - [I'm a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
 * [2024-11-12, 14:12:39](https://news.ycombinator.com/item?id=42115611) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
+* [2024-11-12, 14:11:11](https://news.ycombinator.com/item?id=42115597) - [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
 * [2024-11-12, 14:09:36](https://news.ycombinator.com/item?id=42115578) - [Genetic Discrimination Is Coming for Us All](https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/)
 * [2024-11-12, 14:01:50](https://news.ycombinator.com/item?id=42115515) - [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
