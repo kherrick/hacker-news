@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-12, 07:21:36](https://news.ycombinator.com/item?id=42113479) - [Cheaper to rent in Barcelona and commute to London](https://bestburgerinnorthwestlondon.wordpress.com/2013/10/24/cheaper-to-rent-in-barcelona-and-commute-to-london/)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 * [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
-* [2024-11-11, 22:39:25](https://news.ycombinator.com/item?id=42111094) - [Misguided Apple Intelligence ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
 * [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-11, 22:12:55](https://news.ycombinator.com/item?id=42110901) - [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
 * [2024-11-11, 22:10:37](https://news.ycombinator.com/item?id=42110877) - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
