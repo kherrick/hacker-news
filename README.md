@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-12, 05:44:58](https://news.ycombinator.com/item?id=42113113) - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
+* [2024-11-12, 03:18:17](https://news.ycombinator.com/item?id=42112475) - [Horse – The Organized Browser](https://browser.horse)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 00:09:37](https://news.ycombinator.com/item?id=42111597) - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
@@ -15,6 +16,7 @@
 * [2024-11-11, 17:41:19](https://news.ycombinator.com/item?id=42108907) - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
 * [2024-11-11, 17:29:39](https://news.ycombinator.com/item?id=42108816) - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
 * [2024-11-11, 16:00:10](https://news.ycombinator.com/item?id=42108077) - [Brian Kernighan Reflects on Unix: A History and a Memoir [video]](https://www.youtube.com/watch?v=VloimYuCxBs)
+* [2024-11-11, 15:35:44](https://news.ycombinator.com/item?id=42107870) - [The business of gutting failed Bay Area tech companies](https://www.sfgate.com/bayarea/article/better-source-cheap-bay-area-office-furniture-19897542.php)
 * [2024-11-11, 14:52:36](https://news.ycombinator.com/item?id=42107534) - [Did scientists revive an extinct animal or just breed a less stripey zebra?](https://www.wsj.com/science/biology/quagga-woolly-mammoth-extinct-zebra-africa-dabce258)
 * [2024-11-11, 12:38:42](https://news.ycombinator.com/item?id=42106700) - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 * [2024-11-10, 20:45:33](https://news.ycombinator.com/item?id=42102506) - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
@@ -26,8 +28,6 @@
 * [2024-11-06, 07:43:55](https://news.ycombinator.com/item?id=42057903) - [All the data can be yours: reverse engineering APIs](https://jero.zone/posts/reverse-engineering-apis)
 * [2024-11-05, 08:38:57](https://news.ycombinator.com/item?id=42049736) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
 * [2024-11-05, 02:47:39](https://news.ycombinator.com/item?id=42048162) - [The heist that made the Mona Lisa famous](https://www.history.com/news/the-heist-that-made-the-mona-lisa-famous)
-* [2024-11-03, 21:31:24](https://news.ycombinator.com/item?id=42036242) - [The History and Evolution of Playing Cards](https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck)
-* [2024-11-03, 14:44:49](https://news.ycombinator.com/item?id=42033330) - [Leveraging the lightcone around the source of truth with Postgres](https://benoitessiambre.com/pgcentrism.html)
 * [2024-11-03, 11:29:18](https://news.ycombinator.com/item?id=42032451) - [I2P Anonymous Network](https://geti2p.net/en/)
 * [2024-11-03, 01:49:42](https://news.ycombinator.com/item?id=42030638) - [Making Pop Rocks from scratch (is complicated) [video]](https://www.youtube.com/watch?v=_uiAcr2449w)
 
