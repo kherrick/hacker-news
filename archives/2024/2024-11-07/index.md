@@ -41,6 +41,7 @@
 * [2024-11-07, 16:53:11](https://news.ycombinator.com/item?id=42078382) - [Has the market spoken? Time to pick up Golang and Rust?](https://news.ycombinator.com/item?id=42078382)
 * [2024-11-07, 16:47:30](https://news.ycombinator.com/item?id=42078324) - [Google Banned Me from Google Voice](https://www.dannyguo.com/blog/google-banned-me-from-google-voice)
 * [2024-11-07, 16:25:40](https://news.ycombinator.com/item?id=42078067) - [Show HN: BemiDB – Postgres read replica optimized for analytics](https://github.com/BemiHQ/BemiDB)
+* [2024-11-07, 16:02:16](https://news.ycombinator.com/item?id=42077815) - [Shfla: Shoegaze Hierarchical Fractal Language Architecture](https://github.com/Tetraslam/SHFLA)
 * [2024-11-07, 15:54:38](https://news.ycombinator.com/item?id=42077735) - [Richard A. Cash, Who Saved Millions from Dehydration, Dies at 83](https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://www.ri.cmu.edu/ai-meets-fusion-cmu-princeton-join-forces-to-pursue-clean-abundant-power/)
 * [2024-11-07, 15:12:10](https://news.ycombinator.com/item?id=42077319) - [CMU, Princeton join forces to use AI for Nuclear Fusion](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/)
