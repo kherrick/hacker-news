@@ -8,6 +8,7 @@
 * [2024-11-12, 12:01:39](https://news.ycombinator.com/item?id=42114852) - [What science reveals about our tendency toward corruption](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
 * [2024-11-12, 12:00:13](https://news.ycombinator.com/item?id=42114845) - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
 * [2024-11-12, 11:38:44](https://news.ycombinator.com/item?id=42114729) - [Apple M4 Pro analysis – fast, but not as efficient](https://www.notebookcheck.net/Apple-M4-Pro-analysis-Extremely-fast-but-not-as-efficient.915270.0.html)
+* [2024-11-12, 11:35:24](https://news.ycombinator.com/item?id=42114711) - [The Lost Reading Items of Ilya Sutskever's AI Reading List](https://tensorlabbet.com/2024/11/11/lost-reading-items/)
 * [2024-11-12, 10:33:25](https://news.ycombinator.com/item?id=42114367) - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
 * [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
 * [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)

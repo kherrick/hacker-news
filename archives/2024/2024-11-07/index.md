@@ -79,3 +79,4 @@
 * [2024-11-07, 02:32:44](https://news.ycombinator.com/item?id=42072709) - [Show HN: TutoriaLLM – AI Integrated programming tutorials](https://github.com/TutoriaLLM/TutoriaLLM)
 * [2024-11-07, 02:24:38](https://news.ycombinator.com/item?id=42072647) - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
 * [2024-11-07, 02:07:55](https://news.ycombinator.com/item?id=42072530) - [Is the US an Ochlocracy?](https://anacyclosis.org/portfolio/what-is-anacyclosis/)
+* [2024-11-07, 01:31:53](https://news.ycombinator.com/item?id=42072293) - [Product Quality Through Change Management](https://www.ravenbrook.com/doc/1999/05/20/pqtcm/)
