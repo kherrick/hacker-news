@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 23:27:02](https://news.ycombinator.com/item?id=42121122) - [Nutrient Density and Other Stupid Magic Words](https://www.exfatloss.com/p/nutrient-density-and-other-stupid)
+* [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:11:24](https://news.ycombinator.com/item?id=42120331) - [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving Your Space](https://heather-buchel.com/blog/2024/11/carving-space/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency is incredible](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
