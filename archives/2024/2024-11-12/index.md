@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
+* [2024-11-12, 15:01:37](https://news.ycombinator.com/item?id=42115958) - [I Lost $210 to a Stripe Dispute Despite Proof](https://zarar.dev/how-i-lost-210-to-a-stripe-dispute-despite-proof/)
 * [2024-11-12, 14:51:31](https://news.ycombinator.com/item?id=42115873) - [I'm a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
+* [2024-11-12, 14:13:55](https://news.ycombinator.com/item?id=42115623) - [YouTube in Android introduces UI bugs](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)
 * [2024-11-12, 14:12:39](https://news.ycombinator.com/item?id=42115611) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 14:11:11](https://news.ycombinator.com/item?id=42115597) - [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
 * [2024-11-12, 14:09:36](https://news.ycombinator.com/item?id=42115578) - [Genetic Discrimination Is Coming for Us All](https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/)
