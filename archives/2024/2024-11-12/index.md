@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
+* [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
 * [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
@@ -16,6 +18,7 @@
 * [2024-11-12, 14:11:11](https://news.ycombinator.com/item?id=42115597) - [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
 * [2024-11-12, 14:09:36](https://news.ycombinator.com/item?id=42115578) - [Genetic Discrimination Is Coming for Us All](https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/)
 * [2024-11-12, 14:01:50](https://news.ycombinator.com/item?id=42115515) - [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
+* [2024-11-12, 13:53:11](https://news.ycombinator.com/item?id=42115453) - [Show HN: We built the simplest Online Unit Converter for everyday use](https://www.betaconvert.com)
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 12:05:15](https://news.ycombinator.com/item?id=42114874) - [Rust Needs an Official Specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
