@@ -52,6 +52,7 @@
 * [2024-11-07, 13:26:28](https://news.ycombinator.com/item?id=42076449) - [What Came First, The egg or the chicken? An ancient unicellular says egg](https://www.unige.ch/medias/en/2024/loeuf-ou-la-poule-un-unicellulaire-ancestral-dit-loeuf)
 * [2024-11-07, 13:06:41](https://news.ycombinator.com/item?id=42076312) - [Ask HN: How do you see GitHub Spark, threat to developer community or a helper?](https://news.ycombinator.com/item?id=42076312)
 * [2024-11-07, 12:50:29](https://news.ycombinator.com/item?id=42076200) - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
+* [2024-11-07, 12:43:39](https://news.ycombinator.com/item?id=42076158) - [Gadsby: Wikip_dia's Lost Lipogram (2015) [pdf]](https://core.ac.uk/download/pdf/62427614.pdf)
 * [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)

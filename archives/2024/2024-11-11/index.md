@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:43:22](https://news.ycombinator.com/item?id=42111120) - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
 * [2024-11-11, 22:39:25](https://news.ycombinator.com/item?id=42111094) - [Misguided Apple Intelligence Ads](https://tidbits.com/2024/11/11/misguided-apple-intelligence-ads/)
 * [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-11, 22:20:05](https://news.ycombinator.com/item?id=42110959) - [Ben Horowitz's Cozy Relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/)
+* [2024-11-11, 22:12:55](https://news.ycombinator.com/item?id=42110901) - [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
 * [2024-11-11, 22:10:37](https://news.ycombinator.com/item?id=42110877) - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 * [2024-11-11, 21:02:11](https://news.ycombinator.com/item?id=42110407) - [High Levels of Banned PFAS Detected in Hershey's Packaging](https://grizzlyreports.com/hsy/)

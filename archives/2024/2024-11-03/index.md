@@ -72,6 +72,7 @@
 * [2024-11-03, 02:39:51](https://news.ycombinator.com/item?id=42030832) - [Ask HN: What would you preserve if the internet were to go down tomorrow?](https://news.ycombinator.com/item?id=42030832)
 * [2024-11-03, 02:30:21](https://news.ycombinator.com/item?id=42030798) - [Jeopardy Game Using LLM and Python](https://github.com/kmarker1101/jeopardy)
 * [2024-11-03, 01:54:43](https://news.ycombinator.com/item?id=42030654) - [A Craving for Calculation](https://technicshistory.com/2024/11/03/a-craving-for-calculation/)
+* [2024-11-03, 01:49:42](https://news.ycombinator.com/item?id=42030638) - [Making Pop Rocks from scratch (is complicated) [video]](https://www.youtube.com/watch?v=_uiAcr2449w)
 * [2024-11-03, 01:47:23](https://news.ycombinator.com/item?id=42030625) - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-03, 01:44:41](https://news.ycombinator.com/item?id=42030615) - [The evolutionary mystery of the German cockroach](https://johnhawks.net/weblog/the-mystery-of-the-german-cockroach/)
 * [2024-11-03, 01:06:37](https://news.ycombinator.com/item?id=42030463) - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
