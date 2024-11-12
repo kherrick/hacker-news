@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 * [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)

@@ -41,6 +41,7 @@
 * [2024-11-09, 09:12:30](https://news.ycombinator.com/item?id=42093394) - [When you ask ChatGPT \"Tell me a story\" it's always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:27:56](https://news.ycombinator.com/item?id=42093037) - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
+* [2024-11-09, 06:21:36](https://news.ycombinator.com/item?id=42092836) - [Anton Seder's the Animal in Decorative Art (1896)](https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/)
 * [2024-11-09, 06:19:58](https://news.ycombinator.com/item?id=42092835) - [Moore Curve Voronoi Animation](https://bleuje.com/js_sketches/moore-voronoi/)
 * [2024-11-09, 06:16:53](https://news.ycombinator.com/item?id=42092830) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-09, 05:54:51](https://news.ycombinator.com/item?id=42092755) - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
