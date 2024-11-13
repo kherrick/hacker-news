@@ -26,10 +26,10 @@
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
-* [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 18:42:49](https://news.ycombinator.com/item?id=42096083) - [Drone Relative Positioning](https://matthew-bird.com/blogs/Drone-Rel-Pos.html)
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
+* [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
 
 ## [Archives](archives/index.md)
 
