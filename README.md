@@ -8,6 +8,7 @@
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
+* [2024-11-12, 23:52:04](https://news.ycombinator.com/item?id=42121345) - [Cane Toads: An Unnatural History (1988)](https://cinemasojourns.com/2024/11/12/whats-your-favorite-invasive-species/)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
@@ -29,7 +30,6 @@
 * [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-06, 10:39:44](https://news.ycombinator.com/item?id=42059639) - [PgPDF: Pdf Type and Functions for Postgres](https://github.com/Florents-Tselai/pgpdf)
 * [2024-11-05, 21:14:18](https://news.ycombinator.com/item?id=42055221) - [Study shows bats have acoustic cognitive maps](https://phys.org/news/2024-10-echolocating-acoustic-cognitive.html)
-* [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 
 ## [Archives](archives/index.md)
 
