@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-13, 20:43:57",
-      "https://news.ycombinator.com/item?id=42129791"
-    ],
-    [
-      "FBI seizes Polymarket CEO's phone, electronics",
-      "https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 20:43:16",
       "https://news.ycombinator.com/item?id=42129779"
     ],
@@ -227,6 +217,16 @@
     [
       "New elliptic curve breaks 18-year-old record",
       "https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 23:01:08",
+      "https://news.ycombinator.com/item?id=42103200"
+    ],
+    [
+      "Way too many ways to wait on a child process with a timeout",
+      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
     ]
   ],
   [
