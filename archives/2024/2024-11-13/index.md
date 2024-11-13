@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
+* [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
+* [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
 * [2024-11-13, 17:09:03](https://news.ycombinator.com/item?id=42127877) - [Codeium launches Windsurf – the first agentic IDE](https://codeium.com/blog/windsurf-launch)
 * [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)

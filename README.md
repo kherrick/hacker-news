@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
+* [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
+* [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
-* [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
 * [2024-11-13, 17:00:36](https://news.ycombinator.com/item?id=42127776) - [Patterns (YC S21) Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
 * [2024-11-13, 16:39:55](https://news.ycombinator.com/item?id=42127569) - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
 * [2024-11-13, 16:27:48](https://news.ycombinator.com/item?id=42127459) - [Covering the Supreme Court and the Judiciary in (Mostly) Plain English](https://amylhowe.com/)
@@ -15,7 +16,6 @@
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
 * [2024-11-12, 18:17:32](https://news.ycombinator.com/item?id=42118097) - [Backdoor attempt on Exolabs GitHub repo through an innocent looking PR](https://twitter.com/alexocheema/status/1856295635143524378)
 * [2024-11-12, 14:08:36](https://news.ycombinator.com/item?id=42115570) - [The Broadband Phone (2021)](https://quentinsf.com/research/att/bphone/)
-* [2024-11-12, 11:05:24](https://news.ycombinator.com/item?id=42114543) - [Show HN: Xfer, a data-transfer language](https://github.com/paulmooreparks/Xfer)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-12, 01:06:00](https://news.ycombinator.com/item?id=42111938) - [Steve Jobs, NeXTSTEP, and early object-oriented programming (2016)](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
