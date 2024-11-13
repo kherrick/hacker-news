@@ -68,6 +68,7 @@
 * [2024-11-06, 07:12:43](https://news.ycombinator.com/item?id=42057758) - [2x 16GBx256GB Mac minis cost $1 cheaper than a single 32GBx512GB Mac mini](https://twitter.com/seatedro/status/1853262737557590479)
 * [2024-11-06, 06:49:49](https://news.ycombinator.com/item?id=42057647) - [Trump wins presidency](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/)
 * [2024-11-06, 06:40:56](https://news.ycombinator.com/item?id=42057597) - [A GitHub repo that curates all the awesome repos](https://github.com/bayandin/awesome-awesomeness)
+* [2024-11-06, 06:20:26](https://news.ycombinator.com/item?id=42057525) - [The Art of Manually Editing Hunks](https://kennyballou.com/blog/2015/10/art-manually-edit-hunks/index.html)
 * [2024-11-06, 06:06:51](https://news.ycombinator.com/item?id=42057478) - [BYD Added a Tesla-Worth of Production Capacity over the Past 3 Months](https://cleantechnica.com/2024/11/04/byd-added-a-tesla-worth-of-production-capacity-over-the-past-3-months-with-more-to-come/)
 * [2024-11-06, 06:03:21](https://news.ycombinator.com/item?id=42057465) - [Show HN: Real-time ChatGPT-like data analysis for US Election](https://dashboard.itsverve.com/public)
 * [2024-11-06, 05:57:15](https://news.ycombinator.com/item?id=42057451) - [Windows 2022 Servers Unexpectedly Upgrading to 2025](https://old.reddit.com/r/sysadmin/comments/1gk2qdu/windows_2022_servers_unexpectedly_upgrading_to/)
