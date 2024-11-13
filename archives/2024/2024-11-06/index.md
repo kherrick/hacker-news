@@ -48,6 +48,7 @@
 * [2024-11-06, 11:54:06](https://news.ycombinator.com/item?id=42060663) - [Review of Vienna: How the City of Ideas Created the Modern World](https://www.nybooks.com/articles/2024/11/21/the-legacy-of-red-vienna-richard-cockett-uglow/)
 * [2024-11-06, 11:26:36](https://news.ycombinator.com/item?id=42060286) - [Powering the Mars Base](https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/)
 * [2024-11-06, 11:20:59](https://news.ycombinator.com/item?id=42060215) - [Bthreads: A Simple and Easy Paradigm for Clojure](https://thomascothran.tech/2024/10/a-new-paradigm/)
+* [2024-11-06, 11:10:42](https://news.ycombinator.com/item?id=42060081) - [The Product-Market Fit Scale](https://iwantproductmarketfit.substack.com/p/the-product-market-fit-scale)
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 * [2024-11-06, 10:18:45](https://news.ycombinator.com/item?id=42059336) - [Understanding Ruby 3.3 Concurrency: A Comprehensive Guide](https://blog.bestwebventures.in/understanding-ruby-concurrency-a-comprehensive-guide)
 * [2024-11-06, 09:54:21](https://news.ycombinator.com/item?id=42058920) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)

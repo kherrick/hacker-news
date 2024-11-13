@@ -19,7 +19,6 @@
 * [2024-11-12, 18:11:49](https://news.ycombinator.com/item?id=42118039) - [Show HN: Stretch My Time Off – An Algorithm to Optimize Your Vacation Days](https://stretchmytimeoff.com)
 * [2024-11-12, 18:04:19](https://news.ycombinator.com/item?id=42117970) - [Show HN: Open-source Kibana alternative for logs and traces in ClickHouse](https://github.com/hyperdxio/hyperdx/tree/v2)
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
-* [2024-11-12, 12:44:03](https://news.ycombinator.com/item?id=42115072) - [Ohmaps: your image montage is a resistor network](https://hunsley.io/posts/2024/image-montage-is-resistor-network/)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
 * [2024-11-09, 10:02:52](https://news.ycombinator.com/item?id=42093551) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
@@ -30,6 +29,7 @@
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
 * [2024-11-07, 10:51:48](https://news.ycombinator.com/item?id=42075535) - [How to delegate effectively as your responsibility grows](https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/)
 * [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
+* [2024-11-06, 11:10:42](https://news.ycombinator.com/item?id=42060081) - [The Product-Market Fit Scale](https://iwantproductmarketfit.substack.com/p/the-product-market-fit-scale)
 
 ## [Archives](archives/index.md)
 
