@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 09:18:51](https://news.ycombinator.com/item?id=42124350) - [B2C billing is harder than B2B billing](https://arnon.dk/6-reasons-why-b2c-billing-is-actually-harder-than-b2b/)
 * [2024-11-13, 08:16:47](https://news.ycombinator.com/item?id=42123909) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
 * [2024-11-13, 07:35:39](https://news.ycombinator.com/item?id=42123712) - [AMD's CPU sales are miles better than Intel](https://www.pcguide.com/news/amds-cpu-sales-are-unsurprisingly-miles-ahead-of-intel-as-first-9800x3d-launch-numbers-published/)
