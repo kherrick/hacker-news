@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
+* [2024-11-13, 15:09:08](https://news.ycombinator.com/item?id=42126686) - [The Mysterious 'King Arthur's Hall' is 4k years older than believed](https://www.zmescience.com/science/news-science/the-mysterious-king-arthurs-hall-is-4000-years-older-than-believed/)
 * [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 * [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
 * [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
@@ -24,8 +26,6 @@
 * [2024-11-09, 07:41:23](https://news.ycombinator.com/item?id=42093090) - [How a neuron learns](https://qtnx.ai/posts/how_neuron_learns/)
 * [2024-11-09, 04:01:29](https://news.ycombinator.com/item?id=42092453) - [Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos](https://allthatsinteresting.com/glyptodon-fossils)
 * [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We Built a Self-Healing System to Survive a Concurrency Bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
-* [2024-11-08, 14:30:44](https://news.ycombinator.com/item?id=42087100) - [Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini](https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores)
-* [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
 * [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-06, 10:39:44](https://news.ycombinator.com/item?id=42059639) - [PgPDF: Pdf Type and Functions for Postgres](https://github.com/Florents-Tselai/pgpdf)
