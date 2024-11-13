@@ -51,6 +51,7 @@
 * [2024-11-06, 11:10:42](https://news.ycombinator.com/item?id=42060081) - [The Product-Market Fit Scale](https://iwantproductmarketfit.substack.com/p/the-product-market-fit-scale)
 * [2024-11-06, 11:03:32](https://news.ycombinator.com/item?id=42059980) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-06, 10:40:39](https://news.ycombinator.com/item?id=42059650) - [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
+* [2024-11-06, 10:39:44](https://news.ycombinator.com/item?id=42059639) - [PgPDF: Pdf Type and Functions for Postgres](https://github.com/Florents-Tselai/pgpdf)
 * [2024-11-06, 10:18:45](https://news.ycombinator.com/item?id=42059336) - [Understanding Ruby 3.3 Concurrency: A Comprehensive Guide](https://blog.bestwebventures.in/understanding-ruby-concurrency-a-comprehensive-guide)
 * [2024-11-06, 09:54:21](https://news.ycombinator.com/item?id=42058920) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-06, 09:52:03](https://news.ycombinator.com/item?id=42058888) - [Iterative α-(de)blending and Stochastic Interpolants](http://nicktasios.nl/posts/iterative-alpha-deblending/)
