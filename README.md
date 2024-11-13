@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
-* [2024-11-13, 20:43:57](https://news.ycombinator.com/item?id=42129791) - [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
 * [2024-11-13, 20:43:16](https://news.ycombinator.com/item?id=42129779) - [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
 * [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
@@ -23,6 +22,7 @@
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-12, 01:06:00](https://news.ycombinator.com/item?id=42111938) - [Steve Jobs, NeXTSTEP, and early object-oriented programming (2016)](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+* [2024-11-10, 23:01:08](https://news.ycombinator.com/item?id=42103200) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 18:42:49](https://news.ycombinator.com/item?id=42096083) - [Drone Relative Positioning](https://matthew-bird.com/blogs/Drone-Rel-Pos.html)
