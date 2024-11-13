@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-11-13, 16:27:48",
-      "https://news.ycombinator.com/item?id=42127459"
-    ],
-    [
-      "Covering the Supreme Court and the Judiciary in (Mostly) Plain English",
-      "https://amylhowe.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 15:46:41",
       "https://news.ycombinator.com/item?id=42127029"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-11-11, 09:59:54",
+      "https://news.ycombinator.com/item?id=42105851"
+    ],
+    [
+      "RTEMS: Open-source real time operating system",
+      "https://www.rtems.org/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 23:01:08",
       "https://news.ycombinator.com/item?id=42103200"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-11-09, 15:23:31",
+      "https://news.ycombinator.com/item?id=42094889"
+    ],
+    [
+      "The number given as % CPU in Activity Monitor",
+      "https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 09:18:13",
       "https://news.ycombinator.com/item?id=42093413"
     ],
@@ -277,16 +287,6 @@
     [
       "Cornish monument is 4k years older than was thought and 'without parallel'",
       "https://www.theguardian.com/science/2024/nov/07/cornish-monument-king-arthurs-hall-4000-years-older-without-parallel"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 14:52:48",
-      "https://news.ycombinator.com/item?id=42087275"
-    ],
-    [
-      "We built a self-healing system to survive a concurrency bug at Netflix",
-      "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug"
     ]
   ],
   [
