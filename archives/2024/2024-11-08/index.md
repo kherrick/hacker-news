@@ -40,6 +40,7 @@
 * [2024-11-08, 15:17:05](https://news.ycombinator.com/item?id=42087478) - [Man sick of crashes sues Intel for allegedly hiding CPU defects](https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/)
 * [2024-11-08, 15:02:23](https://news.ycombinator.com/item?id=42087346) - [TSMC will stop making 7 nm chips for Chinese customers](https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/)
 * [2024-11-08, 14:57:14](https://news.ycombinator.com/item?id=42087309) - [The Cybergypsies (Indra Sinha, 1999)](https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/)
+* [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We Built a Self-Healing System to Survive a Concurrency Bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-08, 14:40:27](https://news.ycombinator.com/item?id=42087182) - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
 * [2024-11-08, 14:37:10](https://news.ycombinator.com/item?id=42087147) - [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
 * [2024-11-08, 14:30:44](https://news.ycombinator.com/item?id=42087100) - [Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini](https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores)
