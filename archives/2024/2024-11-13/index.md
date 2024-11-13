@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 08:16:47](https://news.ycombinator.com/item?id=42123909) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
 * [2024-11-13, 05:04:30](https://news.ycombinator.com/item?id=42123070) - [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)
 * [2024-11-13, 03:42:43](https://news.ycombinator.com/item?id=42122690) - [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)

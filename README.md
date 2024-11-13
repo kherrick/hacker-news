@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 08:16:47](https://news.ycombinator.com/item?id=42123909) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
 * [2024-11-13, 05:04:30](https://news.ycombinator.com/item?id=42123070) - [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
@@ -17,7 +18,6 @@
 * [2024-11-12, 18:50:45](https://news.ycombinator.com/item?id=42118399) - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:11:49](https://news.ycombinator.com/item?id=42118039) - [Show HN: Stretch My Time Off – An Algorithm to Optimize Your Vacation Days](https://stretchmytimeoff.com)
-* [2024-11-12, 18:04:19](https://news.ycombinator.com/item?id=42117970) - [Show HN: Open-source Kibana alternative for logs and traces in ClickHouse](https://github.com/hyperdxio/hyperdx/tree/v2)
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
