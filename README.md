@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 * [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
 * [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
 * [2024-11-13, 12:00:46](https://news.ycombinator.com/item?id=42125291) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
@@ -7,7 +8,6 @@
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
-* [2024-11-12, 23:52:04](https://news.ycombinator.com/item?id=42121345) - [What's Your Favorite Invasive Species?](https://cinemasojourns.com/2024/11/12/whats-your-favorite-invasive-species/)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)

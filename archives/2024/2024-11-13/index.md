@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 * [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
 * [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
 * [2024-11-13, 12:00:46](https://news.ycombinator.com/item?id=42125291) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
