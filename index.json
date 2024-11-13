@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-13, 08:16:47",
+      "https://news.ycombinator.com/item?id=42123909"
+    ],
+    [
+      "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
+      "https://simonwillison.net/2024/Nov/12/qwen25-coder/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 07:46:29",
       "https://news.ycombinator.com/item?id=42123762"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Stretch My Time Off – An Algorithm to Optimize Your Vacation Days",
       "https://stretchmytimeoff.com"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 18:04:19",
-      "https://news.ycombinator.com/item?id=42117970"
-    ],
-    [
-      "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
-      "https://github.com/hyperdxio/hyperdx/tree/v2"
     ]
   ],
   [
