@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
+* [2024-11-13, 21:16:51](https://news.ycombinator.com/item?id=42130079) - [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
+* [2024-11-13, 20:58:09](https://news.ycombinator.com/item?id=42129924) - [Why the Guardian is no longer posting on X](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x)
 * [2024-11-13, 20:46:32](https://news.ycombinator.com/item?id=42129824) - [Experts testify at UFO hearing in Congress](https://text.npr.org/nx-s1-5189426)
 * [2024-11-13, 20:43:57](https://news.ycombinator.com/item?id=42129791) - [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
 * [2024-11-13, 20:43:16](https://news.ycombinator.com/item?id=42129779) - [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
