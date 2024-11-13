@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
 * [2024-11-13, 17:09:03](https://news.ycombinator.com/item?id=42127877) - [Codeium launches Windsurf – the first agentic IDE](https://codeium.com/blog/windsurf-launch)
 * [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)

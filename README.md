@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
 * [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
 * [2024-11-13, 17:00:36](https://news.ycombinator.com/item?id=42127776) - [Patterns (YC S21) Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
@@ -26,7 +27,6 @@
 * [2024-11-09, 15:23:31](https://news.ycombinator.com/item?id=42094889) - [The number given as % CPU in Activity Monitor](https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/)
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 07:37:07](https://news.ycombinator.com/item?id=42093073) - [Cornish monument is 4k years older than was thought and 'without parallel'](https://www.theguardian.com/science/2024/nov/07/cornish-monument-king-arthurs-hall-4000-years-older-without-parallel)
-* [2024-11-08, 19:45:10](https://news.ycombinator.com/item?id=42089888) - [Differential Dataflow for the Masses](https://github.com/brurucy/pydbsp)
 * [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We built a self-healing system to survive a concurrency bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-07, 17:08:28](https://news.ycombinator.com/item?id=42078555) - [British and Exotic Mineralogy](https://c82.net/mineralogy/#)
 * [2024-11-05, 21:14:18](https://news.ycombinator.com/item?id=42055221) - [Study shows bats have acoustic cognitive maps](https://phys.org/news/2024-10-echolocating-acoustic-cognitive.html)
