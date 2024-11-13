@@ -6,6 +6,7 @@
 
 * [2024-11-10, 23:38:21](https://news.ycombinator.com/item?id=42103400) - [New York Times Word Usage Frequency Chart](https://davidrozado.substack.com/p/new-york-times-word-usage-frequency)
 * [2024-11-10, 23:10:33](https://news.ycombinator.com/item?id=42103257) - [Australia's 3G Shutdown – Why your 4G/5G Phone is now Blocked](https://medium.com/@jamesdwho/australias-3g-shutdown-why-your-4g-5g-phone-is-now-blocked-5900cd5361e2)
+* [2024-11-10, 23:01:08](https://news.ycombinator.com/item?id=42103200) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-10, 23:00:32](https://news.ycombinator.com/item?id=42103195) - [It's 10am and Dad's Doing Jell-O Shots. Must Be Parents' Weekend](https://www.wsj.com/lifestyle/parenting-college-football-game-tailgate-michigan-arizona-usc-78c72532)
 * [2024-11-10, 22:23:42](https://news.ycombinator.com/item?id=42103000) - [I fixed a server with a precisely placed piece of tape](https://social.treehouse.systems/@marcan/110252202169575508)
 * [2024-11-10, 22:01:19](https://news.ycombinator.com/item?id=42102898) - ['It's not close' – Israel committing genocide concludes Wikipedia ending debate](https://www.middleeastmonitor.com/20241108-its-not-close-israel-committing-genocide-concludes-wikipedia-ending-editorial-debate/)
