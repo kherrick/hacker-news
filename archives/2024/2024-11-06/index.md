@@ -42,6 +42,7 @@
 * [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 13:00:12](https://news.ycombinator.com/item?id=42061599) - [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
+* [2024-11-06, 12:54:59](https://news.ycombinator.com/item?id=42061530) - [Mr. Smith – An Open-Source Framework for Building Project Scaffolds](https://mr-smith.site/)
 * [2024-11-06, 12:39:10](https://news.ycombinator.com/item?id=42061313) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-06, 12:07:06](https://news.ycombinator.com/item?id=42060856) - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 * [2024-11-06, 11:59:39](https://news.ycombinator.com/item?id=42060750) - [Mind-Bending Soviet Era Oil Rig City on the Caspian Sea](https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html)

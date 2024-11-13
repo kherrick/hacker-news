@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 21:29:01](https://news.ycombinator.com/item?id=42130194) - [FBI Raids Home of Polymarket CEO Shayne Coplan](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan)
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 21:16:51](https://news.ycombinator.com/item?id=42130079) - [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
 * [2024-11-13, 20:58:09](https://news.ycombinator.com/item?id=42129924) - [Why the Guardian is no longer posting on X](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x)
@@ -18,6 +19,7 @@
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 19:12:24](https://news.ycombinator.com/item?id=42128933) - [Teens learn a new conspiracy theory every week on social media](https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media)
 * [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
+* [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
 * [2024-11-13, 18:07:12](https://news.ycombinator.com/item?id=42128438) - [The Beginner's Guide to Visual Prompt Injections](https://www.lakera.ai/blog/visual-prompt-injections)
