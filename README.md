@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-13, 17:09:03](https://news.ycombinator.com/item?id=42127877) - [Codeium launches Windsurf – the first agentic IDE](https://codeium.com/blog/windsurf-launch)
 * [2024-11-13, 17:00:36](https://news.ycombinator.com/item?id=42127776) - [Patterns (YC S21) Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
+* [2024-11-13, 16:39:55](https://news.ycombinator.com/item?id=42127569) - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
 * [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 15:42:06](https://news.ycombinator.com/item?id=42126984) - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
 * [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
