@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-13, 19:36:50",
-      "https://news.ycombinator.com/item?id=42129144"
-    ],
-    [
-      "Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground",
-      "https://play.ai/playground"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 19:31:11",
       "https://news.ycombinator.com/item?id=42129097"
     ],
@@ -57,16 +47,6 @@
     [
       "Teens learn a new conspiracy theory every week on social media",
       "https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 19:04:03",
-      "https://news.ycombinator.com/item?id=42128866"
-    ],
-    [
-      "My company has banned the use of Jetbrains IDEs internally",
-      "https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-11-10, 23:01:08",
+      "https://news.ycombinator.com/item?id=42103200"
+    ],
+    [
+      "Way too many ways to wait on a child process with a timeout",
+      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 22:51:27",
       "https://news.ycombinator.com/item?id=42097418"
     ],
     [
       "Diffusion models are evolutionary algorithms",
       "https://gonzoml.substack.com/p/diffusion-models-are-evolutionary"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 21:52:48",
+      "https://news.ycombinator.com/item?id=42097132"
+    ],
+    [
+      "How we built the Black Friday Cyber Monday 2023 globe",
+      "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe"
     ]
   ],
   [
