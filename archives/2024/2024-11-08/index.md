@@ -42,6 +42,7 @@
 * [2024-11-08, 14:57:14](https://news.ycombinator.com/item?id=42087309) - [The Cybergypsies (Indra Sinha, 1999)](https://blog.eamonnmr.com/2024/11/the-cybergypsies-indra-sinha-1999/)
 * [2024-11-08, 14:40:27](https://news.ycombinator.com/item?id=42087182) - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
 * [2024-11-08, 14:37:10](https://news.ycombinator.com/item?id=42087147) - [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
+* [2024-11-08, 14:30:44](https://news.ycombinator.com/item?id=42087100) - [Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini](https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores)
 * [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 14:13:17](https://news.ycombinator.com/item?id=42086987) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
 * [2024-11-08, 13:15:39](https://news.ycombinator.com/item?id=42086615) - [How is the SSD installed – M4 Mac Mini (2024)](https://www.ifixit.com/Answers/View/875970/How+is+the+SSD+installed)
