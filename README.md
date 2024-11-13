@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 23:32:56](https://news.ycombinator.com/item?id=42131408) - [EU irate about geo-locked Apple IDs](https://www.theregister.com/2024/11/13/eu_apple_id/)
 * [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Farewell and thank you for the continued partnership, Francois Chollet](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
 * [2024-11-13, 22:07:40](https://news.ycombinator.com/item?id=42130630) - [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
 * [2024-11-13, 21:38:17](https://news.ycombinator.com/item?id=42130281) - [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
@@ -25,7 +26,6 @@
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
-* [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 18:42:49](https://news.ycombinator.com/item?id=42096083) - [Drone Relative Positioning](https://matthew-bird.com/blogs/Drone-Rel-Pos.html)
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
