@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-11-13, 07:35:39",
-      "https://news.ycombinator.com/item?id=42123712"
-    ],
-    [
-      "AMD's CPU sales are miles better than Intel",
-      "https://www.pcguide.com/news/amds-cpu-sales-are-unsurprisingly-miles-ahead-of-intel-as-first-9800x3d-launch-numbers-published/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 03:51:51",
-      "https://news.ycombinator.com/item?id=42122740"
-    ],
-    [
-      "Backblaze Drive Stats for Q3 2024",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2024/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 03:34:57",
       "https://news.ycombinator.com/item?id=42122642"
     ],
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2024-11-12, 14:12:39",
+      "https://news.ycombinator.com/item?id=42115611"
+    ],
+    [
+      "Jepsen: Bufstream 0.1",
+      "https://jepsen.io/analyses/bufstream-0.1.0"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 13:29:30",
       "https://news.ycombinator.com/item?id=42115310"
     ],
@@ -181,12 +171,32 @@
   ],
   [
     [
+      "2024-11-12, 04:31:26",
+      "https://news.ycombinator.com/item?id=42112817"
+    ],
+    [
+      "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
+      "https://ankush.dev/p/neumann_architecture"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 00:58:54",
       "https://news.ycombinator.com/item?id=42111892"
     ],
     [
       "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
       "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 22:41:33",
+      "https://news.ycombinator.com/item?id=42111109"
+    ],
+    [
+      "Tinfoil.com – Dedicated to the preservation of early recorded sounds",
+      "http://tinfoil.com/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Thinking about recipe formats more than anyone should",
       "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 11:10:42",
-      "https://news.ycombinator.com/item?id=42060081"
-    ],
-    [
-      "The Product-Market Fit Scale",
-      "https://iwantproductmarketfit.substack.com/p/the-product-market-fit-scale"
     ]
   ],
   [
