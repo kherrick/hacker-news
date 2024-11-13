@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
@@ -28,7 +29,6 @@
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 07:37:07](https://news.ycombinator.com/item?id=42093073) - [Cornish monument is 4k years older than was thought and 'without parallel'](https://www.theguardian.com/science/2024/nov/07/cornish-monument-king-arthurs-hall-4000-years-older-without-parallel)
 * [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We built a self-healing system to survive a concurrency bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
-* [2024-11-07, 17:08:28](https://news.ycombinator.com/item?id=42078555) - [British and Exotic Mineralogy](https://c82.net/mineralogy/#)
 * [2024-11-05, 21:14:18](https://news.ycombinator.com/item?id=42055221) - [Study shows bats have acoustic cognitive maps](https://phys.org/news/2024-10-echolocating-acoustic-cognitive.html)
 
 ## [Archives](archives/index.md)
