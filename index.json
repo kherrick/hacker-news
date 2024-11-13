@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-11-13, 03:42:43",
+      "https://news.ycombinator.com/item?id=42122690"
+    ],
+    [
+      "Why Docker Compose Falls Short as Self-Hosting Scales",
+      "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 03:34:57",
+      "https://news.ycombinator.com/item?id=42122642"
+    ],
+    [
+      "80286 ATX mainboard based on the IBM 5170 AT PC",
+      "https://github.com/rodneyknaap/atx-286at-v1-mainboard"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 02:53:13",
       "https://news.ycombinator.com/item?id=42122434"
     ],
     [
-      "Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds",
+      "Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds",
       "https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42120090"
     ],
     [
-      "Five Unusual Raku Features",
+      "Unusual Raku Features",
       "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "Show HN: Jelly – A simpler shared inbox for small teams",
       "https://letsjelly.com/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 19:49:59",
-      "https://news.ycombinator.com/item?id=42118989"
-    ],
-    [
-      "Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands",
-      "https://github.com/olivierloverde/gmail-agent"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "An unusual Google Keyboard bug",
       "https://weiyen.net/articles/an-unusual-google-keyboard-bug"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 19:13:57",
-      "https://news.ycombinator.com/item?id=42079838"
-    ],
-    [
-      "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
-      "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html"
     ]
   ],
   [
