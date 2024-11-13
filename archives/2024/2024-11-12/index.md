@@ -83,6 +83,7 @@
 * [2024-11-12, 03:07:33](https://news.ycombinator.com/item?id=42112432) - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
 * [2024-11-12, 02:09:03](https://news.ycombinator.com/item?id=42112193) - [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
+* [2024-11-12, 01:06:00](https://news.ycombinator.com/item?id=42111938) - [Steve Jobs, NeXTSTEP, and early object-oriented programming (2016)](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)

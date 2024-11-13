@@ -44,6 +44,7 @@
 * [2024-11-09, 10:02:52](https://news.ycombinator.com/item?id=42093551) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-09, 09:59:29](https://news.ycombinator.com/item?id=42093541) - [Cache Directory Tagging Specification (2004)](https://bford.info/cachedir/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
+* [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 09:12:30](https://news.ycombinator.com/item?id=42093394) - [When you ask ChatGPT \"Tell me a story\" it's always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
 * [2024-11-09, 07:46:22](https://news.ycombinator.com/item?id=42093112) - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 * [2024-11-09, 07:41:23](https://news.ycombinator.com/item?id=42093090) - [How a neuron learns](https://qtnx.ai/posts/how_neuron_learns/)
