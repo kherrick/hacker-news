@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 20:46:32](https://news.ycombinator.com/item?id=42129824) - [Experts testify at UFO hearing in Congress](https://text.npr.org/nx-s1-5189426)
 * [2024-11-13, 20:43:57](https://news.ycombinator.com/item?id=42129791) - [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
+* [2024-11-13, 20:43:16](https://news.ycombinator.com/item?id=42129779) - [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
 * [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 * [2024-11-13, 19:31:11](https://news.ycombinator.com/item?id=42129097) - [Netflix's Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
@@ -27,6 +29,7 @@
 * [2024-11-13, 15:58:25](https://news.ycombinator.com/item?id=42127161) - [Journalism's fight for survival in a postliterate democracy](https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in)
 * [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 15:42:06](https://news.ycombinator.com/item?id=42126984) - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
+* [2024-11-13, 15:38:08](https://news.ycombinator.com/item?id=42126948) - [The First Virtual Meeting Was in 1916](https://spectrum.ieee.org/virtual-meeting)
 * [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 * [2024-11-13, 15:09:08](https://news.ycombinator.com/item?id=42126686) - [The Mysterious 'King Arthur's Hall' is 4k years older than believed](https://www.zmescience.com/science/news-science/the-mysterious-king-arthurs-hall-is-4000-years-older-than-believed/)
 * [2024-11-13, 13:40:40](https://news.ycombinator.com/item?id=42125989) - [Show HN: 8arms – Marketing Campaign Generation](https://www.8arms.ai/)
