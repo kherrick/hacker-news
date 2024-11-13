@@ -1,32 +1,22 @@
 [
   [
     [
+      "2024-11-13, 17:00:36",
+      "https://news.ycombinator.com/item?id=42127776"
+    ],
+    [
+      "Patterns (YC S21) Is Hiring to Transform Business Finance and Credit",
+      "https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 16:12:47",
       "https://news.ycombinator.com/item?id=42127304"
     ],
     [
       "Just Eat Is Selling Grubhub to Marc Lore's Wonder for $650M",
       "https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 16:12:38",
-      "https://news.ycombinator.com/item?id=42127301"
-    ],
-    [
-      ".NET 9 Is Out",
-      "https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.0/9.0.0.md"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 15:58:25",
-      "https://news.ycombinator.com/item?id=42127161"
-    ],
-    [
-      "Journalism's fight for survival in a postliterate democracy",
-      "https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in"
     ]
   ],
   [
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2024-11-13, 13:40:40",
-      "https://news.ycombinator.com/item?id=42125989"
-    ],
-    [
-      "Show HN: 8arms – Marketing Campaign Generation",
-      "https://www.8arms.ai/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 13:24:41",
       "https://news.ycombinator.com/item?id=42125863"
     ],
@@ -91,32 +71,12 @@
   ],
   [
     [
-      "2024-11-13, 12:00:46",
-      "https://news.ycombinator.com/item?id=42125291"
-    ],
-    [
-      "Hadrius (YC W23) is hiring engineers looking to grow into future founders",
-      "https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 11:26:17",
       "https://news.ycombinator.com/item?id=42125085"
     ],
     [
       "An unearthly spectacle – The untold story of the biggest nuclear bomb (2021)",
       "https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 03:42:43",
-      "https://news.ycombinator.com/item?id=42122690"
-    ],
-    [
-      "Docker Compose Isn't Enough",
-      "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
     ]
   ],
   [
@@ -231,6 +191,26 @@
   ],
   [
     [
+      "2024-11-12, 12:27:52",
+      "https://news.ycombinator.com/item?id=42114990"
+    ],
+    [
+      "Two upstart search engines are teaming up to take on Google",
+      "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 00:58:54",
+      "https://news.ycombinator.com/item?id=42111892"
+    ],
+    [
+      "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
+      "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 04:01:29",
       "https://news.ycombinator.com/item?id=42092453"
     ],
@@ -247,6 +227,16 @@
     [
       "We Built a Self-Healing System to Survive a Concurrency Bug at Netflix",
       "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 19:13:57",
+      "https://news.ycombinator.com/item?id=42079838"
+    ],
+    [
+      "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
+      "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "PgPDF: Pdf Type and Functions for Postgres",
       "https://github.com/Florents-Tselai/pgpdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 06:20:26",
+      "https://news.ycombinator.com/item?id=42057525"
+    ],
+    [
+      "The Art of Manually Editing Hunks",
+      "https://kennyballou.com/blog/2015/10/art-manually-edit-hunks/index.html"
     ]
   ],
   [
