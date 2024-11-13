@@ -17,7 +17,6 @@
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:11:49](https://news.ycombinator.com/item?id=42118039) - [Show HN: Stretch My Time Off – An Algorithm to Optimize Your Vacation Days](https://stretchmytimeoff.com)
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
-* [2024-11-12, 12:44:03](https://news.ycombinator.com/item?id=42115072) - [Ohmaps: your image montage is a resistor network](https://hunsley.io/posts/2024/image-montage-is-resistor-network/)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
 * [2024-11-11, 22:30:26](https://news.ycombinator.com/item?id=42111031) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
@@ -29,6 +28,7 @@
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
 * [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-06, 10:39:44](https://news.ycombinator.com/item?id=42059639) - [PgPDF: Pdf Type and Functions for Postgres](https://github.com/Florents-Tselai/pgpdf)
+* [2024-11-05, 21:14:18](https://news.ycombinator.com/item?id=42055221) - [Study shows bats have acoustic cognitive maps](https://phys.org/news/2024-10-echolocating-acoustic-cognitive.html)
 * [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 
 ## [Archives](archives/index.md)
