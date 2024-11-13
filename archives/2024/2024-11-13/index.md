@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
 * [2024-11-13, 16:12:47](https://news.ycombinator.com/item?id=42127304) - [Just Eat Is Selling Grubhub to Marc Lore's Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
+* [2024-11-13, 16:12:38](https://news.ycombinator.com/item?id=42127301) - [.NET 9 Is Out](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.0/9.0.0.md)
 * [2024-11-13, 15:58:25](https://news.ycombinator.com/item?id=42127161) - [Journalism's fight for survival in a postliterate democracy](https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in)
 * [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 15:42:06](https://news.ycombinator.com/item?id=42126984) - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
 * [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 * [2024-11-13, 15:09:08](https://news.ycombinator.com/item?id=42126686) - [The Mysterious 'King Arthur's Hall' is 4k years older than believed](https://www.zmescience.com/science/news-science/the-mysterious-king-arthurs-hall-is-4000-years-older-than-believed/)
+* [2024-11-13, 13:40:40](https://news.ycombinator.com/item?id=42125989) - [Show HN: 8arms – Marketing Campaign Generation](https://www.8arms.ai/)
 * [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 * [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
 * [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
