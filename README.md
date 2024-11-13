@@ -3,6 +3,7 @@
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 21:16:51](https://news.ycombinator.com/item?id=42130079) - [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
 * [2024-11-13, 20:58:09](https://news.ycombinator.com/item?id=42129924) - [Why the Guardian is no longer posting on X](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x)
+* [2024-11-13, 20:46:32](https://news.ycombinator.com/item?id=42129824) - [Experts testify at UFO hearing in Congress](https://text.npr.org/nx-s1-5189426)
 * [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 * [2024-11-13, 19:31:11](https://news.ycombinator.com/item?id=42129097) - [Netflix's Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
@@ -29,7 +30,6 @@
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 07:37:07](https://news.ycombinator.com/item?id=42093073) - [Cornish monument is 4k years older than was thought and 'without parallel'](https://www.theguardian.com/science/2024/nov/07/cornish-monument-king-arthurs-hall-4000-years-older-without-parallel)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
-* [2024-11-05, 21:14:18](https://news.ycombinator.com/item?id=42055221) - [Study shows bats have acoustic cognitive maps](https://phys.org/news/2024-10-echolocating-acoustic-cognitive.html)
 
 ## [Archives](archives/index.md)
 
