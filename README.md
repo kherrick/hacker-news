@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
+* [2024-11-13, 05:04:30](https://news.ycombinator.com/item?id=42123070) - [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 02:53:13](https://news.ycombinator.com/item?id=42122434) - [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
 * [2024-11-13, 02:17:27](https://news.ycombinator.com/item?id=42122258) - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:16:15](https://news.ycombinator.com/item?id=42121924) - [Delivering actionable feedback](https://posthog.com/newsletter/how-to-give-feedback)
-* [2024-11-13, 00:23:29](https://news.ycombinator.com/item?id=42121548) - [Manjaro is experimenting with **opt-out telemetry](https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
 * [2024-11-12, 21:48:05](https://news.ycombinator.com/item?id=42120090) - [Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
