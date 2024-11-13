@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-13, 21:29:01",
+      "https://news.ycombinator.com/item?id=42130194"
+    ],
+    [
+      "FBI Raids Home of Polymarket CEO Shayne Coplan",
+      "https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 21:18:13",
       "https://news.ycombinator.com/item?id=42130090"
     ],
@@ -27,16 +37,6 @@
     [
       "Why the Guardian is no longer posting on X",
       "https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 20:46:32",
-      "https://news.ycombinator.com/item?id=42129824"
-    ],
-    [
-      "Experts testify at UFO hearing in Congress",
-      "https://text.npr.org/nx-s1-5189426"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Wonder is acquiring Grubhub",
       "https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 18:48:25",
+      "https://news.ycombinator.com/item?id=42128751"
+    ],
+    [
+      "A cycling desk / Zwifting with a split keyboard",
+      "https://www.ohrg.org/cycling-typing"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-11-10, 23:01:08",
-      "https://news.ycombinator.com/item?id=42103200"
-    ],
-    [
-      "Way too many ways to wait on a child process with a timeout",
-      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 22:51:27",
       "https://news.ycombinator.com/item?id=42097418"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-11-09, 07:37:07",
-      "https://news.ycombinator.com/item?id=42093073"
-    ],
-    [
-      "Cornish monument is 4k years older than was thought and 'without parallel'",
-      "https://www.theguardian.com/science/2024/nov/07/cornish-monument-king-arthurs-hall-4000-years-older-without-parallel"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 05:28:16",
       "https://news.ycombinator.com/item?id=42092700"
     ],
     [
       "Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]",
       "https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 12:54:59",
+      "https://news.ycombinator.com/item?id=42061530"
+    ],
+    [
+      "Mr. Smith – An Open-Source Framework for Building Project Scaffolds",
+      "https://mr-smith.site/"
     ]
   ]
 ]
