@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-13, 03:42:43",
-      "https://news.ycombinator.com/item?id=42122690"
-    ],
-    [
-      "Docker Compose Isn't Enough",
-      "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 03:34:57",
       "https://news.ycombinator.com/item?id=42122642"
     ],
@@ -77,6 +67,16 @@
     [
       "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
       "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 22:08:34",
+      "https://news.ycombinator.com/item?id=42120313"
+    ],
+    [
+      "Carving your space",
+      "https://heather-buchel.com/blog/2024/11/carving-space/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-11-12, 18:04:19",
+      "https://news.ycombinator.com/item?id=42117970"
+    ],
+    [
+      "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
+      "https://github.com/hyperdxio/hyperdx/tree/v2"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 13:29:30",
       "https://news.ycombinator.com/item?id=42115310"
     ],
@@ -197,16 +207,6 @@
     [
       "Two upstart search engines are teaming up to take on Google",
       "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 00:59:44",
-      "https://news.ycombinator.com/item?id=42111896"
-    ],
-    [
-      "What I wish someone told me about Postgres",
-      "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
     ]
   ],
   [
