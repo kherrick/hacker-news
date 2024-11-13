@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-13, 01:34:43",
+      "https://news.ycombinator.com/item?id=42122008"
+    ],
+    [
+      "Kibi – A text editor in less than 1024 lines of code, written in Rust",
+      "https://terminaltrove.com/kibi/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 00:34:28",
+      "https://news.ycombinator.com/item?id=42121630"
+    ],
+    [
+      "Ask HN: How to deal with a serious mental health breakdown?",
+      "https://news.ycombinator.com/item?id=42121630"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 22:18:43",
       "https://news.ycombinator.com/item?id=42120385"
     ],
@@ -57,16 +77,6 @@
     [
       "Nowadays (YC S23) Is Hiring",
       "https://news.ycombinator.com/item?id=42119674"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 20:49:14",
-      "https://news.ycombinator.com/item?id=42119575"
-    ],
-    [
-      "Spanish police arrest ex-fraud chief after €20M found in walls of his house",
-      "https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-11-12, 17:58:17",
-      "https://news.ycombinator.com/item?id=42117912"
-    ],
-    [
-      "Large language models in national security applications",
-      "https://arxiv.org/abs/2407.03453"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 14:12:39",
       "https://news.ycombinator.com/item?id=42115611"
     ],
@@ -207,16 +207,6 @@
     [
       "Two upstart search engines are teaming up to take on Google",
       "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 07:11:50",
-      "https://news.ycombinator.com/item?id=42113449"
-    ],
-    [
-      "Defensive Communication (1961)",
-      "https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html"
     ]
   ],
   [
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2024-11-09, 10:02:52",
+      "https://news.ycombinator.com/item?id=42093551"
+    ],
+    [
+      "Rust's Sneaky Deadlock With `if let` Blocks",
+      "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 04:01:29",
+      "https://news.ycombinator.com/item?id=42092453"
+    ],
+    [
+      "Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos",
+      "https://allthatsinteresting.com/glyptodon-fossils"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 19:13:57",
       "https://news.ycombinator.com/item?id=42079838"
     ],
@@ -287,16 +297,6 @@
     [
       "Thinking about recipe formats more than anyone should",
       "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 21:00:54",
-      "https://news.ycombinator.com/item?id=42055121"
-    ],
-    [
-      "Revealing causal links in complex systems: New algorithm shows hidden influences",
-      "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
     ]
   ]
 ]
