@@ -18,6 +18,7 @@
 * [2024-11-08, 20:59:47](https://news.ycombinator.com/item?id=42090430) - [I Quit Google to Work for Myself (2018)](https://mtlynch.io/why-i-quit-google/)
 * [2024-11-08, 20:41:32](https://news.ycombinator.com/item?id=42090306) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
 * [2024-11-08, 20:12:43](https://news.ycombinator.com/item?id=42090087) - [Judge: Zuckerberg not liable for social media harm to children](https://nypost.com/2024/11/08/business/mark-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children/)
+* [2024-11-08, 19:45:10](https://news.ycombinator.com/item?id=42089888) - [Differential Dataflow for the Masses](https://github.com/brurucy/pydbsp)
 * [2024-11-08, 19:44:37](https://news.ycombinator.com/item?id=42089883) - [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
 * [2024-11-08, 19:28:23](https://news.ycombinator.com/item?id=42089740) - [Algol-68 seemed like a good idea – until it wasn't](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 18:46:19](https://news.ycombinator.com/item?id=42089407) - [Why langurs drink salt water](https://nachrichten.idw-online.de/2024/10/28/why-langurs-drink-salt-water)

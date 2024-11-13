@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 * [2024-11-09, 22:15:13](https://news.ycombinator.com/item?id=42097251) - [SCIM: System for Cross-Domain Identity Management](https://scim.cloud/)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
