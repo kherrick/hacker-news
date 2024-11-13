@@ -10,6 +10,7 @@
 * [2024-11-13, 07:35:39](https://news.ycombinator.com/item?id=42123712) - [AMD's CPU sales are miles better than Intel](https://www.pcguide.com/news/amds-cpu-sales-are-unsurprisingly-miles-ahead-of-intel-as-first-9800x3d-launch-numbers-published/)
 * [2024-11-13, 06:44:40](https://news.ycombinator.com/item?id=42123503) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-13, 05:04:30](https://news.ycombinator.com/item?id=42123070) - [Cock.li Is on Red Alert](https://cock.li/index.asc.txt)
+* [2024-11-13, 03:51:51](https://news.ycombinator.com/item?id=42122740) - [Backblaze Drive Stats for Q3 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2024/)
 * [2024-11-13, 03:42:43](https://news.ycombinator.com/item?id=42122690) - [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 02:53:13](https://news.ycombinator.com/item?id=42122434) - [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
