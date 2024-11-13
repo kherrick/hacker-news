@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-13, 01:34:43](https://news.ycombinator.com/item?id=42122008) - [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)
+* [2024-11-13, 00:58:53](https://news.ycombinator.com/item?id=42121791) - [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
 * [2024-11-13, 00:34:28](https://news.ycombinator.com/item?id=42121630) - [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
@@ -27,9 +27,9 @@
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-09, 10:02:52](https://news.ycombinator.com/item?id=42093551) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-09, 04:01:29](https://news.ycombinator.com/item?id=42092453) - [Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos](https://allthatsinteresting.com/glyptodon-fossils)
+* [2024-11-08, 07:47:07](https://news.ycombinator.com/item?id=42085053) - [An unusual Google Keyboard bug](https://weiyen.net/articles/an-unusual-google-keyboard-bug)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
-* [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 
 ## [Archives](archives/index.md)
 
