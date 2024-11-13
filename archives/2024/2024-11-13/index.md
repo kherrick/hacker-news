@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
+* [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
 * [2024-11-13, 12:00:46](https://news.ycombinator.com/item?id=42125291) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
 * [2024-11-13, 11:26:17](https://news.ycombinator.com/item?id=42125085) - [An unearthly spectacle – The untold story of the biggest nuclear bomb (2021)](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
 * [2024-11-13, 09:18:51](https://news.ycombinator.com/item?id=42124350) - [B2C billing is harder than B2B billing](https://arnon.dk/6-reasons-why-b2c-billing-is-actually-harder-than-b2b/)
@@ -19,6 +21,7 @@
 * [2024-11-13, 02:17:27](https://news.ycombinator.com/item?id=42122258) - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:34:43](https://news.ycombinator.com/item?id=42122008) - [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)
+* [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
 * [2024-11-13, 01:16:15](https://news.ycombinator.com/item?id=42121924) - [Why you're bad at giving feedback](https://posthog.com/newsletter/how-to-give-feedback)
 * [2024-11-13, 00:58:53](https://news.ycombinator.com/item?id=42121791) - [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
 * [2024-11-13, 00:34:28](https://news.ycombinator.com/item?id=42121630) - [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
