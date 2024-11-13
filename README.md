@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 * [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
 * [2024-11-13, 13:24:41](https://news.ycombinator.com/item?id=42125863) - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
@@ -10,7 +11,6 @@
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
-* [2024-11-13, 00:23:29](https://news.ycombinator.com/item?id=42121548) - [Manjaro is experimenting with **opt-out telemetry](https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305)
 * [2024-11-12, 23:52:04](https://news.ycombinator.com/item?id=42121345) - [Cane Toads: An Unnatural History (1988)](https://cinemasojourns.com/2024/11/12/whats-your-favorite-invasive-species/)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
@@ -22,7 +22,7 @@
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
-* [2024-11-09, 07:41:23](https://news.ycombinator.com/item?id=42093090) - [How a neuron learns](https://qtnx.ai/posts/how_neuron_learns/)
+* [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-09, 04:01:29](https://news.ycombinator.com/item?id=42092453) - [Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos](https://allthatsinteresting.com/glyptodon-fossils)
 * [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We Built a Self-Healing System to Survive a Concurrency Bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)

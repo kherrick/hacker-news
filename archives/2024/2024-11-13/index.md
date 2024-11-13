@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 15:37:22](https://news.ycombinator.com/item?id=42126941) - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
 * [2024-11-13, 15:09:08](https://news.ycombinator.com/item?id=42126686) - [The Mysterious 'King Arthur's Hall' is 4k years older than believed](https://www.zmescience.com/science/news-science/the-mysterious-king-arthurs-hall-is-4000-years-older-than-believed/)
 * [2024-11-13, 13:30:34](https://news.ycombinator.com/item?id=42125903) - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
