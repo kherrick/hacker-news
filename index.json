@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-13, 02:53:13",
+      "https://news.ycombinator.com/item?id=42122434"
+    ],
+    [
+      "Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds",
+      "https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 01:16:15",
+      "https://news.ycombinator.com/item?id=42121924"
+    ],
+    [
+      "Why you're bad at giving feedback",
+      "https://posthog.com/newsletter/how-to-give-feedback"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 22:18:43",
       "https://news.ycombinator.com/item?id=42120385"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-11-12, 14:12:39",
-      "https://news.ycombinator.com/item?id=42115611"
-    ],
-    [
-      "Jepsen: Bufstream 0.1",
-      "https://jepsen.io/analyses/bufstream-0.1.0"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 13:29:30",
       "https://news.ycombinator.com/item?id=42115310"
     ],
@@ -187,16 +197,6 @@
     [
       "Two upstart search engines are teaming up to take on Google",
       "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 12:01:39",
-      "https://news.ycombinator.com/item?id=42114852"
-    ],
-    [
-      "Bribery is largely subject to circumstance: study",
-      "https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-11-05, 21:00:54",
-      "https://news.ycombinator.com/item?id=42055121"
+      "2024-11-07, 10:51:48",
+      "https://news.ycombinator.com/item?id=42075535"
     ],
     [
-      "Revealing causal links in complex systems: New algorithm shows hidden influences",
-      "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
+      "How to delegate effectively as your responsibility grows",
+      "https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/"
     ]
   ]
 ]
