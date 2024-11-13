@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
+* [2024-11-13, 19:29:11](https://news.ycombinator.com/item?id=42129080) - [Why Sabine Hossenfelder Is Just Wrong](https://www.math.columbia.edu/~woit/wordpress/?p=14232)
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
