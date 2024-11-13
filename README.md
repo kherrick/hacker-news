@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-13, 00:58:53](https://news.ycombinator.com/item?id=42121791) - [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
-* [2024-11-13, 00:34:28](https://news.ycombinator.com/item?id=42121630) - [Ask HN: How to deal with a serious mental health breakdown?](https://news.ycombinator.com/item?id=42121630)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
@@ -21,6 +19,7 @@
 * [2024-11-12, 13:29:30](https://news.ycombinator.com/item?id=42115310) - [Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]](https://aidantr.github.io/files/AI_innovation.pdf)
 * [2024-11-12, 12:44:03](https://news.ycombinator.com/item?id=42115072) - [Ohmaps: your image montage is a resistor network](https://hunsley.io/posts/2024/image-montage-is-resistor-network/)
 * [2024-11-12, 12:27:52](https://news.ycombinator.com/item?id=42114990) - [Two upstart search engines are teaming up to take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
+* [2024-11-12, 12:01:39](https://news.ycombinator.com/item?id=42114852) - [Bribery is largely subject to circumstance: study](https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html)
 * [2024-11-12, 04:31:26](https://news.ycombinator.com/item?id=42112817) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:59:44](https://news.ycombinator.com/item?id=42111896) - [What I wish someone told me about Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:58:54](https://news.ycombinator.com/item?id=42111892) - [Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX](https://gitlab.brokenpipe.de/stettberger/avremu/tree/master)
@@ -30,6 +29,7 @@
 * [2024-11-08, 07:47:07](https://news.ycombinator.com/item?id=42085053) - [An unusual Google Keyboard bug](https://weiyen.net/articles/an-unusual-google-keyboard-bug)
 * [2024-11-07, 19:13:57](https://news.ycombinator.com/item?id=42079838) - [Burial chamber of an ancient Egyptian priestess is discovered after 4k years](https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html)
 * [2024-11-07, 16:08:15](https://news.ycombinator.com/item?id=42077886) - [A mistake that killed Japan's software industry? (2023)](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
+* [2024-11-05, 21:00:54](https://news.ycombinator.com/item?id=42055121) - [Revealing causal links in complex systems: New algorithm shows hidden influences](https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html)
 
 ## [Archives](archives/index.md)
 
