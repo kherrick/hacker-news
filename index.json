@@ -21,12 +21,22 @@
   ],
   [
     [
-      "2024-11-13, 19:29:11",
-      "https://news.ycombinator.com/item?id=42129080"
+      "2024-11-13, 19:31:11",
+      "https://news.ycombinator.com/item?id=42129097"
     ],
     [
-      "Why Sabine Hossenfelder Is Just Wrong",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=14232"
+      "Netflix's Distributed Counter Abstraction",
+      "https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 19:26:26",
+      "https://news.ycombinator.com/item?id=42129064"
+    ],
+    [
+      "A Student's Guide to Writing with ChatGPT",
+      "https://openai.com/chatgpt/use-cases/student-writing-guide/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Wonder Announces Acquisition of Grubhub",
       "https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 19:12:24",
+      "https://news.ycombinator.com/item?id=42128933"
+    ],
+    [
+      "Teens learn a new conspiracy theory every week on social media",
+      "https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Graph-based AI model maps the future of innovation",
       "https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 18:07:12",
+      "https://news.ycombinator.com/item?id=42128438"
+    ],
+    [
+      "The Beginner's Guide to Visual Prompt Injections",
+      "https://www.lakera.ai/blog/visual-prompt-injections"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-11-13, 01:46:20",
-      "https://news.ycombinator.com/item?id=42122085"
-    ],
-    [
-      "No GPS required: our app can now locate underground trains",
-      "https://blog.transitapp.com/go-underground/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 01:23:37",
       "https://news.ycombinator.com/item?id=42121957"
     ],
@@ -167,6 +187,16 @@
     [
       "A Mathematician in a School of Art",
       "https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 18:17:32",
+      "https://news.ycombinator.com/item?id=42118097"
+    ],
+    [
+      "Backdoor attempt on Exolabs GitHub repo through an innocent looking PR",
+      "https://twitter.com/alexocheema/status/1856295635143524378"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2024-11-11, 09:59:54",
-      "https://news.ycombinator.com/item?id=42105851"
-    ],
-    [
-      "RTEMS: Open-source real time operating system",
-      "https://www.rtems.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 23:01:08",
-      "https://news.ycombinator.com/item?id=42103200"
-    ],
-    [
-      "Way too many ways to wait on a child process with a timeout",
-      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 22:51:27",
       "https://news.ycombinator.com/item?id=42097418"
     ],
     [
       "Diffusion models are evolutionary algorithms",
       "https://gonzoml.substack.com/p/diffusion-models-are-evolutionary"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 21:52:48",
-      "https://news.ycombinator.com/item?id=42097132"
-    ],
-    [
-      "How we built the Black Friday Cyber Monday 2023 globe",
-      "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe"
     ]
   ],
   [
