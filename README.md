@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-13, 22:07:40](https://news.ycombinator.com/item?id=42130630) - [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
+* [2024-11-13, 21:38:17](https://news.ycombinator.com/item?id=42130281) - [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
 * [2024-11-13, 21:29:01](https://news.ycombinator.com/item?id=42130194) - [FBI Raids Home of Polymarket CEO Shayne Coplan](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan)
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 21:16:51](https://news.ycombinator.com/item?id=42130079) - [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
@@ -22,10 +24,8 @@
 * [2024-11-12, 18:17:32](https://news.ycombinator.com/item?id=42118097) - [Backdoor attempt on Exolabs GitHub repo through an innocent looking PR](https://twitter.com/alexocheema/status/1856295635143524378)
 * [2024-11-12, 14:08:36](https://news.ycombinator.com/item?id=42115570) - [The Broadband Phone (2021)](https://quentinsf.com/research/att/bphone/)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
-* [2024-11-12, 01:06:00](https://news.ycombinator.com/item?id=42111938) - [Steve Jobs, NeXTSTEP, and early object-oriented programming (2016)](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
-* [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 18:42:49](https://news.ycombinator.com/item?id=42096083) - [Drone Relative Positioning](https://matthew-bird.com/blogs/Drone-Rel-Pos.html)
 * [2024-11-09, 09:18:13](https://news.ycombinator.com/item?id=42093413) - [Ticker Tape Synesthesia](https://www.thesynesthesiatree.com/2021/03/ticker-tape.html)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 22:07:40](https://news.ycombinator.com/item?id=42130630) - [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)
+* [2024-11-13, 21:38:17](https://news.ycombinator.com/item?id=42130281) - [New York City Council Votes to End Broker Fees Squeezing Renters](https://www.bloomberg.com/news/articles/2024-11-13/nyc-on-brink-of-ending-killer-broker-fees-that-squeeze-renters)
 * [2024-11-13, 21:29:01](https://news.ycombinator.com/item?id=42130194) - [FBI Raids Home of Polymarket CEO Shayne Coplan](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan)
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 21:16:51](https://news.ycombinator.com/item?id=42130079) - [Amazon Makes It Harder for Disabled Employees to Work from Home](https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home)
