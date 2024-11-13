@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42122690"
     ],
     [
-      "Why Docker Compose Falls Short as Self-Hosting Scales",
+      "Docker Compose Isn't Enough",
       "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42121924"
     ],
     [
-      "Why you're bad at giving feedback",
+      "Delivering actionable feedback",
       "https://posthog.com/newsletter/how-to-give-feedback"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42118286"
     ],
     [
-      "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
+      "Show HN: Proxmox VE Helper Scripts",
       "https://community-scripts.github.io/ProxmoxVE/"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
       "https://aidantr.github.io/files/AI_innovation.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 12:44:03",
-      "https://news.ycombinator.com/item?id=42115072"
-    ],
-    [
-      "Ohmaps: your image montage is a resistor network",
-      "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-11-11, 21:28:28",
-      "https://news.ycombinator.com/item?id=42110588"
-    ],
-    [
-      "Visualizing World War II",
-      "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
-    ]
-  ],
-  [
-    [
       "2024-11-09, 10:02:52",
       "https://news.ycombinator.com/item?id=42093551"
     ],
@@ -257,6 +237,16 @@
     [
       "Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos",
       "https://allthatsinteresting.com/glyptodon-fossils"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 14:52:48",
+      "https://news.ycombinator.com/item?id=42087275"
+    ],
+    [
+      "We Built a Self-Healing System to Survive a Concurrency Bug at Netflix",
+      "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to delegate effectively as your responsibility grows",
       "https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 17:57:55",
+      "https://news.ycombinator.com/item?id=42066358"
+    ],
+    [
+      "Thinking about recipe formats more than anyone should",
+      "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
     ]
   ]
 ]
