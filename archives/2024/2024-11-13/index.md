@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 20:46:32](https://news.ycombinator.com/item?id=42129824) - [Experts testify at UFO hearing in Congress](https://text.npr.org/nx-s1-5189426)
+* [2024-11-13, 20:43:57](https://news.ycombinator.com/item?id=42129791) - [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
 * [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 * [2024-11-13, 19:31:11](https://news.ycombinator.com/item?id=42129097) - [Netflix's Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
