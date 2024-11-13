@@ -12,7 +12,6 @@
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
 * [2024-11-12, 21:48:05](https://news.ycombinator.com/item?id=42120090) - [Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
-* [2024-11-12, 21:00:40](https://news.ycombinator.com/item?id=42119674) - [Nowadays (YC S23) Is Hiring](https://news.ycombinator.com/item?id=42119674)
 * [2024-11-12, 20:07:32](https://news.ycombinator.com/item?id=42119141) - [Voice acting in Space Quest V](https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod)
 * [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A simpler shared inbox for small teams](https://letsjelly.com/)
 * [2024-11-12, 19:00:55](https://news.ycombinator.com/item?id=42118496) - [Spin 3.0 – open-source tooling for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v3)
@@ -30,6 +29,7 @@
 * [2024-11-07, 10:51:48](https://news.ycombinator.com/item?id=42075535) - [How to delegate effectively as your responsibility grows](https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/)
 * [2024-11-06, 17:57:55](https://news.ycombinator.com/item?id=42066358) - [Thinking about recipe formats more than anyone should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-06, 11:10:42](https://news.ycombinator.com/item?id=42060081) - [The Product-Market Fit Scale](https://iwantproductmarketfit.substack.com/p/the-product-market-fit-scale)
+* [2024-11-06, 11:03:32](https://news.ycombinator.com/item?id=42059980) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 
 ## [Archives](archives/index.md)
 
