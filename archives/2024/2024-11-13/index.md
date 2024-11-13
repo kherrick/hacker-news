@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
 * [2024-11-13, 03:42:43](https://news.ycombinator.com/item?id=42122690) - [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
 * [2024-11-13, 02:53:13](https://news.ycombinator.com/item?id=42122434) - [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
