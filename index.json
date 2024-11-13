@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-11-13, 03:42:43",
+      "https://news.ycombinator.com/item?id=42122690"
+    ],
+    [
+      "Docker Compose Isn't Enough",
+      "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 03:34:57",
       "https://news.ycombinator.com/item?id=42122642"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-11-13, 00:23:29",
+      "https://news.ycombinator.com/item?id=42121548"
+    ],
+    [
+      "Manjaro is experimenting with **opt-out telemetry",
+      "https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 23:52:04",
       "https://news.ycombinator.com/item?id=42121345"
     ],
@@ -107,16 +127,6 @@
     [
       "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
       "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 22:08:34",
-      "https://news.ycombinator.com/item?id=42120313"
-    ],
-    [
-      "Carving your space",
-      "https://heather-buchel.com/blog/2024/11/carving-space/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
       "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 22:30:26",
-      "https://news.ycombinator.com/item?id=42111031"
-    ],
-    [
-      "How I ship projects at big tech companies",
-      "https://www.seangoedecke.com/how-to-ship/"
     ]
   ],
   [
