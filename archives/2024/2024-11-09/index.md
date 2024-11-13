@@ -37,6 +37,7 @@
 * [2024-11-09, 11:21:01](https://news.ycombinator.com/item?id=42093795) - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 * [2024-11-09, 11:06:10](https://news.ycombinator.com/item?id=42093756) - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 * [2024-11-09, 10:06:44](https://news.ycombinator.com/item?id=42093560) - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
+* [2024-11-09, 10:02:52](https://news.ycombinator.com/item?id=42093551) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-09, 09:59:29](https://news.ycombinator.com/item?id=42093541) - [Cache Directory Tagging Specification (2004)](https://bford.info/cachedir/)
 * [2024-11-09, 09:48:08](https://news.ycombinator.com/item?id=42093511) - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
 * [2024-11-09, 09:12:30](https://news.ycombinator.com/item?id=42093394) - [When you ask ChatGPT \"Tell me a story\" it's always is about a girl named Elara](https://old.reddit.com/r/MaliciousCompliance/comments/1gmkwg3/i_cant_give_students_a_zero_for_using_ai_unless_i/)
