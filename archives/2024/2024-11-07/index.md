@@ -64,6 +64,7 @@
 * [2024-11-07, 12:21:47](https://news.ycombinator.com/item?id=42076003) - [Ask HN: How would you launch a privacy-first, Instagram-like social network?](https://news.ycombinator.com/item?id=42076003)
 * [2024-11-07, 12:00:21](https://news.ycombinator.com/item?id=42075900) - [Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)](https://www.workatastartup.com/companies/optery)
 * [2024-11-07, 11:52:27](https://news.ycombinator.com/item?id=42075855) - [AI-Time Travel-Street View](https://timetravel-streetview.glitch.me/)
+* [2024-11-07, 10:51:48](https://news.ycombinator.com/item?id=42075535) - [How to delegate effectively as your responsibility grows](https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/)
 * [2024-11-07, 10:48:43](https://news.ycombinator.com/item?id=42075513) - [This Microservice Should Have Been a Library](https://gist.github.com/philippta/98a7644a424cdbf2653a641da0271cfc)
 * [2024-11-07, 10:39:05](https://news.ycombinator.com/item?id=42075467) - [Lynis – Security auditing and hardening tool, for Unix-based systems](https://github.com/CISOfy/lynis)
 * [2024-11-07, 10:27:06](https://news.ycombinator.com/item?id=42075403) - [Memory64](https://github.com/WebAssembly/memory64/blob/main/proposals/memory64/Overview.md)
