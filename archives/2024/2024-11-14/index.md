@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 06:48:16](https://news.ycombinator.com/item?id=42133700) - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
 * [2024-11-14, 06:30:57](https://news.ycombinator.com/item?id=42133624) - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
+* [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
 * [2024-11-14, 01:16:23](https://news.ycombinator.com/item?id=42132131) - [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
