@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 23:48:02](https://news.ycombinator.com/item?id=42097633) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 22:17:23](https://news.ycombinator.com/item?id=42097261) - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 * [2024-11-09, 22:15:13](https://news.ycombinator.com/item?id=42097251) - [SCIM: System for Cross-Domain Identity Management](https://scim.cloud/)
