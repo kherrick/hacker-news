@@ -60,6 +60,7 @@
 * [2024-11-12, 12:00:13](https://news.ycombinator.com/item?id=42114845) - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
 * [2024-11-12, 11:38:44](https://news.ycombinator.com/item?id=42114729) - [Apple M4 Pro analysis – fast, but not as efficient](https://www.notebookcheck.net/Apple-M4-Pro-analysis-Extremely-fast-but-not-as-efficient.915270.0.html)
 * [2024-11-12, 11:35:24](https://news.ycombinator.com/item?id=42114711) - [The Lost Reading Items of Ilya Sutskever's AI Reading List](https://tensorlabbet.com/2024/11/11/lost-reading-items/)
+* [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The inspiring scientists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-12, 11:05:24](https://news.ycombinator.com/item?id=42114543) - [Show HN: Xfer, a data-transfer language](https://github.com/paulmooreparks/Xfer)
 * [2024-11-12, 10:33:25](https://news.ycombinator.com/item?id=42114367) - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
 * [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
