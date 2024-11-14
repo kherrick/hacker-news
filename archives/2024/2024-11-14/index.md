@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+* [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 * [2024-11-14, 14:20:30](https://news.ycombinator.com/item?id=42136327) - [The Onion wins Alex Jones' Infowars in bankruptcy auction](https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936)
 * [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion Buys Alex Jones's Infowars Out of Bankruptcy](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 14:03:15](https://news.ycombinator.com/item?id=42136210) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
+* [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
 * [2024-11-14, 13:32:42](https://news.ycombinator.com/item?id=42136000) - [Keycloak took 10 months to fix a 2FA bypass](https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/)
 * [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
