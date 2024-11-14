@@ -60,6 +60,7 @@
 * [2024-11-10, 07:02:35](https://news.ycombinator.com/item?id=42098880) - [Earth Could Be Alien to Humans by 2500 (2021)](https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/)
 * [2024-11-10, 03:57:37](https://news.ycombinator.com/item?id=42098491) - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 * [2024-11-10, 03:48:52](https://news.ycombinator.com/item?id=42098475) - [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.marinecorpstimes.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)
+* [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 03:01:07](https://news.ycombinator.com/item?id=42098342) - [ChatGPT Brought Down an Online Education Giant](https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2)
 * [2024-11-10, 02:26:32](https://news.ycombinator.com/item?id=42098236) - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
