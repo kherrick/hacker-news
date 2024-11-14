@@ -40,6 +40,7 @@
 * [2024-11-06, 13:54:04](https://news.ycombinator.com/item?id=42062294) - [It's raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
 * [2024-11-06, 13:48:55](https://news.ycombinator.com/item?id=42062230) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 * [2024-11-06, 13:47:43](https://news.ycombinator.com/item?id=42062211) - [Bitcoin has made a new all-time high price](https://www.coinbase.com/price/bitcoin)
+* [2024-11-06, 13:42:43](https://news.ycombinator.com/item?id=42062152) - [A simple to use Java 8 JWT Library](https://github.com/FusionAuth/fusionauth-jwt)
 * [2024-11-06, 13:37:03](https://news.ycombinator.com/item?id=42062074) - [Monorepo – Our Experience](https://ente.io/blog/monorepo-retrospective/)
 * [2024-11-06, 13:00:12](https://news.ycombinator.com/item?id=42061599) - [EU opens antitrust investigation into anticompetitive practices by Corning](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681)
 * [2024-11-06, 12:54:59](https://news.ycombinator.com/item?id=42061530) - [Mr. Smith – An Open-Source Framework for Building Project Scaffolds](https://mr-smith.site/)
