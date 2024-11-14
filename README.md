@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
-* [2024-11-14, 19:24:55](https://news.ycombinator.com/item?id=42140102) - [Show HN: 16 year olds building an AI-powered Integrated Writing Environment](https://factful.io/)
+* [2024-11-14, 19:13:29](https://news.ycombinator.com/item?id=42139989) - [Prompt Injecting Your Way to Shell: OpenAI's Containerized ChatGPT Environment](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment)
 * [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
 * [2024-11-14, 17:04:41](https://news.ycombinator.com/item?id=42138276) - [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
@@ -9,7 +10,6 @@
 * [2024-11-14, 16:52:09](https://news.ycombinator.com/item?id=42138115) - [Daisy, an AI granny wasting scammers' time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
 * [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
 * [2024-11-14, 16:24:51](https://news.ycombinator.com/item?id=42137790) - [Origin private file system](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
-* [2024-11-14, 16:24:20](https://news.ycombinator.com/item?id=42137783) - [The Corpus of United States State Statutes–Design, Construction and Use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [The barriers to AI engineering are crumbling fast](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
@@ -19,7 +19,6 @@
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
-* [2024-11-14, 08:56:32](https://news.ycombinator.com/item?id=42134315) - [Interview with gwern](https://www.dwarkeshpatel.com/p/gwern-branwen)
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from my first exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
@@ -30,6 +29,7 @@
 * [2024-11-10, 11:23:09](https://news.ycombinator.com/item?id=42099629) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-09, 05:10:16](https://news.ycombinator.com/item?id=42092667) - [The Median Researcher Problem](https://www.lesswrong.com/posts/vZcXAc6txvJDanQ4F/the-median-researcher-problem-1)
+* [2024-11-08, 15:44:20](https://news.ycombinator.com/item?id=42087677) - [Bad science as genre fiction: I think there's a lot to be said for this analogy](https://statmodeling.stat.columbia.edu/2024/11/08/bad-science-as-genre-fiction/)
 
 ## [Archives](archives/index.md)
 

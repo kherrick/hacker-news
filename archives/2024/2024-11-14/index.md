@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
 * [2024-11-14, 19:24:55](https://news.ycombinator.com/item?id=42140102) - [Show HN: 16 year olds building an Integrated Writing Environment using AI](https://factful.io/)
+* [2024-11-14, 19:13:29](https://news.ycombinator.com/item?id=42139989) - [Prompt Injecting Your Way to Shell: OpenAI's Containerized ChatGPT Environment](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment)
 * [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
 * [2024-11-14, 17:54:23](https://news.ycombinator.com/item?id=42138976) - [Mark Zuckerberg Wants to Feed You More AI Slop](https://www.bloomberg.com/opinion/articles/2024-11-04/mark-zuckerberg-wants-to-feed-you-more-ai-slop-on-facebook)

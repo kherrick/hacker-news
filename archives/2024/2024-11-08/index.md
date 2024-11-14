@@ -37,6 +37,7 @@
 * [2024-11-08, 15:58:29](https://news.ycombinator.com/item?id=42087805) - [Thunderbird Turns 20 Years Old](https://updates.thunderbird.net/en-US/thunderbird/128.0/nov24/)
 * [2024-11-08, 15:55:02](https://news.ycombinator.com/item?id=42087770) - [The Weeds Are Winning](https://www.technologyreview.com/2024/10/10/1105034/weeds-climate-change-genetic-engineering-superweeds-food/)
 * [2024-11-08, 15:55:02](https://news.ycombinator.com/item?id=42087770) - [The Weeds Are Winning](https://longreads.com/2024/11/07/the-weeds-are-winning/)
+* [2024-11-08, 15:44:20](https://news.ycombinator.com/item?id=42087677) - [Bad science as genre fiction: I think there's a lot to be said for this analogy](https://statmodeling.stat.columbia.edu/2024/11/08/bad-science-as-genre-fiction/)
 * [2024-11-08, 15:29:27](https://news.ycombinator.com/item?id=42087560) - [Making Electronic Calipers](https://kevinlynagh.com/calipertron/)
 * [2024-11-08, 15:22:16](https://news.ycombinator.com/item?id=42087517) - [Gravity's Eastern Voyage](https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/)
 * [2024-11-08, 15:17:05](https://news.ycombinator.com/item?id=42087478) - [Man sick of crashes sues Intel for allegedly hiding CPU defects](https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/)
