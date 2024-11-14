@@ -28,6 +28,7 @@
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
 * [2024-11-13, 18:07:12](https://news.ycombinator.com/item?id=42128438) - [The Beginner's Guide to Visual Prompt Injections](https://www.lakera.ai/blog/visual-prompt-injections)
+* [2024-11-13, 17:09:27](https://news.ycombinator.com/item?id=42127882) - [Show HN: Windsurf – Agentic IDE](https://codeium.com/windsurf/)
 * [2024-11-13, 17:09:03](https://news.ycombinator.com/item?id=42127877) - [Codeium launches Windsurf – the first agentic IDE](https://codeium.com/blog/windsurf-launch)
 * [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
 * [2024-11-13, 17:00:36](https://news.ycombinator.com/item?id=42127776) - [Patterns (YC S21) Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
