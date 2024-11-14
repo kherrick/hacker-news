@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 09:08:10",
+      "https://news.ycombinator.com/item?id=42134366"
+    ],
+    [
+      "Async Await Is the Worst Thing to Happen to Programming",
+      "https://andrewzuo.com/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 08:56:32",
       "https://news.ycombinator.com/item?id=42134315"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-11-12, 22:40:07",
-      "https://news.ycombinator.com/item?id=42120566"
-    ],
-    [
-      "A Mathematician in a School of Art",
-      "https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 08:08:39",
       "https://news.ycombinator.com/item?id=42113674"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-11-09, 15:23:31",
-      "https://news.ycombinator.com/item?id=42094889"
-    ],
-    [
-      "The number given as % CPU in Activity Monitor",
-      "https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/"
-    ]
-  ],
-  [
-    [
       "2024-11-08, 12:20:41",
       "https://news.ycombinator.com/item?id=42086289"
     ],
     [
       "Choose Boring Technology and LLMs",
       "https://www.maragu.dev/blog/choose-boring-technology-and-llms"
+    ]
+  ],
+  [
+    [
+      "2024-11-08, 00:33:31",
+      "https://news.ycombinator.com/item?id=42082808"
+    ],
+    [
+      "Safe and efficient C++ interoperability via non-escapable types and lifetimes",
+      "https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426"
     ]
   ],
   [
