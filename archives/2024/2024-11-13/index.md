@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 23:41:59](https://news.ycombinator.com/item?id=42131473) - [Contracts for C++ (DbC) [pdf]](https://isocpp.org/files/papers/P2900R6.pdf)
 * [2024-11-13, 23:32:56](https://news.ycombinator.com/item?id=42131408) - [EU irate about geo-locked Apple IDs](https://www.theregister.com/2024/11/13/eu_apple_id/)
 * [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Farewell and thank you for the continued partnership, Francois Chollet](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
 * [2024-11-13, 22:07:40](https://news.ycombinator.com/item?id=42130630) - [DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13](https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/)

@@ -13,6 +13,7 @@
 * [2024-11-11, 22:12:55](https://news.ycombinator.com/item?id=42110901) - [YubiKey still selling old stock with vulnerable firmware](https://news.ycombinator.com/item?id=42110901)
 * [2024-11-11, 22:10:37](https://news.ycombinator.com/item?id=42110877) - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
 * [2024-11-11, 21:41:37](https://news.ycombinator.com/item?id=42110677) - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
+* [2024-11-11, 21:40:40](https://news.ycombinator.com/item?id=42110664) - [Debian Junior Desktop live image](https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/)
 * [2024-11-11, 21:28:28](https://news.ycombinator.com/item?id=42110588) - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 * [2024-11-11, 21:02:11](https://news.ycombinator.com/item?id=42110407) - [High Levels of Banned PFAS Detected in Hershey's Packaging](https://grizzlyreports.com/hsy/)
 * [2024-11-11, 21:01:10](https://news.ycombinator.com/item?id=42110397) - [Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal)
