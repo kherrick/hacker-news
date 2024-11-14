@@ -20,7 +20,6 @@
 * [2024-11-13, 15:38:08](https://news.ycombinator.com/item?id=42126948) - [The First Virtual Meeting Was in 1916](https://spectrum.ieee.org/virtual-meeting)
 * [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
-* [2024-11-12, 18:17:32](https://news.ycombinator.com/item?id=42118097) - [Backdoor attempt on Exolabs GitHub repo through an innocent looking PR](https://twitter.com/alexocheema/status/1856295635143524378)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-11, 21:40:40](https://news.ycombinator.com/item?id=42110664) - [Debian Junior Desktop live image](https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
@@ -28,6 +27,7 @@
 * [2024-11-10, 01:02:48](https://news.ycombinator.com/item?id=42097884) - [The Particle Data Group](https://pdg.lbl.gov/index.html)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
+* [2024-11-09, 15:23:31](https://news.ycombinator.com/item?id=42094889) - [The number given as % CPU in Activity Monitor](https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/)
 * [2024-11-07, 17:21:27](https://news.ycombinator.com/item?id=42078674) - [Five Learnings from 15 Years in Perception](https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception)
 * [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
 
