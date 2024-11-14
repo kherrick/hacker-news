@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 23:59:18](https://news.ycombinator.com/item?id=42091434) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-11-08, 23:57:13](https://news.ycombinator.com/item?id=42091423) - [It's legal for police to use deception in interrogations. Some want that to end](https://text.npr.org/nx-s1-4974964)
 * [2024-11-08, 23:46:46](https://news.ycombinator.com/item?id=42091365) - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
 * [2024-11-08, 23:08:02](https://news.ycombinator.com/item?id=42091181) - [Maelstrom: High-Performance Matrix Home-Server Written in Rust](https://github.com/maelstrom-rs/maelstrom)
