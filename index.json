@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-14, 03:04:33",
+      "https://news.ycombinator.com/item?id=42132720"
+    ],
+    [
+      "Go-Safeweb",
+      "https://github.com/google/go-safeweb"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 02:26:55",
+      "https://news.ycombinator.com/item?id=42132533"
+    ],
+    [
+      "JSON for Classic C++",
+      "https://github.com/jart/json.cpp"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 01:16:23",
       "https://news.ycombinator.com/item?id=42132131"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-11-12, 18:17:32",
-      "https://news.ycombinator.com/item?id=42118097"
-    ],
-    [
-      "Backdoor attempt on Exolabs GitHub repo through an innocent looking PR",
-      "https://twitter.com/alexocheema/status/1856295635143524378"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 08:08:39",
       "https://news.ycombinator.com/item?id=42113674"
     ],
@@ -227,16 +237,6 @@
     [
       "NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing",
       "https://science.slashdot.org/story/24/11/10/0120249/nasa-investigates-laser-beam-welding-in-a-vacuum-for-in-space-manufacturing"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 23:01:08",
-      "https://news.ycombinator.com/item?id=42103200"
-    ],
-    [
-      "Way too many ways to wait on a child process with a timeout",
-      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
     ]
   ],
   [
