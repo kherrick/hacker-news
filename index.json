@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 07:53:29",
+      "https://news.ycombinator.com/item?id=42133980"
+    ],
+    [
+      "WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly",
+      "https://labs.leaningtech.com/blog/webvm-20"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 06:48:16",
       "https://news.ycombinator.com/item?id=42133700"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2024-11-13, 01:23:37",
-      "https://news.ycombinator.com/item?id=42121957"
+      "2024-11-13, 01:07:27",
+      "https://news.ycombinator.com/item?id=42121853"
     ],
     [
-      "From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod",
-      "https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/"
+      "Abusing Ubuntu 24.04 features for root privilege escalation",
+      "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing",
       "https://science.slashdot.org/story/24/11/10/0120249/nasa-investigates-laser-beam-welding-in-a-vacuum-for-in-space-manufacturing"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 21:00:02",
-      "https://news.ycombinator.com/item?id=42102596"
-    ],
-    [
-      "Generating high-quality thumbnails from videos",
-      "https://developer.apple.com/documentation/vision/generating-thumbnails-from-videos"
     ]
   ],
   [
