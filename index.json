@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-11-14, 11:56:58",
-      "https://news.ycombinator.com/item?id=42135358"
-    ],
-    [
-      "I Regret Ever Open Sourcing Java – Jill Malony Ratkevic",
-      "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 11:49:23",
       "https://news.ycombinator.com/item?id=42135314"
     ],
     [
       "The geometry of data: the missing metric tensor and the Stein score [Part II]",
       "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 10:47:31",
-      "https://news.ycombinator.com/item?id=42134938"
-    ],
-    [
-      "The closest open-source alternatives to Notion and Miro",
-      "https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0"
     ]
   ],
   [
@@ -71,32 +51,12 @@
   ],
   [
     [
-      "2024-11-14, 07:53:29",
-      "https://news.ycombinator.com/item?id=42133980"
-    ],
-    [
-      "WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly",
-      "https://labs.leaningtech.com/blog/webvm-20"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 07:32:09",
       "https://news.ycombinator.com/item?id=42133864"
     ],
     [
       "Lessons from My First Exit",
       "https://mtlynch.io/lessons-from-my-first-exit/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 06:30:57",
-      "https://news.ycombinator.com/item?id=42133624"
-    ],
-    [
-      "GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics",
-      "https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/"
     ]
   ],
   [
@@ -121,22 +81,32 @@
   ],
   [
     [
+      "2024-11-14, 00:59:47",
+      "https://news.ycombinator.com/item?id=42132014"
+    ],
+    [
+      "PRC Targeting of Commercial Telecommunications Infrastructure",
+      "https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 23:41:59",
+      "https://news.ycombinator.com/item?id=42131473"
+    ],
+    [
+      "Contracts for C++ (DbC) [pdf]",
+      "https://isocpp.org/files/papers/P2900R6.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 22:28:52",
       "https://news.ycombinator.com/item?id=42130881"
     ],
     [
       "Francois Chollet is leaving Google",
       "https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 22:07:40",
-      "https://news.ycombinator.com/item?id=42130630"
-    ],
-    [
-      "DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13",
-      "https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/"
     ]
   ],
   [
@@ -171,12 +141,12 @@
   ],
   [
     [
-      "2024-11-13, 18:07:12",
-      "https://news.ycombinator.com/item?id=42128438"
+      "2024-11-13, 16:39:55",
+      "https://news.ycombinator.com/item?id=42127569"
     ],
     [
-      "The Beginner's Guide to Visual Prompt Injections (2023)",
-      "https://www.lakera.ai/blog/visual-prompt-injections"
+      "Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3",
+      "https://www.kongabeat.com/"
     ]
   ],
   [
@@ -191,12 +161,32 @@
   ],
   [
     [
+      "2024-11-13, 01:23:37",
+      "https://news.ycombinator.com/item?id=42121957"
+    ],
+    [
+      "From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod",
+      "https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 01:07:27",
       "https://news.ycombinator.com/item?id=42121853"
     ],
     [
       "Abusing Ubuntu 24.04 features for root privilege escalation",
       "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 22:40:07",
+      "https://news.ycombinator.com/item?id=42120566"
+    ],
+    [
+      "A Mathematician in a School of Art",
+      "https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2024-11-11, 21:40:40",
-      "https://news.ycombinator.com/item?id=42110664"
+      "2024-11-12, 06:36:43",
+      "https://news.ycombinator.com/item?id=42113315"
     ],
     [
-      "Debian Junior Desktop live image",
-      "https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/"
+      "The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby",
+      "https://www.nature.com/articles/s41550-024-02389-3"
     ]
   ],
   [
@@ -227,16 +217,6 @@
     [
       "C Gibberish to English",
       "https://cdecl.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 16:08:46",
-      "https://news.ycombinator.com/item?id=42108145"
-    ],
-    [
-      "New elliptic curve breaks 18-year-old record",
-      "https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
-      "2024-11-08, 12:20:41",
-      "https://news.ycombinator.com/item?id=42086289"
+      "2024-11-09, 22:51:27",
+      "https://news.ycombinator.com/item?id=42097418"
     ],
     [
-      "Choose Boring Technology and LLMs",
-      "https://www.maragu.dev/blog/choose-boring-technology-and-llms"
+      "Diffusion models are evolutionary algorithms",
+      "https://gonzoml.substack.com/p/diffusion-models-are-evolutionary"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 21:52:48",
+      "https://news.ycombinator.com/item?id=42097132"
+    ],
+    [
+      "How we built the Black Friday Cyber Monday 2023 globe",
+      "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 15:23:31",
+      "https://news.ycombinator.com/item?id=42094889"
+    ],
+    [
+      "The number given as % CPU in Activity Monitor",
+      "https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/"
     ]
   ],
   [
