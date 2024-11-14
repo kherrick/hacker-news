@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 17:26:14",
+      "https://news.ycombinator.com/item?id=42138608"
+    ],
+    [
+      "The Poor UX/UI of Major Cloud Providers: ECS/VMs Management",
+      "https://news.ycombinator.com/item?id=42138608"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 17:24:04",
       "https://news.ycombinator.com/item?id=42138576"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-11-14, 17:17:43",
-      "https://news.ycombinator.com/item?id=42138476"
+      "2024-11-14, 17:07:43",
+      "https://news.ycombinator.com/item?id=42138319"
     ],
     [
-      "Guys Hacked AirPods to Give Their Grandmas Hearing Aids",
-      "https://www.wired.com/story/apple-airpods-hearing-aid-hack/"
+      "AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks",
+      "https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 17:04:41",
+      "https://news.ycombinator.com/item?id=42138276"
+    ],
+    [
+      "Something weird is happening with LLMs and Chess",
+      "https://dynomight.net/chess/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-11-14, 15:48:45",
-      "https://news.ycombinator.com/item?id=42137391"
-    ],
-    [
-      "On Building Git for Lawyers",
-      "https://jordanbryan.substack.com/p/on-building-git-for-lawyers"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 14:56:48",
       "https://news.ycombinator.com/item?id=42136711"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42136259"
     ],
     [
-      "The Onion Buys Alex Jones's Infowars Out of Bankruptcy",
+      "The Onion buys Infowars",
       "https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "The inspiring scientists who saved the first seed bank",
       "https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 08:08:39",
-      "https://news.ycombinator.com/item?id=42113674"
-    ],
-    [
-      "Watermark Anything",
-      "https://github.com/facebookresearch/watermark-anything"
     ]
   ],
   [
