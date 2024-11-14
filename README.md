@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 15:03:21](https://news.ycombinator.com/item?id=42136793) - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
@@ -29,7 +30,6 @@
 * [2024-11-08, 23:59:18](https://news.ycombinator.com/item?id=42091434) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-11-08, 02:39:00](https://news.ycombinator.com/item?id=42083573) - [Python, C++ inspired language that transpiles to C and can be embedded within C](https://github.com/AnilBK/C-Preprocessor-Language)
 * [2024-11-08, 00:33:31](https://news.ycombinator.com/item?id=42082808) - [Safe and efficient C++ interoperability via non-escapable types and lifetimes](https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426)
-* [2024-11-07, 17:21:27](https://news.ycombinator.com/item?id=42078674) - [Five Learnings from 15 Years in Perception](https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception)
 
 ## [Archives](archives/index.md)
 

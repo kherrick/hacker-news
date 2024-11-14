@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 15:28:28](https://news.ycombinator.com/item?id=42137120) - [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)
 * [2024-11-14, 15:03:21](https://news.ycombinator.com/item?id=42136793) - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
