@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 06:30:57](https://news.ycombinator.com/item?id=42133624) - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
 * [2024-11-14, 01:16:23](https://news.ycombinator.com/item?id=42132131) - [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
@@ -26,7 +27,6 @@
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 * [2024-11-10, 23:22:13](https://news.ycombinator.com/item?id=42103314) - [NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing](https://science.slashdot.org/story/24/11/10/0120249/nasa-investigates-laser-beam-welding-in-a-vacuum-for-in-space-manufacturing)
 * [2024-11-10, 21:00:02](https://news.ycombinator.com/item?id=42102596) - [Generating high-quality thumbnails from videos](https://developer.apple.com/documentation/vision/generating-thumbnails-from-videos)
-* [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-07, 17:21:27](https://news.ycombinator.com/item?id=42078674) - [Five Learnings from 15 Years in Perception](https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception)
 * [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
