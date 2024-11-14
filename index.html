@@ -129,6 +129,63 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42138608">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=42138608"
+              >The Poor UX/UI of Major Cloud Providers: ECS/VMs Management</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-14 @ 17:26:14</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42138608"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                1. Complex Regional Segregation (AWS) - Instances are strictly
+                segregated by regions - No unified view to manage instances
+                across all regions by default (Need specific queries just to get
+                a global view) - Sometimes you lose track of which region your
+                instances are in
+              </p>
+              <p>
+                2. Instance Metadata Management is Unnecessarily Difficult -
+                Can't easily rename instances (Google Cloud requires shutdown
+                and restart) - No automatic tracking of which IAM account
+                created the instance - Limited ability to add notes or tags for
+                running services - When an instance runs multiple services
+                (e.g., "service-A" actually running A, B, and C), there's no
+                easy way to update its name or add proper documentation - Have
+                to maintain external documentation to track what's running where
+                - Need to SSH and check screen/tmux sessions to see what's
+                actually running
+              </p>
+              <p>
+                3. SSH Key Management Issues (especially Google Cloud) - Can't
+                properly manage SSH public keys - No ability to add descriptions
+                to keys - Can only see a list of root public keys without
+                context - No tracking of who added which key - No "last used"
+                timestamp (unlike GitHub which handles this well)
+              </p>
+              <p>
+                I do use serverless solutions like Lambda/Cloud Functions and
+                Firebase, but there are always cases where you need ECS/VMs.
+                These basic UX issues make daily operations unnecessarily
+                complicated.
+              </p>
+              <p>
+                What's your experience with cloud providers' UI/UX? Have you
+                found any good solutions to these problems?
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42138576">
           <h3>
             <a
@@ -141,32 +198,52 @@
             <h4>
               <span>2024-11-14 @ 17:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42138576"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="42138476">
+        <section id="42138319">
           <h3>
             <a
               class="item"
-              href="https://www.wired.com/story/apple-airpods-hearing-aid-hack/"
-              >Guys Hacked AirPods to Give Their Grandmas Hearing Aids</a
+              href="https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks"
+              >AI Progress Stalls as OpenAI, Google and Anthropic Hit
+              Roadblocks</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-11-14 @ 17:17:43</span
+              <span>2024-11-14 @ 17:07:43</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42138476"
+                ><a href="https://news.ycombinator.com/item?id=42138319"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42138276">
+          <h3>
+            <a class="item" href="https://dynomight.net/chess/"
+              >Something weird is happening with LLMs and Chess</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-14 @ 17:04:41</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42138276"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -198,11 +275,11 @@
             <h4>
               <span>2024-11-14 @ 16:52:09</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42138115"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -220,7 +297,7 @@
             <h4>
               <span>2024-11-14 @ 16:24:20</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42137783"
                   >Comments</a
@@ -241,32 +318,11 @@
             <h4>
               <span>2024-11-14 @ 16:01:59</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42137527"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42137391">
-          <h3>
-            <a
-              class="item"
-              href="https://jordanbryan.substack.com/p/on-building-git-for-lawyers"
-              >On Building Git for Lawyers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-14 @ 15:48:45</span
-              ><span class="points-container"
-                >Points: <span class="points">95</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42137391"
-                  >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -284,11 +340,11 @@
             <h4>
               <span>2024-11-14 @ 14:56:48</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136711"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -303,11 +359,11 @@
             <h4>
               <span>2024-11-14 @ 14:35:34</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136469"
                   >Comments</a
-                ><span class="descendants">: 371</span></span
+                ><span class="descendants">: 403</span></span
               >
             </h4>
           </section>
@@ -324,7 +380,7 @@
             <h4>
               <span>2024-11-14 @ 14:25:39</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136375"
                   >Comments</a
@@ -338,18 +394,18 @@
             <a
               class="item"
               href="https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"
-              >The Onion Buys Alex Jones's Infowars Out of Bankruptcy</a
+              >The Onion buys Infowars</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-11-14 @ 14:10:05</span
               ><span class="points-container"
-                >Points: <span class="points">860</span></span
+                >Points: <span class="points">906</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136259"
                   >Comments</a
-                ><span class="descendants">: 473</span></span
+                ><span class="descendants">: 497</span></span
               >
             </h4>
           </section>
@@ -366,11 +422,11 @@
             <h4>
               <span>2024-11-14 @ 13:53:58</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136136"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -385,7 +441,7 @@
             <h4>
               <span>2024-11-14 @ 13:47:02</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136093"
                   >Comments</a
@@ -406,11 +462,11 @@
             <h4>
               <span>2024-11-14 @ 13:32:42</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42136000"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -425,11 +481,11 @@
             <h4>
               <span>2024-11-14 @ 12:42:59</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42135658"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -446,11 +502,11 @@
             <h4>
               <span>2024-11-14 @ 12:20:40</span
               ><span class="points-container"
-                >Points: <span class="points">739</span></span
+                >Points: <span class="points">761</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42135520"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -467,7 +523,7 @@
             <h4>
               <span>2024-11-14 @ 10:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42134964"
                   >Comments</a
@@ -487,11 +543,11 @@
             <h4>
               <span>2024-11-14 @ 09:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42134475"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -506,11 +562,11 @@
             <h4>
               <span>2024-11-14 @ 08:18:50</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42134125"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -527,11 +583,11 @@
             <h4>
               <span>2024-11-14 @ 07:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42133864"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -568,11 +624,11 @@
             <h4>
               <span>2024-11-14 @ 03:04:33</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42132720"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -589,7 +645,7 @@
             <h4>
               <span>2024-11-13 @ 18:43:06</span
               ><span class="points-container"
-                >Points: <span class="points">622</span></span
+                >Points: <span class="points">627</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42128717"
                   >Comments</a
@@ -610,11 +666,11 @@
             <h4>
               <span>2024-11-13 @ 01:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42121853"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -631,32 +687,11 @@
             <h4>
               <span>2024-11-12 @ 11:31:59</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42114688"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42113674">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/facebookresearch/watermark-anything"
-              >Watermark Anything</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-12 @ 08:08:39</span
-              ><span class="points-container"
-                >Points: <span class="points">299</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42113674"
-                  >Comments</a
-                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -673,7 +708,7 @@
             <h4>
               <span>2024-11-11 @ 03:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42104378"
                   >Comments</a
@@ -695,7 +730,7 @@
             <h4>
               <span>2024-11-10 @ 03:47:48</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42098471"
                   >Comments</a
@@ -716,7 +751,7 @@
             <h4>
               <span>2024-11-08 @ 23:59:18</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42091434"
                   >Comments</a
@@ -738,11 +773,11 @@
             <h4>
               <span>2024-11-08 @ 02:39:00</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42083573"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
