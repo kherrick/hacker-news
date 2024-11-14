@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
 * [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Europeans Spend 575M Hours Clicking Cookie Banners Every Year](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners)
+* [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-14, 21:47:54](https://news.ycombinator.com/item?id=42141587) - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 * [2024-11-14, 21:40:34](https://news.ycombinator.com/item?id=42141519) - [Beelink mini-PC docking station supports desktop GPU](https://liliputing.com/beelink-gti12-ultra-and-ex-docking-station-review-mini-pc-dock-adds-desktop-graphics-support/)
