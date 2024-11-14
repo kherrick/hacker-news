@@ -2,6 +2,7 @@
 
 * [2024-11-14, 21:40:34](https://news.ycombinator.com/item?id=42141519) - [Beelink mini-PC docking station supports desktop GPU](https://liliputing.com/beelink-gti12-ultra-and-ex-docking-station-review-mini-pc-dock-adds-desktop-graphics-support/)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
+* [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
 * [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
@@ -21,7 +22,6 @@
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from my first exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
-* [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-11, 11:27:59](https://news.ycombinator.com/item?id=42106368) - [The Internet Gopher from Minnesota](https://www.abortretry.fail/p/the-internet-gopher-from-minnesota)
