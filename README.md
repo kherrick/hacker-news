@@ -15,7 +15,7 @@
 * [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
-* [2024-11-13, 18:07:12](https://news.ycombinator.com/item?id=42128438) - [The Beginner's Guide to Visual Prompt Injections](https://www.lakera.ai/blog/visual-prompt-injections)
+* [2024-11-13, 18:07:12](https://news.ycombinator.com/item?id=42128438) - [The Beginner's Guide to Visual Prompt Injections (2023)](https://www.lakera.ai/blog/visual-prompt-injections)
 * [2024-11-13, 16:39:55](https://news.ycombinator.com/item?id=42127569) - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
 * [2024-11-13, 15:38:08](https://news.ycombinator.com/item?id=42126948) - [The First Virtual Meeting Was in 1916](https://spectrum.ieee.org/virtual-meeting)
 * [2024-11-13, 01:07:27](https://news.ycombinator.com/item?id=42121853) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
