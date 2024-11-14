@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 17:24:04](https://news.ycombinator.com/item?id=42138576) - [Perplexity: Why We're Experimenting with Advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
 * [2024-11-14, 17:12:01](https://news.ycombinator.com/item?id=42138384) - [How AI is beating VCs in their own game](https://arxiv.org/abs/2411.08257)
 * [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:52:09](https://news.ycombinator.com/item?id=42138115) - [O2 unveils Daisy, the AI granny wasting scammers' time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
+* [2024-11-14, 16:24:20](https://news.ycombinator.com/item?id=42137783) - [The Corpus of United States State Statutes–Design, Construction and Use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 15:28:28](https://news.ycombinator.com/item?id=42137120) - [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)

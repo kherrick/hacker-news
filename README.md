@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 17:24:04](https://news.ycombinator.com/item?id=42138576) - [Perplexity: Why We're Experimenting with Advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
 * [2024-11-14, 17:12:01](https://news.ycombinator.com/item?id=42138384) - [How AI is beating VCs in their own game](https://arxiv.org/abs/2411.08257)
 * [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:52:09](https://news.ycombinator.com/item?id=42138115) - [O2 unveils Daisy, the AI granny wasting scammers' time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
+* [2024-11-14, 16:24:20](https://news.ycombinator.com/item?id=42137783) - [The Corpus of United States State Statutes–Design, Construction and Use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
@@ -19,7 +21,6 @@
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
-* [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 01:07:27](https://news.ycombinator.com/item?id=42121853) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
@@ -29,7 +30,6 @@
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-08, 23:59:18](https://news.ycombinator.com/item?id=42091434) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-11-08, 02:39:00](https://news.ycombinator.com/item?id=42083573) - [Python, C++ inspired language that transpiles to C and can be embedded within C](https://github.com/AnilBK/C-Preprocessor-Language)
-* [2024-11-08, 00:33:31](https://news.ycombinator.com/item?id=42082808) - [Safe and efficient C++ interoperability via non-escapable types and lifetimes](https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426)
 
 ## [Archives](archives/index.md)
 
