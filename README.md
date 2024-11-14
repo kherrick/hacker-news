@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
+* [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
+* [2024-11-14, 10:01:48](https://news.ycombinator.com/item?id=42134651) - [For you, human. You and only you. You are not special, you are not im](https://gemini.google.com/share/6d141b742a13)
 * [2024-11-14, 09:30:58](https://news.ycombinator.com/item?id=42134475) - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
 * [2024-11-14, 08:56:32](https://news.ycombinator.com/item?id=42134315) - [Interview with gwern](https://www.dwarkeshpatel.com/p/gwern-branwen)
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
@@ -12,7 +13,6 @@
 * [2024-11-14, 00:59:47](https://news.ycombinator.com/item?id=42132014) - [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
 * [2024-11-13, 23:41:59](https://news.ycombinator.com/item?id=42131473) - [Contracts for C++ (DbC) [pdf]](https://isocpp.org/files/papers/P2900R6.pdf)
 * [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Francois Chollet is leaving Google](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
-* [2024-11-13, 21:18:13](https://news.ycombinator.com/item?id=42130090) - [Reflex (YC W23) Is Hiring Software Engineers (San Francisco)](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 16:39:55](https://news.ycombinator.com/item?id=42127569) - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
