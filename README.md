@@ -9,7 +9,7 @@
 * [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
 * [2024-11-14, 16:24:51](https://news.ycombinator.com/item?id=42137790) - [Origin private file system – MDN](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
 * [2024-11-14, 16:24:20](https://news.ycombinator.com/item?id=42137783) - [The Corpus of United States State Statutes–Design, Construction and Use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252)
-* [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
+* [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
@@ -24,12 +24,12 @@
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
-* [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The inspiring scientists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-11, 03:24:58](https://news.ycombinator.com/item?id=42104378) - [Control iPhone with the movement of your eyes Support (SG)](https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios)
 * [2024-11-10, 11:23:09](https://news.ycombinator.com/item?id=42099629) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
+* [2024-11-09, 05:10:16](https://news.ycombinator.com/item?id=42092667) - [The Median Researcher Problem](https://www.lesswrong.com/posts/vZcXAc6txvJDanQ4F/the-median-researcher-problem-1)
 
 ## [Archives](archives/index.md)
 
