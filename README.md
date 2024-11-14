@@ -28,7 +28,7 @@
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 13:53:24](https://news.ycombinator.com/item?id=42094425) - [Maritime Signal Flags in HTML/CSS](https://icsincss.tomerlichtash.com)
-* [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
+* [2024-11-07, 17:21:27](https://news.ycombinator.com/item?id=42078674) - [Five Learnings from 15 Years in Perception](https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception)
 * [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
 
 ## [Archives](archives/index.md)
