@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 19:00:03",
+      "https://news.ycombinator.com/item?id=42139843"
+    ],
+    [
+      "OpenMP 6.0",
+      "https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 17:59:27",
       "https://news.ycombinator.com/item?id=42139044"
     ],
@@ -17,16 +27,6 @@
     [
       "We're experimenting with advertising",
       "https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 17:07:43",
-      "https://news.ycombinator.com/item?id=42138319"
-    ],
-    [
-      "AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks",
-      "https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42137818"
     ],
     [
-      "℘ (2017)",
+      "The letter ℘: name and origin? (2017)",
       "https://mathoverflow.net/questions/278130/the-letter-wp-name-origin"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-11-13, 13:28:51",
+      "https://news.ycombinator.com/item?id=42125888"
+    ],
+    [
+      "OpenAI, Google and Anthropic are struggling to build more advanced AI",
+      "https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 11:31:59",
       "https://news.ycombinator.com/item?id=42114688"
     ],
@@ -287,16 +297,6 @@
     [
       "The brain summons deep sleep for healing from life-threatening injury",
       "https://www.nature.com/articles/d41586-024-03491-2"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 02:39:00",
-      "https://news.ycombinator.com/item?id=42083573"
-    ],
-    [
-      "Python, C++ inspired language that transpiles to C and can be embedded within C",
-      "https://github.com/AnilBK/C-Preprocessor-Language"
     ]
   ]
 ]
