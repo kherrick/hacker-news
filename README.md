@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 19:24:55](https://news.ycombinator.com/item?id=42140102) - [Show HN: 16 year olds building an Integrated Writing Environment using AI](https://factful.io/)
 * [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
 * [2024-11-14, 17:24:04](https://news.ycombinator.com/item?id=42138576) - [We're experimenting with advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
@@ -22,7 +23,6 @@
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from my first exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
-* [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-13, 15:46:41](https://news.ycombinator.com/item?id=42127029) - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
 * [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
