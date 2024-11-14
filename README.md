@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
 * [2024-11-14, 17:24:04](https://news.ycombinator.com/item?id=42138576) - [We're experimenting with advertising](https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising)
-* [2024-11-14, 17:07:43](https://news.ycombinator.com/item?id=42138319) - [AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks](https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks)
 * [2024-11-14, 17:04:41](https://news.ycombinator.com/item?id=42138276) - [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
 * [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:52:09](https://news.ycombinator.com/item?id=42138115) - [O2 unveils Daisy, the AI granny wasting scammers' time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
-* [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [℘ (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
+* [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
 * [2024-11-14, 16:24:51](https://news.ycombinator.com/item?id=42137790) - [Origin private file system – MDN](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
 * [2024-11-14, 16:24:20](https://news.ycombinator.com/item?id=42137783) - [The Corpus of United States State Statutes–Design, Construction and Use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
@@ -25,11 +25,11 @@
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
+* [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The inspiring scientists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-11, 03:24:58](https://news.ycombinator.com/item?id=42104378) - [Control iPhone with the movement of your eyes Support (SG)](https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios)
 * [2024-11-10, 11:23:09](https://news.ycombinator.com/item?id=42099629) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
-* [2024-11-08, 02:39:00](https://news.ycombinator.com/item?id=42083573) - [Python, C++ inspired language that transpiles to C and can be embedded within C](https://github.com/AnilBK/C-Preprocessor-Language)
 
 ## [Archives](archives/index.md)
 

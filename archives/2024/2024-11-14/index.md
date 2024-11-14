@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 19:00:03](https://news.ycombinator.com/item?id=42139843) - [OpenMP 6.0](https://www.openmp.org/home-news/openmp-arb-releases-openmp-6-0-for-easier-programming/)
 * [2024-11-14, 17:59:27](https://news.ycombinator.com/item?id=42139044) - [Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
 * [2024-11-14, 17:54:23](https://news.ycombinator.com/item?id=42138976) - [Mark Zuckerberg Wants to Feed You More AI Slop](https://www.bloomberg.com/opinion/articles/2024-11-04/mark-zuckerberg-wants-to-feed-you-more-ai-slop-on-facebook)
 * [2024-11-14, 17:26:14](https://news.ycombinator.com/item?id=42138608) - [The Poor UX/UI of Major Cloud Providers: ECS/VMs Management](https://news.ycombinator.com/item?id=42138608)
