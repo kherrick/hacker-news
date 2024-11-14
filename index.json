@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 21:00:51",
+      "https://news.ycombinator.com/item?id=42141160"
+    ],
+    [
+      "InspectMind AI (YC W24) Is Hiring for AI in Construction",
+      "https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 20:12:17",
       "https://news.ycombinator.com/item?id=42140664"
     ],
@@ -57,16 +67,6 @@
     [
       "Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF",
       "https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 17:01:07",
-      "https://news.ycombinator.com/item?id=42138233"
-    ],
-    [
-      "MindsDB (YC W20) Is Hiring an Operations Analyst",
-      "https://grnh.se/e9445a887us"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42133744"
     ],
     [
-      "Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]",
+      "SqueakJS paper Wins ACM SIGPLAN DLS Most Notable Paper Award [pdf]",
       "https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf"
     ]
   ],
