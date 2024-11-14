@@ -34,6 +34,7 @@
 * [2024-11-09, 14:23:30](https://news.ycombinator.com/item?id=42094573) - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
 * [2024-11-09, 14:18:24](https://news.ycombinator.com/item?id=42094546) - [FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI](https://epochai.org/frontiermath/the-benchmark)
 * [2024-11-09, 13:53:33](https://news.ycombinator.com/item?id=42094427) - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
+* [2024-11-09, 13:53:24](https://news.ycombinator.com/item?id=42094425) - [Maritime Signal Flags in HTML/CSS](https://icsincss.tomerlichtash.com)
 * [2024-11-09, 12:58:09](https://news.ycombinator.com/item?id=42094180) - [The Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/)
 * [2024-11-09, 12:43:28](https://news.ycombinator.com/item?id=42094122) - ['A disabled South Park character from 24 years ago is getting me harassed today'](https://www.bbc.com/news/articles/c9dl0nqdl10o)
 * [2024-11-09, 11:33:28](https://news.ycombinator.com/item?id=42093851) - [Somebody moved UK's oldest satellite](https://www.bbc.co.uk/news/articles/cpwrr58801yo)
