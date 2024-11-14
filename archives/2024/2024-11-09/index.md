@@ -28,6 +28,7 @@
 * [2024-11-09, 16:40:48](https://news.ycombinator.com/item?id=42095319) - [A brief history of privacy protection on Macs](https://eclecticlight.co/2024/11/09/a-brief-history-of-privacy-protection-on-macs/)
 * [2024-11-09, 16:38:08](https://news.ycombinator.com/item?id=42095302) - [When machine learning tells the wrong story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 16:36:19](https://news.ycombinator.com/item?id=42095292) - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
+* [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
 * [2024-11-09, 15:47:29](https://news.ycombinator.com/item?id=42095012) - [SQLite is not a single connection database](https://igorstechnoclub.com/most-common-sqlite-misconception/)
 * [2024-11-09, 15:23:31](https://news.ycombinator.com/item?id=42094889) - [The number given as % CPU in Activity Monitor](https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/)
 * [2024-11-09, 14:41:22](https://news.ycombinator.com/item?id=42094663) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)

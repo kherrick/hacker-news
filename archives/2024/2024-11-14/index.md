@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 21:40:34](https://news.ycombinator.com/item?id=42141519) - [Beelink mini-PC docking station supports desktop GPU](https://liliputing.com/beelink-gti12-ultra-and-ex-docking-station-review-mini-pc-dock-adds-desktop-graphics-support/)
 * [2024-11-14, 21:27:25](https://news.ycombinator.com/item?id=42141410) - [Silicon Valley got what it wanted](https://www.bloodinthemachine.com/p/silicon-valley-got-what-it-wanted)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
 * [2024-11-14, 20:12:17](https://news.ycombinator.com/item?id=42140664) - [Valuing Humans in the Age of Superintelligence: HumaneRank](https://roadtoartificia.com/p/valuing-humans-in-the-age-of-superintelligence-humanerank)
