@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
+* [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
 * [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:56:58](https://news.ycombinator.com/item?id=42135358) - [I Regret Ever Open Sourcing Java – Jill Malony Ratkevic](https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr)
@@ -17,9 +19,11 @@
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:53:29](https://news.ycombinator.com/item?id=42133980) - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
+* [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
 * [2024-11-14, 06:48:16](https://news.ycombinator.com/item?id=42133700) - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
 * [2024-11-14, 06:30:57](https://news.ycombinator.com/item?id=42133624) - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
 * [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
+* [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An Oral History of \"We Built This City,\" the Worst Song of All Time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
 * [2024-11-14, 01:16:23](https://news.ycombinator.com/item?id=42132131) - [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
