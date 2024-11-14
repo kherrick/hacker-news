@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 17:24:04",
+      "https://news.ycombinator.com/item?id=42138576"
+    ],
+    [
+      "Perplexity: Why We're Experimenting with Advertising",
+      "https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 17:12:01",
       "https://news.ycombinator.com/item?id=42138384"
     ],
@@ -27,6 +37,16 @@
     [
       "O2 unveils Daisy, the AI granny wasting scammers' time",
       "https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 16:24:20",
+      "https://news.ycombinator.com/item?id=42137783"
+    ],
+    [
+      "The Corpus of United States State Statutes–Design, Construction and Use",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232252"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-14, 05:52:45",
-      "https://news.ycombinator.com/item?id=42133466"
-    ],
-    [
-      "Smaller Than Pixel Art: Sub-Pixel Art [video]",
-      "https://www.youtube.com/watch?v=SlS3FOmKUbE"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 03:04:33",
       "https://news.ycombinator.com/item?id=42132720"
     ],
@@ -287,16 +297,6 @@
     [
       "Python, C++ inspired language that transpiles to C and can be embedded within C",
       "https://github.com/AnilBK/C-Preprocessor-Language"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 00:33:31",
-      "https://news.ycombinator.com/item?id=42082808"
-    ],
-    [
-      "Safe and efficient C++ interoperability via non-escapable types and lifetimes",
-      "https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426"
     ]
   ]
 ]
