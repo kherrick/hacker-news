@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 07:53:29](https://news.ycombinator.com/item?id=42133980) - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
 * [2024-11-14, 06:48:16](https://news.ycombinator.com/item?id=42133700) - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
 * [2024-11-14, 06:30:57](https://news.ycombinator.com/item?id=42133624) - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
 * [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
