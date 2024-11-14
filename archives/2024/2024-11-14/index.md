@@ -12,6 +12,7 @@
 * [2024-11-14, 21:27:25](https://news.ycombinator.com/item?id=42141410) - [Silicon Valley got what it wanted](https://www.bloodinthemachine.com/p/silicon-valley-got-what-it-wanted)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
 * [2024-11-14, 20:12:17](https://news.ycombinator.com/item?id=42140664) - [Valuing Humans in the Age of Superintelligence: HumaneRank](https://roadtoartificia.com/p/valuing-humans-in-the-age-of-superintelligence-humanerank)
+* [2024-11-14, 19:58:39](https://news.ycombinator.com/item?id=42140497) - [S/Sed/Ed](https://aartaka.me/sed-ed)
 * [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
 * [2024-11-14, 19:24:55](https://news.ycombinator.com/item?id=42140102) - [Show HN: 16 year olds building an Integrated Writing Environment using AI](https://factful.io/)
