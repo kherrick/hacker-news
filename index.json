@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 01:16:23",
+      "https://news.ycombinator.com/item?id=42132131"
+    ],
+    [
+      "Windows Kills SMB Speeds When Using Tailscale",
+      "https://danthesalmon.com/windows-smb-tailscale/#"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 01:15:29",
       "https://news.ycombinator.com/item?id=42132125"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2024-11-13, 21:16:51",
-      "https://news.ycombinator.com/item?id=42130079"
-    ],
-    [
-      "Amazon Makes It Harder for Disabled Employees to Work from Home",
-      "https://www.bloomberg.com/news/articles/2024-11-13/amazon-makes-it-harder-for-disabled-employees-to-work-from-home"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 19:48:24",
       "https://news.ycombinator.com/item?id=42129236"
     ],
     [
       "Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode",
       "https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 19:36:50",
-      "https://news.ycombinator.com/item?id=42129144"
-    ],
-    [
-      "Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground",
-      "https://play.ai/playground"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "A Mathematician in a School of Art",
       "https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 18:17:32",
+      "https://news.ycombinator.com/item?id=42118097"
+    ],
+    [
+      "Backdoor attempt on Exolabs GitHub repo through an innocent looking PR",
+      "https://twitter.com/alexocheema/status/1856295635143524378"
     ]
   ],
   [
