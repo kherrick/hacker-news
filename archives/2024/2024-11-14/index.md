@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
+* [2024-11-14, 14:56:29](https://news.ycombinator.com/item?id=42136705) - [Not Satire: The Onion Acquires Infowars](https://www.status.news/p/not-satire-the-onion-acquires-infowars)
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 * [2024-11-14, 14:20:30](https://news.ycombinator.com/item?id=42136327) - [The Onion wins Alex Jones' Infowars in bankruptcy auction](https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936)

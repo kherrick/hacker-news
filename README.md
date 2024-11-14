@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
+* [2024-11-14, 14:56:29](https://news.ycombinator.com/item?id=42136705) - [Not Satire: The Onion Acquires Infowars](https://www.status.news/p/not-satire-the-onion-acquires-infowars)
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 * [2024-11-14, 14:20:30](https://news.ycombinator.com/item?id=42136327) - [The Onion wins Alex Jones' Infowars in bankruptcy auction](https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936)
@@ -8,7 +10,6 @@
 * [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
 * [2024-11-14, 13:32:42](https://news.ycombinator.com/item?id=42136000) - [Keycloak took 10 months to fix a 2FA bypass](https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 09:30:58](https://news.ycombinator.com/item?id=42134475) - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
 * [2024-11-14, 08:56:32](https://news.ycombinator.com/item?id=42134315) - [Interview with gwern](https://www.dwarkeshpatel.com/p/gwern-branwen)
@@ -19,7 +20,6 @@
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An Oral History of \"We Built This City,\" the Worst Song of All Time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
-* [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Francois Chollet is leaving Google](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 01:07:27](https://news.ycombinator.com/item?id=42121853) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
