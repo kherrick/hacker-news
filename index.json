@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 16:01:59",
+      "https://news.ycombinator.com/item?id=42137527"
+    ],
+    [
+      "AI Makes Tech Debt More Expensive",
+      "https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 15:48:45",
       "https://news.ycombinator.com/item?id=42137391"
     ],
@@ -287,16 +297,6 @@
     [
       "Safe and efficient C++ interoperability via non-escapable types and lifetimes",
       "https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 17:21:27",
-      "https://news.ycombinator.com/item?id=42078674"
-    ],
-    [
-      "Five Learnings from 15 Years in Perception",
-      "https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception"
     ]
   ]
 ]
