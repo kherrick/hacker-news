@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 09:30:58](https://news.ycombinator.com/item?id=42134475) - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
 * [2024-11-14, 09:08:10](https://news.ycombinator.com/item?id=42134366) - [Async Await Is the Worst Thing to Happen to Programming](https://andrewzuo.com/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
 * [2024-11-14, 08:56:32](https://news.ycombinator.com/item?id=42134315) - [Gwern Branwen – How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
+* [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:53:29](https://news.ycombinator.com/item?id=42133980) - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 06:48:16](https://news.ycombinator.com/item?id=42133700) - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
