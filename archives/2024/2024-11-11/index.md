@@ -56,6 +56,7 @@
 * [2024-11-11, 11:48:04](https://news.ycombinator.com/item?id=42106477) - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 * [2024-11-11, 11:40:03](https://news.ycombinator.com/item?id=42106427) - [How gophers brought Mount St. Helens back to life in one day](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html)
 * [2024-11-11, 11:35:37](https://news.ycombinator.com/item?id=42106404) - [Decoding Hera](https://destevez.net/2024/11/decoding-hera/)
+* [2024-11-11, 11:27:59](https://news.ycombinator.com/item?id=42106368) - [The Internet Gopher from Minnesota](https://www.abortretry.fail/p/the-internet-gopher-from-minnesota)
 * [2024-11-11, 10:02:10](https://news.ycombinator.com/item?id=42105869) - [Visual Basic 6 rebuilt in C# – complete with form designer and IDE in browser](https://bandysc.github.io/AvaloniaVisualBasic6/)
 * [2024-11-11, 09:59:54](https://news.ycombinator.com/item?id=42105851) - [RTEMS: Open-source real time operating system](https://www.rtems.org/)
 * [2024-11-11, 09:57:35](https://news.ycombinator.com/item?id=42105835) - [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
