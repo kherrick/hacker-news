@@ -24,11 +24,11 @@
 * [2024-11-11, 21:40:40](https://news.ycombinator.com/item?id=42110664) - [Debian Junior Desktop live image](https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/)
 * [2024-11-11, 16:08:46](https://news.ycombinator.com/item?id=42108145) - [New elliptic curve breaks 18-year-old record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 * [2024-11-10, 23:22:13](https://news.ycombinator.com/item?id=42103314) - [NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing](https://science.slashdot.org/story/24/11/10/0120249/nasa-investigates-laser-beam-welding-in-a-vacuum-for-in-space-manufacturing)
-* [2024-11-10, 21:00:02](https://news.ycombinator.com/item?id=42102596) - [Generating high-quality thumbnails from videos](https://developer.apple.com/documentation/vision/generating-thumbnails-from-videos)
 * [2024-11-10, 01:02:48](https://news.ycombinator.com/item?id=42097884) - [The Particle Data Group](https://pdg.lbl.gov/index.html)
 * [2024-11-09, 22:51:27](https://news.ycombinator.com/item?id=42097418) - [Diffusion models are evolutionary algorithms](https://gonzoml.substack.com/p/diffusion-models-are-evolutionary)
 * [2024-11-09, 21:52:48](https://news.ycombinator.com/item?id=42097132) - [How we built the Black Friday Cyber Monday 2023 globe](https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe)
 * [2024-11-09, 13:53:24](https://news.ycombinator.com/item?id=42094425) - [Maritime Signal Flags in HTML/CSS](https://icsincss.tomerlichtash.com)
+* [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
 * [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
 
 ## [Archives](archives/index.md)
