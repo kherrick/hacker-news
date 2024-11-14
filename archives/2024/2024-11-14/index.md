@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 21:27:25](https://news.ycombinator.com/item?id=42141410) - [Silicon Valley got what it wanted](https://www.bloodinthemachine.com/p/silicon-valley-got-what-it-wanted)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
 * [2024-11-14, 20:12:17](https://news.ycombinator.com/item?id=42140664) - [Valuing Humans in the Age of Superintelligence: HumaneRank](https://roadtoartificia.com/p/valuing-humans-in-the-age-of-superintelligence-humanerank)
 * [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
@@ -18,6 +19,7 @@
 * [2024-11-14, 17:17:43](https://news.ycombinator.com/item?id=42138476) - [Guys Hacked AirPods to Give Their Grandmas Hearing Aids](https://www.wired.com/story/apple-airpods-hearing-aid-hack/)
 * [2024-11-14, 17:12:01](https://news.ycombinator.com/item?id=42138384) - [How AI is beating VCs in their own game](https://arxiv.org/abs/2411.08257)
 * [2024-11-14, 17:07:43](https://news.ycombinator.com/item?id=42138319) - [AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks](https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks)
+* [2024-11-14, 17:05:40](https://news.ycombinator.com/item?id=42138289) - [Something weird is happening with LLMs and chess](https://dynomight.substack.com/p/chess)
 * [2024-11-14, 17:04:41](https://news.ycombinator.com/item?id=42138276) - [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
 * [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:52:09](https://news.ycombinator.com/item?id=42138115) - [O2 unveils Daisy, the AI granny wasting scammers' time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/)
