@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-11-14, 19:13:29",
-      "https://news.ycombinator.com/item?id=42139989"
-    ],
-    [
-      "Prompt Injecting Your Way to Shell: OpenAI's Containerized ChatGPT Environment",
-      "https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 19:00:03",
       "https://news.ycombinator.com/item?id=42139843"
     ],
@@ -147,6 +137,16 @@
     [
       "A memory leak in Apple's Network Extension framework",
       "https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 13:47:02",
+      "https://news.ycombinator.com/item?id=42136093"
+    ],
+    [
+      "Quarry: A modern computing environment for your World",
+      "https://lattice.xyz/blog/introducing-quarry"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-11-11, 11:27:59",
+      "https://news.ycombinator.com/item?id=42106368"
+    ],
+    [
+      "The Internet Gopher from Minnesota",
+      "https://www.abortretry.fail/p/the-internet-gopher-from-minnesota"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 03:24:58",
       "https://news.ycombinator.com/item?id=42104378"
     ],
     [
       "Control iPhone with the movement of your eyes",
       "https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 11:23:09",
-      "https://news.ycombinator.com/item?id=42099629"
-    ],
-    [
-      "The Pythonic Emptiness",
-      "https://blog.codingconfessions.com/p/the-pythonic-emptiness"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42087677"
     ],
     [
-      "Bad science as genre fiction: I think there's a lot to be said for this analogy",
+      "Bad science as genre fiction",
       "https://statmodeling.stat.columbia.edu/2024/11/08/bad-science-as-genre-fiction/"
     ]
   ]
