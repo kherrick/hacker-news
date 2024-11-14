@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 14:20:30](https://news.ycombinator.com/item?id=42136327) - [The Onion wins Alex Jones' Infowars in bankruptcy auction](https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936)
+* [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion Buys Alex Jones's Infowars Out of Bankruptcy](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
+* [2024-11-14, 14:03:15](https://news.ycombinator.com/item?id=42136210) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
-* [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
@@ -14,9 +16,7 @@
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An Oral History of \"We Built This City,\" the Worst Song of All Time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
-* [2024-11-14, 01:15:29](https://news.ycombinator.com/item?id=42132125) - [Looking for a Job Is Tough](https://blog.kaplich.me/looking-for-a-job-is-tough/)
 * [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Francois Chollet is leaving Google](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
-* [2024-11-13, 19:31:11](https://news.ycombinator.com/item?id=42129097) - [Netflix's Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 15:38:08](https://news.ycombinator.com/item?id=42126948) - [The First Virtual Meeting Was in 1916](https://spectrum.ieee.org/virtual-meeting)
@@ -27,9 +27,9 @@
 * [2024-11-11, 03:24:58](https://news.ycombinator.com/item?id=42104378) - [Control iPhone with the movement of your eyes Support (SG)](https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios)
 * [2024-11-10, 23:22:13](https://news.ycombinator.com/item?id=42103314) - [NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing](https://science.slashdot.org/story/24/11/10/0120249/nasa-investigates-laser-beam-welding-in-a-vacuum-for-in-space-manufacturing)
 * [2024-11-09, 23:48:02](https://news.ycombinator.com/item?id=42097633) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/)
+* [2024-11-08, 02:39:00](https://news.ycombinator.com/item?id=42083573) - [Python, C++ inspired language that transpiles to C and can be embedded within C](https://github.com/AnilBK/C-Preprocessor-Language)
 * [2024-11-08, 00:33:31](https://news.ycombinator.com/item?id=42082808) - [Safe and efficient C++ interoperability via non-escapable types and lifetimes](https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426)
 * [2024-11-07, 17:21:27](https://news.ycombinator.com/item?id=42078674) - [Five Learnings from 15 Years in Perception](https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception)
-* [2024-11-05, 21:46:17](https://news.ycombinator.com/item?id=42055461) - [The Argonaut Octopus Has Mastered the Free Ride](https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride)
 
 ## [Archives](archives/index.md)
 

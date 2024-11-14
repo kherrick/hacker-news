@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 14:20:30](https://news.ycombinator.com/item?id=42136327) - [The Onion wins Alex Jones' Infowars in bankruptcy auction](https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936)
+* [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion Buys Alex Jones's Infowars Out of Bankruptcy](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
+* [2024-11-14, 14:03:15](https://news.ycombinator.com/item?id=42136210) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
 * [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)

@@ -68,6 +68,7 @@
 * [2024-11-08, 05:09:25](https://news.ycombinator.com/item?id=42084344) - [Intentrace: Strace for Everyone](https://github.com/sectordistrict/intentrace)
 * [2024-11-08, 04:15:59](https://news.ycombinator.com/item?id=42084080) - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2024-11-08, 02:49:47](https://news.ycombinator.com/item?id=42083630) - [Kagi Translate](https://translate.kagi.com/)
+* [2024-11-08, 02:39:00](https://news.ycombinator.com/item?id=42083573) - [Python, C++ inspired language that transpiles to C and can be embedded within C](https://github.com/AnilBK/C-Preprocessor-Language)
 * [2024-11-08, 02:37:02](https://news.ycombinator.com/item?id=42083559) - [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
 * [2024-11-08, 02:35:26](https://news.ycombinator.com/item?id=42083547) - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 * [2024-11-08, 01:47:01](https://news.ycombinator.com/item?id=42083292) - [Guild Builds](https://nytimesguild.org/tech/guild-builds/index.html)
