@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 15:03:21](https://news.ycombinator.com/item?id=42136793) - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
@@ -20,7 +21,6 @@
 * [2024-11-13, 22:28:52](https://news.ycombinator.com/item?id=42130881) - [Francois Chollet is leaving Google](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
-* [2024-11-13, 15:38:08](https://news.ycombinator.com/item?id=42126948) - [The First Virtual Meeting Was in 1916](https://spectrum.ieee.org/virtual-meeting)
 * [2024-11-13, 01:07:27](https://news.ycombinator.com/item?id=42121853) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-11, 20:22:15](https://news.ycombinator.com/item?id=42110159) - [C Gibberish to English](https://cdecl.org/)

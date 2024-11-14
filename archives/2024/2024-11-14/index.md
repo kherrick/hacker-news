@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 15:03:21](https://news.ycombinator.com/item?id=42136793) - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
 * [2024-11-14, 14:56:48](https://news.ycombinator.com/item?id=42136711) - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
 * [2024-11-14, 14:56:29](https://news.ycombinator.com/item?id=42136705) - [Not Satire: The Onion Acquires Infowars](https://www.status.news/p/not-satire-the-onion-acquires-infowars)
 * [2024-11-14, 14:35:34](https://news.ycombinator.com/item?id=42136469) - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
