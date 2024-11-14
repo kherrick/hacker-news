@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-14, 01:15:29",
-      "https://news.ycombinator.com/item?id=42132125"
-    ],
-    [
-      "Looking for a Job Is Tough",
-      "https://blog.kaplich.me/looking-for-a-job-is-tough/"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 00:59:47",
       "https://news.ycombinator.com/item?id=42132014"
     ],
@@ -77,16 +67,6 @@
     [
       "Reflex (YC W23) Is Hiring Software Engineers (San Francisco)",
       "https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 19:48:24",
-      "https://news.ycombinator.com/item?id=42129236"
-    ],
-    [
-      "Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode",
-      "https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-11-10, 23:01:08",
+      "https://news.ycombinator.com/item?id=42103200"
+    ],
+    [
+      "Way too many ways to wait on a child process with a timeout",
+      "https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 21:00:02",
       "https://news.ycombinator.com/item?id=42102596"
     ],
@@ -267,6 +257,16 @@
     [
       "Diffusion models are evolutionary algorithms",
       "https://gonzoml.substack.com/p/diffusion-models-are-evolutionary"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 15:23:31",
+      "https://news.ycombinator.com/item?id=42094889"
+    ],
+    [
+      "The number given as % CPU in Activity Monitor",
+      "https://eclecticlight.co/2024/11/08/why-cpu-in-activity-monitor-isnt-what-you-think/"
     ]
   ],
   [
