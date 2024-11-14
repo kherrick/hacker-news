@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-14, 22:23:09",
-      "https://news.ycombinator.com/item?id=42141843"
-    ],
-    [
-      "Analysis of economic and productivity losses caused by cookie banners in Europe",
-      "https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 22:12:09",
       "https://news.ycombinator.com/item?id=42141761"
     ],
@@ -167,6 +157,16 @@
     [
       "SQLite Index Visualization",
       "https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 08:18:50",
+      "https://news.ycombinator.com/item?id=42134125"
+    ],
+    [
+      "BERTs Are Generative In-Context Learners",
+      "https://arxiv.org/abs/2406.04823"
     ]
   ],
   [
