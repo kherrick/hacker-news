@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Europeans Spend 575M Hours Clicking Cookie Banners Every Year](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-14, 21:47:54](https://news.ycombinator.com/item?id=42141587) - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
@@ -18,9 +17,9 @@
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
-* [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from my first exit](https://mtlynch.io/lessons-from-my-first-exit/)
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
+* [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An oral history of \"We Built This City,\" the worst song of all time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-13, 17:09:27](https://news.ycombinator.com/item?id=42127882) - [Show HN: Windsurf – Agentic IDE](https://codeium.com/windsurf/)
 * [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
@@ -30,6 +29,7 @@
 * [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
 * [2024-11-09, 05:10:16](https://news.ycombinator.com/item?id=42092667) - [The Median Researcher Problem](https://www.lesswrong.com/posts/vZcXAc6txvJDanQ4F/the-median-researcher-problem-1)
 * [2024-11-08, 15:44:20](https://news.ycombinator.com/item?id=42087677) - [Bad science as genre fiction](https://statmodeling.stat.columbia.edu/2024/11/08/bad-science-as-genre-fiction/)
+* [2024-11-07, 05:27:16](https://news.ycombinator.com/item?id=42073677) - [Implementing Signal's Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 
 ## [Archives](archives/index.md)
 
