@@ -75,4 +75,5 @@
 * [2024-11-08, 00:56:49](https://news.ycombinator.com/item?id=42082998) - [FDA Proposes Ending Use of Oral Phenylephrine as OTC Nasal Decongestant](https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after)
 * [2024-11-08, 00:44:32](https://news.ycombinator.com/item?id=42082892) - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
 * [2024-11-08, 00:38:30](https://news.ycombinator.com/item?id=42082841) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
+* [2024-11-08, 00:33:31](https://news.ycombinator.com/item?id=42082808) - [Safe and efficient C++ interoperability via non-escapable types and lifetimes](https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426)
 * [2024-11-08, 00:25:49](https://news.ycombinator.com/item?id=42082746) - [A brief history of the word \"fuck\"](https://lithub.com/a-brief-history-of-the-most-famous-swear-word-in-the-world/)

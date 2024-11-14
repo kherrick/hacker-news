@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 09:08:10](https://news.ycombinator.com/item?id=42134366) - [Async Await Is the Worst Thing to Happen to Programming](https://andrewzuo.com/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
 * [2024-11-14, 08:56:32](https://news.ycombinator.com/item?id=42134315) - [Gwern Branwen – How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
 * [2024-11-14, 07:53:29](https://news.ycombinator.com/item?id=42133980) - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
 * [2024-11-14, 07:32:09](https://news.ycombinator.com/item?id=42133864) - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
