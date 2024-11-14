@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-11-14, 12:20:40",
+      "https://news.ycombinator.com/item?id=42135520"
+    ],
+    [
+      "MomBoard: E-ink display for a parent with amnesia",
+      "https://jan.miksovsky.com/posts/2024/11-12-momboard"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 11:56:58",
+      "https://news.ycombinator.com/item?id=42135358"
+    ],
+    [
+      "I Regret Ever Open Sourcing Java – Jill Malony Ratkevic",
+      "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 11:49:23",
+      "https://news.ycombinator.com/item?id=42135314"
+    ],
+    [
+      "The geometry of data: the missing metric tensor and the Stein score [Part II]",
+      "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 10:47:31",
+      "https://news.ycombinator.com/item?id=42134938"
+    ],
+    [
+      "The closest open-source alternatives to Notion and Miro",
+      "https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 09:30:58",
       "https://news.ycombinator.com/item?id=42134475"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42134315"
     ],
     [
-      "Gwern Branwen – How an Anonymous Researcher Predicted AI's Trajectory",
+      "Interview with gwern",
       "https://www.dwarkeshpatel.com/p/gwern-branwen"
     ]
   ],
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2024-11-14, 06:48:16",
-      "https://news.ycombinator.com/item?id=42133700"
-    ],
-    [
-      "I Followed the Official AWS Amplify Guide and Was Charged $1,100",
-      "https://elliott-king.github.io/2024/10/amplify-overcharge/"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 06:30:57",
       "https://news.ycombinator.com/item?id=42133624"
     ],
@@ -87,16 +117,6 @@
     [
       "Go-Safeweb",
       "https://github.com/google/go-safeweb"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 23:41:59",
-      "https://news.ycombinator.com/item?id=42131473"
-    ],
-    [
-      "Contracts for C++ (DbC) [pdf]",
-      "https://isocpp.org/files/papers/P2900R6.pdf"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-13, 16:39:55",
-      "https://news.ycombinator.com/item?id=42127569"
-    ],
-    [
-      "Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3",
-      "https://www.kongabeat.com/"
-    ]
-  ],
-  [
-    [
       "2024-11-13, 15:38:08",
       "https://news.ycombinator.com/item?id=42126948"
     ],
@@ -197,16 +207,6 @@
     [
       "Watermark Anything",
       "https://github.com/facebookresearch/watermark-anything"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 06:36:43",
-      "https://news.ycombinator.com/item?id=42113315"
-    ],
-    [
-      "The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby",
-      "https://www.nature.com/articles/s41550-024-02389-3"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-11-09, 23:48:02",
+      "https://news.ycombinator.com/item?id=42097633"
+    ],
+    [
+      "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 12:20:41",
       "https://news.ycombinator.com/item?id=42086289"
     ],
@@ -277,16 +287,6 @@
     [
       "Five Learnings from 15 Years in Perception",
       "https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 13:42:43",
-      "https://news.ycombinator.com/item?id=42062152"
-    ],
-    [
-      "A simple to use Java 8 JWT Library",
-      "https://github.com/FusionAuth/fusionauth-jwt"
     ]
   ],
   [
