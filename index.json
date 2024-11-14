@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-11-14, 19:30:16",
+      "https://news.ycombinator.com/item?id=42140164"
+    ],
+    [
+      "Speeding up the Rust edit-build-run cycle",
+      "https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 19:24:55",
       "https://news.ycombinator.com/item?id=42140102"
     ],
     [
-      "Show HN: 16 year olds building an Integrated Writing Environment using AI",
+      "Show HN: 16 year olds building an AI-powered Integrated Writing Environment",
       "https://factful.io/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF",
       "https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 17:24:04",
-      "https://news.ycombinator.com/item?id=42138576"
-    ],
-    [
-      "We're experimenting with advertising",
-      "https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising"
     ]
   ],
   [
