@@ -52,6 +52,7 @@
 * [2024-11-08, 13:13:35](https://news.ycombinator.com/item?id=42086596) - [How to Self-Host All of Bluesky](https://alice.bsky.sh)
 * [2024-11-08, 13:11:47](https://news.ycombinator.com/item?id=42086577) - [Functional Programming in Go](https://bitfieldconsulting.com/posts/functional)
 * [2024-11-08, 13:07:24](https://news.ycombinator.com/item?id=42086555) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.techdirt.com/2024/11/07/judges-investigation-into-patent-troll-results-in-criminal-referrals/)
+* [2024-11-08, 12:20:41](https://news.ycombinator.com/item?id=42086289) - [Choose Boring Technology and LLMs](https://www.maragu.dev/blog/choose-boring-technology-and-llms)
 * [2024-11-08, 10:04:06](https://news.ycombinator.com/item?id=42085699) - [D-Wave achieves calibration of Advantage2 processor](https://www.dwavesys.com/company/newsroom/press-release/d-wave-achieves-significant-milestone-with-calibration-of-4-400-qubit-advantage2-processor/)
 * [2024-11-08, 09:58:24](https://news.ycombinator.com/item?id=42085665) - [LoRA vs. Full Fine-Tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
 * [2024-11-08, 09:17:11](https://news.ycombinator.com/item?id=42085490) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
