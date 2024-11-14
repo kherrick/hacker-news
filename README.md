@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 15:03:21](https://news.ycombinator.com/item?id=42136793) - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
@@ -10,6 +11,7 @@
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
 * [2024-11-14, 13:32:42](https://news.ycombinator.com/item?id=42136000) - [Keycloak took 10 months to fix a 2FA bypass](https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/)
+* [2024-11-14, 12:42:59](https://news.ycombinator.com/item?id=42135658) - [Open-Source Software Is in Crisis](https://spectrum.ieee.org/open-source-crisis)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 09:30:58](https://news.ycombinator.com/item?id=42134475) - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
@@ -19,8 +21,6 @@
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
 * [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
-* [2024-11-14, 02:26:55](https://news.ycombinator.com/item?id=42132533) - [JSON for Classic C++](https://github.com/jart/json.cpp)
-* [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 01:07:27](https://news.ycombinator.com/item?id=42121853) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)

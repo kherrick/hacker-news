@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 15:48:45](https://news.ycombinator.com/item?id=42137391) - [On Building Git for Lawyers](https://jordanbryan.substack.com/p/on-building-git-for-lawyers)
 * [2024-11-14, 15:28:28](https://news.ycombinator.com/item?id=42137120) - [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)
@@ -19,6 +20,7 @@
 * [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
 * [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
 * [2024-11-14, 13:32:42](https://news.ycombinator.com/item?id=42136000) - [Keycloak took 10 months to fix a 2FA bypass](https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/)
+* [2024-11-14, 12:42:59](https://news.ycombinator.com/item?id=42135658) - [Open-Source Software Is in Crisis](https://spectrum.ieee.org/open-source-crisis)
 * [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:56:58](https://news.ycombinator.com/item?id=42135358) - [I Regret Ever Open Sourcing Java – Jill Malony Ratkevic](https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr)
