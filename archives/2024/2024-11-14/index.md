@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 20:12:17](https://news.ycombinator.com/item?id=42140664) - [Valuing Humans in the Age of Superintelligence: HumaneRank](https://roadtoartificia.com/p/valuing-humans-in-the-age-of-superintelligence-humanerank)
 * [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
 * [2024-11-14, 19:24:55](https://news.ycombinator.com/item?id=42140102) - [Show HN: 16 year olds building an Integrated Writing Environment using AI](https://factful.io/)
