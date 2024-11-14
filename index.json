@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-14, 17:26:14",
-      "https://news.ycombinator.com/item?id=42138608"
+      "2024-11-14, 17:59:27",
+      "https://news.ycombinator.com/item?id=42139044"
     ],
     [
-      "The Poor UX/UI of Major Cloud Providers: ECS/VMs Management",
-      "https://news.ycombinator.com/item?id=42138608"
+      "Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF",
+      "https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 17:54:23",
+      "https://news.ycombinator.com/item?id=42138976"
+    ],
+    [
+      "Mark Zuckerberg Wants to Feed You More AI Slop",
+      "https://www.bloomberg.com/opinion/articles/2024-11-04/mark-zuckerberg-wants-to-feed-you-more-ai-slop-on-facebook"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42138576"
     ],
     [
-      "Perplexity: Why We're Experimenting with Advertising",
+      "We're experimenting with advertising",
       "https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising"
     ]
   ],
@@ -57,6 +67,26 @@
     [
       "O2 unveils Daisy, the AI granny wasting scammers' time",
       "https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 16:28:30",
+      "https://news.ycombinator.com/item?id=42137818"
+    ],
+    [
+      "℘",
+      "https://mathoverflow.net/questions/278130/the-letter-wp-name-origin"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 16:24:51",
+      "https://news.ycombinator.com/item?id=42137790"
+    ],
+    [
+      "Origin private file system – MDN",
+      "https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-11-14, 13:47:02",
-      "https://news.ycombinator.com/item?id=42136093"
-    ],
-    [
-      "Quarry: A modern computing environment for your World",
-      "https://lattice.xyz/blog/introducing-quarry"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 13:32:42",
       "https://news.ycombinator.com/item?id=42136000"
     ],
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2024-11-14, 09:30:58",
-      "https://news.ycombinator.com/item?id=42134475"
+      "2024-11-14, 08:56:32",
+      "https://news.ycombinator.com/item?id=42134315"
     ],
     [
-      "DeepL Voice: Real-time voice translations for global collaboration",
-      "https://www.deepl.com/en/products/voice"
+      "Interview with gwern",
+      "https://www.dwarkeshpatel.com/p/gwern-branwen"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-11-14, 06:59:26",
-      "https://news.ycombinator.com/item?id=42133744"
-    ],
-    [
-      "Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]",
-      "https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 03:04:33",
       "https://news.ycombinator.com/item?id=42132720"
     ],
@@ -237,16 +247,6 @@
     [
       "The Impact of Jungle Music in 90s Video Game Development",
       "https://pikuma.com/blog/jungle-music-video-game-drum-bass"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 01:07:27",
-      "https://news.ycombinator.com/item?id=42121853"
-    ],
-    [
-      "Abusing Ubuntu 24.04 features for root privilege escalation",
-      "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-11-10, 11:23:09",
+      "https://news.ycombinator.com/item?id=42099629"
+    ],
+    [
+      "The Pythonic Emptiness",
+      "https://blog.codingconfessions.com/p/the-pythonic-emptiness"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 03:47:48",
       "https://news.ycombinator.com/item?id=42098471"
     ],
     [
       "The brain summons deep sleep for healing from life-threatening injury",
       "https://www.nature.com/articles/d41586-024-03491-2"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 23:59:18",
-      "https://news.ycombinator.com/item?id=42091434"
-    ],
-    [
-      "Assembling a Game Boy Game with Meson",
-      "https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/"
     ]
   ],
   [
