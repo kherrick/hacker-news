@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-14, 21:27:25](https://news.ycombinator.com/item?id=42141410) - [Silicon Valley got what it wanted](https://www.bloodinthemachine.com/p/silicon-valley-got-what-it-wanted)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
 * [2024-11-14, 19:46:19](https://news.ycombinator.com/item?id=42140356) - [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740)
 * [2024-11-14, 19:30:16](https://news.ycombinator.com/item?id=42140164) - [Speeding up the Rust edit-build-run cycle](https://davidlattimore.github.io/posts/2024/02/04/speeding-up-the-rust-edit-build-run-cycle.html)
@@ -15,6 +14,7 @@
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 * [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
+* [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
