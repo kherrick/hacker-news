@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-15, 17:18:45](https://news.ycombinator.com/item?id=42148832) - [JSON Formatter (Free, no ads, no signups)](https://hqjson.com/)
+* [2024-11-15, 17:16:38](https://news.ycombinator.com/item?id=42148817) - [The Early Christian Strategy](https://www.astralcodexten.com/p/the-early-christian-strategy)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
