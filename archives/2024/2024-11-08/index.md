@@ -48,6 +48,7 @@
 * [2024-11-08, 14:52:48](https://news.ycombinator.com/item?id=42087275) - [We Built a Self-Healing System to Survive a Concurrency Bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-08, 14:40:27](https://news.ycombinator.com/item?id=42087182) - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
 * [2024-11-08, 14:37:10](https://news.ycombinator.com/item?id=42087147) - [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
+* [2024-11-08, 14:35:42](https://news.ycombinator.com/item?id=42087137) - [SNES and Playstation Cubic Adpcm Interpolation](https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/)
 * [2024-11-08, 14:30:44](https://news.ycombinator.com/item?id=42087100) - [Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini](https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores)
 * [2024-11-08, 14:29:09](https://news.ycombinator.com/item?id=42087087) - [Elwood Edwards, Voice of AOL's 'You've Got Mail ' Alert, Dies at 74](https://www.nytimes.com/2024/11/07/technology/elwood-edwards-aol-dead.html)
 * [2024-11-08, 14:13:17](https://news.ycombinator.com/item?id=42086987) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
