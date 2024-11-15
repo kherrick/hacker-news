@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
-* [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
+* [2024-11-15, 22:18:45](https://news.ycombinator.com/item?id=42151865) - [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
+* [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet? (2017)](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
 * [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
 * [2024-11-15, 20:06:12](https://news.ycombinator.com/item?id=42150376) - [Installed an open source garage door opener, and I'm loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
@@ -17,7 +19,6 @@
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
-* [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian fishermen hunting for halibut caught a US nuclear sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
@@ -27,7 +28,6 @@
 * [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 17:09:37](https://news.ycombinator.com/item?id=42108663) - [Incorporation of photosynthetically active algal chloroplasts in mammalian cells](https://www.jstage.jst.go.jp/article/pjab/100/9/100_pjab.100.035/_article)
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
-* [2024-11-10, 10:13:41](https://news.ycombinator.com/item?id=42099413) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 

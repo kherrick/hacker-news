@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
+* [2024-11-15, 22:18:45](https://news.ycombinator.com/item?id=42151865) - [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
 * [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
 * [2024-11-15, 21:26:12](https://news.ycombinator.com/item?id=42151289) - [Israel 'destroyed nuclear facilities' during Iran strikes: report](https://www.newarab.com/news/israel-destroyed-nuclear-facilities-iran-strikes-report)
 * [2024-11-15, 21:01:52](https://news.ycombinator.com/item?id=42150991) - [Nearly 80k pounds of butter recalled because of missing label \"contains milk\"](https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/)
