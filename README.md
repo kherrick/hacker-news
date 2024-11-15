@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 03:34:21](https://news.ycombinator.com/item?id=42143755) - [Mayor Adams' office directs NYC agencies to launch Bluesky accounts amid growth](https://www.nydailynews.com/2024/11/14/mayor-adams-office-directs-nyc-agencies-to-launch-bluesky-accounts-amid-growth-on-new-platform/)
+* [2024-11-15, 03:32:03](https://news.ycombinator.com/item?id=42143741) - [You can now use your itch.io subdomain as your Bluesky handle](https://bsky.app/profile/itch.io/post/3lauggobxes2m)
+* [2024-11-15, 02:45:29](https://news.ycombinator.com/item?id=42143528) - [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
 * [2024-11-15, 02:21:50](https://news.ycombinator.com/item?id=42143404) - [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-15, 01:55:11](https://news.ycombinator.com/item?id=42143265) - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
@@ -22,13 +25,10 @@
 * [2024-11-13, 17:09:27](https://news.ycombinator.com/item?id=42127882) - [Show HN: Windsurf – Agentic IDE](https://codeium.com/windsurf/)
 * [2024-11-13, 13:28:51](https://news.ycombinator.com/item?id=42125888) - [OpenAI, Google and Anthropic are struggling to build more advanced AI](https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai)
 * [2024-11-12, 13:18:09](https://news.ycombinator.com/item?id=42115243) - [The OpenFlexure 3D printable microscope](https://openflexure.org/)
-* [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
-* [2024-11-11, 14:02:06](https://news.ycombinator.com/item?id=42107146) - [Bootstrapping Alpine Linux without root](https://blog.brixit.nl/bootstrapping-alpine-linux-without-root/)
 * [2024-11-11, 11:27:59](https://news.ycombinator.com/item?id=42106368) - [The Internet Gopher from Minnesota](https://www.abortretry.fail/p/the-internet-gopher-from-minnesota)
 * [2024-11-11, 05:08:41](https://news.ycombinator.com/item?id=42104714) - [Assembly Optimization Tips by Mark Larson](https://masm32.com/masmcode/marklarson/index.htm)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
-* [2024-11-07, 05:27:16](https://news.ycombinator.com/item?id=42073677) - [Implementing Signal's Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 
 ## [Archives](archives/index.md)
