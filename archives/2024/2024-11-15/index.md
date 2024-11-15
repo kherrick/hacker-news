@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 23:04:07](https://news.ycombinator.com/item?id=42152288) - [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
 * [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
 * [2024-11-15, 22:18:45](https://news.ycombinator.com/item?id=42151865) - [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)
