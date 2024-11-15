@@ -71,6 +71,7 @@
 * [2024-11-12, 09:25:38](https://news.ycombinator.com/item?id=42114035) - [Squeezed through the eighth dimensional portal (2008)](https://wizardgynoid.wordpress.com/2008/11/02/squeezed-through-the-eighth-dimensional-portal/)
 * [2024-11-12, 09:00:26](https://news.ycombinator.com/item?id=42113886) - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
+* [2024-11-12, 07:42:34](https://news.ycombinator.com/item?id=42113557) - [FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]](https://tangchq74.github.io/FBDetect-SOSP24.pdf)
 * [2024-11-12, 07:21:36](https://news.ycombinator.com/item?id=42113479) - [Cheaper to rent in Barcelona and commute to London](https://bestburgerinnorthwestlondon.wordpress.com/2013/10/24/cheaper-to-rent-in-barcelona-and-commute-to-london/)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 06:56:39](https://news.ycombinator.com/item?id=42113398) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
