@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 23:13:00](https://news.ycombinator.com/item?id=42152362) - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
 * [2024-11-15, 23:04:07](https://news.ycombinator.com/item?id=42152288) - [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
 * [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
@@ -26,7 +27,6 @@
 * [2024-11-15, 09:58:11](https://news.ycombinator.com/item?id=42145419) - [Show HN: OnAir – create link, receive calls](https://onair.io/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
-* [2024-11-11, 17:09:37](https://news.ycombinator.com/item?id=42108663) - [Incorporation of photosynthetically active algal chloroplasts in mammalian cells](https://www.jstage.jst.go.jp/article/pjab/100/9/100_pjab.100.035/_article)
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
