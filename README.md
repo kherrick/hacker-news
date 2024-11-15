@@ -17,7 +17,6 @@
 * [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
-* [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
@@ -28,6 +27,7 @@
 * [2024-11-11, 05:08:41](https://news.ycombinator.com/item?id=42104714) - [Assembly Optimization Tips by Mark Larson](https://masm32.com/masmcode/marklarson/index.htm)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
+* [2024-11-08, 19:01:06](https://news.ycombinator.com/item?id=42089532) - [This elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-07, 10:02:33](https://news.ycombinator.com/item?id=42075278) - [Windows Memory Mapped File IO](https://www.jeremyong.com/winapi/io/2024/11/03/windows-memory-mapped-file-io/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 

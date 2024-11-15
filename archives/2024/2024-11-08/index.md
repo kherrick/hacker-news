@@ -22,6 +22,7 @@
 * [2024-11-08, 19:45:10](https://news.ycombinator.com/item?id=42089888) - [Differential Dataflow for the Masses](https://github.com/brurucy/pydbsp)
 * [2024-11-08, 19:44:37](https://news.ycombinator.com/item?id=42089883) - [I wonder how much Cook dithered over that cheerful-looking exclamation mark](https://daringfireball.net/2024/11/i_wonder)
 * [2024-11-08, 19:28:23](https://news.ycombinator.com/item?id=42089740) - [Algol-68 seemed like a good idea – until it wasn't](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
+* [2024-11-08, 19:01:06](https://news.ycombinator.com/item?id=42089532) - [This elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-08, 18:46:19](https://news.ycombinator.com/item?id=42089407) - [Why langurs drink salt water](https://nachrichten.idw-online.de/2024/10/28/why-langurs-drink-salt-water)
 * [2024-11-08, 18:23:00](https://news.ycombinator.com/item?id=42089196) - [Why 4D geometry makes me sad [video]](https://www.youtube.com/watch?v=piJkuavhV50)
 * [2024-11-08, 18:04:20](https://news.ycombinator.com/item?id=42088996) - [How to find exploits in video games](https://shalzuth.com/Blog/FindingExploitsInGames)
