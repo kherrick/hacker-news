@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-15, 03:34:21](https://news.ycombinator.com/item?id=42143755) - [Mayor Adams' office directs NYC agencies to launch Bluesky accounts amid growth](https://www.nydailynews.com/2024/11/14/mayor-adams-office-directs-nyc-agencies-to-launch-bluesky-accounts-amid-growth-on-new-platform/)
-* [2024-11-15, 02:45:29](https://news.ycombinator.com/item?id=42143528) - [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
 * [2024-11-15, 02:21:50](https://news.ycombinator.com/item?id=42143404) - [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-15, 01:55:11](https://news.ycombinator.com/item?id=42143265) - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
@@ -17,6 +16,7 @@
 * [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
 * [2024-11-14, 16:01:59](https://news.ycombinator.com/item?id=42137527) - [AI makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 * [2024-11-14, 14:25:39](https://news.ycombinator.com/item?id=42136375) - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
+* [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
