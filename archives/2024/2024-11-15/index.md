@@ -8,5 +8,6 @@
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-15, 01:55:11](https://news.ycombinator.com/item?id=42143265) - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 * [2024-11-15, 00:55:43](https://news.ycombinator.com/item?id=42142966) - [When the U.S. Forest Service's budget shrinks, who pumps campground toilets?](https://www.marketplace.org/2024/11/11/national-forest-service-budget-cuts/)
+* [2024-11-15, 00:42:37](https://news.ycombinator.com/item?id=42142900) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-15, 00:36:30](https://news.ycombinator.com/item?id=42142864) - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 * [2024-11-15, 00:26:53](https://news.ycombinator.com/item?id=42142790) - [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
