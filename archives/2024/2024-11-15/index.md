@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
+* [2024-11-15, 16:10:07](https://news.ycombinator.com/item?id=42148171) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2024-11-15, 15:32:24](https://news.ycombinator.com/item?id=42147790) - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 14:38:56](https://news.ycombinator.com/item?id=42147310) - [Three-Quarters of U.S. Adults Are Now Overweight or Obese](https://www.nytimes.com/2024/11/14/well/obesity-epidemic-america.html)

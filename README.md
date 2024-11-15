@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
+* [2024-11-15, 16:10:07](https://news.ycombinator.com/item?id=42148171) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
@@ -16,7 +18,6 @@
 * [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
@@ -27,7 +28,6 @@
 * [2024-11-10, 10:13:41](https://news.ycombinator.com/item?id=42099413) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
 * [2024-11-10, 07:48:41](https://news.ycombinator.com/item?id=42098989) - [Virality in cartography: What makes a map go viral?](https://geoawesome.com/viral-cartography-what-makes-map-go-viral/)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
-* [2024-11-08, 19:10:43](https://news.ycombinator.com/item?id=42089611) - [Extreme, Extreme! The literature of laughing gas. (2014)](https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/)
 * [2024-11-07, 05:27:16](https://news.ycombinator.com/item?id=42073677) - [Implementing Signal's Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 
