@@ -33,6 +33,7 @@
 * [2024-11-08, 17:13:37](https://news.ycombinator.com/item?id=42088504) - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
 * [2024-11-08, 17:00:41](https://news.ycombinator.com/item?id=42088382) - [Aviator (YC S21) Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
 * [2024-11-08, 16:45:39](https://news.ycombinator.com/item?id=42088250) - [Colors of the Court – NBA Uniforms](https://pudding.cool/2024/10/nba-uniforms/)
+* [2024-11-08, 16:40:13](https://news.ycombinator.com/item?id=42088198) - [First generation and control of skyrmions at room temperature in a 2D material](https://www.nanowerk.com/nanotechnology-news3/newsid=66015.php)
 * [2024-11-08, 16:21:41](https://news.ycombinator.com/item?id=42088024) - [How Much Porn Are We Watching? A Lot](https://thewalrus.ca/when-porn-becomes-communal/)
 * [2024-11-08, 16:12:56](https://news.ycombinator.com/item?id=42087932) - [First image of our Milky Way's black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
 * [2024-11-08, 15:59:12](https://news.ycombinator.com/item?id=42087811) - [It feels like 2004 again](https://www.anildash.com//2024/10/15/its-2004-again/)

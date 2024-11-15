@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 17:37:57](https://news.ycombinator.com/item?id=42149027) - [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)
 * [2024-11-15, 17:18:45](https://news.ycombinator.com/item?id=42148832) - [JSON Formatter (Free, no ads, no signups)](https://hqjson.com/)
 * [2024-11-15, 17:16:38](https://news.ycombinator.com/item?id=42148817) - [The Early Christian Strategy](https://www.astralcodexten.com/p/the-early-christian-strategy)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:28:08](https://news.ycombinator.com/item?id=42148383) - [100-MW solar farm just broke ground in Wisconsin](https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/)
+* [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
 * [2024-11-15, 16:10:07](https://news.ycombinator.com/item?id=42148171) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
