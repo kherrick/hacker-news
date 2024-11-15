@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
-* [2024-11-15, 18:55:58](https://news.ycombinator.com/item?id=42149745) - [Bluesky says it won't train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
 * [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
@@ -27,6 +26,7 @@
 * [2024-11-11, 17:09:37](https://news.ycombinator.com/item?id=42108663) - [Incorporation of photosynthetically active algal chloroplasts in mammalian cells](https://www.jstage.jst.go.jp/article/pjab/100/9/100_pjab.100.035/_article)
 * [2024-11-10, 10:13:41](https://news.ycombinator.com/item?id=42099413) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
 * [2024-11-10, 07:48:41](https://news.ycombinator.com/item?id=42098989) - [Virality in cartography: What makes a map go viral?](https://geoawesome.com/viral-cartography-what-makes-map-go-viral/)
+* [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-08, 16:40:13](https://news.ycombinator.com/item?id=42088198) - [First generation and control of skyrmions at room temperature in a 2D material](https://www.nanowerk.com/nanotechnology-news3/newsid=66015.php)
 * [2024-11-08, 14:35:42](https://news.ycombinator.com/item?id=42087137) - [SNES and Playstation Cubic Adpcm Interpolation](https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
