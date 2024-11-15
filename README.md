@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-15, 13:06:44](https://news.ycombinator.com/item?id=42146544) - [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 12:11:58](https://news.ycombinator.com/item?id=42146188) - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
@@ -20,7 +21,6 @@
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
-* [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
 * [2024-11-12, 13:18:09](https://news.ycombinator.com/item?id=42115243) - [The OpenFlexure 3D printable microscope](https://openflexure.org/)
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-11, 21:56:40](https://news.ycombinator.com/item?id=42110781) - [A New Kind of Mitochondria](https://www.nature.com/articles/s41586-024-08146-w.epdf?sharing_token=4QYg6VHeQaDTI9Wwks8PYNRgN0jAjWel9jnR3ZoTv0PJ6bGFcBs6wE6X3JprtTRqTeKtpBkwHnIL8H5aG27XoOR6MuZFsyFrkMbp2_PGc88iLVhweBMFOEAyWrn-BD9wKc2pnMTQxGWPpD1Gtx9A-cII9rLjKoM-2yEpQatkk7g%3D)
