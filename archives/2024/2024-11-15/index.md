@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
+* [2024-11-15, 21:26:12](https://news.ycombinator.com/item?id=42151289) - [Israel 'destroyed nuclear facilities' during Iran strikes: report](https://www.newarab.com/news/israel-destroyed-nuclear-facilities-iran-strikes-report)
+* [2024-11-15, 21:01:52](https://news.ycombinator.com/item?id=42150991) - [Nearly 80k pounds of butter recalled because of missing label \"contains milk\"](https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/)
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
 * [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
 * [2024-11-15, 20:20:44](https://news.ycombinator.com/item?id=42150504) - [National Security Just Called, They Can't See the Email Traffic](https://chronicles.mad-scientist.club/tales/27-years-of-linux/)
