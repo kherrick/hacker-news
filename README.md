@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 10:36:47](https://news.ycombinator.com/item?id=42145612) - [Tesla pushes update for highway driving, but only for newer vehicles](https://electrek.co/2024/11/14/tesla-pushes-end-to-end-neural-networks-for-highway-driving-but-only-for-newer-vehicles/)
 * [2024-11-15, 08:49:37](https://news.ycombinator.com/item?id=42145047) - [Europe's flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
 * [2024-11-15, 02:21:50](https://news.ycombinator.com/item?id=42143404) - [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
@@ -16,7 +17,6 @@
 * [2024-11-14, 14:10:05](https://news.ycombinator.com/item?id=42136259) - [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 08:18:50](https://news.ycombinator.com/item?id=42134125) - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)

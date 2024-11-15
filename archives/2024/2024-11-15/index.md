@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
 * [2024-11-15, 10:42:27](https://news.ycombinator.com/item?id=42145643) - [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
+* [2024-11-15, 10:36:47](https://news.ycombinator.com/item?id=42145612) - [Tesla pushes update for highway driving, but only for newer vehicles](https://electrek.co/2024/11/14/tesla-pushes-end-to-end-neural-networks-for-highway-driving-but-only-for-newer-vehicles/)
 * [2024-11-15, 10:20:10](https://news.ycombinator.com/item?id=42145531) - [The Hidden Tax Trap for SaaS Founders in Germany](https://www.vincentschmalbach.com/the-hidden-tax-trap-for-saas-founders-in-germany/)
 * [2024-11-15, 08:49:37](https://news.ycombinator.com/item?id=42145047) - [Europe's flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
 * [2024-11-15, 08:15:46](https://news.ycombinator.com/item?id=42144873) - [Terence Tao: Solving problems by abstracting away highly relevant information](https://mathstodon.xyz/@tao/113482950431855749)
