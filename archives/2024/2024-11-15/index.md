@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
+* [2024-11-15, 18:55:58](https://news.ycombinator.com/item?id=42149745) - [Bluesky says it won't train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
 * [2024-11-15, 17:37:57](https://news.ycombinator.com/item?id=42149027) - [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)
@@ -16,6 +18,7 @@
 * [2024-11-15, 16:10:07](https://news.ycombinator.com/item?id=42148171) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
+* [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
 * [2024-11-15, 15:32:24](https://news.ycombinator.com/item?id=42147790) - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 14:53:15](https://news.ycombinator.com/item?id=42147430) - [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
