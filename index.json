@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-11-15, 00:42:37",
-      "https://news.ycombinator.com/item?id=42142900"
-    ],
-    [
-      "Attestations: A new generation of signatures on PyPI",
-      "https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 00:36:30",
       "https://news.ycombinator.com/item?id=42142864"
     ],
@@ -287,6 +277,16 @@
     [
       "My simple knowledge management and time tracking system",
       "https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 05:27:16",
+      "https://news.ycombinator.com/item?id=42073677"
+    ],
+    [
+      "Implementing Signal's Double Ratchet algorithm (2020)",
+      "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
     ]
   ],
   [
