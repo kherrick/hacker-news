@@ -39,6 +39,7 @@
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
 * [2024-11-12, 16:17:00](https://news.ycombinator.com/item?id=42116811) - [Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers](https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7)
+* [2024-11-12, 16:15:49](https://news.ycombinator.com/item?id=42116800) - [New Microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/)
 * [2024-11-12, 16:02:20](https://news.ycombinator.com/item?id=42116639) - [The Future of Programming: Copilots vs. Agents (Part I)](https://eastwind.substack.com/p/the-future-of-programming-copilots)
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
