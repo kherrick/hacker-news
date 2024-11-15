@@ -2,8 +2,8 @@
 
 * [2024-11-15, 20:20:44](https://news.ycombinator.com/item?id=42150504) - [National Security Just Called, They Can't See the Email Traffic](https://chronicles.mad-scientist.club/tales/27-years-of-linux/)
 * [2024-11-15, 20:19:53](https://news.ycombinator.com/item?id=42150497) - [US fertility rate dropped to lowest in a century as births dipped in 2023](https://www.cnn.com/2024/04/24/health/us-birth-rate-decline-2023-cdc/index.html)
+* [2024-11-15, 20:15:08](https://news.ycombinator.com/item?id=42150443) - [Tesla Has the Highest Fatal Accident Rate of All Auto Brands, Study Finds](https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/)
 * [2024-11-15, 20:06:12](https://news.ycombinator.com/item?id=42150376) - [Installed an open source garage door opener, and I'm loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
-* [2024-11-15, 19:56:21](https://news.ycombinator.com/item?id=42150278) - [Maybe Bluesky Has \"Won\"](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 19:47:18](https://news.ycombinator.com/item?id=42150206) - [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
 * [2024-11-15, 19:17:46](https://news.ycombinator.com/item?id=42149938) - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
 * [2024-11-15, 19:00:31](https://news.ycombinator.com/item?id=42149785) - [Cyph – A cryptographically secure messaging and social networking service](https://www.cyph.com/)
