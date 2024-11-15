@@ -33,6 +33,7 @@
 * [2024-11-06, 17:14:25](https://news.ycombinator.com/item?id=42065538) - [Learning Not to Trust the All-In Podcast in Ten Minutes](https://passingtime.substack.com/p/learning-not-to-trust-the-all-in)
 * [2024-11-06, 16:59:19](https://news.ycombinator.com/item?id=42065269) - [The Reasons Authoritarianism Is Growing – and How to Reverse It](https://www.scottsantens.com/the-hidden-reasons-authoritarianism-is-growing-and-how-to-reverse-it-ubi/)
 * [2024-11-06, 15:23:42](https://news.ycombinator.com/item?id=42063709) - [Show HN: Hacker News frontpage as a print newspaper that you can personalize](https://yourhackernews.com/)
+* [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 * [2024-11-06, 15:01:00](https://news.ycombinator.com/item?id=42063346) - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
 * [2024-11-06, 14:53:31](https://news.ycombinator.com/item?id=42063210) - [Show HN: Term-Lisp – A Lisp, based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-11-06, 14:38:02](https://news.ycombinator.com/item?id=42062934) - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
