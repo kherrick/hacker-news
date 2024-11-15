@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-15, 15:32:24](https://news.ycombinator.com/item?id=42147790) - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
@@ -25,6 +24,7 @@
 * [2024-11-12, 11:31:59](https://news.ycombinator.com/item?id=42114688) - [The Leningrad botanists who saved the first seed bank](https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov)
 * [2024-11-12, 07:42:34](https://news.ycombinator.com/item?id=42113557) - [FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]](https://tangchq74.github.io/FBDetect-SOSP24.pdf)
 * [2024-11-11, 11:27:59](https://news.ycombinator.com/item?id=42106368) - [The Internet Gopher from Minnesota](https://www.abortretry.fail/p/the-internet-gopher-from-minnesota)
+* [2024-11-10, 10:13:41](https://news.ycombinator.com/item?id=42099413) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
 * [2024-11-10, 07:48:41](https://news.ycombinator.com/item?id=42098989) - [Virality in cartography: What makes a map go viral?](https://geoawesome.com/viral-cartography-what-makes-map-go-viral/)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-08, 19:10:43](https://news.ycombinator.com/item?id=42089611) - [Extreme, Extreme! The literature of laughing gas. (2014)](https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/)
