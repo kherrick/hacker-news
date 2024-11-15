@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 10:42:27](https://news.ycombinator.com/item?id=42145643) - [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
+* [2024-11-15, 08:15:46](https://news.ycombinator.com/item?id=42144873) - [Terence Tao: Solving problems by abstracting away highly relevant information](https://mathstodon.xyz/@tao/113482950431855749)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-15, 01:55:11](https://news.ycombinator.com/item?id=42143265) - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 * [2024-11-15, 00:36:30](https://news.ycombinator.com/item?id=42142864) - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 * [2024-11-15, 00:26:53](https://news.ycombinator.com/item?id=42142790) - [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
-* [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-14, 21:47:54](https://news.ycombinator.com/item?id=42141587) - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
@@ -28,7 +29,6 @@
 * [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
 * [2024-11-08, 19:10:43](https://news.ycombinator.com/item?id=42089611) - [Extreme, Extreme! The literature of laughing gas. (2014)](https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/)
 * [2024-11-07, 10:02:33](https://news.ycombinator.com/item?id=42075278) - [Windows Memory Mapped File IO](https://www.jeremyong.com/winapi/io/2024/11/03/windows-memory-mapped-file-io/)
-* [2024-11-07, 05:27:16](https://news.ycombinator.com/item?id=42073677) - [Implementing Signal's Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 
 ## [Archives](archives/index.md)
