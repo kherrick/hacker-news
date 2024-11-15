@@ -71,6 +71,7 @@
 * [2024-11-11, 07:17:03](https://news.ycombinator.com/item?id=42105098) - [Elephant learned to use a hose as a shower. Then her rival sought revenge](https://www.science.org/content/article/elephant-learned-use-hose-shower-then-her-rival-sought-revenge)
 * [2024-11-11, 06:39:26](https://news.ycombinator.com/item?id=42104964) - [OpenAI's new \"Orion\" model reportedly shows small gains over GPT-4](https://the-decoder.com/openais-new-orion-model-reportedly-shows-small-gains-over-gpt-4/)
 * [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
+* [2024-11-11, 05:08:41](https://news.ycombinator.com/item?id=42104714) - [Assembly Optimization Tips by Mark Larson](https://masm32.com/masmcode/marklarson/index.htm)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
 * [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 * [2024-11-11, 03:24:58](https://news.ycombinator.com/item?id=42104378) - [Control iPhone with the movement of your eyes Support (SG)](https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios)
