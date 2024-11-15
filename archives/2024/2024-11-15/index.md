@@ -9,6 +9,7 @@
 * [2024-11-15, 17:37:57](https://news.ycombinator.com/item?id=42149027) - [Bill Atkinson Has Pancreatic Cancer](https://daringfireball.net/linked/2024/11/13/atkinson-prayers)
 * [2024-11-15, 17:18:45](https://news.ycombinator.com/item?id=42148832) - [JSON Formatter (Free, no ads, no signups)](https://hqjson.com/)
 * [2024-11-15, 17:16:38](https://news.ycombinator.com/item?id=42148817) - [The Early Christian Strategy](https://www.astralcodexten.com/p/the-early-christian-strategy)
+* [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:28:08](https://news.ycombinator.com/item?id=42148383) - [100-MW solar farm just broke ground in Wisconsin](https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/)
 * [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
