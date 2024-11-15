@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-11-15, 06:11:55",
-      "https://news.ycombinator.com/item?id=42144340"
-    ],
-    [
-      "1M people have joined Bluesky in the last day",
-      "https://bsky.app/profile/bsky.app/post/3lax5zxh7bc2p"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 01:55:29",
       "https://news.ycombinator.com/item?id=42143269"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-11-14, 11:49:23",
+      "https://news.ycombinator.com/item?id=42135314"
+    ],
+    [
+      "The geometry of data: the missing metric tensor and the Stein score [Part II]",
+      "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 10:51:24",
       "https://news.ycombinator.com/item?id=42134964"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2024-11-12, 07:42:34",
+      "https://news.ycombinator.com/item?id=42113557"
+    ],
+    [
+      "FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]",
+      "https://tangchq74.github.io/FBDetect-SOSP24.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 11:27:59",
       "https://news.ycombinator.com/item?id=42106368"
     ],
     [
       "The Internet Gopher from Minnesota",
       "https://www.abortretry.fail/p/the-internet-gopher-from-minnesota"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 12:52:19",
-      "https://news.ycombinator.com/item?id=42099928"
-    ],
-    [
-      "A mental model for Linux file, hard and soft links",
-      "https://bhoot.dev/2024/on-linux-file-and-links/"
     ]
   ],
   [
