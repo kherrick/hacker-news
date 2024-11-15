@@ -28,7 +28,7 @@
 * [2024-11-11, 05:08:41](https://news.ycombinator.com/item?id=42104714) - [Assembly Optimization Tips by Mark Larson](https://masm32.com/masmcode/marklarson/index.htm)
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-09, 16:31:04](https://news.ycombinator.com/item?id=42095263) - [My simple knowledge management and time tracking system](https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/)
-* [2024-11-07, 05:27:16](https://news.ycombinator.com/item?id=42073677) - [Implementing Signal's Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
+* [2024-11-07, 10:02:33](https://news.ycombinator.com/item?id=42075278) - [Windows Memory Mapped File IO](https://www.jeremyong.com/winapi/io/2024/11/03/windows-memory-mapped-file-io/)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 
 ## [Archives](archives/index.md)
