@@ -45,6 +45,7 @@
 * [2024-11-11, 14:10:25](https://news.ycombinator.com/item?id=42107212) - [A hot day, a fan provides little benefit when the temperature exceeds 35°C](https://www.science.org/content/article/when-is-it-too-hot-use-fan)
 * [2024-11-11, 14:08:34](https://news.ycombinator.com/item?id=42107196) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 14:03:59](https://news.ycombinator.com/item?id=42107157) - [AI protein-prediction tool AlphaFold3 is now open source](https://www.nature.com/articles/d41586-024-03708-4)
+* [2024-11-11, 14:02:06](https://news.ycombinator.com/item?id=42107146) - [Bootstrapping Alpine Linux without root](https://blog.brixit.nl/bootstrapping-alpine-linux-without-root/)
 * [2024-11-11, 13:56:32](https://news.ycombinator.com/item?id=42107120) - [Memecoins Are the Point](http://jpkoning.blogspot.com/2024/10/memecoins-are-point.html)
 * [2024-11-11, 13:19:26](https://news.ycombinator.com/item?id=42106906) - [AlphaFold 3 Code](https://github.com/google-deepmind/alphafold3)
 * [2024-11-11, 12:44:05](https://news.ycombinator.com/item?id=42106724) - [\"The Hatpin Peril\" Terrorized Men Who Couldn't Handle the 20th-Century Woman](https://www.smithsonianmag.com/history/hatpin-peril-terrorized-men-who-couldnt-handle-20th-century-woman-180951219/)
