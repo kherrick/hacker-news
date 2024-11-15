@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 17:18:45](https://news.ycombinator.com/item?id=42148832) - [JSON Formatter (Free, no ads, no signups)](https://hqjson.com/)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the Secret History of 19th-Century Wearable Tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
@@ -14,7 +15,6 @@
 * [2024-11-15, 09:42:02](https://news.ycombinator.com/item?id=42145329) - [Manual for Larry Tesler's PUB markup language.](https://www.nomodes.com/history/pub-manual)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
-* [2024-11-14, 21:47:54](https://news.ycombinator.com/item?id=42141587) - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 * [2024-11-14, 20:31:07](https://news.ycombinator.com/item?id=42140863) - [Old Vintage Computing Research: Dusting Off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
 * [2024-11-14, 17:05:40](https://news.ycombinator.com/item?id=42138289) - [Something weird is happening with LLMs and chess](https://dynomight.substack.com/p/chess)
 * [2024-11-14, 16:28:30](https://news.ycombinator.com/item?id=42137818) - [The letter ℘: name and origin? (2017)](https://mathoverflow.net/questions/278130/the-letter-wp-name-origin)
