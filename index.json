@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-15, 20:20:44",
+      "https://news.ycombinator.com/item?id=42150504"
+    ],
+    [
+      "National Security Just Called, They Can't See the Email Traffic",
+      "https://chronicles.mad-scientist.club/tales/27-years-of-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 20:19:53",
+      "https://news.ycombinator.com/item?id=42150497"
+    ],
+    [
+      "US fertility rate dropped to lowest in a century as births dipped in 2023",
+      "https://www.cnn.com/2024/04/24/health/us-birth-rate-decline-2023-cdc/index.html"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 20:06:12",
       "https://news.ycombinator.com/item?id=42150376"
     ],
@@ -17,6 +37,16 @@
     [
       "Maybe Bluesky Has \"Won\"",
       "https://anderegg.ca/2024/11/15/maybe-bluesky-has-won"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 19:47:18",
+      "https://news.ycombinator.com/item?id=42150206"
+    ],
+    [
+      "C++ Template Macroprogramming versus Lisp Macros",
+      "https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/"
     ]
   ],
   [
@@ -41,12 +71,22 @@
   ],
   [
     [
-      "2024-11-15, 18:57:50",
-      "https://news.ycombinator.com/item?id=42149762"
+      "2024-11-15, 18:49:32",
+      "https://news.ycombinator.com/item?id=42149694"
     ],
     [
-      "Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland",
-      "https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html"
+      "The Practical Guide to Scaling Django",
+      "https://slimsaas.com/blog/django-scaling-performance/"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 18:34:36",
+      "https://news.ycombinator.com/item?id=42149580"
+    ],
+    [
+      "Show HN: Libretto – Simple recording and editing, an alternative to Descript",
+      "https://libretto.fm"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-11-15, 15:32:24",
-      "https://news.ycombinator.com/item?id=42147790"
-    ],
-    [
-      "Please stop the coding challenges",
-      "https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 15:21:02",
       "https://news.ycombinator.com/item?id=42147675"
     ],
@@ -167,16 +197,6 @@
     [
       "Modern Treasury (YC S18) Is Hiring a Product Designer",
       "https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 11:26:18",
-      "https://news.ycombinator.com/item?id=42145935"
-    ],
-    [
-      "The cochlear implant question",
-      "https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2024-11-12, 15:10:25",
+      "https://news.ycombinator.com/item?id=42116038"
+    ],
+    [
+      "Emit-C: A time travelling programming language",
+      "https://github.com/nimrag-b/emiT-C"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 07:42:34",
       "https://news.ycombinator.com/item?id=42113557"
     ],
@@ -257,36 +287,6 @@
     [
       "Speculations on arenas and custom strings in C++",
       "https://nullprogram.com/blog/2024/04/14/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 07:48:41",
-      "https://news.ycombinator.com/item?id=42098989"
-    ],
-    [
-      "Virality in cartography: What makes a map go viral?",
-      "https://geoawesome.com/viral-cartography-what-makes-map-go-viral/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 16:40:13",
-      "https://news.ycombinator.com/item?id=42088198"
-    ],
-    [
-      "First generation and control of skyrmions at room temperature in a 2D material",
-      "https://www.nanowerk.com/nanotechnology-news3/newsid=66015.php"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 14:35:42",
-      "https://news.ycombinator.com/item?id=42087137"
-    ],
-    [
-      "SNES and Playstation Cubic Adpcm Interpolation",
-      "https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/"
     ]
   ],
   [
