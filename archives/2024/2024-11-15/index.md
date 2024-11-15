@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 12:11:58](https://news.ycombinator.com/item?id=42146188) - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
+* [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
+* [2024-11-15, 11:26:18](https://news.ycombinator.com/item?id=42145935) - [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
 * [2024-11-15, 10:42:27](https://news.ycombinator.com/item?id=42145643) - [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
 * [2024-11-15, 10:36:47](https://news.ycombinator.com/item?id=42145612) - [Tesla pushes update for highway driving, but only for newer vehicles](https://electrek.co/2024/11/14/tesla-pushes-end-to-end-neural-networks-for-highway-driving-but-only-for-newer-vehicles/)
 * [2024-11-15, 10:20:10](https://news.ycombinator.com/item?id=42145531) - [The Hidden Tax Trap for SaaS Founders in Germany](https://www.vincentschmalbach.com/the-hidden-tax-trap-for-saas-founders-in-germany/)
+* [2024-11-15, 09:58:11](https://news.ycombinator.com/item?id=42145419) - [Show HN: OnAir – create link, receive calls](https://onair.io/)
+* [2024-11-15, 09:27:21](https://news.ycombinator.com/item?id=42145247) - [Google will stop serving political ads in the EU, including on YouTube](https://www.engadget.com/big-tech/google-will-stop-serving-political-ads-in-the-eu-including-on-youtube-210604043.html)
 * [2024-11-15, 08:49:37](https://news.ycombinator.com/item?id=42145047) - [Europe's flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
 * [2024-11-15, 08:15:46](https://news.ycombinator.com/item?id=42144873) - [Terence Tao: Solving problems by abstracting away highly relevant information](https://mathstodon.xyz/@tao/113482950431855749)
 * [2024-11-15, 07:03:05](https://news.ycombinator.com/item?id=42144541) - [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)
