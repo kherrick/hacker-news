@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-15, 10:20:10](https://news.ycombinator.com/item?id=42145531) - [The Hidden Tax Trap for SaaS Founders in Germany](https://www.vincentschmalbach.com/the-hidden-tax-trap-for-saas-founders-in-germany/)
 * [2024-11-15, 01:55:29](https://news.ycombinator.com/item?id=42143269) - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 * [2024-11-15, 01:55:11](https://news.ycombinator.com/item?id=42143265) - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
 * [2024-11-15, 00:36:30](https://news.ycombinator.com/item?id=42142864) - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 * [2024-11-15, 00:26:53](https://news.ycombinator.com/item?id=42142790) - [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
+* [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-14, 21:47:54](https://news.ycombinator.com/item?id=42141587) - [Visual Basic 6 IDE recreated in C#](https://github.com/BAndysc/AvaloniaVisualBasic6)
 * [2024-11-14, 21:00:51](https://news.ycombinator.com/item?id=42141160) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer)
