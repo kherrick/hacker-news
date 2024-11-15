@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
+* [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
 * [2024-11-15, 20:15:08](https://news.ycombinator.com/item?id=42150443) - [Tesla has the highest fatal accident rate of all auto brands, study finds](https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/)
 * [2024-11-15, 20:06:12](https://news.ycombinator.com/item?id=42150376) - [Installed an open source garage door opener, and I'm loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
 * [2024-11-15, 19:56:21](https://news.ycombinator.com/item?id=42150278) - [Maybe Bluesky has \"won\"](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
@@ -16,7 +17,6 @@
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
-* [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian fishermen hunting for halibut caught a US nuclear sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)

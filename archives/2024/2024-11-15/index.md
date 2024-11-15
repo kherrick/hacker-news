@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
+* [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
 * [2024-11-15, 20:20:44](https://news.ycombinator.com/item?id=42150504) - [National Security Just Called, They Can't See the Email Traffic](https://chronicles.mad-scientist.club/tales/27-years-of-linux/)
 * [2024-11-15, 20:19:53](https://news.ycombinator.com/item?id=42150497) - [US fertility rate dropped to lowest in a century as births dipped in 2023](https://www.cnn.com/2024/04/24/health/us-birth-rate-decline-2023-cdc/index.html)
 * [2024-11-15, 20:15:08](https://news.ycombinator.com/item?id=42150443) - [Tesla Has the Highest Fatal Accident Rate of All Auto Brands, Study Finds](https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/)
