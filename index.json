@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-15, 21:01:52",
-      "https://news.ycombinator.com/item?id=42150991"
-    ],
-    [
-      "Nearly 80k pounds of butter recalled because of missing label \"contains milk\"",
-      "https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 20:57:05",
       "https://news.ycombinator.com/item?id=42150933"
     ],
@@ -47,16 +37,6 @@
     [
       "Retrofitting spatial safety to lines of C++",
       "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 20:15:08",
-      "https://news.ycombinator.com/item?id=42150443"
-    ],
-    [
-      "Tesla has the highest fatal accident rate of all auto brands, study finds",
-      "https://www.roadandtrack.com/news/a62919131/tesla-has-highest-fatal-accident-rate-of-all-auto-brands-study/"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-11-15, 16:09:25",
+      "https://news.ycombinator.com/item?id=42148163"
+    ],
+    [
+      "Building LawStar – a year long indie hacking journey",
+      "https://mackey.substack.com/p/building-lawstar"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 15:52:51",
       "https://news.ycombinator.com/item?id=42147985"
     ],
@@ -177,6 +167,16 @@
     [
       "Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework",
       "https://github.com/noneback/go-taskflow"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 15:21:02",
+      "https://news.ycombinator.com/item?id=42147675"
+    ],
+    [
+      "Norwegian fishermen hunting for halibut caught a US nuclear sub",
+      "https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-11-14, 17:05:40",
-      "https://news.ycombinator.com/item?id=42138289"
+      "2024-11-15, 09:42:02",
+      "https://news.ycombinator.com/item?id=42145329"
     ],
     [
-      "Something weird is happening with LLMs and chess",
-      "https://dynomight.substack.com/p/chess"
+      "Manual for PUB (a markup language in 1971) – Larry Tesler",
+      "https://www.nomodes.com/history/pub-manual"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-11-12, 07:42:34",
-      "https://news.ycombinator.com/item?id=42113557"
-    ],
-    [
-      "FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]",
-      "https://tangchq74.github.io/FBDetect-SOSP24.pdf"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 17:09:37",
       "https://news.ycombinator.com/item?id=42108663"
     ],
@@ -277,6 +267,16 @@
     [
       "Four-wave mixing could boost optical communications in space",
       "https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 10:13:41",
+      "https://news.ycombinator.com/item?id=42099413"
+    ],
+    [
+      "Speculations on arenas and custom strings in C++",
+      "https://nullprogram.com/blog/2024/04/14/"
     ]
   ],
   [
