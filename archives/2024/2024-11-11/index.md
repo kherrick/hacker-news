@@ -65,6 +65,7 @@
 * [2024-11-11, 09:57:35](https://news.ycombinator.com/item?id=42105835) - [Inside M4 chips: P cores](https://eclecticlight.co/2024/11/11/inside-m4-chips-p-cores/)
 * [2024-11-11, 09:51:32](https://news.ycombinator.com/item?id=42105797) - [SST: Container Support](https://sst.dev/blog/container-support/)
 * [2024-11-11, 09:46:38](https://news.ycombinator.com/item?id=42105767) - [Java-Based No-Code and Low-Code Application Bootstrapping Tools Review](https://www.infoq.com/articles/java-no-code-bootstrapping-tools/)
+* [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-11, 08:50:43](https://news.ycombinator.com/item?id=42105508) - [Mattel apologises after Wicked movie dolls link to porn site on packaging](https://www.theguardian.com/film/2024/nov/11/mattel-apologises-after-mistakenly-linking-to-porn-website-on-wicked-dolls)
 * [2024-11-11, 08:25:35](https://news.ycombinator.com/item?id=42105400) - [TSMC cannot make 2nm chips abroad now: MOEA](https://www.taipeitimes.com/News/biz/archives/2024/11/08/2003826545)
 * [2024-11-11, 08:25:32](https://news.ycombinator.com/item?id=42105398) - [Australian scientists thought to be on the verge of curing paralysis](https://www.9news.com.au/national/spinal-cord-research-trials-using-nerve-cells-from-nose-to-treat-paralysis-queensland-griffith-university/a90c494b-1042-4ab3-b631-67e9d565ceb2)

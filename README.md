@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
 * [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet?](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
-* [2024-11-15, 21:26:12](https://news.ycombinator.com/item?id=42151289) - [Israel 'destroyed nuclear facilities' during Iran strikes: report](https://www.newarab.com/news/israel-destroyed-nuclear-facilities-iran-strikes-report)
 * [2024-11-15, 21:01:52](https://news.ycombinator.com/item?id=42150991) - [Nearly 80k pounds of butter recalled because of missing label \"contains milk\"](https://www.forbes.com/sites/stephaniegravalese/2024/11/12/the-high-stakes-of-labelingcostcos-butter-recall-explained/)
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
 * [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
@@ -16,7 +16,6 @@
 * [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Show HN: Scooter – Interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
-* [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
@@ -28,6 +27,7 @@
 * [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-12, 07:42:34](https://news.ycombinator.com/item?id=42113557) - [FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]](https://tangchq74.github.io/FBDetect-SOSP24.pdf)
 * [2024-11-11, 17:09:37](https://news.ycombinator.com/item?id=42108663) - [Incorporation of photosynthetically active algal chloroplasts in mammalian cells](https://www.jstage.jst.go.jp/article/pjab/100/9/100_pjab.100.035/_article)
+* [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
 * [2024-11-06, 15:18:02](https://news.ycombinator.com/item?id=42063617) - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 
