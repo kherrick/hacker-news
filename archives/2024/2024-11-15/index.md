@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 20:06:12](https://news.ycombinator.com/item?id=42150376) - [Installed an open source garage door opener, and I'm loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+* [2024-11-15, 19:56:21](https://news.ycombinator.com/item?id=42150278) - [Maybe Bluesky Has \"Won\"](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
+* [2024-11-15, 19:17:46](https://news.ycombinator.com/item?id=42149938) - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
+* [2024-11-15, 19:00:31](https://news.ycombinator.com/item?id=42149785) - [Cyph – A cryptographically secure messaging and social networking service](https://www.cyph.com/)
 * [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
 * [2024-11-15, 18:55:58](https://news.ycombinator.com/item?id=42149745) - [Bluesky says it won't train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
