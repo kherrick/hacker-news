@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 08:49:37](https://news.ycombinator.com/item?id=42145047) - [Europe's flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
 * [2024-11-15, 07:03:05](https://news.ycombinator.com/item?id=42144541) - [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)
 * [2024-11-15, 03:34:21](https://news.ycombinator.com/item?id=42143755) - [Mayor Adams' office directs NYC agencies to launch Bluesky accounts amid growth](https://www.nydailynews.com/2024/11/14/mayor-adams-office-directs-nyc-agencies-to-launch-bluesky-accounts-amid-growth-on-new-platform/)
 * [2024-11-15, 03:32:03](https://news.ycombinator.com/item?id=42143741) - [You can now use your itch.io subdomain as your Bluesky handle](https://bsky.app/profile/itch.io/post/3lauggobxes2m)
