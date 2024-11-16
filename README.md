@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 * [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: Document to Markdown](https://llamaocr.com/)
 * [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-16, 00:21:34](https://news.ycombinator.com/item?id=42152928) - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
-* [2024-11-15, 23:19:23](https://news.ycombinator.com/item?id=42152415) - [Show HN: Get any domain's brand data via API](https://brand.dev/)
 * [2024-11-15, 23:09:52](https://news.ycombinator.com/item?id=42152341) - [Getting Started with FPGAs](https://nandland.com/book-getting-started-with-fpga/)
 * [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)

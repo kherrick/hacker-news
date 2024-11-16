@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 * [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
 * [2024-11-16, 04:47:10](https://news.ycombinator.com/item?id=42154355) - [Caltrain's electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
