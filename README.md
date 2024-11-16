@@ -2,6 +2,8 @@
 
 * [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
+* [2024-11-16, 15:40:20](https://news.ycombinator.com/item?id=42156933) - [Apple Smells Blood in the Water](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/)
+* [2024-11-16, 15:34:24](https://news.ycombinator.com/item?id=42156907) - [The Bluesky Bubble: This is a relapse, not a fix](https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/)
 * [2024-11-16, 15:00:08](https://news.ycombinator.com/item?id=42156752) - [Thoughtworks Technology Radar Oct 2024 – From Coding Assistance to AI Evolution](https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/)
 * [2024-11-16, 14:42:56](https://news.ycombinator.com/item?id=42156680) - [Casio has released a ring in the form of its iconic watch](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
 * [2024-11-16, 14:07:17](https://news.ycombinator.com/item?id=42156516) - [YC is wrong about LLMs for chip design](https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design)
@@ -23,9 +25,7 @@
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-12, 23:54:51](https://news.ycombinator.com/item?id=42121365) - [A new vulnerability on IPv6 parsing in linux](https://nvd.nist.gov/vuln/detail/CVE-2024-50252)
 * [2024-11-12, 17:53:40](https://news.ycombinator.com/item?id=42117854) - [A next generation catalog of cultivated bananas](https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581)
-* [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
-* [2024-11-11, 06:01:55](https://news.ycombinator.com/item?id=42104848) - [Photo Editor for Cats](https://www.afloat.boats/posts/skittles/)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes (2015)](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [2024-11-09, 18:46:37](https://news.ycombinator.com/item?id=42096107) - [The Taming of the Screw (2000)](https://americanhistory.si.edu/subs/anglesdangles/taming.html)

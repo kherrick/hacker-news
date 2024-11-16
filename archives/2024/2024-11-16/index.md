@@ -6,7 +6,9 @@
 
 * [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
+* [2024-11-16, 15:40:20](https://news.ycombinator.com/item?id=42156933) - [Apple Smells Blood in the Water](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/)
 * [2024-11-16, 15:34:49](https://news.ycombinator.com/item?id=42156913) - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
+* [2024-11-16, 15:34:24](https://news.ycombinator.com/item?id=42156907) - [The Bluesky Bubble: This is a relapse, not a fix](https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/)
 * [2024-11-16, 15:00:08](https://news.ycombinator.com/item?id=42156752) - [Thoughtworks Technology Radar Oct 2024 – From Coding Assistance to AI Evolution](https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/)
 * [2024-11-16, 14:42:56](https://news.ycombinator.com/item?id=42156680) - [Casio has released a ring in the form of its iconic watch](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
 * [2024-11-16, 14:29:10](https://news.ycombinator.com/item?id=42156608) - [E/acc as a religion:A Technologist's Right to Choose](https://www.avidfayaz.com/writings/eacc)
