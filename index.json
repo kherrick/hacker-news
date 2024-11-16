@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-11-16, 11:44:27",
+      "https://news.ycombinator.com/item?id=42155909"
+    ],
+    [
+      "Artificial Intelligence for Quantum Computing",
+      "https://arxiv.org/abs/2411.09131"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 11:21:15",
       "https://news.ycombinator.com/item?id=42155853"
     ],
@@ -157,16 +167,6 @@
     [
       "C++ Template Macroprogramming versus Lisp Macros",
       "https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 18:49:32",
-      "https://news.ycombinator.com/item?id=42149694"
-    ],
-    [
-      "The Practical Guide to Scaling Django",
-      "https://slimsaas.com/blog/django-scaling-performance/"
     ]
   ],
   [
