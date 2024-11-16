@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 19:37:35](https://news.ycombinator.com/item?id=42158628) - [Fiery Tesla Crash Traps and Kills Four After Electric Doors Couldn't Open](https://jalopnik.com/fiery-tesla-crash-traps-and-kills-four-after-electric-d-1851697336)
+* [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:04:43](https://news.ycombinator.com/item?id=42158401) - [Blizzard-made Warcraft 1&2 remasters look like Zynga games made by blind duck](https://www.rockpapershotgun.com/blizzard-just-quietly-released-warcraft-1-and-2-remasters-and-they-look-like-zynga-games-made-by-a-blind-duck)
+* [2024-11-16, 19:03:19](https://news.ycombinator.com/item?id=42158391) - [Four dead in fire as Tesla doors fail to open after crash](https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/)
+* [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope Finds Evidence for Alternate Theory of Gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
+* [2024-11-16, 18:08:02](https://news.ycombinator.com/item?id=42157885) - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
 * [2024-11-16, 18:05:26](https://news.ycombinator.com/item?id=42157862) - [Pakistani religious body declares using VPN is against Islamic law](https://www.voanews.com/a/pakistani-religious-body-declares-using-vpn-is-against-islamic-law-/7865991.html)
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP The only computer science book worth reading twice (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 17:22:53](https://news.ycombinator.com/item?id=42157556) - [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
