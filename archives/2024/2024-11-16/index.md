@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 12:03:10](https://news.ycombinator.com/item?id=42155986) - [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
+* [2024-11-16, 12:01:02](https://news.ycombinator.com/item?id=42155976) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-11-16, 11:44:27](https://news.ycombinator.com/item?id=42155909) - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
+* [2024-11-16, 11:21:15](https://news.ycombinator.com/item?id=42155853) - [Uno Platform Studio: GUI Designer for Cross-Platform .NET Applications](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 * [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
