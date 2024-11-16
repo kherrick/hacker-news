@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
 * [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
+* [2024-11-16, 20:21:56](https://news.ycombinator.com/item?id=42158988) - [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 * [2024-11-16, 19:37:35](https://news.ycombinator.com/item?id=42158628) - [Fiery Tesla Crash Traps and Kills Four After Electric Doors Couldn't Open](https://jalopnik.com/fiery-tesla-crash-traps-and-kills-four-after-electric-d-1851697336)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:04:43](https://news.ycombinator.com/item?id=42158401) - [Blizzard-made Warcraft 1&2 remasters look like Zynga games made by blind duck](https://www.rockpapershotgun.com/blizzard-just-quietly-released-warcraft-1-and-2-remasters-and-they-look-like-zynga-games-made-by-a-blind-duck)
