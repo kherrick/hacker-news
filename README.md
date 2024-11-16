@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
 * [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
@@ -8,7 +9,6 @@
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 17:22:53](https://news.ycombinator.com/item?id=42157556) - [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
-* [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [Readme.so – Easy way to create a README](https://readme.so)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
 * [2024-11-16, 14:46:08](https://news.ycombinator.com/item?id=42156690) - [Dtype_dispatch: a macro that defines macros that define enums and match them](https://graphallthethings.com/posts/dtype-dispatch)
