@@ -74,6 +74,7 @@
 * [2024-11-10, 03:47:48](https://news.ycombinator.com/item?id=42098471) - [The brain summons deep sleep for healing from life-threatening injury](https://www.nature.com/articles/d41586-024-03491-2)
 * [2024-11-10, 03:45:52](https://news.ycombinator.com/item?id=42098466) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 03:01:07](https://news.ycombinator.com/item?id=42098342) - [ChatGPT Brought Down an Online Education Giant](https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2)
+* [2024-11-10, 02:55:18](https://news.ycombinator.com/item?id=42098326) - [Eau de Nil, the Light-Green Color of Egypt-Obsessed Europe (2018)](https://www.theparisreview.org/blog/2018/02/13/eau-de-nil-light-green-color-egypt-obsessed-europe/)
 * [2024-11-10, 02:26:32](https://news.ycombinator.com/item?id=42098236) - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
 * [2024-11-10, 01:30:39](https://news.ycombinator.com/item?id=42097996) - [Verbalize – text editor with writing assistance for Brazilian Portuguese](https://news.ycombinator.com/item?id=42097996)
 * [2024-11-10, 01:18:37](https://news.ycombinator.com/item?id=42097961) - [Stargate built 15 years ago in Ohio 50k pounds concrete family time](https://www.usatoday.com/story/news/nation/2024/11/08/stargate-built-by-family-in-ohio/76133926007/)

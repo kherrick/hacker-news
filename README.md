@@ -24,12 +24,12 @@
 * [2024-11-15, 20:29:53](https://news.ycombinator.com/item?id=42150605) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
-* [2024-11-15, 00:00:17](https://news.ycombinator.com/item?id=42142640) - [How to Redirect a Cloudflare Domain to Another URL](https://blog.johnys.io/how-to-redirect-a-cloudflare-domain-to-another-url/)
 * [2024-11-12, 22:05:04](https://news.ycombinator.com/item?id=42120273) - [Virtual Shoe Museum](https://virtualshoemuseum.com/)
 * [2024-11-12, 18:39:23](https://news.ycombinator.com/item?id=42118306) - [The race to commercialise nuclear-powered batteries](https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article)
 * [2024-11-11, 21:59:21](https://news.ycombinator.com/item?id=42110797) - [Is the UK's liver transplant matching algorithm biased against younger patients?](https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes (2015)](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
+* [2024-11-10, 02:55:18](https://news.ycombinator.com/item?id=42098326) - [Eau de Nil, the Light-Green Color of Egypt-Obsessed Europe (2018)](https://www.theparisreview.org/blog/2018/02/13/eau-de-nil-light-green-color-egypt-obsessed-europe/)
 
 ## [Archives](archives/index.md)
 
