@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-16, 12:03:10",
-      "https://news.ycombinator.com/item?id=42155986"
-    ],
-    [
-      "Micromelo Undatus",
-      "https://en.wikipedia.org/wiki/Micromelo_undatus"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 12:01:02",
       "https://news.ycombinator.com/item?id=42155976"
     ],
@@ -41,6 +31,16 @@
   ],
   [
     [
+      "2024-11-16, 10:49:02",
+      "https://news.ycombinator.com/item?id=42155745"
+    ],
+    [
+      "C Compiler to SPIR-V",
+      "https://github.com/heroseh/hcc"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 05:34:57",
       "https://news.ycombinator.com/item?id=42154583"
     ],
@@ -61,52 +61,32 @@
   ],
   [
     [
+      "2024-11-16, 04:47:10",
+      "https://news.ycombinator.com/item?id=42154355"
+    ],
+    [
+      "Caltrain's electrification project is paying off",
+      "https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 03:06:29",
+      "https://news.ycombinator.com/item?id=42153789"
+    ],
+    [
+      "Qualcomm RISCs, Arm Pulls: The Legal Battle for the Future of Client Computing",
+      "https://thechipletter.substack.com/p/qualcomm-riscs-arm-pulls-the-legal"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 02:14:15",
       "https://news.ycombinator.com/item?id=42153535"
     ],
     [
       "Tsugaru OS – A New Free FM-Towns OS",
       "https://github.com/captainys/FreeTOWNSOS"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 00:21:34",
-      "https://news.ycombinator.com/item?id=42152928"
-    ],
-    [
-      "M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film",
-      "https://twitter.com/DSCCRoss/status/1857208745014776215"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 23:09:52",
-      "https://news.ycombinator.com/item?id=42152341"
-    ],
-    [
-      "Getting Started with FPGAs",
-      "https://nandland.com/book-getting-started-with-fpga/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 22:40:20",
-      "https://news.ycombinator.com/item?id=42152076"
-    ],
-    [
-      "Non-elementary group-by aggregations in Polars vs pandas",
-      "https://labs.quansight.org/blog/dataframe-group-by"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 21:50:30",
-      "https://news.ycombinator.com/item?id=42151569"
-    ],
-    [
-      "Why did people rub snow on frozen feet? (2017)",
-      "https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet"
     ]
   ],
   [
@@ -131,16 +111,6 @@
   ],
   [
     [
-      "2024-11-15, 18:49:32",
-      "https://news.ycombinator.com/item?id=42149694"
-    ],
-    [
-      "The Practical Guide to Scaling Django",
-      "https://slimsaas.com/blog/django-scaling-performance/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 18:16:08",
       "https://news.ycombinator.com/item?id=42149433"
     ],
@@ -161,6 +131,26 @@
   ],
   [
     [
+      "2024-11-15, 17:15:23",
+      "https://news.ycombinator.com/item?id=42148808"
+    ],
+    [
+      "Gliimly is a programming language for web services",
+      "https://gliimly.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 16:45:46",
+      "https://news.ycombinator.com/item?id=42148543"
+    ],
+    [
+      "Show HN: Scooter – Interactive find and replace in the terminal",
+      "https://github.com/thomasschafer/scooter"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 16:13:47",
       "https://news.ycombinator.com/item?id=42148220"
     ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2024-11-15, 15:32:35",
-      "https://news.ycombinator.com/item?id=42147791"
+      "2024-11-15, 15:49:07",
+      "https://news.ycombinator.com/item?id=42147934"
     ],
     [
-      "A Diver Found a Ring Lost 50 Years Ago Near Barbados",
-      "https://www.nytimes.com/2024/11/12/world/americas/diver-finds-graduation-ring-barbados.html"
+      "Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework",
+      "https://github.com/noneback/go-taskflow"
     ]
   ],
   [
@@ -197,16 +187,6 @@
     [
       "Seer: A GUI front end to GDB for Linux",
       "https://github.com/epasveer/seer"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 11:13:25",
-      "https://news.ycombinator.com/item?id=42145835"
-    ],
-    [
-      "Spatial Pixel: a new kind of social computing",
-      "https://spatialpixel.com"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-11-11, 06:01:55",
+      "https://news.ycombinator.com/item?id=42104848"
+    ],
+    [
+      "Photo Editor for Cats",
+      "https://www.afloat.boats/posts/skittles/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 21:33:42",
       "https://news.ycombinator.com/item?id=42102761"
     ],
     [
       "Nixie Tubes",
       "https://danyk.cz/digitrony_en.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 19:01:40",
+      "https://news.ycombinator.com/item?id=42101902"
+    ],
+    [
+      "The history of the epigraph from Appointment in Samarra (2022)",
+      "https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/"
     ]
   ],
   [
