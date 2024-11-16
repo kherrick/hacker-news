@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-16, 00:21:34",
+      "https://news.ycombinator.com/item?id=42152928"
+    ],
+    [
+      "M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film",
+      "https://twitter.com/DSCCRoss/status/1857208745014776215"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 23:13:00",
       "https://news.ycombinator.com/item?id=42152362"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42152288"
     ],
     [
-      "What would it cost to kill coal",
+      "The price of shutting down coal power, and what would be gained",
       "https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42152076"
     ],
     [
-      "The Polars vs. Pandas difference nobody is talking about – Labs",
+      "Non-elementary group-by aggregations in Polars vs pandas",
       "https://labs.quansight.org/blog/dataframe-group-by"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42150933"
     ],
     [
-      "First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU (Phk)",
+      "First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU",
       "https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-11-15, 18:34:36",
-      "https://news.ycombinator.com/item?id=42149580"
-    ],
-    [
-      "Show HN: Libretto – Simple recording and editing, an alternative to Descript",
-      "https://libretto.fm"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 18:16:08",
       "https://news.ycombinator.com/item?id=42149433"
     ],
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2024-11-15, 16:13:47",
-      "https://news.ycombinator.com/item?id=42148220"
-    ],
-    [
-      "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
-      "https://github.com/pex-tool/pex"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 15:52:51",
       "https://news.ycombinator.com/item?id=42147985"
     ],
     [
       "Surveillance and the history of 19th-century wearable tech",
       "https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 15:49:07",
+      "https://news.ycombinator.com/item?id=42147934"
+    ],
+    [
+      "Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework",
+      "https://github.com/noneback/go-taskflow"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Seer: A GUI front end to GDB for Linux",
       "https://github.com/epasveer/seer"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 12:00:33",
-      "https://news.ycombinator.com/item?id=42146131"
-    ],
-    [
-      "Modern Treasury (YC S18) Is Hiring a Product Designer",
-      "https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Chimpanzees' performance on computer tasks changes when people watching them",
       "https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7"
+    ]
+  ],
+  [
+    [
+      "2024-11-09, 05:12:07",
+      "https://news.ycombinator.com/item?id=42092670"
+    ],
+    [
+      "Philosopher of Change: How Henri Bergson's View of Reality Came to Be",
+      "https://lithub.com/philosopher-of-change-how-henri-bergsons-radical-view-of-reality-came-to-be/"
     ]
   ]
 ]
