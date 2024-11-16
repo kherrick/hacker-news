@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 20:42:14](https://news.ycombinator.com/item?id=42159136) - [AI isn't unleashing imaginations, it's outsourcing them. The purpose is profit](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
 * [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
 * [2024-11-16, 20:21:56](https://news.ycombinator.com/item?id=42158988) - [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 * [2024-11-16, 19:37:35](https://news.ycombinator.com/item?id=42158628) - [Fiery Tesla Crash Traps and Kills Four After Electric Doors Couldn't Open](https://jalopnik.com/fiery-tesla-crash-traps-and-kills-four-after-electric-d-1851697336)

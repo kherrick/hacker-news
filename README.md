@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
+* [2024-11-16, 20:42:14](https://news.ycombinator.com/item?id=42159136) - [AI isn't unleashing imaginations, it's outsourcing them. The purpose is profit](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
 * [2024-11-16, 20:21:56](https://news.ycombinator.com/item?id=42158988) - [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
@@ -9,8 +9,8 @@
 * [2024-11-16, 18:08:02](https://news.ycombinator.com/item?id=42157885) - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
-* [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [Readme.so – Easy way to create a README](https://readme.so)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
+* [2024-11-16, 14:46:08](https://news.ycombinator.com/item?id=42156690) - [Dtype_dispatch: a macro that defines macros that define enums and match them](https://graphallthethings.com/posts/dtype-dispatch)
 * [2024-11-16, 14:42:56](https://news.ycombinator.com/item?id=42156680) - [Casio has released a ring in the form of its iconic watch](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
 * [2024-11-16, 14:34:46](https://news.ycombinator.com/item?id=42156640) - [Treating bullying as everyone's problem reduces incidence in primary schools](https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html)
 * [2024-11-16, 14:07:17](https://news.ycombinator.com/item?id=42156516) - [YC is wrong about LLMs for chip design](https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design)
