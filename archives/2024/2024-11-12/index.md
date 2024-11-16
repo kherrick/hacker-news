@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 23:54:51](https://news.ycombinator.com/item?id=42121365) - [A new vulnerability on IPv6 parsing in linux](https://nvd.nist.gov/vuln/detail/CVE-2024-50252)
 * [2024-11-12, 23:52:04](https://news.ycombinator.com/item?id=42121345) - [What's Your Favorite Invasive Species?](https://cinemasojourns.com/2024/11/12/whats-your-favorite-invasive-species/)
 * [2024-11-12, 23:27:02](https://news.ycombinator.com/item?id=42121122) - [Nutrient Density and Other Stupid Magic Words](https://www.exfatloss.com/p/nutrient-density-and-other-stupid)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
