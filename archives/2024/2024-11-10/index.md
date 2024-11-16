@@ -13,6 +13,7 @@
 * [2024-11-10, 22:01:19](https://news.ycombinator.com/item?id=42102898) - ['It's not close' – Israel committing genocide concludes Wikipedia ending debate](https://www.middleeastmonitor.com/20241108-its-not-close-israel-committing-genocide-concludes-wikipedia-ending-editorial-debate/)
 * [2024-11-10, 21:58:17](https://news.ycombinator.com/item?id=42102881) - [Another simple online DNS query tool](https://nstoolbox.com/)
 * [2024-11-10, 21:47:10](https://news.ycombinator.com/item?id=42102820) - [California's gas prices to increase 65 cents per gallon with new fuel standards](https://abc7news.com/post/californias-air-resources-board-vote-new-fuel-standards-could-increase-gas-prices-65-cents-gallon/15528843/)
+* [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 21:00:02](https://news.ycombinator.com/item?id=42102596) - [Generating high-quality thumbnails from videos](https://developer.apple.com/documentation/vision/generating-thumbnails-from-videos)
 * [2024-11-10, 20:48:28](https://news.ycombinator.com/item?id=42102531) - [New, Original, Multi-Purpose Programming Language](https://github.com/masonmarker/msnscript2)
 * [2024-11-10, 20:48:11](https://news.ycombinator.com/item?id=42102530) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
