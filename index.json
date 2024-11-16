@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-11-16, 09:23:11",
-      "https://news.ycombinator.com/item?id=42155457"
-    ],
-    [
-      "Ian's Secure Shoelace Knot",
-      "https://www.fieggen.com/shoelace/secureknot.htm"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 05:34:57",
       "https://news.ycombinator.com/item?id=42154583"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-11-15, 20:57:05",
-      "https://news.ycombinator.com/item?id=42150933"
-    ],
-    [
-      "First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU",
-      "https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 20:25:19",
       "https://news.ycombinator.com/item?id=42150550"
     ],
@@ -147,6 +127,16 @@
     [
       "C++ Template Macroprogramming versus Lisp Macros",
       "https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 18:49:32",
+      "https://news.ycombinator.com/item?id=42149694"
+    ],
+    [
+      "The Practical Guide to Scaling Django",
+      "https://slimsaas.com/blog/django-scaling-performance/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-11-15, 12:36:09",
+      "https://news.ycombinator.com/item?id=42146338"
+    ],
+    [
+      "Seer: A GUI front end to GDB for Linux",
+      "https://github.com/epasveer/seer"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 11:13:25",
       "https://news.ycombinator.com/item?id=42145835"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-11-14, 22:12:09",
+      "https://news.ycombinator.com/item?id=42141761"
+    ],
+    [
+      "Thomas E. Kurtz has died",
+      "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 12:20:40",
       "https://news.ycombinator.com/item?id=42135520"
     ],
@@ -237,16 +247,6 @@
     [
       "Emit-C: A time travelling programming language",
       "https://github.com/nimrag-b/emiT-C"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 07:19:25",
-      "https://news.ycombinator.com/item?id=42113471"
-    ],
-    [
-      "Ask HN: How has your experience been with a Snapdragon-based laptop?",
-      "https://news.ycombinator.com/item?id=42113471"
     ]
   ],
   [
