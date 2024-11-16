@@ -79,3 +79,4 @@
 * [2024-11-15, 00:42:37](https://news.ycombinator.com/item?id=42142900) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-15, 00:36:30](https://news.ycombinator.com/item?id=42142864) - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 * [2024-11-15, 00:26:53](https://news.ycombinator.com/item?id=42142790) - [Matrix Client Tutorial](https://uhoreg.gitlab.io/matrix-tutorial/index.html)
+* [2024-11-15, 00:00:17](https://news.ycombinator.com/item?id=42142640) - [How to Redirect a Cloudflare Domain to Another URL](https://blog.johnys.io/how-to-redirect-a-cloudflare-domain-to-another-url/)
