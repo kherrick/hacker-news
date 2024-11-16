@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-16, 11:44:27",
-      "https://news.ycombinator.com/item?id=42155909"
-    ],
-    [
-      "Artificial Intelligence for Quantum Computing",
-      "https://arxiv.org/abs/2411.09131"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 11:21:15",
       "https://news.ycombinator.com/item?id=42155853"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2024-11-16, 10:49:02",
-      "https://news.ycombinator.com/item?id=42155745"
+      "2024-11-16, 09:23:11",
+      "https://news.ycombinator.com/item?id=42155457"
     ],
     [
-      "C Compiler to SPIR-V",
-      "https://github.com/heroseh/hcc"
+      "Ian's Secure Shoelace Knot",
+      "https://www.fieggen.com/shoelace/secureknot.htm"
     ]
   ],
   [
@@ -151,6 +141,26 @@
   ],
   [
     [
+      "2024-11-15, 20:25:19",
+      "https://news.ycombinator.com/item?id=42150550"
+    ],
+    [
+      "Retrofitting spatial safety to lines of C++",
+      "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 19:47:18",
+      "https://news.ycombinator.com/item?id=42150206"
+    ],
+    [
+      "C++ Template Macroprogramming versus Lisp Macros",
+      "https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 18:49:32",
       "https://news.ycombinator.com/item?id=42149694"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2024-11-15, 13:55:15",
-      "https://news.ycombinator.com/item?id=42146957"
-    ],
-    [
-      "The Battle Line at Louvain",
-      "https://www.privatdozent.co/p/the-battle-line-at-louvain-1914"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 12:36:09",
-      "https://news.ycombinator.com/item?id=42146338"
-    ],
-    [
-      "Seer: A GUI front end to GDB for Linux",
-      "https://github.com/epasveer/seer"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 09:58:11",
       "https://news.ycombinator.com/item?id=42145419"
     ],
@@ -237,6 +227,16 @@
     [
       "MomBoard: E-ink display for a parent with amnesia",
       "https://jan.miksovsky.com/posts/2024/11-12-momboard"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 15:10:25",
+      "https://news.ycombinator.com/item?id=42116038"
+    ],
+    [
+      "Emit-C: A time travelling programming language",
+      "https://github.com/nimrag-b/emiT-C"
     ]
   ],
   [
