@@ -59,6 +59,7 @@
 * [2024-11-09, 06:16:53](https://news.ycombinator.com/item?id=42092830) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-09, 05:54:51](https://news.ycombinator.com/item?id=42092755) - [Maxun: Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 * [2024-11-09, 05:28:16](https://news.ycombinator.com/item?id=42092700) - [Reconstruction of Lomonosov's Discovery of Venus's Atmosphere (2012) [pdf]](https://lss.fnal.gov/archive/2012/pub/fermilab-pub-12-937-apc.pdf)
+* [2024-11-09, 05:12:07](https://news.ycombinator.com/item?id=42092670) - [Philosopher of Change: How Henri Bergson's View of Reality Came to Be](https://lithub.com/philosopher-of-change-how-henri-bergsons-radical-view-of-reality-came-to-be/)
 * [2024-11-09, 05:10:16](https://news.ycombinator.com/item?id=42092667) - [The Median Researcher Problem](https://www.lesswrong.com/posts/vZcXAc6txvJDanQ4F/the-median-researcher-problem-1)
 * [2024-11-09, 04:01:29](https://news.ycombinator.com/item?id=42092453) - [Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos](https://allthatsinteresting.com/glyptodon-fossils)
 * [2024-11-09, 03:40:57](https://news.ycombinator.com/item?id=42092385) - [NASA Remains Silent on Why Crew Went to Hospital After Dragon Splashdown](https://gizmodo.com/nasa-remains-stubbornly-silent-on-dragon-splashdown-that-sent-crew-to-hospital-2000522187)
