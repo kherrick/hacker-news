@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 21:58:35](https://news.ycombinator.com/item?id=42159713) - [Bluesky is currently gaining more than 1M users a day](https://bsky.jazco.dev/stats)
 * [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [Bluesky is receiving about 3k reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
@@ -28,7 +29,6 @@
 * [2024-11-12, 18:39:23](https://news.ycombinator.com/item?id=42118306) - [The race to commercialise nuclear-powered batteries](https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article)
 * [2024-11-11, 21:59:21](https://news.ycombinator.com/item?id=42110797) - [Is the UK's liver transplant matching algorithm biased against younger patients?](https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes (2015)](https://danyk.cz/digitrony_en.html)
-* [2024-11-10, 21:21:12](https://news.ycombinator.com/item?id=42102690) - [Where Does the Magic Go as We Grow Older? (2020)](https://medium.com/mindfully-speaking/where-does-the-magic-go-as-we-grow-older-15d467212efe)
 * [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
 
 ## [Archives](archives/index.md)
