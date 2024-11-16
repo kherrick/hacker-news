@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-16, 02:19:53",
+      "https://news.ycombinator.com/item?id=42153577"
+    ],
+    [
+      "How Public Key Cryptography Works, Using Only Simple Math",
+      "https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 02:14:15",
+      "https://news.ycombinator.com/item?id=42153535"
+    ],
+    [
+      "Tsugaru OS – A New Free FM-Towns OS",
+      "https://github.com/captainys/FreeTOWNSOS"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 00:21:34",
       "https://news.ycombinator.com/item?id=42152928"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-11-15, 17:15:23",
-      "https://news.ycombinator.com/item?id=42148808"
-    ],
-    [
-      "Gliimly is a programming language for web services",
-      "https://gliimly.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 16:45:46",
       "https://news.ycombinator.com/item?id=42148543"
     ],
     [
       "Show HN: Scooter – Interactive find and replace in the terminal",
       "https://github.com/thomasschafer/scooter"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 16:13:47",
-      "https://news.ycombinator.com/item?id=42148220"
-    ],
-    [
-      "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
-      "https://github.com/pex-tool/pex"
     ]
   ],
   [
