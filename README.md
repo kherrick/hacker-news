@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-16, 21:58:35](https://news.ycombinator.com/item?id=42159713) - [Bluesky is currently gaining more than 1M users a day](https://bsky.jazco.dev/stats)
+* [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [We’re receiving about 3,000 reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
 * [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
