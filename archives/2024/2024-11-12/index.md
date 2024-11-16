@@ -12,6 +12,7 @@
 * [2024-11-12, 22:11:24](https://news.ycombinator.com/item?id=42120331) - [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
 * [2024-11-12, 22:08:34](https://news.ycombinator.com/item?id=42120313) - [Carving Your Space](https://heather-buchel.com/blog/2024/11/carving-space/)
 * [2024-11-12, 22:08:17](https://news.ycombinator.com/item?id=42120311) - [M4 Mac mini's efficiency is incredible](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
+* [2024-11-12, 22:05:04](https://news.ycombinator.com/item?id=42120273) - [Virtual Shoe Museum](https://virtualshoemuseum.com/)
 * [2024-11-12, 21:48:05](https://news.ycombinator.com/item?id=42120090) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-12, 21:26:23](https://news.ycombinator.com/item?id=42119869) - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
 * [2024-11-12, 21:21:27](https://news.ycombinator.com/item?id=42119829) - [My first Thunderbolt 5 experience has been a bust](https://www.pcworld.com/article/2509995/my-first-thunderbolt-5-system-has-been-a-pretty-big-bust.html)
