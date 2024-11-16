@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-16, 21:40:49](https://news.ycombinator.com/item?id=42159589) - [Judge Blocks The Onion Bid for Alex Jones's InfoWars](https://www.nationalreview.com/news/judge-blocks-the-onions-bid-for-alex-joness-infowars-to-review-bankruptcy-auction/)
 * [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [Bluesky is receiving about 3k reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
@@ -9,6 +8,7 @@
 * [2024-11-16, 18:08:02](https://news.ycombinator.com/item?id=42157885) - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Two galaxies aligned in a way where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
+* [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [Readme.so – Easy way to create a README](https://readme.so)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
 * [2024-11-16, 14:42:56](https://news.ycombinator.com/item?id=42156680) - [Casio has released a ring in the form of its iconic watch](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
 * [2024-11-16, 14:34:46](https://news.ycombinator.com/item?id=42156640) - [Treating bullying as everyone's problem reduces incidence in primary schools](https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html)
