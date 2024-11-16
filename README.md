@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-16, 00:21:34](https://news.ycombinator.com/item?id=42152928) - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
-* [2024-11-15, 23:13:00](https://news.ycombinator.com/item?id=42152362) - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
 * [2024-11-15, 23:04:07](https://news.ycombinator.com/item?id=42152288) - [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
 * [2024-11-15, 22:40:20](https://news.ycombinator.com/item?id=42152076) - [Non-elementary group-by aggregations in Polars vs pandas](https://labs.quansight.org/blog/dataframe-group-by)
 * [2024-11-15, 22:39:49](https://news.ycombinator.com/item?id=42152068) - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
