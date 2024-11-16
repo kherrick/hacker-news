@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 18:05:26](https://news.ycombinator.com/item?id=42157862) - [Pakistani religious body declares using VPN is against Islamic law](https://www.voanews.com/a/pakistani-religious-body-declares-using-vpn-is-against-islamic-law-/7865991.html)
 * [2024-11-16, 17:22:53](https://news.ycombinator.com/item?id=42157556) - [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 * [2024-11-16, 16:45:47](https://news.ycombinator.com/item?id=42157320) - [We're going to see the return of diseases we have controlled for decades](https://geneticliteracyproject.org/2024/11/08/viewpoint-vaccine-opponent-and-conspiracy-theorist-rfk-jr-poised-to-remake-us-health-policy-in-this-twisted-vision/)
