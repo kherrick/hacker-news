@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 19:04:43](https://news.ycombinator.com/item?id=42158401) - [Blizzard-made Warcraft 1&2 remasters look like Zynga games made by blind duck](https://www.rockpapershotgun.com/blizzard-just-quietly-released-warcraft-1-and-2-remasters-and-they-look-like-zynga-games-made-by-a-blind-duck)
 * [2024-11-16, 18:05:26](https://news.ycombinator.com/item?id=42157862) - [Pakistani religious body declares using VPN is against Islamic law](https://www.voanews.com/a/pakistani-religious-body-declares-using-vpn-is-against-islamic-law-/7865991.html)
+* [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP The only computer science book worth reading twice (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 17:22:53](https://news.ycombinator.com/item?id=42157556) - [Ask HN: What open source projects need help?](https://news.ycombinator.com/item?id=42157556)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Astronomers find 2 galaxies aligned where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 * [2024-11-16, 16:45:47](https://news.ycombinator.com/item?id=42157320) - [We're going to see the return of diseases we have controlled for decades](https://geneticliteracyproject.org/2024/11/08/viewpoint-vaccine-opponent-and-conspiracy-theorist-rfk-jr-poised-to-remake-us-health-policy-in-this-twisted-vision/)
 * [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
 * [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [The easiest way to create a README](https://readme.so)
+* [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
 * [2024-11-16, 15:40:20](https://news.ycombinator.com/item?id=42156933) - [Apple Smells Blood in the Water](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/)
 * [2024-11-16, 15:34:49](https://news.ycombinator.com/item?id=42156913) - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
 * [2024-11-16, 15:34:24](https://news.ycombinator.com/item?id=42156907) - [The Bluesky Bubble: This is a relapse, not a fix](https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/)
