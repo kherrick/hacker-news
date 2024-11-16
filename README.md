@@ -22,7 +22,7 @@
 * [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
-* [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
+* [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-12, 23:54:51](https://news.ycombinator.com/item?id=42121365) - [A new vulnerability on IPv6 parsing in linux](https://nvd.nist.gov/vuln/detail/CVE-2024-50252)
 * [2024-11-11, 21:59:21](https://news.ycombinator.com/item?id=42110797) - [Is the UK's liver transplant matching algorithm biased against younger patients?](https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching)
