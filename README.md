@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 16:45:47](https://news.ycombinator.com/item?id=42157320) - [We're going to see the return of diseases we have controlled for decades](https://geneticliteracyproject.org/2024/11/08/viewpoint-vaccine-opponent-and-conspiracy-theorist-rfk-jr-poised-to-remake-us-health-policy-in-this-twisted-vision/)
 * [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
 * [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [The easiest way to create a README](https://readme.so)
@@ -21,7 +22,6 @@
 * [2024-11-15, 19:47:18](https://news.ycombinator.com/item?id=42150206) - [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
-* [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
 * [2024-11-15, 09:58:11](https://news.ycombinator.com/item?id=42145419) - [Show HN: OnAir – create link, receive calls](https://onair.io/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-12, 23:54:51](https://news.ycombinator.com/item?id=42121365) - [A new vulnerability on IPv6 parsing in linux](https://nvd.nist.gov/vuln/detail/CVE-2024-50252)

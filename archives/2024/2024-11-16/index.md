@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 16:45:47](https://news.ycombinator.com/item?id=42157320) - [We're going to see the return of diseases we have controlled for decades](https://geneticliteracyproject.org/2024/11/08/viewpoint-vaccine-opponent-and-conspiracy-theorist-rfk-jr-poised-to-remake-us-health-policy-in-this-twisted-vision/)
 * [2024-11-16, 16:12:59](https://news.ycombinator.com/item?id=42157086) - [M4 Macs can't virtualise older macOS](https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/)
 * [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
 * [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [The easiest way to create a README](https://readme.so)
