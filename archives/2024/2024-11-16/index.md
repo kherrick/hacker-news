@@ -11,6 +11,7 @@
 * [2024-11-16, 11:21:15](https://news.ycombinator.com/item?id=42155853) - [Uno Platform Studio: GUI Designer for Cross-Platform .NET Applications](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 * [2024-11-16, 10:49:02](https://news.ycombinator.com/item?id=42155745) - [C Compiler to SPIR-V](https://github.com/heroseh/hcc)
+* [2024-11-16, 09:23:11](https://news.ycombinator.com/item?id=42155457) - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 * [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
 * [2024-11-16, 04:47:10](https://news.ycombinator.com/item?id=42154355) - [Caltrain's electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
