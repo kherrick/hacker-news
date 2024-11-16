@@ -8,6 +8,7 @@
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
 * [2024-11-16, 19:04:43](https://news.ycombinator.com/item?id=42158401) - [Blizzard-made Warcraft 1&2 remasters look like Zynga games made by blind duck](https://www.rockpapershotgun.com/blizzard-just-quietly-released-warcraft-1-and-2-remasters-and-they-look-like-zynga-games-made-by-a-blind-duck)
 * [2024-11-16, 19:03:19](https://news.ycombinator.com/item?id=42158391) - [Four dead in fire as Tesla doors fail to open after crash](https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/)
+* [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
 * [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope Finds Evidence for Alternate Theory of Gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
 * [2024-11-16, 18:23:11](https://news.ycombinator.com/item?id=42158037) - [Military's UFO-hunting aerial surveillance system detailed in report](https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report)
 * [2024-11-16, 18:08:02](https://news.ycombinator.com/item?id=42157885) - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
