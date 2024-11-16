@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 21:40:49](https://news.ycombinator.com/item?id=42159589) - [Judge Blocks The Onion Bid for Alex Jones's InfoWars](https://www.nationalreview.com/news/judge-blocks-the-onions-bid-for-alex-joness-infowars-to-review-bankruptcy-auction/)
+* [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [Bluesky is receiving about 3k reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
 * [2024-11-16, 20:42:14](https://news.ycombinator.com/item?id=42159136) - [AI isn't unleashing imaginations, it's outsourcing them. The purpose is profit](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
 * [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
 * [2024-11-16, 20:21:56](https://news.ycombinator.com/item?id=42158988) - [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
