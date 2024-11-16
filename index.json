@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-11-15, 23:09:52",
+      "https://news.ycombinator.com/item?id=42152341"
+    ],
+    [
+      "Getting Started with FPGAs",
+      "https://nandland.com/book-getting-started-with-fpga/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 22:40:20",
       "https://news.ycombinator.com/item?id=42152076"
     ],
@@ -107,16 +117,6 @@
     [
       "First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU",
       "https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 20:25:19",
-      "https://news.ycombinator.com/item?id=42150550"
-    ],
-    [
-      "Retrofitting spatial safety to lines of C++",
-      "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html"
     ]
   ],
   [
