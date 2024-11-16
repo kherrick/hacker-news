@@ -15,6 +15,7 @@
 * [2024-11-09, 20:35:04](https://news.ycombinator.com/item?id=42096717) - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 * [2024-11-09, 19:17:04](https://news.ycombinator.com/item?id=42096269) - [Study reveals superbug MRSA's double defense against antibiotics](https://phys.org/news/2024-10-mrsa-defense-antibiotics-superbug-evolved.html)
 * [2024-11-09, 19:04:48](https://news.ycombinator.com/item?id=42096208) - [DNA firm [Atlas Biomed] holding highly sensitive data 'vanishes' without warning](https://www.bbc.co.uk/news/articles/cz7wl7rpndjo)
+* [2024-11-09, 18:46:37](https://news.ycombinator.com/item?id=42096107) - [The Taming of the Screw](https://americanhistory.si.edu/subs/anglesdangles/taming.html)
 * [2024-11-09, 18:42:49](https://news.ycombinator.com/item?id=42096083) - [Drone Relative Positioning](https://matthew-bird.com/blogs/Drone-Rel-Pos.html)
 * [2024-11-09, 18:14:30](https://news.ycombinator.com/item?id=42095879) - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
 * [2024-11-09, 17:55:29](https://news.ycombinator.com/item?id=42095752) - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)

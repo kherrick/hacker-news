@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
-* [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
+* [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: Document to Markdown](https://llamaocr.com/)
 * [2024-11-16, 04:47:10](https://news.ycombinator.com/item?id=42154355) - [Caltrain's electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
 * [2024-11-16, 04:40:54](https://news.ycombinator.com/item?id=42154311) - [A basic introduction to the classfile API in Java](https://ifesunmola.com/a-basic-introduction-to-the-classfile-api/)
-* [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-16, 00:21:34](https://news.ycombinator.com/item?id=42152928) - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
@@ -28,7 +27,8 @@
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 19:01:40](https://news.ycombinator.com/item?id=42101902) - [The history of the epigraph from Appointment in Samarra (2022)](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
-* [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [2024-11-09, 18:46:37](https://news.ycombinator.com/item?id=42096107) - [The Taming of the Screw](https://americanhistory.si.edu/subs/anglesdangles/taming.html)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
 
 ## [Archives](archives/index.md)
