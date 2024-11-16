@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
 * [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
@@ -11,7 +12,6 @@
 * [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet? (2017)](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
 * [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
-* [2024-11-15, 19:56:21](https://news.ycombinator.com/item?id=42150278) - [Maybe Bluesky has \"won\"](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 19:47:18](https://news.ycombinator.com/item?id=42150206) - [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
 * [2024-11-15, 18:49:32](https://news.ycombinator.com/item?id=42149694) - [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
