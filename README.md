@@ -23,13 +23,13 @@
 * [2024-11-16, 10:49:02](https://news.ycombinator.com/item?id=42155745) - [C Compiler to SPIR-V](https://github.com/heroseh/hcc)
 * [2024-11-16, 05:34:57](https://news.ycombinator.com/item?id=42154583) - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 * [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
+* [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 20:29:53](https://news.ycombinator.com/item?id=42150605) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-12, 22:05:04](https://news.ycombinator.com/item?id=42120273) - [Virtual Shoe Museum](https://virtualshoemuseum.com/)
 * [2024-11-12, 18:39:23](https://news.ycombinator.com/item?id=42118306) - [The race to commercialise nuclear-powered batteries](https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article)
 * [2024-11-11, 21:59:21](https://news.ycombinator.com/item?id=42110797) - [Is the UK's liver transplant matching algorithm biased against younger patients?](https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching)
-* [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes (2015)](https://danyk.cz/digitrony_en.html)
 
 ## [Archives](archives/index.md)
 
