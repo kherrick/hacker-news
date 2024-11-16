@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-11-15, 22:39:49",
-      "https://news.ycombinator.com/item?id=42152068"
-    ],
-    [
-      "FTC to launch investigation into Microsoft's cloud business",
-      "https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 21:50:30",
       "https://news.ycombinator.com/item?id=42151569"
     ],
@@ -187,6 +177,16 @@
     [
       "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
       "https://github.com/pex-tool/pex"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 15:49:07",
+      "https://news.ycombinator.com/item?id=42147934"
+    ],
+    [
+      "Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework",
+      "https://github.com/noneback/go-taskflow"
     ]
   ],
   [
