@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 23:19:23](https://news.ycombinator.com/item?id=42152415) - [Show HN: Get any domain's brand data via API](https://brand.dev/)
 * [2024-11-15, 23:13:00](https://news.ycombinator.com/item?id=42152362) - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
 * [2024-11-15, 23:09:52](https://news.ycombinator.com/item?id=42152341) - [Getting Started with FPGAs](https://nandland.com/book-getting-started-with-fpga/)
 * [2024-11-15, 23:04:07](https://news.ycombinator.com/item?id=42152288) - [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
