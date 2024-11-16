@@ -23,11 +23,11 @@
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [Thomas E. Kurtz has died](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-14, 12:20:40](https://news.ycombinator.com/item?id=42135520) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
+* [2024-11-12, 07:19:25](https://news.ycombinator.com/item?id=42113471) - [Ask HN: How has your experience been with a Snapdragon-based laptop?](https://news.ycombinator.com/item?id=42113471)
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 19:01:40](https://news.ycombinator.com/item?id=42101902) - [The history of the epigraph from Appointment in Samarra (2022)](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
 * [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
-* [2024-11-10, 11:27:49](https://news.ycombinator.com/item?id=42099646) - [Pokemon TCG Pocket Hub – Open-Source Multilingual Card Game Resource Platform](https://pokemontcgpocket.app)
 * [2024-11-09, 18:46:37](https://news.ycombinator.com/item?id=42096107) - [The Taming of the Screw (2000)](https://americanhistory.si.edu/subs/anglesdangles/taming.html)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
 

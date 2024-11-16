@@ -74,6 +74,7 @@
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-12, 07:42:34](https://news.ycombinator.com/item?id=42113557) - [FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]](https://tangchq74.github.io/FBDetect-SOSP24.pdf)
 * [2024-11-12, 07:21:36](https://news.ycombinator.com/item?id=42113479) - [Cheaper to rent in Barcelona and commute to London](https://bestburgerinnorthwestlondon.wordpress.com/2013/10/24/cheaper-to-rent-in-barcelona-and-commute-to-london/)
+* [2024-11-12, 07:19:25](https://news.ycombinator.com/item?id=42113471) - [Ask HN: How has your experience been with a Snapdragon-based laptop?](https://news.ycombinator.com/item?id=42113471)
 * [2024-11-12, 07:11:50](https://news.ycombinator.com/item?id=42113449) - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 * [2024-11-12, 06:56:39](https://news.ycombinator.com/item?id=42113398) - [Nearly 70% of Gaza war dead are women and children, UN says](https://www.bbc.com/news/articles/cn5wel11pgdo)
 * [2024-11-12, 06:36:43](https://news.ycombinator.com/item?id=42113315) - [The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby](https://www.nature.com/articles/s41550-024-02389-3)
