@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-16, 16:12:59",
+      "https://news.ycombinator.com/item?id=42157086"
+    ],
+    [
+      "M4 Macs can't virtualise older macOS",
+      "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 15:59:09",
       "https://news.ycombinator.com/item?id=42157012"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2024-11-16, 14:29:10",
-      "https://news.ycombinator.com/item?id=42156608"
+      "2024-11-16, 14:42:56",
+      "https://news.ycombinator.com/item?id=42156680"
     ],
     [
-      "E/acc as a religion:A Technologist's Right to Choose",
-      "https://www.avidfayaz.com/writings/eacc"
+      "Casio has released a ring in the form of its iconic watch",
+      "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 14:07:17",
+      "https://news.ycombinator.com/item?id=42156516"
+    ],
+    [
+      "YC is wrong about LLMs for chip design",
+      "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2024-11-15, 13:55:15",
-      "https://news.ycombinator.com/item?id=42146957"
-    ],
-    [
-      "The Battle Line at Louvain",
-      "https://www.privatdozent.co/p/the-battle-line-at-louvain-1914"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 12:36:09",
-      "https://news.ycombinator.com/item?id=42146338"
-    ],
-    [
-      "Seer: A GUI front end to GDB for Linux",
-      "https://github.com/epasveer/seer"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 09:58:11",
       "https://news.ycombinator.com/item?id=42145419"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-11-14, 22:12:09",
-      "https://news.ycombinator.com/item?id=42141761"
-    ],
-    [
-      "Thomas E. Kurtz has died",
-      "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 12:20:40",
       "https://news.ycombinator.com/item?id=42135520"
     ],
     [
       "MomBoard: E-ink display for a parent with amnesia",
       "https://jan.miksovsky.com/posts/2024/11-12-momboard"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 23:54:51",
+      "https://news.ycombinator.com/item?id=42121365"
+    ],
+    [
+      "A new vulnerability on IPv6 parsing in linux",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-50252"
     ]
   ],
   [
