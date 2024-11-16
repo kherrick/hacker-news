@@ -9,7 +9,6 @@
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Two galaxies aligned in a way where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 * [2024-11-16, 15:57:54](https://news.ycombinator.com/item?id=42157001) - [Readme.so – Easy way to create a README](https://readme.so)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
-* [2024-11-16, 14:46:08](https://news.ycombinator.com/item?id=42156690) - [Dtype_dispatch: a macro that defines macros that define enums and match them](https://graphallthethings.com/posts/dtype-dispatch)
 * [2024-11-16, 14:42:56](https://news.ycombinator.com/item?id=42156680) - [Casio has released a ring in the form of its iconic watch](https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr)
 * [2024-11-16, 14:34:46](https://news.ycombinator.com/item?id=42156640) - [Treating bullying as everyone's problem reduces incidence in primary schools](https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html)
 * [2024-11-16, 14:07:17](https://news.ycombinator.com/item?id=42156516) - [YC is wrong about LLMs for chip design](https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design)
@@ -30,6 +29,7 @@
 * [2024-11-11, 21:59:21](https://news.ycombinator.com/item?id=42110797) - [Is the UK's liver transplant matching algorithm biased against younger patients?](https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes (2015)](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 21:21:12](https://news.ycombinator.com/item?id=42102690) - [Where Does the Magic Go as We Grow Older? (2020)](https://medium.com/mindfully-speaking/where-does-the-magic-go-as-we-grow-older-15d467212efe)
+* [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
 
 ## [Archives](archives/index.md)
 
