@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How Public Key Cryptography Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+* [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-16, 00:21:34](https://news.ycombinator.com/item?id=42152928) - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
 * [2024-11-15, 23:13:00](https://news.ycombinator.com/item?id=42152362) - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
 * [2024-11-15, 23:04:07](https://news.ycombinator.com/item?id=42152288) - [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
@@ -15,9 +17,7 @@
 * [2024-11-15, 18:49:32](https://news.ycombinator.com/item?id=42149694) - [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/)
 * [2024-11-15, 18:16:08](https://news.ycombinator.com/item?id=42149433) - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
-* [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Show HN: Scooter – Interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
-* [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
 * [2024-11-15, 15:52:51](https://news.ycombinator.com/item?id=42147985) - [Surveillance and the history of 19th-century wearable tech](https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/)
 * [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
