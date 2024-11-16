@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 15:34:49](https://news.ycombinator.com/item?id=42156913) - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
 * [2024-11-16, 13:49:53](https://news.ycombinator.com/item?id=42156400) - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 * [2024-11-16, 12:01:02](https://news.ycombinator.com/item?id=42155976) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-11-16, 11:44:27](https://news.ycombinator.com/item?id=42155909) - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
-* [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-16, 10:49:02](https://news.ycombinator.com/item?id=42155745) - [C Compiler to SPIR-V](https://github.com/heroseh/hcc)
 * [2024-11-16, 10:33:38](https://news.ycombinator.com/item?id=42155696) - [Show HN: ZQDGR a Script Runner for Golang](https://github.com/juls0730/zqdgr)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 15:34:49](https://news.ycombinator.com/item?id=42156913) - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
 * [2024-11-16, 13:49:53](https://news.ycombinator.com/item?id=42156400) - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 * [2024-11-16, 12:37:07](https://news.ycombinator.com/item?id=42156106) - [Penguin travels every year to visit man who rescued him (2016)](https://www.cbc.ca/news/trending/dindim-o-lindo-pinguim-1.3487668)
 * [2024-11-16, 12:03:10](https://news.ycombinator.com/item?id=42155986) - [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
