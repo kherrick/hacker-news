@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 15:59:09](https://news.ycombinator.com/item?id=42157012) - [A Case Against the Placebo Effect](https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/)
 * [2024-11-16, 15:34:49](https://news.ycombinator.com/item?id=42156913) - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
+* [2024-11-16, 15:00:08](https://news.ycombinator.com/item?id=42156752) - [Thoughtworks Technology Radar Oct 2024 – From Coding Assistance to AI Evolution](https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/)
+* [2024-11-16, 14:29:10](https://news.ycombinator.com/item?id=42156608) - [E/acc as a religion:A Technologist's Right to Choose](https://www.avidfayaz.com/writings/eacc)
+* [2024-11-16, 13:53:53](https://news.ycombinator.com/item?id=42156430) - [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 13:49:53](https://news.ycombinator.com/item?id=42156400) - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
+* [2024-11-16, 12:41:18](https://news.ycombinator.com/item?id=42156126) - [Numpyro: Probabilistic programming with NumPy powered by Jax](https://github.com/pyro-ppl/numpyro)
 * [2024-11-16, 12:37:07](https://news.ycombinator.com/item?id=42156106) - [Penguin travels every year to visit man who rescued him (2016)](https://www.cbc.ca/news/trending/dindim-o-lindo-pinguim-1.3487668)
 * [2024-11-16, 12:03:10](https://news.ycombinator.com/item?id=42155986) - [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
 * [2024-11-16, 12:01:02](https://news.ycombinator.com/item?id=42155976) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
