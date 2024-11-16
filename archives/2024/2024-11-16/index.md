@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 13:49:53](https://news.ycombinator.com/item?id=42156400) - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 * [2024-11-16, 12:37:07](https://news.ycombinator.com/item?id=42156106) - [Penguin travels every year to visit man who rescued him (2016)](https://www.cbc.ca/news/trending/dindim-o-lindo-pinguim-1.3487668)
 * [2024-11-16, 12:03:10](https://news.ycombinator.com/item?id=42155986) - [Micromelo Undatus](https://en.wikipedia.org/wiki/Micromelo_undatus)
 * [2024-11-16, 12:01:02](https://news.ycombinator.com/item?id=42155976) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)

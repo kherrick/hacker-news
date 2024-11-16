@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-16, 13:49:53](https://news.ycombinator.com/item?id=42156400) - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 * [2024-11-16, 12:01:02](https://news.ycombinator.com/item?id=42155976) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-11-16, 11:44:27](https://news.ycombinator.com/item?id=42155909) - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
 * [2024-11-16, 11:18:04](https://news.ycombinator.com/item?id=42155843) - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
@@ -16,7 +17,6 @@
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Show HN: Scooter – Interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
-* [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 09:58:11](https://news.ycombinator.com/item?id=42145419) - [Show HN: OnAir – create link, receive calls](https://onair.io/)
