@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How Public Key Cryptography Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+* [2024-11-16, 02:19:53](https://news.ycombinator.com/item?id=42153577) - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 * [2024-11-16, 02:14:15](https://news.ycombinator.com/item?id=42153535) - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
 * [2024-11-16, 00:21:34](https://news.ycombinator.com/item?id=42152928) - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
 * [2024-11-15, 23:13:00](https://news.ycombinator.com/item?id=42152362) - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
@@ -11,6 +11,7 @@
 * [2024-11-15, 21:50:30](https://news.ycombinator.com/item?id=42151569) - [Why did people rub snow on frozen feet? (2017)](https://outdoors.stackexchange.com/questions/15801/why-did-people-rub-snow-on-frozen-feet)
 * [2024-11-15, 20:57:05](https://news.ycombinator.com/item?id=42150933) - [First Impressions: Lenovo T14s with Qualcomm Snapdragon ARM64 CPU](https://lists.freebsd.org/archives/freebsd-hackers/2024-November/004068.html)
 * [2024-11-15, 20:25:19](https://news.ycombinator.com/item?id=42150550) - [Retrofitting spatial safety to lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html)
+* [2024-11-15, 20:06:12](https://news.ycombinator.com/item?id=42150376) - [Installed an open source garage door opener, and I'm loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
 * [2024-11-15, 19:56:21](https://news.ycombinator.com/item?id=42150278) - [Maybe Bluesky has \"won\"](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 19:47:18](https://news.ycombinator.com/item?id=42150206) - [C++ Template Macroprogramming versus Lisp Macros](https://simondobson.org/2024/06/21/c%2B%2B-template-macroprogramming-versus-lisp-macros/)
 * [2024-11-15, 18:49:32](https://news.ycombinator.com/item?id=42149694) - [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/)
@@ -29,7 +30,6 @@
 * [2024-11-10, 19:01:40](https://news.ycombinator.com/item?id=42101902) - [The history of the epigraph from Appointment in Samarra (2022)](https://subsublibrarian.com/2022/04/13/the-history-of-the-epigraph-from-appointment-in-samarra/)
 * [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
-* [2024-11-09, 05:12:07](https://news.ycombinator.com/item?id=42092670) - [Philosopher of Change: How Henri Bergson's View of Reality Came to Be](https://lithub.com/philosopher-of-change-how-henri-bergsons-radical-view-of-reality-came-to-be/)
 
 ## [Archives](archives/index.md)
 
