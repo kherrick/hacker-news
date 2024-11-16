@@ -48,6 +48,7 @@
 * [2024-11-10, 14:53:36](https://news.ycombinator.com/item?id=42100560) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 14:42:12](https://news.ycombinator.com/item?id=42100499) - [ASCII Delimited Text – Not CSV or Tab Delimited Text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/)
 * [2024-11-10, 14:33:10](https://news.ycombinator.com/item?id=42100442) - [Atari ST Programming: Hatari, STOS and Turbo C](https://retrogamecoders.com/atari-st-programming-atari-stos-and-turbo-c/)
+* [2024-11-10, 14:20:38](https://news.ycombinator.com/item?id=42100364) - [Solo round-the-world sailor Cole Brauer:first two weeks I cried every single day](https://www.theguardian.com/sport/2024/nov/08/solo-sailer-cole-brauer-interview)
 * [2024-11-10, 13:31:25](https://news.ycombinator.com/item?id=42100110) - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 * [2024-11-10, 13:30:54](https://news.ycombinator.com/item?id=42100107) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:52:19](https://news.ycombinator.com/item?id=42099928) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
