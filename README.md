@@ -19,7 +19,6 @@
 * [2024-11-15, 17:38:49](https://news.ycombinator.com/item?id=42149044) - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Show HN: Scooter – Interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
-* [2024-11-15, 15:49:07](https://news.ycombinator.com/item?id=42147934) - [Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework](https://github.com/noneback/go-taskflow)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 09:58:11](https://news.ycombinator.com/item?id=42145419) - [Show HN: OnAir – create link, receive calls](https://onair.io/)
@@ -28,6 +27,7 @@
 * [2024-11-11, 09:44:02](https://news.ycombinator.com/item?id=42105752) - [Four-wave mixing could boost optical communications in space](https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/)
 * [2024-11-10, 21:33:42](https://news.ycombinator.com/item?id=42102761) - [Nixie Tubes](https://danyk.cz/digitrony_en.html)
 * [2024-11-10, 15:19:46](https://news.ycombinator.com/item?id=42100653) - [Hackers use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [2024-11-10, 11:27:49](https://news.ycombinator.com/item?id=42099646) - [Pokemon TCG Pocket Hub – Open-Source Multilingual Card Game Resource Platform](https://pokemontcgpocket.app)
 * [2024-11-09, 18:46:37](https://news.ycombinator.com/item?id=42096107) - [The Taming of the Screw](https://americanhistory.si.edu/subs/anglesdangles/taming.html)
 * [2024-11-09, 16:08:35](https://news.ycombinator.com/item?id=42095134) - [Chimpanzees' performance on computer tasks changes when people watching them](https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7)
 

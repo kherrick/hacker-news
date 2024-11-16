@@ -56,6 +56,7 @@
 * [2024-11-10, 12:11:31](https://news.ycombinator.com/item?id=42099778) - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
 * [2024-11-10, 12:09:27](https://news.ycombinator.com/item?id=42099769) - [M4 and M4 Pro Mac minis are probably Apple's best Mac minis](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
 * [2024-11-10, 12:06:04](https://news.ycombinator.com/item?id=42099761) - [High Power Mode for M4 Pro Macs](https://mjtsai.com/blog/2024/11/08/high-power-mode-for-m4-pro-macs/)
+* [2024-11-10, 11:27:49](https://news.ycombinator.com/item?id=42099646) - [Pokemon TCG Pocket Hub – Open-Source Multilingual Card Game Resource Platform](https://pokemontcgpocket.app)
 * [2024-11-10, 11:23:09](https://news.ycombinator.com/item?id=42099629) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 11:11:11](https://news.ycombinator.com/item?id=42099596) - [Andrej Karpathy on learning(should never be fun)](https://twitter.com/karpathy/status/1756380066580455557)
 * [2024-11-10, 10:30:47](https://news.ycombinator.com/item?id=42099472) - [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
