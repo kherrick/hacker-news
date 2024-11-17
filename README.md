@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
-* [2024-11-17, 04:55:45](https://news.ycombinator.com/item?id=42162065) - [Gandhi's Letter to Hitler (1940)](https://www.mkgandhi.org/letters/hitler_ltr1.php)
 * [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
 * [2024-11-17, 03:03:02](https://news.ycombinator.com/item?id=42161664) - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
 * [2024-11-17, 01:43:18](https://news.ycombinator.com/item?id=42161284) - [One-parting some Commodore 64 utilities for fun and profit](http://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
