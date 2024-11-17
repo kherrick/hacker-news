@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2024-11-17, 12:39:12](https://news.ycombinator.com/item?id=42163883) - [Cloudflare.com's Robots.txt](https://www.cloudflare.com/robots.txt)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
-* [2024-11-17, 08:14:07](https://news.ycombinator.com/item?id=42162751) - [How to setup self hosted wiki for your startup](https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:31:27](https://news.ycombinator.com/item?id=42162205) - [DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What's the Difference?](https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/)
