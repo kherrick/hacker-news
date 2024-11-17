@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [I Ditched Buddhism (2003)](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
+* [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [Buddhist Retreat: Why I gave up on finding my religion (2003)](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
