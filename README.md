@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 * [2024-11-17, 04:55:45](https://news.ycombinator.com/item?id=42162065) - [Gandhi Letter to Adolf Hitler](https://www.mkgandhi.org/letters/hitler_ltr1.php)
@@ -23,7 +24,6 @@
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Two galaxies aligned in a way where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
-* [2024-11-16, 13:53:53](https://news.ycombinator.com/item?id=42156430) - [Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 12:41:18](https://news.ycombinator.com/item?id=42156126) - [Numpyro: Probabilistic programming with NumPy powered by Jax](https://github.com/pyro-ppl/numpyro)
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
