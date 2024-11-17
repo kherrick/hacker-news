@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-17, 19:54:24",
+      "https://news.ycombinator.com/item?id=42166606"
+    ],
+    [
+      "Why did Windows 95 setup use three operating systems?",
+      "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 19:24:56",
+      "https://news.ycombinator.com/item?id=42166359"
+    ],
+    [
+      "Amazon reportedly working on Echo Frames for delivery drivers",
+      "https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 18:49:25",
       "https://news.ycombinator.com/item?id=42166030"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-11-17, 18:33:32",
-      "https://news.ycombinator.com/item?id=42165908"
+      "2024-11-17, 18:26:37",
+      "https://news.ycombinator.com/item?id=42165862"
     ],
     [
-      "Will passkeys ever replace passwords? Can they? Here's why they should",
-      "https://www.theregister.com/2024/11/17/passkeys_passwords/"
+      "Creating a QR Code step by step",
+      "https://www.nayuki.io/page/creating-a-qr-code-step-by-step"
     ]
   ],
   [
@@ -211,36 +231,6 @@
   ],
   [
     [
-      "2024-11-16, 23:52:43",
-      "https://news.ycombinator.com/item?id=42160647"
-    ],
-    [
-      "James Gleick's Chaos: The Software",
-      "https://github.com/rudyrucker/chaos"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 22:43:49",
-      "https://news.ycombinator.com/item?id=42160071"
-    ],
-    [
-      "Teach yourself to echolocate (2018)",
-      "https://www.atlasobscura.com/articles/how-to-echolocate"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 22:07:58",
-      "https://news.ycombinator.com/item?id=42159786"
-    ],
-    [
-      "The Bluesky firehose viewed in the style of a Windows XP screensaver",
-      "https://firehose3d.theo.io/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 15:36:53",
       "https://news.ycombinator.com/item?id=42147833"
     ],
@@ -277,6 +267,16 @@
     [
       "Transistor for fuzzy logic hardware: promise for better edge computing",
       "https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 13:03:01",
+      "https://news.ycombinator.com/item?id=42115161"
+    ],
+    [
+      "Unit Testing Numerical Routines",
+      "https://buchanan.one/blog/testing-numerical-algorithms/"
     ]
   ],
   [
