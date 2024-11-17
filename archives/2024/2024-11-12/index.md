@@ -7,6 +7,7 @@
 * [2024-11-12, 23:54:51](https://news.ycombinator.com/item?id=42121365) - [A new vulnerability on IPv6 parsing in linux](https://nvd.nist.gov/vuln/detail/CVE-2024-50252)
 * [2024-11-12, 23:52:04](https://news.ycombinator.com/item?id=42121345) - [What's Your Favorite Invasive Species?](https://cinemasojourns.com/2024/11/12/whats-your-favorite-invasive-species/)
 * [2024-11-12, 23:27:02](https://news.ycombinator.com/item?id=42121122) - [Nutrient Density and Other Stupid Magic Words](https://www.exfatloss.com/p/nutrient-density-and-other-stupid)
+* [2024-11-12, 23:14:41](https://news.ycombinator.com/item?id=42120981) - [How we made a Ruby method 200x faster](https://www.campsite.com/blog/how-we-made-a-ruby-method-200x-faster)
 * [2024-11-12, 22:40:07](https://news.ycombinator.com/item?id=42120566) - [A Mathematician in a School of Art](https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss)
 * [2024-11-12, 22:18:43](https://news.ycombinator.com/item?id=42120385) - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
 * [2024-11-12, 22:11:24](https://news.ycombinator.com/item?id=42120331) - [The Fall 2024 Workforce Index Shows AI Hype Is Cooling](https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1)
