@@ -76,6 +76,7 @@
 * [2024-11-12, 10:23:37](https://news.ycombinator.com/item?id=42114318) - [SHA-256 0573e7473](https://susam.net/sha-256-0573e7473.html)
 * [2024-11-12, 09:28:31](https://news.ycombinator.com/item?id=42114051) - [Dev Fonts](https://devfonts.gafi.dev/)
 * [2024-11-12, 09:25:38](https://news.ycombinator.com/item?id=42114035) - [Squeezed through the eighth dimensional portal (2008)](https://wizardgynoid.wordpress.com/2008/11/02/squeezed-through-the-eighth-dimensional-portal/)
+* [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
 * [2024-11-12, 09:00:26](https://news.ycombinator.com/item?id=42113886) - [In 1924, the US Turned Off Their Radios to Search for Life on Mars](https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323)
 * [2024-11-12, 08:08:39](https://news.ycombinator.com/item?id=42113674) - [Watermark Anything](https://github.com/facebookresearch/watermark-anything)
 * [2024-11-12, 07:42:34](https://news.ycombinator.com/item?id=42113557) - [FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]](https://tangchq74.github.io/FBDetect-SOSP24.pdf)

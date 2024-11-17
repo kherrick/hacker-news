@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 * [2024-11-17, 04:55:45](https://news.ycombinator.com/item?id=42162065) - [Gandhi Letter to Adolf Hitler](https://www.mkgandhi.org/letters/hitler_ltr1.php)
 * [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)

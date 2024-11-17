@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 * [2024-11-17, 04:55:45](https://news.ycombinator.com/item?id=42162065) - [Gandhi Letter to Adolf Hitler](https://www.mkgandhi.org/letters/hitler_ltr1.php)
 * [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
@@ -17,7 +18,6 @@
 * [2024-11-16, 22:07:58](https://news.ycombinator.com/item?id=42159786) - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
 * [2024-11-16, 21:22:55](https://news.ycombinator.com/item?id=42159478) - [JavaScript dos and donts Mu-An Chiou](https://muan.co/posts/javascript)
 * [2024-11-16, 19:09:30](https://news.ycombinator.com/item?id=42158445) - [Logica – Declarative logic programming language for data](https://logica.dev/)
-* [2024-11-16, 19:00:39](https://news.ycombinator.com/item?id=42158366) - [New haptic patch transmits complexity of touch to the skin](https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html)
 * [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
 * [2024-11-16, 18:08:02](https://news.ycombinator.com/item?id=42157885) - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
@@ -29,7 +29,7 @@
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
-* [2024-11-10, 02:55:18](https://news.ycombinator.com/item?id=42098326) - [Eau de Nil, the Light-Green Color of Egypt-Obsessed Europe (2018)](https://www.theparisreview.org/blog/2018/02/13/eau-de-nil-light-green-color-egypt-obsessed-europe/)
+* [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
 
 ## [Archives](archives/index.md)
 
