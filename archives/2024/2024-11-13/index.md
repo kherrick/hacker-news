@@ -25,6 +25,7 @@
 * [2024-11-13, 19:12:25](https://news.ycombinator.com/item?id=42128935) - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
 * [2024-11-13, 19:12:24](https://news.ycombinator.com/item?id=42128933) - [Teens learn a new conspiracy theory every week on social media](https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media)
 * [2024-11-13, 19:04:03](https://news.ycombinator.com/item?id=42128866) - [My company has banned the use of Jetbrains IDEs internally](https://old.reddit.com/r/ExperiencedDevs/comments/1gqj7qa/my_company_has_banned_the_use_of_jetbrains_ides/)
+* [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 18:48:25](https://news.ycombinator.com/item?id=42128751) - [A cycling desk / Zwifting with a split keyboard](https://www.ohrg.org/cycling-typing)
 * [2024-11-13, 18:43:06](https://news.ycombinator.com/item?id=42128717) - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
 * [2024-11-13, 18:40:19](https://news.ycombinator.com/item?id=42128691) - [Graph-based AI model maps the future of innovation](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112)
