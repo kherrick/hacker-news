@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
 * [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [Buddhist Retreat: Why I gave up on finding my religion (2003)](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
@@ -13,8 +14,6 @@
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
 * [2024-11-17, 14:56:24](https://news.ycombinator.com/item?id=42164491) - [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
-* [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [The myth that you can’t build interactive web apps except as single page app](https://htmx.org/essays/you-cant/)
-* [2024-11-17, 13:39:39](https://news.ycombinator.com/item?id=42164141) - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
@@ -28,6 +27,7 @@
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
 * [2024-11-12, 18:38:27](https://news.ycombinator.com/item?id=42118298) - [Transistor for fuzzy logic hardware: promise for better edge computing](https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html)
+* [2024-11-12, 02:03:21](https://news.ycombinator.com/item?id=42112168) - [Show HN: Store and render ASCII diagrams in Obsidian](https://github.com/akopdev/obsidian-textgrams)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-11, 13:48:39](https://news.ycombinator.com/item?id=42107078) - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981](https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/)
 

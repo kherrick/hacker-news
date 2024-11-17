@@ -101,6 +101,7 @@
 * [2024-11-12, 03:09:27](https://news.ycombinator.com/item?id=42112439) - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
 * [2024-11-12, 03:07:33](https://news.ycombinator.com/item?id=42112432) - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
 * [2024-11-12, 02:09:03](https://news.ycombinator.com/item?id=42112193) - [Islands of the Feral Pigs](https://hakaimagazine.com/features/islands-of-the-feral-pigs/)
+* [2024-11-12, 02:03:21](https://news.ycombinator.com/item?id=42112168) - [Show HN: Store and render ASCII diagrams in Obsidian](https://github.com/akopdev/obsidian-textgrams)
 * [2024-11-12, 01:21:11](https://news.ycombinator.com/item?id=42112005) - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 * [2024-11-12, 01:06:00](https://news.ycombinator.com/item?id=42111938) - [Steve Jobs, NeXTSTEP, and early object-oriented programming (2016)](https://computerhistory.org/blog/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/)
 * [2024-11-12, 01:03:55](https://news.ycombinator.com/item?id=42111925) - [Visual inference exploration and experimentation playground](https://github.com/devidw/inferit)
