@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
+* [2024-11-17, 03:21:51](https://news.ycombinator.com/item?id=42161741) - [I Learned to Stop Being a \"Chill Girl\" and Start Being Me](https://www.vogue.com/article/how-to-let-go-of-chill-girl-persona)
 * [2024-11-17, 03:03:02](https://news.ycombinator.com/item?id=42161664) - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
 * [2024-11-17, 02:31:35](https://news.ycombinator.com/item?id=42161517) - [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
 * [2024-11-17, 02:24:30](https://news.ycombinator.com/item?id=42161486) - [How AI Could Break the Career Ladder](https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder)
