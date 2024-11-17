@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
+* [2024-11-16, 22:48:39](https://news.ycombinator.com/item?id=42160129) - [Microsoft and My Tinfoil Journey](https://www.bobbytables.io/p/microsoft-and-my-tinfoil-journey)
+* [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
+* [2024-11-16, 22:37:04](https://news.ycombinator.com/item?id=42160013) - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
 * [2024-11-16, 21:58:35](https://news.ycombinator.com/item?id=42159713) - [Bluesky is currently gaining more than 1M users a day](https://bsky.jazco.dev/stats)
 * [2024-11-16, 21:40:49](https://news.ycombinator.com/item?id=42159589) - [Judge Blocks The Onion Bid for Alex Jones's InfoWars](https://www.nationalreview.com/news/judge-blocks-the-onions-bid-for-alex-joness-infowars-to-review-bankruptcy-auction/)
 * [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [Bluesky is receiving about 3k reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
