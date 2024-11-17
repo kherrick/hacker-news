@@ -49,6 +49,7 @@
 * [2024-11-13, 12:20:30](https://news.ycombinator.com/item?id=42125434) - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
 * [2024-11-13, 12:00:46](https://news.ycombinator.com/item?id=42125291) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
 * [2024-11-13, 11:26:17](https://news.ycombinator.com/item?id=42125085) - [An unearthly spectacle – The untold story of the biggest nuclear bomb (2021)](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
+* [2024-11-13, 09:53:29](https://news.ycombinator.com/item?id=42124568) - [Show HN: Knight's Graph – game based on the Knight's tour problem](https://apps.apple.com/ru/app/knights-graph/id6737812039?l=en-GB)
 * [2024-11-13, 09:18:51](https://news.ycombinator.com/item?id=42124350) - [B2C billing is harder than B2B billing](https://arnon.dk/6-reasons-why-b2c-billing-is-actually-harder-than-b2b/)
 * [2024-11-13, 08:16:47](https://news.ycombinator.com/item?id=42123909) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
