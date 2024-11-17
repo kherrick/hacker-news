@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 11:25:06](https://news.ycombinator.com/item?id=42163518) - [Ask HN: Would you recommend a framework laptop](https://news.ycombinator.com/item?id=42163518)
 * [2024-11-17, 09:22:16](https://news.ycombinator.com/item?id=42163019) - [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
@@ -23,7 +24,6 @@
 * [2024-11-16, 13:53:53](https://news.ycombinator.com/item?id=42156430) - [Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 12:41:18](https://news.ycombinator.com/item?id=42156126) - [Numpyro: Probabilistic programming with NumPy powered by Jax](https://github.com/pyro-ppl/numpyro)
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
-* [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-12, 23:14:41](https://news.ycombinator.com/item?id=42120981) - [How we made a Ruby method 200x faster](https://www.campsite.com/blog/how-we-made-a-ruby-method-200x-faster)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
