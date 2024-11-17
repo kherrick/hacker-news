@@ -10,6 +10,7 @@
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 * [2024-11-17, 04:55:45](https://news.ycombinator.com/item?id=42162065) - [Gandhi Letter to Adolf Hitler](https://www.mkgandhi.org/letters/hitler_ltr1.php)
+* [2024-11-17, 04:52:30](https://news.ycombinator.com/item?id=42162044) - [Distributed Systems 4th Edition](https://www.distributed-systems.net/index.php/books/ds4/)
 * [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
 * [2024-11-17, 03:21:51](https://news.ycombinator.com/item?id=42161741) - [I Learned to Stop Being a \"Chill Girl\" and Start Being Me](https://www.vogue.com/article/how-to-let-go-of-chill-girl-persona)
 * [2024-11-17, 03:03:02](https://news.ycombinator.com/item?id=42161664) - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
