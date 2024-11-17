@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 09:22:16](https://news.ycombinator.com/item?id=42163019) - [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 * [2024-11-17, 08:35:44](https://news.ycombinator.com/item?id=42162842) - [Restart of Three Mile Island tests US appetite for nuclear revival](https://www.ft.com/content/b90f6e21-bb8d-4606-9e5e-c4acb56b86ce)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
