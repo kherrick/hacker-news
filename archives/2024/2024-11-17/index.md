@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 18:33:32](https://news.ycombinator.com/item?id=42165908) - [Will passkeys ever replace passwords? Can they? Here's why they should](https://www.theregister.com/2024/11/17/passkeys_passwords/)
 * [2024-11-17, 17:53:46](https://news.ycombinator.com/item?id=42165619) - [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
 * [2024-11-17, 17:37:59](https://news.ycombinator.com/item?id=42165517) - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 * [2024-11-17, 17:36:59](https://news.ycombinator.com/item?id=42165511) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
