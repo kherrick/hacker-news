@@ -34,6 +34,7 @@
 * [2024-11-12, 18:50:45](https://news.ycombinator.com/item?id=42118399) - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
 * [2024-11-12, 18:43:10](https://news.ycombinator.com/item?id=42118341) - [Bulk Image Search with Google Lens](https://serpapi.com/blog/bulk-image-search/)
 * [2024-11-12, 18:39:23](https://news.ycombinator.com/item?id=42118306) - [The race to commercialise nuclear-powered batteries](https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article)
+* [2024-11-12, 18:38:27](https://news.ycombinator.com/item?id=42118298) - [Transistor for fuzzy logic hardware: promise for better edge computing](https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html)
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-12, 18:25:02](https://news.ycombinator.com/item?id=42118175) - [The False Promise of Device-Based Education](https://www.afterbabel.com/p/false-promise-of-device-based-ed)
