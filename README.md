@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
-* [2024-11-17, 19:24:56](https://news.ycombinator.com/item?id=42166359) - [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
 * [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [2024-11-17, 18:24:57](https://news.ycombinator.com/item?id=42165849) - [Lucid dreaming app triples users' awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
@@ -26,6 +25,7 @@
 * [2024-11-15, 15:36:53](https://news.ycombinator.com/item?id=42147833) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/abs/2410.21713)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
+* [2024-11-13, 22:17:47](https://news.ycombinator.com/item?id=42130764) - [Sentence Structure for Writers (2017)](https://blog.oup.com/2017/11/sentence-structure-for-writers/)
 * [2024-11-12, 18:38:27](https://news.ycombinator.com/item?id=42118298) - [Transistor for fuzzy logic hardware: promise for better edge computing](https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html)
 * [2024-11-12, 13:03:01](https://news.ycombinator.com/item?id=42115161) - [Unit Testing Numerical Routines](https://buchanan.one/blog/testing-numerical-algorithms/)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
