@@ -31,6 +31,7 @@
 * [2024-11-12, 19:16:53](https://news.ycombinator.com/item?id=42118638) - [Sentry just gave $750k to open source projects](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)
 * [2024-11-12, 19:00:55](https://news.ycombinator.com/item?id=42118496) - [Spin 3.0 – open-source tooling for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v3)
 * [2024-11-12, 18:50:45](https://news.ycombinator.com/item?id=42118399) - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
+* [2024-11-12, 18:43:10](https://news.ycombinator.com/item?id=42118341) - [Bulk Image Search with Google Lens](https://serpapi.com/blog/bulk-image-search/)
 * [2024-11-12, 18:39:23](https://news.ycombinator.com/item?id=42118306) - [The race to commercialise nuclear-powered batteries](https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article)
 * [2024-11-12, 18:37:17](https://news.ycombinator.com/item?id=42118286) - [Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze](https://community-scripts.github.io/ProxmoxVE/)
 * [2024-11-12, 18:25:23](https://news.ycombinator.com/item?id=42118180) - [Visualizing 13M Bluesky Users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
