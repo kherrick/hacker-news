@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
@@ -27,7 +28,6 @@
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
-* [2024-11-12, 19:34:23](https://news.ycombinator.com/item?id=42118817) - [Samurai Serial Killers and Mass Murderers](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-serial-killers-and-mass-murderers/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
 
