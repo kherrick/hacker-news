@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
+* [2024-11-17, 14:15:06](https://news.ycombinator.com/item?id=42164272) - [Huawei developing SSD-tape hybrid amid US tech restrictions](https://blocksandfiles.com/2024/11/08/huawei-developing-meds-to-combat-disk-ship-stop-sickness/)
 * [2024-11-17, 14:03:48](https://news.ycombinator.com/item?id=42164226) - [A $12k Surgery to Change Eye Color Is Surging in Popularity](https://www.wsj.com/health/wellness/eye-color-change-surgery-risks-keratopigmentation-df99c38b)
 * [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [You Can't Build Interactive Web Apps Except as Single Page Applications](https://htmx.org/essays/you-cant/)
 * [2024-11-17, 13:39:39](https://news.ycombinator.com/item?id=42164141) - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
@@ -13,6 +14,7 @@
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2024-11-17, 12:39:12](https://news.ycombinator.com/item?id=42163883) - [Cloudflare.com's Robots.txt](https://www.cloudflare.com/robots.txt)
+* [2024-11-17, 12:35:57](https://news.ycombinator.com/item?id=42163872) - [Shadow Boxing (2016)](https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 * [2024-11-17, 11:25:06](https://news.ycombinator.com/item?id=42163518) - [Ask HN: Would you recommend a framework laptop](https://news.ycombinator.com/item?id=42163518)
