@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-17, 04:18:12](https://news.ycombinator.com/item?id=42161919) - [CSS Gets a New Logo: and It Uses the Color `Rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
-* [2024-11-17, 03:21:51](https://news.ycombinator.com/item?id=42161741) - [I Learned to Stop Being a \"Chill Girl\" and Start Being Me](https://www.vogue.com/article/how-to-let-go-of-chill-girl-persona)
 * [2024-11-17, 03:03:02](https://news.ycombinator.com/item?id=42161664) - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
 * [2024-11-17, 02:31:35](https://news.ycombinator.com/item?id=42161517) - [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
+* [2024-11-17, 01:43:18](https://news.ycombinator.com/item?id=42161284) - [One-parting some Commodore 64 utilities for fun and profit](http://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 * [2024-11-17, 01:32:02](https://news.ycombinator.com/item?id=42161223) - [Xogot – Godot for iPad](https://xogot.com/)
 * [2024-11-17, 01:15:03](https://news.ycombinator.com/item?id=42161125) - [Safety in an Unsafe World](https://lwn.net/Articles/995814/)
 * [2024-11-17, 00:12:23](https://news.ycombinator.com/item?id=42160768) - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
@@ -24,11 +24,11 @@
 * [2024-11-16, 13:53:53](https://news.ycombinator.com/item?id=42156430) - [Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 12:41:18](https://news.ycombinator.com/item?id=42156126) - [Numpyro: Probabilistic programming with NumPy powered by Jax](https://github.com/pyro-ppl/numpyro)
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
-* [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-12, 19:34:23](https://news.ycombinator.com/item?id=42118817) - [Samurai Serial Killers and Mass Murderers](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-serial-killers-and-mass-murderers/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
+* [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
 * [2024-11-10, 02:55:18](https://news.ycombinator.com/item?id=42098326) - [Eau de Nil, the Light-Green Color of Egypt-Obsessed Europe (2018)](https://www.theparisreview.org/blog/2018/02/13/eau-de-nil-light-green-color-egypt-obsessed-europe/)
 
 ## [Archives](archives/index.md)
