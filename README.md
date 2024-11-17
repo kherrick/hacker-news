@@ -8,7 +8,7 @@
 * [2024-11-17, 00:12:23](https://news.ycombinator.com/item?id=42160768) - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
 * [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
-* [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
+* [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop making me memorize the borrow checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
 * [2024-11-16, 22:37:04](https://news.ycombinator.com/item?id=42160013) - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
 * [2024-11-16, 22:07:58](https://news.ycombinator.com/item?id=42159786) - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
