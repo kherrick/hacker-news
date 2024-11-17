@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
 * [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
 * [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [I Ditched Buddhism](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
