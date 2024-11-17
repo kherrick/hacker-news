@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
 * [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop Making Me Memorize the Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-16, 22:48:39](https://news.ycombinator.com/item?id=42160129) - [Microsoft and My Tinfoil Journey](https://www.bobbytables.io/p/microsoft-and-my-tinfoil-journey)
 * [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
 * [2024-11-16, 22:37:04](https://news.ycombinator.com/item?id=42160013) - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
+* [2024-11-16, 22:07:58](https://news.ycombinator.com/item?id=42159786) - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
 * [2024-11-16, 21:58:35](https://news.ycombinator.com/item?id=42159713) - [Bluesky is currently gaining more than 1M users a day](https://bsky.jazco.dev/stats)
 * [2024-11-16, 21:40:49](https://news.ycombinator.com/item?id=42159589) - [Judge Blocks The Onion Bid for Alex Jones's InfoWars](https://www.nationalreview.com/news/judge-blocks-the-onions-bid-for-alex-joness-infowars-to-review-bankruptcy-auction/)
+* [2024-11-16, 21:22:55](https://news.ycombinator.com/item?id=42159478) - [JavaScript dos and donts Mu-An Chiou](https://muan.co/posts/javascript)
 * [2024-11-16, 21:20:13](https://news.ycombinator.com/item?id=42159454) - [Bluesky is receiving about 3k reports/hour](https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x)
 * [2024-11-16, 20:42:14](https://news.ycombinator.com/item?id=42159136) - [AI isn't unleashing imaginations, it's outsourcing them. The purpose is profit](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit)
 * [2024-11-16, 20:30:16](https://news.ycombinator.com/item?id=42159050) - [Twitter is the worst global social network–except for all the others](https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html)
