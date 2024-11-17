@@ -24,11 +24,11 @@
 * [2024-11-16, 17:23:39](https://news.ycombinator.com/item?id=42157558) - [SICP: The only computer science book worth reading twice? (2010)](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
 * [2024-11-16, 16:48:33](https://news.ycombinator.com/item?id=42157335) - [Two galaxies aligned in a way where their gravity acts as a compound lens](https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html)
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
-* [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
 * [2024-11-13, 22:17:47](https://news.ycombinator.com/item?id=42130764) - [Sentence Structure for Writers (2017)](https://blog.oup.com/2017/11/sentence-structure-for-writers/)
 * [2024-11-12, 13:03:01](https://news.ycombinator.com/item?id=42115161) - [Unit Testing Numerical Routines](https://buchanan.one/blog/testing-numerical-algorithms/)
+* [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [Recovering from a kidney donation](https://sjer.red/blog/2024/kidney/)
 
 ## [Archives](archives/index.md)
