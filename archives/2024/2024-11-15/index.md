@@ -48,6 +48,7 @@
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
 * [2024-11-15, 14:53:15](https://news.ycombinator.com/item?id=42147430) - [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
 * [2024-11-15, 14:38:56](https://news.ycombinator.com/item?id=42147310) - [Three-Quarters of U.S. Adults Are Now Overweight or Obese](https://www.nytimes.com/2024/11/14/well/obesity-epidemic-america.html)
+* [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-15, 13:06:44](https://news.ycombinator.com/item?id=42146544) - [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
