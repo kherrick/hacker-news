@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 13:33:16](https://news.ycombinator.com/item?id=42164120) - [Why are Indian and African wildlife so similar?](https://wanderingthru.com/why-are-indian-and-african-animals-so-similar/)
 * [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2024-11-17, 12:39:12](https://news.ycombinator.com/item?id=42163883) - [Cloudflare.com's Robots.txt](https://www.cloudflare.com/robots.txt)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
