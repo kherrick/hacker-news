@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-17, 20:56:57",
-      "https://news.ycombinator.com/item?id=42167166"
-    ],
-    [
-      "Apple's mouse is so bad that Tim Cook prefers using a different brand for work",
-      "https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 20:41:48",
       "https://news.ycombinator.com/item?id=42167035"
     ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42165397"
     ],
     [
-      "AlphaProof's Greatest Hits: the coolest bits from the IMO 2024 solutions",
+      "AlphaProof's Greatest Hits",
       "https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42164541"
     ],
     [
-      "Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley",
+      "Everything Is Just Functions: Insights from SICP and David Beazley",
       "https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "The myth that you can’t build interactive web apps except as single page app",
       "https://htmx.org/essays/you-cant/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 13:39:39",
+      "https://news.ycombinator.com/item?id=42164141"
+    ],
+    [
+      "Claude AI built me a React app to compare maps side by side",
+      "https://github.com/veloplanner/map-matrix"
     ]
   ],
   [
