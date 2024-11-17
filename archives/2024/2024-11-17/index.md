@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
 * [2024-11-17, 17:36:59](https://news.ycombinator.com/item?id=42165511) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
+* [2024-11-17, 17:26:37](https://news.ycombinator.com/item?id=42165447) - [Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/)
+* [2024-11-17, 16:34:26](https://news.ycombinator.com/item?id=42165057) - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
+* [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
 * [2024-11-17, 14:56:24](https://news.ycombinator.com/item?id=42164491) - [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
 * [2024-11-17, 14:15:06](https://news.ycombinator.com/item?id=42164272) - [Huawei developing SSD-tape hybrid amid US tech restrictions](https://blocksandfiles.com/2024/11/08/huawei-developing-meds-to-combat-disk-ship-stop-sickness/)
