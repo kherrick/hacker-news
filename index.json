@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-11-17, 13:44:03",
+      "https://news.ycombinator.com/item?id=42164154"
+    ],
+    [
+      "You Can't Build Interactive Web Apps Except as Single Page Applications",
+      "https://htmx.org/essays/you-cant/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 13:39:39",
+      "https://news.ycombinator.com/item?id=42164141"
+    ],
+    [
+      "Claude AI built me a React app to compare maps side by side",
+      "https://github.com/veloplanner/map-matrix"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 13:33:16",
       "https://news.ycombinator.com/item?id=42164120"
     ],
     [
       "Why are Indian and African wildlife so similar?",
       "https://wanderingthru.com/why-are-indian-and-african-animals-so-similar/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 13:29:50",
+      "https://news.ycombinator.com/item?id=42164104"
+    ],
+    [
+      "Build Your Own Handheld ZX Spectrum with Raspberry Pi Pico",
+      "https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 12:59:45",
+      "https://news.ycombinator.com/item?id=42163978"
+    ],
+    [
+      "Memos – An open source Rewinds / Recall",
+      "https://github.com/arkohut/memos"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2024-11-17, 05:31:27",
-      "https://news.ycombinator.com/item?id=42162205"
-    ],
-    [
-      "DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What's the Difference?",
-      "https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 04:18:12",
       "https://news.ycombinator.com/item?id=42161919"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-11-16, 18:08:02",
-      "https://news.ycombinator.com/item?id=42157885"
-    ],
-    [
-      "Statistical Rethinking (2024 Edition)",
-      "https://github.com/rmcelreath/stat_rethinking_2024"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 17:23:39",
       "https://news.ycombinator.com/item?id=42157558"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-11-16, 10:58:55",
-      "https://news.ycombinator.com/item?id=42155780"
-    ],
-    [
-      "Yggdrasil Network",
-      "https://yggdrasil-network.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 14:13:19",
       "https://news.ycombinator.com/item?id=42147110"
     ],
     [
       "Show HN: Zyme – An Evolvable Programming Language",
       "https://zyme.dev"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 13:23:26",
-      "https://news.ycombinator.com/item?id=42146689"
-    ],
-    [
-      "I tried every top email marketing tool",
-      "https://www.sitebuilderreport.com/email-marketing-tools/"
     ]
   ],
   [
