@@ -5,7 +5,7 @@
 * [2024-11-17, 01:32:02](https://news.ycombinator.com/item?id=42161223) - [Xogot – Godot for iPad](https://xogot.com/)
 * [2024-11-17, 01:15:03](https://news.ycombinator.com/item?id=42161125) - [Safety in an Unsafe World](https://lwn.net/Articles/995814/)
 * [2024-11-17, 00:12:23](https://news.ycombinator.com/item?id=42160768) - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
-* [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
+* [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Effect of a giant meteorite impact on Paleoarchean environment and life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
 * [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop making me memorize the borrow checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach Yourself to Echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
