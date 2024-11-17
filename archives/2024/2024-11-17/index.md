@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
+* [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
 * [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [I Ditched Buddhism](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
+* [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 19:24:56](https://news.ycombinator.com/item?id=42166359) - [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
 * [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)

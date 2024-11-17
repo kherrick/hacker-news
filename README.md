@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
+* [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+* [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [2024-11-17, 18:24:57](https://news.ycombinator.com/item?id=42165849) - [Lucid dreaming app triples users' awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
@@ -11,8 +13,6 @@
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
 * [2024-11-17, 14:56:24](https://news.ycombinator.com/item?id=42164491) - [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
-* [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [The myth that you can’t build interactive web apps except as single page app](https://htmx.org/essays/you-cant/)
-* [2024-11-17, 13:39:39](https://news.ycombinator.com/item?id=42164141) - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
