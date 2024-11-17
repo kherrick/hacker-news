@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
 * [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [You Can't Build Interactive Web Apps Except as Single Page Applications](https://htmx.org/essays/you-cant/)
 * [2024-11-17, 13:39:39](https://news.ycombinator.com/item?id=42164141) - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
 * [2024-11-17, 13:33:16](https://news.ycombinator.com/item?id=42164120) - [Why are Indian and African wildlife so similar?](https://wanderingthru.com/why-are-indian-and-african-animals-so-similar/)
