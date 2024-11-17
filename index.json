@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-11-17, 03:03:02",
+      "https://news.ycombinator.com/item?id=42161664"
+    ],
+    [
+      "Two Nobel Prize winners want to cancel their own CRISPR patents in Europe",
+      "https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 02:31:35",
+      "https://news.ycombinator.com/item?id=42161517"
+    ],
+    [
+      "IPv6 networks do apparently get probed",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 02:24:30",
+      "https://news.ycombinator.com/item?id=42161486"
+    ],
+    [
+      "How AI Could Break the Career Ladder",
+      "https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 01:32:02",
+      "https://news.ycombinator.com/item?id=42161223"
+    ],
+    [
+      "Xogot – Godot for iPad",
+      "https://xogot.com/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 01:15:03",
+      "https://news.ycombinator.com/item?id=42161125"
+    ],
+    [
+      "Safety in an Unsafe World",
+      "https://lwn.net/Articles/995814/"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 00:12:23",
       "https://news.ycombinator.com/item?id=42160768"
     ],
@@ -161,32 +211,12 @@
   ],
   [
     [
-      "2024-11-16, 14:34:46",
-      "https://news.ycombinator.com/item?id=42156640"
-    ],
-    [
-      "Treating bullying as everyone's problem reduces incidence in primary schools",
-      "https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 13:53:53",
       "https://news.ycombinator.com/item?id=42156430"
     ],
     [
       "Optimizers: The Low-Key MVP",
       "https://duckdb.org/2024/11/14/optimizers.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 13:49:53",
-      "https://news.ycombinator.com/item?id=42156400"
-    ],
-    [
-      "Show HN: Android Dev Quest – A puzzle game solvable only using developer tools",
-      "https://www.androiddev.quest/"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-11-16, 10:49:02",
-      "https://news.ycombinator.com/item?id=42155745"
-    ],
-    [
-      "C Compiler to SPIR-V",
-      "https://github.com/heroseh/hcc"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 05:34:57",
-      "https://news.ycombinator.com/item?id=42154583"
-    ],
-    [
-      "Kyanos: eBPF-based network issue analysis tool",
-      "https://github.com/hengyoush/kyanos"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 03:42:05",
       "https://news.ycombinator.com/item?id=42153953"
     ],
@@ -247,16 +257,6 @@
     [
       "Don't Look Twice: Faster Video Transformers with Run-Length Tokenization",
       "https://rccchoudhury.github.io/rlt/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 20:29:53",
-      "https://news.ycombinator.com/item?id=42150605"
-    ],
-    [
-      "Pleasant Debugging with GDB and DDD",
-      "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
     ]
   ],
   [
