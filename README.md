@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 08:35:44](https://news.ycombinator.com/item?id=42162842) - [Restart of Three Mile Island tests US appetite for nuclear revival](https://www.ft.com/content/b90f6e21-bb8d-4606-9e5e-c4acb56b86ce)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
-* [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy (2022)](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 * [2024-11-17, 05:14:07](https://news.ycombinator.com/item?id=42162144) - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
@@ -29,7 +29,7 @@
 * [2024-11-12, 18:43:10](https://news.ycombinator.com/item?id=42118341) - [Bulk Image Search with Google Lens](https://serpapi.com/blog/bulk-image-search/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
-* [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [My Kidney Donation](https://sjer.red/blog/2024/kidney/)
+* [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [Recovering from a kidney donation](https://sjer.red/blog/2024/kidney/)
 
 ## [Archives](archives/index.md)
 
