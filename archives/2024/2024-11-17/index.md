@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
 * [2024-11-17, 18:33:32](https://news.ycombinator.com/item?id=42165908) - [Will passkeys ever replace passwords? Can they? Here's why they should](https://www.theregister.com/2024/11/17/passkeys_passwords/)
 * [2024-11-17, 18:24:57](https://news.ycombinator.com/item?id=42165849) - [Lucid dreaming app triples users' awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
+* [2024-11-17, 18:12:14](https://news.ycombinator.com/item?id=42165759) - [Hobby Project: A dynamic C (Hot reloading) module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 * [2024-11-17, 17:53:46](https://news.ycombinator.com/item?id=42165619) - [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
 * [2024-11-17, 17:37:59](https://news.ycombinator.com/item?id=42165517) - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 * [2024-11-17, 17:36:59](https://news.ycombinator.com/item?id=42165511) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
