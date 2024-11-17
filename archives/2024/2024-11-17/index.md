@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
+* [2024-11-17, 19:24:56](https://news.ycombinator.com/item?id=42166359) - [Amazon reportedly working on Echo Frames for delivery drivers](https://www.theverge.com/2024/11/11/24293500/amazon-echo-frames-delivery-drivers-smart-glasses-wearables)
 * [2024-11-17, 18:49:25](https://news.ycombinator.com/item?id=42166030) - [Humans have caused 1.5 °C of long-term global warming according to new estimates](https://www.lancaster.ac.uk/news/humans-have-already-caused-15-c-of-long-term-global-warming-according-to-new-estimates)
 * [2024-11-17, 18:33:32](https://news.ycombinator.com/item?id=42165908) - [Will passkeys ever replace passwords? Can they? Here's why they should](https://www.theregister.com/2024/11/17/passkeys_passwords/)
+* [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [2024-11-17, 18:24:57](https://news.ycombinator.com/item?id=42165849) - [Lucid dreaming app triples users' awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
 * [2024-11-17, 18:12:14](https://news.ycombinator.com/item?id=42165759) - [Hobby Project: A dynamic C (Hot reloading) module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 * [2024-11-17, 17:53:46](https://news.ycombinator.com/item?id=42165619) - [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
