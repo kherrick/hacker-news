@@ -78,6 +78,7 @@
 * [2024-11-11, 05:29:00](https://news.ycombinator.com/item?id=42104762) - [Apple threatened workers over their talk about pay and remote work, feds charge](https://www.mercurynews.com/2024/11/06/apple-threatened-workers-over-talk-about-pay-remote-work-feds-charge/)
 * [2024-11-11, 05:08:41](https://news.ycombinator.com/item?id=42104714) - [Assembly Optimization Tips by Mark Larson](https://masm32.com/masmcode/marklarson/index.htm)
 * [2024-11-11, 04:21:46](https://news.ycombinator.com/item?id=42104573) - [Is `(expession, lvalue) = rvalue` a valid assignment in C or C++?](https://stackoverflow.com/questions/79171822/is-expession-lvalue-rvalue-a-valid-assignment-in-c-or-c-why-do-some-co)
+* [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [My Kidney Donation](https://sjer.red/blog/2024/kidney/)
 * [2024-11-11, 04:08:05](https://news.ycombinator.com/item?id=42104531) - [Virtual Windows 3.11 Computer](https://pieter.com/)
 * [2024-11-11, 04:06:42](https://news.ycombinator.com/item?id=42104524) - [MDN Browser Support Timelines](https://tools.simonwillison.net/mdn-timelines)
 * [2024-11-11, 03:24:58](https://news.ycombinator.com/item?id=42104378) - [Control iPhone with the movement of your eyes Support (SG)](https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios)

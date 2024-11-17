@@ -12,7 +12,6 @@
 * [2024-11-17, 01:15:03](https://news.ycombinator.com/item?id=42161125) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
 * [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Effect of a giant meteorite impact on Paleoarchean environment and life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
-* [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop making me memorize the borrow checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach yourself to echolocate](https://www.atlasobscura.com/articles/how-to-echolocate)
 * [2024-11-16, 22:37:04](https://news.ycombinator.com/item?id=42160013) - [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
 * [2024-11-16, 22:07:58](https://news.ycombinator.com/item?id=42159786) - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
@@ -30,6 +29,7 @@
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
+* [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [My Kidney Donation](https://sjer.red/blog/2024/kidney/)
 
 ## [Archives](archives/index.md)
 
