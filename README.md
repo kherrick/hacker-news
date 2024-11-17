@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 23:52:36](https://news.ycombinator.com/item?id=42168423) - [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
-* [2024-11-17, 18:24:57](https://news.ycombinator.com/item?id=42165849) - [Lucid dreaming app triples users' awareness in dreams, study finds](https://www.psypost.org/lucid-dreaming-app-triples-users-awareness-in-dreams-study-finds/)
 * [2024-11-17, 18:12:14](https://news.ycombinator.com/item?id=42165759) - [Hobby Project: A dynamic C (Hot reloading) module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 * [2024-11-17, 17:37:59](https://news.ycombinator.com/item?id=42165517) - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 * [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
