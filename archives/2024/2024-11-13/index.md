@@ -33,6 +33,7 @@
 * [2024-11-13, 17:09:03](https://news.ycombinator.com/item?id=42127877) - [Codeium launches Windsurf – the first agentic IDE](https://codeium.com/blog/windsurf-launch)
 * [2024-11-13, 17:01:25](https://news.ycombinator.com/item?id=42127787) - [Show HN: Burner – A low cost wallet to gift crypto](https://burner.pro/)
 * [2024-11-13, 17:00:36](https://news.ycombinator.com/item?id=42127776) - [Patterns (YC S21) Is Hiring to Transform Business Finance and Credit](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166)
+* [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
 * [2024-11-13, 16:39:55](https://news.ycombinator.com/item?id=42127569) - [Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3](https://www.kongabeat.com/)
 * [2024-11-13, 16:27:48](https://news.ycombinator.com/item?id=42127459) - [Covering the Supreme Court and the Judiciary in (Mostly) Plain English](https://amylhowe.com/)
 * [2024-11-13, 16:12:47](https://news.ycombinator.com/item?id=42127304) - [Just Eat Is Selling Grubhub to Marc Lore's Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
