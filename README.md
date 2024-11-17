@@ -9,7 +9,6 @@
 * [2024-11-17, 01:43:18](https://news.ycombinator.com/item?id=42161284) - [One-parting some Commodore 64 utilities for fun and profit](http://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 * [2024-11-17, 01:32:02](https://news.ycombinator.com/item?id=42161223) - [Xogot – Godot for iPad](https://xogot.com/)
 * [2024-11-17, 01:15:03](https://news.ycombinator.com/item?id=42161125) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
-* [2024-11-17, 00:12:23](https://news.ycombinator.com/item?id=42160768) - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
 * [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Effect of a giant meteorite impact on Paleoarchean environment and life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
 * [2024-11-16, 23:29:06](https://news.ycombinator.com/item?id=42160501) - [Stop making me memorize the borrow checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
@@ -28,6 +27,7 @@
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
+* [2024-11-12, 19:34:23](https://news.ycombinator.com/item?id=42118817) - [Samurai Serial Killers and Mass Murderers](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-serial-killers-and-mass-murderers/)
 * [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-12, 09:05:19](https://news.ycombinator.com/item?id=42113912) - [When Abstractions Break](https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/)
 
