@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-17, 02:24:30",
-      "https://news.ycombinator.com/item?id=42161486"
-    ],
-    [
-      "How AI Could Break the Career Ladder",
-      "https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 01:32:02",
       "https://news.ycombinator.com/item?id=42161223"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-11-16, 21:20:13",
-      "https://news.ycombinator.com/item?id=42159454"
-    ],
-    [
-      "We’re receiving about 3,000 reports/hour",
-      "https://bsky.app/profile/safety.bsky.app/post/3layun7re5s2x"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 19:09:30",
       "https://news.ycombinator.com/item?id=42158445"
     ],
@@ -237,6 +217,26 @@
     [
       "Yggdrasil Network",
       "https://yggdrasil-network.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 10:49:02",
+      "https://news.ycombinator.com/item?id=42155745"
+    ],
+    [
+      "C Compiler to SPIR-V",
+      "https://github.com/heroseh/hcc"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 05:34:57",
+      "https://news.ycombinator.com/item?id=42154583"
+    ],
+    [
+      "Kyanos: eBPF-based network issue analysis tool",
+      "https://github.com/hengyoush/kyanos"
     ]
   ],
   [
