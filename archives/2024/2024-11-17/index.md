@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
+* [2024-11-17, 12:39:12](https://news.ycombinator.com/item?id=42163883) - [Cloudflare.com's Robots.txt](https://www.cloudflare.com/robots.txt)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:25:06](https://news.ycombinator.com/item?id=42163518) - [Ask HN: Would you recommend a framework laptop](https://news.ycombinator.com/item?id=42163518)
 * [2024-11-17, 09:22:16](https://news.ycombinator.com/item?id=42163019) - [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
