@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-17, 01:59:55](https://news.ycombinator.com/item?id=42161348) - [Speaker Johnson says Gaetz ethics report should not be released](https://apnews.com/article/matt-gaetz-ethics-attorney-general-nomination-5960df4fe88bdc39bb9a413f92c38bf8)
 * [2024-11-17, 00:12:23](https://news.ycombinator.com/item?id=42160768) - [Pentagon fails 7th audit in a row but says progress made](https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/)
 * [2024-11-17, 00:02:48](https://news.ycombinator.com/item?id=42160716) - [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article)
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
@@ -28,6 +27,7 @@
 * [2024-11-16, 00:11:58](https://news.ycombinator.com/item?id=42152867) - [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://rccchoudhury.github.io/rlt/)
 * [2024-11-15, 20:29:53](https://news.ycombinator.com/item?id=42150605) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
+* [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
 * [2024-11-10, 02:55:18](https://news.ycombinator.com/item?id=42098326) - [Eau de Nil, the Light-Green Color of Egypt-Obsessed Europe (2018)](https://www.theparisreview.org/blog/2018/02/13/eau-de-nil-light-green-color-egypt-obsessed-europe/)
 

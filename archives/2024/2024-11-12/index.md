@@ -39,6 +39,7 @@
 * [2024-11-12, 18:04:19](https://news.ycombinator.com/item?id=42117970) - [Show HN: Open-source Kibana alternative for logs and traces in ClickHouse](https://github.com/hyperdxio/hyperdx/tree/v2)
 * [2024-11-12, 17:58:17](https://news.ycombinator.com/item?id=42117912) - [Large Language Models in National Security Applications](https://arxiv.org/abs/2407.03453)
 * [2024-11-12, 17:53:40](https://news.ycombinator.com/item?id=42117854) - [A next generation catalog of cultivated bananas](https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581)
+* [2024-11-12, 17:38:43](https://news.ycombinator.com/item?id=42117705) - [Resolving a mysterious problem with find](https://www.johndcook.com/blog/2024/11/12/find-file-names/)
 * [2024-11-12, 17:01:44](https://news.ycombinator.com/item?id=42117277) - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 * [2024-11-12, 16:34:24](https://news.ycombinator.com/item?id=42117008) - [Waymo One is now open to all in Los Angeles](https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/)
 * [2024-11-12, 16:30:07](https://news.ycombinator.com/item?id=42116967) - [US Senate to Revive Software Patents with PERA Bill Vote on Thursday](https://slashdot.org/submission/17329829/us-senate-to-revive-software-patents-with-pera-bill-vote-on-thursday)
