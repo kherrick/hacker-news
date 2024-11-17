@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [You Can't Build Interactive Web Apps Except as Single Page Applications](https://htmx.org/essays/you-cant/)
+* [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [Requiring Single Page Applications for Interactive Web Apps is a Myth](https://htmx.org/essays/you-cant/)
 * [2024-11-17, 13:39:39](https://news.ycombinator.com/item?id=42164141) - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
@@ -24,8 +24,8 @@
 * [2024-11-16, 15:52:39](https://news.ycombinator.com/item?id=42156977) - [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/)
 * [2024-11-16, 10:58:55](https://news.ycombinator.com/item?id=42155780) - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
+* [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-13, 22:17:47](https://news.ycombinator.com/item?id=42130764) - [Sentence Structure for Writers (2017)](https://blog.oup.com/2017/11/sentence-structure-for-writers/)
-* [2024-11-13, 09:53:29](https://news.ycombinator.com/item?id=42124568) - [Show HN: Knight's Graph – game based on the Knight's tour problem](https://apps.apple.com/ru/app/knights-graph/id6737812039?l=en-GB)
 * [2024-11-12, 23:14:41](https://news.ycombinator.com/item?id=42120981) - [How we made a Ruby method 200x faster](https://www.campsite.com/blog/how-we-made-a-ruby-method-200x-faster)
 * [2024-11-12, 13:03:01](https://news.ycombinator.com/item?id=42115161) - [Unit Testing Numerical Routines](https://buchanan.one/blog/testing-numerical-algorithms/)
 * [2024-11-11, 07:58:25](https://news.ycombinator.com/item?id=42105281) - [Timing-Sensitive Analysis in Python](https://deepnote.com/app/katkas-workspace/FaCT-721f3451-6e2e-4325-b2cc-0beeeb601c54?size_range=1000)
