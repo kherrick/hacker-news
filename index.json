@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-11-17, 01:59:55",
+      "https://news.ycombinator.com/item?id=42161348"
+    ],
+    [
+      "Speaker Johnson says Gaetz ethics report should not be released",
+      "https://apnews.com/article/matt-gaetz-ethics-attorney-general-nomination-5960df4fe88bdc39bb9a413f92c38bf8"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 00:12:23",
+      "https://news.ycombinator.com/item?id=42160768"
+    ],
+    [
+      "Pentagon fails 7th audit in a row but says progress made",
+      "https://thehill.com/policy/defense/4992913-pentagon-fails-7th-audit-in-a-row-but-says-progress-made/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 00:02:48",
+      "https://news.ycombinator.com/item?id=42160716"
+    ],
+    [
+      "Meteorite 200 times larger than one that killed dinosaurs reset early life",
+      "https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 23:52:43",
+      "https://news.ycombinator.com/item?id=42160647"
+    ],
+    [
+      "James Gleick's Chaos: The Software",
+      "https://github.com/rudyrucker/chaos"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 23:29:06",
       "https://news.ycombinator.com/item?id=42160501"
     ],
     [
       "Stop Making Me Memorize the Borrow Checker",
       "https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 22:48:39",
-      "https://news.ycombinator.com/item?id=42160129"
-    ],
-    [
-      "Microsoft and My Tinfoil Journey",
-      "https://www.bobbytables.io/p/microsoft-and-my-tinfoil-journey"
     ]
   ],
   [
@@ -37,6 +67,26 @@
     [
       "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
       "https://arxiv.org/abs/2310.03684"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 22:07:58",
+      "https://news.ycombinator.com/item?id=42159786"
+    ],
+    [
+      "The Bluesky firehose viewed in the style of a Windows XP screensaver",
+      "https://firehose3d.theo.io/"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 21:22:55",
+      "https://news.ycombinator.com/item?id=42159478"
+    ],
+    [
+      "JavaScript dos and donts Mu-An Chiou",
+      "https://muan.co/posts/javascript"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2024-11-16, 18:23:11",
-      "https://news.ycombinator.com/item?id=42158037"
-    ],
-    [
-      "Military's UFO-hunting aerial surveillance system detailed in report",
-      "https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 18:08:02",
       "https://news.ycombinator.com/item?id=42157885"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-11-16, 14:42:56",
-      "https://news.ycombinator.com/item?id=42156680"
-    ],
-    [
-      "Casio has released a ring in the form of its iconic watch",
-      "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 14:34:46",
       "https://news.ycombinator.com/item?id=42156640"
     ],
@@ -177,26 +207,6 @@
     [
       "Numpyro: Probabilistic programming with NumPy powered by Jax",
       "https://github.com/pyro-ppl/numpyro"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 12:01:02",
-      "https://news.ycombinator.com/item?id=42155976"
-    ],
-    [
-      "PermitFlow (YC W22) is hiring senior/staff engineers in NYC",
-      "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 11:18:04",
-      "https://news.ycombinator.com/item?id=42155843"
-    ],
-    [
-      "The Structure of a Worldview",
-      "https://www.allcatsarefemale.com/p/the-structure-of-a-worldview"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Pleasant Debugging with GDB and DDD",
       "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 15:52:51",
-      "https://news.ycombinator.com/item?id=42147985"
-    ],
-    [
-      "Surveillance and the history of 19th-century wearable tech",
-      "https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/"
     ]
   ],
   [
