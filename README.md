@@ -13,7 +13,7 @@
 * [2024-11-17, 16:34:26](https://news.ycombinator.com/item?id=42165057) - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
-* [2024-11-17, 14:56:24](https://news.ycombinator.com/item?id=42164491) - [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
+* [2024-11-17, 13:44:03](https://news.ycombinator.com/item?id=42164154) - [The myth that you can’t build interactive web apps except as single page app](https://htmx.org/essays/you-cant/)
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
