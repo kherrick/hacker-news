@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-17, 18:33:32",
+      "https://news.ycombinator.com/item?id=42165908"
+    ],
+    [
+      "Will passkeys ever replace passwords? Can they? Here's why they should",
+      "https://www.theregister.com/2024/11/17/passkeys_passwords/"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 17:53:46",
       "https://news.ycombinator.com/item?id=42165619"
     ],
@@ -127,16 +137,6 @@
     [
       "Memos – An open source Rewinds / Recall",
       "https://github.com/arkohut/memos"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 12:39:12",
-      "https://news.ycombinator.com/item?id=42163883"
-    ],
-    [
-      "Cloudflare.com's Robots.txt",
-      "https://www.cloudflare.com/robots.txt"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-11-12, 13:03:01",
-      "https://news.ycombinator.com/item?id=42115161"
-    ],
-    [
-      "Unit Testing Numerical Routines",
-      "https://buchanan.one/blog/testing-numerical-algorithms/"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 17:44:42",
       "https://news.ycombinator.com/item?id=42108933"
     ],
     [
       "ML in Go with a Python Sidecar",
       "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 13:48:39",
+      "https://news.ycombinator.com/item?id=42107078"
+    ],
+    [
+      "Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981",
+      "https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/"
     ]
   ]
 ]
