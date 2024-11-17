@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 17:53:46](https://news.ycombinator.com/item?id=42165619) - [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
+* [2024-11-17, 17:37:59](https://news.ycombinator.com/item?id=42165517) - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 * [2024-11-17, 17:36:59](https://news.ycombinator.com/item?id=42165511) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
 * [2024-11-17, 17:26:37](https://news.ycombinator.com/item?id=42165447) - [Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/)
+* [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits: the coolest bits from the IMO 2024 solutions](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
 * [2024-11-17, 16:34:26](https://news.ycombinator.com/item?id=42165057) - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)

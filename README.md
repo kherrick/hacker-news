@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-17, 17:53:46](https://news.ycombinator.com/item?id=42165619) - [Managing High Performers](https://substack.com/@staysaasy/p-144436923)
+* [2024-11-17, 17:37:59](https://news.ycombinator.com/item?id=42165517) - [The World Grid and New Geographies of Cooperation](https://centerforneweconomics.org/newsletters/the-world-grid-and-new-geographies-of-cooperation/)
 * [2024-11-17, 17:36:59](https://news.ycombinator.com/item?id=42165511) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon(2019)](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
 * [2024-11-17, 17:26:37](https://news.ycombinator.com/item?id=42165447) - [Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/)
+* [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits: the coolest bits from the IMO 2024 solutions](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
 * [2024-11-17, 16:34:26](https://news.ycombinator.com/item?id=42165057) - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
@@ -21,15 +24,12 @@
 * [2024-11-16, 23:52:43](https://news.ycombinator.com/item?id=42160647) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos)
 * [2024-11-16, 22:43:49](https://news.ycombinator.com/item?id=42160071) - [Teach yourself to echolocate (2018)](https://www.atlasobscura.com/articles/how-to-echolocate)
 * [2024-11-16, 22:07:58](https://news.ycombinator.com/item?id=42159786) - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
-* [2024-11-16, 18:33:02](https://news.ycombinator.com/item?id=42158130) - [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
-* [2024-11-16, 14:07:17](https://news.ycombinator.com/item?id=42156516) - [YC is wrong about LLMs for chip design](https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
 * [2024-11-13, 22:17:47](https://news.ycombinator.com/item?id=42130764) - [Sentence Structure for Writers (2017)](https://blog.oup.com/2017/11/sentence-structure-for-writers/)
 * [2024-11-12, 18:38:27](https://news.ycombinator.com/item?id=42118298) - [Transistor for fuzzy logic hardware: promise for better edge computing](https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html)
 * [2024-11-12, 13:03:01](https://news.ycombinator.com/item?id=42115161) - [Unit Testing Numerical Routines](https://buchanan.one/blog/testing-numerical-algorithms/)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
-* [2024-11-11, 04:18:51](https://news.ycombinator.com/item?id=42104568) - [Recovering from a kidney donation](https://sjer.red/blog/2024/kidney/)
 
 ## [Archives](archives/index.md)
 
