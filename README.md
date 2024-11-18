@@ -28,7 +28,7 @@
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
 * [2024-11-13, 09:08:26](https://news.ycombinator.com/item?id=42124278) - [Inverse Symbolic Calculator](https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html)
-* [2024-11-11, 19:49:39](https://news.ycombinator.com/item?id=42109936) - [Floppy Disk Storage (history)](https://www.ibm.com/history/floppy-disk)
+* [2024-11-12, 18:38:27](https://news.ycombinator.com/item?id=42118298) - [Transistor for fuzzy logic hardware: promise for better edge computing](https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 
 ## [Archives](archives/index.md)
