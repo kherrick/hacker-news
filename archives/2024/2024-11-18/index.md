@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of trying to run an old node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:02:50](https://news.ycombinator.com/item?id=42175043) - [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Things you didn't know about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)

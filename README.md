@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:44:48](https://news.ycombinator.com/item?id=42174840) - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
@@ -16,7 +17,6 @@
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
-* [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
