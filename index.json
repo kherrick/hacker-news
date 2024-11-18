@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 10:07:21",
+      "https://news.ycombinator.com/item?id=42171139"
+    ],
+    [
+      "AMD Radeon Pro W7700 Running on Raspberry Pi",
+      "https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 09:18:34",
       "https://news.ycombinator.com/item?id=42170932"
     ],
@@ -47,16 +57,6 @@
     [
       "We are shutting down Ondsel",
       "https://ondsel.com/blog/goodbye/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 04:02:13",
-      "https://news.ycombinator.com/item?id=42169615"
-    ],
-    [
-      "How Japanese Black Companies Oppress Workers and Ruin Lives[2014]",
-      "https://www.tofugu.com/japan/japanese-black-companies/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-11-15, 11:24:52",
-      "https://news.ycombinator.com/item?id=42145919"
-    ],
-    [
-      "Scientists discover laser light can cast a shadow",
-      "https://phys.org/news/2024-11-scientists-laser-shadow.html"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 00:23:23",
       "https://news.ycombinator.com/item?id=42142769"
     ],
@@ -297,6 +287,16 @@
     [
       "An alternative construction of Shannon entropy",
       "https://rkp.science/an-alternative-construction-of-shannon-entropy/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 17:44:42",
+      "https://news.ycombinator.com/item?id=42108933"
+    ],
+    [
+      "ML in Go with a Python Sidecar",
+      "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
     ]
   ]
 ]
