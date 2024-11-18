@@ -54,6 +54,7 @@
 * [2024-11-13, 11:26:17](https://news.ycombinator.com/item?id=42125085) - [An unearthly spectacle – The untold story of the biggest nuclear bomb (2021)](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
 * [2024-11-13, 09:53:29](https://news.ycombinator.com/item?id=42124568) - [Show HN: Knight's Graph – game based on the Knight's tour problem](https://apps.apple.com/ru/app/knights-graph/id6737812039?l=en-GB)
 * [2024-11-13, 09:18:51](https://news.ycombinator.com/item?id=42124350) - [B2C billing is harder than B2B billing](https://arnon.dk/6-reasons-why-b2c-billing-is-actually-harder-than-b2b/)
+* [2024-11-13, 09:08:26](https://news.ycombinator.com/item?id=42124278) - [Inverse Symbolic Calculator](https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html)
 * [2024-11-13, 08:16:47](https://news.ycombinator.com/item?id=42123909) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-13, 07:46:29](https://news.ycombinator.com/item?id=42123762) - [U.S. Sets Targets to Triple Nuclear Energy Capacity by 2050](https://www.energy.gov/ne/articles/us-sets-targets-triple-nuclear-energy-capacity-2050)
 * [2024-11-13, 07:35:39](https://news.ycombinator.com/item?id=42123712) - [AMD's CPU sales are miles better than Intel](https://www.pcguide.com/news/amds-cpu-sales-are-unsurprisingly-miles-ahead-of-intel-as-first-9800x3d-launch-numbers-published/)
