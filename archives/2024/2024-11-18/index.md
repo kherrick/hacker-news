@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
+* [2024-11-18, 20:55:46](https://news.ycombinator.com/item?id=42176911) - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
 * [2024-11-18, 19:47:30](https://news.ycombinator.com/item?id=42176158) - [Europeans spend 575M hours clicking on cookie banners a year](https://substack.com/@richholmes/note/c-77466623)
 * [2024-11-18, 19:16:07](https://news.ycombinator.com/item?id=42175850) - [Ben Affleck's a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
 * [2024-11-18, 19:12:33](https://news.ycombinator.com/item?id=42175815) - [Farmers' Suicide in the United States](https://en.wikipedia.org/wiki/Farmers%27_suicides_in_the_United_States)
