@@ -22,7 +22,7 @@
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
-* [2024-11-18, 00:09:20](https://news.ycombinator.com/item?id=42168503) - [Museum of Bad Art](https://museumofbadart.org/)
+* [2024-11-18, 03:02:11](https://news.ycombinator.com/item?id=42169363) - [Phonetic Matching](https://smoores.dev/post/phonetic_matching/)
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
