@@ -47,6 +47,7 @@
 * [2024-11-14, 13:53:58](https://news.ycombinator.com/item?id=42136136) - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
 * [2024-11-14, 13:47:06](https://news.ycombinator.com/item?id=42136095) - [FBI raids home and seizes phone of Polymarket founder](https://www.theguardian.com/technology/2024/nov/13/fbi-raid-polymarket-founder-trump-election)
 * [2024-11-14, 13:47:02](https://news.ycombinator.com/item?id=42136093) - [Quarry: A modern computing environment for your World](https://lattice.xyz/blog/introducing-quarry)
+* [2024-11-14, 13:41:18](https://news.ycombinator.com/item?id=42136054) - [File over App: A Philosophy for Digital Longevity](https://rishikeshs.com/file-over-app/)
 * [2024-11-14, 13:32:42](https://news.ycombinator.com/item?id=42136000) - [Keycloak took 10 months to fix a 2FA bypass](https://security.humanativaspa.it/an-analysis-of-the-keycloak-authentication-system/)
 * [2024-11-14, 12:42:59](https://news.ycombinator.com/item?id=42135658) - [Open-Source Software Is in Crisis](https://spectrum.ieee.org/open-source-crisis)
 * [2024-11-14, 12:22:43](https://news.ycombinator.com/item?id=42135531) - [Hosting a hobby project without credit card and How I did it](https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/)
