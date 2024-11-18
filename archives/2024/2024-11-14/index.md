@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 23:39:52](https://news.ycombinator.com/item?id=42142485) - [Faking Shaders III: Tixyland](https://garten.salat.dev/fake-shaders3.html)
 * [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Europeans Spend 575M Hours Clicking Cookie Banners Every Year](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners)
 * [2024-11-14, 22:23:09](https://news.ycombinator.com/item?id=42141843) - [Analysis of economic and productivity losses caused by cookie banners in Europe](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html)
 * [2024-11-14, 22:12:09](https://news.ycombinator.com/item?id=42141761) - [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
