@@ -25,11 +25,11 @@
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2024-11-17, 18:12:14](https://news.ycombinator.com/item?id=42165759) - [Show HN: A dynamic C (Hot reloading) module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 * [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
-* [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)
 * [2024-11-14, 23:39:52](https://news.ycombinator.com/item?id=42142485) - [Faking Shaders III: Tixyland](https://garten.salat.dev/fake-shaders3.html)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
+* [2024-11-12, 19:11:26](https://news.ycombinator.com/item?id=42118583) - [Pre-Greek Substrate](https://en.wikipedia.org/wiki/Pre-Greek_substrate)
 
 ## [Archives](archives/index.md)
 
