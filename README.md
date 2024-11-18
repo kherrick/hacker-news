@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 16:06:44](https://news.ycombinator.com/item?id=42173709) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/07/25/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 14:52:38](https://news.ycombinator.com/item?id=42172798) - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
@@ -29,7 +30,6 @@
 * [2024-11-14, 23:39:52](https://news.ycombinator.com/item?id=42142485) - [Faking Shaders III: Tixyland](https://garten.salat.dev/fake-shaders3.html)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
-* [2024-11-12, 19:11:26](https://news.ycombinator.com/item?id=42118583) - [Pre-Greek Substrate](https://en.wikipedia.org/wiki/Pre-Greek_substrate)
 
 ## [Archives](archives/index.md)
 
