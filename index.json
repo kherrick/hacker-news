@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-18, 13:53:07",
+      "https://news.ycombinator.com/item?id=42172281"
+    ],
+    [
+      "Bhutan, after prioritizing happiness, now faces an existential crisis",
+      "https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 13:22:16",
+      "https://news.ycombinator.com/item?id=42172081"
+    ],
+    [
+      "Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF",
+      "https://www.theregister.com/2024/11/18/who_me/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 13:10:48",
       "https://news.ycombinator.com/item?id=42172008"
     ],
@@ -27,6 +47,16 @@
     [
       "Show HN: Documind – Open-source AI tool to turn documents into structured data",
       "https://github.com/DocumindHQ/documind"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 10:13:28",
+      "https://news.ycombinator.com/item?id=42171164"
+    ],
+    [
+      "I was banned from the hCaptcha accessibility account for not being blind",
+      "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2024-11-18, 07:37:16",
-      "https://news.ycombinator.com/item?id=42170519"
+      "2024-11-18, 07:45:03",
+      "https://news.ycombinator.com/item?id=42170552"
     ],
     [
-      "Show HN: Dumbo – Hono inspired framework for PHP",
-      "https://github.com/notrab/dumbo"
+      "Against Best Practices",
+      "https://www.arp242.net/best-practices.html"
     ]
   ],
   [
@@ -105,8 +135,18 @@
       "https://news.ycombinator.com/item?id=42168997"
     ],
     [
-      "It's Time to Replace TCP in the Datacenter (2023)",
+      "It's time to replace TCP in the datacenter (2023)",
       "https://arxiv.org/abs/2210.00714"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 00:39:34",
+      "https://news.ycombinator.com/item?id=42168652"
+    ],
+    [
+      "Teen behind hundreds of swatting attacks pleads guilty to federal charges",
+      "https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/"
     ]
   ],
   [
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42168503"
     ],
     [
-      "Museum of Bad Art – art too bad to be ignored",
+      "Museum of Bad Art",
       "https://museumofbadart.org/"
     ]
   ],
@@ -135,8 +175,18 @@
       "https://news.ycombinator.com/item?id=42168491"
     ],
     [
-      "Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini",
+      "Show HN: The App I Built to Help Manage My Diabetes",
       "https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 23:52:36",
+      "https://news.ycombinator.com/item?id=42168423"
+    ],
+    [
+      "The withering dream of a cheap American electric car",
+      "https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113"
     ]
   ],
   [
@@ -147,16 +197,6 @@
     [
       "Show HN: Nova JavaScript Engine",
       "https://github.com/trynova/nova"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 22:11:24",
-      "https://news.ycombinator.com/item?id=42167809"
-    ],
-    [
-      "Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML",
-      "https://github.com/serpapi/nokolexbor"
     ]
   ],
   [
@@ -177,6 +217,16 @@
     [
       "Reverse Engineering iOS 18 Inactivity Reboot",
       "https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 21:20:19",
+      "https://news.ycombinator.com/item?id=42167388"
+    ],
+    [
+      "Electron Spins: a special case of Chromium mods",
+      "https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods"
     ]
   ],
   [
@@ -211,52 +261,12 @@
   ],
   [
     [
-      "2024-11-17, 12:59:45",
-      "https://news.ycombinator.com/item?id=42163978"
-    ],
-    [
-      "Memos – An open source Rewinds / Recall",
-      "https://github.com/arkohut/memos"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 11:37:45",
       "https://news.ycombinator.com/item?id=42163591"
     ],
     [
       "Garak, LLM Vulnerability Scanner",
       "https://github.com/NVIDIA/garak"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 08:44:29",
-      "https://news.ycombinator.com/item?id=42162878"
-    ],
-    [
-      "Constraints in Go",
-      "https://bitfieldconsulting.com/posts/constraints"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 14:07:17",
-      "https://news.ycombinator.com/item?id=42156516"
-    ],
-    [
-      "YC is wrong about LLMs for chip design",
-      "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 14:13:19",
-      "https://news.ycombinator.com/item?id=42147110"
-    ],
-    [
-      "Show HN: Zyme – An Evolvable Programming Language",
-      "https://zyme.dev"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "An alternative construction of Shannon entropy",
       "https://rkp.science/an-alternative-construction-of-shannon-entropy/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 17:44:42",
-      "https://news.ycombinator.com/item?id=42108933"
-    ],
-    [
-      "ML in Go with a Python Sidecar",
-      "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
     ]
   ]
 ]
