@@ -6,6 +6,7 @@
 
 * [2024-11-17, 23:52:36](https://news.ycombinator.com/item?id=42168423) - [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
+* [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
 * [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [I Ditched Buddhism](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
