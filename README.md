@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-* [2024-11-18, 19:12:33](https://news.ycombinator.com/item?id=42175815) - [Farmers' Suicide in the United States](https://en.wikipedia.org/wiki/Farmers%27_suicides_in_the_United_States)
 * [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:54:33](https://news.ycombinator.com/item?id=42175624) - [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
@@ -22,6 +21,7 @@
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
+* [2024-11-18, 03:02:11](https://news.ycombinator.com/item?id=42169363) - [Phonetic Matching](https://smoores.dev/post/phonetic_matching/)
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
