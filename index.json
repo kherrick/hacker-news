@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42169998"
     ],
     [
-      "We are shutting down the Ondsel FreeCAD business",
+      "We are shutting down Ondsel",
       "https://ondsel.com/blog/goodbye/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42169027"
     ],
     [
-      "1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies",
+      "Japanese workers turn to resignation agencies",
       "https://metropolisjapan.com/resignation-agencies/"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini",
       "https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 23:07:25",
+      "https://news.ycombinator.com/item?id=42168166"
+    ],
+    [
+      "Show HN: Nova JavaScript Engine",
+      "https://github.com/trynova/nova"
     ]
   ],
   [
@@ -175,8 +185,8 @@
       "https://news.ycombinator.com/item?id=42164541"
     ],
     [
-      "Everything Is Just Functions: Insights from SICP and David Beazley",
-      "https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df"
+      "Everything Is Just Functions: 1 week with David Beazley and SICP",
+      "https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42162368"
     ],
     [
-      "Contain – CSS Cascading Style Sheets – MDN",
+      "The ‘contain’ CSS property",
       "https://developer.mozilla.org/en-US/docs/Web/CSS/contain"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "ML in Go with a Python Sidecar",
       "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 13:48:39",
-      "https://news.ycombinator.com/item?id=42107078"
-    ],
-    [
-      "Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981",
-      "https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/"
     ]
   ]
 ]
