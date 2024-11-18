@@ -8,6 +8,7 @@
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
 * [2024-11-17, 22:11:24](https://news.ycombinator.com/item?id=42167809) - [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
+* [2024-11-17, 22:06:25](https://news.ycombinator.com/item?id=42167763) - [Solar-powered desalination system requires no extra batteries](https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
