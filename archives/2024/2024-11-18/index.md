@@ -11,6 +11,7 @@
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
+* [2024-11-18, 06:23:31](https://news.ycombinator.com/item?id=42170209) - [POSSE: Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 * [2024-11-18, 05:21:24](https://news.ycombinator.com/item?id=42169913) - [\"We Will Pass Those Tariff Costs Back to the Consumer,\" Says CEO of AutoZone](https://finance.yahoo.com/news/pass-those-tariff-costs-back-190017675.html)
 * [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
