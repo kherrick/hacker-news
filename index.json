@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 12:26:12",
+      "https://news.ycombinator.com/item?id=42171774"
+    ],
+    [
+      "Google Gemini tells grad student to 'please die' while helping with his homework",
+      "https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 10:51:14",
       "https://news.ycombinator.com/item?id=42171311"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-11-18, 09:38:02",
-      "https://news.ycombinator.com/item?id=42171019"
-    ],
-    [
-      "Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria",
-      "https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 08:33:32",
       "https://news.ycombinator.com/item?id=42170740"
     ],
     [
       "Reactive HTML Notebooks",
       "https://maxbo.me/a-html-file-is-all-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 07:45:03",
-      "https://news.ycombinator.com/item?id=42170552"
-    ],
-    [
-      "Against Best Practices",
-      "https://www.arp242.net/best-practices.html"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "We are shutting down Ondsel",
       "https://ondsel.com/blog/goodbye/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 04:02:13",
+      "https://news.ycombinator.com/item?id=42169615"
+    ],
+    [
+      "How Japanese black companies oppress workers (2014)",
+      "https://www.tofugu.com/japan/japanese-black-companies/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-11-17, 07:42:08",
+      "https://news.ycombinator.com/item?id=42162622"
+    ],
+    [
+      "All-in-one embedding model for interleaved text, images, and screenshots",
+      "https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 14:07:17",
       "https://news.ycombinator.com/item?id=42156516"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: Zyme – An Evolvable Programming Language",
       "https://zyme.dev"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 11:24:52",
-      "https://news.ycombinator.com/item?id=42145919"
-    ],
-    [
-      "Scientists discover laser light can cast a shadow",
-      "https://phys.org/news/2024-11-scientists-laser-shadow.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-11-13, 09:08:26",
-      "https://news.ycombinator.com/item?id=42124278"
-    ],
-    [
-      "Inverse Symbolic Calculator",
-      "https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 17:44:42",
       "https://news.ycombinator.com/item?id=42108933"
     ],
     [
       "ML in Go with a Python Sidecar",
       "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
+    ]
+  ],
+  [
+    [
+      "2024-11-10, 19:40:07",
+      "https://news.ycombinator.com/item?id=42102138"
+    ],
+    [
+      "Recurrent noise limiting coding, Mandelbrot (1954) [pdf]",
+      "https://users.math.yale.edu/~bbm3/web_pdfs/008recurrentnoiselimiting.pdf"
     ]
   ]
 ]
