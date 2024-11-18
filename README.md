@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
 * [2024-11-18, 09:18:34](https://news.ycombinator.com/item?id=42170932) - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
-* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:12:44](https://news.ycombinator.com/item?id=42169418) - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 * [2024-11-18, 01:42:41](https://news.ycombinator.com/item?id=42168997) - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
 * [2024-11-18, 00:28:00](https://news.ycombinator.com/item?id=42168604) - [Wiby – Search Engine for the Classic Web](https://wiby.me/)
@@ -24,12 +24,12 @@
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 * [2024-11-17, 06:34:46](https://news.ycombinator.com/item?id=42162390) - [Phased Array](https://en.wikipedia.org/wiki/Phased_array)
 * [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [The ‘contain’ CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
-* [2024-11-15, 11:24:52](https://news.ycombinator.com/item?id=42145919) - [Scientists discover laser light can cast a shadow](https://phys.org/news/2024-11-scientists-laser-shadow.html)
 * [2024-11-15, 00:23:23](https://news.ycombinator.com/item?id=42142769) - [M4 MacBook Pro Uses Quantum Dot Display Technology](https://www.macrumors.com/2024/11/14/m4-macbook-pro-quantum-dot/)
 * [2024-11-14, 19:20:03](https://news.ycombinator.com/item?id=42140048) - [Making the Mandelbrot Set with Excel](https://divisbyzero.com/2024/11/13/making-the-mandelbrot-set-with-excel/)
 * [2024-11-14, 13:41:18](https://news.ycombinator.com/item?id=42136054) - [File over App: A Philosophy for Digital Longevity](https://rishikeshs.com/file-over-app/)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
+* [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 
 ## [Archives](archives/index.md)
 
