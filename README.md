@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 17:31:25](https://news.ycombinator.com/item?id=42174703) - [Illegally logged wood from Cambodia likely ending up in U.S. homes](https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
-* [2024-11-18, 16:19:28](https://news.ycombinator.com/item?id=42173870) - [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
+* [2024-11-18, 16:27:06](https://news.ycombinator.com/item?id=42173960) - [Qwen2.5 Turbo extends context length to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-turbo/)
 * [2024-11-18, 15:34:44](https://news.ycombinator.com/item?id=42173316) - [Coincidences that make our existence possible](https://bigthink.com/starts-with-a-bang/5-coincidences-make-existence-possible/)
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
 * [2024-11-18, 15:24:21](https://news.ycombinator.com/item?id=42173184) - [Bird brain from the age of dinosaurs reveals roots of avian intelligence](https://www.cam.ac.uk/stories/roots-of-bird-intelligence)
@@ -28,8 +29,7 @@
 * [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)
 * [2024-11-14, 23:39:52](https://news.ycombinator.com/item?id=42142485) - [Faking Shaders III: Tixyland](https://garten.salat.dev/fake-shaders3.html)
-* [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
-* [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
+* [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 
 ## [Archives](archives/index.md)
 
