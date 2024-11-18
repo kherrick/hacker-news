@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-18, 19:16:07](https://news.ycombinator.com/item?id=42175850) - [Ben Affleck's a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
 * [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:54:33](https://news.ycombinator.com/item?id=42175624) - [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
-* [2024-11-18, 17:44:48](https://news.ycombinator.com/item?id=42174840) - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 * [2024-11-18, 17:31:25](https://news.ycombinator.com/item?id=42174703) - [Illegally logged wood from Cambodia likely ending up in U.S. homes](https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/)
 * [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
@@ -18,6 +16,7 @@
 * [2024-11-18, 14:52:38](https://news.ycombinator.com/item?id=42172798) - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
+* [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
@@ -28,6 +27,7 @@
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)
+* [2024-11-15, 13:48:21](https://news.ycombinator.com/item?id=42146894) - [A programmable FPGA SoM in the tiny microSD form factor](https://www.crowdsupply.com/signaloid/signaloid-c0-microsd)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 

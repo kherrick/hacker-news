@@ -52,6 +52,7 @@
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)
+* [2024-11-15, 13:48:21](https://news.ycombinator.com/item?id=42146894) - [A programmable FPGA SoM in the tiny microSD form factor](https://www.crowdsupply.com/signaloid/signaloid-c0-microsd)
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-15, 13:06:44](https://news.ycombinator.com/item?id=42146544) - [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
