@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 21:56:25](https://news.ycombinator.com/item?id=42177543) - [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
+* [2024-11-18, 21:41:20](https://news.ycombinator.com/item?id=42177411) - [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 * [2024-11-18, 20:55:46](https://news.ycombinator.com/item?id=42176911) - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
 * [2024-11-18, 19:47:30](https://news.ycombinator.com/item?id=42176158) - [Europeans spend 575M hours clicking on cookie banners a year](https://substack.com/@richholmes/note/c-77466623)
 * [2024-11-18, 19:16:07](https://news.ycombinator.com/item?id=42175850) - [Ben Affleck's a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
+* [2024-11-18, 19:13:33](https://news.ycombinator.com/item?id=42175821) - [End-to-End Tour of Text Layout/Rendering (2015)](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
 * [2024-11-18, 19:12:33](https://news.ycombinator.com/item?id=42175815) - [Farmers' Suicide in the United States](https://en.wikipedia.org/wiki/Farmers%27_suicides_in_the_United_States)
 * [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:54:33](https://news.ycombinator.com/item?id=42175624) - [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
