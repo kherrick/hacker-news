@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
 * [2024-11-17, 23:52:36](https://news.ycombinator.com/item?id=42168423) - [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)
+* [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:21:07](https://news.ycombinator.com/item?id=42167887) - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
 * [2024-11-17, 22:11:24](https://news.ycombinator.com/item?id=42167809) - [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
@@ -27,6 +28,7 @@
 * [2024-11-17, 16:34:26](https://news.ycombinator.com/item?id=42165057) - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
+* [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: 1 week with David Beazley and SICP](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655)
 * [2024-11-17, 14:56:24](https://news.ycombinator.com/item?id=42164491) - [Battery-Free Bioelectronic Implants](https://www.chemistryworld.com/features/battery-free-bioelectronic-implants/4020431.article)
 * [2024-11-17, 14:15:06](https://news.ycombinator.com/item?id=42164272) - [Huawei developing SSD-tape hybrid amid US tech restrictions](https://blocksandfiles.com/2024/11/08/huawei-developing-meds-to-combat-disk-ship-stop-sickness/)
 * [2024-11-17, 14:03:48](https://news.ycombinator.com/item?id=42164226) - [A $12k Surgery to Change Eye Color Is Surging in Popularity](https://www.wsj.com/health/wellness/eye-color-change-surgery-risks-keratopigmentation-df99c38b)
