@@ -17,6 +17,7 @@
 * [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)
 * [2024-11-17, 15:23:38](https://news.ycombinator.com/item?id=42164637) - [A Taxonomy of AgentOps](https://arxiv.org/abs/2411.05285)
 * [2024-11-17, 15:07:10](https://news.ycombinator.com/item?id=42164541) - [Everything Is Just Functions: Insights from SICP and David Beazley](https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655#58ee6b0435b24e26bd624b33ffed94df)
+* [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 11:38:35](https://news.ycombinator.com/item?id=42163597) - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
@@ -27,7 +28,6 @@
 * [2024-11-14, 13:41:18](https://news.ycombinator.com/item?id=42136054) - [File over App: A Philosophy for Digital Longevity](https://rishikeshs.com/file-over-app/)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
-* [2024-11-12, 02:03:21](https://news.ycombinator.com/item?id=42112168) - [Show HN: Store and render ASCII diagrams in Obsidian](https://github.com/akopdev/obsidian-textgrams)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-11, 13:48:39](https://news.ycombinator.com/item?id=42107078) - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981](https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/)
 
