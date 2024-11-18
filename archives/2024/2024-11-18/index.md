@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
+* [2024-11-18, 13:22:16](https://news.ycombinator.com/item?id=42172081) - [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
 * [2024-11-18, 13:10:48](https://news.ycombinator.com/item?id=42172008) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
 * [2024-11-18, 12:56:25](https://news.ycombinator.com/item?id=42171924) - [$500k Pay, Easy Hours: How Dermatology Became the 'It' Job in Medicine](https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53)
 * [2024-11-18, 12:26:12](https://news.ycombinator.com/item?id=42171774) - [Google Gemini tells grad student to 'please die' while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
+* [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
 * [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
@@ -34,6 +37,7 @@
 * [2024-11-18, 01:33:31](https://news.ycombinator.com/item?id=42168953) - [Why Not Bluesky](https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky)
 * [2024-11-18, 00:41:44](https://news.ycombinator.com/item?id=42168665) - [Why LLMs Within Software Development May Be a Dead End](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/)
 * [2024-11-18, 00:39:34](https://news.ycombinator.com/item?id=42168652) - [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
+* [2024-11-18, 00:39:34](https://news.ycombinator.com/item?id=42168652) - [Teen behind hundreds of swatting attacks pleads guilty to federal charges](https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/)
 * [2024-11-18, 00:28:00](https://news.ycombinator.com/item?id=42168604) - [Wiby – Search Engine for the Classic Web](https://wiby.me/)
 * [2024-11-18, 00:23:00](https://news.ycombinator.com/item?id=42168576) - [ChibiHash: Small, Fast 64 bit hash function](https://nrk.neocities.org/articles/chibihash)
 * [2024-11-18, 00:09:20](https://news.ycombinator.com/item?id=42168503) - [Museum of Bad Art – art too bad to be ignored](https://museumofbadart.org/)

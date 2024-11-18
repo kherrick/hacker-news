@@ -11,6 +11,7 @@
 * [2024-11-17, 22:06:25](https://news.ycombinator.com/item?id=42167763) - [Solar-powered desalination system requires no extra batteries](https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE?](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+* [2024-11-17, 21:20:19](https://news.ycombinator.com/item?id=42167388) - [Electron Spins: a special case of Chromium mods](https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods)
 * [2024-11-17, 20:56:57](https://news.ycombinator.com/item?id=42167166) - [Apple's mouse is so bad that Tim Cook prefers using a different brand for work](https://glassalmanac.com/apples-mouse-is-so-bad-that-tim-cook-prefers-using-a-different-brand-for-work/)
 * [2024-11-17, 20:41:48](https://news.ycombinator.com/item?id=42167035) - [I Ditched Buddhism](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html)
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
