@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2024-11-18, 09:44:54",
+      "https://news.ycombinator.com/item?id=42171043"
+    ],
+    [
+      "LLaVA-O1: Let Vision Language Models Reason Step-by-Step",
+      "https://arxiv.org/abs/2411.10440"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 08:33:32",
       "https://news.ycombinator.com/item?id=42170740"
     ],
     [
       "Reactive HTML Notebooks",
       "https://maxbo.me/a-html-file-is-all-you-need.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:37:16",
+      "https://news.ycombinator.com/item?id=42170519"
+    ],
+    [
+      "Show HN: Dumbo – Hono inspired framework for PHP",
+      "https://github.com/notrab/dumbo"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2024-11-18, 03:02:11",
+      "https://news.ycombinator.com/item?id=42169363"
+    ],
+    [
+      "Phonetic Matching",
+      "https://smoores.dev/post/phonetic_matching/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 01:42:41",
       "https://news.ycombinator.com/item?id=42168997"
     ],
@@ -81,22 +111,22 @@
   ],
   [
     [
-      "2024-11-18, 00:28:00",
-      "https://news.ycombinator.com/item?id=42168604"
-    ],
-    [
-      "Wiby – Search Engine for the Classic Web",
-      "https://wiby.me/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 00:23:00",
       "https://news.ycombinator.com/item?id=42168576"
     ],
     [
       "ChibiHash: Small, Fast 64 bit hash function",
       "https://nrk.neocities.org/articles/chibihash"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 00:09:20",
+      "https://news.ycombinator.com/item?id=42168503"
+    ],
+    [
+      "Museum of Bad Art – art too bad to be ignored",
+      "https://museumofbadart.org/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-11-17, 15:23:38",
-      "https://news.ycombinator.com/item?id=42164637"
-    ],
-    [
-      "A Taxonomy of AgentOps",
-      "https://arxiv.org/abs/2411.05285"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 12:59:45",
       "https://news.ycombinator.com/item?id=42163978"
     ],
@@ -227,16 +247,6 @@
     [
       "Constraints in Go",
       "https://bitfieldconsulting.com/posts/constraints"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 07:42:08",
-      "https://news.ycombinator.com/item?id=42162622"
-    ],
-    [
-      "All-in-one embedding model for interleaved text, images, and screenshots",
-      "https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ML in Go with a Python Sidecar",
       "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 19:40:07",
-      "https://news.ycombinator.com/item?id=42102138"
-    ],
-    [
-      "Recurrent noise limiting coding, Mandelbrot (1954) [pdf]",
-      "https://users.math.yale.edu/~bbm3/web_pdfs/008recurrentnoiselimiting.pdf"
     ]
   ]
 ]
