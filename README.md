@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-18, 13:10:48](https://news.ycombinator.com/item?id=42172008) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
+* [2024-11-18, 12:56:25](https://news.ycombinator.com/item?id=42171924) - [$500k Pay, Easy Hours: How Dermatology Became the 'It' Job in Medicine](https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
@@ -8,7 +9,6 @@
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
 * [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
-* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese black companies oppress workers (2014)](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:02:11](https://news.ycombinator.com/item?id=42169363) - [Phonetic Matching](https://smoores.dev/post/phonetic_matching/)
 * [2024-11-18, 01:42:41](https://news.ycombinator.com/item?id=42168997) - [It's Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/abs/2210.00714)
 * [2024-11-18, 00:23:00](https://news.ycombinator.com/item?id=42168576) - [ChibiHash: Small, Fast 64 bit hash function](https://nrk.neocities.org/articles/chibihash)
