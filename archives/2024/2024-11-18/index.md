@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
 * [2024-11-18, 16:19:28](https://news.ycombinator.com/item?id=42173870) - [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
 * [2024-11-18, 16:06:44](https://news.ycombinator.com/item?id=42173709) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/07/25/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
+* [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 * [2024-11-18, 14:52:38](https://news.ycombinator.com/item?id=42172798) - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 * [2024-11-18, 14:44:49](https://news.ycombinator.com/item?id=42172705) - [The most helpful charity isn't what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
