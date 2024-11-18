@@ -129,6 +129,268 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42175043">
+          <h3>
+            <a
+              class="item"
+              href="https://canolcer.com/post/thoughts-on-bluesky/"
+              >Thoughts on Bluesky</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 18:02:50</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42175043"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42175023">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.google/outreach-initiatives/education/google-scholar-20-years/"
+              >Things you didn't know about Google Scholar</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 18:01:18</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42175023"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42174840">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=BcmUZpdChhA"
+              >Unreal 5.5 is a big deal [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 17:44:48</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42174840"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42174829">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/circlemind-ai/fast-graphrag"
+              >Show HN: FastGraphRAG – Better RAG using good old PageRank</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 17:43:13</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42174829"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Building a good RAG pipeline these days takes a lot of manual
+                optimizations. Most engineers intuitively start from naive RAG:
+                throw everything in a vector database and hope that semantic
+                search is powerful enough. This can work for use cases where
+                accuracy isn’t too important and hallucinations are tolerable,
+                but it doesn’t work for more difficult queries that involve
+                multi-hop reasoning or more advanced domain understanding. Also,
+                it’s impossible to debug it.
+              </p>
+              <p>
+                To address these limitations, many engineers find themselves
+                adding extra layers like agent-based preprocessing, custom
+                embeddings, reranking mechanisms, and hybrid search strategies.
+                Much like the early days of machine learning when we manually
+                crafted feature vectors to squeeze out marginal gains, building
+                an effective RAG system often becomes an exercise in crafting
+                engineering “hacks.”
+              </p>
+              <p>
+                Earlier this year, Microsoft seeded the idea of using Knowledge
+                Graphs for RAG and published GraphRAG - i.e. RAG with Knowledge
+                Graphs. We believe that there is an incredible potential in this
+                idea, but existing implementations are naive in the way they
+                create and explore the graph. That’s why we developed Fast
+                GraphRAG with a new algorithmic approach using good old
+                PageRank.
+              </p>
+              <p>
+                There are two main challenges when building a reliable RAG
+                system:
+              </p>
+              <p>
+                (1) Data Noise: Real-world data is often messy. Customer support
+                tickets, chat logs, and other conversational data can include a
+                lot of irrelevant information. If you push noisy data into a
+                vector database, you’re likely to get noisy results.
+              </p>
+              <p>
+                (2) Domain Specialization: For complex use cases, a RAG system
+                must understand the domain-specific context. This requires
+                creating representations that capture not just the words but the
+                deeper relationships and structures within the data.
+              </p>
+              <p>
+                Our solution builds on these insights by incorporating knowledge
+                graphs into the RAG pipeline. Knowledge graphs store entities
+                and their relationships, and can help structure data in a way
+                that enables more accurate and context-aware information
+                retrieval. 12 years ago Google announced the knowledge graph we
+                all know about [1]. It was a pioneering move. Now we have LLMs,
+                meaning that people can finally do RAG on their own data with
+                tools that can be as powerful as Google’s original idea.
+              </p>
+              <p>
+                Before we built this, Antonio was at Amazon, while Luca and
+                Yuhang were finishing their PhDs at Oxford. We had been thinking
+                about this problem for years and we always loved the parallel
+                between pagerank and the human memory [2]. We believe that
+                searching for memories is incredibly similar to searching the
+                web.
+              </p>
+              <p>Here’s how it works:</p>
+              <p>
+                - Entity and Relationship Extraction: Fast GraphRAG uses LLMs to
+                extract entities and their relationships from your data and
+                stores them in a graph format [3].
+              </p>
+              <p>
+                - Query Processing: When you make a query, Fast GraphRAG starts
+                by finding the most relevant entities using vector search, then
+                runs a personalized PageRank algorithm to determine the most
+                important “memories” or pieces of information related to the
+                query [4].
+              </p>
+              <p>
+                - Incremental Updates: Unlike other graph-based RAG systems,
+                Fast GraphRAG natively supports incremental data insertions.
+                This means you can continuously add new data without
+                reprocessing the entire graph.
+              </p>
+              <p>
+                - Faster: These design choices make our algorithm faster and
+                more affordable to run than other graph-based RAG systems
+                because we eliminate the need for communities and clustering.
+              </p>
+              <p>
+                Suppose you’re analyzing a book and want to focus on character
+                interactions, locations, and significant events:
+              </p>
+              <p></p>
+              <pre><code>  from fast_graphrag import GraphRAG
+  
+  DOMAIN = "Analyze this story and identify the characters. Focus on how they interact with each other, the locations they explore, and their relationships."
+  
+  EXAMPLE_QUERIES = [
+      "What is the significance of Christmas Eve in A Christmas Carol?",
+      "How does the setting of Victorian London contribute to the story's themes?",
+      "Describe the chain of events that leads to Scrooge's transformation.",
+      "How does Dickens use the different spirits (Past, Present, and Future) to guide Scrooge?",
+      "Why does Dickens choose to divide the story into \"staves\" rather than chapters?"
+  ]
+  
+  ENTITY_TYPES = ["Character", "Animal", "Place", "Object", "Activity", "Event"]
+  
+  grag = GraphRAG(
+      working_dir="./book_example",
+      domain=DOMAIN,
+      example_queries="\n".join(EXAMPLE_QUERIES),
+      entity_types=ENTITY_TYPES
+  )
+  
+  with open("./book.txt") as f:
+      grag.insert(f.read())
+  
+  print(grag.query("Who is Scrooge?").response)
+</code></pre>
+              This code creates a domain-specific knowledge graph based on your
+              data, example queries, and specified entity types. Then you can
+              query it in plain English while it automatically handles all the
+              data fetching, entity extractions, co-reference resolutions,
+              memory elections, etc. When you add new data, locking and
+              checkpointing is handled for you as well.
+              <p>
+                This is the kind of infrastructure that GenAI apps need to
+                handle large-scale real-world data. Our goal is to give you this
+                infrastructure so that you can focus on what’s important:
+                building great apps for your users without having to care about
+                manually engineering a retrieval pipeline. In the managed
+                service, we also have a suite of UI tools for you to explore and
+                debug your knowledge graph.
+              </p>
+              <p>
+                We have a free hosted solution with up to 100 monthly requests.
+                When you’re ready to grow, we have paid plans that scale with
+                you. And of course you can self host our open-source engine.
+              </p>
+              <p>
+                Give us a spin today at
+                <a href="https://circlemind.co">https://circlemind.co</a> and
+                see our code at
+                <a href="https://github.com/circlemind-ai/fast-graphrag"
+                  >https://github.com/circlemind-ai/fast-graphrag</a
+                >
+              </p>
+              <p>We’d love feedback :)</p>
+              <p>
+                [1]
+                <a
+                  href="https://blog.google/products/search/introducing-knowledge-graph-things-not/"
+                  >https://blog.google/products/search/introducing-knowledge-gr...</a
+                >
+              </p>
+              <p>
+                [2] Griffiths, T. L., Steyvers, M., &amp; Firl, A. (2007).
+                Google and the Mind: Predicting Fluency with PageRank.
+                Psychological Science, 18(12), 1069–1076.
+                <a href="http://www.jstor.org/stable/40064705"
+                  >http://www.jstor.org/stable/40064705</a
+                >
+              </p>
+              <p>
+                [3] Similarly to Microsoft’s GraphRAG:
+                <a href="https://github.com/microsoft/graphrag"
+                  >https://github.com/microsoft/graphrag</a
+                >
+              </p>
+              <p>
+                [4] Similarly to OSU’s HippoRAG:
+                <a href="https://github.com/OSU-NLP-Group/HippoRAG"
+                  >https://github.com/OSU-NLP-Group/HippoRAG</a
+                >
+              </p>
+              <p>
+                <a href="https://vhs.charm.sh/vhs-4fCicgsbsc7UX0pemOcsMp.gif"
+                  >https://vhs.charm.sh/vhs-4fCicgsbsc7UX0pemOcsMp.gif</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42174703">
           <h3>
             <a
@@ -142,11 +404,11 @@
             <h4>
               <span>2024-11-18 @ 17:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42174703"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -155,18 +417,18 @@
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=42174204"
               >Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like,
-              POSIX cloud fs</a
+              POSIX cloud FS</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-11-18 @ 16:49:09</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42174204"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
             <div class="text">
@@ -281,28 +543,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173960"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42173316">
-          <h3>
-            <a
-              class="item"
-              href="https://bigthink.com/starts-with-a-bang/5-coincidences-make-existence-possible/"
-              >Coincidences that make our existence possible</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 15:34:44</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42173316"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -320,11 +561,11 @@
             <h4>
               <span>2024-11-18 @ 15:28:57</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173233"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -342,7 +583,7 @@
             <h4>
               <span>2024-11-18 @ 15:24:21</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173184"
                   >Comments</a
@@ -362,11 +603,11 @@
             <h4>
               <span>2024-11-18 @ 15:19:24</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173119"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -457,11 +698,11 @@
             <h4>
               <span>2024-11-18 @ 15:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173114"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -487,6 +728,49 @@
             </h4>
           </section>
         </section>
+        <section id="42172705">
+          <h3>
+            <a
+              class="item"
+              href="https://benthams.substack.com/p/the-best-charity-isnt-what-you-think"
+              >The shrimp welfare project</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 14:44:49</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42172705"
+                  >Comments</a
+                ><span class="descendants">: 99</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42172281">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"
+              >Bhutan, after prioritizing happiness, now faces an existential
+              crisis</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 13:53:07</span
+              ><span class="points-container"
+                >Points: <span class="points">156</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42172281"
+                  >Comments</a
+                ><span class="descendants">: 166</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42171311">
           <h3>
             <a class="item" href="https://github.com/DocumindHQ/documind"
@@ -498,7 +782,7 @@
             <h4>
               <span>2024-11-18 @ 10:51:14</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42171311"
                   >Comments</a
@@ -516,6 +800,28 @@
             </div>
           </section>
         </section>
+        <section id="42171164">
+          <h3>
+            <a
+              class="item"
+              href="https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
+              >I was banned from the hCaptcha accessibility account for not
+              being blind (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-18 @ 10:13:28</span
+              ><span class="points-container"
+                >Points: <span class="points">246</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42171164"
+                  >Comments</a
+                ><span class="descendants">: 157</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42171051">
           <h3>
             <a class="item" href="https://nirvanalan.github.io/projects/GA/"
@@ -527,7 +833,7 @@
             <h4>
               <span>2024-11-18 @ 09:46:13</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42171051"
                   >Comments</a
@@ -546,7 +852,7 @@
             <h4>
               <span>2024-11-18 @ 09:44:54</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42171043"
                   >Comments</a
@@ -567,11 +873,11 @@
             <h4>
               <span>2024-11-18 @ 08:33:32</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42170740"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -586,45 +892,13 @@
             <h4>
               <span>2024-11-18 @ 07:45:03</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42170552"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="42170519">
-          <h3>
-            <a class="item" href="https://github.com/notrab/dumbo"
-              >Show HN: Dumbo – Hono inspired framework for PHP</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 07:37:16</span
-              ><span class="points-container"
-                >Points: <span class="points">39</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42170519"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                In true JavaScript fashion, I decided to learn PHP again by
-                building a framework to put all the pieces together in my brain.
-              </p>
-              <p>
-                I absolutely love Hono.dev, and decided to base the PHP
-                framework on that. Dumbo isn't intended to compete with Laravel,
-                Symphony or Slim, if anything, it's something people can use in
-                production, but also contribute to and be used as a learning
-                resource for others.
-              </p>
-            </div>
           </section>
         </section>
         <section id="42170423">
@@ -639,7 +913,7 @@
             <h4>
               <span>2024-11-18 @ 07:10:35</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42170423"
                   >Comments</a
@@ -658,30 +932,11 @@
             <h4>
               <span>2024-11-18 @ 03:02:11</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42169363"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42168997">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2210.00714"
-              >It's time to replace TCP in the datacenter (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 01:42:41</span
-              ><span class="points-container"
-                >Points: <span class="points">169</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42168997"
-                  >Comments</a
-                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -700,102 +955,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42168503"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42168491">
-          <h3>
-            <a
-              class="item"
-              href="https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
-              >Show HN: The App I Built to Help Manage My Diabetes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 00:07:55</span
-              ><span class="points-container"
-                >Points: <span class="points">171</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42168491"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I’m Joshua, a student, and I’m excited (and a little nervous) to
-                share something deeply personal that I’ve been working on:
-                Islet, my diabetes management app powered by GPT-4o-mini. It’s
-                now on the App Store, but I want to be upfront—it’s still very
-                much in its early stages, with a lot more to go.
-              </p>
-              <p>
-                I was diagnosed with Type 1 diabetes while rowing competitively,
-                and that moment changed everything. It wasn’t just the practical
-                challenges of managing insulin, carb counts, and blood sugars;
-                it fundamentally shifted how I see myself and the world. It
-                forced me to slow down, prioritise my health, and take control
-                in ways I never had to before. My outlook on life became more
-                focused on resilience, adaptability, and finding solutions to
-                problems that truly matter.
-              </p>
-              <p>
-                This app started as a pet project over the summer, a way to see
-                what I could create using ChatGPT and explore the potential of
-                LLMs to help with real-world challenges. At first, it was just
-                about making my own diabetes management easier—understanding
-                patterns in blood sugars, planning meals, and adjusting
-                routines. But as I worked on it, I realised it could do more.
-              </p>
-              <p>
-                Right now, Islet offers personalised meal suggestions, tracks
-                activity, and provides basic insights based on the data you
-                enter. It’s far from complete. Even so, the process of building
-                Islet has already taught me so much about how powerful AI can be
-                in creating personal, meaningful tools.
-              </p>
-              <p>
-                This project is deeply tied to how my diagnosis changed me. It’s
-                about more than managing diabetes, it’s about showing how
-                anyone, even a student experimenting over the summer, can use AI
-                to potentially solve real, personal problems. I believe tools
-                like LLMs have the power to democratise solutions for all,
-                making life just a bit easier for all of us.
-              </p>
-              <p>
-                If you’re curious, you can check it out here:
-                <a
-                  href="https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
-                  >https://apps.apple.com/gb/app/islet-diabetes/id6453168642</a
-                >. I’d love to hear your thoughts what works, what doesn’t, and
-                what features you think would make it better. Your input could
-                help shape the next steps for Islet.
-              </p>
-              <p>Thanks for reading !</p>
-              <p>joshua</p>
-            </div>
-          </section>
-        </section>
-        <section id="42168423">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113"
-              >The withering dream of a cheap American electric car</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-17 @ 23:52:36</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42168423"
-                  >Comments</a
-                ><span class="descendants">: 464</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -810,11 +970,11 @@
             <h4>
               <span>2024-11-17 @ 23:07:25</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42168166"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -853,23 +1013,23 @@
             </div>
           </section>
         </section>
-        <section id="42167763">
+        <section id="42167749">
           <h3>
             <a
               class="item"
-              href="https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008"
-              >Solar-powered desalination system requires no extra batteries</a
+              href="https://www.magiclasso.co/insights/is-chrome-the-new-ie/"
+              >Is Chrome the New IE? (2023)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-11-17 @ 22:06:25</span
+              <span>2024-11-17 @ 22:05:11</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42167763"
+                ><a href="https://news.ycombinator.com/item?id=42167749"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -886,11 +1046,11 @@
             <h4>
               <span>2024-11-17 @ 21:50:26</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">456</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42167633"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -916,48 +1076,6 @@
             </h4>
           </section>
         </section>
-        <section id="42166948">
-          <h3>
-            <a
-              class="item"
-              href="https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"
-              >You could have designed state of the art positional encoding</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-17 @ 20:31:26</span
-              ><span class="points-container"
-                >Points: <span class="points">193</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42166948"
-                  >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42165397">
-          <h3>
-            <a
-              class="item"
-              href="https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html"
-              >AlphaProof's Greatest Hits</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-17 @ 17:20:45</span
-              ><span class="points-container"
-                >Points: <span class="points">238</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42165397"
-                  >Comments</a
-                ><span class="descendants">: 123</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="42146936">
           <h3>
             <a class="item" href="https://dorotac.eu/posts/libobscura/"
@@ -968,7 +1086,7 @@
             <h4>
               <span>2024-11-15 @ 13:53:17</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42146936"
                   >Comments</a
@@ -977,21 +1095,24 @@
             </h4>
           </section>
         </section>
-        <section id="42142485">
+        <section id="42136817">
           <h3>
-            <a class="item" href="https://garten.salat.dev/fake-shaders3.html"
-              >Faking Shaders III: Tixyland</a
+            <a
+              class="item"
+              href="https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article"
+              >Air traffic failure caused by two locations 3600nm apart sharing
+              3-letter code</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-11-14 @ 23:39:52</span
+              <span>2024-11-14 @ 15:04:57</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42142485"
+                ><a href="https://news.ycombinator.com/item?id=42136817"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -1006,11 +1127,11 @@
             <h4>
               <span>2024-11-14 @ 12:04:46</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42135412"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
