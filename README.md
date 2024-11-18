@@ -2,6 +2,7 @@
 
 * [2024-11-18, 09:18:34](https://news.ycombinator.com/item?id=42170932) - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
+* [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 * [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:12:44](https://news.ycombinator.com/item?id=42169418) - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
@@ -13,7 +14,6 @@
 * [2024-11-17, 22:11:24](https://news.ycombinator.com/item?id=42167809) - [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
-* [2024-11-17, 19:54:24](https://news.ycombinator.com/item?id=42166606) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [2024-11-17, 18:12:14](https://news.ycombinator.com/item?id=42165759) - [Hobby Project: A dynamic C (Hot reloading) module-based Web Framework](https://github.com/joexbayer/c-web-modules)
 * [2024-11-17, 17:20:45](https://news.ycombinator.com/item?id=42165397) - [AlphaProof's Greatest Hits](https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html)

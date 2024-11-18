@@ -6,6 +6,7 @@
 
 * [2024-11-18, 09:18:34](https://news.ycombinator.com/item?id=42170932) - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
+* [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 * [2024-11-18, 05:21:24](https://news.ycombinator.com/item?id=42169913) - [\"We Will Pass Those Tariff Costs Back to the Consumer,\" Says CEO of AutoZone](https://finance.yahoo.com/news/pass-those-tariff-costs-back-190017675.html)
 * [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
