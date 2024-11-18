@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-11-18, 18:02:50",
+      "https://news.ycombinator.com/item?id=42175043"
+    ],
+    [
+      "Thoughts on Bluesky",
+      "https://canolcer.com/post/thoughts-on-bluesky/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 18:01:18",
+      "https://news.ycombinator.com/item?id=42175023"
+    ],
+    [
+      "Things you didn't know about Google Scholar",
+      "https://blog.google/outreach-initiatives/education/google-scholar-20-years/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 17:44:48",
+      "https://news.ycombinator.com/item?id=42174840"
+    ],
+    [
+      "Unreal 5.5 is a big deal [video]",
+      "https://www.youtube.com/watch?v=BcmUZpdChhA"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 17:43:13",
+      "https://news.ycombinator.com/item?id=42174829"
+    ],
+    [
+      "Show HN: FastGraphRAG – Better RAG using good old PageRank",
+      "https://github.com/circlemind-ai/fast-graphrag"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 17:31:25",
       "https://news.ycombinator.com/item?id=42174703"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42174204"
     ],
     [
-      "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud fs",
+      "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",
       "https://news.ycombinator.com/item?id=42174204"
     ]
   ],
@@ -27,16 +67,6 @@
     [
       "Qwen2.5 Turbo extends context length to 1M tokens",
       "https://qwenlm.github.io/blog/qwen2.5-turbo/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 15:34:44",
-      "https://news.ycombinator.com/item?id=42173316"
-    ],
-    [
-      "Coincidences that make our existence possible",
-      "https://bigthink.com/starts-with-a-bang/5-coincidences-make-existence-possible/"
     ]
   ],
   [
@@ -91,12 +121,42 @@
   ],
   [
     [
+      "2024-11-18, 14:44:49",
+      "https://news.ycombinator.com/item?id=42172705"
+    ],
+    [
+      "The shrimp welfare project",
+      "https://benthams.substack.com/p/the-best-charity-isnt-what-you-think"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 13:53:07",
+      "https://news.ycombinator.com/item?id=42172281"
+    ],
+    [
+      "Bhutan, after prioritizing happiness, now faces an existential crisis",
+      "https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 10:51:14",
       "https://news.ycombinator.com/item?id=42171311"
     ],
     [
       "Show HN: Documind – Open-source AI tool to turn documents into structured data",
       "https://github.com/DocumindHQ/documind"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 10:13:28",
+      "https://news.ycombinator.com/item?id=42171164"
+    ],
+    [
+      "I was banned from the hCaptcha accessibility account for not being blind (2023)",
+      "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2024-11-18, 07:37:16",
-      "https://news.ycombinator.com/item?id=42170519"
-    ],
-    [
-      "Show HN: Dumbo – Hono inspired framework for PHP",
-      "https://github.com/notrab/dumbo"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 07:10:35",
       "https://news.ycombinator.com/item?id=42170423"
     ],
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2024-11-18, 01:42:41",
-      "https://news.ycombinator.com/item?id=42168997"
-    ],
-    [
-      "It's time to replace TCP in the datacenter (2023)",
-      "https://arxiv.org/abs/2210.00714"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 00:09:20",
       "https://news.ycombinator.com/item?id=42168503"
     ],
     [
       "Museum of Bad Art",
       "https://museumofbadart.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 00:07:55",
-      "https://news.ycombinator.com/item?id=42168491"
-    ],
-    [
-      "Show HN: The App I Built to Help Manage My Diabetes",
-      "https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 23:52:36",
-      "https://news.ycombinator.com/item?id=42168423"
-    ],
-    [
-      "The withering dream of a cheap American electric car",
-      "https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2024-11-17, 22:06:25",
-      "https://news.ycombinator.com/item?id=42167763"
+      "2024-11-17, 22:05:11",
+      "https://news.ycombinator.com/item?id=42167749"
     ],
     [
-      "Solar-powered desalination system requires no extra batteries",
-      "https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008"
+      "Is Chrome the New IE? (2023)",
+      "https://www.magiclasso.co/insights/is-chrome-the-new-ie/"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2024-11-17, 20:31:26",
-      "https://news.ycombinator.com/item?id=42166948"
-    ],
-    [
-      "You could have designed state of the art positional encoding",
-      "https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 17:20:45",
-      "https://news.ycombinator.com/item?id=42165397"
-    ],
-    [
-      "AlphaProof's Greatest Hits",
-      "https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 13:53:17",
       "https://news.ycombinator.com/item?id=42146936"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-11-14, 23:39:52",
-      "https://news.ycombinator.com/item?id=42142485"
+      "2024-11-14, 15:04:57",
+      "https://news.ycombinator.com/item?id=42136817"
     ],
     [
-      "Faking Shaders III: Tixyland",
-      "https://garten.salat.dev/fake-shaders3.html"
+      "Air traffic failure caused by two locations 3600nm apart sharing 3-letter code",
+      "https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article"
     ]
   ],
   [
