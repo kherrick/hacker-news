@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-18, 05:21:24](https://news.ycombinator.com/item?id=42169913) - [\"We Will Pass Those Tariff Costs Back to the Consumer,\" Says CEO of AutoZone](https://finance.yahoo.com/news/pass-those-tariff-costs-back-190017675.html)
 * [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:12:44](https://news.ycombinator.com/item?id=42169418) - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 * [2024-11-18, 01:49:53](https://news.ycombinator.com/item?id=42169027) - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
@@ -27,6 +26,7 @@
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
 * [2024-11-13, 04:41:45](https://news.ycombinator.com/item?id=42122968) - [Samantha Harvey's 'beautiful and ambitious' Orbital wins Booker prize](https://www.theguardian.com/books/2024/nov/12/orbital-by-samantha-harvey-wins-booker-prize-2024)
+* [2024-11-13, 00:43:54](https://news.ycombinator.com/item?id=42121702) - [Immorality Begins at 40 (2016)](https://www.ribbonfarm.com/2016/04/28/immortality-begins-at-forty/)
 * [2024-11-12, 02:03:21](https://news.ycombinator.com/item?id=42112168) - [Show HN: Store and render ASCII diagrams in Obsidian](https://github.com/akopdev/obsidian-textgrams)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-11, 13:48:39](https://news.ycombinator.com/item?id=42107078) - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981](https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/)
