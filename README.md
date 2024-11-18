@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 01:49:53](https://news.ycombinator.com/item?id=42169027) - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 * [2024-11-18, 01:42:41](https://news.ycombinator.com/item?id=42168997) - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
 * [2024-11-18, 00:07:55](https://news.ycombinator.com/item?id=42168491) - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
@@ -20,7 +21,6 @@
 * [2024-11-17, 08:44:29](https://news.ycombinator.com/item?id=42162878) - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [Contain – CSS Cascading Style Sheets – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
-* [2024-11-15, 15:36:53](https://news.ycombinator.com/item?id=42147833) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/abs/2410.21713)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 11:24:52](https://news.ycombinator.com/item?id=42145919) - [Scientists discover laser light can cast a shadow](https://phys.org/news/2024-11-scientists-laser-shadow.html)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)

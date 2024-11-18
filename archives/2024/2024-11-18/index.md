@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:24:46](https://news.ycombinator.com/item?id=42169467) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
 * [2024-11-18, 03:07:09](https://news.ycombinator.com/item?id=42169389) - [Apple discontinuing Vision Pro due to lackluster sales](https://www.dailymail.co.uk/sciencetech/article-14068925/Apple-quietly-discontinuing-flagship-device-lackluster-sales.html)
 * [2024-11-18, 01:49:53](https://news.ycombinator.com/item?id=42169027) - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
