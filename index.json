@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-11-18, 01:49:53",
-      "https://news.ycombinator.com/item?id=42169027"
-    ],
-    [
-      "Japanese workers turn to resignation agencies",
-      "https://metropolisjapan.com/resignation-agencies/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 01:42:41",
       "https://news.ycombinator.com/item?id=42168997"
     ],
@@ -127,6 +117,16 @@
     [
       "Show HN: Nova JavaScript Engine",
       "https://github.com/trynova/nova"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 22:11:24",
+      "https://news.ycombinator.com/item?id=42167809"
+    ],
+    [
+      "Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML",
+      "https://github.com/serpapi/nokolexbor"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-11-14, 19:20:03",
+      "https://news.ycombinator.com/item?id=42140048"
+    ],
+    [
+      "Making the Mandelbrot Set with Excel",
+      "https://divisbyzero.com/2024/11/13/making-the-mandelbrot-set-with-excel/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 13:41:18",
       "https://news.ycombinator.com/item?id=42136054"
     ],
@@ -287,16 +297,6 @@
     [
       "An alternative construction of Shannon entropy",
       "https://rkp.science/an-alternative-construction-of-shannon-entropy/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 09:08:26",
-      "https://news.ycombinator.com/item?id=42124278"
-    ],
-    [
-      "Inverse Symbolic Calculator",
-      "https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html"
     ]
   ]
 ]
