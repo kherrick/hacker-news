@@ -1,62 +1,12 @@
 [
   [
     [
-      "2024-11-18, 10:39:32",
-      "https://news.ycombinator.com/item?id=42171250"
-    ],
-    [
-      "CPython's Garbage Collector and Its Impact on Application Performance",
-      "https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 10:07:21",
-      "https://news.ycombinator.com/item?id=42171139"
-    ],
-    [
-      "AMD Radeon Pro W7700 Running on Raspberry Pi",
-      "https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 09:18:34",
-      "https://news.ycombinator.com/item?id=42170932"
-    ],
-    [
-      "M4 chips: E and P cores",
-      "https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 09:18:22",
-      "https://news.ycombinator.com/item?id=42170931"
-    ],
-    [
-      "How Hard Should Your Employer Work to Retain You?",
-      "https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 08:33:32",
       "https://news.ycombinator.com/item?id=42170740"
     ],
     [
       "Reactive HTML Notebooks",
       "https://maxbo.me/a-html-file-is-all-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 08:01:44",
-      "https://news.ycombinator.com/item?id=42170624"
-    ],
-    [
-      "Show HN: World's Radio – Listen to Radio Stations Worldwide",
-      "https://www.worldsradio.com"
     ]
   ],
   [
@@ -71,6 +21,16 @@
   ],
   [
     [
+      "2024-11-18, 06:23:31",
+      "https://news.ycombinator.com/item?id=42170209"
+    ],
+    [
+      "POSSE: Publish (on your) Own Site, Syndicate Elsewhere",
+      "https://indieweb.org/POSSE"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 05:40:58",
       "https://news.ycombinator.com/item?id=42169998"
     ],
@@ -81,12 +41,22 @@
   ],
   [
     [
-      "2024-11-18, 03:12:44",
-      "https://news.ycombinator.com/item?id=42169418"
+      "2024-11-18, 04:02:13",
+      "https://news.ycombinator.com/item?id=42169615"
     ],
     [
-      "Linux kernel 6.12 has been released",
-      "https://lwn.net/Articles/997958/"
+      "How Japanese Black Companies Oppress Workers and Ruin Lives[2014]",
+      "https://www.tofugu.com/japan/japanese-black-companies/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 01:49:53",
+      "https://news.ycombinator.com/item?id=42169027"
+    ],
+    [
+      "Japanese workers turn to resignation agencies",
+      "https://metropolisjapan.com/resignation-agencies/"
     ]
   ],
   [
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2024-11-17, 22:11:24",
+      "https://news.ycombinator.com/item?id=42167809"
+    ],
+    [
+      "Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML",
+      "https://github.com/serpapi/nokolexbor"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 21:50:26",
       "https://news.ycombinator.com/item?id=42167633"
     ],
@@ -161,12 +141,12 @@
   ],
   [
     [
-      "2024-11-17, 18:26:37",
-      "https://news.ycombinator.com/item?id=42165862"
+      "2024-11-17, 19:54:24",
+      "https://news.ycombinator.com/item?id=42166606"
     ],
     [
-      "Creating a QR Code step by step",
-      "https://www.nayuki.io/page/creating-a-qr-code-step-by-step"
+      "Why did Windows 95 setup use three operating systems?",
+      "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"
     ]
   ],
   [
@@ -191,12 +171,12 @@
   ],
   [
     [
-      "2024-11-17, 15:07:10",
-      "https://news.ycombinator.com/item?id=42164541"
+      "2024-11-17, 15:23:38",
+      "https://news.ycombinator.com/item?id=42164637"
     ],
     [
-      "Everything Is Just Functions: 1 week with David Beazley and SICP",
-      "https://ezzeriesa.notion.site/1-week-with-David-Beazley-and-SICP-4c440389cf1e43f48fe67c969967f655"
+      "A Taxonomy of AgentOps",
+      "https://arxiv.org/abs/2411.05285"
     ]
   ],
   [
@@ -231,16 +211,6 @@
   ],
   [
     [
-      "2024-11-17, 06:34:46",
-      "https://news.ycombinator.com/item?id=42162390"
-    ],
-    [
-      "Phased Array",
-      "https://en.wikipedia.org/wiki/Phased_array"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 06:25:53",
       "https://news.ycombinator.com/item?id=42162368"
     ],
@@ -251,12 +221,22 @@
   ],
   [
     [
-      "2024-11-15, 00:23:23",
-      "https://news.ycombinator.com/item?id=42142769"
+      "2024-11-15, 14:13:19",
+      "https://news.ycombinator.com/item?id=42147110"
     ],
     [
-      "M4 MacBook Pro Uses Quantum Dot Display Technology",
-      "https://www.macrumors.com/2024/11/14/m4-macbook-pro-quantum-dot/"
+      "Show HN: Zyme – An Evolvable Programming Language",
+      "https://zyme.dev"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 11:24:52",
+      "https://news.ycombinator.com/item?id=42145919"
+    ],
+    [
+      "Scientists discover laser light can cast a shadow",
+      "https://phys.org/news/2024-11-scientists-laser-shadow.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "An alternative construction of Shannon entropy",
       "https://rkp.science/an-alternative-construction-of-shannon-entropy/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 09:08:26",
+      "https://news.ycombinator.com/item?id=42124278"
+    ],
+    [
+      "Inverse Symbolic Calculator",
+      "https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 17:44:42",
+      "https://news.ycombinator.com/item?id=42108933"
+    ],
+    [
+      "ML in Go with a Python Sidecar",
+      "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
     ]
   ]
 ]
