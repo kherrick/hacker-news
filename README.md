@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
-* [2024-11-18, 13:22:16](https://news.ycombinator.com/item?id=42172081) - [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -rf](https://www.theregister.com/2024/11/18/who_me/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)

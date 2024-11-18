@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 13:22:16](https://news.ycombinator.com/item?id=42172081) - [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
 * [2024-11-18, 13:10:48](https://news.ycombinator.com/item?id=42172008) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
