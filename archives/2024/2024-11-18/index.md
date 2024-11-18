@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 19:47:30](https://news.ycombinator.com/item?id=42176158) - [Europeans spend 575M hours clicking on cookie banners a year](https://substack.com/@richholmes/note/c-77466623)
+* [2024-11-18, 19:16:07](https://news.ycombinator.com/item?id=42175850) - [Ben Affleck's a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
 * [2024-11-18, 18:58:03](https://news.ycombinator.com/item?id=42175676) - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of trying to run an old node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:02:50](https://news.ycombinator.com/item?id=42175043) - [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
