@@ -45,6 +45,7 @@
 * [2024-11-17, 08:14:07](https://news.ycombinator.com/item?id=42162751) - [How to setup self hosted wiki for your startup](https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
+* [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [Contain – CSS Cascading Style Sheets – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:31:27](https://news.ycombinator.com/item?id=42162205) - [DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What's the Difference?](https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
