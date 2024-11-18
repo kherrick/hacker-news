@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-18, 14:44:49](https://news.ycombinator.com/item?id=42172705) - [The most helpful charity isn't what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
-* [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
+* [2024-11-18, 14:44:49](https://news.ycombinator.com/item?id=42172705) - [The shrimp welfare project](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
@@ -20,6 +19,7 @@
 * [2024-11-18, 00:07:55](https://news.ycombinator.com/item?id=42168491) - [Show HN: The App I Built to Help Manage My Diabetes](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 * [2024-11-17, 23:52:36](https://news.ycombinator.com/item?id=42168423) - [The withering dream of a cheap American electric car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
+* [2024-11-17, 22:06:25](https://news.ycombinator.com/item?id=42167763) - [Solar-powered desalination system requires no extra batteries](https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 21:20:19](https://news.ycombinator.com/item?id=42167388) - [Electron Spins: a special case of Chromium mods](https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods)
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
