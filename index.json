@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-18, 08:34:46",
-      "https://news.ycombinator.com/item?id=42170746"
+      "2024-11-18, 10:51:14",
+      "https://news.ycombinator.com/item?id=42171311"
     ],
     [
-      "Ask HN: Is there any license that is designed to exclude LLMs?",
-      "https://news.ycombinator.com/item?id=42170746"
+      "Show HN: Documind – Open-source AI tool to turn documents into structured data",
+      "https://github.com/DocumindHQ/documind"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 09:46:13",
+      "https://news.ycombinator.com/item?id=42171051"
+    ],
+    [
+      "GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation",
+      "https://nirvanalan.github.io/projects/GA/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 09:38:02",
+      "https://news.ycombinator.com/item?id=42171019"
+    ],
+    [
+      "Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria",
+      "https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Against Best Practices",
       "https://www.arp242.net/best-practices.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:10:35",
+      "https://news.ycombinator.com/item?id=42170423"
+    ],
+    [
+      "Fortran II Hypersource",
+      "https://texdraft.github.io/fortran/fortran.html"
     ]
   ],
   [
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42165759"
     ],
     [
-      "Hobby Project: A dynamic C (Hot reloading) module-based Web Framework",
+      "Show HN: A dynamic C (Hot reloading) module-based Web Framework",
       "https://github.com/joexbayer/c-web-modules"
     ]
   ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-11-17, 07:42:08",
-      "https://news.ycombinator.com/item?id=42162622"
-    ],
-    [
-      "All-in-one embedding model for interleaved text, images, and screenshots",
-      "https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 14:07:17",
       "https://news.ycombinator.com/item?id=42156516"
     ],
@@ -227,16 +247,6 @@
     [
       "Show HN: Zyme – An Evolvable Programming Language",
       "https://zyme.dev"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 13:27:08",
-      "https://news.ycombinator.com/item?id=42146718"
-    ],
-    [
-      "The bucket brigade device: An analog shift register",
-      "https://10maurycy10.github.io/misc/bbd/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Inverse Symbolic Calculator",
       "https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 18:38:27",
-      "https://news.ycombinator.com/item?id=42118298"
-    ],
-    [
-      "Transistor for fuzzy logic hardware: promise for better edge computing",
-      "https://techxplore.com/news/2024-11-transistor-reconfigurable-fuzzy-logic-hardware.html"
     ]
   ],
   [
