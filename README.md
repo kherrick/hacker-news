@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives](https://www.tofugu.com/japan/japanese-black-companies/)
+* [2024-11-18, 04:02:13](https://news.ycombinator.com/item?id=42169615) - [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
 * [2024-11-18, 03:12:44](https://news.ycombinator.com/item?id=42169418) - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 * [2024-11-18, 01:49:53](https://news.ycombinator.com/item?id=42169027) - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 * [2024-11-18, 01:42:41](https://news.ycombinator.com/item?id=42168997) - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
