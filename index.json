@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-18, 18:02:50",
-      "https://news.ycombinator.com/item?id=42175043"
+      "2024-11-18, 18:24:21",
+      "https://news.ycombinator.com/item?id=42175316"
     ],
     [
-      "Thoughts on Bluesky",
-      "https://canolcer.com/post/thoughts-on-bluesky/"
+      "The tragedy of trying to run an old node project",
+      "https://abdisalan.com/posts/tragedy-running-old-node-project/"
     ]
   ],
   [
@@ -51,22 +51,22 @@
   ],
   [
     [
+      "2024-11-18, 16:51:29",
+      "https://news.ycombinator.com/item?id=42174231"
+    ],
+    [
+      "MailCatcher runs a super simple SMTP server",
+      "https://mailcatcher.me/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 16:49:09",
       "https://news.ycombinator.com/item?id=42174204"
     ],
     [
       "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",
       "https://news.ycombinator.com/item?id=42174204"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 16:27:06",
-      "https://news.ycombinator.com/item?id=42173960"
-    ],
-    [
-      "Qwen2.5 Turbo extends context length to 1M tokens",
-      "https://qwenlm.github.io/blog/qwen2.5-turbo/"
     ]
   ],
   [
