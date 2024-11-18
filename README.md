@@ -4,7 +4,7 @@
 * [2024-11-18, 03:12:44](https://news.ycombinator.com/item?id=42169418) - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 * [2024-11-18, 01:49:53](https://news.ycombinator.com/item?id=42169027) - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 * [2024-11-18, 01:42:41](https://news.ycombinator.com/item?id=42168997) - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
-* [2024-11-18, 00:28:00](https://news.ycombinator.com/item?id=42168604) - [Wiby – Search Engine for the Classic Web](https://wiby.me/)
+* [2024-11-18, 01:33:31](https://news.ycombinator.com/item?id=42168953) - [Why Not Bluesky](https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky)
 * [2024-11-18, 00:07:55](https://news.ycombinator.com/item?id=42168491) - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 * [2024-11-17, 22:11:24](https://news.ycombinator.com/item?id=42167809) - [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
