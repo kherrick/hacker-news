@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=42172081"
     ],
     [
-      "Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF",
+      "Undergrad thought he had mastered Unix in weeks. Then he discovered rm -rf",
       "https://www.theregister.com/2024/11/18/who_me/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 12:56:25",
-      "https://news.ycombinator.com/item?id=42171924"
-    ],
-    [
-      "$500k Pay, Easy Hours: How Dermatology Became the 'It' Job in Medicine",
-      "https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "Against Best Practices",
       "https://www.arp242.net/best-practices.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:37:16",
+      "https://news.ycombinator.com/item?id=42170519"
+    ],
+    [
+      "Show HN: Dumbo – Hono inspired framework for PHP",
+      "https://github.com/notrab/dumbo"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-11-17, 08:44:29",
-      "https://news.ycombinator.com/item?id=42162878"
+      "2024-11-15, 13:53:17",
+      "https://news.ycombinator.com/item?id=42146936"
     ],
     [
-      "Constraints in Go",
-      "https://bitfieldconsulting.com/posts/constraints"
+      "Libobscura",
+      "https://dorotac.eu/posts/libobscura/"
     ]
   ],
   [
