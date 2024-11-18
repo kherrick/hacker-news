@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 08:34:46",
+      "https://news.ycombinator.com/item?id=42170746"
+    ],
+    [
+      "Ask HN: Is there any license that is designed to exclude LLMs?",
+      "https://news.ycombinator.com/item?id=42170746"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 08:33:32",
       "https://news.ycombinator.com/item?id=42170740"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2024-11-18, 06:23:31",
-      "https://news.ycombinator.com/item?id=42170209"
-    ],
-    [
-      "POSSE: Publish (on your) Own Site, Syndicate Elsewhere",
-      "https://indieweb.org/POSSE"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 05:40:58",
       "https://news.ycombinator.com/item?id=42169998"
     ],
@@ -41,31 +41,11 @@
   ],
   [
     [
-      "2024-11-18, 04:02:13",
-      "https://news.ycombinator.com/item?id=42169615"
-    ],
-    [
-      "How Japanese Black Companies Oppress Workers and Ruin Lives[2014]",
-      "https://www.tofugu.com/japan/japanese-black-companies/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 01:49:53",
-      "https://news.ycombinator.com/item?id=42169027"
-    ],
-    [
-      "Japanese workers turn to resignation agencies",
-      "https://metropolisjapan.com/resignation-agencies/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 01:42:41",
       "https://news.ycombinator.com/item?id=42168997"
     ],
     [
-      "It's Time to Replace TCP in the Datacenter",
+      "It's Time to Replace TCP in the Datacenter (2023)",
       "https://arxiv.org/abs/2210.00714"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML",
       "https://github.com/serpapi/nokolexbor"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 22:06:25",
+      "https://news.ycombinator.com/item?id=42167763"
+    ],
+    [
+      "Solar-powered desalination system requires no extra batteries",
+      "https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-11-17, 11:38:35",
-      "https://news.ycombinator.com/item?id=42163597"
+      "2024-11-17, 12:59:45",
+      "https://news.ycombinator.com/item?id=42163978"
     ],
     [
-      "Bpftune uses BPF to auto-tune Linux systems",
-      "https://github.com/oracle/bpftune"
+      "Memos – An open source Rewinds / Recall",
+      "https://github.com/arkohut/memos"
     ]
   ],
   [
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2024-11-17, 06:25:53",
-      "https://news.ycombinator.com/item?id=42162368"
+      "2024-11-17, 07:42:08",
+      "https://news.ycombinator.com/item?id=42162622"
     ],
     [
-      "The ‘contain’ CSS property",
-      "https://developer.mozilla.org/en-US/docs/Web/CSS/contain"
+      "All-in-one embedding model for interleaved text, images, and screenshots",
+      "https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 14:07:17",
+      "https://news.ycombinator.com/item?id=42156516"
+    ],
+    [
+      "YC is wrong about LLMs for chip design",
+      "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
     ]
   ],
   [
@@ -231,32 +231,22 @@
   ],
   [
     [
+      "2024-11-15, 13:27:08",
+      "https://news.ycombinator.com/item?id=42146718"
+    ],
+    [
+      "The bucket brigade device: An analog shift register",
+      "https://10maurycy10.github.io/misc/bbd/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 11:24:52",
       "https://news.ycombinator.com/item?id=42145919"
     ],
     [
       "Scientists discover laser light can cast a shadow",
       "https://phys.org/news/2024-11-scientists-laser-shadow.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 19:20:03",
-      "https://news.ycombinator.com/item?id=42140048"
-    ],
-    [
-      "Making the Mandelbrot Set with Excel",
-      "https://divisbyzero.com/2024/11/13/making-the-mandelbrot-set-with-excel/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 13:41:18",
-      "https://news.ycombinator.com/item?id=42136054"
-    ],
-    [
-      "File over App: A Philosophy for Digital Longevity",
-      "https://rishikeshs.com/file-over-app/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Inverse Symbolic Calculator",
       "https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 19:49:39",
+      "https://news.ycombinator.com/item?id=42109936"
+    ],
+    [
+      "Floppy Disk Storage (history)",
+      "https://www.ibm.com/history/floppy-disk"
     ]
   ],
   [
