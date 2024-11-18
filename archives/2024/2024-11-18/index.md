@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
+* [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
+* [2024-11-18, 09:38:02](https://news.ycombinator.com/item?id=42171019) - [Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria](https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers)
 * [2024-11-18, 09:18:34](https://news.ycombinator.com/item?id=42170932) - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
 * [2024-11-18, 08:34:46](https://news.ycombinator.com/item?id=42170746) - [Ask HN: Is there any license that is designed to exclude LLMs?](https://news.ycombinator.com/item?id=42170746)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
+* [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
 * [2024-11-18, 06:23:31](https://news.ycombinator.com/item?id=42170209) - [POSSE: Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 * [2024-11-18, 05:21:24](https://news.ycombinator.com/item?id=42169913) - [\"We Will Pass Those Tariff Costs Back to the Consumer,\" Says CEO of AutoZone](https://finance.yahoo.com/news/pass-those-tariff-costs-back-190017675.html)
