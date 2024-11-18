@@ -22,6 +22,7 @@
 * [2024-11-10, 20:30:54](https://news.ycombinator.com/item?id=42102422) - [The Soul in the Stomach (2021)](https://wellcomecollection.org/stories/the-soul-in-the-stomach)
 * [2024-11-10, 20:00:58](https://news.ycombinator.com/item?id=42102262) - [MdBook – a command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2024-11-10, 19:56:00](https://news.ycombinator.com/item?id=42102235) - [Is 3D printing being held back by an invalid patent?](https://news.ycombinator.com/item?id=42102235)
+* [2024-11-10, 19:40:07](https://news.ycombinator.com/item?id=42102138) - [Recurrent noise limiting coding, Mandelbrot (1954) [pdf]](https://users.math.yale.edu/~bbm3/web_pdfs/008recurrentnoiselimiting.pdf)
 * [2024-11-10, 19:30:41](https://news.ycombinator.com/item?id=42102076) - [The Difference Between a Standard DIMM and a Cudimm or Csodimm](https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/)
 * [2024-11-10, 19:23:59](https://news.ycombinator.com/item?id=42102034) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful/)
 * [2024-11-10, 19:04:42](https://news.ycombinator.com/item?id=42101916) - [A life that added up to something (Obituary of Paul Erdòs)](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
