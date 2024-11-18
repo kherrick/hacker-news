@@ -26,7 +26,7 @@
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
-* [2024-11-17, 21:20:19](https://news.ycombinator.com/item?id=42167388) - [Electron Spins: a special case of Chromium mods](https://littlebearlabs.io/perspectives/electron-spins-a-special-case-of-chromium-mods)
+* [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
