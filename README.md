@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 22:06:46](https://news.ycombinator.com/item?id=42177641) - [Valve developers discuss why Half Life 2: Episode 3 was abandoned](https://arstechnica.com/gaming/2024/11/newell-says-he-was-stumped-on-how-to-finish-half-life-2-episode-3/)
 * [2024-11-18, 21:56:25](https://news.ycombinator.com/item?id=42177543) - [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
 * [2024-11-18, 21:41:20](https://news.ycombinator.com/item?id=42177411) - [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 * [2024-11-18, 20:55:46](https://news.ycombinator.com/item?id=42176911) - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
-* [2024-11-18, 19:13:33](https://news.ycombinator.com/item?id=42175821) - [End-to-End Tour of Text Layout/Rendering (2015)](http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html)
 * [2024-11-18, 18:54:33](https://news.ycombinator.com/item?id=42175624) - [AMD Now Has More Compute on the Top500 Than Nvidia](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)

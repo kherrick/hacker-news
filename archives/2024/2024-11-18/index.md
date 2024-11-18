@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 22:06:46](https://news.ycombinator.com/item?id=42177641) - [Valve developers discuss why Half Life 2: Episode 3 was abandoned](https://arstechnica.com/gaming/2024/11/newell-says-he-was-stumped-on-how-to-finish-half-life-2-episode-3/)
 * [2024-11-18, 21:56:25](https://news.ycombinator.com/item?id=42177543) - [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
 * [2024-11-18, 21:41:20](https://news.ycombinator.com/item?id=42177411) - [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
