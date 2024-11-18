@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
 * [2024-11-18, 09:18:34](https://news.ycombinator.com/item?id=42170932) - [M4 chips: E and P cores](https://eclecticlight.co/2024/11/18/inside-m4-chips-e-and-p-cores/)
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
+* [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
@@ -12,7 +14,6 @@
 * [2024-11-18, 00:23:00](https://news.ycombinator.com/item?id=42168576) - [ChibiHash: Small, Fast 64 bit hash function](https://nrk.neocities.org/articles/chibihash)
 * [2024-11-18, 00:07:55](https://news.ycombinator.com/item?id=42168491) - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 * [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
-* [2024-11-17, 22:11:24](https://news.ycombinator.com/item?id=42167809) - [Nokolexbor: Drop-in replacement for Nokogiri. 5.2x faster at parsing HTML](https://github.com/serpapi/nokolexbor)
 * [2024-11-17, 21:50:26](https://news.ycombinator.com/item?id=42167633) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 20:31:26](https://news.ycombinator.com/item?id=42166948) - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2024-11-17, 18:26:37](https://news.ycombinator.com/item?id=42165862) - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
@@ -29,7 +30,6 @@
 * [2024-11-14, 13:41:18](https://news.ycombinator.com/item?id=42136054) - [File over App: A Philosophy for Digital Longevity](https://rishikeshs.com/file-over-app/)
 * [2024-11-13, 18:59:52](https://news.ycombinator.com/item?id=42128831) - [Mapping the Ionosphere with Phones](https://www.nature.com/articles/s41586-024-08072-x)
 * [2024-11-13, 16:45:13](https://news.ycombinator.com/item?id=42127609) - [An alternative construction of Shannon entropy](https://rkp.science/an-alternative-construction-of-shannon-entropy/)
-* [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 
 ## [Archives](archives/index.md)
 
