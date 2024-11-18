@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of trying to run an old node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:02:50](https://news.ycombinator.com/item?id=42175043) - [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Things you didn't know about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:44:48](https://news.ycombinator.com/item?id=42174840) - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 * [2024-11-18, 17:31:25](https://news.ycombinator.com/item?id=42174703) - [Illegally logged wood from Cambodia likely ending up in U.S. homes](https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/)
+* [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
 * [2024-11-18, 16:27:06](https://news.ycombinator.com/item?id=42173960) - [Qwen2.5 Turbo extends context length to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-turbo/)
 * [2024-11-18, 16:19:28](https://news.ycombinator.com/item?id=42173870) - [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
