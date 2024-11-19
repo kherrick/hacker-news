@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
+* [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 17:02:15](https://news.ycombinator.com/item?id=42185626) - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
 * [2024-11-19, 17:00:09](https://news.ycombinator.com/item?id=42185596) - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
-* [2024-11-19, 16:30:03](https://news.ycombinator.com/item?id=42185266) - [Bose buys McIntosh, storied maker of high-end luxury audio equipment](https://www.cnbc.com/2024/11/19/bose-buys-mcintosh-storied-maker-of-high-end-luxury-audio-equipment.html)
 * [2024-11-19, 16:05:01](https://news.ycombinator.com/item?id=42184968) - [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
 * [2024-11-19, 15:05:10](https://news.ycombinator.com/item?id=42184170) - [Red Hat and Microsoft Bringing RHEL to WSL](https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
