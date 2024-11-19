@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
@@ -16,6 +17,7 @@
 * [2024-11-19, 09:22:11](https://news.ycombinator.com/item?id=42181452) - [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
 * [2024-11-19, 09:18:57](https://news.ycombinator.com/item?id=42181432) - [Paged Out #5 – hacker zine release [pdf]](https://pagedout.institute/download/PagedOut_005.pdf)
 * [2024-11-19, 09:15:28](https://news.ycombinator.com/item?id=42181411) - [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
+* [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started: Evidence from 350,757 flips](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)

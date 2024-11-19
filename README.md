@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 12:01:01](https://news.ycombinator.com/item?id=42182503) - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
-* [2024-11-19, 11:58:24](https://news.ycombinator.com/item?id=42182485) - [We Can't Give Up Paper Checks, and That's a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
+* [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started: Evidence from 350,757 flips](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 03:54:00](https://news.ycombinator.com/item?id=42179969) - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
 * [2024-11-19, 02:25:14](https://news.ycombinator.com/item?id=42179541) - [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
@@ -28,7 +29,6 @@
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 05:59:26](https://news.ycombinator.com/item?id=42133491) - [A Woman Who Defined the Great Depression](https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review)
-* [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 
 ## [Archives](archives/index.md)
