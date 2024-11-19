@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 23:17:24](https://news.ycombinator.com/item?id=42189105) - [Bluesky Exceeds Threads DAUs in the US](https://bsky.app/profile/jburnmurdoch.bsky.social/post/3lbdekd55sc2b)
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashed down in the Gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
+* [2024-11-19, 21:59:10](https://news.ycombinator.com/item?id=42188555) - [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
 * [2024-11-19, 21:42:02](https://news.ycombinator.com/item?id=42188407) - [Why is Apple Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2024-11-19, 21:26:18](https://news.ycombinator.com/item?id=42188247) - [Starship IFT-6 Livestream (liftoff at 4pm CT)](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
 * [2024-11-19, 21:01:35](https://news.ycombinator.com/item?id=42188043) - [Math4devs.com: List of mathematical symbols with their JavaScript equivalent](https://math4devs.com/)
