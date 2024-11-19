@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 15:19:37](https://news.ycombinator.com/item?id=42184362) - [Show HN: Fireproof – local-first database with Git-like encrypted sync](https://fireproof.storage/)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
-* [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
@@ -24,8 +24,8 @@
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
 * [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
-* [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
 * [2024-11-18, 00:09:20](https://news.ycombinator.com/item?id=42168503) - [Museum of Bad Art](https://museumofbadart.org/)
+* [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 12:50:49](https://news.ycombinator.com/item?id=42146446) - [Uno Platform Studio Featuring Hot Design](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 05:59:26](https://news.ycombinator.com/item?id=42133491) - [A Woman Who Defined the Great Depression](https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review)
