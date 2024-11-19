@@ -20,6 +20,7 @@
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
+* [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-17, 07:49:16](https://news.ycombinator.com/item?id=42162654) - [Playful, intricate Japanese leaf art – in pictures – Art and design](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures)
@@ -28,7 +29,6 @@
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 00:26:17](https://news.ycombinator.com/item?id=42131783) - [Ask HN: Anybody used Retool for production, user-facing app?](https://news.ycombinator.com/item?id=42131783)
 * [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
-* [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India Received a 5-Star Crash Test Rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
 * [2024-11-12, 07:48:13](https://news.ycombinator.com/item?id=42113582) - [JGS ASCII ART gallery (2001)](https://oldcompcz.github.io/jgs/joan_stark/index-2.html)
 
 ## [Archives](archives/index.md)
