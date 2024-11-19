@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-19, 05:16:29",
-      "https://news.ycombinator.com/item?id=42180276"
+      "2024-11-19, 05:02:45",
+      "https://news.ycombinator.com/item?id=42180217"
     ],
     [
-      "SQLite vs. PostgreSQL Performance [video]",
-      "https://www.youtube.com/watch?v=VzQgr-TgBzc"
+      "Retro beige PC case goes from April Fools' joke to retail",
+      "https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-11-15, 13:48:21",
-      "https://news.ycombinator.com/item?id=42146894"
-    ],
-    [
-      "A programmable FPGA SoM in the tiny microSD form factor",
-      "https://www.crowdsupply.com/signaloid/signaloid-c0-microsd"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 15:04:57",
       "https://news.ycombinator.com/item?id=42136817"
     ],
@@ -267,6 +257,16 @@
     [
       "Waiting for many things at once with io_uring",
       "https://mazzo.li/posts/uring-multiplex.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 00:26:17",
+      "https://news.ycombinator.com/item?id=42131783"
+    ],
+    [
+      "Ask HN: Anybody used Retool for production, user-facing app?",
+      "https://news.ycombinator.com/item?id=42131783"
     ]
   ],
   [
