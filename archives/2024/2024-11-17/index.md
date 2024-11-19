@@ -50,6 +50,7 @@
 * [2024-11-17, 08:35:44](https://news.ycombinator.com/item?id=42162842) - [Restart of Three Mile Island tests US appetite for nuclear revival](https://www.ft.com/content/b90f6e21-bb8d-4606-9e5e-c4acb56b86ce)
 * [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-17, 08:14:07](https://news.ycombinator.com/item?id=42162751) - [How to setup self hosted wiki for your startup](https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html)
+* [2024-11-17, 07:49:16](https://news.ycombinator.com/item?id=42162654) - [Playful, intricate Japanese leaf art – in pictures – Art and design](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 06:34:46](https://news.ycombinator.com/item?id=42162390) - [Phased Array](https://en.wikipedia.org/wiki/Phased_array)
