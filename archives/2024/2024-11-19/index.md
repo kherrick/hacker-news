@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 17:02:15](https://news.ycombinator.com/item?id=42185626) - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
+* [2024-11-19, 17:00:09](https://news.ycombinator.com/item?id=42185596) - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
 * [2024-11-19, 16:31:07](https://news.ycombinator.com/item?id=42185286) - [Elon's stupid \"X\" jump. Now a free font, available for download](https://timesnewdumbass.co/)
+* [2024-11-19, 16:30:03](https://news.ycombinator.com/item?id=42185266) - [Bose buys McIntosh, storied maker of high-end luxury audio equipment](https://www.cnbc.com/2024/11/19/bose-buys-mcintosh-storied-maker-of-high-end-luxury-audio-equipment.html)
 * [2024-11-19, 16:05:01](https://news.ycombinator.com/item?id=42184968) - [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
 * [2024-11-19, 15:19:37](https://news.ycombinator.com/item?id=42184362) - [Show HN: Fireproof – local-first database with Git-like encrypted sync](https://fireproof.storage/)
 * [2024-11-19, 15:05:10](https://news.ycombinator.com/item?id=42184170) - [Red Hat and Microsoft Bringing RHEL to WSL](https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL)
