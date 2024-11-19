@@ -26,10 +26,10 @@
 * [2024-11-15, 13:35:03](https://news.ycombinator.com/item?id=42146782) - [Building Observability with ClickHouse](https://cmtops.dev/posts/building-observability-with-clickhouse/)
 * [2024-11-15, 13:24:38](https://news.ycombinator.com/item?id=42146699) - [It's hard to stop Math Acceleration once you start](https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
-* [2024-11-13, 19:45:47](https://news.ycombinator.com/item?id=42129209) - [Take the 'Death Stairs' If You Dare](https://www.nytimes.com/2024/11/13/us/death-stairs-facebook.html)
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 * [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India received a 5-star crash test rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
 * [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
+* [2024-11-11, 18:36:35](https://news.ycombinator.com/item?id=42109382) - [Magic Circle tries to track down first female member – who posed as a man](https://www.theguardian.com/stage/2024/nov/11/magic-circle-tries-to-track-down-first-female-member-who-posed-as-a-man)
 
 ## [Archives](archives/index.md)
 

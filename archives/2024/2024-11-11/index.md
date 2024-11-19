@@ -30,6 +30,7 @@
 * [2024-11-11, 19:25:37](https://news.ycombinator.com/item?id=42109751) - ['Brain stars' store our memories like a microscopic filing cabinet](https://newatlas.com/biology/brain-stars-memories/)
 * [2024-11-11, 19:20:37](https://news.ycombinator.com/item?id=42109712) - [LICENSE.TXT [video]](https://www.youtube.com/watch?v=CUleKnUUaGI)
 * [2024-11-11, 18:58:08](https://news.ycombinator.com/item?id=42109544) - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
+* [2024-11-11, 18:36:35](https://news.ycombinator.com/item?id=42109382) - [Magic Circle tries to track down first female member – who posed as a man](https://www.theguardian.com/stage/2024/nov/11/magic-circle-tries-to-track-down-first-female-member-who-posed-as-a-man)
 * [2024-11-11, 17:44:42](https://news.ycombinator.com/item?id=42108933) - [ML in Go with a Python Sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-11, 17:41:43](https://news.ycombinator.com/item?id=42108910) - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
 * [2024-11-11, 17:41:19](https://news.ycombinator.com/item?id=42108907) - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
