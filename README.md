@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 05:02:45](https://news.ycombinator.com/item?id=42180217) - [Retro beige PC case goes from April Fools' joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
@@ -12,6 +13,7 @@
 * [2024-11-18, 22:24:07](https://news.ycombinator.com/item?id=42177767) - [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
 * [2024-11-18, 22:04:54](https://news.ycombinator.com/item?id=42177619) - [Scientific American's departing editor and the politicization of science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
 * [2024-11-18, 21:47:36](https://news.ycombinator.com/item?id=42177462) - [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
+* [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [20 years of Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
@@ -21,13 +23,11 @@
 * [2024-11-18, 15:19:24](https://news.ycombinator.com/item?id=42173119) - [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
 * [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
-* [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
 * [2024-11-18, 00:09:20](https://news.ycombinator.com/item?id=42168503) - [Museum of Bad Art](https://museumofbadart.org/)
 * [2024-11-15, 13:35:03](https://news.ycombinator.com/item?id=42146782) - [Building Observability with ClickHouse](https://cmtops.dev/posts/building-observability-with-clickhouse/)
 * [2024-11-15, 13:24:38](https://news.ycombinator.com/item?id=42146699) - [It's hard to stop Math Acceleration once you start](https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
-* [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India received a 5-star crash test rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
 * [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
 
