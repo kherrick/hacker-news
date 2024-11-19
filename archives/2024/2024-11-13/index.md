@@ -18,6 +18,7 @@
 * [2024-11-13, 20:43:57](https://news.ycombinator.com/item?id=42129791) - [FBI seizes Polymarket CEO's phone, electronics](https://nypost.com/2024/11/13/business/fbi-seizes-polymarket-ceos-phone-electronics-after-betting-platform-predicts-trump-win-source/)
 * [2024-11-13, 20:43:16](https://news.ycombinator.com/item?id=42129779) - [Show HN: I Built Tinder, but for Entrepreneurs and Investors](https://www.aloangels.me/)
 * [2024-11-13, 19:48:24](https://news.ycombinator.com/item?id=42129236) - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
+* [2024-11-13, 19:45:47](https://news.ycombinator.com/item?id=42129209) - [Take the 'Death Stairs' If You Dare](https://www.nytimes.com/2024/11/13/us/death-stairs-facebook.html)
 * [2024-11-13, 19:36:50](https://news.ycombinator.com/item?id=42129144) - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
 * [2024-11-13, 19:31:11](https://news.ycombinator.com/item?id=42129097) - [Netflix's Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
 * [2024-11-13, 19:29:11](https://news.ycombinator.com/item?id=42129080) - [Why Sabine Hossenfelder Is Just Wrong](https://www.math.columbia.edu/~woit/wordpress/?p=14232)
