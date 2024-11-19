@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 18:40:29](https://news.ycombinator.com/item?id=42186747) - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
+* [2024-11-19, 18:40:15](https://news.ycombinator.com/item?id=42186746) - [The Deep Sea](https://neal.fun/deep-sea/)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
