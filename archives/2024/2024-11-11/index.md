@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
 * [2024-11-11, 23:11:19](https://news.ycombinator.com/item?id=42111260) - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:43:22](https://news.ycombinator.com/item?id=42111120) - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
 * [2024-11-11, 22:41:33](https://news.ycombinator.com/item?id=42111109) - [Tinfoil.com – Dedicated to the preservation of early recorded sounds](http://tinfoil.com/)
