@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 21:42:02](https://news.ycombinator.com/item?id=42188407) - [Why is Apple Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+* [2024-11-19, 21:26:18](https://news.ycombinator.com/item?id=42188247) - [Starship IFT-6 Livestream (liftoff at 4pm CT)](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
 * [2024-11-19, 21:00:55](https://news.ycombinator.com/item?id=42188038) - [TigerEye (YC S22) Is Hiring a Full Stack Engineer](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b)
 * [2024-11-19, 20:52:48](https://news.ycombinator.com/item?id=42187967) - [El Capitan: New Supercomputer Is the Fastest in the World](https://spectrum.ieee.org/supercomputer-for-nukes)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
 * [2024-11-19, 20:29:03](https://news.ycombinator.com/item?id=42187761) - [I Use Erlang Hot Code Updates](https://underjord.io/how-i-use-erlang-hot-code-updates.html)
 * [2024-11-19, 20:17:49](https://news.ycombinator.com/item?id=42187640) - [FLTK 1.4 Released](https://www.fltk.org/articles.php?L1955)
 * [2024-11-19, 20:05:01](https://news.ycombinator.com/item?id=42187531) - [Tech-vexed: how digital life threatens our capacity for awe](https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe)
+* [2024-11-19, 20:03:10](https://news.ycombinator.com/item?id=42187506) - [When did estimates turn into deadlines?](https://domainanalysis.io/p/architecture-modernization-execution)
 * [2024-11-19, 19:58:06](https://news.ycombinator.com/item?id=42187452) - [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
 * [2024-11-19, 18:40:29](https://news.ycombinator.com/item?id=42186747) - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
 * [2024-11-19, 18:40:15](https://news.ycombinator.com/item?id=42186746) - [The Deep Sea](https://neal.fun/deep-sea/)
