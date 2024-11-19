@@ -65,6 +65,7 @@
 * [2024-11-13, 03:51:51](https://news.ycombinator.com/item?id=42122740) - [Backblaze Drive Stats for Q3 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2024/)
 * [2024-11-13, 03:42:43](https://news.ycombinator.com/item?id=42122690) - [Why Docker Compose Falls Short as Self-Hosting Scales](https://blog.tealok.tech/post/docker-compose-isnt-enough/)
 * [2024-11-13, 03:34:57](https://news.ycombinator.com/item?id=42122642) - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
+* [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 * [2024-11-13, 02:53:13](https://news.ycombinator.com/item?id=42122434) - [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
 * [2024-11-13, 02:17:27](https://news.ycombinator.com/item?id=42122258) - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
