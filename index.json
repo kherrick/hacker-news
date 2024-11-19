@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-11-19, 15:05:10",
-      "https://news.ycombinator.com/item?id=42184170"
-    ],
-    [
-      "Red Hat and Microsoft Bringing RHEL to WSL",
-      "https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 14:06:36",
       "https://news.ycombinator.com/item?id=42183561"
     ],
@@ -187,6 +177,16 @@
     [
       "Hyperfine: A command-line benchmarking tool",
       "https://github.com/sharkdp/hyperfine"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 18:24:21",
+      "https://news.ycombinator.com/item?id=42175316"
+    ],
+    [
+      "The tragedy of running an old Node project",
+      "https://abdisalan.com/posts/tragedy-running-old-node-project/"
     ]
   ],
   [
