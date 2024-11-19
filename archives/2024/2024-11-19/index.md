@@ -7,6 +7,7 @@
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 17:02:15](https://news.ycombinator.com/item?id=42185626) - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
 * [2024-11-19, 17:00:09](https://news.ycombinator.com/item?id=42185596) - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
+* [2024-11-19, 16:55:50](https://news.ycombinator.com/item?id=42185553) - [Brazil leads new international effort against climate lies at the G20 summit](https://www.theverge.com/2024/11/19/24300541/disinformation-climate-change-g20-summit-united-nations)
 * [2024-11-19, 16:31:07](https://news.ycombinator.com/item?id=42185286) - [Elon's stupid \"X\" jump. Now a free font, available for download](https://timesnewdumbass.co/)
 * [2024-11-19, 16:30:03](https://news.ycombinator.com/item?id=42185266) - [Bose buys McIntosh, storied maker of high-end luxury audio equipment](https://www.cnbc.com/2024/11/19/bose-buys-mcintosh-storied-maker-of-high-end-luxury-audio-equipment.html)
 * [2024-11-19, 16:05:01](https://news.ycombinator.com/item?id=42184968) - [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
