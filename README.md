@@ -28,7 +28,7 @@
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 00:26:17](https://news.ycombinator.com/item?id=42131783) - [Ask HN: Anybody used Retool for production, user-facing app?](https://news.ycombinator.com/item?id=42131783)
 * [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
-* [2024-11-12, 07:48:13](https://news.ycombinator.com/item?id=42113582) - [JGS ASCII ART gallery (2001)](https://oldcompcz.github.io/jgs/joan_stark/index-2.html)
+* [2024-11-13, 16:30:39](https://news.ycombinator.com/item?id=42127485) - [The Cosmos Teams with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
 * [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
 
 ## [Archives](archives/index.md)
