@@ -19,6 +19,7 @@
 * [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204)
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
+* [2024-11-18, 15:19:24](https://news.ycombinator.com/item?id=42173119) - [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
 * [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
@@ -26,9 +27,8 @@
 * [2024-11-15, 13:35:03](https://news.ycombinator.com/item?id=42146782) - [Building Observability with ClickHouse](https://cmtops.dev/posts/building-observability-with-clickhouse/)
 * [2024-11-15, 13:24:38](https://news.ycombinator.com/item?id=42146699) - [It's hard to stop Math Acceleration once you start](https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
-* [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-13, 16:30:39](https://news.ycombinator.com/item?id=42127485) - [The Cosmos Teams with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
-* [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India Received a 5-Star Crash Test Rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
+* [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India received a 5-star crash test rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
 * [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
 
 ## [Archives](archives/index.md)
