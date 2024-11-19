@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
+* [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 * [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
@@ -19,6 +21,7 @@
 * [2024-11-19, 09:15:28](https://news.ycombinator.com/item?id=42181411) - [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
 * [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started: Evidence from 350,757 flips](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
+* [2024-11-19, 06:38:58](https://news.ycombinator.com/item?id=42180597) - [How to Build a Chess Engine and Fail](https://obrhubr.org/chess-engine)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)
 * [2024-11-19, 05:02:45](https://news.ycombinator.com/item?id=42180217) - [Retro beige PC case goes from April Fools' joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
