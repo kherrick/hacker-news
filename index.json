@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-19, 07:13:01",
+      "https://news.ycombinator.com/item?id=42180763"
+    ],
+    [
+      "PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd",
+      "https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 06:19:48",
+      "https://news.ycombinator.com/item?id=42180516"
+    ],
+    [
+      "Batched reward model inference and Best-of-N sampling",
+      "https://raw.sh/posts/easy_reward_model_inference"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 05:02:45",
       "https://news.ycombinator.com/item?id=42180217"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-11-18, 07:45:03",
-      "https://news.ycombinator.com/item?id=42170552"
-    ],
-    [
-      "Against Best Practices",
-      "https://www.arp242.net/best-practices.html"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 22:05:11",
       "https://news.ycombinator.com/item?id=42167749"
     ],
     [
       "Is Chrome the New IE? (2023)",
       "https://www.magiclasso.co/insights/is-chrome-the-new-ie/"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 08:15:31",
-      "https://news.ycombinator.com/item?id=42162755"
-    ],
-    [
-      "Towards Nyquist Learners",
-      "https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85"
     ]
   ],
   [
