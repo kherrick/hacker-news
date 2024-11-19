@@ -2,6 +2,7 @@
 
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
 * [2024-11-19, 09:22:11](https://news.ycombinator.com/item?id=42181452) - [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
+* [2024-11-19, 09:15:28](https://news.ycombinator.com/item?id=42181411) - [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 03:54:00](https://news.ycombinator.com/item?id=42179969) - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
@@ -13,7 +14,6 @@
 * [2024-11-18, 22:24:07](https://news.ycombinator.com/item?id=42177767) - [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
 * [2024-11-18, 22:04:54](https://news.ycombinator.com/item?id=42177619) - [Scientific American's departing editor and the politicization of science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
 * [2024-11-18, 21:47:36](https://news.ycombinator.com/item?id=42177462) - [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
-* [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [20 years of Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)

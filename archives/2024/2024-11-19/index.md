@@ -6,6 +6,7 @@
 
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
 * [2024-11-19, 09:22:11](https://news.ycombinator.com/item?id=42181452) - [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
+* [2024-11-19, 09:15:28](https://news.ycombinator.com/item?id=42181411) - [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)
