@@ -129,6 +129,49 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42183115">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html"
+              >Online Age Verification as Trojan Horse for the Mass Rollout of
+              Digital IDs?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-19 @ 13:21:01</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42183115"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42182519">
+          <h3>
+            <a
+              class="item"
+              href="https://tech.marksblogg.com/osm-mvt-vector-tiles.html"
+              >OpenStreetMap's New Vector Tiles</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-19 @ 12:03:02</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42182519"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42182503">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=42182503"
@@ -308,6 +351,59 @@
             </div>
           </section>
         </section>
+        <section id="42182146">
+          <h3>
+            <a class="item" href="https://github.com/frectonz/pglite-fusion"
+              >Show HN: Embed an SQLite database in your PostgreSQL table</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-19 @ 11:02:32</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42182146"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In addition to the PostgreSQL `SQLITE` type, pglite-fusion
+                provides the `query_sqlite`` function for querying SQLite
+                databases and the `execute_sqlite` function for updating them.
+                Additional functions are listed in the project’s README.
+              </p>
+              <p>
+                The pglite-fusion extension is written in Rust using the pgrx
+                framework [1].
+              </p>
+              <p>----</p>
+              <p>Implementation Details</p>
+              <p>
+                The PostgreSQL `SQLITE` type is stored as a CBOR-encoded
+                `Vec&lt;u8&gt;`. When a query is made, this `Vec&lt;u8&gt;` is
+                written to a random file in the `/tmp` directory. SQLite then
+                loads the file, performs the query, and returns the result as a
+                table containing a single row with an array of JSON-encoded
+                values.
+              </p>
+              <p>
+                The `execute_sqlite` function follows a similar process.
+                However, instead of returning query results, it returns the
+                contents of the SQLite file (stored in `/tmp`) as a new `SQLITE`
+                instance.
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/pgcentralfoundation/pgrx"
+                  >https://github.com/pgcentralfoundation/pgrx</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42181467">
           <h3>
             <a
@@ -320,11 +416,32 @@
             <h4>
               <span>2024-11-19 @ 09:23:43</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42181467"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42181432">
+          <h3>
+            <a
+              class="item"
+              href="https://pagedout.institute/download/PagedOut_005.pdf"
+              >Paged Out #5 – hacker zine release [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-19 @ 09:18:57</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42181432"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -342,11 +459,11 @@
             <h4>
               <span>2024-11-19 @ 09:15:28</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42181411"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -385,7 +502,7 @@
             <h4>
               <span>2024-11-19 @ 06:19:48</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42180516"
                   >Comments</a
@@ -404,32 +521,11 @@
             <h4>
               <span>2024-11-19 @ 03:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42179969"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42179774">
-          <h3>
-            <a
-              class="item"
-              href="https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029"
-              >Rats learned to drive</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-19 @ 03:12:19</span
-              ><span class="points-container"
-                >Points: <span class="points">188</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42179774"
-                  >Comments</a
-                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -464,11 +560,11 @@
             <h4>
               <span>2024-11-19 @ 02:25:14</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42179541"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -483,30 +579,11 @@
             <h4>
               <span>2024-11-19 @ 02:09:27</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42179467"
                   >Comments</a
                 ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42178761">
-          <h3>
-            <a class="item" href="https://cerebras.ai/blog/llama-405b-inference"
-              >Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-19 @ 00:15:04</span
-              ><span class="points-container"
-                >Points: <span class="points">409</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42178761"
-                  >Comments</a
-                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -523,11 +600,11 @@
             <h4>
               <span>2024-11-18 @ 22:24:07</span
               ><span class="points-container"
-                >Points: <span class="points">725</span></span
+                >Points: <span class="points">734</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42177767"
                   >Comments</a
-                ><span class="descendants">: 851</span></span
+                ><span class="descendants">: 856</span></span
               >
             </h4>
           </section>
@@ -545,11 +622,11 @@
             <h4>
               <span>2024-11-18 @ 22:04:54</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42177619"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -564,11 +641,11 @@
             <h4>
               <span>2024-11-18 @ 21:47:36</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42177462"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -585,11 +662,11 @@
             <h4>
               <span>2024-11-18 @ 18:24:21</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42175316"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -606,7 +683,7 @@
             <h4>
               <span>2024-11-18 @ 18:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42175023"
                   >Comments</a
@@ -627,7 +704,7 @@
             <h4>
               <span>2024-11-18 @ 17:43:13</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42174829"
                   >Comments</a
@@ -826,11 +903,11 @@
             <h4>
               <span>2024-11-18 @ 16:51:29</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42174231"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -846,11 +923,11 @@
             <h4>
               <span>2024-11-18 @ 16:49:09</span
               ><span class="points-container"
-                >Points: <span class="points">473</span></span
+                >Points: <span class="points">476</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42174204"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
             <div class="text">
@@ -962,107 +1039,13 @@
             <h4>
               <span>2024-11-18 @ 15:28:57</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173233"
                   >Comments</a
                 ><span class="descendants">: 110</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="42173119">
-          <h3>
-            <a class="item" href="https://tips.io"
-              >Show HN: Tips.io – A Tailwind playground with AI, page
-              management, and theming</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 15:19:24</span
-              ><span class="points-container"
-                >Points: <span class="points">250</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42173119"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My name is Nick and this is my fun side project. Please lay it
-                on me. HN can think of Tips.io as a cracked out Tailwind
-                Playground that has page management and amazing AI integration.
-              </p>
-              <p>There are a few core ideas:</p>
-              <p>1) The HTML is the CMS</p>
-              <p>
-                There are no fields or restrictions. Just hover, click, and
-                start tweaking any HTML. Also, certain elements you click will
-                have special easy edit abilities:
-              </p>
-              <p>
-                - &lt;img&gt; auto creates an uploader, stock photo picker (or
-                HTML)
-              </p>
-              <p>
-                - &lt;video&gt; auto creates an uploader, stock video picker (or
-                HTML)
-              </p>
-              <p>- &lt;svg&gt; auto creates a big icon picker (or HTML)</p>
-              <p>
-                - &lt;div class="prose"&gt; auto creates a WYSIWYG Editor (or
-                HTML)
-              </p>
-              <p>2) Slices</p>
-              <p>
-                Think of these as just individual HTML sections of a page or lil
-                baby single-file components. They are self-contained and
-                isolated so you drag them around easily. The real power comes
-                from reuse across your pages and linking them (aka, one HTML
-                footer updates globally). You can also use "slices" from any
-                other tips.io project for quickly expanding your site with more
-                design options.
-              </p>
-              <p>3) AI Elements, Not Pages</p>
-              <p>
-                Another cool concept is you can select any element on an HTML
-                slice an edit that individually vs re-streaming/rebuilding and
-                entire component every time. We support 5 different AI models
-                right now. Some other really intense/cool AI integration is
-                coming soon.
-              </p>
-              <p>4) Tailwind Everything, No Build Step, &amp; Theming</p>
-              <p>
-                We have a custom "themer" to make creating Tailwind config files
-                near instant with real-time font trying, color palettes/preset
-                trying, and more. All our Tailwind is automatic and requires
-                zero config instantly. The same Tailwind that magic runs
-                client-side will run server-side so quick no one knows a build
-                step is happening. Tailwind and AI are also a match made in
-                heaven.
-              </p>
-              <p>Other features:</p>
-              <p>
-                - Animations - Zoomable page tree - Basic Forms (yes on your
-                static site!) - Analytics - Redirects, site passwords, and much
-                more.
-              </p>
-              <p>Tech:</p>
-              <p>- 100% Cloudflare Workers - Svelte - UnoCSS</p>
-              <p>Some resources:</p>
-              <p>
-                - Promo video:
-                <a href="https://www.youtube.com/watch?v=s8U2rJJX-rk"
-                  >https://www.youtube.com/watch?v=s8U2rJJX-rk</a
-                >
-                - Tutorial &amp; demo video:
-                <a href="https://tips.io/tutorial">https://tips.io/tutorial</a>
-                - Just launch:
-                <a href="https://new.tips.io">https://new.tips.io</a>
-              </p>
-            </div>
           </section>
         </section>
         <section id="42173114">
@@ -1077,7 +1060,7 @@
             <h4>
               <span>2024-11-18 @ 15:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42173114"
                   >Comments</a
@@ -1098,32 +1081,11 @@
             <h4>
               <span>2024-11-18 @ 14:31:17</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42172565"
                   >Comments</a
-                ><span class="descendants">: 599</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42170740">
-          <h3>
-            <a
-              class="item"
-              href="https://maxbo.me/a-html-file-is-all-you-need.html"
-              >Reactive HTML Notebooks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-18 @ 08:33:32</span
-              ><span class="points-container"
-                >Points: <span class="points">341</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42170740"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 607</span></span
               >
             </h4>
           </section>
@@ -1170,11 +1132,32 @@
             <h4>
               <span>2024-11-18 @ 00:09:20</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42168503"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 129</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42146699">
+          <h3>
+            <a
+              class="item"
+              href="https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration"
+              >It's hard to stop Math Acceleration once you start</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-11-15 @ 13:24:38</span
+              ><span class="points-container"
+                >Points: <span class="points">83</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42146699"
+                  >Comments</a
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -1213,33 +1196,11 @@
             <h4>
               <span>2024-11-13 @ 03:18:44</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42122557"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42111263">
-          <h3>
-            <a
-              class="item"
-              href="https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications"
-              >New textbook teaches students about matrix methods and their real
-              world apps</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-11-11 @ 23:11:32</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42111263"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -1257,11 +1218,11 @@
             <h4>
               <span>2024-11-11 @ 18:36:35</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42109382"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
