@@ -29,6 +29,7 @@
 * [2024-11-12, 19:55:45](https://news.ycombinator.com/item?id=42119042) - [Show HN: Jelly – A Simpler Shared Inbox for Small Teams](https://letsjelly.com/)
 * [2024-11-12, 19:49:59](https://news.ycombinator.com/item?id=42118989) - [Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands](https://github.com/olivierloverde/gmail-agent)
 * [2024-11-12, 19:48:14](https://news.ycombinator.com/item?id=42118970) - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
+* [2024-11-12, 19:40:57](https://news.ycombinator.com/item?id=42118881) - [Developing a D-20 Watch for Tabletop Roleplaying Games](https://timestoptech.com/blogs/super-twisted/dungeons-development-of-the-d-20-watch)
 * [2024-11-12, 19:34:23](https://news.ycombinator.com/item?id=42118817) - [Samurai Serial Killers and Mass Murderers](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-serial-killers-and-mass-murderers/)
 * [2024-11-12, 19:16:53](https://news.ycombinator.com/item?id=42118638) - [Sentry just gave $750k to open source projects](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)
 * [2024-11-12, 19:11:26](https://news.ycombinator.com/item?id=42118583) - [Pre-Greek Substrate](https://en.wikipedia.org/wiki/Pre-Greek_substrate)
