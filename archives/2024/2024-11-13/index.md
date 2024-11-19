@@ -69,6 +69,7 @@
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 * [2024-11-13, 02:53:13](https://news.ycombinator.com/item?id=42122434) - [Micron Launches First 60TB PCIe Gen5 SSD with 12GB/S Read Speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
 * [2024-11-13, 02:17:27](https://news.ycombinator.com/item?id=42122258) - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/)
+* [2024-11-13, 01:58:44](https://news.ycombinator.com/item?id=42122152) - [Single Line Mazes](https://kottke.org/24/11/single-line-mazes)
 * [2024-11-13, 01:46:20](https://news.ycombinator.com/item?id=42122085) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 01:34:43](https://news.ycombinator.com/item?id=42122008) - [Kibi – A text editor in less than 1024 lines of code, written in Rust](https://terminaltrove.com/kibi/)
 * [2024-11-13, 01:23:37](https://news.ycombinator.com/item?id=42121957) - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
