@@ -55,6 +55,7 @@
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 06:34:46](https://news.ycombinator.com/item?id=42162390) - [Phased Array](https://en.wikipedia.org/wiki/Phased_array)
 * [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [Contain – CSS Cascading Style Sheets – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
+* [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)
 * [2024-11-17, 05:33:36](https://news.ycombinator.com/item?id=42162210) - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
 * [2024-11-17, 05:31:27](https://news.ycombinator.com/item?id=42162205) - [DIMM vs. Udimm vs. Rdimm vs. Sodimm vs. Cudimm: What's the Difference?](https://www.corsair.com/us/en/explorer/diy-builder/memory/dimm-vs-udimm-vs-rdimm-vs-sodimm-vs-cudimm-whats-the-difference/)
 * [2024-11-17, 05:28:20](https://news.ycombinator.com/item?id=42162189) - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
