@@ -41,36 +41,6 @@
   ],
   [
     [
-      "2024-11-19, 09:18:57",
-      "https://news.ycombinator.com/item?id=42181432"
-    ],
-    [
-      "Paged Out #5 – hacker zine release [pdf]",
-      "https://pagedout.institute/download/PagedOut_005.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 09:15:28",
-      "https://news.ycombinator.com/item?id=42181411"
-    ],
-    [
-      "Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence",
-      "https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 07:13:01",
-      "https://news.ycombinator.com/item?id=42180763"
-    ],
-    [
-      "PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd",
-      "https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 06:19:48",
       "https://news.ycombinator.com/item?id=42180516"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-11-18, 08:33:32",
+      "https://news.ycombinator.com/item?id=42170740"
+    ],
+    [
+      "Reactive HTML Notebooks",
+      "https://maxbo.me/a-html-file-is-all-you-need.html"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 07:37:16",
       "https://news.ycombinator.com/item?id=42170519"
     ],
@@ -261,22 +241,42 @@
   ],
   [
     [
-      "2024-11-15, 13:24:38",
-      "https://news.ycombinator.com/item?id=42146699"
-    ],
-    [
-      "It's hard to stop Math Acceleration once you start",
-      "https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration"
-    ]
-  ],
-  [
-    [
       "2024-11-14, 15:04:57",
       "https://news.ycombinator.com/item?id=42136817"
     ],
     [
       "Air traffic failure caused by two locations 3600nm apart sharing 3-letter code",
       "https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 12:04:46",
+      "https://news.ycombinator.com/item?id=42135412"
+    ],
+    [
+      "Waiting for many things at once with io_uring",
+      "https://mazzo.li/posts/uring-multiplex.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 05:59:26",
+      "https://news.ycombinator.com/item?id=42133491"
+    ],
+    [
+      "A Woman Who Defined the Great Depression",
+      "https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 00:10:54",
+      "https://news.ycombinator.com/item?id=42131691"
+    ],
+    [
+      "Histogramming Bytes with Positional Popcount",
+      "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
     ]
   ],
   [
