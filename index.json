@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-19, 16:31:07",
+      "https://news.ycombinator.com/item?id=42185286"
+    ],
+    [
+      "Elon's stupid \"X\" jump. Now a free font, available for download",
+      "https://timesnewdumbass.co/"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 16:05:01",
       "https://news.ycombinator.com/item?id=42184968"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-11-19, 14:59:34",
+      "https://news.ycombinator.com/item?id=42184119"
+    ],
+    [
+      "X's Moonshot for Circularity",
+      "https://x.company/blog/posts/moonshot-for-circularity/"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 14:06:36",
       "https://news.ycombinator.com/item?id=42183561"
     ],
     [
       "Shift Left Is the Tip of the Iceberg",
       "https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 14:05:49",
+      "https://news.ycombinator.com/item?id=42183555"
+    ],
+    [
+      "Electromagnetic coil gun seized in Japan",
+      "https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-11-18, 15:28:57",
-      "https://news.ycombinator.com/item?id=42173233"
-    ],
-    [
-      "A BBC navigation bar component broke depending on the external monitor",
-      "https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 15:19:05",
-      "https://news.ycombinator.com/item?id=42173114"
-    ],
-    [
-      "The Skyline algorithm for packing 2D rectangles",
-      "https://jvernay.fr/en/blog/skyline-2d-packer/implementation/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 14:31:17",
       "https://news.ycombinator.com/item?id=42172565"
     ],
@@ -267,16 +277,6 @@
     [
       "Uno Platform Studio Featuring Hot Design",
       "https://platform.uno/blog/uno-platform-studio-featuring-hot-design/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 15:04:57",
-      "https://news.ycombinator.com/item?id=42136817"
-    ],
-    [
-      "Air traffic failure caused by two locations 3600nm apart sharing 3-letter code",
-      "https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article"
     ]
   ],
   [
