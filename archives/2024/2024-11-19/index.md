@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 17:02:15](https://news.ycombinator.com/item?id=42185626) - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
 * [2024-11-19, 17:00:09](https://news.ycombinator.com/item?id=42185596) - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)

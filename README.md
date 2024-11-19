@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 17:02:15](https://news.ycombinator.com/item?id=42185626) - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
 * [2024-11-19, 17:00:09](https://news.ycombinator.com/item?id=42185596) - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
-* [2024-11-19, 16:55:50](https://news.ycombinator.com/item?id=42185553) - [Brazil leads new international effort against climate lies at the G20 summit](https://www.theverge.com/2024/11/19/24300541/disinformation-climate-change-g20-summit-united-nations)
 * [2024-11-19, 16:30:03](https://news.ycombinator.com/item?id=42185266) - [Bose buys McIntosh, storied maker of high-end luxury audio equipment](https://www.cnbc.com/2024/11/19/bose-buys-mcintosh-storied-maker-of-high-end-luxury-audio-equipment.html)
 * [2024-11-19, 16:05:01](https://news.ycombinator.com/item?id=42184968) - [A subtle layout bug in Google Search: When CJK text-wrapping meets float](https://likang.dev/posts/google-search-bug/)
 * [2024-11-19, 15:05:10](https://news.ycombinator.com/item?id=42184170) - [Red Hat and Microsoft Bringing RHEL to WSL](https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL)
@@ -28,7 +28,7 @@
 * [2024-11-15, 19:17:46](https://news.ycombinator.com/item?id=42149938) - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
 * [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 12:50:49](https://news.ycombinator.com/item?id=42146446) - [Uno Platform Studio Featuring Hot Design](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
-* [2024-11-14, 05:59:26](https://news.ycombinator.com/item?id=42133491) - [A Woman Who Defined the Great Depression](https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review)
+* [2024-11-13, 23:48:49](https://news.ycombinator.com/item?id=42131523) - [Experimental digital camera with a color eInk display](https://eink.cam)
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 
 ## [Archives](archives/index.md)
