@@ -70,6 +70,7 @@
 * [2024-11-14, 06:59:26](https://news.ycombinator.com/item?id=42133744) - [Vanessa Freudenberg's SqueakJS Paper Wins ACM Sigplan Most Notable Paper Award [pdf]](https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf)
 * [2024-11-14, 06:48:16](https://news.ycombinator.com/item?id=42133700) - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
 * [2024-11-14, 06:30:57](https://news.ycombinator.com/item?id=42133624) - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
+* [2024-11-14, 05:59:26](https://news.ycombinator.com/item?id=42133491) - [A Woman Who Defined the Great Depression](https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review)
 * [2024-11-14, 05:52:45](https://news.ycombinator.com/item?id=42133466) - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-14, 04:59:02](https://news.ycombinator.com/item?id=42133282) - [An Oral History of \"We Built This City,\" the Worst Song of All Time (2016)](https://www.gq.com/story/oral-history-we-built-this-city-worst-song-of-all-time)
 * [2024-11-14, 03:04:33](https://news.ycombinator.com/item?id=42132720) - [Go-Safeweb](https://github.com/google/go-safeweb)
