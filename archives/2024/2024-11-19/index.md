@@ -7,6 +7,7 @@
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashed down in the Gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
 * [2024-11-19, 21:42:02](https://news.ycombinator.com/item?id=42188407) - [Why is Apple Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2024-11-19, 21:26:18](https://news.ycombinator.com/item?id=42188247) - [Starship IFT-6 Livestream (liftoff at 4pm CT)](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
+* [2024-11-19, 21:01:35](https://news.ycombinator.com/item?id=42188043) - [Math4devs.com: List of mathematical symbols with their JavaScript equivalent](https://math4devs.com/)
 * [2024-11-19, 21:00:55](https://news.ycombinator.com/item?id=42188038) - [TigerEye (YC S22) Is Hiring a Full Stack Engineer](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b)
 * [2024-11-19, 20:57:24](https://news.ycombinator.com/item?id=42188014) - [Toshiba stuffs an entire PC into a dot matrix printer – Toshiba Jimucon SJ-9500](https://www.tomshardware.com/desktops/toshiba-stuffs-an-entire-pc-into-a-dot-matrix-printer-toshiba-jimucon-sj-9500-packs-a-mysterious-cpu-8gb-ram-and-two-240gb-ssds)
 * [2024-11-19, 20:52:48](https://news.ycombinator.com/item?id=42187967) - [El Capitan: New Supercomputer Is the Fastest in the World](https://spectrum.ieee.org/supercomputer-for-nukes)

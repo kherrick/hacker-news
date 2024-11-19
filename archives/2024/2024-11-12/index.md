@@ -56,6 +56,7 @@
 * [2024-11-12, 15:37:09](https://news.ycombinator.com/item?id=42116318) - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 * [2024-11-12, 15:20:46](https://news.ycombinator.com/item?id=42116140) - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
 * [2024-11-12, 15:13:46](https://news.ycombinator.com/item?id=42116072) - [Don't Do This with PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+* [2024-11-12, 15:11:46](https://news.ycombinator.com/item?id=42116051) - [Is the 80 character line limit still relevant? (2008)](https://richarddingwall.name/2008/05/31/is-the-80-character-line-limit-still-relevant/)
 * [2024-11-12, 15:10:25](https://news.ycombinator.com/item?id=42116038) - [Emit-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-12, 15:01:37](https://news.ycombinator.com/item?id=42115958) - [I Lost $210 to a Stripe Dispute Despite Proof](https://zarar.dev/how-i-lost-210-to-a-stripe-dispute-despite-proof/)
 * [2024-11-12, 14:51:31](https://news.ycombinator.com/item?id=42115873) - [I'm a neurology ICU nurse. The creep of AI in our hospitals terrifies me](https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/)
