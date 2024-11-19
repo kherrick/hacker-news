@@ -56,6 +56,7 @@
 * [2024-11-15, 13:48:21](https://news.ycombinator.com/item?id=42146894) - [A programmable FPGA SoM in the tiny microSD form factor](https://www.crowdsupply.com/signaloid/signaloid-c0-microsd)
 * [2024-11-15, 13:35:03](https://news.ycombinator.com/item?id=42146782) - [Building Observability with ClickHouse](https://cmtops.dev/posts/building-observability-with-clickhouse/)
 * [2024-11-15, 13:27:08](https://news.ycombinator.com/item?id=42146718) - [The bucket brigade device: An analog shift register](https://10maurycy10.github.io/misc/bbd/)
+* [2024-11-15, 13:24:38](https://news.ycombinator.com/item?id=42146699) - [It's hard to stop Math Acceleration once you start](https://kidswholovemath.substack.com/p/its-hard-to-stop-math-acceleration)
 * [2024-11-15, 13:23:26](https://news.ycombinator.com/item?id=42146689) - [I tried every top email marketing tool](https://www.sitebuilderreport.com/email-marketing-tools/)
 * [2024-11-15, 13:06:44](https://news.ycombinator.com/item?id=42146544) - [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
