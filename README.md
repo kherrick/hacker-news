@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)
+* [2024-11-19, 05:02:45](https://news.ycombinator.com/item?id=42180217) - [Retro beige PC case goes from April Fools' joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
 * [2024-11-19, 03:12:19](https://news.ycombinator.com/item?id=42179774) - [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
 * [2024-11-19, 03:12:12](https://news.ycombinator.com/item?id=42179773) - [Hyrumtoken: A Go package to encrypt pagination tokens](https://github.com/ssoready/hyrumtoken)
 * [2024-11-19, 02:25:14](https://news.ycombinator.com/item?id=42179541) - [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)
@@ -24,9 +24,9 @@
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-17, 07:49:16](https://news.ycombinator.com/item?id=42162654) - [Playful, intricate Japanese leaf art – in pictures – Art and design](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures)
-* [2024-11-15, 13:48:21](https://news.ycombinator.com/item?id=42146894) - [A programmable FPGA SoM in the tiny microSD form factor](https://www.crowdsupply.com/signaloid/signaloid-c0-microsd)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
+* [2024-11-14, 00:26:17](https://news.ycombinator.com/item?id=42131783) - [Ask HN: Anybody used Retool for production, user-facing app?](https://news.ycombinator.com/item?id=42131783)
 * [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-12, 07:48:13](https://news.ycombinator.com/item?id=42113582) - [JGS ASCII ART gallery (2001)](https://oldcompcz.github.io/jgs/joan_stark/index-2.html)
 * [2024-11-11, 23:11:32](https://news.ycombinator.com/item?id=42111263) - [New textbook teaches students about matrix methods and their real world apps](https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications)
