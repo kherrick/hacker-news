@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-19, 12:55:38",
-      "https://news.ycombinator.com/item?id=42182897"
-    ],
-    [
-      "Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK",
-      "https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 12:41:08",
       "https://news.ycombinator.com/item?id=42182784"
     ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2024-11-19, 06:19:48",
-      "https://news.ycombinator.com/item?id=42180516"
-    ],
-    [
-      "Batched reward model inference and Best-of-N sampling",
-      "https://raw.sh/posts/easy_reward_model_inference"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 02:25:14",
       "https://news.ycombinator.com/item?id=42179541"
     ],
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42178916"
     ],
     [
-      "Why I Hate the Index Finger (1980)",
+      "Why I hate the index finger (1980)",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/"
     ]
   ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-11-18, 15:19:05",
+      "https://news.ycombinator.com/item?id=42173114"
+    ],
+    [
+      "The Skyline algorithm for packing 2D rectangles",
+      "https://jvernay.fr/en/blog/skyline-2d-packer/implementation/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 14:31:17",
       "https://news.ycombinator.com/item?id=42172565"
     ],
     [
       "Two undersea cables in Baltic Sea disrupted",
       "https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:37:16",
+      "https://news.ycombinator.com/item?id=42170519"
+    ],
+    [
+      "Show HN: Dumbo – Hono inspired framework for PHP",
+      "https://github.com/notrab/dumbo"
     ]
   ],
   [
