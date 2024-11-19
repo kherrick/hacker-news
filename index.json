@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-19, 01:09:41",
+      "https://news.ycombinator.com/item?id=42179135"
+    ],
+    [
+      "'Achilles heel' of antibiotic-resistant bacteria discovered",
+      "https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 00:15:04",
+      "https://news.ycombinator.com/item?id=42178761"
+    ],
+    [
+      "Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference",
+      "https://cerebras.ai/blog/llama-405b-inference"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 23:04:51",
       "https://news.ycombinator.com/item?id=42178130"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2024-11-18, 22:24:07",
-      "https://news.ycombinator.com/item?id=42177767"
+      "2024-11-18, 21:47:36",
+      "https://news.ycombinator.com/item?id=42177462"
     ],
     [
-      "DOJ will push Google to sell off Chrome",
-      "https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 22:04:54",
-      "https://news.ycombinator.com/item?id=42177619"
-    ],
-    [
-      "Scientific American's departing editor and the politicization of science",
-      "https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/"
+      "Hyperfine: A command-line benchmarking tool",
+      "https://github.com/sharkdp/hyperfine"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-11-18, 17:31:25",
-      "https://news.ycombinator.com/item?id=42174703"
-    ],
-    [
-      "Illegally logged wood from Cambodia likely ending up in U.S. homes",
-      "https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 16:51:29",
       "https://news.ycombinator.com/item?id=42174231"
     ],
@@ -117,16 +117,6 @@
     [
       "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",
       "https://news.ycombinator.com/item?id=42174204"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 16:27:06",
-      "https://news.ycombinator.com/item?id=42173960"
-    ],
-    [
-      "Extending the context length to 1M tokens",
-      "https://qwenlm.github.io/blog/qwen2.5-turbo/"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2024-11-17, 07:49:16",
+      "https://news.ycombinator.com/item?id=42162654"
+    ],
+    [
+      "Playful, intricate Japanese leaf art – in pictures – Art and design",
+      "https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 15:46:09",
       "https://news.ycombinator.com/item?id=42147903"
     ],
     [
       "An Uncanny Moat",
       "https://www.boristhebrave.com/2024/11/15/an-uncanny-moat/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 13:53:17",
-      "https://news.ycombinator.com/item?id=42146936"
-    ],
-    [
-      "Libobscura",
-      "https://dorotac.eu/posts/libobscura/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Waiting for many things at once with io_uring",
       "https://mazzo.li/posts/uring-multiplex.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-14, 00:10:54",
+      "https://news.ycombinator.com/item?id=42131691"
+    ],
+    [
+      "Histogramming Bytes with Positional Popcount",
+      "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
     ]
   ],
   [
