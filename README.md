@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 12:01:01](https://news.ycombinator.com/item?id=42182503) - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
@@ -22,6 +21,7 @@
 * [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204)
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
+* [2024-11-18, 15:19:24](https://news.ycombinator.com/item?id=42173119) - [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
 * [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
