@@ -26,8 +26,8 @@
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
 * [2024-11-18, 00:09:20](https://news.ycombinator.com/item?id=42168503) - [Museum of Bad Art](https://museumofbadart.org/)
+* [2024-11-15, 12:50:49](https://news.ycombinator.com/item?id=42146446) - [Uno Platform Studio Featuring Hot Design](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
-* [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 05:59:26](https://news.ycombinator.com/item?id=42133491) - [A Woman Who Defined the Great Depression](https://newrepublic.com/article/188251/woman-defined-great-depression-sanora-babb-biography-review)
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
 
