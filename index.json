@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-19, 05:16:29",
+      "https://news.ycombinator.com/item?id=42180276"
+    ],
+    [
+      "SQLite vs. PostgreSQL Performance [video]",
+      "https://www.youtube.com/watch?v=VzQgr-TgBzc"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 03:12:19",
       "https://news.ycombinator.com/item?id=42179774"
     ],
@@ -47,16 +57,6 @@
     [
       "Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference",
       "https://cerebras.ai/blog/llama-405b-inference"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 23:04:51",
-      "https://news.ycombinator.com/item?id=42178130"
-    ],
-    [
-      "Show HN: Venmo Unofficial API",
-      "https://github.com/Integuru-AI/Venmo-Unofficial-API"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-11-17, 23:07:25",
-      "https://news.ycombinator.com/item?id=42168166"
-    ],
-    [
-      "Show HN: Nova JavaScript Engine",
-      "https://github.com/trynova/nova"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 22:05:11",
       "https://news.ycombinator.com/item?id=42167749"
     ],
@@ -297,6 +287,16 @@
     [
       "JGS ASCII ART gallery (2001)",
       "https://oldcompcz.github.io/jgs/joan_stark/index-2.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 23:11:32",
+      "https://news.ycombinator.com/item?id=42111263"
+    ],
+    [
+      "New textbook teaches students about matrix methods and their real world apps",
+      "https://ece.engin.umich.edu/stories/new-textbook-teaches-students-about-matrix-methods-and-their-real-world-applications"
     ]
   ]
 ]
