@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 21:00:55](https://news.ycombinator.com/item?id=42188038) - [TigerEye (YC S22) Is Hiring a Full Stack Engineer](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b)
+* [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
 * [2024-11-19, 20:17:49](https://news.ycombinator.com/item?id=42187640) - [FLTK 1.4 Released](https://www.fltk.org/articles.php?L1955)
 * [2024-11-19, 20:05:01](https://news.ycombinator.com/item?id=42187531) - [Tech-vexed: how digital life threatens our capacity for awe](https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe)
 * [2024-11-19, 19:58:06](https://news.ycombinator.com/item?id=42187452) - [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
 * [2024-11-19, 18:40:29](https://news.ycombinator.com/item?id=42186747) - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
 * [2024-11-19, 18:40:15](https://news.ycombinator.com/item?id=42186746) - [The Deep Sea](https://neal.fun/deep-sea/)
+* [2024-11-19, 17:31:59](https://news.ycombinator.com/item?id=42186016) - [The Data Engineering Handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
