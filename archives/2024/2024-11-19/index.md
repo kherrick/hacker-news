@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
+* [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 12:01:01](https://news.ycombinator.com/item?id=42182503) - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
+* [2024-11-19, 11:58:24](https://news.ycombinator.com/item?id=42182485) - [We Can't Give Up Paper Checks, and That's a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
 * [2024-11-19, 11:52:49](https://news.ycombinator.com/item?id=42182442) - [Arm PC Base System Architecture 1.0](https://developer.arm.com/documentation/den0151/a)
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
