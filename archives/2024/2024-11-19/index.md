@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 20:17:49](https://news.ycombinator.com/item?id=42187640) - [FLTK 1.4 Released](https://www.fltk.org/articles.php?L1955)
 * [2024-11-19, 20:05:01](https://news.ycombinator.com/item?id=42187531) - [Tech-vexed: how digital life threatens our capacity for awe](https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe)
 * [2024-11-19, 19:58:06](https://news.ycombinator.com/item?id=42187452) - [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
 * [2024-11-19, 18:40:29](https://news.ycombinator.com/item?id=42186747) - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
