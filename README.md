@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 20:05:01](https://news.ycombinator.com/item?id=42187531) - [Tech-vexed: how digital life threatens our capacity for awe](https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe)
+* [2024-11-19, 19:58:06](https://news.ycombinator.com/item?id=42187452) - [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
@@ -17,7 +19,6 @@
 * [2024-11-18, 22:24:07](https://news.ycombinator.com/item?id=42177767) - [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
 * [2024-11-18, 22:04:54](https://news.ycombinator.com/item?id=42177619) - [Scientific American's departing editor and the politicization of science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
 * [2024-11-18, 21:47:36](https://news.ycombinator.com/item?id=42177462) - [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
-* [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [20 years of Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 * [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
@@ -25,7 +26,6 @@
 * [2024-11-18, 16:41:02](https://news.ycombinator.com/item?id=42174105) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Two undersea cables in Baltic Sea disrupted](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-15, 19:17:46](https://news.ycombinator.com/item?id=42149938) - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
-* [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 12:50:49](https://news.ycombinator.com/item?id=42146446) - [Uno Platform Studio Featuring Hot Design](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-14, 13:43:51](https://news.ycombinator.com/item?id=42136067) - [Typesetting and printing a family memoir (2017)](https://www.teamten.com/lawrence/projects/memoir-book/)
 * [2024-11-13, 03:18:44](https://news.ycombinator.com/item?id=42122557) - [Rim/Blackberry tales – reply all](https://awadwatt.com/tezoatlipoca/rim-job-blackberry-tales-the-story-of-sumit-b)
