@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-19, 02:09:27](https://news.ycombinator.com/item?id=42179467) - [Maslow 4: Large format CNC routing made accessible](https://www.maslowcnc.com)
 * [2024-11-19, 01:09:41](https://news.ycombinator.com/item?id=42179135) - ['Achilles heel' of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
 * [2024-11-19, 00:15:04](https://news.ycombinator.com/item?id=42178761) - [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
 * [2024-11-18, 23:04:51](https://news.ycombinator.com/item?id=42178130) - [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
@@ -20,15 +21,14 @@
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
-* [2024-11-17, 23:07:25](https://news.ycombinator.com/item?id=42168166) - [Show HN: Nova JavaScript Engine](https://github.com/trynova/nova)
 * [2024-11-17, 22:05:11](https://news.ycombinator.com/item?id=42167749) - [Is Chrome the New IE? (2023)](https://www.magiclasso.co/insights/is-chrome-the-new-ie/)
 * [2024-11-17, 08:15:31](https://news.ycombinator.com/item?id=42162755) - [Towards Nyquist Learners](https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85)
 * [2024-11-17, 07:49:16](https://news.ycombinator.com/item?id=42162654) - [Playful, intricate Japanese leaf art – in pictures – Art and design](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures)
-* [2024-11-15, 15:46:09](https://news.ycombinator.com/item?id=42147903) - [An Uncanny Moat](https://www.boristhebrave.com/2024/11/15/an-uncanny-moat/)
 * [2024-11-15, 13:48:21](https://news.ycombinator.com/item?id=42146894) - [A programmable FPGA SoM in the tiny microSD form factor](https://www.crowdsupply.com/signaloid/signaloid-c0-microsd)
 * [2024-11-14, 15:04:57](https://news.ycombinator.com/item?id=42136817) - [Air traffic failure caused by two locations 3600nm apart sharing 3-letter code](https://www.flightglobal.com/safety/uk-air-traffic-system-failure-triggered-by-misidentified-french-bee-flightplan-waypoint/157386.article)
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 00:10:54](https://news.ycombinator.com/item?id=42131691) - [Histogramming Bytes with Positional Popcount](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
+* [2024-11-12, 21:00:43](https://news.ycombinator.com/item?id=42119675) - [$8k Suzuki from India Received a 5-Star Crash Test Rating](https://jalopnik.com/this-8-000-suzuki-from-india-received-a-5-star-crash-t-1851696481)
 * [2024-11-12, 07:48:13](https://news.ycombinator.com/item?id=42113582) - [JGS ASCII ART gallery (2001)](https://oldcompcz.github.io/jgs/joan_stark/index-2.html)
 
 ## [Archives](archives/index.md)
