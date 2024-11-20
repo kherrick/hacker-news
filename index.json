@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-11-20, 16:52:53",
+      "https://news.ycombinator.com/item?id=42195817"
+    ],
+    [
+      "Exploring the Cost and Feasibility of Battery-Electric Ships",
+      "https://newscenter.lbl.gov/2024/10/30/exploring-the-cost-and-feasibility-of-battery-electric-ships/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 15:15:16",
       "https://news.ycombinator.com/item?id=42194587"
     ],
@@ -167,16 +177,6 @@
     [
       "How good are American roads?",
       "https://www.construction-physics.com/p/how-good-are-american-roads"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 13:45:13",
-      "https://news.ycombinator.com/item?id=42193885"
-    ],
-    [
-      "Ensō: design constraints of a focussed writing tool",
-      "https://untested.sonnet.io/notes/enso-design-constraints/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-11-15, 08:04:36",
-      "https://news.ycombinator.com/item?id=42144816"
+      "2024-11-18, 15:08:25",
+      "https://news.ycombinator.com/item?id=42172978"
     ],
     [
-      "Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)",
-      "https://github.com/dbohdan/recur"
+      "A Second Search for Bash Scripting Alternatives",
+      "https://monzool.net/blog/2024/07/14/a-second-search-for-bash-scripting-alternatives/"
     ]
   ],
   [
