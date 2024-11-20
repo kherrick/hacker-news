@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-20, 13:06:42",
-      "https://news.ycombinator.com/item?id=42193591"
-    ],
-    [
-      "Don't Call It a Substack",
-      "https://www.anildash.com//2024/11/19/dont-call-it-a-substack/"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 12:53:40",
       "https://news.ycombinator.com/item?id=42193508"
     ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42189253"
     ],
     [
-      "PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]",
+      "Large-Scale Dimension Reduction with Both Global and Local Structure (2021) [pdf]",
       "https://jmlr.org/papers/volume22/20-1061/20-1061.pdf"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42185842"
     ],
     [
-      "Hand Tracking for Mouse Input",
+      "Hand Tracking for Mouse Input (2023)",
       "https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html"
     ]
   ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42181345"
     ],
     [
-      "Fair coins tend to land on the side they started",
+      "Fair coins tend to land on the side they started (2023)",
       "https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips"
     ]
   ],
@@ -217,6 +207,16 @@
     [
       "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",
       "https://news.ycombinator.com/item?id=42174204"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 16:41:02",
+      "https://news.ycombinator.com/item?id=42174105"
+    ],
+    [
+      "A joke in approximating numbers raised to irrational powers",
+      "https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42145975"
     ],
     [
-      "Recycled Server Components Bring More Sustainability",
+      "Researchers have built server prototypes that re-use old components",
       "https://spectrum.ieee.org/server-reuse"
     ]
   ],
