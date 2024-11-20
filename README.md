@@ -13,7 +13,6 @@
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
 * [2024-11-20, 02:45:23](https://news.ycombinator.com/item?id=42190395) - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 01:45:13](https://news.ycombinator.com/item?id=42190065) - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
-* [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashes down in the gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
 * [2024-11-19, 21:59:10](https://news.ycombinator.com/item?id=42188555) - [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
@@ -28,6 +27,7 @@
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 12:12:14](https://news.ycombinator.com/item?id=42146189) - [Unified Checkout: Streamlining Uber's Payment Ecosystem](https://www.uber.com/en-IL/blog/unified-checkout/)
 * [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
+* [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
 * [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
 * [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but 100x Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
