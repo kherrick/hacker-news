@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-20, 12:53:40",
-      "https://news.ycombinator.com/item?id=42193508"
-    ],
-    [
-      "Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law",
-      "https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 12:00:58",
       "https://news.ycombinator.com/item?id=42193089"
     ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2024-11-20, 01:34:34",
-      "https://news.ycombinator.com/item?id=42189991"
-    ],
-    [
-      "Meta Uses LLMs to Improve Incident Response",
-      "https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 23:39:02",
       "https://news.ycombinator.com/item?id=42189253"
     ],
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2024-11-19, 17:09:28",
+      "https://news.ycombinator.com/item?id=42185715"
+    ],
+    [
+      "The Analog Thing: Analog Computing for the Future",
+      "https://the-analog-thing.org/"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 17:06:11",
       "https://news.ycombinator.com/item?id=42185668"
     ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2024-11-19, 12:41:08",
-      "https://news.ycombinator.com/item?id=42182784"
+      "2024-11-19, 12:03:02",
+      "https://news.ycombinator.com/item?id=42182519"
     ],
     [
-      "Show HN: Rust library for numerical integration of real-valued functions",
-      "https://github.com/mtantaoui/Integrate"
+      "OpenStreetMap's New Vector Tiles",
+      "https://tech.marksblogg.com/osm-mvt-vector-tiles.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "A joke in approximating numbers raised to irrational powers",
       "https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:10:35",
+      "https://news.ycombinator.com/item?id=42170423"
+    ],
+    [
+      "Fortran II Hypersource",
+      "https://texdraft.github.io/fortran/fortran.html"
     ]
   ],
   [
