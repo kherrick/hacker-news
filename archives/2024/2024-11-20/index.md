@@ -11,6 +11,7 @@
 * [2024-11-20, 15:21:49](https://news.ycombinator.com/item?id=42194651) - [Vivek Ramaswamy on X: \"Will entire agencies be deleted? Answer: yes](https://twitter.com/VivekGRamaswamy/status/1858173839059898611)
 * [2024-11-20, 15:16:19](https://news.ycombinator.com/item?id=42194598) - [Automatic braking systems save lives. Now they'll need to work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
 * [2024-11-20, 15:15:23](https://news.ycombinator.com/item?id=42194588) - [Musi fans refuse to update iPhones until Apple unblocks controversial app](https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/)
+* [2024-11-20, 15:15:16](https://news.ycombinator.com/item?id=42194587) - [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
 * [2024-11-20, 14:48:13](https://news.ycombinator.com/item?id=42194355) - [The Rise of Malört, an Unexpected Midwest Princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
