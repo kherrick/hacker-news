@@ -19,7 +19,6 @@
 * [2024-11-19, 20:03:10](https://news.ycombinator.com/item?id=42187506) - [When did estimates turn into deadlines?](https://domainanalysis.io/p/architecture-modernization-execution)
 * [2024-11-19, 17:31:59](https://news.ycombinator.com/item?id=42186016) - [The Data Engineering Handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
-* [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
@@ -29,6 +28,7 @@
 * [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
 * [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
+* [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
 * [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
 
 ## [Archives](archives/index.md)

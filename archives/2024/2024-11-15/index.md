@@ -66,6 +66,7 @@
 * [2024-11-15, 12:11:58](https://news.ycombinator.com/item?id=42146188) - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
 * [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
 * [2024-11-15, 11:32:51](https://news.ycombinator.com/item?id=42145980) - [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
+* [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
 * [2024-11-15, 11:26:18](https://news.ycombinator.com/item?id=42145935) - [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
 * [2024-11-15, 11:24:52](https://news.ycombinator.com/item?id=42145919) - [Scientists discover laser light can cast a shadow](https://phys.org/news/2024-11-scientists-laser-shadow.html)
 * [2024-11-15, 11:13:25](https://news.ycombinator.com/item?id=42145835) - [Spatial Pixel: a new kind of social computing](https://spatialpixel.com)
