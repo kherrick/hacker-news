@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-11-20, 17:11:14",
+      "https://news.ycombinator.com/item?id=42196037"
+    ],
+    [
+      "Between the Booms: AI in Winter – Communications of the ACM",
+      "https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 17:07:18",
       "https://news.ycombinator.com/item?id=42195994"
     ],
     [
       "SQL, Homomorphisms and Constraint Satisfaction Problems",
       "https://www.philipzucker.com/sql_graph_csp/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 17:03:25",
+      "https://news.ycombinator.com/item?id=42195948"
+    ],
+    [
+      "Ghost Tap: New cash-out tactic with NFC Relay",
+      "https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2024-11-20, 16:59:33",
-      "https://news.ycombinator.com/item?id=42195895"
+      "2024-11-20, 16:52:53",
+      "https://news.ycombinator.com/item?id=42195817"
     ],
     [
-      "Undergraduates with family income below $200k will be tuition-free at MIT",
-      "https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120"
+      "Exploring the Cost and Feasibility of Battery-Electric Ships",
+      "https://newscenter.lbl.gov/2024/10/30/exploring-the-cost-and-feasibility-of-battery-electric-ships/"
     ]
   ],
   [
     [
-      "2024-11-20, 16:07:38",
-      "https://news.ycombinator.com/item?id=42195259"
+      "2024-11-20, 16:25:42",
+      "https://news.ycombinator.com/item?id=42195490"
     ],
     [
-      "AMD crafts custom EPYC CPU with HBM3 for Azure: 88 Zen 4 cores and 450GB of HBM3",
-      "https://www.tomshardware.com/pc-components/cpus/amd-crafts-custom-epyc-cpu-for-microsoft-azure-with-hbm3-memory-cpu-with-88-zen-4-cores-and-450gb-of-hbm3-may-be-repurposed-mi300c-four-chips-hit-7-tb-s"
+      "The Northeast is becoming fire country",
+      "https://www.newyorker.com/news/the-lede/the-northeast-is-becoming-fire-country"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-11-19, 17:18:14",
-      "https://news.ycombinator.com/item?id=42185842"
-    ],
-    [
-      "Hand Tracking for Mouse Input (2023)",
-      "https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 00:35:15",
       "https://news.ycombinator.com/item?id=42178916"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)",
       "https://github.com/dbohdan/recur"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 06:18:48",
-      "https://news.ycombinator.com/item?id=42144369"
-    ],
-    [
-      "Query Your Python Lists",
-      "https://github.com/mkalioby/leopards"
     ]
   ],
   [
