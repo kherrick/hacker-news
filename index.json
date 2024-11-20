@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-11-20, 01:34:34",
-      "https://news.ycombinator.com/item?id=42189991"
-    ],
-    [
-      "Meta Uses LLMs to Improve Incident Response",
-      "https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 22:15:34",
       "https://news.ycombinator.com/item?id=42188687"
     ],
@@ -277,6 +267,16 @@
     [
       "Recycled Server Components Bring More Sustainability",
       "https://spectrum.ieee.org/server-reuse"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 08:04:36",
+      "https://news.ycombinator.com/item?id=42144816"
+    ],
+    [
+      "Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)",
+      "https://github.com/dbohdan/recur"
     ]
   ],
   [
