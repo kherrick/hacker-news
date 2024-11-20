@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 10:38:27](https://news.ycombinator.com/item?id=42192598) - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
+* [2024-11-20, 10:09:19](https://news.ycombinator.com/item?id=42192412) - [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
 * [2024-11-20, 08:23:53](https://news.ycombinator.com/item?id=42191805) - [Why don't you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
 * [2024-11-20, 08:19:39](https://news.ycombinator.com/item?id=42191781) - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
+* [2024-11-20, 06:47:02](https://news.ycombinator.com/item?id=42191354) - [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 06:43:28](https://news.ycombinator.com/item?id=42191335) - [Trivial REST server in various languages to compare](https://github.com/begoon/http-server)
 * [2024-11-20, 06:13:40](https://news.ycombinator.com/item?id=42191228) - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 05:44:43](https://news.ycombinator.com/item?id=42191110) - [Firefox nightly is running an experiment featuring a Fakespot feed on newtab](https://blog.nightly.mozilla.org/2024/11/19/experimental-address-bar-deduplication-better-auto-open-picture-in-picture-and-more-these-weeks-in-firefox-issue-170/)
