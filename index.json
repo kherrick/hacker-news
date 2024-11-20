@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-20, 21:25:42",
-      "https://news.ycombinator.com/item?id=42198278"
-    ],
-    [
-      "Like 'old Twitter': The scientific community finds a new home on Bluesky",
-      "https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 21:01:14",
       "https://news.ycombinator.com/item?id=42198068"
     ],
@@ -277,6 +267,16 @@
     [
       "Bit-twiddling optimizations in Zed's Rope",
       "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 15:39:16",
+      "https://news.ycombinator.com/item?id=42147860"
+    ],
+    [
+      "99 Bottles of OOP now available in Python",
+      "https://sandimetz.com/99bottles"
     ]
   ],
   [
