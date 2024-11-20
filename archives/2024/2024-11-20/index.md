@@ -8,6 +8,7 @@
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:00:36](https://news.ycombinator.com/item?id=42195908) - [Converge (YC S23) is hiring senior product engineers (NYC, in-person)](https://news.ycombinator.com/item?id=42195908)
 * [2024-11-20, 16:33:51](https://news.ycombinator.com/item?id=42195587) - [Show HN: I'm 17 and made a tool to help students study smarter](https://lira.study)
+* [2024-11-20, 16:07:38](https://news.ycombinator.com/item?id=42195259) - [AMD crafts custom EPYC CPU with HBM3 for Azure: 88 Zen 4 cores and 450GB of HBM3](https://www.tomshardware.com/pc-components/cpus/amd-crafts-custom-epyc-cpu-for-microsoft-azure-with-hbm3-memory-cpu-with-88-zen-4-cores-and-450gb-of-hbm3-may-be-repurposed-mi300c-four-chips-hit-7-tb-s)
 * [2024-11-20, 16:07:29](https://news.ycombinator.com/item?id=42195255) - [Google workers to DOJ: we need protections to make your breakup effective](https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies)
 * [2024-11-20, 15:45:00](https://news.ycombinator.com/item?id=42194924) - [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
 * [2024-11-20, 15:37:45](https://news.ycombinator.com/item?id=42194832) - [3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
