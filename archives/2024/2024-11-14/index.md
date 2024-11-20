@@ -59,6 +59,7 @@
 * [2024-11-14, 12:04:46](https://news.ycombinator.com/item?id=42135412) - [Waiting for many things at once with io_uring](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-11-14, 11:56:58](https://news.ycombinator.com/item?id=42135358) - [I Regret Ever Open Sourcing Java – Jill Malony Ratkevic](https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3D10159934131461514%26id%3D520846513&refsrc=deprecated&_rdr)
 * [2024-11-14, 11:49:23](https://news.ycombinator.com/item?id=42135314) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
+* [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but 100x Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-14, 10:51:24](https://news.ycombinator.com/item?id=42134964) - [SQLite Index Visualization](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 10:47:31](https://news.ycombinator.com/item?id=42134938) - [The closest open-source alternatives to Notion and Miro](https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0)
 * [2024-11-14, 10:01:48](https://news.ycombinator.com/item?id=42134651) - [For you, human. You and only you. You are not special, you are not im](https://gemini.google.com/share/6d141b742a13)
