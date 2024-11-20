@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 13:33:15](https://news.ycombinator.com/item?id=42193793) - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
+* [2024-11-20, 13:06:42](https://news.ycombinator.com/item?id=42193591) - [Don't Call It a Substack](https://www.anildash.com//2024/11/19/dont-call-it-a-substack/)
 * [2024-11-20, 12:53:40](https://news.ycombinator.com/item?id=42193508) - [Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law](https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564)
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books (2021)](https://www.abebooks.com/books/ex-library-books)
@@ -13,7 +15,6 @@
 * [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
-* [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
@@ -21,7 +22,6 @@
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I hate the index finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204)
-* [2024-11-18, 16:41:02](https://news.ycombinator.com/item?id=42174105) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)
 * [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
 * [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
