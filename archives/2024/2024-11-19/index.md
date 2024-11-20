@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 23:38:03](https://news.ycombinator.com/item?id=42189249) - [We assume damage to Baltic Sea cables was sabotage, German Defence minister](https://www.theguardian.com/world/2024/nov/19/baltic-sea-cables-damage-sabotage-german-minister)
 * [2024-11-19, 23:36:22](https://news.ycombinator.com/item?id=42189241) - [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)
 * [2024-11-19, 23:17:24](https://news.ycombinator.com/item?id=42189105) - [Bluesky Exceeds Threads DAUs in the US](https://bsky.app/profile/jburnmurdoch.bsky.social/post/3lbdekd55sc2b)
 * [2024-11-19, 22:41:02](https://news.ycombinator.com/item?id=42188855) - [Important information to all residents of Sweden – In case of crisis or war [pdf]](https://rib.msb.se/filer/pdf/30874.pdf)
