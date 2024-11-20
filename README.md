@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-20, 23:03:54](https://news.ycombinator.com/item?id=42199059) - [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)
+* [2024-11-20, 23:11:36](https://news.ycombinator.com/item?id=42199112) - [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)
 * [2024-11-20, 22:10:31](https://news.ycombinator.com/item?id=42198635) - [Europe's Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
 * [2024-11-20, 22:07:54](https://news.ycombinator.com/item?id=42198611) - [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
 * [2024-11-20, 21:07:28](https://news.ycombinator.com/item?id=42198115) - [Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
