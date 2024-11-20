@@ -38,6 +38,7 @@
 * [2024-11-15, 17:15:23](https://news.ycombinator.com/item?id=42148808) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 16:45:46](https://news.ycombinator.com/item?id=42148543) - [Scooter: interactive find and replace in the terminal](https://github.com/thomasschafer/scooter)
 * [2024-11-15, 16:28:08](https://news.ycombinator.com/item?id=42148383) - [100-MW solar farm just broke ground in Wisconsin](https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/)
+* [2024-11-15, 16:16:05](https://news.ycombinator.com/item?id=42148248) - [AWS Lambda PR/FAQ After 10 Years](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [2024-11-15, 16:13:47](https://news.ycombinator.com/item?id=42148220) - [Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs](https://github.com/pex-tool/pex)
 * [2024-11-15, 16:10:07](https://news.ycombinator.com/item?id=42148171) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2024-11-15, 16:09:25](https://news.ycombinator.com/item?id=42148163) - [Building LawStar – a year long indie hacking journey](https://mackey.substack.com/p/building-lawstar)
