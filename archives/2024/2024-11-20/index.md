@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 03:17:41](https://news.ycombinator.com/item?id=42190548) - [Apple TV+ Will License Its Movies to Other Services to Reduce Billions in Losses](https://www.bloomberg.com/news/newsletters/2024-11-17/paramount-boss-on-gladiator-ii-scary-sequels-and-wicked-showdown)
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
 * [2024-11-20, 02:50:21](https://news.ycombinator.com/item?id=42190418) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
