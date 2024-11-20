@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:33:15](https://news.ycombinator.com/item?id=42193793) - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-20, 13:06:42](https://news.ycombinator.com/item?id=42193591) - [Don't Call It a Substack](https://www.anildash.com//2024/11/19/dont-call-it-a-substack/)
