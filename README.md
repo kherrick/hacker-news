@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 15:45:00](https://news.ycombinator.com/item?id=42194924) - [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
+* [2024-11-20, 15:37:45](https://news.ycombinator.com/item?id=42194832) - [3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
 * [2024-11-20, 15:28:42](https://news.ycombinator.com/item?id=42194726) - [My Resignation from Emacs Development](https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html)
-* [2024-11-20, 15:21:49](https://news.ycombinator.com/item?id=42194651) - [Vivek Ramaswamy on X: \"Will entire agencies be deleted? Answer: yes](https://twitter.com/VivekGRamaswamy/status/1858173839059898611)
-* [2024-11-20, 15:16:19](https://news.ycombinator.com/item?id=42194598) - [Automatic braking systems save lives. Now they'll need to work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
-* [2024-11-20, 15:15:23](https://news.ycombinator.com/item?id=42194588) - [Musi fans refuse to update iPhones until Apple unblocks controversial app](https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/)
-* [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:45:13](https://news.ycombinator.com/item?id=42193885) - [Ensō: design constraints of a focussed writing tool](https://untested.sonnet.io/notes/enso-design-constraints/)
@@ -21,6 +19,7 @@
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
+* [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input (2023)](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I hate the index finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
 * [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)
@@ -28,6 +27,7 @@
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 12:04:03](https://news.ycombinator.com/item?id=42146144) - [Disassembling Crossroads, Part 1](https://m65digest.substack.com/p/disassembling-crossroads-part-1)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
+* [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
 * [2024-11-15, 02:49:41](https://news.ycombinator.com/item?id=42143550) - [Chrestomathy](https://en.wikipedia.org/wiki/Chrestomathy)
 * [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
