@@ -39,6 +39,7 @@
 * [2024-11-18, 15:24:21](https://news.ycombinator.com/item?id=42173184) - [Bird brain from the age of dinosaurs reveals roots of avian intelligence](https://www.cam.ac.uk/stories/roots-of-bird-intelligence)
 * [2024-11-18, 15:19:24](https://news.ycombinator.com/item?id=42173119) - [Show HN: Tips.io – A Tailwind playground with AI, page management, and theming](https://tips.io)
 * [2024-11-18, 15:19:05](https://news.ycombinator.com/item?id=42173114) - [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
+* [2024-11-18, 15:08:25](https://news.ycombinator.com/item?id=42172978) - [A Second Search for Bash Scripting Alternatives](https://monzool.net/blog/2024/07/14/a-second-search-for-bash-scripting-alternatives/)
 * [2024-11-18, 14:52:38](https://news.ycombinator.com/item?id=42172798) - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 * [2024-11-18, 14:44:49](https://news.ycombinator.com/item?id=42172705) - [The most helpful charity isn't what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
