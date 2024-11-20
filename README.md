@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-20, 22:10:31](https://news.ycombinator.com/item?id=42198635) - [Europe's Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
+* [2024-11-20, 22:07:54](https://news.ycombinator.com/item?id=42198611) - [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
 * [2024-11-20, 21:07:28](https://news.ycombinator.com/item?id=42198115) - [Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
 * [2024-11-20, 21:01:14](https://news.ycombinator.com/item?id=42198068) - [Distro (YC S24) Is Hiring a Head of Marketing (B2B)](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
 * [2024-11-20, 20:35:25](https://news.ycombinator.com/item?id=42197845) - [With Core One, Prusa's Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
@@ -25,7 +26,6 @@
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
-* [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces \"Large Geospatial Model\" trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
