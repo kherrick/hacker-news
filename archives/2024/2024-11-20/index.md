@@ -13,6 +13,7 @@
 * [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:45:13](https://news.ycombinator.com/item?id=42193885) - [Ensō: design constraints of a focussed writing tool](https://untested.sonnet.io/notes/enso-design-constraints/)
+* [2024-11-20, 13:42:11](https://news.ycombinator.com/item?id=42193859) - [Using gRPC for (local) inter-process communication – F. Werner's Research Page](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
 * [2024-11-20, 13:33:15](https://news.ycombinator.com/item?id=42193793) - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-20, 13:14:48](https://news.ycombinator.com/item?id=42193663) - [U of T computational imaging researchers harness AI to fly with light in motion](https://web.cs.toronto.edu/news-events/news/flying-with-photons)
