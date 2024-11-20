@@ -10,6 +10,7 @@
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
 * [2024-11-20, 08:23:53](https://news.ycombinator.com/item?id=42191805) - [Why don't you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
 * [2024-11-20, 08:19:39](https://news.ycombinator.com/item?id=42191781) - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
+* [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 * [2024-11-20, 06:47:02](https://news.ycombinator.com/item?id=42191354) - [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)

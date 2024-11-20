@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
-* [2024-11-20, 10:09:19](https://news.ycombinator.com/item?id=42192412) - [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
-* [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
+* [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books (2021)](https://www.abebooks.com/books/ex-library-books)
+* [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 06:47:02](https://news.ycombinator.com/item?id=42191354) - [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 02:50:21](https://news.ycombinator.com/item?id=42190418) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
