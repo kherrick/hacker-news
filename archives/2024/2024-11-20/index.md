@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 17:28:35](https://news.ycombinator.com/item?id=42196226) - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:00:36](https://news.ycombinator.com/item?id=42195908) - [Converge (YC S23) is hiring senior product engineers (NYC, in-person)](https://news.ycombinator.com/item?id=42195908)
 * [2024-11-20, 16:33:51](https://news.ycombinator.com/item?id=42195587) - [Show HN: I'm 17 and made a tool to help students study smarter](https://lira.study)
@@ -18,6 +19,7 @@
 * [2024-11-20, 14:48:13](https://news.ycombinator.com/item?id=42194355) - [The Rise of Malört, an Unexpected Midwest Princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
+* [2024-11-20, 14:27:27](https://news.ycombinator.com/item?id=42194170) - [Show HN: A People Search Engine with Face Recognition](https://introthem.com)
 * [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:45:13](https://news.ycombinator.com/item?id=42193885) - [Ensō: design constraints of a focussed writing tool](https://untested.sonnet.io/notes/enso-design-constraints/)
 * [2024-11-20, 13:42:11](https://news.ycombinator.com/item?id=42193859) - [Using gRPC for (local) inter-process communication – F. Werner's Research Page](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
