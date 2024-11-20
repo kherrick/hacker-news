@@ -6,6 +6,8 @@
 
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
+* [2024-11-20, 06:13:40](https://news.ycombinator.com/item?id=42191228) - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
+* [2024-11-20, 05:28:40](https://news.ycombinator.com/item?id=42191051) - [Jaguar Cars rebranding without any cars](https://www.jaguarusa.com/copy-nothing/index.html)
 * [2024-11-20, 04:39:12](https://news.ycombinator.com/item?id=42190863) - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 03:17:41](https://news.ycombinator.com/item?id=42190548) - [Apple TV+ Will License Its Movies to Other Services to Reduce Billions in Losses](https://www.bloomberg.com/news/newsletters/2024-11-17/paramount-boss-on-gladiator-ii-scary-sequels-and-wicked-showdown)
