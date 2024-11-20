@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-20, 22:10:31",
+      "https://news.ycombinator.com/item?id=42198635"
+    ],
+    [
+      "Europe's Internet resilience mitigates impact of submarine cable cuts",
+      "https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 21:07:28",
+      "https://news.ycombinator.com/item?id=42198115"
+    ],
+    [
+      "Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"",
+      "https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 21:01:14",
       "https://news.ycombinator.com/item?id=42198068"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-11-20, 06:47:02",
-      "https://news.ycombinator.com/item?id=42191354"
-    ],
-    [
-      "Lush: My favorite small programming language",
-      "https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 03:43:10",
       "https://news.ycombinator.com/item?id=42190650"
     ],
@@ -267,16 +277,6 @@
     [
       "Bit-twiddling optimizations in Zed's Rope",
       "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 15:39:16",
-      "https://news.ycombinator.com/item?id=42147860"
-    ],
-    [
-      "99 Bottles of OOP now available in Python",
-      "https://sandimetz.com/99bottles"
     ]
   ],
   [
