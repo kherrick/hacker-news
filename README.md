@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
+* [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 * [2024-11-20, 04:39:12](https://news.ycombinator.com/item?id=42190863) - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
@@ -16,7 +17,6 @@
 * [2024-11-19, 21:59:10](https://news.ycombinator.com/item?id=42188555) - [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
 * [2024-11-19, 20:29:03](https://news.ycombinator.com/item?id=42187761) - [Using Erlang hot code updates](https://underjord.io/how-i-use-erlang-hot-code-updates.html)
-* [2024-11-19, 20:03:10](https://news.ycombinator.com/item?id=42187506) - [When did estimates turn into deadlines?](https://domainanalysis.io/p/architecture-modernization-execution)
 * [2024-11-19, 17:31:59](https://news.ycombinator.com/item?id=42186016) - [The Data Engineering Handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
