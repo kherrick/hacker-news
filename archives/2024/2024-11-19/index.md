@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 23:51:00](https://news.ycombinator.com/item?id=42189342) - [OpenJDK Authorization](https://github.com/pfirmstone/jdk-with-authorization/blob/master/README.md)
+* [2024-11-19, 23:39:02](https://news.ycombinator.com/item?id=42189253) - [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
 * [2024-11-19, 23:38:03](https://news.ycombinator.com/item?id=42189249) - [We assume damage to Baltic Sea cables was sabotage, German Defence minister](https://www.theguardian.com/world/2024/nov/19/baltic-sea-cables-damage-sabotage-german-minister)
 * [2024-11-19, 23:36:22](https://news.ycombinator.com/item?id=42189241) - [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)
 * [2024-11-19, 23:17:24](https://news.ycombinator.com/item?id=42189105) - [Bluesky Exceeds Threads DAUs in the US](https://bsky.app/profile/jburnmurdoch.bsky.social/post/3lbdekd55sc2b)
