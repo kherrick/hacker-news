@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 04:39:12](https://news.ycombinator.com/item?id=42190863) - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
@@ -9,7 +10,6 @@
 * [2024-11-20, 02:08:31](https://news.ycombinator.com/item?id=42190199) - [Nickel Plating Handbook [pdf]](https://nickelinstitute.org/media/lxxh1zwr/2023-nickelplatinghandbooka5_printablepdf.pdf)
 * [2024-11-20, 01:45:13](https://news.ycombinator.com/item?id=42190065) - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
 * [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
-* [2024-11-20, 01:00:22](https://news.ycombinator.com/item?id=42189791) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
 * [2024-11-20, 00:26:30](https://news.ycombinator.com/item?id=42189581) - [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
 * [2024-11-19, 23:39:02](https://news.ycombinator.com/item?id=42189253) - [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashes down in the gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
