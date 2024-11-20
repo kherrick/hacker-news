@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 14:48:13](https://news.ycombinator.com/item?id=42194355) - [The Rise of Malört, an Unexpected Midwest Princess](https://www.nytimes.com/2024/11/15/dining/malort.html)
+* [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
+* [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:33:15](https://news.ycombinator.com/item?id=42193793) - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
+* [2024-11-20, 13:14:48](https://news.ycombinator.com/item?id=42193663) - [U of T computational imaging researchers harness AI to fly with light in motion](https://web.cs.toronto.edu/news-events/news/flying-with-photons)
 * [2024-11-20, 13:06:42](https://news.ycombinator.com/item?id=42193591) - [Don't Call It a Substack](https://www.anildash.com//2024/11/19/dont-call-it-a-substack/)
 * [2024-11-20, 12:59:55](https://news.ycombinator.com/item?id=42193549) - [Bluesky is ushering in a pick-your-own algorithm era of social media](https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/)
 * [2024-11-20, 12:53:40](https://news.ycombinator.com/item?id=42193508) - [Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law](https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564)
