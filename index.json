@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-20, 15:28:42",
+      "https://news.ycombinator.com/item?id=42194726"
+    ],
+    [
+      "My Resignation from Emacs Development",
+      "https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 15:21:49",
+      "https://news.ycombinator.com/item?id=42194651"
+    ],
+    [
+      "Vivek Ramaswamy on X: \"Will entire agencies be deleted? Answer: yes",
+      "https://twitter.com/VivekGRamaswamy/status/1858173839059898611"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 15:16:19",
       "https://news.ycombinator.com/item?id=42194598"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-19, 17:18:14",
-      "https://news.ycombinator.com/item?id=42185842"
-    ],
-    [
-      "Hand Tracking for Mouse Input (2023)",
-      "https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 17:06:11",
       "https://news.ycombinator.com/item?id=42185668"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-11-15, 18:57:50",
-      "https://news.ycombinator.com/item?id=42149762"
-    ],
-    [
-      "Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland",
-      "https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 15:39:16",
       "https://news.ycombinator.com/item?id=42147860"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-11-15, 12:04:03",
+      "https://news.ycombinator.com/item?id=42146144"
+    ],
+    [
+      "Disassembling Crossroads, Part 1",
+      "https://m65digest.substack.com/p/disassembling-crossroads-part-1"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 08:04:36",
       "https://news.ycombinator.com/item?id=42144816"
     ],
     [
       "Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)",
       "https://github.com/dbohdan/recur"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 06:18:48",
-      "https://news.ycombinator.com/item?id=42144369"
-    ],
-    [
-      "Query Your Python Lists",
-      "https://github.com/mkalioby/leopards"
     ]
   ],
   [
