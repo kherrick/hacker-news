@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-20, 20:24:48",
-      "https://news.ycombinator.com/item?id=42197759"
-    ],
-    [
-      "DOJ wants to force Google Chrome sale, Android de-bundling",
-      "https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 18:37:04",
       "https://news.ycombinator.com/item?id=42196841"
     ],
@@ -277,6 +267,16 @@
     [
       "Bit-twiddling optimizations in Zed's Rope",
       "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 14:28:23",
+      "https://news.ycombinator.com/item?id=42147252"
+    ],
+    [
+      "1-Bit AI Infrastructure",
+      "https://arxiv.org/abs/2410.16144"
     ]
   ],
   [
