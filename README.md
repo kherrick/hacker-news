@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 12:53:40](https://news.ycombinator.com/item?id=42193508) - [Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law](https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564)
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books (2021)](https://www.abebooks.com/books/ex-library-books)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
@@ -9,9 +10,8 @@
 * [2024-11-20, 02:08:31](https://news.ycombinator.com/item?id=42190199) - [Nickel Plating Handbook [pdf]](https://nickelinstitute.org/media/lxxh1zwr/2023-nickelplatinghandbooka5_printablepdf.pdf)
 * [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
 * [2024-11-19, 23:39:02](https://news.ycombinator.com/item?id=42189253) - [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
-* [2024-11-19, 21:37:36](https://news.ycombinator.com/item?id=42188368) - [Prusa CORE One: Our new fully-enclosed CoreXY 3D printer](https://blog.prusa3d.com/introducing-prusa-core-one-fully-enclosed-corexy-3d-printer-with-active-temperature-control_105477/)
+* [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-19, 20:29:30](https://news.ycombinator.com/item?id=42187766) - [Open Riak – open, modern Riak fork](https://github.com/OpenRiak)
-* [2024-11-19, 20:03:10](https://news.ycombinator.com/item?id=42187506) - [When did estimates turn into deadlines?](https://domainanalysis.io/p/architecture-modernization-execution)
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
@@ -29,7 +29,7 @@
 * [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
 * [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
-* [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but 100x Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
+* [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
 ## [Archives](archives/index.md)
 
