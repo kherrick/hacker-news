@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
+* [2024-11-20, 17:00:36](https://news.ycombinator.com/item?id=42195908) - [Converge (YC S23) is hiring senior product engineers (NYC, in-person)](https://news.ycombinator.com/item?id=42195908)
+* [2024-11-20, 16:33:51](https://news.ycombinator.com/item?id=42195587) - [Show HN: I'm 17 and made a tool to help students study smarter](https://lira.study)
 * [2024-11-20, 16:07:29](https://news.ycombinator.com/item?id=42195255) - [Google workers to DOJ: we need protections to make your breakup effective](https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies)
 * [2024-11-20, 15:45:00](https://news.ycombinator.com/item?id=42194924) - [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
 * [2024-11-20, 15:37:45](https://news.ycombinator.com/item?id=42194832) - [3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
@@ -23,6 +26,7 @@
 * [2024-11-20, 13:14:48](https://news.ycombinator.com/item?id=42193663) - [U of T computational imaging researchers harness AI to fly with light in motion](https://web.cs.toronto.edu/news-events/news/flying-with-photons)
 * [2024-11-20, 13:06:42](https://news.ycombinator.com/item?id=42193591) - [Don't Call It a Substack](https://www.anildash.com//2024/11/19/dont-call-it-a-substack/)
 * [2024-11-20, 12:59:55](https://news.ycombinator.com/item?id=42193549) - [Bluesky is ushering in a pick-your-own algorithm era of social media](https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/)
+* [2024-11-20, 12:56:15](https://news.ycombinator.com/item?id=42193530) - [Show HN: Cardo ‒ Open Source desktop podcast client](https://cardo-podcast.github.io/)
 * [2024-11-20, 12:53:40](https://news.ycombinator.com/item?id=42193508) - [Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law](https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564)
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 10:38:27](https://news.ycombinator.com/item?id=42192598) - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
