@@ -3,7 +3,6 @@
 * [2024-11-20, 21:01:14](https://news.ycombinator.com/item?id=42198068) - [Distro (YC S24) Is Hiring a Head of Marketing (B2B)](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
 * [2024-11-20, 20:35:25](https://news.ycombinator.com/item?id=42197845) - [With Core One, Prusa's Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
-* [2024-11-20, 20:24:48](https://news.ycombinator.com/item?id=42197759) - [DOJ wants to force Google Chrome sale, Android de-bundling](https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/)
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 * [2024-11-20, 17:28:35](https://news.ycombinator.com/item?id=42196226) - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
@@ -28,6 +27,7 @@
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
+* [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
 * [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
