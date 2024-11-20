@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 20:35:25](https://news.ycombinator.com/item?id=42197845) - [With Core One, Prusa's Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
 * [2024-11-20, 20:25:41](https://news.ycombinator.com/item?id=42197767) - [Google turns Android into a desktop OS in 5 steps](https://www.zdnet.com/article/how-google-turns-android-into-a-desktop-os-in-5-steps/)
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
