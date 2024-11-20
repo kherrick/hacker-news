@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 08:23:53](https://news.ycombinator.com/item?id=42191805) - [Why don't you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
+* [2024-11-20, 08:19:39](https://news.ycombinator.com/item?id=42191781) - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 * [2024-11-20, 06:13:40](https://news.ycombinator.com/item?id=42191228) - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
@@ -8,7 +10,6 @@
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
 * [2024-11-20, 02:50:21](https://news.ycombinator.com/item?id=42190418) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 02:45:23](https://news.ycombinator.com/item?id=42190395) - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
-* [2024-11-20, 02:42:57](https://news.ycombinator.com/item?id=42190379) - [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
 * [2024-11-20, 02:08:31](https://news.ycombinator.com/item?id=42190199) - [Nickel Plating Handbook [pdf]](https://nickelinstitute.org/media/lxxh1zwr/2023-nickelplatinghandbooka5_printablepdf.pdf)
 * [2024-11-20, 01:45:13](https://news.ycombinator.com/item?id=42190065) - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
 * [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
@@ -24,7 +25,6 @@
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I hate the index finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204)
 * [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)
-* [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
 * [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 12:12:14](https://news.ycombinator.com/item?id=42146189) - [Unified Checkout: Streamlining Uber's Payment Ecosystem](https://www.uber.com/en-IL/blog/unified-checkout/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 08:23:53](https://news.ycombinator.com/item?id=42191805) - [Why don't you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
+* [2024-11-20, 08:19:39](https://news.ycombinator.com/item?id=42191781) - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 * [2024-11-20, 07:00:09](https://news.ycombinator.com/item?id=42191408) - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
 * [2024-11-20, 06:56:47](https://news.ycombinator.com/item?id=42191394) - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
 * [2024-11-20, 06:13:40](https://news.ycombinator.com/item?id=42191228) - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
