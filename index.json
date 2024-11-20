@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-20, 02:45:23",
+      "https://news.ycombinator.com/item?id=42190395"
+    ],
+    [
+      "Webvm: Virtual Machine for the Web",
+      "https://github.com/leaningtech/webvm"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 02:42:57",
+      "https://news.ycombinator.com/item?id=42190379"
+    ],
+    [
+      "Call for Developer Projects",
+      "https://github.com/bluesky-social/atproto/discussions/3049"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 01:45:13",
       "https://news.ycombinator.com/item?id=42190065"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2024-11-20, 00:53:41",
-      "https://news.ycombinator.com/item?id=42189744"
-    ],
-    [
-      "I designed my website to look like a chat log",
-      "https://www.ypson.com"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 00:26:30",
       "https://news.ycombinator.com/item?id=42189581"
     ],
     [
       "Apple Confirms Zero-Day Attacks Hitting macOS Systems",
       "https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 23:51:00",
-      "https://news.ycombinator.com/item?id=42189342"
-    ],
-    [
-      "OpenJDK Authorization",
-      "https://github.com/pfirmstone/jdk-with-authorization/blob/master/README.md"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Why is Apple Rosetta 2 fast? (2022)",
       "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 20:52:48",
-      "https://news.ycombinator.com/item?id=42187967"
-    ],
-    [
-      "El Capitan: New supercomputer is the fastest",
-      "https://spectrum.ieee.org/supercomputer-for-nukes"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2024-11-19, 06:38:58",
-      "https://news.ycombinator.com/item?id=42180597"
-    ],
-    [
-      "How to Build a Chess Engine and Fail",
-      "https://obrhubr.org/chess-engine"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 00:35:15",
       "https://news.ycombinator.com/item?id=42178916"
     ],
     [
       "Why I hate the index finger (1980)",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 17:43:13",
+      "https://news.ycombinator.com/item?id=42174829"
+    ],
+    [
+      "Show HN: FastGraphRAG – Better RAG using good old PageRank",
+      "https://github.com/circlemind-ai/fast-graphrag"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bottles of OOP now available in Python",
       "https://sandimetz.com/99bottles"
+    ]
+  ],
+  [
+    [
+      "2024-11-15, 06:18:48",
+      "https://news.ycombinator.com/item?id=42144369"
+    ],
+    [
+      "Query Your Python Lists",
+      "https://github.com/mkalioby/leopards"
     ]
   ],
   [
