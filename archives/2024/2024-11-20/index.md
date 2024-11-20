@@ -9,6 +9,7 @@
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
 * [2024-11-20, 20:25:41](https://news.ycombinator.com/item?id=42197767) - [Google turns Android into a desktop OS in 5 steps](https://www.zdnet.com/article/how-google-turns-android-into-a-desktop-os-in-5-steps/)
 * [2024-11-20, 20:24:48](https://news.ycombinator.com/item?id=42197759) - [DOJ wants to force Google Chrome sale, Android de-bundling](https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/)
+* [2024-11-20, 20:22:32](https://news.ycombinator.com/item?id=42197741) - [Show HN: Autotab – Programmable AI browser for turning web tasks into APIs](https://news.ycombinator.com/item?id=42197741)
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 * [2024-11-20, 17:43:34](https://news.ycombinator.com/item?id=42196381) - [Show HN: Weave - actually measure engineering productivity](https://app.workweave.ai/welcome)
 * [2024-11-20, 17:28:35](https://news.ycombinator.com/item?id=42196226) - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
