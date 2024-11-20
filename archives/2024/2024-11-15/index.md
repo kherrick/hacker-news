@@ -65,6 +65,7 @@
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 * [2024-11-15, 12:12:14](https://news.ycombinator.com/item?id=42146189) - [Unified Checkout: Streamlining Uber's Payment Ecosystem](https://www.uber.com/en-IL/blog/unified-checkout/)
 * [2024-11-15, 12:11:58](https://news.ycombinator.com/item?id=42146188) - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
+* [2024-11-15, 12:04:03](https://news.ycombinator.com/item?id=42146144) - [Disassembling Crossroads, Part 1](https://m65digest.substack.com/p/disassembling-crossroads-part-1)
 * [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
 * [2024-11-15, 11:32:51](https://news.ycombinator.com/item?id=42145980) - [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
 * [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
