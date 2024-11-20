@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 04:39:12](https://news.ycombinator.com/item?id=42190863) - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-20, 03:15:50](https://news.ycombinator.com/item?id=42190541) - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
 * [2024-11-20, 02:50:21](https://news.ycombinator.com/item?id=42190418) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
@@ -20,7 +21,6 @@
 * [2024-11-19, 17:18:14](https://news.ycombinator.com/item?id=42185842) - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
-* [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I hate the index finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
