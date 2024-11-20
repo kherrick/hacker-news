@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 21:25:42](https://news.ycombinator.com/item?id=42198278) - [Like 'old Twitter': The scientific community finds a new home on Bluesky](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky)
 * [2024-11-20, 21:01:14](https://news.ycombinator.com/item?id=42198068) - [Distro (YC S24) Is Hiring a Head of Marketing (B2B)](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
 * [2024-11-20, 20:35:25](https://news.ycombinator.com/item?id=42197845) - [With Core One, Prusa's Open Source Hardware Dream Dies](https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/)
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
@@ -8,8 +9,8 @@
 * [2024-11-20, 17:28:35](https://news.ycombinator.com/item?id=42196226) - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
+* [2024-11-20, 16:59:33](https://news.ycombinator.com/item?id=42195895) - [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120)
 * [2024-11-20, 16:52:53](https://news.ycombinator.com/item?id=42195817) - [Exploring the Cost and Feasibility of Battery-Electric Ships](https://newscenter.lbl.gov/2024/10/30/exploring-the-cost-and-feasibility-of-battery-electric-ships/)
-* [2024-11-20, 16:25:42](https://news.ycombinator.com/item?id=42195490) - [The Northeast is becoming fire country](https://www.newyorker.com/news/the-lede/the-northeast-is-becoming-fire-country)
 * [2024-11-20, 15:15:16](https://news.ycombinator.com/item?id=42194587) - [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
 * [2024-11-20, 15:09:43](https://news.ycombinator.com/item?id=42194540) - [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
@@ -25,9 +26,8 @@
 * [2024-11-20, 06:47:02](https://news.ycombinator.com/item?id=42191354) - [Lush: My favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 03:43:10](https://news.ycombinator.com/item?id=42190650) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
+* [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces \"Large Geospatial Model\" trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
-* [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [99 Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
-* [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
 * [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
