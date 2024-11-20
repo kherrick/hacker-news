@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-20, 02:50:21",
+      "https://news.ycombinator.com/item?id=42190418"
+    ],
+    [
+      "Nominal for Storing, Structural for Manipulating",
+      "https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 02:45:23",
       "https://news.ycombinator.com/item?id=42190395"
     ],
@@ -27,6 +37,16 @@
     [
       "Tiny Glade 'built' its way to >600k sold in a month",
       "https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 01:34:34",
+      "https://news.ycombinator.com/item?id=42189991"
+    ],
+    [
+      "Meta Uses LLMs to Improve Incident Response",
+      "https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-11-18, 17:43:13",
-      "https://news.ycombinator.com/item?id=42174829"
-    ],
-    [
-      "Show HN: FastGraphRAG – Better RAG using good old PageRank",
-      "https://github.com/circlemind-ai/fast-graphrag"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 16:49:09",
       "https://news.ycombinator.com/item?id=42174204"
     ],
@@ -237,16 +247,6 @@
     [
       "A joke in approximating numbers raised to irrational powers",
       "https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 07:10:35",
-      "https://news.ycombinator.com/item?id=42170423"
-    ],
-    [
-      "Fortran II Hypersource",
-      "https://texdraft.github.io/fortran/fortran.html"
     ]
   ],
   [
