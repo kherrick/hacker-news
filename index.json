@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-11-20, 16:07:29",
-      "https://news.ycombinator.com/item?id=42195255"
+      "2024-11-20, 15:15:16",
+      "https://news.ycombinator.com/item?id=42194587"
     ],
     [
-      "Google workers to DOJ: we need protections to make your breakup effective",
-      "https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 15:45:00",
-      "https://news.ycombinator.com/item?id=42194924"
-    ],
-    [
-      "Singularity Missed",
-      "https://blog.piekniewski.info/2024/11/13/singularity-missed/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 15:37:45",
-      "https://news.ycombinator.com/item?id=42194832"
-    ],
-    [
-      "3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'",
-      "https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 15:28:42",
-      "https://news.ycombinator.com/item?id=42194726"
-    ],
-    [
-      "My Resignation from Emacs Development",
-      "https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html"
+      "La Basilica Di San Pietro",
+      "https://unlocked.microsoft.com/vatican/"
     ]
   ],
   [
@@ -101,16 +71,6 @@
   ],
   [
     [
-      "2024-11-20, 12:59:55",
-      "https://news.ycombinator.com/item?id=42193549"
-    ],
-    [
-      "Bluesky is ushering in a pick-your-own algorithm era of social media",
-      "https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 12:00:58",
       "https://news.ycombinator.com/item?id=42193089"
     ],
@@ -171,6 +131,26 @@
   ],
   [
     [
+      "2024-11-20, 02:50:21",
+      "https://news.ycombinator.com/item?id=42190418"
+    ],
+    [
+      "Nominal for Storing, Structural for Manipulating",
+      "https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 02:08:31",
+      "https://news.ycombinator.com/item?id=42190199"
+    ],
+    [
+      "Nickel Plating Handbook [pdf]",
+      "https://nickelinstitute.org/media/lxxh1zwr/2023-nickelplatinghandbooka5_printablepdf.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 22:35:21",
       "https://news.ycombinator.com/item?id=42188816"
     ],
@@ -191,12 +171,32 @@
   ],
   [
     [
+      "2024-11-19, 17:18:14",
+      "https://news.ycombinator.com/item?id=42185842"
+    ],
+    [
+      "Hand Tracking for Mouse Input (2023)",
+      "https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 17:06:11",
       "https://news.ycombinator.com/item?id=42185668"
     ],
     [
       "Show HN: Physically accurate black hole simulation using your iPhone camera",
       "https://apps.apple.com/us/app/black-hole-vision/id6737292448"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 14:06:36",
+      "https://news.ycombinator.com/item?id=42183561"
+    ],
+    [
+      "Shift Left Is the Tip of the Iceberg",
+      "https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2024-11-15, 18:57:50",
+      "https://news.ycombinator.com/item?id=42149762"
+    ],
+    [
+      "Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland",
+      "https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 15:39:16",
       "https://news.ycombinator.com/item?id=42147860"
     ],
     [
       "Bottles of OOP now available in Python",
       "https://sandimetz.com/99bottles"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 15:09:48",
-      "https://news.ycombinator.com/item?id=42147581"
-    ],
-    [
-      "The Fallacies of Distributed Systems",
-      "https://newsletter.francofernando.com/p/the-fallacies-of-distributed-systems"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-11-15, 11:32:14",
+      "https://news.ycombinator.com/item?id=42145975"
+    ],
+    [
+      "Researchers have built server prototypes that re-use old components",
+      "https://spectrum.ieee.org/server-reuse"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 08:04:36",
       "https://news.ycombinator.com/item?id=42144816"
     ],
@@ -277,16 +287,6 @@
     [
       "Query Your Python Lists",
       "https://github.com/mkalioby/leopards"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 02:49:41",
-      "https://news.ycombinator.com/item?id=42143550"
-    ],
-    [
-      "Chrestomathy",
-      "https://en.wikipedia.org/wiki/Chrestomathy"
     ]
   ],
   [
