@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 16:07:29](https://news.ycombinator.com/item?id=42195255) - [Google workers to DOJ: we need protections to make your breakup effective](https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies)
 * [2024-11-20, 15:45:00](https://news.ycombinator.com/item?id=42194924) - [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
 * [2024-11-20, 15:37:45](https://news.ycombinator.com/item?id=42194832) - [3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
 * [2024-11-20, 15:28:42](https://news.ycombinator.com/item?id=42194726) - [My Resignation from Emacs Development](https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html)
