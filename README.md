@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-20, 23:03:54](https://news.ycombinator.com/item?id=42199059) - [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)
 * [2024-11-20, 22:10:31](https://news.ycombinator.com/item?id=42198635) - [Europe's Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
 * [2024-11-20, 22:07:54](https://news.ycombinator.com/item?id=42198611) - [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
 * [2024-11-20, 21:07:28](https://news.ycombinator.com/item?id=42198115) - [Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
@@ -13,7 +14,6 @@
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 16:59:33](https://news.ycombinator.com/item?id=42195895) - [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120)
-* [2024-11-20, 16:52:53](https://news.ycombinator.com/item?id=42195817) - [Exploring the Cost and Feasibility of Battery-Electric Ships](https://newscenter.lbl.gov/2024/10/30/exploring-the-cost-and-feasibility-of-battery-electric-ships/)
 * [2024-11-20, 15:15:16](https://news.ycombinator.com/item?id=42194587) - [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
 * [2024-11-20, 15:09:43](https://news.ycombinator.com/item?id=42194540) - [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
