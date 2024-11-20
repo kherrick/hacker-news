@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 02:50:21](https://news.ycombinator.com/item?id=42190418) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 02:45:23](https://news.ycombinator.com/item?id=42190395) - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 02:42:57](https://news.ycombinator.com/item?id=42190379) - [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
 * [2024-11-20, 01:45:13](https://news.ycombinator.com/item?id=42190065) - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
+* [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
 * [2024-11-20, 01:00:22](https://news.ycombinator.com/item?id=42189791) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
 * [2024-11-20, 00:53:41](https://news.ycombinator.com/item?id=42189744) - [I designed my website to look like a chat log](https://www.ypson.com)
 * [2024-11-20, 00:26:30](https://news.ycombinator.com/item?id=42189581) - [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
