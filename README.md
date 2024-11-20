@@ -2,6 +2,7 @@
 
 * [2024-11-20, 13:33:15](https://news.ycombinator.com/item?id=42193793) - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
+* [2024-11-20, 12:59:55](https://news.ycombinator.com/item?id=42193549) - [Bluesky is ushering in a pick-your-own algorithm era of social media](https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/)
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books (2021)](https://www.abebooks.com/books/ex-library-books)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
@@ -16,12 +17,10 @@
 * [2024-11-19, 17:09:28](https://news.ycombinator.com/item?id=42185715) - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
 * [2024-11-19, 17:06:11](https://news.ycombinator.com/item?id=42185668) - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
-* [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started (2023)](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I hate the index finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
 * [2024-11-18, 16:41:02](https://news.ycombinator.com/item?id=42174105) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
-* [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
 * [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)
 * [2024-11-15, 18:57:50](https://news.ycombinator.com/item?id=42149762) - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
 * [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
@@ -29,6 +28,7 @@
 * [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Researchers have built server prototypes that re-use old components](https://spectrum.ieee.org/server-reuse)
 * [2024-11-15, 08:04:36](https://news.ycombinator.com/item?id=42144816) - [Show HN: Retry a command with exponential backoff and jitter (+ Starlark exprs)](https://github.com/dbohdan/recur)
 * [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
+* [2024-11-15, 02:49:41](https://news.ycombinator.com/item?id=42143550) - [Chrestomathy](https://en.wikipedia.org/wiki/Chrestomathy)
 * [2024-11-14, 11:48:30](https://news.ycombinator.com/item?id=42135303) - [FireDucks: Pandas but Faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 
 ## [Archives](archives/index.md)
