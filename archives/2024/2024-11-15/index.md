@@ -63,6 +63,7 @@
 * [2024-11-15, 13:06:44](https://news.ycombinator.com/item?id=42146544) - [Admiral Cloudberg: the TWA 800 investigation](https://admiralcloudberg.medium.com/memories-of-flame-the-crash-of-twa-flight-800-fecfd651a157)
 * [2024-11-15, 12:50:49](https://news.ycombinator.com/item?id=42146446) - [Uno Platform Studio Featuring Hot Design](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
 * [2024-11-15, 12:36:09](https://news.ycombinator.com/item?id=42146338) - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
+* [2024-11-15, 12:12:14](https://news.ycombinator.com/item?id=42146189) - [Unified Checkout: Streamlining Uber's Payment Ecosystem](https://www.uber.com/en-IL/blog/unified-checkout/)
 * [2024-11-15, 12:11:58](https://news.ycombinator.com/item?id=42146188) - [Congress hears testimony on aliens the government hides](https://www.theregister.com/2024/11/14/congress_uap_hearings/)
 * [2024-11-15, 12:00:33](https://news.ycombinator.com/item?id=42146131) - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
 * [2024-11-15, 11:32:51](https://news.ycombinator.com/item?id=42145980) - [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
