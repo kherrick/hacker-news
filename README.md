@@ -9,6 +9,7 @@
 * [2024-11-20, 01:45:13](https://news.ycombinator.com/item?id=42190065) - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
 * [2024-11-20, 01:34:34](https://news.ycombinator.com/item?id=42189991) - [Meta Uses LLMs to Improve Incident Response](https://www.tryparity.com/blog/how-meta-uses-llms-to-improve-incident-response)
 * [2024-11-20, 01:00:22](https://news.ycombinator.com/item?id=42189791) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
+* [2024-11-20, 00:53:41](https://news.ycombinator.com/item?id=42189744) - [I designed my website to look like a chat log](https://www.ypson.com)
 * [2024-11-20, 00:26:30](https://news.ycombinator.com/item?id=42189581) - [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
 * [2024-11-19, 23:39:02](https://news.ycombinator.com/item?id=42189253) - [PaCMAP: Large-Scale Dimension Reduction with Both Global and Local Structure [pdf]](https://jmlr.org/papers/volume22/20-1061/20-1061.pdf)
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashes down in the gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
@@ -29,7 +30,6 @@
 * [2024-11-15, 15:39:16](https://news.ycombinator.com/item?id=42147860) - [Bottles of OOP now available in Python](https://sandimetz.com/99bottles)
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
 * [2024-11-15, 06:18:48](https://news.ycombinator.com/item?id=42144369) - [Query Your Python Lists](https://github.com/mkalioby/leopards)
-* [2024-11-12, 15:11:46](https://news.ycombinator.com/item?id=42116051) - [Is the 80 character line limit still relevant? (2008)](https://richarddingwall.name/2008/05/31/is-the-80-character-line-limit-still-relevant/)
 
 ## [Archives](archives/index.md)
 
