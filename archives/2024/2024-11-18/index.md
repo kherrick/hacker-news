@@ -9,6 +9,7 @@
 * [2024-11-18, 22:24:07](https://news.ycombinator.com/item?id=42177767) - [DOJ Will Push Google to Sell Off Chrome to Break Search Monopoly](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
 * [2024-11-18, 22:06:46](https://news.ycombinator.com/item?id=42177641) - [Valve developers discuss why Half Life 2: Episode 3 was abandoned](https://arstechnica.com/gaming/2024/11/newell-says-he-was-stumped-on-how-to-finish-half-life-2-episode-3/)
 * [2024-11-18, 22:04:54](https://news.ycombinator.com/item?id=42177619) - [Scientific American's departing editor helped degrade science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
+* [2024-11-18, 22:00:06](https://news.ycombinator.com/item?id=42177584) - [Here's why you should only buy a magnetic keyboard for gaming](https://www.tomsguide.com/computing/peripherals/mechanical-keyboards-are-dead-heres-why-you-should-only-buy-a-magnetic-keyboard-for-gaming)
 * [2024-11-18, 21:56:25](https://news.ycombinator.com/item?id=42177543) - [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
 * [2024-11-18, 21:47:36](https://news.ycombinator.com/item?id=42177462) - [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
 * [2024-11-18, 21:41:20](https://news.ycombinator.com/item?id=42177411) - [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
