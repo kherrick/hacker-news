@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 08:59:02](https://news.ycombinator.com/item?id=42202397) - [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 06:32:32](https://news.ycombinator.com/item?id=42201709) - [Ten best selling CPUs on Amazon are all AMD chips](https://www.pcgamer.com/hardware/processors/the-top-ten-best-selling-cpus-on-amazon-are-all-amd-chips-with-the-two-year-old-ryzen-7-5700x-sitting-at-the-tippety-top-and-intels-best-effort-relegated-to-12th-place/)
