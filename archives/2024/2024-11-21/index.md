@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
+* [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
+* [2024-11-21, 18:35:59](https://news.ycombinator.com/item?id=42207238) - [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
 * [2024-11-21, 18:08:09](https://news.ycombinator.com/item?id=42206955) - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 * [2024-11-21, 17:55:06](https://news.ycombinator.com/item?id=42206817) - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
+* [2024-11-21, 17:32:32](https://news.ycombinator.com/item?id=42206590) - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling Cookies Is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 17:23:22](https://news.ycombinator.com/item?id=42206502) - [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
