@@ -2,6 +2,7 @@
 
 * [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-11-21, 21:41:41](https://news.ycombinator.com/item?id=42208964) - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+* [2024-11-21, 21:40:20](https://news.ycombinator.com/item?id=42208952) - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
 * [2024-11-21, 21:29:20](https://news.ycombinator.com/item?id=42208850) - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
@@ -23,7 +24,6 @@
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
-* [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)

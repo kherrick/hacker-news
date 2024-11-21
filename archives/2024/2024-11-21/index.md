@@ -6,6 +6,7 @@
 
 * [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-11-21, 21:41:41](https://news.ycombinator.com/item?id=42208964) - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+* [2024-11-21, 21:40:20](https://news.ycombinator.com/item?id=42208952) - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
 * [2024-11-21, 21:29:20](https://news.ycombinator.com/item?id=42208850) - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
 * [2024-11-21, 20:40:12](https://news.ycombinator.com/item?id=42208406) - [The Surprising Benefits of Talking Out Loud to Yourself](https://time.com/7177294/talking-out-loud-to-yourself-benefits/)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
