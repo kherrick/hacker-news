@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-21, 17:28:11",
+      "https://news.ycombinator.com/item?id=42206556"
+    ],
+    [
+      "Handling Cookies Is a Minefield",
+      "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 17:23:22",
+      "https://news.ycombinator.com/item?id=42206502"
+    ],
+    [
+      "Pg_karnak: Transactional schema migration across tenant databases",
+      "https://www.thenile.dev/blog/distributed-ddl"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 15:03:43",
       "https://news.ycombinator.com/item?id=42204939"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-11-18, 14:57:38",
-      "https://news.ycombinator.com/item?id=42172857"
-    ],
-    [
-      "Mathematical Thinking Isn't What You Think It Is",
-      "https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 06:38:22",
       "https://news.ycombinator.com/item?id=42170281"
     ],
@@ -287,16 +297,6 @@
     [
       "JM Coetzee on Zbigniew Herbert",
       "https://www.telegraph.co.uk/books/authors/jm-coetzee-zbigniew-herbert-poetry-penguin-modern-classics/"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 07:20:52",
-      "https://news.ycombinator.com/item?id=42162529"
-    ],
-    [
-      "Show HN: Convolution Solver and Visualizer",
-      "https://convolution-solver.ybouane.com/"
     ]
   ]
 ]
