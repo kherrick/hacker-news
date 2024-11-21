@@ -31,6 +31,7 @@
 * [2024-11-18, 17:31:25](https://news.ycombinator.com/item?id=42174703) - [Illegally logged wood from Cambodia likely ending up in U.S. homes](https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/)
 * [2024-11-18, 16:51:29](https://news.ycombinator.com/item?id=42174231) - [MailCatcher runs a super simple SMTP server](https://mailcatcher.me/)
 * [2024-11-18, 16:49:09](https://news.ycombinator.com/item?id=42174204) - [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud fs](https://news.ycombinator.com/item?id=42174204)
+* [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 16:41:02](https://news.ycombinator.com/item?id=42174105) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-18, 16:27:06](https://news.ycombinator.com/item?id=42173960) - [Qwen2.5 Turbo extends context length to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-turbo/)
