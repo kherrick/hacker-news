@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 19:08:37](https://news.ycombinator.com/item?id=42207535) - [Could Humans Hibernate?](https://aeon.co/essays/how-animals-learned-to-hibernate-and-why-we-cant-do-it-yet)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
 * [2024-11-21, 18:35:59](https://news.ycombinator.com/item?id=42207238) - [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 19:08:37](https://news.ycombinator.com/item?id=42207535) - [Could Humans Hibernate?](https://aeon.co/essays/how-animals-learned-to-hibernate-and-why-we-cant-do-it-yet)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
 * [2024-11-21, 18:35:59](https://news.ycombinator.com/item?id=42207238) - [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
@@ -25,7 +26,6 @@
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
-* [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 14:57:38](https://news.ycombinator.com/item?id=42172857) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
