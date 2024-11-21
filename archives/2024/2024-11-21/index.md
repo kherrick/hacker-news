@@ -6,10 +6,13 @@
 
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:57:44](https://news.ycombinator.com/item?id=42203895) - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
+* [2024-11-21, 12:57:38](https://news.ycombinator.com/item?id=42203893) - [OpenZFS Driver for Windows](https://github.com/openzfsonwindows/openzfs)
 * [2024-11-21, 12:53:54](https://news.ycombinator.com/item?id=42203861) - [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
 * [2024-11-21, 12:43:08](https://news.ycombinator.com/item?id=42203777) - [The Case Against Quantum Computing (2018)](https://spectrum.ieee.org/the-case-against-quantum-computing)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
+* [2024-11-21, 12:22:38](https://news.ycombinator.com/item?id=42203616) - [From ClickOps to GitOps: The Evolution of AI App Development](https://blog.helix.ml/p/from-clickops-to-gitops-the-evolution)
 * [2024-11-21, 12:18:31](https://news.ycombinator.com/item?id=42203584) - [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
+* [2024-11-21, 12:13:17](https://news.ycombinator.com/item?id=42203543) - [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
