@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-11-20, 20:22:32",
-      "https://news.ycombinator.com/item?id=42197741"
-    ],
-    [
-      "Show HN: Autotab – Programmable AI browser for turning web tasks into APIs",
-      "https://news.ycombinator.com/item?id=42197741"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 18:37:04",
       "https://news.ycombinator.com/item?id=42196841"
     ],
@@ -267,6 +257,16 @@
     [
       "Bit-twiddling optimizations in Zed's Rope",
       "https://zed.dev/blog/zed-decoded-rope-optimizations-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 06:38:22",
+      "https://news.ycombinator.com/item?id=42170281"
+    ],
+    [
+      "Removing global state from LLD, the LLVM linker",
+      "https://maskray.me/blog/2024-11-17-removing-global-state-from-lld"
     ]
   ],
   [
