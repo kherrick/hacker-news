@@ -26,10 +26,10 @@
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces “Large Geospatial Model” trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
+* [2024-11-18, 21:39:49](https://news.ycombinator.com/item?id=42177391) - [The Fastest Redis Ever](https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 * [2024-11-15, 14:15:57](https://news.ycombinator.com/item?id=42147135) - [Fashion History Timeline](https://fashionhistory.fitnyc.edu/)
-* [2024-11-14, 20:09:38](https://news.ycombinator.com/item?id=42140629) - [The Problem of Thinking Too Much (2002)](https://www.jstor.org/stable/3824296)
 
 ## [Archives](archives/index.md)
 

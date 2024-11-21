@@ -12,6 +12,7 @@
 * [2024-11-18, 21:56:25](https://news.ycombinator.com/item?id=42177543) - [Undersea cable between Germany and Finland severed](https://www.bbc.co.uk/news/articles/c9dl4vxw501o)
 * [2024-11-18, 21:47:36](https://news.ycombinator.com/item?id=42177462) - [Hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
 * [2024-11-18, 21:41:20](https://news.ycombinator.com/item?id=42177411) - [You Don't Know Jack about Bandwidth](https://queue.acm.org/detail.cfm?id=3674953)
+* [2024-11-18, 21:39:49](https://news.ycombinator.com/item?id=42177391) - [The Fastest Redis Ever](https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/)
 * [2024-11-18, 21:00:36](https://news.ycombinator.com/item?id=42176974) - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
 * [2024-11-18, 20:57:37](https://news.ycombinator.com/item?id=42176929) - [Microsoft starts boiling the Copilot frog: It's not a soup you want to drink](https://www.theregister.com/2024/11/18/opinion_piece_ai_tools/)
 * [2024-11-18, 20:55:46](https://news.ycombinator.com/item?id=42176911) - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
