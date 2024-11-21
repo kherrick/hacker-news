@@ -23,12 +23,12 @@
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
+* [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
-* [2024-11-18, 15:56:13](https://news.ycombinator.com/item?id=42173575) - [Communicating Software Estimates](https://www.apsis.io/blog/2016/04/18/communicating-estimates/)
 * [2024-11-17, 10:36:39](https://news.ycombinator.com/item?id=42163302) - [Ask HN: Great maker projects for 8th grade kids and above?](https://news.ycombinator.com/item?id=42163302)
 
 ## [Archives](archives/index.md)
