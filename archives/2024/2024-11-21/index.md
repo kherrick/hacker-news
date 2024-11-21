@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 20:40:12](https://news.ycombinator.com/item?id=42208406) - [The Surprising Benefits of Talking Out Loud to Yourself](https://time.com/7177294/talking-out-loud-to-yourself-benefits/)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 20:02:29](https://news.ycombinator.com/item?id=42208021) - [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)
 * [2024-11-21, 19:08:37](https://news.ycombinator.com/item?id=42207535) - [Could Humans Hibernate?](https://aeon.co/essays/how-animals-learned-to-hibernate-and-why-we-cant-do-it-yet)

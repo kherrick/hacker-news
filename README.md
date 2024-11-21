@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 20:40:12](https://news.ycombinator.com/item?id=42208406) - [The Surprising Benefits of Talking Out Loud to Yourself](https://time.com/7177294/talking-out-loud-to-yourself-benefits/)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
@@ -24,7 +25,6 @@
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
-* [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 15:56:13](https://news.ycombinator.com/item?id=42173575) - [Communicating Software Estimates](https://www.apsis.io/blog/2016/04/18/communicating-estimates/)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
