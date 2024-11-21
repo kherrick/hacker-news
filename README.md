@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 08:59:02](https://news.ycombinator.com/item?id=42202397) - [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
 * [2024-11-21, 04:19:08](https://news.ycombinator.com/item?id=42201068) - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
-* [2024-11-21, 04:05:45](https://news.ycombinator.com/item?id=42200987) - [Why one would use Qubes OS? (2023)](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
 * [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
@@ -27,9 +27,9 @@
 * [2024-11-18, 21:39:49](https://news.ycombinator.com/item?id=42177391) - [The Fastest Redis Ever](https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
+* [2024-11-18, 03:56:30](https://news.ycombinator.com/item?id=42169594) - [JM Coetzee on Zbigniew Herbert](https://www.telegraph.co.uk/books/authors/jm-coetzee-zbigniew-herbert-poetry-penguin-modern-classics/)
 * [2024-11-17, 12:35:57](https://news.ycombinator.com/item?id=42163872) - [Shadow Boxing (2016)](https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true)
 * [2024-11-17, 07:20:52](https://news.ycombinator.com/item?id=42162529) - [Show HN: Convolution Solver and Visualizer](https://convolution-solver.ybouane.com/)
-* [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 
 ## [Archives](archives/index.md)
 
