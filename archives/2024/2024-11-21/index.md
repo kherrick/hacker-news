@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+* [2024-11-21, 21:29:20](https://news.ycombinator.com/item?id=42208850) - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
 * [2024-11-21, 20:40:12](https://news.ycombinator.com/item?id=42208406) - [The Surprising Benefits of Talking Out Loud to Yourself](https://time.com/7177294/talking-out-loud-to-yourself-benefits/)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 20:02:29](https://news.ycombinator.com/item?id=42208021) - [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)
