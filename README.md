@@ -2,6 +2,7 @@
 
 * [2024-11-21, 04:56:43](https://news.ycombinator.com/item?id=42201261) - [DOJ filed paperwork to US District Court to force Google to spin off Chrome [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.0.pdf)
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
+* [2024-11-21, 04:19:08](https://news.ycombinator.com/item?id=42201068) - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
 * [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:35:59](https://news.ycombinator.com/item?id=42200149) - [Why everyone missed solar's exponential growth](https://www.exponentialview.co/p/the-forecasters-gap)
@@ -24,7 +25,6 @@
 * [2024-11-20, 15:09:43](https://news.ycombinator.com/item?id=42194540) - [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
-* [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces “Large Geospatial Model” trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 21:39:49](https://news.ycombinator.com/item?id=42177391) - [The Fastest Redis Ever](https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
