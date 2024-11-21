@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
+* [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 09:09:28](https://news.ycombinator.com/item?id=42202449) - [You Exist in the Long Context](https://thelongcontext.com/)
 * [2024-11-21, 08:59:02](https://news.ycombinator.com/item?id=42202397) - [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
