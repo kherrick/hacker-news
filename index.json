@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-11-21, 00:03:49",
+      "https://news.ycombinator.com/item?id=42199527"
+    ],
+    [
+      "Apple fights to keep DOJ antitrust suit from reaching trial",
+      "https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 23:53:25",
+      "https://news.ycombinator.com/item?id=42199447"
+    ],
+    [
+      "Weight-loss drug found to shrink heart muscle in mice, human cells",
+      "https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 23:36:10",
+      "https://news.ycombinator.com/item?id=42199301"
+    ],
+    [
+      "Z-Library Helps Students to Overcome Academic Poverty, Study Finds",
+      "https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 23:11:36",
       "https://news.ycombinator.com/item?id=42199112"
     ],
     [
       "Bird flu in Canada may have mutated to become more transmissible to humans",
       "https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 22:49:41",
+      "https://news.ycombinator.com/item?id=42198954"
+    ],
+    [
+      "Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)",
+      "https://github.com/doxx/darkflare"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 22:28:14",
+      "https://news.ycombinator.com/item?id=42198783"
+    ],
+    [
+      "Show HN: Shop on Amazon with Crypto",
+      "https://www.baggins.ai/?source=hackernews"
     ]
   ],
   [
@@ -47,26 +97,6 @@
     [
       "Distro (YC S24) Is Hiring a Head of Marketing (B2B)",
       "https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 20:35:25",
-      "https://news.ycombinator.com/item?id=42197845"
-    ],
-    [
-      "With Core One, Prusa's Open Source Hardware Dream Dies",
-      "https://hackaday.com/2024/11/20/with-core-one-prusas-open-source-hardware-dream-quietly-dies/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 20:33:03",
-      "https://news.ycombinator.com/item?id=42197824"
-    ],
-    [
-      "New Calculation Finds we are close to the Kessler Syndrome [video]",
-      "https://www.youtube.com/watch?v=Bi9EW9xhqAU"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-11-20, 13:33:15",
-      "https://news.ycombinator.com/item?id=42193793"
-    ],
-    [
-      "Show HN: Unbug – Rust macros for programmatically invoking breakpoints",
-      "https://github.com/greymattergames/unbug"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 13:30:03",
       "https://news.ycombinator.com/item?id=42193771"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-11-20, 09:58:39",
-      "https://news.ycombinator.com/item?id=42192336"
-    ],
-    [
-      "Discarded delights: The joy of ex-library books (2021)",
-      "https://www.abebooks.com/books/ex-library-books"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 08:03:20",
       "https://news.ycombinator.com/item?id=42191709"
     ],
@@ -247,16 +257,6 @@
     [
       "Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke",
       "https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 03:43:10",
-      "https://news.ycombinator.com/item?id=42190650"
-    ],
-    [
-      "Understanding the BM25 full text search algorithm",
-      "https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-11-14, 11:48:30",
-      "https://news.ycombinator.com/item?id=42135303"
+      "2024-11-17, 07:52:08",
+      "https://news.ycombinator.com/item?id=42162673"
     ],
     [
-      "FireDucks: Pandas but Faster",
-      "https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/"
+      "A 15-minute intro to involute gears",
+      "https://lcamtuf.substack.com/p/a-15-minute-intro-to-involute-gears"
     ]
   ]
 ]
