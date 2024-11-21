@@ -53,6 +53,7 @@
 * [2024-11-17, 07:52:08](https://news.ycombinator.com/item?id=42162673) - [A 15-minute intro to involute gears](https://lcamtuf.substack.com/p/a-15-minute-intro-to-involute-gears)
 * [2024-11-17, 07:49:16](https://news.ycombinator.com/item?id=42162654) - [Playful, intricate Japanese leaf art – in pictures – Art and design](https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures)
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
+* [2024-11-17, 07:20:52](https://news.ycombinator.com/item?id=42162529) - [Show HN: Convolution Solver and Visualizer](https://convolution-solver.ybouane.com/)
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 * [2024-11-17, 06:34:46](https://news.ycombinator.com/item?id=42162390) - [Phased Array](https://en.wikipedia.org/wiki/Phased_array)
 * [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [Contain – CSS Cascading Style Sheets – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
