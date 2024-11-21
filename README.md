@@ -24,10 +24,10 @@
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
-* [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
+* [2024-11-18, 15:56:13](https://news.ycombinator.com/item?id=42173575) - [Communicating Software Estimates](https://www.apsis.io/blog/2016/04/18/communicating-estimates/)
 * [2024-11-18, 14:57:38](https://news.ycombinator.com/item?id=42172857) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-17, 09:38:28](https://news.ycombinator.com/item?id=42163086) - [How do cars do in out-of-sample crash testing?](https://danluu.com/car-safety/)
 
