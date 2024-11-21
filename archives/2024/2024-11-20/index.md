@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 23:53:25](https://news.ycombinator.com/item?id=42199447) - [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
 * [2024-11-20, 23:36:10](https://news.ycombinator.com/item?id=42199301) - [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
 * [2024-11-20, 23:11:36](https://news.ycombinator.com/item?id=42199112) - [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)

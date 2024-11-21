@@ -50,6 +50,7 @@
 * [2024-11-15, 15:32:35](https://news.ycombinator.com/item?id=42147791) - [A Diver Found a Ring Lost 50 Years Ago Near Barbados](https://www.nytimes.com/2024/11/12/world/americas/diver-finds-graduation-ring-barbados.html)
 * [2024-11-15, 15:32:24](https://news.ycombinator.com/item?id=42147790) - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
 * [2024-11-15, 15:21:02](https://news.ycombinator.com/item?id=42147675) - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
+* [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 * [2024-11-15, 15:09:48](https://news.ycombinator.com/item?id=42147581) - [The Fallacies of Distributed Systems](https://newsletter.francofernando.com/p/the-fallacies-of-distributed-systems)
 * [2024-11-15, 14:53:15](https://news.ycombinator.com/item?id=42147430) - [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
 * [2024-11-15, 14:38:56](https://news.ycombinator.com/item?id=42147310) - [Three-Quarters of U.S. Adults Are Now Overweight or Obese](https://www.nytimes.com/2024/11/14/well/obesity-epidemic-america.html)
