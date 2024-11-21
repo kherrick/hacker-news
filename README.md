@@ -26,8 +26,8 @@
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 * [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
+* [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 22:00:06](https://news.ycombinator.com/item?id=42177584) - [Only buy a magnetic keyboard for gaming](https://www.tomsguide.com/computing/peripherals/mechanical-keyboards-are-dead-heres-why-you-should-only-buy-a-magnetic-keyboard-for-gaming)
-* [2024-11-18, 14:57:38](https://news.ycombinator.com/item?id=42172857) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
 * [2024-11-17, 09:38:28](https://news.ycombinator.com/item?id=42163086) - [How do cars do in out-of-sample crash testing?](https://danluu.com/car-safety/)
 
