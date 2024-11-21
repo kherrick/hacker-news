@@ -55,6 +55,7 @@
 * [2024-11-15, 14:53:15](https://news.ycombinator.com/item?id=42147430) - [How to migrate from X to Bluesky without losing your followers](https://www.zdnet.com/article/how-to-migrate-from-x-to-bluesky-without-losing-your-followers/)
 * [2024-11-15, 14:38:56](https://news.ycombinator.com/item?id=42147310) - [Three-Quarters of U.S. Adults Are Now Overweight or Obese](https://www.nytimes.com/2024/11/14/well/obesity-epidemic-america.html)
 * [2024-11-15, 14:28:23](https://news.ycombinator.com/item?id=42147252) - [1-Bit AI Infrastructure](https://arxiv.org/abs/2410.16144)
+* [2024-11-15, 14:15:57](https://news.ycombinator.com/item?id=42147135) - [Fashion History Timeline](https://fashionhistory.fitnyc.edu/)
 * [2024-11-15, 14:13:19](https://news.ycombinator.com/item?id=42147110) - [Show HN: Zyme – An Evolvable Programming Language](https://zyme.dev)
 * [2024-11-15, 13:55:15](https://news.ycombinator.com/item?id=42146957) - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 * [2024-11-15, 13:53:17](https://news.ycombinator.com/item?id=42146936) - [Libobscura](https://dorotac.eu/posts/libobscura/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [We Open-Sourced Our Compost Monitoring Tech – Hack It for Your Own Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
+* [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
+* [2024-11-21, 01:16:46](https://news.ycombinator.com/item?id=42200014) - [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
 * [2024-11-21, 01:00:39](https://news.ycombinator.com/item?id=42199938) - [Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End)](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
 * [2024-11-21, 00:03:49](https://news.ycombinator.com/item?id=42199527) - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
@@ -24,12 +25,11 @@
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-20, 12:56:15](https://news.ycombinator.com/item?id=42193530) - [Show HN: Cardo ‒ Open Source desktop podcast client](https://cardo-podcast.github.io/)
-* [2024-11-20, 11:45:17](https://news.ycombinator.com/item?id=42192972) - [How Google spent 15 years creating a culture of concealment](https://www.nytimes.com/2024/11/20/technology/google-antitrust-employee-messages.html)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces \"Large Geospatial Model\" trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-18, 15:08:25](https://news.ycombinator.com/item?id=42172978) - [A Second Search for Bash Scripting Alternatives](https://monzool.net/blog/2024/07/14/a-second-search-for-bash-scripting-alternatives/)
-* [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
+* [2024-11-15, 14:15:57](https://news.ycombinator.com/item?id=42147135) - [Fashion History Timeline](https://fashionhistory.fitnyc.edu/)
 
 ## [Archives](archives/index.md)
 
