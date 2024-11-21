@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
+* [2024-11-21, 09:09:28](https://news.ycombinator.com/item?id=42202449) - [You Exist in the Long Context](https://thelongcontext.com/)
 * [2024-11-21, 08:59:02](https://news.ycombinator.com/item?id=42202397) - [A common urban intersection in the Netherlands](https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
-* [2024-11-21, 04:19:08](https://news.ycombinator.com/item?id=42201068) - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
 * [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
