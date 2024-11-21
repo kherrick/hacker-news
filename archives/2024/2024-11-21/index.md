@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 18:08:09](https://news.ycombinator.com/item?id=42206955) - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
+* [2024-11-21, 17:55:06](https://news.ycombinator.com/item?id=42206817) - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling Cookies Is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 17:23:22](https://news.ycombinator.com/item?id=42206502) - [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
