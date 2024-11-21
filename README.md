@@ -2,9 +2,7 @@
 
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:57:44](https://news.ycombinator.com/item?id=42203895) - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
-* [2024-11-21, 12:57:38](https://news.ycombinator.com/item?id=42203893) - [OpenZFS Driver for Windows](https://github.com/openzfsonwindows/openzfs)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
-* [2024-11-21, 12:22:38](https://news.ycombinator.com/item?id=42203616) - [From ClickOps to GitOps: The Evolution of AI App Development](https://blog.helix.ml/p/from-clickops-to-gitops-the-evolution)
 * [2024-11-21, 12:13:17](https://news.ycombinator.com/item?id=42203543) - [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
@@ -26,6 +24,8 @@
 * [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
+* [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
+* [2024-11-18, 12:24:09](https://news.ycombinator.com/item?id=42171762) - [Curve Families](https://linebender.org/wiki/curve-families/)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
 * [2024-11-18, 03:56:30](https://news.ycombinator.com/item?id=42169594) - [JM Coetzee on Zbigniew Herbert](https://www.telegraph.co.uk/books/authors/jm-coetzee-zbigniew-herbert-poetry-penguin-modern-classics/)
 * [2024-11-17, 09:38:28](https://news.ycombinator.com/item?id=42163086) - [How do cars do in out-of-sample crash testing?](https://danluu.com/car-safety/)

@@ -54,6 +54,7 @@
 * [2024-11-19, 11:58:24](https://news.ycombinator.com/item?id=42182485) - [We Can't Give Up Paper Checks, and That's a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
 * [2024-11-19, 11:52:49](https://news.ycombinator.com/item?id=42182442) - [Arm PC Base System Architecture 1.0](https://developer.arm.com/documentation/den0151/a)
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
+* [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
 * [2024-11-19, 09:22:11](https://news.ycombinator.com/item?id=42181452) - [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
 * [2024-11-19, 09:18:57](https://news.ycombinator.com/item?id=42181432) - [Paged Out #5 – hacker zine release [pdf]](https://pagedout.institute/download/PagedOut_005.pdf)
