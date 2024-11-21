@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
+* [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+* [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-21, 01:16:46](https://news.ycombinator.com/item?id=42200014) - [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
 * [2024-11-21, 01:00:39](https://news.ycombinator.com/item?id=42199938) - [Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End)](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
 * [2024-11-21, 00:03:49](https://news.ycombinator.com/item?id=42199527) - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
@@ -19,7 +20,6 @@
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 16:59:33](https://news.ycombinator.com/item?id=42195895) - [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120)
 * [2024-11-20, 16:52:53](https://news.ycombinator.com/item?id=42195817) - [Exploring the Cost and Feasibility of Battery-Electric Ships](https://newscenter.lbl.gov/2024/10/30/exploring-the-cost-and-feasibility-of-battery-electric-ships/)
-* [2024-11-20, 15:15:16](https://news.ycombinator.com/item?id=42194587) - [La Basilica Di San Pietro](https://unlocked.microsoft.com/vatican/)
 * [2024-11-20, 15:09:43](https://news.ycombinator.com/item?id=42194540) - [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
