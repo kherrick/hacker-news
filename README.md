@@ -15,7 +15,6 @@
 * [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
 * [2024-11-20, 21:22:36](https://news.ycombinator.com/item?id=42198256) - [/usr/bin/env -S uv run](https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/)
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
-* [2024-11-20, 20:22:32](https://news.ycombinator.com/item?id=42197741) - [Show HN: Autotab – Programmable AI browser for turning web tasks into APIs](https://news.ycombinator.com/item?id=42197741)
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 * [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
@@ -30,6 +29,7 @@
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
 * [2024-11-17, 12:35:57](https://news.ycombinator.com/item?id=42163872) - [Shadow Boxing (2016)](https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true)
 * [2024-11-17, 07:20:52](https://news.ycombinator.com/item?id=42162529) - [Show HN: Convolution Solver and Visualizer](https://convolution-solver.ybouane.com/)
+* [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 
 ## [Archives](archives/index.md)
 
