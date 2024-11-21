@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
 * [2024-11-21, 12:53:54](https://news.ycombinator.com/item?id=42203861) - [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
+* [2024-11-21, 12:43:08](https://news.ycombinator.com/item?id=42203777) - [The Case Against Quantum Computing (2018)](https://spectrum.ieee.org/the-case-against-quantum-computing)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
+* [2024-11-21, 12:18:31](https://news.ycombinator.com/item?id=42203584) - [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
