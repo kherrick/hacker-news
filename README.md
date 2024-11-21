@@ -5,7 +5,6 @@
 * [2024-11-21, 18:35:59](https://news.ycombinator.com/item?id=42207238) - [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
 * [2024-11-21, 18:08:09](https://news.ycombinator.com/item?id=42206955) - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 * [2024-11-21, 17:55:06](https://news.ycombinator.com/item?id=42206817) - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
-* [2024-11-21, 17:32:32](https://news.ycombinator.com/item?id=42206590) - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The rectangular cows of Art UK (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
@@ -30,6 +29,7 @@
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 14:57:38](https://news.ycombinator.com/item?id=42172857) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+* [2024-11-17, 09:38:28](https://news.ycombinator.com/item?id=42163086) - [How do cars do in out-of-sample crash testing?](https://danluu.com/car-safety/)
 
 ## [Archives](archives/index.md)
 
