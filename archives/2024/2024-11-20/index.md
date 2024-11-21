@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 23:53:25](https://news.ycombinator.com/item?id=42199447) - [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
+* [2024-11-20, 23:36:10](https://news.ycombinator.com/item?id=42199301) - [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
 * [2024-11-20, 23:11:36](https://news.ycombinator.com/item?id=42199112) - [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)
 * [2024-11-20, 23:03:54](https://news.ycombinator.com/item?id=42199059) - [Why the sun is setting on European-style welfarism](https://www.telegraph.co.uk/business/2024/11/20/why-the-sun-is-setting-on-the-european-style-welfarism/)
+* [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
+* [2024-11-20, 22:28:14](https://news.ycombinator.com/item?id=42198783) - [Show HN: Shop on Amazon with Crypto](https://www.baggins.ai/?source=hackernews)
 * [2024-11-20, 22:10:31](https://news.ycombinator.com/item?id=42198635) - [Europe's Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
 * [2024-11-20, 22:07:54](https://news.ycombinator.com/item?id=42198611) - [Show HN: Self-Host Next.js in Production](https://github.com/opennextjs/opennextjs-aws)
 * [2024-11-20, 21:25:42](https://news.ycombinator.com/item?id=42198278) - [Like 'old Twitter': The scientific community finds a new home on Bluesky](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky)
