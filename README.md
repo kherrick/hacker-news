@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling Cookies Is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
+* [2024-11-21, 17:23:22](https://news.ycombinator.com/item?id=42206502) - [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:57:44](https://news.ycombinator.com/item?id=42203895) - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
@@ -26,10 +28,8 @@
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
-* [2024-11-18, 14:57:38](https://news.ycombinator.com/item?id=42172857) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
 * [2024-11-18, 03:56:30](https://news.ycombinator.com/item?id=42169594) - [JM Coetzee on Zbigniew Herbert](https://www.telegraph.co.uk/books/authors/jm-coetzee-zbigniew-herbert-poetry-penguin-modern-classics/)
-* [2024-11-17, 07:20:52](https://news.ycombinator.com/item?id=42162529) - [Show HN: Convolution Solver and Visualizer](https://convolution-solver.ybouane.com/)
 
 ## [Archives](archives/index.md)
 
