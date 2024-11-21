@@ -57,6 +57,7 @@
 * [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
+* [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-18, 09:46:13](https://news.ycombinator.com/item?id=42171051) - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
 * [2024-11-18, 09:44:54](https://news.ycombinator.com/item?id=42171043) - [LLaVA-O1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
 * [2024-11-18, 09:38:02](https://news.ycombinator.com/item?id=42171019) - [Wall Street Bankers Spot a Fat Payday in $1T AI Hysteria](https://www.bloomberg.com/news/articles/2024-11-17/ai-s-1-trillion-hysteria-offers-fat-payday-for-wall-street-bankers)

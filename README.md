@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-21, 23:26:09](https://news.ycombinator.com/item?id=42209736) - [Andrew Tate's online university hacked – Chat logs, data on 800k users leaked](https://www.dailydot.com/debug/andrew-tate-the-real-world-hack/)
+* [2024-11-21, 22:18:57](https://news.ycombinator.com/item?id=42209272) - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
 * [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-11-21, 21:41:41](https://news.ycombinator.com/item?id=42208964) - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
 * [2024-11-21, 21:40:20](https://news.ycombinator.com/item?id=42208952) - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
@@ -18,7 +18,6 @@
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The rectangular cows of Art UK (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:57:44](https://news.ycombinator.com/item?id=42203895) - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)
 * [2024-11-21, 12:13:17](https://news.ycombinator.com/item?id=42203543) - [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
-* [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 07:24:41](https://news.ycombinator.com/item?id=42201936) - [A binary tree of all Pythagorean triples](https://richardt.io/stereo_stern/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
@@ -29,6 +28,7 @@
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
+* [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-17, 10:36:39](https://news.ycombinator.com/item?id=42163302) - [Ask HN: Great maker projects for 8th grade kids and above?](https://news.ycombinator.com/item?id=42163302)
 
 ## [Archives](archives/index.md)
