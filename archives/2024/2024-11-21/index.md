@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 23:26:09](https://news.ycombinator.com/item?id=42209736) - [Andrew Tate's online university hacked – Chat logs, data on 800k users leaked](https://www.dailydot.com/debug/andrew-tate-the-real-world-hack/)
 * [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-11-21, 21:41:41](https://news.ycombinator.com/item?id=42208964) - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
 * [2024-11-21, 21:40:20](https://news.ycombinator.com/item?id=42208952) - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
