@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 12:53:54](https://news.ycombinator.com/item?id=42203861) - [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
@@ -8,7 +9,7 @@
 * [2024-11-21, 07:24:41](https://news.ycombinator.com/item?id=42201936) - [A binary tree of all Pythagorean triples](https://richardt.io/stereo_stern/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
-* [2024-11-21, 04:05:45](https://news.ycombinator.com/item?id=42200987) - [Why one would use Qubes OS? (2023)](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
+* [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
@@ -20,7 +21,6 @@
 * [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
-* [2024-11-20, 15:09:43](https://news.ycombinator.com/item?id=42194540) - [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 13:30:03](https://news.ycombinator.com/item?id=42193771) - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)

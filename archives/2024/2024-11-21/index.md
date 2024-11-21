@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 12:53:54](https://news.ycombinator.com/item?id=42203861) - [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
@@ -17,6 +18,7 @@
 * [2024-11-21, 04:26:16](https://news.ycombinator.com/item?id=42201117) - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
 * [2024-11-21, 04:19:08](https://news.ycombinator.com/item?id=42201068) - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
 * [2024-11-21, 04:05:45](https://news.ycombinator.com/item?id=42200987) - [Why one would use Qubes OS? (2023)](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
+* [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:35:59](https://news.ycombinator.com/item?id=42200149) - [Why everyone missed solar's exponential growth](https://www.exponentialview.co/p/the-forecasters-gap)
