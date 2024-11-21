@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+* [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-21, 01:16:46](https://news.ycombinator.com/item?id=42200014) - [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
 * [2024-11-21, 01:00:39](https://news.ycombinator.com/item?id=42199938) - [Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End)](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
