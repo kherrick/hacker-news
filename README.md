@@ -15,7 +15,6 @@
 * [2024-11-20, 20:22:32](https://news.ycombinator.com/item?id=42197741) - [Show HN: Autotab – Programmable AI browser for turning web tasks into APIs](https://news.ycombinator.com/item?id=42197741)
 * [2024-11-20, 18:37:04](https://news.ycombinator.com/item?id=42196841) - [AlphaQubit: AI to identify errors in Quantum Computers](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 * [2024-11-20, 18:30:59](https://news.ycombinator.com/item?id=42196794) - [Does the Internet Route Around Damage? – Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
-* [2024-11-20, 17:28:35](https://news.ycombinator.com/item?id=42196226) - [Show HN: Rebuild of Blossom, an open-source social robot](https://msgtn.xyz/rebuild_of_blossom)
 * [2024-11-20, 17:11:14](https://news.ycombinator.com/item?id=42196037) - [Between the Booms: AI in Winter – Communications of the ACM](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
 * [2024-11-20, 17:07:18](https://news.ycombinator.com/item?id=42195994) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 16:59:33](https://news.ycombinator.com/item?id=42195895) - [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120)
@@ -29,6 +28,7 @@
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces \"Large Geospatial Model\" trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
 * [2024-11-18, 15:08:25](https://news.ycombinator.com/item?id=42172978) - [A Second Search for Bash Scripting Alternatives](https://monzool.net/blog/2024/07/14/a-second-search-for-bash-scripting-alternatives/)
+* [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 * [2024-11-15, 14:15:57](https://news.ycombinator.com/item?id=42147135) - [Fashion History Timeline](https://fashionhistory.fitnyc.edu/)
 
 ## [Archives](archives/index.md)
