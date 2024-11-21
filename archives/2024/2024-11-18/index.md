@@ -63,6 +63,7 @@
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
 * [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
+* [2024-11-18, 06:53:33](https://news.ycombinator.com/item?id=42170356) - [Science Talk – What Are Pulsar Planets? (2022)](https://www.spaceaustralia.com/news/science-talk-what-are-pulsar-planets)
 * [2024-11-18, 06:23:31](https://news.ycombinator.com/item?id=42170209) - [POSSE: Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2024-11-18, 05:40:58](https://news.ycombinator.com/item?id=42169998) - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 * [2024-11-18, 05:21:24](https://news.ycombinator.com/item?id=42169913) - [\"We Will Pass Those Tariff Costs Back to the Consumer,\" Says CEO of AutoZone](https://finance.yahoo.com/news/pass-those-tariff-costs-back-190017675.html)
