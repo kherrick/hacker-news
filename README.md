@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-21, 02:17:49](https://news.ycombinator.com/item?id=42200407) - [January 1928: Dirac equation unifies quantum mechanics and special relativity](https://www.aps.org/apsnews/2024/11/mathematical-intuition-dirac-quantum-mechanics)
 * [2024-11-21, 01:45:47](https://news.ycombinator.com/item?id=42200209) - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+* [2024-11-21, 01:35:59](https://news.ycombinator.com/item?id=42200149) - [Why everyone missed solar's exponential growth](https://www.exponentialview.co/p/the-forecasters-gap)
 * [2024-11-21, 01:30:07](https://news.ycombinator.com/item?id=42200099) - [Show HN: We open-sourced our compost monitoring tech](https://github.com/gtls64/MontyHome-Hackers-Guide)
 * [2024-11-21, 01:16:46](https://news.ycombinator.com/item?id=42200014) - [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
 * [2024-11-21, 01:00:39](https://news.ycombinator.com/item?id=42199938) - [Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End)](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
@@ -8,9 +10,7 @@
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 23:53:25](https://news.ycombinator.com/item?id=42199447) - [Weight-loss drug found to shrink heart muscle in mice, human cells](https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html)
 * [2024-11-20, 23:36:10](https://news.ycombinator.com/item?id=42199301) - [Z-Library Helps Students to Overcome Academic Poverty, Study Finds](https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/)
-* [2024-11-20, 23:11:36](https://news.ycombinator.com/item?id=42199112) - [Bird flu in Canada may have mutated to become more transmissible to humans](https://www.theguardian.com/world/2024/nov/19/bird-flu-cases-mutation-canada)
 * [2024-11-20, 22:49:41](https://news.ycombinator.com/item?id=42198954) - [Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)](https://github.com/doxx/darkflare)
-* [2024-11-20, 22:10:31](https://news.ycombinator.com/item?id=42198635) - [Europe's Internet resilience mitigates impact of submarine cable cuts](https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts/)
 * [2024-11-20, 21:07:28](https://news.ycombinator.com/item?id=42198115) - [Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
 * [2024-11-20, 20:33:03](https://news.ycombinator.com/item?id=42197824) - [New Calculation Finds we are close to the Kessler Syndrome [video]](https://www.youtube.com/watch?v=Bi9EW9xhqAU)
 * [2024-11-20, 20:22:32](https://news.ycombinator.com/item?id=42197741) - [Show HN: Autotab – Programmable AI browser for turning web tasks into APIs](https://news.ycombinator.com/item?id=42197741)
@@ -27,9 +27,9 @@
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces “Large Geospatial Model” trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-18, 16:39:10](https://news.ycombinator.com/item?id=42174085) - [Bit-twiddling optimizations in Zed's Rope](https://zed.dev/blog/zed-decoded-rope-optimizations-part-1)
-* [2024-11-18, 06:53:33](https://news.ycombinator.com/item?id=42170356) - [Science Talk – What Are Pulsar Planets? (2022)](https://www.spaceaustralia.com/news/science-talk-what-are-pulsar-planets)
 * [2024-11-15, 15:13:07](https://news.ycombinator.com/item?id=42147612) - [Gregglogger](https://untested.sonnet.io/notes/gregglogger/)
 * [2024-11-15, 14:15:57](https://news.ycombinator.com/item?id=42147135) - [Fashion History Timeline](https://fashionhistory.fitnyc.edu/)
+* [2024-11-14, 20:09:38](https://news.ycombinator.com/item?id=42140629) - [The Problem of Thinking Too Much (2002)](https://www.jstor.org/stable/3824296)
 
 ## [Archives](archives/index.md)
 
