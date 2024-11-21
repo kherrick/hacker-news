@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:53:54](https://news.ycombinator.com/item?id=42203861) - [I hacked the Dutch government and all I got was this t-shirt](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
 * [2024-11-21, 12:43:08](https://news.ycombinator.com/item?id=42203777) - [The Case Against Quantum Computing (2018)](https://spectrum.ieee.org/the-case-against-quantum-computing)
 * [2024-11-21, 12:25:07](https://news.ycombinator.com/item?id=42203635) - [Personality Basins](https://near.blog/personality-basins/)
