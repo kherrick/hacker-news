@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-21, 20:02:29",
-      "https://news.ycombinator.com/item?id=42208021"
+      "2024-11-21, 19:08:37",
+      "https://news.ycombinator.com/item?id=42207535"
     ],
     [
-      "Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding",
-      "https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/"
+      "Could Humans Hibernate?",
+      "https://aeon.co/essays/how-animals-learned-to-hibernate-and-why-we-cant-do-it-yet"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Emacs Code Conversion Language",
       "https://emacsninja.com/posts/code-conversion-language.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 18:35:59",
-      "https://news.ycombinator.com/item?id=42207238"
-    ],
-    [
-      "14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years",
-      "https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Electrobun: Cross-platform desktop applications written in TypeScript",
       "https://electrobun.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 22:49:41",
+      "https://news.ycombinator.com/item?id=42198954"
+    ],
+    [
+      "Doxx/Darkflare: DarkFlare TCPoCDN (TCP over CDN)",
+      "https://github.com/doxx/darkflare"
     ]
   ],
   [
