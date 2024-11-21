@@ -75,6 +75,7 @@
 * [2024-11-15, 11:32:14](https://news.ycombinator.com/item?id=42145975) - [Recycled Server Components Bring More Sustainability](https://spectrum.ieee.org/server-reuse)
 * [2024-11-15, 11:26:18](https://news.ycombinator.com/item?id=42145935) - [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
 * [2024-11-15, 11:24:52](https://news.ycombinator.com/item?id=42145919) - [Scientists discover laser light can cast a shadow](https://phys.org/news/2024-11-scientists-laser-shadow.html)
+* [2024-11-15, 11:24:49](https://news.ycombinator.com/item?id=42145916) - [Recovering from Frozen Images in Squeak](https://news.squeak.org/2024/11/15/recovering-from-frozen-images-in-squeak/)
 * [2024-11-15, 11:13:25](https://news.ycombinator.com/item?id=42145835) - [Spatial Pixel: a new kind of social computing](https://spatialpixel.com)
 * [2024-11-15, 10:51:14](https://news.ycombinator.com/item?id=42145704) - [FlutterFlash - Ship your next Flutter app, at lightning speed](https://www.flutterfla.sh/)
 * [2024-11-15, 10:42:27](https://news.ycombinator.com/item?id=42145643) - [Arrested and Charged Because My 11yo Was Walking 1 Mile from Home](https://www.businessinsider.com/mom-arrested-after-tween-walked-mile-town-alone-2024-11)
