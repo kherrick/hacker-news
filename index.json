@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-22, 04:57:26",
+      "https://news.ycombinator.com/item?id=42211320"
+    ],
+    [
+      "Pidgin 3.0.0 Experimental 1 Announcement",
+      "https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 04:46:39",
       "https://news.ycombinator.com/item?id=42211280"
     ],
     [
       "Amazon S3 now supports the ability to append data to an object",
       "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 04:25:35",
+      "https://news.ycombinator.com/item?id=42211188"
+    ],
+    [
+      "The Birthday Paradox Experiment",
+      "https://pudding.cool/2018/04/birthday-paradox/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-11-21, 19:49:44",
-      "https://news.ycombinator.com/item?id=42207893"
-    ],
-    [
-      "Linux connection tracking and (Slow) DNS",
-      "https://kb.isc.org/docs/aa-01183"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 18:44:11",
       "https://news.ycombinator.com/item?id=42207304"
     ],
@@ -217,16 +227,6 @@
     [
       "The meme-ification of the \"Demon Core\"",
       "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 23:58:20",
-      "https://news.ycombinator.com/item?id=42199486"
-    ],
-    [
-      "Electrobun: Cross-platform desktop applications written in TypeScript",
-      "https://electrobun.dev/"
     ]
   ],
   [
