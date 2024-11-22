@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-22, 22:49:56](https://news.ycombinator.com/item?id=42218004) - [Wikipedia's Islamist Vandals](https://americandreaming.substack.com/p/wikipedias-islamist-vandals)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
-* [2024-11-22, 21:27:43](https://news.ycombinator.com/item?id=42217504) - [Ask HN: To those with successful browser extension(s), how did you grow it?](https://news.ycombinator.com/item?id=42217504)
 * [2024-11-22, 21:24:19](https://news.ycombinator.com/item?id=42217484) - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
-* [2024-11-22, 20:39:11](https://news.ycombinator.com/item?id=42217199) - [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
 * [2024-11-22, 19:30:21](https://news.ycombinator.com/item?id=42216694) - [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
@@ -28,6 +27,7 @@
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the “Demon Core”](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
+* [2024-11-18, 07:13:50](https://news.ycombinator.com/item?id=42170434) - [A brief history of Mac ports: low speed](https://eclecticlight.co/2024/11/16/a-brief-history-of-mac-ports-low-speed/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 

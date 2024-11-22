@@ -72,6 +72,7 @@
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
+* [2024-11-18, 07:13:50](https://news.ycombinator.com/item?id=42170434) - [A brief history of Mac ports: low speed](https://eclecticlight.co/2024/11/16/a-brief-history-of-mac-ports-low-speed/)
 * [2024-11-18, 07:10:35](https://news.ycombinator.com/item?id=42170423) - [Fortran II Hypersource](https://texdraft.github.io/fortran/fortran.html)
 * [2024-11-18, 06:53:33](https://news.ycombinator.com/item?id=42170356) - [Science Talk – What Are Pulsar Planets? (2022)](https://www.spaceaustralia.com/news/science-talk-what-are-pulsar-planets)
 * [2024-11-18, 06:38:22](https://news.ycombinator.com/item?id=42170281) - [Removing global state from LLD, the LLVM linker](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
