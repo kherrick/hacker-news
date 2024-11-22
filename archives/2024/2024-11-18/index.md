@@ -6,6 +6,7 @@
 
 * [2024-11-18, 23:04:51](https://news.ycombinator.com/item?id=42178130) - [Show HN: Venmo Unofficial API](https://github.com/Integuru-AI/Venmo-Unofficial-API)
 * [2024-11-18, 22:54:41](https://news.ycombinator.com/item?id=42178018) - [Finland and Germany on the severed undersea cable in the Baltic Sea](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685132)
+* [2024-11-18, 22:51:13](https://news.ycombinator.com/item?id=42177984) - [Rust traits are a local maxima](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
 * [2024-11-18, 22:24:07](https://news.ycombinator.com/item?id=42177767) - [DOJ Will Push Google to Sell Off Chrome to Break Search Monopoly](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly)
 * [2024-11-18, 22:06:46](https://news.ycombinator.com/item?id=42177641) - [Valve developers discuss why Half Life 2: Episode 3 was abandoned](https://arstechnica.com/gaming/2024/11/newell-says-he-was-stumped-on-how-to-finish-half-life-2-episode-3/)
 * [2024-11-18, 22:04:54](https://news.ycombinator.com/item?id=42177619) - [Scientific American's departing editor helped degrade science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
