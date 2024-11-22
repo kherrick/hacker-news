@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-22, 20:39:11](https://news.ycombinator.com/item?id=42217199) - [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
+* [2024-11-22, 21:24:19](https://news.ycombinator.com/item?id=42217484) - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
 * [2024-11-22, 19:30:21](https://news.ycombinator.com/item?id=42216694) - [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:31:03](https://news.ycombinator.com/item?id=42216217) - [MIT researchers develop an efficient way to train more reliable AI agents](https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122)
@@ -8,7 +8,7 @@
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
 * [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
-* [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
+* [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What made Dostoevsky's work immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
