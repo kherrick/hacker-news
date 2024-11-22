@@ -57,6 +57,7 @@
 * [2024-11-17, 07:42:08](https://news.ycombinator.com/item?id=42162622) - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 * [2024-11-17, 07:20:52](https://news.ycombinator.com/item?id=42162529) - [Show HN: Convolution Solver and Visualizer](https://convolution-solver.ybouane.com/)
 * [2024-11-17, 06:47:32](https://news.ycombinator.com/item?id=42162419) - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
+* [2024-11-17, 06:42:33](https://news.ycombinator.com/item?id=42162404) - [Writing Healthy Health-Checks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-17, 06:34:46](https://news.ycombinator.com/item?id=42162390) - [Phased Array](https://en.wikipedia.org/wiki/Phased_array)
 * [2024-11-17, 06:25:53](https://news.ycombinator.com/item?id=42162368) - [Contain – CSS Cascading Style Sheets – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
 * [2024-11-17, 05:51:44](https://news.ycombinator.com/item?id=42162271) - [Tiling with Three Polygons Is Undecidable](https://arxiv.org/abs/2409.11582)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-22, 00:13:00](https://news.ycombinator.com/item?id=42210022) - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
 * [2024-11-21, 22:18:57](https://news.ycombinator.com/item?id=42209272) - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
 * [2024-11-21, 21:44:29](https://news.ycombinator.com/item?id=42208992) - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-11-21, 21:41:41](https://news.ycombinator.com/item?id=42208964) - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
@@ -11,7 +12,6 @@
 * [2024-11-21, 19:49:44](https://news.ycombinator.com/item?id=42207893) - [Linux connection tracking and (Slow) DNS](https://kb.isc.org/docs/aa-01183)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
-* [2024-11-21, 18:12:16](https://news.ycombinator.com/item?id=42206990) - [Oxide Cuts Data Center Power Consumption in Half](https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half)
 * [2024-11-21, 18:08:09](https://news.ycombinator.com/item?id=42206955) - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
@@ -29,7 +29,7 @@
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
-* [2024-11-17, 10:36:39](https://news.ycombinator.com/item?id=42163302) - [Ask HN: Great maker projects for 8th grade kids and above?](https://news.ycombinator.com/item?id=42163302)
+* [2024-11-17, 06:42:33](https://news.ycombinator.com/item?id=42162404) - [Writing Healthy Health-Checks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 
 ## [Archives](archives/index.md)
 
