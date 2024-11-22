@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-22, 12:26:25",
-      "https://news.ycombinator.com/item?id=42213266"
-    ],
-    [
-      "Agent Graph System makes AI agents more reliable, gives them info step-by-step",
-      "https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 12:00:31",
       "https://news.ycombinator.com/item?id=42213110"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42212992"
     ],
     [
-      "A Camera the Size of a Grain of Salt Could Change Imaging as We Know It",
+      "A “meta-optics” camera that is the size of a single grain of salt",
       "https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"
     ]
   ],
@@ -37,6 +27,26 @@
     [
       "The Tao of Topic Maps (2000)",
       "https://ontopia.net/topicmaps/materials/tao.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 04:25:35",
+      "https://news.ycombinator.com/item?id=42211188"
+    ],
+    [
+      "The Birthday Paradox Experiment",
+      "https://pudding.cool/2018/04/birthday-paradox/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 02:54:15",
+      "https://news.ycombinator.com/item?id=42210728"
+    ],
+    [
+      "Truly portable C applications",
+      "https://lwn.net/Articles/997238/"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-11-21, 20:02:08",
-      "https://news.ycombinator.com/item?id=42208015"
-    ],
-    [
-      "Discharging Lean goals into SMT solvers",
-      "https://github.com/ufmg-smite/lean-smt"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 18:44:11",
       "https://news.ycombinator.com/item?id=42207304"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42207282"
     ],
     [
-      "Emacs Code Conversion Language",
+      "Code Conversion Language (2019)",
       "https://emacsninja.com/posts/code-conversion-language.html"
     ]
   ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2024-11-19, 10:48:49",
-      "https://news.ycombinator.com/item?id=42182047"
+      "2024-11-19, 10:58:48",
+      "https://news.ycombinator.com/item?id=42182113"
     ],
     [
-      "Is Python That Slow?",
-      "https://blog.miguelgrinberg.com/post/is-python-really-that-slow"
+      "A C++ Mixin System",
+      "https://jennyjams.net/blog/cpp-mixin/"
     ]
   ],
   [
