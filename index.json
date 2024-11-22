@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-11-22, 04:38:57",
-      "https://news.ycombinator.com/item?id=42211248"
-    ],
-    [
-      "OpenAI Challenges Google",
-      "https://rudo.tel/openai-considers-taking-on-google-with-browser-the-information/"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 04:25:35",
       "https://news.ycombinator.com/item?id=42211188"
     ],
@@ -237,6 +227,16 @@
     [
       "Software-defined (Internet) radio with Liquidsoap (2023)",
       "https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 07:38:13",
+      "https://news.ycombinator.com/item?id=42180872"
+    ],
+    [
+      "A Walk with LuaJIT",
+      "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
     ]
   ],
   [
