@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-22, 09:59:23",
+      "https://news.ycombinator.com/item?id=42212520"
+    ],
+    [
+      "IBM Quantum delivers on 2022 100x100 performance challenge",
+      "https://www.ibm.com/quantum/blog/qdc-2024"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 07:00:41",
       "https://news.ycombinator.com/item?id=42211719"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-11-22, 02:12:26",
+      "https://news.ycombinator.com/item?id=42210553"
+    ],
+    [
+      "Tailwind CSS v4.0 Beta 1",
+      "https://tailwindcss.com/blog/tailwindcss-v4-beta"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 02:07:03",
       "https://news.ycombinator.com/item?id=42210528"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-11-21, 18:41:32",
-      "https://news.ycombinator.com/item?id=42207282"
-    ],
-    [
-      "Emacs Code Conversion Language",
-      "https://emacsninja.com/posts/code-conversion-language.html"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 18:08:09",
       "https://news.ycombinator.com/item?id=42206955"
     ],
@@ -187,16 +197,6 @@
     [
       "PHP 8.4",
       "https://www.php.net/releases/8.4/en.php"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 07:12:35",
-      "https://news.ycombinator.com/item?id=42201892"
-    ],
-    [
-      "Hyrum's Law in Golang",
-      "https://abenezer.org/blog/hyrum-law-in-golang"
     ]
   ],
   [
