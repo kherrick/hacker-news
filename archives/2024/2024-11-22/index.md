@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What Made Dostoevsky's Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:12:53](https://news.ycombinator.com/item?id=42213560) - [Toddler's backyard snake bite bills totaled more than a quarter-million dollars](https://www.sandiegouniontribune.com/2024/11/20/san-diego-toddlers-backyard-snake-bite-bills-totaled-more-than-a-quarter-million-dollars/)
 * [2024-11-22, 12:55:23](https://news.ycombinator.com/item?id=42213433) - [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)
@@ -14,6 +15,7 @@
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
 * [2024-11-22, 10:43:59](https://news.ycombinator.com/item?id=42212703) - [The first close-up picture of a star outside our own galaxy](https://www.eso.org/public/images/eso2417a/)
+* [2024-11-22, 10:43:04](https://news.ycombinator.com/item?id=42212700) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 * [2024-11-22, 09:59:23](https://news.ycombinator.com/item?id=42212520) - [IBM Quantum delivers on 2022 100x100 performance challenge](https://www.ibm.com/quantum/blog/qdc-2024)
 * [2024-11-22, 09:57:45](https://news.ycombinator.com/item?id=42212512) - [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
