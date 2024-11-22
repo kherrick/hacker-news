@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
 * [2024-11-22, 02:42:36](https://news.ycombinator.com/item?id=42210690) - [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
+* [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 * [2024-11-22, 02:19:26](https://news.ycombinator.com/item?id=42210593) - [Ask HN: Is uBlock Origin removed from Chrome extension?](https://news.ycombinator.com/item?id=42210593)
 * [2024-11-22, 02:14:55](https://news.ycombinator.com/item?id=42210563) - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
 * [2024-11-22, 02:13:54](https://news.ycombinator.com/item?id=42210560) - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
