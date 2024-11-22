@@ -49,6 +49,7 @@
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
 * [2024-11-19, 12:55:38](https://news.ycombinator.com/item?id=42182897) - [Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
+* [2024-11-19, 12:25:31](https://news.ycombinator.com/item?id=42182680) - [Java 24 to Reduce Object Header Size and Save Memory](https://www.infoq.com/news/2024/11/compact-headers-java24/)
 * [2024-11-19, 12:08:57](https://news.ycombinator.com/item?id=42182557) - [Software-defined (Internet) radio with Liquidsoap (2023)](https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap)
 * [2024-11-19, 12:03:02](https://news.ycombinator.com/item?id=42182519) - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 * [2024-11-19, 12:01:01](https://news.ycombinator.com/item?id=42182503) - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
