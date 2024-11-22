@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+* [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
+* [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What Made Dostoevsky's Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 14:59:06](https://news.ycombinator.com/item?id=42214319) - [Why so many families are \"drowning in toys\"](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
