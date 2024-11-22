@@ -29,6 +29,7 @@
 * [2024-11-14, 17:17:43](https://news.ycombinator.com/item?id=42138476) - [Guys Hacked AirPods to Give Their Grandmas Hearing Aids](https://www.wired.com/story/apple-airpods-hearing-aid-hack/)
 * [2024-11-14, 17:12:01](https://news.ycombinator.com/item?id=42138384) - [How AI is beating VCs in their own game](https://arxiv.org/abs/2411.08257)
 * [2024-11-14, 17:07:43](https://news.ycombinator.com/item?id=42138319) - [AI Progress Stalls as OpenAI, Google and Anthropic Hit Roadblocks](https://www.nasdaq.com/articles/ai-progress-stalls-openai-google-and-anthropic-hit-roadblocks)
+* [2024-11-14, 17:07:18](https://news.ycombinator.com/item?id=42138313) - [The Surprising Social Lives of Pythons](https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html)
 * [2024-11-14, 17:05:40](https://news.ycombinator.com/item?id=42138289) - [Something weird is happening with LLMs and chess](https://dynomight.substack.com/p/chess)
 * [2024-11-14, 17:04:41](https://news.ycombinator.com/item?id=42138276) - [Something weird is happening with LLMs and Chess](https://dynomight.net/chess/)
 * [2024-11-14, 17:01:07](https://news.ycombinator.com/item?id=42138233) - [MindsDB (YC W20) Is Hiring an Operations Analyst](https://grnh.se/e9445a887us)

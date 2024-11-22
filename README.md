@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What Made Dostoevsky's Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
+* [2024-11-22, 14:59:06](https://news.ycombinator.com/item?id=42214319) - [Why so many families are \"drowning in toys\"](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 12:52:06](https://news.ycombinator.com/item?id=42213412) - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
@@ -22,12 +23,11 @@
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the “Demon Core”](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
-* [2024-11-18, 22:51:13](https://news.ycombinator.com/item?id=42177984) - [Traits are a local maximum](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
-* [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-15, 12:41:37](https://news.ycombinator.com/item?id=42146371) - [Show HN: OnePageGA – Simple dashboard for GA4 like Plausible](https://onepagega.com)
 * [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
+* [2024-11-14, 17:07:18](https://news.ycombinator.com/item?id=42138313) - [The Surprising Social Lives of Pythons](https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html)
 * [2024-11-14, 11:05:58](https://news.ycombinator.com/item?id=42135059) - [Fun with Logitech MX900 Bluetooth receivers (2006)](http://www.nynaeve.net/?p=5)
 * [2024-11-13, 17:10:26](https://news.ycombinator.com/item?id=42127895) - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study)
 
