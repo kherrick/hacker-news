@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-22, 13:27:12",
+      "https://news.ycombinator.com/item?id=42213663"
+    ],
+    [
+      "Salmon return to lay eggs in historic habitat after dam removal project",
+      "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 12:52:06",
+      "https://news.ycombinator.com/item?id=42213412"
+    ],
+    [
+      "Do Large Language Models learn world models or just surface statistics? (2023)",
+      "https://thegradient.pub/othello/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 12:35:30",
       "https://news.ycombinator.com/item?id=42213322"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-11-22, 04:25:35",
-      "https://news.ycombinator.com/item?id=42211188"
-    ],
-    [
-      "The Birthday Paradox Experiment",
-      "https://pudding.cool/2018/04/birthday-paradox/"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 02:42:14",
       "https://news.ycombinator.com/item?id=42210689"
     ],
@@ -81,12 +91,32 @@
   ],
   [
     [
+      "2024-11-22, 02:22:06",
+      "https://news.ycombinator.com/item?id=42210605"
+    ],
+    [
+      "Key Transparency and the Right to Be Forgotten",
+      "https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 02:07:03",
       "https://news.ycombinator.com/item?id=42210528"
     ],
     [
       "Mechanically strong yet metabolizable plastic breaks down in seawater",
       "https://www.science.org/doi/abs/10.1126/science.ado1782?af=R"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 22:18:57",
+      "https://news.ycombinator.com/item?id=42209272"
+    ],
+    [
+      "What's Next for WebGPU",
+      "https://developer.chrome.com/blog/next-for-webgpu"
     ]
   ],
   [
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=42201892"
     ],
     [
-      "Hyrum's Law in Golang",
+      "Hyrum’s Law in Golang",
       "https://abenezer.org/blog/hyrum-law-in-golang"
     ]
   ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-11-19, 07:38:13",
-      "https://news.ycombinator.com/item?id=42180872"
-    ],
-    [
-      "A Walk with LuaJIT",
-      "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 22:51:13",
       "https://news.ycombinator.com/item?id=42177984"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-11-18, 13:57:04",
-      "https://news.ycombinator.com/item?id=42172306"
-    ],
-    [
-      "The Ancients Had Ops",
-      "https://reedmeyerson.com/posts/ancient_ops/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 13:11:50",
       "https://news.ycombinator.com/item?id=42172015"
     ],
@@ -257,16 +267,6 @@
     [
       "Interactive Visual Sorting",
       "https://mszula.github.io/visual-sorting/"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 04:22:20",
-      "https://news.ycombinator.com/item?id=42154179"
-    ],
-    [
-      "Fear, Friendship and the Channel Tunnel",
-      "https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel"
     ]
   ],
   [
