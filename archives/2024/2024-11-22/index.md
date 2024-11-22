@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 04:46:39](https://news.ycombinator.com/item?id=42211280) - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
 * [2024-11-22, 02:42:36](https://news.ycombinator.com/item?id=42210690) - [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 * [2024-11-22, 02:19:26](https://news.ycombinator.com/item?id=42210593) - [Ask HN: Is uBlock Origin removed from Chrome extension?](https://news.ycombinator.com/item?id=42210593)
 * [2024-11-22, 02:14:55](https://news.ycombinator.com/item?id=42210563) - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
 * [2024-11-22, 02:13:54](https://news.ycombinator.com/item?id=42210560) - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
 * [2024-11-22, 02:12:26](https://news.ycombinator.com/item?id=42210553) - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
+* [2024-11-22, 02:07:03](https://news.ycombinator.com/item?id=42210528) - [Mechanically strong yet metabolizable plastic breaks down in seawater](https://www.science.org/doi/abs/10.1126/science.ado1782?af=R)
 * [2024-11-22, 01:52:49](https://news.ycombinator.com/item?id=42210479) - [U.S. women are outpacing men in college completion in every major group](https://www.pewresearch.org/short-reads/2024/11/18/us-women-are-outpacing-men-in-college-completion-including-in-every-major-racial-and-ethnic-group/)
 * [2024-11-22, 00:13:00](https://news.ycombinator.com/item?id=42210022) - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
