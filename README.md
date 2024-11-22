@@ -2,6 +2,7 @@
 
 * [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
 * [2024-11-22, 06:53:55](https://news.ycombinator.com/item?id=42211689) - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
+* [2024-11-22, 06:52:35](https://news.ycombinator.com/item?id=42211685) - [The Tao of Topic Maps (2000)](https://ontopia.net/topicmaps/materials/tao.html)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
 * [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
 * [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
@@ -20,14 +21,13 @@
 * [2024-11-21, 17:55:06](https://news.ycombinator.com/item?id=42206817) - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4](https://www.php.net/releases/8.4/en.php)
-* [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
-* [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 12:08:57](https://news.ycombinator.com/item?id=42182557) - [Software-defined (Internet) radio with Liquidsoap (2023)](https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
 * [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-16, 04:22:20](https://news.ycombinator.com/item?id=42154179) - [Fear, Friendship and the Channel Tunnel](https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel)
+* [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 * [2024-11-14, 11:05:58](https://news.ycombinator.com/item?id=42135059) - [Fun with Logitech MX900 Bluetooth receivers (2006)](http://www.nynaeve.net/?p=5)
 * [2024-11-13, 17:10:26](https://news.ycombinator.com/item?id=42127895) - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study)
 
