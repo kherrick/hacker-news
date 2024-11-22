@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-22, 20:22:53](https://news.ycombinator.com/item?id=42217095) - [Texas Opens Investigation into Conspiracy to Boycott Certain Social Platforms](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-possible-conspiracy-advertising-companies-boycott)
+* [2024-11-22, 20:39:11](https://news.ycombinator.com/item?id=42217199) - [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
 * [2024-11-22, 19:30:21](https://news.ycombinator.com/item?id=42216694) - [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:31:03](https://news.ycombinator.com/item?id=42216217) - [MIT researchers develop an efficient way to train more reliable AI agents](https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122)
