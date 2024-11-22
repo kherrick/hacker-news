@@ -6,6 +6,7 @@
 
 * [2024-11-22, 06:30:48](https://news.ycombinator.com/item?id=42211616) - [AI eats the world](https://www.ben-evans.com/presentations)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
+* [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
 * [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 04:46:39](https://news.ycombinator.com/item?id=42211280) - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
 * [2024-11-22, 04:25:35](https://news.ycombinator.com/item?id=42211188) - [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)

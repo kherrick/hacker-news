@@ -2,6 +2,7 @@
 
 * [2024-11-22, 06:30:48](https://news.ycombinator.com/item?id=42211616) - [AI eats the world](https://www.ben-evans.com/presentations)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
+* [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
 * [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 04:46:39](https://news.ycombinator.com/item?id=42211280) - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
 * [2024-11-22, 04:25:35](https://news.ycombinator.com/item?id=42211188) - [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
@@ -21,14 +22,13 @@
 * [2024-11-21, 17:55:06](https://news.ycombinator.com/item?id=42206817) - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4](https://www.php.net/releases/8.4/en.php)
-* [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 12:08:57](https://news.ycombinator.com/item?id=42182557) - [Software-defined (Internet) radio with Liquidsoap (2023)](https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap)
-* [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-16, 04:22:20](https://news.ycombinator.com/item?id=42154179) - [Fear, Friendship and the Channel Tunnel](https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel)
+* [2024-11-14, 11:05:58](https://news.ycombinator.com/item?id=42135059) - [Fun with Logitech MX900 Bluetooth receivers (2006)](http://www.nynaeve.net/?p=5)
 * [2024-11-13, 17:10:26](https://news.ycombinator.com/item?id=42127895) - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study)
 
 ## [Archives](archives/index.md)
