@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
 * [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
+* [2024-11-22, 06:53:55](https://news.ycombinator.com/item?id=42211689) - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
 * [2024-11-22, 06:30:48](https://news.ycombinator.com/item?id=42211616) - [AI eats the world](https://www.ben-evans.com/presentations)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
 * [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
