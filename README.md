@@ -10,6 +10,7 @@
 * [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
+* [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What made Dostoevsky's work immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
@@ -27,7 +28,6 @@
 * [2024-11-20, 07:55:49](https://news.ycombinator.com/item?id=42191679) - [Latest graphics driver for your Surface devices powered by Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/11/upgrade-latest-graphics-driver-for-snapdragon-x-elite-devices)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
-* [2024-11-15, 12:41:37](https://news.ycombinator.com/item?id=42146371) - [Show HN: OnePageGA – Simple dashboard for GA4 like Plausible](https://onepagega.com)
 * [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 * [2024-11-14, 17:07:18](https://news.ycombinator.com/item?id=42138313) - [The Surprising Social Lives of Pythons](https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html)
 
