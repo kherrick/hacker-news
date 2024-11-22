@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
-* [2024-11-22, 06:30:48](https://news.ycombinator.com/item?id=42211616) - [AI eats the world](https://www.ben-evans.com/presentations)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
 * [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
 * [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
@@ -26,6 +25,7 @@
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 12:08:57](https://news.ycombinator.com/item?id=42182557) - [Software-defined (Internet) radio with Liquidsoap (2023)](https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
+* [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
 * [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-16, 04:22:20](https://news.ycombinator.com/item?id=42154179) - [Fear, Friendship and the Channel Tunnel](https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel)
 * [2024-11-14, 11:05:58](https://news.ycombinator.com/item?id=42135059) - [Fun with Logitech MX900 Bluetooth receivers (2006)](http://www.nynaeve.net/?p=5)
