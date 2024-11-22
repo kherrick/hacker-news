@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 13:12:53](https://news.ycombinator.com/item?id=42213560) - [Toddler's backyard snake bite bills totaled more than a quarter-million dollars](https://www.sandiegouniontribune.com/2024/11/20/san-diego-toddlers-backyard-snake-bite-bills-totaled-more-than-a-quarter-million-dollars/)
+* [2024-11-22, 12:55:23](https://news.ycombinator.com/item?id=42213433) - [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)
+* [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
 * [2024-11-22, 12:00:31](https://news.ycombinator.com/item?id=42213110) - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:43:59](https://news.ycombinator.com/item?id=42212703) - [The first close-up picture of a star outside our own galaxy](https://www.eso.org/public/images/eso2417a/)
+* [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 * [2024-11-22, 09:59:23](https://news.ycombinator.com/item?id=42212520) - [IBM Quantum delivers on 2022 100x100 performance challenge](https://www.ibm.com/quantum/blog/qdc-2024)
 * [2024-11-22, 09:57:45](https://news.ycombinator.com/item?id=42212512) - [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
+* [2024-11-22, 09:33:53](https://news.ycombinator.com/item?id=42212412) - [FaSTer Atari ST Digital Magazine – By Paul Lefebvre](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
 * [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
 * [2024-11-22, 06:53:55](https://news.ycombinator.com/item?id=42211689) - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
 * [2024-11-22, 06:52:35](https://news.ycombinator.com/item?id=42211685) - [The Tao of Topic Maps (2000)](https://ontopia.net/topicmaps/materials/tao.html)
