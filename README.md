@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
@@ -24,7 +25,6 @@
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
-* [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-15, 12:41:37](https://news.ycombinator.com/item?id=42146371) - [Show HN: OnePageGA – Simple dashboard for GA4 like Plausible](https://onepagega.com)
 * [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 * [2024-11-14, 17:07:18](https://news.ycombinator.com/item?id=42138313) - [The Surprising Social Lives of Pythons](https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html)
