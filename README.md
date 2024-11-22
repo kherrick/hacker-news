@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-22, 19:30:21](https://news.ycombinator.com/item?id=42216694) - [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:31:03](https://news.ycombinator.com/item?id=42216217) - [MIT researchers develop an efficient way to train more reliable AI agents](https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
@@ -11,7 +12,6 @@
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A “meta-optics” camera that is the size of a grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
-* [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 * [2024-11-22, 09:33:53](https://news.ycombinator.com/item?id=42212412) - [FaSTer: Atari ST Digital Magazine](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
 * [2024-11-22, 08:21:39](https://news.ycombinator.com/item?id=42212071) - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
