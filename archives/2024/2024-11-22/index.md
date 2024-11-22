@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:12:53](https://news.ycombinator.com/item?id=42213560) - [Toddler's backyard snake bite bills totaled more than a quarter-million dollars](https://www.sandiegouniontribune.com/2024/11/20/san-diego-toddlers-backyard-snake-bite-bills-totaled-more-than-a-quarter-million-dollars/)
 * [2024-11-22, 12:55:23](https://news.ycombinator.com/item?id=42213433) - [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)
+* [2024-11-22, 12:52:06](https://news.ycombinator.com/item?id=42213412) - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
 * [2024-11-22, 12:00:31](https://news.ycombinator.com/item?id=42213110) - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
@@ -29,6 +31,7 @@
 * [2024-11-22, 02:54:15](https://news.ycombinator.com/item?id=42210728) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 02:42:36](https://news.ycombinator.com/item?id=42210690) - [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+* [2024-11-22, 02:22:06](https://news.ycombinator.com/item?id=42210605) - [Key Transparency and the Right to Be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
 * [2024-11-22, 02:19:26](https://news.ycombinator.com/item?id=42210593) - [Ask HN: Is uBlock Origin removed from Chrome extension?](https://news.ycombinator.com/item?id=42210593)
 * [2024-11-22, 02:14:55](https://news.ycombinator.com/item?id=42210563) - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
 * [2024-11-22, 02:13:54](https://news.ycombinator.com/item?id=42210560) - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
