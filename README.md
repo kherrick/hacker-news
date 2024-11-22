@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 21:27:43](https://news.ycombinator.com/item?id=42217504) - [Ask HN: To those with successful browser extension(s), how did you grow it?](https://news.ycombinator.com/item?id=42217504)
 * [2024-11-22, 21:24:19](https://news.ycombinator.com/item?id=42217484) - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
 * [2024-11-22, 20:39:11](https://news.ycombinator.com/item?id=42217199) - [Introducing Sill: Aggregate popular links on BlueSky and Mastodon](https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill)
@@ -13,7 +14,6 @@
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What made Dostoevsky's work immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
-* [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A “meta-optics” camera that is the size of a grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
