@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-22, 21:27:43",
+      "https://news.ycombinator.com/item?id=42217504"
+    ],
+    [
+      "Ask HN: To those with successful browser extension(s), how did you grow it?",
+      "https://news.ycombinator.com/item?id=42217504"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 21:24:19",
       "https://news.ycombinator.com/item?id=42217484"
     ],
     [
       "Against the Dark Forest",
       "https://www.wrecka.ge/against-the-dark-forest/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 20:39:11",
+      "https://news.ycombinator.com/item?id=42217199"
+    ],
+    [
+      "Introducing Sill: Aggregate popular links on BlueSky and Mastodon",
+      "https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Translating My Grandfather's Biograpy",
       "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 18:31:03",
-      "https://news.ycombinator.com/item?id=42216217"
-    ],
-    [
-      "MIT researchers develop an efficient way to train more reliable AI agents",
-      "https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-11-22, 13:23:28",
-      "https://news.ycombinator.com/item?id=42213639"
-    ],
-    [
-      "Runtime-Extensible SQL Parsers Using Peg",
-      "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 12:35:30",
       "https://news.ycombinator.com/item?id=42213322"
     ],
@@ -147,6 +147,16 @@
     [
       "A “meta-optics” camera that is the size of a grain of salt",
       "https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 10:58:25",
+      "https://news.ycombinator.com/item?id=42212785"
+    ],
+    [
+      "Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)",
+      "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-11-21, 03:05:56",
-      "https://news.ycombinator.com/item?id=42200699"
-    ],
-    [
-      "The meme-ification of the “Demon Core”",
-      "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 07:55:49",
       "https://news.ycombinator.com/item?id=42191679"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-11-17, 13:30:29",
+      "https://news.ycombinator.com/item?id=42164107"
+    ],
+    [
+      "Nash equilibria in Ballmer's binary-search interview game",
+      "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 10:56:21",
       "https://news.ycombinator.com/item?id=42145735"
     ],
     [
       "NeuralDEM – Real-Time Simulation of Industrial Particulate Flows",
       "https://nx-ai.github.io/NeuralDEM/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 17:07:18",
-      "https://news.ycombinator.com/item?id=42138313"
-    ],
-    [
-      "The Surprising Social Lives of Pythons",
-      "https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html"
     ]
   ]
 ]
