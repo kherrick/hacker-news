@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-22, 02:12:26",
+      "https://news.ycombinator.com/item?id=42210553"
+    ],
+    [
+      "Tailwind CSS v4.0 Beta 1",
+      "https://tailwindcss.com/blog/tailwindcss-v4-beta"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 01:52:49",
+      "https://news.ycombinator.com/item?id=42210479"
+    ],
+    [
+      "U.S. women are outpacing men in college completion in every major group",
+      "https://www.pewresearch.org/short-reads/2024/11/18/us-women-are-outpacing-men-in-college-completion-including-in-every-major-racial-and-ethnic-group/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 00:13:00",
       "https://news.ycombinator.com/item?id=42210022"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-11-21, 12:13:17",
-      "https://news.ycombinator.com/item?id=42203543"
-    ],
-    [
-      "ICC issues warrants for Netanyahu, Gallant, and Hamas officials",
-      "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 09:56:52",
       "https://news.ycombinator.com/item?id=42202670"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2024-11-21, 04:26:16",
-      "https://news.ycombinator.com/item?id=42201117"
-    ],
-    [
-      "The Matrix: Infinite-Horizon World Generation with Real-Time Interaction",
-      "https://thematrix1999.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 03:05:56",
       "https://news.ycombinator.com/item?id=42200699"
     ],
     [
       "The meme-ification of the \"Demon Core\"",
       "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 01:30:07",
-      "https://news.ycombinator.com/item?id=42200099"
-    ],
-    [
-      "Show HN: We open-sourced our compost monitoring tech",
-      "https://github.com/gtls64/MontyHome-Hackers-Guide"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A Walk with LuaJIT",
       "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 06:19:48",
+      "https://news.ycombinator.com/item?id=42180516"
+    ],
+    [
+      "Batched reward model inference and Best-of-N sampling",
+      "https://raw.sh/posts/easy_reward_model_inference"
     ]
   ],
   [
