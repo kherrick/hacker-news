@@ -11,6 +11,7 @@
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
+* [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A “meta-optics” camera that is the size of a grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
@@ -29,7 +30,6 @@
 * [2024-11-15, 12:41:37](https://news.ycombinator.com/item?id=42146371) - [Show HN: OnePageGA – Simple dashboard for GA4 like Plausible](https://onepagega.com)
 * [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 * [2024-11-14, 17:07:18](https://news.ycombinator.com/item?id=42138313) - [The Surprising Social Lives of Pythons](https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html)
-* [2024-11-13, 17:10:26](https://news.ycombinator.com/item?id=42127895) - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study)
 
 ## [Archives](archives/index.md)
 
