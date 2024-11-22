@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 10:43:59](https://news.ycombinator.com/item?id=42212703) - [The first close-up picture of a star outside our own galaxy](https://www.eso.org/public/images/eso2417a/)
 * [2024-11-22, 09:59:23](https://news.ycombinator.com/item?id=42212520) - [IBM Quantum delivers on 2022 100x100 performance challenge](https://www.ibm.com/quantum/blog/qdc-2024)
 * [2024-11-22, 09:57:45](https://news.ycombinator.com/item?id=42212512) - [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
 * [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
