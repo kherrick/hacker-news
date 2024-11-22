@@ -10,6 +10,7 @@
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+* [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-22, 16:48:15](https://news.ycombinator.com/item?id=42215343) - [Turning automotive engines into modular chemical plants to make green fuels](https://news.mit.edu/2024/emvolon-turns-automotive-engines-into-green-fuel-chemical-plants-1119)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)

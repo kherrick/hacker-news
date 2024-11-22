@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
-* [2024-11-22, 17:54:27](https://news.ycombinator.com/item?id=42215918) - [Writing efficient unit tests in Java](https://www.qodo.ai/blog/writing-efficient-unit-tests-in-java-best-practices-and-examples/)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+* [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic, OpenAI's biggest rival](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
