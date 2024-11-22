@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-11-22, 13:23:28",
+      "https://news.ycombinator.com/item?id=42213639"
+    ],
+    [
+      "Runtime-Extensible SQL Parsers Using Peg",
+      "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 12:35:30",
       "https://news.ycombinator.com/item?id=42213322"
     ],
@@ -287,16 +297,6 @@
     [
       "The Surprising Social Lives of Pythons",
       "https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 17:10:26",
-      "https://news.ycombinator.com/item?id=42127895"
-    ],
-    [
-      "Machiavelli and the Emergence of the Private Study",
-      "https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study"
     ]
   ]
 ]
