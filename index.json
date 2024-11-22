@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-22, 07:00:41",
-      "https://news.ycombinator.com/item?id=42211719"
+      "2024-11-22, 12:26:25",
+      "https://news.ycombinator.com/item?id=42213266"
     ],
     [
-      "Windmill hiring Senior Frontend (Svelte) Engineer in Paris",
-      "https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer"
+      "Agent Graph System makes AI agents more reliable, gives them info step-by-step",
+      "https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 12:00:31",
+      "https://news.ycombinator.com/item?id=42213110"
+    ],
+    [
+      "Fern Is Hiring Software Engineers in Brooklyn",
+      "https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 11:39:53",
+      "https://news.ycombinator.com/item?id=42212992"
+    ],
+    [
+      "A Camera the Size of a Grain of Salt Could Change Imaging as We Know It",
+      "https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "WhisperNER: Unified Open Named Entity and Speech Recognition",
       "https://arxiv.org/abs/2409.08107"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 21:29:20",
-      "https://news.ycombinator.com/item?id=42208850"
-    ],
-    [
-      "Autopoietic Networks",
-      "https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Hyrum's Law in Golang",
       "https://abenezer.org/blog/hyrum-law-in-golang"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 04:26:16",
-      "https://news.ycombinator.com/item?id=42201117"
-    ],
-    [
-      "The Matrix: Infinite-Horizon World Generation with Real-Time Interaction",
-      "https://thematrix1999.github.io/"
     ]
   ],
   [
