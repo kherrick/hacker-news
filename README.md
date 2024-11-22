@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
-* [2024-11-22, 02:14:55](https://news.ycombinator.com/item?id=42210563) - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
 * [2024-11-22, 02:13:54](https://news.ycombinator.com/item?id=42210560) - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
 * [2024-11-22, 02:12:26](https://news.ycombinator.com/item?id=42210553) - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
 * [2024-11-22, 00:13:00](https://news.ycombinator.com/item?id=42210022) - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
@@ -13,6 +12,7 @@
 * [2024-11-21, 20:57:30](https://news.ycombinator.com/item?id=42208580) - [Security researchers identify new malware targeting Linux](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 20:02:08](https://news.ycombinator.com/item?id=42208015) - [Discharging Lean goals into SMT solvers](https://github.com/ufmg-smite/lean-smt)
+* [2024-11-21, 19:49:44](https://news.ycombinator.com/item?id=42207893) - [Linux connection tracking and (Slow) DNS](https://kb.isc.org/docs/aa-01183)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-21, 18:41:32](https://news.ycombinator.com/item?id=42207282) - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
 * [2024-11-21, 18:08:09](https://news.ycombinator.com/item?id=42206955) - [Listen to the whispers: web timing attacks that work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
