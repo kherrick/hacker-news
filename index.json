@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-22, 07:00:41",
+      "https://news.ycombinator.com/item?id=42211719"
+    ],
+    [
+      "Windmill Hiring Senior Front End (Svelte) Engineer in Paris",
+      "https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 06:30:48",
       "https://news.ycombinator.com/item?id=42211616"
     ],
@@ -47,6 +57,16 @@
     [
       "Amazon S3 now supports the ability to append data to an object",
       "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 04:38:57",
+      "https://news.ycombinator.com/item?id=42211248"
+    ],
+    [
+      "OpenAI Challenges Google",
+      "https://rudo.tel/openai-considers-taking-on-google-with-browser-the-information/"
     ]
   ],
   [
@@ -101,42 +121,12 @@
   ],
   [
     [
-      "2024-11-21, 22:18:57",
-      "https://news.ycombinator.com/item?id=42209272"
-    ],
-    [
-      "What's Next for WebGPU",
-      "https://developer.chrome.com/blog/next-for-webgpu"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 21:44:29",
-      "https://news.ycombinator.com/item?id=42208992"
-    ],
-    [
-      "Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers",
-      "https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 21:41:41",
       "https://news.ycombinator.com/item?id=42208964"
     ],
     [
       "WhisperNER: Unified Open Named Entity and Speech Recognition",
       "https://arxiv.org/abs/2409.08107"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 21:40:20",
-      "https://news.ycombinator.com/item?id=42208952"
-    ],
-    [
-      "A Study of Malware Prevention in Linux Distributions",
-      "https://arxiv.org/abs/2411.11017"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "PHP 8.4",
       "https://www.php.net/releases/8.4/en.php"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 07:12:35",
+      "https://news.ycombinator.com/item?id=42201892"
+    ],
+    [
+      "Hyrum's Law in Golang",
+      "https://abenezer.org/blog/hyrum-law-in-golang"
     ]
   ],
   [
