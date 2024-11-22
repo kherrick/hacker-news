@@ -20,7 +20,6 @@
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling cookies is a minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4](https://www.php.net/releases/8.4/en.php)
-* [2024-11-21, 07:24:41](https://news.ycombinator.com/item?id=42201936) - [A binary tree of all Pythagorean triples](https://richardt.io/stereo_stern/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
@@ -29,6 +28,7 @@
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 09:57:04](https://news.ycombinator.com/item?id=42171096) - [Interactive Visual Sorting](https://mszula.github.io/visual-sorting/)
+* [2024-11-16, 04:22:20](https://news.ycombinator.com/item?id=42154179) - [Fear, Friendship and the Channel Tunnel](https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel)
 * [2024-11-13, 17:10:26](https://news.ycombinator.com/item?id=42127895) - [Machiavelli and the Emergence of the Private Study](https://publicdomainreview.org/essay/machiavelli-and-the-emergence-of-the-private-study)
 
 ## [Archives](archives/index.md)

@@ -60,6 +60,7 @@
 * [2024-11-16, 04:57:44](https://news.ycombinator.com/item?id=42154410) - [Llama-OCR: An Open-Source Llama 3.2 Based OCR Tool](https://llamaocr.com/)
 * [2024-11-16, 04:47:10](https://news.ycombinator.com/item?id=42154355) - [Caltrain's electrification project is paying off](https://www.sfgate.com/travel/article/caltrain-electrification-project-paying-off-19917422.php)
 * [2024-11-16, 04:40:54](https://news.ycombinator.com/item?id=42154311) - [A basic introduction to the classfile API in Java](https://ifesunmola.com/a-basic-introduction-to-the-classfile-api/)
+* [2024-11-16, 04:22:20](https://news.ycombinator.com/item?id=42154179) - [Fear, Friendship and the Channel Tunnel](https://www.historytoday.com/archive/behind-times/fear-friendship-and-channel-tunnel)
 * [2024-11-16, 03:42:05](https://news.ycombinator.com/item?id=42153953) - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
 * [2024-11-16, 03:20:58](https://news.ycombinator.com/item?id=42153856) - [ActivityPub over ATProto](https://berjon.com/ap-at/)
 * [2024-11-16, 03:06:29](https://news.ycombinator.com/item?id=42153789) - [Qualcomm RISCs, Arm Pulls: The Legal Battle for the Future of Client Computing](https://thechipletter.substack.com/p/qualcomm-riscs-arm-pulls-the-legal)
