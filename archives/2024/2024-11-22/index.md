@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:33:09](https://news.ycombinator.com/item?id=42216230) - [DoD Adjusts Nuclear Deterrence Strategy as Nuclear Peer Adversaries Escalate](https://www.defense.gov/News/News-Stories/Article/Article/3975117/dod-adjusts-nuclear-deterrence-strategy-as-nuclear-peer-adversaries-escalate/)
+* [2024-11-22, 17:54:27](https://news.ycombinator.com/item?id=42215918) - [Writing efficient unit tests in Java](https://www.qodo.ai/blog/writing-efficient-unit-tests-in-java-best-practices-and-examples/)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
