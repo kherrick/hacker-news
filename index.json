@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-22, 20:39:11",
-      "https://news.ycombinator.com/item?id=42217199"
-    ],
-    [
-      "Introducing Sill: Aggregate popular links on BlueSky and Mastodon",
-      "https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 18:43:36",
       "https://news.ycombinator.com/item?id=42216311"
     ],
@@ -127,6 +117,16 @@
     [
       "Salmon return to lay eggs in historic habitat after dam removal project",
       "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 13:23:28",
+      "https://news.ycombinator.com/item?id=42213639"
+    ],
+    [
+      "Runtime-Extensible SQL Parsers Using Peg",
+      "https://duckdb.org/2024/11/22/runtime-extensible-parsers.html"
     ]
   ],
   [
