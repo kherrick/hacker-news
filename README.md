@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
+* [2024-11-22, 07:00:41](https://news.ycombinator.com/item?id=42211719) - [Windmill hiring Senior Frontend (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
 * [2024-11-22, 06:53:55](https://news.ycombinator.com/item?id=42211689) - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
 * [2024-11-22, 06:52:35](https://news.ycombinator.com/item?id=42211685) - [The Tao of Topic Maps (2000)](https://ontopia.net/topicmaps/materials/tao.html)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
