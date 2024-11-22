@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-22, 02:14:55",
-      "https://news.ycombinator.com/item?id=42210563"
-    ],
-    [
-      "What Is Your RAM Usage on macOS? Share Your Workflow and Use Case",
-      "https://news.ycombinator.com/item?id=42210563"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 02:13:54",
       "https://news.ycombinator.com/item?id=42210560"
     ],
@@ -127,6 +117,16 @@
     [
       "Discharging Lean goals into SMT solvers",
       "https://github.com/ufmg-smite/lean-smt"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 19:49:44",
+      "https://news.ycombinator.com/item?id=42207893"
+    ],
+    [
+      "Linux connection tracking and (Slow) DNS",
+      "https://kb.isc.org/docs/aa-01183"
     ]
   ],
   [
