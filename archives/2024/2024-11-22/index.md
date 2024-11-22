@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 20:22:53](https://news.ycombinator.com/item?id=42217095) - [Texas Opens Investigation into Conspiracy to Boycott Certain Social Platforms](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-possible-conspiracy-advertising-companies-boycott)
 * [2024-11-22, 19:30:21](https://news.ycombinator.com/item?id=42216694) - [How did you do on the AI art Turing test?](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:33:09](https://news.ycombinator.com/item?id=42216230) - [DoD Adjusts Nuclear Deterrence Strategy as Nuclear Peer Adversaries Escalate](https://www.defense.gov/News/News-Stories/Article/Article/3975117/dod-adjusts-nuclear-deterrence-strategy-as-nuclear-peer-adversaries-escalate/)
