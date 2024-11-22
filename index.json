@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-22, 06:30:48",
+      "https://news.ycombinator.com/item?id=42211616"
+    ],
+    [
+      "AI eats the world",
+      "https://www.ben-evans.com/presentations"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 06:06:28",
+      "https://news.ycombinator.com/item?id=42211525"
+    ],
+    [
+      "Apple will now be treated like a bank",
+      "https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 04:57:26",
       "https://news.ycombinator.com/item?id=42211320"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-11-21, 21:29:20",
-      "https://news.ycombinator.com/item?id=42208850"
-    ],
-    [
-      "Autopoietic Networks",
-      "https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 20:57:30",
       "https://news.ycombinator.com/item?id=42208580"
     ],
@@ -137,16 +147,6 @@
     [
       "Show HN: Llama 3.2 Interpretability with Sparse Autoencoders",
       "https://github.com/PaulPauls/llama3_interpretability_sae"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 20:02:08",
-      "https://news.ycombinator.com/item?id=42208015"
-    ],
-    [
-      "Discharging Lean goals into SMT solvers",
-      "https://github.com/ufmg-smite/lean-smt"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2024-11-21, 17:55:06",
+      "https://news.ycombinator.com/item?id=42206817"
+    ],
+    [
+      "OK, I can partly explain the LLM chess weirdness now",
+      "https://dynomight.net/more-chess/"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 17:28:11",
       "https://news.ycombinator.com/item?id=42206556"
     ],
     [
       "Handling cookies is a minefield",
       "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 15:03:43",
-      "https://news.ycombinator.com/item?id=42204939"
-    ],
-    [
-      "Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents",
-      "https://news.ycombinator.com/item?id=42204939"
     ]
   ],
   [
