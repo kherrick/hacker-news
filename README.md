@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
-* [2024-11-22, 02:13:54](https://news.ycombinator.com/item?id=42210560) - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
 * [2024-11-22, 02:12:26](https://news.ycombinator.com/item?id=42210553) - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
 * [2024-11-22, 00:13:00](https://news.ycombinator.com/item?id=42210022) - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
 * [2024-11-21, 22:18:57](https://news.ycombinator.com/item?id=42209272) - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
@@ -23,6 +22,7 @@
 * [2024-11-21, 07:24:41](https://news.ycombinator.com/item?id=42201936) - [A binary tree of all Pythagorean triples](https://richardt.io/stereo_stern/)
 * [2024-11-21, 07:12:35](https://news.ycombinator.com/item?id=42201892) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the \"Demon Core\"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
+* [2024-11-20, 23:58:20](https://news.ycombinator.com/item?id=42199486) - [Electrobun: Cross-platform desktop applications written in TypeScript](https://electrobun.dev/)
 * [2024-11-20, 20:23:55](https://news.ycombinator.com/item?id=42197754) - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
 * [2024-11-19, 12:08:57](https://news.ycombinator.com/item?id=42182557) - [Software-defined (Internet) radio with Liquidsoap (2023)](https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
