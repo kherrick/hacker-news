@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-11-22, 02:12:26",
-      "https://news.ycombinator.com/item?id=42210553"
-    ],
-    [
-      "Tailwind CSS v4.0 Beta 1",
-      "https://tailwindcss.com/blog/tailwindcss-v4-beta"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 02:07:03",
       "https://news.ycombinator.com/item?id=42210528"
     ],
@@ -227,6 +217,16 @@
     [
       "Software-defined (Internet) radio with Liquidsoap (2023)",
       "https://blog.yossarian.net/2023/06/27/Software-defined-Internet-radio-with-Liquidsoap"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 22:51:13",
+      "https://news.ycombinator.com/item?id=42177984"
+    ],
+    [
+      "Rust traits are a local maxima",
+      "https://thunderseethe.dev/posts/traits-are-a-local-maxima/"
     ]
   ],
   [
