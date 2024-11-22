@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 18:33:09](https://news.ycombinator.com/item?id=42216230) - [DoD Adjusts Nuclear Deterrence Strategy as Nuclear Peer Adversaries Escalate](https://www.defense.gov/News/News-Stories/Article/Article/3975117/dod-adjusts-nuclear-deterrence-strategy-as-nuclear-peer-adversaries-escalate/)
+* [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
 * [2024-11-22, 16:48:15](https://news.ycombinator.com/item?id=42215343) - [Turning automotive engines into modular chemical plants to make green fuels](https://news.mit.edu/2024/emvolon-turns-automotive-engines-into-green-fuel-chemical-plants-1119)
