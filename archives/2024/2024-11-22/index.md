@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 04:46:39](https://news.ycombinator.com/item?id=42211280) - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
+* [2024-11-22, 04:25:35](https://news.ycombinator.com/item?id=42211188) - [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
 * [2024-11-22, 02:42:36](https://news.ycombinator.com/item?id=42210690) - [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 * [2024-11-22, 02:19:26](https://news.ycombinator.com/item?id=42210593) - [Ask HN: Is uBlock Origin removed from Chrome extension?](https://news.ycombinator.com/item?id=42210593)
