@@ -13,7 +13,6 @@
 * [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
-* [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What made Dostoevsky's work immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
@@ -28,6 +27,7 @@
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 22:51:13](https://news.ycombinator.com/item?id=42177984) - [Traits are a local maximum](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
 * [2024-11-18, 19:24:41](https://news.ycombinator.com/item?id=42175930) - [Are at-home genetic tests worth it? As an oncologist, here's my advice.](https://www.washingtonpost.com/wellness/2024/11/18/home-genetic-cancer-test-mutation/)
+* [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 
