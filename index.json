@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 12:56:16",
+      "https://news.ycombinator.com/item?id=42220618"
+    ],
+    [
+      "Amdahl's Law",
+      "https://en.wikipedia.org/wiki/Amdahl%27s_law"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 12:48:42",
       "https://news.ycombinator.com/item?id=42220598"
     ],
@@ -257,16 +267,6 @@
     [
       "Scientists Clone Two Black-Footed Ferrets from Frozen Tissues",
       "https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 12:07:03",
-      "https://news.ycombinator.com/item?id=42171693"
-    ],
-    [
-      "Playground Wisdom: Threads Beat Async/Await",
-      "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
     ]
   ],
   [
