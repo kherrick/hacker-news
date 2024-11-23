@@ -26,9 +26,9 @@
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 22:51:13](https://news.ycombinator.com/item?id=42177984) - [Traits are a local maximum](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
-* [2024-11-18, 19:24:41](https://news.ycombinator.com/item?id=42175930) - [Are at-home genetic tests worth it? As an oncologist, here's my advice.](https://www.washingtonpost.com/wellness/2024/11/18/home-genetic-cancer-test-mutation/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
+* [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 
 ## [Archives](archives/index.md)
