@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite's Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 08:58:19](https://news.ycombinator.com/item?id=42219890) - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 * [2024-11-23, 08:00:40](https://news.ycombinator.com/item?id=42219754) - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 * [2024-11-23, 07:40:48](https://news.ycombinator.com/item?id=42219695) - [Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds](https://gizmodo.com/teslas-are-involved-in-more-fatal-accidents-than-any-other-brand-study-finds-2000528042)
+* [2024-11-23, 07:27:42](https://news.ycombinator.com/item?id=42219657) - [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
 * [2024-11-23, 07:22:52](https://news.ycombinator.com/item?id=42219646) - [UK Farmers Trigger the Revolution – Politely](https://morningporridge.com/blog/nations/uk/uk-farmers-trigger-the-revolution-politely/)
 * [2024-11-23, 05:56:15](https://news.ycombinator.com/item?id=42219431) - [UK sees privatisation 'opportunities' in Ukraine war](https://www.declassifieduk.org/uk-sees-privatisation-opportunities-in-ukraine-war/)
 * [2024-11-23, 05:46:18](https://news.ycombinator.com/item?id=42219411) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
