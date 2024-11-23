@@ -34,6 +34,7 @@
 * [2024-11-22, 12:52:06](https://news.ycombinator.com/item?id=42213412) - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
+* [2024-11-22, 12:11:27](https://news.ycombinator.com/item?id=42213178) - [Spies Jumped from One Network to Another via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
 * [2024-11-22, 12:00:31](https://news.ycombinator.com/item?id=42213110) - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
