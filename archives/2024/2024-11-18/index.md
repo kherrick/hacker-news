@@ -62,6 +62,7 @@
 * [2024-11-18, 12:26:12](https://news.ycombinator.com/item?id=42171774) - [Google Gemini tells grad student to 'please die' while helping with his homework](https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/)
 * [2024-11-18, 12:24:09](https://news.ycombinator.com/item?id=42171762) - [Curve Families](https://linebender.org/wiki/curve-families/)
 * [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
+* [2024-11-18, 12:06:32](https://news.ycombinator.com/item?id=42171685) - [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
