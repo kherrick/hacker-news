@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-11-23, 03:34:10",
-      "https://news.ycombinator.com/item?id=42219024"
-    ],
-    [
-      "An Analysis of the Performance of WebSockets in Various Programming Languages (2021)",
-      "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 03:11:06",
       "https://news.ycombinator.com/item?id=42218939"
     ],
@@ -147,6 +137,16 @@
     [
       "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
       "https://docs.maxxinteractive.com/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 21:31:51",
+      "https://news.ycombinator.com/item?id=42217535"
+    ],
+    [
+      "RGFW: Single-header C99 window abstraction library",
+      "https://github.com/ColleagueRiley/RGFW"
     ]
   ],
   [
