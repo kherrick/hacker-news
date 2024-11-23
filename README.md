@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-23, 01:22:31](https://news.ycombinator.com/item?id=42218634) - [Tjq: Giving Types to Jq](https://github.com/alpaylan/tjq)
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
@@ -27,6 +26,7 @@
 * [2024-11-21, 03:05:56](https://news.ycombinator.com/item?id=42200699) - [The meme-ification of the “Demon Core”](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
+* [2024-11-18, 17:43:01](https://news.ycombinator.com/item?id=42174826) - [Casio to Release Ring Watch](https://hypebeast.com/2024/11/casio-ring-watch-crw-001-1jr-release-info)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
 * [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
