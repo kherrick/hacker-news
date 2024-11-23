@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 15:36:34](https://news.ycombinator.com/item?id=42221428) - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-23, 13:34:36](https://news.ycombinator.com/item?id=42220777) - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
 * [2024-11-23, 13:20:30](https://news.ycombinator.com/item?id=42220719) - [iFixit Shares M4 MacBook Pro Teardown](https://www.macrumors.com/2024/11/22/ifixit-shares-m4-macbook-pro-teardown/)
 * [2024-11-23, 12:56:16](https://news.ycombinator.com/item?id=42220618) - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)

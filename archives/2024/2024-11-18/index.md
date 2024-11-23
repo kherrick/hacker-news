@@ -56,6 +56,7 @@
 * [2024-11-18, 13:57:04](https://news.ycombinator.com/item?id=42172306) - [The Ancients Had Ops](https://reedmeyerson.com/posts/ancient_ops/)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
 * [2024-11-18, 13:22:16](https://news.ycombinator.com/item?id=42172081) - [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
+* [2024-11-18, 13:14:44](https://news.ycombinator.com/item?id=42172034) - [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)
 * [2024-11-18, 13:10:48](https://news.ycombinator.com/item?id=42172008) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
 * [2024-11-18, 12:56:25](https://news.ycombinator.com/item?id=42171924) - [$500k Pay, Easy Hours: How Dermatology Became the 'It' Job in Medicine](https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53)
