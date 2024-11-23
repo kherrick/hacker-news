@@ -7,6 +7,7 @@
 * [2024-11-23, 19:35:34](https://news.ycombinator.com/item?id=42223291) - ['A place of joy': why scientists are joining the rush to Bluesky](https://www.nature.com/articles/d41586-024-03784-6)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:16:12](https://news.ycombinator.com/item?id=42223100) - [Neuralink gets approval to start human trials in Canada](https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html)
+* [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 * [2024-11-23, 18:07:23](https://news.ycombinator.com/item?id=42222431) - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 * [2024-11-23, 18:02:17](https://news.ycombinator.com/item?id=42222387) - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
 * [2024-11-23, 17:59:53](https://news.ycombinator.com/item?id=42222361) - [Mercedes spends $8bn/year on R&D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)

@@ -51,6 +51,7 @@
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
 * [2024-11-19, 12:55:38](https://news.ycombinator.com/item?id=42182897) - [Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538)
+* [2024-11-19, 12:53:41](https://news.ycombinator.com/item?id=42182888) - [Half of Young Norwegians Say Online Piracy Is an Acceptable Way to Save Money](https://torrentfreak.com/half-of-young-norwegians-say-online-piracy-is-an-acceptable-way-to-save-money-241119/)
 * [2024-11-19, 12:41:08](https://news.ycombinator.com/item?id=42182784) - [Show HN: A Mathematical Integration rust crate](https://github.com/mtantaoui/Integrate)
 * [2024-11-19, 12:29:14](https://news.ycombinator.com/item?id=42182701) - [A silly science prize changed my career](https://www.nature.com/articles/d41586-024-03756-w)
 * [2024-11-19, 12:25:31](https://news.ycombinator.com/item?id=42182680) - [Java 24 to Reduce Object Header Size and Save Memory](https://www.infoq.com/news/2024/11/compact-headers-java24/)
