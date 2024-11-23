@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 12:48:42",
+      "https://news.ycombinator.com/item?id=42220598"
+    ],
+    [
+      "Futel",
+      "https://futel.net/"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 12:00:53",
       "https://news.ycombinator.com/item?id=42220476"
     ],
@@ -51,6 +61,26 @@
   ],
   [
     [
+      "2024-11-23, 07:43:23",
+      "https://news.ycombinator.com/item?id=42219708"
+    ],
+    [
+      "Don't Look Down on Print Debugging",
+      "https://blog.startifact.com/posts/print-debugging/"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 05:44:48",
+      "https://news.ycombinator.com/item?id=42219407"
+    ],
+    [
+      "Americans see their savings vanish in Synapse fintech crisis",
+      "https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 04:55:12",
       "https://news.ycombinator.com/item?id=42219278"
     ],
@@ -67,16 +97,6 @@
     [
       "An Analysis of the Performance of WebSockets in Various Programming Languages (2021)",
       "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 03:11:23",
-      "https://news.ycombinator.com/item?id=42218941"
-    ],
-    [
-      "A simple semi-space collector – wingolog",
-      "https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector"
     ]
   ],
   [
@@ -121,22 +141,12 @@
   ],
   [
     [
-      "2024-11-22, 21:14:30",
-      "https://news.ycombinator.com/item?id=42217418"
+      "2024-11-22, 19:30:21",
+      "https://news.ycombinator.com/item?id=42216694"
     ],
     [
-      "Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking",
-      "https://arxiv.org/abs/2411.11922"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 18:43:36",
-      "https://news.ycombinator.com/item?id=42216311"
-    ],
-    [
-      "Translating my Grandfather’s biograpy",
-      "https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography"
+      "How did you do on the AI art Turing test?",
+      "https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing"
     ]
   ],
   [
@@ -171,32 +181,22 @@
   ],
   [
     [
+      "2024-11-22, 16:47:23",
+      "https://news.ycombinator.com/item?id=42215333"
+    ],
+    [
+      "We signed a famous AI company with a HackerNews post",
+      "https://www.getlago.com/blog/how-we-signed-a-world-famous-ai-company-with-a-hackernews-post"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 16:25:17",
       "https://news.ycombinator.com/item?id=42215126"
     ],
     [
       "Amazon to invest another $4B in Anthropic",
       "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 13:27:12",
-      "https://news.ycombinator.com/item?id=42213663"
-    ],
-    [
-      "Salmon return to lay eggs in historic habitat after Klamath River dam removal",
-      "https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 12:35:30",
-      "https://news.ycombinator.com/item?id=42213322"
-    ],
-    [
-      "From string to AST: parsing (2019)",
-      "https://kubuszok.com/2019/from-string-to-ast-parsing/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-11-22, 02:42:14",
-      "https://news.ycombinator.com/item?id=42210689"
-    ],
-    [
-      "Autoflow, a Graph RAG based and conversational knowledge base tool",
-      "https://github.com/pingcap/autoflow"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 00:05:18",
       "https://news.ycombinator.com/item?id=42189445"
     ],
     [
       "Agent Blue – Arsenic-Laced Rainbow [pdf]",
       "https://11thrru.org/pdf/AgentBlue.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 23:50:28",
+      "https://news.ycombinator.com/item?id=42189336"
+    ],
+    [
+      "Oncall shift should be Tuesday to Tuesday",
+      "https://arthur-johnston.com/tuesday_to_tuesday/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42163330"
     ],
     [
-      "Oxford relying on ‘Deliveroo-style’ contracts",
+      "Oxford accused of relying on young academics employed on gig-economy terms",
       "https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy"
     ]
   ]
