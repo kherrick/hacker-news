@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 15:36:34](https://news.ycombinator.com/item?id=42221428) - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-23, 13:34:36](https://news.ycombinator.com/item?id=42220777) - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
 * [2024-11-23, 12:48:42](https://news.ycombinator.com/item?id=42220598) - [Futel](https://futel.net/)
@@ -16,7 +17,6 @@
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
-* [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-22, 16:25:17](https://news.ycombinator.com/item?id=42215126) - [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 * [2024-11-22, 08:21:39](https://news.ycombinator.com/item?id=42212071) - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
@@ -26,9 +26,9 @@
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 13:14:44](https://news.ycombinator.com/item?id=42172034) - [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
+* [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 12:06:32](https://news.ycombinator.com/item?id=42171685) - [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
 * [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
-* [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-17, 10:43:27](https://news.ycombinator.com/item?id=42163330) - [Oxford accused of relying on young academics employed on gig-economy terms](https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy)
 
 ## [Archives](archives/index.md)
