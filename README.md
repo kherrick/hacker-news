@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 12:00:53](https://news.ycombinator.com/item?id=42220476) - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-Resolution Images Ever Captured of the Sun's Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
 * [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite's Use of Tcl (2017)](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 09:38:11](https://news.ycombinator.com/item?id=42220062) - [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
@@ -24,7 +25,6 @@
 * [2024-11-22, 08:21:39](https://news.ycombinator.com/item?id=42212071) - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
 * [2024-11-20, 00:05:18](https://news.ycombinator.com/item?id=42189445) - [Agent Blue – Arsenic-Laced Rainbow [pdf]](https://11thrru.org/pdf/AgentBlue.pdf)
-* [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)

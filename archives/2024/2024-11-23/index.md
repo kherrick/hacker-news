@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 12:00:53](https://news.ycombinator.com/item?id=42220476) - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-Resolution Images Ever Captured of the Sun's Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
 * [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite's Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 09:38:11](https://news.ycombinator.com/item?id=42220062) - [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
