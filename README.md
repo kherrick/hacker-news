@@ -2,7 +2,6 @@
 
 * [2024-11-23, 18:07:23](https://news.ycombinator.com/item?id=42222431) - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 * [2024-11-23, 18:02:17](https://news.ycombinator.com/item?id=42222387) - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
-* [2024-11-23, 17:59:53](https://news.ycombinator.com/item?id=42222361) - [Mercedes spends $8bn/year on R&D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)
 * [2024-11-23, 17:33:03](https://news.ycombinator.com/item?id=42222138) - [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
 * [2024-11-23, 17:32:09](https://news.ycombinator.com/item?id=42222131) - [S3 Express Append has issues](https://blog.astradot.com/s3-express-append-has-issues/)
 * [2024-11-23, 17:06:19](https://news.ycombinator.com/item?id=42221937) - [The tech utopia fantasy is over](https://blog.avas.space/tech-utopia-fantasy/)
@@ -19,6 +18,7 @@
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
+* [2024-11-20, 00:05:18](https://news.ycombinator.com/item?id=42189445) - [Agent Blue – Arsenic-Laced Rainbow [pdf]](https://11thrru.org/pdf/AgentBlue.pdf)
 * [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
