@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-23, 07:40:48](https://news.ycombinator.com/item?id=42219695) - [Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds](https://gizmodo.com/teslas-are-involved-in-more-fatal-accidents-than-any-other-brand-study-finds-2000528042)
+* [2024-11-23, 05:56:15](https://news.ycombinator.com/item?id=42219431) - [UK sees privatisation 'opportunities' in Ukraine war](https://www.declassifieduk.org/uk-sees-privatisation-opportunities-in-ukraine-war/)
 * [2024-11-23, 05:46:18](https://news.ycombinator.com/item?id=42219411) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 * [2024-11-23, 05:44:48](https://news.ycombinator.com/item?id=42219407) - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
 * [2024-11-23, 03:34:10](https://news.ycombinator.com/item?id=42219024) - [An Analysis of the Performance of WebSockets in Various Programming Languages (2021)](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
@@ -27,8 +27,8 @@
 * [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
+* [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
-* [2024-11-18, 06:09:54](https://news.ycombinator.com/item?id=42170144) - [Who Really Wrote the Bible: The Story of the Scribes](https://www.historytoday.com/archive/review/who-really-wrote-bible-william-m-schniedewind-review)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 
 ## [Archives](archives/index.md)
