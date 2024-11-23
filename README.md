@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 01:22:31](https://news.ycombinator.com/item?id=42218634) - [Tjq: Giving Types to Jq](https://github.com/alpaylan/tjq)
+* [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
-* [2024-11-22, 21:27:43](https://news.ycombinator.com/item?id=42217504) - [Ask HN: To those with successful browser extension(s), how did you grow it?](https://news.ycombinator.com/item?id=42217504)
-* [2024-11-22, 21:24:19](https://news.ycombinator.com/item?id=42217484) - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
@@ -12,6 +12,7 @@
 * [2024-11-22, 16:00:01](https://news.ycombinator.com/item?id=42214880) - [The Deceptively Asymmetric Unit Sphere](https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere)
 * [2024-11-22, 14:59:47](https://news.ycombinator.com/item?id=42214331) - [What made Dostoevsky's work immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
+* [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing (2019)](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A “meta-optics” camera that is the size of a grain of salt](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’ (2017)](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
@@ -19,7 +20,6 @@
 * [2024-11-22, 09:33:53](https://news.ycombinator.com/item?id=42212412) - [FaSTer: Atari ST Digital Magazine](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
 * [2024-11-22, 08:21:39](https://news.ycombinator.com/item?id=42212071) - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
-* [2024-11-22, 02:07:03](https://news.ycombinator.com/item?id=42210528) - [Mechanically strong yet metabolizable plastic breaks down in seawater](https://www.science.org/doi/abs/10.1126/science.ado1782?af=R)
 * [2024-11-21, 22:18:57](https://news.ycombinator.com/item?id=42209272) - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
 * [2024-11-21, 20:37:56](https://news.ycombinator.com/item?id=42208383) - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 * [2024-11-21, 18:44:11](https://news.ycombinator.com/item?id=42207304) - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
@@ -28,8 +28,8 @@
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-18, 16:47:38](https://news.ycombinator.com/item?id=42174181) - [Bayesian Neural Networks](https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/)
+* [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
-* [2024-11-15, 10:56:21](https://news.ycombinator.com/item?id=42145735) - [NeuralDEM – Real-Time Simulation of Industrial Particulate Flows](https://nx-ai.github.io/NeuralDEM/)
 
 ## [Archives](archives/index.md)
 
