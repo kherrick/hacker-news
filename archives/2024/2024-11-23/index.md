@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 20:42:09](https://news.ycombinator.com/item?id=42223738) - [Amazon won't accept written communication](https://news.ycombinator.com/item?id=42223738)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
