@@ -52,6 +52,7 @@
 * [2024-11-18, 15:08:25](https://news.ycombinator.com/item?id=42172978) - [A Second Search for Bash Scripting Alternatives](https://monzool.net/blog/2024/07/14/a-second-search-for-bash-scripting-alternatives/)
 * [2024-11-18, 14:52:38](https://news.ycombinator.com/item?id=42172798) - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
 * [2024-11-18, 14:44:49](https://news.ycombinator.com/item?id=42172705) - [The most helpful charity isn't what you think](https://benthams.substack.com/p/the-best-charity-isnt-what-you-think)
+* [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 13:57:04](https://news.ycombinator.com/item?id=42172306) - [The Ancients Had Ops](https://reedmeyerson.com/posts/ancient_ops/)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
