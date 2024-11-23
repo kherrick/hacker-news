@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-11-23, 19:35:34",
-      "https://news.ycombinator.com/item?id=42223291"
-    ],
-    [
-      "'A place of joy': why scientists are joining the rush to Bluesky",
-      "https://www.nature.com/articles/d41586-024-03784-6"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 19:26:05",
       "https://news.ycombinator.com/item?id=42223201"
     ],
     [
       "9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot",
       "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 19:16:12",
-      "https://news.ycombinator.com/item?id=42223100"
-    ],
-    [
-      "Neuralink gets approval to start human trials in Canada",
-      "https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html"
     ]
   ],
   [
@@ -81,6 +61,16 @@
   ],
   [
     [
+      "2024-11-23, 16:17:45",
+      "https://news.ycombinator.com/item?id=42221623"
+    ],
+    [
+      "The 'Return to Office' Lies",
+      "https://blog.avas.space/rto/"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 15:51:21",
       "https://news.ycombinator.com/item?id=42221512"
     ],
@@ -117,6 +107,16 @@
     [
       "OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP",
       "https://www.openmptcprouter.com/"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 03:34:10",
+      "https://news.ycombinator.com/item?id=42219024"
+    ],
+    [
+      "An Analysis of the Performance of WebSockets in Various Programming Languages (2021)",
+      "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries"
     ]
   ],
   [
