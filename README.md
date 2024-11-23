@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 12:56:16](https://news.ycombinator.com/item?id=42220618) - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 * [2024-11-23, 12:48:42](https://news.ycombinator.com/item?id=42220598) - [Futel](https://futel.net/)
 * [2024-11-23, 12:00:53](https://news.ycombinator.com/item?id=42220476) - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
@@ -26,7 +27,6 @@
 * [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
-* [2024-11-18, 12:07:03](https://news.ycombinator.com/item?id=42171693) - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-17, 10:43:27](https://news.ycombinator.com/item?id=42163330) - [Oxford accused of relying on young academics employed on gig-economy terms](https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy)

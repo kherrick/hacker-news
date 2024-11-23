@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 12:56:16](https://news.ycombinator.com/item?id=42220618) - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 * [2024-11-23, 12:48:42](https://news.ycombinator.com/item?id=42220598) - [Futel](https://futel.net/)
 * [2024-11-23, 12:00:53](https://news.ycombinator.com/item?id=42220476) - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-Resolution Images Ever Captured of the Sun's Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
