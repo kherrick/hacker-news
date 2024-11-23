@@ -47,6 +47,7 @@
 * [2024-11-17, 11:37:45](https://news.ycombinator.com/item?id=42163591) - [Garak, LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
 * [2024-11-17, 11:25:06](https://news.ycombinator.com/item?id=42163518) - [Ask HN: Would you recommend a framework laptop](https://news.ycombinator.com/item?id=42163518)
 * [2024-11-17, 10:57:43](https://news.ycombinator.com/item?id=42163396) - [How Distributed Systems Avoid Race Conditions Using Pessimistic Locking?](https://newsletter.scalablethread.com/p/how-distributed-systems-avoid-race)
+* [2024-11-17, 10:43:27](https://news.ycombinator.com/item?id=42163330) - [Oxford relying on ‘Deliveroo-style’ contracts](https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy)
 * [2024-11-17, 10:36:39](https://news.ycombinator.com/item?id=42163302) - [Ask HN: Great maker projects for 8th grade kids and above?](https://news.ycombinator.com/item?id=42163302)
 * [2024-11-17, 09:38:28](https://news.ycombinator.com/item?id=42163086) - [How do cars do in out-of-sample crash testing?](https://danluu.com/car-safety/)
 * [2024-11-17, 09:22:16](https://news.ycombinator.com/item?id=42163019) - [Gemini AI tells the user to die](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-tells-the-user-to-die-the-answer-appears-out-of-nowhere-as-the-user-was-asking-geminis-help-with-his-homework)
