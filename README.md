@@ -9,7 +9,7 @@
 * [2024-11-23, 05:44:48](https://news.ycombinator.com/item?id=42219407) - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
 * [2024-11-23, 04:55:12](https://news.ycombinator.com/item?id=42219278) - [Edging Toward Japan: In his mind's eye, Rembrandt was always headed toward Japan](https://mainichi.jp/english/articles/20240601/p2a/00m/0et/012000c)
 * [2024-11-23, 03:34:10](https://news.ycombinator.com/item?id=42219024) - [An Analysis of the Performance of WebSockets in Various Programming Languages (2021)](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
-* [2024-11-23, 03:11:23](https://news.ycombinator.com/item?id=42218941) - [A simple semi-space collector – wingolog](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
+* [2024-11-23, 03:11:23](https://news.ycombinator.com/item?id=42218941) - [A simple semi-space collector – wingolog (2022)](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 * [2024-11-23, 03:11:06](https://news.ycombinator.com/item?id=42218939) - [Baby’s Second Garbage Collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
