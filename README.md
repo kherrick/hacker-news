@@ -2,8 +2,8 @@
 
 * [2024-11-23, 08:00:40](https://news.ycombinator.com/item?id=42219754) - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 * [2024-11-23, 07:40:48](https://news.ycombinator.com/item?id=42219695) - [Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds](https://gizmodo.com/teslas-are-involved-in-more-fatal-accidents-than-any-other-brand-study-finds-2000528042)
+* [2024-11-23, 07:22:52](https://news.ycombinator.com/item?id=42219646) - [UK Farmers Trigger the Revolution – Politely](https://morningporridge.com/blog/nations/uk/uk-farmers-trigger-the-revolution-politely/)
 * [2024-11-23, 05:46:18](https://news.ycombinator.com/item?id=42219411) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
-* [2024-11-23, 05:44:48](https://news.ycombinator.com/item?id=42219407) - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
 * [2024-11-23, 03:34:10](https://news.ycombinator.com/item?id=42219024) - [An Analysis of the Performance of WebSockets in Various Programming Languages (2021)](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
 * [2024-11-23, 03:28:46](https://news.ycombinator.com/item?id=42219009) - [How Tailscale's infra team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 03:11:23](https://news.ycombinator.com/item?id=42218941) - [A simple semi-space collector – wingolog](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
