@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 03:34:10](https://news.ycombinator.com/item?id=42219024) - [An Analysis of the Performance of WebSockets in Various Programming Languages](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
-* [2024-11-22, 21:14:30](https://news.ycombinator.com/item?id=42217418) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://arxiv.org/abs/2411.11922)
 * [2024-11-22, 18:43:36](https://news.ycombinator.com/item?id=42216311) - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
