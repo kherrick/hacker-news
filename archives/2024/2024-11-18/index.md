@@ -67,6 +67,7 @@
 * [2024-11-18, 12:06:32](https://news.ycombinator.com/item?id=42171685) - [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
 * [2024-11-18, 10:51:14](https://news.ycombinator.com/item?id=42171311) - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
 * [2024-11-18, 10:39:32](https://news.ycombinator.com/item?id=42171250) - [CPython's Garbage Collector and Its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
+* [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 * [2024-11-18, 10:13:28](https://news.ycombinator.com/item?id=42171164) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
 * [2024-11-18, 10:07:21](https://news.ycombinator.com/item?id=42171139) - [AMD Radeon Pro W7700 Running on Raspberry Pi](https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi)
