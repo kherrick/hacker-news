@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 16:17:45](https://news.ycombinator.com/item?id=42221623) - [The 'Return to Office' Lies](https://blog.avas.space/rto/)
 * [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 15:36:34](https://news.ycombinator.com/item?id=42221428) - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
-* [2024-11-23, 13:34:36](https://news.ycombinator.com/item?id=42220777) - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
-* [2024-11-23, 12:48:42](https://news.ycombinator.com/item?id=42220598) - [Futel](https://futel.net/)
 * [2024-11-23, 12:00:53](https://news.ycombinator.com/item?id=42220476) - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
 * [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite’s Use of Tcl (2017)](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
@@ -23,6 +22,7 @@
 * [2024-11-20, 00:05:18](https://news.ycombinator.com/item?id=42189445) - [Agent Blue – Arsenic-Laced Rainbow [pdf]](https://11thrru.org/pdf/AgentBlue.pdf)
 * [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
+* [2024-11-19, 12:29:14](https://news.ycombinator.com/item?id=42182701) - [A silly science prize changed my career](https://www.nature.com/articles/d41586-024-03756-w)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 13:14:44](https://news.ycombinator.com/item?id=42172034) - [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
