@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42219024"
     ],
     [
-      "An Analysis of the Performance of WebSockets in Various Programming Languages",
+      "An Analysis of the Performance of WebSockets in Various Programming Languages (2021)",
       "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "RGFW: Single-header C99 window abstraction library",
       "https://github.com/ColleagueRiley/RGFW"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 21:14:30",
+      "https://news.ycombinator.com/item?id=42217418"
+    ],
+    [
+      "Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking",
+      "https://arxiv.org/abs/2411.11922"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "A C++ Mixin System",
       "https://jennyjams.net/blog/cpp-mixin/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 22:51:13",
-      "https://news.ycombinator.com/item?id=42177984"
-    ],
-    [
-      "Traits are a local maximum",
-      "https://thunderseethe.dev/posts/traits-are-a-local-maxima/"
     ]
   ],
   [
