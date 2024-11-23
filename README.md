@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 20:28:13](https://news.ycombinator.com/item?id=42223646) - [Boulder's explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
@@ -16,6 +17,7 @@
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+* [2024-11-22, 14:02:56](https://news.ycombinator.com/item?id=42213902) - [The remarkable life and astonishing times of Dwight Smith Young](https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/)
 * [2024-11-22, 10:31:56](https://news.ycombinator.com/item?id=42212644) - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 * [2024-11-19, 23:50:28](https://news.ycombinator.com/item?id=42189336) - [Oncall shift should be Tuesday to Tuesday](https://arthur-johnston.com/tuesday_to_tuesday/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
@@ -23,13 +25,11 @@
 * [2024-11-19, 12:53:41](https://news.ycombinator.com/item?id=42182888) - [Half of Young Norwegians Say Online Piracy Is an Acceptable Way to Save Money](https://torrentfreak.com/half-of-young-norwegians-say-online-piracy-is-an-acceptable-way-to-save-money-241119/)
 * [2024-11-19, 12:29:14](https://news.ycombinator.com/item?id=42182701) - [A silly science prize changed my career](https://www.nature.com/articles/d41586-024-03756-w)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-* [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 13:14:44](https://news.ycombinator.com/item?id=42172034) - [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-18, 12:06:32](https://news.ycombinator.com/item?id=42171685) - [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 * [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
-* [2024-11-17, 10:43:27](https://news.ycombinator.com/item?id=42163330) - [Oxford accused of relying on young academics employed on gig-economy terms](https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy)
 
 ## [Archives](archives/index.md)
 
