@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-23, 22:21:56](https://news.ycombinator.com/item?id=42224398) - [Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
-* [2024-11-23, 21:34:46](https://news.ycombinator.com/item?id=42224113) - [Which Countries Have the Most Industrial Robots?](https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/)
+* [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
@@ -24,7 +25,6 @@
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
 * [2024-11-19, 12:29:14](https://news.ycombinator.com/item?id=42182701) - [A silly science prize changed my career](https://www.nature.com/articles/d41586-024-03756-w)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-* [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 12:06:32](https://news.ycombinator.com/item?id=42171685) - [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
