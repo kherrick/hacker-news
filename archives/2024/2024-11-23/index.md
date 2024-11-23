@@ -8,6 +8,7 @@
 * [2024-11-23, 16:40:06](https://news.ycombinator.com/item?id=42221756) - [AI Data Centers May Consume More Electricity Than Entire Cities](https://www.cnbc.com/2024/11/23/data-centers-powering-ai-could-use-more-electricity-than-entire-cities.html)
 * [2024-11-23, 16:29:05](https://news.ycombinator.com/item?id=42221688) - [School did nothing wrong when it punished student for using AI, court rules](https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/)
 * [2024-11-23, 16:17:45](https://news.ycombinator.com/item?id=42221623) - [The 'Return to Office' Lies](https://blog.avas.space/rto/)
+* [2024-11-23, 16:05:18](https://news.ycombinator.com/item?id=42221564) - [Linux CoC Announces Decision Wrt Kent Overstreet (Bcachefs)](https://lore.kernel.org/lkml/6740fc3aabec0_5eb129497@dwillia2-xfh.jf.intel.com.notmuch/)
 * [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 15:36:34](https://news.ycombinator.com/item?id=42221428) - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-23, 13:34:36](https://news.ycombinator.com/item?id=42220777) - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
