@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 05:56:15](https://news.ycombinator.com/item?id=42219431) - [UK sees privatisation 'opportunities' in Ukraine war](https://www.declassifieduk.org/uk-sees-privatisation-opportunities-in-ukraine-war/)
 * [2024-11-23, 05:46:18](https://news.ycombinator.com/item?id=42219411) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 * [2024-11-23, 05:44:48](https://news.ycombinator.com/item?id=42219407) - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
 * [2024-11-23, 03:34:10](https://news.ycombinator.com/item?id=42219024) - [An Analysis of the Performance of WebSockets in Various Programming Languages](https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries)
