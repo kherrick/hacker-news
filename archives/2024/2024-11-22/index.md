@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
+* [2024-11-22, 23:15:47](https://news.ycombinator.com/item?id=42218159) - [The Neuroscience Link Between Neuroticism and Social Media Addiction](https://www.lakeforest.edu/news/the-neuroscience-link-between-neuroticism-and-social-media-addiction)
 * [2024-11-22, 22:49:56](https://news.ycombinator.com/item?id=42218004) - [Wikipedia's Islamist Vandals](https://americandreaming.substack.com/p/wikipedias-islamist-vandals)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 21:27:43](https://news.ycombinator.com/item?id=42217504) - [Ask HN: To those with successful browser extension(s), how did you grow it?](https://news.ycombinator.com/item?id=42217504)
