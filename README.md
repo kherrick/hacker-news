@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-23, 23:22:45](https://news.ycombinator.com/item?id=42224685) - [CDC Confirms H5N1 Bird Flu Infection in Californa Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
+* [2024-11-23, 23:22:45](https://news.ycombinator.com/item?id=42224685) - [CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
 * [2024-11-23, 22:21:56](https://news.ycombinator.com/item?id=42224398) - [Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 22:06:12](https://news.ycombinator.com/item?id=42224306) - [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
