@@ -10,6 +10,7 @@
 * [2024-11-23, 18:07:23](https://news.ycombinator.com/item?id=42222431) - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 * [2024-11-23, 18:02:17](https://news.ycombinator.com/item?id=42222387) - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
 * [2024-11-23, 17:59:53](https://news.ycombinator.com/item?id=42222361) - [Mercedes spends $8bn/year on R&D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)
+* [2024-11-23, 17:51:44](https://news.ycombinator.com/item?id=42222282) - [Large Chainsaw Model](https://www.scottsmitelli.com/articles/large-chainsaw-model/)
 * [2024-11-23, 17:33:03](https://news.ycombinator.com/item?id=42222138) - [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
 * [2024-11-23, 17:32:09](https://news.ycombinator.com/item?id=42222131) - [S3 Express Append has issues](https://blog.astradot.com/s3-express-append-has-issues/)
 * [2024-11-23, 17:28:23](https://news.ycombinator.com/item?id=42222106) - [Fusion power is getting closer](https://www.economist.com/the-world-ahead/2024/11/20/fusion-power-is-getting-closer-no-really)
