@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-23, 19:35:34",
+      "https://news.ycombinator.com/item?id=42223291"
+    ],
+    [
+      "'A place of joy': why scientists are joining the rush to Bluesky",
+      "https://www.nature.com/articles/d41586-024-03784-6"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 19:26:05",
+      "https://news.ycombinator.com/item?id=42223201"
+    ],
+    [
+      "9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot",
+      "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 19:16:12",
+      "https://news.ycombinator.com/item?id=42223100"
+    ],
+    [
+      "Neuralink gets approval to start human trials in Canada",
+      "https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 18:07:23",
       "https://news.ycombinator.com/item?id=42222431"
     ],
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2024-11-23, 17:32:09",
-      "https://news.ycombinator.com/item?id=42222131"
-    ],
-    [
-      "S3 Express Append has issues",
-      "https://blog.astradot.com/s3-express-append-has-issues/"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 17:06:19",
       "https://news.ycombinator.com/item?id=42221937"
     ],
@@ -57,16 +77,6 @@
     [
       "School did nothing wrong when it punished student for using AI, court rules",
       "https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 16:17:45",
-      "https://news.ycombinator.com/item?id=42221623"
-    ],
-    [
-      "The 'Return to Office' Lies",
-      "https://blog.avas.space/rto/"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-11-23, 03:34:10",
-      "https://news.ycombinator.com/item?id=42219024"
-    ],
-    [
-      "An Analysis of the Performance of WebSockets in Various Programming Languages (2021)",
-      "https://www.researchgate.net/publication/348993267_An_Analysis_of_the_Performance_of_Websockets_in_Various_Programming_Languages_and_Libraries"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 03:11:06",
       "https://news.ycombinator.com/item?id=42218939"
     ],
@@ -147,16 +147,6 @@
     [
       "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
       "https://docs.maxxinteractive.com/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 21:31:51",
-      "https://news.ycombinator.com/item?id=42217535"
-    ],
-    [
-      "RGFW: Single-header C99 window abstraction library",
-      "https://github.com/ColleagueRiley/RGFW"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Writes Large Correct Programs (2008)",
       "https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 10:38:41",
+      "https://news.ycombinator.com/item?id=42171248"
+    ],
+    [
+      "Stack Analyser: detect technologies used inside a repo",
+      "https://github.com/specfy/stack-analyser"
     ]
   ],
   [
