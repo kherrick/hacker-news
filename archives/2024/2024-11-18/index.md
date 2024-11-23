@@ -19,6 +19,7 @@
 * [2024-11-18, 20:57:37](https://news.ycombinator.com/item?id=42176929) - [Microsoft starts boiling the Copilot frog: It's not a soup you want to drink](https://www.theregister.com/2024/11/18/opinion_piece_ai_tools/)
 * [2024-11-18, 20:55:46](https://news.ycombinator.com/item?id=42176911) - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
 * [2024-11-18, 20:42:20](https://news.ycombinator.com/item?id=42176748) - ['King Arthur's Hall' is five times older than thought, researchers discover](https://phys.org/news/2024-11-king-arthur-hall-older-thought.html)
+* [2024-11-18, 20:16:28](https://news.ycombinator.com/item?id=42176434) - [Siberian Exile in Tsarist Russia](https://www.historytoday.com/archive/feature/siberian-exile-tsarist-russia)
 * [2024-11-18, 19:47:30](https://news.ycombinator.com/item?id=42176158) - [Europeans spend 575M hours clicking on cookie banners a year](https://substack.com/@richholmes/note/c-77466623)
 * [2024-11-18, 19:24:41](https://news.ycombinator.com/item?id=42175930) - [Are at-home genetic tests worth it? As an oncologist, here's my advice.](https://www.washingtonpost.com/wellness/2024/11/18/home-genetic-cancer-test-mutation/)
 * [2024-11-18, 19:16:07](https://news.ycombinator.com/item?id=42175850) - [Ben Affleck's a surprisingly comprehensive take on LLMs for video](https://twitter.com/jorilallo/status/1858211286066073922)
