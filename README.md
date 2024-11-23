@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-23, 20:42:09](https://news.ycombinator.com/item?id=42223738) - [Amazon won't accept written communication](https://news.ycombinator.com/item?id=42223738)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
+* [2024-11-23, 20:28:13](https://news.ycombinator.com/item?id=42223646) - [Boulder's explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 * [2024-11-23, 18:07:23](https://news.ycombinator.com/item?id=42222431) - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)

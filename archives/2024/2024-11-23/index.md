@@ -6,6 +6,7 @@
 
 * [2024-11-23, 20:42:09](https://news.ycombinator.com/item?id=42223738) - [Amazon won't accept written communication](https://news.ycombinator.com/item?id=42223738)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
+* [2024-11-23, 20:28:13](https://news.ycombinator.com/item?id=42223646) - [Boulder's explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
 * [2024-11-23, 19:35:34](https://news.ycombinator.com/item?id=42223291) - ['A place of joy': why scientists are joining the rush to Bluesky](https://www.nature.com/articles/d41586-024-03784-6)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:16:12](https://news.ycombinator.com/item?id=42223100) - [Neuralink gets approval to start human trials in Canada](https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html)
