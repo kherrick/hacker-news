@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 17:02:04](https://news.ycombinator.com/item?id=42221912) - [Half of Russia's A320/A321neo Fleet Grounded Amid Engine Issues and Sanctions](https://aviacionline.com/2024/11/half-of-russias-a320-a321neo-fleet-grounded-amid-engine-issues-and-sanctions/)
+* [2024-11-23, 16:40:06](https://news.ycombinator.com/item?id=42221756) - [AI Data Centers May Consume More Electricity Than Entire Cities](https://www.cnbc.com/2024/11/23/data-centers-powering-ai-could-use-more-electricity-than-entire-cities.html)
+* [2024-11-23, 16:29:05](https://news.ycombinator.com/item?id=42221688) - [School did nothing wrong when it punished student for using AI, court rules](https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/)
 * [2024-11-23, 16:17:45](https://news.ycombinator.com/item?id=42221623) - [The 'Return to Office' Lies](https://blog.avas.space/rto/)
 * [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 15:36:34](https://news.ycombinator.com/item?id=42221428) - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
