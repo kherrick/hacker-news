@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-24, 06:24:35",
-      "https://news.ycombinator.com/item?id=42226250"
-    ],
-    [
-      "C++ Standards Contributor Expelled for 'The Undefined Behavior Question'",
-      "https://slashdot.org/submission/17330375/c-standards-contributor-expelled-for-the-undefined-behavior-question"
-    ]
-  ],
-  [
-    [
       "2024-11-24, 05:23:34",
       "https://news.ycombinator.com/item?id=42226081"
     ],
@@ -97,6 +87,16 @@
     [
       "Evidence of oldest known alphabetic writing unearthed in ancient Syrian city",
       "https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 22:08:54",
+      "https://news.ycombinator.com/item?id=42224319"
+    ],
+    [
+      "Firefox DevTools Network Tab: How to filter requests by properties",
+      "https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties"
     ]
   ],
   [
