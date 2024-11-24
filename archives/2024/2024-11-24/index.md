@@ -7,6 +7,7 @@
 * [2024-11-24, 17:54:27](https://news.ycombinator.com/item?id=42229207) - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
+* [2024-11-24, 17:05:04](https://news.ycombinator.com/item?id=42228901) - [New study shows: EV batteries last much longer than expected](https://www.electrive.com/2024/11/24/new-study-shows-ev-batteries-last-much-longer-than-expected/)
 * [2024-11-24, 17:00:06](https://news.ycombinator.com/item?id=42228866) - [Those Correction Notices, in Full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
 * [2024-11-24, 16:44:51](https://news.ycombinator.com/item?id=42228795) - [Senators Say TSA's Facial Recognition Program Is Out of Control](https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310)
 * [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
