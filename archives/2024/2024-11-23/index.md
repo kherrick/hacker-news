@@ -9,6 +9,7 @@
 * [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
 * [2024-11-23, 22:21:56](https://news.ycombinator.com/item?id=42224398) - [Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
+* [2024-11-23, 22:08:54](https://news.ycombinator.com/item?id=42224319) - [Firefox DevTools Network Tab: How to filter requests by properties](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties)
 * [2024-11-23, 22:06:12](https://news.ycombinator.com/item?id=42224306) - [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
 * [2024-11-23, 21:56:39](https://news.ycombinator.com/item?id=42224264) - [AI PCs make users less productive](https://www.theregister.com/2024/11/22/ai_pcs_productivity/)
 * [2024-11-23, 21:47:26](https://news.ycombinator.com/item?id=42224212) - [Anti-scale: a response to AI in journalism](https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism)
