@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-24, 09:07:31](https://news.ycombinator.com/item?id=42226860) - [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 * [2024-11-24, 04:32:19](https://news.ycombinator.com/item?id=42225929) - [Developing nations blast $300B COP29 climate deal as insufficient](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/)
@@ -28,6 +27,7 @@
 * [2024-11-19, 09:44:42](https://news.ycombinator.com/item?id=42181631) - [Minecraft enters real world with $110M global theme park deal](https://www.theguardian.com/business/2024/nov/19/minecraft-theme-park-deal-uk-us-merlin-entertainments)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
 * [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [Engineers Discover a 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
+* [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 
