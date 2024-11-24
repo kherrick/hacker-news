@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 17:54:27](https://news.ycombinator.com/item?id=42229207) - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
+* [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
 * [2024-11-24, 17:00:06](https://news.ycombinator.com/item?id=42228866) - [Those Correction Notices, in Full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
 * [2024-11-24, 16:44:51](https://news.ycombinator.com/item?id=42228795) - [Senators Say TSA's Facial Recognition Program Is Out of Control](https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310)
 * [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
@@ -12,6 +14,7 @@
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
 * [2024-11-24, 16:19:58](https://news.ycombinator.com/item?id=42228662) - [Tweaking non-neural brain cells can cause memories to fade](https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/)
 * [2024-11-24, 16:09:09](https://news.ycombinator.com/item?id=42228610) - [Volunteer DEF CON hackers dive into America's leaky water infrastructure](https://www.theregister.com/2024/11/24/water_defcon_hacker/)
+* [2024-11-24, 16:03:13](https://news.ycombinator.com/item?id=42228576) - [The case against living in the Bay Area, for ambitious tech people](https://newsletter.goodtechthings.com/p/the-case-against-living-in-the-bay)
 * [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
 * [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
