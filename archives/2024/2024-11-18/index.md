@@ -43,6 +43,7 @@
 * [2024-11-18, 16:19:28](https://news.ycombinator.com/item?id=42173870) - [Nordic neighbours release new advice on surviving war](https://www.bbc.co.uk/news/articles/cjr4zwj2lgdo)
 * [2024-11-18, 16:06:44](https://news.ycombinator.com/item?id=42173709) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/07/25/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 15:56:13](https://news.ycombinator.com/item?id=42173575) - [Communicating Software Estimates](https://www.apsis.io/blog/2016/04/18/communicating-estimates/)
+* [2024-11-18, 15:53:07](https://news.ycombinator.com/item?id=42173538) - [Undersea Cables Connect the Global Internet](https://nautil.us/your-datas-strange-undersea-voyage-1138554/)
 * [2024-11-18, 15:34:44](https://news.ycombinator.com/item?id=42173316) - [Coincidences that make our existence possible](https://bigthink.com/starts-with-a-bang/5-coincidences-make-existence-possible/)
 * [2024-11-18, 15:33:20](https://news.ycombinator.com/item?id=42173292) - [Scientists Clone Two Black-Footed Ferrets from Frozen Tissues](https://www.smithsonianmag.com/smart-news/scientists-clone-two-black-footed-ferrets-from-frozen-tissues-in-conservation-effort-180984203/)
 * [2024-11-18, 15:28:57](https://news.ycombinator.com/item?id=42173233) - [A BBC navigation bar component broke depending on the external monitor](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
