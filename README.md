@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 18:45:16](https://news.ycombinator.com/item?id=42229557) - [Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:54:27](https://news.ycombinator.com/item?id=42229207) - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
@@ -27,7 +28,6 @@
 * [2024-11-20, 00:13:47](https://news.ycombinator.com/item?id=42189491) - [The Flavour of Mechanisation](https://aeon.co/essays/extra-virgin-olive-oil-is-the-flavour-of-mechanisation)
 * [2024-11-19, 14:24:43](https://news.ycombinator.com/item?id=42183747) - [Which Power Plant Does My Electricity Come From?](https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from)
 * [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)
-* [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [A 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-18, 15:53:07](https://news.ycombinator.com/item?id=42173538) - [Undersea Cables Connect the Global Internet](https://nautil.us/your-datas-strange-undersea-voyage-1138554/)
 * [2024-11-18, 11:06:09](https://news.ycombinator.com/item?id=42171379) - [Open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 
