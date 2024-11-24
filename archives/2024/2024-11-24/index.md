@@ -10,6 +10,7 @@
 * [2024-11-24, 16:29:35](https://news.ycombinator.com/item?id=42228713) - [Open source audio transcription model that obscures sensitive info in realtime](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
 * [2024-11-24, 16:19:58](https://news.ycombinator.com/item?id=42228662) - [Tweaking non-neural brain cells can cause memories to fade](https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/)
+* [2024-11-24, 16:09:09](https://news.ycombinator.com/item?id=42228610) - [Volunteer DEF CON hackers dive into America's leaky water infrastructure](https://www.theregister.com/2024/11/24/water_defcon_hacker/)
 * [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
 * [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
