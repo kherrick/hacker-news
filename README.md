@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 09:42:03](https://news.ycombinator.com/item?id=42226964) - [Literature Clock](https://literature-clock.jenevoldsen.com/)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
-* [2024-11-24, 04:32:19](https://news.ycombinator.com/item?id=42225929) - [Developing nations blast $300B COP29 climate deal as insufficient](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/)
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 * [2024-11-24, 00:42:13](https://news.ycombinator.com/item?id=42225099) - [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
 * [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
