@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 09:07:31](https://news.ycombinator.com/item?id=42226860) - [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)
 * [2024-11-24, 06:24:35](https://news.ycombinator.com/item?id=42226250) - [C++ Standards Contributor Expelled for 'The Undefined Behavior Question'](https://slashdot.org/submission/17330375/c-standards-contributor-expelled-for-the-undefined-behavior-question)
 * [2024-11-24, 05:59:06](https://news.ycombinator.com/item?id=42226185) - [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
