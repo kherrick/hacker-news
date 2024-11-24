@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-24, 06:24:35](https://news.ycombinator.com/item?id=42226250) - [C++ Standards Contributor Expelled for 'The Undefined Behavior Question'](https://slashdot.org/submission/17330375/c-standards-contributor-expelled-for-the-undefined-behavior-question)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 05:19:43](https://news.ycombinator.com/item?id=42226075) - [Hundreds More Nazca Lines Emerge in Peru's Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
@@ -10,6 +9,7 @@
 * [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
 * [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
+* [2024-11-23, 22:08:54](https://news.ycombinator.com/item?id=42224319) - [Firefox DevTools Network Tab: How to filter requests by properties](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties)
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback without getting fired](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
