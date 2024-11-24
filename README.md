@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-24, 14:30:49](https://news.ycombinator.com/item?id=42228091) - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
+* [2024-11-24, 14:20:12](https://news.ycombinator.com/item?id=42228031) - [Php.net Is Down](https://www.php.net/)
 * [2024-11-24, 12:46:13](https://news.ycombinator.com/item?id=42227662) - [How to Make an STM (Scanning Tunneling Microscope) [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
 * [2024-11-24, 12:00:23](https://news.ycombinator.com/item?id=42227481) - [Jiga (YC W21) Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
 * [2024-11-24, 11:00:24](https://news.ycombinator.com/item?id=42227233) - [Deegen: A JIT-Capable VM Generator for Dynamic Languages](https://arxiv.org/abs/2411.11469)
@@ -9,7 +10,6 @@
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 * [2024-11-24, 00:42:13](https://news.ycombinator.com/item?id=42225099) - [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
 * [2024-11-24, 00:40:28](https://news.ycombinator.com/item?id=42225088) - [Async Django in Production](https://jonathanadly.com/is-async-django-ready-for-prime-time)
-* [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
 * [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 22:08:54](https://news.ycombinator.com/item?id=42224319) - [Firefox DevTools Network Tab: How to filter requests by properties](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties)
@@ -18,7 +18,6 @@
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback without getting fired](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 * [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
-* [2024-11-23, 08:58:19](https://news.ycombinator.com/item?id=42219890) - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 14:02:56](https://news.ycombinator.com/item?id=42213902) - [The remarkable life and astonishing times of Dwight Smith Young](https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/)
 * [2024-11-22, 10:04:31](https://news.ycombinator.com/item?id=42212543) - [A short introduction to Interval Tree Clocks (2017)](https://blog.separateconcerns.com/2017-05-07-itc.html)
@@ -29,6 +28,7 @@
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
 * [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [A 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-18, 15:53:07](https://news.ycombinator.com/item?id=42173538) - [Undersea Cables Connect the Global Internet](https://nautil.us/your-datas-strange-undersea-voyage-1138554/)
+* [2024-11-18, 11:06:09](https://news.ycombinator.com/item?id=42171379) - [Open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 
 ## [Archives](archives/index.md)
