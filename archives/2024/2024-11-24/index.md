@@ -6,7 +6,9 @@
 
 * [2024-11-24, 22:00:07](https://news.ycombinator.com/item?id=42231007) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)
 * [2024-11-24, 21:01:01](https://news.ycombinator.com/item?id=42230539) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2024-11-24, 20:52:05](https://news.ycombinator.com/item?id=42230469) - [Removing half a ton of HEU from Kazakhstan (2014)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/)
 * [2024-11-24, 20:43:33](https://news.ycombinator.com/item?id=42230392) - [This Website Is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
+* [2024-11-24, 20:42:42](https://news.ycombinator.com/item?id=42230384) - [SQLite: Outlandish Recursive Query Examples](https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
 * [2024-11-24, 20:27:27](https://news.ycombinator.com/item?id=42230240) - [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)
 * [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink: Direct to Cell](https://www.starlink.com/business/direct-to-cell)
