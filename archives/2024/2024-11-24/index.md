@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 22:23:14](https://news.ycombinator.com/item?id=42231148) - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 * [2024-11-24, 22:00:07](https://news.ycombinator.com/item?id=42231007) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)
 * [2024-11-24, 21:58:25](https://news.ycombinator.com/item?id=42230990) - [No More Storage Limits: M.2 Adapter for Apple's M1 MacBooks [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
+* [2024-11-24, 21:54:19](https://news.ycombinator.com/item?id=42230966) - [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
 * [2024-11-24, 21:42:03](https://news.ycombinator.com/item?id=42230889) - [C99 doesn't need function bodies: VLAs are Turing complete](https://lemon.rip/w/c99-vla-tricks/)
 * [2024-11-24, 21:01:01](https://news.ycombinator.com/item?id=42230539) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-11-24, 20:52:05](https://news.ycombinator.com/item?id=42230469) - [Removing half a ton of HEU from Kazakhstan (2014)](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB491/)
