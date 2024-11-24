@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:54:27](https://news.ycombinator.com/item?id=42229207) - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
