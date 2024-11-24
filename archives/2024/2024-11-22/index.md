@@ -55,6 +55,7 @@
 * [2024-11-22, 06:53:55](https://news.ycombinator.com/item?id=42211689) - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
 * [2024-11-22, 06:52:35](https://news.ycombinator.com/item?id=42211685) - [The Tao of Topic Maps (2000)](https://ontopia.net/topicmaps/materials/tao.html)
 * [2024-11-22, 06:30:48](https://news.ycombinator.com/item?id=42211616) - [AI eats the world](https://www.ben-evans.com/presentations)
+* [2024-11-22, 06:17:56](https://news.ycombinator.com/item?id=42211561) - [Slouch: Posture panic in modern America](https://www.thenation.com/article/culture/slouch-back-pain-history/)
 * [2024-11-22, 06:06:28](https://news.ycombinator.com/item?id=42211525) - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
 * [2024-11-22, 05:15:07](https://news.ycombinator.com/item?id=42211367) - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
 * [2024-11-22, 04:57:26](https://news.ycombinator.com/item?id=42211320) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
