@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-23, 23:30:39",
+      "https://news.ycombinator.com/item?id=42224719"
+    ],
+    [
+      "Ice base melt revealed by multibeam imagery of an Antarctic ice shelf",
+      "https://www.science.org/doi/10.1126/sciadv.adn9188"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 23:22:45",
       "https://news.ycombinator.com/item?id=42224685"
     ],
     [
       "CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US",
       "https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 23:18:51",
+      "https://news.ycombinator.com/item?id=42224670"
+    ],
+    [
+      "Bocker: Docker implemented in around 100 lines of Bash (2015)",
+      "https://github.com/p8952/bocker"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-11-23, 21:10:03",
-      "https://news.ycombinator.com/item?id=42223905"
-    ],
-    [
-      "The $5000 Compression Challenge",
-      "https://www.patrickcraig.co.uk/other/compression.htm"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 20:35:26",
       "https://news.ycombinator.com/item?id=42223690"
     ],
@@ -101,22 +111,12 @@
   ],
   [
     [
-      "2024-11-23, 18:07:23",
-      "https://news.ycombinator.com/item?id=42222431"
+      "2024-11-23, 18:35:27",
+      "https://news.ycombinator.com/item?id=42222717"
     ],
     [
-      "Time-series forecasting through recurrent topology",
-      "https://www.nature.com/articles/s44172-023-00142-8"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 17:33:03",
-      "https://news.ycombinator.com/item?id=42222138"
-    ],
-    [
-      "Reverse engineers bust sleazy gig work platform",
-      "https://pluralistic.net/2024/11/23/hack-the-class-war/"
+      "1 Dataset. 100 Visualizations",
+      "https://100.datavizproject.com/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-11-18, 13:41:45",
+      "https://news.ycombinator.com/item?id=42172203"
+    ],
+    [
+      "A century later, a taped message solves the mystery of a WWI doughboy's death",
+      "https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 12:06:32",
       "https://news.ycombinator.com/item?id=42171685"
     ],
@@ -287,16 +297,6 @@
     [
       "Computer Networking Fundamentals – Learning Series (2023)",
       "https://iximiuz.com/en/series/computer-networking-fundamentals/"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 10:43:27",
-      "https://news.ycombinator.com/item?id=42163330"
-    ],
-    [
-      "Oxford accused of relying on young academics employed on gig-economy terms",
-      "https://www.theguardian.com/education/2024/nov/16/oxford-deliveroo-contracts-tutorials-full-time-staff-gig-economy"
     ]
   ]
 ]
