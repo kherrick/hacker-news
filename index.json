@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-24, 16:39:07",
+      "https://news.ycombinator.com/item?id=42228759"
+    ],
+    [
+      "Howstuffworks.com creator, Marshall Brain, has died",
+      "https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 16:29:35",
+      "https://news.ycombinator.com/item?id=42228713"
+    ],
+    [
+      "Open source audio transcription model that obscures sensitive info in realtime",
+      "https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 16:20:58",
       "https://news.ycombinator.com/item?id=42228672"
     ],
@@ -127,16 +147,6 @@
     [
       "32k context length text embedding models",
       "https://blog.voyageai.com/2024/09/18/voyage-3/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 00:40:28",
-      "https://news.ycombinator.com/item?id=42225088"
-    ],
-    [
-      "Async Django in Production",
-      "https://jonathanadly.com/is-async-django-ready-for-prime-time"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Open-interpreter: A natural language interface for computers",
       "https://github.com/OpenInterpreter/open-interpreter"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 10:38:41",
-      "https://news.ycombinator.com/item?id=42171248"
-    ],
-    [
-      "Stack Analyser: detect technologies used inside a repo",
-      "https://github.com/specfy/stack-analyser"
     ]
   ]
 ]
