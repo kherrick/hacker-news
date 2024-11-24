@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-11-24, 20:08:34",
+      "https://news.ycombinator.com/item?id=42230103"
+    ],
+    [
+      "Starlink: Direct to Cell",
+      "https://www.starlink.com/business/direct-to-cell"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 19:30:10",
       "https://news.ycombinator.com/item?id=42229825"
     ],
     [
       "Hynix launches 321-layer NAND",
       "https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 18:45:16",
-      "https://news.ycombinator.com/item?id=42229557"
-    ],
-    [
-      "Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA",
-      "https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42229003"
     ],
     [
-      "I made an ls alternative for my personal use it turned out to be amazing",
+      "I made an ls alternative for my personal use",
       "https://github.com/triyanox/lla"
     ]
   ],
@@ -107,26 +107,6 @@
     [
       "Linux 6.13 Will Report the Number of Hung Tasks Since Boot",
       "https://www.phoronix.com/news/Linux-6.13-Non-MM"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 16:19:58",
-      "https://news.ycombinator.com/item?id=42228662"
-    ],
-    [
-      "Tweaking non-neural brain cells can cause memories to fade",
-      "https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 16:09:09",
-      "https://news.ycombinator.com/item?id=42228610"
-    ],
-    [
-      "Volunteer DEF CON hackers dive into America's leaky water infrastructure",
-      "https://www.theregister.com/2024/11/24/water_defcon_hacker/"
     ]
   ],
   [
@@ -201,6 +181,36 @@
   ],
   [
     [
+      "2024-11-24, 09:38:06",
+      "https://news.ycombinator.com/item?id=42226953"
+    ],
+    [
+      "Charset=\"WTF-8\"",
+      "https://wtf-8.xn--stpie-k0a81a.com/"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 05:59:06",
+      "https://news.ycombinator.com/item?id=42226185"
+    ],
+    [
+      "Denmark will plant 1B trees and convert 10% of farmland into forest",
+      "https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 05:03:13",
+      "https://news.ycombinator.com/item?id=42226005"
+    ],
+    [
+      "Dear friend, you have built a Kubernetes",
+      "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 02:19:45",
       "https://news.ycombinator.com/item?id=42225481"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-11-23, 04:05:44",
-      "https://news.ycombinator.com/item?id=42219123"
-    ],
-    [
-      "Italian supervolcano \"Phlegraean Fields\" is showing signs of waking up",
-      "https://www.earth.com/news/supervolcano-italy-solfatara-crater-phlegraean-fields-shows-signs-of-waking-up/"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 14:35:38",
       "https://news.ycombinator.com/item?id=42214143"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-11-20, 00:13:47",
-      "https://news.ycombinator.com/item?id=42189491"
-    ],
-    [
-      "The Flavour of Mechanisation",
-      "https://aeon.co/essays/extra-virgin-olive-oil-is-the-flavour-of-mechanisation"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 14:24:43",
       "https://news.ycombinator.com/item?id=42183747"
     ],
     [
       "Which power plant does my electricity come from?",
       "https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 03:27:03",
+      "https://news.ycombinator.com/item?id=42179850"
+    ],
+    [
+      "A 132-Year-Old Message in a Bottle in a Scottish Lighthouse",
+      "https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html"
     ]
   ],
   [
