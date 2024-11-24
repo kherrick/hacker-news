@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
+* [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 * [2024-11-24, 14:30:49](https://news.ycombinator.com/item?id=42228091) - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
 * [2024-11-24, 14:20:12](https://news.ycombinator.com/item?id=42228031) - [Php.net Is Down](https://www.php.net/)
 * [2024-11-24, 12:46:13](https://news.ycombinator.com/item?id=42227662) - [How to Make an STM (Scanning Tunneling Microscope) [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
