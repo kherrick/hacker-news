@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-24, 01:23:06",
+      "https://news.ycombinator.com/item?id=42225260"
+    ],
+    [
+      "The biggest blocker to LibreOffice adoption? LibreOffice",
+      "https://www.dedoimedo.com/computers/libreoffice-adoption.html"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 23:30:39",
       "https://news.ycombinator.com/item?id=42224719"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-11-23, 23:22:45",
-      "https://news.ycombinator.com/item?id=42224685"
-    ],
-    [
-      "CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US",
-      "https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 23:18:51",
       "https://news.ycombinator.com/item?id=42224670"
     ],
     [
       "Bocker: Docker implemented in around 100 lines of Bash (2015)",
       "https://github.com/p8952/bocker"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 22:21:56",
-      "https://news.ycombinator.com/item?id=42224398"
-    ],
-    [
-      "Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features",
-      "https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/"
     ]
   ],
   [
@@ -57,6 +47,26 @@
     [
       "Establishing an etiquette for LLM use on Libera.Chat",
       "https://libera.chat/news/llm-etiquette"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 21:56:39",
+      "https://news.ycombinator.com/item?id=42224264"
+    ],
+    [
+      "AI PCs make users less productive",
+      "https://www.theregister.com/2024/11/22/ai_pcs_productivity/"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 21:47:26",
+      "https://news.ycombinator.com/item?id=42224212"
+    ],
+    [
+      "Anti-scale: a response to AI in journalism",
+      "https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-11-23, 19:26:05",
-      "https://news.ycombinator.com/item?id=42223201"
-    ],
-    [
-      "9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot",
-      "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 19:15:54",
       "https://news.ycombinator.com/item?id=42223099"
     ],
@@ -127,16 +127,6 @@
     [
       "Size and albedo of the largest detected Oort-cloud object",
       "https://arxiv.org/abs/2201.13188"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 12:00:53",
-      "https://news.ycombinator.com/item?id=42220476"
-    ],
-    [
-      "Alloy Automation (YC W20) Is Hiring",
-      "https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-11-22, 21:31:51",
+      "https://news.ycombinator.com/item?id=42217535"
+    ],
+    [
+      "RGFW: Single-header C99 window abstraction library",
+      "https://github.com/ColleagueRiley/RGFW"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 14:02:56",
       "https://news.ycombinator.com/item?id=42213902"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-11-19, 11:27:42",
+      "https://news.ycombinator.com/item?id=42182292"
+    ],
+    [
+      "Three hundred words you can spell on a calculator [pdf]",
+      "https://www.mathsquad.com/calculatorwords.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 09:31:31",
       "https://news.ycombinator.com/item?id=42181529"
     ],
@@ -267,16 +277,6 @@
     [
       "A century later, a taped message solves the mystery of a WWI doughboy's death",
       "https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 12:06:32",
-      "https://news.ycombinator.com/item?id=42171685"
-    ],
-    [
-      "Writes Large Correct Programs (2008)",
-      "https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/"
     ]
   ],
   [
