@@ -20,7 +20,7 @@
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 14:02:56](https://news.ycombinator.com/item?id=42213902) - [The remarkable life and astonishing times of Dwight Smith Young](https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/)
 * [2024-11-22, 10:04:31](https://news.ycombinator.com/item?id=42212543) - [A short introduction to Interval Tree Clocks](https://blog.separateconcerns.com/2017-05-07-itc.html)
-* [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
+* [2024-11-20, 09:41:41](https://news.ycombinator.com/item?id=42192237) - [Microsoft will soon let you clone your voice for Teams meetings](https://techcrunch.com/2024/11/19/soon-microsoft-will-let-teams-meeting-attendees-clone-their-voices/)
 * [2024-11-19, 14:24:43](https://news.ycombinator.com/item?id=42183747) - [Which Power Plant Does My Electricity Come From?](https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from)
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
 * [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)

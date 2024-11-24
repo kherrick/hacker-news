@@ -65,6 +65,7 @@
 * [2024-11-20, 10:38:27](https://news.ycombinator.com/item?id=42192598) - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
 * [2024-11-20, 10:09:19](https://news.ycombinator.com/item?id=42192412) - [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
+* [2024-11-20, 09:41:41](https://news.ycombinator.com/item?id=42192237) - [Microsoft will soon let you clone your voice for Teams meetings](https://techcrunch.com/2024/11/19/soon-microsoft-will-let-teams-meeting-attendees-clone-their-voices/)
 * [2024-11-20, 08:23:53](https://news.ycombinator.com/item?id=42191805) - [Why don't you move abroad?](https://orkohunter.net/blog/why-dont-you-move-abroad/)
 * [2024-11-20, 08:19:39](https://news.ycombinator.com/item?id=42191781) - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
 * [2024-11-20, 08:03:20](https://news.ycombinator.com/item?id=42191709) - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
