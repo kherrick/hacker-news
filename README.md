@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-24, 10:35:11](https://news.ycombinator.com/item?id=42227151) - [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
-* [2024-11-24, 09:41:52](https://news.ycombinator.com/item?id=42226963) - [Not Using Copilot](https://macwright.com/2024/11/20/not-using-copilot)
+* [2024-11-24, 09:42:03](https://news.ycombinator.com/item?id=42226964) - [Literature Clock](https://literature-clock.jenevoldsen.com/)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
@@ -27,7 +27,7 @@
 * [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)
 * [2024-11-19, 09:44:42](https://news.ycombinator.com/item?id=42181631) - [Minecraft enters real world with $110M global theme park deal](https://www.theguardian.com/business/2024/nov/19/minecraft-theme-park-deal-uk-us-merlin-entertainments)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-* [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [Engineers Discover a 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
+* [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [A 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 
