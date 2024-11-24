@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 12:00:23](https://news.ycombinator.com/item?id=42227481) - [Jiga (YC W21) Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
 * [2024-11-24, 11:16:42](https://news.ycombinator.com/item?id=42227290) - [PHP Is Legacy, in 2024](https://developer.vonage.com/en/blog/php-is-legacy-in-2024)
 * [2024-11-24, 10:55:44](https://news.ycombinator.com/item?id=42227214) - [Prediction-Nuclear Pwr Will Be > 30% of New Installed Capacity in 10 Years in US](https://2-5-10.com/prediction-nuclear-power-will-be-more-than-30-of-new-installed-capacity-in-10-years-in-usa/)
 * [2024-11-24, 10:35:11](https://news.ycombinator.com/item?id=42227151) - [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
