@@ -56,6 +56,7 @@
 * [2024-11-18, 14:31:17](https://news.ycombinator.com/item?id=42172565) - [Mystery fault takes out undersea internet cable between Germany and Finland](https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html)
 * [2024-11-18, 13:57:04](https://news.ycombinator.com/item?id=42172306) - [The Ancients Had Ops](https://reedmeyerson.com/posts/ancient_ops/)
 * [2024-11-18, 13:53:07](https://news.ycombinator.com/item?id=42172281) - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
+* [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 13:22:16](https://news.ycombinator.com/item?id=42172081) - [Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF](https://www.theregister.com/2024/11/18/who_me/)
 * [2024-11-18, 13:14:44](https://news.ycombinator.com/item?id=42172034) - [Blogging Through the Decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-18, 13:11:50](https://news.ycombinator.com/item?id=42172015) - [Growing Music: musical interpretations of L-Systems (2023) [pdf]](https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
 * [2024-11-23, 23:22:45](https://news.ycombinator.com/item?id=42224685) - [CDC Confirms H5N1 Bird Flu Infection in Californa Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
+* [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
 * [2024-11-23, 22:21:56](https://news.ycombinator.com/item?id=42224398) - [Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 22:06:12](https://news.ycombinator.com/item?id=42224306) - [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
@@ -19,6 +21,7 @@
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:16:12](https://news.ycombinator.com/item?id=42223100) - [Neuralink gets approval to start human trials in Canada](https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html)
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
+* [2024-11-23, 18:35:27](https://news.ycombinator.com/item?id=42222717) - [1 Dataset. 100 Visualizations](https://100.datavizproject.com/)
 * [2024-11-23, 18:07:23](https://news.ycombinator.com/item?id=42222431) - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
 * [2024-11-23, 18:02:17](https://news.ycombinator.com/item?id=42222387) - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
 * [2024-11-23, 17:59:53](https://news.ycombinator.com/item?id=42222361) - [Mercedes spends $8bn/year on R&D](https://www.caranddriver.com/news/a62963154/mercedes-benz-is-driving-forward-to-the-future/)
