@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 17:00:06](https://news.ycombinator.com/item?id=42228866) - [Those Correction Notices, in Full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
+* [2024-11-24, 16:44:51](https://news.ycombinator.com/item?id=42228795) - [Senators Say TSA's Facial Recognition Program Is Out of Control](https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310)
 * [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
 * [2024-11-24, 16:29:35](https://news.ycombinator.com/item?id=42228713) - [Open source audio transcription model that obscures sensitive info in realtime](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
@@ -11,6 +13,8 @@
 * [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
 * [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
+* [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
+* [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The Size of BYD's Factory](https://twitter.com/taylorogan/status/1859146242519167249)
 * [2024-11-24, 14:30:49](https://news.ycombinator.com/item?id=42228091) - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
 * [2024-11-24, 14:20:12](https://news.ycombinator.com/item?id=42228031) - [Php.net Is Down](https://www.php.net/)
 * [2024-11-24, 12:46:13](https://news.ycombinator.com/item?id=42227662) - [How to Make an STM (Scanning Tunneling Microscope) [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
