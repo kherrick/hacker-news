@@ -85,3 +85,4 @@
 * [2024-11-19, 01:09:41](https://news.ycombinator.com/item?id=42179135) - ['Achilles heel' of antibiotic-resistant bacteria discovered](https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/)
 * [2024-11-19, 00:35:15](https://news.ycombinator.com/item?id=42178916) - [Why I Hate the Index Finger (1980)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/)
 * [2024-11-19, 00:15:04](https://news.ycombinator.com/item?id=42178761) - [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference)
+* [2024-11-19, 00:10:05](https://news.ycombinator.com/item?id=42178718) - [Cheerleading Became Acrobatic, Dangerous and Popular](https://www.nytimes.com/2024/10/22/magazine/cheerleading-jeff-webb.html)
