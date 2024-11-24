@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 10:55:44](https://news.ycombinator.com/item?id=42227214) - [Prediction-Nuclear Pwr Will Be > 30% of New Installed Capacity in 10 Years in US](https://2-5-10.com/prediction-nuclear-power-will-be-more-than-30-of-new-installed-capacity-in-10-years-in-usa/)
+* [2024-11-24, 10:35:11](https://news.ycombinator.com/item?id=42227151) - [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
 * [2024-11-24, 09:54:13](https://news.ycombinator.com/item?id=42227013) - [Setting up TiddlyWiki as a BASIC programming platform](https://www.youtube.com/watch?v=kNNjmha5Fzg)
 * [2024-11-24, 09:42:03](https://news.ycombinator.com/item?id=42226964) - [Literature Clock](https://literature-clock.jenevoldsen.com/)
 * [2024-11-24, 09:07:31](https://news.ycombinator.com/item?id=42226860) - [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)
