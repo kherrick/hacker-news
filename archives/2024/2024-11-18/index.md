@@ -82,6 +82,7 @@
 * [2024-11-18, 09:18:22](https://news.ycombinator.com/item?id=42170931) - [How Hard Should Your Employer Work to Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/)
 * [2024-11-18, 08:34:46](https://news.ycombinator.com/item?id=42170746) - [Ask HN: Is there any license that is designed to exclude LLMs?](https://news.ycombinator.com/item?id=42170746)
 * [2024-11-18, 08:33:32](https://news.ycombinator.com/item?id=42170740) - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
+* [2024-11-18, 08:25:36](https://news.ycombinator.com/item?id=42170721) - [The Power of Small Brain Networks](https://nautil.us/the-power-of-small-brain-networks-1138987/)
 * [2024-11-18, 08:01:44](https://news.ycombinator.com/item?id=42170624) - [Show HN: World's Radio – Listen to Radio Stations Worldwide](https://www.worldsradio.com)
 * [2024-11-18, 07:45:03](https://news.ycombinator.com/item?id=42170552) - [Against Best Practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 07:37:16](https://news.ycombinator.com/item?id=42170519) - [Show HN: Dumbo – Hono inspired framework for PHP](https://github.com/notrab/dumbo)
