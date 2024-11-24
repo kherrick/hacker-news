@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink: Direct to Cell](https://www.starlink.com/business/direct-to-cell)
 * [2024-11-24, 19:30:10](https://news.ycombinator.com/item?id=42229825) - [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
 * [2024-11-24, 18:45:16](https://news.ycombinator.com/item?id=42229557) - [Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
