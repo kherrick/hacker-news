@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 03:19:51](https://news.ycombinator.com/item?id=42225688) - [There Is No Business Case for Civilization](https://twitter.com/peterrhague/status/1764746632011149655)
 * [2024-11-24, 02:54:02](https://news.ycombinator.com/item?id=42225609) - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
@@ -12,7 +13,6 @@
 * [2024-11-23, 21:47:26](https://news.ycombinator.com/item?id=42224212) - [Anti-scale: a response to AI in journalism](https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism)
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
-* [2024-11-23, 19:34:50](https://news.ycombinator.com/item?id=42223286) - [Energy is frame-dependent, infrastructure of energy is frame-independent (2020)](https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html)
 * [2024-11-23, 18:35:27](https://news.ycombinator.com/item?id=42222717) - [1 Dataset. 100 Visualizations](https://100.datavizproject.com/)
 * [2024-11-23, 15:51:21](https://news.ycombinator.com/item?id=42221512) - [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
@@ -26,10 +26,10 @@
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
 * [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-* [2024-11-19, 00:10:05](https://news.ycombinator.com/item?id=42178718) - [Cheerleading Became Acrobatic, Dangerous and Popular](https://www.nytimes.com/2024/10/22/magazine/cheerleading-jeff-webb.html)
 * [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
+* [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
 
 ## [Archives](archives/index.md)
 
