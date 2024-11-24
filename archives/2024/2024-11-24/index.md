@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
+* [2024-11-24, 16:29:35](https://news.ycombinator.com/item?id=42228713) - [Open source audio transcription model that obscures sensitive info in realtime](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
 * [2024-11-24, 16:19:58](https://news.ycombinator.com/item?id=42228662) - [Tweaking non-neural brain cells can cause memories to fade](https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/)
 * [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)

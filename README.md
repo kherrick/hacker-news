@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Howstuffworks.com creator, Marshall Brain, has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
+* [2024-11-24, 16:29:35](https://news.ycombinator.com/item?id=42228713) - [Open source audio transcription model that obscures sensitive info in realtime](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 Will Report the Number of Hung Tasks Since Boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
 * [2024-11-24, 16:19:58](https://news.ycombinator.com/item?id=42228662) - [Tweaking non-neural brain cells can cause memories to fade](https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/)
 * [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A Career Ending Mistake](https://bitfieldconsulting.com/posts/career)
@@ -13,7 +15,6 @@
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 * [2024-11-24, 00:42:13](https://news.ycombinator.com/item?id=42225099) - [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
-* [2024-11-24, 00:40:28](https://news.ycombinator.com/item?id=42225088) - [Async Django in Production](https://jonathanadly.com/is-async-django-ready-for-prime-time)
 * [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 22:08:54](https://news.ycombinator.com/item?id=42224319) - [Firefox DevTools Network Tab: How to filter requests by properties](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties)
@@ -29,7 +30,6 @@
 * [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [A 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-18, 15:53:07](https://news.ycombinator.com/item?id=42173538) - [Undersea Cables Connect the Global Internet](https://nautil.us/your-datas-strange-undersea-voyage-1138554/)
 * [2024-11-18, 11:06:09](https://news.ycombinator.com/item?id=42171379) - [Open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
-* [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 
 ## [Archives](archives/index.md)
 
