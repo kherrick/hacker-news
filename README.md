@@ -21,7 +21,6 @@
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)
 * [2024-11-22, 23:21:18](https://news.ycombinator.com/item?id=42218184) - [MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX](https://docs.maxxinteractive.com/)
 * [2024-11-22, 14:02:56](https://news.ycombinator.com/item?id=42213902) - [The remarkable life and astonishing times of Dwight Smith Young](https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/)
-* [2024-11-22, 10:49:38](https://news.ycombinator.com/item?id=42212746) - [DreamSim: Learning New Dimensions of Human Visual Similarity (2023)](https://dreamsim-nights.github.io/)
 * [2024-11-22, 10:04:31](https://news.ycombinator.com/item?id=42212543) - [A short introduction to Interval Tree Clocks](https://blog.separateconcerns.com/2017-05-07-itc.html)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
@@ -30,6 +29,7 @@
 * [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
 * [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
+* [2024-11-18, 10:08:41](https://news.ycombinator.com/item?id=42171146) - [Computer Networking Fundamentals – Learning Series (2023)](https://iximiuz.com/en/series/computer-networking-fundamentals/)
 
 ## [Archives](archives/index.md)
 
