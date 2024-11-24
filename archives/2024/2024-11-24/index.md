@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 09:54:13](https://news.ycombinator.com/item?id=42227013) - [Setting up TiddlyWiki as a BASIC programming platform](https://www.youtube.com/watch?v=kNNjmha5Fzg)
 * [2024-11-24, 09:42:03](https://news.ycombinator.com/item?id=42226964) - [Literature Clock](https://literature-clock.jenevoldsen.com/)
 * [2024-11-24, 09:07:31](https://news.ycombinator.com/item?id=42226860) - [Win for Internet freedom: Google must sell its Chrome browser](https://tuta.com/blog/google-must-sell-chrome-in-antitrust-case)
 * [2024-11-24, 06:24:35](https://news.ycombinator.com/item?id=42226250) - [C++ Standards Contributor Expelled for 'The Undefined Behavior Question'](https://slashdot.org/submission/17330375/c-standards-contributor-expelled-for-the-undefined-behavior-question)
