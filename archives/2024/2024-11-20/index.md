@@ -90,4 +90,5 @@
 * [2024-11-20, 01:00:22](https://news.ycombinator.com/item?id=42189791) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must)
 * [2024-11-20, 00:53:41](https://news.ycombinator.com/item?id=42189744) - [I designed my website to look like a chat log](https://www.ypson.com)
 * [2024-11-20, 00:26:30](https://news.ycombinator.com/item?id=42189581) - [Apple Confirms Zero-Day Attacks Hitting macOS Systems](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
+* [2024-11-20, 00:13:47](https://news.ycombinator.com/item?id=42189491) - [The Flavour of Mechanisation](https://aeon.co/essays/extra-virgin-olive-oil-is-the-flavour-of-mechanisation)
 * [2024-11-20, 00:05:18](https://news.ycombinator.com/item?id=42189445) - [Agent Blue – Arsenic-Laced Rainbow [pdf]](https://11thrru.org/pdf/AgentBlue.pdf)
