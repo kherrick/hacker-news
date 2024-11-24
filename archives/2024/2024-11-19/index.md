@@ -65,6 +65,7 @@
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-19, 10:48:49](https://news.ycombinator.com/item?id=42182047) - [Is Python That Slow?](https://blog.miguelgrinberg.com/post/is-python-really-that-slow)
+* [2024-11-19, 10:11:39](https://news.ycombinator.com/item?id=42181815) - [The English Esoteric Programming Language](https://esolangs.org/wiki/English)
 * [2024-11-19, 10:10:30](https://news.ycombinator.com/item?id=42181803) - [Cryptographic Calculator](https://zka.lc/)
 * [2024-11-19, 09:44:42](https://news.ycombinator.com/item?id=42181631) - [Minecraft enters real world with $110M global theme park deal](https://www.theguardian.com/business/2024/nov/19/minecraft-theme-park-deal-uk-us-merlin-entertainments)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
