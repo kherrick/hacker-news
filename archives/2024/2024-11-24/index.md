@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 22:00:07](https://news.ycombinator.com/item?id=42231007) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)
 * [2024-11-24, 21:01:01](https://news.ycombinator.com/item?id=42230539) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-11-24, 20:43:33](https://news.ycombinator.com/item?id=42230392) - [This Website Is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)

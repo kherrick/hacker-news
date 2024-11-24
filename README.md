@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 22:00:07](https://news.ycombinator.com/item?id=42231007) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)
 * [2024-11-24, 21:01:01](https://news.ycombinator.com/item?id=42230539) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-11-24, 20:43:33](https://news.ycombinator.com/item?id=42230392) - [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
@@ -13,7 +14,6 @@
 * [2024-11-24, 16:44:51](https://news.ycombinator.com/item?id=42228795) - [Senators say TSA's facial recognition program is out of control](https://gizmodo.com/senators-say-tsas-facial-recognition-program-is-out-of-control-heres-how-to-opt-out-2000528310)
 * [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Marshall Brain has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
 * [2024-11-24, 16:20:58](https://news.ycombinator.com/item?id=42228672) - [Linux 6.13 will report the number of hung tasks since boot](https://www.phoronix.com/news/Linux-6.13-Non-MM)
-* [2024-11-24, 15:56:34](https://news.ycombinator.com/item?id=42228538) - [A career-ending mistake](https://bitfieldconsulting.com/posts/career)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
 * [2024-11-24, 14:38:40](https://news.ycombinator.com/item?id=42228146) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
