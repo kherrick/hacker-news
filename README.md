@@ -2,7 +2,7 @@
 
 * [2024-11-24, 10:55:44](https://news.ycombinator.com/item?id=42227214) - [Prediction-Nuclear Pwr Will Be > 30% of New Installed Capacity in 10 Years in US](https://2-5-10.com/prediction-nuclear-power-will-be-more-than-30-of-new-installed-capacity-in-10-years-in-usa/)
 * [2024-11-24, 10:35:11](https://news.ycombinator.com/item?id=42227151) - [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
-* [2024-11-24, 09:54:13](https://news.ycombinator.com/item?id=42227013) - [Setting up TiddlyWiki as a BASIC programming platform](https://www.youtube.com/watch?v=kNNjmha5Fzg)
+* [2024-11-24, 09:41:52](https://news.ycombinator.com/item?id=42226963) - [Not Using Copilot](https://macwright.com/2024/11/20/not-using-copilot)
 * [2024-11-24, 05:23:34](https://news.ycombinator.com/item?id=42226081) - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
 * [2024-11-24, 04:47:55](https://news.ycombinator.com/item?id=42225971) - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 * [2024-11-24, 02:19:45](https://news.ycombinator.com/item?id=42225481) - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
