@@ -60,6 +60,7 @@
 * [2024-11-19, 12:01:01](https://news.ycombinator.com/item?id=42182503) - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
 * [2024-11-19, 11:58:24](https://news.ycombinator.com/item?id=42182485) - [We Can't Give Up Paper Checks, and That's a Gold Mine for Scammers](https://www.wsj.com/finance/banking/paper-checks-fraud-scam-banks-9e4fb940)
 * [2024-11-19, 11:52:49](https://news.ycombinator.com/item?id=42182442) - [Arm PC Base System Architecture 1.0](https://developer.arm.com/documentation/den0151/a)
+* [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)
 * [2024-11-19, 11:02:32](https://news.ycombinator.com/item?id=42182146) - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
 * [2024-11-19, 10:58:48](https://news.ycombinator.com/item?id=42182113) - [A C++ Mixin System](https://jennyjams.net/blog/cpp-mixin/)
 * [2024-11-19, 10:48:49](https://news.ycombinator.com/item?id=42182047) - [Is Python That Slow?](https://blog.miguelgrinberg.com/post/is-python-really-that-slow)
