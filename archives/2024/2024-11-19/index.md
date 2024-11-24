@@ -44,6 +44,7 @@
 * [2024-11-19, 15:19:37](https://news.ycombinator.com/item?id=42184362) - [Show HN: Fireproof – local-first database with Git-like encrypted sync](https://fireproof.storage/)
 * [2024-11-19, 15:05:10](https://news.ycombinator.com/item?id=42184170) - [Red Hat and Microsoft Bringing RHEL to WSL](https://www.phoronix.com/news/Red-Hat-MS-RHEL-WSL)
 * [2024-11-19, 14:59:34](https://news.ycombinator.com/item?id=42184119) - [X's Moonshot for Circularity](https://x.company/blog/posts/moonshot-for-circularity/)
+* [2024-11-19, 14:24:43](https://news.ycombinator.com/item?id=42183747) - [Which Power Plant Does My Electricity Come From?](https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
 * [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 * [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
