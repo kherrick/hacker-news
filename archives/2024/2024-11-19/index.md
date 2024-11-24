@@ -80,6 +80,7 @@
 * [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)
 * [2024-11-19, 05:02:45](https://news.ycombinator.com/item?id=42180217) - [Retro beige PC case goes from April Fools' joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
 * [2024-11-19, 03:54:00](https://news.ycombinator.com/item?id=42179969) - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
+* [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [Engineers Discover a 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-19, 03:12:19](https://news.ycombinator.com/item?id=42179774) - [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
 * [2024-11-19, 03:12:12](https://news.ycombinator.com/item?id=42179773) - [Hyrumtoken: A Go package to encrypt pagination tokens](https://github.com/ssoready/hyrumtoken)
 * [2024-11-19, 02:25:14](https://news.ycombinator.com/item?id=42179541) - [Sequin: A powerful little tool for inspecting ANSI escape sequences](https://github.com/charmbracelet/sequin)

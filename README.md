@@ -27,7 +27,7 @@
 * [2024-11-19, 11:27:42](https://news.ycombinator.com/item?id=42182292) - [Three hundred words you can spell on a calculator [pdf]](https://www.mathsquad.com/calculatorwords.pdf)
 * [2024-11-19, 09:44:42](https://news.ycombinator.com/item?id=42181631) - [Minecraft enters real world with $110M global theme park deal](https://www.theguardian.com/business/2024/nov/19/minecraft-theme-park-deal-uk-us-merlin-entertainments)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-* [2024-11-18, 14:33:04](https://news.ycombinator.com/item?id=42172575) - [Music as Language (2019) [pdf]](https://omelkonian.github.io/data/publications/music-grammars.pdf)
+* [2024-11-19, 03:27:03](https://news.ycombinator.com/item?id=42179850) - [Engineers Discover a 132-Year-Old Message in a Bottle in a Scottish Lighthouse](https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html)
 * [2024-11-18, 13:41:45](https://news.ycombinator.com/item?id=42172203) - [A century later, a taped message solves the mystery of a WWI doughboy's death](https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/)
 * [2024-11-18, 10:38:41](https://news.ycombinator.com/item?id=42171248) - [Stack Analyser: detect technologies used inside a repo](https://github.com/specfy/stack-analyser)
 
