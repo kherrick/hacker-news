@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 07:55:19",
+      "https://news.ycombinator.com/item?id=42234147"
+    ],
+    [
+      "Judge's Investigation into Patent Troll Results in Criminal Referrals",
+      "https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 06:02:22",
       "https://news.ycombinator.com/item?id=42233651"
     ],
@@ -97,6 +107,16 @@
     [
       "SQLiteStudio: Create, edit, browse SQLite databases",
       "https://sqlitestudio.pl/"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 23:21:36",
+      "https://news.ycombinator.com/item?id=42231489"
+    ],
+    [
+      "The Two Factions of C++",
+      "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-11-23, 21:10:03",
-      "https://news.ycombinator.com/item?id=42223905"
-    ],
-    [
-      "The $5000 Compression Challenge (2001)",
-      "https://www.patrickcraig.co.uk/other/compression.htm"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 17:34:32",
       "https://news.ycombinator.com/item?id=42215741"
     ],
@@ -257,16 +267,6 @@
     [
       "NASA: Mystery of Life's Handedness Deepens",
       "https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 13:03:09",
-      "https://news.ycombinator.com/item?id=42213485"
-    ],
-    [
-      "Slow Email (2008)",
-      "http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42182620"
     ],
     [
-      "OCaml Syntax Sucks",
+      "OCaml Syntax Sucks (2016)",
       "http://xahlee.info/comp/ocaml_let_syntax.html"
     ]
   ]
