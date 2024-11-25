@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
 * [2024-11-25, 13:00:15](https://news.ycombinator.com/item?id=42235909) - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
+* [2024-11-25, 12:38:33](https://news.ycombinator.com/item?id=42235762) - [What happened when a city started accepting - not evicting - homeless camps](https://www.bbc.com/news/articles/c3wq7l1lnqpo)
 * [2024-11-25, 12:19:55](https://news.ycombinator.com/item?id=42235635) - [Mysteries in polar orbit – space's oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 11:02:49](https://news.ycombinator.com/item?id=42235183) - [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
