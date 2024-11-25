@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 * [2024-11-25, 16:49:57](https://news.ycombinator.com/item?id=42237766) - [The genesis of today's recruiting crisis](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+* [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
 * [2024-11-25, 15:03:39](https://news.ycombinator.com/item?id=42236841) - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
 * [2024-11-25, 13:52:34](https://news.ycombinator.com/item?id=42236292) - [Focaccia: A Neolithic culinary tradition dating back 9k years ago](https://phys.org/news/2024-11-focaccia-neolithic-culinary-tradition-dating.html)
