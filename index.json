@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-11-24, 21:42:03",
-      "https://news.ycombinator.com/item?id=42230889"
-    ],
-    [
-      "C99 doesn't need function bodies: VLAs are Turing complete",
-      "https://lemon.rip/w/c99-vla-tricks/"
-    ]
-  ],
-  [
-    [
       "2024-11-24, 21:01:01",
       "https://news.ycombinator.com/item?id=42230539"
     ],
@@ -287,6 +277,16 @@
     [
       "Digital Show and Tell (2013): Xiph's Monty on Digital Audio",
       "https://xiph.org/video/vid2.shtml"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 12:17:12",
+      "https://news.ycombinator.com/item?id=42182620"
+    ],
+    [
+      "OCaml Syntax Sucks",
+      "http://xahlee.info/comp/ocaml_let_syntax.html"
     ]
   ],
   [
