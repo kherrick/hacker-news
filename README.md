@@ -26,8 +26,8 @@
 * [2024-11-24, 05:03:13](https://news.ycombinator.com/item?id=42226005) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 02:54:02](https://news.ycombinator.com/item?id=42225609) - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
-* [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
+* [2024-11-20, 06:41:11](https://news.ycombinator.com/item?id=42191328) - [A summer intern once saved Valve from a near-fatal lawsuit](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email/)
 * [2024-11-19, 22:59:09](https://news.ycombinator.com/item?id=42188980) - [Creating Your Own Programming Language – Laurence Tratt [video]](https://www.youtube.com/watch?v=Q2UDHY5as90)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks (2016)](http://xahlee.info/comp/ocaml_let_syntax.html)
 
