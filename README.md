@@ -2,7 +2,6 @@
 
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:20:25](https://news.ycombinator.com/item?id=42232620) - [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
-* [2024-11-25, 01:47:17](https://news.ycombinator.com/item?id=42232430) - [Semantic Transpiler Agent](https://github.com/cyyeh/sta)
 * [2024-11-25, 01:46:13](https://news.ycombinator.com/item?id=42232424) - [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
 * [2024-11-25, 01:24:41](https://news.ycombinator.com/item?id=42232289) - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 * [2024-11-25, 00:43:03](https://news.ycombinator.com/item?id=42232040) - [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/)
@@ -26,6 +25,7 @@
 * [2024-11-24, 02:54:02](https://news.ycombinator.com/item?id=42225609) - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge (2001)](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
+* [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks](http://xahlee.info/comp/ocaml_let_syntax.html)
