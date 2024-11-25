@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-25, 07:59:59](https://news.ycombinator.com/item?id=42234174) - [Raspberry Pi Pico 2 W on sale now at $7](https://www.raspberrypi.com/news/raspberry-pi-pico-2-w-on-sale-now/)
 * [2024-11-25, 07:55:19](https://news.ycombinator.com/item?id=42234147) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 * [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
@@ -22,7 +23,6 @@
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
 * [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The size of BYD's factory](https://twitter.com/taylorogan/status/1859146242519167249)
 * [2024-11-24, 09:38:06](https://news.ycombinator.com/item?id=42226953) - [Charset=\"WTF-8\"](https://wtf-8.xn--stpie-k0a81a.com/)
-* [2024-11-24, 05:59:06](https://news.ycombinator.com/item?id=42226185) - [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
 * [2024-11-24, 05:03:13](https://news.ycombinator.com/item?id=42226005) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 02:54:02](https://news.ycombinator.com/item?id=42225609) - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
