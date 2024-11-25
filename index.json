@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-25, 09:40:06",
-      "https://news.ycombinator.com/item?id=42234695"
-    ],
-    [
-      "Lonely individuals tend to think and talk in an unusual way, study finds",
-      "https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 05:41:45",
       "https://news.ycombinator.com/item?id=42233565"
     ],
@@ -67,6 +57,16 @@
     [
       "Reweb: Visual website builder for Next.js and Tailwind",
       "https://www.reweb.so/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 00:43:03",
+      "https://news.ycombinator.com/item?id=42232040"
+    ],
+    [
+      "RFC 35140: HTTP Do-Not-Stab (2023)",
+      "https://www.5snb.club/posts/2023/do-not-stab/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-11-24, 21:01:01",
-      "https://news.ycombinator.com/item?id=42230539"
-    ],
-    [
-      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
-    ]
-  ],
-  [
-    [
       "2024-11-24, 20:43:33",
       "https://news.ycombinator.com/item?id=42230392"
     ],
@@ -127,6 +117,16 @@
     [
       "Pushing AMD's Infinity Fabric to Its Limit",
       "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 20:37:27",
+      "https://news.ycombinator.com/item?id=42230332"
+    ],
+    [
+      "Owl Lisp – A functional Scheme for world domination",
+      "https://gitlab.com/owl-lisp/owl"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-11-24, 05:03:13",
+      "https://news.ycombinator.com/item?id=42226005"
+    ],
+    [
+      "Dear friend, you have built a Kubernetes",
+      "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 02:19:45",
       "https://news.ycombinator.com/item?id=42225481"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2024-11-21, 11:37:34",
-      "https://news.ycombinator.com/item?id=42203290"
-    ],
-    [
-      "Code Search – Grep by Vercel",
-      "https://grep.app/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 14:24:43",
-      "https://news.ycombinator.com/item?id=42183747"
-    ],
-    [
-      "Which power plant does my electricity come from?",
-      "https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 12:17:12",
       "https://news.ycombinator.com/item?id=42182620"
     ],
@@ -287,6 +277,16 @@
     [
       "A 132-Year-Old Message in a Bottle in a Scottish Lighthouse",
       "https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 11:06:09",
+      "https://news.ycombinator.com/item?id=42171379"
+    ],
+    [
+      "Open-interpreter: A natural language interface for computers",
+      "https://github.com/OpenInterpreter/open-interpreter"
     ]
   ],
   [
