@@ -63,6 +63,7 @@
 * [2024-11-20, 12:53:40](https://news.ycombinator.com/item?id=42193508) - [Judge Rules Decentralized Autonomous Organizations Not So Decentralized in Law](https://gizmodo.com/judge-rules-decentralized-autonomous-organizations-arent-so-decentralized-in-the-eyes-of-the-law-2000526564)
 * [2024-11-20, 12:00:58](https://news.ycombinator.com/item?id=42193089) - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
 * [2024-11-20, 11:45:17](https://news.ycombinator.com/item?id=42192972) - [How Google spent 15 years creating a culture of concealment](https://www.nytimes.com/2024/11/20/technology/google-antitrust-employee-messages.html)
+* [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
 * [2024-11-20, 10:38:27](https://news.ycombinator.com/item?id=42192598) - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
 * [2024-11-20, 10:09:19](https://news.ycombinator.com/item?id=42192412) - [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world)
 * [2024-11-20, 09:58:39](https://news.ycombinator.com/item?id=42192336) - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
