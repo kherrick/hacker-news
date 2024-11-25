@@ -19,6 +19,7 @@
 * [2024-11-22, 18:31:03](https://news.ycombinator.com/item?id=42216217) - [MIT researchers develop an efficient way to train more reliable AI agents](https://news.mit.edu/2024/mit-researchers-develop-efficiency-training-more-reliable-ai-agents-1122)
 * [2024-11-22, 17:54:27](https://news.ycombinator.com/item?id=42215918) - [Writing efficient unit tests in Java](https://www.qodo.ai/blog/writing-efficient-unit-tests-in-java-best-practices-and-examples/)
 * [2024-11-22, 17:53:29](https://news.ycombinator.com/item?id=42215910) - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
+* [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 17:10:44](https://news.ycombinator.com/item?id=42215552) - [Phased Array Microphone](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
 * [2024-11-22, 17:00:36](https://news.ycombinator.com/item?id=42215453) - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
 * [2024-11-22, 16:58:35](https://news.ycombinator.com/item?id=42215438) - [Rendering \"modern\" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
