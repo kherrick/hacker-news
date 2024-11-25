@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
-* [2024-11-25, 21:24:45](https://news.ycombinator.com/item?id=42240364) - [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 * [2024-11-25, 20:51:23](https://news.ycombinator.com/item?id=42240048) - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 * [2024-11-25, 20:40:34](https://news.ycombinator.com/item?id=42239952) - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
@@ -22,6 +21,7 @@
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:53:03](https://news.ycombinator.com/item?id=42231325) - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
+* [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [Show HN: I made an ls alternative for my personal use](https://github.com/triyanox/lla)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
