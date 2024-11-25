@@ -2,7 +2,6 @@
 
 * [2024-11-25, 11:02:49](https://news.ycombinator.com/item?id=42235183) - [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
 * [2024-11-25, 10:08:55](https://news.ycombinator.com/item?id=42234837) - [Contentlesshtml – An HTML page served entire in HTTP headers](https://www.5snb.club/pages/contentlesshtml/)
-* [2024-11-25, 09:53:06](https://news.ycombinator.com/item?id=42234763) - [Declassified Pentagon F-35 Study Details Reliability, Security Woes](https://www.bloomberg.com/news/articles/2024-11-21/declassified-pentagon-f-35-report-details-reliability-and-security-woes)
 * [2024-11-25, 09:40:06](https://news.ycombinator.com/item?id=42234695) - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
 * [2024-11-25, 07:55:19](https://news.ycombinator.com/item?id=42234147) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
@@ -27,6 +26,7 @@
 * [2024-11-23, 02:36:14](https://news.ycombinator.com/item?id=42218820) - [The Pilgrim as a Historian](https://www.historytoday.com/archive/making-history/pilgrim-historian)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
+* [2024-11-22, 08:14:59](https://news.ycombinator.com/item?id=42212033) - [Show HN: VR CPR app where the heart and lungs compress based on ur hand position](https://www.meta.com/experiences/heartbeat/7402671033184262/)
 * [2024-11-20, 06:41:11](https://news.ycombinator.com/item?id=42191328) - [A summer intern once saved Valve from a near-fatal lawsuit](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email/)
 * [2024-11-19, 22:59:09](https://news.ycombinator.com/item?id=42188980) - [Creating Your Own Programming Language – Laurence Tratt [video]](https://www.youtube.com/watch?v=Q2UDHY5as90)
 * [2024-11-18, 17:59:38](https://news.ycombinator.com/item?id=42174995) - [Scientists Make Smartphone App That Performs Full-Body Motion Capture](https://petapixel.com/2024/10/30/scientists-make-smartphone-app-that-performs-full-body-motion-capture/)
