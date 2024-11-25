@@ -74,6 +74,7 @@
 * [2024-11-19, 09:44:42](https://news.ycombinator.com/item?id=42181631) - [Minecraft enters real world with $110M global theme park deal](https://www.theguardian.com/business/2024/nov/19/minecraft-theme-park-deal-uk-us-merlin-entertainments)
 * [2024-11-19, 09:31:31](https://news.ycombinator.com/item?id=42181529) - [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
 * [2024-11-19, 09:23:43](https://news.ycombinator.com/item?id=42181467) - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
+* [2024-11-19, 09:23:33](https://news.ycombinator.com/item?id=42181466) - [The scary sound of Aztec skull whistles](https://caneuro.github.io/blog/2024/study-skullwhistle/)
 * [2024-11-19, 09:22:11](https://news.ycombinator.com/item?id=42181452) - [How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406)
 * [2024-11-19, 09:18:57](https://news.ycombinator.com/item?id=42181432) - [Paged Out #5 – hacker zine release [pdf]](https://pagedout.institute/download/PagedOut_005.pdf)
 * [2024-11-19, 09:15:28](https://news.ycombinator.com/item?id=42181411) - [Hong Kong Jails Benny Tai for 10 Years in Longest Security Law Sentence](https://www.bloomberg.com/news/articles/2024-11-18/hong-kong-to-sentence-45-activists-in-biggest-security-law-case)
