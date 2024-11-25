@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 10:08:55](https://news.ycombinator.com/item?id=42234837) - [Contentlesshtml – An HTML page served entire in HTTP headers](https://www.5snb.club/pages/contentlesshtml/)
 * [2024-11-25, 09:53:06](https://news.ycombinator.com/item?id=42234763) - [Declassified Pentagon F-35 Study Details Reliability, Security Woes](https://www.bloomberg.com/news/articles/2024-11-21/declassified-pentagon-f-35-report-details-reliability-and-security-woes)
 * [2024-11-25, 09:40:06](https://news.ycombinator.com/item?id=42234695) - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
 * [2024-11-25, 09:03:57](https://news.ycombinator.com/item?id=42234497) - [Why I have resigned from the Royal Society](http://deevybee.blogspot.com/2024/11/why-i-have-resigned-from-royal-society.html)
