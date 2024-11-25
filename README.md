@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-25, 11:02:49](https://news.ycombinator.com/item?id=42235183) - [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
 * [2024-11-25, 10:08:55](https://news.ycombinator.com/item?id=42234837) - [Contentlesshtml – An HTML page served entire in HTTP headers](https://www.5snb.club/pages/contentlesshtml/)
 * [2024-11-25, 09:53:06](https://news.ycombinator.com/item?id=42234763) - [Declassified Pentagon F-35 Study Details Reliability, Security Woes](https://www.bloomberg.com/news/articles/2024-11-21/declassified-pentagon-f-35-report-details-reliability-and-security-woes)
 * [2024-11-25, 09:40:06](https://news.ycombinator.com/item?id=42234695) - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
@@ -18,7 +19,6 @@
 * [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
-* [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [I made an ls alternative for my personal use](https://github.com/triyanox/lla)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
 * [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The size of BYD's factory](https://twitter.com/taylorogan/status/1859146242519167249)
 * [2024-11-24, 09:38:06](https://news.ycombinator.com/item?id=42226953) - [Charset=\"WTF-8\"](https://wtf-8.xn--stpie-k0a81a.com/)
