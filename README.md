@@ -23,12 +23,12 @@
 * [2024-11-24, 05:59:06](https://news.ycombinator.com/item?id=42226185) - [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
 * [2024-11-24, 05:03:13](https://news.ycombinator.com/item?id=42226005) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 02:54:02](https://news.ycombinator.com/item?id=42225609) - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
-* [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge (2001)](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 * [2024-11-22, 13:03:09](https://news.ycombinator.com/item?id=42213485) - [Slow Email (2008)](http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
+* [2024-11-19, 22:59:09](https://news.ycombinator.com/item?id=42188980) - [Creating Your Own Programming Language – Laurence Tratt [video]](https://www.youtube.com/watch?v=Q2UDHY5as90)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks](http://xahlee.info/comp/ocaml_let_syntax.html)
 
 ## [Archives](archives/index.md)

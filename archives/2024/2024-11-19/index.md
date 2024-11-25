@@ -10,6 +10,7 @@
 * [2024-11-19, 23:38:03](https://news.ycombinator.com/item?id=42189249) - [We assume damage to Baltic Sea cables was sabotage, German Defence minister](https://www.theguardian.com/world/2024/nov/19/baltic-sea-cables-damage-sabotage-german-minister)
 * [2024-11-19, 23:36:22](https://news.ycombinator.com/item?id=42189241) - [Show HN: Serverless code execution, but for AI agents](https://sandboxed.ai)
 * [2024-11-19, 23:17:24](https://news.ycombinator.com/item?id=42189105) - [Bluesky Exceeds Threads DAUs in the US](https://bsky.app/profile/jburnmurdoch.bsky.social/post/3lbdekd55sc2b)
+* [2024-11-19, 22:59:09](https://news.ycombinator.com/item?id=42188980) - [Creating Your Own Programming Language – Laurence Tratt [video]](https://www.youtube.com/watch?v=Q2UDHY5as90)
 * [2024-11-19, 22:41:02](https://news.ycombinator.com/item?id=42188855) - [Important information to all residents of Sweden – In case of crisis or war [pdf]](https://rib.msb.se/filer/pdf/30874.pdf)
 * [2024-11-19, 22:35:21](https://news.ycombinator.com/item?id=42188816) - [The Political Afterlife of Paradise Lost](https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review)
 * [2024-11-19, 22:15:34](https://news.ycombinator.com/item?id=42188687) - [SpaceX Super Heavy splashed down in the Gulf, canceling chopsticks landing](https://twitter.com/spacex/status/1858995009384837380)
