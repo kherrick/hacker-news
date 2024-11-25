@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
+* [2024-11-25, 19:49:57](https://news.ycombinator.com/item?id=42239535) - [Revisiting Uv](https://www.loopwerk.io/articles/2024/python-uv-revisited/)
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
-* [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-25, 17:56:34](https://news.ycombinator.com/item?id=42238396) - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
