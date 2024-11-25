@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-25, 18:11:15](https://news.ycombinator.com/item?id=42238531) - [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
@@ -10,6 +9,7 @@
 * [2024-11-25, 15:03:39](https://news.ycombinator.com/item?id=42236841) - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
 * [2024-11-25, 13:00:15](https://news.ycombinator.com/item?id=42235909) - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
+* [2024-11-25, 08:48:26](https://news.ycombinator.com/item?id=42234415) - [Deprecating outdated issues on the GitHub public roadmap](https://github.com/github/roadmap/discussions/1014)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
