@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-11-25, 21:33:42",
-      "https://news.ycombinator.com/item?id=42240421"
+      "2024-11-25, 21:24:45",
+      "https://news.ycombinator.com/item?id=42240364"
     ],
     [
-      "'I had no idea being a social drinker would damage my liver by 31'",
-      "https://www.bbc.co.uk/news/articles/c30pre660mzo"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 21:22:17",
-      "https://news.ycombinator.com/item?id=42240350"
-    ],
-    [
-      "Supreme Court wants US input on whether ISPs should be liable for users' piracy",
-      "https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 21:17:38",
-      "https://news.ycombinator.com/item?id=42240316"
-    ],
-    [
-      "The next big arenas of competition",
-      "https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition"
+      "Synapse still can't find its money",
+      "https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money"
     ]
   ],
   [
@@ -57,6 +37,16 @@
     [
       "A Short Introduction to Automotive Lidar Technology",
       "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 20:00:08",
+      "https://news.ycombinator.com/item?id=42239607"
+    ],
+    [
+      "Redis is trying to take over the all of the OSS Redis libraries",
+      "https://twitter.com/TomHacohen/status/1861137484249252093"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "Replit (YC W18) Is Hiring Software Engineers in the Bay Area",
       "https://replit.com/careers"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 16:49:57",
-      "https://news.ycombinator.com/item?id=42237766"
-    ],
-    [
-      "The genesis of today's military recruiting crisis (2023)",
-      "https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-11-25, 00:17:15",
+      "https://news.ycombinator.com/item?id=42231876"
+    ],
+    [
+      "Solving Boolean satisfiability and integer programming with Python packaging",
+      "https://mmaaz.ca/writings/pipip.html"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 23:21:36",
       "https://news.ycombinator.com/item?id=42231489"
     ],
@@ -297,6 +287,16 @@
     [
       "Transactional Object Storage?",
       "https://blog.mbrt.dev/posts/transactional-object-storage/"
+    ]
+  ],
+  [
+    [
+      "2024-11-17, 11:15:25",
+      "https://news.ycombinator.com/item?id=42163477"
+    ],
+    [
+      "Making waves through the Wallace Line",
+      "https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090"
     ]
   ]
 ]
