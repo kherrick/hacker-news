@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
 * [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)

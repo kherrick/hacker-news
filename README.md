@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
 * [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
@@ -23,7 +24,6 @@
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
 * [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [Show HN: I made an ls alternative for my personal use](https://github.com/triyanox/lla)
 * [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The size of BYD's factory](https://twitter.com/taylorogan/status/1859146242519167249)
-* [2024-11-23, 02:36:14](https://news.ycombinator.com/item?id=42218820) - [The Pilgrim as a Historian](https://www.historytoday.com/archive/making-history/pilgrim-historian)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
