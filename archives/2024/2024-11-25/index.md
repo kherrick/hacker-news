@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 21:33:42](https://news.ycombinator.com/item?id=42240421) - ['I had no idea being a social drinker would damage my liver by 31'](https://www.bbc.co.uk/news/articles/c30pre660mzo)
+* [2024-11-25, 21:22:17](https://news.ycombinator.com/item?id=42240350) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
+* [2024-11-25, 21:17:38](https://news.ycombinator.com/item?id=42240316) - [The next big arenas of competition](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
 * [2024-11-25, 20:51:23](https://news.ycombinator.com/item?id=42240048) - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 * [2024-11-25, 20:40:34](https://news.ycombinator.com/item?id=42239952) - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
@@ -11,6 +14,7 @@
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
 * [2024-11-25, 19:45:45](https://news.ycombinator.com/item?id=42239487) - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
+* [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 19:27:14](https://news.ycombinator.com/item?id=42239319) - [Ending Affirmative Action Harms Diversity Without Improving Academic Merit [pdf]](https://dl.acm.org/doi/pdf/10.1145/3689904.3694706)
 * [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
@@ -41,6 +45,7 @@
 * [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 05:32:33](https://news.ycombinator.com/item?id=42233524) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
+* [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 * [2024-11-25, 02:37:05](https://news.ycombinator.com/item?id=42232715) - [Computing Industry Doesn't Care about Performance: how I made things faster](https://deviantabstraction.com/2024/10/24/faster-computer/)
