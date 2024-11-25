@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 18:11:15](https://news.ycombinator.com/item?id=42238531) - [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
