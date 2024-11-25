@@ -2,15 +2,14 @@
 
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
+* [2024-11-25, 16:49:57](https://news.ycombinator.com/item?id=42237766) - [The genesis of today's recruiting crisis](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
 * [2024-11-25, 15:03:39](https://news.ycombinator.com/item?id=42236841) - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
 * [2024-11-25, 13:00:15](https://news.ycombinator.com/item?id=42235909) - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
-* [2024-11-25, 12:19:55](https://news.ycombinator.com/item?id=42235635) - [Mysteries in polar orbit – space's oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
-* [2024-11-25, 01:46:13](https://news.ycombinator.com/item?id=42232424) - [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:53:03](https://news.ycombinator.com/item?id=42231325) - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
@@ -30,6 +29,7 @@
 * [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
+* [2024-11-17, 13:20:33](https://news.ycombinator.com/item?id=42164058) - [Transactional Object Storage?](https://blog.mbrt.dev/posts/transactional-object-storage/)
 
 ## [Archives](archives/index.md)
 

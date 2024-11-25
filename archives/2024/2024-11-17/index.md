@@ -39,6 +39,7 @@
 * [2024-11-17, 13:33:16](https://news.ycombinator.com/item?id=42164120) - [Why are Indian and African wildlife so similar?](https://wanderingthru.com/why-are-indian-and-african-animals-so-similar/)
 * [2024-11-17, 13:30:29](https://news.ycombinator.com/item?id=42164107) - [Nash equilibria in Ballmer's binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-17, 13:29:50](https://news.ycombinator.com/item?id=42164104) - [Build Your Own Handheld ZX Spectrum with Raspberry Pi Pico](https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/)
+* [2024-11-17, 13:20:33](https://news.ycombinator.com/item?id=42164058) - [Transactional Object Storage?](https://blog.mbrt.dev/posts/transactional-object-storage/)
 * [2024-11-17, 12:59:45](https://news.ycombinator.com/item?id=42163978) - [Memos – An open source Rewinds / Recall](https://github.com/arkohut/memos)
 * [2024-11-17, 12:42:02](https://news.ycombinator.com/item?id=42163900) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2024-11-17, 12:39:12](https://news.ycombinator.com/item?id=42163883) - [Cloudflare.com's Robots.txt](https://www.cloudflare.com/robots.txt)
