@@ -4,7 +4,6 @@
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
-* [2024-11-25, 16:49:57](https://news.ycombinator.com/item?id=42237766) - [The genesis of today's recruiting crisis (2023)](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Introducing The Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
@@ -29,6 +28,7 @@
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
+* [2024-11-19, 07:08:48](https://news.ycombinator.com/item?id=42180746) - [The heirloom tomato org chart [video]](https://www.youtube.com/watch?v=I4vvBidQcck)
 * [2024-11-17, 13:20:33](https://news.ycombinator.com/item?id=42164058) - [Transactional Object Storage?](https://blog.mbrt.dev/posts/transactional-object-storage/)
 
 ## [Archives](archives/index.md)

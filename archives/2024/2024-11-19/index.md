@@ -79,6 +79,7 @@
 * [2024-11-19, 09:03:50](https://news.ycombinator.com/item?id=42181345) - [Fair coins tend to land on the side they started: Evidence from 350,757 flips](https://www.researchgate.net/publication/374700857_Fair_coins_tend_to_land_on_the_same_side_they_started_Evidence_from_350757_flips)
 * [2024-11-19, 07:38:13](https://news.ycombinator.com/item?id=42180872) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-19, 07:13:01](https://news.ycombinator.com/item?id=42180763) - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
+* [2024-11-19, 07:08:48](https://news.ycombinator.com/item?id=42180746) - [The heirloom tomato org chart [video]](https://www.youtube.com/watch?v=I4vvBidQcck)
 * [2024-11-19, 06:38:58](https://news.ycombinator.com/item?id=42180597) - [How to Build a Chess Engine and Fail](https://obrhubr.org/chess-engine)
 * [2024-11-19, 06:19:48](https://news.ycombinator.com/item?id=42180516) - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
 * [2024-11-19, 05:16:29](https://news.ycombinator.com/item?id=42180276) - [SQLite vs. PostgreSQL Performance [video]](https://www.youtube.com/watch?v=VzQgr-TgBzc)
