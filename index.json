@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-25, 21:33:42",
+      "https://news.ycombinator.com/item?id=42240421"
+    ],
+    [
+      "'I had no idea being a social drinker would damage my liver by 31'",
+      "https://www.bbc.co.uk/news/articles/c30pre660mzo"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 21:22:17",
+      "https://news.ycombinator.com/item?id=42240350"
+    ],
+    [
+      "Supreme Court wants US input on whether ISPs should be liable for users' piracy",
+      "https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 21:17:38",
+      "https://news.ycombinator.com/item?id=42240316"
+    ],
+    [
+      "The next big arenas of competition",
+      "https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 20:51:23",
       "https://news.ycombinator.com/item?id=42240048"
     ],
@@ -27,6 +57,16 @@
     [
       "A Short Introduction to Automotive Lidar Technology",
       "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 19:30:21",
+      "https://news.ycombinator.com/item?id=42239344"
+    ],
+    [
+      "Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]",
+      "https://www.youtube.com/watch?v=Osn3JXaT3W8"
     ]
   ],
   [
@@ -71,11 +111,21 @@
   ],
   [
     [
+      "2024-11-25, 16:49:57",
+      "https://news.ycombinator.com/item?id=42237766"
+    ],
+    [
+      "The genesis of today's military recruiting crisis (2023)",
+      "https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 16:14:22",
       "https://news.ycombinator.com/item?id=42237424"
     ],
     [
-      "Introducing The Model Context Protocol",
+      "Model Context Protocol",
       "https://www.anthropic.com/news/model-context-protocol"
     ]
   ],
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2024-11-25, 13:00:15",
-      "https://news.ycombinator.com/item?id=42235909"
-    ],
-    [
-      "Noise-Canceling Single-Layer Woven Silk and Cotton Fabric",
-      "https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 11:42:06",
       "https://news.ycombinator.com/item?id=42235418"
     ],
@@ -131,22 +171,22 @@
   ],
   [
     [
-      "2024-11-25, 08:48:26",
-      "https://news.ycombinator.com/item?id=42234415"
-    ],
-    [
-      "Deprecating outdated issues on the GitHub public roadmap",
-      "https://github.com/github/roadmap/discussions/1014"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 05:41:45",
       "https://news.ycombinator.com/item?id=42233565"
     ],
     [
       "A Day in the Life: The Global BGP Table",
       "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 03:25:33",
+      "https://news.ycombinator.com/item?id=42232952"
+    ],
+    [
+      "Caving scientists exploring the darkest places on Earth",
+      "https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth"
     ]
   ],
   [
@@ -191,56 +231,6 @@
   ],
   [
     [
-      "2024-11-24, 20:43:33",
-      "https://news.ycombinator.com/item?id=42230392"
-    ],
-    [
-      "This website is hosted on Bluesky",
-      "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 20:39:01",
-      "https://news.ycombinator.com/item?id=42230355"
-    ],
-    [
-      "Pushing AMD's Infinity Fabric to Its Limit",
-      "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 17:40:12",
-      "https://news.ycombinator.com/item?id=42229107"
-    ],
-    [
-      "Mark–Scavenge: Waiting for Trash to Take Itself Out",
-      "https://inside.java/2024/11/22/mark-scavenge-gc/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 17:23:27",
-      "https://news.ycombinator.com/item?id=42229003"
-    ],
-    [
-      "Show HN: I made an ls alternative for my personal use",
-      "https://github.com/triyanox/lla"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 14:37:31",
-      "https://news.ycombinator.com/item?id=42228138"
-    ],
-    [
-      "The size of BYD's factory",
-      "https://twitter.com/taylorogan/status/1859146242519167249"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 17:34:32",
       "https://news.ycombinator.com/item?id=42215741"
     ],
@@ -267,6 +257,16 @@
     [
       "Chemists Create World's Thinnest Spaghetti",
       "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 06:18:43",
+      "https://news.ycombinator.com/item?id=42201632"
+    ],
+    [
+      "Scratching the Surface: How geology shaped American culture",
+      "https://www.chronicle.com/article/scratching-the-surface"
     ]
   ],
   [
