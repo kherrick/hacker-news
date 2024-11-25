@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 21:24:45](https://news.ycombinator.com/item?id=42240364) - [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 * [2024-11-25, 20:51:23](https://news.ycombinator.com/item?id=42240048) - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 * [2024-11-25, 20:40:34](https://news.ycombinator.com/item?id=42239952) - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
@@ -27,7 +28,6 @@
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
-* [2024-11-19, 22:31:05](https://news.ycombinator.com/item?id=42188795) - [Hurricane Watch: The Peter McNeeley Website](http://www.hurricanepetermcneeley.com/)
 * [2024-11-17, 13:20:33](https://news.ycombinator.com/item?id=42164058) - [Transactional Object Storage?](https://blog.mbrt.dev/posts/transactional-object-storage/)
 * [2024-11-17, 11:15:25](https://news.ycombinator.com/item?id=42163477) - [Making waves through the Wallace Line](https://www.weatherzone.com.au/news/making-waves-through-the-wallace-line/1890090)
 
