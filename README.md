@@ -5,7 +5,6 @@
 * [2024-11-25, 15:03:39](https://news.ycombinator.com/item?id=42236841) - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
 * [2024-11-25, 13:52:34](https://news.ycombinator.com/item?id=42236292) - [Focaccia: A Neolithic culinary tradition dating back 9k years ago](https://phys.org/news/2024-11-focaccia-neolithic-culinary-tradition-dating.html)
 * [2024-11-25, 13:00:15](https://news.ycombinator.com/item?id=42235909) - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
-* [2024-11-25, 12:38:33](https://news.ycombinator.com/item?id=42235762) - [What happened when a city started accepting - not evicting - homeless camps](https://www.bbc.com/news/articles/c3wq7l1lnqpo)
 * [2024-11-25, 12:19:55](https://news.ycombinator.com/item?id=42235635) - [Mysteries in polar orbit – space's oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 10:36:20](https://news.ycombinator.com/item?id=42235015) - [A Non-Technical Guide to Interpreting SHAP Analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
@@ -30,6 +29,7 @@
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 * [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
+* [2024-11-18, 08:25:36](https://news.ycombinator.com/item?id=42170721) - [The Power of Small Brain Networks](https://nautil.us/the-power-of-small-brain-networks-1138987/)
 
 ## [Archives](archives/index.md)
 
