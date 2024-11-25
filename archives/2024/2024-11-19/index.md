@@ -49,6 +49,7 @@
 * [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 * [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
+* [2024-11-19, 13:27:40](https://news.ycombinator.com/item?id=42183173) - [Digital Show and Tell (2013): Xiph's Monty on Digital Audio](https://xiph.org/video/vid2.shtml)
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
 * [2024-11-19, 13:17:08](https://news.ycombinator.com/item?id=42183079) - [The Physics of Butterfly Wings](https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/)
 * [2024-11-19, 12:55:38](https://news.ycombinator.com/item?id=42182897) - [Joint Declaration by Ministers of Germany, France, Poland, Italy, Spain, UK](https://www.auswaertiges-amt.de/en/newsroom/news/-/2685538)

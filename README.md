@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:23:14](https://news.ycombinator.com/item?id=42231148) - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 * [2024-11-24, 21:58:25](https://news.ycombinator.com/item?id=42230990) - [No More Storage Limits: M.2 Adapter for Apple's M1 MacBooks [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
 * [2024-11-24, 21:54:19](https://news.ycombinator.com/item?id=42230966) - [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
@@ -9,12 +10,10 @@
 * [2024-11-24, 20:43:33](https://news.ycombinator.com/item?id=42230392) - [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 * [2024-11-24, 20:42:42](https://news.ycombinator.com/item?id=42230384) - [SQLite: Outlandish Recursive Query Examples](https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
-* [2024-11-24, 20:37:27](https://news.ycombinator.com/item?id=42230332) - [Owl Lisp – A functional Scheme for world domination](https://gitlab.com/owl-lisp/owl)
 * [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
 * [2024-11-24, 19:30:10](https://news.ycombinator.com/item?id=42229825) - [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
-* [2024-11-24, 17:00:06](https://news.ycombinator.com/item?id=42228866) - [Those correction notices, in full](https://statmodeling.stat.columbia.edu/2024/11/24/those-correction-notices-in-full-yes-its-possible-to-directly-admit-and-learn-from-error/)
 * [2024-11-24, 16:39:07](https://news.ycombinator.com/item?id=42228759) - [Marshall Brain has died](https://www.wral.com/news/local/nc-state-marshall-brain-dies-november-2024/)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
@@ -28,6 +27,7 @@
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 * [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 06:17:56](https://news.ycombinator.com/item?id=42211561) - [Slouch: Posture panic in modern America](https://www.thenation.com/article/culture/slouch-back-pain-history/)
+* [2024-11-19, 13:27:40](https://news.ycombinator.com/item?id=42183173) - [Digital Show and Tell (2013): Xiph's Monty on Digital Audio](https://xiph.org/video/vid2.shtml)
 * [2024-11-18, 11:06:09](https://news.ycombinator.com/item?id=42171379) - [Open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 * [2024-11-18, 08:25:36](https://news.ycombinator.com/item?id=42170721) - [The Power of Small Brain Networks](https://nautil.us/the-power-of-small-brain-networks-1138987/)
 
