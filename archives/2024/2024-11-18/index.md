@@ -30,6 +30,7 @@
 * [2024-11-18, 18:24:21](https://news.ycombinator.com/item?id=42175316) - [The tragedy of trying to run an old node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
 * [2024-11-18, 18:02:50](https://news.ycombinator.com/item?id=42175043) - [Thoughts on Bluesky](https://canolcer.com/post/thoughts-on-bluesky/)
 * [2024-11-18, 18:01:18](https://news.ycombinator.com/item?id=42175023) - [Things you didn't know about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
+* [2024-11-18, 17:59:38](https://news.ycombinator.com/item?id=42174995) - [Scientists Make Smartphone App That Performs Full-Body Motion Capture](https://petapixel.com/2024/10/30/scientists-make-smartphone-app-that-performs-full-body-motion-capture/)
 * [2024-11-18, 17:44:48](https://news.ycombinator.com/item?id=42174840) - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
 * [2024-11-18, 17:43:13](https://news.ycombinator.com/item?id=42174829) - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 * [2024-11-18, 17:43:01](https://news.ycombinator.com/item?id=42174826) - [Casio to Release Ring Watch](https://hypebeast.com/2024/11/casio-ring-watch-crw-001-1jr-release-info)
