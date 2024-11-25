@@ -50,6 +50,7 @@
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
 * [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
 * [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
+* [2024-11-19, 13:41:51](https://news.ycombinator.com/item?id=42183312) - [Astra Dynamic Chunks: How We Saved by Redesigning a Key Part of Astra](https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
 * [2024-11-19, 13:27:40](https://news.ycombinator.com/item?id=42183173) - [Digital Show and Tell (2013): Xiph's Monty on Digital Audio](https://xiph.org/video/vid2.shtml)
 * [2024-11-19, 13:21:01](https://news.ycombinator.com/item?id=42183115) - [Online Age Verification as Trojan Horse for the Mass Rollout of Digital IDs?](https://www.nakedcapitalism.com/2024/11/will-online-age-verification-be-the-trojan-horse-for-mass-rollout-of-digital-id.html)
