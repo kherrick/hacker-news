@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
+* [2024-11-25, 05:32:33](https://news.ycombinator.com/item?id=42233524) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 * [2024-11-25, 02:20:25](https://news.ycombinator.com/item?id=42232620) - [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
@@ -16,7 +18,6 @@
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
-* [2024-11-24, 14:38:40](https://news.ycombinator.com/item?id=42228146) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The size of BYD's factory](https://twitter.com/taylorogan/status/1859146242519167249)
 * [2024-11-24, 09:38:06](https://news.ycombinator.com/item?id=42226953) - [Charset=\"WTF-8\"](https://wtf-8.xn--stpie-k0a81a.com/)
 * [2024-11-24, 05:59:06](https://news.ycombinator.com/item?id=42226185) - [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
@@ -25,7 +26,6 @@
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge (2001)](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
-* [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks](http://xahlee.info/comp/ocaml_let_syntax.html)

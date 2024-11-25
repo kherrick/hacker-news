@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
+* [2024-11-25, 05:32:33](https://news.ycombinator.com/item?id=42233524) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 * [2024-11-25, 02:37:05](https://news.ycombinator.com/item?id=42232715) - [Computing Industry Doesn't Care about Performance: how I made things faster](https://deviantabstraction.com/2024/10/24/faster-computer/)
