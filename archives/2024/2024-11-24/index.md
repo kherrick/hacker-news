@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 23:58:30](https://news.ycombinator.com/item?id=42231754) - [Worldtimeapp.com Easy Timezone Converter](https://worldtimeapp.com/)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:23:14](https://news.ycombinator.com/item?id=42231148) - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 * [2024-11-24, 22:00:07](https://news.ycombinator.com/item?id=42231007) - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill?)
