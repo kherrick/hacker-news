@@ -6,7 +6,6 @@
 * [2024-11-25, 01:24:41](https://news.ycombinator.com/item?id=42232289) - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 * [2024-11-25, 00:43:03](https://news.ycombinator.com/item?id=42232040) - [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/)
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
-* [2024-11-24, 22:23:14](https://news.ycombinator.com/item?id=42231148) - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
 * [2024-11-24, 21:54:19](https://news.ycombinator.com/item?id=42230966) - [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
 * [2024-11-24, 21:01:01](https://news.ycombinator.com/item?id=42230539) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2024-11-24, 20:43:33](https://news.ycombinator.com/item?id=42230392) - [This website is hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
@@ -28,6 +27,7 @@
 * [2024-11-22, 14:32:09](https://news.ycombinator.com/item?id=42214113) - [The Case for a High-Level Kernel-Bypass I/O Abstraction (2019)](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
+* [2024-11-19, 13:27:40](https://news.ycombinator.com/item?id=42183173) - [Digital Show and Tell (2013): Xiph's Monty on Digital Audio](https://xiph.org/video/vid2.shtml)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks](http://xahlee.info/comp/ocaml_let_syntax.html)
 * [2024-11-18, 08:25:36](https://news.ycombinator.com/item?id=42170721) - [The Power of Small Brain Networks](https://nautil.us/the-power-of-small-brain-networks-1138987/)
 
