@@ -38,6 +38,7 @@
 * [2024-11-21, 12:18:31](https://news.ycombinator.com/item?id=42203584) - [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
 * [2024-11-21, 12:13:17](https://news.ycombinator.com/item?id=42203543) - [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
 * [2024-11-21, 12:01:01](https://news.ycombinator.com/item?id=42203456) - [Handle.com (YC W19) Is Hiring](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant)
+* [2024-11-21, 11:37:34](https://news.ycombinator.com/item?id=42203290) - [Code Search – Grep by Vercel](https://grep.app/)
 * [2024-11-21, 10:26:19](https://news.ycombinator.com/item?id=42202834) - [Scientific computing with confidence using typed dimensions](https://laurentrdc.xyz/posts/typed-dimensions.html)
 * [2024-11-21, 09:56:52](https://news.ycombinator.com/item?id=42202670) - [PHP 8.4 Released](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 09:09:28](https://news.ycombinator.com/item?id=42202449) - [You Exist in the Long Context](https://thelongcontext.com/)
