@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-11-25, 02:37:05",
-      "https://news.ycombinator.com/item?id=42232715"
-    ],
-    [
-      "Computing Industry Doesn't Care about Performance: how I made things faster",
-      "https://deviantabstraction.com/2024/10/24/faster-computer/"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 01:46:13",
       "https://news.ycombinator.com/item?id=42232424"
     ],
@@ -97,6 +87,16 @@
     [
       "SQLiteStudio: Create, edit, browse SQLite databases",
       "https://sqlitestudio.pl/"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 23:58:30",
+      "https://news.ycombinator.com/item?id=42231754"
+    ],
+    [
+      "Worldtimeapp.com Easy Timezone Converter",
+      "https://worldtimeapp.com/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-11-23, 12:56:16",
-      "https://news.ycombinator.com/item?id=42220618"
-    ],
-    [
-      "Amdahl's Law",
-      "https://en.wikipedia.org/wiki/Amdahl%27s_law"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 02:36:14",
       "https://news.ycombinator.com/item?id=42218820"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-11-22, 08:14:59",
-      "https://news.ycombinator.com/item?id=42212033"
-    ],
-    [
-      "Show HN: VR CPR app where the heart and lungs compress based on ur hand position",
-      "https://www.meta.com/experiences/heartbeat/7402671033184262/"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 14:24:43",
       "https://news.ycombinator.com/item?id=42183747"
     ],
@@ -287,6 +267,26 @@
     [
       "OCaml Syntax Sucks (2016)",
       "http://xahlee.info/comp/ocaml_let_syntax.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 03:27:03",
+      "https://news.ycombinator.com/item?id=42179850"
+    ],
+    [
+      "A 132-Year-Old Message in a Bottle in a Scottish Lighthouse",
+      "https://www.nytimes.com/2024/11/15/world/europe/message-in-bottle-lighthouse-scotland.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 11:06:09",
+      "https://news.ycombinator.com/item?id=42171379"
+    ],
+    [
+      "Open-interpreter: A natural language interface for computers",
+      "https://github.com/OpenInterpreter/open-interpreter"
     ]
   ],
   [
