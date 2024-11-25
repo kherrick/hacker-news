@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
+* [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 05:32:33](https://news.ycombinator.com/item?id=42233524) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
@@ -14,7 +15,6 @@
 * [2024-11-24, 20:42:42](https://news.ycombinator.com/item?id=42230384) - [SQLite: Outlandish Recursive Query Examples](https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 * [2024-11-24, 20:39:01](https://news.ycombinator.com/item?id=42230355) - [Pushing AMD's Infinity Fabric to Its Limit](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its)
 * [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
-* [2024-11-24, 19:30:10](https://news.ycombinator.com/item?id=42229825) - [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 17:40:12](https://news.ycombinator.com/item?id=42229107) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
@@ -26,10 +26,10 @@
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge (2001)](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 14:35:38](https://news.ycombinator.com/item?id=42214143) - [NASA: Mystery of Life's Handedness Deepens](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
+* [2024-11-22, 13:03:09](https://news.ycombinator.com/item?id=42213485) - [Slow Email (2008)](http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
 * [2024-11-19, 12:17:12](https://news.ycombinator.com/item?id=42182620) - [OCaml Syntax Sucks](http://xahlee.info/comp/ocaml_let_syntax.html)
-* [2024-11-18, 08:25:36](https://news.ycombinator.com/item?id=42170721) - [The Power of Small Brain Networks](https://nautil.us/the-power-of-small-brain-networks-1138987/)
 
 ## [Archives](archives/index.md)
 
