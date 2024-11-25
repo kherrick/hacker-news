@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
 * [2024-11-25, 21:33:42](https://news.ycombinator.com/item?id=42240421) - ['I had no idea being a social drinker would damage my liver by 31'](https://www.bbc.co.uk/news/articles/c30pre660mzo)
+* [2024-11-25, 21:24:45](https://news.ycombinator.com/item?id=42240364) - [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 * [2024-11-25, 21:22:17](https://news.ycombinator.com/item?id=42240350) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
 * [2024-11-25, 21:17:38](https://news.ycombinator.com/item?id=42240316) - [The next big arenas of competition](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
 * [2024-11-25, 20:51:23](https://news.ycombinator.com/item?id=42240048) - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 * [2024-11-25, 20:40:34](https://news.ycombinator.com/item?id=42239952) - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
+* [2024-11-25, 20:00:08](https://news.ycombinator.com/item?id=42239607) - [Redis is trying to take over the all of the OSS Redis libraries](https://twitter.com/TomHacohen/status/1861137484249252093)
 * [2024-11-25, 19:49:57](https://news.ycombinator.com/item?id=42239535) - [Revisiting Uv](https://www.loopwerk.io/articles/2024/python-uv-revisited/)
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
 * [2024-11-25, 19:45:45](https://news.ycombinator.com/item?id=42239487) - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
@@ -55,3 +57,4 @@
 * [2024-11-25, 01:24:41](https://news.ycombinator.com/item?id=42232289) - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
 * [2024-11-25, 00:43:03](https://news.ycombinator.com/item?id=42232040) - [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/)
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
+* [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
