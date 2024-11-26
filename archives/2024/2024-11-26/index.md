@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 16:57:12](https://news.ycombinator.com/item?id=42247368) - [Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
+* [2024-11-26, 16:53:35](https://news.ycombinator.com/item?id=42247334) - [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
 * [2024-11-26, 16:20:31](https://news.ycombinator.com/item?id=42247001) - [An update on Google's compliance with the DMA](https://blog.google/around-the-globe/google-europe/dma-compliance-update/)
 * [2024-11-26, 15:46:14](https://news.ycombinator.com/item?id=42246739) - [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
 * [2024-11-26, 15:30:56](https://news.ycombinator.com/item?id=42246604) - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
