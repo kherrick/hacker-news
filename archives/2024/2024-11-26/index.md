@@ -7,6 +7,7 @@
 * [2024-11-26, 22:27:55](https://news.ycombinator.com/item?id=42250784) - [Ask HN: Why isn't having two or three careers the norm?](https://news.ycombinator.com/item?id=42250784)
 * [2024-11-26, 21:45:10](https://news.ycombinator.com/item?id=42250400) - [FCC Grants SpaceX Right to Some Direct-to-Cellular Operations [pdf]](https://docs.fcc.gov/public/attachments/DA-24-1193A1.pdf)
 * [2024-11-26, 21:28:18](https://news.ycombinator.com/item?id=42250243) - [OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers](https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/)
+* [2024-11-26, 20:36:17](https://news.ycombinator.com/item?id=42249790) - [D-Link says \"just buy a new router\" after 9.8 critical vulnerability [video]](https://www.youtube.com/watch?v=52v6gKPA4TM)
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:32:24](https://news.ycombinator.com/item?id=42249746) - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
