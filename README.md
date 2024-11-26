@@ -2,6 +2,7 @@
 
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
+* [2024-11-26, 19:31:24](https://news.ycombinator.com/item?id=42249090) - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
@@ -20,7 +21,6 @@
 * [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-* [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
