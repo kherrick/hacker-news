@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-26, 14:13:18](https://news.ycombinator.com/item?id=42245916) - [Judge blocks Louisiana law that requires classrooms to display Ten Commandments](https://apnews.com/article/ten-commandments-law-blocked-public-schools-louisiana-87b3dde94e583fdbb9ecb26db42b0206)
 * [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 * [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
@@ -20,16 +19,17 @@
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
+* [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
-* [2024-11-23, 09:20:37](https://news.ycombinator.com/item?id=42219989) - [Surrealism, cafes and lots of cats: why Japanese fiction is booming](https://www.theguardian.com/books/2024/nov/23/japanese-fiction-britain-translation)
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the First Ever Cyber Cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 11:23:03](https://news.ycombinator.com/item?id=42212909) - [Poisoning the Day](https://ashore.io/journal/crossover-creativity/poisoning-the-day)
 * [2024-11-20, 20:40:38](https://news.ycombinator.com/item?id=42197886) - ['The Best of All Possible Worlds' Review: Leibniz Lives Again](https://www.wsj.com/arts-culture/books/the-best-of-all-possible-worlds-review-leibniz-lives-again-647be296)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
+* [2024-11-19, 19:56:11](https://news.ycombinator.com/item?id=42187432) - [The Mystery of the AFIPS Orphans (2006) [pdf]](https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf)
 
 ## [Archives](archives/index.md)
 
