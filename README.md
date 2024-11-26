@@ -2,7 +2,7 @@
 
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io is having a complete outage](https://status.flyio.net)
 * [2024-11-26, 01:36:09](https://news.ycombinator.com/item?id=42241789) - [Google's iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
-* [2024-11-26, 01:28:21](https://news.ycombinator.com/item?id=42241752) - [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)
+* [2024-11-26, 01:15:00](https://news.ycombinator.com/item?id=42241702) - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 19:47:23](https://news.ycombinator.com/item?id=42239514) - [The Raspberry Pi CM5 Is Weeks Away?](https://bret.dk/raspberry-pi-cm5-is-weeks-away/)
