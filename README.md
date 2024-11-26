@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+* [2024-11-26, 07:35:53](https://news.ycombinator.com/item?id=42243375) - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
 * [2024-11-26, 06:02:17](https://news.ycombinator.com/item?id=42242936) - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
 * [2024-11-26, 05:59:14](https://news.ycombinator.com/item?id=42242932) - [Nvidia Fugatto: \"World's Most Flexible Sound Machine\"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
@@ -13,7 +15,6 @@
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
-* [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
@@ -22,7 +23,6 @@
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:53:03](https://news.ycombinator.com/item?id=42231325) - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
-* [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [Show HN: I made an ls alternative for my personal use](https://github.com/triyanox/lla)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
