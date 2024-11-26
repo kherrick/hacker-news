@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2024-11-26, 07:35:53](https://news.ycombinator.com/item?id=42243375) - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
