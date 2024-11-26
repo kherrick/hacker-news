@@ -7,6 +7,7 @@
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:35:26](https://news.ycombinator.com/item?id=42248496) - [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
 * [2024-11-26, 18:23:51](https://news.ycombinator.com/item?id=42248380) - [Why you should never kiss a baby on the head](https://theconversation.com/why-you-should-never-kiss-a-baby-243661)
+* [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
 * [2024-11-26, 18:05:01](https://news.ycombinator.com/item?id=42248167) - [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
 * [2024-11-26, 17:50:59](https://news.ycombinator.com/item?id=42247985) - [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
 * [2024-11-26, 17:14:50](https://news.ycombinator.com/item?id=42247583) - [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
