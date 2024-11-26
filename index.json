@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-26, 00:49:47",
-      "https://news.ycombinator.com/item?id=42241600"
+      "2024-11-26, 01:47:25",
+      "https://news.ycombinator.com/item?id=42241851"
     ],
     [
-      "Kim Dotcom Suffers Stroke",
-      "https://www.yahoo.com/news/internet-entrepreneur-kim-dotcom-suffered-095220437.html"
+      "Fly.io is having a complete outage",
+      "https://status.flyio.net"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 01:36:09",
+      "https://news.ycombinator.com/item?id=42241789"
+    ],
+    [
+      "Google's iOS app now injects links on third-party websites that go to Search",
+      "https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 01:28:21",
+      "https://news.ycombinator.com/item?id=42241752"
+    ],
+    [
+      "GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company",
+      "https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
       "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 20:51:23",
-      "https://news.ycombinator.com/item?id=42240048"
-    ],
-    [
-      "The First Suburb",
-      "https://manchestermill.co.uk/p/the-secret-history-of-the-worlds"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-11-25, 05:41:45",
-      "https://news.ycombinator.com/item?id=42233565"
-    ],
-    [
-      "A Day in the Life: The Global BGP Table",
-      "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 03:25:33",
       "https://news.ycombinator.com/item?id=42232952"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-11-23, 18:42:03",
+      "https://news.ycombinator.com/item?id=42222773"
+    ],
+    [
+      "Apollo 68080: high performance 68k processor on FPGA",
+      "http://www.apollo-core.com/features.html"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 01:45:55",
       "https://news.ycombinator.com/item?id=42218682"
     ],
@@ -257,16 +267,6 @@
     [
       "Flipping FLIP ship saved from scrapyard at last minute",
       "https://newatlas.com/marine/flipping-flip-ship-saved/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 13:58:22",
-      "https://news.ycombinator.com/item?id=42183471"
-    ],
-    [
-      "ChipWits FORTH is now Open Source A taste of Game Dev in 1984",
-      "https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/"
     ]
   ],
   [
