@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
+* [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 * [2024-11-26, 08:43:59](https://news.ycombinator.com/item?id=42243715) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
 * [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
@@ -13,7 +14,6 @@
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-25, 17:56:34](https://news.ycombinator.com/item?id=42238396) - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
-* [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
