@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 18:23:51](https://news.ycombinator.com/item?id=42248380) - [Why you should never kiss a baby on the head](https://theconversation.com/why-you-should-never-kiss-a-baby-243661)
 * [2024-11-26, 17:50:59](https://news.ycombinator.com/item?id=42247985) - [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
 * [2024-11-26, 17:14:50](https://news.ycombinator.com/item?id=42247583) - [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
 * [2024-11-26, 17:14:06](https://news.ycombinator.com/item?id=42247572) - [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
