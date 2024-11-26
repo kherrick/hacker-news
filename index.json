@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-11-26, 15:09:35",
+      "https://news.ycombinator.com/item?id=42246416"
+    ],
+    [
+      "A furious, forgotten slave narrative resurfaces after nearly 170 years",
+      "https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 13:34:50",
       "https://news.ycombinator.com/item?id=42245574"
     ],
@@ -47,6 +57,16 @@
     [
       "LLVM-Powered Devirtualization",
       "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 12:19:53",
+      "https://news.ycombinator.com/item?id=42245037"
+    ],
+    [
+      "Golang and Containers Perf Gotcha – Gomaxprocs",
+      "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-25, 17:44:51",
-      "https://news.ycombinator.com/item?id=42238299"
-    ],
-    [
-      "Fleng 22 (concurrent logic programming)",
-      "http://www.call-with-current-continuation.org/fleng/fleng.html"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 16:14:22",
       "https://news.ycombinator.com/item?id=42237424"
     ],
@@ -247,16 +257,6 @@
     [
       "Remembering Cyberia, the First Ever Cyber Cafe",
       "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 17:34:32",
-      "https://news.ycombinator.com/item?id=42215741"
-    ],
-    [
-      "The Nearest Neighbor Attack",
-      "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"
     ]
   ],
   [
