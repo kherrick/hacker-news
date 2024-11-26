@@ -13,6 +13,8 @@
 * [2024-11-26, 12:23:06](https://news.ycombinator.com/item?id=42245066) - [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
 * [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
+* [2024-11-26, 11:44:54](https://news.ycombinator.com/item?id=42244851) - [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
+* [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
