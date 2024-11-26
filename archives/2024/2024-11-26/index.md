@@ -16,6 +16,7 @@
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:30:44](https://news.ycombinator.com/item?id=42245124) - [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
 * [2024-11-26, 12:23:06](https://news.ycombinator.com/item?id=42245066) - [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
+* [2024-11-26, 12:19:53](https://news.ycombinator.com/item?id=42245037) - [Golang and Containers Perf Gotcha – Gomaxprocs](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
 * [2024-11-26, 11:44:54](https://news.ycombinator.com/item?id=42244851) - [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
