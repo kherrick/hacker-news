@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:35:26](https://news.ycombinator.com/item?id=42248496) - [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
@@ -25,7 +26,6 @@
 * [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-23, 13:35:35](https://news.ycombinator.com/item?id=42220780) - [Dissecting M8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
-* [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the first ever cyber cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)
 * [2024-11-22, 11:23:03](https://news.ycombinator.com/item?id=42212909) - [Poisoning the Day](https://ashore.io/journal/crossover-creativity/poisoning-the-day)
 * [2024-11-22, 10:34:20](https://news.ycombinator.com/item?id=42212650) - [The AI reporter that took my old job just got fired](https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/)
