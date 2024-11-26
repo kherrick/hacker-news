@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-11-25, 22:11:31",
+      "https://news.ycombinator.com/item?id=42240678"
+    ],
+    [
+      "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
+      "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 20:12:27",
       "https://news.ycombinator.com/item?id=42239721"
     ],
@@ -247,16 +257,6 @@
     [
       "Revisiting the DOS Memory Models",
       "https://blogsystem5.substack.com/p/dos-memory-models"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 13:35:35",
-      "https://news.ycombinator.com/item?id=42220780"
-    ],
-    [
-      "Dissecting M8trix",
-      "https://tilde.town/~dzwdz/blog/m8trix.html"
     ]
   ],
   [
