@@ -6,6 +6,7 @@
 
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
 * [2024-11-26, 06:02:17](https://news.ycombinator.com/item?id=42242936) - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
+* [2024-11-26, 05:59:14](https://news.ycombinator.com/item?id=42242932) - [Nvidia Fugatto: \"World's Most Flexible Sound Machine\"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 * [2024-11-26, 05:26:23](https://news.ycombinator.com/item?id=42242825) - [CEO fired 90% of his staff for missing a morning meeting](https://fortune.com/2024/11/25/ceo-fires-employees-slack-remote/)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io is having a complete outage](https://status.flyio.net)
 * [2024-11-26, 01:36:09](https://news.ycombinator.com/item?id=42241789) - [Google's iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
