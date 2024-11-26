@@ -21,7 +21,7 @@
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:53:03](https://news.ycombinator.com/item?id=42231325) - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
-* [2024-11-24, 17:23:27](https://news.ycombinator.com/item?id=42229003) - [Show HN: I made an ls alternative for my personal use](https://github.com/triyanox/lla)
+* [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
