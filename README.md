@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
+* [2024-11-26, 06:02:17](https://news.ycombinator.com/item?id=42242936) - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io outage (restoration complete)](https://status.flyio.net)
 * [2024-11-26, 01:15:00](https://news.ycombinator.com/item?id=42241702) - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
@@ -10,7 +11,6 @@
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-25, 17:56:34](https://news.ycombinator.com/item?id=42238396) - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
-* [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
