@@ -52,6 +52,7 @@
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-Resolution Images Ever Captured of the Sun's Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
 * [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite's Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 09:38:11](https://news.ycombinator.com/item?id=42220062) - [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
+* [2024-11-23, 09:20:37](https://news.ycombinator.com/item?id=42219989) - [Surrealism, cafes and lots (and lots) of cats: why Japanese fiction is booming](https://www.theguardian.com/books/2024/nov/23/japanese-fiction-britain-translation)
 * [2024-11-23, 08:58:19](https://news.ycombinator.com/item?id=42219890) - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 * [2024-11-23, 08:56:16](https://news.ycombinator.com/item?id=42219885) - [Brunello Cucinelli scroll zoom-out website](https://www.brunellocucinelli.ai/)
 * [2024-11-23, 08:00:40](https://news.ycombinator.com/item?id=42219754) - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
