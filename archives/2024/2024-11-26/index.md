@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 17:14:06](https://news.ycombinator.com/item?id=42247572) - [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
 * [2024-11-26, 16:57:12](https://news.ycombinator.com/item?id=42247368) - [Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
 * [2024-11-26, 16:53:35](https://news.ycombinator.com/item?id=42247334) - [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
 * [2024-11-26, 16:20:31](https://news.ycombinator.com/item?id=42247001) - [An update on Google's compliance with the DMA](https://blog.google/around-the-globe/google-europe/dma-compliance-update/)
@@ -23,6 +24,7 @@
 * [2024-11-26, 12:19:53](https://news.ycombinator.com/item?id=42245037) - [Golang and Containers Perf Gotcha – Gomaxprocs](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
+* [2024-11-26, 12:08:37](https://news.ycombinator.com/item?id=42244976) - [A Revolution in How Robots Learn](https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn)
 * [2024-11-26, 11:44:54](https://news.ycombinator.com/item?id=42244851) - [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
