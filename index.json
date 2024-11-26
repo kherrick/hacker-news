@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-11-26, 17:14:50",
+      "https://news.ycombinator.com/item?id=42247583"
+    ],
+    [
+      "Warp terminal – no more login required",
+      "https://www.warp.dev/blog/lifting-login-requirement"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 17:14:06",
       "https://news.ycombinator.com/item?id=42247572"
     ],
     [
       "DEA passenger searches halted after watchdog finds signs of rights violations",
       "https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 17:00:22",
+      "https://news.ycombinator.com/item?id=42247418"
+    ],
+    [
+      "Agile Is Dead",
+      "https://www.agilepilled.com/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts",
       "https://silentpoems.net/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 15:29:55",
+      "https://news.ycombinator.com/item?id=42246596"
+    ],
+    [
+      "Qodo Merge integration with Jira — ensure code complies with ticket",
+      "https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: SQLite Plugin for Jekyll",
       "https://github.com/captn3m0/jekyll-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 12:08:37",
-      "https://news.ycombinator.com/item?id=42244976"
-    ],
-    [
-      "A Revolution in How Robots Learn",
-      "https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-11-25, 19:45:45",
-      "https://news.ycombinator.com/item?id=42239487"
-    ],
-    [
-      "Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)",
-      "https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 18:44:22",
       "https://news.ycombinator.com/item?id=42238890"
     ],
@@ -207,16 +217,6 @@
     [
       "Model Context Protocol",
       "https://www.anthropic.com/news/model-context-protocol"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 11:42:06",
-      "https://news.ycombinator.com/item?id=42235418"
-    ],
-    [
-      "Computing with Time: Microarchitectural Weird Machines",
-      "https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-11-22, 10:34:20",
+      "https://news.ycombinator.com/item?id=42212650"
+    ],
+    [
+      "The AI Reporter That Took My Old Job Just Got Fired",
+      "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 20:40:38",
       "https://news.ycombinator.com/item?id=42197886"
     ],
@@ -287,16 +297,6 @@
     [
       "Flipping FLIP ship saved from scrapyard at last minute",
       "https://newatlas.com/marine/flipping-flip-ship-saved/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 19:56:11",
-      "https://news.ycombinator.com/item?id=42187432"
-    ],
-    [
-      "The Mystery of the AFIPS Orphans (2006) [pdf]",
-      "https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf"
     ]
   ]
 ]
