@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2024-11-26, 12:19:53",
-      "https://news.ycombinator.com/item?id=42245037"
-    ],
-    [
-      "Go Production Performance Gotcha – GOMAXPROCS",
-      "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 12:11:31",
       "https://news.ycombinator.com/item?id=42244987"
     ],
     [
       "Show HN: SQLite Plugin for Jekyll",
       "https://github.com/captn3m0/jekyll-sqlite"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 12:08:37",
+      "https://news.ycombinator.com/item?id=42244976"
+    ],
+    [
+      "A Revolution in How Robots Learn",
+      "https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-11-26, 08:01:33",
-      "https://news.ycombinator.com/item?id=42243500"
-    ],
-    [
-      "Lies we tell ourselves to keep using Golang (2022)",
-      "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 20:12:27",
       "https://news.ycombinator.com/item?id=42239721"
     ],
@@ -251,22 +241,32 @@
   ],
   [
     [
+      "2024-11-23, 13:35:35",
+      "https://news.ycombinator.com/item?id=42220780"
+    ],
+    [
+      "Dissecting M8trix",
+      "https://tilde.town/~dzwdz/blog/m8trix.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 01:45:55",
+      "https://news.ycombinator.com/item?id=42218682"
+    ],
+    [
+      "Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)",
+      "https://arxiv.org/abs/2102.13207"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 23:10:18",
       "https://news.ycombinator.com/item?id=42218130"
     ],
     [
       "Remembering Cyberia, the first ever cyber cafe",
       "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 16:16:39",
-      "https://news.ycombinator.com/item?id=42215030"
-    ],
-    [
-      "Rust for AWS Lambda, the Docker Way",
-      "https://beeb.li/blog/aws-lambda-rust-docker"
     ]
   ],
   [
