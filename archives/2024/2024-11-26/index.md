@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 21:28:18](https://news.ycombinator.com/item?id=42250243) - [OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers](https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/)
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 19:31:24](https://news.ycombinator.com/item?id=42249090) - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)

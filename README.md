@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 21:28:18](https://news.ycombinator.com/item?id=42250243) - [OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers](https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/)
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 19:31:24](https://news.ycombinator.com/item?id=42249090) - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
@@ -21,14 +22,13 @@
 * [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-* [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
-* [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the first ever cyber cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)
 * [2024-11-22, 11:23:03](https://news.ycombinator.com/item?id=42212909) - [Poisoning the Day](https://ashore.io/journal/crossover-creativity/poisoning-the-day)
 * [2024-11-22, 10:34:20](https://news.ycombinator.com/item?id=42212650) - [The AI reporter that took my old job just got fired](https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/)
+* [2024-11-22, 07:04:09](https://news.ycombinator.com/item?id=42211735) - [A Guide to Server-Side Rendering](https://www.builder.io/m/explainers/server-side-rendering)
 * [2024-11-20, 20:40:38](https://news.ycombinator.com/item?id=42197886) - ['The Best of All Possible Worlds' Review: Leibniz Lives Again](https://www.wsj.com/arts-culture/books/the-best-of-all-possible-worlds-review-leibniz-lives-again-647be296)
 
 ## [Archives](archives/index.md)
