@@ -16,6 +16,7 @@
 * [2024-11-25, 20:00:08](https://news.ycombinator.com/item?id=42239607) - [Redis is trying to take over the all of the OSS Redis libraries](https://twitter.com/TomHacohen/status/1861137484249252093)
 * [2024-11-25, 19:49:57](https://news.ycombinator.com/item?id=42239535) - [Revisiting Uv](https://www.loopwerk.io/articles/2024/python-uv-revisited/)
 * [2024-11-25, 19:48:17](https://news.ycombinator.com/item?id=42239521) - [Synapse debacle cost some users their life savings](https://www.axios.com/2024/11/25/venture-capital-startups-fintech-synapse-andreessen-horowitz)
+* [2024-11-25, 19:47:23](https://news.ycombinator.com/item?id=42239514) - [The Raspberry Pi CM5 Is Weeks Away?](https://bret.dk/raspberry-pi-cm5-is-weeks-away/)
 * [2024-11-25, 19:45:45](https://news.ycombinator.com/item?id=42239487) - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)

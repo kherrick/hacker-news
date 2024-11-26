@@ -69,5 +69,6 @@
 * [2024-11-23, 03:11:23](https://news.ycombinator.com/item?id=42218941) - [A simple semi-space collector – wingolog](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 * [2024-11-23, 03:11:06](https://news.ycombinator.com/item?id=42218939) - [Baby's Second Garbage Collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-23, 02:36:14](https://news.ycombinator.com/item?id=42218820) - [The Pilgrim as a Historian](https://www.historytoday.com/archive/making-history/pilgrim-historian)
+* [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-23, 01:22:31](https://news.ycombinator.com/item?id=42218634) - [Tjq: Giving Types to Jq](https://github.com/alpaylan/tjq)
 * [2024-11-23, 00:55:00](https://news.ycombinator.com/item?id=42218532) - [Quake 3 Source Code Review: Network Model (2012)](https://fabiensanglard.net/quake3/network.php)

@@ -49,6 +49,7 @@
 * [2024-11-19, 14:24:43](https://news.ycombinator.com/item?id=42183747) - [Which Power Plant Does My Electricity Come From?](https://practical.engineering/blog/2024/11/14/which-power-plant-does-my-electricity-come-from)
 * [2024-11-19, 14:06:36](https://news.ycombinator.com/item?id=42183561) - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
 * [2024-11-19, 14:05:49](https://news.ycombinator.com/item?id=42183555) - [Electromagnetic coil gun seized in Japan](https://www3.nhk.or.jp/news/html/20241119/k10014642881000.html)
+* [2024-11-19, 13:58:22](https://news.ycombinator.com/item?id=42183471) - [ChipWits FORTH is now Open Source A taste of Game Dev in 1984](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-19, 13:55:16](https://news.ycombinator.com/item?id=42183443) - [This Pull Request was generated automatically using cover-agent](https://github.com/huggingface/pytorch-image-models/pull/2331)
 * [2024-11-19, 13:41:51](https://news.ycombinator.com/item?id=42183312) - [Astra Dynamic Chunks: How We Saved by Redesigning a Key Part of Astra](https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/)
 * [2024-11-19, 13:29:32](https://news.ycombinator.com/item?id=42183192) - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
