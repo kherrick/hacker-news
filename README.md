@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io outage (restoration complete)](https://status.flyio.net)
 * [2024-11-26, 01:15:00](https://news.ycombinator.com/item?id=42241702) - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
@@ -26,8 +27,7 @@
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
-* [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
-* [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
+* [2024-11-22, 13:34:34](https://news.ycombinator.com/item?id=42213712) - [New Comic Book: La BD de L'Avent, Le Lombard Publishing](https://www.davidrevoy.com/article1055/new-comic-book-la-bd-de-lavent-le-lombard-publishing)
 * [2024-11-20, 20:40:38](https://news.ycombinator.com/item?id=42197886) - ['The Best of All Possible Worlds' Review: Leibniz Lives Again](https://www.wsj.com/arts-culture/books/the-best-of-all-possible-worlds-review-leibniz-lives-again-647be296)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
 
