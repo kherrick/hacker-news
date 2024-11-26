@@ -30,6 +30,7 @@
 * [2024-11-19, 20:03:10](https://news.ycombinator.com/item?id=42187506) - [When did estimates turn into deadlines?](https://domainanalysis.io/p/architecture-modernization-execution)
 * [2024-11-19, 20:02:05](https://news.ycombinator.com/item?id=42187494) - [Niantic announces \"Large Geospatial Model\" trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-19, 19:58:06](https://news.ycombinator.com/item?id=42187452) - [Rumble CEO Chris Pavlovski Expresses Interest in Buying Google Chrome](https://twitter.com/chrispavlovski/status/1858909560485949474)
+* [2024-11-19, 19:56:11](https://news.ycombinator.com/item?id=42187432) - [The Mystery of the AFIPS Orphans (2006) [pdf]](https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf)
 * [2024-11-19, 18:40:29](https://news.ycombinator.com/item?id=42186747) - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/game.html)
 * [2024-11-19, 18:40:15](https://news.ycombinator.com/item?id=42186746) - [The Deep Sea](https://neal.fun/deep-sea/)
 * [2024-11-19, 17:51:14](https://news.ycombinator.com/item?id=42186244) - [Dear sir, you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)

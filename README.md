@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-* [2024-11-26, 08:37:50](https://news.ycombinator.com/item?id=42243689) - [Your docs are your infrastructure](https://stackoverflow.blog/2024/11/26/your-docs-are-your-infrastructure/)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
-* [2024-11-26, 05:59:14](https://news.ycombinator.com/item?id=42242932) - [Nvidia Fugatto: \"World's Most Flexible Sound Machine\"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io outage – resolved](https://status.flyio.net)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
@@ -30,6 +29,7 @@
 * [2024-11-22, 11:23:03](https://news.ycombinator.com/item?id=42212909) - [Poisoning the Day](https://ashore.io/journal/crossover-creativity/poisoning-the-day)
 * [2024-11-20, 20:40:38](https://news.ycombinator.com/item?id=42197886) - ['The Best of All Possible Worlds' Review: Leibniz Lives Again](https://www.wsj.com/arts-culture/books/the-best-of-all-possible-worlds-review-leibniz-lives-again-647be296)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
+* [2024-11-19, 19:56:11](https://news.ycombinator.com/item?id=42187432) - [The Mystery of the AFIPS Orphans (2006) [pdf]](https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf)
 
 ## [Archives](archives/index.md)
 
