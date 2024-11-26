@@ -16,6 +16,7 @@
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 21:34:46](https://news.ycombinator.com/item?id=42224113) - [Which Countries Have the Most Industrial Robots?](https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/)
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
+* [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
 * [2024-11-23, 20:42:09](https://news.ycombinator.com/item?id=42223738) - [Amazon won't accept written communication](https://news.ycombinator.com/item?id=42223738)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 20:28:13](https://news.ycombinator.com/item?id=42223646) - [Boulder's explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
