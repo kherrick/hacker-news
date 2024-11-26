@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
+* [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:35:26](https://news.ycombinator.com/item?id=42248496) - [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
 * [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
 * [2024-11-26, 18:05:01](https://news.ycombinator.com/item?id=42248167) - [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
@@ -15,7 +16,6 @@
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:19:53](https://news.ycombinator.com/item?id=42245037) - [Go Production Performance Gotcha – GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
-* [2024-11-26, 12:08:37](https://news.ycombinator.com/item?id=42244976) - [A Revolution in How Robots Learn](https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn)
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)

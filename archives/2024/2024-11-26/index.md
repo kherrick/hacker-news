@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
+* [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:35:26](https://news.ycombinator.com/item?id=42248496) - [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
 * [2024-11-26, 18:23:51](https://news.ycombinator.com/item?id=42248380) - [Why you should never kiss a baby on the head](https://theconversation.com/why-you-should-never-kiss-a-baby-243661)
 * [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
