@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 13:17:08](https://news.ycombinator.com/item?id=42245442) - [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
+* [2024-11-26, 12:39:24](https://news.ycombinator.com/item?id=42245180) - [USPTO petitioned to cancel Oracle's JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
+* [2024-11-26, 12:30:44](https://news.ycombinator.com/item?id=42245124) - [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
+* [2024-11-26, 12:23:06](https://news.ycombinator.com/item?id=42245066) - [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
+* [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
+* [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
