@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 17:14:50](https://news.ycombinator.com/item?id=42247583) - [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
 * [2024-11-26, 17:14:06](https://news.ycombinator.com/item?id=42247572) - [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
+* [2024-11-26, 17:00:22](https://news.ycombinator.com/item?id=42247418) - [Agile Is Dead](https://www.agilepilled.com/)
 * [2024-11-26, 16:57:12](https://news.ycombinator.com/item?id=42247368) - [Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
 * [2024-11-26, 16:53:35](https://news.ycombinator.com/item?id=42247334) - [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
 * [2024-11-26, 16:20:31](https://news.ycombinator.com/item?id=42247001) - [An update on Google's compliance with the DMA](https://blog.google/around-the-globe/google-europe/dma-compliance-update/)
 * [2024-11-26, 15:46:14](https://news.ycombinator.com/item?id=42246739) - [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
 * [2024-11-26, 15:30:56](https://news.ycombinator.com/item?id=42246604) - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
+* [2024-11-26, 15:29:55](https://news.ycombinator.com/item?id=42246596) - [Qodo Merge integration with Jira — ensure code complies with ticket](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A Furious, Forgotten Slave Narrative Resurfaces After Nearly 170 Years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
 * [2024-11-26, 14:59:08](https://news.ycombinator.com/item?id=42246333) - [Stack Overflow Does Not Want to Help You](https://stackoverflow-makes-me-sad.bearblog.dev/stack-overflow-does-not-want-to-help-you/)
 * [2024-11-26, 14:13:18](https://news.ycombinator.com/item?id=42245916) - [Judge blocks Louisiana law that requires classrooms to display Ten Commandments](https://apnews.com/article/ten-commandments-law-blocked-public-schools-louisiana-87b3dde94e583fdbb9ecb26db42b0206)
