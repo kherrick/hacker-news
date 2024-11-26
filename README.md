@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 15:46:14](https://news.ycombinator.com/item?id=42246739) - [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
 * [2024-11-26, 15:30:56](https://news.ycombinator.com/item?id=42246604) - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
-* [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A furious, forgotten slave narrative resurfaces after nearly 170 years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
+* [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A slave narrative resurfaces after nearly 170 years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
 * [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 * [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 * [2024-11-26, 13:10:48](https://news.ycombinator.com/item?id=42245400) - [Medicare Pays Different Prices for the Same Drug](https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c)
@@ -21,7 +22,6 @@
 * [2024-11-25, 16:14:22](https://news.ycombinator.com/item?id=42237424) - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
-* [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)

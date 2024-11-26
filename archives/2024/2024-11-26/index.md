@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 15:46:14](https://news.ycombinator.com/item?id=42246739) - [Nobody knows why ultra-processed foods are bad for you](https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you)
 * [2024-11-26, 15:30:56](https://news.ycombinator.com/item?id=42246604) - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
 * [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A Furious, Forgotten Slave Narrative Resurfaces After Nearly 170 Years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
 * [2024-11-26, 14:59:08](https://news.ycombinator.com/item?id=42246333) - [Stack Overflow Does Not Want to Help You](https://stackoverflow-makes-me-sad.bearblog.dev/stack-overflow-does-not-want-to-help-you/)
