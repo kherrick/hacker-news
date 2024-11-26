@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)

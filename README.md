@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
 * [2024-11-26, 18:05:01](https://news.ycombinator.com/item?id=42248167) - [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
-* [2024-11-26, 17:50:59](https://news.ycombinator.com/item?id=42247985) - [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
 * [2024-11-26, 17:14:06](https://news.ycombinator.com/item?id=42247572) - [DEA passenger searches halted after watchdog finds signs of rights violations](https://www.nbcnews.com/politics/dea-passenger-searches-halted-watchdog-finds-signs-civil-rights-violat-rcna181262)
 * [2024-11-26, 16:57:12](https://news.ycombinator.com/item?id=42247368) - [Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
 * [2024-11-26, 16:53:35](https://news.ycombinator.com/item?id=42247334) - [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted)
