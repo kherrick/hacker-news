@@ -1,31 +1,11 @@
 [
   [
     [
-      "2024-11-26, 21:28:18",
-      "https://news.ycombinator.com/item?id=42250243"
-    ],
-    [
-      "OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers",
-      "https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 20:33:56",
-      "https://news.ycombinator.com/item?id=42249763"
-    ],
-    [
-      "Go and Java: Rethinking Type Safety for the Pragmatic Age",
-      "https://rohan.ga/blog/java-go/"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 20:13:16",
       "https://news.ycombinator.com/item?id=42249545"
     ],
     [
-      "USPS carriers love their new mail trucks",
+      "Yes, it ‘looks like a duck,’ but carriers like the new USPS mail truck",
       "https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html"
     ]
   ],
@@ -37,6 +17,16 @@
     [
       "Artificial Intelligence and the Future of Work",
       "https://nap.nationalacademies.org/resource/27644/interactive/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 19:14:49",
+      "https://news.ycombinator.com/item?id=42248907"
+    ],
+    [
+      "OpenAI Sora allegedly leaked to Hugging Face",
+      "https://huggingface.co/spaces/PR-Puppets/PR-Puppet-Sora"
     ]
   ],
   [
@@ -55,8 +45,18 @@
       "https://news.ycombinator.com/item?id=42248584"
     ],
     [
-      "Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal",
+      "Teen mathematicians tie knots through a mind-blowing fractal",
       "https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 18:35:26",
+      "https://news.ycombinator.com/item?id=42248496"
+    ],
+    [
+      "The industry structure of LLM makers",
+      "https://calpaterson.com/porter.html"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-11-23, 18:30:56",
+      "https://news.ycombinator.com/item?id=42222670"
+    ],
+    [
+      "Revisiting the DOS Memory Models",
+      "https://blogsystem5.substack.com/p/dos-memory-models"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 23:10:18",
       "https://news.ycombinator.com/item?id=42218130"
     ],
@@ -277,16 +287,6 @@
     [
       "The AI reporter that took my old job just got fired",
       "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 07:04:09",
-      "https://news.ycombinator.com/item?id=42211735"
-    ],
-    [
-      "A Guide to Server-Side Rendering",
-      "https://www.builder.io/m/explainers/server-side-rendering"
     ]
   ],
   [
