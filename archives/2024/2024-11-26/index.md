@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
+* [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 * [2024-11-26, 13:17:08](https://news.ycombinator.com/item?id=42245442) - [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
 * [2024-11-26, 12:39:24](https://news.ycombinator.com/item?id=42245180) - [USPTO petitioned to cancel Oracle's JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
