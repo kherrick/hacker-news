@@ -70,6 +70,7 @@
 * [2024-11-22, 04:46:39](https://news.ycombinator.com/item?id=42211280) - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
 * [2024-11-22, 04:38:57](https://news.ycombinator.com/item?id=42211248) - [OpenAI Challenges Google](https://rudo.tel/openai-considers-taking-on-google-with-browser-the-information/)
 * [2024-11-22, 04:25:35](https://news.ycombinator.com/item?id=42211188) - [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
+* [2024-11-22, 03:39:36](https://news.ycombinator.com/item?id=42210956) - [Iceland Spar](https://en.wikipedia.org/wiki/Iceland_spar)
 * [2024-11-22, 02:54:15](https://news.ycombinator.com/item?id=42210728) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 02:42:36](https://news.ycombinator.com/item?id=42210690) - [Microsoft Copilot Customers Discover It Can Let Them Read HR Docs and CEO Emails](https://21hats.substack.com/p/all-of-a-sudden-joe-blow-can-see)
 * [2024-11-22, 02:42:14](https://news.ycombinator.com/item?id=42210689) - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
