@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 14:13:18](https://news.ycombinator.com/item?id=42245916) - [Judge blocks Louisiana law that requires classrooms to display Ten Commandments](https://apnews.com/article/ten-commandments-law-blocked-public-schools-louisiana-87b3dde94e583fdbb9ecb26db42b0206)
 * [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 * [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 * [2024-11-26, 13:17:08](https://news.ycombinator.com/item?id=42245442) - [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
@@ -16,6 +17,7 @@
 * [2024-11-26, 11:44:54](https://news.ycombinator.com/item?id=42244851) - [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
+* [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
 * [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 * [2024-11-26, 08:43:59](https://news.ycombinator.com/item?id=42243715) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
