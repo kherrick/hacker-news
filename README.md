@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
-* [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 * [2024-11-26, 08:43:59](https://news.ycombinator.com/item?id=42243715) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
 * [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
@@ -21,6 +20,7 @@
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
+* [2024-11-24, 22:53:03](https://news.ycombinator.com/item?id=42231325) - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
