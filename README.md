@@ -25,7 +25,7 @@
 * [2024-11-23, 01:45:55](https://news.ycombinator.com/item?id=42218682) - [Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)](https://arxiv.org/abs/2102.13207)
 * [2024-11-22, 17:34:32](https://news.ycombinator.com/item?id=42215741) - [The Nearest Neighbor Attack](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
-* [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
+* [2024-11-22, 10:53:07](https://news.ycombinator.com/item?id=42212763) - [Stroustroup: We need better performance testing [pdf]](https://open-std.org/JTC1/SC22/WG21/docs/papers/2024/p3406r0.pdf)
 * [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
 * [2024-11-20, 11:01:17](https://news.ycombinator.com/item?id=42192722) - [Flipping FLIP ship saved from scrapyard at last minute](https://newatlas.com/marine/flipping-flip-ship-saved/)
 * [2024-11-17, 13:20:33](https://news.ycombinator.com/item?id=42164058) - [Transactional Object Storage?](https://blog.mbrt.dev/posts/transactional-object-storage/)
