@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-26, 17:14:50",
-      "https://news.ycombinator.com/item?id=42247583"
-    ],
-    [
-      "Warp terminal – no more login required",
-      "https://www.warp.dev/blog/lifting-login-requirement"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 17:14:06",
       "https://news.ycombinator.com/item?id=42247572"
     ],
@@ -197,6 +187,16 @@
     [
       "Lies we tell ourselves to keep using Golang (2022)",
       "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 22:11:31",
+      "https://news.ycombinator.com/item?id=42240678"
+    ],
+    [
+      "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
+      "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"
     ]
   ],
   [
