@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-26, 15:46:14",
-      "https://news.ycombinator.com/item?id=42246739"
-    ],
-    [
-      "Nobody knows why ultra-processed foods are bad for you",
-      "https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 15:30:56",
       "https://news.ycombinator.com/item?id=42246604"
     ],
@@ -217,6 +207,16 @@
     [
       "Computing with Time: Microarchitectural Weird Machines",
       "https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 00:17:15",
+      "https://news.ycombinator.com/item?id=42231876"
+    ],
+    [
+      "Solving Boolean satisfiability and integer programming with Python packaging",
+      "https://mmaaz.ca/writings/pipip.html"
     ]
   ],
   [
