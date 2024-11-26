@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io outage (restoration in progress)](https://status.flyio.net)
+* [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io outage (restoration complete)](https://status.flyio.net)
 * [2024-11-26, 01:15:00](https://news.ycombinator.com/item?id=42241702) - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
