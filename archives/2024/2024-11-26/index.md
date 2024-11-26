@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 22:56:47](https://news.ycombinator.com/item?id=42251040) - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
 * [2024-11-26, 22:27:55](https://news.ycombinator.com/item?id=42250784) - [Ask HN: Why isn't having two or three careers the norm?](https://news.ycombinator.com/item?id=42250784)
 * [2024-11-26, 21:45:10](https://news.ycombinator.com/item?id=42250400) - [FCC Grants SpaceX Right to Some Direct-to-Cellular Operations [pdf]](https://docs.fcc.gov/public/attachments/DA-24-1193A1.pdf)
 * [2024-11-26, 21:28:18](https://news.ycombinator.com/item?id=42250243) - [OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers](https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/)
