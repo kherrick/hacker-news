@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-26, 09:59:17",
+      "https://news.ycombinator.com/item?id=42244183"
+    ],
+    [
+      "Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements",
+      "https://www.phoronix.com/news/Linux-6.13-KVM"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 08:52:00",
       "https://news.ycombinator.com/item?id=42243755"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-11-26, 08:37:50",
-      "https://news.ycombinator.com/item?id=42243689"
-    ],
-    [
-      "Your docs are your infrastructure",
-      "https://stackoverflow.blog/2024/11/26/your-docs-are-your-infrastructure/"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 06:12:17",
       "https://news.ycombinator.com/item?id=42242971"
     ],
     [
       "Cybertruck's Many Recalls",
       "https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 05:59:14",
-      "https://news.ycombinator.com/item?id=42242932"
-    ],
-    [
-      "Nvidia Fugatto: \"World's Most Flexible Sound Machine\"",
-      "https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Flipping FLIP ship saved from scrapyard at last minute",
       "https://newatlas.com/marine/flipping-flip-ship-saved/"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 19:56:11",
+      "https://news.ycombinator.com/item?id=42187432"
+    ],
+    [
+      "The Mystery of the AFIPS Orphans (2006) [pdf]",
+      "https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf"
     ]
   ]
 ]
