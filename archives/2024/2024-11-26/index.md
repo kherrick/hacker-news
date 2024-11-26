@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A Furious, Forgotten Slave Narrative Resurfaces After Nearly 170 Years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
+* [2024-11-26, 14:59:08](https://news.ycombinator.com/item?id=42246333) - [Stack Overflow Does Not Want to Help You](https://stackoverflow-makes-me-sad.bearblog.dev/stack-overflow-does-not-want-to-help-you/)
 * [2024-11-26, 14:13:18](https://news.ycombinator.com/item?id=42245916) - [Judge blocks Louisiana law that requires classrooms to display Ten Commandments](https://apnews.com/article/ten-commandments-law-blocked-public-schools-louisiana-87b3dde94e583fdbb9ecb26db42b0206)
 * [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 * [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
 * [2024-11-26, 13:17:08](https://news.ycombinator.com/item?id=42245442) - [Vitest vs. Jest: why we are betting on Vitest](https://www.speakeasy.com/post/vitest-vs-jest)
+* [2024-11-26, 13:10:48](https://news.ycombinator.com/item?id=42245400) - [Medicare Pays Different Prices for the Same Drug](https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c)
 * [2024-11-26, 12:39:24](https://news.ycombinator.com/item?id=42245180) - [USPTO petitioned to cancel Oracle's JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:30:44](https://news.ycombinator.com/item?id=42245124) - [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
