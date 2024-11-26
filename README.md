@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-26, 08:52:00](https://news.ycombinator.com/item?id=42243755) - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
+* [2024-11-26, 08:43:59](https://news.ycombinator.com/item?id=42243715) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
 * [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2024-11-26, 07:35:53](https://news.ycombinator.com/item?id=42243375) - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
@@ -17,7 +18,6 @@
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
-* [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 00:36:46](https://news.ycombinator.com/item?id=42232000) - [SQLiteStudio: Create, edit, browse SQLite databases](https://sqlitestudio.pl/)
 * [2024-11-25, 00:17:15](https://news.ycombinator.com/item?id=42231876) - [Solving Boolean satisfiability and integer programming with Python packaging](https://mmaaz.ca/writings/pipip.html)
 * [2024-11-24, 23:21:36](https://news.ycombinator.com/item?id=42231489) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
