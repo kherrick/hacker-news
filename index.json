@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-27, 05:34:31",
+      "https://news.ycombinator.com/item?id=42253241"
+    ],
+    [
+      "I Wrote \"Janet for Mortals\"",
+      "https://ianthehenry.com/posts/janet-for-mortals/"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 05:10:08",
       "https://news.ycombinator.com/item?id=42253119"
     ],
@@ -57,16 +67,6 @@
     [
       "Hacker in Snowflake extortions may be a U.S. soldier",
       "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 00:14:25",
-      "https://news.ycombinator.com/item?id=42251564"
-    ],
-    [
-      "ISPs say their \"excellent customer service\" is why users don't switch providers",
-      "https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-11-22, 23:10:18",
-      "https://news.ycombinator.com/item?id=42218130"
+      "2024-11-23, 12:28:16",
+      "https://news.ycombinator.com/item?id=42220561"
     ],
     [
-      "Remembering Cyberia, the first ever cyber cafe",
-      "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"
+      "Why am I writing a JavaScript toolchain in Zig?",
+      "https://injuly.in/blog/announcing-jam/index.html"
     ]
   ],
   [
