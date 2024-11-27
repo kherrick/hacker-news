@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-11-27, 20:10:55",
+      "https://news.ycombinator.com/item?id=42259278"
+    ],
+    [
+      "Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230",
+      "https://github.com/xairy/lights-out"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 20:00:27",
+      "https://news.ycombinator.com/item?id=42259185"
+    ],
+    [
+      "Brain learning differs fundamentally from artificial intelligence systems",
+      "https://www.nature.com/articles/s41593-023-01514-1"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 19:54:21",
+      "https://news.ycombinator.com/item?id=42259133"
+    ],
+    [
+      "The US copyright office has struck down a major effort for game preservation",
+      "https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 19:42:08",
       "https://news.ycombinator.com/item?id=42259040"
     ],
     [
       "Publishers Have Said the Quiet Part Out Loud About Retro Games",
       "https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 19:22:18",
+      "https://news.ycombinator.com/item?id=42258860"
+    ],
+    [
+      "The Rise of Bluesky",
+      "https://cacm.acm.org/blogcacm/the-rise-of-bluesky/"
     ]
   ],
   [
@@ -171,26 +211,6 @@
   ],
   [
     [
-      "2024-11-27, 01:16:55",
-      "https://news.ycombinator.com/item?id=42251958"
-    ],
-    [
-      "SSH Artwork",
-      "https://github.com/villasv/ssh-artwork"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 01:10:53",
-      "https://news.ycombinator.com/item?id=42251919"
-    ],
-    [
-      "Htmy – Async, pure-Python rendering engine",
-      "https://volfpeter.github.io/htmy/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 00:53:16",
       "https://news.ycombinator.com/item?id=42251799"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-11-26, 12:28:34",
-      "https://news.ycombinator.com/item?id=42245105"
-    ],
-    [
-      "Regular Expressions which query an Oracle",
-      "https://arxiv.org/abs/2410.13262"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 16:57:09",
       "https://news.ycombinator.com/item?id=42237832"
     ],
     [
       "Pricing the anonymity of banknotes",
       "http://jpkoning.blogspot.com/2024/11/pricing-anonymity-of-banknotes.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 07:14:35",
-      "https://news.ycombinator.com/item?id=42233953"
-    ],
-    [
-      "Show HN: Jumping Julia Maze",
-      "https://jumpingjuliamaze.onrender.com"
     ]
   ],
   [
@@ -275,18 +275,8 @@
       "https://news.ycombinator.com/item?id=42223330"
     ],
     [
-      "Microsoft Is First to Get HBM-Juiced AMD CPUs",
+      "Microsoft is first to get HBM-juiced AMD CPUs",
       "https://www.nextplatform.com/2024/11/22/microsoft-is-first-to-get-hbm-juiced-amd-cpus/"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 19:05:00",
-      "https://news.ycombinator.com/item?id=42222990"
-    ],
-    [
-      "Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene",
-      "https://www.nature.com/articles/s41598-024-79546-1"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Martha's Vineyard Sign Language",
       "https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 12:03:20",
+      "https://news.ycombinator.com/item?id=42213125"
+    ],
+    [
+      "Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles",
+      "https://www.nature.com/articles/s44271-024-00157-7"
     ]
   ]
 ]
