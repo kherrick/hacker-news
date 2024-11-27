@@ -49,6 +49,7 @@
 * [2024-11-26, 12:39:24](https://news.ycombinator.com/item?id=42245180) - [USPTO petitioned to cancel Oracle's JavaScript trademark](https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html)
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:30:44](https://news.ycombinator.com/item?id=42245124) - [Microsoft Word and Excel AI data scraping slyly switched to opt-in by default](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-word-and-excel-ai-data-scraping-slyly-switched-to-opt-in-by-default-the-opt-out-toggle-is-not-that-easy-to-find)
+* [2024-11-26, 12:28:34](https://news.ycombinator.com/item?id=42245105) - [Regular Expressions which query an Oracle](https://arxiv.org/abs/2410.13262)
 * [2024-11-26, 12:23:06](https://news.ycombinator.com/item?id=42245066) - [South Korea court convicts man for dodging military draft by gaining weight](https://www.aljazeera.com/news/2024/11/26/south-korea-court-convicts-man-of-deliberately-gaining-weight-to-dodge-military-draft)
 * [2024-11-26, 12:19:53](https://news.ycombinator.com/item?id=42245037) - [Golang and Containers Perf Gotcha – Gomaxprocs](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How Fast Does Java Compile?](https://mill-build.org/mill/comparisons/java-compile.html)
