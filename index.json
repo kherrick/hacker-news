@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-27, 15:26:52",
+      "https://news.ycombinator.com/item?id=42256771"
+    ],
+    [
+      "Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience",
+      "https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 15:13:28",
+      "https://news.ycombinator.com/item?id=42256694"
+    ],
+    [
+      "Migrating a Client onto OpenTofu for Cost and Speed [video]",
+      "https://www.youtube.com/watch?v=YDez1_G47H8"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 14:58:58",
       "https://news.ycombinator.com/item?id=42256594"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-11-27, 00:04:59",
-      "https://news.ycombinator.com/item?id=42251508"
-    ],
-    [
-      "Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet",
-      "https://github.com/thamugadi/jazelle-wii"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 20:32:24",
       "https://news.ycombinator.com/item?id=42249746"
     ],
@@ -277,16 +287,6 @@
     [
       "Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene",
       "https://www.nature.com/articles/s41598-024-79546-1"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 07:59:25",
-      "https://news.ycombinator.com/item?id=42219749"
-    ],
-    [
-      "Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)",
-      "https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html"
     ]
   ],
   [
