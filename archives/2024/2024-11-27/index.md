@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 12:03:24](https://news.ycombinator.com/item?id=42255393) - [Ryugu asteroid sample rapidly colonized by terrestrial life](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 * [2024-11-27, 11:58:01](https://news.ycombinator.com/item?id=42255357) - [Bluesky Is Booming in Japan](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/)
 * [2024-11-27, 11:11:52](https://news.ycombinator.com/item?id=42255092) - [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)
