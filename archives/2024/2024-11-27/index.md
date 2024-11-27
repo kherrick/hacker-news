@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
@@ -15,6 +16,7 @@
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 02:02:00](https://news.ycombinator.com/item?id=42252205) - [Quark: Real-Time, High-Resolution, and General Neural View Synthesis](https://quark-3d.github.io/)
 * [2024-11-27, 01:30:49](https://news.ycombinator.com/item?id=42252041) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
+* [2024-11-27, 01:16:55](https://news.ycombinator.com/item?id=42251958) - [SSH Artwork](https://github.com/villasv/ssh-artwork)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake Extortions May Be a U.S. Soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 * [2024-11-27, 00:31:11](https://news.ycombinator.com/item?id=42251656) - [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
