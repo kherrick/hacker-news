@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
+* [2024-11-27, 15:13:28](https://news.ycombinator.com/item?id=42256694) - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
 * [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 14:45:46](https://news.ycombinator.com/item?id=42256489) - [AMD Releases ROCm Version 6.3](https://insidehpc.com/2024/11/amd-releases-rocm-version-6-3/)
@@ -15,7 +17,6 @@
 * [2024-11-27, 01:16:55](https://news.ycombinator.com/item?id=42251958) - [SSH Artwork](https://github.com/villasv/ssh-artwork)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
-* [2024-11-27, 00:04:59](https://news.ycombinator.com/item?id=42251508) - [Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet](https://github.com/thamugadi/jazelle-wii)
 * [2024-11-26, 20:32:24](https://news.ycombinator.com/item?id=42249746) - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen mathematicians tie knots through a mind-blowing fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
@@ -28,7 +29,6 @@
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
-* [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
 * [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
 
 ## [Archives](archives/index.md)
