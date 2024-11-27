@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [I Wrote \"Janet for Mortals\"](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-27, 03:59:57](https://news.ycombinator.com/item?id=42252806) - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 * [2024-11-27, 02:32:30](https://news.ycombinator.com/item?id=42252360) - [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
-* [2024-11-27, 00:14:25](https://news.ycombinator.com/item?id=42251564) - [ISPs say their \"excellent customer service\" is why users don't switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
 * [2024-11-27, 00:04:59](https://news.ycombinator.com/item?id=42251508) - [Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet](https://github.com/thamugadi/jazelle-wii)
 * [2024-11-26, 22:56:47](https://news.ycombinator.com/item?id=42251040) - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
 * [2024-11-26, 22:41:14](https://news.ycombinator.com/item?id=42250921) - [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
@@ -27,7 +27,7 @@
 * [2024-11-25, 22:13:05](https://news.ycombinator.com/item?id=42240686) - [Sombrero Galaxy dazzles in new James Webb image](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 * [2024-11-24, 02:13:39](https://news.ycombinator.com/item?id=42225453) - [The impact of the cosmological constant on past and future star formation](https://academic.oup.com/mnras/article/535/2/1449/7896079)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
-* [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the first ever cyber cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)
+* [2024-11-23, 12:28:16](https://news.ycombinator.com/item?id=42220561) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
 * [2024-11-22, 22:43:18](https://news.ycombinator.com/item?id=42217963) - [Creating a social photo frame from scratch](https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame)
 * [2024-11-20, 15:50:39](https://news.ycombinator.com/item?id=42195004) - [FQL: A KV Query Language](https://github.com/janderland/fql)
 
