@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
 * [2024-11-27, 12:03:24](https://news.ycombinator.com/item?id=42255393) - [Ryugu asteroid sample rapidly colonized by terrestrial life](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
+* [2024-11-27, 11:58:01](https://news.ycombinator.com/item?id=42255357) - [Bluesky Is Booming in Japan](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/)
 * [2024-11-27, 11:11:52](https://news.ycombinator.com/item?id=42255092) - [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
