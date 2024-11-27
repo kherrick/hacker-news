@@ -12,6 +12,7 @@
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 20:06:20](https://news.ycombinator.com/item?id=42259237) - [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [2024-11-27, 20:00:27](https://news.ycombinator.com/item?id=42259185) - [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
+* [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1 Like Reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
 * [2024-11-27, 19:54:21](https://news.ycombinator.com/item?id=42259133) - [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
 * [2024-11-27, 19:42:08](https://news.ycombinator.com/item?id=42259040) - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [2024-11-27, 19:22:18](https://news.ycombinator.com/item?id=42258860) - [The Rise of Bluesky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/)
