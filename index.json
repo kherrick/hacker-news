@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-27, 09:15:41",
+      "https://news.ycombinator.com/item?id=42254379"
+    ],
+    [
+      "Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)",
+      "https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 08:34:35",
       "https://news.ycombinator.com/item?id=42254156"
     ],
@@ -237,16 +247,6 @@
     [
       "The Many Faces of the Kingdom of Shu",
       "https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 12:28:16",
-      "https://news.ycombinator.com/item?id=42220561"
-    ],
-    [
-      "Why am I writing a JavaScript toolchain in Zig?",
-      "https://injuly.in/blog/announcing-jam/index.html"
     ]
   ],
   [
