@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-27, 07:20:37",
-      "https://news.ycombinator.com/item?id=42253756"
-    ],
-    [
-      "Python type hints may not be not for me in practice",
-      "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 05:34:31",
       "https://news.ycombinator.com/item?id=42253241"
     ],
@@ -67,6 +57,16 @@
     [
       "I Didn't Need Kubernetes, and You Probably Don't Either",
       "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 02:02:00",
+      "https://news.ycombinator.com/item?id=42252205"
+    ],
+    [
+      "Quark: Real-Time, High-Resolution, and General Neural View Synthesis",
+      "https://quark-3d.github.io/"
     ]
   ],
   [
