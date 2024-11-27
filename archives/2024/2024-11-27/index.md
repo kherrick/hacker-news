@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+* [2024-11-27, 20:06:20](https://news.ycombinator.com/item?id=42259237) - [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [2024-11-27, 20:00:27](https://news.ycombinator.com/item?id=42259185) - [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
 * [2024-11-27, 19:54:21](https://news.ycombinator.com/item?id=42259133) - [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
 * [2024-11-27, 19:42:08](https://news.ycombinator.com/item?id=42259040) - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
@@ -26,6 +27,7 @@
 * [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
+* [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 12:39:20](https://news.ycombinator.com/item?id=42255582) - [How to raise children with grit (2019)](https://thedadtrain.com/how-to-raise-children-with-grit/)
