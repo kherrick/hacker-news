@@ -21,6 +21,7 @@
 * [2024-11-24, 20:27:27](https://news.ycombinator.com/item?id=42230240) - [Comparison of Claude Sonnet 3.5, GPT-4o, o1, and Gemini 1.5 Pro for coding](https://www.qodo.ai/blog/comparison-of-claude-sonnet-3-5-gpt-4o-o1-and-gemini-1-5-pro-for-coding/)
 * [2024-11-24, 20:08:34](https://news.ycombinator.com/item?id=42230103) - [Starlink: Direct to Cell](https://www.starlink.com/business/direct-to-cell)
 * [2024-11-24, 19:30:10](https://news.ycombinator.com/item?id=42229825) - [Hynix launches 321-layer NAND](https://www.electronicsweekly.com/news/business/hynix-launches-321-layer-nanzd-2024-11/)
+* [2024-11-24, 18:56:59](https://news.ycombinator.com/item?id=42229613) - ['Dear Mr. Kubrick': 1960s Audience Responses to 2001 — A Space Odyssey (2009) [pdf]](https://www.participations.org/06-02-06-kramer.pdf)
 * [2024-11-24, 18:45:16](https://news.ycombinator.com/item?id=42229557) - [Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
 * [2024-11-24, 18:40:00](https://news.ycombinator.com/item?id=42229531) - [Malaria vaccine delivered by a mosquito bite](https://www.nature.com/articles/d41586-024-03817-0)
 * [2024-11-24, 18:08:04](https://news.ycombinator.com/item?id=42229299) - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
