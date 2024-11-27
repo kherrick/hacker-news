@@ -60,6 +60,7 @@
 * [2024-11-23, 08:58:19](https://news.ycombinator.com/item?id=42219890) - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 * [2024-11-23, 08:56:16](https://news.ycombinator.com/item?id=42219885) - [Brunello Cucinelli scroll zoom-out website](https://www.brunellocucinelli.ai/)
 * [2024-11-23, 08:00:40](https://news.ycombinator.com/item?id=42219754) - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
+* [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
 * [2024-11-23, 07:43:23](https://news.ycombinator.com/item?id=42219708) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 * [2024-11-23, 07:40:48](https://news.ycombinator.com/item?id=42219695) - [Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds](https://gizmodo.com/teslas-are-involved-in-more-fatal-accidents-than-any-other-brand-study-finds-2000528042)
 * [2024-11-23, 07:27:42](https://news.ycombinator.com/item?id=42219657) - [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
