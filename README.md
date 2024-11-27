@@ -28,8 +28,8 @@
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
+* [2024-11-23, 08:16:00](https://news.ycombinator.com/item?id=42219786) - [I'm a Developer Not a Compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
-* [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
 
 ## [Archives](archives/index.md)
 
