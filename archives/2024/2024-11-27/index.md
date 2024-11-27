@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 17:38:52](https://news.ycombinator.com/item?id=42257936) - [Open source implementation of OpenAI's \"Canvas\"](https://opencanvas.langchain.com/auth/login)
+* [2024-11-27, 17:32:55](https://news.ycombinator.com/item?id=42257881) - [Coinbase won Tornado Cash appeal](https://www.coindesk.com/policy/2024/11/26/tornado-cash-sanctions-overturned-by-u-s-appeals-court)
 * [2024-11-27, 16:17:20](https://news.ycombinator.com/item?id=42257196) - [.an, the TLD that ceased to exist](https://en.wikipedia.org/wiki/.an)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – Open-source AIOps and alert management](https://github.com/keephq/keep)
 * [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
