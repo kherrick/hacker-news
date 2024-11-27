@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
+* [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
 * [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 12:39:20](https://news.ycombinator.com/item?id=42255582) - [How to raise children with grit (2019)](https://thedadtrain.com/how-to-raise-children-with-grit/)
