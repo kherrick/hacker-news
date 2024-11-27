@@ -10,7 +10,6 @@
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 * [2024-11-27, 00:04:59](https://news.ycombinator.com/item?id=42251508) - [Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet](https://github.com/thamugadi/jazelle-wii)
-* [2024-11-26, 22:41:14](https://news.ycombinator.com/item?id=42250921) - [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
 * [2024-11-26, 20:36:17](https://news.ycombinator.com/item?id=42249790) - [D-Link says it won't patch 60k older modems](https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving)
 * [2024-11-26, 20:32:24](https://news.ycombinator.com/item?id=42249746) - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
@@ -28,6 +27,7 @@
 * [2024-11-23, 12:28:16](https://news.ycombinator.com/item?id=42220561) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
 * [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
 * [2024-11-22, 22:43:18](https://news.ycombinator.com/item?id=42217963) - [Creating a social photo frame from scratch](https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame)
+* [2024-11-22, 12:11:27](https://news.ycombinator.com/item?id=42213178) - [Spies Jumped from One Network to Another via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
 * [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
 * [2024-11-20, 15:50:39](https://news.ycombinator.com/item?id=42195004) - [FQL: A KV Query Language](https://github.com/janderland/fql)
 
