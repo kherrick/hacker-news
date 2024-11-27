@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 21:53:05](https://news.ycombinator.com/item?id=42260179) - [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
 * [2024-11-27, 21:39:39](https://news.ycombinator.com/item?id=42260057) - [Increasing testosterone levels does not increase sex drive](https://english.elpais.com/health/2024-11-27/increasing-testosterone-levels-does-not-increase-sex-drive.html)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 21:06:50](https://news.ycombinator.com/item?id=42259778) - [Over ½ of Long Posts on LinkedIn Are Likely AI-Generated Since ChatGPT Launched](https://originality.ai/blog/ai-content-published-linkedin)
