@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-27, 21:53:05](https://news.ycombinator.com/item?id=42260179) - [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
-* [2024-11-27, 21:39:39](https://news.ycombinator.com/item?id=42260057) - [Increasing testosterone levels does not increase sex drive](https://english.elpais.com/health/2024-11-27/increasing-testosterone-levels-does-not-increase-sex-drive.html)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 20:54:44](https://news.ycombinator.com/item?id=42259666) - [Hackerrank was broken – but now it's harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
 * [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
@@ -10,6 +9,7 @@
 * [2024-11-27, 20:00:27](https://news.ycombinator.com/item?id=42259185) - [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
 * [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1 Like Reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
+* [2024-11-27, 18:30:09](https://news.ycombinator.com/item?id=42258407) - [Generate video sprites using just FFmpeg](https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 16:49:44](https://news.ycombinator.com/item?id=42257493) - [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – AIOps and alert management](https://github.com/keephq/keep)
