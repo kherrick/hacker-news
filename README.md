@@ -25,10 +25,10 @@
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 * [2024-11-26, 13:31:17](https://news.ycombinator.com/item?id=42245544) - [Memento Movi](https://mementomovi.wackyneighbor.com/)
-* [2024-11-25, 16:57:09](https://news.ycombinator.com/item?id=42237832) - [Pricing the anonymity of banknotes](http://jpkoning.blogspot.com/2024/11/pricing-anonymity-of-banknotes.html)
 * [2024-11-24, 18:40:00](https://news.ycombinator.com/item?id=42229531) - [Malaria vaccine delivered by a mosquito bite](https://www.nature.com/articles/d41586-024-03817-0)
 * [2024-11-23, 19:40:15](https://news.ycombinator.com/item?id=42223330) - [Microsoft is first to get HBM-juiced AMD CPUs](https://www.nextplatform.com/2024/11/22/microsoft-is-first-to-get-hbm-juiced-amd-cpus/)
 * [2024-11-23, 06:29:46](https://news.ycombinator.com/item?id=42219501) - [Martha's Vineyard Sign Language](https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language)
+* [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
 * [2024-11-22, 12:03:20](https://news.ycombinator.com/item?id=42213125) - [Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles](https://www.nature.com/articles/s44271-024-00157-7)
 
 ## [Archives](archives/index.md)
