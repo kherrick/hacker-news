@@ -46,6 +46,7 @@
 * [2024-11-25, 09:40:06](https://news.ycombinator.com/item?id=42234695) - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
 * [2024-11-25, 09:03:57](https://news.ycombinator.com/item?id=42234497) - [Why I have resigned from the Royal Society](http://deevybee.blogspot.com/2024/11/why-i-have-resigned-from-royal-society.html)
 * [2024-11-25, 08:48:26](https://news.ycombinator.com/item?id=42234415) - [GitHub removes 42 \"basic functionality\" features from their roadmap](https://github.com/github/roadmap/discussions/1014)
+* [2024-11-25, 08:07:44](https://news.ycombinator.com/item?id=42234206) - [The WTF-8 Encoding](https://simonsapin.github.io/wtf-8/)
 * [2024-11-25, 07:59:59](https://news.ycombinator.com/item?id=42234174) - [Raspberry Pi Pico 2 W on sale now at $7](https://www.raspberrypi.com/news/raspberry-pi-pico-2-w-on-sale-now/)
 * [2024-11-25, 07:55:19](https://news.ycombinator.com/item?id=42234147) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 * [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
