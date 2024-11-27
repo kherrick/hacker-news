@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 * [2024-11-27, 00:31:11](https://news.ycombinator.com/item?id=42251656) - [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
@@ -11,7 +12,6 @@
 * [2024-11-26, 20:36:17](https://news.ycombinator.com/item?id=42249790) - [D-Link says it won't patch 60k older modems](https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving)
 * [2024-11-26, 20:32:24](https://news.ycombinator.com/item?id=42249746) - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 * [2024-11-26, 20:32:09](https://news.ycombinator.com/item?id=42249743) - [Imperfect Parfit](https://philosophersmag.com/imperfect-parfit/)
-* [2024-11-26, 20:10:47](https://news.ycombinator.com/item?id=42249518) - [Apple Rhapsody Report (1997)](https://www.uvm.edu/~sjc/raposody.html)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen mathematicians tie knots through a mind-blowing fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 18:35:26](https://news.ycombinator.com/item?id=42248496) - [The industry structure of LLM makers](https://calpaterson.com/porter.html)
