@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 19:42:08](https://news.ycombinator.com/item?id=42259040) - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 16:52:38](https://news.ycombinator.com/item?id=42257519) - [Prelude to McCarthyism: The Making of a Blacklist (2006)](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
@@ -9,7 +10,6 @@
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century (2022)](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs arbitrary code execution and how to avoid it](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
-* [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians created the first writing system](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 10:36:00](https://news.ycombinator.com/item?id=42254870) - [Show HN: AutoPiP – Safari extension for automatic Picture-in-Picture mode](https://github.com/vordenken/AutoPiP)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)

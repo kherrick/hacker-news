@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 19:42:08](https://news.ycombinator.com/item?id=42259040) - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 17:38:52](https://news.ycombinator.com/item?id=42257936) - [Open source implementation of OpenAI's \"Canvas\"](https://opencanvas.langchain.com/auth/login)
