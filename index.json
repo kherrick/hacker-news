@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-11-25, 16:57:09",
-      "https://news.ycombinator.com/item?id=42237832"
-    ],
-    [
-      "Pricing the anonymity of banknotes",
-      "http://jpkoning.blogspot.com/2024/11/pricing-anonymity-of-banknotes.html"
-    ]
-  ],
-  [
-    [
       "2024-11-24, 18:40:00",
       "https://news.ycombinator.com/item?id=42229531"
     ],
@@ -287,6 +277,16 @@
     [
       "Martha's Vineyard Sign Language",
       "https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 13:54:48",
+      "https://news.ycombinator.com/item?id=42213845"
+    ],
+    [
+      "Ultra-low-latency, batching and concurrent queue for IPC in Java",
+      "https://github.com/coralblocks/CoralRing"
     ]
   ],
   [
