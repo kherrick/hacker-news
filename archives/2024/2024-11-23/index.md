@@ -16,6 +16,7 @@
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
 * [2024-11-23, 21:34:46](https://news.ycombinator.com/item?id=42224113) - [Which Countries Have the Most Industrial Robots?](https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/)
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
+* [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
 * [2024-11-23, 20:44:23](https://news.ycombinator.com/item?id=42223752) - [Tunable ultrasound propagation in microscale metamaterials](https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120)
 * [2024-11-23, 20:42:09](https://news.ycombinator.com/item?id=42223738) - [Amazon won't accept written communication](https://news.ycombinator.com/item?id=42223738)
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
