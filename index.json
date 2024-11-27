@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-11-27, 11:11:52",
-      "https://news.ycombinator.com/item?id=42255092"
+      "2024-11-27, 12:03:24",
+      "https://news.ycombinator.com/item?id=42255393"
     ],
     [
-      "SpaceX rocket explosion shredded the upper atmosphere",
-      "https://www.nature.com/articles/d41586-024-02841-4"
+      "Ryugu asteroid sample rapidly colonized by terrestrial life",
+      "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Raspberry Pi CM5 is a faster, drop-in upgrade",
       "https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 08:50:47",
+      "https://news.ycombinator.com/item?id=42254236"
+    ],
+    [
+      "Accelerated Jax on Mac",
+      "https://developer.apple.com/metal/jax/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-11-25, 22:13:05",
-      "https://news.ycombinator.com/item?id=42240686"
-    ],
-    [
-      "Sombrero Galaxy dazzles in new James Webb image",
-      "https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 08:07:44",
       "https://news.ycombinator.com/item?id=42234206"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-11-23, 19:05:00",
+      "https://news.ycombinator.com/item?id=42222990"
+    ],
+    [
+      "Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene",
+      "https://www.nature.com/articles/s41598-024-79546-1"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 07:59:25",
       "https://news.ycombinator.com/item?id=42219749"
     ],
     [
       "Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)",
       "https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 22:43:18",
-      "https://news.ycombinator.com/item?id=42217963"
-    ],
-    [
-      "Creating a social photo frame from scratch",
-      "https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame"
     ]
   ],
   [
