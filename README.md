@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
+* [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
+* [2024-11-27, 14:45:46](https://news.ycombinator.com/item?id=42256489) - [AMD Releases ROCm Version 6.3](https://insidehpc.com/2024/11/amd-releases-rocm-version-6-3/)
 * [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
@@ -23,8 +25,6 @@
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:45:40](https://news.ycombinator.com/item?id=42244093) - [Git-crypt – transparent file encryption in Git](https://www.agwa.name/projects/git-crypt/)
-* [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
-* [2024-11-25, 22:13:05](https://news.ycombinator.com/item?id=42240686) - [Sombrero Galaxy dazzles in new James Webb image](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
