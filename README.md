@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [I Wrote \"Janet for Mortals\"](https://ianthehenry.com/posts/janet-for-mortals/)
@@ -16,6 +15,7 @@
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
 * [2024-11-26, 18:43:26](https://news.ycombinator.com/item?id=42248584) - [Teen mathematicians tie knots through a mind-blowing fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 * [2024-11-26, 16:57:12](https://news.ycombinator.com/item?id=42247368) - [Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems](https://news.ycombinator.com/item?id=42247368)
+* [2024-11-26, 16:05:15](https://news.ycombinator.com/item?id=42246883) - [I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever](https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0)
 * [2024-11-26, 15:30:56](https://news.ycombinator.com/item?id=42246604) - [Show HN: Silent Poems – Visual expression of unspoken thoughts](https://silentpoems.net/)
 * [2024-11-26, 12:38:34](https://news.ycombinator.com/item?id=42245170) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:11:31](https://news.ycombinator.com/item?id=42244987) - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
