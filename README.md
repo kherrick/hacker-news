@@ -4,7 +4,6 @@
 * [2024-11-27, 15:13:28](https://news.ycombinator.com/item?id=42256694) - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
 * [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
-* [2024-11-27, 14:45:46](https://news.ycombinator.com/item?id=42256489) - [AMD Releases ROCm Version 6.3](https://insidehpc.com/2024/11/amd-releases-rocm-version-6-3/)
 * [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
@@ -29,6 +28,7 @@
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
+* [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
 * [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
 
 ## [Archives](archives/index.md)
