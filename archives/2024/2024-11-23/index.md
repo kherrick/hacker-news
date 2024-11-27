@@ -69,6 +69,7 @@
 * [2024-11-23, 07:22:52](https://news.ycombinator.com/item?id=42219646) - [UK Farmers Trigger the Revolution – Politely](https://morningporridge.com/blog/nations/uk/uk-farmers-trigger-the-revolution-politely/)
 * [2024-11-23, 07:15:36](https://news.ycombinator.com/item?id=42219627) - [Rust's Two Kinds of 'Assert' Make for Better Code](https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html)
 * [2024-11-23, 06:57:43](https://news.ycombinator.com/item?id=42219578) - [Foursquare's 104M Points of Interest](https://tech.marksblogg.com/foursquare-open-global-poi-dataset.html)
+* [2024-11-23, 06:29:46](https://news.ycombinator.com/item?id=42219501) - [Martha's Vineyard Sign Language](https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language)
 * [2024-11-23, 05:56:15](https://news.ycombinator.com/item?id=42219431) - [UK sees privatisation 'opportunities' in Ukraine war](https://www.declassifieduk.org/uk-sees-privatisation-opportunities-in-ukraine-war/)
 * [2024-11-23, 05:46:18](https://news.ycombinator.com/item?id=42219411) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 * [2024-11-23, 05:44:48](https://news.ycombinator.com/item?id=42219407) - [Americans see their savings vanish in Synapse fintech crisis](https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html)
