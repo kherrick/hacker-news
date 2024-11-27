@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 20:54:44](https://news.ycombinator.com/item?id=42259666) - [Hackerrank was broken – but now it's harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
 * [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Matomo-org/device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 20:06:20](https://news.ycombinator.com/item?id=42259237) - [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -24,7 +25,6 @@
 * [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [Janet for Mortals (2023)](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
-* [2024-11-26, 13:31:17](https://news.ycombinator.com/item?id=42245544) - [Memento Movi](https://mementomovi.wackyneighbor.com/)
 * [2024-11-24, 18:40:00](https://news.ycombinator.com/item?id=42229531) - [Malaria vaccine delivered by a mosquito bite](https://www.nature.com/articles/d41586-024-03817-0)
 * [2024-11-23, 19:40:15](https://news.ycombinator.com/item?id=42223330) - [Microsoft is first to get HBM-juiced AMD CPUs](https://www.nextplatform.com/2024/11/22/microsoft-is-first-to-get-hbm-juiced-amd-cpus/)
 * [2024-11-23, 06:29:46](https://news.ycombinator.com/item?id=42219501) - [Martha's Vineyard Sign Language](https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language)

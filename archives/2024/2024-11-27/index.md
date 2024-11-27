@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 20:54:44](https://news.ycombinator.com/item?id=42259666) - [Hackerrank was broken – but now it's harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
 * [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Matomo-org/device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 20:06:20](https://news.ycombinator.com/item?id=42259237) - [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
