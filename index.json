@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-11-27, 16:17:20",
-      "https://news.ycombinator.com/item?id=42257196"
-    ],
-    [
-      ".an, the TLD that ceased to exist",
-      "https://en.wikipedia.org/wiki/.an"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 15:58:42",
       "https://news.ycombinator.com/item?id=42257060"
     ],
     [
       "Launch HN: Keep (YC W23) – Open-source AIOps and alert management",
       "https://github.com/keephq/keep"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 15:26:52",
-      "https://news.ycombinator.com/item?id=42256771"
-    ],
-    [
-      "Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience",
-      "https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience"
     ]
   ],
   [
@@ -77,16 +57,6 @@
     [
       "OpenWrt Community question: What do you want to see in OpenWrt?",
       "https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 13:55:20",
-      "https://news.ycombinator.com/item?id=42256093"
-    ],
-    [
-      "Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI",
-      "https://news.ycombinator.com/item?id=42256093"
     ]
   ],
   [
@@ -177,6 +147,16 @@
     [
       "Hacker in Snowflake extortions may be a U.S. soldier",
       "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 00:04:59",
+      "https://news.ycombinator.com/item?id=42251508"
+    ],
+    [
+      "Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet",
+      "https://github.com/thamugadi/jazelle-wii"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "I'm a Developer Not a Compiler",
       "https://news.radio-t.com/post/i-m-a-developer-not-a-compiler"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 06:29:46",
+      "https://news.ycombinator.com/item?id=42219501"
+    ],
+    [
+      "Martha's Vineyard Sign Language",
+      "https://www.atlasobscura.com/articles/the-hidden-history-of-marthas-vineyard-sign-language"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 07:23:45",
+      "https://news.ycombinator.com/item?id=42211820"
+    ],
+    [
+      "The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)",
+      "http://www.rgaros.nl/computers/apple-cork/report-en.html"
     ]
   ]
 ]
