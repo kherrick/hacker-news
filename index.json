@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-11-27, 16:17:20",
+      "https://news.ycombinator.com/item?id=42257196"
+    ],
+    [
+      ".an, the TLD that ceased to exist",
+      "https://en.wikipedia.org/wiki/.an"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 15:58:42",
+      "https://news.ycombinator.com/item?id=42257060"
+    ],
+    [
+      "Launch HN: Keep (YC W23) – Open-source AIOps and alert management",
+      "https://github.com/keephq/keep"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 15:26:52",
       "https://news.ycombinator.com/item?id=42256771"
     ],
     [
       "Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience",
       "https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 15:13:28",
-      "https://news.ycombinator.com/item?id=42256694"
-    ],
-    [
-      "Migrating a Client onto OpenTofu for Cost and Speed [video]",
-      "https://www.youtube.com/watch?v=YDez1_G47H8"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42256589"
     ],
     [
-      "Chebyshev Polynomials in the 16th Century",
+      "Chebyshev Polynomials in the 16th Century (2022)",
       "https://arxiv.org/abs/2203.10955"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-11-23, 21:06:33",
-      "https://news.ycombinator.com/item?id=42223884"
-    ],
-    [
-      "The Many Faces of the Kingdom of Shu",
-      "https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/"
-    ]
-  ],
-  [
-    [
       "2024-11-23, 19:05:00",
       "https://news.ycombinator.com/item?id=42222990"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-11-23, 07:59:25",
-      "https://news.ycombinator.com/item?id=42219749"
+      "2024-11-22, 07:23:45",
+      "https://news.ycombinator.com/item?id=42211820"
     ],
     [
-      "Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)",
-      "https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html"
+      "The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)",
+      "http://www.rgaros.nl/computers/apple-cork/report-en.html"
     ]
   ]
 ]
