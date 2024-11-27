@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-11-27, 01:30:49",
+      "https://news.ycombinator.com/item?id=42252041"
+    ],
+    [
+      "Reply on Bluesky and Decentralization",
+      "https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 00:53:16",
+      "https://news.ycombinator.com/item?id=42251799"
+    ],
+    [
+      "Hacker in Snowflake Extortions May Be a U.S. Soldier",
+      "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 00:31:11",
+      "https://news.ycombinator.com/item?id=42251656"
+    ],
+    [
+      "Marshall Brain died hours after alleging retaliation at NC State",
+      "https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 00:14:25",
       "https://news.ycombinator.com/item?id=42251564"
     ],
     [
       "ISPs say their \"excellent customer service\" is why users don't switch providers",
       "https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 00:04:59",
+      "https://news.ycombinator.com/item?id=42251508"
+    ],
+    [
+      "Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet",
+      "https://github.com/thamugadi/jazelle-wii"
     ]
   ],
   [
@@ -27,6 +67,26 @@
     [
       "Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?",
       "https://news.ycombinator.com/item?id=42251040"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 22:41:14",
+      "https://news.ycombinator.com/item?id=42250921"
+    ],
+    [
+      "Show HN: I created a lightweight JavaScript library to visualize JSON as a graph",
+      "https://github.com/xzitlou/jsontr.ee"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 21:49:13",
+      "https://news.ycombinator.com/item?id=42250429"
+    ],
+    [
+      "Show HN: Clean Your Mac with a Script",
+      "https://github.com/hkdobrev/cleanmac"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2024-11-26, 19:31:24",
-      "https://news.ycombinator.com/item?id=42249090"
-    ],
-    [
-      "Artificial Intelligence and the Future of Work",
-      "https://nap.nationalacademies.org/resource/27644/interactive/"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 18:47:04",
       "https://news.ycombinator.com/item?id=42248630"
     ],
@@ -111,42 +161,12 @@
   ],
   [
     [
-      "2024-11-26, 18:17:57",
-      "https://news.ycombinator.com/item?id=42248315"
-    ],
-    [
-      "1B nested loop iterations",
-      "https://benjdd.com/languages/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 17:28:53",
-      "https://news.ycombinator.com/item?id=42247735"
-    ],
-    [
-      "The Weird BLE-Lock – Hacking Cloud Locks",
-      "https://nv1t.github.io/blog/the-weired-ble-lock/"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 16:57:12",
       "https://news.ycombinator.com/item?id=42247368"
     ],
     [
       "Launch HN: Human Layer (YC F24) – Human-in-the-Loop API for AI Systems",
       "https://news.ycombinator.com/item?id=42247368"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 16:53:35",
-      "https://news.ycombinator.com/item?id=42247334"
-    ],
-    [
-      "California's most neglected group of students: the gifted ones",
-      "https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-26, 12:08:37",
-      "https://news.ycombinator.com/item?id=42244976"
-    ],
-    [
-      "A Revolution in How Robots Learn",
-      "https://www.newyorker.com/magazine/2024/12/02/a-revolution-in-how-robots-learn"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 11:38:11",
       "https://news.ycombinator.com/item?id=42244814"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-11-26, 08:50:00",
-      "https://news.ycombinator.com/item?id=42243746"
-    ],
-    [
-      "Y Combinator often backs startups that duplicate other YC companies, data shows",
-      "https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 22:13:05",
       "https://news.ycombinator.com/item?id=42240686"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-11-22, 11:23:03",
-      "https://news.ycombinator.com/item?id=42212909"
+      "2024-11-22, 22:43:18",
+      "https://news.ycombinator.com/item?id=42217963"
     ],
     [
-      "Poisoning the Day",
-      "https://ashore.io/journal/crossover-creativity/poisoning-the-day"
+      "Creating a social photo frame from scratch",
+      "https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame"
     ]
   ],
   [
