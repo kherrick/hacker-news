@@ -12,6 +12,7 @@
 * [2024-11-27, 03:59:57](https://news.ycombinator.com/item?id=42252806) - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 * [2024-11-27, 02:32:30](https://news.ycombinator.com/item?id=42252360) - [Tesla excluded from EV buyer credits in California proposal](https://fortune.com/2024/11/25/tesla-excluded-from-ev-buyer-credits-in-california-proposal-newsom/)
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+* [2024-11-27, 02:02:00](https://news.ycombinator.com/item?id=42252205) - [Quark: Real-Time, High-Resolution, and General Neural View Synthesis](https://quark-3d.github.io/)
 * [2024-11-27, 01:30:49](https://news.ycombinator.com/item?id=42252041) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake Extortions May Be a U.S. Soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)

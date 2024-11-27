@@ -2,11 +2,11 @@
 
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
-* [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 * [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [I Wrote \"Janet for Mortals\"](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-27, 03:59:57](https://news.ycombinator.com/item?id=42252806) - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+* [2024-11-27, 02:02:00](https://news.ycombinator.com/item?id=42252205) - [Quark: Real-Time, High-Resolution, and General Neural View Synthesis](https://quark-3d.github.io/)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
 * [2024-11-27, 00:04:59](https://news.ycombinator.com/item?id=42251508) - [Executing ARM Jazelle (JVM Bytecode) on the Wii's Starlet](https://github.com/thamugadi/jazelle-wii)
