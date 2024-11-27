@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 22:56:59](https://news.ycombinator.com/item?id=42260645) - [Google Maps leads three men to death as car plunges from incomplete bridge](https://economictimes.indiatimes.com/news/india/google-maps-leads-three-men-to-death-as-car-plunges-from-incomplete-bridge-into-river-in-bareilly-up/articleshow/115651260.cms?from=mdr)
 * [2024-11-27, 22:24:23](https://news.ycombinator.com/item?id=42260405) - [3 killed, 1 seriously injured in Tesla Cybertruck crash in Northern California](https://apnews.com/article/tesla-cybertruck-piedmont-california-5d5b82dfffe7db70a2b1c3d4863e3d69)
+* [2024-11-27, 22:24:02](https://news.ycombinator.com/item?id=42260401) - [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)
 * [2024-11-27, 22:18:58](https://news.ycombinator.com/item?id=42260364) - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
 * [2024-11-27, 21:53:05](https://news.ycombinator.com/item?id=42260179) - [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
 * [2024-11-27, 21:41:14](https://news.ycombinator.com/item?id=42260074) - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
@@ -12,6 +14,8 @@
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 21:06:50](https://news.ycombinator.com/item?id=42259778) - [Over ½ of Long Posts on LinkedIn Are Likely AI-Generated Since ChatGPT Launched](https://originality.ai/blog/ai-content-published-linkedin)
 * [2024-11-27, 20:54:44](https://news.ycombinator.com/item?id=42259666) - [Hackerrank was broken – but now it's harmful](https://segfaulte.mataroa.blog/blog/hackerrank-was-broken-but-now-its-actually-harmful/)
+* [2024-11-27, 20:48:08](https://news.ycombinator.com/item?id=42259604) - [TrunkVer](https://trunkver.org/)
+* [2024-11-27, 20:42:52](https://news.ycombinator.com/item?id=42259547) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 * [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Matomo-org/device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 20:06:20](https://news.ycombinator.com/item?id=42259237) - [Google Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
