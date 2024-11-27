@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 14:36:06](https://news.ycombinator.com/item?id=42256409) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
@@ -29,7 +30,6 @@
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
 * [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
 * [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
-* [2024-11-20, 15:50:39](https://news.ycombinator.com/item?id=42195004) - [FQL: A KV Query Language](https://github.com/janderland/fql)
 
 ## [Archives](archives/index.md)
 
