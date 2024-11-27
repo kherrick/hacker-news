@@ -10,6 +10,7 @@
 * [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
 * [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
+* [2024-11-27, 09:23:46](https://news.ycombinator.com/item?id=42254434) - [Show HN: ColoringsAI – Custom Coloring Pages from Ideas (My Daughter's Idea)](https://www.coloringsai.com/en)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [Janet for Mortals (2023)](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 05:27:21](https://news.ycombinator.com/item?id=42253211) - [A Dark Age Beacon (2019)](https://archaeology.org/issues/january-february-2019/features/a-dark-age-beacon/)
@@ -29,7 +30,6 @@
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
 * [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
 * [2024-11-23, 08:16:00](https://news.ycombinator.com/item?id=42219786) - [I'm a Developer Not a Compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
-* [2024-11-22, 07:23:45](https://news.ycombinator.com/item?id=42211820) - [The Nursery of the Mac – Apple Computer factory in Cork, Ireland (1996)](http://www.rgaros.nl/computers/apple-cork/report-en.html)
 
 ## [Archives](archives/index.md)
 
