@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 12:03:24](https://news.ycombinator.com/item?id=42255393) - [Ryugu asteroid sample rapidly colonized by terrestrial life](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 * [2024-11-27, 11:11:52](https://news.ycombinator.com/item?id=42255092) - [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
+* [2024-11-27, 08:50:47](https://news.ycombinator.com/item?id=42254236) - [Accelerated Jax on Mac](https://developer.apple.com/metal/jax/)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
 * [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)

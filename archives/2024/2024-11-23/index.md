@@ -26,6 +26,7 @@
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
 * [2024-11-23, 19:16:12](https://news.ycombinator.com/item?id=42223100) - [Neuralink gets approval to start human trials in Canada](https://www.engadget.com/science/neuralink-gets-approval-to-start-human-trials-in-canada-143021769.html)
 * [2024-11-23, 19:15:54](https://news.ycombinator.com/item?id=42223099) - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
+* [2024-11-23, 19:05:00](https://news.ycombinator.com/item?id=42222990) - [Mummy of juvenile sabre-toothed cat Homotherium latidens from Upper Pleistocene](https://www.nature.com/articles/s41598-024-79546-1)
 * [2024-11-23, 18:42:03](https://news.ycombinator.com/item?id=42222773) - [Apollo 68080: high performance 68k processor on FPGA](http://www.apollo-core.com/features.html)
 * [2024-11-23, 18:35:27](https://news.ycombinator.com/item?id=42222717) - [1 Dataset. 100 Visualizations](https://100.datavizproject.com/)
 * [2024-11-23, 18:30:56](https://news.ycombinator.com/item?id=42222670) - [Revisiting the DOS Memory Models](https://blogsystem5.substack.com/p/dos-memory-models)
