@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-11-27, 12:03:24",
-      "https://news.ycombinator.com/item?id=42255393"
-    ],
-    [
-      "Ryugu asteroid sample rapidly colonized by terrestrial life",
-      "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 11:58:01",
-      "https://news.ycombinator.com/item?id=42255357"
-    ],
-    [
-      "Bluesky Is Booming in Japan",
-      "https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 09:15:41",
       "https://news.ycombinator.com/item?id=42254379"
     ],
@@ -31,22 +11,22 @@
   ],
   [
     [
-      "2024-11-27, 08:50:47",
-      "https://news.ycombinator.com/item?id=42254236"
-    ],
-    [
-      "Accelerated Jax on Mac",
-      "https://developer.apple.com/metal/jax/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 08:34:35",
       "https://news.ycombinator.com/item?id=42254156"
     ],
     [
       "Show HN: App that asks 'why?' every time you unlock your phone",
       "https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 07:20:37",
+      "https://news.ycombinator.com/item?id=42253756"
+    ],
+    [
+      "Python type hints may not be not for me in practice",
+      "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "The capacitor that Apple soldered incorrectly at the factory",
       "https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 02:26:19",
-      "https://news.ycombinator.com/item?id=42252336"
-    ],
-    [
-      "I Didn't Need Kubernetes, and You Probably Don't Either",
-      "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run"
     ]
   ],
   [
@@ -171,12 +141,32 @@
   ],
   [
     [
+      "2024-11-26, 16:05:15",
+      "https://news.ycombinator.com/item?id=42246883"
+    ],
+    [
+      "I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever",
+      "https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 15:30:56",
       "https://news.ycombinator.com/item?id=42246604"
     ],
     [
       "Show HN: Silent Poems – Visual expression of unspoken thoughts",
       "https://silentpoems.net/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 13:33:35",
+      "https://news.ycombinator.com/item?id=42245562"
+    ],
+    [
+      "Henry James and H.G. Wells (1958)",
+      "https://www.bopsecrets.org/rexroth/essays/james-wells.htm"
     ]
   ],
   [
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2024-11-25, 08:07:44",
-      "https://news.ycombinator.com/item?id=42234206"
+      "2024-11-25, 22:13:05",
+      "https://news.ycombinator.com/item?id=42240686"
     ],
     [
-      "The WTF-8 Encoding",
-      "https://simonsapin.github.io/wtf-8/"
+      "Sombrero Galaxy dazzles in new James Webb image",
+      "https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 02:13:39",
+      "https://news.ycombinator.com/item?id=42225453"
+    ],
+    [
+      "The impact of the cosmological constant on past and future star formation",
+      "https://academic.oup.com/mnras/article/535/2/1449/7896079"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-11-22, 12:11:27",
-      "https://news.ycombinator.com/item?id=42213178"
+      "2024-11-22, 23:10:18",
+      "https://news.ycombinator.com/item?id=42218130"
     ],
     [
-      "Spies Jumped from One Network to Another via Wi-Fi in an Unprecedented Hack",
-      "https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/"
+      "Remembering Cyberia, the first ever cyber cafe",
+      "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"
     ]
   ],
   [
