@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+* [2024-11-27, 20:00:27](https://news.ycombinator.com/item?id=42259185) - [Brain learning differs fundamentally from artificial intelligence systems](https://www.nature.com/articles/s41593-023-01514-1)
+* [2024-11-27, 19:54:21](https://news.ycombinator.com/item?id=42259133) - [The US copyright office has struck down a major effort for game preservation](https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/)
 * [2024-11-27, 19:42:08](https://news.ycombinator.com/item?id=42259040) - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
+* [2024-11-27, 19:22:18](https://news.ycombinator.com/item?id=42258860) - [The Rise of Bluesky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 17:38:52](https://news.ycombinator.com/item?id=42257936) - [Open source implementation of OpenAI's \"Canvas\"](https://opencanvas.langchain.com/auth/login)

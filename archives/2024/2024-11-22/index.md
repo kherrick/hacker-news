@@ -47,6 +47,7 @@
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
 * [2024-11-22, 12:11:27](https://news.ycombinator.com/item?id=42213178) - [Spies Jumped from One Network to Another via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
+* [2024-11-22, 12:03:20](https://news.ycombinator.com/item?id=42213125) - [Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles](https://www.nature.com/articles/s44271-024-00157-7)
 * [2024-11-22, 12:00:31](https://news.ycombinator.com/item?id=42213110) - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
 * [2024-11-22, 11:39:53](https://news.ycombinator.com/item?id=42212992) - [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
 * [2024-11-22, 11:37:17](https://news.ycombinator.com/item?id=42212980) - [Chemists Create World's Thinnest Spaghetti](https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html)
