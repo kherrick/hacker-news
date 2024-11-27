@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 22:24:23](https://news.ycombinator.com/item?id=42260405) - [3 killed, 1 seriously injured in Tesla Cybertruck crash in Northern California](https://apnews.com/article/tesla-cybertruck-piedmont-california-5d5b82dfffe7db70a2b1c3d4863e3d69)
+* [2024-11-27, 22:18:58](https://news.ycombinator.com/item?id=42260364) - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
 * [2024-11-27, 21:53:05](https://news.ycombinator.com/item?id=42260179) - [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
+* [2024-11-27, 21:41:14](https://news.ycombinator.com/item?id=42260074) - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 * [2024-11-27, 21:39:39](https://news.ycombinator.com/item?id=42260057) - [Increasing testosterone levels does not increase sex drive](https://english.elpais.com/health/2024-11-27/increasing-testosterone-levels-does-not-increase-sex-drive.html)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 21:06:50](https://news.ycombinator.com/item?id=42259778) - [Over ½ of Long Posts on LinkedIn Are Likely AI-Generated Since ChatGPT Launched](https://originality.ai/blog/ai-content-published-linkedin)
