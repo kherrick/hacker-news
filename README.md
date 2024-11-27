@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-27, 03:59:57](https://news.ycombinator.com/item?id=42252806) - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 * [2024-11-27, 00:53:16](https://news.ycombinator.com/item?id=42251799) - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
@@ -23,7 +24,6 @@
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 09:45:40](https://news.ycombinator.com/item?id=42244093) - [Git-crypt – transparent file encryption in Git](https://www.agwa.name/projects/git-crypt/)
 * [2024-11-26, 09:29:55](https://news.ycombinator.com/item?id=42244003) - [We can mine asteroids for space food](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035)
-* [2024-11-26, 08:50:00](https://news.ycombinator.com/item?id=42243746) - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 * [2024-11-25, 22:13:05](https://news.ycombinator.com/item?id=42240686) - [Sombrero Galaxy dazzles in new James Webb image](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 * [2024-11-24, 02:13:39](https://news.ycombinator.com/item?id=42225453) - [The impact of the cosmological constant on past and future star formation](https://academic.oup.com/mnras/article/535/2/1449/7896079)
 * [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the first ever cyber cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)

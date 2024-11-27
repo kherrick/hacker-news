@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 03:59:57](https://news.ycombinator.com/item?id=42252806) - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 * [2024-11-27, 02:26:19](https://news.ycombinator.com/item?id=42252336) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 01:30:49](https://news.ycombinator.com/item?id=42252041) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
 * [2024-11-27, 01:10:53](https://news.ycombinator.com/item?id=42251919) - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
