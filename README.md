@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-27, 22:56:59](https://news.ycombinator.com/item?id=42260645) - [Google Maps leads three men to death as car plunges from incomplete bridge](https://economictimes.indiatimes.com/news/india/google-maps-leads-three-men-to-death-as-car-plunges-from-incomplete-bridge-into-river-in-bareilly-up/articleshow/115651260.cms?from=mdr)
-* [2024-11-27, 22:24:02](https://news.ycombinator.com/item?id=42260401) - [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)
 * [2024-11-27, 22:18:58](https://news.ycombinator.com/item?id=42260364) - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
 * [2024-11-27, 21:41:14](https://news.ycombinator.com/item?id=42260074) - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
@@ -16,6 +15,7 @@
 * [2024-11-27, 18:30:09](https://news.ycombinator.com/item?id=42258407) - [Generate video sprites using just FFmpeg](https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – AIOps and alert management](https://github.com/keephq/keep)
+* [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century (2022)](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
