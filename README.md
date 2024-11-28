@@ -19,6 +19,7 @@
 * [2024-11-27, 22:33:21](https://news.ycombinator.com/item?id=42260481) - [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
 * [2024-11-27, 22:18:58](https://news.ycombinator.com/item?id=42260364) - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
+* [2024-11-27, 21:35:49](https://news.ycombinator.com/item?id=42260017) - [Developing a cancer drug without Big Pharma: this hospital shows it can be done](https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1-like reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
@@ -29,7 +30,6 @@
 * [2024-11-25, 15:37:58](https://news.ycombinator.com/item?id=42237131) - [WasmCloud makes strides with WASM component model](https://www.techtarget.com/searchitoperations/news/366616278/WasmCloud-makes-strides-with-Wasm-component-model)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
 * [2024-11-22, 12:49:02](https://news.ycombinator.com/item?id=42213391) - [AI and the Last Mile 2: Subsidiarity](https://hollisrobbinsanecdotal.substack.com/p/ai-and-the-last-mile-2)
-* [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 
 ## [Archives](archives/index.md)
 
