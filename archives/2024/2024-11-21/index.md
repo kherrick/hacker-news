@@ -27,6 +27,7 @@
 * [2024-11-21, 17:32:32](https://news.ycombinator.com/item?id=42206590) - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
 * [2024-11-21, 17:28:11](https://news.ycombinator.com/item?id=42206556) - [Handling Cookies Is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 17:23:22](https://news.ycombinator.com/item?id=42206502) - [Pg_karnak: Transactional schema migration across tenant databases](https://www.thenile.dev/blog/distributed-ddl)
+* [2024-11-21, 15:37:35](https://news.ycombinator.com/item?id=42205373) - [500 Million, But Not a Single One More](https://laneless.substack.com/p/500-million-but-not-a-single-one-more)
 * [2024-11-21, 15:03:43](https://news.ycombinator.com/item?id=42204939) - [Launch HN: Fresco (YC F24) – AI Copilot for Construction Superintendents](https://news.ycombinator.com/item?id=42204939)
 * [2024-11-21, 13:12:04](https://news.ycombinator.com/item?id=42203990) - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 * [2024-11-21, 12:57:44](https://news.ycombinator.com/item?id=42203895) - [Show HN: Yami – An Open Source Music Player with Spotdl Integration](https://github.com/DevER-M/yami)

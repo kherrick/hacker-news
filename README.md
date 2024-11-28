@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-28, 03:13:48](https://news.ycombinator.com/item?id=42262089) - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
+* [2024-11-28, 03:06:40](https://news.ycombinator.com/item?id=42262057) - [Tornado Cash Sanctions Found Illegal, in Legal Win for Crypto](https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M)
 * [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
-* [2024-11-28, 02:19:08](https://news.ycombinator.com/item?id=42261804) - [Bluesky Social Dataset (235M posts from 4M users)](https://zenodo.org/records/11082879)
 * [2024-11-28, 02:03:21](https://news.ycombinator.com/item?id=42261707) - [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A Washing Machine for Human Beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
 * [2024-11-28, 00:49:06](https://news.ycombinator.com/item?id=42261314) - [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
@@ -26,10 +26,10 @@
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians created the first writing system](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
-* [2024-11-24, 17:31:56](https://news.ycombinator.com/item?id=42229049) - [Building a Harrison Wooden Longcase [pdf]](https://bhi.co.uk/wp-content/uploads/2024/11/09-HJSeptember24-AOTM.pdf)
 * [2024-11-23, 04:01:22](https://news.ycombinator.com/item?id=42219104) - [For the Love of a Little Sea](https://hakaimagazine.com/features/for-the-love-a-little-sea/)
 * [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
 * [2024-11-22, 12:03:20](https://news.ycombinator.com/item?id=42213125) - [Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles](https://www.nature.com/articles/s44271-024-00157-7)
+* [2024-11-21, 15:37:35](https://news.ycombinator.com/item?id=42205373) - [500 Million, But Not a Single One More](https://laneless.substack.com/p/500-million-but-not-a-single-one-more)
 
 ## [Archives](archives/index.md)
 
