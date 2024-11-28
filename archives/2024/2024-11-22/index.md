@@ -47,6 +47,7 @@
 * [2024-11-22, 13:03:09](https://news.ycombinator.com/item?id=42213485) - [Slow Email (2008)](http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html)
 * [2024-11-22, 12:55:23](https://news.ycombinator.com/item?id=42213433) - [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)
 * [2024-11-22, 12:52:06](https://news.ycombinator.com/item?id=42213412) - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
+* [2024-11-22, 12:49:02](https://news.ycombinator.com/item?id=42213391) - [AI and the Last Mile 2: Subsidiarity](https://hollisrobbinsanecdotal.substack.com/p/ai-and-the-last-mile-2)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
 * [2024-11-22, 12:26:13](https://news.ycombinator.com/item?id=42213264) - [Reliably Benchmarking Small Changes – Ankush Menat](https://ankush.dev/p/reliable-benchmarking)
