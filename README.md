@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-28, 16:37:21](https://news.ycombinator.com/item?id=42266608) - [Emacs: A Basic and Capable Configuration](https://protesilaos.com/codelog/2024-11-28-basic-emacs-configuration/)
+* [2024-11-28, 18:41:05](https://news.ycombinator.com/item?id=42267582) - [Interpol arrests 5,500 across 5 continents for cybercrime, seizes over $400M](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million)
 * [2024-11-28, 14:53:31](https://news.ycombinator.com/item?id=42265668) - [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 11:56:51](https://news.ycombinator.com/item?id=42264586) - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
