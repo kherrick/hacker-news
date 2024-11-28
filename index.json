@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-11-28, 12:28:21",
-      "https://news.ycombinator.com/item?id=42264733"
-    ],
-    [
-      "Australia: Kids under 16 to be banned from social media after Senate passes laws",
-      "https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 12:13:34",
       "https://news.ycombinator.com/item?id=42264668"
     ],
     [
       "Hetzner raises US cloud prices while lowering included bandwidth by 95%",
       "https://twitter.com/alexellisuk/status/1862083571231424701"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 12:11:47",
+      "https://news.ycombinator.com/item?id=42264655"
+    ],
+    [
+      "Found in the wild: the first unkillable UEFI bootkit for Linux",
+      "https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "picoCAD – a tiny modeler for tiny models",
       "https://store.steampowered.com/app/2800590/picoCAD/"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 05:13:41",
-      "https://news.ycombinator.com/item?id=42262656"
-    ],
-    [
-      "Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'",
-      "https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Ultra-low-latency, batching and concurrent queue for IPC in Java",
       "https://github.com/coralblocks/CoralRing"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 13:44:23",
+      "https://news.ycombinator.com/item?id=42213771"
+    ],
+    [
+      "Built-In Functions Provided by GCC",
+      "https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html"
     ]
   ],
   [
