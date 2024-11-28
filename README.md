@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 22:02:12](https://news.ycombinator.com/item?id=42268819) - [Goodbye, Rust. I wish you success but I'm back to C++ (sorry, it is a rant)](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
+* [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 * [2024-11-28, 20:56:05](https://news.ycombinator.com/item?id=42268475) - [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
@@ -28,8 +30,6 @@
 * [2024-11-25, 15:37:58](https://news.ycombinator.com/item?id=42237131) - [WasmCloud makes strides with WASM component model](https://www.techtarget.com/searchitoperations/news/366616278/WasmCloud-makes-strides-with-Wasm-component-model)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
 * [2024-11-22, 12:49:02](https://news.ycombinator.com/item?id=42213391) - [AI and the Last Mile 2: Subsidiarity](https://hollisrobbinsanecdotal.substack.com/p/ai-and-the-last-mile-2)
-* [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
-* [2024-11-20, 14:05:43](https://news.ycombinator.com/item?id=42194025) - [Spatial Pixel: a new kind of social computing](https://spatialpixel.com/)
 
 ## [Archives](archives/index.md)
 
