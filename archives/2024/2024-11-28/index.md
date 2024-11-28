@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
+* [2024-11-28, 04:47:18](https://news.ycombinator.com/item?id=42262541) - [8 million turkeys will be thrown in the trash this Thanksgiving](https://www.vox.com/future-perfect/388106/thanksgiving-turkey-food-waste-sides-dry-bland)
+* [2024-11-28, 04:46:34](https://news.ycombinator.com/item?id=42262533) - [Appwrite: Open-Source Back End as a Service](https://tenbyte.org/appwrite-open-source-backend-as-a-service/)
+* [2024-11-28, 04:45:08](https://news.ycombinator.com/item?id=42262525) - [Researchers discover first UEFI bootkit malware for Linux](https://www.bleepingcomputer.com/news/security/researchers-discover-bootkitty-first-uefi-bootkit-malware-for-linux/)
 * [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 * [2024-11-28, 03:13:48](https://news.ycombinator.com/item?id=42262089) - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
+* [2024-11-28, 03:08:43](https://news.ycombinator.com/item?id=42262065) - [Alibaba's OpenAI Challenger: The New AI Reasoning Titan](https://app.pageon.ai/share/8146?mode=share&shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkb2N1bWVudFNoYXJlU2lnbiI6IjEiLCJleHAiOjE3MzI4NDk0NTYsInVzZXJJZCI6MzcxNywicHJvamVjdElkIjo4MTQ2LCJ0aW1lb3V0IjoxNzMyODQ5NDU2MDAwLCJpc1JlbW92ZVdhdGVybWFyayI6MH0.bXgFzoQqQXiRNfaWhWOjrkYP79o5_OCT34RDDWbq9_Y)
 * [2024-11-28, 03:06:40](https://news.ycombinator.com/item?id=42262057) - [Tornado Cash Sanctions Found Illegal, in Legal Win for Crypto](https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M)
 * [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
 * [2024-11-28, 02:28:41](https://news.ycombinator.com/item?id=42261864) - [Brendan Carr Makes It Clear That He's Eager to Be America's Top Censor](https://www.techdirt.com/2024/11/27/brendan-carr-makes-it-clear-that-hes-eager-to-be-americas-top-censor/)
