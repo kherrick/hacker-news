@@ -16,6 +16,7 @@
 * [2024-11-20, 21:25:42](https://news.ycombinator.com/item?id=42198278) - [Like 'old Twitter': The scientific community finds a new home on Bluesky](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky)
 * [2024-11-20, 21:22:36](https://news.ycombinator.com/item?id=42198256) - [/usr/bin/env -S uv run](https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/)
 * [2024-11-20, 21:07:28](https://news.ycombinator.com/item?id=42198115) - [Google stops letting sites like Forbes rule search for \"Best CBD Gummies\"](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
+* [2024-11-20, 21:02:04](https://news.ycombinator.com/item?id=42198072) - [Why can't we separate YAML from ML?](https://www.ethanrosenthal.com/2024/11/19/yaml-ml/)
 * [2024-11-20, 21:01:14](https://news.ycombinator.com/item?id=42198068) - [Distro (YC S24) Is Hiring a Head of Marketing (B2B)](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b)
 * [2024-11-20, 20:48:23](https://news.ycombinator.com/item?id=42197953) - [Creating and Defeating Hexhunt](https://adamzweiger.github.io/posts/creating-and-defeating-hexhunt)
 * [2024-11-20, 20:44:20](https://news.ycombinator.com/item?id=42197918) - [Dec(k)-Month 2: A Decker Game Jam](https://itch.io/jam/deck-month-2)
