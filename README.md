@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
-* [2024-11-28, 18:41:05](https://news.ycombinator.com/item?id=42267582) - [Interpol arrests 5,500 across 5 continents for cybercrime, seizes over $400M](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million)
 * [2024-11-28, 15:18:57](https://news.ycombinator.com/item?id=42265817) - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 11:56:51](https://news.ycombinator.com/item?id=42264586) - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
@@ -18,6 +17,7 @@
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 21:35:49](https://news.ycombinator.com/item?id=42260017) - [Developing a cancer drug without Big Pharma: this hospital shows it can be done](https://www.ftm.nl/artikelen/ruzie-tussen-ziekenhuis-en-farma-industrie-over-goedkeuring-kankermedicijn)
 * [2024-11-27, 20:42:52](https://news.ycombinator.com/item?id=42259547) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
+* [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
