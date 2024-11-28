@@ -57,6 +57,7 @@
 * [2024-11-22, 10:58:25](https://news.ycombinator.com/item?id=42212785) - [Prince Nico Mbarga’s biggest hit outsold any of The Beatles’](https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him)
 * [2024-11-22, 10:53:07](https://news.ycombinator.com/item?id=42212763) - [Stroustroup: We need better performance testing [pdf]](https://open-std.org/JTC1/SC22/WG21/docs/papers/2024/p3406r0.pdf)
 * [2024-11-22, 10:49:38](https://news.ycombinator.com/item?id=42212746) - [DreamSim: Learning New Dimensions of Human Visual Similarity (2023)](https://dreamsim-nights.github.io/)
+* [2024-11-22, 10:49:31](https://news.ycombinator.com/item?id=42212745) - [Shallow sports and deep social hierarchies: pecking orders aren't equal](https://phys.org/news/2024-11-shallow-sports-deep-social-hierarchies.html)
 * [2024-11-22, 10:43:59](https://news.ycombinator.com/item?id=42212703) - [The first close-up picture of a star outside our own galaxy](https://www.eso.org/public/images/eso2417a/)
 * [2024-11-22, 10:43:04](https://news.ycombinator.com/item?id=42212700) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
 * [2024-11-22, 10:34:20](https://news.ycombinator.com/item?id=42212650) - [The AI Reporter That Took My Old Job Just Got Fired](https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/)

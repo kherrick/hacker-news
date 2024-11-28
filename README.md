@@ -24,12 +24,12 @@
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:01:10](https://news.ycombinator.com/item?id=42253654) - [How Blackjack Works (2007)](https://www.blackjackincolor.com/)
-* [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-25, 04:00:46](https://news.ycombinator.com/item?id=42233140) - [Managing Large-Scale Redis Clusters on K8s – Kuaishou's Approach](https://kubeblocks.io/blog/manage-large-scale-redis-on-k8s-with-kubeblocks)
 * [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-23, 04:01:22](https://news.ycombinator.com/item?id=42219104) - [For the Love of a Little Sea](https://hakaimagazine.com/features/for-the-love-a-little-sea/)
 * [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
 * [2024-11-22, 12:26:13](https://news.ycombinator.com/item?id=42213264) - [Reliably Benchmarking Small Changes – Ankush Menat](https://ankush.dev/p/reliable-benchmarking)
+* [2024-11-22, 10:49:31](https://news.ycombinator.com/item?id=42212745) - [Shallow sports and deep social hierarchies: pecking orders aren't equal](https://phys.org/news/2024-11-shallow-sports-deep-social-hierarchies.html)
 
 ## [Archives](archives/index.md)
 
