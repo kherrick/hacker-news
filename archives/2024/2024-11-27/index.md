@@ -7,6 +7,7 @@
 * [2024-11-27, 23:59:38](https://news.ycombinator.com/item?id=42261053) - [MIT Aluminum Bicycle Project 1974](https://www.sheldonbrown.com/AluminumBikeProject.html)
 * [2024-11-27, 23:45:56](https://news.ycombinator.com/item?id=42260983) - [Most American farmers have second jobs to stay afloat](https://www.marketplace.org/2024/11/27/to-stay-on-the-farm-more-and-more-farmers-are-working-extra-jobs/)
 * [2024-11-27, 22:56:59](https://news.ycombinator.com/item?id=42260645) - [Google Maps leads three men to death as car plunges from incomplete bridge](https://economictimes.indiatimes.com/news/india/google-maps-leads-three-men-to-death-as-car-plunges-from-incomplete-bridge-into-river-in-bareilly-up/articleshow/115651260.cms?from=mdr)
+* [2024-11-27, 22:33:21](https://news.ycombinator.com/item?id=42260481) - [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
 * [2024-11-27, 22:24:23](https://news.ycombinator.com/item?id=42260405) - [3 killed, 1 seriously injured in Tesla Cybertruck crash in Northern California](https://apnews.com/article/tesla-cybertruck-piedmont-california-5d5b82dfffe7db70a2b1c3d4863e3d69)
 * [2024-11-27, 22:24:02](https://news.ycombinator.com/item?id=42260401) - [Factoring in the Chicken McNugget monoid (2017)](https://arxiv.org/abs/1709.01606)
 * [2024-11-27, 22:18:58](https://news.ycombinator.com/item?id=42260364) - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
