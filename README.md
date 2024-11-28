@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-28, 15:18:57](https://news.ycombinator.com/item?id=42265817) - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
@@ -20,7 +21,6 @@
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
-* [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-26, 20:19:57](https://news.ycombinator.com/item?id=42249609) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-25, 18:31:20](https://news.ycombinator.com/item?id=42238730) - [Study asks: Can cell phone signals help land a plane?](https://newsreleases.sandia.gov/phone_signals/)
 * [2024-11-25, 18:19:02](https://news.ycombinator.com/item?id=42238603) - [Rapid colonization of a space-returned Ryugu sample by terrestrial microorganism](https://onlinelibrary.wiley.com/doi/10.1111/maps.14288)
