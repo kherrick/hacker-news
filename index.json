@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-11-28, 08:54:52",
-      "https://news.ycombinator.com/item?id=42263705"
+      "2024-11-28, 08:32:09",
+      "https://news.ycombinator.com/item?id=42263598"
     ],
     [
-      "List of books that will induce a mindfuck",
-      "https://everything2.com/title/Books+that+will+induce+a+mindfuck"
+      "Spotify cuts developer access to several of its recommendation features",
+      "https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-11-27, 15:58:42",
+      "https://news.ycombinator.com/item?id=42257060"
+    ],
+    [
+      "Launch HN: Keep (YC W23) – AIOps and alert management",
+      "https://github.com/keephq/keep"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 14:58:25",
       "https://news.ycombinator.com/item?id=42256589"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-11-25, 04:00:46",
-      "https://news.ycombinator.com/item?id=42233140"
+      "2024-11-27, 05:10:08",
+      "https://news.ycombinator.com/item?id=42253119"
     ],
     [
-      "Managing Large-Scale Redis Clusters on K8s – Kuaishou's Approach",
-      "https://kubeblocks.io/blog/manage-large-scale-redis-on-k8s-with-kubeblocks"
+      "The capacitor that Apple soldered incorrectly at the factory",
+      "https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shallow sports and deep social hierarchies: pecking orders aren't equal",
       "https://phys.org/news/2024-11-shallow-sports-deep-social-hierarchies.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 21:02:04",
-      "https://news.ycombinator.com/item?id=42198072"
-    ],
-    [
-      "Why can't we separate YAML from ML?",
-      "https://www.ethanrosenthal.com/2024/11/19/yaml-ml/"
     ]
   ]
 ]
