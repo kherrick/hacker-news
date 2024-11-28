@@ -54,6 +54,7 @@
 * [2024-11-20, 14:45:23](https://news.ycombinator.com/item?id=42194327) - [How good are American roads?](https://www.construction-physics.com/p/how-good-are-american-roads)
 * [2024-11-20, 14:44:41](https://news.ycombinator.com/item?id=42194315) - [GNU Artanis 1.0.0 Released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-20, 14:27:27](https://news.ycombinator.com/item?id=42194170) - [Show HN: A People Search Engine with Face Recognition](https://introthem.com)
+* [2024-11-20, 14:05:43](https://news.ycombinator.com/item?id=42194025) - [Spatial Pixel: a new kind of social computing](https://spatialpixel.com/)
 * [2024-11-20, 13:51:12](https://news.ycombinator.com/item?id=42193921) - [Britain is building one of the world’s most expensive railways](https://www.cnn.com/travel/hs2-britain-expensive-high-speed-railway/index.html)
 * [2024-11-20, 13:45:13](https://news.ycombinator.com/item?id=42193885) - [Ensō: design constraints of a focussed writing tool](https://untested.sonnet.io/notes/enso-design-constraints/)
 * [2024-11-20, 13:42:11](https://news.ycombinator.com/item?id=42193859) - [Using gRPC for (local) inter-process communication – F. Werner's Research Page](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
