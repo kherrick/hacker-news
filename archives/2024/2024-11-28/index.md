@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
+* [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 * [2024-11-28, 05:13:41](https://news.ycombinator.com/item?id=42262656) - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
 * [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [2024-11-28, 04:48:59](https://news.ycombinator.com/item?id=42262547) - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)

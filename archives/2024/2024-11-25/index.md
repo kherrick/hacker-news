@@ -56,6 +56,7 @@
 * [2024-11-25, 05:52:03](https://news.ycombinator.com/item?id=42233610) - [Implementing topologically ordered time crystals on quantum processors](https://phys.org/news/2024-11-topologically-crystals-quantum-processors.html)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
 * [2024-11-25, 05:32:33](https://news.ycombinator.com/item?id=42233524) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
+* [2024-11-25, 04:00:46](https://news.ycombinator.com/item?id=42233140) - [Managing Large-Scale Redis Clusters on K8s – Kuaishou's Approach](https://kubeblocks.io/blog/manage-large-scale-redis-on-k8s-with-kubeblocks)
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-25, 02:50:03](https://news.ycombinator.com/item?id=42232782) - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
