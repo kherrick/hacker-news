@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
 * [2024-11-28, 08:59:30](https://news.ycombinator.com/item?id=42263724) - [IMBA: A Curated Self-Learning MBA Inspired by 'The Personal MBA](https://github.com/abari111/iMBA)
 * [2024-11-28, 08:54:52](https://news.ycombinator.com/item?id=42263705) - [List of books that will induce a mindfuck](https://everything2.com/title/Books+that+will+induce+a+mindfuck)
