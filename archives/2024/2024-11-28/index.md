@@ -7,6 +7,7 @@
 * [2024-11-28, 16:53:49](https://news.ycombinator.com/item?id=42266735) - [Pissed off by Spotify Enshittifying more API endpoints? We can help](https://blog.metabrainz.org/2024/11/28/pissed-off-by-spotify-enshittifying-more-api-endpoints-we-can-help/)
 * [2024-11-28, 16:41:23](https://news.ycombinator.com/item?id=42266646) - [Global Solar Council announces 2 terawatt milestone achieved for solar](https://www.globalsolarcouncil.org/news/global-solar-council-announces-2-terawatt-milestone-achieved-for-solar/)
 * [2024-11-28, 16:40:23](https://news.ycombinator.com/item?id=42266638) - [Linux Kernel Performance Bottlenecks Spotted by Mold Developer](https://www.phoronix.com/news/Linux-Kernel-Bottlenecks-Mold)
+* [2024-11-28, 16:37:21](https://news.ycombinator.com/item?id=42266608) - [Emacs: A Basic and Capable Configuration](https://protesilaos.com/codelog/2024-11-28-basic-emacs-configuration/)
 * [2024-11-28, 15:59:38](https://news.ycombinator.com/item?id=42266201) - [Jazz Kissa](https://en.wikipedia.org/wiki/Jazz_kissa)
 * [2024-11-28, 15:36:27](https://news.ycombinator.com/item?id=42265978) - [Who Is Jay Graber, the CEO of Bluesky?](https://www.lemonde.fr/en/m-le-mag/article/2024/11/21/who-is-jay-graber-the-ceo-of-bluesky_6733621_117.html)
 * [2024-11-28, 15:35:01](https://news.ycombinator.com/item?id=42265956) - [Synology patches unannounced multiple zero-day vulnerabilities](https://www.synology.com/en-us/security/advisory/Synology_SA_24_20)
