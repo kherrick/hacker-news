@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-11-28, 13:19:55",
+      "https://news.ycombinator.com/item?id=42265051"
+    ],
+    [
+      "Qodo automatically verifies PR complies with Jira ticket or GitHub issue",
+      "https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 11:56:51",
       "https://news.ycombinator.com/item?id=42264586"
     ],
@@ -177,16 +187,6 @@
     [
       "Structured Editing and Incremental Parsing",
       "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 20:11:21",
-      "https://news.ycombinator.com/item?id=42259283"
-    ],
-    [
-      "Device-detector: Universal Device Detection library from User Agent",
-      "https://github.com/matomo-org/device-detector"
     ]
   ],
   [
