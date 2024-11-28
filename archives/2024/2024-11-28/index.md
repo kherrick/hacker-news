@@ -16,6 +16,7 @@
 * [2024-11-28, 08:54:52](https://news.ycombinator.com/item?id=42263705) - [List of books that will induce a mindfuck](https://everything2.com/title/Books+that+will+induce+a+mindfuck)
 * [2024-11-28, 08:32:09](https://news.ycombinator.com/item?id=42263598) - [Spotify cuts developer access to several of its recommendation features](https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/)
 * [2024-11-28, 08:28:05](https://news.ycombinator.com/item?id=42263582) - [ChatGPT's artificial empathy is a language trick](https://theconversation.com/chatgpts-artificial-empathy-is-a-language-trick-heres-how-it-works-244673)
+* [2024-11-28, 08:02:54](https://news.ycombinator.com/item?id=42263451) - [Dismantling ELT: The Case for Graphs, Not Silos](https://jack-vanlightly.com/blog/2024/11/26/dismantling-elt-the-case-for-graphs-not-silos)
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 * [2024-11-28, 07:37:38](https://news.ycombinator.com/item?id=42263315) - [Microsoft says it's built an Xbox game store on Android but can't launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
