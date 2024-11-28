@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 15:59:38](https://news.ycombinator.com/item?id=42266201) - [Jazz Kissa](https://en.wikipedia.org/wiki/Jazz_kissa)
+* [2024-11-28, 15:36:27](https://news.ycombinator.com/item?id=42265978) - [Who Is Jay Graber, the CEO of Bluesky?](https://www.lemonde.fr/en/m-le-mag/article/2024/11/21/who-is-jay-graber-the-ceo-of-bluesky_6733621_117.html)
+* [2024-11-28, 15:27:27](https://news.ycombinator.com/item?id=42265893) - [Seoul blanketed by heaviest November snow on record](https://www.bbc.com/news/articles/cpqdgw7lzw0o)
+* [2024-11-28, 14:53:31](https://news.ycombinator.com/item?id=42265668) - [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
 * [2024-11-28, 14:53:12](https://news.ycombinator.com/item?id=42265667) - [It is humiliating to have to do LeetCode grinding for](https://twitter.com/prajdabre1/status/1861633099781808625)
+* [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 14:26:46](https://news.ycombinator.com/item?id=42265485) - [Australia to ban under-16s from social media after passing landmark law](https://www.independent.co.uk/news/world/australasia/social-media-ban-australia-law-under-16s-b2655348.html)
 * [2024-11-28, 13:48:36](https://news.ycombinator.com/item?id=42265226) - [How we improved GPT-4o multi-step function calling success rate by 4x](https://xpander.ai/2024/11/20/announcing-agent-graph-system/)
 * [2024-11-28, 13:19:55](https://news.ycombinator.com/item?id=42265051) - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
