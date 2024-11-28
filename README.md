@@ -2,9 +2,9 @@
 
 * [2024-11-28, 14:53:12](https://news.ycombinator.com/item?id=42265667) - [It is humiliating to have to do LeetCode grinding for](https://twitter.com/prajdabre1/status/1861633099781808625)
 * [2024-11-28, 14:26:46](https://news.ycombinator.com/item?id=42265485) - [Australia to ban under-16s from social media after passing landmark law](https://www.independent.co.uk/news/world/australasia/social-media-ban-australia-law-under-16s-b2655348.html)
-* [2024-11-28, 13:48:36](https://news.ycombinator.com/item?id=42265226) - [How we improved GPT-4o multi-step function calling success rate by 4x](https://xpander.ai/2024/11/20/announcing-agent-graph-system/)
 * [2024-11-28, 13:19:55](https://news.ycombinator.com/item?id=42265051) - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
+* [2024-11-28, 11:56:51](https://news.ycombinator.com/item?id=42264586) - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic on US VPSs](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:45](https://news.ycombinator.com/item?id=42264345) - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)

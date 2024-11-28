@@ -12,6 +12,7 @@
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 * [2024-11-28, 12:13:34](https://news.ycombinator.com/item?id=42264668) - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
 * [2024-11-28, 12:11:47](https://news.ycombinator.com/item?id=42264655) - [Found in the wild: the first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
+* [2024-11-28, 11:56:51](https://news.ycombinator.com/item?id=42264586) - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic from 20 TB –> 1..5 TB on US VPSs](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:45](https://news.ycombinator.com/item?id=42264345) - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
