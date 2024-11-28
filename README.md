@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
-* [2024-11-28, 04:47:18](https://news.ycombinator.com/item?id=42262541) - [8 million turkeys will be thrown in the trash this Thanksgiving](https://www.vox.com/future-perfect/388106/thanksgiving-turkey-food-waste-sides-dry-bland)
 * [2024-11-28, 04:46:34](https://news.ycombinator.com/item?id=42262533) - [Appwrite: Open-Source Back End as a Service](https://tenbyte.org/appwrite-open-source-backend-as-a-service/)
-* [2024-11-28, 04:45:08](https://news.ycombinator.com/item?id=42262525) - [Researchers discover first UEFI bootkit malware for Linux](https://www.bleepingcomputer.com/news/security/researchers-discover-bootkitty-first-uefi-bootkit-malware-for-linux/)
 * [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 * [2024-11-28, 03:13:48](https://news.ycombinator.com/item?id=42262089) - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
 * [2024-11-28, 03:08:43](https://news.ycombinator.com/item?id=42262065) - [Alibaba's OpenAI Challenger: The New AI Reasoning Titan](https://app.pageon.ai/share/8146?mode=share&shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkb2N1bWVudFNoYXJlU2lnbiI6IjEiLCJleHAiOjE3MzI4NDk0NTYsInVzZXJJZCI6MzcxNywicHJvamVjdElkIjo4MTQ2LCJ0aW1lb3V0IjoxNzMyODQ5NDU2MDAwLCJpc1JlbW92ZVdhdGVybWFyayI6MH0.bXgFzoQqQXiRNfaWhWOjrkYP79o5_OCT34RDDWbq9_Y)
@@ -27,6 +25,8 @@
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians created the first writing system](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
+* [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
+* [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 * [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-23, 04:01:22](https://news.ycombinator.com/item?id=42219104) - [For the Love of a Little Sea](https://hakaimagazine.com/features/for-the-love-a-little-sea/)
 * [2024-11-22, 12:03:20](https://news.ycombinator.com/item?id=42213125) - [Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles](https://www.nature.com/articles/s44271-024-00157-7)
