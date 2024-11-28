@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 12:37:58](https://news.ycombinator.com/item?id=42264789) - [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
+* [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
+* [2024-11-28, 12:13:34](https://news.ycombinator.com/item?id=42264668) - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
+* [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic from 20 TB –> 1..5 TB on US VPSs](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
 * [2024-11-28, 08:59:30](https://news.ycombinator.com/item?id=42263724) - [IMBA: A Curated Self-Learning MBA Inspired by 'The Personal MBA](https://github.com/abari111/iMBA)
