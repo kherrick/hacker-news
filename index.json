@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-28, 15:35:01",
-      "https://news.ycombinator.com/item?id=42265956"
-    ],
-    [
-      "Synology patches unannounced multiple zero-day vulnerabilities",
-      "https://www.synology.com/en-us/security/advisory/Synology_SA_24_20"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 14:53:31",
       "https://news.ycombinator.com/item?id=42265668"
     ],
@@ -37,16 +27,6 @@
     [
       "A Pretty Visualisation of the European Power Grid (2022)",
       "https://121gigawatts.org/copper-sushi-power-flow-european-grid/"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 13:19:55",
-      "https://news.ycombinator.com/item?id=42265051"
-    ],
-    [
-      "Qodo automatically verifies PR complies with Jira ticket or GitHub issue",
-      "https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-11-27, 20:11:21",
+      "https://news.ycombinator.com/item?id=42259283"
+    ],
+    [
+      "Device-detector: Universal Device Detection library from User Agent",
+      "https://github.com/matomo-org/device-detector"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 20:10:55",
       "https://news.ycombinator.com/item?id=42259278"
     ],
@@ -217,6 +207,16 @@
     [
       "You can use C-Reduce for any language",
       "https://bernsteinbear.com/blog/creduce/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 14:33:31",
+      "https://news.ycombinator.com/item?id=42256394"
+    ],
+    [
+      "The Art and Mathematics of Genji-Ko",
+      "https://www.oranlooney.com/post/genji-ko/"
     ]
   ],
   [
