@@ -25,6 +25,7 @@
 * [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
 * [2024-11-25, 18:31:20](https://news.ycombinator.com/item?id=42238730) - [Study asks: Can cell phone signals help land a plane?](https://newsreleases.sandia.gov/phone_signals/)
+* [2024-11-25, 18:19:02](https://news.ycombinator.com/item?id=42238603) - [Rapid colonization of a space-returned Ryugu sample by terrestrial microorganism](https://onlinelibrary.wiley.com/doi/10.1111/maps.14288)
 * [2024-11-25, 18:11:15](https://news.ycombinator.com/item?id=42238531) - [Bluesky is breaking the rules in the EU](https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count)
 * [2024-11-25, 17:56:34](https://news.ycombinator.com/item?id=42238396) - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)

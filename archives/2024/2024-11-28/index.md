@@ -38,6 +38,7 @@
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 * [2024-11-28, 07:37:38](https://news.ycombinator.com/item?id=42263315) - [Microsoft says it's built an Xbox game store on Android but can't launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
+* [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 * [2024-11-28, 05:13:41](https://news.ycombinator.com/item?id=42262656) - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)

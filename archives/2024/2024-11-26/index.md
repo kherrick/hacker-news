@@ -17,6 +17,7 @@
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:32:24](https://news.ycombinator.com/item?id=42249746) - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
 * [2024-11-26, 20:32:09](https://news.ycombinator.com/item?id=42249743) - [Imperfect Parfit](https://philosophersmag.com/imperfect-parfit/)
+* [2024-11-26, 20:19:57](https://news.ycombinator.com/item?id=42249609) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 20:10:47](https://news.ycombinator.com/item?id=42249518) - [Apple Rhapsody Report (1997)](https://www.uvm.edu/~sjc/raposody.html)
 * [2024-11-26, 19:31:24](https://news.ycombinator.com/item?id=42249090) - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
