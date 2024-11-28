@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-28, 03:58:49",
+      "https://news.ycombinator.com/item?id=42262308"
+    ],
+    [
+      "PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc",
+      "https://proot-me.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 03:13:48",
       "https://news.ycombinator.com/item?id=42262089"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-11-28, 02:19:08",
-      "https://news.ycombinator.com/item?id=42261804"
-    ],
-    [
-      "Bluesky Social Dataset (235M posts from 4M users)",
-      "https://zenodo.org/records/11082879"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 02:03:21",
       "https://news.ycombinator.com/item?id=42261707"
     ],
@@ -57,16 +57,6 @@
     [
       "A Washing Machine for Human Beings, from 1970",
       "https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 00:49:06",
-      "https://news.ycombinator.com/item?id=42261314"
-    ],
-    [
-      "RomCom exploits Firefox and Windows zero days in the wild",
-      "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Chebyshev Polynomials in the 16th Century (2022)",
       "https://arxiv.org/abs/2203.10955"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 14:33:31",
+      "https://news.ycombinator.com/item?id=42256394"
+    ],
+    [
+      "The Art and Mathematics of Genji-Ko",
+      "https://www.oranlooney.com/post/genji-ko/"
     ]
   ],
   [
