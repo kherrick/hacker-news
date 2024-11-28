@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 14:53:12](https://news.ycombinator.com/item?id=42265667) - [It is humiliating to have to do LeetCode grinding for](https://twitter.com/prajdabre1/status/1861633099781808625)
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic on US VPSs](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:45](https://news.ycombinator.com/item?id=42264345) - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
-* [2024-11-28, 08:02:54](https://news.ycombinator.com/item?id=42263451) - [Dismantling ELT: The Case for Graphs, Not Silos](https://jack-vanlightly.com/blog/2024/11/26/dismantling-elt-the-case-for-graphs-not-silos)
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 14:53:12](https://news.ycombinator.com/item?id=42265667) - [It is humiliating to have to do LeetCode grinding for](https://twitter.com/prajdabre1/status/1861633099781808625)
 * [2024-11-28, 12:37:58](https://news.ycombinator.com/item?id=42264789) - [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 * [2024-11-28, 12:13:34](https://news.ycombinator.com/item?id=42264668) - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
