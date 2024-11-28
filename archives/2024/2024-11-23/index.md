@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-23, 23:36:14](https://news.ycombinator.com/item?id=42224753) - [The Melting Pot Symphony of Chinese American Congee](https://www.historians.org/perspectives-article/bridging-cultures-nourishing-souls-the-melting-pot-symphony-of-chinese-american-congee-march-2024/)
 * [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
 * [2024-11-23, 23:22:45](https://news.ycombinator.com/item?id=42224685) - [CDC Confirms H5N1 Bird Flu Infection in Californa Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
