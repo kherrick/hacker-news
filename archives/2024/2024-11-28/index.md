@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-28, 18:41:05](https://news.ycombinator.com/item?id=42267582) - [Interpol arrests 5,500 across 5 continents for cybercrime, seizes over $400M](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million)
 * [2024-11-28, 16:53:49](https://news.ycombinator.com/item?id=42266735) - [Pissed off by Spotify Enshittifying more API endpoints? We can help](https://blog.metabrainz.org/2024/11/28/pissed-off-by-spotify-enshittifying-more-api-endpoints-we-can-help/)
 * [2024-11-28, 16:41:23](https://news.ycombinator.com/item?id=42266646) - [Global Solar Council announces 2 terawatt milestone achieved for solar](https://www.globalsolarcouncil.org/news/global-solar-council-announces-2-terawatt-milestone-achieved-for-solar/)
@@ -13,6 +14,7 @@
 * [2024-11-28, 15:36:27](https://news.ycombinator.com/item?id=42265978) - [Who Is Jay Graber, the CEO of Bluesky?](https://www.lemonde.fr/en/m-le-mag/article/2024/11/21/who-is-jay-graber-the-ceo-of-bluesky_6733621_117.html)
 * [2024-11-28, 15:35:01](https://news.ycombinator.com/item?id=42265956) - [Synology patches unannounced multiple zero-day vulnerabilities](https://www.synology.com/en-us/security/advisory/Synology_SA_24_20)
 * [2024-11-28, 15:27:27](https://news.ycombinator.com/item?id=42265893) - [Seoul blanketed by heaviest November snow on record](https://www.bbc.com/news/articles/cpqdgw7lzw0o)
+* [2024-11-28, 15:18:57](https://news.ycombinator.com/item?id=42265817) - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 * [2024-11-28, 14:53:31](https://news.ycombinator.com/item?id=42265668) - [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
 * [2024-11-28, 14:53:12](https://news.ycombinator.com/item?id=42265667) - [It is humiliating to have to do LeetCode grinding for](https://twitter.com/prajdabre1/status/1861633099781808625)
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
