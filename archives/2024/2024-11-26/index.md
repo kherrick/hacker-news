@@ -72,6 +72,7 @@
 * [2024-11-26, 06:02:17](https://news.ycombinator.com/item?id=42242936) - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
 * [2024-11-26, 05:59:14](https://news.ycombinator.com/item?id=42242932) - [Nvidia Fugatto: \"World's Most Flexible Sound Machine\"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 * [2024-11-26, 05:26:23](https://news.ycombinator.com/item?id=42242825) - [CEO fired 90% of his staff for missing a morning meeting](https://fortune.com/2024/11/25/ceo-fires-employees-slack-remote/)
+* [2024-11-26, 05:14:06](https://news.ycombinator.com/item?id=42242784) - [Every Hands-Free Driving System Available in 2024](https://www.caranddriver.com/news/a62586657/every-hands-free-driving-system-2024/)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io is having a complete outage](https://status.flyio.net)
 * [2024-11-26, 01:36:09](https://news.ycombinator.com/item?id=42241789) - [Google's iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
 * [2024-11-26, 01:28:21](https://news.ycombinator.com/item?id=42241752) - [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)
