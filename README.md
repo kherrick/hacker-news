@@ -12,7 +12,6 @@
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-* [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
 * [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 * [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning](https://github.com/abus-aikorea/voice-pro)
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A washing machine for human beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
@@ -30,6 +29,7 @@
 * [2024-11-25, 15:37:58](https://news.ycombinator.com/item?id=42237131) - [WasmCloud makes strides with WASM component model](https://www.techtarget.com/searchitoperations/news/366616278/WasmCloud-makes-strides-with-Wasm-component-model)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
 * [2024-11-22, 12:49:02](https://news.ycombinator.com/item?id=42213391) - [AI and the Last Mile 2: Subsidiarity](https://hollisrobbinsanecdotal.substack.com/p/ai-and-the-last-mile-2)
+* [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 
 ## [Archives](archives/index.md)
 
