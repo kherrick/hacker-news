@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 * [2024-11-28, 03:13:48](https://news.ycombinator.com/item?id=42262089) - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
 * [2024-11-28, 03:06:40](https://news.ycombinator.com/item?id=42262057) - [Tornado Cash Sanctions Found Illegal, in Legal Win for Crypto](https://www.wsj.com/livecoverage/stock-market-today-pce-inflation-live-11-27-2024/card/tornado-cash-sanctions-found-illegal-in-legal-win-for-crypto-dEovQ561jwj3zmyvdz0M)
 * [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
