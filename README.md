@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
-* [2024-11-28, 08:32:09](https://news.ycombinator.com/item?id=42263598) - [Spotify cuts developer access to several of its recommendation features](https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/)
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
@@ -24,6 +23,7 @@
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
+* [2024-11-27, 07:01:10](https://news.ycombinator.com/item?id=42253654) - [How Blackjack Works (2007)](https://www.blackjackincolor.com/)
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-23, 04:01:22](https://news.ycombinator.com/item?id=42219104) - [For the Love of a Little Sea](https://hakaimagazine.com/features/for-the-love-a-little-sea/)
