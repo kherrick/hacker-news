@@ -47,6 +47,7 @@
 * [2024-11-22, 12:52:06](https://news.ycombinator.com/item?id=42213412) - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
 * [2024-11-22, 12:35:30](https://news.ycombinator.com/item?id=42213322) - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 * [2024-11-22, 12:26:25](https://news.ycombinator.com/item?id=42213266) - [Agent Graph System makes AI agents more reliable, gives them info step-by-step](https://venturebeat.com/ai/xpander-ais-agent-graph-system-makes-ai-agents-more-reliable-by-giving-them-info-step-by-step/)
+* [2024-11-22, 12:26:13](https://news.ycombinator.com/item?id=42213264) - [Reliably Benchmarking Small Changes – Ankush Menat](https://ankush.dev/p/reliable-benchmarking)
 * [2024-11-22, 12:11:27](https://news.ycombinator.com/item?id=42213178) - [Spies Jumped from One Network to Another via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)
 * [2024-11-22, 12:03:20](https://news.ycombinator.com/item?id=42213125) - [Psychoacoustic and archeoacoustic nature of ancient Aztec skull whistles](https://www.nature.com/articles/s44271-024-00157-7)
 * [2024-11-22, 12:00:31](https://news.ycombinator.com/item?id=42213110) - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)

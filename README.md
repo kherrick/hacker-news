@@ -16,7 +16,6 @@
 * [2024-11-27, 20:42:52](https://news.ycombinator.com/item?id=42259547) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 * [2024-11-27, 20:11:21](https://news.ycombinator.com/item?id=42259283) - [Device-detector: Universal Device Detection library from User Agent](https://github.com/matomo-org/device-detector)
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
-* [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1 Like Reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – AIOps and alert management](https://github.com/keephq/keep)
@@ -30,6 +29,7 @@
 * [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-23, 04:01:22](https://news.ycombinator.com/item?id=42219104) - [For the Love of a Little Sea](https://hakaimagazine.com/features/for-the-love-a-little-sea/)
 * [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
+* [2024-11-22, 12:26:13](https://news.ycombinator.com/item?id=42213264) - [Reliably Benchmarking Small Changes – Ankush Menat](https://ankush.dev/p/reliable-benchmarking)
 
 ## [Archives](archives/index.md)
 
