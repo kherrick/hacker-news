@@ -38,6 +38,7 @@
 * [2024-11-22, 14:02:56](https://news.ycombinator.com/item?id=42213902) - [The remarkable life and astonishing times of Dwight Smith Young](https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/)
 * [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
 * [2024-11-22, 13:48:47](https://news.ycombinator.com/item?id=42213796) - [Monocle: Optics Library for Scala](https://www.optics.dev/Monocle/)
+* [2024-11-22, 13:44:23](https://news.ycombinator.com/item?id=42213771) - [Built-In Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
 * [2024-11-22, 13:34:34](https://news.ycombinator.com/item?id=42213712) - [New Comic Book: La BD de L'Avent, Le Lombard Publishing](https://www.davidrevoy.com/article1055/new-comic-book-la-bd-de-lavent-le-lombard-publishing)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
