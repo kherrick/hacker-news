@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
+* [2024-11-28, 05:13:41](https://news.ycombinator.com/item?id=42262656) - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
 * [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [2024-11-28, 04:48:59](https://news.ycombinator.com/item?id=42262547) - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
 * [2024-11-28, 04:47:18](https://news.ycombinator.com/item?id=42262541) - [8 million turkeys will be thrown in the trash this Thanksgiving](https://www.vox.com/future-perfect/388106/thanksgiving-turkey-food-waste-sides-dry-bland)
@@ -20,4 +21,5 @@
 * [2024-11-28, 02:03:21](https://news.ycombinator.com/item?id=42261707) - [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
 * [2024-11-28, 01:48:24](https://news.ycombinator.com/item?id=42261630) - [Bluesky's open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/)
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A Washing Machine for Human Beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
+* [2024-11-28, 01:32:32](https://news.ycombinator.com/item?id=42261538) - [Building a Phosphorescence Detector](https://lcamtuf.substack.com/p/building-a-phosphorescence-detector)
 * [2024-11-28, 00:49:06](https://news.ycombinator.com/item?id=42261314) - [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
