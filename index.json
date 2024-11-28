@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-28, 12:13:34",
-      "https://news.ycombinator.com/item?id=42264668"
-    ],
-    [
-      "Hetzner raises US cloud prices while lowering included bandwidth by 95%",
-      "https://twitter.com/alexellisuk/status/1862083571231424701"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 11:22:44",
       "https://news.ycombinator.com/item?id=42264427"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-11-27, 15:58:42",
+      "https://news.ycombinator.com/item?id=42257060"
+    ],
+    [
+      "Launch HN: Keep (YC W23) – AIOps and alert management",
+      "https://github.com/keephq/keep"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 14:58:25",
       "https://news.ycombinator.com/item?id=42256589"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-11-22, 21:02:36",
+      "https://news.ycombinator.com/item?id=42217345"
+    ],
+    [
+      "Smuggling files under Google's nose",
+      "https://world-playground-deceit.net/blog/2024/11/smuggling_files_under_google%27s_nose.html"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 13:54:48",
       "https://news.ycombinator.com/item?id=42213845"
     ],
     [
       "Ultra-low-latency, batching and concurrent queue for IPC in Java",
       "https://github.com/coralblocks/CoralRing"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 12:26:13",
-      "https://news.ycombinator.com/item?id=42213264"
-    ],
-    [
-      "Reliably Benchmarking Small Changes – Ankush Menat",
-      "https://ankush.dev/p/reliable-benchmarking"
     ]
   ],
   [
