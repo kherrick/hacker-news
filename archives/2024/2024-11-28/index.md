@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
+* [2024-11-28, 08:59:30](https://news.ycombinator.com/item?id=42263724) - [IMBA: A Curated Self-Learning MBA Inspired by 'The Personal MBA](https://github.com/abari111/iMBA)
+* [2024-11-28, 08:28:05](https://news.ycombinator.com/item?id=42263582) - [ChatGPT's artificial empathy is a language trick](https://theconversation.com/chatgpts-artificial-empathy-is-a-language-trick-heres-how-it-works-244673)
 * [2024-11-28, 07:37:38](https://news.ycombinator.com/item?id=42263315) - [Microsoft says it's built an Xbox game store on Android but can't launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
