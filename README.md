@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-28, 12:13:34](https://news.ycombinator.com/item?id=42264668) - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic from 20 TB –> 1..5 TB on US VPSs](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
@@ -21,14 +20,15 @@
 * [2024-11-27, 20:10:55](https://news.ycombinator.com/item?id=42259278) - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+* [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – AIOps and alert management](https://github.com/keephq/keep)
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century (2022)](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 14:33:31](https://news.ycombinator.com/item?id=42256394) - [The Art and Mathematics of Genji-Ko](https://www.oranlooney.com/post/genji-ko/)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 05:10:08](https://news.ycombinator.com/item?id=42253119) - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
 * [2024-11-23, 11:25:38](https://news.ycombinator.com/item?id=42220371) - [The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
+* [2024-11-22, 21:02:36](https://news.ycombinator.com/item?id=42217345) - [Smuggling files under Google's nose](https://world-playground-deceit.net/blog/2024/11/smuggling_files_under_google%27s_nose.html)
 * [2024-11-22, 13:54:48](https://news.ycombinator.com/item?id=42213845) - [Ultra-low-latency, batching and concurrent queue for IPC in Java](https://github.com/coralblocks/CoralRing)
-* [2024-11-22, 12:26:13](https://news.ycombinator.com/item?id=42213264) - [Reliably Benchmarking Small Changes – Ankush Menat](https://ankush.dev/p/reliable-benchmarking)
 * [2024-11-22, 10:49:31](https://news.ycombinator.com/item?id=42212745) - [Shallow sports and deep social hierarchies: pecking orders aren't equal](https://phys.org/news/2024-11-shallow-sports-deep-social-hierarchies.html)
 
 ## [Archives](archives/index.md)
