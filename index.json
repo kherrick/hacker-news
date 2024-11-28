@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-11-28, 04:46:34",
-      "https://news.ycombinator.com/item?id=42262533"
+      "2024-11-28, 04:48:59",
+      "https://news.ycombinator.com/item?id=42262547"
     ],
     [
-      "Appwrite: Open-Source Back End as a Service",
-      "https://tenbyte.org/appwrite-open-source-backend-as-a-service/"
+      "NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet",
+      "https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Pocket 4: Modular full-featured Handheld AI PC",
       "https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 03:08:43",
-      "https://news.ycombinator.com/item?id=42262065"
-    ],
-    [
-      "Alibaba's OpenAI Challenger: The New AI Reasoning Titan",
-      "https://app.pageon.ai/share/8146?mode=share&shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkb2N1bWVudFNoYXJlU2lnbiI6IjEiLCJleHAiOjE3MzI4NDk0NTYsInVzZXJJZCI6MzcxNywicHJvamVjdElkIjo4MTQ2LCJ0aW1lb3V0IjoxNzMyODQ5NDU2MDAwLCJpc1JlbW92ZVdhdGVybWFyayI6MH0.bXgFzoQqQXiRNfaWhWOjrkYP79o5_OCT34RDDWbq9_Y"
     ]
   ],
   [
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2024-11-27, 14:58:25",
+      "https://news.ycombinator.com/item?id=42256589"
+    ],
+    [
+      "Chebyshev Polynomials in the 16th Century (2022)",
+      "https://arxiv.org/abs/2203.10955"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 13:56:20",
       "https://news.ycombinator.com/item?id=42256104"
     ],
     [
       "Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub",
       "https://github.com/bjesus/teatime"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 13:15:57",
-      "https://news.ycombinator.com/item?id=42255829"
-    ],
-    [
-      "Ancient Sumerians created the first writing system",
-      "https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "For the Love of a Little Sea",
       "https://hakaimagazine.com/features/for-the-love-a-little-sea/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 13:54:48",
+      "https://news.ycombinator.com/item?id=42213845"
+    ],
+    [
+      "Ultra-low-latency, batching and concurrent queue for IPC in Java",
+      "https://github.com/coralblocks/CoralRing"
     ]
   ],
   [
