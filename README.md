@@ -5,7 +5,6 @@
 * [2024-11-28, 15:27:27](https://news.ycombinator.com/item?id=42265893) - [Seoul blanketed by heaviest November snow on record](https://www.bbc.com/news/articles/cpqdgw7lzw0o)
 * [2024-11-28, 14:53:31](https://news.ycombinator.com/item?id=42265668) - [Writing Composable SQL Using Knex and Pipelines](https://lackofimagination.org/2024/11/writing-composable-sql-using-knex-and-pipelines/)
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
-* [2024-11-28, 14:26:46](https://news.ycombinator.com/item?id=42265485) - [Australia to ban under-16s from social media after passing landmark law](https://www.independent.co.uk/news/world/australasia/social-media-ban-australia-law-under-16s-b2655348.html)
 * [2024-11-28, 13:19:55](https://news.ycombinator.com/item?id=42265051) - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 * [2024-11-28, 11:56:51](https://news.ycombinator.com/item?id=42264586) - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
@@ -28,6 +27,7 @@
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
+* [2024-11-23, 11:25:38](https://news.ycombinator.com/item?id=42220371) - [The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
 * [2024-11-22, 10:49:31](https://news.ycombinator.com/item?id=42212745) - [Shallow sports and deep social hierarchies: pecking orders aren't equal](https://phys.org/news/2024-11-shallow-sports-deep-social-hierarchies.html)
 * [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 
