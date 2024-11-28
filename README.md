@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 * [2024-11-28, 05:13:41](https://news.ycombinator.com/item?id=42262656) - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
-* [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [2024-11-28, 04:48:59](https://news.ycombinator.com/item?id=42262547) - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
 * [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 * [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)

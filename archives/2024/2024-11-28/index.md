@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 * [2024-11-28, 05:13:41](https://news.ycombinator.com/item?id=42262656) - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
