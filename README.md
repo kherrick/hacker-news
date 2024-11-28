@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
 * [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [2024-11-28, 04:48:59](https://news.ycombinator.com/item?id=42262547) - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
 * [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
@@ -22,7 +23,6 @@
 * [2024-11-27, 18:43:04](https://news.ycombinator.com/item?id=42258540) - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
 * [2024-11-27, 18:30:09](https://news.ycombinator.com/item?id=42258407) - [Generate video sprites using just FFmpeg](https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
-* [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century (2022)](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)

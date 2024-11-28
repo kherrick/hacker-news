@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
 * [2024-11-28, 05:02:25](https://news.ycombinator.com/item?id=42262611) - [A Beginner's Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [2024-11-28, 04:48:59](https://news.ycombinator.com/item?id=42262547) - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
 * [2024-11-28, 04:47:18](https://news.ycombinator.com/item?id=42262541) - [8 million turkeys will be thrown in the trash this Thanksgiving](https://www.vox.com/future-perfect/388106/thanksgiving-turkey-food-waste-sides-dry-bland)
