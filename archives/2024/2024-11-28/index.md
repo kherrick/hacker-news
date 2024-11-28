@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 21:15:05](https://news.ycombinator.com/item?id=42268570) - [What were the best books you read this year?](https://news.ycombinator.com/item?id=42268570)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)

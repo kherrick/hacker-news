@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-28, 21:15:05](https://news.ycombinator.com/item?id=42268570) - [What were the best books you read this year?](https://news.ycombinator.com/item?id=42268570)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
@@ -27,7 +28,6 @@
 * [2024-11-25, 18:19:02](https://news.ycombinator.com/item?id=42238603) - [Rapid colonization of a space-returned Ryugu sample by terrestrial microorganism](https://onlinelibrary.wiley.com/doi/10.1111/maps.14288)
 * [2024-11-25, 15:37:58](https://news.ycombinator.com/item?id=42237131) - [WasmCloud makes strides with WASM component model](https://www.techtarget.com/searchitoperations/news/366616278/WasmCloud-makes-strides-with-Wasm-component-model)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
-* [2024-11-23, 23:49:51](https://news.ycombinator.com/item?id=42224815) - [Where Glaciers Melt, the Rivers Run Red](https://www.nytimes.com/2024/11/19/science/peru-glaciers-water-pollution.html)
 * [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 * [2024-11-20, 14:05:43](https://news.ycombinator.com/item?id=42194025) - [Spatial Pixel: a new kind of social computing](https://spatialpixel.com/)
 
