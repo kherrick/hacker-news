@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-11-29, 16:43:51",
+      "https://news.ycombinator.com/item?id=42275033"
+    ],
+    [
+      "Why pipes sometimes get \"stuck\": buffering",
+      "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 16:34:51",
       "https://news.ycombinator.com/item?id=42274963"
     ],
@@ -27,6 +37,16 @@
     [
       "Prometheus 3.0",
       "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 15:28:34",
+      "https://news.ycombinator.com/item?id=42274489"
+    ],
+    [
+      "Llama.cpp guide – Running LLMs locally on any hardware, from scratch",
+      "https://steelph0enix.github.io/posts/llama-cpp-guide/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-11-28, 20:54:26",
-      "https://news.ycombinator.com/item?id=42268461"
-    ],
-    [
-      "An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability",
-      "https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 20:21:14",
       "https://news.ycombinator.com/item?id=42268310"
     ],
@@ -157,16 +167,6 @@
     [
       "Bootkitty: Analyzing the first UEFI bootkit for Linux",
       "https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 20:19:57",
-      "https://news.ycombinator.com/item?id=42249609"
-    ],
-    [
-      "Float Self-Tagging",
-      "https://arxiv.org/abs/2411.16544"
     ]
   ],
   [
