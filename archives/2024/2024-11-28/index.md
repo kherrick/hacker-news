@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-28, 22:02:12](https://news.ycombinator.com/item?id=42268819) - [Goodbye, Rust. I wish you success but I'm back to C++ (sorry, it is a rant)](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
 * [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
+* [2024-11-28, 21:16:44](https://news.ycombinator.com/item?id=42268579) - [The Denver OWASP Chapter is proud to present SnowFROC '25](https://snowfroc.com/)
 * [2024-11-28, 21:15:05](https://news.ycombinator.com/item?id=42268570) - [What were the best books you read this year?](https://news.ycombinator.com/item?id=42268570)
 * [2024-11-28, 20:56:05](https://news.ycombinator.com/item?id=42268475) - [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
 * [2024-11-28, 20:25:00](https://news.ycombinator.com/item?id=42268324) - [Vasopressin boosts sociability in solitary monkeys](https://www.thetransmitter.org/spectrum/vasopressin-boosts-sociability-in-solitary-monkeys/)
