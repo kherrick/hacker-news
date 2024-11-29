@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 09:08:09](https://news.ycombinator.com/item?id=42272369) - [For the love of God, make your own website](https://aftermath.site/website-musk-twitter-facebook-internet)
+* [2024-11-29, 07:53:42](https://news.ycombinator.com/item?id=42271864) - [I Did Not Go to Jail (2014)](https://a16z.com/why-i-did-not-go-to-jail/)
 * [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
 * [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 05:06:11](https://news.ycombinator.com/item?id=42270991) - [Probable Predictors of Involuntary Singlehood](https://www.sciencedirect.com/science/article/abs/pii/S0191886923003458)
