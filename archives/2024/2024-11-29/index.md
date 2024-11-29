@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 21:53:11](https://news.ycombinator.com/item?id=42277438) - [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)
 * [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
 * [2024-11-29, 20:49:28](https://news.ycombinator.com/item?id=42276995) - [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
