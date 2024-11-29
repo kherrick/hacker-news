@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-29, 04:46:36",
-      "https://news.ycombinator.com/item?id=42270893"
+      "2024-11-29, 05:01:57",
+      "https://news.ycombinator.com/item?id=42270966"
     ],
     [
-      "An updated record of Tesla fatalities and Tesla accident deaths",
-      "https://www.tesladeaths.com"
+      "Australian Parliament bans social media for under-16s with world-first law",
+      "https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 05:01:49",
+      "https://news.ycombinator.com/item?id=42270965"
+    ],
+    [
+      "New report advises mental health support for 'incels'",
+      "https://www.bps.org.uk/psychologist/new-report-advises-mental-health-support-incels"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 04:55:23",
+      "https://news.ycombinator.com/item?id=42270935"
+    ],
+    [
+      "US Antitrust Watchdog Launches Broad Microsoft Investigation",
+      "https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation"
     ]
   ],
   [
@@ -17,6 +37,26 @@
     [
       "BYD launches sodium-ion grid-scale BESS product",
       "https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 03:01:59",
+      "https://news.ycombinator.com/item?id=42270424"
+    ],
+    [
+      "The trouble with struct sockaddr's fake flexible array",
+      "https://lwn.net/Articles/997094/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 02:54:00",
+      "https://news.ycombinator.com/item?id=42270389"
+    ],
+    [
+      "Show HN: Vince – A self hosted alternative to Google Analytics",
+      "https://github.com/vinceanalytics/vince"
     ]
   ],
   [
@@ -161,56 +201,6 @@
   ],
   [
     [
-      "2024-11-28, 11:02:17",
-      "https://news.ycombinator.com/item?id=42264344"
-    ],
-    [
-      "Show HN: Myphotos.site – Make a gallery website from Google Photos",
-      "https://www.myphotos.site"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 07:49:54",
-      "https://news.ycombinator.com/item?id=42263383"
-    ],
-    [
-      "Bananas: Cross-Platform screen sharing made simple",
-      "https://github.com/mistweaverco/bananas"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 07:14:51",
-      "https://news.ycombinator.com/item?id=42263178"
-    ],
-    [
-      "The great abandonment: what happens to the natural world when people disappear?",
-      "https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 01:38:17",
-      "https://news.ycombinator.com/item?id=42261573"
-    ],
-    [
-      "A washing machine for human beings, from 1970",
-      "https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 22:33:21",
-      "https://news.ycombinator.com/item?id=42260481"
-    ],
-    [
-      "Spotify has shut down several API endpoints",
-      "https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 21:36:38",
       "https://news.ycombinator.com/item?id=42260027"
     ],
@@ -297,6 +287,16 @@
     [
       "Aftershock II",
       "http://www.uscrpl.com/aftershock-ii"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 17:07:01",
+      "https://news.ycombinator.com/item?id=42215520"
+    ],
+    [
+      "Multimodal Interpretability in 2024",
+      "https://www.soniajoseph.ai/multimodal-interpretability-in-2024/"
     ]
   ]
 ]
