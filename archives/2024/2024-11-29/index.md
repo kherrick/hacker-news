@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 23:13:57](https://news.ycombinator.com/item?id=42277963) - [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:53:11](https://news.ycombinator.com/item?id=42277438) - [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)
 * [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)

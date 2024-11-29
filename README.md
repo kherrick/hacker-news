@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-29, 23:13:57](https://news.ycombinator.com/item?id=42277963) - [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
 * [2024-11-29, 20:49:28](https://news.ycombinator.com/item?id=42276995) - [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
@@ -24,7 +25,6 @@
 * [2024-11-26, 11:02:55](https://news.ycombinator.com/item?id=42244609) - [Oldest US firearm unearthed in Arizona, a bronze cannon linked to Coronado](https://phys.org/news/2024-11-oldest-firearm-unearthed-arizona-bronze.html)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-26, 10:30:04](https://news.ycombinator.com/item?id=42244409) - [Rust: Tools (early access edition)](https://bitfieldconsulting.com/books/rust-tools)
-* [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps acquiring Pixelmator is about competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
