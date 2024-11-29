@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 20:05:14](https://news.ycombinator.com/item?id=42276672) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
