@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 02:50:59](https://news.ycombinator.com/item?id=42270378) - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 02:45:39](https://news.ycombinator.com/item?id=42270348) - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 * [2024-11-29, 01:09:33](https://news.ycombinator.com/item?id=42269925) - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
 * [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)

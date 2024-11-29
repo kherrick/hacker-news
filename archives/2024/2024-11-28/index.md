@@ -10,6 +10,7 @@
 * [2024-11-28, 21:16:44](https://news.ycombinator.com/item?id=42268579) - [The Denver OWASP Chapter is proud to present SnowFROC '25](https://snowfroc.com/)
 * [2024-11-28, 21:15:05](https://news.ycombinator.com/item?id=42268570) - [What were the best books you read this year?](https://news.ycombinator.com/item?id=42268570)
 * [2024-11-28, 20:56:05](https://news.ycombinator.com/item?id=42268475) - [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
+* [2024-11-28, 20:54:26](https://news.ycombinator.com/item?id=42268461) - [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
 * [2024-11-28, 20:25:00](https://news.ycombinator.com/item?id=42268324) - [Vasopressin boosts sociability in solitary monkeys](https://www.thetransmitter.org/spectrum/vasopressin-boosts-sociability-in-solitary-monkeys/)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
