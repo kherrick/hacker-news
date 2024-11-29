@@ -13,6 +13,7 @@
 * [2024-11-25, 21:17:38](https://news.ycombinator.com/item?id=42240316) - [The next big arenas of competition](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
 * [2024-11-25, 20:51:23](https://news.ycombinator.com/item?id=42240048) - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
 * [2024-11-25, 20:40:34](https://news.ycombinator.com/item?id=42239952) - [Do you need ID to read the REAL-ID rules?](https://papersplease.org/wp/2024/11/25/do-you-need-id-to-read-the-real-id-rules/)
+* [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps Acquiring Pixelmator Is About Competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 20:12:27](https://news.ycombinator.com/item?id=42239721) - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
 * [2024-11-25, 20:00:08](https://news.ycombinator.com/item?id=42239607) - [Redis is trying to take over the all of the OSS Redis libraries](https://twitter.com/TomHacohen/status/1861137484249252093)
 * [2024-11-25, 19:49:57](https://news.ycombinator.com/item?id=42239535) - [Revisiting Uv](https://www.loopwerk.io/articles/2024/python-uv-revisited/)
