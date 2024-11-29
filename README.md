@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-29, 05:06:11](https://news.ycombinator.com/item?id=42270991) - [Probable Predictors of Involuntary Singlehood](https://www.sciencedirect.com/science/article/abs/pii/S0191886923003458)
 * [2024-11-29, 05:01:57](https://news.ycombinator.com/item?id=42270966) - [Australian Parliament bans social media for under-16s with world-first law](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
 * [2024-11-29, 04:55:23](https://news.ycombinator.com/item?id=42270935) - [US Antitrust Watchdog Launches Broad Microsoft Investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 * [2024-11-29, 03:44:59](https://news.ycombinator.com/item?id=42270610) - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
@@ -20,6 +19,7 @@
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A pretty visualisation of the European power grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic on US VPSs, raises prices](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:45](https://news.ycombinator.com/item?id=42264345) - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
+* [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1-like reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
 * [2024-11-26, 20:19:57](https://news.ycombinator.com/item?id=42249609) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
