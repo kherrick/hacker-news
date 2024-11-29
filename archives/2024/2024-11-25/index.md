@@ -45,6 +45,7 @@
 * [2024-11-25, 12:38:33](https://news.ycombinator.com/item?id=42235762) - [What happened when a city started accepting - not evicting - homeless camps](https://www.bbc.com/news/articles/c3wq7l1lnqpo)
 * [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-25, 12:19:55](https://news.ycombinator.com/item?id=42235635) - [Mysteries in polar orbit – space's oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)
+* [2024-11-25, 11:49:34](https://news.ycombinator.com/item?id=42235452) - [Institutional memory and reverse smuggling](https://landley.net/history/mirror/institutional_memory.html)
 * [2024-11-25, 11:42:06](https://news.ycombinator.com/item?id=42235418) - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 * [2024-11-25, 11:39:16](https://news.ycombinator.com/item?id=42235401) - [The Thrax Programming Language](https://github.com/elijah-potter/thrax-language)
 * [2024-11-25, 11:02:49](https://news.ycombinator.com/item?id=42235183) - [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
