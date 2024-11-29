@@ -43,6 +43,7 @@
 * [2024-11-22, 13:34:34](https://news.ycombinator.com/item?id=42213712) - [New Comic Book: La BD de L'Avent, Le Lombard Publishing](https://www.davidrevoy.com/article1055/new-comic-book-la-bd-de-lavent-le-lombard-publishing)
 * [2024-11-22, 13:27:12](https://news.ycombinator.com/item?id=42213663) - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
 * [2024-11-22, 13:23:28](https://news.ycombinator.com/item?id=42213639) - [Runtime-Extensible SQL Parsers Using Peg](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
+* [2024-11-22, 13:16:21](https://news.ycombinator.com/item?id=42213583) - [Template Mixins](https://dlang.org/spec/template-mixin.html)
 * [2024-11-22, 13:12:53](https://news.ycombinator.com/item?id=42213560) - [Toddler's backyard snake bite bills totaled more than a quarter-million dollars](https://www.sandiegouniontribune.com/2024/11/20/san-diego-toddlers-backyard-snake-bite-bills-totaled-more-than-a-quarter-million-dollars/)
 * [2024-11-22, 13:03:09](https://news.ycombinator.com/item?id=42213485) - [Slow Email (2008)](http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html)
 * [2024-11-22, 12:55:23](https://news.ycombinator.com/item?id=42213433) - [Massive Amount of Rare Metal Deposits Found Off Remote Pacific Island in Japan](https://tnfsa.nippon-foundation.or.jp/news/2071302)

@@ -64,6 +64,7 @@
 * [2024-11-23, 09:20:37](https://news.ycombinator.com/item?id=42219989) - [Surrealism, cafes and lots (and lots) of cats: why Japanese fiction is booming](https://www.theguardian.com/books/2024/nov/23/japanese-fiction-britain-translation)
 * [2024-11-23, 08:58:19](https://news.ycombinator.com/item?id=42219890) - [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
 * [2024-11-23, 08:56:16](https://news.ycombinator.com/item?id=42219885) - [Brunello Cucinelli scroll zoom-out website](https://www.brunellocucinelli.ai/)
+* [2024-11-23, 08:26:26](https://news.ycombinator.com/item?id=42219809) - [Aftershock II](http://www.uscrpl.com/aftershock-ii)
 * [2024-11-23, 08:16:00](https://news.ycombinator.com/item?id=42219786) - [I'm a Developer Not a Compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-23, 08:00:40](https://news.ycombinator.com/item?id=42219754) - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 * [2024-11-23, 07:59:25](https://news.ycombinator.com/item?id=42219749) - [Mitigating WiFi deauth attacks with Ubiquiti Protected Management Frames (2022)](https://blog.steveendow.com/2022/05/mitigating-wifi-deauth-attack-with.html)
