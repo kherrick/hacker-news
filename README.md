@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-29, 02:45:39](https://news.ycombinator.com/item?id=42270348) - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 * [2024-11-29, 01:09:33](https://news.ycombinator.com/item?id=42269925) - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+* [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)
 * [2024-11-29, 00:26:23](https://news.ycombinator.com/item?id=42269691) - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
@@ -15,8 +17,6 @@
 * [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 * [2024-11-28, 09:23:01](https://news.ycombinator.com/item?id=42263834) - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
-* [2024-11-28, 03:58:49](https://news.ycombinator.com/item?id=42262308) - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
-* [2024-11-28, 02:37:01](https://news.ycombinator.com/item?id=42261909) - [Show HN: Voice-Pro – AI Voice Cloning](https://github.com/abus-aikorea/voice-pro)
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A washing machine for human beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
 * [2024-11-27, 23:59:38](https://news.ycombinator.com/item?id=42261053) - [MIT Aluminum Bicycle Project 1974 (2016)](https://www.sheldonbrown.com/AluminumBikeProject.html)
 * [2024-11-27, 22:33:21](https://news.ycombinator.com/item?id=42260481) - [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
@@ -27,8 +27,8 @@
 * [2024-11-26, 03:44:04](https://news.ycombinator.com/item?id=42242392) - [The Thinker Who Believed in Doing (2018)](https://www.neh.gov/humanities/2018/winter/feature/the-thinker-who-believed-in-doing-0)
 * [2024-11-25, 18:19:02](https://news.ycombinator.com/item?id=42238603) - [Rapid colonization of a space-returned Ryugu sample by terrestrial microorganism](https://onlinelibrary.wiley.com/doi/10.1111/maps.14288)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
+* [2024-11-25, 08:29:25](https://news.ycombinator.com/item?id=42234323) - [Show HN: Indentation-based syntax for Clojure](https://github.com/ilevd/cwp)
 * [2024-11-23, 08:26:26](https://news.ycombinator.com/item?id=42219809) - [Aftershock II](http://www.uscrpl.com/aftershock-ii)
-* [2024-11-22, 13:16:21](https://news.ycombinator.com/item?id=42213583) - [Template Mixins](https://dlang.org/spec/template-mixin.html)
 * [2024-11-22, 12:49:02](https://news.ycombinator.com/item?id=42213391) - [AI and the Last Mile 2: Subsidiarity](https://hollisrobbinsanecdotal.substack.com/p/ai-and-the-last-mile-2)
 
 ## [Archives](archives/index.md)
