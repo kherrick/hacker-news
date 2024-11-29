@@ -3,7 +3,6 @@
 * [2024-11-29, 10:01:57](https://news.ycombinator.com/item?id=42272707) - [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)
 * [2024-11-29, 09:03:41](https://news.ycombinator.com/item?id=42272351) - ['PDF to Brainrot' study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
 * [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
-* [2024-11-29, 03:10:50](https://news.ycombinator.com/item?id=42270468) - [Physics in Next-Token Prediction](https://arxiv.org/abs/2411.00660)
 * [2024-11-29, 03:01:59](https://news.ycombinator.com/item?id=42270424) - [The trouble with struct sockaddr's fake flexible array](https://lwn.net/Articles/997094/)
 * [2024-11-29, 02:54:00](https://news.ycombinator.com/item?id=42270389) - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
 * [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
@@ -29,6 +28,7 @@
 * [2024-11-25, 13:28:14](https://news.ycombinator.com/item?id=42236103) - [Mechanical Engineer creates instruments for his one man industrial metal band](https://www.revolvermag.com/music/author-punisher-how-tool-approved-industrial-metal-mad-scientist-found-hope-amid-doom/)
 * [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-25, 08:29:25](https://news.ycombinator.com/item?id=42234323) - [Show HN: Indentation-based syntax for Clojure](https://github.com/ilevd/cwp)
+* [2024-11-23, 08:26:26](https://news.ycombinator.com/item?id=42219809) - [Aftershock II](http://www.uscrpl.com/aftershock-ii)
 * [2024-11-22, 17:07:01](https://news.ycombinator.com/item?id=42215520) - [Multimodal Interpretability in 2024](https://www.soniajoseph.ai/multimodal-interpretability-in-2024/)
 
 ## [Archives](archives/index.md)
