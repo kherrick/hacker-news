@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 05:06:11](https://news.ycombinator.com/item?id=42270991) - [Probable Predictors of Involuntary Singlehood](https://www.sciencedirect.com/science/article/abs/pii/S0191886923003458)
 * [2024-11-29, 05:01:57](https://news.ycombinator.com/item?id=42270966) - [Australian Parliament bans social media for under-16s with world-first law](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
 * [2024-11-29, 05:01:49](https://news.ycombinator.com/item?id=42270965) - [New report advises mental health support for 'incels'](https://www.bps.org.uk/psychologist/new-report-advises-mental-health-support-incels)
 * [2024-11-29, 04:55:23](https://news.ycombinator.com/item?id=42270935) - [US Antitrust Watchdog Launches Broad Microsoft Investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
