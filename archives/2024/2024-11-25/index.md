@@ -31,6 +31,7 @@
 * [2024-11-25, 17:56:34](https://news.ycombinator.com/item?id=42238396) - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
 * [2024-11-25, 17:44:51](https://news.ycombinator.com/item?id=42238299) - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-25, 17:31:40](https://news.ycombinator.com/item?id=42238160) - [The Myth of the Loneliness Epidemic](https://asteriskmag.com/issues/08/the-myth-of-the-loneliness-epidemic)
+* [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-25, 17:00:59](https://news.ycombinator.com/item?id=42237877) - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 * [2024-11-25, 16:57:09](https://news.ycombinator.com/item?id=42237832) - [Pricing the anonymity of banknotes](http://jpkoning.blogspot.com/2024/11/pricing-anonymity-of-banknotes.html)
 * [2024-11-25, 16:49:57](https://news.ycombinator.com/item?id=42237766) - [The genesis of today's recruiting crisis](https://www.militarytimes.com/news/your-military/2023/04/10/the-genesis-of-todays-recruiting-crisis/)
