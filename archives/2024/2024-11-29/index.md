@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 10:50:33](https://news.ycombinator.com/item?id=42272927) - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
 * [2024-11-29, 10:01:57](https://news.ycombinator.com/item?id=42272707) - [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)
 * [2024-11-29, 09:08:09](https://news.ycombinator.com/item?id=42272369) - [For the love of God, make your own website](https://aftermath.site/website-musk-twitter-facebook-internet)
 * [2024-11-29, 09:03:41](https://news.ycombinator.com/item?id=42272351) - ['PDF to Brainrot' study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
+* [2024-11-29, 08:25:43](https://news.ycombinator.com/item?id=42272063) - [Someone just won $50k by convincing an AI Agent to send all funds to them](https://twitter.com/jarrodwattsdev/status/1862299845710757980)
 * [2024-11-29, 07:53:42](https://news.ycombinator.com/item?id=42271864) - [I Did Not Go to Jail (2014)](https://a16z.com/why-i-did-not-go-to-jail/)
 * [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
 * [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
