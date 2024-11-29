@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 18:06:20",
+      "https://news.ycombinator.com/item?id=42275716"
+    ],
+    [
+      "Black Friday is a trap",
+      "https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 17:00:58",
       "https://news.ycombinator.com/item?id=42275185"
     ],
@@ -61,12 +71,32 @@
   ],
   [
     [
+      "2024-11-29, 14:07:30",
+      "https://news.ycombinator.com/item?id=42273966"
+    ],
+    [
+      "How We Got the Lithium-Ion Battery",
+      "https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 13:48:12",
       "https://news.ycombinator.com/item?id=42273817"
     ],
     [
       "Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI",
       "https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 13:43:48",
+      "https://news.ycombinator.com/item?id=42273798"
+    ],
+    [
+      "Performance improvement plans are on the rise",
+      "https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2024-11-28, 11:02:45",
-      "https://news.ycombinator.com/item?id=42264345"
-    ],
-    [
-      "Bootkitty: Analyzing the first UEFI bootkit for Linux",
-      "https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 14:14:30",
-      "https://news.ycombinator.com/item?id=42245927"
-    ],
-    [
-      "Data Modeling with Sums and Products",
-      "https://funktionale-programmierung.de/2024/11/25/sums-products-english.html"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 11:33:50",
       "https://news.ycombinator.com/item?id=42244791"
     ],
@@ -257,16 +267,6 @@
     [
       "Institutional memory and reverse smuggling (2011)",
       "https://landley.net/history/mirror/institutional_memory.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 08:29:25",
-      "https://news.ycombinator.com/item?id=42234323"
-    ],
-    [
-      "Show HN: Indentation-based syntax for Clojure",
-      "https://github.com/ilevd/cwp"
     ]
   ],
   [
