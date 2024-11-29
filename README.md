@@ -16,6 +16,7 @@
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A pretty visualisation of the European power grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 11:22:44](https://news.ycombinator.com/item?id=42264427) - [Hetzner cuts traffic on US VPSs, raises prices](https://news.ycombinator.com/item?id=42264427)
 * [2024-11-28, 11:02:45](https://news.ycombinator.com/item?id=42264345) - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
+* [2024-11-28, 11:02:17](https://news.ycombinator.com/item?id=42264344) - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 * [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
 * [2024-11-27, 22:33:21](https://news.ycombinator.com/item?id=42260481) - [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
 * [2024-11-26, 20:19:57](https://news.ycombinator.com/item?id=42249609) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
@@ -29,7 +30,6 @@
 * [2024-11-25, 11:49:34](https://news.ycombinator.com/item?id=42235452) - [Institutional memory and reverse smuggling](https://landley.net/history/mirror/institutional_memory.html)
 * [2024-11-25, 08:29:25](https://news.ycombinator.com/item?id=42234323) - [Show HN: Indentation-based syntax for Clojure](https://github.com/ilevd/cwp)
 * [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
-* [2024-11-22, 17:07:01](https://news.ycombinator.com/item?id=42215520) - [Multimodal Interpretability in 2024](https://www.soniajoseph.ai/multimodal-interpretability-in-2024/)
 
 ## [Archives](archives/index.md)
 
