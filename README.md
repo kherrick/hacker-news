@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+* [2024-11-29, 16:34:51](https://news.ycombinator.com/item?id=42274963) - [How Baltic and Nordic countries are preparing for a crisis or war](https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783)
 * [2024-11-29, 15:52:44](https://news.ycombinator.com/item?id=42274660) - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR Process Is Killing Morale and Productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
@@ -24,7 +25,6 @@
 * [2024-11-25, 18:19:02](https://news.ycombinator.com/item?id=42238603) - [Rapid colonization of a space-returned Ryugu sample by terrestrial microorganism](https://onlinelibrary.wiley.com/doi/10.1111/maps.14288)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
-* [2024-11-25, 13:28:14](https://news.ycombinator.com/item?id=42236103) - [Mechanical Engineer creates instruments for his one-man metal band (2022)](https://www.revolvermag.com/music/author-punisher-how-tool-approved-industrial-metal-mad-scientist-found-hope-amid-doom/)
 * [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-25, 11:49:34](https://news.ycombinator.com/item?id=42235452) - [Institutional memory and reverse smuggling (2011)](https://landley.net/history/mirror/institutional_memory.html)
 * [2024-11-25, 08:29:25](https://news.ycombinator.com/item?id=42234323) - [Show HN: Indentation-based syntax for Clojure](https://github.com/ilevd/cwp)

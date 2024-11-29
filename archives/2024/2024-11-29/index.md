@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+* [2024-11-29, 16:34:51](https://news.ycombinator.com/item?id=42274963) - [How Baltic and Nordic countries are preparing for a crisis or war](https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783)
 * [2024-11-29, 15:52:44](https://news.ycombinator.com/item?id=42274660) - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-29, 14:55:27](https://news.ycombinator.com/item?id=42274282) - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR Process Is Killing Morale and Productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
