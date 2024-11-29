@@ -3,6 +3,7 @@
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 * [2024-11-29, 19:03:39](https://news.ycombinator.com/item?id=42276155) - [US house prices in 1950 vs. 2024, accounting for inflation](https://brilliantmaps.com/us-houses-prices-1950-2024/)
+* [2024-11-29, 18:52:57](https://news.ycombinator.com/item?id=42276078) - [Calmy Leon – The Ultimate Relaxing Music and Sound Generator](https://calmyleon.com/)
 * [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 * [2024-11-29, 18:33:39](https://news.ycombinator.com/item?id=42275919) - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
 * [2024-11-29, 18:22:54](https://news.ycombinator.com/item?id=42275848) - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)
@@ -27,7 +28,6 @@
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps acquiring Pixelmator is about competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-* [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
 * [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
 
