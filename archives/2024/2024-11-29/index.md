@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 18:06:20](https://news.ycombinator.com/item?id=42275716) - [Black Friday is a trap](https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs)
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2024-11-29, 16:43:51](https://news.ycombinator.com/item?id=42275033) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 16:34:51](https://news.ycombinator.com/item?id=42274963) - [How Baltic and Nordic countries are preparing for a crisis or war](https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783)
@@ -11,6 +12,7 @@
 * [2024-11-29, 15:28:34](https://news.ycombinator.com/item?id=42274489) - [Llama.cpp guide – Running LLMs locally on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 * [2024-11-29, 14:55:27](https://news.ycombinator.com/item?id=42274282) - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR Process Is Killing Morale and Productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
+* [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 13:43:48](https://news.ycombinator.com/item?id=42273798) - [The Most Hated Way of Firing Someone, the PIP, Is More Popular Than Ever](https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062)
 * [2024-11-29, 13:40:13](https://news.ycombinator.com/item?id=42273780) - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
