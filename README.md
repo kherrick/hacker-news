@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
 * [2024-11-29, 05:01:57](https://news.ycombinator.com/item?id=42270966) - [Australian Parliament bans social media for under-16s](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
 * [2024-11-29, 04:55:23](https://news.ycombinator.com/item?id=42270935) - [US antitrust watchdog launches broad Microsoft investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 * [2024-11-29, 03:44:59](https://news.ycombinator.com/item?id=42270610) - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
@@ -8,7 +9,6 @@
 * [2024-11-29, 02:50:59](https://news.ycombinator.com/item?id=42270378) - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 02:45:39](https://news.ycombinator.com/item?id=42270348) - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 * [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
-* [2024-11-29, 00:26:23](https://news.ycombinator.com/item?id=42269691) - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 * [2024-11-28, 20:54:26](https://news.ycombinator.com/item?id=42268461) - [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
