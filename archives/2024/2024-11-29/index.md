@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
+* [2024-11-29, 19:03:39](https://news.ycombinator.com/item?id=42276155) - [US Houses Prices in 1950 vs. 2024 (Accounting for Inflation)](https://brilliantmaps.com/us-houses-prices-1950-2024/)
+* [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 * [2024-11-29, 18:33:39](https://news.ycombinator.com/item?id=42275919) - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
 * [2024-11-29, 18:25:45](https://news.ycombinator.com/item?id=42275867) - [Show HN: A tool for kids to practice arithmetic](https://mathmonster.agiliq.com/)
 * [2024-11-29, 18:22:54](https://news.ycombinator.com/item?id=42275848) - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)

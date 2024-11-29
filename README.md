@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
+* [2024-11-29, 19:03:39](https://news.ycombinator.com/item?id=42276155) - [US Houses Prices in 1950 vs. 2024 (Accounting for Inflation)](https://brilliantmaps.com/us-houses-prices-1950-2024/)
+* [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 * [2024-11-29, 18:33:39](https://news.ycombinator.com/item?id=42275919) - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
 * [2024-11-29, 18:22:54](https://news.ycombinator.com/item?id=42275848) - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)
 * [2024-11-29, 18:21:55](https://news.ycombinator.com/item?id=42275834) - [Chinese pebble-bed nuclear reactor passes \"meltdown\" test](https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/)
@@ -25,9 +27,7 @@
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps Acquiring Pixelmator Is About Competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-* [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-25, 11:49:34](https://news.ycombinator.com/item?id=42235452) - [Institutional memory and reverse smuggling (2011)](https://landley.net/history/mirror/institutional_memory.html)
-* [2024-11-24, 19:52:35](https://news.ycombinator.com/item?id=42229991) - [The Physics of Sailing (2003)](http://www.phys.unsw.edu.au/~jw/sailing.html)
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
 * [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
 
