@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 12:52:51](https://news.ycombinator.com/item?id=42273505) - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
 * [2024-11-29, 12:25:55](https://news.ycombinator.com/item?id=42273361) - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
 * [2024-11-29, 12:12:55](https://news.ycombinator.com/item?id=42273288) - [Finland, Sweden complete repairs on Baltic Sea cables](https://yle.fi/a/74-20128140)
 * [2024-11-29, 10:50:33](https://news.ycombinator.com/item?id=42272927) - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
