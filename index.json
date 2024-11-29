@@ -1,42 +1,22 @@
 [
   [
     [
+      "2024-11-29, 09:08:09",
+      "https://news.ycombinator.com/item?id=42272369"
+    ],
+    [
+      "For the love of God, make your own website",
+      "https://aftermath.site/website-musk-twitter-facebook-internet"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 05:25:32",
       "https://news.ycombinator.com/item?id=42271078"
     ],
     [
       "Using Pandoc and Typst to Produce PDFs",
       "https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 05:01:57",
-      "https://news.ycombinator.com/item?id=42270966"
-    ],
-    [
-      "Australian Parliament bans social media for under-16s",
-      "https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 04:55:23",
-      "https://news.ycombinator.com/item?id=42270935"
-    ],
-    [
-      "US antitrust watchdog launches broad Microsoft investigation",
-      "https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 03:44:59",
-      "https://news.ycombinator.com/item?id=42270610"
-    ],
-    [
-      "BYD launches sodium-ion grid-scale BESS product",
-      "https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/"
     ]
   ],
   [
@@ -67,26 +47,6 @@
     [
       "Show HN: Vince – A self hosted alternative to Google Analytics",
       "https://github.com/vinceanalytics/vince"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 02:50:59",
-      "https://news.ycombinator.com/item?id=42270378"
-    ],
-    [
-      "How much memory do you need in 2024 to run 1M concurrent tasks?",
-      "https://hez2010.github.io/async-runtimes-benchmarks-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 02:45:39",
-      "https://news.ycombinator.com/item?id=42270348"
-    ],
-    [
-      "Microbenchmarks Are Experiments",
-      "https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html"
     ]
   ],
   [
@@ -141,22 +101,22 @@
   ],
   [
     [
+      "2024-11-28, 20:19:51",
+      "https://news.ycombinator.com/item?id=42268304"
+    ],
+    [
+      "In the Rockets' Red Glare: The past and future of hot-rodding in America",
+      "https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 19:00:47",
       "https://news.ycombinator.com/item?id=42267725"
     ],
     [
       "The UX of Lego Interface Panels (2020)",
       "https://interactionmagic.com/UX-LEGO-Interfaces/"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 15:18:57",
-      "https://news.ycombinator.com/item?id=42265817"
-    ],
-    [
-      "Tk9.0: CGo-free, cross platform GUI toolkit for Go",
-      "https://pkg.go.dev/modernc.org/tk9.0"
     ]
   ],
   [
@@ -171,12 +131,52 @@
   ],
   [
     [
+      "2024-11-28, 11:22:44",
+      "https://news.ycombinator.com/item?id=42264427"
+    ],
+    [
+      "Hetzner cuts traffic on US VPSs, raises prices",
+      "https://news.ycombinator.com/item?id=42264427"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 11:02:45",
       "https://news.ycombinator.com/item?id=42264345"
     ],
     [
       "Bootkitty: Analyzing the first UEFI bootkit for Linux",
       "https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 11:02:17",
+      "https://news.ycombinator.com/item?id=42264344"
+    ],
+    [
+      "Show HN: Myphotos.site – Make a gallery website from Google Photos",
+      "https://www.myphotos.site"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 07:14:51",
+      "https://news.ycombinator.com/item?id=42263178"
+    ],
+    [
+      "The great abandonment: what happens to the natural world when people disappear?",
+      "https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 22:33:21",
+      "https://news.ycombinator.com/item?id=42260481"
+    ],
+    [
+      "Spotify has shut down several API endpoints",
+      "https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "QwQ: Alibaba's O1-like reasoning LLM",
       "https://qwenlm.github.io/blog/qwq-32b-preview/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 06:41:39",
-      "https://news.ycombinator.com/item?id=42253558"
-    ],
-    [
-      "How to Work with GPT-Powered Apps on macOS",
-      "https://help.openai.com/en/articles/10119604-work-with-apps-on-macos"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Mechanical Engineer creates instruments for his one man industrial metal band",
       "https://www.revolvermag.com/music/author-punisher-how-tool-approved-industrial-metal-mad-scientist-found-hope-amid-doom/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 12:33:12",
+      "https://news.ycombinator.com/item?id=42235718"
+    ],
+    [
+      "Mirror, Mirror on the Wall, What Is the Best Topology of Them All?",
+      "https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/"
     ]
   ],
   [
