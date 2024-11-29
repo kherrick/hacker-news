@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 * [2024-11-29, 18:33:39](https://news.ycombinator.com/item?id=42275919) - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
 * [2024-11-29, 18:22:54](https://news.ycombinator.com/item?id=42275848) - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)
 * [2024-11-29, 18:21:55](https://news.ycombinator.com/item?id=42275834) - [Chinese pebble-bed nuclear reactor passes \"meltdown\" test](https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/)
@@ -8,7 +9,6 @@
 * [2024-11-29, 18:08:48](https://news.ycombinator.com/item?id=42275734) - [Speaking at PyTexas – CFP closes December 1, 2024](https://www.pytexas.org/2025/schedule/speaking/)
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2024-11-29, 16:43:51](https://news.ycombinator.com/item?id=42275033) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
-* [2024-11-29, 15:52:44](https://news.ycombinator.com/item?id=42274660) - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-29, 15:28:34](https://news.ycombinator.com/item?id=42274489) - [Llama.cpp guide – Running LLMs locally on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR process killing morale and productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
 * [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
