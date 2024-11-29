@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
+* [2024-11-29, 20:05:14](https://news.ycombinator.com/item?id=42276672) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 * [2024-11-29, 19:03:39](https://news.ycombinator.com/item?id=42276155) - [US Houses Prices in 1950 vs. 2024 (Accounting for Inflation)](https://brilliantmaps.com/us-houses-prices-1950-2024/)
