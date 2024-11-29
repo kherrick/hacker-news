@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
+* [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 05:01:57](https://news.ycombinator.com/item?id=42270966) - [Australian Parliament bans social media for under-16s](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
 * [2024-11-29, 04:55:23](https://news.ycombinator.com/item?id=42270935) - [US antitrust watchdog launches broad Microsoft investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
 * [2024-11-29, 03:44:59](https://news.ycombinator.com/item?id=42270610) - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)

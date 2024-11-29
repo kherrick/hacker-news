@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
+* [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 05:06:11](https://news.ycombinator.com/item?id=42270991) - [Probable Predictors of Involuntary Singlehood](https://www.sciencedirect.com/science/article/abs/pii/S0191886923003458)
 * [2024-11-29, 05:01:57](https://news.ycombinator.com/item?id=42270966) - [Australian Parliament bans social media for under-16s with world-first law](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
 * [2024-11-29, 05:01:49](https://news.ycombinator.com/item?id=42270965) - [New report advises mental health support for 'incels'](https://www.bps.org.uk/psychologist/new-report-advises-mental-health-support-incels)
