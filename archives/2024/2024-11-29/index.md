@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 13:40:13](https://news.ycombinator.com/item?id=42273780) - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 * [2024-11-29, 13:18:35](https://news.ycombinator.com/item?id=42273650) - [NGI Projects adopt Mastodon and PeerTube as main communication channels](https://ngi.eu/news/2024/11/29/ngi-projects-adopt-mastodon-and-peertube-as-main-communication-channels/)
 * [2024-11-29, 12:52:51](https://news.ycombinator.com/item?id=42273505) - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
 * [2024-11-29, 12:25:55](https://news.ycombinator.com/item?id=42273361) - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
+* [2024-11-29, 12:23:26](https://news.ycombinator.com/item?id=42273349) - [Stowaway found after boarding flight from New York to Paris](https://www.nbcnews.com/news/us-news/stowaway-found-boarding-flight-new-york-paris-rcna182103)
 * [2024-11-29, 12:12:55](https://news.ycombinator.com/item?id=42273288) - [Finland, Sweden complete repairs on Baltic Sea cables](https://yle.fi/a/74-20128140)
 * [2024-11-29, 10:50:33](https://news.ycombinator.com/item?id=42272927) - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
 * [2024-11-29, 10:25:49](https://news.ycombinator.com/item?id=42272813) - [New Zealand Navy ship sank off Samoa because autopilot was left on, inquiry](https://www.theguardian.com/world/2024/nov/29/new-zealand-navy-ship-hmnzs-manawanui-sinking-autopilot-inquiry-ntwnfb)
