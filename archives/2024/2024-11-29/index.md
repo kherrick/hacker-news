@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
 * [2024-11-29, 19:03:39](https://news.ycombinator.com/item?id=42276155) - [US Houses Prices in 1950 vs. 2024 (Accounting for Inflation)](https://brilliantmaps.com/us-houses-prices-1950-2024/)
 * [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
@@ -27,6 +28,7 @@
 * [2024-11-29, 13:43:48](https://news.ycombinator.com/item?id=42273798) - [The Most Hated Way of Firing Someone, the PIP, Is More Popular Than Ever](https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062)
 * [2024-11-29, 13:40:13](https://news.ycombinator.com/item?id=42273780) - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 * [2024-11-29, 13:18:35](https://news.ycombinator.com/item?id=42273650) - [NGI Projects adopt Mastodon and PeerTube as main communication channels](https://ngi.eu/news/2024/11/29/ngi-projects-adopt-mastodon-and-peertube-as-main-communication-channels/)
+* [2024-11-29, 12:55:02](https://news.ycombinator.com/item?id=42273516) - [ASML Twinscan EXE:5000 Lego Set](https://asmlstore.com/products/twinscan-exe-5000-lego-set)
 * [2024-11-29, 12:52:51](https://news.ycombinator.com/item?id=42273505) - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
 * [2024-11-29, 12:25:55](https://news.ycombinator.com/item?id=42273361) - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
 * [2024-11-29, 12:23:26](https://news.ycombinator.com/item?id=42273349) - [Stowaway found after boarding flight from New York to Paris](https://www.nbcnews.com/news/us-news/stowaway-found-boarding-flight-new-york-paris-rcna182103)
