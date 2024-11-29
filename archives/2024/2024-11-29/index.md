@@ -6,7 +6,10 @@
 
 * [2024-11-29, 18:33:39](https://news.ycombinator.com/item?id=42275919) - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
 * [2024-11-29, 18:25:45](https://news.ycombinator.com/item?id=42275867) - [Show HN: A tool for kids to practice arithmetic](https://mathmonster.agiliq.com/)
+* [2024-11-29, 18:22:54](https://news.ycombinator.com/item?id=42275848) - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)
 * [2024-11-29, 18:21:55](https://news.ycombinator.com/item?id=42275834) - [Chinese pebble-bed nuclear reactor passes \"meltdown\" test](https://www.ans.org/news/article-6241/china-pebblebed-reactor-passes-meltdown-test/)
+* [2024-11-29, 18:15:31](https://news.ycombinator.com/item?id=42275784) - [Javier Milei: \"My contempt for the state is infinite\"](https://www.economist.com/leaders/2024/11/28/javier-milei-my-contempt-for-the-state-is-infinite)
+* [2024-11-29, 18:10:11](https://news.ycombinator.com/item?id=42275745) - [Buy Nothing Day](https://buynothingday.co.uk/)
 * [2024-11-29, 18:08:48](https://news.ycombinator.com/item?id=42275734) - [Speaking at PyTexas – CFP closes December 1, 2024](https://www.pytexas.org/2025/schedule/speaking/)
 * [2024-11-29, 18:06:20](https://news.ycombinator.com/item?id=42275716) - [Black Friday is a trap](https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs)
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)

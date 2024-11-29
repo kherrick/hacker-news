@@ -61,6 +61,7 @@
 * [2024-11-26, 11:44:54](https://news.ycombinator.com/item?id=42244851) - [Functional Programming Self-Affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-26, 11:38:11](https://news.ycombinator.com/item?id=42244814) - [A solution to The Onion problem of J. Kenji Lopez-Alt (2021)](https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c)
 * [2024-11-26, 11:33:50](https://news.ycombinator.com/item?id=42244791) - [Borgo Programming Language](https://borgo-lang.github.io/)
+* [2024-11-26, 11:02:55](https://news.ycombinator.com/item?id=42244609) - [Oldest US firearm unearthed in Arizona, a bronze cannon linked to Coronado](https://phys.org/news/2024-11-oldest-firearm-unearthed-arizona-bronze.html)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize Work at the Task Level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)
 * [2024-11-26, 09:45:40](https://news.ycombinator.com/item?id=42244093) - [Git-crypt – transparent file encryption in Git](https://www.agwa.name/projects/git-crypt/)
