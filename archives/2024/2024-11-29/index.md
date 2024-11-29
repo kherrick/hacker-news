@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 10:50:33](https://news.ycombinator.com/item?id=42272927) - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
+* [2024-11-29, 10:25:49](https://news.ycombinator.com/item?id=42272813) - [New Zealand Navy ship sank off Samoa because autopilot was left on, inquiry](https://www.theguardian.com/world/2024/nov/29/new-zealand-navy-ship-hmnzs-manawanui-sinking-autopilot-inquiry-ntwnfb)
 * [2024-11-29, 10:01:57](https://news.ycombinator.com/item?id=42272707) - [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)
 * [2024-11-29, 09:08:09](https://news.ycombinator.com/item?id=42272369) - [For the love of God, make your own website](https://aftermath.site/website-musk-twitter-facebook-internet)
 * [2024-11-29, 09:03:41](https://news.ycombinator.com/item?id=42272351) - ['PDF to Brainrot' study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
