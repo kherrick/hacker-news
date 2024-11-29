@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 04:46:36](https://news.ycombinator.com/item?id=42270893) - [An updated record of Tesla fatalities and Tesla accident deaths](https://www.tesladeaths.com)
+* [2024-11-29, 03:44:59](https://news.ycombinator.com/item?id=42270610) - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
 * [2024-11-29, 02:50:59](https://news.ycombinator.com/item?id=42270378) - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 02:45:39](https://news.ycombinator.com/item?id=42270348) - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 * [2024-11-29, 01:09:33](https://news.ycombinator.com/item?id=42269925) - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)

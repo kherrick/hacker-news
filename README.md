@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-29, 04:46:36](https://news.ycombinator.com/item?id=42270893) - [An updated record of Tesla fatalities and Tesla accident deaths](https://www.tesladeaths.com)
+* [2024-11-29, 03:44:59](https://news.ycombinator.com/item?id=42270610) - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
 * [2024-11-29, 02:50:59](https://news.ycombinator.com/item?id=42270378) - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 02:45:39](https://news.ycombinator.com/item?id=42270348) - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
 * [2024-11-29, 01:09:33](https://news.ycombinator.com/item?id=42269925) - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
@@ -9,7 +11,6 @@
 * [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 * [2024-11-28, 20:54:26](https://news.ycombinator.com/item?id=42268461) - [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
-* [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-28, 15:18:57](https://news.ycombinator.com/item?id=42265817) - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A pretty visualisation of the European power grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
@@ -19,7 +20,6 @@
 * [2024-11-28, 07:49:54](https://news.ycombinator.com/item?id=42263383) - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 * [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A washing machine for human beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
-* [2024-11-27, 23:59:38](https://news.ycombinator.com/item?id=42261053) - [MIT Aluminum Bicycle Project 1974 (2016)](https://www.sheldonbrown.com/AluminumBikeProject.html)
 * [2024-11-27, 22:33:21](https://news.ycombinator.com/item?id=42260481) - [Spotify has shut down several API endpoints](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api)
 * [2024-11-27, 21:36:38](https://news.ycombinator.com/item?id=42260027) - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 * [2024-11-27, 20:00:25](https://news.ycombinator.com/item?id=42259184) - [QwQ: Alibaba's O1-like reasoning LLM](https://qwenlm.github.io/blog/qwq-32b-preview/)
