@@ -42,6 +42,7 @@
 * [2024-11-26, 15:29:55](https://news.ycombinator.com/item?id=42246596) - [Qodo Merge integration with Jira — ensure code complies with ticket](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-26, 15:09:35](https://news.ycombinator.com/item?id=42246416) - [A Furious, Forgotten Slave Narrative Resurfaces After Nearly 170 Years](https://www.nytimes.com/2024/05/23/arts/john-jacobs-slavery-discovery.html)
 * [2024-11-26, 14:59:08](https://news.ycombinator.com/item?id=42246333) - [Stack Overflow Does Not Want to Help You](https://stackoverflow-makes-me-sad.bearblog.dev/stack-overflow-does-not-want-to-help-you/)
+* [2024-11-26, 14:14:30](https://news.ycombinator.com/item?id=42245927) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
 * [2024-11-26, 14:13:18](https://news.ycombinator.com/item?id=42245916) - [Judge blocks Louisiana law that requires classrooms to display Ten Commandments](https://apnews.com/article/ten-commandments-law-blocked-public-schools-louisiana-87b3dde94e583fdbb9ecb26db42b0206)
 * [2024-11-26, 13:34:50](https://news.ycombinator.com/item?id=42245574) - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 * [2024-11-26, 13:33:35](https://news.ycombinator.com/item?id=42245562) - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
