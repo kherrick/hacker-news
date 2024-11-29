@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 14:55:27](https://news.ycombinator.com/item?id=42274282) - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 13:40:13](https://news.ycombinator.com/item?id=42273780) - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 * [2024-11-29, 13:18:35](https://news.ycombinator.com/item?id=42273650) - [NGI Projects adopt Mastodon and PeerTube as main communication channels](https://ngi.eu/news/2024/11/29/ngi-projects-adopt-mastodon-and-peertube-as-main-communication-channels/)
