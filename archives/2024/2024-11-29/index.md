@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
 * [2024-11-29, 09:08:09](https://news.ycombinator.com/item?id=42272369) - [For the love of God, make your own website](https://aftermath.site/website-musk-twitter-facebook-internet)
+* [2024-11-29, 09:03:41](https://news.ycombinator.com/item?id=42272351) - ['PDF to Brainrot' study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
 * [2024-11-29, 07:53:42](https://news.ycombinator.com/item?id=42271864) - [I Did Not Go to Jail (2014)](https://a16z.com/why-i-did-not-go-to-jail/)
 * [2024-11-29, 07:15:20](https://news.ycombinator.com/item?id=42271636) - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
 * [2024-11-29, 05:25:32](https://news.ycombinator.com/item?id=42271078) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
