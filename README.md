@@ -17,7 +17,6 @@
 * [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 02:54:00](https://news.ycombinator.com/item?id=42270389) - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
-* [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-26, 12:13:49](https://news.ycombinator.com/item?id=42245003) - [How fast does Java compile?](https://mill-build.org/mill/comparisons/java-compile.html)
@@ -29,6 +28,7 @@
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
+* [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
 * [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
 
 ## [Archives](archives/index.md)
