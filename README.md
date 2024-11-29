@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-29, 01:09:33](https://news.ycombinator.com/item?id=42269925) - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+* [2024-11-29, 00:26:23](https://news.ycombinator.com/item?id=42269691) - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
-* [2024-11-28, 22:02:12](https://news.ycombinator.com/item?id=42268819) - [Goodbye, Rust. I wish you success but I'm back to C++ (sorry, it is a rant)](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
 * [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 * [2024-11-28, 21:16:44](https://news.ycombinator.com/item?id=42268579) - [The Denver OWASP Chapter is proud to present SnowFROC '25](https://snowfroc.com/)
 * [2024-11-28, 20:56:05](https://news.ycombinator.com/item?id=42268475) - [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
