@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 19:42:21](https://news.ycombinator.com/item?id=42283549) - [Rust Solves the Issues with Exceptions](https://home.expurple.me/posts/rust-solves-the-issues-with-exceptions/)
 * [2024-11-30, 18:29:04](https://news.ycombinator.com/item?id=42283155) - [Instagram actively helping spread of self-harm among teenagers, study finds](https://www.theguardian.com/technology/2024/nov/30/instagram-actively-helping-to-spread-of-self-harm-among-teenagers-study-suggests)
 * [2024-11-30, 18:22:41](https://news.ycombinator.com/item?id=42283123) - ['I couldn't stop watching': stories of how porn obsession takes over lives](https://www.bbc.com/news/articles/cg57r337rvzo)
+* [2024-11-30, 17:23:22](https://news.ycombinator.com/item?id=42282761) - [NASA's X-59 plane is aiming for a sonic thump, not a boom](https://www.theregister.com/2024/11/30/nasa_x59_aircraft/)
 * [2024-11-30, 17:21:09](https://news.ycombinator.com/item?id=42282733) - [Solar is the fastest-growing energy technology in history](https://bsky.app/profile/rarohde.bsky.social/post/3lb7sxiomt22q)
 * [2024-11-30, 17:19:27](https://news.ycombinator.com/item?id=42282717) - [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
 * [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How Honeycrisp Apples Went from Marvel to Mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)

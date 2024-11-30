@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 19:42:21](https://news.ycombinator.com/item?id=42283549) - [Rust Solves the Issues with Exceptions](https://home.expurple.me/posts/rust-solves-the-issues-with-exceptions/)
+* [2024-11-30, 17:23:22](https://news.ycombinator.com/item?id=42282761) - [NASA's X-59 plane is aiming for a sonic thump, not a boom](https://www.theregister.com/2024/11/30/nasa_x59_aircraft/)
 * [2024-11-30, 17:19:27](https://news.ycombinator.com/item?id=42282717) - [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
 * [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How honeycrisp apples went from marvel to mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
@@ -19,10 +21,8 @@
 * [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 * [2024-11-29, 16:12:15](https://news.ycombinator.com/item?id=42274807) - [Archaeometallurgical investigation of the Nebra Sky Disc](https://www.nature.com/articles/s41598-024-80545-5)
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
-* [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
-* [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
