@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-30, 17:21:09](https://news.ycombinator.com/item?id=42282733) - [Solar is the fastest-growing energy technology in history](https://bsky.app/profile/rarohde.bsky.social/post/3lb7sxiomt22q)
+* [2024-11-30, 18:22:41](https://news.ycombinator.com/item?id=42283123) - ['I couldn't stop watching': stories of how porn obsession takes over lives](https://www.bbc.com/news/articles/cg57r337rvzo)
 * [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How Honeycrisp Apples Went from Marvel to Mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
@@ -13,7 +13,6 @@
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
-* [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:57:33](https://news.ycombinator.com/item?id=42277482) - [The Revised SI of physical units (2019), Max Planck (1900), and 'Planck scale'](https://osf.io/hzntw/)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
@@ -23,6 +22,7 @@
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
+* [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
