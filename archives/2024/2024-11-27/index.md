@@ -60,6 +60,7 @@
 * [2024-11-27, 11:11:52](https://news.ycombinator.com/item?id=42255092) - [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 10:36:00](https://news.ycombinator.com/item?id=42254870) - [Show HN: AutoPiP – Safari extension for automatic Picture-in-Picture mode](https://github.com/vordenken/AutoPiP)
+* [2024-11-27, 10:19:40](https://news.ycombinator.com/item?id=42254769) - [How to print your Guild Wars 2 character](https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/)
 * [2024-11-27, 09:23:46](https://news.ycombinator.com/item?id=42254434) - [Show HN: ColoringsAI – Custom Coloring Pages from Ideas (My Daughter's Idea)](https://www.coloringsai.com/en)
 * [2024-11-27, 09:23:36](https://news.ycombinator.com/item?id=42254433) - [Ask HN: What's the best app for Android device automation?](https://news.ycombinator.com/item?id=42254433)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)

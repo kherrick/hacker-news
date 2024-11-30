@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-30, 19:42:21](https://news.ycombinator.com/item?id=42283549) - [Rust Solves the Issues with Exceptions](https://home.expurple.me/posts/rust-solves-the-issues-with-exceptions/)
 * [2024-11-30, 17:19:27](https://news.ycombinator.com/item?id=42282717) - [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
 * [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How honeycrisp apples went from marvel to mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
@@ -21,6 +20,7 @@
 * [2024-11-29, 16:12:15](https://news.ycombinator.com/item?id=42274807) - [Archaeometallurgical investigation of the Nebra Sky Disc](https://www.nature.com/articles/s41598-024-80545-5)
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
+* [2024-11-27, 10:19:40](https://news.ycombinator.com/item?id=42254769) - [How to print your Guild Wars 2 character](https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
