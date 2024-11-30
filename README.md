@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
+* [2024-11-30, 02:30:44](https://news.ycombinator.com/item?id=42278916) - [The Quake III Arena Bot (2001) [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
 * [2024-11-30, 01:12:36](https://news.ycombinator.com/item?id=42278617) - [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 * [2024-11-29, 23:48:53](https://news.ycombinator.com/item?id=42278160) - [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
@@ -25,7 +26,6 @@
 * [2024-11-29, 02:54:00](https://news.ycombinator.com/item?id=42270389) - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-26, 10:30:04](https://news.ycombinator.com/item?id=42244409) - [Rust: Tools (early access edition)](https://bitfieldconsulting.com/books/rust-tools)
-* [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-25, 15:35:20](https://news.ycombinator.com/item?id=42237107) - [Show HN: It took me 5() months to build a Plausible alternative](https://news.ycombinator.com/item?id=42237107)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
