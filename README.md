@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
+* [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee (2008)](https://sive.rs/berklee)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
@@ -24,7 +24,7 @@
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps acquiring Pixelmator is about competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-* [2024-11-25, 15:35:20](https://news.ycombinator.com/item?id=42237107) - [Show HN: It took me 5() months to build a Plausible alternative](https://news.ycombinator.com/item?id=42237107)
+* [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-23, 22:47:28](https://news.ycombinator.com/item?id=42224535) - [Long Fatigue: The exhaustion that lingers after an infection](https://www.bbc.com/future/article/20241119-long-fatigue-the-exhaustion-that-lingers-after-an-infection)
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
 * [2024-11-22, 21:45:17](https://news.ycombinator.com/item?id=42217617) - [Transposing Tensor Files](https://mmapped.blog/posts/33-transposing-tensor-files)
