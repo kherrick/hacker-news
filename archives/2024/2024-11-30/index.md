@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How Honeycrisp Apples Went from Marvel to Mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 * [2024-11-30, 16:30:56](https://news.ycombinator.com/item?id=42282392) - [Simple Supplement That Causes Prostate Cancer Cells to Self-Destruct](https://scitechdaily.com/scientists-have-discovered-a-simple-supplement-that-causes-prostate-cancer-cells-to-self-destruct/)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 15:23:39](https://news.ycombinator.com/item?id=42282078) - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
