@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 15:11:06](https://news.ycombinator.com/item?id=42282020) - [I made an AI specifically for teachers](https://assignly.app/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
@@ -22,7 +23,6 @@
 * [2024-11-27, 04:59:43](https://news.ycombinator.com/item?id=42253062) - [Kitagawa Utamaro Japanese Painter](https://www.theartstory.org/artist/utamaro-kitagawa/)
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
-* [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-25, 11:49:34](https://news.ycombinator.com/item?id=42235452) - [Institutional memory and reverse smuggling (2011)](https://landley.net/history/mirror/institutional_memory.html)
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
