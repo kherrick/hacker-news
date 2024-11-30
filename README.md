@@ -27,9 +27,9 @@
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
+* [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
 * [2024-11-22, 23:01:54](https://news.ycombinator.com/item?id=42218073) - [$2000-$3fff &D (2014)](https://csdb.dk/release/?id=135463)
-* [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
 
 ## [Archives](archives/index.md)
 
