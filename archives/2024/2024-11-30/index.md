@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 22:38:13](https://news.ycombinator.com/item?id=42284563) - [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
 * [2024-11-30, 22:36:03](https://news.ycombinator.com/item?id=42284553) - [\"Silicon Valley Is Turning into Its Own Worst Fear\" Ted Chiang (2017)](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
 * [2024-11-30, 22:23:37](https://news.ycombinator.com/item?id=42284467) - [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
 * [2024-11-30, 21:31:55](https://news.ycombinator.com/item?id=42284173) - [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
