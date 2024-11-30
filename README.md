@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 04:46:46](https://news.ycombinator.com/item?id=42279521) - ['Switches' are turning handguns into machine guns on Ontario streets](https://www.cbc.ca/lite/story/1.7389625)
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
-* [2024-11-30, 01:12:36](https://news.ycombinator.com/item?id=42278617) - [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+* [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 20:49:28](https://news.ycombinator.com/item?id=42276995) - [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
@@ -29,7 +30,6 @@
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
 * [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
-* [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
 
 ## [Archives](archives/index.md)
 
