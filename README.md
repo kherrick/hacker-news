@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-30, 12:00:57](https://news.ycombinator.com/item?id=42281066) - [Tesla Is Looking to Hire a Team to Remotely Control Its 'Self-Driving' Robotaxis](https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600)
+* [2024-11-30, 11:52:19](https://news.ycombinator.com/item?id=42281040) - [US War Department 1945 // Army Talk Orientation Fact Sheet #64 – Fascism](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism)
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
 * [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee (2008)](https://sive.rs/berklee)
 * [2024-11-30, 09:46:05](https://news.ycombinator.com/item?id=42280641) - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
@@ -19,7 +20,6 @@
 * [2024-11-29, 16:12:15](https://news.ycombinator.com/item?id=42274807) - [Archaeometallurgical investigation of the Nebra Sky Disc](https://www.nature.com/articles/s41598-024-80545-5)
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
-* [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 * [2024-11-27, 09:23:36](https://news.ycombinator.com/item?id=42254433) - [Ask HN: What's the best app for Android device automation?](https://news.ycombinator.com/item?id=42254433)
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-26, 11:34:30](https://news.ycombinator.com/item?id=42244793) - [Apollo Operations Handbook [pdf]](https://www.ibiblio.org/apollo/Documents/SM2A-03-SC012-ApolloOperationsHandbook-Spacecraft012.pdf)
