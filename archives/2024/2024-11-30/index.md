@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 22:36:03](https://news.ycombinator.com/item?id=42284553) - [\"Silicon Valley Is Turning into Its Own Worst Fear\" Ted Chiang (2017)](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
+* [2024-11-30, 22:23:37](https://news.ycombinator.com/item?id=42284467) - [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
 * [2024-11-30, 21:31:55](https://news.ycombinator.com/item?id=42284173) - [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
 * [2024-11-30, 21:06:41](https://news.ycombinator.com/item?id=42284035) - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
+* [2024-11-30, 20:49:39](https://news.ycombinator.com/item?id=42283949) - [Bluesky Quadruples Moderation Team](https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
 * [2024-11-30, 19:42:21](https://news.ycombinator.com/item?id=42283549) - [Rust Solves the Issues with Exceptions](https://home.expurple.me/posts/rust-solves-the-issues-with-exceptions/)
 * [2024-11-30, 18:29:04](https://news.ycombinator.com/item?id=42283155) - [Instagram actively helping spread of self-harm among teenagers, study finds](https://www.theguardian.com/technology/2024/nov/30/instagram-actively-helping-to-spread-of-self-harm-among-teenagers-study-suggests)
