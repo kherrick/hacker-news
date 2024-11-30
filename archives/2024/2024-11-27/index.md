@@ -60,6 +60,7 @@
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 10:36:00](https://news.ycombinator.com/item?id=42254870) - [Show HN: AutoPiP – Safari extension for automatic Picture-in-Picture mode](https://github.com/vordenken/AutoPiP)
 * [2024-11-27, 09:23:46](https://news.ycombinator.com/item?id=42254434) - [Show HN: ColoringsAI – Custom Coloring Pages from Ideas (My Daughter's Idea)](https://www.coloringsai.com/en)
+* [2024-11-27, 09:23:36](https://news.ycombinator.com/item?id=42254433) - [Ask HN: What's the best app for Android device automation?](https://news.ycombinator.com/item?id=42254433)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-27, 08:50:47](https://news.ycombinator.com/item?id=42254236) - [Accelerated Jax on Mac](https://developer.apple.com/metal/jax/)
