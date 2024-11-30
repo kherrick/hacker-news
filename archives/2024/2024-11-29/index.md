@@ -7,6 +7,7 @@
 * [2024-11-29, 23:48:53](https://news.ycombinator.com/item?id=42278160) - [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 * [2024-11-29, 23:13:57](https://news.ycombinator.com/item?id=42277963) - [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)
+* [2024-11-29, 23:07:55](https://news.ycombinator.com/item?id=42277931) - [Bluesky intends their indexing to be used by third parties](https://write.as/ulrikehahn/bridging-to-bluesky-the-open-social-web-consent-and-gdpr)
 * [2024-11-29, 23:07:24](https://news.ycombinator.com/item?id=42277925) - [Brick and Mortar Triangle Fraud](https://getcho.app/blog/triangle-fraud-brick-mortar/)
 * [2024-11-29, 22:26:43](https://news.ycombinator.com/item?id=42277673) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
