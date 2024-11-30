@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:46:46](https://news.ycombinator.com/item?id=42279521) - ['Switches' are turning handguns into machine guns on Ontario streets](https://www.cbc.ca/lite/story/1.7389625)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
