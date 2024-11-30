@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
+* [2024-11-30, 03:29:24](https://news.ycombinator.com/item?id=42279145) - [Googling Is for Old People. That's a Problem for Google](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed)
 * [2024-11-30, 03:05:16](https://news.ycombinator.com/item?id=42279055) - [Wasabi (S3 Storage) is down](https://status.wasabi.com)
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 * [2024-11-30, 02:30:44](https://news.ycombinator.com/item?id=42278916) - [The Quake III Arena Bot (2001) [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
@@ -24,7 +25,6 @@
 * [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 02:54:00](https://news.ycombinator.com/item?id=42270389) - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
-* [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
 * [2024-11-27, 04:59:43](https://news.ycombinator.com/item?id=42253062) - [Kitagawa Utamaro Japanese Painter](https://www.theartstory.org/artist/utamaro-kitagawa/)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
