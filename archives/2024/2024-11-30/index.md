@@ -8,6 +8,7 @@
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:46:46](https://news.ycombinator.com/item?id=42279521) - ['Switches' are turning handguns into machine guns on Ontario streets](https://www.cbc.ca/lite/story/1.7389625)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+* [2024-11-30, 04:26:13](https://news.ycombinator.com/item?id=42279418) - [Calculating the largest known prime in Ruby](https://jpcamara.com/2024/11/26/looking-to-impress.html)
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 03:29:24](https://news.ycombinator.com/item?id=42279145) - [Googling Is for Old People. That's a Problem for Google](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed)
 * [2024-11-30, 03:24:28](https://news.ycombinator.com/item?id=42279126) - [Cause of rare devastating, autoimmune disease in Puerto Ricans–and possible cure](https://medicalxpress.com/news/2024-11-scientists-rare-devastating-autoimmune-disease.html)

@@ -3,6 +3,7 @@
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+* [2024-11-30, 04:26:13](https://news.ycombinator.com/item?id=42279418) - [Calculating the largest known prime in Ruby](https://jpcamara.com/2024/11/26/looking-to-impress.html)
 * [2024-11-30, 03:24:28](https://news.ycombinator.com/item?id=42279126) - [Cause of rare devastating, autoimmune disease in Puerto Ricans–and possible cure](https://medicalxpress.com/news/2024-11-scientists-rare-devastating-autoimmune-disease.html)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
@@ -29,7 +30,6 @@
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
 * [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
-* [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
 
 ## [Archives](archives/index.md)
 
