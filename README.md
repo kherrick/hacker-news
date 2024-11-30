@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 16:30:56](https://news.ycombinator.com/item?id=42282392) - [Simple Supplement That Causes Prostate Cancer Cells to Self-Destruct](https://scitechdaily.com/scientists-have-discovered-a-simple-supplement-that-causes-prostate-cancer-cells-to-self-destruct/)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 15:23:39](https://news.ycombinator.com/item?id=42282078) - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 14:19:05](https://news.ycombinator.com/item?id=42281755) - [The Story of Nel](https://www.deusinmachina.net/p/the-story-of-nel)
-* [2024-11-30, 13:25:29](https://news.ycombinator.com/item?id=42281487) - [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
