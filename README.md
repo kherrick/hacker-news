@@ -2,6 +2,7 @@
 
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 15:23:39](https://news.ycombinator.com/item?id=42282078) - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
+* [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 13:25:29](https://news.ycombinator.com/item?id=42281487) - [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
@@ -10,7 +11,6 @@
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
-* [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:57:33](https://news.ycombinator.com/item?id=42277482) - [The Revised SI of physical units (2019), Max Planck (1900), and 'Planck scale'](https://osf.io/hzntw/)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
