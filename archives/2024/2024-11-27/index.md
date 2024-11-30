@@ -61,6 +61,7 @@
 * [2024-11-27, 10:36:00](https://news.ycombinator.com/item?id=42254870) - [Show HN: AutoPiP – Safari extension for automatic Picture-in-Picture mode](https://github.com/vordenken/AutoPiP)
 * [2024-11-27, 09:23:46](https://news.ycombinator.com/item?id=42254434) - [Show HN: ColoringsAI – Custom Coloring Pages from Ideas (My Daughter's Idea)](https://www.coloringsai.com/en)
 * [2024-11-27, 09:15:41](https://news.ycombinator.com/item?id=42254379) - [Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
+* [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-27, 08:50:47](https://news.ycombinator.com/item?id=42254236) - [Accelerated Jax on Mac](https://developer.apple.com/metal/jax/)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
