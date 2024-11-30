@@ -10,6 +10,7 @@
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the most of your burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
+* [2024-11-30, 05:47:35](https://news.ycombinator.com/item?id=42279829) - [Show HN: SurveyMoji – An easy way to get realtime feedback with a link/QR code](https://surveymoji.com)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If not React, then what?](https://infrequently.org/2024/11/if-not-react-then-what/)
@@ -29,7 +30,6 @@
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
 * [2024-11-22, 23:01:54](https://news.ycombinator.com/item?id=42218073) - [$2000-$3fff &D (2014)](https://csdb.dk/release/?id=135463)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
-* [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 
 ## [Archives](archives/index.md)
 
