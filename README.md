@@ -26,8 +26,8 @@
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-27, 12:33:25](https://news.ycombinator.com/item?id=42255547) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 * [2024-11-27, 10:19:40](https://news.ycombinator.com/item?id=42254769) - [How to print your Guild Wars 2 character](https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/)
+* [2024-11-27, 08:32:54](https://news.ycombinator.com/item?id=42254146) - [IE7 and IE7 (2005)](https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
-* [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 * [2024-11-22, 23:01:54](https://news.ycombinator.com/item?id=42218073) - [$2000-$3fff &D (2014)](https://csdb.dk/release/?id=135463)
 

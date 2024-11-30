@@ -68,6 +68,7 @@
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-27, 08:50:47](https://news.ycombinator.com/item?id=42254236) - [Accelerated Jax on Mac](https://developer.apple.com/metal/jax/)
 * [2024-11-27, 08:34:35](https://news.ycombinator.com/item?id=42254156) - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
+* [2024-11-27, 08:32:54](https://news.ycombinator.com/item?id=42254146) - [IE7 and IE7 (2005)](https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 08:16:48](https://news.ycombinator.com/item?id=42254068) - [Shields is 10 years old (2023)](https://github.com/badges/shields/discussions/8867)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
