@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 12:42:02](https://news.ycombinator.com/item?id=42281256) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 * [2024-11-30, 12:00:57](https://news.ycombinator.com/item?id=42281066) - [Tesla Is Looking to Hire a Team to Remotely Control Its 'Self-Driving' Robotaxis](https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600)
 * [2024-11-30, 11:52:19](https://news.ycombinator.com/item?id=42281040) - [US War Department 1945 // Army Talk Orientation Fact Sheet #64 – Fascism](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism)
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
@@ -12,6 +13,7 @@
 * [2024-11-30, 08:23:42](https://news.ycombinator.com/item?id=42280343) - [The anxiolytic effects of resistance exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC4090891/)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
+* [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:46:46](https://news.ycombinator.com/item?id=42279521) - ['Switches' are turning handguns into machine guns on Ontario streets](https://www.cbc.ca/lite/story/1.7389625)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
