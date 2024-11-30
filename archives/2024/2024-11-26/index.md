@@ -12,6 +12,7 @@
 * [2024-11-26, 21:45:10](https://news.ycombinator.com/item?id=42250400) - [FCC Grants SpaceX Right to Some Direct-to-Cellular Operations [pdf]](https://docs.fcc.gov/public/attachments/DA-24-1193A1.pdf)
 * [2024-11-26, 21:30:01](https://news.ycombinator.com/item?id=42250254) - [Amazon tripled prices for the basic tier of their auth service Cognito](https://saasprices.net/blog/aws-price-rise)
 * [2024-11-26, 21:28:18](https://news.ycombinator.com/item?id=42250243) - [OpenAI's Sora Tool Leaked by Group of Aggrieved Early Testers](https://www.forbes.com/sites/moinroberts-islam/2024/11/26/openais-sora-tool-leaked-by-group-of-aggrieved-early-testers/)
+* [2024-11-26, 20:37:27](https://news.ycombinator.com/item?id=42249801) - [California scientists accidentally find nuclear fever dream in Arctic snow](https://www.sfgate.com/bayarea/article/california-researchers-abandoned-military-site-19944337.php)
 * [2024-11-26, 20:36:17](https://news.ycombinator.com/item?id=42249790) - [D-Link says it won't patch 60k older modems](https://www.techradar.com/pro/security/d-link-says-it-wont-patch-60-000-older-modems-as-theyre-not-worth-saving)
 * [2024-11-26, 20:36:17](https://news.ycombinator.com/item?id=42249790) - [D-Link says \"just buy a new router\" after 9.8 critical vulnerability [video]](https://www.youtube.com/watch?v=52v6gKPA4TM)
 * [2024-11-26, 20:33:56](https://news.ycombinator.com/item?id=42249763) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
