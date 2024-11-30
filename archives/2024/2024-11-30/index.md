@@ -11,6 +11,7 @@
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
 * [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
 * [2024-11-30, 09:46:05](https://news.ycombinator.com/item?id=42280641) - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
+* [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 08:23:42](https://news.ycombinator.com/item?id=42280343) - [The anxiolytic effects of resistance exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC4090891/)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
