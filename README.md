@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 * [2024-11-30, 04:26:13](https://news.ycombinator.com/item?id=42279418) - [Calculating the largest known prime in Ruby](https://jpcamara.com/2024/11/26/looking-to-impress.html)
@@ -18,7 +19,6 @@
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-27, 04:59:43](https://news.ycombinator.com/item?id=42253062) - [Kitagawa Utamaro Japanese Painter](https://www.theartstory.org/artist/utamaro-kitagawa/)
 * [2024-11-26, 11:34:30](https://news.ycombinator.com/item?id=42244793) - [Apollo Operations Handbook [pdf]](https://www.ibiblio.org/apollo/Documents/SM2A-03-SC012-ApolloOperationsHandbook-Spacecraft012.pdf)
-* [2024-11-26, 11:33:50](https://news.ycombinator.com/item?id=42244791) - [Borgo Programming Language](https://borgo-lang.github.io/)
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-25, 20:39:03](https://news.ycombinator.com/item?id=42239940) - [Perhaps acquiring Pixelmator is about competing with Creative Cloud](https://daringfireball.net/linked/2024/11/25/apple-creative-cloud)
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
