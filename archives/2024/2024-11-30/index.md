@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 18:29:04](https://news.ycombinator.com/item?id=42283155) - [Instagram actively helping spread of self-harm among teenagers, study finds](https://www.theguardian.com/technology/2024/nov/30/instagram-actively-helping-to-spread-of-self-harm-among-teenagers-study-suggests)
 * [2024-11-30, 18:22:41](https://news.ycombinator.com/item?id=42283123) - ['I couldn't stop watching': stories of how porn obsession takes over lives](https://www.bbc.com/news/articles/cg57r337rvzo)
 * [2024-11-30, 17:21:09](https://news.ycombinator.com/item?id=42282733) - [Solar is the fastest-growing energy technology in history](https://bsky.app/profile/rarohde.bsky.social/post/3lb7sxiomt22q)
 * [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [How Honeycrisp Apples Went from Marvel to Mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
