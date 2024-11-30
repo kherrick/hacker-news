@@ -9,6 +9,7 @@
 * [2024-11-23, 23:30:39](https://news.ycombinator.com/item?id=42224719) - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
 * [2024-11-23, 23:22:45](https://news.ycombinator.com/item?id=42224685) - [CDC Confirms H5N1 Bird Flu Infection in Californa Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
 * [2024-11-23, 23:18:51](https://news.ycombinator.com/item?id=42224670) - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
+* [2024-11-23, 22:47:28](https://news.ycombinator.com/item?id=42224535) - [Long Fatigue: The exhaustion that lingers after an infection](https://www.bbc.com/future/article/20241119-long-fatigue-the-exhaustion-that-lingers-after-an-infection)
 * [2024-11-23, 22:21:56](https://news.ycombinator.com/item?id=42224398) - [Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
 * [2024-11-23, 22:11:22](https://news.ycombinator.com/item?id=42224330) - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 * [2024-11-23, 22:08:54](https://news.ycombinator.com/item?id=42224319) - [Firefox DevTools Network Tab: How to filter requests by properties](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/#filtering-by-properties)
