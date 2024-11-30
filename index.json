@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-30, 20:50:08",
+      "https://news.ycombinator.com/item?id=42283950"
+    ],
+    [
+      "Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs",
+      "https://github.com/maharmstone/ntfs2btrfs"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 20:47:35",
+      "https://news.ycombinator.com/item?id=42283933"
+    ],
+    [
+      "AMD Disables Zen 4's Loop Buffer",
+      "https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 17:19:27",
       "https://news.ycombinator.com/item?id=42282717"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-11-29, 23:47:19",
-      "https://news.ycombinator.com/item?id=42278148"
-    ],
-    [
-      "NASA's Europa Clipper: Miles Down, Instruments Deploying",
-      "https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 22:54:12",
       "https://news.ycombinator.com/item?id=42277850"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2024-11-28, 23:03:47",
-      "https://news.ycombinator.com/item?id=42269227"
+      "2024-11-27, 12:33:25",
+      "https://news.ycombinator.com/item?id=42255547"
     ],
     [
-      "Engineers do not get to make startup mistakes when they build ledgers",
-      "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup"
+      "Structured Editing and Incremental Parsing",
+      "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Opposite of Documentation is Superstition (2020)",
       "https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 10:16:13",
-      "https://news.ycombinator.com/item?id=42244326"
-    ],
-    [
-      "Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking",
-      "https://yangchris11.github.io/samurai/"
     ]
   ],
   [
