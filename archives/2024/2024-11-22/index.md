@@ -9,6 +9,7 @@
 * [2024-11-22, 23:10:18](https://news.ycombinator.com/item?id=42218130) - [Remembering Cyberia, the First Ever Cyber Cafe](https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/)
 * [2024-11-22, 22:49:56](https://news.ycombinator.com/item?id=42218004) - [Wikipedia's Islamist Vandals](https://americandreaming.substack.com/p/wikipedias-islamist-vandals)
 * [2024-11-22, 22:43:18](https://news.ycombinator.com/item?id=42217963) - [Creating a social photo frame from scratch](https://insignificantdatascience.substack.com/p/creating-a-custom-social-photo-frame)
+* [2024-11-22, 21:45:17](https://news.ycombinator.com/item?id=42217617) - [Transposing Tensor Files](https://mmapped.blog/posts/33-transposing-tensor-files)
 * [2024-11-22, 21:31:51](https://news.ycombinator.com/item?id=42217535) - [RGFW: Single-header C99 window abstraction library](https://github.com/ColleagueRiley/RGFW)
 * [2024-11-22, 21:27:43](https://news.ycombinator.com/item?id=42217504) - [Ask HN: To those with successful browser extension(s), how did you grow it?](https://news.ycombinator.com/item?id=42217504)
 * [2024-11-22, 21:24:19](https://news.ycombinator.com/item?id=42217484) - [Against the Dark Forest](https://www.wrecka.ge/against-the-dark-forest/)

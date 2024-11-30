@@ -15,7 +15,6 @@
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-28, 23:03:47](https://news.ycombinator.com/item?id=42269227) - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
-* [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-27, 09:12:18](https://news.ycombinator.com/item?id=42254359) - [DeepThought-8B: A small, capable reasoning model](https://www.ruliad.co/news/introducing-deepthought8b)
 * [2024-11-27, 04:59:43](https://news.ycombinator.com/item?id=42253062) - [Kitagawa Utamaro Japanese Painter](https://www.theartstory.org/artist/utamaro-kitagawa/)
 * [2024-11-26, 11:34:30](https://news.ycombinator.com/item?id=42244793) - [Apollo Operations Handbook [pdf]](https://www.ibiblio.org/apollo/Documents/SM2A-03-SC012-ApolloOperationsHandbook-Spacecraft012.pdf)
@@ -28,6 +27,7 @@
 * [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-23, 22:47:28](https://news.ycombinator.com/item?id=42224535) - [Long Fatigue: The exhaustion that lingers after an infection](https://www.bbc.com/future/article/20241119-long-fatigue-the-exhaustion-that-lingers-after-an-infection)
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
+* [2024-11-22, 21:45:17](https://news.ycombinator.com/item?id=42217617) - [Transposing Tensor Files](https://mmapped.blog/posts/33-transposing-tensor-files)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
 * [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 
