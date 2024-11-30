@@ -39,6 +39,7 @@
 * [2024-11-25, 15:51:59](https://news.ycombinator.com/item?id=42237258) - [Show HN: Minimal, customizable new tab for Chrome/Firefox](https://www.flowtide.app)
 * [2024-11-25, 15:41:22](https://news.ycombinator.com/item?id=42237166) - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
 * [2024-11-25, 15:37:58](https://news.ycombinator.com/item?id=42237131) - [WasmCloud makes strides with WASM component model](https://www.techtarget.com/searchitoperations/news/366616278/WasmCloud-makes-strides-with-Wasm-component-model)
+* [2024-11-25, 15:35:20](https://news.ycombinator.com/item?id=42237107) - [Show HN: It took me 5() months to build a Plausible alternative](https://news.ycombinator.com/item?id=42237107)
 * [2024-11-25, 15:10:09](https://news.ycombinator.com/item?id=42236903) - [A new start after 60: I became a 'hummingbird' for people with dementia](https://www.theguardian.com/lifeandstyle/2024/nov/25/new-start-after-60-hummingbird-for-people-with-dementia-volunteering-care-home)
 * [2024-11-25, 15:03:39](https://news.ycombinator.com/item?id=42236841) - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
 * [2024-11-25, 13:52:34](https://news.ycombinator.com/item?id=42236292) - [Focaccia: A Neolithic culinary tradition dating back 9k years ago](https://phys.org/news/2024-11-focaccia-neolithic-culinary-tradition-dating.html)

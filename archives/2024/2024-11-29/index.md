@@ -15,6 +15,7 @@
 * [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
 * [2024-11-29, 20:49:28](https://news.ycombinator.com/item?id=42276995) - [Ask HN: Platform for senior devs to learn other programming languages?](https://news.ycombinator.com/item?id=42276995)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
+* [2024-11-29, 20:09:25](https://news.ycombinator.com/item?id=42276700) - [Australian Online Safety Amendment (Social Media Minimum Age) Bill 2024](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284)
 * [2024-11-29, 20:05:14](https://news.ycombinator.com/item?id=42276672) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
 * [2024-11-29, 19:23:32](https://news.ycombinator.com/item?id=42276319) - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
