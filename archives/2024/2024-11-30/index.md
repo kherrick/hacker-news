@@ -8,6 +8,7 @@
 * [2024-11-30, 15:23:39](https://news.ycombinator.com/item?id=42282078) - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 15:11:06](https://news.ycombinator.com/item?id=42282020) - [I made an AI specifically for teachers](https://assignly.app/)
+* [2024-11-30, 14:19:05](https://news.ycombinator.com/item?id=42281755) - [The Story of Nel](https://www.deusinmachina.net/p/the-story-of-nel)
 * [2024-11-30, 13:25:29](https://news.ycombinator.com/item?id=42281487) - [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
 * [2024-11-30, 13:22:56](https://news.ycombinator.com/item?id=42281470) - [In C, memory management begins – The Craft of Coding](https://craftofcoding.wordpress.com/2024/11/25/in-c-memory-management-begins-immediately/)
 * [2024-11-30, 12:42:02](https://news.ycombinator.com/item?id=42281256) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
