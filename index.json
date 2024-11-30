@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-11-30, 04:46:46",
-      "https://news.ycombinator.com/item?id=42279521"
-    ],
-    [
-      "'Switches' are turning handguns into machine guns on Ontario streets",
-      "https://www.cbc.ca/lite/story/1.7389625"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 04:33:32",
       "https://news.ycombinator.com/item?id=42279454"
     ],
@@ -27,16 +17,6 @@
     [
       "Cause of rare devastating, autoimmune disease in Puerto Ricans–and possible cure",
       "https://medicalxpress.com/news/2024-11-scientists-rare-devastating-autoimmune-disease.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 02:51:57",
-      "https://news.ycombinator.com/item?id=42279010"
-    ],
-    [
-      "Sol-Ark manufacturer reportedly disables all Deye inverters in the US",
-      "https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/"
     ]
   ],
   [
@@ -131,16 +111,6 @@
   ],
   [
     [
-      "2024-11-29, 16:43:51",
-      "https://news.ycombinator.com/item?id=42275033"
-    ],
-    [
-      "Why pipes sometimes get \"stuck\": buffering",
-      "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 16:12:15",
       "https://news.ycombinator.com/item?id=42274807"
     ],
@@ -151,12 +121,12 @@
   ],
   [
     [
-      "2024-11-29, 15:00:08",
-      "https://news.ycombinator.com/item?id=42274315"
+      "2024-11-29, 15:14:01",
+      "https://news.ycombinator.com/item?id=42274399"
     ],
     [
-      "Life-changing cream to treat skin cancer moves closer to reality",
-      "https://www.uq.edu.au/news/article/2024/11/life-changing-cream-treat-skin-cancer-moves-closer-reality"
+      "Nodezator is a generalist Python node editor",
+      "https://github.com/IndiePython/nodezator"
     ]
   ],
   [
@@ -177,6 +147,16 @@
     [
       "Engineers do not get to make startup mistakes when they build ledgers",
       "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 19:00:47",
+      "https://news.ycombinator.com/item?id=42267725"
+    ],
+    [
+      "The UX of Lego Interface Panels (2020)",
+      "https://interactionmagic.com/UX-LEGO-Interfaces/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-11-23, 11:05:43",
+      "https://news.ycombinator.com/item?id=42220304"
+    ],
+    [
+      "Neomacs: Structural Lisp IDE/browser/computing environment",
+      "https://github.com/neomacs-project/neomacs"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 13:51:16",
       "https://news.ycombinator.com/item?id=42213811"
     ],
@@ -297,6 +287,16 @@
     [
       "Everything You Never Wanted to Know About Linker Script (2021)",
       "https://mcyoung.xyz/2021/06/01/linker-script/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 05:07:59",
+      "https://news.ycombinator.com/item?id=42190984"
+    ],
+    [
+      "German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins",
+      "https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/"
     ]
   ]
 ]
