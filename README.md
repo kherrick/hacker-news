@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 21:06:41](https://news.ycombinator.com/item?id=42284035) - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
 * [2024-11-30, 17:19:27](https://news.ycombinator.com/item?id=42282717) - [You must read at least one book to ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
@@ -29,7 +30,6 @@
 * [2024-11-22, 23:01:54](https://news.ycombinator.com/item?id=42218073) - [$2000-$3fff &D (2014)](https://csdb.dk/release/?id=135463)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
 * [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
-* [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
 
 ## [Archives](archives/index.md)
 

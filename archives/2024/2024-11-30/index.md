@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 21:06:41](https://news.ycombinator.com/item?id=42284035) - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
 * [2024-11-30, 19:42:21](https://news.ycombinator.com/item?id=42283549) - [Rust Solves the Issues with Exceptions](https://home.expurple.me/posts/rust-solves-the-issues-with-exceptions/)
