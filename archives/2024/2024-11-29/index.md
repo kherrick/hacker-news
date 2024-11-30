@@ -38,6 +38,7 @@
 * [2024-11-29, 16:12:15](https://news.ycombinator.com/item?id=42274807) - [Archaeometallurgical investigation of the Nebra Sky Disc](https://www.nature.com/articles/s41598-024-80545-5)
 * [2024-11-29, 15:52:44](https://news.ycombinator.com/item?id=42274660) - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-29, 15:28:34](https://news.ycombinator.com/item?id=42274489) - [Llama.cpp guide – Running LLMs locally on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
+* [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-29, 15:00:08](https://news.ycombinator.com/item?id=42274315) - [Life-changing cream to treat skin cancer moves closer to reality](https://www.uq.edu.au/news/article/2024/11/life-changing-cream-treat-skin-cancer-moves-closer-reality)
 * [2024-11-29, 14:55:27](https://news.ycombinator.com/item?id=42274282) - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR Process Is Killing Morale and Productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
