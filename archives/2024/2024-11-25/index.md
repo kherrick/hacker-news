@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
 * [2024-11-25, 22:50:38](https://news.ycombinator.com/item?id=42240938) - [Nvidia claims a new AI audio generator can make sounds never heard before](https://www.theverge.com/2024/11/25/24305584/nvidia-fugatto-ai-audio-generator-music)
+* [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
 * [2024-11-25, 22:13:05](https://news.ycombinator.com/item?id=42240686) - [Sombrero Galaxy dazzles in new James Webb image](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
 * [2024-11-25, 21:33:42](https://news.ycombinator.com/item?id=42240421) - ['I had no idea being a social drinker would damage my liver by 31'](https://www.bbc.co.uk/news/articles/c30pre660mzo)

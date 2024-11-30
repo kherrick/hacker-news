@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 12:00:57](https://news.ycombinator.com/item?id=42281066) - [Tesla Is Looking to Hire a Team to Remotely Control Its 'Self-Driving' Robotaxis](https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600)
+* [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
 * [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
+* [2024-11-30, 09:46:05](https://news.ycombinator.com/item?id=42280641) - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
