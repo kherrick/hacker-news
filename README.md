@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-11-30, 01:12:36](https://news.ycombinator.com/item?id=42278617) - [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 * [2024-11-29, 23:48:53](https://news.ycombinator.com/item?id=42278160) - [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
-* [2024-11-29, 23:07:55](https://news.ycombinator.com/item?id=42277931) - [Bluesky intends their indexing to be used by third parties](https://write.as/ulrikehahn/bridging-to-bluesky-the-open-social-web-consent-and-gdpr)
 * [2024-11-29, 23:07:24](https://news.ycombinator.com/item?id=42277925) - [Brick and Mortar Triangle Fraud](https://getcho.app/blog/triangle-fraud-brick-mortar/)
 * [2024-11-29, 22:26:43](https://news.ycombinator.com/item?id=42277673) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
@@ -21,15 +21,15 @@
 * [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
 * [2024-11-29, 02:54:00](https://news.ycombinator.com/item?id=42270389) - [Show HN: Vince – A self hosted alternative to Google Analytics](https://github.com/vinceanalytics/vince)
-* [2024-11-26, 11:33:50](https://news.ycombinator.com/item?id=42244791) - [Borgo Programming Language](https://borgo-lang.github.io/)
+* [2024-11-29, 01:04:21](https://news.ycombinator.com/item?id=42269897) - [Show HN: Screen Sharing in the Browser](https://github.com/tonghohin/screen-sharing)
+* [2024-11-28, 21:16:55](https://news.ycombinator.com/item?id=42268580) - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize work at the task level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
 * [2024-11-26, 10:30:04](https://news.ycombinator.com/item?id=42244409) - [Rust: Tools (early access edition)](https://bitfieldconsulting.com/books/rust-tools)
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 17:08:09](https://news.ycombinator.com/item?id=42237938) - [Understanding SIMD: Infinite complexity of trivial problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-23, 12:37:09](https://news.ycombinator.com/item?id=42220573) - [A statistical approach to model evaluations](https://www.anthropic.com/research/statistical-approach-to-model-evals)
 * [2024-11-22, 13:51:16](https://news.ycombinator.com/item?id=42213811) - [Lessons from 15 Years of Indie App Development](https://lukaspetr.com/15-lessons-from-15-years-of-indie-app-development/)
-* [2024-11-21, 06:18:43](https://news.ycombinator.com/item?id=42201632) - [Scratching the Surface: How geology shaped American culture](https://www.chronicle.com/article/scratching-the-surface)
-* [2024-11-20, 05:07:59](https://news.ycombinator.com/item?id=42190984) - [German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins](https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/)
+* [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 
 ## [Archives](archives/index.md)
 

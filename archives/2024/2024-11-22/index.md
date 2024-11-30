@@ -73,6 +73,7 @@
 * [2024-11-22, 09:57:45](https://news.ycombinator.com/item?id=42212512) - [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
 * [2024-11-22, 09:33:53](https://news.ycombinator.com/item?id=42212412) - [FaSTer Atari ST Digital Magazine – By Paul Lefebvre](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
 * [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
+* [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 * [2024-11-22, 08:29:41](https://news.ycombinator.com/item?id=42212106) - [jQuery UI](https://jqueryui.com/)
 * [2024-11-22, 08:21:39](https://news.ycombinator.com/item?id=42212071) - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
 * [2024-11-22, 08:14:59](https://news.ycombinator.com/item?id=42212033) - [Show HN: VR CPR app where the heart and lungs compress based on ur hand position](https://www.meta.com/experiences/heartbeat/7402671033184262/)
