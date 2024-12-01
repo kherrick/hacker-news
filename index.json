@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-12-01, 18:47:38",
+      "https://news.ycombinator.com/item?id=42289913"
+    ],
+    [
+      "Oliver Heaviside's Operator Calculus (2007)",
+      "https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 18:43:03",
       "https://news.ycombinator.com/item?id=42289897"
     ],
     [
-      "The Phones of the New NATO Secretary General Mark Rutte",
+      "The Phones of the New NATO Secretary General",
       "https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42288449"
     ],
     [
-      "The Rarest Mineral Is So Rare It's Only Ever Been Found Once",
+      "Kyawthuite is so rare it's only ever been found once",
       "https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42287345"
     ],
     [
-      "Statistics, by Freedman, Pisani, and Purves (2017)",
+      "Review of \"Statistics\" by Freedman, Pisani, and Purves (2017)",
       "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "The Slang Shading Language",
       "https://shader-slang.com"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 19:27:36",
-      "https://news.ycombinator.com/item?id=42239323"
-    ],
-    [
-      "How We Optimize LLM Inference for AI Coding Assistant",
-      "https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?"
     ]
   ],
   [
