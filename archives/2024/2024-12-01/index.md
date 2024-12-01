@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 19:51:44](https://news.ycombinator.com/item?id=42290293) - [Advent of Svelte – a release per day until Christmas](https://bsky.app/profile/svelte.dev/post/3lcavobxn7c2k)
+* [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
 * [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
 * [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Oliver Heaviside's Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:43:03](https://news.ycombinator.com/item?id=42289897) - [The Phones of the New NATO Secretary General Mark Rutte](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
+* [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 17:48:56](https://news.ycombinator.com/item?id=42289627) - [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
 * [2024-12-01, 17:07:28](https://news.ycombinator.com/item?id=42289380) - [Steam Deck hits 17,000 games playable and verified](https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/)
 * [2024-12-01, 17:05:16](https://news.ycombinator.com/item?id=42289368) - [December Adventure (Advent of Code alternative)](https://eli.li/december-adventure)

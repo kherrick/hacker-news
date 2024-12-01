@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-01, 19:51:44](https://news.ycombinator.com/item?id=42290293) - [Advent of Svelte – a release per day until Christmas](https://bsky.app/profile/svelte.dev/post/3lcavobxn7c2k)
+* [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
-* [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
 * [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
+* [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/abs/2411.12580)
 * [2024-12-01, 16:15:04](https://news.ycombinator.com/item?id=42289109) - [Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends](https://github.com/MinishLab/vicinity)
@@ -24,10 +26,8 @@
 * [2024-11-28, 20:23:56](https://news.ycombinator.com/item?id=42268319) - [Who can claim Aristotle?](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 10:14:13](https://news.ycombinator.com/item?id=42254737) - [Cursed Linear Types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
-* [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 06:59:07](https://news.ycombinator.com/item?id=42253640) - [Historic Bottle Website](https://sha.org/bottle/)
 * [2024-11-26, 23:08:45](https://news.ycombinator.com/item?id=42251140) - [Django: Fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/)
-* [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
 * [2024-11-25, 11:41:12](https://news.ycombinator.com/item?id=42235412) - [Mobile 3D Printer Can Print Directly on Your Floor](https://spectrum.ieee.org/mobile-3d-printer)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 
