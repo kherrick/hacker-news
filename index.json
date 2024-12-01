@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2024-12-01, 16:23:11",
+      "https://news.ycombinator.com/item?id=42289143"
+    ],
+    [
+      "Show HN: Open-source widget to embed OpenAI Assistant on your website",
+      "https://github.com/widgetplatform/widget-oa"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 16:13:21",
       "https://news.ycombinator.com/item?id=42289097"
     ],
     [
       "First new asthma attack treatment in 50 years",
       "https://www.bbc.com/news/articles/cev93777g79o"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 16:10:46",
-      "https://news.ycombinator.com/item?id=42289087"
-    ],
-    [
-      "Building a distributed log using S3 (under 150 lines of Go)",
-      "https://avi.im/blag/2024/s3-log/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Tiny Arcades [video]",
       "https://www.youtube.com/watch?v=bVdF9ByDb6g"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 13:52:29",
-      "https://news.ycombinator.com/item?id=42288458"
-    ],
-    [
-      "Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]",
-      "https://www.youtube.com/watch?v=SAFlRSftffc"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "How We Optimize LLM Inference for AI Coding Assistant",
       "https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 06:46:15",
+      "https://news.ycombinator.com/item?id=42233836"
+    ],
+    [
+      "DELETEs Are Difficult",
+      "https://notso.boringsql.com/posts/deletes-are-difficult/"
     ]
   ],
   [
