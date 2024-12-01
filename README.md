@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
-* [2024-12-01, 08:32:42](https://news.ycombinator.com/item?id=42287107) - [Death by a Thousand Efficiencies: Why You Too Should Be Afraid of Automation](https://gist.github.com/omeid/9a180f9acccc8409d6c5f3e7fa1a7760)
 * [2024-12-01, 07:01:24](https://news.ycombinator.com/item?id=42286771) - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
@@ -21,7 +20,7 @@
 * [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-29, 20:25:33](https://news.ycombinator.com/item?id=42276813) - [Show HN: Jinbase – Multi-model transactional embedded database](https://github.com/pyrustic/jinbase)
-* [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
+* [2024-11-29, 18:36:34](https://news.ycombinator.com/item?id=42275944) - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-27, 16:46:38](https://news.ycombinator.com/item?id=42257452) - [Ask HN: Recommend me some silent movies](https://news.ycombinator.com/item?id=42257452)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
@@ -30,6 +29,7 @@
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-24, 15:12:30](https://news.ycombinator.com/item?id=42228281) - [Exploring and having fun with rotary telephones](https://danieljones.au/posts/direct/130.html)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
+* [2024-11-23, 10:19:07](https://news.ycombinator.com/item?id=42220205) - [Retro No More: Interactive Fiction of the Early Comp Era](https://www.filfre.net/2024/11/retro-no-more-interactive-fiction-of-the-early-comp-era/)
 
 ## [Archives](archives/index.md)
 
