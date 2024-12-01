@@ -2,6 +2,7 @@
 
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
+* [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
@@ -17,7 +18,6 @@
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Safe relational database queries using the Rust type system](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the most of your burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
-* [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 20:25:33](https://news.ycombinator.com/item?id=42276813) - [Show HN: Jinbase – Multi-model transactional embedded database](https://github.com/pyrustic/jinbase)
