@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-01, 16:13:21",
+      "https://news.ycombinator.com/item?id=42289097"
+    ],
+    [
+      "First new asthma attack treatment in 50 years",
+      "https://www.bbc.com/news/articles/cev93777g79o"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 16:10:46",
+      "https://news.ycombinator.com/item?id=42289087"
+    ],
+    [
+      "Building a distributed log using S3 (under 150 lines of Go)",
+      "https://avi.im/blag/2024/s3-log/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 15:43:40",
       "https://news.ycombinator.com/item?id=42288956"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-11-30, 16:44:19",
-      "https://news.ycombinator.com/item?id=42282476"
-    ],
-    [
-      "Honeycrisp apples went from marvel to mediocre",
-      "https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 15:33:59",
       "https://news.ycombinator.com/item?id=42282112"
     ],
@@ -197,16 +207,6 @@
     [
       "Geometric line-art of Wacław Szpakowski (2017)",
       "https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 20:25:33",
-      "https://news.ycombinator.com/item?id=42276813"
-    ],
-    [
-      "Show HN: Jinbase – Multi-model transactional embedded database",
-      "https://github.com/pyrustic/jinbase"
     ]
   ],
   [
