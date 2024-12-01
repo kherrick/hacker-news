@@ -65,6 +65,7 @@
 * [2024-11-26, 11:33:50](https://news.ycombinator.com/item?id=42244791) - [Borgo Programming Language](https://borgo-lang.github.io/)
 * [2024-11-26, 11:02:55](https://news.ycombinator.com/item?id=42244609) - [Oldest US firearm unearthed in Arizona, a bronze cannon linked to Coronado](https://phys.org/news/2024-11-oldest-firearm-unearthed-arizona-bronze.html)
 * [2024-11-26, 10:42:19](https://news.ycombinator.com/item?id=42244482) - [Prioritize Work at the Task Level](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html)
+* [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
 * [2024-11-26, 10:30:04](https://news.ycombinator.com/item?id=42244409) - [Rust: Tools (early access edition)](https://bitfieldconsulting.com/books/rust-tools)
 * [2024-11-26, 10:16:13](https://news.ycombinator.com/item?id=42244326) - [Samurai: Adapting Segment Anything Model for Zero-Shot Visual Tracking](https://yangchris11.github.io/samurai/)
 * [2024-11-26, 09:59:17](https://news.ycombinator.com/item?id=42244183) - [Linux 6.13 KVM Eliminates an \"Awful Idea\", Many x86_64 Improvements](https://www.phoronix.com/news/Linux-6.13-KVM)

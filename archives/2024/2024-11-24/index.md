@@ -44,6 +44,7 @@
 * [2024-11-24, 15:53:17](https://news.ycombinator.com/item?id=42228518) - [This G15 is the Oldest Running Digital Computer in America [video]](https://www.youtube.com/watch?v=Fe1wYwGcjlo)
 * [2024-11-24, 15:46:14](https://news.ycombinator.com/item?id=42228486) - [History of Hangul](https://zkorean.com/hangul/history_of_hangul)
 * [2024-11-24, 15:44:30](https://news.ycombinator.com/item?id=42228472) - [Full LLM training and evaluation toolkit](https://github.com/huggingface/smollm)
+* [2024-11-24, 15:12:30](https://news.ycombinator.com/item?id=42228281) - [Exploring and having fun with rotary telephones](https://danieljones.au/posts/direct/130.html)
 * [2024-11-24, 14:38:40](https://news.ycombinator.com/item?id=42228146) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 14:37:31](https://news.ycombinator.com/item?id=42228138) - [The Size of BYD's Factory](https://twitter.com/taylorogan/status/1859146242519167249)
 * [2024-11-24, 14:30:49](https://news.ycombinator.com/item?id=42228091) - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
