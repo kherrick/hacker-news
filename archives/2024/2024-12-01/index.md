@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-12-01, 07:01:24](https://news.ycombinator.com/item?id=42286771) - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
 * [2024-12-01, 05:27:08](https://news.ycombinator.com/item?id=42286416) - [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
