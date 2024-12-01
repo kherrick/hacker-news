@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 12:01:01",
+      "https://news.ycombinator.com/item?id=42287979"
+    ],
+    [
+      "AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search",
+      "https://www.workatastartup.com/jobs/68254"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 09:09:35",
       "https://news.ycombinator.com/item?id=42287231"
     ],
@@ -11,42 +21,12 @@
   ],
   [
     [
-      "2024-12-01, 07:01:24",
-      "https://news.ycombinator.com/item?id=42286771"
-    ],
-    [
-      "SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)",
-      "https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 05:21:59",
       "https://news.ycombinator.com/item?id=42286397"
     ],
     [
       "DynaSaur: Large Language Agents Beyond Predefined Actions",
       "https://arxiv.org/abs/2411.01747"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 02:32:15",
-      "https://news.ycombinator.com/item?id=42285676"
-    ],
-    [
-      "Map UI – Ghost in the Shell",
-      "https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 01:42:07",
-      "https://news.ycombinator.com/item?id=42285467"
-    ],
-    [
-      "Office CMBS Delinquency Rate Spikes to 10.4%, Just Below Worst of GFC Meltdown",
-      "https://wolfstreet.com/2024/11/30/office-cmbs-delinquency-rate-spikes-to-10-4-just-below-worst-of-financial-crisis-cre-meltdown-fastest-2-year-spike-ever/"
     ]
   ],
   [
@@ -231,12 +211,22 @@
   ],
   [
     [
-      "2024-11-27, 16:46:38",
-      "https://news.ycombinator.com/item?id=42257452"
+      "2024-11-29, 16:12:15",
+      "https://news.ycombinator.com/item?id=42274807"
     ],
     [
-      "Ask HN: Recommend me some silent movies",
-      "https://news.ycombinator.com/item?id=42257452"
+      "Archaeometallurgical investigation of the Nebra Sky Disc",
+      "https://www.nature.com/articles/s41598-024-80545-5"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 15:50:21",
+      "https://news.ycombinator.com/item?id=42256968"
+    ],
+    [
+      "Fine! I'll Play with Skiplists",
+      "https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "WinDepends – A Rewrite of the Dependency Walker",
       "https://github.com/hfiref0x/WinDepends"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 23:01:54",
+      "https://news.ycombinator.com/item?id=42218073"
+    ],
+    [
+      "$2000-$3fff &D (2014)",
+      "https://csdb.dk/release/?id=135463"
     ]
   ]
 ]
