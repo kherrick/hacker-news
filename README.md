@@ -27,7 +27,7 @@
 * [2024-11-27, 08:32:54](https://news.ycombinator.com/item?id=42254146) - [IE7 and IE7 (2005)](https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
-* [2024-11-26, 02:31:28](https://news.ycombinator.com/item?id=42242051) - [Has anyone used Proton Business Suite rather than Google's for a startup?](https://news.ycombinator.com/item?id=42242051)
+* [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-11-24, 15:12:30](https://news.ycombinator.com/item?id=42228281) - [Exploring and having fun with rotary telephones](https://danieljones.au/posts/direct/130.html)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 

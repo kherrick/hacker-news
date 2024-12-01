@@ -64,6 +64,7 @@
 * [2024-11-25, 07:59:59](https://news.ycombinator.com/item?id=42234174) - [Raspberry Pi Pico 2 W on sale now at $7](https://www.raspberrypi.com/news/raspberry-pi-pico-2-w-on-sale-now/)
 * [2024-11-25, 07:55:19](https://news.ycombinator.com/item?id=42234147) - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 * [2024-11-25, 07:14:35](https://news.ycombinator.com/item?id=42233953) - [Show HN: Jumping Julia Maze](https://jumpingjuliamaze.onrender.com)
+* [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-11-25, 06:02:22](https://news.ycombinator.com/item?id=42233651) - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
 * [2024-11-25, 05:52:03](https://news.ycombinator.com/item?id=42233610) - [Implementing topologically ordered time crystals on quantum processors](https://phys.org/news/2024-11-topologically-crystals-quantum-processors.html)
 * [2024-11-25, 05:41:45](https://news.ycombinator.com/item?id=42233565) - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
