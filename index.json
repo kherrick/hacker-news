@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 13:26:56",
+      "https://news.ycombinator.com/item?id=42288341"
+    ],
+    [
+      "Handwriting but not typewriting leads to widespread connectivity in brain",
+      "https://www.openread.academy/paper/reading?corpusId=null"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 12:01:01",
       "https://news.ycombinator.com/item?id=42287979"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42282112"
     ],
     [
-      "Square Roots and Maxima",
+      "Square roots and maxima",
       "https://leancrew.com/all-this/2024/11/square-roots-and-maxima/"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Safe relational database queries using the Rust type system",
       "https://blog.lucasholten.com/rust-query-announcement/"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 07:16:44",
-      "https://news.ycombinator.com/item?id=42280119"
-    ],
-    [
-      "Thoughts on the Software Industry (2022)",
-      "https://linus.coffee/note/software-industry/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-11-29, 16:12:15",
-      "https://news.ycombinator.com/item?id=42274807"
+      "2024-11-27, 16:46:38",
+      "https://news.ycombinator.com/item?id=42257452"
     ],
     [
-      "Archaeometallurgical investigation of the Nebra Sky Disc",
-      "https://www.nature.com/articles/s41598-024-80545-5"
+      "Ask HN: Recommend me some silent movies",
+      "https://news.ycombinator.com/item?id=42257452"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42256968"
     ],
     [
-      "Fine! I'll Play with Skiplists",
+      "Fine, I'll Play With Skiplists",
       "https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-11-25, 06:46:15",
+      "https://news.ycombinator.com/item?id=42233836"
+    ],
+    [
+      "DELETEs Are Difficult",
+      "https://notso.boringsql.com/posts/deletes-are-difficult/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 03:25:33",
       "https://news.ycombinator.com/item?id=42232952"
     ],
@@ -287,16 +297,6 @@
     [
       "WinDepends – A Rewrite of the Dependency Walker",
       "https://github.com/hfiref0x/WinDepends"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 23:01:54",
-      "https://news.ycombinator.com/item?id=42218073"
-    ],
-    [
-      "$2000-$3fff &D (2014)",
-      "https://csdb.dk/release/?id=135463"
     ]
   ]
 ]
