@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-12-01, 19:51:44",
+      "https://news.ycombinator.com/item?id=42290293"
+    ],
+    [
+      "Advent of Svelte – a release per day until Christmas",
+      "https://bsky.app/profile/svelte.dev/post/3lcavobxn7c2k"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 19:17:06",
+      "https://news.ycombinator.com/item?id=42290069"
+    ],
+    [
+      "1/0 = 0 (2018)",
+      "https://www.hillelwayne.com/post/divide-by-zero/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 19:05:10",
       "https://news.ycombinator.com/item?id=42290011"
     ],
     [
       "The Color of Noise – The Witness (2014)",
       "https://caseymuratori.com/blog_0010"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 18:56:22",
-      "https://news.ycombinator.com/item?id=42289955"
-    ],
-    [
-      "How can I grow as an engineer without good seniors to learn from?",
-      "https://news.ycombinator.com/item?id=42289955"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Francis Crick Was Misunderstood",
       "https://www.asimov.press/p/crick"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 17:58:48",
+      "https://news.ycombinator.com/item?id=42289690"
+    ],
+    [
+      "Show HN: Markwhen: Markdown for Timelines",
+      "https://markwhen.com"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-11-27, 08:32:39",
-      "https://news.ycombinator.com/item?id=42254144"
-    ],
-    [
-      "The Opposite of Documentation is Superstition (2020)",
-      "https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 06:59:07",
       "https://news.ycombinator.com/item?id=42253640"
     ],
@@ -267,16 +277,6 @@
     [
       "Django: Fix a view using a debugger with breakpoint()",
       "https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 10:40:53",
-      "https://news.ycombinator.com/item?id=42244472"
-    ],
-    [
-      "The Slang Shading Language",
-      "https://shader-slang.com"
     ]
   ],
   [
