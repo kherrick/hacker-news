@@ -77,6 +77,7 @@
 * [2024-11-26, 08:37:50](https://news.ycombinator.com/item?id=42243689) - [Your docs are your infrastructure](https://stackoverflow.blog/2024/11/26/your-docs-are-your-infrastructure/)
 * [2024-11-26, 08:01:33](https://news.ycombinator.com/item?id=42243500) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2024-11-26, 07:35:53](https://news.ycombinator.com/item?id=42243375) - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
+* [2024-11-26, 07:25:26](https://news.ycombinator.com/item?id=42243313) - [Guix/Hurd on a ThinkPad X60](https://guix.gnu.org/en/blog/2024/hurd-on-thinkpad/)
 * [2024-11-26, 06:12:17](https://news.ycombinator.com/item?id=42242971) - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
 * [2024-11-26, 06:02:17](https://news.ycombinator.com/item?id=42242936) - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
 * [2024-11-26, 05:59:14](https://news.ycombinator.com/item?id=42242932) - [Nvidia Fugatto: \"World's Most Flexible Sound Machine\"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
