@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-01, 22:19:30",
+      "https://news.ycombinator.com/item?id=42291141"
+    ],
+    [
+      "Category Theory in Programming",
+      "https://docs.racket-lang.org/ctp/index.html"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 21:29:38",
       "https://news.ycombinator.com/item?id=42290861"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-11-30, 22:38:13",
-      "https://news.ycombinator.com/item?id=42284563"
-    ],
-    [
-      "An 83-year-old short story by Borges portends a bleak future for the internet",
-      "https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 22:13:49",
       "https://news.ycombinator.com/item?id=42284412"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-11-23, 12:48:06",
-      "https://news.ycombinator.com/item?id=42220596"
+      "2024-11-23, 19:40:06",
+      "https://news.ycombinator.com/item?id=42223327"
     ],
     [
-      "WinDepends – A Rewrite of the Dependency Walker",
-      "https://github.com/hfiref0x/WinDepends"
+      "Photo Robot Takes the Perfect Picture",
+      "https://spectrum.ieee.org/photo-robot"
     ]
   ]
 ]
