@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 16:13:21](https://news.ycombinator.com/item?id=42289097) - [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
+* [2024-12-01, 16:10:46](https://news.ycombinator.com/item?id=42289087) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-01, 15:42:04](https://news.ycombinator.com/item?id=42288948) - [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
