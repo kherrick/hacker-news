@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 02:34:24](https://news.ycombinator.com/item?id=42285689) - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+* [2024-12-01, 02:33:18](https://news.ycombinator.com/item?id=42285682) - [All Here founder's arrest shows it's easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
 * [2024-12-01, 01:19:35](https://news.ycombinator.com/item?id=42285373) - [The Salvadoran government has 5,940 bitcoins worth $582M](https://lanoticiasv.com/el-bitcoin-esta-por-alcanzar-los-100000-y-el-salvador-ha-alcanzado-los-582-millones-en-la-reserva-estatal-de-bitcoin/)
 * [2024-12-01, 01:00:02](https://news.ycombinator.com/item?id=42285280) - [Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
+* [2024-12-01, 00:29:02](https://news.ycombinator.com/item?id=42285133) - [Controlling AI's Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
 * [2024-12-01, 00:28:04](https://news.ycombinator.com/item?id=42285128) - [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
