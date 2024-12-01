@@ -37,6 +37,7 @@
 * [2024-11-29, 16:43:51](https://news.ycombinator.com/item?id=42275033) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 16:34:51](https://news.ycombinator.com/item?id=42274963) - [How Baltic and Nordic countries are preparing for a crisis or war](https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783)
 * [2024-11-29, 16:12:15](https://news.ycombinator.com/item?id=42274807) - [Archaeometallurgical investigation of the Nebra Sky Disc](https://www.nature.com/articles/s41598-024-80545-5)
+* [2024-11-29, 15:59:52](https://news.ycombinator.com/item?id=42274715) - [The Kitchen with Two Doors](https://longreads.com/2024/11/12/hunger-belonging-pregnancy-surrogate-kristina-kasparian/)
 * [2024-11-29, 15:52:44](https://news.ycombinator.com/item?id=42274660) - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-29, 15:28:34](https://news.ycombinator.com/item?id=42274489) - [Llama.cpp guide – Running LLMs locally on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
