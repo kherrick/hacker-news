@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
-* [2024-12-01, 15:42:04](https://news.ycombinator.com/item?id=42288948) - [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
@@ -15,6 +14,7 @@
 * [2024-11-30, 22:13:49](https://news.ycombinator.com/item?id=42284412) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
+* [2024-11-30, 16:44:19](https://news.ycombinator.com/item?id=42282476) - [Honeycrisp apples went from marvel to mediocre](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117)
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square roots and maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 15:18:50](https://news.ycombinator.com/item?id=42282053) - [Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)](https://distrowatch.com/weekly.php?issue=20090323#feature)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Safe relational database queries using the Rust type system](https://blog.lucasholten.com/rust-query-announcement/)
