@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
 * [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
 * [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Oliver Heaviside's Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:43:03](https://news.ycombinator.com/item?id=42289897) - [The Phones of the New NATO Secretary General Mark Rutte](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
@@ -24,6 +25,7 @@
 * [2024-12-01, 13:34:27](https://news.ycombinator.com/item?id=42288375) - [A Science of Concurrent Programs (final draft)](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
+* [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/en/paper/reading?corpusId=503252214)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
