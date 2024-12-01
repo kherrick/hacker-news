@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
-* [2024-12-01, 00:28:04](https://news.ycombinator.com/item?id=42285128) - [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
 * [2024-11-30, 23:57:53](https://news.ycombinator.com/item?id=42284980) - [Large Language Models as Markov Chains](https://arxiv.org/abs/2410.02724)
 * [2024-11-30, 22:13:49](https://news.ycombinator.com/item?id=42284412) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
