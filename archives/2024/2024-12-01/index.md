@@ -6,6 +6,7 @@
 
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+* [2024-12-01, 16:23:11](https://news.ycombinator.com/item?id=42289143) - [Show HN: Open-source widget to embed OpenAI Assistant on your website](https://github.com/widgetplatform/widget-oa)
 * [2024-12-01, 16:13:21](https://news.ycombinator.com/item?id=42289097) - [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
 * [2024-12-01, 16:10:46](https://news.ycombinator.com/item?id=42289087) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)

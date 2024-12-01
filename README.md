@@ -2,11 +2,10 @@
 
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+* [2024-12-01, 16:23:11](https://news.ycombinator.com/item?id=42289143) - [Show HN: Open-source widget to embed OpenAI Assistant on your website](https://github.com/widgetplatform/widget-oa)
 * [2024-12-01, 16:13:21](https://news.ycombinator.com/item?id=42289097) - [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
-* [2024-12-01, 16:10:46](https://news.ycombinator.com/item?id=42289087) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
-* [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
 * [2024-12-01, 13:34:27](https://news.ycombinator.com/item?id=42288375) - [A Science of Concurrent Programs (final draft)](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
@@ -28,6 +27,7 @@
 * [2024-11-26, 13:31:17](https://news.ycombinator.com/item?id=42245544) - [Memento Movi](https://mementomovi.wackyneighbor.com/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
 * [2024-11-25, 19:27:36](https://news.ycombinator.com/item?id=42239323) - [How We Optimize LLM Inference for AI Coding Assistant](https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?)
+* [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 
