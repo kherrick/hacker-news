@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=42289913"
     ],
     [
-      "Oliver Heaviside's Operator Calculus (2007)",
+      "Heaviside’s Operator Calculus (2007)",
       "https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 18:43:03",
-      "https://news.ycombinator.com/item?id=42289897"
-    ],
-    [
-      "The Phones of the New NATO Secretary General",
-      "https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Historic Bottle Website",
       "https://sha.org/bottle/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 23:08:45",
+      "https://news.ycombinator.com/item?id=42251140"
+    ],
+    [
+      "Django: Fix a view using a debugger with breakpoint()",
+      "https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/"
     ]
   ],
   [
