@@ -84,6 +84,7 @@
 * [2024-11-26, 05:14:06](https://news.ycombinator.com/item?id=42242784) - [Every Hands-Free Driving System Available in 2024](https://www.caranddriver.com/news/a62586657/every-hands-free-driving-system-2024/)
 * [2024-11-26, 05:14:02](https://news.ycombinator.com/item?id=42242782) - [The Surprisingly Sunny Origins of the Frankfurt School](https://www.newyorker.com/magazine/2024/12/02/naples-1925-martin-mittelmeier-book-review)
 * [2024-11-26, 03:44:04](https://news.ycombinator.com/item?id=42242392) - [The Thinker Who Believed in Doing (2018)](https://www.neh.gov/humanities/2018/winter/feature/the-thinker-who-believed-in-doing-0)
+* [2024-11-26, 02:31:28](https://news.ycombinator.com/item?id=42242051) - [Has anyone used Proton Business Suite rather than Google's for a startup?](https://news.ycombinator.com/item?id=42242051)
 * [2024-11-26, 01:47:25](https://news.ycombinator.com/item?id=42241851) - [Fly.io is having a complete outage](https://status.flyio.net)
 * [2024-11-26, 01:36:09](https://news.ycombinator.com/item?id=42241789) - [Google's iOS app now injects links on third-party websites that go to Search](https://9to5google.com/2024/11/25/google-ios-app-link-annotations-search/)
 * [2024-11-26, 01:28:21](https://news.ycombinator.com/item?id=42241752) - [GM Under CEO Mary Barra Is an Undeniably Soulless and Dishonest Company](https://www.deadlinedetroit.com/articles/32552/starkman_gm_under_ceo_mary_barra_is_an_undeniably_soulless_and_dishonest_company)

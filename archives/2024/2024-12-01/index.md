@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 * [2024-12-01, 03:52:45](https://news.ycombinator.com/item?id=42286049) - [Fucking Tired of AI](https://news.ycombinator.com/item?id=42286049)
 * [2024-12-01, 02:34:24](https://news.ycombinator.com/item?id=42285689) - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
