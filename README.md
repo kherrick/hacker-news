@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-01, 22:13:56](https://news.ycombinator.com/item?id=42291111) - [UK counter-terrorism unit demands Steam withdraw controversial shooter from sale](https://www.eurogamer.net/uk-counter-terrorism-unit-demands-steam-withdraw-controversial-shooter-from-sale)
+* [2024-12-01, 22:42:23](https://news.ycombinator.com/item?id=42291286) - [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
+* [2024-12-01, 22:33:37](https://news.ycombinator.com/item?id=42291219) - [What Graykey iPhone hack tool can unlock](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool)
 * [2024-12-01, 21:29:38](https://news.ycombinator.com/item?id=42290861) - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
 * [2024-12-01, 20:54:02](https://news.ycombinator.com/item?id=42290664) - [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
@@ -22,7 +23,6 @@
 * [2024-11-30, 22:13:49](https://news.ycombinator.com/item?id=42284412) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
-* [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-28, 20:23:56](https://news.ycombinator.com/item?id=42268319) - [Who can claim Aristotle?](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 * [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
