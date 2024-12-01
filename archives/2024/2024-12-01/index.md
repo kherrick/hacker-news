@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
+* [2024-12-01, 15:42:04](https://news.ycombinator.com/item?id=42288948) - [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
+* [2024-12-01, 13:34:27](https://news.ycombinator.com/item?id=42288375) - [A Science of Concurrent Programs (final draft)](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
