@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 * [2024-12-01, 02:34:24](https://news.ycombinator.com/item?id=42285689) - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-12-01, 02:33:18](https://news.ycombinator.com/item?id=42285682) - [All Here founder's arrest shows it's easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
 * [2024-12-01, 02:32:15](https://news.ycombinator.com/item?id=42285676) - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
@@ -18,7 +19,6 @@
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the most of your burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If not React, then what?](https://infrequently.org/2024/11/if-not-react-then-what/)
-* [2024-11-30, 02:51:57](https://news.ycombinator.com/item?id=42279010) - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 20:25:33](https://news.ycombinator.com/item?id=42276813) - [Show HN: Jinbase – Multi-model transactional embedded database](https://github.com/pyrustic/jinbase)
