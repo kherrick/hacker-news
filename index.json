@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-01, 02:34:24",
+      "https://news.ycombinator.com/item?id=42285689"
+    ],
+    [
+      "OpenWRT One Released: First Router Designed Specifically for OpenWrt",
+      "https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 02:33:18",
+      "https://news.ycombinator.com/item?id=42285682"
+    ],
+    [
+      "All Here founder's arrest shows it's easy for startups to scam investors",
+      "https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 01:19:35",
       "https://news.ycombinator.com/item?id=42285373"
     ],
@@ -17,6 +37,16 @@
     [
       "Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure",
       "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 00:29:02",
+      "https://news.ycombinator.com/item?id=42285133"
+    ],
+    [
+      "Controlling AI's Growing Energy Needs",
+      "https://cacm.acm.org/news/controlling-ais-growing-energy-needs/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2024-11-30, 21:31:55",
-      "https://news.ycombinator.com/item?id=42284173"
-    ],
-    [
-      "The reproducibility crisis and other problems in science: John Ioannidis [video]",
-      "https://www.youtube.com/watch?v=vY9mGJQFdyE"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 20:50:08",
       "https://news.ycombinator.com/item?id=42283950"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-11-30, 16:44:19",
-      "https://news.ycombinator.com/item?id=42282476"
-    ],
-    [
-      "Honeycrisp apples went from marvel to mediocre",
-      "https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 15:33:59",
       "https://news.ycombinator.com/item?id=42282112"
     ],
@@ -137,6 +147,16 @@
     [
       "Rust-Query",
       "https://blog.lucasholten.com/rust-query-announcement/"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 07:16:44",
+      "https://news.ycombinator.com/item?id=42280119"
+    ],
+    [
+      "Thoughts on the Software Industry",
+      "https://linus.coffee/note/software-industry/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-11-29, 15:14:01",
-      "https://news.ycombinator.com/item?id=42274399"
-    ],
-    [
-      "Nodezator is a generalist Python node editor",
-      "https://github.com/IndiePython/nodezator"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 10:19:40",
       "https://news.ycombinator.com/item?id=42254769"
     ],
@@ -287,16 +297,6 @@
     [
       "WinDepends – A Rewrite of the Dependency Walker",
       "https://github.com/hfiref0x/WinDepends"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 09:25:10",
-      "https://news.ycombinator.com/item?id=42212377"
-    ],
-    [
-      "Bodging GenServers Together",
-      "https://underjord.io/bodging-genservers-together.html"
     ]
   ]
 ]
