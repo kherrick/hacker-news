@@ -26,6 +26,7 @@
 * [2024-11-23, 20:35:26](https://news.ycombinator.com/item?id=42223690) - [Antenna Diodes in the Pentium Processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 20:28:13](https://news.ycombinator.com/item?id=42223646) - [Boulder's explicit traffic safety signs are the latest fakes on CO roads](https://www.cpr.org/2024/11/21/boulder-explicit-traffic-safety-signs/)
 * [2024-11-23, 19:40:15](https://news.ycombinator.com/item?id=42223330) - [Microsoft Is First to Get HBM-Juiced AMD CPUs](https://www.nextplatform.com/2024/11/22/microsoft-is-first-to-get-hbm-juiced-amd-cpus/)
+* [2024-11-23, 19:40:06](https://news.ycombinator.com/item?id=42223327) - [Photo Robot Takes the Perfect Picture](https://spectrum.ieee.org/photo-robot)
 * [2024-11-23, 19:35:34](https://news.ycombinator.com/item?id=42223291) - ['A place of joy': why scientists are joining the rush to Bluesky](https://www.nature.com/articles/d41586-024-03784-6)
 * [2024-11-23, 19:34:50](https://news.ycombinator.com/item?id=42223286) - [Energy is frame-dependent, infrastructure of energy is frame-independent (2020)](https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html)
 * [2024-11-23, 19:26:05](https://news.ycombinator.com/item?id=42223201) - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
