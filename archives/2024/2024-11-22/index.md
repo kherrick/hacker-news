@@ -74,6 +74,7 @@
 * [2024-11-22, 09:59:23](https://news.ycombinator.com/item?id=42212520) - [IBM Quantum delivers on 2022 100x100 performance challenge](https://www.ibm.com/quantum/blog/qdc-2024)
 * [2024-11-22, 09:57:45](https://news.ycombinator.com/item?id=42212512) - [The end of ChromeOS is a new dawn for cheap Android laptops](https://www.zdnet.com/article/the-end-of-chromeos-is-a-new-dawn-for-cheap-android-laptops/)
 * [2024-11-22, 09:33:53](https://news.ycombinator.com/item?id=42212412) - [FaSTer Atari ST Digital Magazine – By Paul Lefebvre](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
+* [2024-11-22, 09:25:10](https://news.ycombinator.com/item?id=42212377) - [Bodging GenServers Together](https://underjord.io/bodging-genservers-together.html)
 * [2024-11-22, 08:34:44](https://news.ycombinator.com/item?id=42212134) - [Futures and Multiple Values in Parallel Lisp (1991) [pdf]](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 * [2024-11-22, 08:29:53](https://news.ycombinator.com/item?id=42212107) - [Everything You Never Wanted to Know About Linker Script (2021)](https://mcyoung.xyz/2021/06/01/linker-script/)
 * [2024-11-22, 08:29:41](https://news.ycombinator.com/item?id=42212106) - [jQuery UI](https://jqueryui.com/)
