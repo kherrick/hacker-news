@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-01, 07:01:24](https://news.ycombinator.com/item?id=42286771) - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
+* [2024-12-01, 05:27:08](https://news.ycombinator.com/item?id=42286416) - [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 * [2024-12-01, 02:34:24](https://news.ycombinator.com/item?id=42285689) - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
@@ -15,7 +16,6 @@
 * [2024-11-30, 15:33:59](https://news.ycombinator.com/item?id=42282112) - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Safe relational database queries using the Rust type system](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 07:16:44](https://news.ycombinator.com/item?id=42280119) - [Thoughts on the Software Industry (2022)](https://linus.coffee/note/software-industry/)
-* [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the most of your burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 04:33:32](https://news.ycombinator.com/item?id=42279454) - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 * [2024-11-30, 03:35:00](https://news.ycombinator.com/item?id=42279172) - [If not React, then what?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)

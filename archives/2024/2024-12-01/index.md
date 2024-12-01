@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
 * [2024-12-01, 07:01:24](https://news.ycombinator.com/item?id=42286771) - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
+* [2024-12-01, 05:27:08](https://news.ycombinator.com/item?id=42286416) - [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 * [2024-12-01, 03:52:45](https://news.ycombinator.com/item?id=42286049) - [Fucking Tired of AI](https://news.ycombinator.com/item?id=42286049)
