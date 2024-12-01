@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42284553"
     ],
     [
-      "\"Silicon Valley Is Turning into Its Own Worst Fear\" Ted Chiang (2017)",
+      "Silicon Valley is turning into its own worst fear (2017)",
       "https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "In shallow waters, cruise ships can churn up as much sediment as a hurricane",
       "https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 21:35:03",
+      "https://news.ycombinator.com/item?id=42284202"
+    ],
+    [
+      "Microsoft-trusted Brazilian CA issued unauthorized google.com certificate",
+      "https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs",
       "https://github.com/maharmstone/ntfs2btrfs"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 20:49:39",
+      "https://news.ycombinator.com/item?id=42283949"
+    ],
+    [
+      "Bluesky Quadruples Moderation Team",
+      "https://mindmatters.ai/brief/x-competitor-bluesky-quadruples-moderation-team/"
     ]
   ],
   [
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2024-11-30, 05:47:35",
-      "https://news.ycombinator.com/item?id=42279829"
-    ],
-    [
-      "Show HN: SurveyMoji – An easy way to get realtime feedback with a link/QR code",
-      "https://surveymoji.com"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 05:36:07",
-      "https://news.ycombinator.com/item?id=42279792"
-    ],
-    [
-      "Making Screenshots of Test Equipment Old and New",
-      "https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 04:33:32",
       "https://news.ycombinator.com/item?id=42279454"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-11-29, 18:36:34",
-      "https://news.ycombinator.com/item?id=42275944"
-    ],
-    [
-      "The Influence of Bell Labs",
-      "https://www.construction-physics.com/p/the-influence-of-bell-labs"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 15:14:01",
       "https://news.ycombinator.com/item?id=42274399"
     ],
@@ -297,6 +287,16 @@
     [
       "$2000-$3fff &D (2014)",
       "https://csdb.dk/release/?id=135463"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 09:25:10",
+      "https://news.ycombinator.com/item?id=42212377"
+    ],
+    [
+      "Bodging GenServers Together",
+      "https://underjord.io/bodging-genservers-together.html"
     ]
   ]
 ]
