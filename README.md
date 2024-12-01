@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-01, 22:42:23](https://news.ycombinator.com/item?id=42291286) - [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
 * [2024-12-01, 22:19:30](https://news.ycombinator.com/item?id=42291141) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
 * [2024-12-01, 22:12:24](https://news.ycombinator.com/item?id=42291101) - [Star Citizen crowdfunding passes $750M](https://robertsspaceindustries.com/funding-goals)
 * [2024-12-01, 21:29:38](https://news.ycombinator.com/item?id=42290861) - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
@@ -20,6 +19,7 @@
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 00:28:04](https://news.ycombinator.com/item?id=42285128) - [Jeff Dean responds to EDA industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
+* [2024-11-30, 22:38:13](https://news.ycombinator.com/item?id=42284563) - [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
 * [2024-11-30, 22:13:49](https://news.ycombinator.com/item?id=42284412) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
 * [2024-11-30, 20:50:08](https://news.ycombinator.com/item?id=42283950) - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [2024-11-30, 20:47:35](https://news.ycombinator.com/item?id=42283933) - [AMD Disables Zen 4's Loop Buffer](https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer)
