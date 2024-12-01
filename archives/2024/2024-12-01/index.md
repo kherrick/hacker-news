@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 17:48:56](https://news.ycombinator.com/item?id=42289627) - [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
+* [2024-12-01, 17:07:28](https://news.ycombinator.com/item?id=42289380) - [Steam Deck hits 17,000 games playable and verified](https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/)
+* [2024-12-01, 17:05:16](https://news.ycombinator.com/item?id=42289368) - [December Adventure (Advent of Code alternative)](https://eli.li/december-adventure)
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
 * [2024-12-01, 16:23:11](https://news.ycombinator.com/item?id=42289143) - [Show HN: Open-source widget to embed OpenAI Assistant on your website](https://github.com/widgetplatform/widget-oa)

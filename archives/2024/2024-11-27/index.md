@@ -65,6 +65,7 @@
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 10:36:00](https://news.ycombinator.com/item?id=42254870) - [Show HN: AutoPiP – Safari extension for automatic Picture-in-Picture mode](https://github.com/vordenken/AutoPiP)
 * [2024-11-27, 10:19:40](https://news.ycombinator.com/item?id=42254769) - [How to print your Guild Wars 2 character](https://stuff.tamius.net/sacred-texts/2024/09/18/how-to-print-your-guild-wars-2-character-or-any-game-really/)
+* [2024-11-27, 10:14:13](https://news.ycombinator.com/item?id=42254737) - [Cursed Linear Types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:45:16](https://news.ycombinator.com/item?id=42254575) - [I Got an IP Address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 09:23:46](https://news.ycombinator.com/item?id=42254434) - [Show HN: ColoringsAI – Custom Coloring Pages from Ideas (My Daughter's Idea)](https://www.coloringsai.com/en)
 * [2024-11-27, 09:23:36](https://news.ycombinator.com/item?id=42254433) - [Ask HN: What's the best app for Android device automation?](https://news.ycombinator.com/item?id=42254433)
