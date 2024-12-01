@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 21:29:38](https://news.ycombinator.com/item?id=42290861) - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
 * [2024-12-01, 20:54:02](https://news.ycombinator.com/item?id=42290664) - [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
+* [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 19:51:44](https://news.ycombinator.com/item?id=42290293) - [Advent of Svelte – a release per day until Christmas](https://bsky.app/profile/svelte.dev/post/3lcavobxn7c2k)
 * [2024-12-01, 19:42:40](https://news.ycombinator.com/item?id=42290245) - [IBM RISC System/6000 Family – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family)
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
