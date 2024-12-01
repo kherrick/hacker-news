@@ -27,8 +27,8 @@
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 06:59:07](https://news.ycombinator.com/item?id=42253640) - [Historic Bottle Website](https://sha.org/bottle/)
 * [2024-11-26, 23:08:45](https://news.ycombinator.com/item?id=42251140) - [Django: Fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/)
-* [2024-11-26, 13:31:17](https://news.ycombinator.com/item?id=42245544) - [Memento Movi](https://mementomovi.wackyneighbor.com/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
+* [2024-11-25, 11:41:12](https://news.ycombinator.com/item?id=42235412) - [Mobile 3D Printer Can Print Directly on Your Floor](https://spectrum.ieee.org/mobile-3d-printer)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 
 ## [Archives](archives/index.md)
