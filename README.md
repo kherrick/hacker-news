@@ -2,6 +2,7 @@
 
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
+* [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
@@ -21,9 +22,8 @@
 * [2024-11-29, 20:32:22](https://news.ycombinator.com/item?id=42276865) - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 20:25:33](https://news.ycombinator.com/item?id=42276813) - [Show HN: Jinbase – Multi-model transactional embedded database](https://github.com/pyrustic/jinbase)
 * [2024-11-29, 19:59:47](https://news.ycombinator.com/item?id=42276620) - [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr)
-* [2024-11-27, 16:46:38](https://news.ycombinator.com/item?id=42257452) - [Ask HN: Recommend me some silent movies](https://news.ycombinator.com/item?id=42257452)
+* [2024-11-28, 20:23:56](https://news.ycombinator.com/item?id=42268319) - [Who can claim Aristotle?](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
-* [2024-11-27, 11:53:19](https://news.ycombinator.com/item?id=42255330) - [Disillusioning the Magic of the Fork System Call](https://blog.codingconfessions.com/p/the-magic-of-fork)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
 * [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
