@@ -8,6 +8,7 @@
 * [2024-12-01, 05:21:59](https://news.ycombinator.com/item?id=42286397) - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 * [2024-12-01, 04:13:21](https://news.ycombinator.com/item?id=42286133) - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
 * [2024-12-01, 03:52:45](https://news.ycombinator.com/item?id=42286049) - [Fucking Tired of AI](https://news.ycombinator.com/item?id=42286049)
+* [2024-12-01, 03:49:42](https://news.ycombinator.com/item?id=42286035) - [Canon ships its first nanoprint lithography machine, rivals ASML](https://www.datacenterdynamics.com/en/news/canon-ships-its-first-nanoprint-lithography-machine-rivals-asml/)
 * [2024-12-01, 02:34:24](https://news.ycombinator.com/item?id=42285689) - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-12-01, 02:33:18](https://news.ycombinator.com/item?id=42285682) - [All Here founder's arrest shows it's easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
 * [2024-12-01, 02:32:15](https://news.ycombinator.com/item?id=42285676) - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
