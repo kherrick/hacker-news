@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-01, 22:42:23](https://news.ycombinator.com/item?id=42291286) - [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
-* [2024-12-01, 22:33:37](https://news.ycombinator.com/item?id=42291219) - [What Graykey iPhone hack tool can unlock](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool)
 * [2024-12-01, 22:19:30](https://news.ycombinator.com/item?id=42291141) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
+* [2024-12-01, 22:12:24](https://news.ycombinator.com/item?id=42291101) - [Star Citizen crowdfunding passes $750M](https://robertsspaceindustries.com/funding-goals)
 * [2024-12-01, 21:29:38](https://news.ycombinator.com/item?id=42290861) - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
 * [2024-12-01, 20:54:02](https://news.ycombinator.com/item?id=42290664) - [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
