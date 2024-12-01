@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
 * [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Oliver Heaviside's Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:43:03](https://news.ycombinator.com/item?id=42289897) - [The Phones of the New NATO Secretary General Mark Rutte](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
 * [2024-12-01, 17:48:56](https://news.ycombinator.com/item?id=42289627) - [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
