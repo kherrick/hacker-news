@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 19:51:44](https://news.ycombinator.com/item?id=42290293) - [Advent of Svelte – a release per day until Christmas](https://bsky.app/profile/svelte.dev/post/3lcavobxn7c2k)
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
