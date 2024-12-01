@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
-* [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
-* [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
@@ -26,6 +25,7 @@
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
+* [2024-11-25, 19:27:36](https://news.ycombinator.com/item?id=42239323) - [How We Optimize LLM Inference for AI Coding Assistant](https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?)
 * [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-24, 15:12:30](https://news.ycombinator.com/item?id=42228281) - [Exploring and having fun with rotary telephones](https://danieljones.au/posts/direct/130.html)

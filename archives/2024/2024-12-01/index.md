@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
 * [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)

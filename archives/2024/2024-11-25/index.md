@@ -23,6 +23,7 @@
 * [2024-11-25, 19:45:45](https://news.ycombinator.com/item?id=42239487) - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
 * [2024-11-25, 19:37:30](https://news.ycombinator.com/item?id=42239416) - [Raw milk recalled for containing bird flu virus, California reports](https://arstechnica.com/health/2024/11/raw-milk-recalled-for-containing-bird-flu-virus-california-reports/)
 * [2024-11-25, 19:30:21](https://news.ycombinator.com/item?id=42239344) - [Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
+* [2024-11-25, 19:27:36](https://news.ycombinator.com/item?id=42239323) - [How We Optimize LLM Inference for AI Coding Assistant](https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?)
 * [2024-11-25, 19:27:14](https://news.ycombinator.com/item?id=42239319) - [Ending Affirmative Action Harms Diversity Without Improving Academic Merit [pdf]](https://dl.acm.org/doi/pdf/10.1145/3689904.3694706)
 * [2024-11-25, 19:02:24](https://news.ycombinator.com/item?id=42239097) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 18:44:22](https://news.ycombinator.com/item?id=42238890) - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
