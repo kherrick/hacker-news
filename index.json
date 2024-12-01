@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-12-01, 08:34:10",
+      "https://news.ycombinator.com/item?id=42287111"
+    ],
+    [
+      "DMARCbis is around the corner: what's changing",
+      "https://dmarcwise.io/blog/upcoming-dmarc-bis"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 07:01:24",
       "https://news.ycombinator.com/item?id=42286771"
     ],
     [
       "SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)",
       "https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 06:55:06",
+      "https://news.ycombinator.com/item?id=42286747"
+    ],
+    [
+      "Advent of Code 2024",
+      "https://adventofcode.com/2024"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "OpenWRT One Released: First Router Designed Specifically for OpenWrt",
       "https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 02:32:15",
-      "https://news.ycombinator.com/item?id=42285676"
-    ],
-    [
-      "Map UI – Ghost in the Shell",
-      "https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Guix/Hurd on a ThinkPad X60",
       "https://guix.gnu.org/en/blog/2024/hurd-on-thinkpad/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 06:46:15",
-      "https://news.ycombinator.com/item?id=42233836"
-    ],
-    [
-      "DELETEs Are Difficult",
-      "https://notso.boringsql.com/posts/deletes-are-difficult/"
     ]
   ],
   [
