@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-01, 17:48:56",
+      "https://news.ycombinator.com/item?id=42289627"
+    ],
+    [
+      "Frontier supercomputer runs the largest astrophysical simulation of universe",
+      "https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 17:07:28",
+      "https://news.ycombinator.com/item?id=42289380"
+    ],
+    [
+      "Steam Deck hits 17,000 games playable and verified",
+      "https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 17:05:16",
+      "https://news.ycombinator.com/item?id=42289368"
+    ],
+    [
+      "December Adventure (Advent of Code alternative)",
+      "https://eli.li/december-adventure"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 17:00:49",
       "https://news.ycombinator.com/item?id=42289345"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-11-30, 23:57:53",
-      "https://news.ycombinator.com/item?id=42284980"
-    ],
-    [
-      "Large Language Models as Markov Chains",
-      "https://arxiv.org/abs/2410.02724"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 22:13:49",
       "https://news.ycombinator.com/item?id=42284412"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-11-30, 15:18:50",
-      "https://news.ycombinator.com/item?id=42282053"
-    ],
-    [
-      "Interview of Robert Shingledecker, Tiny Core Linux and DSL Developer (2009)",
-      "https://distrowatch.com/weekly.php?issue=20090323#feature"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 09:29:39",
       "https://news.ycombinator.com/item?id=42280570"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-11-29, 20:25:33",
-      "https://news.ycombinator.com/item?id=42276813"
-    ],
-    [
-      "Show HN: Jinbase – Multi-model transactional embedded database",
-      "https://github.com/pyrustic/jinbase"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 20:23:56",
       "https://news.ycombinator.com/item?id=42268319"
     ],
@@ -217,6 +217,16 @@
     [
       "Fine, I'll Play With Skiplists",
       "https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 10:14:13",
+      "https://news.ycombinator.com/item?id=42254737"
+    ],
+    [
+      "Cursed Linear Types in Rust",
+      "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How We Optimize LLM Inference for AI Coding Assistant",
       "https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 06:46:15",
-      "https://news.ycombinator.com/item?id=42233836"
-    ],
-    [
-      "DELETEs Are Difficult",
-      "https://notso.boringsql.com/posts/deletes-are-difficult/"
     ]
   ],
   [
