@@ -43,6 +43,7 @@
 * [2024-11-27, 16:17:20](https://news.ycombinator.com/item?id=42257196) - [.an, the TLD that ceased to exist](https://en.wikipedia.org/wiki/.an)
 * [2024-11-27, 16:08:19](https://news.ycombinator.com/item?id=42257124) - [Probable extinction of influenza B/Yamagata and its public health implications](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00066-1/fulltext)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – Open-source AIOps and alert management](https://github.com/keephq/keep)
+* [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine! I'll Play with Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
 * [2024-11-27, 15:13:28](https://news.ycombinator.com/item?id=42256694) - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
 * [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)

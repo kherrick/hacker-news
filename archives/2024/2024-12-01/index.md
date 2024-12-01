@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-12-01, 08:34:10](https://news.ycombinator.com/item?id=42287111) - [DMARCbis is around the corner: what's changing](https://dmarcwise.io/blog/upcoming-dmarc-bis)
 * [2024-12-01, 08:32:42](https://news.ycombinator.com/item?id=42287107) - [Death by a Thousand Efficiencies: Why You Too Should Be Afraid of Automation](https://gist.github.com/omeid/9a180f9acccc8409d6c5f3e7fa1a7760)
