@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-01, 18:43:03](https://news.ycombinator.com/item?id=42289897) - [The Phones of the New NATO Secretary General Mark Rutte](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
 * [2024-12-01, 16:15:04](https://news.ycombinator.com/item?id=42289109) - [Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends](https://github.com/MinishLab/vicinity)
@@ -18,7 +19,6 @@
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Safe relational database queries using the Rust type system](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the most of your burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
-* [2024-11-29, 20:25:33](https://news.ycombinator.com/item?id=42276813) - [Show HN: Jinbase – Multi-model transactional embedded database](https://github.com/pyrustic/jinbase)
 * [2024-11-28, 20:23:56](https://news.ycombinator.com/item?id=42268319) - [Who can claim Aristotle?](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 10:14:13](https://news.ycombinator.com/item?id=42254737) - [Cursed Linear Types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
