@@ -25,9 +25,9 @@
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine, I'll Play With Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 06:59:07](https://news.ycombinator.com/item?id=42253640) - [Historic Bottle Website](https://sha.org/bottle/)
+* [2024-11-26, 13:31:17](https://news.ycombinator.com/item?id=42245544) - [Memento Movi](https://mementomovi.wackyneighbor.com/)
 * [2024-11-26, 10:40:53](https://news.ycombinator.com/item?id=42244472) - [The Slang Shading Language](https://shader-slang.com)
 * [2024-11-25, 19:27:36](https://news.ycombinator.com/item?id=42239323) - [How We Optimize LLM Inference for AI Coding Assistant](https://www.augmentcode.com/blog/rethinking-llm-inference-why-developer-ai-needs-a-different-approach?)
-* [2024-11-25, 06:46:15](https://news.ycombinator.com/item?id=42233836) - [DELETEs Are Difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-11-25, 03:25:33](https://news.ycombinator.com/item?id=42232952) - [Caving scientists exploring the darkest places on Earth](https://www.bbc.com/future/article/20241029-the-caving-scientists-exploring-the-darkest-places-on-earth)
 * [2024-11-23, 12:48:06](https://news.ycombinator.com/item?id=42220596) - [WinDepends – A Rewrite of the Dependency Walker](https://github.com/hfiref0x/WinDepends)
 
