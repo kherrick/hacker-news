@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-02, 14:02:25",
+      "https://news.ycombinator.com/item?id=42296287"
+    ],
+    [
+      "Kenya and \"The Decline of the Greatest Coffee\" (2021)",
+      "https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 13:37:42",
       "https://news.ycombinator.com/item?id=42296067"
     ],
     [
       "Intel Announces Retirement of CEO Pat Gelsinger",
       "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 13:34:23",
+      "https://news.ycombinator.com/item?id=42296034"
+    ],
+    [
+      "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
+      "https://capibarazero.com/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Show HN: Visualizing website carbon footprints using steam and robotics [video]",
       "https://vimeo.com/1028745293"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 06:40:53",
+      "https://news.ycombinator.com/item?id=42293723"
+    ],
+    [
+      "KlongPy: High-Performance Array Programming in Python",
+      "https://github.com/briangu/klongpy"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Gene behind orange fur in cats found at last",
       "https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 22:57:19",
-      "https://news.ycombinator.com/item?id=42291375"
-    ],
-    [
-      "Ampere WS-1 Japanese APL Clamtop",
-      "https://computeradsfromthepast.substack.com/p/ampere-ws-1"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-01, 09:37:56",
-      "https://news.ycombinator.com/item?id=42287345"
-    ],
-    [
-      "Review of \"Statistics\" by Freedman, Pisani, and Purves (2017)",
-      "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 09:09:35",
       "https://news.ycombinator.com/item?id=42287231"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-11-27, 10:14:13",
-      "https://news.ycombinator.com/item?id=42254737"
+      "2024-11-27, 13:25:39",
+      "https://news.ycombinator.com/item?id=42255899"
     ],
     [
-      "Cursed Linear Types in Rust",
-      "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/"
+      "The Timeless Way of Software [video]",
+      "https://www.youtube.com/watch?v=wTv5kvuP1hI"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "LaTeX.css – Make your website look like a LaTeX document",
       "https://latex.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 19:40:06",
-      "https://news.ycombinator.com/item?id=42223327"
-    ],
-    [
-      "Photo Robot Takes the Perfect Picture",
-      "https://spectrum.ieee.org/photo-robot"
     ]
   ],
   [
