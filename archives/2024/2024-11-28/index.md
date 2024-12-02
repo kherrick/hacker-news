@@ -14,6 +14,7 @@
 * [2024-11-28, 20:25:00](https://news.ycombinator.com/item?id=42268324) - [Vasopressin boosts sociability in solitary monkeys](https://www.thetransmitter.org/spectrum/vasopressin-boosts-sociability-in-solitary-monkeys/)
 * [2024-11-28, 20:23:56](https://news.ycombinator.com/item?id=42268319) - [Who can claim Aristotle?](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 * [2024-11-28, 20:21:14](https://news.ycombinator.com/item?id=42268310) - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
+* [2024-11-28, 20:20:18](https://news.ycombinator.com/item?id=42268307) - [Bury me on the moon, preferably on the far side](https://www.scientificamerican.com/article/why-i-want-to-be-buried-on-the-moon/)
 * [2024-11-28, 20:19:51](https://news.ycombinator.com/item?id=42268304) - [In the Rockets' Red Glare: The past and future of hot-rodding in America](https://harpers.org/archive/2024/12/in-the-rockets-red-glare-rachel-kushner/)
 * [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 * [2024-11-28, 19:00:47](https://news.ycombinator.com/item?id=42267725) - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
