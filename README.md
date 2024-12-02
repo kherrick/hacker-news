@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
 * [2024-12-02, 03:24:07](https://news.ycombinator.com/item?id=42292805) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
 * [2024-12-02, 01:26:32](https://news.ycombinator.com/item?id=42292204) - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
@@ -27,7 +28,6 @@
 * [2024-11-27, 07:37:03](https://news.ycombinator.com/item?id=42253867) - [Forced to Upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-11-27, 07:16:28](https://news.ycombinator.com/item?id=42253735) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
-* [2024-11-26, 18:13:51](https://news.ycombinator.com/item?id=42248272) - [Intel gets up to $7.9B award for U.S. chip-plant construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1)
 * [2024-11-26, 13:34:40](https://news.ycombinator.com/item?id=42245573) - [Show HN: Steel.dev – An open-source browser API for AI agents and apps](https://github.com/steel-dev/steel-browser)
 * [2024-11-23, 12:39:37](https://news.ycombinator.com/item?id=42220580) - [Ryugu asteroid sample colonized by terrestrial life despite strict control](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 
