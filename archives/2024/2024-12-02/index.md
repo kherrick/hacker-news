@@ -8,6 +8,7 @@
 * [2024-12-02, 13:35:51](https://news.ycombinator.com/item?id=42296051) - [Open-source OpenWrt One router released at $89 – 'hacker-friendly device'](https://www.tomshardware.com/networking/open-source-openwrt-one-router-released-at-usd89-hacker-friendly-device-sports-two-ethernet-ports-three-usb-ports-with-dual-band-wi-fi-6)
 * [2024-12-02, 13:34:23](https://news.ycombinator.com/item?id=42296034) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
 * [2024-12-02, 13:22:19](https://news.ycombinator.com/item?id=42295938) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
+* [2024-12-02, 12:24:04](https://news.ycombinator.com/item?id=42295491) - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
 * [2024-12-02, 10:50:24](https://news.ycombinator.com/item?id=42294902) - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
