@@ -56,6 +56,7 @@
 * [2024-11-27, 14:22:56](https://news.ycombinator.com/item?id=42256307) - [OpenWrt Community question: What do you want to see in OpenWrt?](https://forum.openwrt.org/t/community-question-what-do-you-want-to-see-in-openwrt/216706)
 * [2024-11-27, 13:56:20](https://news.ycombinator.com/item?id=42256104) - [Show HN: TeaTime – distributed book library powered by SQLite, IPFS and GitHub](https://github.com/bjesus/teatime)
 * [2024-11-27, 13:55:20](https://news.ycombinator.com/item?id=42256093) - [Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI](https://news.ycombinator.com/item?id=42256093)
+* [2024-11-27, 13:25:39](https://news.ycombinator.com/item?id=42255899) - [The Timeless Way of Software [video]](https://www.youtube.com/watch?v=wTv5kvuP1hI)
 * [2024-11-27, 13:15:57](https://news.ycombinator.com/item?id=42255829) - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
 * [2024-11-27, 12:39:20](https://news.ycombinator.com/item?id=42255582) - [How to raise children with grit (2019)](https://thedadtrain.com/how-to-raise-children-with-grit/)
 * [2024-11-27, 12:35:49](https://news.ycombinator.com/item?id=42255559) - [How to build 99.999% uptime payment systems](https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment)
