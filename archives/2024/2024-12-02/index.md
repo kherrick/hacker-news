@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
+* [2024-12-02, 13:56:02](https://news.ycombinator.com/item?id=42296228) - [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:35:51](https://news.ycombinator.com/item?id=42296051) - [Open-source OpenWrt One router released at $89 – 'hacker-friendly device'](https://www.tomshardware.com/networking/open-source-openwrt-one-router-released-at-usd89-hacker-friendly-device-sports-two-ethernet-ports-three-usb-ports-with-dual-band-wi-fi-6)
 * [2024-12-02, 13:34:23](https://news.ycombinator.com/item?id=42296034) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
@@ -16,6 +17,7 @@
 * [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 06:37:13](https://news.ycombinator.com/item?id=42293703) - [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
+* [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
 * [2024-12-02, 03:24:07](https://news.ycombinator.com/item?id=42292805) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
 * [2024-12-02, 01:31:49](https://news.ycombinator.com/item?id=42292235) - [ICP-Brasil: Mis-issued certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
