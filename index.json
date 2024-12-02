@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-12-01, 17:58:48",
-      "https://news.ycombinator.com/item?id=42289690"
-    ],
-    [
-      "Show HN: Markwhen: Markdown for Timelines",
-      "https://markwhen.com"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 13:18:12",
       "https://news.ycombinator.com/item?id=42288312"
     ],
@@ -297,6 +287,16 @@
     [
       "Murderbot, she wrote",
       "https://www.wired.com/story/murderbot-she-wrote-martha-wells/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 22:27:09",
+      "https://news.ycombinator.com/item?id=42250773"
+    ],
+    [
+      "What happens if we remove 50 percent of Llama?",
+      "https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/"
     ]
   ]
 ]
