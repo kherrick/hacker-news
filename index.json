@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-02, 08:18:37",
-      "https://news.ycombinator.com/item?id=42294205"
+      "2024-12-02, 13:37:42",
+      "https://news.ycombinator.com/item?id=42296067"
     ],
     [
-      "US airlines transported passengers over two light-years since the last crash",
-      "https://ourworldindata.org/us-airline-travel"
+      "Intel Announces Retirement of CEO Pat Gelsinger",
+      "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 13:22:19",
+      "https://news.ycombinator.com/item?id=42295938"
+    ],
+    [
+      "ContainerScript: Firefox Addon for programmatically assigning URLs to containers",
+      "https://github.com/icholy/ContainerScript"
     ]
   ],
   [
@@ -27,36 +37,6 @@
     [
       "Bicameral, Not Homoiconic",
       "https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 01:39:33",
-      "https://news.ycombinator.com/item?id=42292294"
-    ],
-    [
-      "’Brain rot‘ named Oxford Word of the Year 2024",
-      "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 01:26:32",
-      "https://news.ycombinator.com/item?id=42292204"
-    ],
-    [
-      "Working with PaloAlto to identify CVE-2024-2550",
-      "https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 00:19:16",
-      "https://news.ycombinator.com/item?id=42291833"
-    ],
-    [
-      "Demystifying Git Submodules",
-      "https://www.cyberdemon.org/2024/03/20/submodules.html"
     ]
   ],
   [
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2024-11-28, 05:48:55",
-      "https://news.ycombinator.com/item?id=42262791"
-    ],
-    [
-      "'The Endless Refrain' asks: Do we even want new music anymore?",
-      "https://www.washingtonpost.com/books/2024/11/26/endless-refrain-nostalgia-music-david-rowell-review/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 21:53:05",
       "https://news.ycombinator.com/item?id=42260179"
     ],
@@ -271,6 +241,26 @@
   ],
   [
     [
+      "2024-11-26, 18:13:51",
+      "https://news.ycombinator.com/item?id=42248272"
+    ],
+    [
+      "Intel gets up to $7.9B award for U.S. chip-plant construction",
+      "https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 18:03:02",
+      "https://news.ycombinator.com/item?id=42248147"
+    ],
+    [
+      "Huawei launches Mate 70 Series with self-developed HarmonyOS",
+      "https://techstartups.com/2024/11/26/huawei-launches-mate-70-series-first-phones-featuring-its-self-developed-harmonyos-next-operating-system/"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 13:34:40",
       "https://news.ycombinator.com/item?id=42245573"
     ],
@@ -287,6 +277,16 @@
     [
       "LaTeX.css – Make your website look like a LaTeX document",
       "https://latex.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 19:40:06",
+      "https://news.ycombinator.com/item?id=42223327"
+    ],
+    [
+      "Photo Robot Takes the Perfect Picture",
+      "https://spectrum.ieee.org/photo-robot"
     ]
   ],
   [
