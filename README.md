@@ -2,7 +2,6 @@
 
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
 * [2024-12-02, 01:26:32](https://news.ycombinator.com/item?id=42292204) - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
-* [2024-12-02, 01:20:05](https://news.ycombinator.com/item?id=42292170) - [Amazon Workers on Strike from Black Friday to Cyber Monday](https://www.wfxrtv.com/homepage-video/amazon-worker-strike-expected/)
 * [2024-12-02, 00:19:16](https://news.ycombinator.com/item?id=42291833) - [Demystifying Git Submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-12-02, 00:08:38](https://news.ycombinator.com/item?id=42291781) - [When was the famous \"sudo warning\" introduced? (2019)](https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom)
 * [2024-12-01, 23:38:07](https://news.ycombinator.com/item?id=42291611) - [Police bust pirate streaming service making €250M per month](https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/)
@@ -24,6 +23,7 @@
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
 * [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
+* [2024-11-28, 12:11:26](https://news.ycombinator.com/item?id=42264653) - [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
 * [2024-11-27, 15:56:33](https://news.ycombinator.com/item?id=42257040) - [Vesuvius Challenge: First letters found in new scroll](https://scrollprize.substack.com/p/first-letters-found-in-new-scroll)
 * [2024-11-27, 07:16:28](https://news.ycombinator.com/item?id=42253735) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-11-26, 18:13:51](https://news.ycombinator.com/item?id=42248272) - [Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1)
