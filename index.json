@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-12-01, 22:16:38",
+      "https://news.ycombinator.com/item?id=42291125"
+    ],
+    [
+      "Thinking in Actors – Challenging your software modelling to be simpler",
+      "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 22:12:24",
       "https://news.ycombinator.com/item?id=42291101"
     ],
@@ -247,16 +257,6 @@
     [
       "Rails is better low code than low code",
       "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 22:27:09",
-      "https://news.ycombinator.com/item?id=42250773"
-    ],
-    [
-      "What happens if we remove 50 percent of Llama?",
-      "https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/"
     ]
   ],
   [
