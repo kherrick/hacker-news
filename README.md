@@ -2,7 +2,7 @@
 
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:44:37](https://news.ycombinator.com/item?id=42299025) - [The World of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
-* [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+* [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 * [2024-12-02, 18:16:30](https://news.ycombinator.com/item?id=42298752) - [Consciousness Might Hide in Our Brain's Electric Fields](https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 17:51:37](https://news.ycombinator.com/item?id=42298524) - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
@@ -18,6 +18,7 @@
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
+* [2024-12-01, 22:59:52](https://news.ycombinator.com/item?id=42291386) - [Gene behind orange fur in cats](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
 * [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
 * [2024-12-01, 21:50:51](https://news.ycombinator.com/item?id=42290996) - [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html)
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
@@ -27,7 +28,6 @@
 * [2024-12-01, 13:06:32](https://news.ycombinator.com/item?id=42288258) - [OrioleDB beta7: Benchmarks](https://www.orioledb.com/blog/orioledb-beta7-benchmarks)
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)
 * [2024-11-30, 07:52:32](https://news.ycombinator.com/item?id=42280235) - [Watch Out for Counterintuitive Implicit Actor-Isolation](https://jaredsinclair.com/2024/11/12/beware-unchecked.html)
-* [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-27, 07:37:03](https://news.ycombinator.com/item?id=42253867) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 
