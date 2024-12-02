@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+* [2024-12-02, 06:37:13](https://news.ycombinator.com/item?id=42293703) - [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
 * [2024-12-02, 03:24:07](https://news.ycombinator.com/item?id=42292805) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
 * [2024-12-02, 01:26:32](https://news.ycombinator.com/item?id=42292204) - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
@@ -16,7 +17,6 @@
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise (2014)](https://caseymuratori.com/blog_0010)
 * [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [Ask HN: How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
-* [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick's \"Central Dogma\" was misunderstood](https://www.asimov.press/p/crick)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/abs/2411.12580)
