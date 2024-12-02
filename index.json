@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-02, 21:55:13",
+      "https://news.ycombinator.com/item?id=42300841"
+    ],
+    [
+      "A better approach to gravity: how we made EGM2008 faster",
+      "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 21:05:30",
       "https://news.ycombinator.com/item?id=42300382"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2024-12-01, 13:06:32",
-      "https://news.ycombinator.com/item?id=42288258"
-    ],
-    [
-      "OrioleDB beta7: Benchmarks",
-      "https://www.orioledb.com/blog/orioledb-beta7-benchmarks"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 20:17:59",
-      "https://news.ycombinator.com/item?id=42268295"
-    ],
-    [
-      "Restaurant Menu Tricks (2020)",
-      "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 17:10:32",
       "https://news.ycombinator.com/item?id=42257666"
     ],
@@ -287,6 +277,16 @@
     [
       "Murderbot, she wrote",
       "https://www.wired.com/story/murderbot-she-wrote-martha-wells/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 22:27:09",
+      "https://news.ycombinator.com/item?id=42250773"
+    ],
+    [
+      "What happens if we remove 50 percent of Llama?",
+      "https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/"
     ]
   ],
   [
