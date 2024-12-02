@@ -142,13 +142,97 @@
             <h4>
               <span>2024-12-02 @ 19:02:38</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42299231"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42299098">
+          <h3>
+            <a class="item" href="https://github.com/lmnr-ai/flow"
+              >Show HN: Flow – A Dynamic Task Engine for building AI Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-02 @ 18:51:03</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42299098"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built Laminar Flow to solve a common frustration with
+                traditional workflow engines - the rigid need to predefine all
+                node connections. Instead of static DAGs, Flow uses a dynamic
+                task queue system that lets workflows evolve at runtime.
+              </p>
+              <p>Flow is built on 3 core principles:</p>
+              <p>
+                * Concurrent Execution - Tasks run in parallel automatically
+              </p>
+              <p>
+                * Dynamic Scheduling - Tasks can schedule new tasks at runtime
+              </p>
+              <p>
+                * Smart Dependencies - Tasks can await results from previous
+                operations
+              </p>
+              <p>All tasks share a thread-safe context for state management.</p>
+              <p>
+                This architecture makes it surprisingly simple to implement
+                complex patterns like map-reduce, streaming results, cycles, and
+                self-modifying workflows. Perfect for AI agents that need to
+                make runtime decisions about their next actions.
+              </p>
+              <p>
+                Flow is lightweight, elegantly written and has zero dependencies
+                for the engine.
+              </p>
+              <p>
+                Behind the scenes it's a ThreadPoolExecutor, which is more than
+                enough to handle concurrent execution considering majority of AI
+                workflows are IO bound.
+              </p>
+              <p>
+                To make it possible to wait for the completion of previous
+                tasks, I just added semaphore for the state value. Once the
+                state is set, one permit is released for the semaphore.
+              </p>
+              <p>
+                The project also comes with built-in OpenTelemetry
+                instrumentation for debugging and state reconstruction.
+              </p>
+              <p>
+                Give it a try here -&gt;
+                <a href="https://github.com/lmnr-ai/flow"
+                  >https://github.com/lmnr-ai/flow</a
+                >. Just do pip install lmnr-flow. (or uv add lmnr-flow). More
+                examples are in the readme.
+              </p>
+              <p>
+                Looking forward to feedback from the HN community! Especially
+                interested in hearing about your use cases for dynamic
+                workflows.
+              </p>
+              <p>
+                Couple of things on the roadmap, so contributions are welcome!
+              </p>
+              <p>* Async function support</p>
+              <p>* TS port</p>
+              <p>
+                * Some consensus on how to handle task ids when the same tasks
+                is spawned multiple times
+              </p>
+            </div>
           </section>
         </section>
         <section id="42299025">
@@ -163,11 +247,11 @@
             <h4>
               <span>2024-12-02 @ 18:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42299025"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -184,32 +268,11 @@
             <h4>
               <span>2024-12-02 @ 18:20:38</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42298797"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42298752">
-          <h3>
-            <a
-              class="item"
-              href="https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/"
-              >Consciousness Might Hide in Our Brain's Electric Fields</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-02 @ 18:16:30</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42298752"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -257,7 +320,7 @@
             <h4>
               <span>2024-12-02 @ 17:51:37</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42298524"
                   >Comments</a
@@ -278,7 +341,7 @@
             <h4>
               <span>2024-12-02 @ 16:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42297733"
                   >Comments</a
@@ -297,7 +360,7 @@
             <h4>
               <span>2024-12-02 @ 16:18:52</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42297644"
                   >Comments</a
@@ -319,7 +382,7 @@
             <h4>
               <span>2024-12-02 @ 15:13:07</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42296970"
                   >Comments</a
@@ -340,11 +403,11 @@
             <h4>
               <span>2024-12-02 @ 14:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42296287"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -361,11 +424,11 @@
             <h4>
               <span>2024-12-02 @ 13:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">610</span></span
+                >Points: <span class="points">614</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42296067"
                   >Comments</a
-                ><span class="descendants">: 434</span></span
+                ><span class="descendants">: 438</span></span
               >
             </h4>
           </section>
@@ -381,7 +444,7 @@
             <h4>
               <span>2024-12-02 @ 13:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42295792"
                   >Comments</a
@@ -457,7 +520,7 @@
             <h4>
               <span>2024-12-02 @ 10:50:24</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42294902"
                   >Comments</a
@@ -527,7 +590,7 @@
             <h4>
               <span>2024-12-02 @ 03:44:25</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42292909"
                   >Comments</a
@@ -552,7 +615,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42291386"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -568,7 +631,7 @@
             <h4>
               <span>2024-12-01 @ 21:52:10</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42291002"
                   >Comments</a
@@ -626,11 +689,11 @@
             <h4>
               <span>2024-12-01 @ 20:17:02</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42290448"
                   >Comments</a
-                ><span class="descendants">: 277</span></span
+                ><span class="descendants">: 279</span></span
               >
             </h4>
           </section>
@@ -646,11 +709,11 @@
             <h4>
               <span>2024-12-01 @ 18:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">438</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42289955"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 268</span></span
               >
             </h4>
             <div class="text">
@@ -694,7 +757,7 @@
             <h4>
               <span>2024-12-01 @ 17:58:48</span
               ><span class="points-container"
-                >Points: <span class="points">737</span></span
+                >Points: <span class="points">741</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42289690"
                   >Comments</a
@@ -715,11 +778,11 @@
             <h4>
               <span>2024-12-01 @ 13:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42288312"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -736,7 +799,7 @@
             <h4>
               <span>2024-12-01 @ 13:06:32</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42288258"
                   >Comments</a
@@ -778,7 +841,7 @@
             <h4>
               <span>2024-12-01 @ 09:53:32</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42287410"
                   >Comments</a
@@ -820,11 +883,11 @@
             <h4>
               <span>2024-11-27 @ 10:38:58</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42254888"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -841,11 +904,11 @@
             <h4>
               <span>2024-11-27 @ 07:37:03</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42253867"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -862,11 +925,11 @@
             <h4>
               <span>2024-11-26 @ 22:27:09</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42250773"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
