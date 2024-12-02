@@ -13,6 +13,7 @@
 * [2024-12-02, 17:51:37](https://news.ycombinator.com/item?id=42298524) - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
 * [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
 * [2024-12-02, 16:18:52](https://news.ycombinator.com/item?id=42297644) - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
+* [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every Board Game Rulebook Is Awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
 * [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
