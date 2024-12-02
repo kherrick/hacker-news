@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 23:04:49](https://news.ycombinator.com/item?id=42301313) - [New funding could make whole-eye transplants a reality](https://news.northwestern.edu/stories/2024/12/vision-restoring-project-receives-up-to-56-million-to-fast-track-development/)
 * [2024-12-02, 21:55:13](https://news.ycombinator.com/item?id=42300841) - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
 * [2024-12-02, 21:53:28](https://news.ycombinator.com/item?id=42300825) - [The Great Grocery Squeeze: federal policy change in '80s created the food desert](https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/)
 * [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
@@ -19,7 +20,6 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
-* [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"the decline of the greatest coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)

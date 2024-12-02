@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 23:04:49](https://news.ycombinator.com/item?id=42301313) - [New funding could make whole-eye transplants a reality](https://news.northwestern.edu/stories/2024/12/vision-restoring-project-receives-up-to-56-million-to-fast-track-development/)
 * [2024-12-02, 21:55:13](https://news.ycombinator.com/item?id=42300841) - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
 * [2024-12-02, 21:53:28](https://news.ycombinator.com/item?id=42300825) - [The Great Grocery Squeeze: federal policy change in '80s created the food desert](https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/)
 * [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
