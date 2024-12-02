@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
+* [2024-12-02, 19:51:12](https://news.ycombinator.com/item?id=42299687) - [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)
 * [2024-12-02, 19:40:34](https://news.ycombinator.com/item?id=42299590) - [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:51:03](https://news.ycombinator.com/item?id=42299098) - [Show HN: Flow – A Dynamic Task Engine for building AI Agents](https://github.com/lmnr-ai/flow)
