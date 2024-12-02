@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 19:40:34](https://news.ycombinator.com/item?id=42299590) - [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:51:03](https://news.ycombinator.com/item?id=42299098) - [Show HN: Flow – A Dynamic Task Engine for building AI Agents](https://github.com/lmnr-ai/flow)
 * [2024-12-02, 18:44:37](https://news.ycombinator.com/item?id=42299025) - [The World of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
@@ -14,6 +15,7 @@
 * [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
 * [2024-12-02, 16:18:52](https://news.ycombinator.com/item?id=42297644) - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
+* [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every Board Game Rulebook Is Awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
 * [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
