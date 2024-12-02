@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:44:37](https://news.ycombinator.com/item?id=42299025) - [The World of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
 * [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+* [2024-12-02, 18:16:30](https://news.ycombinator.com/item?id=42298752) - [Consciousness Might Hide in Our Brain's Electric Fields](https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 17:51:37](https://news.ycombinator.com/item?id=42298524) - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
 * [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
