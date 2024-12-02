@@ -21,15 +21,15 @@
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"the decline of the greatest coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)
-* [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
 * [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
-* [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What will enter the public domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
+* [2024-12-01, 13:06:32](https://news.ycombinator.com/item?id=42288258) - [OrioleDB beta7: Benchmarks](https://www.orioledb.com/blog/orioledb-beta7-benchmarks)
+* [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 * [2024-11-27, 17:10:32](https://news.ycombinator.com/item?id=42257666) - [Direct testing of natural twister ribozymes from over a thousand organisms](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
-* [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
+* [2024-11-25, 01:52:54](https://news.ycombinator.com/item?id=42232465) - [Ethiopian wolves reported to feed on nectar](https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time)
 
 ## [Archives](archives/index.md)
 

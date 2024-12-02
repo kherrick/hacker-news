@@ -78,6 +78,7 @@
 * [2024-11-25, 02:42:48](https://news.ycombinator.com/item?id=42232741) - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 * [2024-11-25, 02:37:05](https://news.ycombinator.com/item?id=42232715) - [Computing Industry Doesn't Care about Performance: how I made things faster](https://deviantabstraction.com/2024/10/24/faster-computer/)
 * [2024-11-25, 02:20:25](https://news.ycombinator.com/item?id=42232620) - [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
+* [2024-11-25, 01:52:54](https://news.ycombinator.com/item?id=42232465) - [Ethiopian wolves reported to feed on nectar](https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time)
 * [2024-11-25, 01:47:17](https://news.ycombinator.com/item?id=42232430) - [Semantic Transpiler Agent](https://github.com/cyyeh/sta)
 * [2024-11-25, 01:46:13](https://news.ycombinator.com/item?id=42232424) - [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
 * [2024-11-25, 01:24:41](https://news.ycombinator.com/item?id=42232289) - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
