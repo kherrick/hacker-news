@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
-* [2024-12-02, 01:31:49](https://news.ycombinator.com/item?id=42292235) - [ICP-Brasil: Mis-issued certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 * [2024-12-02, 01:26:32](https://news.ycombinator.com/item?id=42292204) - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
 * [2024-12-02, 01:20:05](https://news.ycombinator.com/item?id=42292170) - [Amazon Workers on Strike from Black Friday to Cyber Monday](https://www.wfxrtv.com/homepage-video/amazon-worker-strike-expected/)
 * [2024-12-02, 00:19:16](https://news.ycombinator.com/item?id=42291833) - [Demystifying Git Submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
@@ -29,6 +28,7 @@
 * [2024-11-27, 07:16:28](https://news.ycombinator.com/item?id=42253735) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-11-26, 18:13:51](https://news.ycombinator.com/item?id=42248272) - [Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1)
 * [2024-11-26, 13:34:40](https://news.ycombinator.com/item?id=42245573) - [Show HN: Steel.dev – An open-source browser API for AI agents and apps](https://github.com/steel-dev/steel-browser)
+* [2024-11-23, 19:40:06](https://news.ycombinator.com/item?id=42223327) - [Photo Robot Takes the Perfect Picture](https://spectrum.ieee.org/photo-robot)
 * [2024-11-23, 12:39:37](https://news.ycombinator.com/item?id=42220580) - [Ryugu asteroid sample colonized by terrestrial life despite strict control](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 
 ## [Archives](archives/index.md)
