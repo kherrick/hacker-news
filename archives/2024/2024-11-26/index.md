@@ -9,6 +9,7 @@
 * [2024-11-26, 22:56:47](https://news.ycombinator.com/item?id=42251040) - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
 * [2024-11-26, 22:41:14](https://news.ycombinator.com/item?id=42250921) - [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
 * [2024-11-26, 22:27:55](https://news.ycombinator.com/item?id=42250784) - [Ask HN: Why isn't having two or three careers the norm?](https://news.ycombinator.com/item?id=42250784)
+* [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 * [2024-11-26, 21:49:13](https://news.ycombinator.com/item?id=42250429) - [Show HN: Clean Your Mac with a Script](https://github.com/hkdobrev/cleanmac)
 * [2024-11-26, 21:45:10](https://news.ycombinator.com/item?id=42250400) - [FCC Grants SpaceX Right to Some Direct-to-Cellular Operations [pdf]](https://docs.fcc.gov/public/attachments/DA-24-1193A1.pdf)
 * [2024-11-26, 21:30:01](https://news.ycombinator.com/item?id=42250254) - [Amazon tripled prices for the basic tier of their auth service Cognito](https://saasprices.net/blog/aws-price-rise)
