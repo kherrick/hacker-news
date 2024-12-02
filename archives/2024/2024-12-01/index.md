@@ -6,6 +6,7 @@
 
 * [2024-12-01, 23:38:07](https://news.ycombinator.com/item?id=42291611) - [Police bust pirate streaming service making €250M per month](https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/)
 * [2024-12-01, 23:06:38](https://news.ycombinator.com/item?id=42291417) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
+* [2024-12-01, 22:59:52](https://news.ycombinator.com/item?id=42291386) - [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
 * [2024-12-01, 22:42:23](https://news.ycombinator.com/item?id=42291286) - [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
 * [2024-12-01, 22:33:37](https://news.ycombinator.com/item?id=42291219) - [What Graykey iPhone hack tool can unlock](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool)
 * [2024-12-01, 22:19:30](https://news.ycombinator.com/item?id=42291141) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
