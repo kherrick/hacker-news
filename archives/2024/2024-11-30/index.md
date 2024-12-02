@@ -41,6 +41,7 @@
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 08:23:42](https://news.ycombinator.com/item?id=42280343) - [The anxiolytic effects of resistance exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC4090891/)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
+* [2024-11-30, 07:52:32](https://news.ycombinator.com/item?id=42280235) - [Watch Out for Counterintuitive Implicit Actor-Isolation](https://jaredsinclair.com/2024/11/12/beware-unchecked.html)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
 * [2024-11-30, 07:16:44](https://news.ycombinator.com/item?id=42280119) - [Thoughts on the Software Industry](https://linus.coffee/note/software-industry/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)

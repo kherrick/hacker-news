@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+* [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
 * [2024-12-02, 16:18:52](https://news.ycombinator.com/item?id=42297644) - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every Board Game Rulebook Is Awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
@@ -16,6 +18,7 @@
 * [2024-12-02, 13:22:19](https://news.ycombinator.com/item?id=42295938) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)
 * [2024-12-02, 12:24:04](https://news.ycombinator.com/item?id=42295491) - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
+* [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-02, 10:50:24](https://news.ycombinator.com/item?id=42294902) - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
