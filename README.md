@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 20:36:53](https://news.ycombinator.com/item?id=42300134) - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 * [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
+* [2024-12-02, 20:07:35](https://news.ycombinator.com/item?id=42299863) - [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 * [2024-12-02, 19:51:12](https://news.ycombinator.com/item?id=42299687) - [Natural soundscapes enhance mood recovery amid anthropogenic noise pollution](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311487)
 * [2024-12-02, 19:40:34](https://news.ycombinator.com/item?id=42299590) - [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
@@ -24,9 +26,7 @@
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What will enter the public domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
-* [2024-12-01, 13:06:32](https://news.ycombinator.com/item?id=42288258) - [OrioleDB beta7: Benchmarks](https://www.orioledb.com/blog/orioledb-beta7-benchmarks)
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)
-* [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 * [2024-11-25, 17:41:32](https://news.ycombinator.com/item?id=42238261) - [Functional Rick and Morty Butter Bot can roam your breakfast table](https://www.theverge.com/2024/11/21/24302292/rick-and-morty-butter-bot-ai-kickstarter-robot-toy)
