@@ -33,6 +33,7 @@
 * [2024-11-26, 18:17:57](https://news.ycombinator.com/item?id=42248315) - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
 * [2024-11-26, 18:13:51](https://news.ycombinator.com/item?id=42248272) - [Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1)
 * [2024-11-26, 18:05:01](https://news.ycombinator.com/item?id=42248167) - [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
+* [2024-11-26, 18:03:02](https://news.ycombinator.com/item?id=42248147) - [Huawei launches Mate 70 Series with self-developed HarmonyOS](https://techstartups.com/2024/11/26/huawei-launches-mate-70-series-first-phones-featuring-its-self-developed-harmonyos-next-operating-system/)
 * [2024-11-26, 17:50:59](https://news.ycombinator.com/item?id=42247985) - [Building a Sync Engine in Clojure [video]](https://www.youtube.com/watch?v=6FikTQf8qho)
 * [2024-11-26, 17:28:53](https://news.ycombinator.com/item?id=42247735) - [The Weird BLE-Lock – Hacking Cloud Locks](https://nv1t.github.io/blog/the-weired-ble-lock/)
 * [2024-11-26, 17:14:50](https://news.ycombinator.com/item?id=42247583) - [Warp terminal – no more login required](https://www.warp.dev/blog/lifting-login-requirement)
