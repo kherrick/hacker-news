@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-02, 20:36:53](https://news.ycombinator.com/item?id=42300134) - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
-* [2024-12-02, 20:31:10](https://news.ycombinator.com/item?id=42300085) - [Show HN: Convert your text or CSV to infographics to 10x the engagement](https://www.chartsnotchapters.com/)
 * [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 * [2024-12-02, 20:07:35](https://news.ycombinator.com/item?id=42299863) - [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
+* [2024-12-02, 20:04:29](https://news.ycombinator.com/item?id=42299829) - [Static IPs for Serverless Containers](https://modal.com/blog/vprox)
 * [2024-12-02, 19:40:34](https://news.ycombinator.com/item?id=42299590) - [Unlocking the power of time-series data with multimodal models](https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
-* [2024-12-02, 18:48:20](https://news.ycombinator.com/item?id=42299070) - [Show HN: Akiradocs – open-source Documentation Framework with AI features](https://github.com/Cloud-Code-AI/AkiraDocs)
+* [2024-12-02, 18:51:03](https://news.ycombinator.com/item?id=42299098) - [Show HN: Flow – A dynamic task engine for building AI agents](https://github.com/lmnr-ai/flow)
 * [2024-12-02, 18:44:37](https://news.ycombinator.com/item?id=42299025) - [The world of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
 * [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
@@ -27,7 +28,6 @@
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What will enter the public domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
-* [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-25, 17:41:32](https://news.ycombinator.com/item?id=42238261) - [Functional Rick and Morty Butter Bot can roam your breakfast table](https://www.theverge.com/2024/11/21/24302292/rick-and-morty-butter-bot-ai-kickstarter-robot-toy)
 
