@@ -2,10 +2,12 @@
 
 * [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
+* [2024-12-02, 13:56:02](https://news.ycombinator.com/item?id=42296228) - [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:34:23](https://news.ycombinator.com/item?id=42296034) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
 * [2024-12-02, 12:24:04](https://news.ycombinator.com/item?id=42295491) - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
+* [2024-12-02, 07:07:24](https://news.ycombinator.com/item?id=42293832) - [The Beautiful Math of Bloom Filters](https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 06:37:13](https://news.ycombinator.com/item?id=42293703) - [An Aperiodic Monotile (2023)](https://cs.uwaterloo.ca/~csk/hat/)
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
@@ -18,7 +20,6 @@
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise (2014)](https://caseymuratori.com/blog_0010)
 * [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [Ask HN: How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
-* [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick's \"Central Dogma\" was misunderstood](https://www.asimov.press/p/crick)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/abs/2411.12580)
@@ -28,7 +29,6 @@
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 * [2024-11-26, 18:42:02](https://news.ycombinator.com/item?id=42248567) - [The GNU make jobserver Implementation (2015)](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 13:34:40](https://news.ycombinator.com/item?id=42245573) - [Show HN: Steel.dev – An open-source browser API for AI agents and apps](https://github.com/steel-dev/steel-browser)
-* [2024-11-26, 11:41:27](https://news.ycombinator.com/item?id=42244832) - [LaTeX.css – Make your website look like a LaTeX document](https://latex.vercel.app/)
 * [2024-11-23, 12:39:37](https://news.ycombinator.com/item?id=42220580) - [Ryugu asteroid sample colonized by terrestrial life despite strict control](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 
 ## [Archives](archives/index.md)

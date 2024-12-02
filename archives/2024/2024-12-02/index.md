@@ -16,6 +16,7 @@
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
 * [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+* [2024-12-02, 07:07:24](https://news.ycombinator.com/item?id=42293832) - [The Beautiful Math of Bloom Filters](https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 06:37:13](https://news.ycombinator.com/item?id=42293703) - [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
