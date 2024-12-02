@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 21:55:13](https://news.ycombinator.com/item?id=42300841) - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
 * [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-02, 20:36:53](https://news.ycombinator.com/item?id=42300134) - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 * [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
@@ -25,10 +26,9 @@
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
 * [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
-* [2024-12-01, 13:06:32](https://news.ycombinator.com/item?id=42288258) - [OrioleDB beta7: Benchmarks](https://www.orioledb.com/blog/orioledb-beta7-benchmarks)
-* [2024-11-28, 20:17:59](https://news.ycombinator.com/item?id=42268295) - [Restaurant Menu Tricks (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 * [2024-11-27, 17:10:32](https://news.ycombinator.com/item?id=42257666) - [Direct testing of natural twister ribozymes from over a thousand organisms](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
+* [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 * [2024-11-25, 01:52:54](https://news.ycombinator.com/item?id=42232465) - [Ethiopian wolves reported to feed on nectar](https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time)
 
 ## [Archives](archives/index.md)

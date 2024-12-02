@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 21:55:13](https://news.ycombinator.com/item?id=42300841) - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
 * [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-02, 20:36:53](https://news.ycombinator.com/item?id=42300134) - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 * [2024-12-02, 20:31:10](https://news.ycombinator.com/item?id=42300085) - [Show HN: Convert your text or CSV to infographics to 10x the engagement](https://www.chartsnotchapters.com/)
