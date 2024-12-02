@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-01, 23:38:07",
+      "https://news.ycombinator.com/item?id=42291611"
+    ],
+    [
+      "Police bust pirate streaming service making €250M per month",
+      "https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 23:06:38",
+      "https://news.ycombinator.com/item?id=42291417"
+    ],
+    [
+      "RAII and the Rust/Linux Drama",
+      "https://kristoff.it/blog/raii-rust-linux/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 22:19:30",
       "https://news.ycombinator.com/item?id=42291141"
     ],
     [
       "Category Theory in Programming",
       "https://docs.racket-lang.org/ctp/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 22:16:38",
+      "https://news.ycombinator.com/item?id=42291125"
+    ],
+    [
+      "Thinking in Actors – Challenging your software modelling to be simpler",
+      "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1"
     ]
   ],
   [
@@ -21,22 +51,32 @@
   ],
   [
     [
+      "2024-12-01, 21:59:51",
+      "https://news.ycombinator.com/item?id=42291041"
+    ],
+    [
+      "Scalable and Performant Data Loading",
+      "https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 21:50:51",
+      "https://news.ycombinator.com/item?id=42290996"
+    ],
+    [
+      "How to Study Mathematics",
+      "https://www.math.uh.edu/~dblecher/pf2.html"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 21:29:38",
       "https://news.ycombinator.com/item?id=42290861"
     ],
     [
       "Programming the C64 with Visual Studio Code – Retro Game Coders",
       "https://retrogamecoders.com/c64-visual-studio-code/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 20:54:02",
-      "https://news.ycombinator.com/item?id=42290664"
-    ],
-    [
-      "Rackspace Spot – Rackspace – Pricing Page",
-      "https://spot.rackspace.com/static-files/html/pricing.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-12-01, 13:49:00",
-      "https://news.ycombinator.com/item?id=42288449"
-    ],
-    [
-      "Kyawthuite is so rare it's only ever been found once",
-      "https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 13:26:56",
       "https://news.ycombinator.com/item?id=42288341"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2024-12-01, 05:21:59",
-      "https://news.ycombinator.com/item?id=42286397"
-    ],
-    [
-      "DynaSaur: Large Language Agents Beyond Predefined Actions",
-      "https://arxiv.org/abs/2411.01747"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 00:28:04",
       "https://news.ycombinator.com/item?id=42285128"
     ],
     [
       "Jeff Dean responds to EDA industry about AlphaChip",
       "https://twitter.com/JeffDean/status/1858540085794451906"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 22:38:13",
-      "https://news.ycombinator.com/item?id=42284563"
-    ],
-    [
-      "An 83-year-old short story by Borges portends a bleak future for the internet",
-      "https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2024-11-28, 20:23:56",
-      "https://news.ycombinator.com/item?id=42268319"
-    ],
-    [
-      "Who can claim Aristotle?",
-      "https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 20:17:59",
       "https://news.ycombinator.com/item?id=42268295"
     ],
     [
       "Restaurant Menu Tricks (2020)",
       "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 15:50:21",
-      "https://news.ycombinator.com/item?id=42256968"
-    ],
-    [
-      "Fine, I'll Play With Skiplists",
-      "https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Photo Robot Takes the Perfect Picture",
       "https://spectrum.ieee.org/photo-robot"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 12:39:37",
+      "https://news.ycombinator.com/item?id=42220580"
+    ],
+    [
+      "Ryugu asteroid sample colonized by terrestrial life despite strict control",
+      "https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html"
     ]
   ]
 ]
