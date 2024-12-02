@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 10:50:24](https://news.ycombinator.com/item?id=42294902) - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
-* [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
 * [2024-12-02, 06:37:13](https://news.ycombinator.com/item?id=42293703) - [An Aperiodic Monotile (2023)](https://cs.uwaterloo.ca/~csk/hat/)
 * [2024-12-02, 03:24:07](https://news.ycombinator.com/item?id=42292805) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 01:39:33](https://news.ycombinator.com/item?id=42292294) - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
