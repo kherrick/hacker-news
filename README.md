@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:56:02](https://news.ycombinator.com/item?id=42296228) - [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
@@ -18,7 +19,6 @@
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
 * [2024-12-01, 19:05:10](https://news.ycombinator.com/item?id=42290011) - [The Color of Noise (2014)](https://caseymuratori.com/blog_0010)
 * [2024-12-01, 18:56:22](https://news.ycombinator.com/item?id=42289955) - [Ask HN: How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
-* [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick's \"Central Dogma\" was misunderstood](https://www.asimov.press/p/crick)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/abs/2411.12580)
