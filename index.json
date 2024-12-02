@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-02, 10:50:24",
-      "https://news.ycombinator.com/item?id=42294902"
-    ],
-    [
-      "UK: Proposed amendment to legal presumption about the reliability of computers",
-      "https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 08:18:37",
       "https://news.ycombinator.com/item?id=42294205"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42292294"
     ],
     [
-      "'Brain rot' named Oxford Word of the Year 2024",
+      "’Brain rot‘ named Oxford Word of the Year 2024",
       "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/"
     ]
   ],
@@ -91,22 +81,22 @@
   ],
   [
     [
-      "2024-12-01, 22:19:30",
-      "https://news.ycombinator.com/item?id=42291141"
+      "2024-12-01, 22:57:19",
+      "https://news.ycombinator.com/item?id=42291375"
     ],
     [
-      "Category Theory in Programming",
-      "https://docs.racket-lang.org/ctp/index.html"
+      "Ampere WS-1 Japanese APL Clamtop",
+      "https://computeradsfromthepast.substack.com/p/ampere-ws-1"
     ]
   ],
   [
     [
-      "2024-12-01, 22:12:24",
-      "https://news.ycombinator.com/item?id=42291101"
+      "2024-12-01, 22:16:38",
+      "https://news.ycombinator.com/item?id=42291125"
     ],
     [
-      "Star Citizen crowdfunding passes $750M",
-      "https://robertsspaceindustries.com/funding-goals"
+      "Thinking in Actors – Challenging your software modelling to be simpler",
+      "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "How to Study Mathematics (2017)",
       "https://www.math.uh.edu/~dblecher/pf2.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 21:29:38",
-      "https://news.ycombinator.com/item?id=42290861"
-    ],
-    [
-      "Programming the C64 with Visual Studio Code",
-      "https://retrogamecoders.com/c64-visual-studio-code/"
     ]
   ],
   [
@@ -151,12 +131,32 @@
   ],
   [
     [
+      "2024-12-01, 19:05:10",
+      "https://news.ycombinator.com/item?id=42290011"
+    ],
+    [
+      "The Color of Noise (2014)",
+      "https://caseymuratori.com/blog_0010"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 18:56:22",
       "https://news.ycombinator.com/item?id=42289955"
     ],
     [
       "Ask HN: How can I grow as an engineer without good seniors to learn from?",
       "https://news.ycombinator.com/item?id=42289955"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 18:47:38",
+      "https://news.ycombinator.com/item?id=42289913"
+    ],
+    [
+      "Heaviside’s Operator Calculus (2007)",
+      "https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-12-01, 09:37:56",
+      "https://news.ycombinator.com/item?id=42287345"
+    ],
+    [
+      "Review of \"Statistics\" by Freedman, Pisani, and Purves (2017)",
+      "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 09:09:35",
       "https://news.ycombinator.com/item?id=42287231"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-11-30, 01:40:35",
-      "https://news.ycombinator.com/item?id=42278719"
+      "2024-11-28, 05:48:55",
+      "https://news.ycombinator.com/item?id=42262791"
     ],
     [
-      "Explore the Capabilities of Broadcasting in Julia Programming",
-      "https://blog.glcs.io/broadcasting"
+      "'The Endless Refrain' asks: Do we even want new music anymore?",
+      "https://www.washingtonpost.com/books/2024/11/26/endless-refrain-nostalgia-music-david-rowell-review/"
     ]
   ],
   [
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2024-11-27, 16:44:28",
-      "https://news.ycombinator.com/item?id=42257432"
+      "2024-11-27, 10:14:13",
+      "https://news.ycombinator.com/item?id=42254737"
     ],
     [
-      "Show HN: A program to learn phrases in multiple languages at once",
-      "https://fluent.monster/"
+      "Cursed Linear Types in Rust",
+      "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/"
     ]
   ],
   [
     [
-      "2024-11-27, 15:56:33",
-      "https://news.ycombinator.com/item?id=42257040"
+      "2024-11-26, 22:27:09",
+      "https://news.ycombinator.com/item?id=42250773"
     ],
     [
-      "Vesuvius Challenge: First letters found in new scroll",
-      "https://scrollprize.substack.com/p/first-letters-found-in-new-scroll"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 07:16:28",
-      "https://news.ycombinator.com/item?id=42253735"
-    ],
-    [
-      "Rails is better low code than low code",
-      "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code"
+      "What happens if we remove 50 percent of Llama?",
+      "https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42248567"
     ],
     [
-      "The GNU make jobserver Implementation",
+      "The GNU make jobserver Implementation (2015)",
       "https://make.mad-scientist.net/papers/jobserver-implementation/"
     ]
   ],
