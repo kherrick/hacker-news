@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-02, 16:18:52",
+      "https://news.ycombinator.com/item?id=42297644"
+    ],
+    [
+      "World Labs: Generate 3D worlds from a single image",
+      "https://www.worldlabs.ai/blog"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 15:13:07",
       "https://news.ycombinator.com/item?id=42296970"
     ],
@@ -37,16 +47,6 @@
     [
       "Intel Announces Retirement of CEO Pat Gelsinger",
       "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 13:34:23",
-      "https://news.ycombinator.com/item?id=42296034"
-    ],
-    [
-      "CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3",
-      "https://capibarazero.com/"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Thinking in Actors – Challenging your software modelling to be simpler",
       "https://jeremycarterau.substack.com/p/thinking-in-actors-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 21:52:10",
+      "https://news.ycombinator.com/item?id=42291002"
+    ],
+    [
+      "Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS",
+      "https://github.com/tikimcfee/LookAtThat"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The GNU make jobserver Implementation (2015)",
       "https://make.mad-scientist.net/papers/jobserver-implementation/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 13:34:40",
-      "https://news.ycombinator.com/item?id=42245573"
-    ],
-    [
-      "Show HN: Steel.dev – An open-source browser API for AI agents and apps",
-      "https://github.com/steel-dev/steel-browser"
     ]
   ],
   [
