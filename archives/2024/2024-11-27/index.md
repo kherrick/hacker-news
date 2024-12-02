@@ -40,6 +40,7 @@
 * [2024-11-27, 16:52:38](https://news.ycombinator.com/item?id=42257519) - [Prelude to McCarthyism: The Making of a Blacklist (2006)](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
 * [2024-11-27, 16:49:44](https://news.ycombinator.com/item?id=42257493) - [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
 * [2024-11-27, 16:46:38](https://news.ycombinator.com/item?id=42257452) - [Ask HN: Recommend me some silent movies](https://news.ycombinator.com/item?id=42257452)
+* [2024-11-27, 16:44:28](https://news.ycombinator.com/item?id=42257432) - [Show HN: A program to learn phrases in multiple languages at once](https://fluent.monster/)
 * [2024-11-27, 16:17:20](https://news.ycombinator.com/item?id=42257196) - [.an, the TLD that ceased to exist](https://en.wikipedia.org/wiki/.an)
 * [2024-11-27, 16:08:19](https://news.ycombinator.com/item?id=42257124) - [Probable extinction of influenza B/Yamagata and its public health implications](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00066-1/fulltext)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – Open-source AIOps and alert management](https://github.com/keephq/keep)
