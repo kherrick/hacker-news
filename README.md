@@ -23,11 +23,11 @@
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural knowledge in pretraining drives reasoning in large language models](https://arxiv.org/abs/2411.12580)
 * [2024-12-01, 15:43:40](https://news.ycombinator.com/item?id=42288956) - [Kubernetes on Hetzner: cutting my infra bill by 75%](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
-* [2024-11-28, 05:48:55](https://news.ycombinator.com/item?id=42262791) - ['The Endless Refrain' asks: Do we even want new music anymore?](https://www.washingtonpost.com/books/2024/11/26/endless-refrain-nostalgia-music-david-rowell-review/)
 * [2024-11-27, 21:53:05](https://news.ycombinator.com/item?id=42260179) - [Ask HN: Tools or frameworks to build music theory games](https://news.ycombinator.com/item?id=42260179)
 * [2024-11-27, 15:56:33](https://news.ycombinator.com/item?id=42257040) - [Vesuvius Challenge: First letters found in new scroll](https://scrollprize.substack.com/p/first-letters-found-in-new-scroll)
 * [2024-11-27, 07:16:28](https://news.ycombinator.com/item?id=42253735) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
+* [2024-11-26, 18:42:02](https://news.ycombinator.com/item?id=42248567) - [The GNU make jobserver Implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 13:34:40](https://news.ycombinator.com/item?id=42245573) - [Show HN: Steel.dev – An open-source browser API for AI agents and apps](https://github.com/steel-dev/steel-browser)
 * [2024-11-23, 12:39:37](https://news.ycombinator.com/item?id=42220580) - [Ryugu asteroid sample colonized by terrestrial life despite strict control](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 
