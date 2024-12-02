@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
+* [2024-12-02, 16:18:52](https://news.ycombinator.com/item?id=42297644) - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
 * [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
-* [2024-12-02, 13:34:23](https://news.ycombinator.com/item?id=42296034) - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
 * [2024-12-02, 12:24:04](https://news.ycombinator.com/item?id=42295491) - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 07:07:24](https://news.ycombinator.com/item?id=42293832) - [The Beautiful Math of Bloom Filters](https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/)
@@ -15,6 +15,7 @@
 * [2024-12-02, 00:08:38](https://news.ycombinator.com/item?id=42291781) - [When was the famous \"sudo warning\" introduced? (2019)](https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom)
 * [2024-12-01, 22:59:52](https://news.ycombinator.com/item?id=42291386) - [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
 * [2024-12-01, 22:16:38](https://news.ycombinator.com/item?id=42291125) - [Thinking in Actors – Challenging your software modelling to be simpler](https://jeremycarterau.substack.com/p/thinking-in-actors-part-1)
+* [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
 * [2024-12-01, 21:50:51](https://news.ycombinator.com/item?id=42290996) - [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html)
 * [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What Will Enter the Public Domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 19:17:06](https://news.ycombinator.com/item?id=42290069) - [1/0 = 0 (2018)](https://www.hillelwayne.com/post/divide-by-zero/)
@@ -28,7 +29,6 @@
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, She Wrote. Martha Wells Article on Wired](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-26, 22:27:09](https://news.ycombinator.com/item?id=42250773) - [What happens if we remove 50 percent of Llama?](https://neuralmagic.com/blog/24-sparse-llama-smaller-models-for-efficient-gpu-inference/)
 * [2024-11-26, 18:42:02](https://news.ycombinator.com/item?id=42248567) - [The GNU make jobserver Implementation (2015)](https://make.mad-scientist.net/papers/jobserver-implementation/)
-* [2024-11-26, 13:34:40](https://news.ycombinator.com/item?id=42245573) - [Show HN: Steel.dev – An open-source browser API for AI agents and apps](https://github.com/steel-dev/steel-browser)
 * [2024-11-23, 12:39:37](https://news.ycombinator.com/item?id=42220580) - [Ryugu asteroid sample colonized by terrestrial life despite strict control](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 
 ## [Archives](archives/index.md)

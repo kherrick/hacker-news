@@ -15,6 +15,7 @@
 * [2024-12-01, 22:13:56](https://news.ycombinator.com/item?id=42291111) - [UK counter-terrorism unit demands Steam withdraw controversial shooter from sale](https://www.eurogamer.net/uk-counter-terrorism-unit-demands-steam-withdraw-controversial-shooter-from-sale)
 * [2024-12-01, 22:12:24](https://news.ycombinator.com/item?id=42291101) - [Star Citizen crowdfunding passes $750M](https://robertsspaceindustries.com/funding-goals)
 * [2024-12-01, 21:59:51](https://news.ycombinator.com/item?id=42291041) - [Scalable and Performant Data Loading](https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1)
+* [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
 * [2024-12-01, 21:50:51](https://news.ycombinator.com/item?id=42290996) - [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
 * [2024-12-01, 21:29:38](https://news.ycombinator.com/item?id=42290861) - [Programming the C64 with Visual Studio Code – Retro Game Coders](https://retrogamecoders.com/c64-visual-studio-code/)
 * [2024-12-01, 20:54:02](https://news.ycombinator.com/item?id=42290664) - [Rackspace Spot – Rackspace – Pricing Page](https://spot.rackspace.com/static-files/html/pricing.html)
