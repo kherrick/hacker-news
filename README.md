@@ -25,9 +25,9 @@
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-02, 03:44:25](https://news.ycombinator.com/item?id=42292909) - [The Rock VX Gas Canister Build (2022)](https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/)
 * [2024-12-01, 21:52:10](https://news.ycombinator.com/item?id=42291002) - [Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS](https://github.com/tikimcfee/LookAtThat)
-* [2024-12-01, 20:17:02](https://news.ycombinator.com/item?id=42290448) - [What will enter the public domain in 2025?](https://publicdomainreview.org/features/entering-the-public-domain/2025/)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
+* [2024-11-27, 17:10:32](https://news.ycombinator.com/item?id=42257666) - [Direct testing of natural twister ribozymes from over a thousand organisms](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-25, 17:41:32](https://news.ycombinator.com/item?id=42238261) - [Functional Rick and Morty Butter Bot can roam your breakfast table](https://www.theverge.com/2024/11/21/24302292/rick-and-morty-butter-bot-ai-kickstarter-robot-toy)
 
