@@ -1,12 +1,62 @@
 [
   [
     [
-      "2024-12-01, 23:38:07",
-      "https://news.ycombinator.com/item?id=42291611"
+      "2024-12-02, 01:39:33",
+      "https://news.ycombinator.com/item?id=42292294"
     ],
     [
-      "Police bust pirate streaming service making €250M per month",
-      "https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/"
+      "'Brain rot' named Oxford Word of the Year 2024",
+      "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 01:31:49",
+      "https://news.ycombinator.com/item?id=42292235"
+    ],
+    [
+      "ICP-Brasil: Mis-issued certificate",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1934361"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 01:26:32",
+      "https://news.ycombinator.com/item?id=42292204"
+    ],
+    [
+      "Working with PaloAlto to identify CVE-2024-2550",
+      "https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 01:00:27",
+      "https://news.ycombinator.com/item?id=42292067"
+    ],
+    [
+      "Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker",
+      "https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 00:19:16",
+      "https://news.ycombinator.com/item?id=42291833"
+    ],
+    [
+      "Demystifying Git Submodules",
+      "https://www.cyberdemon.org/2024/03/20/submodules.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 00:08:38",
+      "https://news.ycombinator.com/item?id=42291781"
+    ],
+    [
+      "When was the famous \"sudo warning\" introduced? (2019)",
+      "https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom"
     ]
   ],
   [
@@ -41,31 +91,11 @@
   ],
   [
     [
-      "2024-12-01, 22:12:24",
-      "https://news.ycombinator.com/item?id=42291101"
-    ],
-    [
-      "Star Citizen crowdfunding passes $750M",
-      "https://robertsspaceindustries.com/funding-goals"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 21:59:51",
-      "https://news.ycombinator.com/item?id=42291041"
-    ],
-    [
-      "Scalable and Performant Data Loading",
-      "https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 21:50:51",
       "https://news.ycombinator.com/item?id=42290996"
     ],
     [
-      "How to Study Mathematics",
+      "How to Study Mathematics (2017)",
       "https://www.math.uh.edu/~dblecher/pf2.html"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42290861"
     ],
     [
-      "Programming the C64 with Visual Studio Code – Retro Game Coders",
+      "Programming the C64 with Visual Studio Code",
       "https://retrogamecoders.com/c64-visual-studio-code/"
     ]
   ],
@@ -101,12 +131,32 @@
   ],
   [
     [
+      "2024-12-01, 19:17:06",
+      "https://news.ycombinator.com/item?id=42290069"
+    ],
+    [
+      "1/0 = 0 (2018)",
+      "https://www.hillelwayne.com/post/divide-by-zero/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 19:05:10",
       "https://news.ycombinator.com/item?id=42290011"
     ],
     [
       "The Color of Noise (2014)",
       "https://caseymuratori.com/blog_0010"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 18:56:22",
+      "https://news.ycombinator.com/item?id=42289955"
+    ],
+    [
+      "Ask HN: How can I grow as an engineer without good seniors to learn from?",
+      "https://news.ycombinator.com/item?id=42289955"
     ]
   ],
   [
@@ -171,22 +221,12 @@
   ],
   [
     [
-      "2024-12-01, 13:26:56",
-      "https://news.ycombinator.com/item?id=42288341"
+      "2024-12-01, 15:43:40",
+      "https://news.ycombinator.com/item?id=42288956"
     ],
     [
-      "Handwriting but not typewriting leads to widespread connectivity in brain",
-      "https://www.openread.academy/en/paper/reading?corpusId=503252214"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 09:37:56",
-      "https://news.ycombinator.com/item?id=42287345"
-    ],
-    [
-      "Review of \"Statistics\" by Freedman, Pisani, and Purves (2017)",
-      "http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html"
+      "Kubernetes on Hetzner: cutting my infra bill by 75%",
+      "https://bilbof.com/posts/kubernetes-on-hetzner"
     ]
   ],
   [
@@ -197,46 +237,6 @@
     [
       "Advent of Code 2024",
       "https://adventofcode.com/2024/about"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 00:28:04",
-      "https://news.ycombinator.com/item?id=42285128"
-    ],
-    [
-      "Jeff Dean responds to EDA industry about AlphaChip",
-      "https://twitter.com/JeffDean/status/1858540085794451906"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 22:13:49",
-      "https://news.ycombinator.com/item?id=42284412"
-    ],
-    [
-      "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "https://github.com/privastead/privastead"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 20:50:08",
-      "https://news.ycombinator.com/item?id=42283950"
-    ],
-    [
-      "Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs",
-      "https://github.com/maharmstone/ntfs2btrfs"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 20:47:35",
-      "https://news.ycombinator.com/item?id=42283933"
-    ],
-    [
-      "AMD Disables Zen 4's Loop Buffer",
-      "https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-11-25, 11:41:12",
-      "https://news.ycombinator.com/item?id=42235412"
+      "2024-11-26, 13:34:40",
+      "https://news.ycombinator.com/item?id=42245573"
     ],
     [
-      "Mobile 3D Printer Can Print Directly on Your Floor",
-      "https://spectrum.ieee.org/mobile-3d-printer"
+      "Show HN: Steel.dev – An open-source browser API for AI agents and apps",
+      "https://github.com/steel-dev/steel-browser"
     ]
   ],
   [
