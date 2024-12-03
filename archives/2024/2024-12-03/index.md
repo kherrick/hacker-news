@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
 * [2024-12-03, 16:01:42](https://news.ycombinator.com/item?id=42307604) - [My domain registrar (DNSimple) tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
+* [2024-12-03, 15:46:57](https://news.ycombinator.com/item?id=42307393) - [Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
 * [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
 * [2024-12-03, 15:28:22](https://news.ycombinator.com/item?id=42307148) - ['With brain preservation, nobody has to die'](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
 * [2024-12-03, 15:21:13](https://news.ycombinator.com/item?id=42307065) - [AI Advent of Code: Implementing Papers](https://www.leetarxiv.com/)
