@@ -53,6 +53,7 @@
 * [2024-12-01, 13:06:32](https://news.ycombinator.com/item?id=42288258) - [OrioleDB beta7: Benchmarks](https://www.orioledb.com/blog/orioledb-beta7-benchmarks)
 * [2024-12-01, 12:45:58](https://news.ycombinator.com/item?id=42288184) - [Stripe Black Friday Dashboard (Physical Machine)](https://bfcm.stripe.com/)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
+* [2024-12-01, 11:52:27](https://news.ycombinator.com/item?id=42287930) - [Show HN: Simtown: A 2D Role-Playing Game Where Characters Talk, Move, and Act](https://app.simtown.ai/)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 11:23:45](https://news.ycombinator.com/item?id=42287792) - [Foams Made Out of Felt](https://blog.tanyakhovanova.com/2024/11/foams-made-out-of-felt/)
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)

@@ -6,6 +6,7 @@
 
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
 * [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
+* [2024-12-03, 17:54:39](https://news.ycombinator.com/item?id=42309010) - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
 * [2024-12-03, 17:41:55](https://news.ycombinator.com/item?id=42308849) - [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/)
 * [2024-12-03, 17:30:41](https://news.ycombinator.com/item?id=42308716) - [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
 * [2024-12-03, 17:28:42](https://news.ycombinator.com/item?id=42308682) - [MTA's A.I. bus cameras issue mistaken parking violations](https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/)
