@@ -67,6 +67,7 @@
 * [2024-11-23, 11:05:43](https://news.ycombinator.com/item?id=42220304) - [Neomacs: Structural Lisp IDE/browser/computing environment](https://github.com/neomacs-project/neomacs)
 * [2024-11-23, 10:19:07](https://news.ycombinator.com/item?id=42220205) - [Retro No More: Interactive Fiction of the Early Comp Era](https://www.filfre.net/2024/11/retro-no-more-interactive-fiction-of-the-early-comp-era/)
 * [2024-11-23, 10:01:30](https://news.ycombinator.com/item?id=42220155) - [Highest-Resolution Images Ever Captured of the Sun's Entire Surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+* [2024-11-23, 09:51:15](https://news.ycombinator.com/item?id=42220122) - [Khronos Group adopts the Slang shading language](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-23, 09:42:03](https://news.ycombinator.com/item?id=42220078) - [SQLite's Use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 09:38:11](https://news.ycombinator.com/item?id=42220062) - [How the ZX Spectrum became a 1980s icon](https://www.bbc.com/news/articles/cpvzp80jv07o)
 * [2024-11-23, 09:20:37](https://news.ycombinator.com/item?id=42219989) - [Surrealism, cafes and lots (and lots) of cats: why Japanese fiction is booming](https://www.theguardian.com/books/2024/nov/23/japanese-fiction-britain-translation)
