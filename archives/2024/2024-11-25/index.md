@@ -8,6 +8,7 @@
 * [2024-11-25, 22:43:50](https://news.ycombinator.com/item?id=42240896) - [Abacist – Calculations with non-decimal units and mixed bases in Scala](https://soundness.dev/)
 * [2024-11-25, 22:13:05](https://news.ycombinator.com/item?id=42240686) - [Sombrero Galaxy dazzles in new James Webb image](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 * [2024-11-25, 22:11:31](https://news.ycombinator.com/item?id=42240678) - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
+* [2024-11-25, 22:04:58](https://news.ycombinator.com/item?id=42240638) - [Accelerated AI Inference via Dynamic Execution Methods](https://arxiv.org/abs/2411.00853)
 * [2024-11-25, 21:33:42](https://news.ycombinator.com/item?id=42240421) - ['I had no idea being a social drinker would damage my liver by 31'](https://www.bbc.co.uk/news/articles/c30pre660mzo)
 * [2024-11-25, 21:24:45](https://news.ycombinator.com/item?id=42240364) - [Synapse still can't find its money](https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money)
 * [2024-11-25, 21:22:17](https://news.ycombinator.com/item?id=42240350) - [Supreme Court wants US input on whether ISPs should be liable for users' piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
