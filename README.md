@@ -7,7 +7,6 @@
 * [2024-12-03, 21:00:04](https://news.ycombinator.com/item?id=42311349) - [Openlayer (YC S21) is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-03, 19:48:14](https://news.ycombinator.com/item?id=42310461) - [Text Editing Hates You Too (2019)](https://lord.io/text-editing-hates-you-too/)
-* [2024-12-03, 19:25:43](https://news.ycombinator.com/item?id=42310165) - [Show HN: I built an AI tool to analyze SEC filings the minute they're released](https://docdelta.ca)
 * [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
 * [2024-12-03, 18:25:40](https://news.ycombinator.com/item?id=42309429) - [FTC takes action against Gravy Analytics, Venntel for selling location data](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
@@ -29,6 +28,7 @@
 * [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams are an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
 * [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [Student rocket group shatters amateur space record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
+* [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 
 ## [Archives](archives/index.md)
