@@ -54,6 +54,7 @@
 * [2024-11-28, 07:37:38](https://news.ycombinator.com/item?id=42263315) - [Microsoft says it's built an Xbox game store on Android but can't launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
 * [2024-11-28, 07:23:23](https://news.ycombinator.com/item?id=42263239) - [Conversational Game Theory](https://aikiwiki.com/)
 * [2024-11-28, 07:14:51](https://news.ycombinator.com/item?id=42263178) - [The great abandonment: what happens to the natural world when people disappear?](https://www.theguardian.com/news/2024/nov/28/great-abandonment-what-happens-natural-world-people-disappear-bulgaria)
+* [2024-11-28, 06:52:16](https://news.ycombinator.com/item?id=42263031) - [Teaching quantum physics in schools: Experts encourage focus on 2 state systems](https://phys.org/news/2024-11-quantum-physics-easier-digest-schools.html)
 * [2024-11-28, 06:04:20](https://news.ycombinator.com/item?id=42262838) - [VCs Discover Billions Wasted on Inefficient Engineering Teams](https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/)
 * [2024-11-28, 05:48:55](https://news.ycombinator.com/item?id=42262791) - ['The Endless Refrain' asks: Do we even want new music anymore?](https://www.washingtonpost.com/books/2024/11/26/endless-refrain-nostalgia-music-david-rowell-review/)
 * [2024-11-28, 05:35:00](https://news.ycombinator.com/item?id=42262734) - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
