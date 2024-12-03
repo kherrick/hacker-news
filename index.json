@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-03, 00:58:53",
+      "https://news.ycombinator.com/item?id=42302026"
+    ],
+    [
+      "Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay",
+      "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 22:53:14",
       "https://news.ycombinator.com/item?id=42301228"
     ],
@@ -17,16 +27,6 @@
     [
       "A better approach to gravity: how we made EGM2008 faster",
       "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 21:53:28",
-      "https://news.ycombinator.com/item?id=42300825"
-    ],
-    [
-      "The Great Grocery Squeeze: federal policy change in '80s created the food desert",
-      "https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-12-01, 21:52:10",
-      "https://news.ycombinator.com/item?id=42291002"
-    ],
-    [
-      "Show HN: Glyph3D – A 3D text visualizer for macOS and iOS / iPadOS",
-      "https://github.com/tikimcfee/LookAtThat"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 13:18:12",
       "https://news.ycombinator.com/item?id=42288312"
     ],
@@ -287,6 +277,16 @@
     [
       "Learn Perfect Pitch in 15 years",
       "https://www.moderndescartes.com/essays/perfect_pitch/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 22:04:58",
+      "https://news.ycombinator.com/item?id=42240638"
+    ],
+    [
+      "Accelerated AI Inference via Dynamic Execution Methods",
+      "https://arxiv.org/abs/2411.00853"
     ]
   ],
   [
