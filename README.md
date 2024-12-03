@@ -23,12 +23,12 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
-* [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"the decline of the greatest coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 10:20:49](https://news.ycombinator.com/item?id=42294766) - [FizzBuzz in Powerchords](https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-25, 22:04:58](https://news.ycombinator.com/item?id=42240638) - [Accelerated AI Inference via Dynamic Execution Methods](https://arxiv.org/abs/2411.00853)
+* [2024-11-25, 12:42:07](https://news.ycombinator.com/item?id=42235796) - [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
 * [2024-11-25, 01:52:54](https://news.ycombinator.com/item?id=42232465) - [Ethiopian wolves reported to feed on nectar](https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time)
 
 ## [Archives](archives/index.md)
