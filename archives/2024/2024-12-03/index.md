@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 15:28:22](https://news.ycombinator.com/item?id=42307148) - ['With brain preservation, nobody has to die'](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
+* [2024-12-03, 15:21:13](https://news.ycombinator.com/item?id=42307065) - [AI Advent of Code: Implementing Papers](https://www.leetarxiv.com/)
 * [2024-12-03, 15:06:34](https://news.ycombinator.com/item?id=42306857) - [AI poetry is indistinguishable from human poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)
 * [2024-12-03, 14:24:04](https://news.ycombinator.com/item?id=42306325) - [Cascading retrieval: Unifying dense and sparse vector embeddings with reranking](https://www.pinecone.io/blog/cascading-retrieval/)
 * [2024-12-03, 14:18:46](https://news.ycombinator.com/item?id=42306271) - [Thoughts on DuckDB's Crazy Grammar Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-crazy-grammar-thing/)
@@ -13,6 +15,8 @@
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 * [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Why Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 13:22:23](https://news.ycombinator.com/item?id=42305767) - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
+* [2024-12-03, 12:43:51](https://news.ycombinator.com/item?id=42305533) - [Two decades after Enron's bankruptcy, the company is back as a crypto firm?](https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/)
+* [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
