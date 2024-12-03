@@ -12,6 +12,7 @@
 * [2024-12-03, 19:25:43](https://news.ycombinator.com/item?id=42310165) - [Show HN: I built an AI tool to analyze SEC filings the minute they're released](https://docdelta.ca)
 * [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
 * [2024-12-03, 18:50:49](https://news.ycombinator.com/item?id=42309742) - [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
+* [2024-12-03, 18:25:40](https://news.ycombinator.com/item?id=42309429) - [FTC takes action against Gravy Analytics, Venntel for selling location data](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
 * [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
 * [2024-12-03, 17:54:39](https://news.ycombinator.com/item?id=42309010) - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
