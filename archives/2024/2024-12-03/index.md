@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 13:22:23](https://news.ycombinator.com/item?id=42305767) - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)

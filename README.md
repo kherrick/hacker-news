@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-03, 13:22:23](https://news.ycombinator.com/item?id=42305767) - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
 * [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
@@ -22,8 +23,7 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
-* [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
-* [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams aren't just a fad. They're an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+* [2024-12-01, 12:45:58](https://news.ycombinator.com/item?id=42288184) - [Stripe Black Friday Dashboard (Physical Machine)](https://bfcm.stripe.com/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-27, 15:50:22](https://news.ycombinator.com/item?id=42256969) - [The rise of digital housekeeping: the hidden work of smart technology](https://www.oslomet.no/en/research/featured-research/the-rise-of-digital-housekeeping)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
