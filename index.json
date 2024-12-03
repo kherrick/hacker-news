@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-03, 21:38:46",
+      "https://news.ycombinator.com/item?id=42311828"
+    ],
+    [
+      "Creating a Proxmox or QEMU ChromeOS Flex VM",
+      "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 21:00:04",
       "https://news.ycombinator.com/item?id=42311349"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2024-12-03, 15:28:22",
-      "https://news.ycombinator.com/item?id=42307148"
+      "2024-12-03, 15:06:34",
+      "https://news.ycombinator.com/item?id=42306857"
     ],
     [
-      "‘With brain preservation, nobody has to die’",
-      "https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"
+      "AI poetry is indistinguishable from human poetry and is rated more favorably",
+      "https://www.nature.com/articles/s41598-024-76900-1"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "On-scalp printing of personalized electroencephalography e-tattoos",
       "https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 13:53:50",
-      "https://news.ycombinator.com/item?id=42306020"
-    ],
-    [
-      "South Korean president declares martial law, parliament votes to lift it",
-      "https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-12-02, 16:00:52",
-      "https://news.ycombinator.com/item?id=42297424"
-    ],
-    [
-      "Ask HN: Who is hiring? (December 2024)",
-      "https://news.ycombinator.com/item?id=42297424"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 20:40:05",
       "https://news.ycombinator.com/item?id=42276928"
     ],
@@ -277,6 +267,16 @@
     [
       "Student rocket group shatters amateur space record",
       "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 07:29:10",
+      "https://news.ycombinator.com/item?id=42253814"
+    ],
+    [
+      "Rust in QEMU Roadmap",
+      "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
     ]
   ],
   [
