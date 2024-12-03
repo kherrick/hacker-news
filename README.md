@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 * [2024-12-03, 07:34:47](https://news.ycombinator.com/item?id=42303798) - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
 * [2024-12-03, 07:00:10](https://news.ycombinator.com/item?id=42303636) - [Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs)
 * [2024-12-03, 06:03:36](https://news.ycombinator.com/item?id=42303385) - [NCSI Probing Needs to Die](https://github.com/stryngs/edgedressing/tree/main/payloads/duster)
@@ -24,7 +25,6 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
-* [2024-12-02, 10:20:49](https://news.ycombinator.com/item?id=42294766) - [FizzBuzz in Powerchords](https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-25, 22:04:58](https://news.ycombinator.com/item?id=42240638) - [Accelerated AI Inference via Dynamic Execution Methods](https://arxiv.org/abs/2411.00853)
