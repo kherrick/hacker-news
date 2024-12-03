@@ -50,6 +50,7 @@
 * [2024-11-25, 13:28:14](https://news.ycombinator.com/item?id=42236103) - [Mechanical Engineer creates instruments for his one man industrial metal band](https://www.revolvermag.com/music/author-punisher-how-tool-approved-industrial-metal-mad-scientist-found-hope-amid-doom/)
 * [2024-11-25, 13:00:15](https://news.ycombinator.com/item?id=42235909) - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
 * [2024-11-25, 12:42:07](https://news.ycombinator.com/item?id=42235796) - [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
+* [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 * [2024-11-25, 12:38:33](https://news.ycombinator.com/item?id=42235762) - [What happened when a city started accepting - not evicting - homeless camps](https://www.bbc.com/news/articles/c3wq7l1lnqpo)
 * [2024-11-25, 12:33:12](https://news.ycombinator.com/item?id=42235718) - [Mirror, Mirror on the Wall, What Is the Best Topology of Them All?](https://cacm.acm.org/research-highlights/technical-perspective-mirror-mirror-on-the-wall-what-is-the-best-topology-of-them-all/)
 * [2024-11-25, 12:19:55](https://news.ycombinator.com/item?id=42235635) - [Mysteries in polar orbit – space's oldest working hardware keeps its secrets](https://www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/)

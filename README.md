@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-03, 17:01:04](https://news.ycombinator.com/item?id=42308388) - [Stack Auth (YC S24), the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
+* [2024-12-03, 17:01:04](https://news.ycombinator.com/item?id=42308388) - [Stack Auth (YC S24), open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
 * [2024-12-03, 16:44:30](https://news.ycombinator.com/item?id=42308184) - [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 * [2024-12-03, 16:01:42](https://news.ycombinator.com/item?id=42307604) - [My domain registrar (DNSimple) tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
 * [2024-12-03, 15:46:57](https://news.ycombinator.com/item?id=42307393) - [Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
-* [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
+* [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25k to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
-* [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Why Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 12:43:51](https://news.ycombinator.com/item?id=42305533) - [Two decades after Enron's bankruptcy, the company is back as a crypto firm?](https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/)
 * [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 07:34:47](https://news.ycombinator.com/item?id=42303798) - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
@@ -29,6 +28,7 @@
 * [2024-11-26, 22:18:23](https://news.ycombinator.com/item?id=42250701) - [Learn perfect pitch in 15 years](https://www.moderndescartes.com/essays/perfect_pitch/)
 * [2024-11-26, 15:15:09](https://news.ycombinator.com/item?id=42246468) - [Show HN: my party game where AI decides if you’re funny](https://playsnatched.com)
 * [2024-11-26, 08:51:40](https://news.ycombinator.com/item?id=42243751) - ['I'm running a Mud so I can learn C programming ' (1993)](https://raw.githubusercontent.com/alexmchale/merc-mud/refs/heads/master/doc/hacker.txt)
+* [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 * [2024-11-24, 23:31:31](https://news.ycombinator.com/item?id=42231580) - [An English castle became a stork magnet](https://www.bbc.com/future/article/20240326-how-an-english-castles-grounds-became-a-stork-paradise)
 
 ## [Archives](archives/index.md)
