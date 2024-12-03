@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 23:59:52](https://news.ycombinator.com/item?id=42278243) - [The Last Viridian Note (2008)](https://www.viridiandesign.org/notes/451-500/the_last_viridian_note.html)
 * [2024-11-29, 23:48:53](https://news.ycombinator.com/item?id=42278160) - [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
 * [2024-11-29, 23:47:19](https://news.ycombinator.com/item?id=42278148) - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 * [2024-11-29, 23:13:57](https://news.ycombinator.com/item?id=42277963) - [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)

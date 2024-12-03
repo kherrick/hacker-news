@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 15:06:34](https://news.ycombinator.com/item?id=42306857) - [AI poetry is indistinguishable from human poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)
 * [2024-12-03, 14:24:04](https://news.ycombinator.com/item?id=42306325) - [Cascading retrieval: Unifying dense and sparse vector embeddings with reranking](https://www.pinecone.io/blog/cascading-retrieval/)
 * [2024-12-03, 14:18:46](https://news.ycombinator.com/item?id=42306271) - [Thoughts on DuckDB's Crazy Grammar Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-crazy-grammar-thing/)
 * [2024-12-03, 14:17:59](https://news.ycombinator.com/item?id=42306261) - [South Korea declares martial law](https://www.koreaherald.com/view.php?ud=20241203050117)
 * [2024-12-03, 14:00:31](https://news.ycombinator.com/item?id=42306073) - [South Korea President Yoon declares martial law](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/)
 * [2024-12-03, 13:53:50](https://news.ycombinator.com/item?id=42306020) - [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
+* [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Why Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 13:22:23](https://news.ycombinator.com/item?id=42305767) - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
