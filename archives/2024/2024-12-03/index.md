@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
+* [2024-12-03, 04:39:56](https://news.ycombinator.com/item?id=42303111) - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 * [2024-12-03, 04:13:12](https://news.ycombinator.com/item?id=42303018) - [High School Student's First App – NWS Weather Report](https://weatherreportnow.com/)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-03, 02:31:29](https://news.ycombinator.com/item?id=42302560) - [Show HN: Book and change flights with one email](https://www.bonbook.co/showhn)

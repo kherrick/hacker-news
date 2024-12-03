@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
+* [2024-12-03, 04:39:56](https://news.ycombinator.com/item?id=42303111) - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 * [2024-12-03, 04:13:12](https://news.ycombinator.com/item?id=42303018) - [High School Student's First App – NWS Weather Report](https://weatherreportnow.com/)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-03, 02:14:50](https://news.ycombinator.com/item?id=42302426) - [8 months of OCaml after 8 years of Haskell in production (2023)](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
@@ -24,7 +25,6 @@
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)
 * [2024-12-02, 10:20:49](https://news.ycombinator.com/item?id=42294766) - [FizzBuzz in Powerchords](https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/)
-* [2024-11-28, 06:52:16](https://news.ycombinator.com/item?id=42263031) - [Teaching quantum physics in schools: Experts encourage focus on 2 state systems](https://phys.org/news/2024-11-quantum-physics-easier-digest-schools.html)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-26, 22:13:46](https://news.ycombinator.com/item?id=42250651) - [A Collection of Kaleidoscope Schemes, Sourced from the WayBack Machine.](https://kaleidoscope.hryjksn.com/)
