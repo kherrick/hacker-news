@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 21:38:46](https://news.ycombinator.com/item?id=42311828) - [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
 * [2024-12-03, 21:00:04](https://news.ycombinator.com/item?id=42311349) - [Openlayer (YC S21) is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-03, 20:06:40](https://news.ycombinator.com/item?id=42310683) - [Stephen King to Shut Down His 3 Radio Stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
