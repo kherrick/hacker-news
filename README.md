@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-03, 02:14:50](https://news.ycombinator.com/item?id=42302426) - [8 months of OCaml after 8 years of Haskell in production (2023)](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 00:58:53](https://news.ycombinator.com/item?id=42302026) - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
 * [2024-12-03, 00:01:40](https://news.ycombinator.com/item?id=42301734) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
@@ -22,7 +23,6 @@
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"the decline of the greatest coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)
-* [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
 * [2024-11-28, 06:52:16](https://news.ycombinator.com/item?id=42263031) - [Teaching quantum physics in schools: Experts encourage focus on 2 state systems](https://phys.org/news/2024-11-quantum-physics-easier-digest-schools.html)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, she wrote](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)
