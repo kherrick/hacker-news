@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
 * [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
 * [2024-12-03, 17:54:39](https://news.ycombinator.com/item?id=42309010) - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
