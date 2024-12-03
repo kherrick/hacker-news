@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-03, 02:14:50",
+      "https://news.ycombinator.com/item?id=42302426"
+    ],
+    [
+      "8 months of OCaml after 8 years of Haskell in production",
+      "https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 00:58:53",
       "https://news.ycombinator.com/item?id=42302026"
     ],
     [
       "Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay",
       "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 00:01:40",
+      "https://news.ycombinator.com/item?id=42301734"
+    ],
+    [
+      ".NET Support on Heroku",
+      "https://blog.heroku.com/dotnet-support-on-heroku"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-12-02, 20:36:53",
-      "https://news.ycombinator.com/item?id=42300134"
-    ],
-    [
-      "Tempest Anderson: Pioneer of Volcano Photography (2015)",
-      "https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 20:10:24",
       "https://news.ycombinator.com/item?id=42299891"
     ],
@@ -67,16 +77,6 @@
     [
       "Facebook's Little Red Book",
       "https://www.map.cv/blog/redbook"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 20:04:29",
-      "https://news.ycombinator.com/item?id=42299829"
-    ],
-    [
-      "Static IPs for Serverless Containers",
-      "https://modal.com/blog/vprox"
     ]
   ],
   [
@@ -231,32 +231,12 @@
   ],
   [
     [
-      "2024-12-02, 03:44:25",
-      "https://news.ycombinator.com/item?id=42292909"
-    ],
-    [
-      "The Rock VX Gas Canister Build (2022)",
-      "https://www.therpf.com/forums/threads/the-rock-vx-gas-canister-build.344983/"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 13:18:12",
       "https://news.ycombinator.com/item?id=42288312"
     ],
     [
       "The Sperry Rand Corporation",
       "https://www.abortretry.fail/p/the-sperry-rand-corporation"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 17:10:32",
-      "https://news.ycombinator.com/item?id=42257666"
-    ],
-    [
-      "Direct testing of natural twister ribozymes from over a thousand organisms",
-      "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-11-26, 22:13:46",
+      "https://news.ycombinator.com/item?id=42250651"
+    ],
+    [
+      "A Collection of Kaleidoscope Schemes, Sourced from the WayBack Machine.",
+      "https://kaleidoscope.hryjksn.com/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 22:04:58",
       "https://news.ycombinator.com/item?id=42240638"
     ],
@@ -297,6 +287,16 @@
     [
       "Ethiopian wolves reported to feed on nectar",
       "https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time"
+    ]
+  ],
+  [
+    [
+      "2024-11-23, 09:51:15",
+      "https://news.ycombinator.com/item?id=42220122"
+    ],
+    [
+      "Khronos Group adopts the Slang shading language",
+      "https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia"
     ]
   ]
 ]
