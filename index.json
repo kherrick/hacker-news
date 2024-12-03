@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-03, 12:16:33",
+      "https://news.ycombinator.com/item?id=42305348"
+    ],
+    [
+      "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
+      "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 03:18:03",
       "https://news.ycombinator.com/item?id=42302784"
     ],
@@ -287,16 +297,6 @@
     [
       "The Curse of Markdown",
       "https://codehike.org/blog/the-curse-of-markdown"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 21:37:27",
-      "https://news.ycombinator.com/item?id=42224141"
-    ],
-    [
-      "Ask HN: Payment processing for micro SaaS outside USA?",
-      "https://news.ycombinator.com/item?id=42224141"
     ]
   ]
 ]
