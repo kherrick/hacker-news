@@ -2,7 +2,6 @@
 
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
-* [2024-12-03, 08:42:25](https://news.ycombinator.com/item?id=42304161) - [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)
 * [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 * [2024-12-03, 07:34:47](https://news.ycombinator.com/item?id=42303798) - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
@@ -14,6 +13,7 @@
 * [2024-12-03, 00:58:53](https://news.ycombinator.com/item?id=42302026) - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
 * [2024-12-02, 22:53:14](https://news.ycombinator.com/item?id=42301228) - [Show HN: Open-sourced (road) traffic counting application](https://github.com/asfarley/vtc_lfs)
 * [2024-12-02, 21:55:13](https://news.ycombinator.com/item?id=42300841) - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
+* [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:51:03](https://news.ycombinator.com/item?id=42299098) - [Show HN: Flow – A dynamic task engine for building AI agents](https://github.com/lmnr-ai/flow)
 * [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
@@ -25,9 +25,9 @@
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams aren't just a fad. They're an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
+* [2024-11-27, 15:50:22](https://news.ycombinator.com/item?id=42256969) - [The rise of digital housekeeping: the hidden work of smart technology](https://www.oslomet.no/en/research/featured-research/the-rise-of-digital-housekeeping)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-26, 15:15:09](https://news.ycombinator.com/item?id=42246468) - [Show HN: my party game where AI decides if you’re funny](https://playsnatched.com)
-* [2024-11-25, 22:04:58](https://news.ycombinator.com/item?id=42240638) - [Accelerated AI Inference via Dynamic Execution Methods](https://arxiv.org/abs/2411.00853)
 * [2024-11-25, 12:42:07](https://news.ycombinator.com/item?id=42235796) - [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
 * [2024-11-24, 23:31:31](https://news.ycombinator.com/item?id=42231580) - [An English castle became a stork magnet](https://www.bbc.com/future/article/20240326-how-an-english-castles-grounds-became-a-stork-paradise)
 

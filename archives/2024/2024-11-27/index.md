@@ -47,6 +47,7 @@
 * [2024-11-27, 16:08:19](https://news.ycombinator.com/item?id=42257124) - [Probable extinction of influenza B/Yamagata and its public health implications](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00066-1/fulltext)
 * [2024-11-27, 15:58:42](https://news.ycombinator.com/item?id=42257060) - [Launch HN: Keep (YC W23) – Open-source AIOps and alert management](https://github.com/keephq/keep)
 * [2024-11-27, 15:56:33](https://news.ycombinator.com/item?id=42257040) - [Vesuvius Challenge: First letters found in new scroll](https://scrollprize.substack.com/p/first-letters-found-in-new-scroll)
+* [2024-11-27, 15:50:22](https://news.ycombinator.com/item?id=42256969) - [The rise of digital housekeeping: the hidden work of smart technology](https://www.oslomet.no/en/research/featured-research/the-rise-of-digital-housekeeping)
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine! I'll Play with Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
 * [2024-11-27, 15:13:28](https://news.ycombinator.com/item?id=42256694) - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
