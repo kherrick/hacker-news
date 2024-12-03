@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 21:47:08](https://news.ycombinator.com/item?id=42311912) - [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
 * [2024-12-03, 21:38:46](https://news.ycombinator.com/item?id=42311828) - [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
@@ -28,7 +29,6 @@
 * [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams are an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
 * [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [Student rocket group shatters amateur space record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
-* [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 
 ## [Archives](archives/index.md)
