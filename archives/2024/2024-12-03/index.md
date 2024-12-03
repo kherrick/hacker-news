@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 14:00:31](https://news.ycombinator.com/item?id=42306073) - [South Korea President Yoon declares martial law](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/)
+* [2024-12-03, 13:53:50](https://news.ycombinator.com/item?id=42306020) - [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
+* [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 * [2024-12-03, 13:22:23](https://news.ycombinator.com/item?id=42305767) - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
