@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 17:01:04](https://news.ycombinator.com/item?id=42308388) - [Stack Auth (YC S24), the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
+* [2024-12-03, 16:44:30](https://news.ycombinator.com/item?id=42308184) - [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 * [2024-12-03, 16:01:42](https://news.ycombinator.com/item?id=42307604) - [My domain registrar (DNSimple) tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
 * [2024-12-03, 15:46:57](https://news.ycombinator.com/item?id=42307393) - [Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
 * [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
