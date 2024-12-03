@@ -21,6 +21,7 @@
 * [2024-12-03, 13:53:50](https://news.ycombinator.com/item?id=42306020) - [South Korean president declares martial law, parliament votes to lift it](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 * [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
+* [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-11-29, 20:40:05](https://news.ycombinator.com/item?id=42276928) - [EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)](https://kaiec.github.io/EstyJS/)
@@ -29,7 +30,6 @@
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [Student rocket group shatters amateur space record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-26, 18:41:37](https://news.ycombinator.com/item?id=42248561) - [What does LETTER. do in LISTRD in FAP from 196x?](https://drive.google.com/file/d/1zAJ2zX9WaeR7Ui8F88ZNFZtI5Q-Ow5sb/edit)
 * [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
-* [2024-11-23, 21:37:27](https://news.ycombinator.com/item?id=42224141) - [Ask HN: Payment processing for micro SaaS outside USA?](https://news.ycombinator.com/item?id=42224141)
 
 ## [Archives](archives/index.md)
 
