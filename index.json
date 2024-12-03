@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-03, 20:06:40",
+      "https://news.ycombinator.com/item?id=42310683"
+    ],
+    [
+      "Stephen King to Shut Down His 3 Radio Stations in Maine",
+      "https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 19:28:33",
+      "https://news.ycombinator.com/item?id=42310195"
+    ],
+    [
+      "OpenAI reveals why ChatGPT won't say \"David Mayer\"",
+      "https://www.neowin.net/news/openai-finally-reveals-why-chatgpt-wont-say-david-meyer/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 18:54:00",
       "https://news.ycombinator.com/item?id=42309790"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2024-12-03, 18:50:49",
+      "https://news.ycombinator.com/item?id=42309742"
+    ],
+    [
+      "Webhooks Are Harder Than They Seem",
+      "https://www.svix.com/blog/webhooks-are-harder-than-they-seem/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 18:04:45",
       "https://news.ycombinator.com/item?id=42309121"
     ],
     [
       "Amazon Nova",
       "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 17:54:39",
-      "https://news.ycombinator.com/item?id=42309010"
-    ],
-    [
-      "Intel Launches Arc B-Series Graphics Cards",
-      "https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "MTA's A.I. bus cameras issue mistaken parking violations",
       "https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 17:19:37",
+      "https://news.ycombinator.com/item?id=42308590"
+    ],
+    [
+      "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
+      "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2024-12-03, 02:51:15",
-      "https://news.ycombinator.com/item?id=42302673"
-    ],
-    [
-      "Distributed Erlang",
-      "https://vereis.com/posts/disterl_inbox"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 00:58:53",
-      "https://news.ycombinator.com/item?id=42302026"
-    ],
-    [
-      "Show HN: Copper – Open-source robotics in Rust with deterministic log replay",
-      "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 16:00:52",
       "https://news.ycombinator.com/item?id=42297424"
     ],
@@ -257,16 +267,6 @@
     [
       "Rust in QEMU Roadmap",
       "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 15:15:09",
-      "https://news.ycombinator.com/item?id=42246468"
-    ],
-    [
-      "Show HN: My party game where AI decides if you’re funny",
-      "https://playsnatched.com"
     ]
   ],
   [
