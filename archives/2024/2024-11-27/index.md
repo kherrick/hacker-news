@@ -82,6 +82,7 @@
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 08:16:48](https://news.ycombinator.com/item?id=42254068) - [Shields is 10 years old (2023)](https://github.com/badges/shields/discussions/8867)
 * [2024-11-27, 07:37:03](https://news.ycombinator.com/item?id=42253867) - [Forced to Upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
+* [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
 * [2024-11-27, 07:20:37](https://news.ycombinator.com/item?id=42253756) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 * [2024-11-27, 07:16:28](https://news.ycombinator.com/item?id=42253735) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
