@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-12-02, 14:02:25",
-      "https://news.ycombinator.com/item?id=42296287"
-    ],
-    [
-      "Kenya and \"the decline of the greatest coffee\" (2021)",
-      "https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 13:37:42",
       "https://news.ycombinator.com/item?id=42296067"
     ],
@@ -287,6 +277,16 @@
     [
       "Accelerated AI Inference via Dynamic Execution Methods",
       "https://arxiv.org/abs/2411.00853"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 12:42:07",
+      "https://news.ycombinator.com/item?id=42235796"
+    ],
+    [
+      "Ask questions of SQLite databases and CSV/JSON files in your terminal",
+      "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/"
     ]
   ],
   [
