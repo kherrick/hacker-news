@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-03, 14:24:04](https://news.ycombinator.com/item?id=42306325) - [Cascading retrieval: Unifying dense and sparse vector embeddings with reranking](https://www.pinecone.io/blog/cascading-retrieval/)
+* [2024-12-03, 14:18:46](https://news.ycombinator.com/item?id=42306271) - [Thoughts on DuckDB's Crazy Grammar Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-crazy-grammar-thing/)
+* [2024-12-03, 14:17:59](https://news.ycombinator.com/item?id=42306261) - [South Korea declares martial law](https://www.koreaherald.com/view.php?ud=20241203050117)
 * [2024-12-03, 14:00:31](https://news.ycombinator.com/item?id=42306073) - [South Korea President Yoon declares martial law](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/)
 * [2024-12-03, 13:53:50](https://news.ycombinator.com/item?id=42306020) - [South Korean president declares emergency martial law](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1)
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
@@ -18,7 +19,6 @@
 * [2024-12-03, 00:58:53](https://news.ycombinator.com/item?id=42302026) - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-* [2024-12-02, 16:28:38](https://news.ycombinator.com/item?id=42297733) - [Evidence of the use of silk by Bronze Age civilization](https://www.nature.com/articles/s41598-024-78687-7)
 * [2024-12-02, 16:18:52](https://news.ycombinator.com/item?id=42297644) - [World Labs: Generate 3D worlds from a single image](https://www.worldlabs.ai/blog)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams aren't just a fad. They're an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
