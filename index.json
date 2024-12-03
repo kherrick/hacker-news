@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-03, 17:30:41",
+      "https://news.ycombinator.com/item?id=42308716"
+    ],
+    [
+      "Amazon Aurora DSQL",
+      "https://aws.amazon.com/rds/aurora/dsql/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 17:28:42",
+      "https://news.ycombinator.com/item?id=42308682"
+    ],
+    [
+      "MTA's A.I. bus cameras issue mistaken parking violations",
+      "https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 17:17:41",
+      "https://news.ycombinator.com/item?id=42308564"
+    ],
+    [
+      "America Stopped Cooking with Tallow for a Reason",
+      "https://www.theatlantic.com/health/archive/2024/12/beef-tallow-kennedy-cooking-fat-seed-oil/680848/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 17:01:04",
       "https://news.ycombinator.com/item?id=42308388"
     ],
@@ -17,6 +47,16 @@
     [
       "Broadcom loses another big VMware customer",
       "https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 16:34:18",
+      "https://news.ycombinator.com/item?id=42308051"
+    ],
+    [
+      "Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node",
+      "https://skia-canvas.org/"
     ]
   ],
   [
@@ -51,6 +91,16 @@
   ],
   [
     [
+      "2024-12-03, 14:56:37",
+      "https://news.ycombinator.com/item?id=42306742"
+    ],
+    [
+      "We switched from Next.js to Astro (and why it might interest you)",
+      "https://www.datocms.com/blog/why-we-switched-to-astro"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 13:44:59",
       "https://news.ycombinator.com/item?id=42305954"
     ],
@@ -77,16 +127,6 @@
     [
       "Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ",
       "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 07:34:47",
-      "https://news.ycombinator.com/item?id=42303798"
-    ],
-    [
-      "Y Combinator and Power in Silicon Valley",
-      "https://commoncog.com/c/cases/y-combinator-power/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-12-02, 19:02:38",
-      "https://news.ycombinator.com/item?id=42299231"
-    ],
-    [
-      "Bioluminescent wood using the white rot fungus desarmillaria tabescens",
-      "https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 18:51:03",
       "https://news.ycombinator.com/item?id=42299098"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-12-02, 16:28:38",
-      "https://news.ycombinator.com/item?id=42297733"
-    ],
-    [
-      "Evidence of the use of silk by Bronze Age civilization",
-      "https://www.nature.com/articles/s41598-024-78687-7"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 16:18:52",
       "https://news.ycombinator.com/item?id=42297644"
     ],
@@ -177,16 +197,6 @@
     [
       "Ask HN: Who is hiring? (December 2024)",
       "https://news.ycombinator.com/item?id=42297424"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 16:00:52",
-      "https://news.ycombinator.com/item?id=42297422"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (December 2024)",
-      "https://news.ycombinator.com/item?id=42297422"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Learn perfect pitch in 15 years",
       "https://www.moderndescartes.com/essays/perfect_pitch/"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 15:15:09",
-      "https://news.ycombinator.com/item?id=42246468"
-    ],
-    [
-      "Show HN: my party game where AI decides if you’re funny",
-      "https://playsnatched.com"
     ]
   ],
   [
