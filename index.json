@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-03, 15:28:22",
+      "https://news.ycombinator.com/item?id=42307148"
+    ],
+    [
+      "'With brain preservation, nobody has to die'",
+      "https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 15:21:13",
+      "https://news.ycombinator.com/item?id=42307065"
+    ],
+    [
+      "AI Advent of Code: Implementing Papers",
+      "https://www.leetarxiv.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 15:06:34",
       "https://news.ycombinator.com/item?id=42306857"
     ],
@@ -41,6 +61,26 @@
   ],
   [
     [
+      "2024-12-03, 12:43:51",
+      "https://news.ycombinator.com/item?id=42305533"
+    ],
+    [
+      "Two decades after Enron's bankruptcy, the company is back as a crypto firm?",
+      "https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 12:16:33",
+      "https://news.ycombinator.com/item?id=42305348"
+    ],
+    [
+      "Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ",
+      "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 12:00:23",
       "https://news.ycombinator.com/item?id=42305240"
     ],
@@ -57,16 +97,6 @@
     [
       "Y Combinator and Power in Silicon Valley",
       "https://commoncog.com/c/cases/y-combinator-power/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 04:13:12",
-      "https://news.ycombinator.com/item?id=42303018"
-    ],
-    [
-      "High School Student's First App – NWS Weather Report",
-      "https://weatherreportnow.com/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: Copper – Open-source robotics in Rust with deterministic log replay",
       "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 21:55:13",
-      "https://news.ycombinator.com/item?id=42300841"
-    ],
-    [
-      "A better approach to gravity: how we made EGM2008 faster",
-      "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Every board game rulebook is awful [pdf]",
       "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 13:37:42",
-      "https://news.ycombinator.com/item?id=42296067"
-    ],
-    [
-      "Intel announces retirement of Pat Gelsinger",
-      "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 12:45:58",
-      "https://news.ycombinator.com/item?id=42288184"
-    ],
-    [
-      "Stripe Black Friday Dashboard (Physical Machine)",
-      "https://bfcm.stripe.com/"
     ]
   ],
   [
