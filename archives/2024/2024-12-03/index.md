@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 06:39:52](https://news.ycombinator.com/item?id=42303530) - [Landlords Are Using AI to Raise Rents – and Cities Are Starting to Push Back](https://themarkup.org/locked-out/2024/12/02/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back)
 * [2024-12-03, 05:48:06](https://news.ycombinator.com/item?id=42303325) - [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
 * [2024-12-03, 04:39:56](https://news.ycombinator.com/item?id=42303111) - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)

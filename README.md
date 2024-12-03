@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-03, 06:39:52](https://news.ycombinator.com/item?id=42303530) - [Landlords Are Using AI to Raise Rents – and Cities Are Starting to Push Back](https://themarkup.org/locked-out/2024/12/02/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back)
 * [2024-12-03, 05:48:06](https://news.ycombinator.com/item?id=42303325) - [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
 * [2024-12-03, 04:39:56](https://news.ycombinator.com/item?id=42303111) - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
@@ -22,7 +23,6 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297424) - [Ask HN: Who is hiring? (December 2024)](https://news.ycombinator.com/item?id=42297424)
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every board game rulebook is awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
-* [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"the decline of the greatest coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 * [2024-12-02, 10:20:49](https://news.ycombinator.com/item?id=42294766) - [FizzBuzz in Powerchords](https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
