@@ -12,6 +12,7 @@
 * [2024-12-03, 05:48:06](https://news.ycombinator.com/item?id=42303325) - [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
 * [2024-12-03, 05:26:47](https://news.ycombinator.com/item?id=42303274) - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
 * [2024-12-03, 04:39:56](https://news.ycombinator.com/item?id=42303111) - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
+* [2024-12-03, 04:23:41](https://news.ycombinator.com/item?id=42303054) - [Guile-Emacs Relaunched](https://emacsconf.org/2024/talks/guile/)
 * [2024-12-03, 04:13:12](https://news.ycombinator.com/item?id=42303018) - [High School Student's First App – NWS Weather Report](https://weatherreportnow.com/)
 * [2024-12-03, 03:57:10](https://news.ycombinator.com/item?id=42302963) - [Twice-Yearly HIV Shot Shows 100% Effectiveness in Women](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
