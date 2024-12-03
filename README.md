@@ -2,7 +2,6 @@
 
 * [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
-* [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
 * [2024-12-03, 17:54:39](https://news.ycombinator.com/item?id=42309010) - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
 * [2024-12-03, 17:30:41](https://news.ycombinator.com/item?id=42308716) - [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
 * [2024-12-03, 17:28:42](https://news.ycombinator.com/item?id=42308682) - [MTA's A.I. bus cameras issue mistaken parking violations](https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/)
@@ -27,6 +26,7 @@
 * [2024-11-28, 03:04:13](https://news.ycombinator.com/item?id=42262047) - [Rewrite Git history via drag-and-drop](https://retcon.app)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
+* [2024-11-26, 15:15:09](https://news.ycombinator.com/item?id=42246468) - [Show HN: My party game where AI decides if you’re funny](https://playsnatched.com)
 * [2024-11-26, 08:51:40](https://news.ycombinator.com/item?id=42243751) - ['I'm running a Mud so I can learn C programming ' (1993)](https://raw.githubusercontent.com/alexmchale/merc-mud/refs/heads/master/doc/hacker.txt)
 * [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 * [2024-11-23, 21:37:27](https://news.ycombinator.com/item?id=42224141) - [Ask HN: Payment processing for micro SaaS outside USA?](https://news.ycombinator.com/item?id=42224141)
