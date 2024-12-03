@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-12-03, 04:23:41",
+      "https://news.ycombinator.com/item?id=42303054"
+    ],
+    [
+      "Guile-Emacs Relaunched",
+      "https://emacsconf.org/2024/talks/guile/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 03:57:10",
       "https://news.ycombinator.com/item?id=42302963"
     ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Copper – Open-source robotics in Rust with deterministic log replay",
       "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 22:53:14",
-      "https://news.ycombinator.com/item?id=42301228"
-    ],
-    [
-      "Show HN: Open-sourced (road) traffic counting application",
-      "https://github.com/asfarley/vtc_lfs"
     ]
   ],
   [
