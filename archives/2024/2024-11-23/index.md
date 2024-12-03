@@ -18,6 +18,7 @@
 * [2024-11-23, 21:56:39](https://news.ycombinator.com/item?id=42224264) - [AI PCs make users less productive](https://www.theregister.com/2024/11/22/ai_pcs_productivity/)
 * [2024-11-23, 21:47:26](https://news.ycombinator.com/item?id=42224212) - [Anti-scale: a response to AI in journalism](https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism)
 * [2024-11-23, 21:44:10](https://news.ycombinator.com/item?id=42224186) - [Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)](https://lupyuen.github.io/articles/ci4)
+* [2024-11-23, 21:37:27](https://news.ycombinator.com/item?id=42224141) - [Ask HN: Payment processing for micro SaaS outside USA?](https://news.ycombinator.com/item?id=42224141)
 * [2024-11-23, 21:34:46](https://news.ycombinator.com/item?id=42224113) - [Which Countries Have the Most Industrial Robots?](https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/)
 * [2024-11-23, 21:10:03](https://news.ycombinator.com/item?id=42223905) - [The $5000 Compression Challenge](https://www.patrickcraig.co.uk/other/compression.htm)
 * [2024-11-23, 21:06:33](https://news.ycombinator.com/item?id=42223884) - [The Many Faces of the Kingdom of Shu](https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/)
