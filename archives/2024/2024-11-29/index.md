@@ -49,6 +49,7 @@
 * [2024-11-29, 13:43:48](https://news.ycombinator.com/item?id=42273798) - [The Most Hated Way of Firing Someone, the PIP, Is More Popular Than Ever](https://www.wsj.com/business/firing-someone-performance-improvement-plans-more-popular-the-pip-7cac7062)
 * [2024-11-29, 13:40:13](https://news.ycombinator.com/item?id=42273780) - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 * [2024-11-29, 13:18:35](https://news.ycombinator.com/item?id=42273650) - [NGI Projects adopt Mastodon and PeerTube as main communication channels](https://ngi.eu/news/2024/11/29/ngi-projects-adopt-mastodon-and-peertube-as-main-communication-channels/)
+* [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams aren't just a fad. They're an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
 * [2024-11-29, 12:55:02](https://news.ycombinator.com/item?id=42273516) - [ASML Twinscan EXE:5000 Lego Set](https://asmlstore.com/products/twinscan-exe-5000-lego-set)
 * [2024-11-29, 12:52:51](https://news.ycombinator.com/item?id=42273505) - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
 * [2024-11-29, 12:25:55](https://news.ycombinator.com/item?id=42273361) - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
