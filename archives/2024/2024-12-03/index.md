@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+* [2024-12-03, 21:47:08](https://news.ycombinator.com/item?id=42311912) - [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
 * [2024-12-03, 21:38:46](https://news.ycombinator.com/item?id=42311828) - [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
 * [2024-12-03, 21:00:04](https://news.ycombinator.com/item?id=42311349) - [Openlayer (YC S21) is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
