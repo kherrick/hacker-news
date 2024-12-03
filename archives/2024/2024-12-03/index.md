@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
+* [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
+* [2024-12-03, 17:41:55](https://news.ycombinator.com/item?id=42308849) - [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/)
 * [2024-12-03, 17:30:41](https://news.ycombinator.com/item?id=42308716) - [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
 * [2024-12-03, 17:28:42](https://news.ycombinator.com/item?id=42308682) - [MTA's A.I. bus cameras issue mistaken parking violations](https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/)
+* [2024-12-03, 17:19:37](https://news.ycombinator.com/item?id=42308590) - [Intel Announces Arc B-Series \"Battlemage\" Discrete Graphics with Linux Support](https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette)
 * [2024-12-03, 17:17:41](https://news.ycombinator.com/item?id=42308564) - [America Stopped Cooking with Tallow for a Reason](https://www.theatlantic.com/health/archive/2024/12/beef-tallow-kennedy-cooking-fat-seed-oil/680848/)
 * [2024-12-03, 17:01:04](https://news.ycombinator.com/item?id=42308388) - [Stack Auth (YC S24), the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
+* [2024-12-03, 16:49:32](https://news.ycombinator.com/item?id=42308234) - [My Brand New Digitizing Workflow Using a 25 Year Old Film Scanner](https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/)
 * [2024-12-03, 16:44:30](https://news.ycombinator.com/item?id=42308184) - [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node](https://skia-canvas.org/)
 * [2024-12-03, 16:01:42](https://news.ycombinator.com/item?id=42307604) - [My domain registrar (DNSimple) tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
