@@ -28,7 +28,7 @@
 * [2024-11-29, 12:55:08](https://news.ycombinator.com/item?id=42273518) - [Vintage digicams are an artistic statement](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
 * [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [Student rocket group shatters amateur space record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
-* [2024-11-26, 18:41:37](https://news.ycombinator.com/item?id=42248561) - [What does LETTER. do in LISTRD in FAP from 196x?](https://drive.google.com/file/d/1zAJ2zX9WaeR7Ui8F88ZNFZtI5Q-Ow5sb/edit)
+* [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 
 ## [Archives](archives/index.md)
