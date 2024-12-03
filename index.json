@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-03, 14:24:04",
+      "https://news.ycombinator.com/item?id=42306325"
+    ],
+    [
+      "Cascading retrieval: Unifying dense and sparse vector embeddings with reranking",
+      "https://www.pinecone.io/blog/cascading-retrieval/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 14:00:31",
       "https://news.ycombinator.com/item?id=42306073"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-12-02, 18:51:03",
-      "https://news.ycombinator.com/item?id=42299098"
-    ],
-    [
-      "Show HN: Flow – A dynamic task engine for building AI agents",
-      "https://github.com/lmnr-ai/flow"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 18:20:38",
       "https://news.ycombinator.com/item?id=42298797"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2024-12-02, 15:43:28",
-      "https://news.ycombinator.com/item?id=42297252"
-    ],
-    [
-      "Every board game rulebook is awful [pdf]",
-      "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 12:55:08",
       "https://news.ycombinator.com/item?id=42273518"
     ],
     [
       "Vintage digicams aren't just a fad. They're an artistic statement",
       "https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 03:04:13",
+      "https://news.ycombinator.com/item?id=42262047"
+    ],
+    [
+      "Rewrite Git history via drag-and-drop",
+      "https://retcon.app"
     ]
   ],
   [
