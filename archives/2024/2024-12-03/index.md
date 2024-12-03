@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 20:06:40](https://news.ycombinator.com/item?id=42310683) - [Stephen King to Shut Down His 3 Radio Stations in Maine](https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html)
+* [2024-12-03, 19:28:33](https://news.ycombinator.com/item?id=42310195) - [OpenAI reveals why ChatGPT won't say \"David Mayer\"](https://www.neowin.net/news/openai-finally-reveals-why-chatgpt-wont-say-david-meyer/)
 * [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
+* [2024-12-03, 18:50:49](https://news.ycombinator.com/item?id=42309742) - [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
 * [2024-12-03, 17:56:37](https://news.ycombinator.com/item?id=42309025) - [Ask HN: Why did no one save the Living Computers museum in Seattle?](https://news.ycombinator.com/item?id=42309025)
 * [2024-12-03, 17:54:39](https://news.ycombinator.com/item?id=42309010) - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
