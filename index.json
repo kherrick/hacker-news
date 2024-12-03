@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-03, 05:48:06",
+      "https://news.ycombinator.com/item?id=42303325"
+    ],
+    [
+      "What Is Software Anyways? Where Does It Exist?",
+      "https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 05:26:47",
       "https://news.ycombinator.com/item?id=42303274"
     ],
@@ -31,12 +41,42 @@
   ],
   [
     [
+      "2024-12-03, 03:57:10",
+      "https://news.ycombinator.com/item?id=42302963"
+    ],
+    [
+      "Twice-Yearly HIV Shot Shows 100% Effectiveness in Women",
+      "https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 03:18:03",
       "https://news.ycombinator.com/item?id=42302784"
     ],
     [
       "Lessons I learned working at an art gallery",
       "https://www.henrikkarlsson.xyz/p/art-gallery"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 02:51:15",
+      "https://news.ycombinator.com/item?id=42302673"
+    ],
+    [
+      "Distributed Erlang",
+      "https://vereis.com/posts/disterl_inbox"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 02:31:29",
+      "https://news.ycombinator.com/item?id=42302560"
+    ],
+    [
+      "Show HN: Book and change flights with one email",
+      "https://www.bonbook.co/showhn"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Show HN: Copper – Open-source robotics in Rust with deterministic log replay",
       "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 00:01:40",
-      "https://news.ycombinator.com/item?id=42301734"
-    ],
-    [
-      ".NET Support on Heroku",
-      "https://blog.heroku.com/dotnet-support-on-heroku"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-12-02, 20:07:35",
-      "https://news.ycombinator.com/item?id=42299863"
-    ],
-    [
-      "Facebook's Little Red Book",
-      "https://www.map.cv/blog/redbook"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 19:40:34",
       "https://news.ycombinator.com/item?id=42299590"
     ],
@@ -137,16 +157,6 @@
     [
       "Show HN: Flow – A dynamic task engine for building AI agents",
       "https://github.com/lmnr-ai/flow"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 18:44:37",
-      "https://news.ycombinator.com/item?id=42299025"
-    ],
-    [
-      "The world of Dante's Divine Comedy",
-      "https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-12-02, 13:06:33",
-      "https://news.ycombinator.com/item?id=42295792"
-    ],
-    [
-      "Show HN: SeekStorm – open-source sub-millisecond search in Rust",
-      "https://github.com/SeekStorm/SeekStorm"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 10:20:49",
       "https://news.ycombinator.com/item?id=42294766"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-11-27, 10:38:58",
-      "https://news.ycombinator.com/item?id=42254888"
+      "2024-11-27, 18:15:54",
+      "https://news.ycombinator.com/item?id=42258279"
     ],
     [
-      "Murderbot, she wrote",
-      "https://www.wired.com/story/murderbot-she-wrote-martha-wells/"
+      "USC Student Rocket Group Shatters International Amateur Space Record",
+      "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
     ]
   ],
   [
