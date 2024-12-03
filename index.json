@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-12-03, 17:28:42",
-      "https://news.ycombinator.com/item?id=42308682"
-    ],
-    [
-      "MTA's A.I. bus cameras issue mistaken parking violations",
-      "https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 17:19:37",
       "https://news.ycombinator.com/item?id=42308590"
     ],
@@ -267,6 +257,16 @@
     [
       "Vintage digicams are an artistic statement",
       "https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 09:29:56",
+      "https://news.ycombinator.com/item?id=42272524"
+    ],
+    [
+      "Glojure: Clojure interpreter hosted on Go, with extensible interop support",
+      "https://github.com/glojurelang/glojure"
     ]
   ],
   [
