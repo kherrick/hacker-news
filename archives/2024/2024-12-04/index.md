@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
+* [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
+* [2024-12-04, 13:53:38](https://news.ycombinator.com/item?id=42317422) - [93-year-old YouTuber back in business after being kicked off platform](https://www.cbc.ca/news/canada/toronto/youtube-porn-allegation-academic-1.7400158)
 * [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
 * [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
@@ -16,6 +18,7 @@
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
 * [2024-12-04, 08:17:14](https://news.ycombinator.com/item?id=42315474) - [Russia's Dead Drop Drug Revolution](https://globalinitiative.net/analysis/russia-drug-trade-organized-crime/)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
+* [2024-12-04, 07:44:48](https://news.ycombinator.com/item?id=42315318) - [The complicated legacy of the anti-Nazi theologian Dietrich Bonhoeffer](https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 05:29:25](https://news.ycombinator.com/item?id=42314700) - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
