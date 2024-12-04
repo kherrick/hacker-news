@@ -20,6 +20,7 @@
 * [2024-12-04, 13:57:46](https://news.ycombinator.com/item?id=42317459) - [Lead Exposure Drove a Hidden Mental Health Crisis in the U.S., Study Reveals](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
 * [2024-12-04, 13:53:38](https://news.ycombinator.com/item?id=42317422) - [93-year-old YouTuber back in business after being kicked off platform](https://www.cbc.ca/news/canada/toronto/youtube-porn-allegation-academic-1.7400158)
+* [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 13:16:29](https://news.ycombinator.com/item?id=42317120) - [S3 Tables](https://meltware.com/2024/12/04/s3-tables.html)
 * [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)

@@ -3,9 +3,9 @@
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
-* [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 13:57:46](https://news.ycombinator.com/item?id=42317459) - [Lead Exposure Drove a Hidden Mental Health Crisis in the U.S., Study Reveals](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072)
+* [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 13:16:29](https://news.ycombinator.com/item?id=42317120) - [S3 Tables](https://meltware.com/2024/12/04/s3-tables.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
@@ -18,7 +18,6 @@
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of Rat Control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-04, 00:21:45](https://news.ycombinator.com/item?id=42313258) - [Drawbacks and solutions for the Meilisearch document indexer](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
-* [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-03, 20:35:24](https://news.ycombinator.com/item?id=42311031) - [Show HN: My C compiler compiled itself](https://github.com/keyvank/30cc)
@@ -30,6 +29,7 @@
 * [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
 * [2024-11-28, 13:44:36](https://news.ycombinator.com/item?id=42265191) - [Video-Guided Foley Sound Generation with Multimodal Controls](https://ificl.github.io/MultiFoley/)
+* [2024-11-28, 12:34:39](https://news.ycombinator.com/item?id=42264773) - [What fossilized dino feces can tell us about their rise to dominance](https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/)
 
 ## [Archives](archives/index.md)
 

@@ -38,6 +38,7 @@
 * [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [TOC MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-28, 13:19:55](https://news.ycombinator.com/item?id=42265051) - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-28, 12:37:58](https://news.ycombinator.com/item?id=42264789) - [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
+* [2024-11-28, 12:34:39](https://news.ycombinator.com/item?id=42264773) - [What fossilized dino feces can tell us about their rise to dominance](https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/)
 * [2024-11-28, 12:28:21](https://news.ycombinator.com/item?id=42264733) - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
 * [2024-11-28, 12:13:34](https://news.ycombinator.com/item?id=42264668) - [Hetzner raises US cloud prices while lowering included bandwidth by 95%](https://twitter.com/alexellisuk/status/1862083571231424701)
 * [2024-11-28, 12:11:47](https://news.ycombinator.com/item?id=42264655) - [Found in the wild: the first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
