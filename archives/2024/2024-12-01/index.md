@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 23:38:07](https://news.ycombinator.com/item?id=42291611) - [Police bust pirate streaming service making €250M per month](https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/)
 * [2024-12-01, 23:06:38](https://news.ycombinator.com/item?id=42291417) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
 * [2024-12-01, 22:59:52](https://news.ycombinator.com/item?id=42291386) - [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
@@ -75,5 +76,6 @@
 * [2024-12-01, 01:42:07](https://news.ycombinator.com/item?id=42285467) - [Office CMBS Delinquency Rate Spikes to 10.4%, Just Below Worst of GFC Meltdown](https://wolfstreet.com/2024/11/30/office-cmbs-delinquency-rate-spikes-to-10-4-just-below-worst-of-financial-crisis-cre-meltdown-fastest-2-year-spike-ever/)
 * [2024-12-01, 01:19:35](https://news.ycombinator.com/item?id=42285373) - [The Salvadoran government has 5,940 bitcoins worth $582M](https://lanoticiasv.com/el-bitcoin-esta-por-alcanzar-los-100000-y-el-salvador-ha-alcanzado-los-582-millones-en-la-reserva-estatal-de-bitcoin/)
 * [2024-12-01, 01:00:02](https://news.ycombinator.com/item?id=42285280) - [Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
+* [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A Made-Up Name Is Better Than No Name](https://mbuffett.com/posts/a-made-up-name)
 * [2024-12-01, 00:29:02](https://news.ycombinator.com/item?id=42285133) - [Controlling AI's Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
 * [2024-12-01, 00:28:04](https://news.ycombinator.com/item?id=42285128) - [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)

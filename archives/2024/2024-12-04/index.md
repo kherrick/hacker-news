@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 22:17:46](https://news.ycombinator.com/item?id=42322658) - [Crunchy Data Warehouse: Postgres with Iceberg for High Performance Analytics](https://www.crunchydata.com/blog/crunchy-data-warehouse-postgres-with-iceberg-for-high-performance-analytics)
 * [2024-12-04, 21:38:12](https://news.ycombinator.com/item?id=42322305) - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
 * [2024-12-04, 20:09:34](https://news.ycombinator.com/item?id=42321507) - [Stop Requiring CRLF Line Endings](https://fossil-scm.org/home/ext/stop-requiring-crlf.md)
 * [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
