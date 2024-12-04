@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
+* [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
+* [2024-12-04, 17:52:58](https://news.ycombinator.com/item?id=42319997) - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
+* [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
+* [2024-12-04, 17:18:18](https://news.ycombinator.com/item?id=42319601) - [Show HN: Amurex – A cursor like copilot for meetings but also open source](https://github.com/thepersonalaicompany/amurex)
+* [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
+* [2024-12-04, 16:23:39](https://news.ycombinator.com/item?id=42319041) - [Pisces: UK regulated market for private shares [pdf]](https://assets.publishing.service.gov.uk/media/67374daf12f25d730812722c/PISCES_consultation_response_November_2024_vf.pdf)
 * [2024-12-04, 16:20:03](https://news.ycombinator.com/item?id=42318994) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 16:01:59](https://news.ycombinator.com/item?id=42318773) - [Lead exposure in last century shrank IQ scores of half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
 * [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
