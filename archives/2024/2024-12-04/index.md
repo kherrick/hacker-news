@@ -9,6 +9,7 @@
 * [2024-12-04, 17:52:58](https://news.ycombinator.com/item?id=42319997) - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
 * [2024-12-04, 17:18:18](https://news.ycombinator.com/item?id=42319601) - [Show HN: Amurex – A cursor like copilot for meetings but also open source](https://github.com/thepersonalaicompany/amurex)
+* [2024-12-04, 17:10:41](https://news.ycombinator.com/item?id=42319526) - [Introducing Qodo Cover: Automate Test Coverage](https://www.qodo.ai/blog/automate-test-coverage-introducing-qodo-cover/)
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
