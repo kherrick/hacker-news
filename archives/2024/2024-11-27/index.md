@@ -52,6 +52,7 @@
 * [2024-11-27, 15:50:21](https://news.ycombinator.com/item?id=42256968) - [Fine! I'll Play with Skiplists](https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/)
 * [2024-11-27, 15:26:52](https://news.ycombinator.com/item?id=42256771) - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
 * [2024-11-27, 15:13:28](https://news.ycombinator.com/item?id=42256694) - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
+* [2024-11-27, 15:10:41](https://news.ycombinator.com/item?id=42256672) - [Show HN: Kurdle – Wordle Meets Japanese Kanji](https://news.ycombinator.com/item?id=42256672)
 * [2024-11-27, 14:58:58](https://news.ycombinator.com/item?id=42256594) - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 14:58:25](https://news.ycombinator.com/item?id=42256589) - [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
 * [2024-11-27, 14:45:46](https://news.ycombinator.com/item?id=42256489) - [AMD Releases ROCm Version 6.3](https://insidehpc.com/2024/11/amd-releases-rocm-version-6-3/)
