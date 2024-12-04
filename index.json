@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-12-04, 00:21:45",
+      "https://news.ycombinator.com/item?id=42313258"
+    ],
+    [
+      "Drawbacks and solutions for the Meilisearch document indexer",
+      "https://blog.kerollmops.com/meilisearch-is-too-slow"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 23:59:24",
       "https://news.ycombinator.com/item?id=42313087"
     ],
@@ -287,16 +297,6 @@
     [
       "Kth: High-Performance Selection Algorithms for Go",
       "https://github.com/tsenart/kth"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 12:34:39",
-      "https://news.ycombinator.com/item?id=42264773"
-    ],
-    [
-      "What fossilized dino feces can tell us about their rise to dominance",
-      "https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/"
     ]
   ]
 ]
