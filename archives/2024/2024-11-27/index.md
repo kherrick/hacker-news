@@ -36,6 +36,7 @@
 * [2024-11-27, 18:30:09](https://news.ycombinator.com/item?id=42258407) - [Generate video sprites using just FFmpeg](https://steelcm.com/blog/generating-video-sprites-using-ffmpeg/)
 * [2024-11-27, 18:15:54](https://news.ycombinator.com/item?id=42258279) - [USC Student Rocket Group Shatters International Amateur Space Record](https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/)
 * [2024-11-27, 17:56:24](https://news.ycombinator.com/item?id=42258103) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+* [2024-11-27, 17:51:09](https://news.ycombinator.com/item?id=42258049) - [Homography Explained with Code](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
 * [2024-11-27, 17:38:52](https://news.ycombinator.com/item?id=42257936) - [Open source implementation of OpenAI's \"Canvas\"](https://opencanvas.langchain.com/auth/login)
 * [2024-11-27, 17:32:55](https://news.ycombinator.com/item?id=42257881) - [Coinbase won Tornado Cash appeal](https://www.coindesk.com/policy/2024/11/26/tornado-cash-sanctions-overturned-by-u-s-appeals-court)
 * [2024-11-27, 17:10:32](https://news.ycombinator.com/item?id=42257666) - [Direct testing of natural twister ribozymes from over a thousand organisms](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984)
