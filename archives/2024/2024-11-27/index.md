@@ -69,6 +69,7 @@
 * [2024-11-27, 12:03:24](https://news.ycombinator.com/item?id=42255393) - [Ryugu asteroid sample rapidly colonized by terrestrial life](https://phys.org/news/2024-11-ryugu-asteroid-sample-rapidly-colonized.html)
 * [2024-11-27, 11:58:01](https://news.ycombinator.com/item?id=42255357) - [Bluesky Is Booming in Japan](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/)
 * [2024-11-27, 11:53:19](https://news.ycombinator.com/item?id=42255330) - [Disillusioning the Magic of the Fork System Call](https://blog.codingconfessions.com/p/the-magic-of-fork)
+* [2024-11-27, 11:48:53](https://news.ycombinator.com/item?id=42255310) - [Dark Mode in CSS Guide](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 * [2024-11-27, 11:11:52](https://news.ycombinator.com/item?id=42255092) - [SpaceX rocket explosion shredded the upper atmosphere](https://www.nature.com/articles/d41586-024-02841-4)
 * [2024-11-27, 11:04:37](https://news.ycombinator.com/item?id=42255043) - [Raspberry Pi Compute Module 5](https://www.raspberrypi.com/products/compute-module-5/)
 * [2024-11-27, 10:38:58](https://news.ycombinator.com/item?id=42254888) - [Murderbot, She Wrote. Martha Wells Article on Wired](https://www.wired.com/story/murderbot-she-wrote-martha-wells/)

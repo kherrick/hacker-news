@@ -6,7 +6,6 @@
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
 * [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
-* [2024-12-04, 02:16:27](https://news.ycombinator.com/item?id=42313910) - [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 22:40:25](https://news.ycombinator.com/item?id=42312420) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
@@ -29,6 +28,7 @@
 * [2024-11-29, 17:52:48](https://news.ycombinator.com/item?id=42275609) - [Making AWS News stupid fast with smart caching](https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/)
 * [2024-11-29, 16:44:02](https://news.ycombinator.com/item?id=42275036) - [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory.html)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
+* [2024-11-27, 11:48:53](https://news.ycombinator.com/item?id=42255310) - [Dark Mode in CSS Guide](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 * [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 
 ## [Archives](archives/index.md)
