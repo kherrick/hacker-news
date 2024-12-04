@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-04, 20:09:34](https://news.ycombinator.com/item?id=42321507) - [Stop Requiring CRLF Line Endings](https://fossil-scm.org/home/ext/stop-requiring-crlf.md)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
@@ -30,6 +29,7 @@
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
 * [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
+* [2024-11-28, 02:46:59](https://news.ycombinator.com/item?id=42261953) - [Quantum scars make their mark in graphene](https://www.nature.com/articles/d41586-024-03649-y)
 
 ## [Archives](archives/index.md)
 
