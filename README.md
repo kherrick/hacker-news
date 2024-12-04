@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
@@ -24,6 +23,7 @@
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 02:24:54](https://news.ycombinator.com/item?id=42313947) - [The Tragedy of Stafford Beer (2023)](https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer)
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
+* [2024-12-04, 00:21:45](https://news.ycombinator.com/item?id=42313258) - [Drawbacks and solutions for the Meilisearch document indexer](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
