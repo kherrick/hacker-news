@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-03, 22:13:39",
+      "https://news.ycombinator.com/item?id=42312176"
+    ],
+    [
+      "New era of slop security reports for open source",
+      "https://sethmlarson.dev/slop-security-reports"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 22:08:16",
       "https://news.ycombinator.com/item?id=42312121"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2024-12-03, 21:47:08",
-      "https://news.ycombinator.com/item?id=42311912"
-    ],
-    [
-      "The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright",
-      "https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 21:38:46",
       "https://news.ycombinator.com/item?id=42311828"
     ],
     [
       "Creating a Proxmox or QEMU ChromeOS Flex VM",
       "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 21:33:12",
+      "https://news.ycombinator.com/item?id=42311764"
+    ],
+    [
+      "Against 'Free Market Authoritarianism'",
+      "https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-12-03, 17:30:41",
-      "https://news.ycombinator.com/item?id=42308716"
-    ],
-    [
-      "Amazon Aurora DSQL",
-      "https://aws.amazon.com/rds/aurora/dsql/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 17:19:37",
       "https://news.ycombinator.com/item?id=42308590"
     ],
@@ -167,16 +167,6 @@
     [
       "Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI",
       "https://news.ycombinator.com/item?id=42307393"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 15:34:26",
-      "https://news.ycombinator.com/item?id=42307223"
-    ],
-    [
-      "DuckDuckGo donates $25k to the Perl and Raku Foundation",
-      "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Student rocket group shatters amateur space record",
       "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 17:51:09",
+      "https://news.ycombinator.com/item?id=42258049"
+    ],
+    [
+      "Homography Explained with Code",
+      "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"
     ]
   ],
   [
