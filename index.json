@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2024-12-04, 15:51:40",
-      "https://news.ycombinator.com/item?id=42318644"
-    ],
-    [
-      "Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification",
-      "https://github.com/JGiraldo29/vekos"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 14:45:02",
       "https://news.ycombinator.com/item?id=42317903"
     ],
     [
       "Genie 2: A large-scale foundation world model",
       "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 14:42:10",
+      "https://news.ycombinator.com/item?id=42317878"
+    ],
+    [
+      "Test Driven Development (TDD) for your LLMs? Yes please, more of that please",
+      "https://blog.helix.ml/p/building-reliable-genai-applications"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-12-03, 22:36:13",
-      "https://news.ycombinator.com/item?id=42312376"
-    ],
-    [
-      "Derivative at a Discontinuity",
-      "https://alok.github.io/2024/09/28/discontinuous-derivative/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 22:08:16",
       "https://news.ycombinator.com/item?id=42312121"
     ],
@@ -297,6 +287,16 @@
     [
       "A Made-Up Name Is Better Than No Name",
       "https://mbuffett.com/posts/a-made-up-name"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 13:51:48",
+      "https://news.ycombinator.com/item?id=42281629"
+    ],
+    [
+      "Kth: High-Performance Selection Algorithms for Go",
+      "https://github.com/tsenart/kth"
     ]
   ]
 ]
