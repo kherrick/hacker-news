@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
+* [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 16:20:03](https://news.ycombinator.com/item?id=42318994) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 16:01:59](https://news.ycombinator.com/item?id=42318773) - [Lead exposure in last century shrank IQ scores of half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
+* [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
 * [2024-12-04, 15:39:07](https://news.ycombinator.com/item?id=42318488) - [Debian Stable and the Framework 16](https://dataplane.org/jtk/blog/2024/12/framework16/)
 * [2024-12-04, 14:57:55](https://news.ycombinator.com/item?id=42318053) - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
 * [2024-12-04, 14:54:08](https://news.ycombinator.com/item?id=42317991) - [Telegram U-turns and joins child safety scheme](https://www.bbc.com/news/articles/c5yd35l0r91o)
