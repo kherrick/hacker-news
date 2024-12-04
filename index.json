@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-04, 14:03:14",
-      "https://news.ycombinator.com/item?id=42317504"
-    ],
-    [
-      "AI Stole the Joy of Programming",
-      "https://paulefou.com/blog/ai-cuck"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 13:56:13",
       "https://news.ycombinator.com/item?id=42317442"
     ],
@@ -237,6 +227,16 @@
     [
       "Neuroevolution of augmenting topologies (NEAT algorithm)",
       "https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 13:46:47",
+      "https://news.ycombinator.com/item?id=42288441"
+    ],
+    [
+      "Ephemeral Resource Configuration Reference",
+      "https://developer.hashicorp.com/terraform/language/v1.10.x/resources/ephemeral"
     ]
   ],
   [
