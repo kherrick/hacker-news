@@ -24,12 +24,12 @@
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 02:24:54](https://news.ycombinator.com/item?id=42313947) - [The Tragedy of Stafford Beer (2023)](https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer)
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
+* [2024-12-04, 00:21:45](https://news.ycombinator.com/item?id=42313258) - [Drawbacks and solutions for the Meilisearch document indexer](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
 * [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
-* [2024-11-28, 12:34:39](https://news.ycombinator.com/item?id=42264773) - [What fossilized dino feces can tell us about their rise to dominance](https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/)
 
 ## [Archives](archives/index.md)
 
