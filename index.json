@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-04, 23:34:39",
+      "https://news.ycombinator.com/item?id=42323235"
+    ],
+    [
+      "Deploying Containers on NixOS: A Guide",
+      "https://bkiran.com/blog/deploying-containers-nixos"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 21:38:12",
       "https://news.ycombinator.com/item?id=42322305"
     ],
@@ -287,16 +297,6 @@
     [
       "A Made-Up Name Is Better Than No Name",
       "https://mbuffett.com/posts/a-made-up-name"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 13:51:48",
-      "https://news.ycombinator.com/item?id=42281629"
-    ],
-    [
-      "Kth: High-Performance Selection Algorithms for Go",
-      "https://github.com/tsenart/kth"
     ]
   ]
 ]
