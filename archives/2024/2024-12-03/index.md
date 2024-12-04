@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:40:25](https://news.ycombinator.com/item?id=42312420) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:26:08](https://news.ycombinator.com/item?id=42312277) - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
