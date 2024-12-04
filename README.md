@@ -26,10 +26,10 @@
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
-* [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-02, 06:53:40](https://news.ycombinator.com/item?id=42293771) - [Meta built large-scale cryptographic monitoring](https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A Made-Up Name Is Better Than No Name](https://mbuffett.com/posts/a-made-up-name)
+* [2024-11-29, 23:57:44](https://news.ycombinator.com/item?id=42278230) - [C64 Basic Tutorial: Using String Manipulation to Write a Text Adventure](https://retrogamecoders.com/strings-text-adventure/)
 
 ## [Archives](archives/index.md)
 
