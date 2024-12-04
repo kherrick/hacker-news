@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
+* [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
 * [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
 * [2024-12-04, 11:52:01](https://news.ycombinator.com/item?id=42316592) - [Show HN: A Directory of Free, Open Source Alternatives to Popular Software](https://alternateoss.com/)
