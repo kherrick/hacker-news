@@ -44,6 +44,7 @@
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
+* [2024-12-01, 13:46:47](https://news.ycombinator.com/item?id=42288441) - [Ephemeral Resource Configuration Reference](https://developer.hashicorp.com/terraform/language/v1.10.x/resources/ephemeral)
 * [2024-12-01, 13:34:27](https://news.ycombinator.com/item?id=42288375) - [A Science of Concurrent Programs (final draft)](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
 * [2024-12-04, 13:53:38](https://news.ycombinator.com/item?id=42317422) - [93-year-old YouTuber back in business after being kicked off platform](https://www.cbc.ca/news/canada/toronto/youtube-porn-allegation-academic-1.7400158)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
@@ -24,6 +23,7 @@
 * [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 02:31:29](https://news.ycombinator.com/item?id=42302560) - [Show HN: Book and change flights with one email](https://www.bonbook.co/showhn)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+* [2024-12-01, 13:46:47](https://news.ycombinator.com/item?id=42288441) - [Ephemeral Resource Configuration Reference](https://developer.hashicorp.com/terraform/language/v1.10.x/resources/ephemeral)
 * [2024-11-30, 08:16:24](https://news.ycombinator.com/item?id=42280323) - [Gratitude despite the odds](https://mariakonnikova.substack.com/p/gratitude-despite-the-odds)
 * [2024-11-29, 20:40:05](https://news.ycombinator.com/item?id=42276928) - [EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)](https://kaiec.github.io/EstyJS/)
 * [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
