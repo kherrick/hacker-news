@@ -29,7 +29,7 @@
 * [2024-11-29, 16:44:02](https://news.ycombinator.com/item?id=42275036) - [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory.html)
 * [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
-* [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
+* [2024-11-28, 13:44:36](https://news.ycombinator.com/item?id=42265191) - [Video-Guided Foley Sound Generation with Multimodal Controls](https://ificl.github.io/MultiFoley/)
 
 ## [Archives](archives/index.md)
 

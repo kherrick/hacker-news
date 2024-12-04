@@ -34,6 +34,7 @@
 * [2024-11-28, 14:33:44](https://news.ycombinator.com/item?id=42265533) - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
 * [2024-11-28, 14:26:46](https://news.ycombinator.com/item?id=42265485) - [Australia to ban under-16s from social media after passing landmark law](https://www.independent.co.uk/news/world/australasia/social-media-ban-australia-law-under-16s-b2655348.html)
 * [2024-11-28, 13:48:36](https://news.ycombinator.com/item?id=42265226) - [How we improved GPT-4o multi-step function calling success rate by 4x](https://xpander.ai/2024/11/20/announcing-agent-graph-system/)
+* [2024-11-28, 13:44:36](https://news.ycombinator.com/item?id=42265191) - [Video-Guided Foley Sound Generation with Multimodal Controls](https://ificl.github.io/MultiFoley/)
 * [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [TOC MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-28, 13:19:55](https://news.ycombinator.com/item?id=42265051) - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
 * [2024-11-28, 12:37:58](https://news.ycombinator.com/item?id=42264789) - [Hetzner - New tariff structure for Cloud servers and Load balancers in the USA](https://news.ycombinator.com/item?id=42264789)
