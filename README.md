@@ -5,7 +5,6 @@
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 * [2024-12-04, 17:52:58](https://news.ycombinator.com/item?id=42319997) - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI helps researchers dig through old maps to find lost oil and gas wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
-* [2024-12-04, 17:10:41](https://news.ycombinator.com/item?id=42319526) - [Introducing Qodo Cover: Automate Test Coverage](https://www.qodo.ai/blog/automate-test-coverage-introducing-qodo-cover/)
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
@@ -14,6 +13,7 @@
 * [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
 * [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+* [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:57:46](https://news.ycombinator.com/item?id=42317459) - [Contribution of childhood lead exposure to psychopathology in the US](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
@@ -28,8 +28,8 @@
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+* [2024-12-02, 06:53:40](https://news.ycombinator.com/item?id=42293771) - [Meta built large-scale cryptographic monitoring](https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/)
 * [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
-* [2024-11-28, 02:46:59](https://news.ycombinator.com/item?id=42261953) - [Quantum scars make their mark in graphene](https://www.nature.com/articles/d41586-024-03649-y)
 
 ## [Archives](archives/index.md)
 
