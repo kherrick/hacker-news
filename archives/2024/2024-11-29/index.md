@@ -48,6 +48,7 @@
 * [2024-11-29, 15:14:01](https://news.ycombinator.com/item?id=42274399) - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
 * [2024-11-29, 15:00:08](https://news.ycombinator.com/item?id=42274315) - [Life-changing cream to treat skin cancer moves closer to reality](https://www.uq.edu.au/news/article/2024/11/life-changing-cream-treat-skin-cancer-moves-closer-reality)
 * [2024-11-29, 14:55:27](https://news.ycombinator.com/item?id=42274282) - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
+* [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
 * [2024-11-29, 14:14:11](https://news.ycombinator.com/item?id=42274003) - [PR Process Is Killing Morale and Productivity](https://blackentropy.com/your-pr-process-is-killing-morale-and-productivity/)
 * [2024-11-29, 14:07:30](https://news.ycombinator.com/item?id=42273966) - [How We Got the Lithium-Ion Battery](https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery)
 * [2024-11-29, 13:48:12](https://news.ycombinator.com/item?id=42273817) - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
