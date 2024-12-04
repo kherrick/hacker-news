@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 16:20:03](https://news.ycombinator.com/item?id=42318994) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 16:01:59](https://news.ycombinator.com/item?id=42318773) - [Lead exposure in last century shrank IQ scores of half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
 * [2024-12-04, 14:57:55](https://news.ycombinator.com/item?id=42318053) - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
 * [2024-12-04, 14:54:08](https://news.ycombinator.com/item?id=42317991) - [Telegram U-turns and joins child safety scheme](https://www.bbc.com/news/articles/c5yd35l0r91o)
