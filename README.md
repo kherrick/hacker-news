@@ -28,8 +28,8 @@
 * [2024-11-29, 23:22:16](https://news.ycombinator.com/item?id=42278003) - [Making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
 * [2024-11-29, 20:40:05](https://news.ycombinator.com/item?id=42276928) - [EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)](https://kaiec.github.io/EstyJS/)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
+* [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-27, 17:51:09](https://news.ycombinator.com/item?id=42258049) - [Homography Explained with Code](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
-* [2024-11-25, 12:41:41](https://news.ycombinator.com/item?id=42235792) - [The Curse of Markdown](https://codehike.org/blog/the-curse-of-markdown)
 
 ## [Archives](archives/index.md)
 
