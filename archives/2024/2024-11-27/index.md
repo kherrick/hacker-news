@@ -84,6 +84,7 @@
 * [2024-11-27, 08:32:54](https://news.ycombinator.com/item?id=42254146) - [IE7 and IE7 (2005)](https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/)
 * [2024-11-27, 08:32:39](https://news.ycombinator.com/item?id=42254144) - [The Opposite of Documentation is Superstition (2020)](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [2024-11-27, 08:16:48](https://news.ycombinator.com/item?id=42254068) - [Shields is 10 years old (2023)](https://github.com/badges/shields/discussions/8867)
+* [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 * [2024-11-27, 07:37:03](https://news.ycombinator.com/item?id=42253867) - [Forced to Upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-11-27, 07:29:10](https://news.ycombinator.com/item?id=42253814) - [Rust in QEMU Roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 07:23:08](https://news.ycombinator.com/item?id=42253773) - [Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)

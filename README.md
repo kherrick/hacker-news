@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
+* [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
 * [2024-12-04, 02:16:27](https://news.ycombinator.com/item?id=42313910) - [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
 * [2024-12-04, 00:45:41](https://news.ycombinator.com/item?id=42313401) - [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
 * [2024-12-03, 22:40:25](https://news.ycombinator.com/item?id=42312420) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
@@ -13,12 +15,10 @@
 * [2024-12-03, 18:54:00](https://news.ycombinator.com/item?id=42309790) - [The Tube Computer](https://www.thetubecomputer.com/)
 * [2024-12-03, 18:25:40](https://news.ycombinator.com/item?id=42309429) - [FTC takes action against Gravy Analytics, Venntel for selling location data](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
 * [2024-12-03, 18:04:45](https://news.ycombinator.com/item?id=42309121) - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
-* [2024-12-03, 17:41:55](https://news.ycombinator.com/item?id=42308849) - [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/)
 * [2024-12-03, 17:19:37](https://news.ycombinator.com/item?id=42308590) - [Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support](https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette)
 * [2024-12-03, 16:49:32](https://news.ycombinator.com/item?id=42308234) - [My brand new digitizing workflow using a 25 year old film scanner](https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node](https://skia-canvas.org/)
 * [2024-12-03, 15:46:57](https://news.ycombinator.com/item?id=42307393) - [Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
-* [2024-12-03, 14:51:21](https://news.ycombinator.com/item?id=42306663) - [On-scalp printing of personalized electroencephalography e-tattoos](https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7)
 * [2024-12-03, 13:44:59](https://news.ycombinator.com/item?id=42305954) - [Tweaking Stunt Island's 30-year-old 3D engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 * [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
@@ -28,8 +28,8 @@
 * [2024-11-29, 23:22:16](https://news.ycombinator.com/item?id=42278003) - [Making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
 * [2024-11-29, 20:40:05](https://news.ycombinator.com/item?id=42276928) - [EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)](https://kaiec.github.io/EstyJS/)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
-* [2024-11-28, 13:43:28](https://news.ycombinator.com/item?id=42265182) - [MyTimeMachine: Personalized Facial Age Transformation](https://mytimemachine.github.io)
 * [2024-11-27, 17:51:09](https://news.ycombinator.com/item?id=42258049) - [Homography Explained with Code](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
+* [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 
 ## [Archives](archives/index.md)
 
