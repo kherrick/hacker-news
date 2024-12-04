@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 22:40:25](https://news.ycombinator.com/item?id=42312420) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
+* [2024-12-03, 22:26:08](https://news.ycombinator.com/item?id=42312277) - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
 * [2024-12-03, 22:13:39](https://news.ycombinator.com/item?id=42312176) - [New era of slop security reports for open source](https://sethmlarson.dev/slop-security-reports)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 21:47:08](https://news.ycombinator.com/item?id=42311912) - [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
