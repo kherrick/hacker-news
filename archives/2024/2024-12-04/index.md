@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 14:52:55](https://news.ycombinator.com/item?id=42317968) - [UnitedHealthcare CEO fatally shot in midtown Manhattan](https://www.cnn.com/2024/12/04/us/brian-thompson-united-healthcare-death/index.html)
 * [2024-12-04, 14:17:23](https://news.ycombinator.com/item?id=42317604) - [UnitedHealthcare CEO Brian Thompson Fatally Shot in Manhattan](https://www.bloomberg.com/news/articles/2024-12-04/unitedhealthcare-ceo-brian-thompson-fatally-shot-in-manhattan)
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
@@ -24,6 +25,7 @@
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 05:29:25](https://news.ycombinator.com/item?id=42314700) - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
+* [2024-12-04, 04:13:23](https://news.ycombinator.com/item?id=42314433) - [On Bullshit (2005)](https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit)
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
 * [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
