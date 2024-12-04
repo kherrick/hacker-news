@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-04, 03:49:37",
+      "https://news.ycombinator.com/item?id=42314340"
+    ],
+    [
+      "A Particle Physics Course for High-School Students",
+      "https://ppc.web.cern.ch/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 02:42:07",
+      "https://news.ycombinator.com/item?id=42314024"
+    ],
+    [
+      "EmacsConf 2024",
+      "https://emacsconf.org/2024/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 02:16:27",
       "https://news.ycombinator.com/item?id=42313910"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-12-03, 17:41:55",
-      "https://news.ycombinator.com/item?id=42308849"
-    ],
-    [
-      "California teacher dies from suspected rabid bat bite",
-      "https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 17:19:37",
       "https://news.ycombinator.com/item?id=42308590"
     ],
@@ -177,16 +187,6 @@
     [
       "Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI",
       "https://news.ycombinator.com/item?id=42307393"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 14:51:21",
-      "https://news.ycombinator.com/item?id=42306663"
-    ],
-    [
-      "On-scalp printing of personalized electroencephalography e-tattoos",
-      "https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-11-28, 13:43:28",
-      "https://news.ycombinator.com/item?id=42265182"
-    ],
-    [
-      "MyTimeMachine: Personalized Facial Age Transformation",
-      "https://mytimemachine.github.io"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 17:51:09",
       "https://news.ycombinator.com/item?id=42258049"
     ],
     [
       "Homography Explained with Code",
       "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 07:37:11",
+      "https://news.ycombinator.com/item?id=42253868"
+    ],
+    [
+      "Voice Activity Detection in Elixir with Membran",
+      "https://underjord.io/voice-activity-detection-elixir-membrane.html"
     ]
   ]
 ]
