@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-04, 00:45:41",
+      "https://news.ycombinator.com/item?id=42313401"
+    ],
+    [
+      "Automated reasoning to remove LLM hallucinations",
+      "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 22:40:25",
+      "https://news.ycombinator.com/item?id=42312420"
+    ],
+    [
+      "Rust library for building no-boilerplate CLI apps",
+      "https://github.com/JeffrayZhang/terse-cli"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 22:28:47",
       "https://news.ycombinator.com/item?id=42312301"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-12-03, 22:13:39",
-      "https://news.ycombinator.com/item?id=42312176"
+      "2024-12-03, 22:26:08",
+      "https://news.ycombinator.com/item?id=42312277"
     ],
     [
-      "New era of slop security reports for open source",
-      "https://sethmlarson.dev/slop-security-reports"
+      "A new home for Python-build-standalone",
+      "https://astral.sh/blog/python-build-standalone"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Creating a Proxmox or QEMU ChromeOS Flex VM",
       "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 21:33:12",
-      "https://news.ycombinator.com/item?id=42311764"
-    ],
-    [
-      "Against 'Free Market Authoritarianism'",
-      "https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2024-12-03, 15:34:26",
+      "https://news.ycombinator.com/item?id=42307223"
+    ],
+    [
+      "DuckDuckGo donates $25k to the Perl and Raku Foundation",
+      "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 14:51:21",
       "https://news.ycombinator.com/item?id=42306663"
     ],
@@ -207,16 +227,6 @@
     [
       "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
       "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 03:18:03",
-      "https://news.ycombinator.com/item?id=42302784"
-    ],
-    [
-      "Lessons I learned working at an art gallery",
-      "https://www.henrikkarlsson.xyz/p/art-gallery"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "MyTimeMachine: Personalized Facial Age Transformation",
       "https://mytimemachine.github.io"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 18:15:54",
-      "https://news.ycombinator.com/item?id=42258279"
-    ],
-    [
-      "Student rocket group shatters amateur space record",
-      "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
     ]
   ],
   [
