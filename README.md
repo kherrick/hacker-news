@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 11:11:20](https://news.ycombinator.com/item?id=42316398) - [House panel concludes that Covid-19 pandemic came from a lab leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak)
 * [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
@@ -7,7 +8,6 @@
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
-* [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:26:08](https://news.ycombinator.com/item?id=42312277) - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
