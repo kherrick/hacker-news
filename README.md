@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
+* [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 * [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
@@ -7,7 +9,6 @@
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
-* [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:26:08](https://news.ycombinator.com/item?id=42312277) - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
@@ -21,7 +22,6 @@
 * [2024-12-03, 18:25:40](https://news.ycombinator.com/item?id=42309429) - [FTC takes action against Gravy Analytics, Venntel for selling location data](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
 * [2024-12-03, 17:19:37](https://news.ycombinator.com/item?id=42308590) - [Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support](https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node](https://skia-canvas.org/)
-* [2024-12-03, 13:30:40](https://news.ycombinator.com/item?id=42305831) - [Phishers Love New TLDs Like .shop, .top and .xyz](https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/)
 * [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-11-30, 08:16:24](https://news.ycombinator.com/item?id=42280323) - [Gratitude despite the odds](https://mariakonnikova.substack.com/p/gratitude-despite-the-odds)
 * [2024-11-29, 23:22:16](https://news.ycombinator.com/item?id=42278003) - [Making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
