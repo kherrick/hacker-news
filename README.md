@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
 * [2024-12-04, 05:29:25](https://news.ycombinator.com/item?id=42314700) - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
@@ -28,7 +29,6 @@
 * [2024-11-29, 16:44:02](https://news.ycombinator.com/item?id=42275036) - [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory.html)
 * [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
-* [2024-11-27, 11:48:53](https://news.ycombinator.com/item?id=42255310) - [Dark Mode in CSS Guide](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 * [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 
 ## [Archives](archives/index.md)

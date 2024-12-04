@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
