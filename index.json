@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-12-04, 17:10:41",
-      "https://news.ycombinator.com/item?id=42319526"
-    ],
-    [
-      "Introducing Qodo Cover: Automate Test Coverage",
-      "https://www.qodo.ai/blog/automate-test-coverage-introducing-qodo-cover/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 17:03:26",
       "https://news.ycombinator.com/item?id=42319461"
     ],
@@ -137,6 +127,16 @@
     [
       "Genie 2: A large-scale foundation world model",
       "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 14:42:10",
+      "https://news.ycombinator.com/item?id=42317878"
+    ],
+    [
+      "Test Driven Development (TDD) for your LLMs? Yes please, more of that please",
+      "https://blog.helix.ml/p/building-reliable-genai-applications"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-12-02, 06:53:40",
+      "https://news.ycombinator.com/item?id=42293771"
+    ],
+    [
+      "Meta built large-scale cryptographic monitoring",
+      "https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 13:51:48",
       "https://news.ycombinator.com/item?id=42281629"
     ],
     [
       "Kth: High-Performance Selection Algorithms for Go",
       "https://github.com/tsenart/kth"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 02:46:59",
-      "https://news.ycombinator.com/item?id=42261953"
-    ],
-    [
-      "Quantum scars make their mark in graphene",
-      "https://www.nature.com/articles/d41586-024-03649-y"
     ]
   ]
 ]
