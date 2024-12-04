@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-04, 11:52:01",
+      "https://news.ycombinator.com/item?id=42316592"
+    ],
+    [
+      "Show HN: A Directory of Free, Open Source Alternatives to Popular Software",
+      "https://alternateoss.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 10:40:14",
       "https://news.ycombinator.com/item?id=42316246"
     ],
@@ -27,6 +37,16 @@
     [
       "How to Grow Professional Relationships",
       "https://tej.as/blog/how-to-grow-professional-relationships-tjs-model"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 08:17:14",
+      "https://news.ycombinator.com/item?id=42315474"
+    ],
+    [
+      "Russia's Dead Drop Drug Revolution",
+      "https://globalinitiative.net/analysis/russia-drug-trade-organized-crime/"
     ]
   ],
   [
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2024-12-04, 02:42:07",
-      "https://news.ycombinator.com/item?id=42314024"
-    ],
-    [
-      "EmacsConf 2024",
-      "https://emacsconf.org/2024/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 02:16:27",
       "https://news.ycombinator.com/item?id=42313910"
     ],
     [
       "Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant",
       "https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 22:40:25",
-      "https://news.ycombinator.com/item?id=42312420"
-    ],
-    [
-      "Rust library for building no-boilerplate CLI apps",
-      "https://github.com/JeffrayZhang/terse-cli"
     ]
   ],
   [
@@ -101,32 +101,12 @@
   ],
   [
     [
-      "2024-12-03, 22:26:08",
-      "https://news.ycombinator.com/item?id=42312277"
-    ],
-    [
-      "A new home for Python-build-standalone",
-      "https://astral.sh/blog/python-build-standalone"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 22:08:16",
       "https://news.ycombinator.com/item?id=42312121"
     ],
     [
       "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
       "https://www.armaansahni.com/game/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 21:38:46",
-      "https://news.ycombinator.com/item?id=42311828"
-    ],
-    [
-      "Creating a Proxmox or QEMU ChromeOS Flex VM",
-      "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
     ]
   ],
   [
@@ -151,22 +131,22 @@
   ],
   [
     [
-      "2024-12-03, 20:06:40",
-      "https://news.ycombinator.com/item?id=42310683"
-    ],
-    [
-      "Stephen King to shut down his 3 radio stations in Maine",
-      "https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 18:54:00",
       "https://news.ycombinator.com/item?id=42309790"
     ],
     [
       "The Tube Computer",
       "https://www.thetubecomputer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 16:49:32",
+      "https://news.ycombinator.com/item?id=42308234"
+    ],
+    [
+      "My brand new digitizing workflow using a 25 year old film scanner",
+      "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
     ]
   ],
   [
@@ -181,22 +161,32 @@
   ],
   [
     [
+      "2024-12-03, 15:46:57",
+      "https://news.ycombinator.com/item?id=42307393"
+    ],
+    [
+      "Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI",
+      "https://news.ycombinator.com/item?id=42307393"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 13:44:59",
+      "https://news.ycombinator.com/item?id=42305954"
+    ],
+    [
+      "Tweaking Stunt Island's 30-year-old 3D engine",
+      "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 13:30:40",
       "https://news.ycombinator.com/item?id=42305831"
     ],
     [
       "Phishers Love New TLDs Like .shop, .top and .xyz",
       "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 12:16:33",
-      "https://news.ycombinator.com/item?id=42305348"
-    ],
-    [
-      "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
-      "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Video-Guided Foley Sound Generation with Multimodal Controls",
       "https://ificl.github.io/MultiFoley/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 17:51:09",
+      "https://news.ycombinator.com/item?id=42258049"
+    ],
+    [
+      "Homography Explained with Code",
+      "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"
     ]
   ],
   [
