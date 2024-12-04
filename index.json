@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-12-04, 17:10:41",
-      "https://news.ycombinator.com/item?id=42319526"
-    ],
-    [
-      "Introducing Qodo Cover: Automate Test Coverage",
-      "https://www.qodo.ai/blog/automate-test-coverage-introducing-qodo-cover/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 17:03:26",
       "https://news.ycombinator.com/item?id=42319461"
     ],
@@ -297,6 +287,16 @@
     [
       "Kth: High-Performance Selection Algorithms for Go",
       "https://github.com/tsenart/kth"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 07:38:42",
+      "https://news.ycombinator.com/item?id=42280176"
+    ],
+    [
+      "Web Highlighter Userscript",
+      "https://github.com/physicslog/web-highlighter.user.js"
     ]
   ]
 ]
