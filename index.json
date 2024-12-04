@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-04, 05:53:12",
+      "https://news.ycombinator.com/item?id=42314797"
+    ],
+    [
+      "Why America's economy is soaring ahead of its rivals",
+      "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 05:29:25",
+      "https://news.ycombinator.com/item?id=42314700"
+    ],
+    [
+      "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+      "https://www.openttd.org/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 04:46:12",
       "https://news.ycombinator.com/item?id=42314547"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-12-03, 18:25:40",
-      "https://news.ycombinator.com/item?id=42309429"
-    ],
-    [
-      "FTC takes action against Gravy Analytics, Venntel for selling location data",
-      "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 17:19:37",
       "https://news.ycombinator.com/item?id=42308590"
     ],
@@ -177,26 +187,6 @@
     [
       "Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node",
       "https://skia-canvas.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 15:46:57",
-      "https://news.ycombinator.com/item?id=42307393"
-    ],
-    [
-      "Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI",
-      "https://news.ycombinator.com/item?id=42307393"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 13:44:59",
-      "https://news.ycombinator.com/item?id=42305954"
-    ],
-    [
-      "Tweaking Stunt Island's 30-year-old 3D engine",
-      "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
       "https://kaiec.github.io/EstyJS/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 17:52:48",
+      "https://news.ycombinator.com/item?id=42275609"
+    ],
+    [
+      "Making AWS News stupid fast with smart caching",
+      "https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/"
     ]
   ],
   [
