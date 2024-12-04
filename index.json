@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-12-04, 18:09:14",
+      "https://news.ycombinator.com/item?id=42320180"
+    ],
+    [
+      "The Hoare Cube",
+      "https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 17:55:24",
+      "https://news.ycombinator.com/item?id=42320032"
+    ],
+    [
+      "Show HN: Outerbase Studio – Open-Source Database GUI",
+      "https://github.com/outerbase/studio"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 17:52:58",
+      "https://news.ycombinator.com/item?id=42319997"
+    ],
+    [
+      "Grifters, believers, grinders, and coasters",
+      "https://www.seangoedecke.com/programmer-archetypes/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 17:50:50",
+      "https://news.ycombinator.com/item?id=42319969"
+    ],
+    [
+      "AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells",
+      "https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 17:18:18",
+      "https://news.ycombinator.com/item?id=42319601"
+    ],
+    [
+      "Show HN: Amurex – A cursor like copilot for meetings but also open source",
+      "https://github.com/thepersonalaicompany/amurex"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 17:03:26",
+      "https://news.ycombinator.com/item?id=42319461"
+    ],
+    [
+      "Self-Funding Harberger Taxes",
+      "https://gwern.net/harberger"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 17:00:18",
       "https://news.ycombinator.com/item?id=42319437"
     ],
@@ -21,12 +81,32 @@
   ],
   [
     [
+      "2024-12-04, 16:23:39",
+      "https://news.ycombinator.com/item?id=42319041"
+    ],
+    [
+      "Pisces: UK regulated market for private shares [pdf]",
+      "https://assets.publishing.service.gov.uk/media/67374daf12f25d730812722c/PISCES_consultation_response_November_2024_vf.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 15:51:40",
       "https://news.ycombinator.com/item?id=42318644"
     ],
     [
       "Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification",
       "https://github.com/JGiraldo29/vekos"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 14:50:31",
+      "https://news.ycombinator.com/item?id=42317952"
+    ],
+    [
+      "A pro-science, pro-progress, techno-optimistic health textbook from 1929",
+      "https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno"
     ]
   ],
   [
@@ -41,12 +121,12 @@
   ],
   [
     [
-      "2024-12-04, 13:57:46",
-      "https://news.ycombinator.com/item?id=42317459"
+      "2024-12-04, 13:56:13",
+      "https://news.ycombinator.com/item?id=42317442"
     ],
     [
-      "Lead Exposure Drove a Hidden Mental Health Crisis in the U.S., Study Reveals",
-      "https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072"
+      "Nearly half of teenagers globally cannot read with comprehension",
+      "https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension"
     ]
   ],
   [
@@ -57,16 +137,6 @@
     [
       "Show HN: I combined spaced repetition with emails so you can remember anything",
       "https://www.ginkgonotes.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 13:16:29",
-      "https://news.ycombinator.com/item?id=42317120"
-    ],
-    [
-      "S3 Tables",
-      "https://meltware.com/2024/12/04/s3-tables.html"
     ]
   ],
   [
@@ -101,22 +171,22 @@
   ],
   [
     [
-      "2024-12-04, 07:44:48",
-      "https://news.ycombinator.com/item?id=42315318"
-    ],
-    [
-      "The complicated legacy of the anti-Nazi theologian Dietrich Bonhoeffer (2014)",
-      "https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 06:25:14",
       "https://news.ycombinator.com/item?id=42314905"
     ],
     [
       "Show HN: A 5th order motion planner with PH spline blending, written in Ada",
       "https://600f3559.prunt-docs.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 05:53:12",
+      "https://news.ycombinator.com/item?id=42314797"
+    ],
+    [
+      "Why America's economy is soaring ahead of its rivals",
+      "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b"
     ]
   ],
   [
@@ -155,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42313572"
     ],
     [
-      "History of Rat Control in Alberta",
+      "History of rat control in Alberta",
       "https://www.alberta.ca/history-of-rat-control-in-alberta"
     ]
   ],
@@ -201,36 +271,6 @@
   ],
   [
     [
-      "2024-12-03, 20:35:24",
-      "https://news.ycombinator.com/item?id=42311031"
-    ],
-    [
-      "Show HN: My C compiler compiled itself",
-      "https://github.com/keyvank/30cc"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 18:54:00",
-      "https://news.ycombinator.com/item?id=42309790"
-    ],
-    [
-      "The Tube Computer",
-      "https://www.thetubecomputer.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 16:34:18",
-      "https://news.ycombinator.com/item?id=42308051"
-    ],
-    [
-      "Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node",
-      "https://skia-canvas.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 10:12:35",
       "https://news.ycombinator.com/item?id=42294737"
     ],
@@ -247,46 +287,6 @@
     [
       "Kth: High-Performance Selection Algorithms for Go",
       "https://github.com/tsenart/kth"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 08:16:24",
-      "https://news.ycombinator.com/item?id=42280323"
-    ],
-    [
-      "Gratitude despite the odds",
-      "https://mariakonnikova.substack.com/p/gratitude-despite-the-odds"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 14:53:59",
-      "https://news.ycombinator.com/item?id=42274266"
-    ],
-    [
-      "Approximating Mathematical Constants Using Minecraft",
-      "https://arxiv.org/abs/2411.18464"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 09:29:56",
-      "https://news.ycombinator.com/item?id=42272524"
-    ],
-    [
-      "Glojure: Clojure interpreter hosted on Go, with extensible interop support",
-      "https://github.com/glojurelang/glojure"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 13:44:36",
-      "https://news.ycombinator.com/item?id=42265191"
-    ],
-    [
-      "Video-Guided Foley Sound Generation with Multimodal Controls",
-      "https://ificl.github.io/MultiFoley/"
     ]
   ],
   [
