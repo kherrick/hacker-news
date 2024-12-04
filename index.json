@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-12-04, 14:03:14",
+      "https://news.ycombinator.com/item?id=42317504"
+    ],
+    [
+      "AI Stole the Joy of Programming",
+      "https://paulefou.com/blog/ai-cuck"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 13:02:34",
+      "https://news.ycombinator.com/item?id=42317030"
+    ],
+    [
+      "I developed Dynamic QR code generator with analytics",
+      "https://989tools.com/qr-code-generator"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 12:00:40",
       "https://news.ycombinator.com/item?id=42316644"
     ],
     [
       "Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents",
       "https://news.ycombinator.com/item?id=42316644"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 11:52:01",
-      "https://news.ycombinator.com/item?id=42316592"
-    ],
-    [
-      "Show HN: A Directory of Free, Open Source Alternatives to Popular Software",
-      "https://alternateoss.com/"
     ]
   ],
   [
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2024-12-04, 09:47:45",
-      "https://news.ycombinator.com/item?id=42315969"
-    ],
-    [
-      "You're Breathtaking [Godot #100000]",
-      "https://github.com/godotengine/godot/issues/100000"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 09:42:02",
       "https://news.ycombinator.com/item?id=42315946"
     ],
     [
-      "How to Grow Professional Relationships",
+      "How to grow professional relationships",
       "https://tej.as/blog/how-to-grow-professional-relationships-tjs-model"
     ]
   ],
@@ -147,6 +147,16 @@
     [
       "The Tube Computer",
       "https://www.thetubecomputer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 18:04:45",
+      "https://news.ycombinator.com/item?id=42309121"
+    ],
+    [
+      "Amazon Nova",
+      "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Video-Guided Foley Sound Generation with Multimodal Controls",
       "https://ificl.github.io/MultiFoley/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 17:51:09",
-      "https://news.ycombinator.com/item?id=42258049"
-    ],
-    [
-      "Homography Explained with Code",
-      "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"
     ]
   ],
   [
