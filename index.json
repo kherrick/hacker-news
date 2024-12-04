@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-04, 12:21:12",
+      "https://news.ycombinator.com/item?id=42316729"
+    ],
+    [
+      "Veo and Imagen 3: Announcing new video and image generation models on Vertex AI",
+      "https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 12:00:40",
       "https://news.ycombinator.com/item?id=42316644"
     ],
     [
       "Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents",
       "https://news.ycombinator.com/item?id=42316644"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 11:52:01",
+      "https://news.ycombinator.com/item?id=42316592"
+    ],
+    [
+      "Show HN: A Directory of Free, Open Source Alternatives to Popular Software",
+      "https://alternateoss.com/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "No Nat November: My Month Without IPv4",
       "https://blog.infected.systems/posts/2024-12-01-no-nat-november/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 22:28:47",
-      "https://news.ycombinator.com/item?id=42312301"
-    ],
-    [
-      "Phoenix LiveView 1.0.0 is here",
-      "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2024-12-02, 10:12:35",
+      "https://news.ycombinator.com/item?id=42294737"
+    ],
+    [
+      "Neuroevolution of augmenting topologies (NEAT algorithm)",
+      "https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 08:16:24",
       "https://news.ycombinator.com/item?id=42280323"
     ],
@@ -247,16 +267,6 @@
     [
       "Making a parallel Rust workload 10x faster with (or without) Rayon",
       "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 17:52:48",
-      "https://news.ycombinator.com/item?id=42275609"
-    ],
-    [
-      "Making AWS News stupid fast with smart caching",
-      "https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Glojure: Clojure interpreter hosted on Go, with extensible interop support",
       "https://github.com/glojurelang/glojure"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 13:44:36",
-      "https://news.ycombinator.com/item?id=42265191"
-    ],
-    [
-      "Video-Guided Foley Sound Generation with Multimodal Controls",
-      "https://ificl.github.io/MultiFoley/"
     ]
   ]
 ]
