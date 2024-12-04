@@ -26,9 +26,9 @@
 * [2024-12-03, 02:31:29](https://news.ycombinator.com/item?id=42302560) - [Show HN: Book and change flights with one email](https://www.bonbook.co/showhn)
 * [2024-11-30, 08:16:24](https://news.ycombinator.com/item?id=42280323) - [Gratitude despite the odds](https://mariakonnikova.substack.com/p/gratitude-despite-the-odds)
 * [2024-11-29, 23:22:16](https://news.ycombinator.com/item?id=42278003) - [Making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
+* [2024-11-29, 20:40:05](https://news.ycombinator.com/item?id=42276928) - [EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)](https://kaiec.github.io/EstyJS/)
 * [2024-11-29, 17:52:48](https://news.ycombinator.com/item?id=42275609) - [Making AWS News stupid fast with smart caching](https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
-* [2024-11-27, 17:51:09](https://news.ycombinator.com/item?id=42258049) - [Homography Explained with Code](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
 * [2024-11-27, 07:37:11](https://news.ycombinator.com/item?id=42253868) - [Voice Activity Detection in Elixir with Membran](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 
 ## [Archives](archives/index.md)
