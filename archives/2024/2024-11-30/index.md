@@ -30,6 +30,7 @@
 * [2024-11-30, 15:11:06](https://news.ycombinator.com/item?id=42282020) - [I made an AI specifically for teachers](https://assignly.app/)
 * [2024-11-30, 14:34:13](https://news.ycombinator.com/item?id=42281835) - [Modern Mathematics (Pre-Print) Cutting-edge math for today's coder](https://www.artima.com/shop/modern_mathematics)
 * [2024-11-30, 14:19:05](https://news.ycombinator.com/item?id=42281755) - [The Story of Nel](https://www.deusinmachina.net/p/the-story-of-nel)
+* [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
 * [2024-11-30, 13:25:29](https://news.ycombinator.com/item?id=42281487) - [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
 * [2024-11-30, 13:22:56](https://news.ycombinator.com/item?id=42281470) - [In C, memory management begins – The Craft of Coding](https://craftofcoding.wordpress.com/2024/11/25/in-c-memory-management-begins-immediately/)
 * [2024-11-30, 12:42:02](https://news.ycombinator.com/item?id=42281256) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)

@@ -7,6 +7,7 @@
 * [2024-12-04, 14:57:55](https://news.ycombinator.com/item?id=42318053) - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
 * [2024-12-04, 14:52:55](https://news.ycombinator.com/item?id=42317968) - [UnitedHealthcare CEO fatally shot in midtown Manhattan](https://www.cnn.com/2024/12/04/us/brian-thompson-united-healthcare-death/index.html)
 * [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
+* [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:17:23](https://news.ycombinator.com/item?id=42317604) - [UnitedHealthcare CEO Brian Thompson Fatally Shot in Manhattan](https://www.bloomberg.com/news/articles/2024-12-04/unitedhealthcare-ceo-brian-thompson-fatally-shot-in-manhattan)
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
@@ -37,3 +38,4 @@
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of Rat Control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-04, 00:45:41](https://news.ycombinator.com/item?id=42313401) - [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+* [2024-12-04, 00:21:45](https://news.ycombinator.com/item?id=42313258) - [Drawbacks and solutions for the Meilisearch document indexer](https://blog.kerollmops.com/meilisearch-is-too-slow)
