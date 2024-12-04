@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
+* [2024-12-04, 11:52:01](https://news.ycombinator.com/item?id=42316592) - [Show HN: A Directory of Free, Open Source Alternatives to Popular Software](https://alternateoss.com/)
 * [2024-12-04, 11:11:20](https://news.ycombinator.com/item?id=42316398) - [House panel concludes that Covid-19 pandemic came from a lab leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak)
 * [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 * [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)

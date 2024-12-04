@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
+* [2024-12-04, 11:52:01](https://news.ycombinator.com/item?id=42316592) - [Show HN: A Directory of Free, Open Source Alternatives to Popular Software](https://alternateoss.com/)
 * [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 * [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
@@ -10,7 +12,6 @@
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
-* [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
 * [2024-12-03, 22:26:08](https://news.ycombinator.com/item?id=42312277) - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-03, 21:47:08](https://news.ycombinator.com/item?id=42311912) - [The Porsche Macan EV is being recalled because its headlights are too bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
@@ -23,13 +24,12 @@
 * [2024-12-03, 17:19:37](https://news.ycombinator.com/item?id=42308590) - [Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support](https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node](https://skia-canvas.org/)
 * [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
+* [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
 * [2024-11-30, 08:16:24](https://news.ycombinator.com/item?id=42280323) - [Gratitude despite the odds](https://mariakonnikova.substack.com/p/gratitude-despite-the-odds)
 * [2024-11-29, 23:22:16](https://news.ycombinator.com/item?id=42278003) - [Making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
-* [2024-11-29, 17:52:48](https://news.ycombinator.com/item?id=42275609) - [Making AWS News stupid fast with smart caching](https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/)
 * [2024-11-29, 16:44:02](https://news.ycombinator.com/item?id=42275036) - [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory.html)
 * [2024-11-29, 14:53:59](https://news.ycombinator.com/item?id=42274266) - [Approximating Mathematical Constants Using Minecraft](https://arxiv.org/abs/2411.18464)
 * [2024-11-29, 09:29:56](https://news.ycombinator.com/item?id=42272524) - [Glojure: Clojure interpreter hosted on Go, with extensible interop support](https://github.com/glojurelang/glojure)
-* [2024-11-28, 13:44:36](https://news.ycombinator.com/item?id=42265191) - [Video-Guided Foley Sound Generation with Multimodal Controls](https://ificl.github.io/MultiFoley/)
 
 ## [Archives](archives/index.md)
 
