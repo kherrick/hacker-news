@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 14:57:55](https://news.ycombinator.com/item?id=42318053) - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
 * [2024-12-04, 14:52:55](https://news.ycombinator.com/item?id=42317968) - [UnitedHealthcare CEO fatally shot in midtown Manhattan](https://www.cnn.com/2024/12/04/us/brian-thompson-united-healthcare-death/index.html)
+* [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:17:23](https://news.ycombinator.com/item?id=42317604) - [UnitedHealthcare CEO Brian Thompson Fatally Shot in Manhattan](https://www.bloomberg.com/news/articles/2024-12-04/unitedhealthcare-ceo-brian-thompson-fatally-shot-in-manhattan)
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
@@ -22,6 +24,7 @@
 * [2024-12-04, 08:17:14](https://news.ycombinator.com/item?id=42315474) - [Russia's Dead Drop Drug Revolution](https://globalinitiative.net/analysis/russia-drug-trade-organized-crime/)
 * [2024-12-04, 07:52:14](https://news.ycombinator.com/item?id=42315364) - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
 * [2024-12-04, 07:44:48](https://news.ycombinator.com/item?id=42315318) - [The complicated legacy of the anti-Nazi theologian Dietrich Bonhoeffer](https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/)
+* [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 05:29:25](https://news.ycombinator.com/item?id=42314700) - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
@@ -29,6 +32,8 @@
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/)
 * [2024-12-04, 03:19:39](https://news.ycombinator.com/item?id=42314212) - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
 * [2024-12-04, 02:42:07](https://news.ycombinator.com/item?id=42314024) - [EmacsConf 2024](https://emacsconf.org/2024/)
+* [2024-12-04, 02:24:54](https://news.ycombinator.com/item?id=42313947) - [The Tragedy of Stafford Beer (2023)](https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer)
 * [2024-12-04, 02:16:27](https://news.ycombinator.com/item?id=42313910) - [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
+* [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of Rat Control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-04, 01:03:44](https://news.ycombinator.com/item?id=42313507) - [No Nat November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-04, 00:45:41](https://news.ycombinator.com/item?id=42313401) - [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
