@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
 * [2024-12-04, 21:38:12](https://news.ycombinator.com/item?id=42322305) - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
 * [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
@@ -29,7 +30,6 @@
 * [2024-12-02, 06:53:40](https://news.ycombinator.com/item?id=42293771) - [Meta built large-scale cryptographic monitoring](https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A Made-Up Name Is Better Than No Name](https://mbuffett.com/posts/a-made-up-name)
-* [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
 
 ## [Archives](archives/index.md)
 
