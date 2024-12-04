@@ -2,11 +2,11 @@
 
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
-* [2024-12-04, 16:20:03](https://news.ycombinator.com/item?id=42318994) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
-* [2024-12-04, 15:39:07](https://news.ycombinator.com/item?id=42318488) - [Debian Stable and the Framework 16](https://dataplane.org/jtk/blog/2024/12/framework16/)
 * [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+* [2024-12-04, 13:57:46](https://news.ycombinator.com/item?id=42317459) - [Lead Exposure Drove a Hidden Mental Health Crisis in the U.S., Study Reveals](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072)
+* [2024-12-04, 13:16:29](https://news.ycombinator.com/item?id=42317120) - [S3 Tables](https://meltware.com/2024/12/04/s3-tables.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to grow professional relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
