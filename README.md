@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-04, 20:09:34](https://news.ycombinator.com/item?id=42321507) - [Stop Requiring CRLF Line Endings](https://fossil-scm.org/home/ext/stop-requiring-crlf.md)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
@@ -14,6 +15,7 @@
 * [2024-12-04, 15:51:40](https://news.ycombinator.com/item?id=42318644) - [Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification](https://github.com/JGiraldo29/vekos)
 * [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+* [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 09:42:02](https://news.ycombinator.com/item?id=42315946) - [How to grow professional relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
@@ -21,7 +23,6 @@
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
 * [2024-12-04, 03:49:37](https://news.ycombinator.com/item?id=42314340) - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
-* [2024-12-04, 02:24:54](https://news.ycombinator.com/item?id=42313947) - [The Tragedy of Stafford Beer (2023)](https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer)
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-04, 00:21:45](https://news.ycombinator.com/item?id=42313258) - [Drawbacks and solutions for the Meilisearch document indexer](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
@@ -29,7 +30,6 @@
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
 * [2024-11-30, 13:51:48](https://news.ycombinator.com/item?id=42281629) - [Kth: High-Performance Selection Algorithms for Go](https://github.com/tsenart/kth)
-* [2024-11-30, 07:38:42](https://news.ycombinator.com/item?id=42280176) - [Web Highlighter Userscript](https://github.com/physicslog/web-highlighter.user.js)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 20:09:34](https://news.ycombinator.com/item?id=42321507) - [Stop Requiring CRLF Line Endings](https://fossil-scm.org/home/ext/stop-requiring-crlf.md)
 * [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
