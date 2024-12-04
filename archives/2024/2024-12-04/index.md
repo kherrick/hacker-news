@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 14:17:23](https://news.ycombinator.com/item?id=42317604) - [UnitedHealthcare CEO Brian Thompson Fatally Shot in Manhattan](https://www.bloomberg.com/news/articles/2024-12-04/unitedhealthcare-ceo-brian-thompson-fatally-shot-in-manhattan)
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:56:13](https://news.ycombinator.com/item?id=42317442) - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
 * [2024-12-04, 13:53:38](https://news.ycombinator.com/item?id=42317422) - [93-year-old YouTuber back in business after being kicked off platform](https://www.cbc.ca/news/canada/toronto/youtube-porn-allegation-academic-1.7400158)
 * [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
+* [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
 * [2024-12-04, 11:52:01](https://news.ycombinator.com/item?id=42316592) - [Show HN: A Directory of Free, Open Source Alternatives to Popular Software](https://alternateoss.com/)
