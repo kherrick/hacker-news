@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-05, 16:28:42](https://news.ycombinator.com/item?id=42329657) - [More than 300 game developers lost their jobs in one day, weeks before Christmas](https://www.pcgamer.com/gaming-industry/more-than-300-game-developers-lost-their-jobs-in-one-day-just-three-weeks-before-christmas/)
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:24:49](https://news.ycombinator.com/item?id=42329071) - [Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
 * [2024-12-05, 15:18:13](https://news.ycombinator.com/item?id=42329005) - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
@@ -23,6 +22,7 @@
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+* [2024-12-02, 05:56:26](https://news.ycombinator.com/item?id=42293517) - [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 22:57:19](https://news.ycombinator.com/item?id=42291375) - [Ampere WS-1 Japanese APL Clamtop](https://computeradsfromthepast.substack.com/p/ampere-ws-1)
