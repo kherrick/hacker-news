@@ -75,6 +75,7 @@
 * [2024-12-01, 02:32:15](https://news.ycombinator.com/item?id=42285676) - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
 * [2024-12-01, 01:42:07](https://news.ycombinator.com/item?id=42285467) - [Office CMBS Delinquency Rate Spikes to 10.4%, Just Below Worst of GFC Meltdown](https://wolfstreet.com/2024/11/30/office-cmbs-delinquency-rate-spikes-to-10-4-just-below-worst-of-financial-crisis-cre-meltdown-fastest-2-year-spike-ever/)
 * [2024-12-01, 01:19:35](https://news.ycombinator.com/item?id=42285373) - [The Salvadoran government has 5,940 bitcoins worth $582M](https://lanoticiasv.com/el-bitcoin-esta-por-alcanzar-los-100000-y-el-salvador-ha-alcanzado-los-582-millones-en-la-reserva-estatal-de-bitcoin/)
+* [2024-12-01, 01:05:39](https://news.ycombinator.com/item?id=42285310) - [Unlocking the Power of DynamoDB: A Developer's Journey](https://pablosblog.dev/posts/3/)
 * [2024-12-01, 01:00:02](https://news.ycombinator.com/item?id=42285280) - [Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
 * [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A Made-Up Name Is Better Than No Name](https://mbuffett.com/posts/a-made-up-name)
 * [2024-12-01, 00:29:02](https://news.ycombinator.com/item?id=42285133) - [Controlling AI's Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
