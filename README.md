@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-05, 19:00:44](https://news.ycombinator.com/item?id=42331341) - [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
 * [2024-12-05, 18:50:16](https://news.ycombinator.com/item?id=42331207) - [React v19 has been released](https://github.com/facebook/react/blob/main/CHANGELOG.md)
@@ -30,6 +29,7 @@
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
+* [2024-11-29, 16:15:09](https://news.ycombinator.com/item?id=42274834) - [Move semantics in Rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
 
 ## [Archives](archives/index.md)
 
