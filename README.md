@@ -20,7 +20,6 @@
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:24:49](https://news.ycombinator.com/item?id=42329071) - [Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
 * [2024-12-05, 15:18:13](https://news.ycombinator.com/item?id=42329005) - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
-* [2024-12-05, 15:14:13](https://news.ycombinator.com/item?id=42328971) - [Next stop: Miami](https://waymo.com/blog/2024/12/next-stop-miami/)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:41:19](https://news.ycombinator.com/item?id=42317866) - [Why did clothing become boring?](https://resobscura.substack.com/p/why-did-clothing-become-boring)
@@ -30,6 +29,7 @@
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by My Own Projects](https://cassidoo.co/post/side-project-haunting/)
+* [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
 
 ## [Archives](archives/index.md)
 

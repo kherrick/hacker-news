@@ -82,3 +82,4 @@
 * [2024-11-28, 01:32:32](https://news.ycombinator.com/item?id=42261538) - [Building a Phosphorescence Detector](https://lcamtuf.substack.com/p/building-a-phosphorescence-detector)
 * [2024-11-28, 00:49:06](https://news.ycombinator.com/item?id=42261314) - [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by My Own Projects](https://cassidoo.co/post/side-project-haunting/)
+* [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
