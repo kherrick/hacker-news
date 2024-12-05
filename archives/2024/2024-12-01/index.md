@@ -49,6 +49,7 @@
 * [2024-12-01, 13:46:47](https://news.ycombinator.com/item?id=42288441) - [Ephemeral Resource Configuration Reference](https://developer.hashicorp.com/terraform/language/v1.10.x/resources/ephemeral)
 * [2024-12-01, 13:34:27](https://news.ycombinator.com/item?id=42288375) - [A Science of Concurrent Programs (final draft)](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-12-01, 13:33:57](https://news.ycombinator.com/item?id=42288372) - [Advent of No-Code 2024](https://www.adventofnocode.io/)
+* [2024-12-01, 13:28:02](https://news.ycombinator.com/item?id=42288343) - [The Surprising New History of Horse Domestication](https://www.scientificamerican.com/article/horse-domestication-story-gets-a-surprising-rewrite/)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 * [2024-12-01, 13:26:56](https://news.ycombinator.com/item?id=42288341) - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/en/paper/reading?corpusId=503252214)
 * [2024-12-01, 13:18:12](https://news.ycombinator.com/item?id=42288312) - [The Sperry Rand Corporation](https://www.abortretry.fail/p/the-sperry-rand-corporation)
