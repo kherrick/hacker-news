@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-05, 19:45:40",
+      "https://news.ycombinator.com/item?id=42331889"
+    ],
+    [
+      "FreeBSD OCI Container on Jails/Bhyve with Support for Podman",
+      "https://freebsdfoundation.org/project/oci-container-support/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 18:58:58",
       "https://news.ycombinator.com/item?id=42331326"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-12-04, 17:50:50",
-      "https://news.ycombinator.com/item?id=42319969"
-    ],
-    [
-      "AI helps researchers dig through old maps to find lost oil and gas wells",
-      "https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 14:45:02",
       "https://news.ycombinator.com/item?id=42317903"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-11-29, 16:15:09",
-      "https://news.ycombinator.com/item?id=42274834"
+      "2024-11-28, 00:25:06",
+      "https://news.ycombinator.com/item?id=42261197"
     ],
     [
-      "Move semantics in Rust, C++, and Hylo",
-      "https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo"
+      "Haunted by My Own Projects",
+      "https://cassidoo.co/post/side-project-haunting/"
     ]
   ]
 ]
