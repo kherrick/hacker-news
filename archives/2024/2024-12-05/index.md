@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
 * [2024-12-05, 19:45:40](https://news.ycombinator.com/item?id=42331889) - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
 * [2024-12-05, 19:22:46](https://news.ycombinator.com/item?id=42331646) - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)

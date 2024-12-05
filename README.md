@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
 * [2024-12-05, 19:45:40](https://news.ycombinator.com/item?id=42331889) - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
 * [2024-12-05, 19:22:46](https://news.ycombinator.com/item?id=42331646) - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
@@ -21,7 +22,6 @@
 * [2024-12-05, 15:18:13](https://news.ycombinator.com/item?id=42329005) - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
 * [2024-12-05, 15:14:13](https://news.ycombinator.com/item?id=42328971) - [Next stop: Miami](https://waymo.com/blog/2024/12/next-stop-miami/)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
-* [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:41:19](https://news.ycombinator.com/item?id=42317866) - [Why did clothing become boring?](https://resobscura.substack.com/p/why-did-clothing-become-boring)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
