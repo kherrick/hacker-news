@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42324114"
     ],
     [
-      "Message order in Matrix:, we are deliberately inconsistent",
+      "Message order in Matrix: right now, we are deliberately inconsistent",
       "https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Deploying Containers on NixOS: A Guide",
       "https://bkiran.com/blog/deploying-containers-nixos"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 23:24:12",
+      "https://news.ycombinator.com/item?id=42323158"
+    ],
+    [
+      "Oracle files notice of appearance for JavaScript trademark [pdf]",
+      "https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-12-04, 16:25:35",
-      "https://news.ycombinator.com/item?id=42319070"
-    ],
-    [
-      "Interview with Dr. Ken Iverson (1982)",
-      "https://www.arraycast.com/episodes/episode92-iverson"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 14:45:02",
       "https://news.ycombinator.com/item?id=42317903"
     ],
@@ -151,22 +151,12 @@
   ],
   [
     [
-      "2024-12-04, 14:42:10",
-      "https://news.ycombinator.com/item?id=42317878"
+      "2024-12-04, 14:41:19",
+      "https://news.ycombinator.com/item?id=42317866"
     ],
     [
-      "Test Driven Development (TDD) for your LLMs? Yes please, more of that please",
-      "https://blog.helix.ml/p/building-reliable-genai-applications"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 13:57:46",
-      "https://news.ycombinator.com/item?id=42317459"
-    ],
-    [
-      "Contribution of childhood lead exposure to psychopathology in the US",
-      "https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072"
+      "Why did clothing become boring?",
+      "https://resobscura.substack.com/p/why-did-clothing-become-boring"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-12-04, 08:20:59",
+      "https://news.ycombinator.com/item?id=42315500"
+    ],
+    [
+      "AI hallucinations: Why LLMs make things up (and how to fix it)",
+      "https://www.kapa.ai/blog/ai-hallucination"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 06:25:14",
       "https://news.ycombinator.com/item?id=42314905"
     ],
@@ -231,26 +231,6 @@
   ],
   [
     [
-      "2024-12-04, 03:06:32",
-      "https://news.ycombinator.com/item?id=42314156"
-    ],
-    [
-      "Bringing the Instructions to the Data",
-      "https://mattpo.pe/posts/sql-llvm/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 01:14:28",
-      "https://news.ycombinator.com/item?id=42313572"
-    ],
-    [
-      "History of rat control in Alberta",
-      "https://www.alberta.ca/history-of-rat-control-in-alberta"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 23:59:24",
       "https://news.ycombinator.com/item?id=42313087"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2024-12-02, 18:46:02",
+      "https://news.ycombinator.com/item?id=42299042"
+    ],
+    [
+      "Why are doctors wary of wearables?",
+      "https://www.bbc.com/news/articles/c79zpzdv4vno"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 23:47:48",
       "https://news.ycombinator.com/item?id=42291661"
     ],
     [
       "Sitters and Standers",
       "https://pudding.cool/2024/11/sitters-standers/"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 00:43:01",
+      "https://news.ycombinator.com/item?id=42285206"
+    ],
+    [
+      "A made-up name is better than no name",
+      "https://mbuffett.com/posts/a-made-up-name"
     ]
   ],
   [
