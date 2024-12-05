@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-05, 04:58:06",
-      "https://news.ycombinator.com/item?id=42325115"
-    ],
-    [
-      "UnitedHealth's Playbook for Limiting Mental Health Coverage",
-      "https://www.propublica.org/article/unitedhealth-mental-health-care-denied-illegal-algorithm"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 04:35:36",
       "https://news.ycombinator.com/item?id=42325011"
     ],
@@ -81,12 +71,12 @@
   ],
   [
     [
-      "2024-12-04, 22:58:38",
-      "https://news.ycombinator.com/item?id=42322981"
+      "2024-12-04, 19:08:04",
+      "https://news.ycombinator.com/item?id=42320835"
     ],
     [
-      "Certificate Authorities and the Fragility of Internet Safety",
-      "https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html"
+      "How Typing Transformed Nietzsche's Consciousness",
+      "https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2024-12-04, 17:03:26",
+      "https://news.ycombinator.com/item?id=42319461"
+    ],
+    [
+      "Self-Funding Harberger Taxes",
+      "https://gwern.net/harberger"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 17:00:18",
       "https://news.ycombinator.com/item?id=42319437"
     ],
@@ -157,16 +157,6 @@
     [
       "Genie 2: A large-scale foundation world model",
       "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 14:41:19",
-      "https://news.ycombinator.com/item?id=42317866"
-    ],
-    [
-      "Why did clothing become boring?",
-      "https://resobscura.substack.com/p/why-did-clothing-become-boring"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "AI hallucinations: Why LLMs make things up (and how to fix it)",
       "https://www.kapa.ai/blog/ai-hallucination"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 06:25:14",
+      "https://news.ycombinator.com/item?id=42314905"
+    ],
+    [
+      "Show HN: A 5th order motion planner with PH spline blending, written in Ada",
+      "https://600f3559.prunt-docs.pages.dev/"
     ]
   ],
   [
