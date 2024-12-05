@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 21:36:50](https://news.ycombinator.com/item?id=42333052) - [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
 * [2024-12-05, 21:00:49](https://news.ycombinator.com/item?id=42332695) - [Zep AI (YC W24) Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
 * [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
@@ -13,7 +14,6 @@
 * [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI o1 system card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
 * [2024-12-05, 17:46:14](https://news.ycombinator.com/item?id=42330483) - [AmpereOne: Cores Are the New MHz](https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz)
-* [2024-12-05, 17:43:43](https://news.ycombinator.com/item?id=42330454) - [Boeing plea deal over fatal 737 MAX crashes rejected by judge](https://www.bloomberg.com/news/articles/2024-12-05/boeing-plea-deal-over-fatal-737-max-crashes-rejected-by-judge)
 * [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson (1987)](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 16:50:35](https://news.ycombinator.com/item?id=42329879) - [Exploring inference memory saturation effect: H100 vs. MI300x](https://dstack.ai/blog/h100-mi300x-inference-benchmark/)
@@ -25,9 +25,9 @@
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-04, 20:18:11](https://news.ycombinator.com/item?id=42321596) - [Keyset cursors, not offsets, for Postgres pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-* [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-02, 22:27:02](https://news.ycombinator.com/item?id=42301049) - [Atmospheric analysis shows Venus never had Earth-like life, scientists say](https://www.theguardian.com/science/2024/dec/02/venus-life-water-atmosphere-analysis-science-research)
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
+* [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by My Own Projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
 
