@@ -47,6 +47,7 @@
 * [2024-11-30, 07:52:32](https://news.ycombinator.com/item?id=42280235) - [Watch Out for Counterintuitive Implicit Actor-Isolation](https://jaredsinclair.com/2024/11/12/beware-unchecked.html)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
 * [2024-11-30, 07:38:42](https://news.ycombinator.com/item?id=42280176) - [Web Highlighter Userscript](https://github.com/physicslog/web-highlighter.user.js)
+* [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 07:16:44](https://news.ycombinator.com/item?id=42280119) - [Thoughts on the Software Industry](https://linus.coffee/note/software-industry/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 * [2024-11-30, 05:47:35](https://news.ycombinator.com/item?id=42279829) - [Show HN: SurveyMoji – An easy way to get realtime feedback with a link/QR code](https://surveymoji.com)

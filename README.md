@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 07:44:50](https://news.ycombinator.com/item?id=42325922) - [Amnesty change genocide definition in order to attack Israel](https://twitter.com/MarkGoldfeder/status/1864494075220509115)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
@@ -10,9 +11,7 @@
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI helps researchers dig through old maps to find lost oil and gas wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
-* [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
-* [2024-12-04, 16:25:35](https://news.ycombinator.com/item?id=42319070) - [Interview with Dr. Ken Iverson (1982)](https://www.arraycast.com/episodes/episode92-iverson)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
@@ -29,6 +28,7 @@
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
 * [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
+* [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 
 ## [Archives](archives/index.md)
