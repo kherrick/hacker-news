@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-12-04, 03:06:32",
-      "https://news.ycombinator.com/item?id=42314156"
-    ],
-    [
-      "Bringing the Instructions to the Data",
-      "https://mattpo.pe/posts/sql-llvm/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 01:14:28",
       "https://news.ycombinator.com/item?id=42313572"
     ],
@@ -297,6 +287,16 @@
     [
       "WASM-4: Build retro games using WebAssembly for a fantasy console",
       "https://wasm4.org/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 16:15:09",
+      "https://news.ycombinator.com/item?id=42274834"
+    ],
+    [
+      "Move semantics in Rust, C++, and Hylo",
+      "https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo"
     ]
   ]
 ]
