@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
-* [2024-12-05, 16:45:47](https://news.ycombinator.com/item?id=42329820) - [A16Z 2025 Big Ideas for Crypto](https://a16zcrypto.com/posts/article/big-ideas-crypto-2025/)
+* [2024-12-05, 16:50:35](https://news.ycombinator.com/item?id=42329879) - [Exploring inference memory saturation effect: H100 vs. MI300x](https://dstack.ai/blog/h100-mi300x-inference-benchmark/)
 * [2024-12-05, 16:27:15](https://news.ycombinator.com/item?id=42329642) - [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:24:49](https://news.ycombinator.com/item?id=42329071) - [Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
@@ -25,7 +26,6 @@
 * [2024-12-02, 05:56:26](https://news.ycombinator.com/item?id=42293517) - [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
-* [2024-12-01, 22:57:19](https://news.ycombinator.com/item?id=42291375) - [Ampere WS-1 Japanese APL Clamtop](https://computeradsfromthepast.substack.com/p/ampere-ws-1)
 * [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
 * [2024-12-01, 13:28:02](https://news.ycombinator.com/item?id=42288343) - [The Surprising New History of Horse Domestication](https://www.scientificamerican.com/article/horse-domestication-story-gets-a-surprising-rewrite/)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
