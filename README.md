@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+* [2024-12-05, 16:45:47](https://news.ycombinator.com/item?id=42329820) - [A16Z 2025 Big Ideas for Crypto](https://a16zcrypto.com/posts/article/big-ideas-crypto-2025/)
 * [2024-12-05, 16:27:15](https://news.ycombinator.com/item?id=42329642) - [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:24:49](https://news.ycombinator.com/item?id=42329071) - [Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
@@ -13,7 +14,6 @@
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI helps researchers dig through old maps to find lost oil and gas wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
-* [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)

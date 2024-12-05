@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+* [2024-12-05, 16:45:47](https://news.ycombinator.com/item?id=42329820) - [A16Z 2025 Big Ideas for Crypto](https://a16zcrypto.com/posts/article/big-ideas-crypto-2025/)
 * [2024-12-05, 16:28:42](https://news.ycombinator.com/item?id=42329657) - [More than 300 game developers lost their jobs in one day, weeks before Christmas](https://www.pcgamer.com/gaming-industry/more-than-300-game-developers-lost-their-jobs-in-one-day-just-three-weeks-before-christmas/)
 * [2024-12-05, 16:27:15](https://news.ycombinator.com/item?id=42329642) - [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
