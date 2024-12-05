@@ -33,6 +33,7 @@
 * [2024-12-04, 14:50:31](https://news.ycombinator.com/item?id=42317952) - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
+* [2024-12-04, 14:41:19](https://news.ycombinator.com/item?id=42317866) - [Why did clothing become boring?](https://resobscura.substack.com/p/why-did-clothing-become-boring)
 * [2024-12-04, 14:17:23](https://news.ycombinator.com/item?id=42317604) - [UnitedHealthcare CEO Brian Thompson Fatally Shot in Manhattan](https://www.bloomberg.com/news/articles/2024-12-04/unitedhealthcare-ceo-brian-thompson-fatally-shot-in-manhattan)
 * [2024-12-04, 14:03:14](https://news.ycombinator.com/item?id=42317504) - [AI Stole the Joy of Programming](https://paulefou.com/blog/ai-cuck)
 * [2024-12-04, 13:57:46](https://news.ycombinator.com/item?id=42317459) - [Lead Exposure Drove a Hidden Mental Health Crisis in the U.S., Study Reveals](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14072)

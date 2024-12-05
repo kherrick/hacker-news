@@ -19,6 +19,7 @@
 * [2024-12-02, 19:02:38](https://news.ycombinator.com/item?id=42299231) - [Bioluminescent Wood Using the White Rot Fungus Desarmillaria Tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
 * [2024-12-02, 18:51:03](https://news.ycombinator.com/item?id=42299098) - [Show HN: Flow – A Dynamic Task Engine for building AI Agents](https://github.com/lmnr-ai/flow)
 * [2024-12-02, 18:48:20](https://news.ycombinator.com/item?id=42299070) - [Show HN: Akiradocs – open-source Documentation Framework with AI features](https://github.com/Cloud-Code-AI/AkiraDocs)
+* [2024-12-02, 18:46:02](https://news.ycombinator.com/item?id=42299042) - [Why are doctors wary of wearables?](https://www.bbc.com/news/articles/c79zpzdv4vno)
 * [2024-12-02, 18:44:37](https://news.ycombinator.com/item?id=42299025) - [The World of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
 * [2024-12-02, 18:20:38](https://news.ycombinator.com/item?id=42298797) - [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 * [2024-12-02, 18:16:30](https://news.ycombinator.com/item?id=42298752) - [Consciousness Might Hide in Our Brain's Electric Fields](https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/)
