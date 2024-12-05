@@ -11,6 +11,7 @@
 * [2024-12-02, 21:05:30](https://news.ycombinator.com/item?id=42300382) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-02, 20:36:53](https://news.ycombinator.com/item?id=42300134) - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
 * [2024-12-02, 20:31:10](https://news.ycombinator.com/item?id=42300085) - [Show HN: Convert your text or CSV to infographics to 10x the engagement](https://www.chartsnotchapters.com/)
+* [2024-12-02, 20:22:45](https://news.ycombinator.com/item?id=42300026) - [Positioning single atoms with a scanning tunnelling microscope (1990)](https://www.nature.com/articles/344524a0)
 * [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 * [2024-12-02, 20:07:35](https://news.ycombinator.com/item?id=42299863) - [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 * [2024-12-02, 20:04:29](https://news.ycombinator.com/item?id=42299829) - [Static IPs for Serverless Containers](https://modal.com/blog/vprox)
