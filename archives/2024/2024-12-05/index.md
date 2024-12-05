@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 18:17:14](https://news.ycombinator.com/item?id=42330812) - [Keye (YC F24) Is Hiring – Senior Software Engineer](https://news.ycombinator.com/item?id=42330812)
+* [2024-12-05, 18:07:34](https://news.ycombinator.com/item?id=42330705) - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
+* [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI O1 System Card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
+* [2024-12-05, 17:43:43](https://news.ycombinator.com/item?id=42330454) - [Boeing Plea Deal over Fatal 737 MAX Crashes Rejected by Judge](https://www.bloomberg.com/news/articles/2024-12-05/boeing-plea-deal-over-fatal-737-max-crashes-rejected-by-judge)
 * [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 16:50:35](https://news.ycombinator.com/item?id=42329879) - [Exploring inference memory saturation effect: H100 vs. MI300x](https://dstack.ai/blog/h100-mi300x-inference-benchmark/)
