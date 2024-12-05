@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-05, 09:54:23](https://news.ycombinator.com/item?id=42326593) - [All of Google Offline?](https://news.ycombinator.com/item?id=42326593)
 * [2024-12-05, 09:49:58](https://news.ycombinator.com/item?id=42326581) - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
@@ -13,6 +12,7 @@
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI helps researchers dig through old maps to find lost oil and gas wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
+* [2024-12-04, 16:25:35](https://news.ycombinator.com/item?id=42319070) - [Interview with Dr. Ken Iverson (1982)](https://www.arraycast.com/episodes/episode92-iverson)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
