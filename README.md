@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-05, 02:11:23](https://news.ycombinator.com/item?id=42324114) - [Message order in Matrix:, we are deliberately inconsistent](https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/)
+* [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 * [2024-12-05, 01:26:06](https://news.ycombinator.com/item?id=42323880) - [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
 * [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
@@ -19,7 +20,6 @@
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2024-12-04, 07:44:48](https://news.ycombinator.com/item?id=42315318) - [The ambiguous witness of Dietrich Bonhoeffer (2014)](https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/)
 * [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
