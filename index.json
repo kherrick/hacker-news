@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-12-05, 19:00:44",
+      "https://news.ycombinator.com/item?id=42331341"
+    ],
+    [
+      "US West Coast Tsunami Warning",
+      "https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 18:58:58",
+      "https://news.ycombinator.com/item?id=42331326"
+    ],
+    [
+      "Tsunami Warning for Northern California",
+      "https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 18:54:14",
+      "https://news.ycombinator.com/item?id=42331270"
+    ],
+    [
+      "Show HN: Banan-OS, an Unix-like operating system written from scratch",
+      "https://github.com/Bananymous/banan-os"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 18:50:16",
+      "https://news.ycombinator.com/item?id=42331207"
+    ],
+    [
+      "React v19 has been released",
+      "https://github.com/facebook/react/blob/main/CHANGELOG.md"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 18:46:24",
+      "https://news.ycombinator.com/item?id=42331160"
+    ],
+    [
+      "Why Overplanning Makes Projects Fail?",
+      "https://www.sanju.sh/thoughts/why-greatness-cannot-be-planned"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 18:17:14",
       "https://news.ycombinator.com/item?id=42330812"
     ],
@@ -37,6 +87,16 @@
     [
       "PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning",
       "https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 17:46:14",
+      "https://news.ycombinator.com/item?id=42330483"
+    ],
+    [
+      "AmpereOne: Cores Are the New MHz",
+      "https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz"
     ]
   ],
   [
@@ -151,36 +211,6 @@
   ],
   [
     [
-      "2024-12-04, 18:39:52",
-      "https://news.ycombinator.com/item?id=42320516"
-    ],
-    [
-      "Native dual-range input",
-      "https://muffinman.io/blog/native-dual-range-input/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 17:55:24",
-      "https://news.ycombinator.com/item?id=42320032"
-    ],
-    [
-      "Show HN: Outerbase Studio – Open-Source Database GUI",
-      "https://github.com/outerbase/studio"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 17:50:50",
-      "https://news.ycombinator.com/item?id=42319969"
-    ],
-    [
-      "AI helps researchers dig through old maps to find lost oil and gas wells",
-      "https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 14:45:02",
       "https://news.ycombinator.com/item?id=42317903"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-12-04, 13:50:42",
-      "https://news.ycombinator.com/item?id=42317393"
-    ],
-    [
-      "Show HN: I combined spaced repetition with emails so you can remember anything",
-      "https://www.ginkgonotes.com/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 12:46:00",
       "https://news.ycombinator.com/item?id=42316902"
     ],
     [
       "They don't make them like that any more: the Yamaha DX7 keyboard",
       "https://kevinboone.me/dx7.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 05:53:12",
-      "https://news.ycombinator.com/item?id=42314797"
-    ],
-    [
-      "Why America's economy is soaring ahead of its rivals",
-      "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Atmospheric analysis shows Venus never had Earth-like life, scientists say",
       "https://www.theguardian.com/science/2024/dec/02/venus-life-water-atmosphere-analysis-science-research"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 20:22:45",
-      "https://news.ycombinator.com/item?id=42300026"
-    ],
-    [
-      "Positioning single atoms with a scanning tunnelling microscope (1990)",
-      "https://www.nature.com/articles/344524a0"
     ]
   ],
   [
