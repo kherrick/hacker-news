@@ -5,7 +5,7 @@
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
 * [2024-12-05, 19:45:40](https://news.ycombinator.com/item?id=42331889) - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
 * [2024-12-05, 19:45:30](https://news.ycombinator.com/item?id=42331887) - [Memory is all we have](https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test)
-* [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I Spent a Year Building an Android Course for the Elderly–Here's What I Learned](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
+* [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I spent a year building an Android course for the elderly](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
 * [2024-12-05, 18:50:16](https://news.ycombinator.com/item?id=42331207) - [React 19](https://github.com/facebook/react/blob/main/CHANGELOG.md)
