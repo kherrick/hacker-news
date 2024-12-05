@@ -22,7 +22,6 @@
 * [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
-* [2024-12-04, 03:06:32](https://news.ycombinator.com/item?id=42314156) - [Bringing the Instructions to the Data](https://mattpo.pe/posts/sql-llvm/)
 * [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
@@ -30,6 +29,7 @@
 * [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
 * [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
+* [2024-11-29, 16:15:09](https://news.ycombinator.com/item?id=42274834) - [Move semantics in Rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
 
 ## [Archives](archives/index.md)
 
