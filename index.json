@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-05, 01:40:30",
+      "https://news.ycombinator.com/item?id=42323953"
+    ],
+    [
+      "Bringing K/V context quantisation to Ollama",
+      "https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 01:26:06",
+      "https://news.ycombinator.com/item?id=42323880"
+    ],
+    [
+      "AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement",
+      "https://yusiali.com/projects/AggiesBCI/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 23:34:39",
       "https://news.ycombinator.com/item?id=42323235"
     ],
@@ -27,16 +47,6 @@
     [
       "Certificate Authorities and the Fragility of Internet Safety",
       "https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 21:38:12",
-      "https://news.ycombinator.com/item?id=42322305"
-    ],
-    [
-      "Show HN: LimeJourney – open-source Customer Engagement Platform",
-      "https://www.limejourney.com"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-12-04, 03:06:32",
-      "https://news.ycombinator.com/item?id=42314156"
-    ],
-    [
-      "Bringing the Instructions to the Data",
-      "https://mattpo.pe/posts/sql-llvm/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 01:14:28",
       "https://news.ycombinator.com/item?id=42313572"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-12-02, 06:53:40",
-      "https://news.ycombinator.com/item?id=42293771"
-    ],
-    [
-      "Meta built large-scale cryptographic monitoring",
-      "https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 23:47:48",
       "https://news.ycombinator.com/item?id=42291661"
     ],
     [
       "Sitters and Standers",
       "https://pudding.cool/2024/11/sitters-standers/"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 00:07:48",
+      "https://news.ycombinator.com/item?id=42278295"
+    ],
+    [
+      "WASM-4: Build retro games using WebAssembly for a fantasy console",
+      "https://wasm4.org/"
     ]
   ],
   [
