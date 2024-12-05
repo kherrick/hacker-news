@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 22:57:32](https://news.ycombinator.com/item?id=42333800) - [Healthcare companies are yanking info from their leadership pages](https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/)
 * [2024-12-05, 21:55:25](https://news.ycombinator.com/item?id=42333243) - [Researchers get 'compact' hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
 * [2024-12-05, 21:36:59](https://news.ycombinator.com/item?id=42333053) - [The Acton Programming Language](https://www.acton-lang.org/)
 * [2024-12-05, 21:36:50](https://news.ycombinator.com/item?id=42333052) - [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
 * [2024-12-05, 21:00:49](https://news.ycombinator.com/item?id=42332695) - [Zep AI (YC W24) Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
 * [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
-* [2024-12-05, 19:45:30](https://news.ycombinator.com/item?id=42331887) - [Memory is all we have](https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test)
 * [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I spent a year building an Android course for the elderly](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
 * [2024-12-05, 19:22:46](https://news.ycombinator.com/item?id=42331646) - [Chocolate intake and risk of type 2 diabetes: prospective cohort studies](https://www.bmj.com/content/387/bmj-2023-078386)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
