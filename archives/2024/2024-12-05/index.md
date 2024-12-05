@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 09:54:23](https://news.ycombinator.com/item?id=42326593) - [All of Google Offline?](https://news.ycombinator.com/item?id=42326593)
+* [2024-12-05, 09:49:58](https://news.ycombinator.com/item?id=42326581) - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 * [2024-12-05, 07:44:50](https://news.ycombinator.com/item?id=42325922) - [Amnesty change genocide definition in order to attack Israel](https://twitter.com/MarkGoldfeder/status/1864494075220509115)
 * [2024-12-05, 04:58:06](https://news.ycombinator.com/item?id=42325115) - [UnitedHealth's Playbook for Limiting Mental Health Coverage](https://www.propublica.org/article/unitedhealth-mental-health-care-denied-illegal-algorithm)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
