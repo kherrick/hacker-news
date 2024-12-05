@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
 * [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
+* [2024-12-04, 23:24:12](https://news.ycombinator.com/item?id=42323158) - [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
+* [2024-12-04, 22:58:38](https://news.ycombinator.com/item?id=42322981) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
 * [2024-12-04, 22:17:46](https://news.ycombinator.com/item?id=42322658) - [Crunchy Data Warehouse: Postgres with Iceberg for High Performance Analytics](https://www.crunchydata.com/blog/crunchy-data-warehouse-postgres-with-iceberg-for-high-performance-analytics)
 * [2024-12-04, 21:38:12](https://news.ycombinator.com/item?id=42322305) - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
 * [2024-12-04, 20:09:34](https://news.ycombinator.com/item?id=42321507) - [Stop Requiring CRLF Line Endings](https://fossil-scm.org/home/ext/stop-requiring-crlf.md)
@@ -39,6 +41,7 @@
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 13:16:29](https://news.ycombinator.com/item?id=42317120) - [S3 Tables](https://meltware.com/2024/12/04/s3-tables.html)
 * [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
+* [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
