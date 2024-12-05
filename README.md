@@ -6,7 +6,7 @@
 * [2024-12-05, 19:22:46](https://news.ycombinator.com/item?id=42331646) - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
-* [2024-12-05, 18:50:16](https://news.ycombinator.com/item?id=42331207) - [React v19 has been released](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+* [2024-12-05, 18:50:16](https://news.ycombinator.com/item?id=42331207) - [React 19](https://github.com/facebook/react/blob/main/CHANGELOG.md)
 * [2024-12-05, 18:17:14](https://news.ycombinator.com/item?id=42330812) - [Keye (YC F24) Is Hiring – Senior Software Engineer](https://news.ycombinator.com/item?id=42330812)
 * [2024-12-05, 18:09:31](https://news.ycombinator.com/item?id=42330732) - [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 * [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI o1 system card](https://openai.com/index/openai-o1-system-card/)
