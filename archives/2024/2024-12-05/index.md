@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 12:01:01](https://news.ycombinator.com/item?id=42327315) - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
+* [2024-12-05, 11:53:04](https://news.ycombinator.com/item?id=42327275) - [Wubuntu: The lovechild of Windows and Linux nobody asked for](https://www.theregister.com/2024/12/05/wubuntu/)
 * [2024-12-05, 11:52:44](https://news.ycombinator.com/item?id=42327272) - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
 * [2024-12-05, 11:09:52](https://news.ycombinator.com/item?id=42327005) - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
+* [2024-12-05, 11:06:39](https://news.ycombinator.com/item?id=42326987) - [US Senators implore Department of Defense to expand the use of Matrix](https://element.io/blog/senators-implore-department-of-defense-to-expand-the-use-of-matrix/)
 * [2024-12-05, 09:54:23](https://news.ycombinator.com/item?id=42326593) - [All of Google Offline?](https://news.ycombinator.com/item?id=42326593)
 * [2024-12-05, 09:49:58](https://news.ycombinator.com/item?id=42326581) - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 * [2024-12-05, 09:31:26](https://news.ycombinator.com/item?id=42326487) - [Bitcoin price hits $100K for first time in history](https://cointelegraph.com/news/bitcoin-price-hits-100-000-first-time-new-all-time-high)
