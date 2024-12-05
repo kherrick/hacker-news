@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
 * [2024-12-05, 18:17:14](https://news.ycombinator.com/item?id=42330812) - [Keye (YC F24) Is Hiring – Senior Software Engineer](https://news.ycombinator.com/item?id=42330812)
+* [2024-12-05, 18:09:31](https://news.ycombinator.com/item?id=42330732) - [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 * [2024-12-05, 18:07:34](https://news.ycombinator.com/item?id=42330705) - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
 * [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI O1 System Card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
