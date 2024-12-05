@@ -5,7 +5,7 @@
 * [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI O1 System Card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
 * [2024-12-05, 17:43:43](https://news.ycombinator.com/item?id=42330454) - [Boeing Plea Deal over Fatal 737 MAX Crashes Rejected by Judge](https://www.bloomberg.com/news/articles/2024-12-05/boeing-plea-deal-over-fatal-737-max-crashes-rejected-by-judge)
-* [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson](http://timhulsizer.com/cwords/chonk.html)
+* [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson (1987)](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 16:50:35](https://news.ycombinator.com/item?id=42329879) - [Exploring inference memory saturation effect: H100 vs. MI300x](https://dstack.ai/blog/h100-mi300x-inference-benchmark/)
 * [2024-12-05, 16:27:15](https://news.ycombinator.com/item?id=42329642) - [cli53 – Command line tool for Amazon Route 53](https://github.com/barnybug/cli53)
