@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 21:00:49](https://news.ycombinator.com/item?id=42332695) - [Zep AI (YC W24) Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
 * [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 20:06:19](https://news.ycombinator.com/item?id=42332129) - [Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens](https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550)
 * [2024-12-05, 19:45:40](https://news.ycombinator.com/item?id=42331889) - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
+* [2024-12-05, 19:45:30](https://news.ycombinator.com/item?id=42331887) - [Memory is all we have](https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test)
+* [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I Spent a Year Building an Android Course for the Elderly–Here's What I Learned](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
 * [2024-12-05, 19:22:46](https://news.ycombinator.com/item?id=42331646) - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
 * [2024-12-05, 19:00:44](https://news.ycombinator.com/item?id=42331341) - [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
@@ -32,6 +35,7 @@
 * [2024-12-05, 15:14:13](https://news.ycombinator.com/item?id=42328971) - [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
 * [2024-12-05, 13:22:19](https://news.ycombinator.com/item?id=42327969) - [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
 * [2024-12-05, 12:01:01](https://news.ycombinator.com/item?id=42327315) - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
+* [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-05, 11:53:04](https://news.ycombinator.com/item?id=42327275) - [Wubuntu: The lovechild of Windows and Linux nobody asked for](https://www.theregister.com/2024/12/05/wubuntu/)
 * [2024-12-05, 11:52:44](https://news.ycombinator.com/item?id=42327272) - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
 * [2024-12-05, 11:09:52](https://news.ycombinator.com/item?id=42327005) - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
