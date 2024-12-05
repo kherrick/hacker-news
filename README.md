@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
-* [2024-12-05, 02:11:23](https://news.ycombinator.com/item?id=42324114) - [Message order in Matrix: right now, we are deliberately inconsistent](https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/)
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 * [2024-12-05, 01:26:06](https://news.ycombinator.com/item?id=42323880) - [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
@@ -14,6 +13,7 @@
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+* [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
