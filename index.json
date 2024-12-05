@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42333243"
     ],
     [
-      "Eindhoven University researchers reinvent X-ray machine",
+      "Researchers get 'compact' hard X-ray machine to work",
       "https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "I spent a year building an Android course for the elderly",
       "https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 19:22:46",
-      "https://news.ycombinator.com/item?id=42331646"
-    ],
-    [
-      "Chocolate intake and risk of type 2 diabetes: prospective cohort studies",
-      "https://www.bmj.com/content/387/bmj-2023-078386"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-12-05, 16:50:35",
-      "https://news.ycombinator.com/item?id=42329879"
+      "2024-12-05, 16:27:15",
+      "https://news.ycombinator.com/item?id=42329642"
     ],
     [
-      "Exploring inference memory saturation effect: H100 vs. MI300x",
-      "https://dstack.ai/blog/h100-mi300x-inference-benchmark/"
+      "cli53 – Command line tool for Amazon Route 53",
+      "https://github.com/barnybug/cli53"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Diátaxis – A systematic approach to technical documentation authoring",
       "https://diataxis.fr/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 02:11:23",
+      "https://news.ycombinator.com/item?id=42324114"
+    ],
+    [
+      "Message order in Matrix: right now, we are deliberately inconsistent",
+      "https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=42261197"
     ],
     [
-      "Haunted by My Own Projects",
+      "Haunted by my own projects",
       "https://cassidoo.co/post/side-project-haunting/"
     ]
   ],
