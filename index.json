@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-05, 19:00:44",
-      "https://news.ycombinator.com/item?id=42331341"
-    ],
-    [
-      "US West Coast Tsunami Warning",
-      "https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 18:58:58",
       "https://news.ycombinator.com/item?id=42331326"
     ],
@@ -297,6 +287,16 @@
     [
       "Oscilloscope Music N-Spheres",
       "https://oscilloscopemusic.com/watch/n-spheres"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 16:15:09",
+      "https://news.ycombinator.com/item?id=42274834"
+    ],
+    [
+      "Move semantics in Rust, C++, and Hylo",
+      "https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo"
     ]
   ]
 ]
