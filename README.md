@@ -5,8 +5,7 @@
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 * [2024-12-05, 01:26:06](https://news.ycombinator.com/item?id=42323880) - [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
-* [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
-* [2024-12-04, 23:24:12](https://news.ycombinator.com/item?id=42323158) - [Oracle files notice of appearance for JavaScript trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
+* [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
@@ -15,6 +14,7 @@
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+* [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
@@ -22,6 +22,7 @@
 * [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
+* [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-02, 18:46:02](https://news.ycombinator.com/item?id=42299042) - [Why are doctors wary of wearables?](https://www.bbc.com/news/articles/c79zpzdv4vno)
@@ -29,7 +30,6 @@
 * [2024-12-01, 01:05:39](https://news.ycombinator.com/item?id=42285310) - [Unlocking the Power of DynamoDB: A Developer's Journey](https://pablosblog.dev/posts/3/)
 * [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A made-up name is better than no name](https://mbuffett.com/posts/a-made-up-name)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
-* [2024-11-29, 23:57:44](https://news.ycombinator.com/item?id=42278230) - [C64 Basic Tutorial: Using String Manipulation to Write a Text Adventure](https://retrogamecoders.com/strings-text-adventure/)
 
 ## [Archives](archives/index.md)
 
