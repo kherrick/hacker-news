@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 11:52:44](https://news.ycombinator.com/item?id=42327272) - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
 * [2024-12-05, 11:09:52](https://news.ycombinator.com/item?id=42327005) - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
 * [2024-12-05, 09:54:23](https://news.ycombinator.com/item?id=42326593) - [All of Google Offline?](https://news.ycombinator.com/item?id=42326593)
 * [2024-12-05, 09:49:58](https://news.ycombinator.com/item?id=42326581) - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)

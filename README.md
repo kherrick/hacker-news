@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 11:52:44](https://news.ycombinator.com/item?id=42327272) - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
 * [2024-12-05, 11:09:52](https://news.ycombinator.com/item?id=42327005) - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
 * [2024-12-05, 09:49:58](https://news.ycombinator.com/item?id=42326581) - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
@@ -17,11 +18,9 @@
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 08:20:59](https://news.ycombinator.com/item?id=42315500) - [AI hallucinations: Why LLMs make things up (and how to fix it)](https://www.kapa.ai/blog/ai-hallucination)
-* [2024-12-04, 07:44:48](https://news.ycombinator.com/item?id=42315318) - [The ambiguous witness of Dietrich Bonhoeffer (2014)](https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/)
 * [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
-* [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
@@ -30,6 +29,7 @@
 * [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 * [2024-11-29, 16:15:09](https://news.ycombinator.com/item?id=42274834) - [Move semantics in Rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
+* [2024-11-26, 20:06:29](https://news.ycombinator.com/item?id=42249474) - [Licking this \"lollipop\" will let you taste virtual flavors](https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/)
 
 ## [Archives](archives/index.md)
 

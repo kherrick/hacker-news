@@ -25,6 +25,7 @@
 * [2024-11-26, 20:19:57](https://news.ycombinator.com/item?id=42249609) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-26, 20:13:16](https://news.ycombinator.com/item?id=42249545) - [USPS carriers love their new mail trucks](https://www.nytimes.com/2024/11/26/us/usps-new-mail-trucks.html)
 * [2024-11-26, 20:10:47](https://news.ycombinator.com/item?id=42249518) - [Apple Rhapsody Report (1997)](https://www.uvm.edu/~sjc/raposody.html)
+* [2024-11-26, 20:06:29](https://news.ycombinator.com/item?id=42249474) - [Licking this \"lollipop\" will let you taste virtual flavors](https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/)
 * [2024-11-26, 19:31:24](https://news.ycombinator.com/item?id=42249090) - [Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)
 * [2024-11-26, 19:14:49](https://news.ycombinator.com/item?id=42248907) - [OpenAI Sora allegedly leaked to Hugging Face](https://huggingface.co/spaces/PR-Puppets/PR-Puppet-Sora)
 * [2024-11-26, 18:47:04](https://news.ycombinator.com/item?id=42248630) - [GenChess](https://labs.google/genchess)
