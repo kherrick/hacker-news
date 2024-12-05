@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 04:58:06](https://news.ycombinator.com/item?id=42325115) - [UnitedHealth's Playbook for Limiting Mental Health Coverage](https://www.propublica.org/article/unitedhealth-mental-health-care-denied-illegal-algorithm)
+* [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-05, 02:11:23](https://news.ycombinator.com/item?id=42324114) - [Message order in Matrix: right now, we are deliberately inconsistent](https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/)
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
@@ -7,7 +9,6 @@
 * [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
 * [2024-12-04, 23:24:12](https://news.ycombinator.com/item?id=42323158) - [Oracle files notice of appearance for JavaScript trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
 * [2024-12-04, 22:58:38](https://news.ycombinator.com/item?id=42322981) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
-* [2024-12-04, 19:08:04](https://news.ycombinator.com/item?id=42320835) - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
 * [2024-12-04, 18:39:52](https://news.ycombinator.com/item?id=42320516) - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 * [2024-12-04, 18:09:14](https://news.ycombinator.com/item?id=42320180) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
@@ -20,7 +21,6 @@
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 08:20:59](https://news.ycombinator.com/item?id=42315500) - [AI hallucinations: Why LLMs make things up (and how to fix it)](https://www.kapa.ai/blog/ai-hallucination)
-* [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
