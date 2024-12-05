@@ -14,7 +14,6 @@
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
 * [2024-12-04, 14:45:02](https://news.ycombinator.com/item?id=42317903) - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-* [2024-12-04, 14:42:10](https://news.ycombinator.com/item?id=42317878) - [Test Driven Development (TDD) for your LLMs? Yes please, more of that please](https://blog.helix.ml/p/building-reliable-genai-applications)
 * [2024-12-04, 13:50:42](https://news.ycombinator.com/item?id=42317393) - [Show HN: I combined spaced repetition with emails so you can remember anything](https://www.ginkgonotes.com/)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
@@ -28,6 +27,7 @@
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-02, 18:46:02](https://news.ycombinator.com/item?id=42299042) - [Why are doctors wary of wearables?](https://www.bbc.com/news/articles/c79zpzdv4vno)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
+* [2024-12-01, 15:52:03](https://news.ycombinator.com/item?id=42289002) - [Oscilloscope Music N-Spheres](https://oscilloscopemusic.com/watch/n-spheres)
 * [2024-12-01, 00:43:01](https://news.ycombinator.com/item?id=42285206) - [A made-up name is better than no name](https://mbuffett.com/posts/a-made-up-name)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 
