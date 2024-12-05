@@ -43,6 +43,7 @@
 * [2024-11-30, 09:01:56](https://news.ycombinator.com/item?id=42280486) - [Information Batteries (2021) [pdf]](https://raghavan.usc.edu/papers/infobatteries-eir21.pdf)
 * [2024-11-30, 08:23:42](https://news.ycombinator.com/item?id=42280343) - [The anxiolytic effects of resistance exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC4090891/)
 * [2024-11-30, 08:16:24](https://news.ycombinator.com/item?id=42280323) - [Gratitude Despite the Odds](https://mariakonnikova.substack.com/p/gratitude-despite-the-odds)
+* [2024-11-30, 07:59:17](https://news.ycombinator.com/item?id=42280265) - [World on a Wire (1973)](https://en.wikipedia.org/wiki/World_on_a_Wire)
 * [2024-11-30, 07:54:40](https://news.ycombinator.com/item?id=42280246) - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [2024-11-30, 07:52:32](https://news.ycombinator.com/item?id=42280235) - [Watch Out for Counterintuitive Implicit Actor-Isolation](https://jaredsinclair.com/2024/11/12/beware-unchecked.html)
 * [2024-11-30, 07:49:24](https://news.ycombinator.com/item?id=42280217) - [Microsoft accused of Malware-like Bing Wallpaper app](https://www.ghacks.net/2024/11/21/microsoft-accused-of-malware-like-bing-wallpaper-app/)
