@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-12-05, 18:07:34",
-      "https://news.ycombinator.com/item?id=42330705"
+      "2024-12-05, 18:09:31",
+      "https://news.ycombinator.com/item?id=42330732"
     ],
     [
-      "OpenAI confirms new $200 monthly subscription, ChatGPT Pro",
-      "https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/"
+      "ChatGPT Pro",
+      "https://openai.com/index/introducing-chatgpt-pro/"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42330666"
     ],
     [
-      "OpenAI O1 System Card",
+      "OpenAI o1 system card",
       "https://openai.com/index/openai-o1-system-card/"
     ]
   ],
@@ -121,22 +121,22 @@
   ],
   [
     [
+      "2024-12-05, 15:14:13",
+      "https://news.ycombinator.com/item?id=42328971"
+    ],
+    [
+      "Next stop: Miami",
+      "https://waymo.com/blog/2024/12/next-stop-miami/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 04:35:36",
       "https://news.ycombinator.com/item?id=42325011"
     ],
     [
       "Diátaxis – A systematic approach to technical documentation authoring",
       "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 02:01:45",
-      "https://news.ycombinator.com/item?id=42324059"
-    ],
-    [
-      "VectorChord: Store 400k Vectors for $1 in PostgreSQL",
-      "https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-12-04, 14:41:19",
+      "https://news.ycombinator.com/item?id=42317866"
+    ],
+    [
+      "Why did clothing become boring?",
+      "https://resobscura.substack.com/p/why-did-clothing-become-boring"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 13:50:42",
       "https://news.ycombinator.com/item?id=42317393"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2024-12-03, 23:59:24",
-      "https://news.ycombinator.com/item?id=42313087"
-    ],
-    [
-      "The story of Rogue",
-      "https://spillhistorie.no/the-story-of-rogue/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 22:08:16",
       "https://news.ycombinator.com/item?id=42312121"
     ],
     [
       "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
       "https://www.armaansahni.com/game/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 22:27:02",
+      "https://news.ycombinator.com/item?id=42301049"
+    ],
+    [
+      "Atmospheric analysis shows Venus never had Earth-like life, scientists say",
+      "https://www.theguardian.com/science/2024/dec/02/venus-life-water-atmosphere-analysis-science-research"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Oscilloscope Music N-Spheres",
       "https://oscilloscopemusic.com/watch/n-spheres"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 00:07:48",
-      "https://news.ycombinator.com/item?id=42278295"
-    ],
-    [
-      "WASM-4: Build retro games using WebAssembly for a fantasy console",
-      "https://wasm4.org/"
     ]
   ],
   [
