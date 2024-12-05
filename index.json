@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-05, 17:02:51",
+      "https://news.ycombinator.com/item?id=42330055"
+    ],
+    [
+      "7 Databases in 7 Weeks for 2025",
+      "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 16:27:15",
+      "https://news.ycombinator.com/item?id=42329642"
+    ],
+    [
+      "cli53 – Command line tool for Amazon Route 53",
+      "https://github.com/barnybug/cli53"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 15:51:32",
       "https://news.ycombinator.com/item?id=42329307"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-12-04, 17:03:26",
-      "https://news.ycombinator.com/item?id=42319461"
-    ],
-    [
-      "Self-Funding Harberger Taxes",
-      "https://gwern.net/harberger"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 16:50:06",
       "https://news.ycombinator.com/item?id=42319315"
     ],
@@ -167,16 +177,6 @@
     [
       "Speeding up Ruby by rewriting C in Ruby",
       "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 06:25:14",
-      "https://news.ycombinator.com/item?id=42314905"
-    ],
-    [
-      "Show HN: A 5th order motion planner with PH spline blending, written in Ada",
-      "https://600f3559.prunt-docs.pages.dev/"
     ]
   ],
   [
