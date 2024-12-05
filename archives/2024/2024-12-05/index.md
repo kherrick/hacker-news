@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 13:22:19](https://news.ycombinator.com/item?id=42327969) - [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
 * [2024-12-05, 12:01:01](https://news.ycombinator.com/item?id=42327315) - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
 * [2024-12-05, 11:53:04](https://news.ycombinator.com/item?id=42327275) - [Wubuntu: The lovechild of Windows and Linux nobody asked for](https://www.theregister.com/2024/12/05/wubuntu/)
 * [2024-12-05, 11:52:44](https://news.ycombinator.com/item?id=42327272) - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)

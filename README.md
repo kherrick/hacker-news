@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-05, 13:22:19](https://news.ycombinator.com/item?id=42327969) - [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
 * [2024-12-05, 12:01:01](https://news.ycombinator.com/item?id=42327315) - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
-* [2024-12-05, 11:09:52](https://news.ycombinator.com/item?id=42327005) - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
 * [2024-12-05, 04:35:36](https://news.ycombinator.com/item?id=42325011) - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 * [2024-12-05, 02:01:45](https://news.ycombinator.com/item?id=42324059) - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 * [2024-12-05, 01:40:30](https://news.ycombinator.com/item?id=42323953) - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
@@ -21,6 +21,7 @@
 * [2024-12-04, 06:25:14](https://news.ycombinator.com/item?id=42314905) - [Show HN: A 5th order motion planner with PH spline blending, written in Ada](https://600f3559.prunt-docs.pages.dev/)
 * [2024-12-04, 05:53:12](https://news.ycombinator.com/item?id=42314797) - [Why America's economy is soaring ahead of its rivals](https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b)
 * [2024-12-04, 04:46:12](https://news.ycombinator.com/item?id=42314547) - [IMG_0001](https://walzr.com/IMG_0001/)
+* [2024-12-04, 01:14:28](https://news.ycombinator.com/item?id=42313572) - [History of rat control in Alberta](https://www.alberta.ca/history-of-rat-control-in-alberta)
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
 * [2024-12-03, 22:08:16](https://news.ycombinator.com/item?id=42312121) - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
 * [2024-12-01, 23:47:48](https://news.ycombinator.com/item?id=42291661) - [Sitters and Standers](https://pudding.cool/2024/11/sitters-standers/)
@@ -29,7 +30,6 @@
 * [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 00:07:48](https://news.ycombinator.com/item?id=42278295) - [WASM-4: Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 * [2024-11-29, 16:15:09](https://news.ycombinator.com/item?id=42274834) - [Move semantics in Rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
-* [2024-11-26, 20:06:29](https://news.ycombinator.com/item?id=42249474) - [Licking this \"lollipop\" will let you taste virtual flavors](https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/)
 
 ## [Archives](archives/index.md)
 
