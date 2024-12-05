@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 15:24:49](https://news.ycombinator.com/item?id=42329071) - [Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract](https://gitingest.com/)
 * [2024-12-05, 15:18:13](https://news.ycombinator.com/item?id=42329005) - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
 * [2024-12-05, 15:14:13](https://news.ycombinator.com/item?id=42328971) - [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
 * [2024-12-05, 13:22:19](https://news.ycombinator.com/item?id=42327969) - [Disposable Python environments for ad-hoc analyses](https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/)
