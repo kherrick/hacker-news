@@ -51,22 +51,12 @@
   ],
   [
     [
-      "2024-12-04, 23:34:39",
-      "https://news.ycombinator.com/item?id=42323235"
+      "2024-12-04, 19:08:04",
+      "https://news.ycombinator.com/item?id=42320835"
     ],
     [
-      "Deploying Containers on NixOS: A Guide",
-      "https://bkiran.com/blog/deploying-containers-nixos"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 23:24:12",
-      "https://news.ycombinator.com/item?id=42323158"
-    ],
-    [
-      "Oracle files notice of appearance for JavaScript trademark [pdf]",
-      "https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf"
+      "How Typing Transformed Nietzsche's Consciousness",
+      "https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-12-04, 14:42:10",
+      "https://news.ycombinator.com/item?id=42317878"
+    ],
+    [
+      "Test Driven Development (TDD) for your LLMs? Yes please, more of that please",
+      "https://blog.helix.ml/p/building-reliable-genai-applications"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 13:50:42",
       "https://news.ycombinator.com/item?id=42317393"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-12-04, 01:14:28",
+      "https://news.ycombinator.com/item?id=42313572"
+    ],
+    [
+      "History of rat control in Alberta",
+      "https://www.alberta.ca/history-of-rat-control-in-alberta"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 23:59:24",
       "https://news.ycombinator.com/item?id=42313087"
     ],
@@ -287,16 +297,6 @@
     [
       "WASM-4: Build retro games using WebAssembly for a fantasy console",
       "https://wasm4.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 23:57:44",
-      "https://news.ycombinator.com/item?id=42278230"
-    ],
-    [
-      "C64 Basic Tutorial: Using String Manipulation to Write a Text Adventure",
-      "https://retrogamecoders.com/strings-text-adventure/"
     ]
   ]
 ]
