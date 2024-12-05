@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 19:45:40](https://news.ycombinator.com/item?id=42331889) - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
 * [2024-12-05, 19:00:44](https://news.ycombinator.com/item?id=42331341) - [US West Coast Tsunami Warning](https://www.tsunami.gov/events/PAAQ/2024/12/05/so1aq0/1/WEAK51/WEAK51.txt)
 * [2024-12-05, 18:58:58](https://news.ycombinator.com/item?id=42331326) - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)

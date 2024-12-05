@@ -81,3 +81,4 @@
 * [2024-11-28, 01:38:17](https://news.ycombinator.com/item?id=42261573) - [A Washing Machine for Human Beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
 * [2024-11-28, 01:32:32](https://news.ycombinator.com/item?id=42261538) - [Building a Phosphorescence Detector](https://lcamtuf.substack.com/p/building-a-phosphorescence-detector)
 * [2024-11-28, 00:49:06](https://news.ycombinator.com/item?id=42261314) - [RomCom exploits Firefox and Windows zero days in the wild](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
+* [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by My Own Projects](https://cassidoo.co/post/side-project-haunting/)
