@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-12-05, 13:22:19",
+      "https://news.ycombinator.com/item?id=42327969"
+    ],
+    [
+      "Disposable Python environments for ad-hoc analyses",
+      "https://ericmjl.github.io/blog/2024/11/8/disposable-environments-for-ad-hoc-analyses/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 12:01:01",
       "https://news.ycombinator.com/item?id=42327315"
     ],
     [
       "Humanloop (YC S20) Is Hiring Product Engineers in London and SF",
       "https://humanloop.com"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 11:09:52",
-      "https://news.ycombinator.com/item?id=42327005"
-    ],
-    [
-      "How close is AI to human-level intelligence?",
-      "https://www.nature.com/articles/d41586-024-03905-1"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-04, 01:14:28",
+      "https://news.ycombinator.com/item?id=42313572"
+    ],
+    [
+      "History of rat control in Alberta",
+      "https://www.alberta.ca/history-of-rat-control-in-alberta"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 23:59:24",
       "https://news.ycombinator.com/item?id=42313087"
     ],
@@ -287,16 +297,6 @@
     [
       "Move semantics in Rust, C++, and Hylo",
       "https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo"
-    ]
-  ],
-  [
-    [
-      "2024-11-26, 20:06:29",
-      "https://news.ycombinator.com/item?id=42249474"
-    ],
-    [
-      "Licking this \"lollipop\" will let you taste virtual flavors",
-      "https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/"
     ]
   ]
 ]
