@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-05, 02:11:23",
-      "https://news.ycombinator.com/item?id=42324114"
-    ],
-    [
-      "Message order in Matrix: right now, we are deliberately inconsistent",
-      "https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 02:01:45",
       "https://news.ycombinator.com/item?id=42324059"
     ],
@@ -137,6 +127,16 @@
     [
       "Genie 2: A large-scale foundation world model",
       "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 14:42:10",
+      "https://news.ycombinator.com/item?id=42317878"
+    ],
+    [
+      "Test Driven Development (TDD) for your LLMs? Yes please, more of that please",
+      "https://blog.helix.ml/p/building-reliable-genai-applications"
     ]
   ],
   [
