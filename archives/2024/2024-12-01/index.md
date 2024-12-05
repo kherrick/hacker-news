@@ -30,6 +30,7 @@
 * [2024-12-01, 18:47:38](https://news.ycombinator.com/item?id=42289913) - [Oliver Heaviside's Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
 * [2024-12-01, 18:43:03](https://news.ycombinator.com/item?id=42289897) - [The Phones of the New NATO Secretary General Mark Rutte](https://www.electrospaces.net/2024/12/the-phones-of-new-nato-secretary.html)
 * [2024-12-01, 18:24:26](https://news.ycombinator.com/item?id=42289798) - [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
+* [2024-12-01, 18:07:22](https://news.ycombinator.com/item?id=42289719) - [Hide Photos on Floppies with a Flux Imager](https://github.com/dbalsom/fluxfox/tree/main/crates/png2disk)
 * [2024-12-01, 17:58:48](https://news.ycombinator.com/item?id=42289690) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-01, 17:48:56](https://news.ycombinator.com/item?id=42289627) - [Frontier supercomputer runs the largest astrophysical simulation of universe](https://www.anl.gov/cps/article/recordbreaking-run-on-frontier-sets-new-bar-for-simulating-the-universe-in-the-exascale-era)
 * [2024-12-01, 17:07:28](https://news.ycombinator.com/item?id=42289380) - [Steam Deck hits 17,000 games playable and verified](https://www.gamingonlinux.com/2024/11/steam-deck-hits-17000-games-playable-and-verified/)
