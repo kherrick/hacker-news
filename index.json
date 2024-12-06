@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 15:38:08",
+      "https://news.ycombinator.com/item?id=42340740"
+    ],
+    [
+      "We fixed our documentation with the Diátaxis framework",
+      "https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 14:54:56",
       "https://news.ycombinator.com/item?id=42340346"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-12-06, 00:10:21",
-      "https://news.ycombinator.com/item?id=42334379"
-    ],
-    [
-      "Litdb – type safe SQL for JavaScript/TS",
-      "https://litdb.dev/"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 00:01:53",
       "https://news.ycombinator.com/item?id=42334323"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-12-05, 11:53:59",
-      "https://news.ycombinator.com/item?id=42327280"
-    ],
-    [
-      "The “simple” 38 step journey to getting an RFC",
-      "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 10:06:36",
       "https://news.ycombinator.com/item?id=42294716"
     ],
@@ -297,6 +287,16 @@
     [
       "RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'",
       "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 07:09:53",
+      "https://news.ycombinator.com/item?id=42253697"
+    ],
+    [
+      "Constraints Are Good: Python's Metadata Dilemma",
+      "https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/"
     ]
   ]
 ]
