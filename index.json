@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-06, 14:20:01",
-      "https://news.ycombinator.com/item?id=42340035"
+      "2024-12-06, 14:09:35",
+      "https://news.ycombinator.com/item?id=42339945"
     ],
     [
-      "Zero-based regulation made Idaho the least regulated state in the US",
-      "https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states"
+      "The most surprising tech champions of 2024",
+      "https://restofworld.org/2024/unexpected-global-tech-winners-of-2024/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Show HN: Prompt Engine – Auto pick LLMs based on your prompts",
       "https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 12:09:20",
-      "https://news.ycombinator.com/item?id=42339048"
-    ],
-    [
-      "Kagi Teams",
-      "https://blog.kagi.com/kagi-teams"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles",
       "https://hackerherald.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 09:55:18",
-      "https://news.ycombinator.com/item?id=42338134"
-    ],
-    [
-      "Debian opens a can of username worms",
-      "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
     ]
   ],
   [
@@ -111,6 +91,16 @@
   ],
   [
     [
+      "2024-12-06, 00:44:23",
+      "https://news.ycombinator.com/item?id=42334697"
+    ],
+    [
+      "The Death of Intel: When Boards Fail",
+      "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 00:31:38",
       "https://news.ycombinator.com/item?id=42334568"
     ],
@@ -127,16 +117,6 @@
     [
       "Litdb – type safe SQL for JavaScript/TS",
       "https://litdb.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 00:02:27",
-      "https://news.ycombinator.com/item?id=42334327"
-    ],
-    [
-      "The correct amount of ads is zero",
-      "https://manuelmoreale.com/the-correct-amount-of-ads-is-zero"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-12-01, 21:06:40",
+      "https://news.ycombinator.com/item?id=42290730"
+    ],
+    [
+      "Building the Ultimate Pi Kubernetes Cluster: A Journey into Cloud Scalability",
+      "https://medium.com/@reinoutwijnholds2002/building-the-ultimate-raspberry-pi-kubernetes-cluster-a-journey-into-cloud-scalability-from-zero-e5a75c107f0e"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 23:12:24",
       "https://news.ycombinator.com/item?id=42284758"
     ],
@@ -287,6 +277,16 @@
     [
       "The Problem with Sci-Fi Body Armor",
       "https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 00:18:19",
+      "https://news.ycombinator.com/item?id=42261166"
+    ],
+    [
+      "Accidentally writing a fast SAT solver",
+      "https://blog.danielh.cc/blog/sat"
     ]
   ],
   [
