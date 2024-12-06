@@ -3,7 +3,6 @@
 * [2024-12-06, 05:11:11](https://news.ycombinator.com/item?id=42336553) - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 * [2024-12-06, 04:50:48](https://news.ycombinator.com/item?id=42336440) - [Gordon Letwin OS/2 Usenet post (1995)](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
 * [2024-12-06, 04:11:39](https://news.ycombinator.com/item?id=42336262) - [There Are No More Dogs in Antarctica](https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html)
-* [2024-12-06, 04:07:39](https://news.ycombinator.com/item?id=42336237) - [65% of Employees Bypass Cybersecurity Measures, New Study Finds](https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/)
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
@@ -28,6 +27,7 @@
 * [2024-12-02, 09:23:57](https://news.ycombinator.com/item?id=42294524) - [Communication Structures in a Growing Organization](https://jessitron.com/2024/11/24/communication-structures-in-a-growing-organization/)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
+* [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by my own projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
 * [2024-11-27, 16:23:47](https://news.ycombinator.com/item?id=42257245) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 
