@@ -15,6 +15,7 @@
 * [2024-12-06, 17:39:54](https://news.ycombinator.com/item?id=42342038) - [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
 * [2024-12-06, 17:31:00](https://news.ycombinator.com/item?id=42341922) - [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
 * [2024-12-06, 17:00:55](https://news.ycombinator.com/item?id=42341566) - [Serverless VPN Self-hosted](https://serverlessvpn.com)
+* [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes You're Going to Make as a New Manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
 * [2024-12-06, 16:51:25](https://news.ycombinator.com/item?id=42341449) - [New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:44:56](https://news.ycombinator.com/item?id=42341388) - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 * [2024-12-06, 16:32:14](https://news.ycombinator.com/item?id=42341241) - [Intuitive introverts lead the most successful teams – Spotlight](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
