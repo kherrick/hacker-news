@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 02:57:41",
+      "https://news.ycombinator.com/item?id=42335797"
+    ],
+    [
+      "The Pitchforks Are Coming for Us Plutocrats (2014)",
+      "https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 01:47:15",
       "https://news.ycombinator.com/item?id=42335222"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42334539"
     ],
     [
-      "Dangerous Things Sells \"Cybernetic Microchip Biohacking\" RFID and NFC Implants",
+      "Dangerous Things Sells “Cybernetic Microchip Biohacking” RFID and NFC Implants",
       "https://dangerousthings.com/"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-12-04, 20:18:11",
-      "https://news.ycombinator.com/item?id=42321596"
-    ],
-    [
-      "Keyset cursors, not offsets, for Postgres pagination",
-      "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 14:59:43",
       "https://news.ycombinator.com/item?id=42318083"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-11-30, 09:40:06",
-      "https://news.ycombinator.com/item?id=42280615"
-    ],
-    [
-      "A Novel Idea About `Functor` in Rust?",
-      "https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/"
-    ]
-  ],
-  [
-    [
       "2024-11-28, 00:25:06",
       "https://news.ycombinator.com/item?id=42261197"
     ],
@@ -297,6 +287,16 @@
     [
       "Accidentally writing a fast SAT solver",
       "https://blog.danielh.cc/blog/sat"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 17:07:20",
+      "https://news.ycombinator.com/item?id=42257633"
+    ],
+    [
+      "Mary Somerville, Queen of 19th Century Science (2016)",
+      "https://daily.jstor.org/mary-somerville-queen-of-19th-century-science/"
     ]
   ]
 ]
