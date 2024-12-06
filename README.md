@@ -28,7 +28,7 @@
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
-* [2024-11-30, 12:57:17](https://news.ycombinator.com/item?id=42281343) - [Ask HN: How to Resurrect a Site from Archive.org?](https://news.ycombinator.com/item?id=42281343)
+* [2024-12-01, 03:19:39](https://news.ycombinator.com/item?id=42285896) - [Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art](https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html)
 * [2024-11-26, 23:31:05](https://news.ycombinator.com/item?id=42251307) - [Diagramming Dante: Michelangelo Caetani's Maps of the Divina Commedia (1855)](https://publicdomainreview.org/collection/michelangelo-caetani-maps-of-the-divina-commedia/)
 
 ## [Archives](archives/index.md)
