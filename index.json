@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-12-06, 13:51:32",
-      "https://news.ycombinator.com/item?id=42339780"
-    ],
-    [
-      "Why is printer ink so expensive?",
-      "https://www.digitalrightsbytes.org/topics/why-is-printer-ink-so-expensive"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 12:45:48",
       "https://news.ycombinator.com/item?id=42339302"
     ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42334697"
     ],
     [
-      "The Death of Intel: When Boards Fail",
+      "Intel’s board, and an example of when boards and short-termism fail",
       "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42334568"
     ],
     [
-      "Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data",
+      "Lossless Log Aggregation – Reduce Log Volume by 99% Without Dropping Data",
       "https://bit.kevinslin.com/p/lossless-log-aggregation"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Show HN: Piazza, syncing the web in a vectorized DB",
       "http://piazza.tech"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 11:53:59",
+      "https://news.ycombinator.com/item?id=42327280"
+    ],
+    [
+      "The “simple” 38 step journey to getting an RFC",
+      "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps"
     ]
   ],
   [
