@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 14:54:56](https://news.ycombinator.com/item?id=42340346) - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
 * [2024-12-06, 14:42:54](https://news.ycombinator.com/item?id=42340253) - [Telecom Industry 'Think Tank' Feebly Tries to Smear Community Owned Broadband](https://www.techdirt.com/2024/12/06/telecom-industry-think-tank-feebly-tries-to-smear-community-owned-broadband/)
+* [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-06, 14:20:01](https://news.ycombinator.com/item?id=42340035) - [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)
+* [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian Is Opening Its Charging Network to Other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
 * [2024-12-06, 14:09:35](https://news.ycombinator.com/item?id=42339945) - [The most surprising tech champions of 2024](https://restofworld.org/2024/unexpected-global-tech-winners-of-2024/)
+* [2024-12-06, 14:00:08](https://news.ycombinator.com/item?id=42339856) - [Show HN: BunkerWeb – The Open-Source Web Application Firewall (WAF)](https://github.com/bunkerity/bunkerweb)
 * [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
 * [2024-12-06, 13:51:32](https://news.ycombinator.com/item?id=42339780) - [Why is printer ink so expensive?](https://www.digitalrightsbytes.org/topics/why-is-printer-ink-so-expensive)
 * [2024-12-06, 12:45:48](https://news.ycombinator.com/item?id=42339302) - [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
