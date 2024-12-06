@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-06, 19:11:38",
+      "https://news.ycombinator.com/item?id=42343121"
+    ],
+    [
+      "Maps.me co-founder tries to close down Organic Maps open-source fork",
+      "https://github.com/orgs/organicmaps/discussions/9837"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 19:09:07",
       "https://news.ycombinator.com/item?id=42343089"
     ],
@@ -257,16 +267,6 @@
     [
       "Forensic linguists use grammar, syntax and vocabulary to help crack cold cases",
       "https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 15:34:42",
-      "https://news.ycombinator.com/item?id=42288906"
-    ],
-    [
-      "Wrote a custom libc for POSIX and x86-64",
-      "https://github.com/elricmann/vlibc"
     ]
   ],
   [
