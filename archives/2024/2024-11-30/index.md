@@ -55,6 +55,7 @@
 * [2024-11-30, 07:34:01](https://news.ycombinator.com/item?id=42280164) - [How the Arpanet Protocols Worked](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 * [2024-11-30, 07:16:44](https://news.ycombinator.com/item?id=42280119) - [Thoughts on the Software Industry](https://linus.coffee/note/software-industry/)
 * [2024-11-30, 06:51:33](https://news.ycombinator.com/item?id=42280049) - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
+* [2024-11-30, 06:20:19](https://news.ycombinator.com/item?id=42279951) - [The Problem with Sci-Fi Body Armor](https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/)
 * [2024-11-30, 05:47:35](https://news.ycombinator.com/item?id=42279829) - [Show HN: SurveyMoji – An easy way to get realtime feedback with a link/QR code](https://surveymoji.com)
 * [2024-11-30, 05:36:07](https://news.ycombinator.com/item?id=42279792) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 04:46:46](https://news.ycombinator.com/item?id=42279521) - ['Switches' are turning handguns into machine guns on Ontario streets](https://www.cbc.ca/lite/story/1.7389625)

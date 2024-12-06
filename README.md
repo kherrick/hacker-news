@@ -22,12 +22,12 @@
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
-* [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-01, 21:06:40](https://news.ycombinator.com/item?id=42290730) - [Building the Ultimate Pi Kubernetes Cluster: A Journey into Cloud Scalability](https://medium.com/@reinoutwijnholds2002/building-the-ultimate-raspberry-pi-kubernetes-cluster-a-journey-into-cloud-scalability-from-zero-e5a75c107f0e)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-30, 21:36:53](https://news.ycombinator.com/item?id=42284211) - [Contradictions in Photography Advice](https://medium.com/@shacker/photography-contradictions-0566b7fce9fc)
 * [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
+* [2024-11-30, 06:20:19](https://news.ycombinator.com/item?id=42279951) - [The Problem with Sci-Fi Body Armor](https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
 * [2024-11-27, 16:23:47](https://news.ycombinator.com/item?id=42257245) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 
