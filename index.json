@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-12-06, 04:07:39",
-      "https://news.ycombinator.com/item?id=42336237"
-    ],
-    [
-      "65% of Employees Bypass Cybersecurity Measures, New Study Finds",
-      "https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 04:00:19",
       "https://news.ycombinator.com/item?id=42336207"
     ],
@@ -277,6 +267,16 @@
     [
       "Optimizing a Rust GPU matmul kernel",
       "https://rust-gpu.github.io/blog/optimizing-matmul/"
+    ]
+  ],
+  [
+    [
+      "2024-11-28, 00:25:06",
+      "https://news.ycombinator.com/item?id=42261197"
+    ],
+    [
+      "Haunted by my own projects",
+      "https://cassidoo.co/post/side-project-haunting/"
     ]
   ],
   [
