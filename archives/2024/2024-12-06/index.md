@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo government gives workers 4-day workweek to boost fertility, family time](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
+* [2024-12-06, 17:39:54](https://news.ycombinator.com/item?id=42342038) - [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
+* [2024-12-06, 17:31:00](https://news.ycombinator.com/item?id=42341922) - [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
 * [2024-12-06, 17:00:55](https://news.ycombinator.com/item?id=42341566) - [Serverless VPN Self-hosted](https://serverlessvpn.com)
 * [2024-12-06, 16:51:25](https://news.ycombinator.com/item?id=42341449) - [New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:44:56](https://news.ycombinator.com/item?id=42341388) - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
