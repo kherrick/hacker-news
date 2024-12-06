@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 16:03:42](https://news.ycombinator.com/item?id=42340985) - [Romania cancels election after systems targeted in cyberattacks](https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times)
+* [2024-12-06, 16:00:51](https://news.ycombinator.com/item?id=42340959) - [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
+* [2024-12-06, 15:43:24](https://news.ycombinator.com/item?id=42340792) - [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
 * [2024-12-06, 15:38:08](https://news.ycombinator.com/item?id=42340740) - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
 * [2024-12-06, 14:54:56](https://news.ycombinator.com/item?id=42340346) - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
 * [2024-12-06, 14:42:54](https://news.ycombinator.com/item?id=42340253) - [Telecom Industry 'Think Tank' Feebly Tries to Smear Community Owned Broadband](https://www.techdirt.com/2024/12/06/telecom-industry-think-tank-feebly-tries-to-smear-community-owned-broadband/)
@@ -17,6 +20,7 @@
 * [2024-12-06, 12:45:48](https://news.ycombinator.com/item?id=42339302) - [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
 * [2024-12-06, 12:09:20](https://news.ycombinator.com/item?id=42339048) - [Kagi Teams](https://blog.kagi.com/kagi-teams)
 * [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2024-12-06, 11:21:58](https://news.ycombinator.com/item?id=42338738) - [Sensible SQLite Defaults](https://briandouglas.ie/sqlite-defaults/)
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-06, 09:24:32](https://news.ycombinator.com/item?id=42337980) - [Ukraine's three nuclear power plants have restored electricity production](https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine)
