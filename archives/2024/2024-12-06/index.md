@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 12:09:20](https://news.ycombinator.com/item?id=42339048) - [Kagi Teams](https://blog.kagi.com/kagi-teams)
+* [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
+* [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-06, 09:24:32](https://news.ycombinator.com/item?id=42337980) - [Ukraine's three nuclear power plants have restored electricity production](https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine)
 * [2024-12-06, 05:11:11](https://news.ycombinator.com/item?id=42336553) - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 * [2024-12-06, 04:50:48](https://news.ycombinator.com/item?id=42336440) - [Gordon Letwin OS/2 Usenet post (1995)](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
