@@ -64,6 +64,7 @@
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)
+* [2024-12-01, 09:04:50](https://news.ycombinator.com/item?id=42287214) - [Rough notes on learning Wardley Mapping](https://lethain.com/learning-wardley-mapping/)
 * [2024-12-01, 08:34:10](https://news.ycombinator.com/item?id=42287111) - [DMARCbis is around the corner: what's changing](https://dmarcwise.io/blog/upcoming-dmarc-bis)
 * [2024-12-01, 08:32:42](https://news.ycombinator.com/item?id=42287107) - [Death by a Thousand Efficiencies: Why You Too Should Be Afraid of Automation](https://gist.github.com/omeid/9a180f9acccc8409d6c5f3e7fa1a7760)
 * [2024-12-01, 07:01:24](https://news.ycombinator.com/item?id=42286771) - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)

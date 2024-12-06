@@ -25,9 +25,9 @@
 * [2024-12-04, 14:59:43](https://news.ycombinator.com/item?id=42318083) - [Square Zero: hide silly messages in decorative borders](https://danwilkerson.com/posts/2024-12-04-square-zero)
 * [2024-12-02, 20:10:24](https://news.ycombinator.com/item?id=42299891) - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 * [2024-12-02, 09:23:57](https://news.ycombinator.com/item?id=42294524) - [Communication Structures in a Growing Organization](https://jessitron.com/2024/11/24/communication-structures-in-a-growing-organization/)
+* [2024-12-01, 09:04:50](https://news.ycombinator.com/item?id=42287214) - [Rough notes on learning Wardley Mapping](https://lethain.com/learning-wardley-mapping/)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
-* [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by my own projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
 * [2024-11-27, 16:23:47](https://news.ycombinator.com/item?id=42257245) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 
