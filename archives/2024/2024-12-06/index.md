@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
 * [2024-12-06, 02:57:41](https://news.ycombinator.com/item?id=42335797) - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
+* [2024-12-06, 01:55:02](https://news.ycombinator.com/item?id=42335287) - [Why housing shortages cause homelessness](https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/)
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
+* [2024-12-06, 00:37:22](https://news.ycombinator.com/item?id=42334625) - [Roaming RAG – Make the Model Find the Answers](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/)
 * [2024-12-06, 00:31:38](https://news.ycombinator.com/item?id=42334568) - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
 * [2024-12-06, 00:28:45](https://news.ycombinator.com/item?id=42334539) - [Dangerous Things Sells \"Cybernetic Microchip Biohacking\" RFID and NFC Implants](https://dangerousthings.com/)
 * [2024-12-06, 00:10:21](https://news.ycombinator.com/item?id=42334379) - [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
