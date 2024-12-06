@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 04:50:48](https://news.ycombinator.com/item?id=42336440) - [Gordon Letwin OS/2 Usenet post (1995)](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
 * [2024-12-06, 04:11:39](https://news.ycombinator.com/item?id=42336262) - [There Are No More Dogs in Antarctica](https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html)
 * [2024-12-06, 04:07:39](https://news.ycombinator.com/item?id=42336237) - [65% of Employees Bypass Cybersecurity Measures, New Study Finds](https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/)
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
@@ -19,7 +20,6 @@
 * [2024-12-05, 18:09:31](https://news.ycombinator.com/item?id=42330732) - [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 * [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI o1 system card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
-* [2024-12-05, 17:46:14](https://news.ycombinator.com/item?id=42330483) - [AmpereOne: Cores Are the New MHz](https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz)
 * [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson (1987)](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
