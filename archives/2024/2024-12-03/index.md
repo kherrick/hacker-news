@@ -42,6 +42,7 @@
 * [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
 * [2024-12-03, 15:28:22](https://news.ycombinator.com/item?id=42307148) - ['With brain preservation, nobody has to die'](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
 * [2024-12-03, 15:21:13](https://news.ycombinator.com/item?id=42307065) - [AI Advent of Code: Implementing Papers](https://www.leetarxiv.com/)
+* [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-03, 15:06:34](https://news.ycombinator.com/item?id=42306857) - [AI poetry is indistinguishable from human poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)
 * [2024-12-03, 14:56:37](https://news.ycombinator.com/item?id=42306742) - [We switched from Next.js to Astro (and why it might interest you)](https://www.datocms.com/blog/why-we-switched-to-astro)
 * [2024-12-03, 14:51:21](https://news.ycombinator.com/item?id=42306663) - [On-scalp printing of personalized electroencephalography e-tattoos](https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7)
