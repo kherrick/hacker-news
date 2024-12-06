@@ -12,6 +12,7 @@
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:11:38](https://news.ycombinator.com/item?id=42343121) - [Maps.me co-founder tries to close down Organic Maps open-source fork](https://github.com/orgs/organicmaps/discussions/9837)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+* [2024-12-06, 19:06:17](https://news.ycombinator.com/item?id=42343052) - [How to Bypass WhatsApp Web's Locked Chat Feature](https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54)
 * [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
