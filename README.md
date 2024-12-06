@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 02:57:41](https://news.ycombinator.com/item?id=42335797) - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 * [2024-12-06, 00:31:38](https://news.ycombinator.com/item?id=42334568) - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
-* [2024-12-06, 00:28:45](https://news.ycombinator.com/item?id=42334539) - [Dangerous Things Sells \"Cybernetic Microchip Biohacking\" RFID and NFC Implants](https://dangerousthings.com/)
+* [2024-12-06, 00:28:45](https://news.ycombinator.com/item?id=42334539) - [Dangerous Things Sells “Cybernetic Microchip Biohacking” RFID and NFC Implants](https://dangerousthings.com/)
 * [2024-12-06, 00:10:21](https://news.ycombinator.com/item?id=42334379) - [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
 * [2024-12-06, 00:01:53](https://news.ycombinator.com/item?id=42334323) - [Portland Airport Grows with Expansive Mass Timber Roof Canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
 * [2024-12-05, 21:55:25](https://news.ycombinator.com/item?id=42333243) - [Researchers get 'compact' hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
@@ -23,13 +24,12 @@
 * [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-05, 02:11:23](https://news.ycombinator.com/item?id=42324114) - [Message order in Matrix: right now, we are deliberately inconsistent](https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/)
-* [2024-12-04, 20:18:11](https://news.ycombinator.com/item?id=42321596) - [Keyset cursors, not offsets, for Postgres pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 14:59:43](https://news.ycombinator.com/item?id=42318083) - [Square Zero: hide silly messages in decorative borders](https://danwilkerson.com/posts/2024-12-04-square-zero)
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
-* [2024-11-30, 09:40:06](https://news.ycombinator.com/item?id=42280615) - [A Novel Idea About `Functor` in Rust?](https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by my own projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
+* [2024-11-27, 17:07:20](https://news.ycombinator.com/item?id=42257633) - [Mary Somerville, Queen of 19th Century Science (2016)](https://daily.jstor.org/mary-somerville-queen-of-19th-century-science/)
 
 ## [Archives](archives/index.md)
 

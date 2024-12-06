@@ -40,6 +40,7 @@
 * [2024-11-27, 17:38:52](https://news.ycombinator.com/item?id=42257936) - [Open source implementation of OpenAI's \"Canvas\"](https://opencanvas.langchain.com/auth/login)
 * [2024-11-27, 17:32:55](https://news.ycombinator.com/item?id=42257881) - [Coinbase won Tornado Cash appeal](https://www.coindesk.com/policy/2024/11/26/tornado-cash-sanctions-overturned-by-u-s-appeals-court)
 * [2024-11-27, 17:10:32](https://news.ycombinator.com/item?id=42257666) - [Direct testing of natural twister ribozymes from over a thousand organisms](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae908/7875984)
+* [2024-11-27, 17:07:20](https://news.ycombinator.com/item?id=42257633) - [Mary Somerville, Queen of 19th Century Science (2016)](https://daily.jstor.org/mary-somerville-queen-of-19th-century-science/)
 * [2024-11-27, 16:52:38](https://news.ycombinator.com/item?id=42257519) - [Prelude to McCarthyism: The Making of a Blacklist (2006)](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
 * [2024-11-27, 16:49:44](https://news.ycombinator.com/item?id=42257493) - [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
 * [2024-11-27, 16:46:38](https://news.ycombinator.com/item?id=42257452) - [Ask HN: Recommend me some silent movies](https://news.ycombinator.com/item?id=42257452)

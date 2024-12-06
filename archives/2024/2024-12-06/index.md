@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 02:57:41](https://news.ycombinator.com/item?id=42335797) - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 * [2024-12-06, 00:31:38](https://news.ycombinator.com/item?id=42334568) - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
