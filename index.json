@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-06, 20:26:05",
-      "https://news.ycombinator.com/item?id=42344002"
-    ],
-    [
-      "My second year without a job",
-      "https://shilin.ca/my-second-year-without-job/"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 20:22:07",
       "https://news.ycombinator.com/item?id=42343953"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42343920"
     ],
     [
-      "Does Your Code Pass the Turkey Test?",
+      "Does Your Code Pass the Turkey Test? (2008)",
       "http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Debian opens a can of username worms",
       "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 04:00:19",
+      "https://news.ycombinator.com/item?id=42336207"
+    ],
+    [
+      "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
+      "https://github.com/trailbaseio/trailbase"
     ]
   ],
   [
