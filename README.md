@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:24:32](https://news.ycombinator.com/item?id=42337980) - [Ukraine's three nuclear power plants have restored electricity production](https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine)
 * [2024-12-06, 05:11:11](https://news.ycombinator.com/item?id=42336553) - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 * [2024-12-06, 04:50:48](https://news.ycombinator.com/item?id=42336440) - [Gordon Letwin OS/2 Usenet post (1995)](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
@@ -15,7 +16,6 @@
 * [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I spent a year building an Android course for the elderly](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
 * [2024-12-05, 18:09:31](https://news.ycombinator.com/item?id=42330732) - [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
-* [2024-12-05, 18:03:59](https://news.ycombinator.com/item?id=42330666) - [OpenAI o1 system card](https://openai.com/index/openai-o1-system-card/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
