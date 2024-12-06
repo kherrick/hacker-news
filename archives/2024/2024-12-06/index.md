@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+* [2024-12-06, 20:18:55](https://news.ycombinator.com/item?id=42343920) - [Does Your Code Pass the Turkey Test?](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 * [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
 * [2024-12-06, 19:46:29](https://news.ycombinator.com/item?id=42343544) - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
 * [2024-12-06, 19:45:11](https://news.ycombinator.com/item?id=42343524) - [United Health CEO Decries \"Aggressive\" Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
 * [2024-11-26, 23:36:13](https://news.ycombinator.com/item?id=42251334) - [Windows 10's farewell tour – not AI PCs – set to drive laptop sales in 2025](https://www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/)
+* [2024-11-26, 23:31:05](https://news.ycombinator.com/item?id=42251307) - [Diagramming Dante: Michelangelo Caetani's Maps of the Divina Commedia (1855)](https://publicdomainreview.org/collection/michelangelo-caetani-maps-of-the-divina-commedia/)
 * [2024-11-26, 23:08:45](https://news.ycombinator.com/item?id=42251140) - [Django: Fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/)
 * [2024-11-26, 22:56:47](https://news.ycombinator.com/item?id=42251040) - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
 * [2024-11-26, 22:41:14](https://news.ycombinator.com/item?id=42250921) - [Show HN: I created a lightweight JavaScript library to visualize JSON as a graph](https://github.com/xzitlou/jsontr.ee)
