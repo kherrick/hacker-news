@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-06, 18:11:46",
+      "https://news.ycombinator.com/item?id=42342382"
+    ],
+    [
+      "Every UUID Dot Com",
+      "https://everyuuid.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 17:54:20",
       "https://news.ycombinator.com/item?id=42342203"
     ],
     [
       "Tokyo government gives workers 4-day workweek to boost fertility, family time",
       "https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 17:39:54",
+      "https://news.ycombinator.com/item?id=42342038"
+    ],
+    [
+      "Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible",
+      "https://github.com/poeticoding/yolo_elixir"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 17:31:00",
+      "https://news.ycombinator.com/item?id=42341922"
+    ],
+    [
+      "Vanir: Open-Source Security Search and Patch Validation Tool",
+      "https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Llama-3.3-70B-Instruct",
       "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 16:32:14",
-      "https://news.ycombinator.com/item?id=42341241"
-    ],
-    [
-      "Intuitive introverts lead the most successful teams: study",
-      "https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-12-06, 13:51:32",
-      "https://news.ycombinator.com/item?id=42339780"
-    ],
-    [
-      "Why is printer ink so expensive?",
-      "https://www.digitalrightsbytes.org/topics/why-is-printer-ink-so-expensive"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 12:45:48",
       "https://news.ycombinator.com/item?id=42339302"
     ],
@@ -157,16 +167,6 @@
     [
       "Debian opens a can of username worms",
       "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 05:11:11",
-      "https://news.ycombinator.com/item?id=42336553"
-    ],
-    [
-      "The 70% problem: Hard truths about AI-assisted coding",
-      "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
     ]
   ],
   [
