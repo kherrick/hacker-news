@@ -45,6 +45,7 @@
 * [2024-12-02, 10:50:24](https://news.ycombinator.com/item?id=42294902) - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
 * [2024-12-02, 10:20:49](https://news.ycombinator.com/item?id=42294766) - [FizzBuzz in Powerchords](https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/)
 * [2024-12-02, 10:12:35](https://news.ycombinator.com/item?id=42294737) - [Neuroevolution of augmenting topologies (NEAT algorithm)](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+* [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 09:23:57](https://news.ycombinator.com/item?id=42294524) - [Communication Structures in a Growing Organization](https://jessitron.com/2024/11/24/communication-structures-in-a-growing-organization/)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
