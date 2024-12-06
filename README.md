@@ -7,7 +7,6 @@
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 * [2024-12-06, 00:31:38](https://news.ycombinator.com/item?id=42334568) - [Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
-* [2024-12-06, 00:28:45](https://news.ycombinator.com/item?id=42334539) - [Dangerous Things Sells “Cybernetic Microchip Biohacking” RFID and NFC Implants](https://dangerousthings.com/)
 * [2024-12-06, 00:10:21](https://news.ycombinator.com/item?id=42334379) - [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
 * [2024-12-06, 00:02:27](https://news.ycombinator.com/item?id=42334327) - [The correct amount of ads is zero](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero)
 * [2024-12-06, 00:01:53](https://news.ycombinator.com/item?id=42334323) - [Portland airport grows with expansive mass timber roof canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
@@ -30,6 +29,7 @@
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by my own projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
+* [2024-11-27, 16:23:47](https://news.ycombinator.com/item?id=42257245) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 
 ## [Archives](archives/index.md)
 
