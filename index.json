@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 05:11:11",
+      "https://news.ycombinator.com/item?id=42336553"
+    ],
+    [
+      "The 70% problem: Hard truths about AI-assisted coding",
+      "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 04:50:48",
       "https://news.ycombinator.com/item?id=42336440"
     ],
@@ -37,26 +47,6 @@
     [
       "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
       "https://github.com/trailbaseio/trailbase"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 02:57:41",
-      "https://news.ycombinator.com/item?id=42335797"
-    ],
-    [
-      "The Pitchforks Are Coming for Us Plutocrats (2014)",
-      "https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 01:55:02",
-      "https://news.ycombinator.com/item?id=42335287"
-    ],
-    [
-      "Why housing shortages cause homelessness",
-      "https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A transport protocol's view of Starlink",
       "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 10:03:21",
+      "https://news.ycombinator.com/item?id=42280697"
+    ],
+    [
+      "Optimizing a Rust GPU matmul kernel",
+      "https://rust-gpu.github.io/blog/optimizing-matmul/"
     ]
   ],
   [
