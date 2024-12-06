@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-06, 02:57:41](https://news.ycombinator.com/item?id=42335797) - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
-* [2024-12-06, 01:55:02](https://news.ycombinator.com/item?id=42335287) - [Why housing shortages cause homelessness](https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/)
 * [2024-12-06, 01:47:15](https://news.ycombinator.com/item?id=42335222) - [Researchers launch \"moonshot\" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 * [2024-12-06, 00:37:22](https://news.ycombinator.com/item?id=42334625) - [Roaming RAG – Make the Model Find the Answers](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/)
@@ -13,6 +12,7 @@
 * [2024-12-05, 21:36:59](https://news.ycombinator.com/item?id=42333053) - [The Acton Programming Language](https://www.acton-lang.org/)
 * [2024-12-05, 21:36:50](https://news.ycombinator.com/item?id=42333052) - [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
 * [2024-12-05, 21:00:49](https://news.ycombinator.com/item?id=42332695) - [Zep AI (YC W24) Is Hiring a Dev Advocate](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate)
+* [2024-12-05, 20:24:43](https://news.ycombinator.com/item?id=42332352) - [McKinsey unit will pay $123M to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
 * [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I spent a year building an Android course for the elderly](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
 * [2024-12-05, 18:54:14](https://news.ycombinator.com/item?id=42331270) - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
 * [2024-12-05, 18:50:16](https://news.ycombinator.com/item?id=42331207) - [React 19](https://github.com/facebook/react/blob/main/CHANGELOG.md)
@@ -22,6 +22,7 @@
 * [2024-12-05, 17:46:14](https://news.ycombinator.com/item?id=42330483) - [AmpereOne: Cores Are the New MHz](https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz)
 * [2024-12-05, 17:05:28](https://news.ycombinator.com/item?id=42330086) - [An Interview with Bill Watterson (1987)](http://timhulsizer.com/cwords/chonk.html)
 * [2024-12-05, 17:02:51](https://news.ycombinator.com/item?id=42330055) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+* [2024-12-05, 15:51:32](https://news.ycombinator.com/item?id=42329307) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-05, 02:11:23](https://news.ycombinator.com/item?id=42324114) - [Message order in Matrix: right now, we are deliberately inconsistent](https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/)
 * [2024-12-04, 14:59:43](https://news.ycombinator.com/item?id=42318083) - [Square Zero: hide silly messages in decorative borders](https://danwilkerson.com/posts/2024-12-04-square-zero)
@@ -29,7 +30,6 @@
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-28, 00:25:06](https://news.ycombinator.com/item?id=42261197) - [Haunted by my own projects](https://cassidoo.co/post/side-project-haunting/)
 * [2024-11-28, 00:18:19](https://news.ycombinator.com/item?id=42261166) - [Accidentally writing a fast SAT solver](https://blog.danielh.cc/blog/sat)
-* [2024-11-27, 17:07:20](https://news.ycombinator.com/item?id=42257633) - [Mary Somerville, Queen of 19th Century Science (2016)](https://daily.jstor.org/mary-somerville-queen-of-19th-century-science/)
 
 ## [Archives](archives/index.md)
 
