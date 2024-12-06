@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 16:32:14](https://news.ycombinator.com/item?id=42341241) - [Intuitive introverts lead the most successful teams – Spotlight](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
 * [2024-12-06, 16:03:42](https://news.ycombinator.com/item?id=42340985) - [Romania cancels election after systems targeted in cyberattacks](https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times)
-* [2024-12-06, 16:00:51](https://news.ycombinator.com/item?id=42340959) - [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
 * [2024-12-06, 15:43:24](https://news.ycombinator.com/item?id=42340792) - [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
 * [2024-12-06, 15:38:08](https://news.ycombinator.com/item?id=42340740) - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
 * [2024-12-06, 14:54:56](https://news.ycombinator.com/item?id=42340346) - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
