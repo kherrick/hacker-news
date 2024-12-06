@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 14:20:01](https://news.ycombinator.com/item?id=42340035) - [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)
 * [2024-12-06, 12:45:48](https://news.ycombinator.com/item?id=42339302) - [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
 * [2024-12-06, 12:09:20](https://news.ycombinator.com/item?id=42339048) - [Kagi Teams](https://blog.kagi.com/kagi-teams)
 * [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)

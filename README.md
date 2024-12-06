@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 14:20:01](https://news.ycombinator.com/item?id=42340035) - [Zero-based regulation made Idaho the least regulated state in the US](https://manhattan.institute/article/zero-based-regulation-a-step-by-step-guide-for-states)
 * [2024-12-06, 12:45:48](https://news.ycombinator.com/item?id=42339302) - [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
 * [2024-12-06, 12:09:20](https://news.ycombinator.com/item?id=42339048) - [Kagi Teams](https://blog.kagi.com/kagi-teams)
 * [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
@@ -24,7 +25,6 @@
 * [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 08:53:54](https://news.ycombinator.com/item?id=42294376) - [Can a Comma Solve a Crime?](https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes)
-* [2024-12-01, 21:06:40](https://news.ycombinator.com/item?id=42290730) - [Building the Ultimate Pi Kubernetes Cluster: A Journey into Cloud Scalability](https://medium.com/@reinoutwijnholds2002/building-the-ultimate-raspberry-pi-kubernetes-cluster-a-journey-into-cloud-scalability-from-zero-e5a75c107f0e)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-11-30, 21:36:53](https://news.ycombinator.com/item?id=42284211) - [Contradictions in Photography Advice](https://medium.com/@shacker/photography-contradictions-0566b7fce9fc)
 * [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
