@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-06, 04:02:45",
+      "https://news.ycombinator.com/item?id=42336218"
+    ],
+    [
+      "Amnesty concludes Israel is committing genocide in Gaza",
+      "https://www.amnesty.org/en/latest/news/2024/12/amnesty-international-concludes-israel-is-committing-genocide-against-palestinians-in-gaza/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 04:00:19",
+      "https://news.ycombinator.com/item?id=42336207"
+    ],
+    [
+      "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
+      "https://github.com/trailbaseio/trailbase"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 02:57:41",
       "https://news.ycombinator.com/item?id=42335797"
     ],
     [
       "The Pitchforks Are Coming for Us Plutocrats (2014)",
       "https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 01:55:02",
+      "https://news.ycombinator.com/item?id=42335287"
+    ],
+    [
+      "Why housing shortages cause homelessness",
+      "https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "The Death of Intel: When Boards Fail",
       "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 00:37:22",
-      "https://news.ycombinator.com/item?id=42334625"
-    ],
-    [
-      "Roaming RAG – Make the Model Find the Answers",
-      "http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Litdb – type safe SQL for JavaScript/TS",
       "https://litdb.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 00:02:27",
+      "https://news.ycombinator.com/item?id=42334327"
+    ],
+    [
+      "The correct amount of ads is zero",
+      "https://manuelmoreale.com/the-correct-amount-of-ads-is-zero"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-12-05, 20:24:43",
-      "https://news.ycombinator.com/item?id=42332352"
-    ],
-    [
-      "McKinsey unit will pay $123M to settle claims it bribed South African officials",
-      "https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 19:24:33",
       "https://news.ycombinator.com/item?id=42331660"
     ],
@@ -147,16 +167,6 @@
     [
       "Show HN: Banan-OS, an Unix-like operating system written from scratch",
       "https://github.com/Bananymous/banan-os"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 18:50:16",
-      "https://news.ycombinator.com/item?id=42331207"
-    ],
-    [
-      "React 19",
-      "https://github.com/facebook/react/blob/main/CHANGELOG.md"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "7 Databases in 7 Weeks for 2025",
       "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 15:51:32",
-      "https://news.ycombinator.com/item?id=42329307"
-    ],
-    [
-      "How to pack ternary numbers in 8-bit bytes",
-      "https://compilade.net/blog/ternary-packing"
     ]
   ],
   [
