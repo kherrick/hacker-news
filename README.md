@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-06, 17:00:55](https://news.ycombinator.com/item?id=42341566) - [Serverless VPN Self-hosted](https://serverlessvpn.com)
 * [2024-12-06, 16:51:25](https://news.ycombinator.com/item?id=42341449) - [New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:44:56](https://news.ycombinator.com/item?id=42341388) - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 * [2024-12-06, 16:32:14](https://news.ycombinator.com/item?id=42341241) - [Intuitive introverts lead the most successful teams: study](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
@@ -18,6 +17,7 @@
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-06, 05:11:11](https://news.ycombinator.com/item?id=42336553) - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+* [2024-12-06, 04:50:48](https://news.ycombinator.com/item?id=42336440) - [Gordon Letwin OS/2 Usenet post (1995)](https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post)
 * [2024-12-06, 04:11:39](https://news.ycombinator.com/item?id=42336262) - [There Are No More Dogs in Antarctica](https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html)
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [Intel’s board, and an example of when boards and short-termism fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
