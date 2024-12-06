@@ -4,7 +4,7 @@
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:18:55](https://news.ycombinator.com/item?id=42343920) - [Does Your Code Pass the Turkey Test?](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 * [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
-* [2024-12-06, 19:46:29](https://news.ycombinator.com/item?id=42343544) - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
+* [2024-12-06, 19:46:29](https://news.ycombinator.com/item?id=42343544) - [Fructose in diet enhances tumor growth: research](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
 * [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:11:38](https://news.ycombinator.com/item?id=42343121) - [Maps.me co-founder tries to close down Organic Maps open-source fork](https://github.com/orgs/organicmaps/discussions/9837)
