@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+* [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo government gives workers 4-day workweek to boost fertility, family time](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)

@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+* [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo is set to introduce a four-day workweek for government employees](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
@@ -21,13 +23,11 @@
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
-* [2024-12-06, 00:01:53](https://news.ycombinator.com/item?id=42334323) - [Portland airport grows with expansive mass timber roof canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 08:53:54](https://news.ycombinator.com/item?id=42294376) - [Forensic linguists use grammar, syntax and vocabulary to help crack cold cases](https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes)
 * [2024-12-01, 15:34:42](https://news.ycombinator.com/item?id=42288906) - [Wrote a custom libc for POSIX and x86-64](https://github.com/elricmann/vlibc)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
-* [2024-11-30, 21:36:53](https://news.ycombinator.com/item?id=42284211) - [Contradictions in photography advice](https://medium.com/@shacker/photography-contradictions-0566b7fce9fc)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 * [2024-11-27, 07:09:53](https://news.ycombinator.com/item?id=42253697) - [Constraints Are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 
