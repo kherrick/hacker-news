@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-06, 17:00:55",
+      "https://news.ycombinator.com/item?id=42341566"
+    ],
+    [
+      "Serverless VPN Self-hosted",
+      "https://serverlessvpn.com"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 16:51:25",
       "https://news.ycombinator.com/item?id=42341449"
     ],
     [
       "New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)",
       "https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:44:56",
+      "https://news.ycombinator.com/item?id=42341388"
+    ],
+    [
+      "Llama-3.3-70B-Instruct",
+      "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Install postmarketOS on Android phone and use Docker as a home server",
       "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 14:16:49",
-      "https://news.ycombinator.com/item?id=42340000"
-    ],
-    [
-      "Rivian Is Opening Its Charging Network to Other EVs",
-      "https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2024-12-06, 04:11:39",
-      "https://news.ycombinator.com/item?id=42336262"
-    ],
-    [
-      "There Are No More Dogs in Antarctica",
-      "https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 04:00:19",
       "https://news.ycombinator.com/item?id=42336207"
     ],
     [
       "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
       "https://github.com/trailbaseio/trailbase"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 01:57:41",
-      "https://news.ycombinator.com/item?id=42335321"
-    ],
-    [
-      "Faux Friendship (2009)",
-      "https://www.utne.com/mind-and-body/faux-friendship-facebook/"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2024-12-02, 10:06:36",
+      "https://news.ycombinator.com/item?id=42294716"
+    ],
+    [
+      "Reverse engineering the Ravensburger TipToi pen",
+      "https://github.com/entropia/tip-toi-reveng"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 08:53:54",
       "https://news.ycombinator.com/item?id=42294376"
     ],
     [
-      "Can a Comma Solve a Crime?",
+      "Forensic linguists use grammar, syntax and vocabulary to help crack cold cases",
       "https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes"
     ]
   ],
