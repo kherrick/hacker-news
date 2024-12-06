@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-12-06, 01:47:15",
+      "https://news.ycombinator.com/item?id=42335222"
+    ],
+    [
+      "Researchers launch \"moonshot\" to cure blindness through eye transplants",
+      "https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 00:44:23",
+      "https://news.ycombinator.com/item?id=42334697"
+    ],
+    [
+      "The Death of Intel: When Boards Fail",
+      "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 00:31:38",
+      "https://news.ycombinator.com/item?id=42334568"
+    ],
+    [
+      "Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data",
+      "https://bit.kevinslin.com/p/lossless-log-aggregation"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 00:28:45",
+      "https://news.ycombinator.com/item?id=42334539"
+    ],
+    [
+      "Dangerous Things Sells \"Cybernetic Microchip Biohacking\" RFID and NFC Implants",
+      "https://dangerousthings.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 00:10:21",
       "https://news.ycombinator.com/item?id=42334379"
     ],
@@ -11,32 +51,12 @@
   ],
   [
     [
-      "2024-12-06, 00:01:56",
-      "https://news.ycombinator.com/item?id=42334325"
+      "2024-12-06, 00:01:53",
+      "https://news.ycombinator.com/item?id=42334323"
     ],
     [
-      "Russia and China rigged Romanian Elections using 10M fake TikTok accounts",
-      "https://kyivinsider.com/russia-and-china-just-rigged-romanian-elections-using-10-million-fake-tiktok-accounts/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 23:25:55",
-      "https://news.ycombinator.com/item?id=42334016"
-    ],
-    [
-      "Torrent of Hate for Health Insurance Industry Follows CEO's Killing",
-      "https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 22:57:32",
-      "https://news.ycombinator.com/item?id=42333800"
-    ],
-    [
-      "Healthcare companies are yanking info from their leadership pages",
-      "https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/"
+      "Portland Airport Grows with Expansive Mass Timber Roof Canopy",
+      "https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "McKinsey unit will pay $123M to settle claims it bribed South African officials",
       "https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 20:06:19",
-      "https://news.ycombinator.com/item?id=42332129"
-    ],
-    [
-      "Congo gov. says it's 'on alert' over mystery flu-like disease that killed dozens",
-      "https://www.ctvnews.ca/health/congo-government-says-it-s-on-alert-over-mystery-flu-like-disease-that-killed-dozens-1.7134550"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2024-12-05, 16:27:15",
-      "https://news.ycombinator.com/item?id=42329642"
-    ],
-    [
-      "cli53 – Command line tool for Amazon Route 53",
-      "https://github.com/barnybug/cli53"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 15:51:32",
       "https://news.ycombinator.com/item?id=42329307"
     ],
     [
       "How to pack ternary numbers in 8-bit bytes",
       "https://compilade.net/blog/ternary-packing"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 15:24:49",
-      "https://news.ycombinator.com/item?id=42329071"
-    ],
-    [
-      "Show HN: Replace \"hub\" by \"ingest\" in GitHub URLs for a prompt-friendly extract",
-      "https://gitingest.com/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Keyset cursors, not offsets, for Postgres pagination",
       "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 14:59:43",
+      "https://news.ycombinator.com/item?id=42318083"
+    ],
+    [
+      "Square Zero: hide silly messages in decorative borders",
+      "https://danwilkerson.com/posts/2024-12-04-square-zero"
     ]
   ],
   [
