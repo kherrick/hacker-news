@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-06, 00:10:21",
+      "https://news.ycombinator.com/item?id=42334379"
+    ],
+    [
+      "Litdb – type safe SQL for JavaScript/TS",
+      "https://litdb.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 00:01:56",
+      "https://news.ycombinator.com/item?id=42334325"
+    ],
+    [
+      "Russia and China rigged Romanian Elections using 10M fake TikTok accounts",
+      "https://kyivinsider.com/russia-and-china-just-rigged-romanian-elections-using-10-million-fake-tiktok-accounts/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 23:25:55",
+      "https://news.ycombinator.com/item?id=42334016"
+    ],
+    [
+      "Torrent of Hate for Health Insurance Industry Follows CEO's Killing",
+      "https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 22:57:32",
       "https://news.ycombinator.com/item?id=42333800"
     ],
@@ -77,26 +107,6 @@
     [
       "I spent a year building an Android course for the elderly",
       "https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 19:22:46",
-      "https://news.ycombinator.com/item?id=42331646"
-    ],
-    [
-      "Chocolate intake and risk of type 2 diabetes: prospective cohort studies",
-      "https://www.bmj.com/content/387/bmj-2023-078386"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 18:58:58",
-      "https://news.ycombinator.com/item?id=42331326"
-    ],
-    [
-      "Tsunami Warning for Northern California",
-      "https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-12-05, 04:35:36",
-      "https://news.ycombinator.com/item?id=42325011"
-    ],
-    [
-      "Diátaxis – A systematic approach to technical documentation authoring",
-      "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 02:11:23",
       "https://news.ycombinator.com/item?id=42324114"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-12-01, 18:07:22",
-      "https://news.ycombinator.com/item?id=42289719"
-    ],
-    [
-      "Hide Photos on Floppies with a Flux Imager",
-      "https://github.com/dbalsom/fluxfox/tree/main/crates/png2disk"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 23:12:24",
       "https://news.ycombinator.com/item?id=42284758"
     ],
     [
       "A transport protocol's view of Starlink",
       "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
+    ]
+  ],
+  [
+    [
+      "2024-11-30, 09:40:06",
+      "https://news.ycombinator.com/item?id=42280615"
+    ],
+    [
+      "A Novel Idea About `Functor` in Rust?",
+      "https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/"
     ]
   ],
   [
