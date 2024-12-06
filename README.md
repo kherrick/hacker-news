@@ -25,10 +25,10 @@
 * [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
-* [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
 * [2024-12-01, 03:19:39](https://news.ycombinator.com/item?id=42285896) - [Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art](https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html)
+* [2024-11-29, 15:12:48](https://news.ycombinator.com/item?id=42274395) - [Show HN: Random Caplocks Prank](https://github.com/teamcoltra/gorandomcaps)
 * [2024-11-26, 23:31:05](https://news.ycombinator.com/item?id=42251307) - [Diagramming Dante: Michelangelo Caetani's Maps of the Divina Commedia (1855)](https://publicdomainreview.org/collection/michelangelo-caetani-maps-of-the-divina-commedia/)
 
 ## [Archives](archives/index.md)
