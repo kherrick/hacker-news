@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-12-06, 19:46:29",
-      "https://news.ycombinator.com/item?id=42343544"
-    ],
-    [
-      "Fructose in diet enhances tumor growth: research",
-      "https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 19:20:19",
       "https://news.ycombinator.com/item?id=42343215"
     ],
@@ -77,6 +67,16 @@
     [
       "<dialog>: The Dialog Element",
       "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 19:06:17",
+      "https://news.ycombinator.com/item?id=42343052"
+    ],
+    [
+      "How to Bypass WhatsApp Web's Locked Chat Feature",
+      "https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-12-06, 16:00:51",
-      "https://news.ycombinator.com/item?id=42340959"
-    ],
-    [
-      "TikTok divestment law upheld by federal appeals court",
-      "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 15:43:24",
       "https://news.ycombinator.com/item?id=42340792"
     ],
@@ -247,6 +237,16 @@
     [
       "Debian opens a can of username worms",
       "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 04:00:19",
+      "https://news.ycombinator.com/item?id=42336207"
+    ],
+    [
+      "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
+      "https://github.com/trailbaseio/trailbase"
     ]
   ],
   [
