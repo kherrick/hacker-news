@@ -2,6 +2,7 @@
 
 * [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
+* [2024-12-06, 19:11:38](https://news.ycombinator.com/item?id=42343121) - [Maps.me co-founder tries to close down Organic Maps open-source fork](https://github.com/orgs/organicmaps/discussions/9837)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 * [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
@@ -26,7 +27,6 @@
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 08:53:54](https://news.ycombinator.com/item?id=42294376) - [Forensic linguists use grammar, syntax and vocabulary to help crack cold cases](https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes)
-* [2024-12-01, 15:34:42](https://news.ycombinator.com/item?id=42288906) - [Wrote a custom libc for POSIX and x86-64](https://github.com/elricmann/vlibc)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 * [2024-11-27, 07:09:53](https://news.ycombinator.com/item?id=42253697) - [Constraints Are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
