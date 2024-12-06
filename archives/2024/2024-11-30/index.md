@@ -10,6 +10,7 @@
 * [2024-11-30, 22:36:03](https://news.ycombinator.com/item?id=42284553) - [\"Silicon Valley Is Turning into Its Own Worst Fear\" Ted Chiang (2017)](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
 * [2024-11-30, 22:23:37](https://news.ycombinator.com/item?id=42284467) - [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
 * [2024-11-30, 22:13:49](https://news.ycombinator.com/item?id=42284412) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead)
+* [2024-11-30, 21:36:53](https://news.ycombinator.com/item?id=42284211) - [Contradictions in Photography Advice](https://medium.com/@shacker/photography-contradictions-0566b7fce9fc)
 * [2024-11-30, 21:35:03](https://news.ycombinator.com/item?id=42284202) - [Microsoft-trusted Brazilian CA issued unauthorized google.com certificate](https://follow.agwa.name/notice/AoZSMI38xcA3TrN1sm)
 * [2024-11-30, 21:31:55](https://news.ycombinator.com/item?id=42284173) - [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
 * [2024-11-30, 21:06:41](https://news.ycombinator.com/item?id=42284035) - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
