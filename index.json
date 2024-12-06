@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-06, 19:17:07",
+      "https://news.ycombinator.com/item?id=42343182"
+    ],
+    [
+      "Deep dive into finding RSS feeds",
+      "https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 19:09:07",
+      "https://news.ycombinator.com/item?id=42343089"
+    ],
+    [
+      "<dialog>: The Dialog Element",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 18:37:56",
       "https://news.ycombinator.com/item?id=42342697"
     ],
@@ -47,16 +67,6 @@
     [
       "Vanir: Open-Source Security Search and Patch Validation Tool",
       "https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 16:51:25",
-      "https://news.ycombinator.com/item?id=42341449"
-    ],
-    [
-      "New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)",
-      "https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
       "https://github.com/trailbaseio/trailbase"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 00:44:23",
-      "https://news.ycombinator.com/item?id=42334697"
-    ],
-    [
-      "Intel’s board, and an example of when boards and short-termism fail",
-      "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
     ]
   ],
   [
