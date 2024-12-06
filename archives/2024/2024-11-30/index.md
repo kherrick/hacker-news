@@ -40,6 +40,7 @@
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
 * [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
 * [2024-11-30, 09:46:05](https://news.ycombinator.com/item?id=42280641) - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
+* [2024-11-30, 09:40:06](https://news.ycombinator.com/item?id=42280615) - [A Novel Idea About `Functor` in Rust?](https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 09:01:56](https://news.ycombinator.com/item?id=42280486) - [Information Batteries (2021) [pdf]](https://raghavan.usc.edu/papers/infobatteries-eir21.pdf)
 * [2024-11-30, 08:23:42](https://news.ycombinator.com/item?id=42280343) - [The anxiolytic effects of resistance exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC4090891/)

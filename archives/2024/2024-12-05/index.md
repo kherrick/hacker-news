@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 23:25:55](https://news.ycombinator.com/item?id=42334016) - [Torrent of Hate for Health Insurance Industry Follows CEO's Killing](https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html)
 * [2024-12-05, 22:57:32](https://news.ycombinator.com/item?id=42333800) - [Healthcare companies are yanking info from their leadership pages](https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/)
 * [2024-12-05, 21:55:25](https://news.ycombinator.com/item?id=42333243) - [Eindhoven University researchers reinvent X-ray machine](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
 * [2024-12-05, 21:36:59](https://news.ycombinator.com/item?id=42333053) - [The Acton Programming Language](https://www.acton-lang.org/)
