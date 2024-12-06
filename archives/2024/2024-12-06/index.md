@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 04:07:39](https://news.ycombinator.com/item?id=42336237) - [65% of Employees Bypass Cybersecurity Measures, New Study Finds](https://www.forbes.com/sites/larsdaniel/2024/12/05/new-study-finds-65-of-employees-bypass-cybersecurity-measures/)
 * [2024-12-06, 04:02:45](https://news.ycombinator.com/item?id=42336218) - [Amnesty concludes Israel is committing genocide in Gaza](https://www.amnesty.org/en/latest/news/2024/12/amnesty-international-concludes-israel-is-committing-genocide-against-palestinians-in-gaza/)
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-06, 02:57:41](https://news.ycombinator.com/item?id=42335797) - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
