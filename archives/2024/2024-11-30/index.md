@@ -39,6 +39,7 @@
 * [2024-11-30, 11:52:19](https://news.ycombinator.com/item?id=42281040) - [US War Department 1945 // Army Talk Orientation Fact Sheet #64 – Fascism](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism)
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)
 * [2024-11-30, 10:06:35](https://news.ycombinator.com/item?id=42280708) - [Things I wish I knew the day I started Berklee](https://sive.rs/berklee)
+* [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
 * [2024-11-30, 09:46:05](https://news.ycombinator.com/item?id=42280641) - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
 * [2024-11-30, 09:40:06](https://news.ycombinator.com/item?id=42280615) - [A Novel Idea About `Functor` in Rust?](https://wolfgirl.dev/blog/2024-11-24-a-novel-idea-about-functor-in-rust/)
 * [2024-11-30, 09:29:39](https://news.ycombinator.com/item?id=42280570) - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
