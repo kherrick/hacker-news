@@ -38,6 +38,7 @@
 * [2024-11-29, 18:08:48](https://news.ycombinator.com/item?id=42275734) - [Speaking at PyTexas – CFP closes December 1, 2024](https://www.pytexas.org/2025/schedule/speaking/)
 * [2024-11-29, 18:06:20](https://news.ycombinator.com/item?id=42275716) - [Black Friday is a trap](https://www.vox.com/money/388152/black-friday-sales-bad-consumer-behavior-retailers-tariffs)
 * [2024-11-29, 17:52:48](https://news.ycombinator.com/item?id=42275609) - [Making AWS News stupid fast with smart caching](https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/)
+* [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 * [2024-11-29, 17:00:58](https://news.ycombinator.com/item?id=42275185) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2024-11-29, 16:44:02](https://news.ycombinator.com/item?id=42275036) - [Getting Started with Category Theory](https://ryanbrewer.dev/posts/getting-started-category-theory.html)
 * [2024-11-29, 16:43:51](https://news.ycombinator.com/item?id=42275033) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
