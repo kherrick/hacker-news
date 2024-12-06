@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 17:54:20",
+      "https://news.ycombinator.com/item?id=42342203"
+    ],
+    [
+      "Tokyo government gives workers 4-day workweek to boost fertility, family time",
+      "https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 16:51:25",
       "https://news.ycombinator.com/item?id=42341449"
     ],
@@ -47,16 +57,6 @@
     [
       "The Unplanned Impact of Mathematics (2011)",
       "https://www.nature.com/articles/475166a"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 15:38:08",
-      "https://news.ycombinator.com/item?id=42340740"
-    ],
-    [
-      "We fixed our documentation with the Diátaxis framework",
-      "https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/"
     ]
   ],
   [
@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2024-12-06, 04:50:48",
-      "https://news.ycombinator.com/item?id=42336440"
-    ],
-    [
-      "Gordon Letwin OS/2 Usenet post (1995)",
-      "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 04:11:39",
-      "https://news.ycombinator.com/item?id=42336262"
-    ],
-    [
-      "There Are No More Dogs in Antarctica",
-      "https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 04:00:19",
       "https://news.ycombinator.com/item?id=42336207"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-12-05, 03:19:09",
+      "https://news.ycombinator.com/item?id=42324533"
+    ],
+    [
+      "Hit men aren't what you think",
+      "https://slate.com/news-and-politics/2024/12/united-healthcare-ceo-brian-thompson-shot-suspect.html"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 15:07:31",
       "https://news.ycombinator.com/item?id=42306868"
     ],
@@ -267,6 +257,16 @@
     [
       "Forensic linguists use grammar, syntax and vocabulary to help crack cold cases",
       "https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 15:34:42",
+      "https://news.ycombinator.com/item?id=42288906"
+    ],
+    [
+      "Wrote a custom libc for POSIX and x86-64",
+      "https://github.com/elricmann/vlibc"
     ]
   ],
   [
