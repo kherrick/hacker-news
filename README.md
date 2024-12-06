@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 15:38:08](https://news.ycombinator.com/item?id=42340740) - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
 * [2024-12-06, 14:54:56](https://news.ycombinator.com/item?id=42340346) - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian Is Opening Its Charging Network to Other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
@@ -14,7 +15,6 @@
 * [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-06, 00:44:23](https://news.ycombinator.com/item?id=42334697) - [Intel’s board, and an example of when boards and short-termism fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
 * [2024-12-06, 00:31:38](https://news.ycombinator.com/item?id=42334568) - [Lossless Log Aggregation – Reduce Log Volume by 99% Without Dropping Data](https://bit.kevinslin.com/p/lossless-log-aggregation)
-* [2024-12-06, 00:10:21](https://news.ycombinator.com/item?id=42334379) - [Litdb – type safe SQL for JavaScript/TS](https://litdb.dev/)
 * [2024-12-06, 00:01:53](https://news.ycombinator.com/item?id=42334323) - [Portland airport grows with expansive mass timber roof canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
 * [2024-12-05, 21:36:50](https://news.ycombinator.com/item?id=42333052) - [Gitlab names Bill Staples as new CEO](https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO)
 * [2024-12-05, 19:24:33](https://news.ycombinator.com/item?id=42331660) - [I spent a year building an Android course for the elderly](https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/)
@@ -22,7 +22,6 @@
 * [2024-12-05, 18:09:31](https://news.ycombinator.com/item?id=42330732) - [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/)
 * [2024-12-05, 17:46:40](https://news.ycombinator.com/item?id=42330491) - [PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/)
 * [2024-12-05, 14:41:54](https://news.ycombinator.com/item?id=42328655) - [Show HN: Piazza, syncing the web in a vectorized DB](http://piazza.tech)
-* [2024-12-05, 11:53:59](https://news.ycombinator.com/item?id=42327280) - [The “simple” 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 08:53:54](https://news.ycombinator.com/item?id=42294376) - [Can a Comma Solve a Crime?](https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes)
 * [2024-11-30, 23:12:24](https://news.ycombinator.com/item?id=42284758) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
@@ -30,6 +29,7 @@
 * [2024-11-30, 10:03:21](https://news.ycombinator.com/item?id=42280697) - [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/)
 * [2024-11-30, 06:20:19](https://news.ycombinator.com/item?id=42279951) - [The Problem with Sci-Fi Body Armor](https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
+* [2024-11-27, 07:09:53](https://news.ycombinator.com/item?id=42253697) - [Constraints Are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 
 ## [Archives](archives/index.md)
 

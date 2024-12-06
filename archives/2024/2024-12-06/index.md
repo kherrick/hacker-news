@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 15:38:08](https://news.ycombinator.com/item?id=42340740) - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
 * [2024-12-06, 14:54:56](https://news.ycombinator.com/item?id=42340346) - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
 * [2024-12-06, 14:42:54](https://news.ycombinator.com/item?id=42340253) - [Telecom Industry 'Think Tank' Feebly Tries to Smear Community Owned Broadband](https://www.techdirt.com/2024/12/06/telecom-industry-think-tank-feebly-tries-to-smear-community-owned-broadband/)
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
