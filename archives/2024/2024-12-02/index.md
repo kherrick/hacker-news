@@ -48,6 +48,7 @@
 * [2024-12-02, 10:06:36](https://news.ycombinator.com/item?id=42294716) - [Reverse engineering the Ravensburger TipToi pen](https://github.com/entropia/tip-toi-reveng)
 * [2024-12-02, 09:46:35](https://news.ycombinator.com/item?id=42294624) - [Show HN: Visualizing website carbon footprints using steam and robotics [video]](https://vimeo.com/1028745293)
 * [2024-12-02, 09:23:57](https://news.ycombinator.com/item?id=42294524) - [Communication Structures in a Growing Organization](https://jessitron.com/2024/11/24/communication-structures-in-a-growing-organization/)
+* [2024-12-02, 08:53:54](https://news.ycombinator.com/item?id=42294376) - [Can a Comma Solve a Crime?](https://www.thedial.world/articles/news/issue-22/forensic-linguists-solve-crimes)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
 * [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
 * [2024-12-02, 07:07:24](https://news.ycombinator.com/item?id=42293832) - [The Beautiful Math of Bloom Filters](https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/)
