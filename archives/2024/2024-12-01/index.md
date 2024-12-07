@@ -9,6 +9,7 @@
 * [2024-12-01, 23:06:38](https://news.ycombinator.com/item?id=42291417) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
 * [2024-12-01, 22:59:52](https://news.ycombinator.com/item?id=42291386) - [Gene behind orange fur in cats found at last](https://www.science.org/content/article/gene-behind-orange-fur-cats-found-last)
 * [2024-12-01, 22:57:19](https://news.ycombinator.com/item?id=42291375) - [Ampere WS-1 Japanese APL Clamtop](https://computeradsfromthepast.substack.com/p/ampere-ws-1)
+* [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)
 * [2024-12-01, 22:42:23](https://news.ycombinator.com/item?id=42291286) - [The Imminence of the Destruction of the Space Program](https://robertvanwey.substack.com/p/the-imminence-of-the-destruction)
 * [2024-12-01, 22:33:37](https://news.ycombinator.com/item?id=42291219) - [What Graykey iPhone hack tool can unlock](https://appleinsider.com/articles/24/11/19/leak-what-law-enforcement-can-unlock-with-the-graykey-iphone-hacking-tool)
 * [2024-12-01, 22:19:30](https://news.ycombinator.com/item?id=42291141) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
