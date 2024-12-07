@@ -14,7 +14,6 @@
 * [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
-* [2024-12-06, 19:06:17](https://news.ycombinator.com/item?id=42343052) - [How to Bypass WhatsApp Web's Locked Chat Feature](https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every V4 UUID](https://everyuuid.com/)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo is set to introduce a four-day workweek for government employees](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
@@ -28,6 +27,7 @@
 * [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)
+* [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
