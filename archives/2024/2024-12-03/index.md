@@ -61,6 +61,7 @@
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
+* [2024-12-03, 10:44:26](https://news.ycombinator.com/item?id=42304835) - [FSharpPacker – compile F# scripts to executables](https://github.com/kant2002/FSharpPacker)
 * [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
 * [2024-12-03, 09:28:14](https://news.ycombinator.com/item?id=42304415) - [Grifters, Believers, Grinders, and Coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-03, 08:42:25](https://news.ycombinator.com/item?id=42304161) - [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)
