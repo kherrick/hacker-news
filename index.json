@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-12-07, 22:12:48",
-      "https://news.ycombinator.com/item?id=42353273"
-    ],
-    [
-      "macOS Build Farm for Apache NuttX RTOS (Apple Silicon)",
-      "https://lupyuen.github.io/articles/ci5"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 21:27:36",
-      "https://news.ycombinator.com/item?id=42352983"
-    ],
-    [
-      "US Food and Drug Administration moves to ban red food dye",
-      "https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye"
-    ]
-  ],
-  [
-    [
       "2024-12-07, 21:00:24",
       "https://news.ycombinator.com/item?id=42352825"
     ],
@@ -31,32 +11,12 @@
   ],
   [
     [
-      "2024-12-07, 20:35:06",
-      "https://news.ycombinator.com/item?id=42352682"
-    ],
-    [
-      "Five of the best science fiction books of 2024",
-      "https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024"
-    ]
-  ],
-  [
-    [
       "2024-12-07, 20:31:26",
       "https://news.ycombinator.com/item?id=42352662"
     ],
     [
       "The momentum of the solar energy transition",
       "https://www.nature.com/articles/s41467-023-41971-7"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 19:53:54",
-      "https://news.ycombinator.com/item?id=42352371"
-    ],
-    [
-      "Raspberry Pi 5 now supports Valve's Steam Link",
-      "https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/"
     ]
   ],
   [
@@ -77,26 +37,6 @@
     [
       "Ultralytics AI model hijacked to infect thousands with cryptominer",
       "https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 18:29:13",
-      "https://news.ycombinator.com/item?id=42351698"
-    ],
-    [
-      "Google's AI weather prediction model is pretty darn good",
-      "https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 18:03:33",
-      "https://news.ycombinator.com/item?id=42351490"
-    ],
-    [
-      "Windows on ARM Gets Major Gaming Boost with Prism Update",
-      "https://windowsonarm.org/blog/66031766-b200-4b5f-a707-28a2a7888da9"
     ]
   ],
   [
@@ -191,6 +131,26 @@
   ],
   [
     [
+      "2024-12-06, 18:37:56",
+      "https://news.ycombinator.com/item?id=42342697"
+    ],
+    [
+      "OpenAI Reinforcement Fine-Tuning Research Program",
+      "https://openai.com/form/rft-research-program/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 18:11:46",
+      "https://news.ycombinator.com/item?id=42342382"
+    ],
+    [
+      "Every V4 UUID",
+      "https://everyuuid.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 18:07:35",
       "https://news.ycombinator.com/item?id=42342346"
     ],
@@ -221,12 +181,32 @@
   ],
   [
     [
+      "2024-12-06, 14:23:17",
+      "https://news.ycombinator.com/item?id=42340065"
+    ],
+    [
+      "Install postmarketOS on Android phone and use Docker as a home server",
+      "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 22:45:05",
       "https://news.ycombinator.com/item?id=42312469"
     ],
     [
       "I algorithmically donated $5000 to Open Source",
       "https://kvinogradov.com/algo-sponsors/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 18:47:01",
+      "https://news.ycombinator.com/item?id=42309692"
+    ],
+    [
+      "21 Algol 60 Compilers in 1962",
+      "https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2024-12-03, 09:18:03",
-      "https://news.ycombinator.com/item?id=42304354"
+      "2024-12-02, 23:39:40",
+      "https://news.ycombinator.com/item?id=42301580"
     ],
     [
-      "An EPYC Exclusive for Azure: AMD's MI300C – By George Cozma",
-      "https://chipsandcheese.com/p/an-epyc-exclusive-for-azure-amds"
+      "Helsing at Eurorust and the Oxidation of Defense",
+      "https://cafkafk.dev/p/eurorust-2024-helsing/"
     ]
   ],
   [
@@ -277,6 +257,16 @@
     [
       "Hiroshi Nagai: Japan's Sun-Drenched Americana",
       "https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 05:21:45",
+      "https://news.ycombinator.com/item?id=42286395"
+    ],
+    [
+      "The Curse of Recursion: Training on generated data makes models forget (2023)",
+      "https://arxiv.org/abs/2305.17493"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Accessing a DRM Framebuffer to display an image",
       "https://embear.ch/blog/drm-framebuffer"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 17:10:20",
+      "https://news.ycombinator.com/item?id=42275249"
+    ],
+    [
+      "RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'",
+      "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
     ]
   ]
 ]
