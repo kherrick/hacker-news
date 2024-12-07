@@ -21,6 +21,7 @@
 * [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
+* [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [MIT largest open-source car design dataset, incl aerodynamics, to speed design](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo government gives workers 4-day workweek to boost fertility, family time](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
 * [2024-12-06, 17:39:54](https://news.ycombinator.com/item?id=42342038) - [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
 * [2024-12-06, 17:31:00](https://news.ycombinator.com/item?id=42341922) - [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
