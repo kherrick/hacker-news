@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
-* [2024-12-07, 05:54:48](https://news.ycombinator.com/item?id=42347601) - [Health insurers remove executive bios, images from websites after CEO killing](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/)
 * [2024-12-07, 05:12:07](https://news.ycombinator.com/item?id=42347432) - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 * [2024-12-07, 01:32:19](https://news.ycombinator.com/item?id=42346463) - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 * [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
@@ -23,6 +22,7 @@
 * [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian is opening its charging network to other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
 * [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
+* [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Populations in the nuclear exclusion zone (2023)](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
