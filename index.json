@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-07, 21:00:24",
+      "https://news.ycombinator.com/item?id=42352825"
+    ],
+    [
+      "Nightclub stickers over smartphone rule divides the dancefloor",
+      "https://www.bbc.co.uk/news/articles/c4gpn44pyz9o"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 20:35:06",
       "https://news.ycombinator.com/item?id=42352682"
     ],
@@ -57,6 +67,16 @@
     [
       "Google's AI weather prediction model is pretty darn good",
       "https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 18:03:33",
+      "https://news.ycombinator.com/item?id=42351490"
+    ],
+    [
+      "Windows on ARM Gets Major Gaming Boost with Prism Update",
+      "https://windowsonarm.org/blog/66031766-b200-4b5f-a707-28a2a7888da9"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-12-02, 07:41:12",
-      "https://news.ycombinator.com/item?id=42293969"
-    ],
-    [
-      "New physical AWS Data Transfer Terminals let you upload to the cloud faster",
-      "https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/"
-    ]
-  ],
-  [
-    [
       "2024-12-01, 20:53:44",
       "https://news.ycombinator.com/item?id=42290663"
     ],
     [
       "Hiroshi Nagai: Japan's Sun-Drenched Americana",
       "https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 05:21:45",
-      "https://news.ycombinator.com/item?id=42286395"
-    ],
-    [
-      "The Curse of Recursion: Training on generated data makes models forget (2023)",
-      "https://arxiv.org/abs/2305.17493"
     ]
   ],
   [
