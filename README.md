@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
 * [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
@@ -18,18 +19,17 @@
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [MIT largest open-source car design dataset, incl aerodynamics, to speed design](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
 * [2024-12-06, 16:58:39](https://news.ycombinator.com/item?id=42341531) - [Melons and Melancholy: \"Eating and Being\" illuminates the dynamics of dietetics](https://lareviewofbooks.org/article/on-melons-and-melancholy/)
 * [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes as a new manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
-* [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
 * [2024-12-03, 10:44:26](https://news.ycombinator.com/item?id=42304835) - [FSharpPacker – compile F# scripts to executables](https://github.com/kant2002/FSharpPacker)
 * [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
 * [2024-12-02, 23:39:40](https://news.ycombinator.com/item?id=42301580) - [Helsing at Eurorust and the Oxidation of Defense](https://cafkafk.dev/p/eurorust-2024-helsing/)
+* [2024-12-02, 17:51:37](https://news.ycombinator.com/item?id=42298524) - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over fraud in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
-* [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
 ## [Archives](archives/index.md)
 

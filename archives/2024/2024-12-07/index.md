@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-07, 22:12:48](https://news.ycombinator.com/item?id=42353273) - [macOS Build Farm for Apache NuttX RTOS (Apple Silicon)](https://lupyuen.github.io/articles/ci5)
 * [2024-12-07, 21:27:36](https://news.ycombinator.com/item?id=42352983) - [US Food and Drug Administration moves to ban red food dye](https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
