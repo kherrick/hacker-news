@@ -63,6 +63,7 @@
 * [2024-12-01, 12:45:58](https://news.ycombinator.com/item?id=42288184) - [Stripe Black Friday Dashboard (Physical Machine)](https://bfcm.stripe.com/)
 * [2024-12-01, 12:01:01](https://news.ycombinator.com/item?id=42287979) - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
 * [2024-12-01, 11:52:27](https://news.ycombinator.com/item?id=42287930) - [Show HN: Simtown: A 2D Role-Playing Game Where Characters Talk, Move, and Act](https://app.simtown.ai/)
+* [2024-12-01, 11:29:16](https://news.ycombinator.com/item?id=42287810) - [Why it took a long time to build that tiny link preview on Wikipedia (2018)](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 11:23:45](https://news.ycombinator.com/item?id=42287792) - [Foams Made Out of Felt](https://blog.tanyakhovanova.com/2024/11/foams-made-out-of-felt/)
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)

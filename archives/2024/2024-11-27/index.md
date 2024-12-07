@@ -97,6 +97,7 @@
 * [2024-11-27, 07:09:53](https://news.ycombinator.com/item?id=42253697) - [Constraints Are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 * [2024-11-27, 07:01:10](https://news.ycombinator.com/item?id=42253654) - [How Blackjack Works (2007)](https://www.blackjackincolor.com/)
 * [2024-11-27, 06:59:07](https://news.ycombinator.com/item?id=42253640) - [Historic Bottle Website](https://sha.org/bottle/)
+* [2024-11-27, 06:53:33](https://news.ycombinator.com/item?id=42253601) - [Writing assembly language subroutines for Extended Color BASIC](https://boston.conman.org/2024/11/26.3)
 * [2024-11-27, 06:41:39](https://news.ycombinator.com/item?id=42253558) - [How to Work with GPT-Powered Apps on macOS](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos)
 * [2024-11-27, 05:34:31](https://news.ycombinator.com/item?id=42253241) - [I Wrote \"Janet for Mortals\"](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 05:27:21](https://news.ycombinator.com/item?id=42253211) - [A Dark Age Beacon](https://archaeology.org/issues/january-february-2019/features/a-dark-age-beacon/)

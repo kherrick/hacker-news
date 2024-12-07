@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-06, 23:43:39](https://news.ycombinator.com/item?id=42345834) - [A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+* [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
+* [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [The Biggest Shell Programs in the World (Wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 23:08:00](https://news.ycombinator.com/item?id=42345570) - [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
 * [2024-12-06, 23:00:05](https://news.ycombinator.com/item?id=42345500) - [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
@@ -21,15 +22,14 @@
 * [2024-12-06, 15:43:24](https://news.ycombinator.com/item?id=42340792) - [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian is opening its charging network to other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
-* [2024-12-06, 14:00:08](https://news.ycombinator.com/item?id=42339856) - [Show HN: BunkerWeb – The Open-Source Web Application Firewall (WAF)](https://github.com/bunkerity/bunkerweb)
 * [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
-* [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-* [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
+* [2024-12-01, 11:29:16](https://news.ycombinator.com/item?id=42287810) - [Why it took a long time to build that tiny link preview on Wikipedia (2018)](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-01, 03:19:39](https://news.ycombinator.com/item?id=42285896) - [Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art](https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html)
+* [2024-11-27, 06:53:33](https://news.ycombinator.com/item?id=42253601) - [Writing assembly language subroutines for Extended Color BASIC](https://boston.conman.org/2024/11/26.3)
 
 ## [Archives](archives/index.md)
 
