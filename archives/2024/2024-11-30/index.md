@@ -37,6 +37,7 @@
 * [2024-11-30, 13:22:56](https://news.ycombinator.com/item?id=42281470) - [In C, memory management begins – The Craft of Coding](https://craftofcoding.wordpress.com/2024/11/25/in-c-memory-management-begins-immediately/)
 * [2024-11-30, 12:57:17](https://news.ycombinator.com/item?id=42281343) - [Ask HN: How to Resurrect a Site from Archive.org?](https://news.ycombinator.com/item?id=42281343)
 * [2024-11-30, 12:42:02](https://news.ycombinator.com/item?id=42281256) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
+* [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-30, 12:00:57](https://news.ycombinator.com/item?id=42281066) - [Tesla Is Looking to Hire a Team to Remotely Control Its 'Self-Driving' Robotaxis](https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600)
 * [2024-11-30, 11:52:19](https://news.ycombinator.com/item?id=42281040) - [US War Department 1945 // Army Talk Orientation Fact Sheet #64 – Fascism](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism)
 * [2024-11-30, 10:53:57](https://news.ycombinator.com/item?id=42280865) - [Possible new ancient human species uncovered](https://www.hawaii.edu/news/2024/11/27/homo-juluensis-nature-communications/)

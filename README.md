@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [Never fail a technical interview again](https://github.com/ibttf/interview-coder)
+* [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 * [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for everything (e/Postgres)](https://github.com/Olshansk/postgres_for_everything)
@@ -22,13 +23,12 @@
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian is opening its charging network to other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
 * [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
-* [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
-* [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
+* [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
 ## [Archives](archives/index.md)
