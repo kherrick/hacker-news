@@ -12,7 +12,6 @@
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-* [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every V4 UUID](https://everyuuid.com/)
@@ -28,6 +27,7 @@
 * [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
+* [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over 'huge fraud' in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
