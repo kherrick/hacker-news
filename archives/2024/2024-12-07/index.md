@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 20:35:06](https://news.ycombinator.com/item?id=42352682) - [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)
+* [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 * [2024-12-07, 19:53:54](https://news.ycombinator.com/item?id=42352371) - [Raspberry Pi 5 now supports Valve's Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
 * [2024-12-07, 19:44:48](https://news.ycombinator.com/item?id=42352291) - [How One of the Richest Men Is Avoiding $8B in Taxes](https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
