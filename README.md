@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
-* [2024-12-07, 01:32:19](https://news.ycombinator.com/item?id=42346463) - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 * [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
