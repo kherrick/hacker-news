@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 23:43:39](https://news.ycombinator.com/item?id=42345834) - [A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+* [2024-12-06, 23:08:00](https://news.ycombinator.com/item?id=42345570) - [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
+* [2024-12-06, 23:00:05](https://news.ycombinator.com/item?id=42345500) - [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)
 * [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:18:55](https://news.ycombinator.com/item?id=42343920) - [Does Your Code Pass the Turkey Test?](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)

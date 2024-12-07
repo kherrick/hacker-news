@@ -71,6 +71,7 @@
 * [2024-12-03, 04:23:41](https://news.ycombinator.com/item?id=42303054) - [Guile-Emacs Relaunched](https://emacsconf.org/2024/talks/guile/)
 * [2024-12-03, 04:13:12](https://news.ycombinator.com/item?id=42303018) - [High School Student's First App – NWS Weather Report](https://weatherreportnow.com/)
 * [2024-12-03, 03:57:10](https://news.ycombinator.com/item?id=42302963) - [Twice-Yearly HIV Shot Shows 100% Effectiveness in Women](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de)
+* [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-03, 02:51:15](https://news.ycombinator.com/item?id=42302673) - [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
 * [2024-12-03, 02:31:29](https://news.ycombinator.com/item?id=42302560) - [Show HN: Book and change flights with one email](https://www.bonbook.co/showhn)

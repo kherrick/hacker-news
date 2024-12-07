@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-06, 23:43:39](https://news.ycombinator.com/item?id=42345834) - [A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+* [2024-12-06, 23:08:00](https://news.ycombinator.com/item?id=42345570) - [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
+* [2024-12-06, 23:00:05](https://news.ycombinator.com/item?id=42345500) - [OpenWrt One router officially launched](https://openwrt.org/#openwrt_one_router_officially_launched)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:18:55](https://news.ycombinator.com/item?id=42343920) - [Does Your Code Pass the Turkey Test? (2008)](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 * [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
@@ -13,7 +16,6 @@
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
 * [2024-12-06, 17:54:20](https://news.ycombinator.com/item?id=42342203) - [Tokyo is set to introduce a four-day workweek for government employees](https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html)
 * [2024-12-06, 17:39:54](https://news.ycombinator.com/item?id=42342038) - [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
-* [2024-12-06, 17:31:00](https://news.ycombinator.com/item?id=42341922) - [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
 * [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes as a new manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
 * [2024-12-06, 16:44:56](https://news.ycombinator.com/item?id=42341388) - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 * [2024-12-06, 15:43:24](https://news.ycombinator.com/item?id=42340792) - [The Unplanned Impact of Mathematics (2011)](https://www.nature.com/articles/475166a)
@@ -24,12 +26,10 @@
 * [2024-12-06, 12:00:38](https://news.ycombinator.com/item?id=42338986) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-12-06, 10:22:34](https://news.ycombinator.com/item?id=42338327) - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
-* [2024-12-06, 04:00:19](https://news.ycombinator.com/item?id=42336207) - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Insights into populations in the nuclear exclusion zone](https://www.science.org/doi/10.1126/sciadv.ade2537)
+* [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
 * [2024-12-01, 03:19:39](https://news.ycombinator.com/item?id=42285896) - [Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art](https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html)
-* [2024-11-29, 15:12:48](https://news.ycombinator.com/item?id=42274395) - [Show HN: Random Caplocks Prank](https://github.com/teamcoltra/gorandomcaps)
-* [2024-11-26, 23:31:05](https://news.ycombinator.com/item?id=42251307) - [Diagramming Dante: Michelangelo Caetani's Maps of the Divina Commedia (1855)](https://publicdomainreview.org/collection/michelangelo-caetani-maps-of-the-divina-commedia/)
 
 ## [Archives](archives/index.md)
 
