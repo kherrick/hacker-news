@@ -6,7 +6,7 @@
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:26:10](https://news.ycombinator.com/item?id=42350768) - [Japanese scientists were pioneers of AI; they're being written out of history](https://theconversation.com/japanese-scientists-were-pioneers-of-ai-yet-theyre-being-written-out-of-its-history-243762)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
-* [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
+* [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting undersea internet cables is a tech nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
 * [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
