@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 * [2024-12-07, 17:48:26](https://news.ycombinator.com/item?id=42351375) - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
@@ -25,7 +26,6 @@
 * [2024-12-03, 09:18:03](https://news.ycombinator.com/item?id=42304354) - [An EPYC Exclusive for Azure: AMD's MI300C – By George Cozma](https://chipsandcheese.com/p/an-epyc-exclusive-for-azure-amds)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-02, 23:39:40](https://news.ycombinator.com/item?id=42301580) - [Helsing at Eurorust and the Oxidation of Defense](https://cafkafk.dev/p/eurorust-2024-helsing/)
-* [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over fraud in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)

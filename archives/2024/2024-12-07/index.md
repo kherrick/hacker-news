@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 * [2024-12-07, 17:58:37](https://news.ycombinator.com/item?id=42351450) - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
 * [2024-12-07, 17:55:11](https://news.ycombinator.com/item?id=42351422) - [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
