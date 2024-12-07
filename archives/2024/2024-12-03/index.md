@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
 * [2024-12-03, 23:59:24](https://news.ycombinator.com/item?id=42313087) - [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)
+* [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 22:40:25](https://news.ycombinator.com/item?id=42312420) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 * [2024-12-03, 22:28:47](https://news.ycombinator.com/item?id=42312301) - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
