@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-07, 15:32:05](https://news.ycombinator.com/item?id=42350403) - [OpenAI seeks to unlock investment by ditching 'AGI' clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65)
+* [2024-12-07, 15:23:34](https://news.ycombinator.com/item?id=42350351) - [Show HN: Scraper for job listings directly from company websites](https://www.unlistedjobs.com/)
+* [2024-12-07, 15:08:27](https://news.ycombinator.com/item?id=42350245) - [Tell HN: Need help, locked out of Google account with 10 years of personal data](https://news.ycombinator.com/item?id=42350245)
 * [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
@@ -17,8 +19,6 @@
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every V4 UUID](https://everyuuid.com/)
 * [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes as a new manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
-* [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
-* [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-03, 10:44:26](https://news.ycombinator.com/item?id=42304835) - [FSharpPacker – compile F# scripts to executables](https://github.com/kant2002/FSharpPacker)
