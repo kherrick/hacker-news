@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
 * [2024-12-07, 20:35:06](https://news.ycombinator.com/item?id=42352682) - [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)
 * [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 * [2024-12-07, 19:53:54](https://news.ycombinator.com/item?id=42352371) - [Raspberry Pi 5 now supports Valve's Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 * [2024-12-07, 18:29:13](https://news.ycombinator.com/item?id=42351698) - [Google's AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
+* [2024-12-07, 18:03:33](https://news.ycombinator.com/item?id=42351490) - [Windows on ARM Gets Major Gaming Boost with Prism Update](https://windowsonarm.org/blog/66031766-b200-4b5f-a707-28a2a7888da9)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting undersea internet cables is a tech nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
 * [2024-12-07, 15:36:42](https://news.ycombinator.com/item?id=42350425) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
@@ -25,9 +27,7 @@
 * [2024-12-03, 09:18:03](https://news.ycombinator.com/item?id=42304354) - [An EPYC Exclusive for Azure: AMD's MI300C – By George Cozma](https://chipsandcheese.com/p/an-epyc-exclusive-for-azure-amds)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-02, 23:39:40](https://news.ycombinator.com/item?id=42301580) - [Helsing at Eurorust and the Oxidation of Defense](https://cafkafk.dev/p/eurorust-2024-helsing/)
-* [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
-* [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over fraud in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 
