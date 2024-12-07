@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-07, 12:37:03",
+      "https://news.ycombinator.com/item?id=42349382"
+    ],
+    [
+      "I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]",
+      "https://www.youtube.com/watch?v=VEgwnhLHy3g"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 10:44:19",
       "https://news.ycombinator.com/item?id=42348841"
     ],
@@ -21,11 +31,21 @@
   ],
   [
     [
+      "2024-12-07, 08:14:43",
+      "https://news.ycombinator.com/item?id=42348147"
+    ],
+    [
+      "An invisible desktop application that will help you pass technical interviews",
+      "https://github.com/ibttf/interview-coder"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 08:02:07",
       "https://news.ycombinator.com/item?id=42348085"
     ],
     [
-      "Can Life Emerge Around a White Dwarf?",
+      "Can life emerge around a white dwarf?",
       "https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42347606"
     ],
     [
-      "Postgres for everything (e/Postgres)",
+      "How to use Postgres for everything",
       "https://github.com/Olshansk/postgres_for_everything"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-06, 13:55:49",
-      "https://news.ycombinator.com/item?id=42339819"
-    ],
-    [
-      "Romanian court annuls result of presidential election first round",
-      "https://www.bbc.com/news/articles/cn4x2epppego"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 18:47:01",
       "https://news.ycombinator.com/item?id=42309692"
     ],
@@ -287,16 +297,6 @@
     [
       "Weak pointers in Go: why they matter now",
       "https://victoriametrics.com/blog/go-weak-pointer/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 17:10:20",
-      "https://news.ycombinator.com/item?id=42275249"
-    ],
-    [
-      "RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'",
-      "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
     ]
   ]
 ]
