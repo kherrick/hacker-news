@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 21:27:36](https://news.ycombinator.com/item?id=42352983) - [US Food and Drug Administration moves to ban red food dye](https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
 * [2024-12-07, 20:35:06](https://news.ycombinator.com/item?id=42352682) - [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)
 * [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
