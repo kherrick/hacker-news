@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 10:10:39](https://news.ycombinator.com/item?id=42348664) - [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 * [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
@@ -12,7 +13,6 @@
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:18:55](https://news.ycombinator.com/item?id=42343920) - [Does Your Code Pass the Turkey Test? (2008)](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
 * [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
-* [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
