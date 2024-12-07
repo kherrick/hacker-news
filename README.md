@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [Never fail a technical interview again](https://github.com/ibttf/interview-coder)
 * [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for everything (e/Postgres)](https://github.com/Olshansk/postgres_for_everything)
@@ -23,7 +24,6 @@
 * [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
 * [2024-12-06, 09:55:18](https://news.ycombinator.com/item?id=42338134) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
 * [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
-* [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Populations in the nuclear exclusion zone (2023)](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-01, 22:47:21](https://news.ycombinator.com/item?id=42291315) - [Nucleotide Transformer: building robust foundation models for human genomics](https://www.nature.com/articles/s41592-024-02523-z)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [Never fail a technical interview again](https://github.com/ibttf/interview-coder)
 * [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
