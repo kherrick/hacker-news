@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
 * [2024-12-07, 12:44:41](https://news.ycombinator.com/item?id=42349415) - [Top internet sleuths say they won't help find the UnitedHealthcare CEO killer](https://www.nbcnews.com/tech/internet/internet-sleuths-say-wont-help-find-unitedhealthcare-ceo-suspect-rcna183228)
+* [2024-12-07, 12:37:03](https://news.ycombinator.com/item?id=42349382) - [I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 * [2024-12-07, 10:44:19](https://news.ycombinator.com/item?id=42348841) - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 * [2024-12-07, 10:10:39](https://news.ycombinator.com/item?id=42348664) - [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
