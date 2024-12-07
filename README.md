@@ -2,6 +2,7 @@
 
 * [2024-12-07, 17:58:37](https://news.ycombinator.com/item?id=42351450) - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
 * [2024-12-07, 17:55:11](https://news.ycombinator.com/item?id=42351422) - [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
+* [2024-12-07, 17:48:26](https://news.ycombinator.com/item?id=42351375) - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
 * [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
@@ -29,7 +30,6 @@
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over 'huge fraud' in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
-* [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
 ## [Archives](archives/index.md)
 
