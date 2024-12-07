@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-07, 19:44:48](https://news.ycombinator.com/item?id=42352291) - [How One of the Richest Men Is Avoiding $8B in Taxes](https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html)
+* [2024-12-07, 19:53:54](https://news.ycombinator.com/item?id=42352371) - [Raspberry Pi 5 now supports Valve's Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-* [2024-12-07, 17:48:26](https://news.ycombinator.com/item?id=42351375) - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
+* [2024-12-07, 18:29:13](https://news.ycombinator.com/item?id=42351698) - [Google's AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:26:10](https://news.ycombinator.com/item?id=42350768) - [Japanese scientists were pioneers of AI; they're being written out of history](https://theconversation.com/japanese-scientists-were-pioneers-of-ai-yet-theyre-being-written-out-of-its-history-243762)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
