@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
+* [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 * [2024-12-07, 05:12:07](https://news.ycombinator.com/item?id=42347432) - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 * [2024-12-07, 01:32:19](https://news.ycombinator.com/item?id=42346463) - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 * [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
@@ -26,7 +27,6 @@
 * [2024-12-03, 15:07:31](https://news.ycombinator.com/item?id=42306868) - [The dogs of Chernobyl: Populations in the nuclear exclusion zone (2023)](https://www.science.org/doi/10.1126/sciadv.ade2537)
 * [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
-* [2024-12-02, 08:33:47](https://news.ycombinator.com/item?id=42294284) - [Exploring PHP Lazy Objects: A Practical Implementation](https://dailyrefactor.com/exploring-php-lazy-objects-practical-implementation)
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 * [2024-11-27, 06:53:33](https://news.ycombinator.com/item?id=42253601) - [Writing assembly language subroutines for Extended Color BASIC](https://boston.conman.org/2024/11/26.3)
