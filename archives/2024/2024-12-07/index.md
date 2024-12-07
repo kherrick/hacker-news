@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:14:36](https://news.ycombinator.com/item?id=42350677) - [Co-sleeping causes 3 more infant deaths in New York, officials say in warning](https://www.cbsnews.com/newyork/news/co-sleeping-dangers-infant-deaths-suffolk-county/)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
 * [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
