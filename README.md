@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-07, 12:37:03](https://news.ycombinator.com/item?id=42349382) - [I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 * [2024-12-07, 10:44:19](https://news.ycombinator.com/item?id=42348841) - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
-* [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [How to use Postgres for everything](https://github.com/Olshansk/postgres_for_everything)
 * [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
@@ -21,6 +19,7 @@
 * [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes as a new manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
 * [2024-12-06, 14:23:17](https://news.ycombinator.com/item?id=42340065) - [Install postmarketOS on Android phone and use Docker as a home server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-06, 14:16:49](https://news.ycombinator.com/item?id=42340000) - [Rivian is opening its charging network to other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
+* [2024-12-06, 13:55:49](https://news.ycombinator.com/item?id=42339819) - [Romanian court annuls result of presidential election first round](https://www.bbc.com/news/articles/cn4x2epppego)
 * [2024-12-03, 18:47:01](https://news.ycombinator.com/item?id=42309692) - [21 Algol 60 Compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-03, 10:44:26](https://news.ycombinator.com/item?id=42304835) - [FSharpPacker – compile F# scripts to executables](https://github.com/kant2002/FSharpPacker)
 * [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
@@ -30,6 +29,7 @@
 * [2024-12-01, 05:21:45](https://news.ycombinator.com/item?id=42286395) - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-29, 22:06:12](https://news.ycombinator.com/item?id=42277549) - [Weak pointers in Go: why they matter now](https://victoriametrics.com/blog/go-weak-pointer/index.html)
+* [2024-11-29, 17:10:20](https://news.ycombinator.com/item?id=42275249) - [RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'](https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html)
 
 ## [Archives](archives/index.md)
 
