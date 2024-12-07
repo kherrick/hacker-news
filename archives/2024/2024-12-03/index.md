@@ -61,6 +61,7 @@
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
+* [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
 * [2024-12-03, 09:28:14](https://news.ycombinator.com/item?id=42304415) - [Grifters, Believers, Grinders, and Coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-03, 08:42:25](https://news.ycombinator.com/item?id=42304161) - [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)
 * [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
