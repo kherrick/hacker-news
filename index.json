@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-07, 05:56:15",
+      "https://news.ycombinator.com/item?id=42347606"
+    ],
+    [
+      "Postgres for Everything (E/Postgres)",
+      "https://github.com/Olshansk/postgres_for_everything"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 05:54:48",
+      "https://news.ycombinator.com/item?id=42347601"
+    ],
+    [
+      "Health insurers remove executive bios, images from websites after CEO killing",
+      "https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 05:12:07",
+      "https://news.ycombinator.com/item?id=42347432"
+    ],
+    [
+      "Tell HN: Alaska Airlines website exposes passenger data",
+      "https://news.ycombinator.com/item?id=42347432"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 01:32:19",
       "https://news.ycombinator.com/item?id=42346463"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-12-06, 17:39:54",
-      "https://news.ycombinator.com/item?id=42342038"
-    ],
-    [
-      "Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible",
-      "https://github.com/poeticoding/yolo_elixir"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 16:56:50",
       "https://news.ycombinator.com/item?id=42341506"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-12-03, 09:28:14",
-      "https://news.ycombinator.com/item?id=42304415"
-    ],
-    [
-      "Grifters, Believers, Grinders, and Coasters",
-      "https://www.seangoedecke.com/programmer-archetypes/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 03:43:13",
       "https://news.ycombinator.com/item?id=42302907"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2024-12-01, 15:26:00",
-      "https://news.ycombinator.com/item?id=42288864"
+      "2024-12-01, 05:21:45",
+      "https://news.ycombinator.com/item?id=42286395"
     ],
     [
-      "'Maya blue': The mystery dye recreated two centuries after it was lost",
-      "https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 11:29:16",
-      "https://news.ycombinator.com/item?id=42287810"
-    ],
-    [
-      "Why it took a long time to build that tiny link preview on Wikipedia (2018)",
-      "https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe"
+      "The Curse of Recursion: Training on Generated Data Makes Models Forget",
+      "https://arxiv.org/abs/2305.17493"
     ]
   ],
   [
