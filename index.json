@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-06, 23:43:39",
-      "https://news.ycombinator.com/item?id=42345834"
+      "2024-12-07, 01:12:32",
+      "https://news.ycombinator.com/item?id=42346344"
     ],
     [
-      "A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash",
-      "https://www.wired.com/story/memecoin-kid-backlash/"
+      "Structured Outputs with Ollama",
+      "https://ollama.com/blog/structured-outputs"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 00:59:11",
+      "https://news.ycombinator.com/item?id=42346274"
+    ],
+    [
+      "The Biggest Shell Programs in the World (Wiki)",
+      "https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World"
     ]
   ],
   [
@@ -211,42 +221,12 @@
   ],
   [
     [
-      "2024-12-06, 14:00:08",
-      "https://news.ycombinator.com/item?id=42339856"
-    ],
-    [
-      "Show HN: BunkerWeb – The Open-Source Web Application Firewall (WAF)",
-      "https://github.com/bunkerity/bunkerweb"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 13:55:49",
       "https://news.ycombinator.com/item?id=42339819"
     ],
     [
       "Romanian court annuls result of presidential election first round",
       "https://www.bbc.com/news/articles/cn4x2epppego"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 12:00:38",
-      "https://news.ycombinator.com/item?id=42338986"
-    ],
-    [
-      "RankScience (YC W17) is hiring to supercharge SEO for startups",
-      "https://remotejobs.org/companies/rankscience-remote-jobs"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 10:22:34",
-      "https://news.ycombinator.com/item?id=42338327"
-    ],
-    [
-      "Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles",
-      "https://hackerherald.com/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-12-01, 11:29:16",
+      "https://news.ycombinator.com/item?id=42287810"
+    ],
+    [
+      "Why it took a long time to build that tiny link preview on Wikipedia (2018)",
+      "https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 03:19:39",
       "https://news.ycombinator.com/item?id=42285896"
     ],
     [
       "Archaeologists reveal musical instruments shown in Zimbabwe's ancient rock art",
       "https://phys.org/news/2024-11-archaeologists-reveal-musical-instruments-depicted.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 06:53:33",
+      "https://news.ycombinator.com/item?id=42253601"
+    ],
+    [
+      "Writing assembly language subroutines for Extended Color BASIC",
+      "https://boston.conman.org/2024/11/26.3"
     ]
   ]
 ]
