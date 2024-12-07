@@ -17,6 +17,7 @@
 * [2024-12-07, 16:14:36](https://news.ycombinator.com/item?id=42350677) - [Co-sleeping causes 3 more infant deaths in New York, officials say in warning](https://www.cbsnews.com/newyork/news/co-sleeping-dangers-infant-deaths-suffolk-county/)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
 * [2024-12-07, 16:01:44](https://news.ycombinator.com/item?id=42350584) - [Protecting Undersea Internet Cables Is a Tech Nightmare](https://spectrum.ieee.org/undersea-internet-cables-protection-tech)
+* [2024-12-07, 15:36:42](https://news.ycombinator.com/item?id=42350425) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 * [2024-12-07, 15:32:05](https://news.ycombinator.com/item?id=42350403) - [OpenAI seeks to unlock investment by ditching 'AGI' clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65)
 * [2024-12-07, 15:23:34](https://news.ycombinator.com/item?id=42350351) - [Show HN: Scraper for job listings directly from company websites](https://www.unlistedjobs.com/)
 * [2024-12-07, 15:08:27](https://news.ycombinator.com/item?id=42350245) - [Tell HN: Need help, locked out of Google account with 10 years of personal data](https://news.ycombinator.com/item?id=42350245)
