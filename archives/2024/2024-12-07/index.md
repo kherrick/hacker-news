@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 17:58:37](https://news.ycombinator.com/item?id=42351450) - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
+* [2024-12-07, 17:55:11](https://news.ycombinator.com/item?id=42351422) - [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:14:36](https://news.ycombinator.com/item?id=42350677) - [Co-sleeping causes 3 more infant deaths in New York, officials say in warning](https://www.cbsnews.com/newyork/news/co-sleeping-dangers-infant-deaths-suffolk-county/)
 * [2024-12-07, 16:13:59](https://news.ycombinator.com/item?id=42350672) - [The electric shock behind Europe's stuttering EV future](https://news.sky.com/story/the-electric-shock-behind-europes-stuttering-ev-future-and-how-china-has-leapfrogged-major-car-exporting-nations-13267440)
