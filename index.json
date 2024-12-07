@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-07, 22:52:03",
+      "https://news.ycombinator.com/item?id=42353473"
+    ],
+    [
+      "Lobsters Blocks Brave Browser for Scammy Behavior",
+      "https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 21:00:24",
       "https://news.ycombinator.com/item?id=42352825"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-12-06, 14:23:17",
-      "https://news.ycombinator.com/item?id=42340065"
-    ],
-    [
-      "Install postmarketOS on Android phone and use Docker as a home server",
-      "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 22:45:05",
       "https://news.ycombinator.com/item?id=42312469"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-12-02, 17:51:37",
+      "https://news.ycombinator.com/item?id=42298524"
+    ],
+    [
+      "Claud Cockburn invented guerrilla journalism",
+      "https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 20:53:44",
       "https://news.ycombinator.com/item?id=42290663"
     ],
@@ -287,16 +297,6 @@
     [
       "Accessing a DRM Framebuffer to display an image",
       "https://embear.ch/blog/drm-framebuffer"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 17:10:20",
-      "https://news.ycombinator.com/item?id=42275249"
-    ],
-    [
-      "RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'",
-      "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
     ]
   ]
 ]
