@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-07, 09:42:59",
+      "https://news.ycombinator.com/item?id=42348513"
+    ],
+    [
+      "Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs",
+      "https://countless.dev/"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 08:02:07",
       "https://news.ycombinator.com/item?id=42348085"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-12-06, 19:17:07",
-      "https://news.ycombinator.com/item?id=42343182"
-    ],
-    [
-      "Deep dive into finding RSS feeds",
-      "https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 19:09:07",
       "https://news.ycombinator.com/item?id=42343089"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-12-06, 09:55:18",
-      "https://news.ycombinator.com/item?id=42338134"
-    ],
-    [
-      "Debian opens a can of username worms",
-      "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 18:47:01",
       "https://news.ycombinator.com/item?id=42309692"
     ],
@@ -287,6 +277,16 @@
     [
       "Accessing a DRM Framebuffer to display an image",
       "https://embear.ch/blog/drm-framebuffer"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 22:06:12",
+      "https://news.ycombinator.com/item?id=42277549"
+    ],
+    [
+      "Weak pointers in Go: why they matter now",
+      "https://victoriametrics.com/blog/go-weak-pointer/index.html"
     ]
   ],
   [
