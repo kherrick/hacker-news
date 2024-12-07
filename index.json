@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-12-07, 07:14:52",
+      "https://news.ycombinator.com/item?id=42347885"
+    ],
+    [
+      "The Birmingham Blade: geographically tailored urban wind turbine designed by AI",
+      "https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 06:53:13",
+      "https://news.ycombinator.com/item?id=42347780"
+    ],
+    [
+      "MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]",
+      "https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 05:56:15",
       "https://news.ycombinator.com/item?id=42347606"
     ],
     [
-      "Postgres for Everything (E/Postgres)",
+      "Postgres for everything (e/Postgres)",
       "https://github.com/Olshansk/postgres_for_everything"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-12-06, 16:00:51",
-      "https://news.ycombinator.com/item?id=42340959"
-    ],
-    [
-      "TikTok divestment law upheld by federal appeals court",
-      "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 14:23:17",
       "https://news.ycombinator.com/item?id=42340065"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-12-03, 15:07:31",
-      "https://news.ycombinator.com/item?id=42306868"
-    ],
-    [
-      "The dogs of Chernobyl: Populations in the nuclear exclusion zone (2023)",
-      "https://www.science.org/doi/10.1126/sciadv.ade2537"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 13:21:57",
       "https://news.ycombinator.com/item?id=42305766"
     ],
@@ -271,11 +271,21 @@
   ],
   [
     [
+      "2024-12-01, 22:47:21",
+      "https://news.ycombinator.com/item?id=42291315"
+    ],
+    [
+      "Nucleotide Transformer: building robust foundation models for human genomics",
+      "https://www.nature.com/articles/s41592-024-02523-z"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 05:21:45",
       "https://news.ycombinator.com/item?id=42286395"
     ],
     [
-      "The Curse of Recursion: Training on Generated Data Makes Models Forget",
+      "The Curse of Recursion: Training on generated data makes models forget (2023)",
       "https://arxiv.org/abs/2305.17493"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "RNA-targeting CRISPR reveals that noncoding RNAs are not 'junk'",
       "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 06:53:33",
-      "https://news.ycombinator.com/item?id=42253601"
-    ],
-    [
-      "Writing assembly language subroutines for Extended Color BASIC",
-      "https://boston.conman.org/2024/11/26.3"
     ]
   ]
 ]
