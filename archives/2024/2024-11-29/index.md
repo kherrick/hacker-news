@@ -15,6 +15,7 @@
 * [2024-11-29, 22:54:12](https://news.ycombinator.com/item?id=42277850) - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 * [2024-11-29, 22:26:43](https://news.ycombinator.com/item?id=42277673) - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
 * [2024-11-29, 22:16:28](https://news.ycombinator.com/item?id=42277604) - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
+* [2024-11-29, 22:06:12](https://news.ycombinator.com/item?id=42277549) - [Weak pointers in Go: why they matter now](https://victoriametrics.com/blog/go-weak-pointer/index.html)
 * [2024-11-29, 21:57:33](https://news.ycombinator.com/item?id=42277482) - [The Revised SI of physical units (2019), Max Planck (1900), and 'Planck scale'](https://osf.io/hzntw/)
 * [2024-11-29, 21:53:11](https://news.ycombinator.com/item?id=42277438) - [Apple removes Active Noise Cancelling from AirPods Pro 2](https://discussions.apple.com/thread/255774193)
 * [2024-11-29, 21:03:18](https://news.ycombinator.com/item?id=42277089) - [Brits are scrolling away from X and aren't that interested in AI](https://www.theregister.com/2024/11/29/ofcom_online_nation/)
