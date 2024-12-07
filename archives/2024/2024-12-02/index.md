@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 23:39:40](https://news.ycombinator.com/item?id=42301580) - [Helsing at Eurorust and the Oxidation of Defense](https://cafkafk.dev/p/eurorust-2024-helsing/)
 * [2024-12-02, 23:04:49](https://news.ycombinator.com/item?id=42301313) - [New funding could make whole-eye transplants a reality](https://news.northwestern.edu/stories/2024/12/vision-restoring-project-receives-up-to-56-million-to-fast-track-development/)
 * [2024-12-02, 22:53:14](https://news.ycombinator.com/item?id=42301228) - [Show HN: Open-sourced (road) traffic counting application](https://github.com/asfarley/vtc_lfs)
 * [2024-12-02, 22:27:02](https://news.ycombinator.com/item?id=42301049) - [Atmospheric analysis shows Venus never had Earth-like life, scientists say](https://www.theguardian.com/science/2024/dec/02/venus-life-water-atmosphere-analysis-science-research)
