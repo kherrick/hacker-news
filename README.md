@@ -26,8 +26,8 @@
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [The largest open-source dataset of car designs, including their aerodynamics](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 23:44:17](https://news.ycombinator.com/item?id=42323284) - [Whose Weil? Simone, Patron Saint of Everyone](https://www.thedriftmag.com/whose-weil/)
-* [2024-12-04, 19:36:18](https://news.ycombinator.com/item?id=42321163) - [Make a \"Magic Eye\" image using Excel](https://divisbyzero.com/2024/11/30/make-a-magic-eye-image-using-excel/)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
+* [2024-12-03, 09:43:43](https://news.ycombinator.com/item?id=42304493) - [My Biggest Project So Far](https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far)
 * [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers Use AI to Turn Sound Recordings into Accurate Street Images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 
