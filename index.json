@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-12-08, 12:47:10",
+      "https://news.ycombinator.com/item?id=42356814"
+    ],
+    [
+      "Don't Block the Event Loop (Or the Worker Pool) in JavaScript",
+      "https://github.com/rowsana/Not-blocking-event-loop"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 12:06:14",
       "https://news.ycombinator.com/item?id=42356668"
     ],
@@ -277,16 +287,6 @@
     [
       "PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni",
       "https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 20:53:44",
-      "https://news.ycombinator.com/item?id=42290663"
-    ],
-    [
-      "Hiroshi Nagai: Japan's Sun-Drenched Americana",
-      "https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn"
     ]
   ],
   [
