@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
 * [2024-12-08, 06:28:04](https://news.ycombinator.com/item?id=42355364) - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 * [2024-12-08, 05:47:18](https://news.ycombinator.com/item?id=42355234) - [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
@@ -23,6 +22,7 @@
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
+* [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [The largest open-source dataset of car designs, including their aerodynamics](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
