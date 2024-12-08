@@ -6,6 +6,7 @@
 
 * [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
 * [2024-12-07, 23:20:21](https://news.ycombinator.com/item?id=42353635) - [From the Bretton Woods system to global stagnation [pdf]](https://www.paecon.net/PAEReview/issue109/Podkaminer109.pdf)
+* [2024-12-07, 23:07:01](https://news.ycombinator.com/item?id=42353560) - [Show HN: AirFry.Pro – The best popular and healthy recipes for your air fryer](https://airfry.pro)
 * [2024-12-07, 23:02:50](https://news.ycombinator.com/item?id=42353540) - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
 * [2024-12-07, 22:57:16](https://news.ycombinator.com/item?id=42353503) - [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
 * [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)

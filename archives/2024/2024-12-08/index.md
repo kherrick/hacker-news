@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 05:47:18](https://news.ycombinator.com/item?id=42355234) - [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 * [2024-12-08, 04:48:43](https://news.ycombinator.com/item?id=42355076) - [Hacker.txt (1993)](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
 * [2024-12-08, 02:58:06](https://news.ycombinator.com/item?id=42354705) - [Honda's award winning commercial \"Cogs\" [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
