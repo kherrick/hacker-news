@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
 * [2024-12-08, 06:28:04](https://news.ycombinator.com/item?id=42355364) - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 * [2024-12-08, 05:47:18](https://news.ycombinator.com/item?id=42355234) - [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
@@ -9,7 +10,6 @@
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
 * [2024-12-08, 01:01:27](https://news.ycombinator.com/item?id=42354152) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
 * [2024-12-08, 00:40:09](https://news.ycombinator.com/item?id=42354056) - [GrapheneOS on Pixels getting extended Android support](https://grapheneos.social/@GrapheneOS/113603951027289464)
-* [2024-12-08, 00:16:21](https://news.ycombinator.com/item?id=42353944) - [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 * [2024-12-08, 00:10:07](https://news.ycombinator.com/item?id=42353907) - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
 * [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
 * [2024-12-07, 22:57:16](https://news.ycombinator.com/item?id=42353503) - [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
@@ -23,12 +23,12 @@
 * [2024-12-06, 20:26:05](https://news.ycombinator.com/item?id=42344002) - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [The largest open-source dataset of car designs, including their aerodynamics](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
+* [2024-12-04, 19:36:18](https://news.ycombinator.com/item?id=42321163) - [Make a \"Magic Eye\" image using Excel](https://divisbyzero.com/2024/11/30/make-a-magic-eye-image-using-excel/)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 21:25:31](https://news.ycombinator.com/item?id=42311667) - [A critical history of the FDA](https://www.midwesterndoctor.com/p/the-fdas-war-against-americas-health)
 * [2024-12-02, 07:35:39](https://news.ycombinator.com/item?id=42293937) - [PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
-* [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-29, 11:49:56](https://news.ycombinator.com/item?id=42273193) - [Unique killer whale pod may have acquired special skills to hunt whale sharks](https://phys.org/news/2024-11-unique-killer-whale-pod-special.html)
 
 ## [Archives](archives/index.md)
