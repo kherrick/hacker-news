@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)
 * [2024-12-08, 21:04:01](https://news.ycombinator.com/item?id=42360428) - [She had 20 stab wounds; police ruled suicide](https://www.cnn.com/interactive/2024/12/us/ellen-greenberg-death-philadelphia-cec-cnnphotos/)
 * [2024-12-08, 21:02:55](https://news.ycombinator.com/item?id=42360415) - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
 * [2024-12-08, 21:00:14](https://news.ycombinator.com/item?id=42360390) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
@@ -15,6 +16,7 @@
 * [2024-12-08, 19:51:55](https://news.ycombinator.com/item?id=42359836) - [UK bans daytime TV ads for cereals, muffins and burgers](https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers)
 * [2024-12-08, 19:18:26](https://news.ycombinator.com/item?id=42359571) - [I spent 2 years rebuilding my trading platform in Rust. I have no regrets](https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205)
 * [2024-12-08, 18:47:48](https://news.ycombinator.com/item?id=42359216) - [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
+* [2024-12-08, 18:35:32](https://news.ycombinator.com/item?id=42359067) - [Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention](https://github.com/singlr-ai/nocaptcha)
 * [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
 * [2024-12-08, 17:57:52](https://news.ycombinator.com/item?id=42358697) - [Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
