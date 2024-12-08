@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-08, 16:58:17",
-      "https://news.ycombinator.com/item?id=42358206"
+      "2024-12-08, 17:29:25",
+      "https://news.ycombinator.com/item?id=42358470"
     ],
     [
-      "Anthem drops controversial new plan to cap anesthesia coverage after backlash",
-      "https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/"
+      "SQLite changed temp file prefix after McAfee users called devs to complain",
+      "https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-12-01, 20:53:44",
+      "https://news.ycombinator.com/item?id=42290663"
+    ],
+    [
+      "Hiroshi Nagai: Japan's Sun-Drenched Americana",
+      "https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 16:40:26",
       "https://news.ycombinator.com/item?id=42289233"
     ],
     [
       "Researchers Use AI to Turn Sound Recordings into Accurate Street Images",
       "https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 11:49:56",
-      "https://news.ycombinator.com/item?id=42273193"
-    ],
-    [
-      "Unique killer whale pod may have acquired special skills to hunt whale sharks",
-      "https://phys.org/news/2024-11-unique-killer-whale-pod-special.html"
     ]
   ]
 ]
