@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
+* [2024-12-08, 18:47:48](https://news.ycombinator.com/item?id=42359216) - [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
-* [2024-12-08, 17:57:52](https://news.ycombinator.com/item?id=42358697) - [Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
 * [2024-12-08, 17:31:49](https://news.ycombinator.com/item?id=42358494) - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
 * [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
@@ -26,6 +25,7 @@
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [The largest open-source dataset of car designs, including their aerodynamics](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 23:44:17](https://news.ycombinator.com/item?id=42323284) - [Whose Weil? Simone, Patron Saint of Everyone](https://www.thedriftmag.com/whose-weil/)
+* [2024-12-04, 19:36:18](https://news.ycombinator.com/item?id=42321163) - [Make a \"Magic Eye\" image using Excel](https://divisbyzero.com/2024/11/30/make-a-magic-eye-image-using-excel/)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-03, 09:43:43](https://news.ycombinator.com/item?id=42304493) - [My Biggest Project So Far](https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far)
 * [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)

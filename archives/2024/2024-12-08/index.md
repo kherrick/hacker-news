@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 18:47:48](https://news.ycombinator.com/item?id=42359216) - [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
 * [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
 * [2024-12-08, 17:57:52](https://news.ycombinator.com/item?id=42358697) - [Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
