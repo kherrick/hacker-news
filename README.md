@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
 * [2024-12-08, 08:41:41](https://news.ycombinator.com/item?id=42355886) - [The New Product Liability Directive](https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en)
 * [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
-* [2024-12-08, 06:28:04](https://news.ycombinator.com/item?id=42355364) - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 * [2024-12-08, 04:48:43](https://news.ycombinator.com/item?id=42355076) - [Hacker.txt (1993)](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
