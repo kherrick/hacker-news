@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-08, 17:57:52",
+      "https://news.ycombinator.com/item?id=42358697"
+    ],
+    [
+      "Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions",
+      "https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 17:31:49",
+      "https://news.ycombinator.com/item?id=42358494"
+    ],
+    [
+      "Small AI Chip Maker Marvell Now More Valuable Than Intel",
+      "https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 17:29:25",
       "https://news.ycombinator.com/item?id=42358470"
     ],
     [
       "SQLite changed temp file prefix after McAfee users called devs to complain",
       "https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 17:17:53",
+      "https://news.ycombinator.com/item?id=42358388"
+    ],
+    [
+      "Unless my phone can be a PC, I don't want to keep paying for extra performance",
+      "https://www.androidauthority.com/phone-pc-performance-3504716/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Mend it Mark gets suspect copyright strike for £25k audio amp repair",
       "https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 12:47:10",
-      "https://news.ycombinator.com/item?id=42356814"
-    ],
-    [
-      "Don't Block the Event Loop (Or the Worker Pool) in JavaScript",
-      "https://github.com/rowsana/Not-blocking-event-loop"
     ]
   ],
   [
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2024-12-07, 09:42:59",
-      "https://news.ycombinator.com/item?id=42348513"
+      "2024-12-07, 07:21:40",
+      "https://news.ycombinator.com/item?id=42347917"
     ],
     [
-      "Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs",
-      "https://countless.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 20:26:05",
-      "https://news.ycombinator.com/item?id=42344002"
-    ],
-    [
-      "My second year without a job",
-      "https://shilin.ca/my-second-year-without-job/"
+      "Mise: Dev tools, env vars, task runner",
+      "https://github.com/jdx/mise"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s",
       "https://www.tribalknowledge.tech/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 07:35:39",
-      "https://news.ycombinator.com/item?id=42293937"
-    ],
-    [
-      "PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni",
-      "https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html"
     ]
   ],
   [
