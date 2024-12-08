@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-08, 02:58:06](https://news.ycombinator.com/item?id=42354705) - [Honda's award winning commercial \"Cogs\" [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
 * [2024-12-08, 02:32:26](https://news.ycombinator.com/item?id=42354580) - [Airline informant received thousands from passenger cash seizures](https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/)
@@ -23,6 +22,7 @@
 * [2024-12-06, 20:22:07](https://news.ycombinator.com/item?id=42343953) - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:07:35](https://news.ycombinator.com/item?id=42342346) - [The largest open-source dataset of car designs, including their aerodynamics](https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205)
+* [2024-12-04, 11:46:07](https://news.ycombinator.com/item?id=42316561) - [The Booze of Monkey Island is an unofficial fan game](https://bean-adventure-agency.itch.io/the-booze-of-monkey-island)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
 * [2024-12-02, 17:51:37](https://news.ycombinator.com/item?id=42298524) - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
