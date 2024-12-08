@@ -66,6 +66,7 @@
 * [2024-11-29, 12:25:55](https://news.ycombinator.com/item?id=42273361) - [I taught rats to drive a car, and it may help us lead happier lives](https://www.bbc.com/future/article/20241128-i-taught-rats-to-drive-a-car-and-it-may-help-us-lead-happier-lives)
 * [2024-11-29, 12:23:26](https://news.ycombinator.com/item?id=42273349) - [Stowaway found after boarding flight from New York to Paris](https://www.nbcnews.com/news/us-news/stowaway-found-boarding-flight-new-york-paris-rcna182103)
 * [2024-11-29, 12:12:55](https://news.ycombinator.com/item?id=42273288) - [Finland, Sweden complete repairs on Baltic Sea cables](https://yle.fi/a/74-20128140)
+* [2024-11-29, 11:49:56](https://news.ycombinator.com/item?id=42273193) - [Unique killer whale pod may have acquired special skills to hunt whale sharks](https://phys.org/news/2024-11-unique-killer-whale-pod-special.html)
 * [2024-11-29, 10:50:33](https://news.ycombinator.com/item?id=42272927) - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
 * [2024-11-29, 10:25:49](https://news.ycombinator.com/item?id=42272813) - [New Zealand Navy ship sank off Samoa because autopilot was left on, inquiry](https://www.theguardian.com/world/2024/nov/29/new-zealand-navy-ship-hmnzs-manawanui-sinking-autopilot-inquiry-ntwnfb)
 * [2024-11-29, 10:01:57](https://news.ycombinator.com/item?id=42272707) - [Better Auth – The most comprehensive authentication library for TypeScript](https://www.better-auth.com/)

@@ -2,7 +2,6 @@
 
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 * [2024-12-08, 04:48:43](https://news.ycombinator.com/item?id=42355076) - [Hacker.txt (1993)](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
-* [2024-12-08, 02:58:06](https://news.ycombinator.com/item?id=42354705) - [Honda's award winning commercial \"Cogs\" [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
@@ -30,6 +29,7 @@
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 03:49:12](https://news.ycombinator.com/item?id=42286030) - [Beekeepers halt honey awards over fraud in global supply chain](https://www.theguardian.com/business/2024/nov/30/beekeepers-halt-honey-awards)
 * [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
+* [2024-11-29, 11:49:56](https://news.ycombinator.com/item?id=42273193) - [Unique killer whale pod may have acquired special skills to hunt whale sharks](https://phys.org/news/2024-11-unique-killer-whale-pod-special.html)
 
 ## [Archives](archives/index.md)
 
