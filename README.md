@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 * [2024-12-08, 17:57:52](https://news.ycombinator.com/item?id=42358697) - [Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
 * [2024-12-08, 17:31:49](https://news.ycombinator.com/item?id=42358494) - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
 * [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
@@ -18,7 +19,6 @@
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 00:10:07](https://news.ycombinator.com/item?id=42353907) - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
 * [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
-* [2024-12-07, 22:57:16](https://news.ycombinator.com/item?id=42353503) - [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
 * [2024-12-07, 22:36:35](https://news.ycombinator.com/item?id=42353392) - [Arthur Cravan: The Disappearing Dadaist](https://www.historytoday.com/archive/missing-pieces/arthur-cravan-disappearing-dadaist)
 * [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
