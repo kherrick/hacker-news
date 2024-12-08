@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 * [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 * [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)

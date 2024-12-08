@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
+* [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 * [2024-12-08, 15:51:41](https://news.ycombinator.com/item?id=42357787) - [China Completes Green Belt Around Taklamakan Desert](https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/)
 * [2024-12-08, 15:39:29](https://news.ycombinator.com/item?id=42357720) - [UnitedHealth's Effort to Deny Coverage for a Patient's Care](https://www.propublica.org/article/unitedhealth-healthcare-insurance-denial-ulcerative-colitis)
@@ -28,8 +28,8 @@
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-02, 07:35:39](https://news.ycombinator.com/item?id=42293937) - [PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
+* [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers Use AI to Turn Sound Recordings into Accurate Street Images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
-* [2024-11-29, 11:49:56](https://news.ycombinator.com/item?id=42273193) - [Unique killer whale pod may have acquired special skills to hunt whale sharks](https://phys.org/news/2024-11-unique-killer-whale-pod-special.html)
 
 ## [Archives](archives/index.md)
 
