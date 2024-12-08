@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 21:55:54](https://news.ycombinator.com/item?id=42360963) - [The GPT era is already ending](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)
+* [2024-12-08, 21:29:05](https://news.ycombinator.com/item?id=42360681) - [JSON5 – JSON for Humans](https://json5.org/)
 * [2024-12-08, 21:04:01](https://news.ycombinator.com/item?id=42360428) - [She had 20 stab wounds; police ruled suicide](https://www.cnn.com/interactive/2024/12/us/ellen-greenberg-death-philadelphia-cec-cnnphotos/)
 * [2024-12-08, 21:02:55](https://news.ycombinator.com/item?id=42360415) - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
 * [2024-12-08, 21:00:14](https://news.ycombinator.com/item?id=42360390) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
