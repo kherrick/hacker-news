@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 02:50:18](https://news.ycombinator.com/item?id=42354668) - [Assad Has Left Damascus](https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/)
 * [2024-12-08, 01:14:19](https://news.ycombinator.com/item?id=42354201) - [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
 * [2024-12-08, 01:01:27](https://news.ycombinator.com/item?id=42354152) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
 * [2024-12-08, 00:28:08](https://news.ycombinator.com/item?id=42354001) - [Arctic uses a fan to cool another fan](https://www.tomshardware.com/pc-components/case-fans/arctic-uses-a-fan-to-cool-another-fan-s12038-4k-120mm-fan-adds-an-extra-fan-in-its-center-to-cool-its-central-shaft)
+* [2024-12-08, 00:16:52](https://news.ycombinator.com/item?id=42353948) - [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
 * [2024-12-08, 00:16:21](https://news.ycombinator.com/item?id=42353944) - [Browsing negative content online makes mental health struggles worse](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 * [2024-12-08, 00:15:13](https://news.ycombinator.com/item?id=42353936) - [Deepfakes weaponised to target Pakistan's women leaders](https://www.france24.com/en/live-news/20241203-deepfakes-weaponised-to-target-pakistan-s-women-leaders)
+* [2024-12-08, 00:10:07](https://news.ycombinator.com/item?id=42353907) - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)

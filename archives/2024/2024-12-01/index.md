@@ -67,6 +67,7 @@
 * [2024-12-01, 11:29:16](https://news.ycombinator.com/item?id=42287810) - [Why it took a long time to build that tiny link preview on Wikipedia (2018)](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-01, 11:24:43](https://news.ycombinator.com/item?id=42287795) - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
 * [2024-12-01, 11:23:45](https://news.ycombinator.com/item?id=42287792) - [Foams Made Out of Felt](https://blog.tanyakhovanova.com/2024/11/foams-made-out-of-felt/)
+* [2024-12-01, 10:21:39](https://news.ycombinator.com/item?id=42287526) - [Ask HN: What's the one feature you'd want in a GitHub productivity tool?](https://news.ycombinator.com/item?id=42287526)
 * [2024-12-01, 09:53:32](https://news.ycombinator.com/item?id=42287410) - [Smaller Satellite Images](https://tech.marksblogg.com/planet-labs-webp.html)
 * [2024-12-01, 09:37:56](https://news.ycombinator.com/item?id=42287345) - [Statistics, by Freedman, Pisani, and Purves (2017)](http://cadlag.org/posts/a-review-of-freedman-pisani-purves-statistics.html)
 * [2024-12-01, 09:09:35](https://news.ycombinator.com/item?id=42287231) - [Advent of Code 2024](https://adventofcode.com/2024/about)

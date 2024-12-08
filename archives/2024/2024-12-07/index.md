@@ -6,6 +6,7 @@
 
 * [2024-12-07, 23:20:21](https://news.ycombinator.com/item?id=42353635) - [From the Bretton Woods system to global stagnation [pdf]](https://www.paecon.net/PAEReview/issue109/Podkaminer109.pdf)
 * [2024-12-07, 23:02:50](https://news.ycombinator.com/item?id=42353540) - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
+* [2024-12-07, 22:57:16](https://news.ycombinator.com/item?id=42353503) - [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
 * [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-07, 22:36:29](https://news.ycombinator.com/item?id=42353390) - [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
 * [2024-12-07, 22:12:48](https://news.ycombinator.com/item?id=42353273) - [macOS Build Farm for Apache NuttX RTOS (Apple Silicon)](https://lupyuen.github.io/articles/ci5)
