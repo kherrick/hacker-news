@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 11:31:55](https://news.ycombinator.com/item?id=42356548) - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
@@ -11,7 +12,7 @@
 * [2024-12-07, 22:36:35](https://news.ycombinator.com/item?id=42353392) - [Arthur Cravan: The Disappearing Dadaist](https://www.historytoday.com/archive/missing-pieces/arthur-cravan-disappearing-dadaist)
 * [2024-12-07, 22:36:29](https://news.ycombinator.com/item?id=42353390) - [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
 * [2024-12-07, 22:05:15](https://news.ycombinator.com/item?id=42353215) - [Notre Dame Cathedral reopens](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
-* [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [When They Hear Plants Crying, Moths Make a Decision](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
+* [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
@@ -23,7 +24,6 @@
 * [2024-12-04, 23:44:17](https://news.ycombinator.com/item?id=42323284) - [Whose Weil? Simone, Patron Saint of Everyone](https://www.thedriftmag.com/whose-weil/)
 * [2024-12-04, 19:36:18](https://news.ycombinator.com/item?id=42321163) - [Make a \"Magic Eye\" image using Excel](https://divisbyzero.com/2024/11/30/make-a-magic-eye-image-using-excel/)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
-* [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 21:25:31](https://news.ycombinator.com/item?id=42311667) - [A critical history of the FDA](https://www.midwesterndoctor.com/p/the-fdas-war-against-americas-health)
 * [2024-12-03, 09:12:46](https://news.ycombinator.com/item?id=42304321) - [Giga Is ITU and UNICEF's School Connectivity Project](https://spectrum.ieee.org/school-internet-connectivity-globally-giga)
 * [2024-12-02, 18:49:55](https://news.ycombinator.com/item?id=42299089) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
