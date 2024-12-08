@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-08, 20:05:25",
+      "https://news.ycombinator.com/item?id=42359949"
+    ],
+    [
+      "Show HN: A portable hash map in C",
+      "https://github.com/e-dant/salmagundi"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 19:51:55",
+      "https://news.ycombinator.com/item?id=42359836"
+    ],
+    [
+      "UK bans daytime TV ads for cereals, muffins and burgers",
+      "https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 18:47:48",
       "https://news.ycombinator.com/item?id=42359216"
     ],
@@ -17,16 +37,6 @@
     [
       "Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD",
       "https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 17:54:29",
-      "https://news.ycombinator.com/item?id=42358674"
-    ],
-    [
-      "Show HN: Grow Bluesky – A curated collection of the best tools for Bluesky users",
-      "https://www.growbluesky.com/"
     ]
   ],
   [
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-12-08, 15:28:39",
-      "https://news.ycombinator.com/item?id=42357666"
+      "2024-12-08, 14:38:21",
+      "https://news.ycombinator.com/item?id=42357372"
     ],
     [
-      "Ask HN: Does retro computing make you feel younger or older?",
-      "https://news.ycombinator.com/item?id=42357666"
+      "How much do I need to change my face to avoid facial recognition?",
+      "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42356443"
     ],
     [
-      "Show HN: Cut the crap – remove the AI bullshit from websites",
+      "Show HN: Cut the crap – remove AI bullshit from websites",
       "https://cut-the-crab.streamlit.app/"
     ]
   ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-12-07, 17:11:32",
-      "https://news.ycombinator.com/item?id=42351101"
-    ],
-    [
-      "Just: Just a Command Runner",
-      "https://just.systems/"
-    ]
-  ],
-  [
-    [
       "2024-12-07, 07:21:40",
       "https://news.ycombinator.com/item?id=42347917"
     ],
     [
       "Mise: Dev tools, env vars, task runner",
       "https://github.com/jdx/mise"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 18:07:35",
-      "https://news.ycombinator.com/item?id=42342346"
-    ],
-    [
-      "The largest open-source dataset of car designs, including their aerodynamics",
-      "https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=42305006"
     ],
     [
-      "Chuck E. Cheese's Animatronics Band Bows Out",
+      "Chuck E. Cheese's animatronics band bows out",
       "https://spectrum.ieee.org/chuck-e-cheese-animatronics"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=42304493"
     ],
     [
-      "My Biggest Project So Far",
+      "Codenames App, or my biggest project so far",
       "https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 18:49:55",
+      "https://news.ycombinator.com/item?id=42299089"
+    ],
+    [
+      "How do I pay the publisher of a web page?",
+      "https://sethmlarson.dev/how-to-i-pay-for-a-web-page"
     ]
   ],
   [
