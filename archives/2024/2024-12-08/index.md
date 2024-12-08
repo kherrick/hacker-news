@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 02:58:06](https://news.ycombinator.com/item?id=42354705) - [Honda's award winning commercial \"Cogs\" [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
 * [2024-12-08, 02:50:18](https://news.ycombinator.com/item?id=42354668) - [Assad Has Left Damascus](https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
+* [2024-12-08, 02:32:26](https://news.ycombinator.com/item?id=42354580) - [Airline informant received thousands from passenger cash seizures](https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/)
 * [2024-12-08, 01:14:19](https://news.ycombinator.com/item?id=42354201) - [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
 * [2024-12-08, 01:01:27](https://news.ycombinator.com/item?id=42354152) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
 * [2024-12-08, 00:28:08](https://news.ycombinator.com/item?id=42354001) - [Arctic uses a fan to cool another fan](https://www.tomshardware.com/pc-components/case-fans/arctic-uses-a-fan-to-cool-another-fan-s12038-4k-120mm-fan-adds-an-extra-fan-in-its-center-to-cool-its-central-shaft)
