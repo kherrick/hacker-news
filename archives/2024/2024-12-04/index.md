@@ -17,6 +17,7 @@
 * [2024-12-04, 17:55:24](https://news.ycombinator.com/item?id=42320032) - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
 * [2024-12-04, 17:52:58](https://news.ycombinator.com/item?id=42319997) - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-04, 17:50:50](https://news.ycombinator.com/item?id=42319969) - [AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/)
+* [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-04, 17:18:18](https://news.ycombinator.com/item?id=42319601) - [Show HN: Amurex – A cursor like copilot for meetings but also open source](https://github.com/thepersonalaicompany/amurex)
 * [2024-12-04, 17:10:41](https://news.ycombinator.com/item?id=42319526) - [Introducing Qodo Cover: Automate Test Coverage](https://www.qodo.ai/blog/automate-test-coverage-introducing-qodo-cover/)
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
