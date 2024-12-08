@@ -40,6 +40,7 @@
 * [2024-12-01, 17:05:16](https://news.ycombinator.com/item?id=42289368) - [December Adventure (Advent of Code alternative)](https://eli.li/december-adventure)
 * [2024-12-01, 17:00:49](https://news.ycombinator.com/item?id=42289345) - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 * [2024-12-01, 16:54:26](https://news.ycombinator.com/item?id=42289310) - [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+* [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers Use AI to Turn Sound Recordings into Accurate Street Images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 * [2024-12-01, 16:23:11](https://news.ycombinator.com/item?id=42289143) - [Show HN: Open-source widget to embed OpenAI Assistant on your website](https://github.com/widgetplatform/widget-oa)
 * [2024-12-01, 16:15:04](https://news.ycombinator.com/item?id=42289109) - [Show HN: Vicinity – Fast, Lightweight Nearest Neighbors with Flexible Back Ends](https://github.com/MinishLab/vicinity)
 * [2024-12-01, 16:13:21](https://news.ycombinator.com/item?id=42289097) - [First new asthma attack treatment in 50 years](https://www.bbc.com/news/articles/cev93777g79o)
