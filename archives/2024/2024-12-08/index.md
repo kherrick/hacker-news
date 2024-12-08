@@ -6,6 +6,7 @@
 
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 19:51:55](https://news.ycombinator.com/item?id=42359836) - [UK bans daytime TV ads for cereals, muffins and burgers](https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers)
+* [2024-12-08, 19:18:26](https://news.ycombinator.com/item?id=42359571) - [I spent 2 years rebuilding my trading platform in Rust. I have no regrets](https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205)
 * [2024-12-08, 18:47:48](https://news.ycombinator.com/item?id=42359216) - [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
 * [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)

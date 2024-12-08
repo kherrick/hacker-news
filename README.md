@@ -2,6 +2,7 @@
 
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 19:51:55](https://news.ycombinator.com/item?id=42359836) - [UK bans daytime TV ads for cereals, muffins and burgers](https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers)
+* [2024-12-08, 19:18:26](https://news.ycombinator.com/item?id=42359571) - [I spent 2 years rebuilding my trading platform in Rust. I have no regrets](https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205)
 * [2024-12-08, 18:47:48](https://news.ycombinator.com/item?id=42359216) - [Taxpayers spend 22% more per patient to support Medicare Advantage](https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
 * [2024-12-08, 17:31:49](https://news.ycombinator.com/item?id=42358494) - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
@@ -23,7 +24,6 @@
 * [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
-* [2024-12-04, 23:44:17](https://news.ycombinator.com/item?id=42323284) - [Whose Weil? Simone, Patron Saint of Everyone](https://www.thedriftmag.com/whose-weil/)
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
 * [2024-12-03, 09:43:43](https://news.ycombinator.com/item?id=42304493) - [Codenames App, or my biggest project so far](https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far)
