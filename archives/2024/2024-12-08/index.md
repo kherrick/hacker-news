@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 21:04:01](https://news.ycombinator.com/item?id=42360428) - [She had 20 stab wounds; police ruled suicide](https://www.cnn.com/interactive/2024/12/us/ellen-greenberg-death-philadelphia-cec-cnnphotos/)
 * [2024-12-08, 21:02:55](https://news.ycombinator.com/item?id=42360415) - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
 * [2024-12-08, 21:00:14](https://news.ycombinator.com/item?id=42360390) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:13:08](https://news.ycombinator.com/item?id=42360008) - [The Rules of Programming](https://www.therulesofprogramming.com)

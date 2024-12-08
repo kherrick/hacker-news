@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 21:04:01](https://news.ycombinator.com/item?id=42360428) - [She had 20 stab wounds; police ruled suicide](https://www.cnn.com/interactive/2024/12/us/ellen-greenberg-death-philadelphia-cec-cnnphotos/)
 * [2024-12-08, 21:02:55](https://news.ycombinator.com/item?id=42360415) - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
 * [2024-12-08, 21:00:14](https://news.ycombinator.com/item?id=42360390) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:13:08](https://news.ycombinator.com/item?id=42360008) - [The Rules of Programming](https://www.therulesofprogramming.com)
@@ -28,7 +29,6 @@
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
 * [2024-12-03, 09:43:43](https://news.ycombinator.com/item?id=42304493) - [Codenames App, or my biggest project so far](https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far)
 * [2024-12-02, 18:49:55](https://news.ycombinator.com/item?id=42299089) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
-* [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 
 ## [Archives](archives/index.md)
