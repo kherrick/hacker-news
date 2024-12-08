@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
 * [2024-12-08, 15:59:00](https://news.ycombinator.com/item?id=42357836) - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
 * [2024-12-08, 15:51:41](https://news.ycombinator.com/item?id=42357787) - [China Completes Green Belt Around Taklamakan Desert](https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/)
 * [2024-12-08, 15:29:43](https://news.ycombinator.com/item?id=42357669) - [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 13:47:54](https://news.ycombinator.com/item?id=42357115) - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
-* [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
 * [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 10:38:03](https://news.ycombinator.com/item?id=42356360) - [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
 * [2024-12-08, 15:59:00](https://news.ycombinator.com/item?id=42357836) - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
 * [2024-12-08, 15:51:41](https://news.ycombinator.com/item?id=42357787) - [China Completes Green Belt Around Taklamakan Desert](https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/)
 * [2024-12-08, 15:29:43](https://news.ycombinator.com/item?id=42357669) - [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
