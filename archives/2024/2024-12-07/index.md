@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 23:20:21](https://news.ycombinator.com/item?id=42353635) - [From the Bretton Woods system to global stagnation [pdf]](https://www.paecon.net/PAEReview/issue109/Podkaminer109.pdf)
 * [2024-12-07, 23:02:50](https://news.ycombinator.com/item?id=42353540) - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
 * [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
+* [2024-12-07, 22:36:29](https://news.ycombinator.com/item?id=42353390) - [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
 * [2024-12-07, 22:12:48](https://news.ycombinator.com/item?id=42353273) - [macOS Build Farm for Apache NuttX RTOS (Apple Silicon)](https://lupyuen.github.io/articles/ci5)
+* [2024-12-07, 22:05:15](https://news.ycombinator.com/item?id=42353215) - [The famed Notre Dame Cathedral in Paris reopens to great fanfare](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
 * [2024-12-07, 21:27:36](https://news.ycombinator.com/item?id=42352983) - [US Food and Drug Administration moves to ban red food dye](https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
 * [2024-12-07, 20:47:06](https://news.ycombinator.com/item?id=42352756) - [\"Eat What You Kill\"](https://www.propublica.org/article/thomas-weiner-montana-st-peters-hospital-oncology)

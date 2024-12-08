@@ -53,6 +53,7 @@
 * [2024-12-02, 08:33:47](https://news.ycombinator.com/item?id=42294284) - [Exploring PHP Lazy Objects: A Practical Implementation](https://dailyrefactor.com/exploring-php-lazy-objects-practical-implementation)
 * [2024-12-02, 08:18:37](https://news.ycombinator.com/item?id=42294205) - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
 * [2024-12-02, 07:41:12](https://news.ycombinator.com/item?id=42293969) - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+* [2024-12-02, 07:35:39](https://news.ycombinator.com/item?id=42293937) - [PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2024-12-02, 07:07:24](https://news.ycombinator.com/item?id=42293832) - [The Beautiful Math of Bloom Filters](https://nyadgar.com/posts/the-beautiful-math-of-bloom-filters/)
 * [2024-12-02, 06:53:40](https://news.ycombinator.com/item?id=42293771) - [Meta built large-scale cryptographic monitoring](https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/)
 * [2024-12-02, 06:40:53](https://news.ycombinator.com/item?id=42293723) - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
