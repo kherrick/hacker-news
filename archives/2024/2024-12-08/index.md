@@ -8,6 +8,7 @@
 * [2024-12-08, 18:19:40](https://news.ycombinator.com/item?id=42358909) - [Ask HN: Is NPM Having an Outage?](https://news.ycombinator.com/item?id=42358909)
 * [2024-12-08, 17:58:33](https://news.ycombinator.com/item?id=42358701) - [Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD](https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd)
 * [2024-12-08, 17:57:52](https://news.ycombinator.com/item?id=42358697) - [Tokyo University Used \"Tiananmen Square\" Keyword to Block Chinese Admissions](https://unseen-japan.com/tokyo-university-chinese-students-tiananmen/)
+* [2024-12-08, 17:54:29](https://news.ycombinator.com/item?id=42358674) - [Show HN: Grow Bluesky – A curated collection of the best tools for Bluesky users](https://www.growbluesky.com/)
 * [2024-12-08, 17:31:49](https://news.ycombinator.com/item?id=42358494) - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
 * [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 * [2024-12-08, 17:17:53](https://news.ycombinator.com/item?id=42358388) - [Unless my phone can be a PC, I don't want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
