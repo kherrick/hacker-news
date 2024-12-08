@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
+* [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 * [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
 * [2024-12-08, 15:59:00](https://news.ycombinator.com/item?id=42357836) - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
 * [2024-12-08, 15:51:41](https://news.ycombinator.com/item?id=42357787) - [China Completes Green Belt Around Taklamakan Desert](https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/)
 * [2024-12-08, 15:29:43](https://news.ycombinator.com/item?id=42357669) - [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
+* [2024-12-08, 15:28:39](https://news.ycombinator.com/item?id=42357666) - [Ask HN: Does retro computing make you feel younger or older?](https://news.ycombinator.com/item?id=42357666)
 * [2024-12-08, 15:27:49](https://news.ycombinator.com/item?id=42357663) - [\"Paycheck-to-paycheck\" and five other popular myths](https://www.noahpinion.blog/p/paycheck-to-paycheck-and-five-other)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 13:47:54](https://news.ycombinator.com/item?id=42357115) - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
