@@ -15,6 +15,7 @@
 * [2024-12-03, 21:47:08](https://news.ycombinator.com/item?id=42311912) - [The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright](https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/)
 * [2024-12-03, 21:38:46](https://news.ycombinator.com/item?id=42311828) - [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
 * [2024-12-03, 21:33:12](https://news.ycombinator.com/item?id=42311764) - [Against 'Free Market Authoritarianism'](https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/)
+* [2024-12-03, 21:25:31](https://news.ycombinator.com/item?id=42311667) - [A critical history of the FDA](https://www.midwesterndoctor.com/p/the-fdas-war-against-americas-health)
 * [2024-12-03, 21:00:04](https://news.ycombinator.com/item?id=42311349) - [Openlayer (YC S21) is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 * [2024-12-03, 20:38:23](https://news.ycombinator.com/item?id=42311069) - [Egoless Engineering](https://egoless.engineering)
 * [2024-12-03, 20:35:24](https://news.ycombinator.com/item?id=42311031) - [Show HN: My C compiler compiled itself](https://github.com/keyvank/30cc)
