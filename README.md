@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
+* [2024-12-07, 23:02:50](https://news.ycombinator.com/item?id=42353540) - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
-* [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
+* [2024-12-07, 20:47:06](https://news.ycombinator.com/item?id=42352756) - [\"Eat What You Kill\"](https://www.propublica.org/article/thomas-weiner-montana-st-peters-hospital-oncology)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)

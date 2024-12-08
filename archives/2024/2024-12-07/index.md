@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 23:02:50](https://news.ycombinator.com/item?id=42353540) - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
 * [2024-12-07, 22:52:03](https://news.ycombinator.com/item?id=42353473) - [Lobsters Blocks Brave Browser for Scammy Behavior](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-07, 22:12:48](https://news.ycombinator.com/item?id=42353273) - [macOS Build Farm for Apache NuttX RTOS (Apple Silicon)](https://lupyuen.github.io/articles/ci5)
 * [2024-12-07, 21:27:36](https://news.ycombinator.com/item?id=42352983) - [US Food and Drug Administration moves to ban red food dye](https://www.theguardian.com/world/2024/dec/07/fda-moves-to-ban-red-food-dye)
 * [2024-12-07, 21:00:24](https://news.ycombinator.com/item?id=42352825) - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
+* [2024-12-07, 20:47:06](https://news.ycombinator.com/item?id=42352756) - [\"Eat What You Kill\"](https://www.propublica.org/article/thomas-weiner-montana-st-peters-hospital-oncology)
 * [2024-12-07, 20:35:06](https://news.ycombinator.com/item?id=42352682) - [Five of the best science fiction books of 2024](https://www.theguardian.com/books/2024/dec/02/five-of-the-best-science-fiction-books-of-2024)
 * [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 * [2024-12-07, 19:53:54](https://news.ycombinator.com/item?id=42352371) - [Raspberry Pi 5 now supports Valve's Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
