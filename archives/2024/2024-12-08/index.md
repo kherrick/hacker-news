@@ -9,6 +9,7 @@
 * [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
 * [2024-12-08, 15:59:00](https://news.ycombinator.com/item?id=42357836) - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
 * [2024-12-08, 15:51:41](https://news.ycombinator.com/item?id=42357787) - [China Completes Green Belt Around Taklamakan Desert](https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/)
+* [2024-12-08, 15:39:29](https://news.ycombinator.com/item?id=42357720) - [UnitedHealth's Effort to Deny Coverage for a Patient's Care](https://www.propublica.org/article/unitedhealth-healthcare-insurance-denial-ulcerative-colitis)
 * [2024-12-08, 15:29:43](https://news.ycombinator.com/item?id=42357669) - [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
 * [2024-12-08, 15:28:39](https://news.ycombinator.com/item?id=42357666) - [Ask HN: Does retro computing make you feel younger or older?](https://news.ycombinator.com/item?id=42357666)
 * [2024-12-08, 15:27:49](https://news.ycombinator.com/item?id=42357663) - [\"Paycheck-to-paycheck\" and five other popular myths](https://www.noahpinion.blog/p/paycheck-to-paycheck-and-five-other)
