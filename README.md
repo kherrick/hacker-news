@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
@@ -15,7 +16,6 @@
 * [2024-12-07, 22:05:15](https://news.ycombinator.com/item?id=42353215) - [Notre Dame Cathedral reopens](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 15:36:42](https://news.ycombinator.com/item?id=42350425) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
-* [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
