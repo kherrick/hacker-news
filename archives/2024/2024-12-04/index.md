@@ -48,6 +48,7 @@
 * [2024-12-04, 13:16:29](https://news.ycombinator.com/item?id=42317120) - [S3 Tables](https://meltware.com/2024/12/04/s3-tables.html)
 * [2024-12-04, 13:02:34](https://news.ycombinator.com/item?id=42317030) - [I developed Dynamic QR code generator with analytics](https://989tools.com/qr-code-generator)
 * [2024-12-04, 12:46:00](https://news.ycombinator.com/item?id=42316902) - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
+* [2024-12-04, 12:44:08](https://news.ycombinator.com/item?id=42316885) - [A Visual Guide to the Aztec Pantheon (2022)](https://pudding.cool/2022/06/aztec-gods/)
 * [2024-12-04, 12:31:51](https://news.ycombinator.com/item?id=42316799) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 12:21:12](https://news.ycombinator.com/item?id=42316729) - [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
