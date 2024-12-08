@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 13:46:26](https://news.ycombinator.com/item?id=42357106) - [Monkeys Can Predict Election Outcomes](https://www.stevestewartwilliams.com/p/monkeys-can-predict-election-outcomes)
 * [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
 * [2024-12-08, 12:33:03](https://news.ycombinator.com/item?id=42356764) - [The tech bosses who poured $394.1M into US election](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence)
