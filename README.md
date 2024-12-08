@@ -8,6 +8,7 @@
 * [2024-12-08, 15:28:39](https://news.ycombinator.com/item?id=42357666) - [Ask HN: Does retro computing make you feel younger or older?](https://news.ycombinator.com/item?id=42357666)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 13:47:54](https://news.ycombinator.com/item?id=42357115) - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
+* [2024-12-08, 12:47:10](https://news.ycombinator.com/item?id=42356814) - [Don't Block the Event Loop (Or the Worker Pool) in JavaScript](https://github.com/rowsana/Not-blocking-event-loop)
 * [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 10:38:03](https://news.ycombinator.com/item?id=42356360) - [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)
@@ -28,7 +29,6 @@
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-02, 07:35:39](https://news.ycombinator.com/item?id=42293937) - [PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
-* [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers Use AI to Turn Sound Recordings into Accurate Street Images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 
 ## [Archives](archives/index.md)

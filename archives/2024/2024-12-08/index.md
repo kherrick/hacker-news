@@ -18,6 +18,7 @@
 * [2024-12-08, 13:47:54](https://news.ycombinator.com/item?id=42357115) - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
 * [2024-12-08, 13:46:26](https://news.ycombinator.com/item?id=42357106) - [Monkeys Can Predict Election Outcomes](https://www.stevestewartwilliams.com/p/monkeys-can-predict-election-outcomes)
 * [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
+* [2024-12-08, 12:47:10](https://news.ycombinator.com/item?id=42356814) - [Don't Block the Event Loop (Or the Worker Pool) in JavaScript](https://github.com/rowsana/Not-blocking-event-loop)
 * [2024-12-08, 12:33:03](https://news.ycombinator.com/item?id=42356764) - [The tech bosses who poured $394.1M into US election](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence)
 * [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 11:31:55](https://news.ycombinator.com/item?id=42356548) - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
