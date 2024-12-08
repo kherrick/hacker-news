@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
 * [2024-12-08, 13:46:26](https://news.ycombinator.com/item?id=42357106) - [Monkeys Can Predict Election Outcomes](https://www.stevestewartwilliams.com/p/monkeys-can-predict-election-outcomes)
+* [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
+* [2024-12-08, 12:33:03](https://news.ycombinator.com/item?id=42356764) - [The tech bosses who poured $394.1M into US election](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence)
+* [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 11:31:55](https://news.ycombinator.com/item?id=42356548) - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
