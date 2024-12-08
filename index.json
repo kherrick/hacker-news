@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-08, 17:58:33",
+      "https://news.ycombinator.com/item?id=42358701"
+    ],
+    [
+      "Linux EFI Zboot Abandoning \"Compression Library Museum\", Focusing on Gzip, ZSTD",
+      "https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 17:57:52",
       "https://news.ycombinator.com/item?id=42358697"
     ],
@@ -37,16 +47,6 @@
     [
       "SQLite changed temp file prefix after McAfee users called devs to complain",
       "https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 17:17:53",
-      "https://news.ycombinator.com/item?id=42358388"
-    ],
-    [
-      "Unless my phone can be a PC, I don't want to keep paying for extra performance",
-      "https://www.androidauthority.com/phone-pc-performance-3504716/"
     ]
   ],
   [
