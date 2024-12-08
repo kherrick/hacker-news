@@ -6,6 +6,7 @@
 
 * [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
 * [2024-12-08, 08:41:41](https://news.ycombinator.com/item?id=42355886) - [The New Product Liability Directive](https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en)
+* [2024-12-08, 08:16:20](https://news.ycombinator.com/item?id=42355790) - [The UC Berkeley Project That Is the AI Industry's Obsession](https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3)
 * [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
 * [2024-12-08, 06:28:04](https://news.ycombinator.com/item?id=42355364) - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 * [2024-12-08, 05:47:18](https://news.ycombinator.com/item?id=42355234) - [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)

@@ -68,6 +68,7 @@
 * [2024-12-03, 09:42:02](https://news.ycombinator.com/item?id=42304481) - [SpiderBasic](https://www.spiderbasic.com/)
 * [2024-12-03, 09:28:14](https://news.ycombinator.com/item?id=42304415) - [Grifters, Believers, Grinders, and Coasters](https://www.seangoedecke.com/programmer-archetypes/)
 * [2024-12-03, 09:18:03](https://news.ycombinator.com/item?id=42304354) - [An EPYC Exclusive for Azure: AMD's MI300C – By George Cozma](https://chipsandcheese.com/p/an-epyc-exclusive-for-azure-amds)
+* [2024-12-03, 09:12:46](https://news.ycombinator.com/item?id=42304321) - [Giga Is ITU and UNICEF's School Connectivity Project](https://spectrum.ieee.org/school-internet-connectivity-globally-giga)
 * [2024-12-03, 08:42:25](https://news.ycombinator.com/item?id=42304161) - [Jaguar Introduces Type 00](https://www.jaguar.com/copy-nothing/jaguar-type-00.html)
 * [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 * [2024-12-03, 07:34:47](https://news.ycombinator.com/item?id=42303798) - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)

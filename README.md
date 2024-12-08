@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
-* [2024-12-08, 08:41:41](https://news.ycombinator.com/item?id=42355886) - [The New Product Liability Directive](https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en)
-* [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
+* [2024-12-08, 08:16:20](https://news.ycombinator.com/item?id=42355790) - [The UC Berkeley Project That Is the AI Industry's Obsession](https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3)
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
-* [2024-12-08, 04:48:43](https://news.ycombinator.com/item?id=42355076) - [Hacker.txt (1993)](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
@@ -27,8 +25,10 @@
 * [2024-12-04, 17:35:57](https://news.ycombinator.com/item?id=42319798) - [Flappy Bird in 1000 lines of C](https://github.com/alxyng/flappybird)
 * [2024-12-03, 22:45:05](https://news.ycombinator.com/item?id=42312469) - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 * [2024-12-03, 21:25:31](https://news.ycombinator.com/item?id=42311667) - [A critical history of the FDA](https://www.midwesterndoctor.com/p/the-fdas-war-against-americas-health)
+* [2024-12-03, 09:12:46](https://news.ycombinator.com/item?id=42304321) - [Giga Is ITU and UNICEF's School Connectivity Project](https://spectrum.ieee.org/school-internet-connectivity-globally-giga)
 * [2024-12-02, 07:35:39](https://news.ycombinator.com/item?id=42293937) - [PostgreSQL High Availability Solutions – Part 1: Jepsen Test and Patroni](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2024-12-01, 20:53:44](https://news.ycombinator.com/item?id=42290663) - [Hiroshi Nagai: Japan's Sun-Drenched Americana](https://www.tokyocowboy.co/articles/uy1r8j003qdvb4ozr4qgplhd3yujyn)
+* [2024-11-30, 12:29:25](https://news.ycombinator.com/item?id=42281193) - [Accessing a DRM Framebuffer to display an image](https://embear.ch/blog/drm-framebuffer)
 * [2024-11-29, 11:49:56](https://news.ycombinator.com/item?id=42273193) - [Unique killer whale pod may have acquired special skills to hunt whale sharks](https://phys.org/news/2024-11-unique-killer-whale-pod-special.html)
 
 ## [Archives](archives/index.md)
