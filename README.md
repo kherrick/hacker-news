@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-08, 08:35:14](https://news.ycombinator.com/item?id=42355874) - [Show HN: Run10K Trainer – Personalized Training Running Plans for Your 10K Race](https://www.run10ktrainer.com/)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
@@ -8,6 +7,7 @@
 * [2024-12-08, 00:16:21](https://news.ycombinator.com/item?id=42353944) - [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 * [2024-12-08, 00:10:07](https://news.ycombinator.com/item?id=42353907) - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
 * [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+* [2024-12-07, 23:07:01](https://news.ycombinator.com/item?id=42353560) - [Show HN: AirFry.Pro – The best popular and healthy recipes for your air fryer](https://airfry.pro)
 * [2024-12-07, 22:57:16](https://news.ycombinator.com/item?id=42353503) - [My4th Light – Custom 8-Bit Forth CPU](http://mynor.org/my4th_xs.htm)
 * [2024-12-07, 22:36:29](https://news.ycombinator.com/item?id=42353390) - [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
 * [2024-12-07, 22:05:15](https://news.ycombinator.com/item?id=42353215) - [Notre Dame Cathedral reopens](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
