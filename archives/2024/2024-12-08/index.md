@@ -13,4 +13,5 @@
 * [2024-12-08, 00:16:52](https://news.ycombinator.com/item?id=42353948) - [Landlords Are Using AI to Raise Rents](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519)
 * [2024-12-08, 00:16:21](https://news.ycombinator.com/item?id=42353944) - [Browsing negative content online makes mental health struggles worse](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
 * [2024-12-08, 00:15:13](https://news.ycombinator.com/item?id=42353936) - [Deepfakes weaponised to target Pakistan's women leaders](https://www.france24.com/en/live-news/20241203-deepfakes-weaponised-to-target-pakistan-s-women-leaders)
+* [2024-12-08, 00:13:44](https://news.ycombinator.com/item?id=42353929) - [FDIC's Redacted Pause Letters](https://downloads.ctfassets.net/c5bd0wqjc7v0/6y0GZ2y2LzOZi1gUnCTtxh/55bf6ae9665ca12b9fe7bdfb3ebe746b/-26-1-_Exhibit_A_-_Redacted_Pause_Letters.pdf)
 * [2024-12-08, 00:10:07](https://news.ycombinator.com/item?id=42353907) - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
