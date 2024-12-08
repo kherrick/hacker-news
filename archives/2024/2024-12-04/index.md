@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 23:44:17](https://news.ycombinator.com/item?id=42323284) - [Whose Weil? Simone, Patron Saint of Everyone](https://www.thedriftmag.com/whose-weil/)
 * [2024-12-04, 23:34:39](https://news.ycombinator.com/item?id=42323235) - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
 * [2024-12-04, 23:24:12](https://news.ycombinator.com/item?id=42323158) - [Oracle Files Notice of Appearance for JavaScript Trademark [pdf]](https://deno.com/blog/deno-v-oracle/20241204-notice-of-appearance.pdf)
 * [2024-12-04, 22:58:38](https://news.ycombinator.com/item?id=42322981) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)

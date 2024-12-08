@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
 * [2024-12-08, 08:41:41](https://news.ycombinator.com/item?id=42355886) - [The New Product Liability Directive](https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en)
 * [2024-12-08, 08:35:14](https://news.ycombinator.com/item?id=42355874) - [Show HN: Run10K Trainer – Personalized Training Running Plans for Your 10K Race](https://www.run10ktrainer.com/)
