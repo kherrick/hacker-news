@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
 * [2024-12-08, 21:55:54](https://news.ycombinator.com/item?id=42360963) - [The GPT era is already ending](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
+* [2024-12-08, 21:49:45](https://news.ycombinator.com/item?id=42360898) - [How to Measure Frequency Response of a Speaker at Home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)
 * [2024-12-08, 21:29:05](https://news.ycombinator.com/item?id=42360681) - [JSON5 – JSON for Humans](https://json5.org/)
 * [2024-12-08, 21:04:01](https://news.ycombinator.com/item?id=42360428) - [She had 20 stab wounds; police ruled suicide](https://www.cnn.com/interactive/2024/12/us/ellen-greenberg-death-philadelphia-cec-cnnphotos/)
@@ -26,6 +27,7 @@
 * [2024-12-08, 17:31:49](https://news.ycombinator.com/item?id=42358494) - [Small AI Chip Maker Marvell Now More Valuable Than Intel](https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6)
 * [2024-12-08, 17:29:25](https://news.ycombinator.com/item?id=42358470) - [SQLite changed temp file prefix after McAfee users called devs to complain](https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h)
 * [2024-12-08, 17:17:53](https://news.ycombinator.com/item?id=42358388) - [Unless my phone can be a PC, I don't want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
+* [2024-12-08, 17:15:13](https://news.ycombinator.com/item?id=42358358) - [Replace Philips Hue Automation with Home Assistant's](https://blog.frankel.ch/home-assistant/3/)
 * [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 * [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
