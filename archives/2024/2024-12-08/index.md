@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 21:02:55](https://news.ycombinator.com/item?id=42360415) - [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263)
+* [2024-12-08, 21:00:14](https://news.ycombinator.com/item?id=42360390) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
+* [2024-12-08, 20:13:08](https://news.ycombinator.com/item?id=42360008) - [The Rules of Programming](https://www.therulesofprogramming.com)
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 19:51:55](https://news.ycombinator.com/item?id=42359836) - [UK bans daytime TV ads for cereals, muffins and burgers](https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers)
 * [2024-12-08, 19:18:26](https://news.ycombinator.com/item?id=42359571) - [I spent 2 years rebuilding my trading platform in Rust. I have no regrets](https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205)
