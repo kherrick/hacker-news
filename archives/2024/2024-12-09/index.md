@@ -6,6 +6,7 @@
 
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
+* [2024-12-09, 17:31:11](https://news.ycombinator.com/item?id=42368210) - [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)
 * [2024-12-09, 17:05:57](https://news.ycombinator.com/item?id=42367981) - [Tech companies Palantir and Anduril form fellowship for AI adventures](https://www.theregister.com/2024/12/09/palantir_anduril_alliance/)
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)

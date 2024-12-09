@@ -2,6 +2,7 @@
 
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
+* [2024-12-09, 17:31:11](https://news.ycombinator.com/item?id=42368210) - [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
@@ -18,7 +19,6 @@
 * [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
-* [2024-12-08, 21:29:05](https://news.ycombinator.com/item?id=42360681) - [JSON5 – JSON for Humans](https://json5.org/)
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
