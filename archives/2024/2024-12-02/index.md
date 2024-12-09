@@ -71,5 +71,6 @@
 * [2024-12-02, 01:20:05](https://news.ycombinator.com/item?id=42292170) - [Amazon Workers on Strike from Black Friday to Cyber Monday](https://www.wfxrtv.com/homepage-video/amazon-worker-strike-expected/)
 * [2024-12-02, 01:00:27](https://news.ycombinator.com/item?id=42292067) - [Feds: Tether Has Become a Money Laundering Tool for Mexican Drug Trafficker](https://www.404media.co/tether-has-become-a-massive-money-laundering-tool-for-mexican-drug-traffickers-feds-say/)
 * [2024-12-02, 00:35:57](https://news.ycombinator.com/item?id=42291933) - [Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms](https://www.mayer.cool/writings/pavlovs-half-marathon/index.html)
+* [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
 * [2024-12-02, 00:19:16](https://news.ycombinator.com/item?id=42291833) - [Demystifying Git Submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-12-02, 00:08:38](https://news.ycombinator.com/item?id=42291781) - [When was the famous \"sudo warning\" introduced? (2019)](https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom)
