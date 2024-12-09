@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 14:18:13](https://news.ycombinator.com/item?id=42366443) - [Spying on Student Devices, Schools Aim to Intercept Self-Harm Before It Happens](https://www.nytimes.com/2024/12/09/health/suicide-monitoring-software-schools.html)
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:45:29](https://news.ycombinator.com/item?id=42366230) - [Abusing Git branch names to compromise a PyPI package](https://lwn.net/Articles/1001215/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
@@ -28,7 +29,6 @@
 * [2024-12-03, 06:44:41](https://news.ycombinator.com/item?id=42303552) - [Ask HN: Generative AI Courses for Artists](https://news.ycombinator.com/item?id=42303552)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
-* [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
