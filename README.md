@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 19:13:09](https://news.ycombinator.com/item?id=42369411) - [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
 * [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
-* [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
-* [2024-12-09, 17:31:11](https://news.ycombinator.com/item?id=42368210) - [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)
+* [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [Sora is here](https://openai.com/index/sora-is-here/)
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
