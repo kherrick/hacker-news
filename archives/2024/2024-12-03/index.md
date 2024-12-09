@@ -37,6 +37,7 @@
 * [2024-12-03, 17:17:41](https://news.ycombinator.com/item?id=42308564) - [America Stopped Cooking with Tallow for a Reason](https://www.theatlantic.com/health/archive/2024/12/beef-tallow-kennedy-cooking-fat-seed-oil/680848/)
 * [2024-12-03, 17:01:04](https://news.ycombinator.com/item?id=42308388) - [Stack Auth (YC S24), the open-source Auth0 alternative, is hiring Founding SWEs](https://news.ycombinator.com/item?id=42308388)
 * [2024-12-03, 16:58:31](https://news.ycombinator.com/item?id=42308348) - [FTC Bans Location Data Company That Powers the Surveillance Ecosystem](https://www.404media.co/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem/)
+* [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM Abstraction levels inspired by Fish Eye lens](https://wattenberger.com/thoughts/fish-eye)
 * [2024-12-03, 16:49:32](https://news.ycombinator.com/item?id=42308234) - [My Brand New Digitizing Workflow Using a 25 Year Old Film Scanner](https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/)
 * [2024-12-03, 16:44:30](https://news.ycombinator.com/item?id=42308184) - [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node](https://skia-canvas.org/)

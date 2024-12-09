@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 21:41:07](https://news.ycombinator.com/item?id=42370826) - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
+* [2024-12-09, 21:33:12](https://news.ycombinator.com/item?id=42370744) - [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
 * [2024-12-09, 21:26:55](https://news.ycombinator.com/item?id=42370688) - [Luigi Mangione's arrest canary [video]](https://www.youtube.com/watch?v=bdhs9g3Wwg0)
 * [2024-12-09, 21:17:28](https://news.ycombinator.com/item?id=42370622) - [Software Developer Arrested in Connection with Murder of Healthcare Executive](https://www.bbc.com/news/articles/cp9nxee2r0do)
 * [2024-12-09, 21:08:37](https://news.ycombinator.com/item?id=42370561) - [China's Salt Typhoon recorded top American officials' calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
@@ -14,6 +16,7 @@
 * [2024-12-09, 19:13:09](https://news.ycombinator.com/item?id=42369411) - [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
 * [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 * [2024-12-09, 18:55:24](https://news.ycombinator.com/item?id=42369233) - [God Plays Chess (2018)](https://en.chessbase.com/post/how-god-plays-chess)
+* [2024-12-09, 18:23:11](https://news.ycombinator.com/item?id=42368872) - [Show HN: Ternary Computer System](https://www.ternary-computing.com/history/CPU-History.html)
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [Sora is here](https://openai.com/index/sora-is-here/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
