@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 14:28:44](https://news.ycombinator.com/item?id=42366511) - [AI Does NYT Connections](https://mikehearn.notion.site/155c9175d23480bf9720cba20980f539)
+* [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 14:18:13](https://news.ycombinator.com/item?id=42366443) - [Spying on Student Devices, Schools Aim to Intercept Self-Harm Before It Happens](https://www.nytimes.com/2024/12/09/health/suicide-monitoring-software-schools.html)
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:45:29](https://news.ycombinator.com/item?id=42366230) - [Abusing Git branch names to compromise a PyPI package](https://lwn.net/Articles/1001215/)
