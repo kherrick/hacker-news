@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 11:48:45](https://news.ycombinator.com/item?id=42365295) - [\"Hetzner has decided to cancel our account and terminate all servers.\"](https://mastodon.social/@kiwix/113622081750449356)
 * [2024-12-09, 08:54:52](https://news.ycombinator.com/item?id=42364241) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 and Raspberry Pi Monitor on sale now](https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)

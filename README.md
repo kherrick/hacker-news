@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 11:48:45](https://news.ycombinator.com/item?id=42365295) - [\"Hetzner has decided to cancel our account and terminate all servers.\"](https://mastodon.social/@kiwix/113622081750449356)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
 * [2024-12-09, 07:19:19](https://news.ycombinator.com/item?id=42363727) - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 * [2024-12-09, 05:53:03](https://news.ycombinator.com/item?id=42363374) - [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
@@ -28,7 +29,6 @@
 * [2024-12-03, 09:55:25](https://news.ycombinator.com/item?id=42304556) - [The Smallest Thing in Go](https://bitfieldconsulting.com/posts/iota)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
-* [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
