@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 22:17:43](https://news.ycombinator.com/item?id=42371166) - [Healthcare CEO killer studied computer science at UPenn, founded game dev club](https://www.bbc.com/news/live/crk0ep61p2mt)
 * [2024-12-09, 21:41:07](https://news.ycombinator.com/item?id=42370826) - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
+* [2024-12-09, 21:40:32](https://news.ycombinator.com/item?id=42370818) - [Mystery 'Disease X' outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
 * [2024-12-09, 21:33:12](https://news.ycombinator.com/item?id=42370744) - [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
+* [2024-12-09, 21:29:30](https://news.ycombinator.com/item?id=42370709) - [Xylella Fastidiosa: A Billion-Euro Crisis Brewing in Europe's Olive Groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
 * [2024-12-09, 21:26:55](https://news.ycombinator.com/item?id=42370688) - [Luigi Mangione's arrest canary [video]](https://www.youtube.com/watch?v=bdhs9g3Wwg0)
 * [2024-12-09, 21:17:28](https://news.ycombinator.com/item?id=42370622) - [Software Developer Arrested in Connection with Murder of Healthcare Executive](https://www.bbc.com/news/articles/cp9nxee2r0do)
 * [2024-12-09, 21:08:37](https://news.ycombinator.com/item?id=42370561) - [China's Salt Typhoon recorded top American officials' calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
