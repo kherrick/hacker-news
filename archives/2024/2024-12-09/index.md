@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
 * [2024-12-09, 17:05:57](https://news.ycombinator.com/item?id=42367981) - [Tech companies Palantir and Anduril form fellowship for AI adventures](https://www.theregister.com/2024/12/09/palantir_anduril_alliance/)
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
