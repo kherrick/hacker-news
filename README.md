@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-09, 15:16:47](https://news.ycombinator.com/item?id=42366961) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
+* [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
+* [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
@@ -25,10 +26,9 @@
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
 * [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
+* [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
-* [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
-* [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
