@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-09, 13:12:16",
+      "https://news.ycombinator.com/item?id=42365986"
+    ],
+    [
+      "Inkscape 1.4 – LWN",
+      "https://lwn.net/Articles/991732/"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 12:01:16",
       "https://news.ycombinator.com/item?id=42365380"
     ],
     [
       "Laylo (YC S20) Is Hiring an Account Manager in EU/UK",
       "https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 07:31:48",
+      "https://news.ycombinator.com/item?id=42363782"
+    ],
+    [
+      "Noise Filtering Using €1 Filter (2020)",
+      "https://jaantollander.com/post/noise-filtering-using-one-euro-filter/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-12-08, 18:35:32",
-      "https://news.ycombinator.com/item?id=42359067"
-    ],
-    [
-      "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
-      "https://github.com/singlr-ai/nocaptcha"
-    ]
-  ],
-  [
-    [
       "2024-12-08, 14:38:21",
       "https://news.ycombinator.com/item?id=42357372"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-12-08, 10:34:49",
-      "https://news.ycombinator.com/item?id=42356345"
-    ],
-    [
-      "Zizmor would have caught the Ultralytics workflow vulnerability",
-      "https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection"
-    ]
-  ],
-  [
-    [
       "2024-12-07, 10:16:48",
       "https://news.ycombinator.com/item?id=42348699"
     ],
@@ -187,16 +187,6 @@
     [
       "Mise: Dev tools, env vars, task runner",
       "https://github.com/jdx/mise"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 19:28:40",
-      "https://news.ycombinator.com/item?id=42343324"
-    ],
-    [
-      "The Hexagonal Tiling Honeycomb",
-      "https://arxiv.org/abs/2412.00048"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Efficient Track Anything",
       "https://yformer.github.io/efficient-track-anything/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 06:21:39",
+      "https://news.ycombinator.com/item?id=42303449"
+    ],
+    [
+      "Good union types in Go would probably need types without a zero value",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
     ]
   ],
   [
