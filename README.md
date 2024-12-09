@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-09, 14:34:08](https://news.ycombinator.com/item?id=42366546) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 * [2024-12-09, 12:01:16](https://news.ycombinator.com/item?id=42365380) - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
+* [2024-12-09, 11:36:55](https://news.ycombinator.com/item?id=42365222) - [A liar who always lies says \"All my hats are green.\"](https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle)
 * [2024-12-09, 07:31:48](https://news.ycombinator.com/item?id=42363782) - [Noise Filtering Using €1 Filter (2020)](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
 * [2024-12-09, 07:19:19](https://news.ycombinator.com/item?id=42363727) - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 * [2024-12-09, 05:53:03](https://news.ycombinator.com/item?id=42363374) - [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
@@ -18,7 +18,6 @@
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
-* [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-06, 19:28:40](https://news.ycombinator.com/item?id=42343324) - [The Hexagonal Tiling Honeycomb](https://arxiv.org/abs/2412.00048)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
@@ -29,6 +28,7 @@
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
+* [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
