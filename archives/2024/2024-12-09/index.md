@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 22:36:44](https://news.ycombinator.com/item?id=42371315) - [How Can I Be an AI Engineer?](https://timkellogg.me/blog/2024/12/09/ai-engineer)
+* [2024-12-09, 22:33:46](https://news.ycombinator.com/item?id=42371295) - [Why the powerful may be more likely to cheat](https://phys.org/news/2024-11-powerful-experts-perception-power-faithfulness.html)
 * [2024-12-09, 22:17:43](https://news.ycombinator.com/item?id=42371166) - [Healthcare CEO killer studied computer science at UPenn, founded game dev club](https://www.bbc.com/news/live/crk0ep61p2mt)
 * [2024-12-09, 21:41:07](https://news.ycombinator.com/item?id=42370826) - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
 * [2024-12-09, 21:40:32](https://news.ycombinator.com/item?id=42370818) - [Mystery 'Disease X' outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
