@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-09, 15:16:47",
+      "https://news.ycombinator.com/item?id=42366961"
+    ],
+    [
+      "I can now run a GPT-4 class model on my laptop",
+      "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 14:23:31",
       "https://news.ycombinator.com/item?id=42366481"
     ],
@@ -187,16 +197,6 @@
     [
       "Mise: Dev tools, env vars, task runner",
       "https://github.com/jdx/mise"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 19:28:40",
-      "https://news.ycombinator.com/item?id=42343324"
-    ],
-    [
-      "The Hexagonal Tiling Honeycomb",
-      "https://arxiv.org/abs/2412.00048"
     ]
   ],
   [
