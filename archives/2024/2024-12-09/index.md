@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
 * [2024-12-09, 17:31:11](https://news.ycombinator.com/item?id=42368210) - [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)

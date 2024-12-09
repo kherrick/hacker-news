@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 * [2024-12-09, 18:15:00](https://news.ycombinator.com/item?id=42368784) - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [OpenAI: Sora](https://sora.com/)
 * [2024-12-09, 17:31:11](https://news.ycombinator.com/item?id=42368210) - [Show HN: I used ChatGPT and Blender to combine 150 WW2 movies chronologically](https://ww2supercut.substack.com/p/combining-143-world-war-ii-movies)
@@ -24,7 +25,6 @@
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
-* [2024-12-04, 03:06:32](https://news.ycombinator.com/item?id=42314156) - [Bringing the Instructions to the Data](https://mattpo.pe/posts/sql-llvm/)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
 * [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
