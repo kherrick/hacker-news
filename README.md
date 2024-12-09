@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 17:05:57](https://news.ycombinator.com/item?id=42367981) - [Tech companies Palantir and Anduril form fellowship for AI adventures](https://www.theregister.com/2024/12/09/palantir_anduril_alliance/)
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
@@ -21,7 +22,6 @@
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
-* [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 03:06:32](https://news.ycombinator.com/item?id=42314156) - [Bringing the Instructions to the Data](https://mattpo.pe/posts/sql-llvm/)
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
