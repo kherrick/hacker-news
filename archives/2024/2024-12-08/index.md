@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 23:56:44](https://news.ycombinator.com/item?id=42361825) - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
+* [2024-12-08, 23:49:26](https://news.ycombinator.com/item?id=42361793) - [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
+* [2024-12-08, 23:02:29](https://news.ycombinator.com/item?id=42361503) - [Broward Co. to vacate convictions for buying crack made by Sheriff's Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
+* [2024-12-08, 22:31:26](https://news.ycombinator.com/item?id=42361299) - [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
 * [2024-12-08, 21:55:54](https://news.ycombinator.com/item?id=42360963) - [The GPT era is already ending](https://www.theatlantic.com/technology/archive/2024/12/openai-o1-reasoning-models/680906/)
 * [2024-12-08, 21:49:45](https://news.ycombinator.com/item?id=42360898) - [How to Measure Frequency Response of a Speaker at Home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 Days of a Failed Hobby Data Science Project](https://lellep.xyz/blog/failed-data-science-project.html)

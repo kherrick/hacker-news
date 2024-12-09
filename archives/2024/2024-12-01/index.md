@@ -50,6 +50,7 @@
 * [2024-12-01, 15:42:04](https://news.ycombinator.com/item?id=42288948) - [America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2024-12-01, 15:34:42](https://news.ycombinator.com/item?id=42288906) - [Wrote a custom libc for POSIX and x86-64](https://github.com/elricmann/vlibc)
 * [2024-12-01, 15:26:00](https://news.ycombinator.com/item?id=42288864) - ['Maya blue': The mystery dye recreated two centuries after it was lost](https://www.aljazeera.com/features/2024/12/1/maya-blue-the-mystery-dye-recreated-two-centuries-after-it-was-lost)
+* [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
 * [2024-12-01, 13:59:39](https://news.ycombinator.com/item?id=42288483) - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
 * [2024-12-01, 13:52:29](https://news.ycombinator.com/item?id=42288458) - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
 * [2024-12-01, 13:49:00](https://news.ycombinator.com/item?id=42288449) - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
