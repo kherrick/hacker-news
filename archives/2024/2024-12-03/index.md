@@ -77,6 +77,7 @@
 * [2024-12-03, 07:54:45](https://news.ycombinator.com/item?id=42303903) - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
 * [2024-12-03, 07:34:47](https://news.ycombinator.com/item?id=42303798) - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
 * [2024-12-03, 07:00:10](https://news.ycombinator.com/item?id=42303636) - [Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs)
+* [2024-12-03, 06:44:41](https://news.ycombinator.com/item?id=42303552) - [Ask HN: Generative AI Courses for Artists](https://news.ycombinator.com/item?id=42303552)
 * [2024-12-03, 06:39:52](https://news.ycombinator.com/item?id=42303530) - [Landlords Are Using AI to Raise Rents – and Cities Are Starting to Push Back](https://themarkup.org/locked-out/2024/12/02/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back)
 * [2024-12-03, 06:21:39](https://news.ycombinator.com/item?id=42303449) - [Good union types in Go would probably need types without a zero value](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues)
 * [2024-12-03, 06:03:36](https://news.ycombinator.com/item?id=42303385) - [NCSI Probing Needs to Die](https://github.com/stryngs/edgedressing/tree/main/payloads/duster)

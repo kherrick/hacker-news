@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+* [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 13:12:16](https://news.ycombinator.com/item?id=42365986) - [Inkscape 1.4 – LWN](https://lwn.net/Articles/991732/)
+* [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 * [2024-12-09, 12:01:16](https://news.ycombinator.com/item?id=42365380) - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
 * [2024-12-09, 11:48:45](https://news.ycombinator.com/item?id=42365295) - [\"Hetzner has decided to cancel our account and terminate all servers.\"](https://mastodon.social/@kiwix/113622081750449356)
 * [2024-12-09, 11:36:55](https://news.ycombinator.com/item?id=42365222) - [A liar who always lies says \"All my hats are green.\"](https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle)
