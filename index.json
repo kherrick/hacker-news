@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-09, 21:26:55",
-      "https://news.ycombinator.com/item?id=42370688"
-    ],
-    [
-      "Luigi Mangione's arrest canary [video]",
-      "https://www.youtube.com/watch?v=bdhs9g3Wwg0"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 21:17:28",
       "https://news.ycombinator.com/item?id=42370622"
     ],
@@ -227,6 +217,16 @@
     [
       "1,600 days of a failed hobby data science project",
       "https://lellep.xyz/blog/failed-data-science-project.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 20:05:25",
+      "https://news.ycombinator.com/item?id=42359949"
+    ],
+    [
+      "Show HN: A portable hash map in C",
+      "https://github.com/e-dant/salmagundi"
     ]
   ],
   [
