@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 13:12:16](https://news.ycombinator.com/item?id=42365986) - [Inkscape 1.4 – LWN](https://lwn.net/Articles/991732/)
 * [2024-12-09, 12:01:16](https://news.ycombinator.com/item?id=42365380) - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
 * [2024-12-09, 11:48:45](https://news.ycombinator.com/item?id=42365295) - [\"Hetzner has decided to cancel our account and terminate all servers.\"](https://mastodon.social/@kiwix/113622081750449356)
 * [2024-12-09, 11:36:55](https://news.ycombinator.com/item?id=42365222) - [A liar who always lies says \"All my hats are green.\"](https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle)
@@ -11,6 +12,7 @@
 * [2024-12-09, 08:54:52](https://news.ycombinator.com/item?id=42364241) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 and Raspberry Pi Monitor on sale now](https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
+* [2024-12-09, 07:31:48](https://news.ycombinator.com/item?id=42363782) - [Noise Filtering Using €1 Filter (2020)](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
 * [2024-12-09, 07:19:19](https://news.ycombinator.com/item?id=42363727) - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 * [2024-12-09, 06:46:34](https://news.ycombinator.com/item?id=42363592) - [Skype Credit is no longer available](https://www.skype.com/en/credit/)
 * [2024-12-09, 05:53:03](https://news.ycombinator.com/item?id=42363374) - [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
