@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-09, 13:12:16",
-      "https://news.ycombinator.com/item?id=42365986"
+      "2024-12-09, 13:50:26",
+      "https://news.ycombinator.com/item?id=42366262"
     ],
     [
-      "Inkscape 1.4 – LWN",
-      "https://lwn.net/Articles/991732/"
+      "Kafka's Screwball Tragedy: Investigations of a Philosophical Dog",
+      "https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "CT Scans of New vs. Used SawStop",
       "https://www.lumafield.com/article/new-vs-used-sawstop"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 23:49:26",
-      "https://news.ycombinator.com/item?id=42361793"
-    ],
-    [
-      "Black Hat Rust",
-      "https://github.com/skerkour/black-hat-rust"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-12-08, 18:35:32",
+      "https://news.ycombinator.com/item?id=42359067"
+    ],
+    [
+      "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
+      "https://github.com/singlr-ai/nocaptcha"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 14:38:21",
       "https://news.ycombinator.com/item?id=42357372"
     ],
@@ -187,6 +187,16 @@
     [
       "Mise: Dev tools, env vars, task runner",
       "https://github.com/jdx/mise"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 19:28:40",
+      "https://news.ycombinator.com/item?id=42343324"
+    ],
+    [
+      "The Hexagonal Tiling Honeycomb",
+      "https://arxiv.org/abs/2412.00048"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Efficient Track Anything",
       "https://yformer.github.io/efficient-track-anything/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 06:21:39",
-      "https://news.ycombinator.com/item?id=42303449"
-    ],
-    [
-      "Good union types in Go would probably need types without a zero value",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
     ]
   ],
   [
