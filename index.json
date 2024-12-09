@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-12-09, 13:17:07",
+      "https://news.ycombinator.com/item?id=42366025"
+    ],
+    [
+      "Himalaya: CLI to Manage Emails",
+      "https://github.com/pimalaya/himalaya"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 12:45:10",
+      "https://news.ycombinator.com/item?id=42365772"
+    ],
+    [
+      "MagiskSSH – SSH server on Android without Termux",
+      "https://gitlab.com/d4rcm4rc/MagiskSSH"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 12:01:16",
       "https://news.ycombinator.com/item?id=42365380"
     ],
@@ -71,22 +91,32 @@
   ],
   [
     [
-      "2024-12-08, 22:31:26",
-      "https://news.ycombinator.com/item?id=42361299"
+      "2024-12-08, 23:26:25",
+      "https://news.ycombinator.com/item?id=42361645"
     ],
     [
-      "Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4",
-      "https://hackerone.com/reports/2887487"
+      "A Woman Appeared on the English Stage on This Day in 1660",
+      "https://www.smithsonianmag.com/smart-news/a-woman-appeared-on-the-english-stage-for-the-first-time-on-this-day-in-1660-transforming-the-world-of-theater-forever-180985557/"
     ]
   ],
   [
     [
-      "2024-12-08, 21:49:45",
-      "https://news.ycombinator.com/item?id=42360898"
+      "2024-12-08, 23:24:35",
+      "https://news.ycombinator.com/item?id=42361630"
     ],
     [
-      "How to measure frequency response of a speaker at home",
-      "https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/"
+      "True Crime: Allan Pinkerton's Thirty Years a Detective (1884)",
+      "https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 22:46:11",
+      "https://news.ycombinator.com/item?id=42361404"
+    ],
+    [
+      "The Theory and Technique of Electronic Music (2006)",
+      "https://msp.ucsd.edu/techniques.htm"
     ]
   ],
   [
@@ -111,42 +141,12 @@
   ],
   [
     [
-      "2024-12-08, 20:13:08",
-      "https://news.ycombinator.com/item?id=42360008"
-    ],
-    [
-      "The Rules of Programming (2023)",
-      "https://www.therulesofprogramming.com"
-    ]
-  ],
-  [
-    [
       "2024-12-08, 20:05:25",
       "https://news.ycombinator.com/item?id=42359949"
     ],
     [
       "Show HN: A portable hash map in C",
       "https://github.com/e-dant/salmagundi"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:00:29",
-      "https://news.ycombinator.com/item?id=42359905"
-    ],
-    [
-      "VictoriaLogs: A Grafana Dashboard for AWS VPC Flow Logs – Migrating from Grafan",
-      "https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 18:35:32",
-      "https://news.ycombinator.com/item?id=42359067"
-    ],
-    [
-      "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
-      "https://github.com/singlr-ai/nocaptcha"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Show HN: Cut the crap – remove AI bullshit from websites",
       "https://cut-the-crab.streamlit.app/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 10:16:48",
-      "https://news.ycombinator.com/item?id=42348699"
-    ],
-    [
-      "Stimulants in Germanic communities of the Roman period",
-      "https://www.degruyter.com/document/doi/10.1515/pz-2024-2017/html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Efficient Track Anything",
       "https://yformer.github.io/efficient-track-anything/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 06:44:41",
+      "https://news.ycombinator.com/item?id=42303552"
+    ],
+    [
+      "Ask HN: Generative AI Courses for Artists",
+      "https://news.ycombinator.com/item?id=42303552"
     ]
   ],
   [
