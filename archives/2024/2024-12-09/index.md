@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 20:43:32](https://news.ycombinator.com/item?id=42370370) - [Mega-buildings are now slowing Earth's spin](https://www.sciencefocus.com/news/human-structures-slowing-earths-spin)
+* [2024-12-09, 20:33:47](https://news.ycombinator.com/item?id=42370277) - [Attribute Extraction from Images Using DSPy](https://www.langtrace.ai/blog/attribute-extraction-from-images-using-dspy)
+* [2024-12-09, 19:33:40](https://news.ycombinator.com/item?id=42369622) - [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
 * [2024-12-09, 19:19:07](https://news.ycombinator.com/item?id=42369476) - [Trellis – 3D mesh generative model](https://trellis3d.github.io/)
 * [2024-12-09, 19:13:09](https://news.ycombinator.com/item?id=42369411) - [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
 * [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
