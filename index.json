@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-09, 18:02:10",
+      "https://news.ycombinator.com/item?id=42368604"
+    ],
+    [
+      "OpenAI: Sora",
+      "https://sora.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 17:05:57",
       "https://news.ycombinator.com/item?id=42367981"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-12-08, 21:29:05",
-      "https://news.ycombinator.com/item?id=42360681"
-    ],
-    [
-      "JSON5 – JSON for Humans",
-      "https://json5.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-08, 20:05:25",
       "https://news.ycombinator.com/item?id=42359949"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-12-03, 22:36:13",
-      "https://news.ycombinator.com/item?id=42312376"
-    ],
-    [
-      "Derivative at a Discontinuity",
-      "https://alok.github.io/2024/09/28/discontinuous-derivative/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 11:18:34",
       "https://news.ycombinator.com/item?id=42305006"
     ],
@@ -257,6 +247,16 @@
     [
       "Efficient Track Anything",
       "https://yformer.github.io/efficient-track-anything/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 09:24:58",
+      "https://news.ycombinator.com/item?id=42304397"
+    ],
+    [
+      "Domains listening to many other domains in Event-Driven Architecture",
+      "https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html"
     ]
   ],
   [
