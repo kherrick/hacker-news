@@ -42,6 +42,7 @@
 * [2024-12-07, 12:44:41](https://news.ycombinator.com/item?id=42349415) - [Top internet sleuths say they won't help find the UnitedHealthcare CEO killer](https://www.nbcnews.com/tech/internet/internet-sleuths-say-wont-help-find-unitedhealthcare-ceo-suspect-rcna183228)
 * [2024-12-07, 12:37:03](https://news.ycombinator.com/item?id=42349382) - [I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 * [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
+* [2024-12-07, 11:40:46](https://news.ycombinator.com/item?id=42349106) - [He Built Apple's 1980s iPad Concept [video]](https://www.youtube.com/watch?v=Grd_a4oi7qU)
 * [2024-12-07, 10:44:19](https://news.ycombinator.com/item?id=42348841) - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 * [2024-12-07, 10:10:39](https://news.ycombinator.com/item?id=42348664) - [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
