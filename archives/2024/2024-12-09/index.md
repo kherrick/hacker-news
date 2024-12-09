@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 21:26:55](https://news.ycombinator.com/item?id=42370688) - [Luigi Mangione's arrest canary [video]](https://www.youtube.com/watch?v=bdhs9g3Wwg0)
+* [2024-12-09, 21:17:28](https://news.ycombinator.com/item?id=42370622) - [Software Developer Arrested in Connection with Murder of Healthcare Executive](https://www.bbc.com/news/articles/cp9nxee2r0do)
 * [2024-12-09, 21:08:37](https://news.ycombinator.com/item?id=42370561) - [China's Salt Typhoon recorded top American officials' calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
 * [2024-12-09, 20:43:32](https://news.ycombinator.com/item?id=42370370) - [Mega-buildings are now slowing Earth's spin](https://www.sciencefocus.com/news/human-structures-slowing-earths-spin)
 * [2024-12-09, 20:33:47](https://news.ycombinator.com/item?id=42370277) - [Attribute Extraction from Images Using DSPy](https://www.langtrace.ai/blog/attribute-extraction-from-images-using-dspy)
