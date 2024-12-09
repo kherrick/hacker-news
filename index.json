@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-12-09, 11:36:55",
-      "https://news.ycombinator.com/item?id=42365222"
-    ],
-    [
-      "A liar who always lies says \"All my hats are green.\"",
-      "https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 10:31:37",
-      "https://news.ycombinator.com/item?id=42364790"
-    ],
-    [
-      "Research Note: Meta's Role in Romania's 2024 Presidential Election",
-      "https://checkfirst.network/research-note-metas-role-in-romanias-2024-presidential-election/"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 07:19:19",
       "https://news.ycombinator.com/item?id=42363727"
     ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-12-08, 18:35:32",
+      "https://news.ycombinator.com/item?id=42359067"
+    ],
+    [
+      "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
+      "https://github.com/singlr-ai/nocaptcha"
+    ]
+  ],
+  [
+    [
       "2024-12-08, 14:38:21",
       "https://news.ycombinator.com/item?id=42357372"
     ],
@@ -167,6 +157,16 @@
     [
       "Show HN: Cut the crap – remove AI bullshit from websites",
       "https://cut-the-crab.streamlit.app/"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 10:34:49",
+      "https://news.ycombinator.com/item?id=42356345"
+    ],
+    [
+      "Zizmor would have caught the Ultralytics workflow vulnerability",
+      "https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-04, 03:06:32",
+      "https://news.ycombinator.com/item?id=42314156"
+    ],
+    [
+      "Bringing the Instructions to the Data",
+      "https://mattpo.pe/posts/sql-llvm/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 22:36:13",
       "https://news.ycombinator.com/item?id=42312376"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera",
       "https://github.com/KopiasCsaba/open_sound_control_bridge"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 03:54:22",
-      "https://news.ycombinator.com/item?id=42292956"
-    ],
-    [
-      "See how a lab-grown diamond is made",
-      "https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/"
     ]
   ],
   [
