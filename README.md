@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 23:38:26](https://news.ycombinator.com/item?id=42371835) - [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
 * [2024-12-09, 22:56:44](https://news.ycombinator.com/item?id=42371481) - [Itch.io: \"This is not a joke, Funko just called my mom\"](https://twitter.com/itchio/status/1866239798924763227)
 * [2024-12-09, 21:41:07](https://news.ycombinator.com/item?id=42370826) - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
 * [2024-12-09, 21:40:32](https://news.ycombinator.com/item?id=42370818) - [Mystery 'Disease X' outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
@@ -22,7 +23,6 @@
 * [2024-12-09, 12:01:16](https://news.ycombinator.com/item?id=42365380) - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
 * [2024-12-09, 07:31:48](https://news.ycombinator.com/item?id=42363782) - [Noise Filtering Using €1 Filter (2020)](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-* [2024-12-08, 23:26:25](https://news.ycombinator.com/item?id=42361645) - [A woman appeared on the English stage on this day in 1660](https://www.smithsonianmag.com/smart-news/a-woman-appeared-on-the-english-stage-for-the-first-time-on-this-day-in-1660-transforming-the-world-of-theater-forever-180985557/)
 * [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)

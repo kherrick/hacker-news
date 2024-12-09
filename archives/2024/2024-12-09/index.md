@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 23:38:26](https://news.ycombinator.com/item?id=42371835) - [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
 * [2024-12-09, 22:56:44](https://news.ycombinator.com/item?id=42371481) - [Itch.io: \"This is not a joke, Funko just called my mom\"](https://twitter.com/itchio/status/1866239798924763227)
 * [2024-12-09, 22:36:44](https://news.ycombinator.com/item?id=42371315) - [How Can I Be an AI Engineer?](https://timkellogg.me/blog/2024/12/09/ai-engineer)
 * [2024-12-09, 22:33:46](https://news.ycombinator.com/item?id=42371295) - [Why the powerful may be more likely to cheat](https://phys.org/news/2024-11-powerful-experts-perception-power-faithfulness.html)
