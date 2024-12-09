@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+* [2024-12-09, 03:59:20](https://news.ycombinator.com/item?id=42362970) - [Lethal Dose of 55 Substances](https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html)
 * [2024-12-09, 03:50:14](https://news.ycombinator.com/item?id=42362927) - [Misinformation fuels outrage and mindless social-media shares – study](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
 * [2024-12-09, 03:11:13](https://news.ycombinator.com/item?id=42362755) - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
 * [2024-12-09, 02:06:02](https://news.ycombinator.com/item?id=42362468) - [Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize](https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize)
@@ -20,7 +21,6 @@
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
-* [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 21:50:08](https://news.ycombinator.com/item?id=42322412) - [Y2K](https://www.y2k.movie/)
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's animatronics band bows out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
