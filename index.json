@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-09, 21:17:28",
-      "https://news.ycombinator.com/item?id=42370622"
+      "2024-12-09, 21:41:07",
+      "https://news.ycombinator.com/item?id=42370826"
     ],
     [
-      "Software Developer Arrested in Connection with Murder of Healthcare Executive",
-      "https://www.bbc.com/news/articles/cp9nxee2r0do"
+      "AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying",
+      "https://aftermath.site/moxie-robot-ai-dying-llm-embodied"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 21:33:12",
+      "https://news.ycombinator.com/item?id=42370744"
+    ],
+    [
+      "Bazel 8.0 Released",
+      "https://github.com/bazelbuild/bazel/releases/tag/8.0.0"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "God Plays Chess (2018)",
       "https://en.chessbase.com/post/how-god-plays-chess"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 18:23:11",
+      "https://news.ycombinator.com/item?id=42368872"
+    ],
+    [
+      "Show HN: Ternary Computer System",
+      "https://www.ternary-computing.com/history/CPU-History.html"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2024-12-08, 21:29:31",
-      "https://news.ycombinator.com/item?id=42360685"
-    ],
-    [
-      "1,600 days of a failed hobby data science project",
-      "https://lellep.xyz/blog/failed-data-science-project.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:05:25",
-      "https://news.ycombinator.com/item?id=42359949"
-    ],
-    [
-      "Show HN: A portable hash map in C",
-      "https://github.com/e-dant/salmagundi"
-    ]
-  ],
-  [
-    [
       "2024-12-08, 17:05:16",
       "https://news.ycombinator.com/item?id=42358269"
     ],
     [
       "Starlark Programming Language",
       "https://starlark-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 14:38:21",
-      "https://news.ycombinator.com/item?id=42357372"
-    ],
-    [
-      "How much do I need to change my face to avoid facial recognition?",
-      "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "I made a satellite ion thruster [video]",
       "https://www.youtube.com/watch?v=dfYSBlV90NQ"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 16:55:15",
+      "https://news.ycombinator.com/item?id=42308303"
+    ],
+    [
+      "LLM Abstraction levels inspired by Fish Eye lens",
+      "https://wattenberger.com/thoughts/fish-eye"
     ]
   ],
   [
