@@ -20,6 +20,7 @@
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-07, 11:40:46](https://news.ycombinator.com/item?id=42349106) - [He Built Apple's 1980s iPad Concept [video]](https://www.youtube.com/watch?v=Grd_a4oi7qU)
+* [2024-12-07, 10:16:48](https://news.ycombinator.com/item?id=42348699) - [Stimulants in Germanic communities of the Roman period](https://www.degruyter.com/document/doi/10.1515/pz-2024-2017/html)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-06, 19:28:40](https://news.ycombinator.com/item?id=42343324) - [The Hexagonal Tiling Honeycomb](https://arxiv.org/abs/2412.00048)
 * [2024-12-04, 21:50:08](https://news.ycombinator.com/item?id=42322412) - [Y2K](https://www.y2k.movie/)
@@ -27,7 +28,6 @@
 * [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
 * [2024-12-03, 09:55:25](https://news.ycombinator.com/item?id=42304556) - [The Smallest Thing in Go](https://bitfieldconsulting.com/posts/iota)
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
-* [2024-12-02, 03:54:22](https://news.ycombinator.com/item?id=42292956) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
