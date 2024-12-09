@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-09, 05:53:03",
+      "https://news.ycombinator.com/item?id=42363374"
+    ],
+    [
+      "How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610",
+      "https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 04:36:09",
       "https://news.ycombinator.com/item?id=42363102"
     ],
@@ -67,16 +77,6 @@
     [
       "Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4",
       "https://hackerone.com/reports/2887487"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 21:49:45",
-      "https://news.ycombinator.com/item?id=42360898"
-    ],
-    [
-      "How to measure frequency response of a speaker at home",
-      "https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-12-03, 06:21:39",
-      "https://news.ycombinator.com/item?id=42303449"
-    ],
-    [
-      "Good union types in Go would probably need types without a zero value",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
-    ]
-  ],
-  [
-    [
       "2024-12-02, 03:54:22",
       "https://news.ycombinator.com/item?id=42292956"
     ],
@@ -287,6 +277,16 @@
     [
       "Researchers use AI to turn sound recordings into street images",
       "https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/"
+    ]
+  ],
+  [
+    [
+      "2024-12-01, 14:17:37",
+      "https://news.ycombinator.com/item?id=42288561"
+    ],
+    [
+      "A Year of WordHopper – Modern DOS Game Development Retrospective",
+      "https://kokoscript.com/2024/015.html"
     ]
   ],
   [
