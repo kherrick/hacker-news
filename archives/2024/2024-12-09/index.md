@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+* [2024-12-09, 04:32:58](https://news.ycombinator.com/item?id=42363087) - [How to Create Intelligently Self-Modifying Software (Framework Release Soon)](https://github.com/EricArthurBlair1010/semantic_inference_programming_information)
 * [2024-12-09, 03:59:20](https://news.ycombinator.com/item?id=42362970) - [Lethal Dose of 55 Substances](https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html)
 * [2024-12-09, 03:50:14](https://news.ycombinator.com/item?id=42362927) - [Feeling Outraged? Think Twice Before Hitting \"Share.\"](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
 * [2024-12-09, 03:42:36](https://news.ycombinator.com/item?id=42362893) - [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
