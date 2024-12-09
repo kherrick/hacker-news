@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 03:50:14](https://news.ycombinator.com/item?id=42362927) - [Feeling Outraged? Think Twice Before Hitting \"Share.\"](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
 * [2024-12-09, 03:42:36](https://news.ycombinator.com/item?id=42362893) - [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
 * [2024-12-09, 03:11:13](https://news.ycombinator.com/item?id=42362755) - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
 * [2024-12-09, 00:19:52](https://news.ycombinator.com/item?id=42361955) - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
@@ -17,7 +18,6 @@
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 10:34:49](https://news.ycombinator.com/item?id=42356345) - [Zizmor would have caught the Ultralytics workflow vulnerability](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection)
-* [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
 * [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
