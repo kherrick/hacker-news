@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 06:46:34](https://news.ycombinator.com/item?id=42363592) - [Skype Credit is no longer available](https://www.skype.com/en/credit/)
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-* [2024-12-09, 04:32:58](https://news.ycombinator.com/item?id=42363087) - [How to Create Intelligently Self-Modifying Software (Framework Release Soon)](https://github.com/EricArthurBlair1010/semantic_inference_programming_information)
 * [2024-12-09, 03:50:14](https://news.ycombinator.com/item?id=42362927) - [Misinformation fuels outrage and mindless social-media shares – study](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
-* [2024-12-09, 03:11:13](https://news.ycombinator.com/item?id=42362755) - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
 * [2024-12-09, 00:19:52](https://news.ycombinator.com/item?id=42361955) - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 * [2024-12-08, 23:56:44](https://news.ycombinator.com/item?id=42361825) - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
 * [2024-12-08, 23:49:26](https://news.ycombinator.com/item?id=42361793) - [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
@@ -27,6 +26,7 @@
 * [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
 * [2024-12-03, 09:55:25](https://news.ycombinator.com/item?id=42304556) - [The Smallest Thing in Go](https://bitfieldconsulting.com/posts/iota)
 * [2024-12-03, 06:21:39](https://news.ycombinator.com/item?id=42303449) - [Good union types in Go would probably need types without a zero value](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues)
+* [2024-12-02, 03:54:22](https://news.ycombinator.com/item?id=42292956) - [See how a lab-grown diamond is made](https://www.washingtonpost.com/business/interactive/2024/how-lab-grown-diamonds-made-manufactured/)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 * [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
