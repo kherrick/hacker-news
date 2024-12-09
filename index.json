@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-12-09, 11:48:45",
+      "https://news.ycombinator.com/item?id=42365295"
+    ],
+    [
+      "\"Hetzner decided to cancel our account and terminate all servers\"",
+      "https://mastodon.social/@kiwix/113622081750449356"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 11:36:55",
       "https://news.ycombinator.com/item?id=42365222"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2024-12-04, 03:06:32",
-      "https://news.ycombinator.com/item?id=42314156"
-    ],
-    [
-      "Bringing the Instructions to the Data",
-      "https://mattpo.pe/posts/sql-llvm/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 11:18:34",
       "https://news.ycombinator.com/item?id=42305006"
     ],
     [
       "Chuck E. Cheese's animatronics band bows out",
       "https://spectrum.ieee.org/chuck-e-cheese-animatronics"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 11:17:23",
+      "https://news.ycombinator.com/item?id=42305002"
+    ],
+    [
+      "What you need to know about SQLite",
+      "https://joyofrails.com/articles/what-you-need-to-know-about-sqlite"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A simple way to scale pixel art games",
       "https://30fps.net/pages/pixelart-scaling/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 18:12:52",
-      "https://news.ycombinator.com/item?id=42298713"
-    ],
-    [
-      "Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera",
-      "https://github.com/KopiasCsaba/open_sound_control_bridge"
     ]
   ],
   [
