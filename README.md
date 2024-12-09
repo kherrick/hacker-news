@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 15:16:47](https://news.ycombinator.com/item?id=42366961) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
@@ -19,7 +20,6 @@
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
-* [2024-12-06, 19:28:40](https://news.ycombinator.com/item?id=42343324) - [The Hexagonal Tiling Honeycomb](https://arxiv.org/abs/2412.00048)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 03:06:32](https://news.ycombinator.com/item?id=42314156) - [Bringing the Instructions to the Data](https://mattpo.pe/posts/sql-llvm/)
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)

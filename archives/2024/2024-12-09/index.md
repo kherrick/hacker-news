@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 15:16:47](https://news.ycombinator.com/item?id=42366961) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 14:34:08](https://news.ycombinator.com/item?id=42366546) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 * [2024-12-09, 14:28:44](https://news.ycombinator.com/item?id=42366511) - [AI Does NYT Connections](https://mikehearn.notion.site/155c9175d23480bf9720cba20980f539)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
