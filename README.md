@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-09, 20:43:32](https://news.ycombinator.com/item?id=42370370) - [Mega-buildings are now slowing Earth's spin](https://www.sciencefocus.com/news/human-structures-slowing-earths-spin)
-* [2024-12-09, 20:33:47](https://news.ycombinator.com/item?id=42370277) - [Attribute Extraction from Images Using DSPy](https://www.langtrace.ai/blog/attribute-extraction-from-images-using-dspy)
+* [2024-12-09, 21:08:37](https://news.ycombinator.com/item?id=42370561) - [China's Salt Typhoon recorded top American officials' calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
 * [2024-12-09, 19:33:40](https://news.ycombinator.com/item?id=42369622) - [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
 * [2024-12-09, 19:19:07](https://news.ycombinator.com/item?id=42369476) - [Trellis – 3D mesh generative model](https://trellis3d.github.io/)
 * [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
@@ -27,6 +26,7 @@
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-07, 05:20:12](https://news.ycombinator.com/item?id=42347466) - [Atoms for Peace: Learning to Love the Bomb](https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb)
+* [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
 * [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)

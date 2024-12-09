@@ -57,6 +57,7 @@
 * [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 * [2024-12-07, 05:20:12](https://news.ycombinator.com/item?id=42347466) - [Atoms for Peace: Learning to Love the Bomb](https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb)
 * [2024-12-07, 05:12:07](https://news.ycombinator.com/item?id=42347432) - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
+* [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
 * [2024-12-07, 01:32:19](https://news.ycombinator.com/item?id=42346463) - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 * [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [The Biggest Shell Programs in the World (Wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
