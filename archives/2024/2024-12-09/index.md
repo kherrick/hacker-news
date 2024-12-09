@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+* [2024-12-09, 13:45:29](https://news.ycombinator.com/item?id=42366230) - [Abusing Git branch names to compromise a PyPI package](https://lwn.net/Articles/1001215/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 13:12:16](https://news.ycombinator.com/item?id=42365986) - [Inkscape 1.4 – LWN](https://lwn.net/Articles/991732/)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)

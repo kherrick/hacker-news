@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+* [2024-12-09, 13:45:29](https://news.ycombinator.com/item?id=42366230) - [Abusing Git branch names to compromise a PyPI package](https://lwn.net/Articles/1001215/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 * [2024-12-09, 12:01:16](https://news.ycombinator.com/item?id=42365380) - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
@@ -15,10 +16,10 @@
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
 * [2024-12-08, 21:29:05](https://news.ycombinator.com/item?id=42360681) - [JSON5 – JSON for Humans](https://json5.org/)
 * [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
+* [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
-* [2024-12-06, 19:28:40](https://news.ycombinator.com/item?id=42343324) - [The Hexagonal Tiling Honeycomb](https://arxiv.org/abs/2412.00048)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 03:06:32](https://news.ycombinator.com/item?id=42314156) - [Bringing the Instructions to the Data](https://mattpo.pe/posts/sql-llvm/)
 * [2024-12-03, 22:36:13](https://news.ycombinator.com/item?id=42312376) - [Derivative at a Discontinuity](https://alok.github.io/2024/09/28/discontinuous-derivative/)
@@ -28,7 +29,6 @@
 * [2024-12-02, 18:12:52](https://news.ycombinator.com/item?id=42298713) - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
 * [2024-12-02, 00:28:09](https://news.ycombinator.com/item?id=42291886) - [Debugging a Superblock Percpu_rw_semaphore Deadlock](https://rustylife.github.io/2024/11/24/io_uring.html)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
-* [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
 * [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
