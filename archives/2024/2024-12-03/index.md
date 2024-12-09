@@ -63,6 +63,7 @@
 * [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:18:34](https://news.ycombinator.com/item?id=42305006) - [Chuck E. Cheese's Animatronics Band Bows Out](https://spectrum.ieee.org/chuck-e-cheese-animatronics)
+* [2024-12-03, 11:17:23](https://news.ycombinator.com/item?id=42305002) - [What you need to know about SQLite](https://joyofrails.com/articles/what-you-need-to-know-about-sqlite)
 * [2024-12-03, 11:13:56](https://news.ycombinator.com/item?id=42304982) - [Universities enrolling foreign students with poor English, BBC finds](https://www.bbc.com/news/articles/c0mzdejg1d3o)
 * [2024-12-03, 11:07:34](https://news.ycombinator.com/item?id=42304955) - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
 * [2024-12-03, 10:44:26](https://news.ycombinator.com/item?id=42304835) - [FSharpPacker – compile F# scripts to executables](https://github.com/kant2002/FSharpPacker)
