@@ -6,6 +6,7 @@
 
 * [2024-12-09, 07:19:19](https://news.ycombinator.com/item?id=42363727) - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 * [2024-12-09, 06:46:34](https://news.ycombinator.com/item?id=42363592) - [Skype Credit is no longer available](https://www.skype.com/en/credit/)
+* [2024-12-09, 05:53:03](https://news.ycombinator.com/item?id=42363374) - [How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610](https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html)
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [2024-12-09, 04:32:58](https://news.ycombinator.com/item?id=42363087) - [How to Create Intelligently Self-Modifying Software (Framework Release Soon)](https://github.com/EricArthurBlair1010/semantic_inference_programming_information)
 * [2024-12-09, 03:59:20](https://news.ycombinator.com/item?id=42362970) - [Lethal Dose of 55 Substances](https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html)
