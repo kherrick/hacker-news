@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 07:19:19](https://news.ycombinator.com/item?id=42363727) - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 * [2024-12-09, 06:46:34](https://news.ycombinator.com/item?id=42363592) - [Skype Credit is no longer available](https://www.skype.com/en/credit/)
 * [2024-12-09, 04:36:09](https://news.ycombinator.com/item?id=42363102) - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-* [2024-12-09, 03:50:14](https://news.ycombinator.com/item?id=42362927) - [Misinformation fuels outrage and mindless social-media shares – study](https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share)
-* [2024-12-09, 00:19:52](https://news.ycombinator.com/item?id=42361955) - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
+* [2024-12-09, 00:19:52](https://news.ycombinator.com/item?id=42361955) - [Pat Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 * [2024-12-08, 23:56:44](https://news.ycombinator.com/item?id=42361825) - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
 * [2024-12-08, 23:49:26](https://news.ycombinator.com/item?id=42361793) - [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
 * [2024-12-08, 23:02:29](https://news.ycombinator.com/item?id=42361503) - [Broward Co. to vacate convictions for buying crack made by Sheriff's Office](https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney)
