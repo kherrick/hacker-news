@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-09, 21:26:55](https://news.ycombinator.com/item?id=42370688) - [Luigi Mangione's arrest canary [video]](https://www.youtube.com/watch?v=bdhs9g3Wwg0)
 * [2024-12-09, 21:17:28](https://news.ycombinator.com/item?id=42370622) - [Software Developer Arrested in Connection with Murder of Healthcare Executive](https://www.bbc.com/news/articles/cp9nxee2r0do)
 * [2024-12-09, 21:08:37](https://news.ycombinator.com/item?id=42370561) - [China's Salt Typhoon recorded top American officials' calls, says White House](https://www.theregister.com/2024/12/09/white_house_salt_typhoon/)
 * [2024-12-09, 19:33:40](https://news.ycombinator.com/item?id=42369622) - [Fire Risk Assessment of Battery Home Storage Compared to General House Fires](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517)
@@ -23,6 +22,7 @@
 * [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 21:29:31](https://news.ycombinator.com/item?id=42360685) - [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
+* [2024-12-08, 20:05:25](https://news.ycombinator.com/item?id=42359949) - [Show HN: A portable hash map in C](https://github.com/e-dant/salmagundi)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
