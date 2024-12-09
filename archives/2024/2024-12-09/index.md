@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 22:56:44](https://news.ycombinator.com/item?id=42371481) - [Itch.io: \"This is not a joke, Funko just called my mom\"](https://twitter.com/itchio/status/1866239798924763227)
 * [2024-12-09, 22:36:44](https://news.ycombinator.com/item?id=42371315) - [How Can I Be an AI Engineer?](https://timkellogg.me/blog/2024/12/09/ai-engineer)
 * [2024-12-09, 22:33:46](https://news.ycombinator.com/item?id=42371295) - [Why the powerful may be more likely to cheat](https://phys.org/news/2024-11-powerful-experts-perception-power-faithfulness.html)
 * [2024-12-09, 22:17:43](https://news.ycombinator.com/item?id=42371166) - [Healthcare CEO killer studied computer science at UPenn, founded game dev club](https://www.bbc.com/news/live/crk0ep61p2mt)

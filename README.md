@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 22:56:44](https://news.ycombinator.com/item?id=42371481) - [Itch.io: \"This is not a joke, Funko just called my mom\"](https://twitter.com/itchio/status/1866239798924763227)
 * [2024-12-09, 21:41:07](https://news.ycombinator.com/item?id=42370826) - [AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying](https://aftermath.site/moxie-robot-ai-dying-llm-embodied)
 * [2024-12-09, 21:40:32](https://news.ycombinator.com/item?id=42370818) - [Mystery 'Disease X' outbreak widens as WHO sends rapid response team to DR Congo](https://www.scmp.com/news/world/africa/article/3289955/mystery-disease-x-outbreak-widens-who-sends-rapid-response-team-dr-congo)
 * [2024-12-09, 21:33:12](https://news.ycombinator.com/item?id=42370744) - [Bazel 8.0 Released](https://github.com/bazelbuild/bazel/releases/tag/8.0.0)
@@ -25,10 +26,9 @@
 * [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
-* [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
+* [2024-12-07, 16:06:30](https://news.ycombinator.com/item?id=42350619) - [Starlink's first constellation of direct-to-phone satellites is now in orbit](https://newatlas.com/technology/starlink-direct-to-phone-satellites-orbit/)
 * [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM Abstraction levels inspired by Fish Eye lens](https://wattenberger.com/thoughts/fish-eye)
-* [2024-12-03, 10:36:23](https://news.ycombinator.com/item?id=42304789) - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 
 ## [Archives](archives/index.md)
