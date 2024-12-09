@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-09, 03:42:36](https://news.ycombinator.com/item?id=42362893) - [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
 * [2024-12-09, 03:11:13](https://news.ycombinator.com/item?id=42362755) - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
-* [2024-12-09, 02:33:09](https://news.ycombinator.com/item?id=42362594) - [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
-* [2024-12-09, 02:06:02](https://news.ycombinator.com/item?id=42362468) - [Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize](https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize)
 * [2024-12-09, 00:19:52](https://news.ycombinator.com/item?id=42361955) - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
 * [2024-12-08, 23:56:44](https://news.ycombinator.com/item?id=42361825) - [CT Scans of New vs. Used SawStop](https://www.lumafield.com/article/new-vs-used-sawstop)
 * [2024-12-08, 23:49:26](https://news.ycombinator.com/item?id=42361793) - [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
@@ -16,10 +15,10 @@
 * [2024-12-08, 18:35:32](https://news.ycombinator.com/item?id=42359067) - [Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention](https://github.com/singlr-ai/nocaptcha)
 * [2024-12-08, 17:15:13](https://news.ycombinator.com/item?id=42358358) - [Replace Philips Hue Automation with Home Assistant's](https://blog.frankel.ch/home-assistant/3/)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How much do I need to change my face to avoid facial recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
-* [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 10:34:49](https://news.ycombinator.com/item?id=42356345) - [Zizmor would have caught the Ultralytics workflow vulnerability](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection)
 * [2024-12-07, 23:45:11](https://news.ycombinator.com/item?id=42353778) - [\"BGP at home\": getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+* [2024-12-07, 21:42:13](https://news.ycombinator.com/item?id=42353066) - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
 * [2024-12-04, 21:50:08](https://news.ycombinator.com/item?id=42322412) - [Y2K](https://www.y2k.movie/)
@@ -30,6 +29,7 @@
 * [2024-12-03, 06:21:39](https://news.ycombinator.com/item?id=42303449) - [Good union types in Go would probably need types without a zero value](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues)
 * [2024-12-01, 16:40:26](https://news.ycombinator.com/item?id=42289233) - [Researchers use AI to turn sound recordings into street images](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/)
 * [2024-12-01, 14:17:37](https://news.ycombinator.com/item?id=42288561) - [A Year of WordHopper – Modern DOS Game Development Retrospective](https://kokoscript.com/2024/015.html)
+* [2024-12-01, 03:48:55](https://news.ycombinator.com/item?id=42286028) - [2M MPH galaxy smash-up seen in unprecedented detail](https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html)
 
 ## [Archives](archives/index.md)
 
