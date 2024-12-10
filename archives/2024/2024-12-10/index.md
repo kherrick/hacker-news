@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 18:07:42](https://news.ycombinator.com/item?id=42379435) - [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)
+* [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
+* [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
 * [2024-12-10, 17:16:12](https://news.ycombinator.com/item?id=42378843) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 17:01:46](https://news.ycombinator.com/item?id=42378673) - [AI slop is already invading Oregon's local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
 * [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
