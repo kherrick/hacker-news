@@ -7,6 +7,7 @@
 * [2024-12-10, 18:54:00](https://news.ycombinator.com/item?id=42380054) - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
+* [2024-12-10, 18:46:28](https://news.ycombinator.com/item?id=42379967) - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 18:07:42](https://news.ycombinator.com/item?id=42379435) - [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
