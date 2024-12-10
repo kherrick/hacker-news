@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-10, 09:24:01](https://news.ycombinator.com/item?id=42375210) - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 02:32:17](https://news.ycombinator.com/item?id=42373106) - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
@@ -9,7 +10,6 @@
 * [2024-12-10, 00:47:08](https://news.ycombinator.com/item?id=42372384) - [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
 * [2024-12-10, 00:45:53](https://news.ycombinator.com/item?id=42372379) - [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
 * [2024-12-09, 22:56:27](https://news.ycombinator.com/item?id=42371476) - [Debanking (and Debunking?)](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
-* [2024-12-09, 22:39:58](https://news.ycombinator.com/item?id=42371341) - [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
 * [2024-12-09, 22:24:14](https://news.ycombinator.com/item?id=42371221) - [The Age of Chiplets Is Upon Us](https://www.eetimes.com/the-age-of-chiplets-is-upon-us/)
 * [2024-12-09, 21:29:30](https://news.ycombinator.com/item?id=42370709) - [Xylella Fastidiosa: A crisis brewing in Europe's olive groves](https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/)
 * [2024-12-09, 21:17:28](https://news.ycombinator.com/item?id=42370622) - [What we know about CEO shooting suspect](https://www.bbc.com/news/articles/cp9nxee2r0do)

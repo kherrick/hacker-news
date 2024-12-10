@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 09:24:01](https://news.ycombinator.com/item?id=42375210) - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 06:56:41](https://news.ycombinator.com/item?id=42374469) - [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
 * [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
