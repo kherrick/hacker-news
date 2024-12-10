@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-10, 15:32:04](https://news.ycombinator.com/item?id=42377770) - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+* [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
-* [2024-12-10, 09:43:13](https://news.ycombinator.com/item?id=42375298) - [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 * [2024-12-10, 08:32:24](https://news.ycombinator.com/item?id=42374959) - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
 * [2024-12-10, 05:17:14](https://news.ycombinator.com/item?id=42373996) - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 * [2024-12-10, 05:04:07](https://news.ycombinator.com/item?id=42373936) - [Show HN: HackerNews-new-jobs – insights into fresh and recurring job ads](https://github.com/nemanjam/hn-new-jobs)
@@ -21,7 +22,6 @@
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-specific LLM evals that do and don't work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
-* [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)

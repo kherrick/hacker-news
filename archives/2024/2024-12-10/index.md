@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 15:32:04](https://news.ycombinator.com/item?id=42377770) - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+* [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:33:20](https://news.ycombinator.com/item?id=42377159) - [Mozilla Firefox Removes \"Do Not Track\" Feature Support](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 14:26:12](https://news.ycombinator.com/item?id=42377100) - [Effects of Stress on Memory](https://en.wikipedia.org/wiki/Effects_of_stress_on_memory)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
