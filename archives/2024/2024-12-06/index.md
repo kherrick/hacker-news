@@ -14,6 +14,7 @@
 * [2024-12-06, 19:59:49](https://news.ycombinator.com/item?id=42343692) - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
 * [2024-12-06, 19:46:29](https://news.ycombinator.com/item?id=42343544) - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
 * [2024-12-06, 19:45:11](https://news.ycombinator.com/item?id=42343524) - [United Health CEO Decries \"Aggressive\" Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)
+* [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
 * [2024-12-06, 19:28:40](https://news.ycombinator.com/item?id=42343324) - [The Hexagonal Tiling Honeycomb](https://arxiv.org/abs/2412.00048)
 * [2024-12-06, 19:20:19](https://news.ycombinator.com/item?id=42343215) - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
 * [2024-12-06, 19:17:07](https://news.ycombinator.com/item?id=42343182) - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)

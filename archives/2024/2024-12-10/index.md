@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 20:10:57](https://news.ycombinator.com/item?id=42380911) - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
+* [2024-12-10, 19:51:33](https://news.ycombinator.com/item?id=42380696) - [If you've got it, don't flaunt it in Sweden](https://www.economist.com/europe/2024/12/05/if-youve-got-it-dont-flaunt-it-in-sweden)
 * [2024-12-10, 18:54:00](https://news.ycombinator.com/item?id=42380054) - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
@@ -36,6 +38,7 @@
 * [2024-12-10, 08:32:24](https://news.ycombinator.com/item?id=42374959) - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 06:56:41](https://news.ycombinator.com/item?id=42374469) - [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
+* [2024-12-10, 05:22:50](https://news.ycombinator.com/item?id=42374027) - [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
 * [2024-12-10, 05:17:14](https://news.ycombinator.com/item?id=42373996) - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 * [2024-12-10, 05:04:07](https://news.ycombinator.com/item?id=42373936) - [Show HN: HackerNews-new-jobs – insights into fresh and recurring job ads](https://github.com/nemanjam/hn-new-jobs)
 * [2024-12-10, 04:37:16](https://news.ycombinator.com/item?id=42373805) - [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
