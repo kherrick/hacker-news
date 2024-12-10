@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-10, 18:07:42](https://news.ycombinator.com/item?id=42379435) - [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
@@ -23,6 +22,7 @@
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 03:12:12](https://news.ycombinator.com/item?id=42373343) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
 * [2024-12-09, 22:56:27](https://news.ycombinator.com/item?id=42371476) - [Debanking (and Debunking?)](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
+* [2024-12-09, 19:01:17](https://news.ycombinator.com/item?id=42369294) - [ALICE finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [Sora is here](https://openai.com/index/sora-is-here/)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-07, 17:57:24](https://news.ycombinator.com/item?id=42351436) - [Ask HN: Git Alternatives – Sapling vs. Jj](https://news.ycombinator.com/item?id=42351436)
