@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD is good for](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 02:32:17](https://news.ycombinator.com/item?id=42373106) - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
 * [2024-12-10, 02:31:11](https://news.ycombinator.com/item?id=42373098) - [Save Music, Save the Archive](https://www.savethearchive.com/)
@@ -22,6 +21,7 @@
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-specific LLM evals that do and don't work](https://eugeneyan.com/writing/evals/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
+* [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 00:28:54](https://news.ycombinator.com/item?id=42354005) - [GPS constellation as a way to image the ionosphere (2011)](http://wondering-star.blogspot.com/2011/04/gps-constellation-as-way-to-image.html)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
