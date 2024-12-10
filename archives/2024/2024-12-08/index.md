@@ -37,6 +37,7 @@
 * [2024-12-08, 17:15:13](https://news.ycombinator.com/item?id=42358358) - [Replace Philips Hue Automation with Home Assistant's](https://blog.frankel.ch/home-assistant/3/)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
 * [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
+* [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
 * [2024-12-08, 16:16:51](https://news.ycombinator.com/item?id=42357928) - [The deep roots of Americans' hatred of their health care system](https://www.vox.com/future-perfect/390111/united-healthcare-ceo-shot-insurance-hospitals-doctors)
 * [2024-12-08, 15:59:00](https://news.ycombinator.com/item?id=42357836) - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
