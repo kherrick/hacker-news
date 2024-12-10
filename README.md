@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-10, 09:41:16](https://news.ycombinator.com/item?id=42375288) - [Just Say No to JavaScript](https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html)
 * [2024-12-10, 09:24:01](https://news.ycombinator.com/item?id=42375210) - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
@@ -29,6 +28,7 @@
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
+* [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
 * [2024-12-02, 14:21:20](https://news.ycombinator.com/item?id=42296485) - [The Honeywell Kitchen Computer](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
 
 ## [Archives](archives/index.md)
