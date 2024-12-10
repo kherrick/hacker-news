@@ -23,11 +23,11 @@
 * [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
+* [2024-12-08, 23:24:35](https://news.ycombinator.com/item?id=42361630) - [True Crime: Allan Pinkerton's Thirty Years a Detective (1884)](https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 00:28:54](https://news.ycombinator.com/item?id=42354005) - [GPS constellation as a way to image the ionosphere (2011)](http://wondering-star.blogspot.com/2011/04/gps-constellation-as-way-to-image.html)
 * [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
 * [2024-12-06, 19:01:37](https://news.ycombinator.com/item?id=42342985) - [Stimulus-use: collection of composable behaviors for Stimulus Controllers](https://github.com/stimulus-use/stimulus-use)
-* [2024-12-06, 16:57:16](https://news.ycombinator.com/item?id=42341508) - [Learning YAMLScript from Clojure](https://yamlscript.org/doc/clj-to-ys/)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 
