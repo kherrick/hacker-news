@@ -28,7 +28,7 @@
 * [2024-12-07, 10:48:52](https://news.ycombinator.com/item?id=42348855) - [Now Boarding: The Story of Airport](https://airport.revolvertype.com/)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
-* [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
+* [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2024-12-02, 14:21:20](https://news.ycombinator.com/item?id=42296485) - [The Honeywell Kitchen Computer](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
 
 ## [Archives](archives/index.md)
