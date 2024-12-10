@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-10, 18:47:20",
+      "https://news.ycombinator.com/item?id=42379974"
+    ],
+    [
+      "Running Durable Workflows in Postgres Using DBOS",
+      "https://supabase.com/blog/durable-workflows-in-postgres-dbos"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 18:46:50",
       "https://news.ycombinator.com/item?id=42379970"
     ],
@@ -37,16 +47,6 @@
     [
       "Devin is now generally available",
       "https://www.cognition.ai/blog/devin-generally-available"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 17:24:13",
-      "https://news.ycombinator.com/item?id=42378929"
-    ],
-    [
-      "U.S. math scores drop on major international test",
-      "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Neuroplasticity in F16 fighter jet pilots",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974643/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 16:06:46",
-      "https://news.ycombinator.com/item?id=42378133"
-    ],
-    [
-      "Parsing Millions of DNS Records Per Second",
-      "https://github.com/NLnetLabs/simdzone"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-12-09, 19:01:17",
+      "https://news.ycombinator.com/item?id=42369294"
+    ],
+    [
+      "ALICE finds first ever evidence of the antimatter partner of hyperhelium-4",
+      "https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 18:02:10",
       "https://news.ycombinator.com/item?id=42368604"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-12-09, 16:28:23",
-      "https://news.ycombinator.com/item?id=42367649"
+      "2024-12-07, 22:25:47",
+      "https://news.ycombinator.com/item?id=42353333"
     ],
     [
-      "Willow, Our Quantum Chip",
-      "https://blog.google/technology/research/google-willow-quantum-chip/"
+      "B+ Tree Visualization",
+      "https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html"
     ]
   ],
   [
