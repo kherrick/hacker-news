@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+* [2024-12-10, 23:09:48](https://news.ycombinator.com/item?id=42382737) - [GM is pulling the plug on its robotaxi efforts](https://www.cnn.com/2024/12/10/business/gm-general-motors-robotaxi/index.html)
 * [2024-12-10, 22:45:15](https://news.ycombinator.com/item?id=42382506) - [Show HN: Don't let your billion-dollar ideas die](https://ideaharbor.xyz)
 * [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:59:50](https://news.ycombinator.com/item?id=42381406) - [AMD's trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
-* [2024-12-10, 18:46:28](https://news.ycombinator.com/item?id=42379967) - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
 * [2024-12-10, 17:01:46](https://news.ycombinator.com/item?id=42378673) - [AI slop is already invading Oregon's local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)

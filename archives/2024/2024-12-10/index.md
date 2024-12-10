@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+* [2024-12-10, 23:09:48](https://news.ycombinator.com/item?id=42382737) - [GM is pulling the plug on its robotaxi efforts](https://www.cnn.com/2024/12/10/business/gm-general-motors-robotaxi/index.html)
 * [2024-12-10, 22:45:15](https://news.ycombinator.com/item?id=42382506) - [Show HN: Don't let your billion-dollar ideas die](https://ideaharbor.xyz)
 * [2024-12-10, 21:24:40](https://news.ycombinator.com/item?id=42381712) - [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
