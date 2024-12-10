@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 17:01:46](https://news.ycombinator.com/item?id=42378673) - [AI slop is already invading Oregon's local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
+* [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 16:34:02](https://news.ycombinator.com/item?id=42378407) - [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-10, 16:26:17](https://news.ycombinator.com/item?id=42378335) - [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
