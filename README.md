@@ -20,7 +20,6 @@
 * [2024-12-09, 18:02:10](https://news.ycombinator.com/item?id=42368604) - [Sora is here](https://openai.com/index/sora-is-here/)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-specific LLM evals that do and don't work](https://eugeneyan.com/writing/evals/)
-* [2024-12-09, 13:50:26](https://news.ycombinator.com/item?id=42366262) - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 12:45:10](https://news.ycombinator.com/item?id=42365772) - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
@@ -28,6 +27,7 @@
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
 * [2024-12-06, 19:01:37](https://news.ycombinator.com/item?id=42342985) - [Stimulus-use: collection of composable behaviors for Stimulus Controllers](https://github.com/stimulus-use/stimulus-use)
+* [2024-12-06, 17:00:57](https://news.ycombinator.com/item?id=42341567) - [There Was No Sorcerer: Box Office Poison, Hollywood's Story in Century of Flops](https://literaryreview.co.uk/there-was-no-sorcerer)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 

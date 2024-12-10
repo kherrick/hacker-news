@@ -30,6 +30,7 @@
 * [2024-12-06, 17:39:54](https://news.ycombinator.com/item?id=42342038) - [Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible](https://github.com/poeticoding/yolo_elixir)
 * [2024-12-06, 17:31:00](https://news.ycombinator.com/item?id=42341922) - [Vanir: Open-Source Security Search and Patch Validation Tool](https://security.googleblog.com/2024/12/announcing-launch-of-vanir-open-source.html)
 * [2024-12-06, 17:20:26](https://news.ycombinator.com/item?id=42341809) - [Ask HN: What are the best programmable holiday lights?](https://news.ycombinator.com/item?id=42341809)
+* [2024-12-06, 17:00:57](https://news.ycombinator.com/item?id=42341567) - [There Was No Sorcerer: Box Office Poison, Hollywood's Story in Century of Flops](https://literaryreview.co.uk/there-was-no-sorcerer)
 * [2024-12-06, 17:00:55](https://news.ycombinator.com/item?id=42341566) - [Serverless VPN Self-hosted](https://serverlessvpn.com)
 * [2024-12-06, 16:58:39](https://news.ycombinator.com/item?id=42341531) - [Melons and Melancholy: \"Eating and Being\" illuminates the dynamics of dietetics](https://lareviewofbooks.org/article/on-melons-and-melancholy/)
 * [2024-12-06, 16:57:16](https://news.ycombinator.com/item?id=42341508) - [Learning YAMLScript from Clojure](https://yamlscript.org/doc/clj-to-ys/)
