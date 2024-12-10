@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
+* [2024-12-10, 17:16:12](https://news.ycombinator.com/item?id=42378843) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 17:01:46](https://news.ycombinator.com/item?id=42378673) - [AI slop is already invading Oregon's local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
 * [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
@@ -32,6 +34,7 @@
 * [2024-12-10, 04:37:16](https://news.ycombinator.com/item?id=42373805) - [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
 * [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
+* [2024-12-10, 03:12:12](https://news.ycombinator.com/item?id=42373343) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
 * [2024-12-10, 02:32:17](https://news.ycombinator.com/item?id=42373106) - [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
 * [2024-12-10, 02:31:11](https://news.ycombinator.com/item?id=42373098) - [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
 * [2024-12-10, 02:22:37](https://news.ycombinator.com/item?id=42373051) - [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
