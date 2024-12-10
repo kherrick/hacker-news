@@ -59,6 +59,7 @@
 * [2024-12-07, 05:20:12](https://news.ycombinator.com/item?id=42347466) - [Atoms for Peace: Learning to Love the Bomb](https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb)
 * [2024-12-07, 05:12:07](https://news.ycombinator.com/item?id=42347432) - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 * [2024-12-07, 04:20:31](https://news.ycombinator.com/item?id=42347244) - [I made a satellite ion thruster [video]](https://www.youtube.com/watch?v=dfYSBlV90NQ)
+* [2024-12-07, 03:24:38](https://news.ycombinator.com/item?id=42346993) - [Self-eating rocket could help UK take a big bite of space industry](https://www.gla.ac.uk/news/archiveofnews/2024/january/headline_1033908_en.html)
 * [2024-12-07, 01:32:19](https://news.ycombinator.com/item?id=42346463) - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
 * [2024-12-07, 01:12:32](https://news.ycombinator.com/item?id=42346344) - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
 * [2024-12-07, 00:59:11](https://news.ycombinator.com/item?id=42346274) - [The Biggest Shell Programs in the World (Wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
