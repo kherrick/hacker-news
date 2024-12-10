@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:59:50](https://news.ycombinator.com/item?id=42381406) - [AMD's trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 * [2024-12-10, 20:10:57](https://news.ycombinator.com/item?id=42380911) - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)

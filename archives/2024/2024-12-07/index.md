@@ -43,6 +43,7 @@
 * [2024-12-07, 15:23:34](https://news.ycombinator.com/item?id=42350351) - [Show HN: Scraper for job listings directly from company websites](https://www.unlistedjobs.com/)
 * [2024-12-07, 15:08:27](https://news.ycombinator.com/item?id=42350245) - [Tell HN: Need help, locked out of Google account with 10 years of personal data](https://news.ycombinator.com/item?id=42350245)
 * [2024-12-07, 13:56:03](https://news.ycombinator.com/item?id=42349858) - [Police illegally sell restricted weapons, supplying crime](https://www.cbsnews.com/news/police-selling-restricted-guns-posties/)
+* [2024-12-07, 13:10:32](https://news.ycombinator.com/item?id=42349574) - [Show HN: DIY 80€ 3D Printer Basement Ventilation](https://hajo.me/blog/2024/12/07/diy-80eur-3d-printer-basement-ventilation/)
 * [2024-12-07, 12:44:41](https://news.ycombinator.com/item?id=42349415) - [Top internet sleuths say they won't help find the UnitedHealthcare CEO killer](https://www.nbcnews.com/tech/internet/internet-sleuths-say-wont-help-find-unitedhealthcare-ceo-suspect-rcna183228)
 * [2024-12-07, 12:37:03](https://news.ycombinator.com/item?id=42349382) - [I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 * [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
