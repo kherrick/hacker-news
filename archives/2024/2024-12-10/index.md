@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 06:56:41](https://news.ycombinator.com/item?id=42374469) - [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
 * [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 02:32:17](https://news.ycombinator.com/item?id=42373106) - [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
