@@ -21,6 +21,7 @@
 * [2024-12-06, 19:09:07](https://news.ycombinator.com/item?id=42343089) - [<dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 * [2024-12-06, 19:06:17](https://news.ycombinator.com/item?id=42343052) - [How to Bypass WhatsApp Web's Locked Chat Feature](https://lcat.dev/post.php?id=3cf8e1b9-e5e3-4a6d-af27-12720c5b2d54)
 * [2024-12-06, 19:03:31](https://news.ycombinator.com/item?id=42343016) - [1B Nested Loop Iterations](https://benjdd.com/languages2/)
+* [2024-12-06, 19:01:37](https://news.ycombinator.com/item?id=42342985) - [Stimulus-use: collection of composable behaviors for Stimulus Controllers](https://github.com/stimulus-use/stimulus-use)
 * [2024-12-06, 19:00:12](https://news.ycombinator.com/item?id=42342965) - [The square roots of all evil](https://neilmadden.blog/2024/12/03/the-square-roots-of-all-evil/)
 * [2024-12-06, 18:37:56](https://news.ycombinator.com/item?id=42342697) - [OpenAI Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
 * [2024-12-06, 18:11:46](https://news.ycombinator.com/item?id=42342382) - [Every UUID Dot Com](https://everyuuid.com/)
