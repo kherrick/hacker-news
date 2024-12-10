@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
+* [2024-12-10, 16:34:02](https://news.ycombinator.com/item?id=42378407) - [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-10, 16:26:17](https://news.ycombinator.com/item?id=42378335) - [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
+* [2024-12-10, 16:20:09](https://news.ycombinator.com/item?id=42378271) - [I Use AI 100 Times per Hour](https://tomtunguz.com/ai-use-in-one-afternoon/)
 * [2024-12-10, 16:12:10](https://news.ycombinator.com/item?id=42378194) - [From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler](https://github.com/hikettei/Caten)
 * [2024-12-10, 16:07:12](https://news.ycombinator.com/item?id=42378138) - [Neuroplasticity in F16 fighter jet pilots](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974643/)
 * [2024-12-10, 16:06:46](https://news.ycombinator.com/item?id=42378133) - [Parsing Millions of DNS Records Per Second](https://github.com/NLnetLabs/simdzone)

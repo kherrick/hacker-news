@@ -27,6 +27,7 @@
 * [2024-12-07, 18:29:13](https://news.ycombinator.com/item?id=42351698) - [Google's AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
 * [2024-12-07, 18:03:33](https://news.ycombinator.com/item?id=42351490) - [Windows on ARM Gets Major Gaming Boost with Prism Update](https://windowsonarm.org/blog/66031766-b200-4b5f-a707-28a2a7888da9)
 * [2024-12-07, 17:58:37](https://news.ycombinator.com/item?id=42351450) - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
+* [2024-12-07, 17:57:24](https://news.ycombinator.com/item?id=42351436) - [Ask HN: Git Alternatives – Sapling vs. Jj](https://news.ycombinator.com/item?id=42351436)
 * [2024-12-07, 17:55:11](https://news.ycombinator.com/item?id=42351422) - [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
 * [2024-12-07, 17:48:26](https://news.ycombinator.com/item?id=42351375) - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
 * [2024-12-07, 17:17:44](https://news.ycombinator.com/item?id=42351149) - [Mysterious, mathematical origins of world’s most unusually shaped national flag](https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html)
