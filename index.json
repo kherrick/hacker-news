@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-09, 23:38:26",
-      "https://news.ycombinator.com/item?id=42371835"
+      "2024-12-10, 00:05:28",
+      "https://news.ycombinator.com/item?id=42372064"
     ],
     [
-      "Rupert Murdoch loses battle to control succession to his media empire",
-      "https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children"
+      "El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal",
+      "https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 23:22:54",
+      "https://news.ycombinator.com/item?id=42371718"
+    ],
+    [
+      "Pictures of Pensions",
+      "https://calcwithdec.dev/posts/pictures-pensions/"
     ]
   ],
   [
@@ -15,18 +25,28 @@
       "https://news.ycombinator.com/item?id=42371481"
     ],
     [
-      "Itch.io: \"This is not a joke, Funko just called my mom\"",
+      "\"This is not a joke, Funko just called my mom\"",
       "https://twitter.com/itchio/status/1866239798924763227"
     ]
   ],
   [
     [
-      "2024-12-09, 21:41:07",
-      "https://news.ycombinator.com/item?id=42370826"
+      "2024-12-09, 22:56:27",
+      "https://news.ycombinator.com/item?id=42371476"
     ],
     [
-      "AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying",
-      "https://aftermath.site/moxie-robot-ai-dying-llm-embodied"
+      "Debanking (and Debunking?)",
+      "https://www.bitsaboutmoney.com/archive/debanking-and-debunking/"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 22:39:58",
+      "https://news.ycombinator.com/item?id=42371341"
+    ],
+    [
+      "XML: Twig – A Time-Tested Powerhouse for Processing XML",
+      "https://perladvent.org/2024/2024-12-09.html"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42370744"
     ],
     [
-      "Bazel 8.0 Released",
+      "Bazel 8.0",
       "https://github.com/bazelbuild/bazel/releases/tag/8.0.0"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42370709"
     ],
     [
-      "Xylella Fastidiosa: A Billion-Euro Crisis Brewing in Europe's Olive Groves",
+      "Xylella Fastidiosa: A crisis brewing in Europe's olive groves",
       "https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42369294"
     ],
     [
-      "Alice finds first ever evidence of the antimatter partner of hyperhelium-4",
+      "ALICE finds first ever evidence of the antimatter partner of hyperhelium-4",
       "https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-12-09, 16:55:46",
-      "https://news.ycombinator.com/item?id=42367893"
-    ],
-    [
-      "Knight TV Resurrection (2018)",
-      "http://pdp-6.net/knight-tv/knight-tv.html"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 16:28:23",
       "https://news.ycombinator.com/item?id=42367649"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42366481"
     ],
     [
-      "Task-Specific LLM Evals That Do and Don't Work",
+      "Task-specific LLM evals that do and don't work",
       "https://eugeneyan.com/writing/evals/"
     ]
   ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2024-12-09, 12:01:16",
-      "https://news.ycombinator.com/item?id=42365380"
-    ],
-    [
-      "Laylo (YC S20) Is Hiring an Account Manager in EU/UK",
-      "https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 07:31:48",
-      "https://news.ycombinator.com/item?id=42363782"
-    ],
-    [
-      "Noise Filtering Using €1 Filter (2020)",
-      "https://jaantollander.com/post/noise-filtering-using-one-euro-filter/"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 04:36:09",
       "https://news.ycombinator.com/item?id=42363102"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-12-08, 17:05:16",
-      "https://news.ycombinator.com/item?id=42358269"
+      "2024-12-08, 00:28:54",
+      "https://news.ycombinator.com/item?id=42354005"
     ],
     [
-      "Starlark Programming Language",
-      "https://starlark-lang.org/"
+      "GPS constellation as a way to image the ionosphere (2011)",
+      "http://wondering-star.blogspot.com/2011/04/gps-constellation-as-way-to-image.html"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2024-12-06, 16:57:16",
+      "https://news.ycombinator.com/item?id=42341508"
+    ],
+    [
+      "Learning YAMLScript from Clojure",
+      "https://yamlscript.org/doc/clj-to-ys/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 16:55:15",
       "https://news.ycombinator.com/item?id=42308303"
     ],
     [
-      "LLM Abstraction levels inspired by Fish Eye lens",
+      "LLM abstraction levels inspired by fish eye lens",
       "https://wattenberger.com/thoughts/fish-eye"
     ]
   ],
