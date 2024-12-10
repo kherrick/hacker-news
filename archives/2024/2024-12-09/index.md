@@ -36,6 +36,7 @@
 * [2024-12-09, 16:55:46](https://news.ycombinator.com/item?id=42367893) - [Knight TV Resurrection (2018)](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2024-12-09, 16:28:23](https://news.ycombinator.com/item?id=42367649) - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 * [2024-12-09, 15:16:47](https://news.ycombinator.com/item?id=42366961) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
+* [2024-12-09, 14:48:04](https://news.ycombinator.com/item?id=42366665) - [Show HN: Holos – Configure Kubernetes with CUE data structures instead of YAML](https://holos.run/docs/v1alpha5/tutorial/overview/)
 * [2024-12-09, 14:34:08](https://news.ycombinator.com/item?id=42366546) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 * [2024-12-09, 14:28:44](https://news.ycombinator.com/item?id=42366511) - [AI Does NYT Connections](https://mikehearn.notion.site/155c9175d23480bf9720cba20980f539)
 * [2024-12-09, 14:23:31](https://news.ycombinator.com/item?id=42366481) - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)

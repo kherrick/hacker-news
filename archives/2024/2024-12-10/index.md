@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:10:57](https://news.ycombinator.com/item?id=42380911) - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
 * [2024-12-10, 19:51:33](https://news.ycombinator.com/item?id=42380696) - [If you've got it, don't flaunt it in Sweden](https://www.economist.com/europe/2024/12/05/if-youve-got-it-dont-flaunt-it-in-sweden)
 * [2024-12-10, 18:54:00](https://news.ycombinator.com/item?id=42380054) - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
@@ -12,6 +13,7 @@
 * [2024-12-10, 18:46:28](https://news.ycombinator.com/item?id=42379967) - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 18:07:42](https://news.ycombinator.com/item?id=42379435) - [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
+* [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [Canvas](https://openai.com/index/introducing-canvas/)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
 * [2024-12-10, 17:16:12](https://news.ycombinator.com/item?id=42378843) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
