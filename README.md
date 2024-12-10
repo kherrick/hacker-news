@@ -27,8 +27,8 @@
 * [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
 * [2024-12-07, 10:48:52](https://news.ycombinator.com/item?id=42348855) - [Now Boarding: The Story of Airport](https://airport.revolvertype.com/)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
+* [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
-* [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2024-12-02, 14:21:20](https://news.ycombinator.com/item?id=42296485) - [The Honeywell Kitchen Computer](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
 
 ## [Archives](archives/index.md)

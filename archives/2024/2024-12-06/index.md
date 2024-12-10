@@ -37,6 +37,7 @@
 * [2024-12-06, 16:56:50](https://news.ycombinator.com/item?id=42341506) - [Mistakes You're Going to Make as a New Manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/)
 * [2024-12-06, 16:51:25](https://news.ycombinator.com/item?id=42341449) - [New Box64 v0.3.2 and Box86 v0.3.8 released (Native Flags, Benchmarks, Box32)](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:44:56](https://news.ycombinator.com/item?id=42341388) - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
+* [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-06, 16:32:14](https://news.ycombinator.com/item?id=42341241) - [Intuitive introverts lead the most successful teams – Spotlight](https://expertfile.com/spotlight/10312/Study--Intuitive-introverts-lead-the-most-successful-teams)
 * [2024-12-06, 16:03:42](https://news.ycombinator.com/item?id=42340985) - [Romania cancels election after systems targeted in cyberattacks](https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times)
 * [2024-12-06, 16:00:51](https://news.ycombinator.com/item?id=42340959) - [TikTok divestment law upheld by federal appeals court](https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html)
