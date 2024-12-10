@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-10, 11:54:54](https://news.ycombinator.com/item?id=42376014) - [Do Adults Have the Skills They Need to Thrive in a Changing World?](https://www.oecd.org/en/publications/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_b263dc5d-en.html)
+* [2024-12-10, 10:48:29](https://news.ycombinator.com/item?id=42375632) - [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)
 * [2024-12-10, 09:24:01](https://news.ycombinator.com/item?id=42375210) - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
@@ -7,7 +9,6 @@
 * [2024-12-10, 02:31:11](https://news.ycombinator.com/item?id=42373098) - [Save Music, Save the Archive](https://www.savethearchive.com/)
 * [2024-12-10, 02:22:37](https://news.ycombinator.com/item?id=42373051) - [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2024-12-10, 01:19:47](https://news.ycombinator.com/item?id=42372617) - [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
-* [2024-12-10, 00:47:08](https://news.ycombinator.com/item?id=42372384) - [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
 * [2024-12-10, 00:45:53](https://news.ycombinator.com/item?id=42372379) - [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
 * [2024-12-09, 22:56:27](https://news.ycombinator.com/item?id=42371476) - [Debanking (and Debunking?)](https://www.bitsaboutmoney.com/archive/debanking-and-debunking/)
 * [2024-12-09, 22:24:14](https://news.ycombinator.com/item?id=42371221) - [The Age of Chiplets Is Upon Us](https://www.eetimes.com/the-age-of-chiplets-is-upon-us/)
@@ -24,12 +25,11 @@
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
+* [2024-12-08, 11:00:01](https://news.ycombinator.com/item?id=42356447) - [Conjuring a Linux distribution out of thin air](https://blog.brixit.nl/conjuring-a-linux-distribution-out-of-thin-air/)
 * [2024-12-07, 10:48:52](https://news.ycombinator.com/item?id=42348855) - [Now Boarding: The Story of Airport](https://airport.revolvertype.com/)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
-* [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
-* [2024-12-02, 14:21:20](https://news.ycombinator.com/item?id=42296485) - [The Honeywell Kitchen Computer](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
 
 ## [Archives](archives/index.md)
 

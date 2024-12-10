@@ -54,6 +54,7 @@
 * [2024-12-08, 12:33:03](https://news.ycombinator.com/item?id=42356764) - [The tech bosses who poured $394.1M into US election](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence)
 * [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 11:31:55](https://news.ycombinator.com/item?id=42356548) - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
+* [2024-12-08, 11:00:01](https://news.ycombinator.com/item?id=42356447) - [Conjuring a Linux distribution out of thin air](https://blog.brixit.nl/conjuring-a-linux-distribution-out-of-thin-air/)
 * [2024-12-08, 10:59:39](https://news.ycombinator.com/item?id=42356443) - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
 * [2024-12-08, 10:38:03](https://news.ycombinator.com/item?id=42356360) - [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)
 * [2024-12-08, 10:34:49](https://news.ycombinator.com/item?id=42356345) - [Zizmor would have caught the Ultralytics workflow vulnerability](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection)
