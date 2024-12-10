@@ -2,6 +2,7 @@
 
 * [2024-12-10, 12:58:17](https://news.ycombinator.com/item?id=42376406) - [Next-generation datacenters consume zero water for cooling](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
 * [2024-12-10, 08:32:24](https://news.ycombinator.com/item?id=42374959) - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
+* [2024-12-10, 05:17:14](https://news.ycombinator.com/item?id=42373996) - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 * [2024-12-10, 04:37:16](https://news.ycombinator.com/item?id=42373805) - [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 01:19:47](https://news.ycombinator.com/item?id=42372617) - [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
@@ -28,7 +29,6 @@
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
-* [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
 * [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 
 ## [Archives](archives/index.md)

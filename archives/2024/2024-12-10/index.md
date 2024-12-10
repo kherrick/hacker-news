@@ -12,6 +12,7 @@
 * [2024-12-10, 08:32:24](https://news.ycombinator.com/item?id=42374959) - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
 * [2024-12-10, 08:00:48](https://news.ycombinator.com/item?id=42374823) - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
 * [2024-12-10, 06:56:41](https://news.ycombinator.com/item?id=42374469) - [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
+* [2024-12-10, 05:17:14](https://news.ycombinator.com/item?id=42373996) - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 * [2024-12-10, 04:37:16](https://news.ycombinator.com/item?id=42373805) - [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
 * [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
