@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-10, 12:58:17",
-      "https://news.ycombinator.com/item?id=42376406"
-    ],
-    [
-      "Next-generation datacenters consume zero water for cooling",
-      "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/"
-    ]
-  ],
-  [
-    [
       "2024-12-10, 08:32:24",
       "https://news.ycombinator.com/item?id=42374959"
     ],
@@ -57,16 +47,6 @@
     [
       "Common misconceptions about compilers",
       "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 00:47:08",
-      "https://news.ycombinator.com/item?id=42372384"
-    ],
-    [
-      "TCC and the macOS Platform Sandbox Policy",
-      "https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-12-03, 12:01:21",
+      "https://news.ycombinator.com/item?id=42305247"
+    ],
+    [
+      "How life goes on after an earthquake: The ‘Lego schools’ of Lombok",
+      "https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 08:16:05",
       "https://news.ycombinator.com/item?id=42304020"
     ],
     [
       "A simple way to scale pixel art games",
       "https://30fps.net/pages/pixelart-scaling/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 11:25:25",
+      "https://news.ycombinator.com/item?id=42295110"
+    ],
+    [
+      "Semiconductors and Modern Industrial Policy",
+      "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81"
     ]
   ]
 ]
