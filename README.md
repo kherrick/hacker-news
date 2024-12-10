@@ -24,11 +24,11 @@
 * [2024-12-09, 13:17:07](https://news.ycombinator.com/item?id=42366025) - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 * [2024-12-08, 22:46:11](https://news.ycombinator.com/item?id=42361404) - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
 * [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
+* [2024-12-07, 17:17:44](https://news.ycombinator.com/item?id=42351149) - [Mysterious, mathematical origins of world’s most unusually shaped national flag](https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète (1987)](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:55:15](https://news.ycombinator.com/item?id=42308303) - [LLM abstraction levels inspired by fish eye lens](https://wattenberger.com/thoughts/fish-eye)
 * [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
-* [2024-12-03, 08:16:05](https://news.ycombinator.com/item?id=42304020) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2024-12-02, 11:25:25](https://news.ycombinator.com/item?id=42295110) - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
 
 ## [Archives](archives/index.md)

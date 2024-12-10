@@ -29,6 +29,7 @@
 * [2024-12-07, 17:58:37](https://news.ycombinator.com/item?id=42351450) - [Ask HN: Next best to incorporate other than Delaware?](https://news.ycombinator.com/item?id=42351450)
 * [2024-12-07, 17:55:11](https://news.ycombinator.com/item?id=42351422) - [Wuhan lab samples hold no close relatives to virus behind Covid](https://www.nature.com/articles/d41586-024-03982-2)
 * [2024-12-07, 17:48:26](https://news.ycombinator.com/item?id=42351375) - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
+* [2024-12-07, 17:17:44](https://news.ycombinator.com/item?id=42351149) - [Mysterious, mathematical origins of world’s most unusually shaped national flag](https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html)
 * [2024-12-07, 17:11:32](https://news.ycombinator.com/item?id=42351101) - [Just: Just a Command Runner](https://just.systems/)
 * [2024-12-07, 16:26:10](https://news.ycombinator.com/item?id=42350768) - [Japanese scientists were pioneers of AI; they're being written out of history](https://theconversation.com/japanese-scientists-were-pioneers-of-ai-yet-theyre-being-written-out-of-its-history-243762)
 * [2024-12-07, 16:14:36](https://news.ycombinator.com/item?id=42350677) - [Co-sleeping causes 3 more infant deaths in New York, officials say in warning](https://www.cbsnews.com/newyork/news/co-sleeping-dangers-infant-deaths-suffolk-county/)
