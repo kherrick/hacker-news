@@ -35,6 +35,7 @@
 * [2024-12-02, 16:00:52](https://news.ycombinator.com/item?id=42297422) - [Ask HN: Who wants to be hired? (December 2024)](https://news.ycombinator.com/item?id=42297422)
 * [2024-12-02, 15:43:28](https://news.ycombinator.com/item?id=42297252) - [Every Board Game Rulebook Is Awful [pdf]](https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view)
 * [2024-12-02, 15:13:07](https://news.ycombinator.com/item?id=42296970) - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
+* [2024-12-02, 14:21:20](https://news.ycombinator.com/item?id=42296485) - [The Honeywell Kitchen Computer](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
 * [2024-12-02, 14:02:25](https://news.ycombinator.com/item?id=42296287) - [Kenya and \"The Decline of the Greatest Coffee\" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 * [2024-12-02, 13:56:02](https://news.ycombinator.com/item?id=42296228) - [Carbon dioxide capture from open air using covalent organic frameworks](https://www.nature.com/articles/s41586-024-08080-x)
 * [2024-12-02, 13:37:42](https://news.ycombinator.com/item?id=42296067) - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)

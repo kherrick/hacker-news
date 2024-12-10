@@ -8,6 +8,7 @@
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 02:32:17](https://news.ycombinator.com/item?id=42373106) - [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
 * [2024-12-10, 02:31:11](https://news.ycombinator.com/item?id=42373098) - [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
+* [2024-12-10, 02:22:37](https://news.ycombinator.com/item?id=42373051) - [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2024-12-10, 01:53:06](https://news.ycombinator.com/item?id=42372840) - [Ask HN: Other websites using HN's forum software (news.arc)?](https://news.ycombinator.com/item?id=42372840)
 * [2024-12-10, 01:19:47](https://news.ycombinator.com/item?id=42372617) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 00:47:08](https://news.ycombinator.com/item?id=42372384) - [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
