@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-10, 21:24:40](https://news.ycombinator.com/item?id=42381712) - [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
+* [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:59:50](https://news.ycombinator.com/item?id=42381406) - [AMD's trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
-* [2024-12-10, 20:50:56](https://news.ycombinator.com/item?id=42381311) - [Luigi's Manifesto](https://www.kenklippenstein.com/p/luigis-manifesto)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
 * [2024-12-10, 18:46:28](https://news.ycombinator.com/item?id=42379967) - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
