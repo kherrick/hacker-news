@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-10, 18:07:42",
+      "https://news.ycombinator.com/item?id=42379435"
+    ],
+    [
+      "Scientists claim they've found the cause mystery colon cancers in young people",
+      "https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 18:01:23",
+      "https://news.ycombinator.com/item?id=42379361"
+    ],
+    [
+      "OpenAI Releases Canvas",
+      "https://openai.com/12-days/?day=4"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 17:30:22",
       "https://news.ycombinator.com/item?id=42378994"
     ],
     [
       "Devin is now generally available",
       "https://www.cognition.ai/blog/devin-generally-available"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 17:24:13",
+      "https://news.ycombinator.com/item?id=42378929"
+    ],
+    [
+      "U.S. math scores drop on major international test",
+      "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Training LLMs to Reason in a Continuous Latent Space",
       "https://arxiv.org/abs/2412.06769"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 16:20:09",
-      "https://news.ycombinator.com/item?id=42378271"
-    ],
-    [
-      "I Use AI 100 Times per Hour",
-      "https://tomtunguz.com/ai-use-in-one-afternoon/"
     ]
   ],
   [
@@ -201,42 +221,12 @@
   ],
   [
     [
-      "2024-12-10, 01:19:47",
-      "https://news.ycombinator.com/item?id=42372617"
-    ],
-    [
-      "Common misconceptions about compilers",
-      "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 22:56:27",
       "https://news.ycombinator.com/item?id=42371476"
     ],
     [
       "Debanking (and Debunking?)",
       "https://www.bitsaboutmoney.com/archive/debanking-and-debunking/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 19:19:07",
-      "https://news.ycombinator.com/item?id=42369476"
-    ],
-    [
-      "Trellis – 3D mesh generative model",
-      "https://trellis3d.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 19:01:17",
-      "https://news.ycombinator.com/item?id=42369294"
-    ],
-    [
-      "ALICE finds first ever evidence of the antimatter partner of hyperhelium-4",
-      "https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Mysterious, mathematical origins of world’s most unusually shaped national flag",
       "https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 05:36:48",
+      "https://news.ycombinator.com/item?id=42347533"
+    ],
+    [
+      "Precursors of Copernicus' heliocentric theory",
+      "https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/"
     ]
   ],
   [
