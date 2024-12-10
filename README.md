@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-10, 21:24:40](https://news.ycombinator.com/item?id=42381712) - [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
-* [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:59:50](https://news.ycombinator.com/item?id=42381406) - [AMD's trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
@@ -28,6 +27,7 @@
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
 * [2024-12-07, 22:25:47](https://news.ycombinator.com/item?id=42353333) - [B+ Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
 * [2024-12-07, 13:10:32](https://news.ycombinator.com/item?id=42349574) - [Show HN: DIY 80€ 3D Printer Basement Ventilation](https://hajo.me/blog/2024/12/07/diy-80eur-3d-printer-basement-ventilation/)
+* [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 * [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
 * [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 
