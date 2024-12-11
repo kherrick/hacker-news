@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 13:38:46](https://news.ycombinator.com/item?id=42387549) - [The PayPal Mafia is taking over America's government](https://www.economist.com/business/2024/12/10/the-paypal-mafia-is-taking-over-americas-government)
 * [2024-12-11, 12:36:14](https://news.ycombinator.com/item?id=42387120) - [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 13:38:46](https://news.ycombinator.com/item?id=42387549) - [The PayPal Mafia is taking over America's government](https://www.economist.com/business/2024/12/10/the-paypal-mafia-is-taking-over-americas-government)
 * [2024-12-11, 12:36:14](https://news.ycombinator.com/item?id=42387120) - [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
-* [2024-12-11, 06:59:40](https://news.ycombinator.com/item?id=42385502) - [Show HN: Powerdrill – Leverage LLMs to Simplify Data Analysis](https://powerdrill.ai)
 * [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 06:31:16](https://news.ycombinator.com/item?id=42385357) - [You need 4 colors](https://www.iamsajid.com/colors/)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
