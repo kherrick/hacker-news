@@ -23,6 +23,7 @@
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
 * [2024-12-10, 18:46:28](https://news.ycombinator.com/item?id=42379967) - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 18:07:42](https://news.ycombinator.com/item?id=42379435) - [Scientists claim they've found the cause mystery colon cancers in young people](https://www.dailymail.co.uk/health/article-14176551/Scientists-cause-mystery-colon-cancers-young-people-lifestyle-factors.html)
+* [2024-12-10, 18:03:16](https://news.ycombinator.com/item?id=42379383) - [Chatbot hinted a kid should kill his parents over screen time limits: lawsuit](https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit)
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [Canvas](https://openai.com/index/introducing-canvas/)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)

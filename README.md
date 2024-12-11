@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 21:24:39](https://news.ycombinator.com/item?id=42393146) - [Three Packets Walk into a Tunnel](https://systemsapproach.org/2024/12/09/three-packets-walk-into-a-tunnel/)
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
@@ -21,13 +22,12 @@
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Bankruptcy judge rejects sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
-* [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The case against Google's claims of \"quantum supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 * [2024-12-11, 02:34:06](https://news.ycombinator.com/item?id=42384111) - [Borax or Baking Soda Rectifier and the glow (2003)](http://www.sparkbangbuzz.com/els/borax-el.htm)
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-10, 19:29:23](https://news.ycombinator.com/item?id=42380474) - [The Program, my fiction podcast launched on HN, 5 years and 1M downloads later](https://programaudioseries.com/the-program-results-6/)
+* [2024-12-10, 18:03:16](https://news.ycombinator.com/item?id=42379383) - [Chatbot hinted a kid should kill his parents over screen time limits: lawsuit](https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit)
 * [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
-* [2024-12-08, 14:16:38](https://news.ycombinator.com/item?id=42357272) - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
 * [2024-12-08, 09:15:32](https://news.ycombinator.com/item?id=42356016) - [Consider Rexx for Scripting (2022)](https://opensource.com/article/22/10/rexx-scripting-language)
 * [2024-12-06, 16:40:35](https://news.ycombinator.com/item?id=42341337) - [OpenLoco: An open source re-implementation of Chris Sawyer's Locomotion](https://github.com/OpenLoco/OpenLoco)
 
