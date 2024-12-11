@@ -62,6 +62,7 @@
 * [2024-12-03, 13:21:57](https://news.ycombinator.com/item?id=42305766) - [Union types ('enum types') would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 12:43:51](https://news.ycombinator.com/item?id=42305533) - [Two decades after Enron's bankruptcy, the company is back as a crypto firm?](https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/)
 * [2024-12-03, 12:16:33](https://news.ycombinator.com/item?id=42305348) - [Dependency management fatigue, or why I forever ditched React for Go+Htmx+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
+* [2024-12-03, 12:08:32](https://news.ycombinator.com/item?id=42305301) - [VVV: Virtual Volumes View](https://www.fsoft.it/VVV/index.html)
 * [2024-12-03, 12:01:21](https://news.ycombinator.com/item?id=42305247) - [How life goes on after an earthquake: The ‘Lego schools’ of Lombok](https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok)
 * [2024-12-03, 12:00:23](https://news.ycombinator.com/item?id=42305240) - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
 * [2024-12-03, 11:39:27](https://news.ycombinator.com/item?id=42305117) - [What I learned covering computer science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79)

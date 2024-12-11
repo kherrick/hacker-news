@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-11, 07:04:20](https://news.ycombinator.com/item?id=42385524) - [The Death of the Stubborn Developer](https://sourcegraph.com/blog/the-death-of-the-stubborn-developer)
+* [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 * [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 04:38:42](https://news.ycombinator.com/item?id=42384849) - [Turning Off Zen 4's Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
@@ -16,7 +16,6 @@
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 16:34:02](https://news.ycombinator.com/item?id=42378407) - [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-10, 16:26:17](https://news.ycombinator.com/item?id=42378335) - [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
-* [2024-12-10, 15:32:04](https://news.ycombinator.com/item?id=42377770) - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
 * [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
 * [2024-12-10, 05:22:50](https://news.ycombinator.com/item?id=42374027) - [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
@@ -29,6 +28,7 @@
 * [2024-12-06, 20:01:20](https://news.ycombinator.com/item?id=42343712) - [DIY Apple iPad Magic Keyboard Portrait Mode Smart Connector Cable](https://gist.github.com/ryancdavison/5c705d78cb5c14a809d0ba5a02ab1ba4)
 * [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
 * [2024-12-03, 16:28:33](https://news.ycombinator.com/item?id=42307968) - [Hypothalamic deep brain stimulation augments walking after spinal cord injury](https://www.nature.com/articles/s41591-024-03306-x)
+* [2024-12-03, 12:08:32](https://news.ycombinator.com/item?id=42305301) - [VVV: Virtual Volumes View](https://www.fsoft.it/VVV/index.html)
 * [2024-12-03, 11:39:27](https://news.ycombinator.com/item?id=42305117) - [What I learned covering computer science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79)
 
 ## [Archives](archives/index.md)
