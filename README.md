@@ -5,7 +5,6 @@
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
-* [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [2400 phone providers may be shut down by the FCC for failing to stop robocalls](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [Review of Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
@@ -30,6 +29,7 @@
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 09:15:32](https://news.ycombinator.com/item?id=42356016) - [Consider Rexx for Scripting (2022)](https://opensource.com/article/22/10/rexx-scripting-language)
 * [2024-12-06, 16:40:35](https://news.ycombinator.com/item?id=42341337) - [OpenLoco: An open source re-implementation of Chris Sawyer's Locomotion](https://github.com/OpenLoco/OpenLoco)
+* [2024-12-02, 12:09:02](https://news.ycombinator.com/item?id=42295386) - [Unix Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 
 ## [Archives](archives/index.md)
 

@@ -44,6 +44,7 @@
 * [2024-12-02, 13:22:19](https://news.ycombinator.com/item?id=42295938) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
 * [2024-12-02, 13:06:33](https://news.ycombinator.com/item?id=42295792) - [Show HN: SeekStorm – open-source sub-millisecond search in Rust](https://github.com/SeekStorm/SeekStorm)
 * [2024-12-02, 12:24:04](https://news.ycombinator.com/item?id=42295491) - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
+* [2024-12-02, 12:09:02](https://news.ycombinator.com/item?id=42295386) - [Unix Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 * [2024-12-02, 11:35:03](https://news.ycombinator.com/item?id=42295177) - [Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s](https://www.tribalknowledge.tech/)
 * [2024-12-02, 11:25:25](https://news.ycombinator.com/item?id=42295110) - [Semiconductors and Modern Industrial Policy](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81)
 * [2024-12-02, 10:50:24](https://news.ycombinator.com/item?id=42294902) - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
