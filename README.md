@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-11, 07:00:03](https://news.ycombinator.com/item?id=42385504) - [Heat disproportionately kills young people (study in Mexico)](https://www.science.org/doi/10.1126/sciadv.adq3367)
+* [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 05:13:16](https://news.ycombinator.com/item?id=42385000) - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
 * [2024-12-11, 04:38:42](https://news.ycombinator.com/item?id=42384849) - [Turning Off Zen 4's Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
