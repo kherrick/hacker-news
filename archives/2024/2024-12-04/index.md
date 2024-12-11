@@ -26,6 +26,7 @@
 * [2024-12-04, 17:03:26](https://news.ycombinator.com/item?id=42319461) - [Self-Funding Harberger Taxes](https://gwern.net/harberger)
 * [2024-12-04, 17:00:18](https://news.ycombinator.com/item?id=42319437) - [Ashby (YC W19) Is Hiring Principal Platform Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2024-12-04, 16:50:06](https://news.ycombinator.com/item?id=42319315) - [Launch HN: Parsagon (YC W21) – AI for public affairs and government relations](https://news.ycombinator.com/item?id=42319315)
+* [2024-12-04, 16:34:51](https://news.ycombinator.com/item?id=42319135) - [Haunted Graveyards in Consulting](https://datosh.github.io/post/haunted_graveyards_as_a_consultant/)
 * [2024-12-04, 16:25:35](https://news.ycombinator.com/item?id=42319070) - [Interview with Dr. Ken Iverson (1982)](https://www.arraycast.com/episodes/episode92-iverson)
 * [2024-12-04, 16:23:39](https://news.ycombinator.com/item?id=42319041) - [Pisces: UK regulated market for private shares [pdf]](https://assets.publishing.service.gov.uk/media/67374daf12f25d730812722c/PISCES_consultation_response_November_2024_vf.pdf)
 * [2024-12-04, 16:20:03](https://news.ycombinator.com/item?id=42318994) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)

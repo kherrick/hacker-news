@@ -6,6 +6,7 @@
 
 * [2024-12-11, 12:36:14](https://news.ycombinator.com/item?id=42387120) - [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
+* [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 11:15:52](https://news.ycombinator.com/item?id=42386726) - [Bankruptcy judge rejects The Onion's bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)
 * [2024-12-11, 11:06:48](https://news.ycombinator.com/item?id=42386683) - [The Onion's Purchase of Alex Jones' Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
