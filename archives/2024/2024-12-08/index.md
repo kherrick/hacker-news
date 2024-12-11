@@ -63,6 +63,7 @@
 * [2024-12-08, 10:38:03](https://news.ycombinator.com/item?id=42356360) - [SP1: A performant, 100% open-source, contributor-friendly zkVM](https://blog.succinct.xyz/introducing-sp1/)
 * [2024-12-08, 10:34:49](https://news.ycombinator.com/item?id=42356345) - [Zizmor would have caught the Ultralytics workflow vulnerability](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection)
 * [2024-12-08, 09:25:04](https://news.ycombinator.com/item?id=42356060) - [RFC 9557: Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
+* [2024-12-08, 09:15:32](https://news.ycombinator.com/item?id=42356016) - [Consider Rexx for Scripting (2022)](https://opensource.com/article/22/10/rexx-scripting-language)
 * [2024-12-08, 08:41:41](https://news.ycombinator.com/item?id=42355886) - [The New Product Liability Directive](https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en)
 * [2024-12-08, 08:35:14](https://news.ycombinator.com/item?id=42355874) - [Show HN: Run10K Trainer – Personalized Training Running Plans for Your 10K Race](https://www.run10ktrainer.com/)
 * [2024-12-08, 08:16:20](https://news.ycombinator.com/item?id=42355790) - [The UC Berkeley Project That Is the AI Industry's Obsession](https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3)
