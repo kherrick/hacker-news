@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
@@ -21,6 +20,7 @@
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Bankruptcy judge rejects sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The case against Google's claims of \"quantum supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
+* [2024-12-11, 02:34:06](https://news.ycombinator.com/item?id=42384111) - [Borax or Baking Soda Rectifier and the glow (2003)](http://www.sparkbangbuzz.com/els/borax-el.htm)
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-09, 14:57:01](https://news.ycombinator.com/item?id=42366753) - [How WhatsApp for business changed the world](https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/)
 * [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
