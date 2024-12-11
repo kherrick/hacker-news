@@ -17,6 +17,7 @@
 * [2024-12-10, 20:50:56](https://news.ycombinator.com/item?id=42381311) - [Luigi's Manifesto](https://www.kenklippenstein.com/p/luigis-manifesto)
 * [2024-12-10, 20:10:57](https://news.ycombinator.com/item?id=42380911) - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
 * [2024-12-10, 19:51:33](https://news.ycombinator.com/item?id=42380696) - [If you've got it, don't flaunt it in Sweden](https://www.economist.com/europe/2024/12/05/if-youve-got-it-dont-flaunt-it-in-sweden)
+* [2024-12-10, 19:29:23](https://news.ycombinator.com/item?id=42380474) - [The Program, my fiction podcast launched on HN, 5 years and 1M downloads later](https://programaudioseries.com/the-program-results-6/)
 * [2024-12-10, 18:54:00](https://news.ycombinator.com/item?id=42380054) - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
