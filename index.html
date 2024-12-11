@@ -129,6 +129,183 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42390761">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=42390761"
+              >Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for
+              airports</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-11 @ 18:07:11</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42390761"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.azalearobotics.com"
+                >https://www.azalearobotics.com</a
+              >). We build robots to handle passenger baggage in airports. Here
+              are some videos to give you the idea:
+              <p>
+                Unedited autonomous ops:
+                <a href="https://www.youtube.com/watch?v=DuJ3ZORnO1o"
+                  >https://www.youtube.com/watch?v=DuJ3ZORnO1o</a
+                >
+              </p>
+              <p>
+                Teleoperated (sped up, so no sound):
+                <a href="https://www.youtube.com/watch?v=LeK8NQLnYgA"
+                  >https://www.youtube.com/watch?v=LeK8NQLnYgA</a
+                >
+              </p>
+              <p>
+                The marketing version:
+                <a href="https://www.youtube.com/watch?v=k0SDPm09U6s"
+                  >https://www.youtube.com/watch?v=k0SDPm09U6s</a
+                >
+              </p>
+              <p>
+                Robotics is in an interesting place right now, with many
+                warehouse automation companies humming along for almost a
+                decade, and a lot of new effort going to full general purpose
+                hardware with humanoids and software via generalist robotics
+                foundation models. We love these efforts (David used to work on
+                one at Google X with Everyday Robots), but we also see a lot of
+                utility in the current wave of robotics planning and perception
+                tech that can enable new use cases today.
+              </p>
+              <p>
+                Airlines in the US compete primarily on efficiency and customer
+                loyalty, and baggage handling hits both (John B. has first-hand
+                experience from working on baggage optimization projects at
+                United Airlines). 2% of flights are delayed by baggage errors,
+                leading to downstream network delays. Baggage handling is also a
+                major complaint in customer experience—almost everyone has a
+                horror story of a missing bag, and sometimes people vow never to
+                fly an airline again for losing their belongings. Furthermore,
+                it’s a really dangerous job for employees from a repetitive
+                stress standpoint. EU regulation is coming to reflect this,
+                protecting workers with a maximum number of bags transferred per
+                shift to alleviate back and tendon injuries that are inherent to
+                this job.
+              </p>
+              <p>
+                Unfortunately for airlines, passengers don’t package their
+                luggage in nicely uniform cardboard boxes. If they did, then the
+                airlines could benefit directly from the recent takeoff in
+                manipulator tech for warehouses. But airline luggage is way more
+                wacky and irregular. If robots are going to handle it, they need
+                to reason about how to grasp each item, handle its
+                deformability, stack it in a stable way, and do all of this
+                quickly, safely, and reliably.
+              </p>
+              <p>
+                This is what we’re tackling at Azalea. We’re bringing our
+                expertise in deformable object manipulation, perception, robot
+                learning, and planning, to this logistical problem.
+              </p>
+              <p>
+                We have a few strong bets behind what we’re working on: (1) The
+                hardware to solve this problem has been available or
+                manufacturable for decades, what’s been missing is perception,
+                planning, and control. (2) Cobots, robots designed to operate
+                alongside humans, aren’t enough for safety. To do this task
+                efficiently, you need to move up to 50 kg bags very quickly,
+                which can be dangerous no matter how well the cobots are
+                designed. Light curtains (arrays of lasers that stop a machine
+                when interrupted) and machine cages are the current industrial
+                standard and remain the way to go. (3) Software for generalist
+                robots needs more data than most people today believe, and it
+                will be at least 15 years before deployment: we should focus on
+                specialized problems of economic value.
+              </p>
+              <p>Our core technical developments are in a few areas:</p>
+              <p>
+                - Grasp synthesis and selection: From visual data only, how can
+                we identify good candidate grasp points and rank them? For this,
+                we use a mix of physical reasoning, heuristics, and a lot of
+                learning from previous data, combined in a single objective
+                function. Furthermore, success must be evaluated as both a
+                successful grasp and continual hold throughout the transfer.
+              </p>
+              <p>
+                - Placement planning: How do we lay out luggage in the module
+                we’re loading? There’s a nice ramp-up in difficulty for this
+                problem, from open-loop “divide the world into a grid”
+                approaches, to 3d bin-packing optimization, to reinforcement
+                learning. An interesting aspect of this problem for us is that
+                the bags should be physically stable when the cart starts
+                driving, and lighter, deformable objects shouldn’t be underneath
+                heavy, hard objects. We use a similar mix of physics and
+                learning to model this problem.
+              </p>
+              <p>
+                - Fast collision-free planning: Off the shelf planners work
+                great for the most part but can fail in heavily cluttered areas
+                or dynamic scenes. We leverage the fact that we’re always
+                solving a series of similar problems to provide initial guesses
+                for downstream trajectory optimization algorithms. Since each
+                problem is so similar, we can use techniques similar to
+                generative models to propose these initial plans.
+              </p>
+              <p>
+                - Mechanical design: The perfect tool to pick up everything
+                checked down a conveyor belt isn’t an easy thing to design.
+                We’re building tools with multiple modes of grasping to handle
+                wide varieties of objects. The videos we linked to are all with
+                suction only – which can be surprisingly powerful! An
+                interesting aspect of autonomy becomes choosing which mode to
+                use when, and how to use it.
+              </p>
+              <p>
+                These problems can be deeply interlinked: where you grasp an
+                object depends on what your tooling looks like and informs where
+                you can put it– so a perfect solution would jointly reason about
+                both problems simultaneously. We’re looking forward to getting
+                there as we collect more data and continue our efforts.
+              </p>
+              <p>
+                Check out our demo videos above! We have a brand new hardware
+                stack coming soon (and we’ve added a new end effector that we’re
+                keeping hush), but it’s amazing what you can do with pure
+                suction.
+              </p>
+              <p>
+                We’re proud of our progress so far but would love to hear your
+                thoughts and feedback. Let us know if you’ve had a particularly
+                bad baggage horror story and/or have personal experience with
+                the industry.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="42390344">
+          <h3>
+            <a
+              class="item"
+              href="https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations"
+              >FCC Opens Entire 6 GHz Band to Low Power Device Operations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-11 @ 17:35:04</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42390344"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42390236">
           <h3>
             <a
@@ -142,11 +319,33 @@
             <h4>
               <span>2024-12-11 @ 17:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42390236"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42390210">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/"
+              >OnlyFans Models Are Using AI Impersonators to Keep Up with Their
+              DMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-11 @ 17:23:33</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42390210"
+                  >Comments</a
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -182,11 +381,11 @@
             <h4>
               <span>2024-12-11 @ 16:33:56</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42389532"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -202,11 +401,11 @@
             <h4>
               <span>2024-12-11 @ 15:51:22</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388973"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -223,11 +422,11 @@
             <h4>
               <span>2024-12-11 @ 15:44:58</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388901"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -244,11 +443,11 @@
             <h4>
               <span>2024-12-11 @ 15:33:54</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388783"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -263,11 +462,11 @@
             <h4>
               <span>2024-12-11 @ 15:24:10</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388665"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -283,13 +482,32 @@
             <h4>
               <span>2024-12-11 @ 15:09:56</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388488"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://play.google.com/store/apps/details?id=org.framasoft.peertube"
+                >https://play.google.com/store/apps/details?id=org.framasoft....</a
+              >
+              <p>
+                iOS:
+                <a href="https://apps.apple.com/fr/app/peertube/id6737834858"
+                  >https://apps.apple.com/fr/app/peertube/id6737834858</a
+                >
+              </p>
+              <p>
+                Repo:
+                <a
+                  href="https://framagit.org/framasoft/peertube/mobile-application"
+                  >https://framagit.org/framasoft/peertube/mobile-application</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="42388354">
@@ -302,11 +520,11 @@
             <h4>
               <span>2024-12-11 @ 14:57:25</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388354"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -323,11 +541,11 @@
             <h4>
               <span>2024-12-11 @ 14:56:29</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388340"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -345,11 +563,11 @@
             <h4>
               <span>2024-12-11 @ 14:51:08</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388273"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -367,7 +585,7 @@
             <h4>
               <span>2024-12-11 @ 14:36:20</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388109"
                   >Comments</a
@@ -388,30 +606,11 @@
             <h4>
               <span>2024-12-11 @ 14:28:42</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42388009"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42387519">
-          <h3>
-            <a class="item" href="https://github.com/marverix/gah"
-              >Gah – CLI to install software from GitHub Releases</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-11 @ 13:35:49</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42387519"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -428,11 +627,11 @@
             <h4>
               <span>2024-12-11 @ 12:19:12</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42387013"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -447,11 +646,11 @@
             <h4>
               <span>2024-12-11 @ 12:11:28</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42386971"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -468,11 +667,30 @@
             <h4>
               <span>2024-12-11 @ 08:56:50</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42386025"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42385357">
+          <h3>
+            <a class="item" href="https://www.iamsajid.com/colors/"
+              >You need 4 colors</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-11 @ 06:31:16</span
+              ><span class="points-container"
+                >Points: <span class="points">119</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42385357"
+                  >Comments</a
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -489,11 +707,11 @@
             <h4>
               <span>2024-12-11 @ 04:53:54</span
               ><span class="points-container"
-                >Points: <span class="points">390</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42384921"
                   >Comments</a
-                ><span class="descendants">: 517</span></span
+                ><span class="descendants">: 594</span></span
               >
             </h4>
           </section>
@@ -510,52 +728,11 @@
             <h4>
               <span>2024-12-11 @ 00:04:41</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42383136"
                   >Comments</a
                 ><span class="descendants">: 53</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42381637">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html"
-              >GM exits robotaxi market, will bring Cruise operations in
-              house</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-10 @ 21:19:22</span
-              ><span class="points-container"
-                >Points: <span class="points">369</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42381637"
-                  >Comments</a
-                ><span class="descendants">: 559</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42378488">
-          <h3>
-            <a class="item" href="https://antirez.com/news/144"
-              >From where I left</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-10 @ 16:41:52</span
-              ><span class="points-container"
-                >Points: <span class="points">1118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42378488"
-                  >Comments</a
-                ><span class="descendants">: 411</span></span
               >
             </h4>
           </section>
@@ -571,11 +748,11 @@
             <h4>
               <span>2024-12-10 @ 14:16:54</span
               ><span class="points-container"
-                >Points: <span class="points">399</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42377018"
                   >Comments</a
-                ><span class="descendants">: 392</span></span
+                ><span class="descendants">: 393</span></span
               >
             </h4>
             <div class="text">
@@ -741,7 +918,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42366753"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -759,11 +936,11 @@
             <h4>
               <span>2024-12-08 @ 16:58:48</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42358214"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -780,11 +957,11 @@
             <h4>
               <span>2024-12-08 @ 14:39:28</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42357377"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -801,11 +978,11 @@
             <h4>
               <span>2024-12-08 @ 14:16:38</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42357272"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -824,7 +1001,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42348716"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -839,11 +1016,11 @@
             <h4>
               <span>2024-12-07 @ 10:08:34</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42348655"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -860,32 +1037,11 @@
             <h4>
               <span>2024-12-07 @ 05:45:25</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42347571"
                   >Comments</a
-                ><span class="descendants">: 214</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42305117">
-          <h3>
-            <a
-              class="item"
-              href="https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79"
-              >What I learned covering computer science in 2024</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-03 @ 11:39:27</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42305117"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 228</span></span
               >
             </h4>
           </section>
