@@ -54,6 +54,7 @@
 * [2024-12-09, 10:20:07](https://news.ycombinator.com/item?id=42364716) - [Ask HN: What are your experiences with scaling a company?](https://news.ycombinator.com/item?id=42364716)
 * [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-12-09, 08:54:52](https://news.ycombinator.com/item?id=42364241) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
+* [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 and Raspberry Pi Monitor on sale now](https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
 * [2024-12-09, 07:31:48](https://news.ycombinator.com/item?id=42363782) - [Noise Filtering Using €1 Filter (2020)](https://jaantollander.com/post/noise-filtering-using-one-euro-filter/)

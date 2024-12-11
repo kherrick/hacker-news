@@ -24,7 +24,7 @@
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-09, 14:57:01](https://news.ycombinator.com/item?id=42366753) - [How WhatsApp for business changed the world](https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/)
 * [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
-* [2024-12-08, 14:39:28](https://news.ycombinator.com/item?id=42357377) - [Phantom Vibrations of a Lost Smartphone](https://www.sapiens.org/culture/smartphones-cyborgs-phantom-limb/)
+* [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 14:16:38](https://news.ycombinator.com/item?id=42357272) - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
 * [2024-12-08, 09:15:32](https://news.ycombinator.com/item?id=42356016) - [Consider Rexx for Scripting (2022)](https://opensource.com/article/22/10/rexx-scripting-language)
 * [2024-12-07, 10:19:50](https://news.ycombinator.com/item?id=42348716) - [Show HN: KeyTik: The All-in-One Automation Tool](https://github.com/Fajar-RahmadJaya/KeyTik)
