@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
+* [2024-12-11, 19:06:01](https://news.ycombinator.com/item?id=42391483) - [One of our clients hasn't paid us $130k – or \"Why Every Contract Clause Matters\"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
+* [2024-12-11, 19:02:17](https://news.ycombinator.com/item?id=42391442) - [Founder who built Snap's AI launches a snappy new take on video chatbots](https://techcrunch.com/2024/12/11/founder-who-built-snaps-ai-launches-a-snappy-new-take-on-video-chatbots/)
+* [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 18:02:39](https://news.ycombinator.com/item?id=42390709) - [Matt Mullenweg keeps digging his own grave](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
