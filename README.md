@@ -15,7 +15,6 @@
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 16:34:02](https://news.ycombinator.com/item?id=42378407) - [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-10, 16:26:17](https://news.ycombinator.com/item?id=42378335) - [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
-* [2024-12-10, 16:12:10](https://news.ycombinator.com/item?id=42378194) - [From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler](https://github.com/hikettei/Caten)
 * [2024-12-10, 15:32:04](https://news.ycombinator.com/item?id=42377770) - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
 * [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
@@ -29,6 +28,7 @@
 * [2024-12-08, 04:47:54](https://news.ycombinator.com/item?id=42355073) - [Watch carved from meteorite that hit Earth a million years ago](https://www.cnn.com/2024/12/05/style/toledano-chan-meteorite-watch-b1m/index.html)
 * [2024-12-07, 22:25:47](https://news.ycombinator.com/item?id=42353333) - [B+ Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
 * [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
+* [2024-12-06, 16:41:04](https://news.ycombinator.com/item?id=42341343) - [Oldest known wild bird lays egg at 74](https://www.bbc.co.uk/news/articles/c86w9n4jlvwo)
 * [2024-12-03, 16:28:33](https://news.ycombinator.com/item?id=42307968) - [Hypothalamic deep brain stimulation augments walking after spinal cord injury](https://www.nature.com/articles/s41591-024-03306-x)
 
 ## [Archives](archives/index.md)
