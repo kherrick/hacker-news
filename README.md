@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 15:52:34](https://news.ycombinator.com/item?id=42388983) - [Google are deliberately breaking YouTube when it detects you're running Firefox](https://old.reddit.com/r/firefox/comments/1cjbsmj/youtube_on_firefox_seems_to_be_getting_much_worse/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
@@ -7,11 +8,11 @@
 * [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
 * [2024-12-11, 14:57:25](https://news.ycombinator.com/item?id=42388354) - [Don't Get Distracted](https://calebhearth.com/dont-get-distracted)
 * [2024-12-11, 14:36:20](https://news.ycombinator.com/item?id=42388109) - [Machine Learning-Driven Static Profiling for GraalVM Native Image](https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2)
+* [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 13:35:49](https://news.ycombinator.com/item?id=42387519) - [Gah – CLI to install software from GitHub Releases](https://github.com/marverix/gah)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 * [2024-12-11, 06:31:16](https://news.ycombinator.com/item?id=42385357) - [You need 4 colors](https://www.iamsajid.com/colors/)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
@@ -27,7 +28,6 @@
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
 * [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 05:45:25](https://news.ycombinator.com/item?id=42347571) - [We all took the DVD boom era for granted](https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/)
-* [2024-12-06, 20:01:20](https://news.ycombinator.com/item?id=42343712) - [DIY Apple iPad Magic Keyboard Portrait Mode Smart Connector Cable](https://gist.github.com/ryancdavison/5c705d78cb5c14a809d0ba5a02ab1ba4)
 * [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
 * [2024-12-03, 11:39:27](https://news.ycombinator.com/item?id=42305117) - [What I learned covering computer science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79)
 
