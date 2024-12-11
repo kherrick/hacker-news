@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:00:03](https://news.ycombinator.com/item?id=42385504) - [Heat disproportionately kills young people (study in Mexico)](https://www.science.org/doi/10.1126/sciadv.adq3367)
 * [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 05:13:16](https://news.ycombinator.com/item?id=42385000) - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
