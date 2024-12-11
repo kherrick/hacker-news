@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
+* [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
 * [2024-12-11, 15:06:39](https://news.ycombinator.com/item?id=42388455) - [Ken Shirriff Tracks Down Intel's Infamous Pentium FDIV Bug in the Silicon Itself](https://www.hackster.io/news/ken-shirriff-tracks-down-intel-s-infamous-pentium-fdiv-bug-in-the-silicon-itself-fe6b8be99f30)
 * [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
@@ -11,7 +12,6 @@
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
-* [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 06:31:16](https://news.ycombinator.com/item?id=42385357) - [You need 4 colors](https://www.iamsajid.com/colors/)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
