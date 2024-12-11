@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
 * [2024-12-11, 15:06:39](https://news.ycombinator.com/item?id=42388455) - [Ken Shirriff Tracks Down Intel's Infamous Pentium FDIV Bug in the Silicon Itself](https://www.hackster.io/news/ken-shirriff-tracks-down-intel-s-infamous-pentium-fdiv-bug-in-the-silicon-itself-fe6b8be99f30)
 * [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
@@ -7,7 +8,6 @@
 * [2024-12-11, 14:36:20](https://news.ycombinator.com/item?id=42388109) - [Machine Learning-Driven Static Profiling for GraalVM Native Image](https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2)
 * [2024-12-11, 13:35:49](https://news.ycombinator.com/item?id=42387519) - [Gah – CLI to install software from GitHub Releases](https://github.com/marverix/gah)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
-* [2024-12-11, 12:15:01](https://news.ycombinator.com/item?id=42386993) - [Court orders Automattic to restore WP Engine's access to WordPress.org](https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
