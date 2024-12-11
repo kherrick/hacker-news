@@ -49,6 +49,7 @@
 * [2024-12-08, 15:28:39](https://news.ycombinator.com/item?id=42357666) - [Ask HN: Does retro computing make you feel younger or older?](https://news.ycombinator.com/item?id=42357666)
 * [2024-12-08, 15:27:49](https://news.ycombinator.com/item?id=42357663) - [\"Paycheck-to-paycheck\" and five other popular myths](https://www.noahpinion.blog/p/paycheck-to-paycheck-and-five-other)
 * [2024-12-08, 14:38:21](https://news.ycombinator.com/item?id=42357372) - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
+* [2024-12-08, 14:16:38](https://news.ycombinator.com/item?id=42357272) - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
 * [2024-12-08, 13:47:54](https://news.ycombinator.com/item?id=42357115) - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
 * [2024-12-08, 13:46:26](https://news.ycombinator.com/item?id=42357106) - [Monkeys Can Predict Election Outcomes](https://www.stevestewartwilliams.com/p/monkeys-can-predict-election-outcomes)
 * [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
