@@ -37,6 +37,7 @@
 * [2024-12-08, 17:17:53](https://news.ycombinator.com/item?id=42358388) - [Unless my phone can be a PC, I don't want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
 * [2024-12-08, 17:15:13](https://news.ycombinator.com/item?id=42358358) - [Replace Philips Hue Automation with Home Assistant's](https://blog.frankel.ch/home-assistant/3/)
 * [2024-12-08, 17:05:16](https://news.ycombinator.com/item?id=42358269) - [Starlark Programming Language](https://starlark-lang.org/)
+* [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland: The Marketing and Reality of the United Fruit Company](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 16:58:17](https://news.ycombinator.com/item?id=42358206) - [Anthem drops controversial new plan to cap anesthesia coverage after backlash](https://www.usatoday.com/story/news/health/2024/12/05/anesthesia-policy-anthem-bcbs/76796002007/)
 * [2024-12-08, 16:38:10](https://news.ycombinator.com/item?id=42358050) - [Long Convolutions via Polynomial Multiplication](https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial)
 * [2024-12-08, 16:28:08](https://news.ycombinator.com/item?id=42357983) - [Scratch and Sniff Stickers and the Gas Panic of '87](https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/)
