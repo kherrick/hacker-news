@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 05:13:16](https://news.ycombinator.com/item?id=42385000) - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
-* [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 * [2024-12-11, 01:48:35](https://news.ycombinator.com/item?id=42383840) - [Alzheimer's study shows ketone bodies help clear misfolded proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
 * [2024-12-11, 00:04:41](https://news.ycombinator.com/item?id=42383136) - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
@@ -22,6 +21,7 @@
 * [2024-12-10, 05:22:50](https://news.ycombinator.com/item?id=42374027) - [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
 * [2024-12-10, 03:12:12](https://news.ycombinator.com/item?id=42373343) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
 * [2024-12-09, 18:55:24](https://news.ycombinator.com/item?id=42369233) - [How God Plays Chess (2018)](https://en.chessbase.com/post/how-god-plays-chess)
+* [2024-12-09, 14:48:04](https://news.ycombinator.com/item?id=42366665) - [Show HN: Holos – Configure Kubernetes with CUE data structures instead of YAML](https://holos.run/docs/v1alpha5/tutorial/overview/)
 * [2024-12-09, 10:20:07](https://news.ycombinator.com/item?id=42364716) - [Ask HN: What are your experiences with scaling a company?](https://news.ycombinator.com/item?id=42364716)
 * [2024-12-08, 18:54:15](https://news.ycombinator.com/item?id=42359299) - [NAND Flash Targets 1k Layers](https://semiengineering.com/nand-flash-targets-1000-layers/)
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
