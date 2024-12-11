@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-11, 07:00:03",
+      "https://news.ycombinator.com/item?id=42385504"
+    ],
+    [
+      "Heat disproportionately kills young people (study in Mexico)",
+      "https://www.science.org/doi/10.1126/sciadv.adq3367"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 05:13:16",
       "https://news.ycombinator.com/item?id=42385000"
     ],
     [
       "Jury finds Cognizant discriminated against US workers",
       "https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 04:38:42",
+      "https://news.ycombinator.com/item?id=42384849"
+    ],
+    [
+      "Turning Off Zen 4's Op Cache for Curiosity and Giggles",
+      "https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Electric (Postgres sync engine) beta release",
       "https://electric-sql.com/blog/2024/12/10/electric-beta-release"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 23:20:34",
-      "https://news.ycombinator.com/item?id=42382829"
-    ],
-    [
-      "WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction",
-      "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "How God Plays Chess (2018)",
       "https://en.chessbase.com/post/how-god-plays-chess"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 14:48:04",
-      "https://news.ycombinator.com/item?id=42366665"
-    ],
-    [
-      "Show HN: Holos – Configure Kubernetes with CUE data structures instead of YAML",
-      "https://holos.run/docs/v1alpha5/tutorial/overview/"
     ]
   ],
   [
