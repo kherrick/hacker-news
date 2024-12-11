@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-11, 18:08:13",
+      "https://news.ycombinator.com/item?id=42390768"
+    ],
+    [
+      "X41 Reviewed Mullvad VPN",
+      "https://x41-dsec.de/news/2024/12/11/mullvad/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 18:07:11",
       "https://news.ycombinator.com/item?id=42390761"
     ],
     [
       "Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports",
       "https://news.ycombinator.com/item?id=42390761"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 18:02:39",
+      "https://news.ycombinator.com/item?id=42390709"
+    ],
+    [
+      "Matt Mullenweg keeps digging his own grave",
+      "https://www.404media.co/wordpress-wp-engine-preliminary-injunction/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42390236"
     ],
     [
-      "Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US",
+      "Estimated concentrations of atrazine in agricultural groundwater",
       "https://water.usgs.gov/nawqa/pnsp/features/feature.php"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42388354"
     ],
     [
-      "Don't Get Distracted",
+      "Don't Get Distracted (2017)",
       "https://calebhearth.com/dont-get-distracted"
     ]
   ],
@@ -191,21 +211,11 @@
   ],
   [
     [
-      "2024-12-11, 06:31:16",
-      "https://news.ycombinator.com/item?id=42385357"
-    ],
-    [
-      "You need 4 colors",
-      "https://www.iamsajid.com/colors/"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 04:53:54",
       "https://news.ycombinator.com/item?id=42384921"
     ],
     [
-      "Judge Refuses to Allow Sale of Infowars to The Onion",
+      "Bankruptcy judge rejects sale of Infowars to The Onion",
       "https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html"
     ]
   ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2024-12-10, 14:16:54",
-      "https://news.ycombinator.com/item?id=42377018"
-    ],
-    [
-      "Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios",
-      "https://news.ycombinator.com/item?id=42377018"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 14:57:01",
       "https://news.ycombinator.com/item?id=42366753"
     ],
     [
-      "WhatsApp for Business Changed the World",
+      "How WhatsApp for business changed the world",
       "https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 16:58:48",
-      "https://news.ycombinator.com/item?id=42358214"
-    ],
-    [
-      "The Myth of Bananaland: The Marketing and Reality of the United Fruit Company",
-      "https://worldhistory.substack.com/p/the-myth-of-bananaland"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "We all took the DVD boom era for granted",
       "https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:40:35",
+      "https://news.ycombinator.com/item?id=42341337"
+    ],
+    [
+      "OpenLoco/OpenLoco: An open source re-implementation of Chris Sawyer's Locomotion",
+      "https://github.com/OpenLoco/OpenLoco"
     ]
   ]
 ]
