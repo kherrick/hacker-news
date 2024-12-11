@@ -9,6 +9,7 @@
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
 * [2024-12-11, 19:06:01](https://news.ycombinator.com/item?id=42391483) - [One of our clients hasn't paid us $130k – or \"Why Every Contract Clause Matters\"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
+* [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
 * [2024-12-11, 19:02:17](https://news.ycombinator.com/item?id=42391442) - [Founder who built Snap's AI launches a snappy new take on video chatbots](https://techcrunch.com/2024/12/11/founder-who-built-snaps-ai-launches-a-snappy-new-take-on-video-chatbots/)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)

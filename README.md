@@ -3,7 +3,8 @@
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
-* [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
+* [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
+* [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [2400 phone providers may be shut down by the FCC for failing to stop robocalls](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
@@ -27,7 +28,6 @@
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 14:16:38](https://news.ycombinator.com/item?id=42357272) - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
 * [2024-12-08, 09:15:32](https://news.ycombinator.com/item?id=42356016) - [Consider Rexx for Scripting (2022)](https://opensource.com/article/22/10/rexx-scripting-language)
-* [2024-12-07, 10:19:50](https://news.ycombinator.com/item?id=42348716) - [Show HN: KeyTik: The All-in-One Automation Tool](https://github.com/Fajar-RahmadJaya/KeyTik)
 * [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-06, 16:40:35](https://news.ycombinator.com/item?id=42341337) - [OpenLoco: An open source re-implementation of Chris Sawyer's Locomotion](https://github.com/OpenLoco/OpenLoco)
 
