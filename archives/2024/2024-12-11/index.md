@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
 * [2024-12-11, 17:25:25](https://news.ycombinator.com/item?id=42390236) - [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
+* [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
 * [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:52:34](https://news.ycombinator.com/item?id=42388983) - [Google are deliberately breaking YouTube when it detects you're running Firefox](https://old.reddit.com/r/firefox/comments/1cjbsmj/youtube_on_firefox_seems_to_be_getting_much_worse/)

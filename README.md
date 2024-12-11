@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 17:25:25](https://news.ycombinator.com/item?id=42390236) - [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
+* [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
 * [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
@@ -18,7 +19,6 @@
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
-* [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 * [2024-12-11, 00:04:41](https://news.ycombinator.com/item?id=42383136) - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
