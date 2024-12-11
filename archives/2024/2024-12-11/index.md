@@ -11,6 +11,7 @@
 * [2024-12-11, 15:06:39](https://news.ycombinator.com/item?id=42388455) - [Ken Shirriff Tracks Down Intel's Infamous Pentium FDIV Bug in the Silicon Itself](https://www.hackster.io/news/ken-shirriff-tracks-down-intel-s-infamous-pentium-fdiv-bug-in-the-silicon-itself-fe6b8be99f30)
 * [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
 * [2024-12-11, 14:57:25](https://news.ycombinator.com/item?id=42388354) - [Don't Get Distracted](https://calebhearth.com/dont-get-distracted)
+* [2024-12-11, 14:56:29](https://news.ycombinator.com/item?id=42388340) - [Django and Postgres for the Busy Rails Developer](https://andyatkinson.com/django-python-postgres-busy-rails-developer)
 * [2024-12-11, 14:36:20](https://news.ycombinator.com/item?id=42388109) - [Machine Learning-Driven Static Profiling for GraalVM Native Image](https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 13:40:57](https://news.ycombinator.com/item?id=42387573) - [PHP Docker image just hit 1B pulls on Docker Hub](https://mydevmentor.com/blog/1-billion-pulls-later-php-is-far-from-dead)
