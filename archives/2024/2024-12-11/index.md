@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:52:34](https://news.ycombinator.com/item?id=42388983) - [Google are deliberately breaking YouTube when it detects you're running Firefox](https://old.reddit.com/r/firefox/comments/1cjbsmj/youtube_on_firefox_seems_to_be_getting_much_worse/)
+* [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)

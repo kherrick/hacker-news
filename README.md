@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
+* [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
-* [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
 * [2024-12-11, 14:57:25](https://news.ycombinator.com/item?id=42388354) - [Don't Get Distracted](https://calebhearth.com/dont-get-distracted)
 * [2024-12-11, 14:56:29](https://news.ycombinator.com/item?id=42388340) - [Django and Postgres for the Busy Rails Developer](https://andyatkinson.com/django-python-postgres-busy-rails-developer)
 * [2024-12-11, 14:36:20](https://news.ycombinator.com/item?id=42388109) - [Machine Learning-Driven Static Profiling for GraalVM Native Image](https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2)
@@ -28,7 +29,6 @@
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
 * [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 05:45:25](https://news.ycombinator.com/item?id=42347571) - [We all took the DVD boom era for granted](https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/)
-* [2024-12-06, 19:41:38](https://news.ycombinator.com/item?id=42343480) - [Google says AI weather model masters 15-day forecast](https://phys.org/news/2024-12-google-ai-weather-masters-day.html)
 * [2024-12-03, 11:39:27](https://news.ycombinator.com/item?id=42305117) - [What I learned covering computer science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79)
 
 ## [Archives](archives/index.md)
