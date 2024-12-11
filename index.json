@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-11, 15:33:54",
+      "https://news.ycombinator.com/item?id=42388783"
+    ],
+    [
+      "Gemini 2.0: our new AI model for the agentic era",
+      "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 15:09:56",
       "https://news.ycombinator.com/item?id=42388488"
     ],
@@ -67,16 +77,6 @@
     [
       "Making memcpy(NULL, NULL, 0) well-defined",
       "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 12:15:01",
-      "https://news.ycombinator.com/item?id=42386993"
-    ],
-    [
-      "Court orders Automattic to restore WP Engine's access to WordPress.org",
-      "https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/"
     ]
   ],
   [
