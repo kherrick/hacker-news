@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-11, 11:15:52](https://news.ycombinator.com/item?id=42386726) - [Bankruptcy judge rejects The Onion's bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)
 * [2024-12-11, 11:06:48](https://news.ycombinator.com/item?id=42386683) - [The Onion's Purchase of Alex Jones' Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
@@ -13,6 +12,7 @@
 * [2024-12-10, 23:12:21](https://news.ycombinator.com/item?id=42382759) - [The Albuquerque \"Broken Arrow\" Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
+* [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
 * [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
