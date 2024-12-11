@@ -54,6 +54,7 @@
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
 * [2024-12-07, 10:16:48](https://news.ycombinator.com/item?id=42348699) - [Stimulants in Germanic communities of the Roman period](https://www.degruyter.com/document/doi/10.1515/pz-2024-2017/html)
 * [2024-12-07, 10:10:39](https://news.ycombinator.com/item?id=42348664) - [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)
+* [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 09:42:59](https://news.ycombinator.com/item?id=42348513) - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 * [2024-12-07, 08:14:43](https://news.ycombinator.com/item?id=42348147) - [Never fail a technical interview again](https://github.com/ibttf/interview-coder)
 * [2024-12-07, 08:02:07](https://news.ycombinator.com/item?id=42348085) - [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)

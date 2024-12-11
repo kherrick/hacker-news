@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 12:36:14](https://news.ycombinator.com/item?id=42387120) - [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
+* [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 11:15:52](https://news.ycombinator.com/item?id=42386726) - [Bankruptcy judge rejects The Onion's bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)
 * [2024-12-11, 11:06:48](https://news.ycombinator.com/item?id=42386683) - [The Onion's Purchase of Alex Jones' Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 * [2024-12-11, 07:04:20](https://news.ycombinator.com/item?id=42385524) - [The Death of the Stubborn Developer](https://sourcegraph.com/blog/the-death-of-the-stubborn-developer)
 * [2024-12-11, 07:00:03](https://news.ycombinator.com/item?id=42385504) - [Heat disproportionately kills young people (study in Mexico)](https://www.science.org/doi/10.1126/sciadv.adq3367)
+* [2024-12-11, 06:59:40](https://news.ycombinator.com/item?id=42385502) - [Show HN: Powerdrill – Leverage LLMs to Simplify Data Analysis](https://powerdrill.ai)
 * [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
 * [2024-12-11, 06:31:16](https://news.ycombinator.com/item?id=42385357) - [You need 4 colors](https://www.iamsajid.com/colors/)
 * [2024-12-11, 05:13:16](https://news.ycombinator.com/item?id=42385000) - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
