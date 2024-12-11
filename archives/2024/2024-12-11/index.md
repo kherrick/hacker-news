@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
+* [2024-12-11, 18:02:39](https://news.ycombinator.com/item?id=42390709) - [Matt Mullenweg keeps digging his own grave](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations)
 * [2024-12-11, 17:25:25](https://news.ycombinator.com/item?id=42390236) - [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
 * [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
