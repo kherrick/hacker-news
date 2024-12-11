@@ -41,6 +41,7 @@
 * [2024-12-03, 16:49:32](https://news.ycombinator.com/item?id=42308234) - [My Brand New Digitizing Workflow Using a 25 Year Old Film Scanner](https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/)
 * [2024-12-03, 16:44:30](https://news.ycombinator.com/item?id=42308184) - [Broadcom loses another big VMware customer](https://www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/)
 * [2024-12-03, 16:34:18](https://news.ycombinator.com/item?id=42308051) - [Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node](https://skia-canvas.org/)
+* [2024-12-03, 16:28:33](https://news.ycombinator.com/item?id=42307968) - [Hypothalamic deep brain stimulation augments walking after spinal cord injury](https://www.nature.com/articles/s41591-024-03306-x)
 * [2024-12-03, 16:01:42](https://news.ycombinator.com/item?id=42307604) - [My domain registrar (DNSimple) tried to 5x the cost of my reseller plan](https://watilo.com/my-domain-registrar-dnsimple-tried-to-5x-the-cost-of-my-reseller-plan)
 * [2024-12-03, 15:46:57](https://news.ycombinator.com/item?id=42307393) - [Launch HN: Vocera (YC F24) – Testing and Observability for Voice AI](https://news.ycombinator.com/item?id=42307393)
 * [2024-12-03, 15:34:26](https://news.ycombinator.com/item?id=42307223) - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
