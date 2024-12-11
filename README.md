@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 13:40:57](https://news.ycombinator.com/item?id=42387573) - [PHP Docker image just hit 1B pulls on Docker Hub](https://mydevmentor.com/blog/1-billion-pulls-later-php-is-far-from-dead)
-* [2024-12-11, 13:38:46](https://news.ycombinator.com/item?id=42387549) - [The PayPal Mafia is taking over America's government](https://www.economist.com/business/2024/12/10/the-paypal-mafia-is-taking-over-americas-government)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:15:01](https://news.ycombinator.com/item?id=42386993) - [Court orders Automattic to restore WP Engine's access to WordPress.org](https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
@@ -13,6 +12,7 @@
 * [2024-12-11, 04:38:42](https://news.ycombinator.com/item?id=42384849) - [Turning Off Zen 4's Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 * [2024-12-11, 00:04:41](https://news.ycombinator.com/item?id=42383136) - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
+* [2024-12-10, 23:12:21](https://news.ycombinator.com/item?id=42382759) - [The Albuquerque \"Broken Arrow\" Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
