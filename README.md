@@ -22,7 +22,7 @@
 * [2024-12-10, 05:22:50](https://news.ycombinator.com/item?id=42374027) - [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
 * [2024-12-10, 03:12:12](https://news.ycombinator.com/item?id=42373343) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
 * [2024-12-09, 18:55:24](https://news.ycombinator.com/item?id=42369233) - [How God Plays Chess (2018)](https://en.chessbase.com/post/how-god-plays-chess)
-* [2024-12-09, 10:20:07](https://news.ycombinator.com/item?id=42364716) - [Ask HN: What are your experiences with scaling a company?](https://news.ycombinator.com/item?id=42364716)
+* [2024-12-09, 04:03:32](https://news.ycombinator.com/item?id=42362980) - [Pat Gelsinger and Linus Torvalds talk Linux, open source, technology and more [video]](https://www.youtube.com/watch?v=0m4hlWx7oRk)
 * [2024-12-08, 18:54:15](https://news.ycombinator.com/item?id=42359299) - [NAND Flash Targets 1k Layers](https://semiengineering.com/nand-flash-targets-1000-layers/)
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
 * [2024-12-08, 04:47:54](https://news.ycombinator.com/item?id=42355073) - [Watch carved from meteorite that hit Earth a million years ago](https://www.cnn.com/2024/12/05/style/toledano-chan-meteorite-watch-b1m/index.html)
