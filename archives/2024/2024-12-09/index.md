@@ -52,6 +52,7 @@
 * [2024-12-09, 11:36:55](https://news.ycombinator.com/item?id=42365222) - [A liar who always lies says \"All my hats are green.\"](https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle)
 * [2024-12-09, 10:31:37](https://news.ycombinator.com/item?id=42364790) - [Research Note: Meta's Role in Romania's 2024 Presidential Election](https://checkfirst.network/research-note-metas-role-in-romanias-2024-presidential-election/)
 * [2024-12-09, 10:20:07](https://news.ycombinator.com/item?id=42364716) - [Ask HN: What are your experiences with scaling a company?](https://news.ycombinator.com/item?id=42364716)
+* [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-12-09, 08:54:52](https://news.ycombinator.com/item?id=42364241) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 and Raspberry Pi Monitor on sale now](https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/)
 * [2024-12-09, 08:21:04](https://news.ycombinator.com/item?id=42364038) - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
