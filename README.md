@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 17:25:25](https://news.ycombinator.com/item?id=42390236) - [Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
 * [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
+* [2024-12-11, 15:44:58](https://news.ycombinator.com/item?id=42388901) - [Trillium TPU Is GA](https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
@@ -15,7 +17,6 @@
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:11:28](https://news.ycombinator.com/item?id=42386971) - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-11, 06:31:16](https://news.ycombinator.com/item?id=42385357) - [You need 4 colors](https://www.iamsajid.com/colors/)
 * [2024-12-11, 04:53:54](https://news.ycombinator.com/item?id=42384921) - [Judge Refuses to Allow Sale of Infowars to The Onion](https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html)
 * [2024-12-11, 04:22:10](https://news.ycombinator.com/item?id=42384768) - [The Case Against Google's Claims of \"Quantum Supremacy\"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 * [2024-12-11, 00:04:41](https://news.ycombinator.com/item?id=42383136) - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
@@ -26,10 +27,9 @@
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland: The Marketing and Reality of the United Fruit Company](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:39:28](https://news.ycombinator.com/item?id=42357377) - [Phantom Vibrations of a Lost Smartphone](https://www.sapiens.org/culture/smartphones-cyborgs-phantom-limb/)
 * [2024-12-08, 14:16:38](https://news.ycombinator.com/item?id=42357272) - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
-* [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
+* [2024-12-07, 10:19:50](https://news.ycombinator.com/item?id=42348716) - [Show HN: KeyTik: The All-in-One Automation Tool](https://github.com/Fajar-RahmadJaya/KeyTik)
 * [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 05:45:25](https://news.ycombinator.com/item?id=42347571) - [We all took the DVD boom era for granted](https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/)
-* [2024-12-03, 11:39:27](https://news.ycombinator.com/item?id=42305117) - [What I learned covering computer science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746?e=4ee9db7d79)
 
 ## [Archives](archives/index.md)
 

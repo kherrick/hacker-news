@@ -52,6 +52,7 @@
 * [2024-12-07, 10:48:52](https://news.ycombinator.com/item?id=42348855) - [Now Boarding: The Story of Airport](https://airport.revolvertype.com/)
 * [2024-12-07, 10:44:19](https://news.ycombinator.com/item?id=42348841) - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
+* [2024-12-07, 10:19:50](https://news.ycombinator.com/item?id=42348716) - [Show HN: KeyTik: The All-in-One Automation Tool](https://github.com/Fajar-RahmadJaya/KeyTik)
 * [2024-12-07, 10:16:48](https://news.ycombinator.com/item?id=42348699) - [Stimulants in Germanic communities of the Roman period](https://www.degruyter.com/document/doi/10.1515/pz-2024-2017/html)
 * [2024-12-07, 10:10:39](https://news.ycombinator.com/item?id=42348664) - [Firefox Is the Superior Browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 10:08:34](https://news.ycombinator.com/item?id=42348655) - [Understanding the Odin Programming Language](https://odinbook.com/)
