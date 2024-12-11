@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:52:34](https://news.ycombinator.com/item?id=42388983) - [Google are deliberately breaking YouTube when it detects you're running Firefox](https://old.reddit.com/r/firefox/comments/1cjbsmj/youtube_on_firefox_seems_to_be_getting_much_worse/)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
@@ -14,6 +15,7 @@
 * [2024-12-11, 15:03:04](https://news.ycombinator.com/item?id=42388413) - [Dropbox saved millions building a custom load balancer](https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars)
 * [2024-12-11, 14:57:25](https://news.ycombinator.com/item?id=42388354) - [Don't Get Distracted](https://calebhearth.com/dont-get-distracted)
 * [2024-12-11, 14:56:29](https://news.ycombinator.com/item?id=42388340) - [Django and Postgres for the Busy Rails Developer](https://andyatkinson.com/django-python-postgres-busy-rails-developer)
+* [2024-12-11, 14:51:08](https://news.ycombinator.com/item?id=42388273) - [Overweight overtakes tobacco smoking as the leading disease risk factor in 2024](https://www.scimex.org/newsfeed/being-overweight-overtakes-tobacco-smoking-as-the-leading-disease-risk-factor-in-2024)
 * [2024-12-11, 14:36:20](https://news.ycombinator.com/item?id=42388109) - [Machine Learning-Driven Static Profiling for GraalVM Native Image](https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 13:40:57](https://news.ycombinator.com/item?id=42387573) - [PHP Docker image just hit 1B pulls on Docker Hub](https://mydevmentor.com/blog/1-billion-pulls-later-php-is-far-from-dead)
