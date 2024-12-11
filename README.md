@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
-* [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [FCC could block over 2,400 providers from robocall mitigation database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
+* [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 17:58:09](https://news.ycombinator.com/item?id=42390650) - [Chatbot 'encouraged teen to kill parents over screen time limit'](https://www.bbc.com/news/articles/cd605e48q1vo)
-* [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
+* [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 17:25:25](https://news.ycombinator.com/item?id=42390236) - [Estimated concentrations of atrazine in agricultural groundwater](https://water.usgs.gov/nawqa/pnsp/features/feature.php)
 * [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
