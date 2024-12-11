@@ -62,6 +62,7 @@
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
 * [2024-12-07, 05:54:48](https://news.ycombinator.com/item?id=42347601) - [Health insurers remove executive bios, images from websites after CEO killing](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/)
+* [2024-12-07, 05:45:25](https://news.ycombinator.com/item?id=42347571) - [We all took the DVD boom era for granted](https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/)
 * [2024-12-07, 05:36:48](https://news.ycombinator.com/item?id=42347533) - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
 * [2024-12-07, 05:20:12](https://news.ycombinator.com/item?id=42347466) - [Atoms for Peace: Learning to Love the Bomb](https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb)
 * [2024-12-07, 05:12:07](https://news.ycombinator.com/item?id=42347432) - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
