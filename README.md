@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-11, 11:15:52](https://news.ycombinator.com/item?id=42386726) - [Bankruptcy judge rejects The Onion's bid for Infowars](https://www.npr.org/2024/12/10/nx-s1-5224170/infowars-alex-jones-the-onion-bankruptcy-judge)
+* [2024-12-11, 11:06:48](https://news.ycombinator.com/item?id=42386683) - [The Onion's Purchase of Alex Jones' Infowars Stopped by US Judge](https://www.reuters.com/legal/onions-purchase-alex-jones-infowars-stopped-by-us-judge-2024-12-11/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-11, 07:56:39](https://news.ycombinator.com/item?id=42385761) - [Astronomy Photographer of the Year 2024 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2024)
 * [2024-12-11, 06:52:32](https://news.ycombinator.com/item?id=42385471) - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
@@ -11,7 +13,6 @@
 * [2024-12-10, 23:12:21](https://news.ycombinator.com/item?id=42382759) - [The Albuquerque \"Broken Arrow\" Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
 * [2024-12-10, 18:47:20](https://news.ycombinator.com/item?id=42379974) - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
-* [2024-12-10, 18:46:50](https://news.ycombinator.com/item?id=42379970) - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
 * [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
 * [2024-12-10, 16:41:52](https://news.ycombinator.com/item?id=42378488) - [From where I left](https://antirez.com/news/144)
@@ -19,7 +20,6 @@
 * [2024-12-10, 16:26:17](https://news.ycombinator.com/item?id=42378335) - [Training LLMs to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
 * [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
-* [2024-12-10, 05:22:50](https://news.ycombinator.com/item?id=42374027) - [Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
 * [2024-12-08, 18:54:15](https://news.ycombinator.com/item?id=42359299) - [NAND Flash Targets 1k Layers](https://semiengineering.com/nand-flash-targets-1000-layers/)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland: The Marketing and Reality of the United Fruit Company](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [One of the last Navajo code-talkers died on October 19th, aged 107](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
