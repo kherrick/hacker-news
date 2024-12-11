@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
 * [2024-12-11, 19:06:01](https://news.ycombinator.com/item?id=42391483) - [One of our clients hasn't paid us $130k – or \"Why Every Contract Clause Matters\"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
 * [2024-12-11, 19:02:17](https://news.ycombinator.com/item?id=42391442) - [Founder who built Snap's AI launches a snappy new take on video chatbots](https://techcrunch.com/2024/12/11/founder-who-built-snaps-ai-launches-a-snappy-new-take-on-video-chatbots/)
