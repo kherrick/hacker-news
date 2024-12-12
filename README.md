@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 08:25:55](https://news.ycombinator.com/item?id=42397330) - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 * [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
@@ -21,7 +22,6 @@
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
