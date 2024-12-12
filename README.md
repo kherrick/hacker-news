@@ -2,6 +2,7 @@
 
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 04:38:26](https://news.ycombinator.com/item?id=42396268) - [Reachability Analysis of DNS](https://arxiv.org/abs/2411.10188)
+* [2024-12-12, 03:49:21](https://news.ycombinator.com/item?id=42396029) - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
@@ -10,7 +11,6 @@
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans models are using AI impersonators to keep up with their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
-* [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
