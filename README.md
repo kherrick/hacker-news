@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
+* [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
-* [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
-* [2024-12-12, 05:26:53](https://news.ycombinator.com/item?id=42396477) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
+* [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
