@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 22:45:57](https://news.ycombinator.com/item?id=42404202) - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
+* [2024-12-12, 22:37:32](https://news.ycombinator.com/item?id=42404144) - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 * [2024-12-12, 20:46:25](https://news.ycombinator.com/item?id=42403161) - [AI Pioneer Fei-Fei Li Has a Vision for Computer Vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
 * [2024-12-12, 20:29:19](https://news.ycombinator.com/item?id=42403037) - [Novel Link Between Cell Nutrition and Identity Could Improve Immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
 * [2024-12-12, 20:22:03](https://news.ycombinator.com/item?id=42402981) - [Pink Floyd's 'The Wall': A Complete Analysis](https://thewallanalysis.com/)
@@ -13,6 +15,7 @@
 * [2024-12-12, 20:10:49](https://news.ycombinator.com/item?id=42402897) - [The Humble for Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making \"Social\" Social Again – Ev Williams New App](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
+* [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
 * [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
