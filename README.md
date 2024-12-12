@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-12, 20:46:25](https://news.ycombinator.com/item?id=42403161) - [AI Pioneer Fei-Fei Li Has a Vision for Computer Vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
+* [2024-12-12, 20:46:25](https://news.ycombinator.com/item?id=42403161) - [AI pioneer Fei-Fei Li has a vision for computer vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
 * [2024-12-12, 20:29:19](https://news.ycombinator.com/item?id=42403037) - [Novel Link Between Cell Nutrition and Identity Could Improve Immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
 * [2024-12-12, 20:22:03](https://news.ycombinator.com/item?id=42402981) - [Pink Floyd's 'The Wall': A Complete Analysis](https://thewallanalysis.com/)
 * [2024-12-12, 20:22:00](https://news.ycombinator.com/item?id=42402979) - [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
