@@ -25,10 +25,10 @@
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 07:35:07](https://news.ycombinator.com/item?id=42397052) - [Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)](https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician)
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
-* [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 09:43:13](https://news.ycombinator.com/item?id=42375298) - [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 * [2024-12-08, 05:14:28](https://news.ycombinator.com/item?id=42355160) - [The world of tomorrow](https://worksinprogress.co/issue/the-world-of-tomorrow/)
+* [2024-12-07, 08:13:04](https://news.ycombinator.com/item?id=42348131) - [Confidential Computing Platform Based on Tee and TPM Collaborative Trust](https://arxiv.org/abs/2412.03842)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [A middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
 ## [Archives](archives/index.md)
