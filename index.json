@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-12, 06:23:02",
-      "https://news.ycombinator.com/item?id=42396733"
+      "2024-12-12, 07:53:21",
+      "https://news.ycombinator.com/item?id=42397167"
     ],
     [
-      "Canada euthanasia now accounts for nearly one in 20 deaths",
-      "https://www.bbc.com/news/articles/c0j1z14p57po"
+      "Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly",
+      "https://wesql.io/blog/use-github-actions-as-database"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-10, 23:20:34",
+      "https://news.ycombinator.com/item?id=42382829"
+    ],
+    [
+      "WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction",
+      "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 09:18:55",
       "https://news.ycombinator.com/item?id=42364372"
     ],
@@ -267,16 +277,6 @@
     [
       "Tricking c64 basic into clearing a hi-res screen quickly",
       "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 06:08:30",
-      "https://news.ycombinator.com/item?id=42347638"
-    ],
-    [
-      "WXT: Next-Gen Web Extension Framework",
-      "https://wxt.dev/"
     ]
   ],
   [
