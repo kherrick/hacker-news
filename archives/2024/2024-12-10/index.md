@@ -41,6 +41,7 @@
 * [2024-12-10, 16:07:12](https://news.ycombinator.com/item?id=42378138) - [Neuroplasticity in F16 fighter jet pilots](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974643/)
 * [2024-12-10, 16:06:46](https://news.ycombinator.com/item?id=42378133) - [Parsing Millions of DNS Records Per Second](https://github.com/NLnetLabs/simdzone)
 * [2024-12-10, 15:32:04](https://news.ycombinator.com/item?id=42377770) - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+* [2024-12-10, 15:21:20](https://news.ycombinator.com/item?id=42377655) - [Scrabble star wins Spanish world title – despite not speaking Spanish](https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish)
 * [2024-12-10, 15:19:57](https://news.ycombinator.com/item?id=42377644) - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
 * [2024-12-10, 14:33:20](https://news.ycombinator.com/item?id=42377159) - [Mozilla Firefox Removes \"Do Not Track\" Feature Support](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 14:26:12](https://news.ycombinator.com/item?id=42377100) - [Effects of Stress on Memory](https://en.wikipedia.org/wiki/Effects_of_stress_on_memory)
