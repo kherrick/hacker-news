@@ -13,6 +13,7 @@
 * [2024-12-07, 22:39:35](https://news.ycombinator.com/item?id=42353401) - [Gods: Charles Fort's Book of the Damned (1919)](https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/)
 * [2024-12-07, 22:36:35](https://news.ycombinator.com/item?id=42353392) - [Arthur Cravan: The Disappearing Dadaist](https://www.historytoday.com/archive/missing-pieces/arthur-cravan-disappearing-dadaist)
 * [2024-12-07, 22:36:29](https://news.ycombinator.com/item?id=42353390) - [Show HN: I built an HTML5 RTL-SDR application](https://radio.ea1iti.es/)
+* [2024-12-07, 22:30:14](https://news.ycombinator.com/item?id=42353358) - [Melons and Melancholy: Review of Steven Shapin's \"Eating and Being\"](https://lareviewofbooks.org/article/on-melons-and-melancholy/)
 * [2024-12-07, 22:25:47](https://news.ycombinator.com/item?id=42353333) - [B+ Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
 * [2024-12-07, 22:12:48](https://news.ycombinator.com/item?id=42353273) - [macOS Build Farm for Apache NuttX RTOS (Apple Silicon)](https://lupyuen.github.io/articles/ci5)
 * [2024-12-07, 22:05:15](https://news.ycombinator.com/item?id=42353215) - [The famed Notre Dame Cathedral in Paris reopens to great fanfare](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
