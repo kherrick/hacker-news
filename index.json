@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=42398952"
     ],
     [
-      "Gukesh Becomes the Youngest Chess World Champion in History",
+      "Gukesh becomes the youngest chess world champion in history",
       "https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 13:23:21",
+      "https://news.ycombinator.com/item?id=42398913"
+    ],
+    [
+      "BlenderGPT",
+      "https://www.blendergpt.org/"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-12-12, 11:45:53",
-      "https://news.ycombinator.com/item?id=42398380"
+      "2024-12-12, 11:36:20",
+      "https://news.ycombinator.com/item?id=42398314"
     ],
     [
-      "The report for the 2024 security audit of the Mullvad app is now available",
-      "https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available"
+      "Retiring from Hanami/dry-rb/ROM-rb core teams",
+      "https://solnic.dev/retiring-from-the-core-teams"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "QEMU with VirtIO GPU Vulkan Support",
       "https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:36:19",
-      "https://news.ycombinator.com/item?id=42392660"
-    ],
-    [
-      "Instant macOS install on Proxmox including AMD patches",
-      "https://github.com/luchina-gabriel/OSX-PROXMOX"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-12-11, 16:33:56",
-      "https://news.ycombinator.com/item?id=42389532"
-    ],
-    [
-      "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
-      "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 15:51:22",
       "https://news.ycombinator.com/item?id=42388973"
     ],
@@ -207,16 +197,6 @@
     [
       "Dioxus 0.6 – Crossplatform apps with Rust",
       "https://dioxuslabs.com/blog/release-060/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 14:56:29",
-      "https://news.ycombinator.com/item?id=42388340"
-    ],
-    [
-      "Django and Postgres for the Busy Rails Developer",
-      "https://andyatkinson.com/django-python-postgres-busy-rails-developer"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "The Marvelous Disappearing Capacitor",
       "https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 15:15:33",
+      "https://news.ycombinator.com/item?id=42350293"
+    ],
+    [
+      "Can hunters' donations help deliver high-quality meat to Colorado food pantries?",
+      "https://collective.coloradotrust.org/stories/bringing-elk-and-venison-to-food-pantries/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 14:52:15",
+      "https://news.ycombinator.com/item?id=42350149"
+    ],
+    [
+      "Tricking c64 basic into clearing a hi-res screen quickly",
+      "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
     ]
   ],
   [
