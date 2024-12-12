@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-12, 20:17:03](https://news.ycombinator.com/item?id=42402946) - [Defending Open Source: Protecting the Future of WordPress](https://automattic.com/2024/protecting-wordpress/)
+* [2024-12-12, 20:10:49](https://news.ycombinator.com/item?id=42402897) - [The Humble for Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making “Social” Social Again](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
@@ -10,10 +11,8 @@
 * [2024-12-12, 17:09:25](https://news.ycombinator.com/item?id=42401011) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 * [2024-12-12, 17:01:16](https://news.ycombinator.com/item?id=42400935) - [Microsoft Recall still storing credit card, social security numbers](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
-* [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)
-* [2024-12-12, 14:45:36](https://news.ycombinator.com/item?id=42399530) - [The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 13:23:21](https://news.ycombinator.com/item?id=42398913) - [BlenderGPT](https://www.blendergpt.org/)
@@ -29,6 +28,7 @@
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+* [2024-12-10, 09:43:13](https://news.ycombinator.com/item?id=42375298) - [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [A middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
 ## [Archives](archives/index.md)
