@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 15:53:30](https://news.ycombinator.com/item?id=42400179) - [Particle gains or loses mass depending on direction it travels](https://newatlas.com/physics/particle-gains-loses-mass-depending-direction/)
 * [2024-12-12, 15:34:38](https://news.ycombinator.com/item?id=42400008) - [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
 * [2024-12-12, 15:05:45](https://news.ycombinator.com/item?id=42399733) - [European Ambition: The Old Meek Culture Must Change](https://thegeneralist.substack.com/p/european-ambition)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)

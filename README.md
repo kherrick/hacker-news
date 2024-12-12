@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 15:53:30](https://news.ycombinator.com/item?id=42400179) - [Particle gains or loses mass depending on direction it travels](https://newatlas.com/physics/particle-gains-loses-mass-depending-direction/)
 * [2024-12-12, 15:34:38](https://news.ycombinator.com/item?id=42400008) - [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-12, 14:45:36](https://news.ycombinator.com/item?id=42399530) - [The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
@@ -27,7 +28,6 @@
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
 * [2024-12-08, 03:29:53](https://news.ycombinator.com/item?id=42354830) - [The Holotypic Occlupanid Research Group](https://www.horg.com/)
-* [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
