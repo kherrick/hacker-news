@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
+* [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making \"Social\" Social Again – Ev Williams New App](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
 * [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)

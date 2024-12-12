@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
+* [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making \"Social\" Social Again – Ev Williams New App](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
 * [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
@@ -21,14 +23,12 @@
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 07:35:07](https://news.ycombinator.com/item?id=42397052) - [Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)](https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician)
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
-* [2024-12-12, 04:53:19](https://news.ycombinator.com/item?id=42396336) - [Mouseless – fast mouse control with the keyboard](https://mouseless.click/)
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
 * [2024-12-08, 11:17:43](https://news.ycombinator.com/item?id=42356500) - [Freshly Remember'd: Kirk Drift (2017)](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/)
-* [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [A middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
 ## [Archives](archives/index.md)
