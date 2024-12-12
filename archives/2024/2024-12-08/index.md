@@ -76,6 +76,7 @@
 * [2024-12-08, 05:03:33](https://news.ycombinator.com/item?id=42355128) - [What Arm's CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)
 * [2024-12-08, 04:48:43](https://news.ycombinator.com/item?id=42355076) - [Hacker.txt (1993)](https://web.archive.org/web/20160304012343/http://rdog.googlecode.com/hg/doc/hacker.txt)
 * [2024-12-08, 04:47:54](https://news.ycombinator.com/item?id=42355073) - [Watch carved from meteorite that hit Earth a million years ago](https://www.cnn.com/2024/12/05/style/toledano-chan-meteorite-watch-b1m/index.html)
+* [2024-12-08, 03:29:53](https://news.ycombinator.com/item?id=42354830) - [The Holotypic Occlupanid Research Group](https://www.horg.com/)
 * [2024-12-08, 03:09:54](https://news.ycombinator.com/item?id=42354743) - [Deciphering C++ compiler errors: Nonsensical errors from a function declaration](https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614)
 * [2024-12-08, 02:58:06](https://news.ycombinator.com/item?id=42354705) - [Honda's award winning commercial \"Cogs\" [video]](https://www.youtube.com/watch?v=OT-As8zdorY)
 * [2024-12-08, 02:54:54](https://news.ycombinator.com/item?id=42354691) - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
