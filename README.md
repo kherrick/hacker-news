@@ -28,7 +28,7 @@
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
-* [2024-12-07, 16:27:22](https://news.ycombinator.com/item?id=42350780) - [WW1 dazzle camouflage was not as well understood as it might have been](https://phys.org/news/2024-12-world-war-dazzle-camouflage-understood.html)
+* [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-02, 12:09:02](https://news.ycombinator.com/item?id=42295386) - [Unix Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 
 ## [Archives](archives/index.md)
