@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
-* [2024-12-12, 18:27:15](https://news.ycombinator.com/item?id=42401821) - [Attacker Has Techdirt Reclassified as Phishing Site](https://www.techdirt.com/2024/12/12/attacker-has-techdirt-reclassified-as-phishing-site-proving-masnicks-impossibility-law-once-again/)
 * [2024-12-12, 17:29:49](https://news.ycombinator.com/item?id=42401227) - [Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs](https://github.com/ivanyu/hn-tldr-extension)
+* [2024-12-12, 17:01:16](https://news.ycombinator.com/item?id=42400935) - [Microsoft Recall still storing credit card, social security numbers](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
 * [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
@@ -23,7 +24,6 @@
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
-* [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 11:17:43](https://news.ycombinator.com/item?id=42356500) - [Freshly Remember'd: Kirk Drift (2017)](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/)
