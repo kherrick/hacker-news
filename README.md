@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-12, 14:11:17](https://news.ycombinator.com/item?id=42399238) - [AI Scaling Laws](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)
+* [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
+* [2024-12-12, 13:51:23](https://news.ycombinator.com/item?id=42399112) - [Oasis Security Research Team Discovers Microsoft Azure MFA Bypass](https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass)
 * [2024-12-12, 13:33:29](https://news.ycombinator.com/item?id=42398989) - [French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight](https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 13:23:21](https://news.ycombinator.com/item?id=42398913) - [BlenderGPT](https://www.blendergpt.org/)
@@ -27,7 +28,6 @@
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
 * [2024-12-07, 15:15:33](https://news.ycombinator.com/item?id=42350293) - [Can hunters' donations help deliver high-quality meat to Colorado food pantries?](https://collective.coloradotrust.org/stories/bringing-elk-and-venison-to-food-pantries/)
-* [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
