@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
+* [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 * [2024-12-12, 05:26:53](https://news.ycombinator.com/item?id=42396477) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 03:49:21](https://news.ycombinator.com/item?id=42396029) - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
@@ -21,13 +21,13 @@
 * [2024-12-11, 14:56:29](https://news.ycombinator.com/item?id=42388340) - [Django and Postgres for the Busy Rails Developer](https://andyatkinson.com/django-python-postgres-busy-rails-developer)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
+* [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-09, 09:18:55](https://news.ycombinator.com/item?id=42364372) - [Storing Times for Human Events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 03:09:54](https://news.ycombinator.com/item?id=42354743) - [Deciphering C++ compiler errors: Nonsensical errors from a function declaration](https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614)
 * [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
-* [2024-12-07, 06:08:30](https://news.ycombinator.com/item?id=42347638) - [WXT: Next-Gen Web Extension Framework](https://wxt.dev/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 09:15:06](https://news.ycombinator.com/item?id=42304333) - [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
 
