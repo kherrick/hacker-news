@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 08:25:55](https://news.ycombinator.com/item?id=42397330) - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 * [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
 * [2024-12-12, 05:26:53](https://news.ycombinator.com/item?id=42396477) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
