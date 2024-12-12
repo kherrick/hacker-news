@@ -64,6 +64,7 @@
 * [2024-12-07, 07:21:40](https://news.ycombinator.com/item?id=42347917) - [Mise: Dev tools, env vars, task runner](https://github.com/jdx/mise)
 * [2024-12-07, 07:14:52](https://news.ycombinator.com/item?id=42347885) - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
 * [2024-12-07, 06:53:13](https://news.ycombinator.com/item?id=42347780) - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
+* [2024-12-07, 06:08:30](https://news.ycombinator.com/item?id=42347638) - [WXT: Next-Gen Web Extension Framework](https://wxt.dev/)
 * [2024-12-07, 05:56:15](https://news.ycombinator.com/item?id=42347606) - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
 * [2024-12-07, 05:54:48](https://news.ycombinator.com/item?id=42347601) - [Health insurers remove executive bios, images from websites after CEO killing](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/)
 * [2024-12-07, 05:45:25](https://news.ycombinator.com/item?id=42347571) - [We all took the DVD boom era for granted](https://filmstories.co.uk/features/we-all-took-the-dvd-boom-era-for-granted/)

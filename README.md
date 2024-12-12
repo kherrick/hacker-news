@@ -13,7 +13,6 @@
 * [2024-12-11, 17:00:41](https://news.ycombinator.com/item?id=42389895) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
-* [2024-12-11, 15:44:58](https://news.ycombinator.com/item?id=42388901) - [Trillium TPU Is GA](https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
@@ -28,6 +27,7 @@
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 03:09:54](https://news.ycombinator.com/item?id=42354743) - [Deciphering C++ compiler errors: Nonsensical errors from a function declaration](https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614)
 * [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
+* [2024-12-07, 06:08:30](https://news.ycombinator.com/item?id=42347638) - [WXT: Next-Gen Web Extension Framework](https://wxt.dev/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-02, 12:09:02](https://news.ycombinator.com/item?id=42295386) - [Unix Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 
