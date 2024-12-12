@@ -98,6 +98,7 @@
 * [2024-12-03, 03:43:13](https://news.ycombinator.com/item?id=42302907) - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 * [2024-12-03, 03:18:03](https://news.ycombinator.com/item?id=42302784) - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
 * [2024-12-03, 02:51:15](https://news.ycombinator.com/item?id=42302673) - [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
+* [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 * [2024-12-03, 02:31:29](https://news.ycombinator.com/item?id=42302560) - [Show HN: Book and change flights with one email](https://www.bonbook.co/showhn)
 * [2024-12-03, 02:14:50](https://news.ycombinator.com/item?id=42302426) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 00:58:53](https://news.ycombinator.com/item?id=42302026) - [Show HN: Copper – Open-Source Robotics in Rust with Deterministic Log Replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
+* [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
 * [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
@@ -13,15 +15,12 @@
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans models are using AI impersonators to keep up with their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
-* [2024-12-11, 16:33:56](https://news.ycombinator.com/item?id=42389532) - [RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available](https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu)
 * [2024-12-11, 15:51:22](https://news.ycombinator.com/item?id=42388973) - [Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
-* [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-10, 19:15:46](https://news.ycombinator.com/item?id=42380306) - [I'm daily driving Jujutsu, and maybe you should too](https://drewdevault.com/2024/12/10/2024-12-10-Daily-driving-jujutsu.html)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
@@ -30,6 +29,7 @@
 * [2024-12-07, 09:18:41](https://news.ycombinator.com/item?id=42348406) - [12,419 days of Strandbeest evolution [video]](https://www.youtube.com/watch?v=IFaAjR_RRJs)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 09:15:06](https://news.ycombinator.com/item?id=42304333) - [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+* [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
 ## [Archives](archives/index.md)
 

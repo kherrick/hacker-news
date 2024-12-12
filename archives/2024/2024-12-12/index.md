@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
+* [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
 * [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
