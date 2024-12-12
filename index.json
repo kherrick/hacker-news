@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-12, 12:00:22",
+      "https://news.ycombinator.com/item?id=42398449"
+    ],
+    [
+      "Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)",
+      "https://www.infracost.io/join-the-team"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 11:45:53",
+      "https://news.ycombinator.com/item?id=42398380"
+    ],
+    [
+      "The report for the 2024 security audit of the Mullvad app is now available",
+      "https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 10:16:33",
       "https://news.ycombinator.com/item?id=42397913"
     ],
@@ -27,26 +47,6 @@
     [
       "Timemap.org – Interactive Map of History",
       "https://www.oldmapsonline.org/en/history/regions"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 07:53:21",
-      "https://news.ycombinator.com/item?id=42397167"
-    ],
-    [
-      "Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly",
-      "https://wesql.io/blog/use-github-actions-as-database"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 05:26:53",
-      "https://news.ycombinator.com/item?id=42396477"
-    ],
-    [
-      "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
-      "https://mikejsavage.co.uk/geometry-clipmaps/"
     ]
   ],
   [
