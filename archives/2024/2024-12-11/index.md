@@ -8,6 +8,7 @@
 * [2024-12-11, 21:24:39](https://news.ycombinator.com/item?id=42393146) - [Three Packets Walk into a Tunnel](https://systemsapproach.org/2024/12/09/three-packets-walk-into-a-tunnel/)
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
+* [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
 * [2024-12-11, 19:06:01](https://news.ycombinator.com/item?id=42391483) - [One of our clients hasn't paid us $130k – or \"Why Every Contract Clause Matters\"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)

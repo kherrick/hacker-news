@@ -12,6 +12,7 @@
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 07:35:07](https://news.ycombinator.com/item?id=42397052) - [Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)](https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician)
 * [2024-12-12, 04:53:19](https://news.ycombinator.com/item?id=42396336) - [Mouseless – fast mouse control with the keyboard](https://mouseless.click/)
+* [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [2400 phone providers may be shut down by the FCC for failing to stop robocalls](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [Review of Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
@@ -27,7 +28,6 @@
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
 * [2024-12-08, 03:29:53](https://news.ycombinator.com/item?id=42354830) - [The Holotypic Occlupanid Research Group](https://www.horg.com/)
-* [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
