@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-12, 20:46:25",
-      "https://news.ycombinator.com/item?id=42403161"
+      "2024-12-12, 22:45:57",
+      "https://news.ycombinator.com/item?id=42404202"
     ],
     [
-      "AI pioneer Fei-Fei Li has a vision for computer vision",
-      "https://spectrum.ieee.org/fei-fei-li-world-labs"
+      "Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software",
+      "https://www.souzatharsis.com/tamingLLMs/markdown/toc.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 22:37:32",
+      "https://news.ycombinator.com/item?id=42404144"
+    ],
+    [
+      "Carta is making it too difficult to cancel subscriptions, some founders say",
+      "https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Ultra-low-power localization tag uses cellular signals [pdf]",
       "https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 18:51:07",
+      "https://news.ycombinator.com/item?id=42402079"
+    ],
+    [
+      "The secret life of DNS packets (2019)",
+      "https://stripe.com/blog/secret-life-of-dns"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-12-11, 19:02:19",
-      "https://news.ycombinator.com/item?id=42391443"
-    ],
-    [
-      "Mysterious New Jersey drone sightings prompt call for 'state of emergency'",
-      "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency"
-    ]
-  ],
-  [
-    [
       "2024-12-10, 13:43:47",
       "https://news.ycombinator.com/item?id=42376724"
     ],
     [
       "Unexpected Keyboard",
       "https://github.com/Julow/Unexpected-Keyboard"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 09:43:13",
-      "https://news.ycombinator.com/item?id=42375298"
-    ],
-    [
-      "Zen and the Art of Aibo Engineering",
-      "https://spectrum.ieee.org/aibo"
     ]
   ],
   [
