@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-12-12, 15:02:14",
+      "https://news.ycombinator.com/item?id=42399701"
+    ],
+    [
+      "Show HN: Kubernetes Spec Explorer",
+      "https://kubespec.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 14:45:36",
+      "https://news.ycombinator.com/item?id=42399530"
+    ],
+    [
+      "The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw",
+      "https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2024-12-12, 11:36:20",
-      "https://news.ycombinator.com/item?id=42398314"
+      "2024-12-12, 09:42:02",
+      "https://news.ycombinator.com/item?id=42397737"
     ],
     [
-      "Retiring from Hanami/dry-rb/ROM-rb core teams",
-      "https://solnic.dev/retiring-from-the-core-teams"
+      "Programming Language Memory Models (2021)",
+      "https://research.swtch.com/plmm"
     ]
   ],
   [
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2024-12-12, 05:26:53",
-      "https://news.ycombinator.com/item?id=42396477"
+      "2024-12-12, 07:35:07",
+      "https://news.ycombinator.com/item?id=42397052"
     ],
     [
-      "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
-      "https://mikejsavage.co.uk/geometry-clipmaps/"
+      "Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)",
+      "https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Mouseless – fast mouse control with the keyboard",
       "https://mouseless.click/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:48:43",
-      "https://news.ycombinator.com/item?id=42392802"
-    ],
-    [
-      "QEMU with VirtIO GPU Vulkan Support",
-      "https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f"
     ]
   ],
   [
@@ -167,26 +177,6 @@
     [
       "OnlyFans models are using AI impersonators to keep up with their DMs",
       "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 16:33:56",
-      "https://news.ycombinator.com/item?id=42389532"
-    ],
-    [
-      "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
-      "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:44:58",
-      "https://news.ycombinator.com/item?id=42388901"
-    ],
-    [
-      "Trillium TPU Is GA",
-      "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Marvelous Disappearing Capacitor",
       "https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 03:29:53",
+      "https://news.ycombinator.com/item?id=42354830"
+    ],
+    [
+      "The Holotypic Occlupanid Research Group",
+      "https://www.horg.com/"
     ]
   ],
   [
