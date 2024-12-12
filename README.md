@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
-* [2024-12-12, 08:25:55](https://news.ycombinator.com/item?id=42397330) - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 * [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 * [2024-12-12, 05:26:53](https://news.ycombinator.com/item?id=42396477) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
@@ -26,8 +26,8 @@
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
 * [2024-12-08, 03:09:54](https://news.ycombinator.com/item?id=42354743) - [Deciphering C++ compiler errors: Nonsensical errors from a function declaration](https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614)
-* [2024-12-07, 21:06:53](https://news.ycombinator.com/item?id=42352865) - [Stimulating parts of the brain can help the paralysed to walk again](https://www.economist.com/science-and-technology/2024/12/04/stimulating-parts-of-the-brain-can-help-the-paralysed-to-walk-again)
 * [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
+* [2024-12-07, 09:18:41](https://news.ycombinator.com/item?id=42348406) - [12,419 days of Strandbeest evolution [video]](https://www.youtube.com/watch?v=IFaAjR_RRJs)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 09:15:06](https://news.ycombinator.com/item?id=42304333) - [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
 

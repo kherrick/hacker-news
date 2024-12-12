@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 08:25:55](https://news.ycombinator.com/item?id=42397330) - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
