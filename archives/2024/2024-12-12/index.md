@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 14:11:17](https://news.ycombinator.com/item?id=42399238) - [AI Scaling Laws](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)
 * [2024-12-12, 14:02:44](https://news.ycombinator.com/item?id=42399182) - [Ethical Challenges Related to the NeurIPS 2024 Best Paper Award](https://var-integrity-report.github.io/)
+* [2024-12-12, 13:33:29](https://news.ycombinator.com/item?id=42398989) - [French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight](https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
