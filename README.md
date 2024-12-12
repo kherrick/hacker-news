@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-11, 23:19:16](https://news.ycombinator.com/item?id=42394185) - [The Washington Post burns its own archive](https://www.indignity.net/the-washington-post-burns-its-own-archive/)
 * [2024-12-11, 20:48:43](https://news.ycombinator.com/item?id=42392802) - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
@@ -29,6 +28,7 @@
 * [2024-12-09, 08:39:20](https://news.ycombinator.com/item?id=42364157) - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
+* [2024-12-07, 16:27:22](https://news.ycombinator.com/item?id=42350780) - [WW1 dazzle camouflage was not as well understood as it might have been](https://phys.org/news/2024-12-world-war-dazzle-camouflage-understood.html)
 * [2024-12-02, 12:09:02](https://news.ycombinator.com/item?id=42295386) - [Unix Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 
 ## [Archives](archives/index.md)
