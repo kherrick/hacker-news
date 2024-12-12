@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
+* [2024-12-12, 05:26:53](https://news.ycombinator.com/item?id=42396477) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 04:38:26](https://news.ycombinator.com/item?id=42396268) - [Reachability Analysis of DNS](https://arxiv.org/abs/2411.10188)
 * [2024-12-12, 03:49:21](https://news.ycombinator.com/item?id=42396029) - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
@@ -26,7 +27,6 @@
 * [2024-12-08, 16:58:48](https://news.ycombinator.com/item?id=42358214) - [The Myth of Bananaland](https://worldhistory.substack.com/p/the-myth-of-bananaland)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 03:09:54](https://news.ycombinator.com/item?id=42354743) - [Deciphering C++ compiler errors: Nonsensical errors from a function declaration](https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614)
-* [2024-12-07, 22:30:14](https://news.ycombinator.com/item?id=42353358) - [Melons and Melancholy: Review of Steven Shapin's \"Eating and Being\"](https://lareviewofbooks.org/article/on-melons-and-melancholy/)
 * [2024-12-07, 14:52:15](https://news.ycombinator.com/item?id=42350149) - [Tricking c64 basic into clearing a hi-res screen quickly](https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/)
 * [2024-12-07, 06:08:30](https://news.ycombinator.com/item?id=42347638) - [WXT: Next-Gen Web Extension Framework](https://wxt.dev/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
