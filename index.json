@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-12-11, 15:44:58",
-      "https://news.ycombinator.com/item?id=42388901"
-    ],
-    [
-      "Trillium TPU Is GA",
-      "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 15:42:20",
       "https://news.ycombinator.com/item?id=42388870"
     ],
@@ -277,6 +267,16 @@
     [
       "Tricking c64 basic into clearing a hi-res screen quickly",
       "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 06:08:30",
+      "https://news.ycombinator.com/item?id=42347638"
+    ],
+    [
+      "WXT: Next-Gen Web Extension Framework",
+      "https://wxt.dev/"
     ]
   ],
   [
