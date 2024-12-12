@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 18:04:38](https://news.ycombinator.com/item?id=42401603) - [ChatGPT's Advanced Voice Mode adds Santa Mode, Live Video, Screensharing](https://openai.com/12-days/?day=6)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
+* [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
 * [2024-12-12, 16:16:33](https://news.ycombinator.com/item?id=42400458) - [Intel Arc B580 Delivers Promising Linux GPU Compute Potential for Battlemage](https://www.phoronix.com/review/intel-arc-b580-gpu-compute)
 * [2024-12-12, 15:53:30](https://news.ycombinator.com/item?id=42400179) - [Particle gains or loses mass depending on direction it travels](https://newatlas.com/physics/particle-gains-loses-mass-depending-direction/)

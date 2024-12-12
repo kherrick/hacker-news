@@ -15,6 +15,7 @@
 * [2024-12-10, 21:02:29](https://news.ycombinator.com/item?id=42381433) - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 * [2024-12-10, 20:59:50](https://news.ycombinator.com/item?id=42381406) - [AMD's trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
 * [2024-12-10, 20:50:56](https://news.ycombinator.com/item?id=42381311) - [Luigi's Manifesto](https://www.kenklippenstein.com/p/luigis-manifesto)
+* [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
 * [2024-12-10, 20:10:57](https://news.ycombinator.com/item?id=42380911) - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do with AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
 * [2024-12-10, 19:51:33](https://news.ycombinator.com/item?id=42380696) - [If you've got it, don't flaunt it in Sweden](https://www.economist.com/europe/2024/12/05/if-youve-got-it-dont-flaunt-it-in-sweden)
 * [2024-12-10, 19:29:23](https://news.ycombinator.com/item?id=42380474) - [The Program, my fiction podcast launched on HN, 5 years and 1M downloads later](https://programaudioseries.com/the-program-results-6/)

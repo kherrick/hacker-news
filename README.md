@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 18:04:38](https://news.ycombinator.com/item?id=42401603) - [ChatGPT's Advanced Voice Mode adds Santa Mode, Live Video, Screensharing](https://openai.com/12-days/?day=6)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
+* [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-12, 14:45:36](https://news.ycombinator.com/item?id=42399530) - [The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
@@ -21,13 +23,11 @@
 * [2024-12-11, 17:23:33](https://news.ycombinator.com/item?id=42390210) - [OnlyFans models are using AI impersonators to keep up with their DMs](https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
-* [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+* [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
-* [2024-12-08, 03:29:53](https://news.ycombinator.com/item?id=42354830) - [The Holotypic Occlupanid Research Group](https://www.horg.com/)
 * [2024-12-06, 21:43:38](https://news.ycombinator.com/item?id=42344819) - [Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [How a middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
