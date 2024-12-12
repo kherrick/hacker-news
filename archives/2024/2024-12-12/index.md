@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 15:05:45](https://news.ycombinator.com/item?id=42399733) - [European Ambition: The Old Meek Culture Must Change](https://thegeneralist.substack.com/p/european-ambition)
 * [2024-12-12, 14:48:32](https://news.ycombinator.com/item?id=42399562) - [As Wolf Populations Rebound, an Angry Backlash Intensifies](https://e360.yale.edu/features/wolves-united-states-europe)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 14:11:17](https://news.ycombinator.com/item?id=42399238) - [AI Scaling Laws](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)

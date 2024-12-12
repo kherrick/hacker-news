@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 15:05:45](https://news.ycombinator.com/item?id=42399733) - [European Ambition: The Old Meek Culture Must Change](https://thegeneralist.substack.com/p/european-ambition)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 13:23:21](https://news.ycombinator.com/item?id=42398913) - [BlenderGPT](https://www.blendergpt.org/)
@@ -22,7 +23,6 @@
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 14:28:42](https://news.ycombinator.com/item?id=42388009) - [The GPU is not always faster](https://cowfreedom.de/#dot_product/introduction/)
 * [2024-12-11, 08:56:50](https://news.ycombinator.com/item?id=42386025) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://www.ntietz.com/blog/evolving-ergo-setup/)
-* [2024-12-11, 03:54:53](https://news.ycombinator.com/item?id=42384608) - [Home Depot tracked a crime ring and found an unusual suspect](https://www.wsj.com/business/retail/home-depot-tracked-a-crime-ring-and-found-an-unusual-suspect-ed31f6e8)
 * [2024-12-10, 23:20:34](https://news.ycombinator.com/item?id=42382829) - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
 * [2024-12-08, 14:16:59](https://news.ycombinator.com/item?id=42357273) - [The Cold Email Handbook](https://www.za-zu.com/blog/playbook)
 * [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
