@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-12, 05:01:36",
+      "https://news.ycombinator.com/item?id=42396372"
+    ],
+    [
+      "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2",
+      "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 04:38:26",
+      "https://news.ycombinator.com/item?id=42396268"
+    ],
+    [
+      "Reachability Analysis of DNS",
+      "https://arxiv.org/abs/2411.10188"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 20:48:43",
       "https://news.ycombinator.com/item?id=42392802"
     ],
@@ -17,16 +37,6 @@
     [
       "Instant macOS install on Proxmox including AMD patches",
       "https://github.com/luchina-gabriel/OSX-PROXMOX"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 19:54:20",
-      "https://news.ycombinator.com/item?id=42392088"
-    ],
-    [
-      "AI Guesses Your Accent",
-      "https://start.boldvoice.com/accent-guesser"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Evolving my ergonomic setup (or, my laptop with extra steps)",
       "https://www.ntietz.com/blog/evolving-ergo-setup/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 02:34:06",
-      "https://news.ycombinator.com/item?id=42384111"
-    ],
-    [
-      "Borax or Baking Soda Rectifier and the glow (2003)",
-      "http://www.sparkbangbuzz.com/els/borax-el.htm"
     ]
   ],
   [
