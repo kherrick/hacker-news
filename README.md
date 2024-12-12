@@ -28,7 +28,7 @@
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
 * [2024-12-10, 20:35:36](https://news.ycombinator.com/item?id=42381139) - [Show HN: Gentrace – connect to your LLM app code and run/eval it from a UI](https://gentrace.ai/)
-* [2024-12-08, 11:17:43](https://news.ycombinator.com/item?id=42356500) - [Freshly Remember'd: Kirk Drift (2017)](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/)
+* [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-03, 02:47:42](https://news.ycombinator.com/item?id=42302658) - [A middle schooler found a new compound in a piece of goose poop](https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html)
 
 ## [Archives](archives/index.md)
