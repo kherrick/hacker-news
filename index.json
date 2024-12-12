@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-12, 14:02:44",
-      "https://news.ycombinator.com/item?id=42399182"
+      "2024-12-12, 14:11:17",
+      "https://news.ycombinator.com/item?id=42399238"
     ],
     [
-      "Ethical Challenges Related to the NeurIPS 2024 Best Paper Award",
-      "https://var-integrity-report.github.io/"
+      "AI Scaling Laws",
+      "https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 13:33:29",
+      "https://news.ycombinator.com/item?id=42398989"
+    ],
+    [
+      "French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight",
+      "https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2024-12-12, 05:01:36",
-      "https://news.ycombinator.com/item?id=42396372"
+      "2024-12-12, 05:26:53",
+      "https://news.ycombinator.com/item?id=42396477"
     ],
     [
-      "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)",
-      "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html"
+      "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
+      "https://mikejsavage.co.uk/geometry-clipmaps/"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-12-11, 16:33:56",
+      "https://news.ycombinator.com/item?id=42389532"
+    ],
+    [
+      "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
+      "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 15:51:22",
       "https://news.ycombinator.com/item?id=42388973"
     ],
@@ -181,12 +201,22 @@
   ],
   [
     [
-      "2024-12-11, 15:09:56",
-      "https://news.ycombinator.com/item?id=42388488"
+      "2024-12-11, 15:24:10",
+      "https://news.ycombinator.com/item?id=42388665"
     ],
     [
-      "PeerTube mobile app: discover videos while caring for your attention",
-      "https://joinpeertube.org/news/peertube-app"
+      "Dioxus 0.6 – Crossplatform apps with Rust",
+      "https://dioxuslabs.com/blog/release-060/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 14:56:29",
+      "https://news.ycombinator.com/item?id=42388340"
+    ],
+    [
+      "Django and Postgres for the Busy Rails Developer",
+      "https://andyatkinson.com/django-python-postgres-busy-rails-developer"
     ]
   ],
   [
@@ -211,22 +241,22 @@
   ],
   [
     [
-      "2024-12-10, 19:15:46",
-      "https://news.ycombinator.com/item?id=42380306"
+      "2024-12-10, 23:20:34",
+      "https://news.ycombinator.com/item?id=42382829"
     ],
     [
-      "I'm daily driving Jujutsu, and maybe you should too",
-      "https://drewdevault.com/2024/12/10/2024-12-10-Daily-driving-jujutsu.html"
+      "WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction",
+      "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/"
     ]
   ],
   [
     [
-      "2024-12-08, 16:58:48",
-      "https://news.ycombinator.com/item?id=42358214"
+      "2024-12-09, 08:39:20",
+      "https://news.ycombinator.com/item?id=42364157"
     ],
     [
-      "The Myth of Bananaland",
-      "https://worldhistory.substack.com/p/the-myth-of-bananaland"
+      "A letter to open-source maintainers",
+      "https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2024-12-07, 14:52:15",
-      "https://news.ycombinator.com/item?id=42350149"
-    ],
-    [
-      "Tricking c64 basic into clearing a hi-res screen quickly",
-      "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 09:18:41",
-      "https://news.ycombinator.com/item?id=42348406"
-    ],
-    [
-      "12,419 days of Strandbeest evolution [video]",
-      "https://www.youtube.com/watch?v=IFaAjR_RRJs"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 21:43:38",
       "https://news.ycombinator.com/item?id=42344819"
     ],
     [
       "Ham Radio All-in-One-Cable",
       "https://github.com/skuep/AIOC"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 09:15:06",
-      "https://news.ycombinator.com/item?id=42304333"
-    ],
-    [
-      "Certain names make ChatGPT grind to a halt, and we know why",
-      "https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/"
     ]
   ],
   [
