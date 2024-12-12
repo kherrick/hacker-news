@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
+* [2024-12-12, 18:27:15](https://news.ycombinator.com/item?id=42401821) - [Attacker Has Techdirt Reclassified as Phishing Site](https://www.techdirt.com/2024/12/12/attacker-has-techdirt-reclassified-as-phishing-site-proving-masnicks-impossibility-law-once-again/)
 * [2024-12-12, 18:04:38](https://news.ycombinator.com/item?id=42401603) - [ChatGPT's Advanced Voice Mode adds Santa Mode, Live Video, Screensharing](https://openai.com/12-days/?day=6)
+* [2024-12-12, 17:29:49](https://news.ycombinator.com/item?id=42401227) - [Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs](https://github.com/ivanyu/hn-tldr-extension)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
 * [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
