@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-12-12, 14:48:32",
-      "https://news.ycombinator.com/item?id=42399562"
-    ],
-    [
-      "As Wolf Populations Rebound, an Angry Backlash Intensifies",
-      "https://e360.yale.edu/features/wolves-united-states-europe"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
     [
       "Fermat's Last Theorem – how it's going",
       "https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 13:51:23",
-      "https://news.ycombinator.com/item?id=42399112"
-    ],
-    [
-      "Oasis Security Research Team Discovers Microsoft Azure MFA Bypass",
-      "https://www.oasis.security/resources/blog/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 13:33:29",
-      "https://news.ycombinator.com/item?id=42398989"
-    ],
-    [
-      "French Piracy Blocking Order Goes Global, DNS Service Quad9 Vows to Fight",
-      "https://torrentfreak.com/french-piracy-blocking-order-goes-global-dns-service-quad9-vows-to-fight-241212/"
     ]
   ],
   [
@@ -181,12 +151,22 @@
   ],
   [
     [
-      "2024-12-11, 15:51:22",
-      "https://news.ycombinator.com/item?id=42388973"
+      "2024-12-11, 16:33:56",
+      "https://news.ycombinator.com/item?id=42389532"
     ],
     [
-      "Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-      "https://pgroll.com/"
+      "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
+      "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 15:44:58",
+      "https://news.ycombinator.com/item?id=42388901"
+    ],
+    [
+      "Trillium TPU Is GA",
+      "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-12-11, 03:54:53",
+      "https://news.ycombinator.com/item?id=42384608"
+    ],
+    [
+      "Home Depot tracked a crime ring and found an unusual suspect",
+      "https://www.wsj.com/business/retail/home-depot-tracked-a-crime-ring-and-found-an-unusual-suspect-ed31f6e8"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 23:20:34",
       "https://news.ycombinator.com/item?id=42382829"
     ],
@@ -277,6 +267,16 @@
     [
       "Can hunters' donations help deliver high-quality meat to Colorado food pantries?",
       "https://collective.coloradotrust.org/stories/bringing-elk-and-venison-to-food-pantries/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 14:52:15",
+      "https://news.ycombinator.com/item?id=42350149"
+    ],
+    [
+      "Tricking c64 basic into clearing a hi-res screen quickly",
+      "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
     ]
   ],
   [
