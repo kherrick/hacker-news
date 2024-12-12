@@ -69,6 +69,7 @@
 * [2024-12-08, 08:35:14](https://news.ycombinator.com/item?id=42355874) - [Show HN: Run10K Trainer – Personalized Training Running Plans for Your 10K Race](https://www.run10ktrainer.com/)
 * [2024-12-08, 08:16:20](https://news.ycombinator.com/item?id=42355790) - [The UC Berkeley Project That Is the AI Industry's Obsession](https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3)
 * [2024-12-08, 07:37:35](https://news.ycombinator.com/item?id=42355609) - [John Kinsel used his own language to fool the Japanese](https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese)
+* [2024-12-08, 07:30:45](https://news.ycombinator.com/item?id=42355590) - [The Marvelous Disappearing Capacitor](https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor)
 * [2024-12-08, 07:27:17](https://news.ycombinator.com/item?id=42355578) - [The Sony Vaio PCG-XR MiniDisc Laptop](https://vaiolibrary.com/index.php/PCG-XR)
 * [2024-12-08, 06:28:04](https://news.ycombinator.com/item?id=42355364) - [Syrian government falls in end to 50-year rule of Assad family](https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430)
 * [2024-12-08, 05:47:18](https://news.ycombinator.com/item?id=42355234) - [AI Agents as Neuro-Symbolic Systems? [video]](https://www.youtube.com/watch?v=JaHfCrVTYF4)
