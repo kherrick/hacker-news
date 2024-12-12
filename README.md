@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-12, 20:17:03](https://news.ycombinator.com/item?id=42402946) - [Defending Open Source: Protecting the Future of WordPress](https://automattic.com/2024/protecting-wordpress/)
 * [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making “Social” Social Again](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
@@ -11,7 +12,6 @@
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
 * [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
-* [2024-12-12, 15:34:38](https://news.ycombinator.com/item?id=42400008) - [A simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-12, 14:45:36](https://news.ycombinator.com/item?id=42399530) - [The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
