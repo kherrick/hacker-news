@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-12, 20:46:25",
+      "https://news.ycombinator.com/item?id=42403161"
+    ],
+    [
+      "AI Pioneer Fei-Fei Li Has a Vision for Computer Vision",
+      "https://spectrum.ieee.org/fei-fei-li-world-labs"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 20:29:19",
+      "https://news.ycombinator.com/item?id=42403037"
+    ],
+    [
+      "Novel Link Between Cell Nutrition and Identity Could Improve Immunotherapies",
+      "https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 20:22:03",
       "https://news.ycombinator.com/item?id=42402981"
     ],
     [
       "Pink Floyd's 'The Wall': A Complete Analysis",
       "https://thewallanalysis.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 20:22:00",
+      "https://news.ycombinator.com/item?id=42402979"
+    ],
+    [
+      "Exploring Commercial Products for the NES Expansion Port",
+      "https://tedium.co/2024/12/02/nintendo-expansion-port-history/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42402897"
     ],
     [
-      "The Humble for Loop in Rust",
+      "The humble for loop in Rust",
       "https://blog.startifact.com/posts/humble-for-loop-rust/"
     ]
   ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-12-12, 13:23:21",
-      "https://news.ycombinator.com/item?id=42398913"
-    ],
-    [
-      "BlenderGPT",
-      "https://www.blendergpt.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 12:04:59",
       "https://news.ycombinator.com/item?id=42398471"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-12-12, 07:35:07",
-      "https://news.ycombinator.com/item?id=42397052"
-    ],
-    [
-      "Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)",
-      "https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 06:23:02",
       "https://news.ycombinator.com/item?id=42396733"
     ],
     [
       "Canada euthanasia now accounts for nearly one in 20 deaths",
       "https://www.bbc.com/news/articles/c0j1z14p57po"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:07:30",
-      "https://news.ycombinator.com/item?id=42392267"
-    ],
-    [
-      "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
-      "https://lfi.dev/"
     ]
   ],
   [
