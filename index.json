@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-12-12, 21:06:45",
-      "https://news.ycombinator.com/item?id=42403328"
-    ],
-    [
-      "Internal Ocean Tides (2021)",
-      "https://svs.gsfc.nasa.gov/4850"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -297,6 +287,16 @@
     [
       "0x01 – Killing Windows Kernel Mitigations",
       "https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 04:48:30",
+      "https://news.ycombinator.com/item?id=42347351"
+    ],
+    [
+      "Hexagonal Architecture and Rails",
+      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
