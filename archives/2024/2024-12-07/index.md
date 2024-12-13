@@ -54,6 +54,7 @@
 * [2024-12-07, 12:37:03](https://news.ycombinator.com/item?id=42349382) - [I Built a 4 Axis 3D Printer Unlike Anything You've Seen [video]](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 * [2024-12-07, 12:34:16](https://news.ycombinator.com/item?id=42349375) - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 * [2024-12-07, 11:40:46](https://news.ycombinator.com/item?id=42349106) - [He Built Apple's 1980s iPad Concept [video]](https://www.youtube.com/watch?v=Grd_a4oi7qU)
+* [2024-12-07, 11:07:18](https://news.ycombinator.com/item?id=42348961) - [Refactoring in C++: Top Techniques and Best Practices – The CLion Blog](https://blog.jetbrains.com/clion/2024/12/refactoring-in-cpp/)
 * [2024-12-07, 10:48:52](https://news.ycombinator.com/item?id=42348855) - [Now Boarding: The Story of Airport](https://airport.revolvertype.com/)
 * [2024-12-07, 10:44:19](https://news.ycombinator.com/item?id=42348841) - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
 * [2024-12-07, 10:36:03](https://news.ycombinator.com/item?id=42348799) - [Pierre Schaeffer looking back on his career in musique concrète](https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html)
