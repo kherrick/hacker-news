@@ -48,6 +48,7 @@
 * [2024-12-10, 14:33:20](https://news.ycombinator.com/item?id=42377159) - [Mozilla Firefox Removes \"Do Not Track\" Feature Support](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 14:26:12](https://news.ycombinator.com/item?id=42377100) - [Effects of Stress on Memory](https://en.wikipedia.org/wiki/Effects_of_stress_on_memory)
 * [2024-12-10, 14:16:54](https://news.ycombinator.com/item?id=42377018) - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
+* [2024-12-10, 14:03:51](https://news.ycombinator.com/item?id=42376906) - [Space Startup Spins the Living Crap Out a Satellite–and It Survived](https://gizmodo.com/space-startup-spins-the-living-crap-out-a-satellite-and-it-actually-survived-2000535495)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 12:58:17](https://news.ycombinator.com/item?id=42376406) - [Next-generation datacenters consume zero water for cooling](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
 * [2024-12-10, 12:51:10](https://news.ycombinator.com/item?id=42376362) - [Why do animals adopt?](https://nautil.us/why-do-animals-adopt-1168695/)
