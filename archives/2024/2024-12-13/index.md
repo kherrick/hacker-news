@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 18:02:03](https://news.ycombinator.com/item?id=42410803) - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 * [2024-12-13, 17:48:41](https://news.ycombinator.com/item?id=42410663) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:32:00](https://news.ycombinator.com/item?id=42410508) - [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
 * [2024-12-13, 17:00:43](https://news.ycombinator.com/item?id=42410233) - [HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
