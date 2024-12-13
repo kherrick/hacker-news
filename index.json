@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 17:48:41",
+      "https://news.ycombinator.com/item?id=42410663"
+    ],
+    [
+      "Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection",
+      "https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 17:00:43",
       "https://news.ycombinator.com/item?id=42410233"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-12-13, 15:05:07",
+      "https://news.ycombinator.com/item?id=42409056"
+    ],
+    [
+      "Show HN: I made the slowest, most expensive GPT",
+      "https://ithy.com"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 14:43:05",
       "https://news.ycombinator.com/item?id=42408819"
     ],
@@ -47,16 +67,6 @@
     [
       "Noninvasive imaging method can penetrate deeper into living tissue",
       "https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 08:05:27",
-      "https://news.ycombinator.com/item?id=42406773"
-    ],
-    [
-      "Three Mistakes from Dart/Flutter's Weak PRNG",
-      "https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Timemap.org – Interactive Map of History",
       "https://www.oldmapsonline.org/en/history/regions"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:07:30",
-      "https://news.ycombinator.com/item?id=42392267"
-    ],
-    [
-      "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
-      "https://lfi.dev/"
     ]
   ],
   [
