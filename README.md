@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
+* [2024-12-13, 14:43:05](https://news.ycombinator.com/item?id=42408819) - [Web Origami for making websites where you can understand how they're made](https://weborigami.org)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three Mistakes from Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
@@ -14,7 +16,6 @@
 * [2024-12-12, 23:16:20](https://news.ycombinator.com/item?id=42404411) - [Elixir/Erlang Hot Swapping Code (2016)](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 * [2024-12-12, 22:45:57](https://news.ycombinator.com/item?id=42404202) - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
-* [2024-12-12, 20:14:26](https://news.ycombinator.com/item?id=42402927) - [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 17:09:25](https://news.ycombinator.com/item?id=42401011) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
@@ -26,7 +27,6 @@
 * [2024-12-11, 06:36:38](https://news.ycombinator.com/item?id=42385393) - [Saving Voyager 1 [video]](https://www.youtube.com/watch?v=dF_9YcehCZo)
 * [2024-12-10, 21:59:39](https://news.ycombinator.com/item?id=42382058) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 * [2024-12-10, 17:23:35](https://news.ycombinator.com/item?id=42378927) - [A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire](https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/)
-* [2024-12-10, 15:21:20](https://news.ycombinator.com/item?id=42377655) - [Scrabble star wins Spanish world title despite not speaking Spanish](https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [2024-12-08, 12:29:53](https://news.ycombinator.com/item?id=42356752) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)

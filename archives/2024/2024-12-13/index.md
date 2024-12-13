@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
 * [2024-12-13, 15:05:33](https://news.ycombinator.com/item?id=42409059) - [Fourteen North Koreans Indicted for Fraudulent IT Worker Scheme and Extortions](https://www.justice.gov/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 * [2024-12-13, 14:53:05](https://news.ycombinator.com/item?id=42408945) - [The exact moment that I decided to go off-grid in Portugal](https://twitter.com/levelsio/status/1867314119654637629)
 * [2024-12-13, 14:51:49](https://news.ycombinator.com/item?id=42408925) - [Feds help health insurers hide their dirty secret: denials on the rise](https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/)
 * [2024-12-13, 14:48:08](https://news.ycombinator.com/item?id=42408885) - [AT&T Won't Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies](https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/)
+* [2024-12-13, 14:43:05](https://news.ycombinator.com/item?id=42408819) - [Web Origami for making websites where you can understand how they're made](https://weborigami.org)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror Bacteria Research Poses Significant Risks, Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
