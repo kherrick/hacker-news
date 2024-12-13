@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language combines concepts from Oberon and Lua](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
-* [2024-12-13, 23:14:38](https://news.ycombinator.com/item?id=42413195) - [OpenAI whistleblower found dead in apartment](https://old.reddit.com/r/sanfrancisco/comments/1hdmn62/openai_whistleblower_suchir_balaji_found_dead_in/)
 * [2024-12-13, 22:31:48](https://news.ycombinator.com/item?id=42412934) - [Hospitals gave patients meds during childbirth, then reported them for drug use](https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
@@ -17,6 +16,7 @@
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
+* [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back Pliny's account of Mount Vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
