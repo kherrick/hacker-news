@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 17:00:43](https://news.ycombinator.com/item?id=42410233) - [HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+* [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
 * [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
 * [2024-12-13, 15:05:33](https://news.ycombinator.com/item?id=42409059) - [Fourteen North Koreans Indicted for Fraudulent IT Worker Scheme and Extortions](https://www.justice.gov/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 * [2024-12-13, 14:53:05](https://news.ycombinator.com/item?id=42408945) - [The exact moment that I decided to go off-grid in Portugal](https://twitter.com/levelsio/status/1867314119654637629)
