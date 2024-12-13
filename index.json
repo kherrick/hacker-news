@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-12-13, 00:32:22",
-      "https://news.ycombinator.com/item?id=42404872"
-    ],
-    [
-      "NonStop discussion around adding Rust to Git",
-      "https://lwn.net/Articles/998115/"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 23:53:59",
       "https://news.ycombinator.com/item?id=42404645"
     ],
@@ -67,6 +57,16 @@
     [
       "A new timeline for Neanderthal interbreeding with modern humans",
       "https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 23:22:17",
+      "https://news.ycombinator.com/item?id=42404447"
+    ],
+    [
+      "Clio: A system for privacy-preserving insights into real-world AI use",
+      "https://www.anthropic.com/research/clio"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-12-10, 01:13:03",
+      "https://news.ycombinator.com/item?id=42372565"
+    ],
+    [
+      "Fixing the Loading in Myst IV: Revelation",
+      "https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 16:09:58",
       "https://news.ycombinator.com/item?id=42350646"
     ],
@@ -277,16 +287,6 @@
     [
       "Refactoring in C++: Top Techniques and Best Practices – The CLion Blog",
       "https://blog.jetbrains.com/clion/2024/12/refactoring-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 18:51:23",
-      "https://news.ycombinator.com/item?id=42320639"
-    ],
-    [
-      "Bacterial World",
-      "https://www.oum.ox.ac.uk/bacterialworld/"
     ]
   ],
   [
