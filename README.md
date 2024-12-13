@@ -16,7 +16,7 @@
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
-* [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
+* [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
