@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [There is a Transformer shortage bottlenecking energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:43:03](https://news.ycombinator.com/item?id=42405758) - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
@@ -12,7 +13,6 @@
 * [2024-12-12, 22:37:32](https://news.ycombinator.com/item?id=42404144) - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 * [2024-12-12, 20:22:00](https://news.ycombinator.com/item?id=42402979) - [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
 * [2024-12-12, 20:14:26](https://news.ycombinator.com/item?id=42402927) - [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
-* [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)

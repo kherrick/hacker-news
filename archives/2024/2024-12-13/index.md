@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [There is a Transformer shortage bottlenecking energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:43:03](https://news.ycombinator.com/item?id=42405758) - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
