@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42410663"
     ],
     [
-      "Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection",
+      "Garbage collected smart pointers in Rust via concurrent cycle collection",
       "https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42410508"
     ],
     [
-      "People who are good at reading have different brains",
+      "People who are good at reading have different brains: study",
       "https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42410233"
     ],
     [
-      "HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability",
+      "HyperDX (YC S22) is hiring engineers to build open source observability",
       "https://www.ycombinator.com/companies/hyperdx/jobs"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42406773"
     ],
     [
-      "Three Mistakes from Dart/Flutter's Weak PRNG",
+      "Three mistakes from Dart/Flutter's weak PRNG",
       "https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/"
     ]
   ],
@@ -161,6 +161,26 @@
   ],
   [
     [
+      "2024-12-12, 21:06:45",
+      "https://news.ycombinator.com/item?id=42403328"
+    ],
+    [
+      "Internal Ocean Tides (2021)",
+      "https://svs.gsfc.nasa.gov/4850"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 14:30:37",
+      "https://news.ycombinator.com/item?id=42399397"
+    ],
+    [
+      "Fermat's Last Theorem – how it’s going",
+      "https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 10:57:23",
       "https://news.ycombinator.com/item?id=42398139"
     ],
@@ -181,22 +201,22 @@
   ],
   [
     [
+      "2024-12-11, 18:01:00",
+      "https://news.ycombinator.com/item?id=42390683"
+    ],
+    [
+      "NASA believes it understands why Ingenuity crashed on Mars",
+      "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 22:31:32",
       "https://news.ycombinator.com/item?id=42382357"
     ],
     [
       "Making my first robot as a software engineer",
       "https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 17:23:35",
-      "https://news.ycombinator.com/item?id=42378927"
-    ],
-    [
-      "A tale of demonic possession predicted the decline of an early medieval empire",
-      "https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/"
     ]
   ],
   [
@@ -215,18 +235,8 @@
       "https://news.ycombinator.com/item?id=42367290"
     ],
     [
-      "New Superconductors Delight and Confound",
+      "New superconductors delight and confound",
       "https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 11:06:36",
-      "https://news.ycombinator.com/item?id=42365005"
-    ],
-    [
-      "Computer Graphics Archaeology: The HP 9845C Demo (2013)",
-      "https://socks-studio.com/2013/06/29/computer-graphics-archaeology-the-hp-9845c-demo/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "PostmarketOS-Powered Kubernetes Cluster",
       "https://blog.denv.it/posts/pmos-k3s-cluster/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 04:48:30",
-      "https://news.ycombinator.com/item?id=42347351"
-    ],
-    [
-      "Hexagonal Architecture and Rails",
-      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
