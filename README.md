@@ -17,7 +17,7 @@
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three mistakes from Dart/Flutter's weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
-* [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back pliny's account of mount vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
+* [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back Pliny's account of Mount Vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 18:01:00](https://news.ycombinator.com/item?id=42390683) - [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
@@ -27,7 +27,7 @@
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 * [2024-12-08, 22:07:21](https://news.ycombinator.com/item?id=42361066) - [Animals in Espionage](https://www.cia.gov/stories/story/natural-spies-animals-in-espionage/)
 * [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
-* [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [“All your base are belong to us” intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
+* [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 * [2024-12-08, 17:00:28](https://news.ycombinator.com/item?id=42358231) - [Evaporograph and Infra Red Images](http://sparkbangbuzz.com/evaporograph/evaporograph.htm)
 * [2024-12-08, 01:14:41](https://news.ycombinator.com/item?id=42354203) - [0x01 – Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
 
