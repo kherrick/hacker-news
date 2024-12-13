@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
+* [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 10:29:05](https://news.ycombinator.com/item?id=42407431) - [AI Product Management – Andrew Ng](https://www.deeplearning.ai/the-batch/issue-279/)
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)

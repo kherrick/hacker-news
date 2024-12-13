@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-13, 10:29:05](https://news.ycombinator.com/item?id=42407431) - [AI Product Management](https://www.deeplearning.ai/the-batch/issue-279/)
+* [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
+* [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
 * [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
@@ -17,7 +18,6 @@
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
-* [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 06:36:38](https://news.ycombinator.com/item?id=42385393) - [Saving Voyager 1 [video]](https://www.youtube.com/watch?v=dF_9YcehCZo)
