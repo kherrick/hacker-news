@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-13, 17:00:43",
+      "https://news.ycombinator.com/item?id=42410233"
+    ],
+    [
+      "HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability",
+      "https://www.ycombinator.com/companies/hyperdx/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 17:00:19",
+      "https://news.ycombinator.com/item?id=42410229"
+    ],
+    [
+      "Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython",
+      "https://blog.langworth.com/imposter-attack"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 15:46:22",
       "https://news.ycombinator.com/item?id=42409577"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-12-12, 18:41:24",
-      "https://news.ycombinator.com/item?id=42401976"
-    ],
-    [
-      "Bitbanging 1D Reversible Automata",
-      "https://richiejp.com/1d-reversible-automata"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 17:09:25",
       "https://news.ycombinator.com/item?id=42401011"
     ],
@@ -217,16 +227,6 @@
     [
       "Timemap.org – Interactive Map of History",
       "https://www.oldmapsonline.org/en/history/regions"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:07:30",
-      "https://news.ycombinator.com/item?id=42392267"
-    ],
-    [
-      "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
-      "https://lfi.dev/"
     ]
   ],
   [
