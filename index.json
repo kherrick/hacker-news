@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42405999"
     ],
     [
-      "The Age of Average",
+      "The age of average (2023)",
       "https://www.alexmurrell.co.uk/articles/the-age-of-average"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Rust's Incremental Compiler Architecture",
       "https://lwn.net/Articles/997784/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 01:03:27",
+      "https://news.ycombinator.com/item?id=42405046"
+    ],
+    [
+      "Show HN: I designed an espresso machine and coffee grinder",
+      "https://velofuso.com"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-12-12, 21:46:16",
+      "https://news.ycombinator.com/item?id=42403744"
+    ],
+    [
+      "What every systems programmer should know about concurrency (2020) [pdf]",
+      "https://assets.bitbashing.io/papers/concurrency-primer.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 20:14:26",
       "https://news.ycombinator.com/item?id=42402927"
     ],
@@ -147,16 +167,6 @@
     [
       "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
       "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 16:26:31",
-      "https://news.ycombinator.com/item?id=42400556"
-    ],
-    [
-      "Android XR",
-      "https://blog.google/products/android/android-xr/"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=42396733"
     ],
     [
-      "Canada euthanasia now accounts for nearly one in 20 deaths",
+      "Assisted dying now accounts for one in 20 Canada deaths",
       "https://www.bbc.com/news/articles/c0j1z14p57po"
     ]
   ],
@@ -217,6 +227,26 @@
     [
       "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
       "https://lfi.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 06:36:38",
+      "https://news.ycombinator.com/item?id=42385393"
+    ],
+    [
+      "Saving Voyager 1 [video]",
+      "https://www.youtube.com/watch?v=dF_9YcehCZo"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 16:09:45",
+      "https://news.ycombinator.com/item?id=42378166"
+    ],
+    [
+      "When the future arrived, it felt ordinary",
+      "https://worksinprogress.co/issue/the-world-of-tomorrow/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Microsoft GW-Basic User's Guide and Reference (1989) [pdf]",
       "https://bitsavers.computerhistory.org/pdf/microsoft/gw-basic/Microsoft_GW-BASIC_Users_Guide_and_Reference_1989.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 16:09:58",
-      "https://news.ycombinator.com/item?id=42350646"
-    ],
-    [
-      "Microsoft Discontinues iMac Rival Surface Studio 2",
-      "https://www.macrumors.com/2024/12/06/microsoft-discontinues-imac-rival-surface-studio/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 11:07:18",
-      "https://news.ycombinator.com/item?id=42348961"
-    ],
-    [
-      "Refactoring in C++: Top Techniques and Best Practices",
-      "https://blog.jetbrains.com/clion/2024/12/refactoring-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 11:25:10",
-      "https://news.ycombinator.com/item?id=42316470"
-    ],
-    [
-      "Misperception of the facial appearance that the opposite-sex desires",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835"
     ]
   ]
 ]
