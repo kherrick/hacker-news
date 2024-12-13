@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-13, 17:48:41](https://news.ycombinator.com/item?id=42410663) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
+* [2024-12-13, 17:32:00](https://news.ycombinator.com/item?id=42410508) - [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
 * [2024-12-13, 17:00:43](https://news.ycombinator.com/item?id=42410233) - [HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
 * [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
@@ -18,7 +19,6 @@
 * [2024-12-12, 23:16:20](https://news.ycombinator.com/item?id=42404411) - [Elixir/Erlang Hot Swapping Code (2016)](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
-* [2024-12-12, 17:09:25](https://news.ycombinator.com/item?id=42401011) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
