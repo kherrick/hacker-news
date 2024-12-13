@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror Bacteria Research Poses Significant Risks, Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
@@ -26,6 +25,7 @@
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 06:36:38](https://news.ycombinator.com/item?id=42385393) - [Saving Voyager 1 [video]](https://www.youtube.com/watch?v=dF_9YcehCZo)
 * [2024-12-10, 21:59:39](https://news.ycombinator.com/item?id=42382058) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
+* [2024-12-10, 15:21:20](https://news.ycombinator.com/item?id=42377655) - [Scrabble star wins Spanish world title despite not speaking Spanish](https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 12:51:10](https://news.ycombinator.com/item?id=42376362) - [Why do animals adopt?](https://nautil.us/why-do-animals-adopt-1168695/)
 * [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
