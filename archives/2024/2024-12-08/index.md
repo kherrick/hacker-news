@@ -91,6 +91,7 @@
 * [2024-12-08, 02:46:58](https://news.ycombinator.com/item?id=42354653) - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:36:38](https://news.ycombinator.com/item?id=42354602) - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
 * [2024-12-08, 02:32:26](https://news.ycombinator.com/item?id=42354580) - [Airline informant received thousands from passenger cash seizures](https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/)
+* [2024-12-08, 01:14:41](https://news.ycombinator.com/item?id=42354203) - [0x01 – Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
 * [2024-12-08, 01:14:19](https://news.ycombinator.com/item?id=42354201) - [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
 * [2024-12-08, 01:01:27](https://news.ycombinator.com/item?id=42354152) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
 * [2024-12-08, 00:40:09](https://news.ycombinator.com/item?id=42354056) - [GrapheneOS on Pixels getting extended Android support](https://grapheneos.social/@GrapheneOS/113603951027289464)

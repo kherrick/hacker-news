@@ -16,6 +16,7 @@
 * [2024-12-11, 19:02:17](https://news.ycombinator.com/item?id=42391442) - [Founder who built Snap's AI launches a snappy new take on video chatbots](https://techcrunch.com/2024/12/11/founder-who-built-snaps-ai-launches-a-snappy-new-take-on-video-chatbots/)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [Voice providers face removal for failing robocall mitigation requirements](https://docs.fcc.gov/public/attachments/DOC-408083A1.txt)
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
+* [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 18:02:39](https://news.ycombinator.com/item?id=42390709) - [Matt Mullenweg keeps digging his own grave](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
