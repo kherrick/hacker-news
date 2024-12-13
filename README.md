@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-13, 14:48:08](https://news.ycombinator.com/item?id=42408885) - [AT&T Won't Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies](https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three Mistakes from Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
+* [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 * [2024-12-13, 02:35:38](https://news.ycombinator.com/item?id=42405497) - [The pills that cured all ills; James Morison the Hygeist (2014)](http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
