@@ -22,7 +22,7 @@
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Assisted dying now accounts for one in 20 Canada deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
-* [2024-12-11, 06:36:38](https://news.ycombinator.com/item?id=42385393) - [Saving Voyager 1 [video]](https://www.youtube.com/watch?v=dF_9YcehCZo)
+* [2024-12-10, 21:59:39](https://news.ycombinator.com/item?id=42382058) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 * [2024-12-10, 16:09:45](https://news.ycombinator.com/item?id=42378166) - [When the future arrived, it felt ordinary](https://worksinprogress.co/issue/the-world-of-tomorrow/)
 * [2024-12-10, 15:21:20](https://news.ycombinator.com/item?id=42377655) - [Scrabble star wins Spanish world title despite not speaking Spanish](https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
