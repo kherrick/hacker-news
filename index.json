@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42408819"
     ],
     [
-      "Web Origami, for making websites where you can understand how they're made",
+      "Web Origami, for making websites where you can understand how they’re made",
       "https://weborigami.org"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-12-10, 04:27:14",
+      "https://news.ycombinator.com/item?id=42373746"
+    ],
+    [
+      "The Masterpiece Hannah Arendt Died Writing",
+      "https://www.chronicle.com/article/the-masterpiece-hannah-arendt-died-writing"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 15:47:42",
       "https://news.ycombinator.com/item?id=42367290"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=42358444"
     ],
     [
-      "\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk",
+      "“All your base are belong to us” intro to my 2004 MIT Spam Conference talk",
       "https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "0x01 – Killing Windows Kernel Mitigations",
       "https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 04:48:30",
-      "https://news.ycombinator.com/item?id=42347351"
-    ],
-    [
-      "Hexagonal Architecture and Rails",
-      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
