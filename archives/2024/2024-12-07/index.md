@@ -26,6 +26,7 @@
 * [2024-12-07, 20:31:26](https://news.ycombinator.com/item?id=42352662) - [The momentum of the solar energy transition](https://www.nature.com/articles/s41467-023-41971-7)
 * [2024-12-07, 19:53:54](https://news.ycombinator.com/item?id=42352371) - [Raspberry Pi 5 now supports Valve's Steam Link](https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/)
 * [2024-12-07, 19:44:48](https://news.ycombinator.com/item?id=42352291) - [How One of the Richest Men Is Avoiding $8B in Taxes](https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html)
+* [2024-12-07, 19:06:31](https://news.ycombinator.com/item?id=42351988) - [Microsoft GW-Basic User's Guide and Reference (1989) [pdf]](https://bitsavers.computerhistory.org/pdf/microsoft/gw-basic/Microsoft_GW-BASIC_Users_Guide_and_Reference_1989.pdf)
 * [2024-12-07, 19:00:16](https://news.ycombinator.com/item?id=42351935) - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 * [2024-12-07, 18:31:43](https://news.ycombinator.com/item?id=42351722) - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
 * [2024-12-07, 18:29:13](https://news.ycombinator.com/item?id=42351698) - [Google's AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
