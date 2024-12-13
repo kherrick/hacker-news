@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+* [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
 * [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [There is a Transformer shortage bottlenecking energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:43:03](https://news.ycombinator.com/item?id=42405758) - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+* [2024-12-13, 04:38:28](https://news.ycombinator.com/item?id=42405956) - [Amid cuts to basic research, New Zealand scraps all support for social sciences](https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences)
 * [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
@@ -18,7 +19,6 @@
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
-* [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-12, 06:23:02](https://news.ycombinator.com/item?id=42396733) - [Assisted dying now accounts for one in 20 Canada deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
