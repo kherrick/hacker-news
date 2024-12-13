@@ -68,6 +68,7 @@
 * [2024-12-10, 02:22:37](https://news.ycombinator.com/item?id=42373051) - [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2024-12-10, 01:53:06](https://news.ycombinator.com/item?id=42372840) - [Ask HN: Other websites using HN's forum software (news.arc)?](https://news.ycombinator.com/item?id=42372840)
 * [2024-12-10, 01:19:47](https://news.ycombinator.com/item?id=42372617) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
+* [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [2024-12-10, 00:47:08](https://news.ycombinator.com/item?id=42372384) - [TCC and the macOS Platform Sandbox Policy](https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/)
 * [2024-12-10, 00:45:53](https://news.ycombinator.com/item?id=42372379) - [Added sugar intake and its associations with incidence of cardiovascular disease](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full)
 * [2024-12-10, 00:05:28](https://news.ycombinator.com/item?id=42372064) - [El Salvador to scale back Bitcoin dreams to seal $1.3B IMF deal](https://www.ft.com/content/847cdb57-2d56-4259-ab8e-f95032efa259)

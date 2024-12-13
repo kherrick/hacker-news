@@ -6,6 +6,7 @@
 
 * [2024-12-12, 23:53:59](https://news.ycombinator.com/item?id=42404645) - [Trinity Desktop Environment (TDE)](https://www.trinitydesktop.org/)
 * [2024-12-12, 23:50:38](https://news.ycombinator.com/item?id=42404618) - [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
+* [2024-12-12, 23:22:17](https://news.ycombinator.com/item?id=42404447) - [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio)
 * [2024-12-12, 23:18:25](https://news.ycombinator.com/item?id=42404419) - [Learning Tibetan Changed the Way I Think (2023)](https://www.lionsroar.com/learning-tibetan/)
 * [2024-12-12, 23:16:20](https://news.ycombinator.com/item?id=42404411) - [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 * [2024-12-12, 22:45:57](https://news.ycombinator.com/item?id=42404202) - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
