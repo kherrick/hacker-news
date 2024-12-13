@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
+* [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [New Meta FAIR Research and Models](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 * [2024-12-13, 19:36:41](https://news.ycombinator.com/item?id=42411608) - [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
