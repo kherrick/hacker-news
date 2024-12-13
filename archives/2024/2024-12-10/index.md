@@ -31,6 +31,7 @@
 * [2024-12-10, 18:01:23](https://news.ycombinator.com/item?id=42379361) - [Canvas](https://openai.com/index/introducing-canvas/)
 * [2024-12-10, 17:30:22](https://news.ycombinator.com/item?id=42378994) - [Devin is now generally available](https://www.cognition.ai/blog/devin-generally-available)
 * [2024-12-10, 17:24:13](https://news.ycombinator.com/item?id=42378929) - [U.S. math scores drop on major international test](https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/)
+* [2024-12-10, 17:23:35](https://news.ycombinator.com/item?id=42378927) - [A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire](https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/)
 * [2024-12-10, 17:16:12](https://news.ycombinator.com/item?id=42378843) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 17:01:46](https://news.ycombinator.com/item?id=42378673) - [AI slop is already invading Oregon's local journalism](https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/)
 * [2024-12-10, 16:44:52](https://news.ycombinator.com/item?id=42378519) - [AI model for near-instant image creation on consumer-grade hardware](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware)
