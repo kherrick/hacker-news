@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 19:36:41",
+      "https://news.ycombinator.com/item?id=42411608"
+    ],
+    [
+      "Elon Musk wanted an OpenAI for-profit",
+      "https://openai.com/index/elon-musk-wanted-an-openai-for-profit/"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 18:02:03",
       "https://news.ycombinator.com/item?id=42410803"
     ],
@@ -67,16 +77,6 @@
     [
       "Show HN: Rain hashes – well designed, simple and fast variable sized hashes",
       "https://github.com/DOSAYGO-Research/rain"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 15:05:07",
-      "https://news.ycombinator.com/item?id=42409056"
-    ],
-    [
-      "Show HN: I made the slowest, most expensive GPT",
-      "https://ithy.com"
     ]
   ],
   [
@@ -161,62 +161,12 @@
   ],
   [
     [
-      "2024-12-13, 01:03:27",
-      "https://news.ycombinator.com/item?id=42405046"
-    ],
-    [
-      "Show HN: I designed an espresso machine and coffee grinder",
-      "https://velofuso.com"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 23:22:17",
-      "https://news.ycombinator.com/item?id=42404447"
-    ],
-    [
-      "Clio: A system for privacy-preserving insights into real-world AI use",
-      "https://www.anthropic.com/research/clio"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 23:16:20",
-      "https://news.ycombinator.com/item?id=42404411"
-    ],
-    [
-      "Elixir/Erlang Hot Swapping Code (2016)",
-      "https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 21:46:16",
-      "https://news.ycombinator.com/item?id=42403744"
-    ],
-    [
-      "What every systems programmer should know about concurrency (2020) [pdf]",
-      "https://assets.bitbashing.io/papers/concurrency-primer.pdf"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 21:06:45",
       "https://news.ycombinator.com/item?id=42403328"
     ],
     [
       "Internal Ocean Tides (2021)",
       "https://svs.gsfc.nasa.gov/4850"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 14:30:37",
-      "https://news.ycombinator.com/item?id=42399397"
-    ],
-    [
-      "Fermat's Last Theorem – how it’s going",
-      "https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/"
     ]
   ],
   [
@@ -277,6 +227,56 @@
     [
       "Fixing the Loading in Myst IV: Revelation",
       "https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8"
+    ]
+  ],
+  [
+    [
+      "2024-12-09, 01:11:28",
+      "https://news.ycombinator.com/item?id=42362215"
+    ],
+    [
+      "Major leap for nuclear clock paves way for ultraprecise timekeeping",
+      "https://www.nist.gov/news-events/news/2024/09/major-leap-nuclear-clock-paves-way-ultraprecise-timekeeping"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 22:07:21",
+      "https://news.ycombinator.com/item?id=42361066"
+    ],
+    [
+      "Animals in Espionage",
+      "https://www.cia.gov/stories/story/natural-spies-animals-in-espionage/"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 20:21:14",
+      "https://news.ycombinator.com/item?id=42360074"
+    ],
+    [
+      "An Italian town that built its own sun (2021)",
+      "https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 17:25:28",
+      "https://news.ycombinator.com/item?id=42358444"
+    ],
+    [
+      "\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk",
+      "https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-08, 17:00:28",
+      "https://news.ycombinator.com/item?id=42358231"
+    ],
+    [
+      "Evaporograph and Infra Red Images",
+      "http://sparkbangbuzz.com/evaporograph/evaporograph.htm"
     ]
   ],
   [
