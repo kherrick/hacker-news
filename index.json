@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-12-13, 02:35:38",
-      "https://news.ycombinator.com/item?id=42405497"
-    ],
-    [
-      "The pills that cured all ills; James Morison the Hygeist (2014)",
-      "http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 02:30:01",
       "https://news.ycombinator.com/item?id=42405462"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42367290"
     ],
     [
-      "New superconductors delight and confound",
+      "Exotic new superconductors delight and confound",
       "https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "0x01 – Killing Windows Kernel Mitigations",
       "https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 04:48:30",
+      "https://news.ycombinator.com/item?id=42347351"
+    ],
+    [
+      "Hexagonal Architecture and Rails",
+      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
