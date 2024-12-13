@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language combines concepts from Oberon and Lua](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+* [2024-12-13, 23:14:38](https://news.ycombinator.com/item?id=42413195) - [OpenAI whistleblower found dead in apartment](https://old.reddit.com/r/sanfrancisco/comments/1hdmn62/openai_whistleblower_suchir_balaji_found_dead_in/)
+* [2024-12-13, 22:31:48](https://news.ycombinator.com/item?id=42412934) - [Hospitals gave patients meds during childbirth, then reported them for drug use](https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine)
 * [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [New Meta FAIR Research and Models](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
