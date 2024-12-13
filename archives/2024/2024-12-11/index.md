@@ -20,6 +20,7 @@
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 18:02:39](https://news.ycombinator.com/item?id=42390709) - [Matt Mullenweg keeps digging his own grave](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
+* [2024-12-11, 18:01:00](https://news.ycombinator.com/item?id=42390683) - [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
 * [2024-12-11, 17:58:09](https://news.ycombinator.com/item?id=42390650) - [Chatbot 'encouraged teen to kill parents over screen time limit'](https://www.bbc.com/news/articles/cd605e48q1vo)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations)
 * [2024-12-11, 17:35:04](https://news.ycombinator.com/item?id=42390344) - [FCC Opens Entire 6 GHz Band to Low Power Device Operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
