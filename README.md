@@ -12,6 +12,7 @@
 * [2024-12-12, 22:45:57](https://news.ycombinator.com/item?id=42404202) - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 * [2024-12-12, 20:14:26](https://news.ycombinator.com/item?id=42402927) - [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
+* [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)
 * [2024-12-12, 18:41:24](https://news.ycombinator.com/item?id=42401976) - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
 * [2024-12-12, 18:33:16](https://news.ycombinator.com/item?id=42401904) - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
@@ -27,7 +28,6 @@
 * [2024-12-10, 21:59:39](https://news.ycombinator.com/item?id=42382058) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 * [2024-12-10, 15:21:20](https://news.ycombinator.com/item?id=42377655) - [Scrabble star wins Spanish world title despite not speaking Spanish](https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
-* [2024-12-10, 12:51:10](https://news.ycombinator.com/item?id=42376362) - [Why do animals adopt?](https://nautil.us/why-do-animals-adopt-1168695/)
 * [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [2024-12-08, 12:29:53](https://news.ycombinator.com/item?id=42356752) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 
