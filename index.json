@@ -1,12 +1,72 @@
 [
   [
     [
+      "2024-12-13, 15:05:33",
+      "https://news.ycombinator.com/item?id=42409059"
+    ],
+    [
+      "Fourteen North Koreans Indicted for Fraudulent IT Worker Scheme and Extortions",
+      "https://www.justice.gov/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 14:53:05",
+      "https://news.ycombinator.com/item?id=42408945"
+    ],
+    [
+      "The exact moment that I decided to go off-grid in Portugal",
+      "https://twitter.com/levelsio/status/1867314119654637629"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 14:51:49",
+      "https://news.ycombinator.com/item?id=42408925"
+    ],
+    [
+      "Feds help health insurers hide their dirty secret: denials on the rise",
+      "https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 14:48:08",
+      "https://news.ycombinator.com/item?id=42408885"
+    ],
+    [
+      "AT&T Won't Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies",
+      "https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 13:34:34",
       "https://news.ycombinator.com/item?id=42408271"
     ],
     [
       "Noninvasive imaging method can penetrate deeper into living tissue",
       "https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 08:05:27",
+      "https://news.ycombinator.com/item?id=42406773"
+    ],
+    [
+      "Three Mistakes from Dart/Flutter's Weak PRNG",
+      "https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 05:32:42",
+      "https://news.ycombinator.com/item?id=42406158"
+    ],
+    [
+      "In Memoriam: Donald Bitzer, 1934–2024",
+      "https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/"
     ]
   ],
   [
@@ -31,22 +91,22 @@
   ],
   [
     [
-      "2024-12-13, 03:53:55",
-      "https://news.ycombinator.com/item?id=42405795"
-    ],
-    [
-      "A transformer supply crisis bottlenecks energy projects",
-      "https://spectrum.ieee.org/transformer-shortage"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 03:38:29",
       "https://news.ycombinator.com/item?id=42405733"
     ],
     [
       "Mathematicians uncover a new way to count prime numbers",
       "https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 02:35:38",
+      "https://news.ycombinator.com/item?id=42405497"
+    ],
+    [
+      "The pills that cured all ills; James Morison the Hygeist (2014)",
+      "http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html"
     ]
   ],
   [
@@ -121,62 +181,12 @@
   ],
   [
     [
-      "2024-12-12, 19:25:41",
-      "https://news.ycombinator.com/item?id=42402411"
-    ],
-    [
-      "Ultra-low-power localization tag uses cellular signals [pdf]",
-      "https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 18:51:07",
       "https://news.ycombinator.com/item?id=42402079"
     ],
     [
       "The secret life of DNS packets (2019)",
       "https://stripe.com/blog/secret-life-of-dns"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 18:41:24",
-      "https://news.ycombinator.com/item?id=42401976"
-    ],
-    [
-      "Bitbanging 1D Reversible Automata",
-      "https://richiejp.com/1d-reversible-automata"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 18:33:16",
-      "https://news.ycombinator.com/item?id=42401904"
-    ],
-    [
-      "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
-      "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 17:09:25",
-      "https://news.ycombinator.com/item?id=42401011"
-    ],
-    [
-      "\"Rules\" that terminal programs follow",
-      "https://jvns.ca/blog/2024/11/26/terminal-rules/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 16:26:31",
-      "https://news.ycombinator.com/item?id=42400556"
-    ],
-    [
-      "Android XR",
-      "https://blog.google/products/android/android-xr/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Parkinson's Law: It’s real, so use it",
       "https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 09:42:02",
-      "https://news.ycombinator.com/item?id=42397737"
-    ],
-    [
-      "Programming Language Memory Models (2021)",
-      "https://research.swtch.com/plmm"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-12-10, 15:21:20",
-      "https://news.ycombinator.com/item?id=42377655"
+      "2024-12-10, 17:23:35",
+      "https://news.ycombinator.com/item?id=42378927"
     ],
     [
-      "Scrabble star wins Spanish world title despite not speaking Spanish",
-      "https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish"
+      "A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire",
+      "https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/"
     ]
   ],
   [
