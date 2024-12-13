@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-13, 21:56:29",
+      "https://news.ycombinator.com/item?id=42412718"
+    ],
+    [
+      "OpenAI whistleblower found dead in San Francisco apartment",
+      "https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 21:07:08",
+      "https://news.ycombinator.com/item?id=42412360"
+    ],
+    [
+      "New Meta FAIR Research and Models",
+      "https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 20:07:30",
       "https://news.ycombinator.com/item?id=42411868"
     ],
@@ -57,16 +77,6 @@
     [
       "Ask HN: What should I do with meet.hn?",
       "https://news.ycombinator.com/item?id=42410582"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 17:32:00",
-      "https://news.ycombinator.com/item?id=42410508"
-    ],
-    [
-      "People who are good at reading have different brains: study",
-      "https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-12-13, 02:30:01",
-      "https://news.ycombinator.com/item?id=42405462"
-    ],
-    [
-      "A new video captures a 1968 demo of IBM’s Executive Terminal",
-      "https://spectrum.ieee.org/ibm-demo"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -197,6 +197,16 @@
     [
       "NASA believes it understands why Ingenuity crashed on Mars",
       "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 13:30:07",
+      "https://news.ycombinator.com/item?id=42387475"
+    ],
+    [
+      "Schrödinger's IPv6 Cat",
+      "https://labs.ripe.net/author/hisham_ibrahim/schrodingers-ipv6-cat/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "0x01 – Killing Windows Kernel Mitigations",
       "https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 04:48:30",
-      "https://news.ycombinator.com/item?id=42347351"
-    ],
-    [
-      "Hexagonal Architecture and Rails",
-      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
