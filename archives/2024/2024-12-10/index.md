@@ -72,6 +72,7 @@
 * [2024-12-10, 05:17:14](https://news.ycombinator.com/item?id=42373996) - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 * [2024-12-10, 05:04:07](https://news.ycombinator.com/item?id=42373936) - [Show HN: HackerNews-new-jobs – insights into fresh and recurring job ads](https://github.com/nemanjam/hn-new-jobs)
 * [2024-12-10, 04:37:16](https://news.ycombinator.com/item?id=42373805) - [Wolfram Notebook Assistant](https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/)
+* [2024-12-10, 04:27:14](https://news.ycombinator.com/item?id=42373746) - [The Masterpiece Hannah Arendt Died Writing](https://www.chronicle.com/article/the-masterpiece-hannah-arendt-died-writing)
 * [2024-12-10, 03:45:32](https://news.ycombinator.com/item?id=42373518) - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 * [2024-12-10, 03:30:32](https://news.ycombinator.com/item?id=42373437) - [Tree Calculus](https://treecalcul.us/)
 * [2024-12-10, 03:12:12](https://news.ycombinator.com/item?id=42373343) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=42373343)
