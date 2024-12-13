@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-13](index.md)
+
+* [2024-12-13, 00:32:22](https://news.ycombinator.com/item?id=42404872) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
