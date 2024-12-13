@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 23:50:38](https://news.ycombinator.com/item?id=42404618) - [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
+* [2024-12-12, 23:16:20](https://news.ycombinator.com/item?id=42404411) - [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 * [2024-12-12, 22:45:57](https://news.ycombinator.com/item?id=42404202) - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 * [2024-12-12, 22:37:32](https://news.ycombinator.com/item?id=42404144) - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 * [2024-12-12, 20:46:25](https://news.ycombinator.com/item?id=42403161) - [AI Pioneer Fei-Fei Li Has a Vision for Computer Vision](https://spectrum.ieee.org/fei-fei-li-world-labs)

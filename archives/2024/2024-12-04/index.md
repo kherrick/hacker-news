@@ -56,6 +56,7 @@
 * [2024-12-04, 12:00:40](https://news.ycombinator.com/item?id=42316644) - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
 * [2024-12-04, 11:52:01](https://news.ycombinator.com/item?id=42316592) - [Show HN: A Directory of Free, Open Source Alternatives to Popular Software](https://alternateoss.com/)
 * [2024-12-04, 11:46:07](https://news.ycombinator.com/item?id=42316561) - [The Booze of Monkey Island is an unofficial fan game](https://bean-adventure-agency.itch.io/the-booze-of-monkey-island)
+* [2024-12-04, 11:25:10](https://news.ycombinator.com/item?id=42316470) - [Misperception of the facial appearance that the opposite-sex desires](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835)
 * [2024-12-04, 11:11:20](https://news.ycombinator.com/item?id=42316398) - [House panel concludes that Covid-19 pandemic came from a lab leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak)
 * [2024-12-04, 10:40:14](https://news.ycombinator.com/item?id=42316246) - [The \"Bird and Baby\" grows up: inside the new Eagle and Child](https://oxfordclarion.uk/the-bird-and-baby-grows-up-inside-the-new-eagle-child/)
 * [2024-12-04, 10:13:40](https://news.ycombinator.com/item?id=42316091) - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
