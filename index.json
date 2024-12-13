@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-13, 04:38:28",
+      "https://news.ycombinator.com/item?id=42405956"
+    ],
+    [
+      "Amid cuts to basic research, New Zealand scraps all support for social sciences",
+      "https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 03:53:55",
       "https://news.ycombinator.com/item?id=42405795"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42405357"
     ],
     [
-      "Rust's Incremental Compiler Architecture",
+      "Rust’s Incremental Compiler Architecture",
       "https://lwn.net/Articles/997784/"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-12-12, 18:33:16",
-      "https://news.ycombinator.com/item?id=42401904"
-    ],
-    [
-      "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
-      "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-12-10, 16:09:45",
-      "https://news.ycombinator.com/item?id=42378166"
-    ],
-    [
-      "When the future arrived, it felt ordinary",
-      "https://worksinprogress.co/issue/the-world-of-tomorrow/"
-    ]
-  ],
-  [
-    [
       "2024-12-10, 13:43:47",
       "https://news.ycombinator.com/item?id=42376724"
     ],
@@ -257,6 +247,16 @@
     [
       "Mastering Ruby debugging: From puts to professional tools",
       "https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 10:25:30",
+      "https://news.ycombinator.com/item?id=42375509"
+    ],
+    [
+      "Eventual Consistency Is Tricky",
+      "https://newsletter.systemdesigncodex.com/p/eventual-consistency-is-tricky"
     ]
   ],
   [
