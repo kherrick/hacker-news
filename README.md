@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 * [2024-12-13, 19:36:41](https://news.ycombinator.com/item?id=42411608) - [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
 * [2024-12-13, 18:02:03](https://news.ycombinator.com/item?id=42410803) - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
@@ -29,7 +30,6 @@
 * [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 * [2024-12-08, 17:00:28](https://news.ycombinator.com/item?id=42358231) - [Evaporograph and Infra Red Images](http://sparkbangbuzz.com/evaporograph/evaporograph.htm)
 * [2024-12-08, 01:14:41](https://news.ycombinator.com/item?id=42354203) - [0x01 – Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
-* [2024-12-07, 19:16:25](https://news.ycombinator.com/item?id=42352075) - [PostmarketOS-Powered Kubernetes Cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 
 ## [Archives](archives/index.md)
 
