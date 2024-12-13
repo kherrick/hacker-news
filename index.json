@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 02:30:01",
+      "https://news.ycombinator.com/item?id=42405462"
+    ],
+    [
+      "When IBM Built a War Room for Executives",
+      "https://spectrum.ieee.org/ibm-demo"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 00:32:22",
       "https://news.ycombinator.com/item?id=42404872"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42404419"
     ],
     [
-      "Learning Tibetan Changed the Way I Think (2023)",
+      "Learning Tibetan changed the way I think (2023)",
       "https://www.lionsroar.com/learning-tibetan/"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Carta is making it too difficult to cancel subscriptions, some founders say",
       "https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 20:29:19",
-      "https://news.ycombinator.com/item?id=42403037"
-    ],
-    [
-      "Novel link between cell nutrition and identity could improve immunotherapies",
-      "https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
       "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 17:29:49",
-      "https://news.ycombinator.com/item?id=42401227"
-    ],
-    [
-      "Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs",
-      "https://github.com/ivanyu/hn-tldr-extension"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-12-12, 07:35:07",
-      "https://news.ycombinator.com/item?id=42397052"
-    ],
-    [
-      "Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)",
-      "https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 06:23:02",
       "https://news.ycombinator.com/item?id=42396733"
     ],
@@ -251,11 +231,21 @@
   ],
   [
     [
+      "2024-12-11, 20:07:30",
+      "https://news.ycombinator.com/item?id=42392267"
+    ],
+    [
+      "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
+      "https://lfi.dev/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 15:21:20",
       "https://news.ycombinator.com/item?id=42377655"
     ],
     [
-      "Scrabble star wins Spanish world title – despite not speaking Spanish",
+      "Scrabble star wins Spanish world title despite not speaking Spanish",
       "https://www.theguardian.com/world/2024/dec/10/scrabble-star-nigel-richards-wins-spanish-world-title-despite-not-speaking-spanish"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "The world of tomorrow",
       "https://worksinprogress.co/issue/the-world-of-tomorrow/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 11:07:18",
+      "https://news.ycombinator.com/item?id=42348961"
+    ],
+    [
+      "Refactoring in C++: Top Techniques and Best Practices – The CLion Blog",
+      "https://blog.jetbrains.com/clion/2024/12/refactoring-in-cpp/"
     ]
   ],
   [
