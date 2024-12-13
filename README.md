@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-13, 18:42:03](https://news.ycombinator.com/item?id=42411126) - [Implementing network time security (NTP NTS) at the hardware level (2022)](https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/)
-* [2024-12-13, 18:37:29](https://news.ycombinator.com/item?id=42411094) - [A Rare Cross-Section Illustration: Infamous Happenings of Kowloon Walled City](https://www.thisiscolossal.com/2024/07/kowlooon-walled-city-illustration/)
 * [2024-12-13, 18:02:03](https://news.ycombinator.com/item?id=42410803) - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 * [2024-12-13, 17:48:41](https://news.ycombinator.com/item?id=42410663) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:38:30](https://news.ycombinator.com/item?id=42410582) - [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
@@ -22,12 +20,14 @@
 * [2024-12-12, 23:22:17](https://news.ycombinator.com/item?id=42404447) - [Clio: A system for privacy-preserving insights into real-world AI use](https://www.anthropic.com/research/clio)
 * [2024-12-12, 23:16:20](https://news.ycombinator.com/item?id=42404411) - [Elixir/Erlang Hot Swapping Code (2016)](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
+* [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 17:23:35](https://news.ycombinator.com/item?id=42378927) - [A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire](https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/)
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+* [2024-12-10, 12:17:37](https://news.ycombinator.com/item?id=42376144) - [Bit-permuting 16 u32s at once with AVX-512](http://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
 * [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [2024-12-08, 12:29:53](https://news.ycombinator.com/item?id=42356752) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 

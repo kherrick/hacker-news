@@ -54,6 +54,7 @@
 * [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 12:58:17](https://news.ycombinator.com/item?id=42376406) - [Next-generation datacenters consume zero water for cooling](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
 * [2024-12-10, 12:51:10](https://news.ycombinator.com/item?id=42376362) - [Why do animals adopt?](https://nautil.us/why-do-animals-adopt-1168695/)
+* [2024-12-10, 12:17:37](https://news.ycombinator.com/item?id=42376144) - [Bit-permuting 16 u32s at once with AVX-512](http://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
 * [2024-12-10, 12:06:55](https://news.ycombinator.com/item?id=42376083) - [Mastering Ruby Debugging: From Puts to Professional Tools](https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/)
 * [2024-12-10, 11:54:54](https://news.ycombinator.com/item?id=42376014) - [Do Adults Have the Skills They Need to Thrive in a Changing World?](https://www.oecd.org/en/publications/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_b263dc5d-en.html)
 * [2024-12-10, 10:48:29](https://news.ycombinator.com/item?id=42375632) - [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)
