@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 19:52:26",
+      "https://news.ycombinator.com/item?id=42411727"
+    ],
+    [
+      "Show HN: @smoores/epub, a JavaScript library for working with EPUB publications",
+      "https://www.npmjs.com/package/@smoores/epub"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 19:36:41",
       "https://news.ycombinator.com/item?id=42411608"
     ],
@@ -111,32 +121,22 @@
   ],
   [
     [
+      "2024-12-13, 08:05:27",
+      "https://news.ycombinator.com/item?id=42406773"
+    ],
+    [
+      "Three Mistakes from Dart/Flutter's Weak PRNG",
+      "https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 05:32:42",
       "https://news.ycombinator.com/item?id=42406158"
     ],
     [
       "Donald Bitzer has died",
       "https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 04:38:28",
-      "https://news.ycombinator.com/item?id=42405956"
-    ],
-    [
-      "Amid cuts to basic research, New Zealand scraps all support for social sciences",
-      "https://www.science.org/content/article/amid-cuts-basic-research-new-zealand-scraps-all-support-social-sciences"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 03:38:29",
-      "https://news.ycombinator.com/item?id=42405733"
-    ],
-    [
-      "Mathematicians uncover a new way to count prime numbers",
-      "https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-12-12, 21:06:45",
-      "https://news.ycombinator.com/item?id=42403328"
-    ],
-    [
-      "Internal Ocean Tides (2021)",
-      "https://svs.gsfc.nasa.gov/4850"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 10:57:23",
       "https://news.ycombinator.com/item?id=42398139"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-12-12, 09:12:28",
-      "https://news.ycombinator.com/item?id=42397550"
+      "2024-12-11, 18:33:06",
+      "https://news.ycombinator.com/item?id=42391079"
     ],
     [
-      "Timemap.org – Interactive Map of History",
-      "https://www.oldmapsonline.org/en/history/regions"
+      "The Pentium FDIV bug, reverse-engineered",
+      "https://oldbytes.space/@kenshirriff/113606898880486330"
     ]
   ],
   [
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=42378927"
     ],
     [
-      "A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire",
+      "A tale of demonic possession predicted the decline of an early medieval empire",
       "https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/"
     ]
   ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2024-12-10, 01:13:03",
-      "https://news.ycombinator.com/item?id=42372565"
+      "2024-12-09, 15:47:42",
+      "https://news.ycombinator.com/item?id=42367290"
     ],
     [
-      "Fixing the Loading in Myst IV: Revelation",
-      "https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8"
+      "New Superconductors Delight and Confound",
+      "https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/"
     ]
   ],
   [
     [
-      "2024-12-09, 01:11:28",
-      "https://news.ycombinator.com/item?id=42362215"
+      "2024-12-09, 11:06:36",
+      "https://news.ycombinator.com/item?id=42365005"
     ],
     [
-      "Major leap for nuclear clock paves way for ultraprecise timekeeping",
-      "https://www.nist.gov/news-events/news/2024/09/major-leap-nuclear-clock-paves-way-ultraprecise-timekeeping"
+      "Computer Graphics Archaeology: The HP 9845C Demo (2013)",
+      "https://socks-studio.com/2013/06/29/computer-graphics-archaeology-the-hp-9845c-demo/"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2024-12-08, 12:29:53",
-      "https://news.ycombinator.com/item?id=42356752"
+      "2024-12-08, 01:14:41",
+      "https://news.ycombinator.com/item?id=42354203"
     ],
     [
-      "Librebooting the ThinkPad T480",
-      "https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/"
+      "0x01 – Killing Windows Kernel Mitigations",
+      "https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/"
     ]
   ],
   [
     [
-      "2024-12-08, 05:14:28",
-      "https://news.ycombinator.com/item?id=42355160"
+      "2024-12-07, 19:16:25",
+      "https://news.ycombinator.com/item?id=42352075"
     ],
     [
-      "The world of tomorrow",
-      "https://worksinprogress.co/issue/the-world-of-tomorrow/"
+      "PostmarketOS-Powered Kubernetes Cluster",
+      "https://blog.denv.it/posts/pmos-k3s-cluster/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 04:48:30",
+      "https://news.ycombinator.com/item?id=42347351"
+    ],
+    [
+      "Hexagonal Architecture and Rails",
+      "https://the.codegardener.com/hexagonal-architecture-rails/"
     ]
   ]
 ]
