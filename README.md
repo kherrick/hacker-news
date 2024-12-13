@@ -16,7 +16,6 @@
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three mistakes from Dart/Flutter's weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
-* [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
@@ -30,6 +29,7 @@
 * [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [“All your base are belong to us” intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 * [2024-12-08, 17:00:28](https://news.ycombinator.com/item?id=42358231) - [Evaporograph and Infra Red Images](http://sparkbangbuzz.com/evaporograph/evaporograph.htm)
 * [2024-12-08, 01:14:41](https://news.ycombinator.com/item?id=42354203) - [0x01 – Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
+* [2024-12-07, 04:48:30](https://news.ycombinator.com/item?id=42347351) - [Hexagonal Architecture and Rails](https://the.codegardener.com/hexagonal-architecture-rails/)
 
 ## [Archives](archives/index.md)
 
