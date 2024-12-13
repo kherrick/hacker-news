@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-13, 00:32:22",
+      "https://news.ycombinator.com/item?id=42404872"
+    ],
+    [
+      "NonStop discussion around adding Rust to Git",
+      "https://lwn.net/Articles/998115/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 23:53:59",
+      "https://news.ycombinator.com/item?id=42404645"
+    ],
+    [
+      "Trinity Desktop Environment (TDE)",
+      "https://www.trinitydesktop.org/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 23:50:38",
       "https://news.ycombinator.com/item?id=42404618"
     ],
     [
       "A new timeline for Neanderthal interbreeding with modern humans",
       "https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 23:18:25",
+      "https://news.ycombinator.com/item?id=42404419"
+    ],
+    [
+      "Learning Tibetan Changed the Way I Think (2023)",
+      "https://www.lionsroar.com/learning-tibetan/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-12-12, 20:10:49",
-      "https://news.ycombinator.com/item?id=42402897"
-    ],
-    [
-      "The humble for loop in Rust",
-      "https://blog.startifact.com/posts/humble-for-loop-rust/"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 19:25:41",
       "https://news.ycombinator.com/item?id=42402411"
     ],
@@ -117,16 +137,6 @@
     [
       "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
       "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 18:32:36",
-      "https://news.ycombinator.com/item?id=42401896"
-    ],
-    [
-      "The Rise and Fall of Ashton-Tate (2023)",
-      "https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-12-07, 08:13:04",
-      "https://news.ycombinator.com/item?id=42348131"
+      "2024-12-04, 18:51:23",
+      "https://news.ycombinator.com/item?id=42320639"
     ],
     [
-      "Confidential Computing Platform Based on Tee and TPM Collaborative Trust",
-      "https://arxiv.org/abs/2412.03842"
+      "Bacterial World",
+      "https://www.oum.ox.ac.uk/bacterialworld/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Misperception of the facial appearance that the opposite-sex desires",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310835"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 02:47:42",
-      "https://news.ycombinator.com/item?id=42302658"
-    ],
-    [
-      "A middle schooler found a new compound in a piece of goose poop",
-      "https://phys.org/news/2024-12-middle-schooler-compound-piece-goose.html"
     ]
   ]
 ]
