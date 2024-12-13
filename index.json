@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-12-13, 13:08:37",
-      "https://news.ycombinator.com/item?id=42408117"
-    ],
-    [
-      "SpaceX Seeks Approval to Turn Texas Starbase Site into New City",
-      "https://www.bloomberg.com/news/articles/2024-12-13/spacex-seeks-approval-to-turn-texas-starbase-site-into-new-city"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 04:50:34",
       "https://news.ycombinator.com/item?id=42405999"
     ],
@@ -77,16 +67,6 @@
     [
       "A new video captures a 1968 demo of IBM’s Executive Terminal",
       "https://spectrum.ieee.org/ibm-demo"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 02:03:19",
-      "https://news.ycombinator.com/item?id=42405357"
-    ],
-    [
-      "Rust’s Incremental Compiler Architecture",
-      "https://lwn.net/Articles/997784/"
     ]
   ],
   [
@@ -161,6 +141,46 @@
   ],
   [
     [
+      "2024-12-12, 18:41:24",
+      "https://news.ycombinator.com/item?id=42401976"
+    ],
+    [
+      "Bitbanging 1D Reversible Automata",
+      "https://richiejp.com/1d-reversible-automata"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 18:33:16",
+      "https://news.ycombinator.com/item?id=42401904"
+    ],
+    [
+      "Converting untrusted PDFs into trusted ones: The Qubes Way (2013)",
+      "https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 17:09:25",
+      "https://news.ycombinator.com/item?id=42401011"
+    ],
+    [
+      "\"Rules\" that terminal programs follow",
+      "https://jvns.ca/blog/2024/11/26/terminal-rules/"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 16:26:31",
+      "https://news.ycombinator.com/item?id=42400556"
+    ],
+    [
+      "Android XR",
+      "https://blog.google/products/android/android-xr/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -181,12 +201,42 @@
   ],
   [
     [
+      "2024-12-12, 09:48:47",
+      "https://news.ycombinator.com/item?id=42397781"
+    ],
+    [
+      "Parkinson's Law: It’s real, so use it",
+      "https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 09:42:02",
+      "https://news.ycombinator.com/item?id=42397737"
+    ],
+    [
+      "Programming Language Memory Models (2021)",
+      "https://research.swtch.com/plmm"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 09:12:28",
       "https://news.ycombinator.com/item?id=42397550"
     ],
     [
       "Timemap.org – Interactive Map of History",
       "https://www.oldmapsonline.org/en/history/regions"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 20:07:30",
+      "https://news.ycombinator.com/item?id=42392267"
+    ],
+    [
+      "Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library",
+      "https://lfi.dev/"
     ]
   ],
   [
@@ -231,46 +281,6 @@
   ],
   [
     [
-      "2024-12-10, 12:06:55",
-      "https://news.ycombinator.com/item?id=42376083"
-    ],
-    [
-      "Mastering Ruby debugging: From puts to professional tools",
-      "https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 10:25:30",
-      "https://news.ycombinator.com/item?id=42375509"
-    ],
-    [
-      "Eventual Consistency Is Tricky",
-      "https://newsletter.systemdesigncodex.com/p/eventual-consistency-is-tricky"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 07:00:32",
-      "https://news.ycombinator.com/item?id=42374493"
-    ],
-    [
-      "Please Stop Using Barrel Files",
-      "https://tkdodo.eu/blog/please-stop-using-barrel-files"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 06:09:25",
-      "https://news.ycombinator.com/item?id=42374235"
-    ],
-    [
-      "Ways to Use Torch.compile",
-      "http://blog.ezyang.com/2024/11/ways-to-use-torch-compile/"
-    ]
-  ],
-  [
-    [
       "2024-12-10, 01:13:03",
       "https://news.ycombinator.com/item?id=42372565"
     ],
@@ -287,16 +297,6 @@
     [
       "Librebooting the ThinkPad T480",
       "https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/"
-    ]
-  ],
-  [
-    [
-      "2024-12-07, 19:06:31",
-      "https://news.ycombinator.com/item?id=42351988"
-    ],
-    [
-      "Microsoft GW-Basic User's Guide and Reference (1989) [pdf]",
-      "https://bitsavers.computerhistory.org/pdf/microsoft/gw-basic/Microsoft_GW-BASIC_Users_Guide_and_Reference_1989.pdf"
     ]
   ]
 ]
