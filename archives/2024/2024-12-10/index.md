@@ -10,6 +10,7 @@
 * [2024-12-10, 22:55:13](https://news.ycombinator.com/item?id=42382607) - [Bryan Johnson – The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
 * [2024-12-10, 22:45:15](https://news.ycombinator.com/item?id=42382506) - [Show HN: Don't let your billion-dollar ideas die](https://ideaharbor.xyz)
 * [2024-12-10, 22:42:05](https://news.ycombinator.com/item?id=42382470) - [Arctic tundra is now emitting more carbon than it absorbs, US agency says](https://www.theguardian.com/world/2024/dec/10/arctic-tundra-carbon-shift)
+* [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 21:59:39](https://news.ycombinator.com/item?id=42382058) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 * [2024-12-10, 21:24:40](https://news.ycombinator.com/item?id=42381712) - [Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps](https://www.hyperbrowser.ai/)
 * [2024-12-10, 21:19:22](https://news.ycombinator.com/item?id=42381637) - [GM halts funding of robotaxi development by Cruise](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
