@@ -13,6 +13,7 @@
 * [2024-12-12, 22:37:32](https://news.ycombinator.com/item?id=42404144) - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 * [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
+* [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back pliny's account of mount vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
 * [2024-12-12, 20:46:25](https://news.ycombinator.com/item?id=42403161) - [AI Pioneer Fei-Fei Li Has a Vision for Computer Vision](https://spectrum.ieee.org/fei-fei-li-world-labs)
 * [2024-12-12, 20:29:19](https://news.ycombinator.com/item?id=42403037) - [Novel Link Between Cell Nutrition and Identity Could Improve Immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
 * [2024-12-12, 20:22:03](https://news.ycombinator.com/item?id=42402981) - [Pink Floyd's 'The Wall': A Complete Analysis](https://thewallanalysis.com/)
