@@ -22,14 +22,14 @@
 * [2024-12-12, 21:46:16](https://news.ycombinator.com/item?id=42403744) - [What every systems programmer should know about concurrency (2020) [pdf]](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 * [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
-* [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
+* [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 17:23:35](https://news.ycombinator.com/item?id=42378927) - [A Tale of Demonic Possession Predicted the Decline of an Early Medieval Empire](https://www.smithsonianmag.com/history/how-a-tale-of-demonic-possession-predicted-the-decline-of-an-early-medieval-empire-180985596/)
-* [2024-12-10, 13:43:47](https://news.ycombinator.com/item?id=42376724) - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-12-10, 12:17:37](https://news.ycombinator.com/item?id=42376144) - [Bit-permuting 16 u32s at once with AVX-512](http://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
 * [2024-12-10, 01:13:03](https://news.ycombinator.com/item?id=42372565) - [Fixing the Loading in Myst IV: Revelation](https://medium.com/@tomysshadow/fixing-the-loading-in-myst-iv-revelation-86e2814afbf8)
 * [2024-12-08, 12:29:53](https://news.ycombinator.com/item?id=42356752) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
+* [2024-12-08, 05:14:28](https://news.ycombinator.com/item?id=42355160) - [The world of tomorrow](https://worksinprogress.co/issue/the-world-of-tomorrow/)
 
 ## [Archives](archives/index.md)
 
