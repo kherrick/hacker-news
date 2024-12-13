@@ -15,7 +15,6 @@
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three mistakes from Dart/Flutter's weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
-* [2024-12-13, 02:35:38](https://news.ycombinator.com/item?id=42405497) - [The pills that cured all ills; James Morison the Hygeist (2014)](http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
@@ -24,12 +23,13 @@
 * [2024-12-11, 18:01:00](https://news.ycombinator.com/item?id=42390683) - [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 12:17:37](https://news.ycombinator.com/item?id=42376144) - [Bit-permuting 16 u32s at once with AVX-512](http://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html)
-* [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [New superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
+* [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 * [2024-12-08, 22:07:21](https://news.ycombinator.com/item?id=42361066) - [Animals in Espionage](https://www.cia.gov/stories/story/natural-spies-animals-in-espionage/)
 * [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
 * [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 * [2024-12-08, 17:00:28](https://news.ycombinator.com/item?id=42358231) - [Evaporograph and Infra Red Images](http://sparkbangbuzz.com/evaporograph/evaporograph.htm)
 * [2024-12-08, 01:14:41](https://news.ycombinator.com/item?id=42354203) - [0x01 – Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
+* [2024-12-07, 04:48:30](https://news.ycombinator.com/item?id=42347351) - [Hexagonal Architecture and Rails](https://the.codegardener.com/hexagonal-architecture-rails/)
 
 ## [Archives](archives/index.md)
 
