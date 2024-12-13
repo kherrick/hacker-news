@@ -57,6 +57,7 @@
 * [2024-12-08, 13:35:38](https://news.ycombinator.com/item?id=42357041) - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
 * [2024-12-08, 12:47:10](https://news.ycombinator.com/item?id=42356814) - [Don't Block the Event Loop (Or the Worker Pool) in JavaScript](https://github.com/rowsana/Not-blocking-event-loop)
 * [2024-12-08, 12:33:03](https://news.ycombinator.com/item?id=42356764) - [The tech bosses who poured $394.1M into US election](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence)
+* [2024-12-08, 12:29:53](https://news.ycombinator.com/item?id=42356752) - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 * [2024-12-08, 12:06:14](https://news.ycombinator.com/item?id=42356668) - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 11:31:55](https://news.ycombinator.com/item?id=42356548) - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
 * [2024-12-08, 11:17:43](https://news.ycombinator.com/item?id=42356500) - [Freshly Remember'd: Kirk Drift (2017)](http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/)
