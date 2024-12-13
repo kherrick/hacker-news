@@ -55,6 +55,7 @@
 * [2024-12-10, 12:06:55](https://news.ycombinator.com/item?id=42376083) - [Mastering Ruby Debugging: From Puts to Professional Tools](https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/)
 * [2024-12-10, 11:54:54](https://news.ycombinator.com/item?id=42376014) - [Do Adults Have the Skills They Need to Thrive in a Changing World?](https://www.oecd.org/en/publications/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_b263dc5d-en.html)
 * [2024-12-10, 10:48:29](https://news.ycombinator.com/item?id=42375632) - [ChatGPT's Sad Second Birthday](https://podcastaddict.com/podcast/system-crash/5515865)
+* [2024-12-10, 10:25:30](https://news.ycombinator.com/item?id=42375509) - [Eventual Consistency Is Tricky](https://newsletter.systemdesigncodex.com/p/eventual-consistency-is-tricky)
 * [2024-12-10, 09:43:13](https://news.ycombinator.com/item?id=42375298) - [Zen and the Art of Aibo Engineering](https://spectrum.ieee.org/aibo)
 * [2024-12-10, 09:41:16](https://news.ycombinator.com/item?id=42375288) - [Just Say No to JavaScript](https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html)
 * [2024-12-10, 09:24:01](https://news.ycombinator.com/item?id=42375210) - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
