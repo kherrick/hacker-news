@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
@@ -22,6 +21,7 @@
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Why conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
+* [2024-12-12, 12:41:57](https://news.ycombinator.com/item?id=42398671) - [Engineering tunable catch bonds with DNA](https://www.nature.com/articles/s41467-024-52749-w)
 * [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)

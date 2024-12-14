@@ -52,6 +52,7 @@
 * [2024-12-12, 13:29:23](https://news.ycombinator.com/item?id=42398952) - [Gukesh Becomes the Youngest Chess World Champion in History](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 * [2024-12-12, 13:23:21](https://news.ycombinator.com/item?id=42398913) - [BlenderGPT](https://www.blendergpt.org/)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Why conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
+* [2024-12-12, 12:41:57](https://news.ycombinator.com/item?id=42398671) - [Engineering tunable catch bonds with DNA](https://www.nature.com/articles/s41467-024-52749-w)
 * [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
 * [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
