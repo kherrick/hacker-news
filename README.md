@@ -2,7 +2,6 @@
 
 * [2024-12-14, 21:09:51](https://news.ycombinator.com/item?id=42419469) - [They See Your Photos](https://theyseeyourphotos.com/)
 * [2024-12-14, 19:53:12](https://news.ycombinator.com/item?id=42419036) - [Occasional Paper: Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
-* [2024-12-14, 19:43:57](https://news.ycombinator.com/item?id=42418985) - [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
 * [2024-12-14, 19:42:50](https://news.ycombinator.com/item?id=42418982) - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:42:50](https://news.ycombinator.com/item?id=42418373) - [Telegraph Talk and Talkers (1902)](https://books.google.com/books?id=_49JAQAAMAAJ&newbks=1&newbks_redir=0&pg=PA227#v=onepage&q&f=false)
@@ -20,6 +19,7 @@
 * [2024-12-14, 03:11:54](https://news.ycombinator.com/item?id=42414371) - [The Saga of the Color Brown in the Early Years of the PC (2023)](http://nerdlypleasures.blogspot.com/2023/03/the-saga-of-color-brown-in-early-years.html)
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=1yvBqasHLZs)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
+* [2024-12-13, 13:07:25](https://news.ycombinator.com/item?id=42408113) - [The tooth, the whole tooth and the jawbone too](https://thequackdoctor.substack.com/p/the-tooth-the-whole-tooth-and-the)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
