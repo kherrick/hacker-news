@@ -26,9 +26,9 @@
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 17:24:44](https://news.ycombinator.com/item?id=42390226) - [The case against static typing in PHP (2023)](https://www.tonymarston.net/php-mysql/against-static-typing-in-php.html)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
+* [2024-12-10, 22:55:16](https://news.ycombinator.com/item?id=42382609) - [The science of routing print orders](https://www.canva.dev/blog/engineering/the-science-of-routing-print-orders/)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
-* [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
 * [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 
 ## [Archives](archives/index.md)
