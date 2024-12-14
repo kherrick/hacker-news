@@ -22,6 +22,7 @@
 * [2024-12-12, 20:17:03](https://news.ycombinator.com/item?id=42402946) - [Defending Open Source: Protecting the Future of WordPress](https://automattic.com/2024/protecting-wordpress/)
 * [2024-12-12, 20:14:26](https://news.ycombinator.com/item?id=42402927) - [A room temperature Li2O-based lithium-air battery enabled by a solid electrolyte](https://www.science.org/doi/10.1126/science.abq1347)
 * [2024-12-12, 20:10:49](https://news.ycombinator.com/item?id=42402897) - [The Humble for Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
+* [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 19:25:41](https://news.ycombinator.com/item?id=42402411) - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
 * [2024-12-12, 18:51:39](https://news.ycombinator.com/item?id=42402086) - [Making \"Social\" Social Again – Ev Williams New App](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
 * [2024-12-12, 18:51:07](https://news.ycombinator.com/item?id=42402079) - [The secret life of DNS packets (2019)](https://stripe.com/blog/secret-life-of-dns)

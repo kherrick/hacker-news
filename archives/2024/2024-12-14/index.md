@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
+* [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
+* [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
+* [2024-12-14, 09:25:03](https://news.ycombinator.com/item?id=42415754) - [Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)
 * [2024-12-14, 08:58:46](https://news.ycombinator.com/item?id=42415657) - [Palantir, MicroStrategy and Axon are now in the Nasdaq 100](https://www.nasdaq.com/press-release/annual-changes-nasdaq-100-indexr-2024-12-13)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 * [2024-12-14, 08:44:25](https://news.ycombinator.com/item?id=42415602) - [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
