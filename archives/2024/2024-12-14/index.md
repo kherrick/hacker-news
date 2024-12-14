@@ -32,4 +32,5 @@
 * [2024-12-14, 01:04:24](https://news.ycombinator.com/item?id=42413757) - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
 * [2024-12-14, 00:53:30](https://news.ycombinator.com/item?id=42413693) - [My PhD advisor rewrote himself in bash](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Sequence to sequence learning with neural networks: what a decade [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
+* [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=1yvBqasHLZs)
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
