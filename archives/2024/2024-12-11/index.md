@@ -36,6 +36,7 @@
 * [2024-12-11, 15:44:58](https://news.ycombinator.com/item?id=42388901) - [Trillium TPU Is GA](https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga)
 * [2024-12-11, 15:42:20](https://news.ycombinator.com/item?id=42388870) - [Dear OAuth Providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 * [2024-12-11, 15:33:54](https://news.ycombinator.com/item?id=42388783) - [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/)
+* [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 * [2024-12-11, 15:24:10](https://news.ycombinator.com/item?id=42388665) - [Dioxus 0.6 – Crossplatform apps with Rust](https://dioxuslabs.com/blog/release-060/)
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 15:09:56](https://news.ycombinator.com/item?id=42388488) - [PeerTube mobile app: discover videos while caring for your attention](https://joinpeertube.org/news/peertube-app)
