@@ -20,7 +20,6 @@
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 09:41:55](https://news.ycombinator.com/item?id=42407250) - [My PhD advisor rewrote himself in bash (2010)](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
-* [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back Pliny's account of Mount Vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
@@ -30,6 +29,7 @@
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 * [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
+* [2024-12-08, 17:25:28](https://news.ycombinator.com/item?id=42358444) - [\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk](https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html)
 
 ## [Archives](archives/index.md)
 
