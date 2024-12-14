@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-14, 11:00:49",
+      "https://news.ycombinator.com/item?id=42416230"
+    ],
+    [
+      "Show HN: Svader – Create GPU-rendered Svelte components",
+      "https://github.com/sockmaster27/svader"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 08:54:03",
       "https://news.ycombinator.com/item?id=42415637"
     ],
@@ -37,16 +47,6 @@
     [
       "Suchir's Essay on Fair Use",
       "https://suchir.net/fair_use.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 01:23:14",
-      "https://news.ycombinator.com/item?id=42413845"
-    ],
-    [
-      "Htmx 2.0.4 Released",
-      "https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2024-12-11, 20:37:02",
+      "https://news.ycombinator.com/item?id=42392668"
+    ],
+    [
+      "Is it possible to build a perfectly spherical prince Ruperts drop (2015)",
+      "https://engineering.stackexchange.com/questions/100/is-it-possible-to-build-a-perfectly-spherical-prince-ruperts-drop"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 18:33:06",
       "https://news.ycombinator.com/item?id=42391079"
     ],
     [
       "The Pentium FDIV bug, reverse-engineered",
       "https://oldbytes.space/@kenshirriff/113606898880486330"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 17:24:44",
-      "https://news.ycombinator.com/item?id=42390226"
-    ],
-    [
-      "The case against static typing in PHP (2023)",
-      "https://www.tonymarston.net/php-mysql/against-static-typing-in-php.html"
     ]
   ],
   [
