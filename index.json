@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-14, 12:10:14",
-      "https://news.ycombinator.com/item?id=42416554"
-    ],
-    [
-      "YouTube quietly made some of its web embeds worse, including ours",
-      "https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 12:00:35",
       "https://news.ycombinator.com/item?id=42416513"
     ],
@@ -21,32 +11,12 @@
   ],
   [
     [
-      "2024-12-14, 11:28:39",
-      "https://news.ycombinator.com/item?id=42416364"
-    ],
-    [
-      "Asynchronous Rust on Cortex-M Microcontrollers (2023)",
-      "https://interrupt.memfault.com/blog/embedded-async-rust"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 11:00:49",
       "https://news.ycombinator.com/item?id=42416230"
     ],
     [
       "Show HN: Svader – Create GPU-rendered Svelte components",
       "https://github.com/sockmaster27/svader"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 09:25:03",
-      "https://news.ycombinator.com/item?id=42415754"
-    ],
-    [
-      "Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking",
-      "https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and"
     ]
   ],
   [
@@ -121,6 +91,16 @@
   ],
   [
     [
+      "2024-12-13, 22:57:04",
+      "https://news.ycombinator.com/item?id=42413086"
+    ],
+    [
+      "McKinsey and Company to pay $650M for role in opioid crisis",
+      "https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 21:56:29",
       "https://news.ycombinator.com/item?id=42412718"
     ],
@@ -167,6 +147,16 @@
     [
       "Show HN: Imposter Attack – Among Us-themed infrared game made with ESP32",
       "https://blog.langworth.com/imposter-attack"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 14:43:05",
+      "https://news.ycombinator.com/item?id=42408819"
+    ],
+    [
+      "Web Origami, for making websites where you can understand how they’re made",
+      "https://weborigami.org"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Pentium FDIV bug, reverse-engineered",
       "https://oldbytes.space/@kenshirriff/113606898880486330"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 15:18:34",
+      "https://news.ycombinator.com/item?id=42388607"
+    ],
+    [
+      "Analysis of supply-chain attack on Ultralytics",
+      "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
     ]
   ],
   [
