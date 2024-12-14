@@ -71,5 +71,6 @@
 * [2024-12-12, 05:01:36](https://news.ycombinator.com/item?id=42396372) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 04:53:19](https://news.ycombinator.com/item?id=42396336) - [Mouseless – fast mouse control with the keyboard](https://mouseless.click/)
 * [2024-12-12, 04:38:26](https://news.ycombinator.com/item?id=42396268) - [Reachability Analysis of DNS](https://arxiv.org/abs/2411.10188)
+* [2024-12-12, 04:11:56](https://news.ycombinator.com/item?id=42396142) - [Beyond Köppen-Geiger Climate Classification System: Extensions and Alternatives](https://worldbuildingpasta.blogspot.com/2024/12/beyond-koppen-geiger-climate.html)
 * [2024-12-12, 03:49:21](https://news.ycombinator.com/item?id=42396029) - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
 * [2024-12-12, 02:14:19](https://news.ycombinator.com/item?id=42395460) - [How WhatsApp became an unstoppable global cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)
