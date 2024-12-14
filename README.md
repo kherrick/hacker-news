@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
@@ -27,7 +28,6 @@
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
-* [2024-12-10, 22:55:16](https://news.ycombinator.com/item?id=42382609) - [The science of routing print orders](https://www.canva.dev/blog/engineering/the-science-of-routing-print-orders/)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
