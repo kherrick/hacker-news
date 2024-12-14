@@ -16,6 +16,7 @@
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup) Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
 * [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
+* [2024-12-14, 12:33:32](https://news.ycombinator.com/item?id=42416681) - [Array Languages for Clojurians (2020)](http://www.appliedscience.studio/articles/array-programming-for-clojurists.html)
 * [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)
