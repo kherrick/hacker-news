@@ -53,6 +53,7 @@
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
 * [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 11:36:20](https://news.ycombinator.com/item?id=42398314) - [Retiring from Hanami/dry-rb/ROM-rb core teams](https://solnic.dev/retiring-from-the-core-teams)
+* [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
