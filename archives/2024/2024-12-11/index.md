@@ -53,6 +53,7 @@
 * [2024-12-11, 13:35:49](https://news.ycombinator.com/item?id=42387519) - [Gah – CLI to install software from GitHub Releases](https://github.com/marverix/gah)
 * [2024-12-11, 13:30:07](https://news.ycombinator.com/item?id=42387475) - [Schrödinger's IPv6 Cat](https://labs.ripe.net/author/hisham_ibrahim/schrodingers-ipv6-cat/)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
+* [2024-12-11, 12:50:17](https://news.ycombinator.com/item?id=42387220) - [WhatsApp became an unstoppable cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)
 * [2024-12-11, 12:36:14](https://news.ycombinator.com/item?id=42387120) - [Is Wordpress.org GDPR Compliant?](https://shkspr.mobi/blog/2024/12/is-wordpress-org-gdpr-compliant/)
 * [2024-12-11, 12:19:12](https://news.ycombinator.com/item?id=42387013) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 12:15:01](https://news.ycombinator.com/item?id=42386993) - [Court orders Automattic to restore WP Engine's access to WordPress.org](https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/)
