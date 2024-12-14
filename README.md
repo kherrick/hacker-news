@@ -24,7 +24,7 @@
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
-* [2024-12-11, 13:30:07](https://news.ycombinator.com/item?id=42387475) - [Schrödinger's IPv6 Cat](https://labs.ripe.net/author/hisham_ibrahim/schrodingers-ipv6-cat/)
+* [2024-12-11, 18:01:00](https://news.ycombinator.com/item?id=42390683) - [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 * [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
