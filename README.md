@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 19:16:58](https://news.ycombinator.com/item?id=42418871) - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:23:13](https://news.ycombinator.com/item?id=42418272) - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
@@ -22,7 +23,6 @@
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
-* [2024-12-12, 12:41:57](https://news.ycombinator.com/item?id=42398671) - [Engineering tunable catch bonds with DNA](https://www.nature.com/articles/s41467-024-52749-w)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)

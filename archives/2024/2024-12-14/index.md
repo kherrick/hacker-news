@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 19:16:58](https://news.ycombinator.com/item?id=42418871) - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:23:13](https://news.ycombinator.com/item?id=42418272) - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
