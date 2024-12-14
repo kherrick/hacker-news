@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-14, 01:04:24",
+      "https://news.ycombinator.com/item?id=42413757"
+    ],
+    [
+      "macOS 15.2 breaks the ability to copy the OS to another drive",
+      "https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 00:53:30",
+      "https://news.ycombinator.com/item?id=42413693"
+    ],
+    [
+      "My PhD advisor rewrote himself in bash",
+      "https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 00:00:28",
+      "https://news.ycombinator.com/item?id=42413464"
+    ],
+    [
+      "Show HN: Performant intracontinental public transport routing in Rust",
+      "https://github.com/ellenhp/farebox"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 23:37:45",
       "https://news.ycombinator.com/item?id=42413343"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2024-12-13, 22:31:48",
-      "https://news.ycombinator.com/item?id=42412934"
+      "2024-12-13, 22:57:04",
+      "https://news.ycombinator.com/item?id=42413086"
     ],
     [
-      "Hospitals gave patients meds during childbirth, then reported them for drug use",
-      "https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine"
+      "McKinsey and Company to pay $650M for role in opioid crisis",
+      "https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-12-13, 17:48:41",
-      "https://news.ycombinator.com/item?id=42410663"
-    ],
-    [
-      "Garbage collected smart pointers in Rust via concurrent cycle collection",
-      "https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 17:38:30",
       "https://news.ycombinator.com/item?id=42410582"
     ],
@@ -107,6 +127,16 @@
     [
       "Show HN: Imposter Attack – Among Us-themed infrared game made with ESP32",
       "https://blog.langworth.com/imposter-attack"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 16:50:46",
+      "https://news.ycombinator.com/item?id=42410151"
+    ],
+    [
+      "Enigmatic Writing from the Republic of Georgia",
+      "https://languagelog.ldc.upenn.edu/nll/?p=67231"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "Donald Bitzer has died",
       "https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 02:30:01",
-      "https://news.ycombinator.com/item?id=42405462"
-    ],
-    [
-      "A new video captures a 1968 demo of IBM’s Executive Terminal",
-      "https://spectrum.ieee.org/ibm-demo"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-12-08, 22:07:21",
-      "https://news.ycombinator.com/item?id=42361066"
-    ],
-    [
-      "Animals in Espionage",
-      "https://www.cia.gov/stories/story/natural-spies-animals-in-espionage/"
-    ]
-  ],
-  [
-    [
       "2024-12-08, 20:21:14",
       "https://news.ycombinator.com/item?id=42360074"
     ],
@@ -277,16 +287,6 @@
     [
       "\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk",
       "https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 17:00:28",
-      "https://news.ycombinator.com/item?id=42358231"
-    ],
-    [
-      "Evaporograph and Infra Red Images",
-      "http://sparkbangbuzz.com/evaporograph/evaporograph.htm"
     ]
   ],
   [
