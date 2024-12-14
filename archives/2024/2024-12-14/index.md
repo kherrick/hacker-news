@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 22:45:03](https://news.ycombinator.com/item?id=42420012) - [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)
 * [2024-12-14, 21:09:51](https://news.ycombinator.com/item?id=42419469) - [They See Your Photos](https://theyseeyourphotos.com/)
 * [2024-12-14, 19:53:12](https://news.ycombinator.com/item?id=42419036) - [Occasional Paper: Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
 * [2024-12-14, 19:43:57](https://news.ycombinator.com/item?id=42418985) - [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
