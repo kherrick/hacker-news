@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
+* [2024-12-14, 17:23:13](https://news.ycombinator.com/item?id=42418272) - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
+* [2024-12-14, 17:21:58](https://news.ycombinator.com/item?id=42418264) - [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup) Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)

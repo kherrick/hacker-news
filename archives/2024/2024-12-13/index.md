@@ -44,6 +44,7 @@
 * [2024-12-13, 03:53:55](https://news.ycombinator.com/item?id=42405795) - [There is a Transformer shortage bottlenecking energy projects](https://spectrum.ieee.org/transformer-shortage)
 * [2024-12-13, 03:43:03](https://news.ycombinator.com/item?id=42405758) - [Show HN: DataFuel.dev – Turn websites into LLM-ready data](https://www.datafuel.dev/)
 * [2024-12-13, 03:38:29](https://news.ycombinator.com/item?id=42405733) - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+* [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC Wants You to Stop Taking Traffic Cam Selfies, But Here's How to Do It Anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-13, 02:35:38](https://news.ycombinator.com/item?id=42405497) - [The pills that cured all ills; James Morison the Hygeist (2014)](http://thelondondead.blogspot.com/2014/11/the-pills-that-cure-all-ills-james.html)
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 02:03:19](https://news.ycombinator.com/item?id=42405357) - [Rust's Incremental Compiler Architecture](https://lwn.net/Articles/997784/)
