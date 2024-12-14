@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
 * [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)

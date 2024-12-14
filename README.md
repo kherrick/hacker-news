@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
@@ -9,7 +10,6 @@
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
-* [2024-12-13, 22:57:04](https://news.ycombinator.com/item?id=42413086) - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 * [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
