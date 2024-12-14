@@ -19,6 +19,7 @@
 * [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)
+* [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
 * [2024-12-14, 09:25:03](https://news.ycombinator.com/item?id=42415754) - [Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)

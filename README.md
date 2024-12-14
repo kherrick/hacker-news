@@ -11,6 +11,7 @@
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [The 1955 Le Mans disaster changed motorsport](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
+* [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 * [2024-12-14, 07:49:10](https://news.ycombinator.com/item?id=42415386) - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
@@ -27,7 +28,6 @@
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
-* [2024-12-11, 12:50:17](https://news.ycombinator.com/item?id=42387220) - [WhatsApp became an unstoppable cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 20:20:43](https://news.ycombinator.com/item?id=42380996) - [Through-the-Earth Mine Communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications)
 
