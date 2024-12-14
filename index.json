@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-12-14, 12:10:14",
+      "https://news.ycombinator.com/item?id=42416554"
+    ],
+    [
+      "YouTube quietly made some of its web embeds worse, including ours",
+      "https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 12:00:35",
+      "https://news.ycombinator.com/item?id=42416513"
+    ],
+    [
+      "Fern (YC W23) Is Hiring a Senior Front End Engineer",
+      "https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 11:28:39",
+      "https://news.ycombinator.com/item?id=42416364"
+    ],
+    [
+      "Asynchronous Rust on Cortex-M Microcontrollers (2023)",
+      "https://interrupt.memfault.com/blog/embedded-async-rust"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 11:00:49",
       "https://news.ycombinator.com/item?id=42416230"
     ],
     [
       "Show HN: Svader – Create GPU-rendered Svelte components",
       "https://github.com/sockmaster27/svader"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 09:25:03",
+      "https://news.ycombinator.com/item?id=42415754"
+    ],
+    [
+      "Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking",
+      "https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Byte Latent Transformer: Patches Scale Better Than Tokens",
       "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 04:16:34",
-      "https://news.ycombinator.com/item?id=42414641"
-    ],
-    [
-      "Suchir's Essay on Fair Use",
-      "https://suchir.net/fair_use.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-12-13, 13:23:54",
-      "https://news.ycombinator.com/item?id=42408202"
-    ],
-    [
-      "Test",
-      "https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 09:41:55",
       "https://news.ycombinator.com/item?id=42407250"
     ],
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2024-12-12, 19:52:55",
+      "https://news.ycombinator.com/item?id=42402710"
+    ],
+    [
+      "Study reveals mammoth as key food source for ancient Americans",
+      "https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 14:30:37",
       "https://news.ycombinator.com/item?id=42399397"
     ],
@@ -217,16 +247,6 @@
     [
       "Idiomatic Errors in Clojure",
       "https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 09:12:28",
-      "https://news.ycombinator.com/item?id=42397550"
-    ],
-    [
-      "Timemap.org – Interactive Map of History",
-      "https://www.oldmapsonline.org/en/history/regions"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Exotic new superconductors delight and confound",
       "https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:21:14",
-      "https://news.ycombinator.com/item?id=42360074"
-    ],
-    [
-      "An Italian town that built its own sun (2021)",
-      "https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 17:25:28",
-      "https://news.ycombinator.com/item?id=42358444"
-    ],
-    [
-      "\"All your base are belong to us\" intro to my 2004 MIT Spam Conference talk",
-      "https://blog.jgc.org/2024/12/all-you-base-are-belong-to-us.html"
     ]
   ]
 ]
