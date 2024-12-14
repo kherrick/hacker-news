@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 08:44:25](https://news.ycombinator.com/item?id=42415602) - [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
 * [2024-12-14, 07:49:10](https://news.ycombinator.com/item?id=42415386) - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 * [2024-12-14, 01:23:14](https://news.ycombinator.com/item?id=42413845) - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
@@ -16,7 +17,6 @@
 * [2024-12-13, 16:50:46](https://news.ycombinator.com/item?id=42410151) - [Mysterious tablet with unknown language unearthed in Georgia](https://archaeologymag.com/2024/12/tablet-with-unknown-language-unearthed-in-georgia/)
 * [2024-12-13, 14:43:05](https://news.ycombinator.com/item?id=42408819) - [Web Origami, for making websites where you can understand how they’re made](https://weborigami.org)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
-* [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 09:41:55](https://news.ycombinator.com/item?id=42407250) - [My PhD advisor rewrote himself in bash (2010)](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-12, 21:06:34](https://news.ycombinator.com/item?id=42403324) - [Pompeii experts back Pliny's account of Mount Vesuvius eruption date](https://www.theguardian.com/world/2024/dec/12/pompeii-experts-back-plinys-account-of-mount-vesuvius-eruption-date)
