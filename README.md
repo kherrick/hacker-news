@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 * [2024-12-14, 08:44:25](https://news.ycombinator.com/item?id=42415602) - [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
 * [2024-12-14, 08:33:39](https://news.ycombinator.com/item?id=42415566) - [Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
@@ -8,7 +9,6 @@
 * [2024-12-14, 04:16:34](https://news.ycombinator.com/item?id=42414641) - [Suchir's Essay on Fair Use](https://suchir.net/fair_use.html)
 * [2024-12-14, 01:23:14](https://news.ycombinator.com/item?id=42413845) - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 * [2024-12-14, 01:04:24](https://news.ycombinator.com/item?id=42413757) - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
-* [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Sequence to sequence learning with neural networks: what a decade [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-13, 22:57:04](https://news.ycombinator.com/item?id=42413086) - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
