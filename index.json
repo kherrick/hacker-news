@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-12-14, 01:23:14",
+      "https://news.ycombinator.com/item?id=42413845"
+    ],
+    [
+      "Htmx 2.0.4 Released",
+      "https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 01:04:24",
       "https://news.ycombinator.com/item?id=42413757"
     ],
     [
       "macOS 15.2 breaks the ability to copy the OS to another drive",
       "https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 00:53:30",
-      "https://news.ycombinator.com/item?id=42413693"
-    ],
-    [
-      "My PhD advisor rewrote himself in bash",
-      "https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42413343"
     ],
     [
-      "Luon programming language combines concepts from Oberon and Lua",
+      "Luon programming language",
       "https://github.com/rochus-keller/Luon/blob/master/Readme.md"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "McKinsey and Company to pay $650M for role in opioid crisis",
       "https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 21:56:29",
+      "https://news.ycombinator.com/item?id=42412718"
+    ],
+    [
+      "OpenAI whistleblower found dead in San Francisco apartment",
+      "https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/"
     ]
   ],
   [
@@ -135,18 +145,8 @@
       "https://news.ycombinator.com/item?id=42410151"
     ],
     [
-      "Enigmatic Writing from the Republic of Georgia",
-      "https://languagelog.ldc.upenn.edu/nll/?p=67231"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 15:46:22",
-      "https://news.ycombinator.com/item?id=42409577"
-    ],
-    [
-      "Show HN: Rain hashes – well designed, simple and fast variable sized hashes",
-      "https://github.com/DOSAYGO-Research/rain"
+      "Mysterious tablet with unknown language unearthed in Georgia",
+      "https://archaeologymag.com/2024/12/tablet-with-unknown-language-unearthed-in-georgia/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-12-13, 09:41:55",
+      "https://news.ycombinator.com/item?id=42407250"
+    ],
+    [
+      "My PhD advisor rewrote himself in bash (2010)",
+      "https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 05:32:42",
       "https://news.ycombinator.com/item?id=42406158"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2024-12-12, 11:15:06",
+      "https://news.ycombinator.com/item?id=42398230"
+    ],
+    [
+      "Idiomatic Errors in Clojure",
+      "https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 18:33:06",
       "https://news.ycombinator.com/item?id=42391079"
     ],
     [
       "The Pentium FDIV bug, reverse-engineered",
       "https://oldbytes.space/@kenshirriff/113606898880486330"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 18:01:00",
-      "https://news.ycombinator.com/item?id=42390683"
-    ],
-    [
-      "NASA believes it understands why Ingenuity crashed on Mars",
-      "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Making my first robot as a software engineer",
       "https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 12:17:37",
-      "https://news.ycombinator.com/item?id=42376144"
-    ],
-    [
-      "Bit-permuting 16 u32s at once with AVX-512",
-      "http://bitmath.blogspot.com/2024/12/bit-permuting-16-u32s-at-once-with-avx.html"
     ]
   ],
   [
