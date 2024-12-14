@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup) Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
 * [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
