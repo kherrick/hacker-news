@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 19:43:57](https://news.ycombinator.com/item?id=42418985) - [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
+* [2024-12-14, 19:42:50](https://news.ycombinator.com/item?id=42418982) - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
 * [2024-12-14, 19:16:58](https://news.ycombinator.com/item?id=42418871) - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
-* [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
+* [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking physics from the back of a napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:23:13](https://news.ycombinator.com/item?id=42418272) - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
 * [2024-12-14, 17:21:58](https://news.ycombinator.com/item?id=42418264) - [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
@@ -17,9 +19,8 @@
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
-* [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 13:07:25](https://news.ycombinator.com/item?id=42408113) - [The tooth, the whole tooth and the jawbone too](https://thequackdoctor.substack.com/p/the-tooth-the-whole-tooth-and-the)
-* [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC Wants You to Stop Taking Traffic Cam Selfies, But Here's How to Do It Anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
+* [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
@@ -29,7 +30,6 @@
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 20:20:43](https://news.ycombinator.com/item?id=42380996) - [Through-the-Earth Mine Communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications)
-* [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
 ## [Archives](archives/index.md)
 
