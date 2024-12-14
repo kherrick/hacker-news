@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup) Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
@@ -16,7 +17,6 @@
 * [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Show HN: Imposter Attack – Among Us-themed infrared game made with ESP32](https://blog.langworth.com/imposter-attack)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 13:07:25](https://news.ycombinator.com/item?id=42408113) - [The tooth, the whole tooth and the jawbone too](https://thequackdoctor.substack.com/p/the-tooth-the-whole-tooth-and-the)
-* [2024-12-13, 09:41:55](https://news.ycombinator.com/item?id=42407250) - [My PhD advisor rewrote himself in bash (2010)](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
