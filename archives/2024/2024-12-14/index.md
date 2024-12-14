@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 * [2024-12-14, 08:44:25](https://news.ycombinator.com/item?id=42415602) - [Uv, a fast Python package and project manager](https://docs.astral.sh/uv/)
