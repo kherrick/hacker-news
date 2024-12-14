@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-14, 03:28:22](https://news.ycombinator.com/item?id=42414456) - [Biodiversity loss due to agricultural trade three times higher than thought](https://phys.org/news/2024-12-tropical-regions-biodiversity-loss-due.html)
+* [2024-12-14, 05:38:58](https://news.ycombinator.com/item?id=42414912) - [Ilya Sutskever Test of Time Talk \"Pre-training as we know it will end\"](https://twitter.com/i/status/1867719020444889118)
 * [2024-12-14, 01:23:14](https://news.ycombinator.com/item?id=42413845) - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 * [2024-12-14, 01:04:24](https://news.ycombinator.com/item?id=42413757) - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
@@ -25,7 +25,7 @@
 * [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2024-12-11, 20:37:02](https://news.ycombinator.com/item?id=42392668) - [Is it possible to build a perfectly spherical prince Ruperts drop (2015)](https://engineering.stackexchange.com/questions/100/is-it-possible-to-build-a-perfectly-spherical-prince-ruperts-drop)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
-* [2024-12-11, 18:01:00](https://news.ycombinator.com/item?id=42390683) - [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+* [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 * [2024-12-08, 20:21:14](https://news.ycombinator.com/item?id=42360074) - [An Italian town that built its own sun (2021)](https://www.vice.com/en/article/viganella-italy-fake-manmade-sun/)
