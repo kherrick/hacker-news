@@ -6,6 +6,7 @@
 
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language combines concepts from Oberon and Lua](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-13, 23:14:38](https://news.ycombinator.com/item?id=42413195) - [OpenAI whistleblower found dead in apartment](https://old.reddit.com/r/sanfrancisco/comments/1hdmn62/openai_whistleblower_suchir_balaji_found_dead_in/)
+* [2024-12-13, 22:57:04](https://news.ycombinator.com/item?id=42413086) - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 * [2024-12-13, 22:31:48](https://news.ycombinator.com/item?id=42412934) - [Hospitals gave patients meds during childbirth, then reported them for drug use](https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine)
 * [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [New Meta FAIR Research and Models](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
@@ -20,6 +21,7 @@
 * [2024-12-13, 17:32:00](https://news.ycombinator.com/item?id=42410508) - [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
 * [2024-12-13, 17:00:43](https://news.ycombinator.com/item?id=42410233) - [HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
+* [2024-12-13, 16:50:46](https://news.ycombinator.com/item?id=42410151) - [Enigmatic Writing from the Republic of Georgia](https://languagelog.ldc.upenn.edu/nll/?p=67231)
 * [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
 * [2024-12-13, 15:05:33](https://news.ycombinator.com/item?id=42409059) - [Fourteen North Koreans Indicted for Fraudulent IT Worker Scheme and Extortions](https://www.justice.gov/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 * [2024-12-13, 15:05:07](https://news.ycombinator.com/item?id=42409056) - [Show HN: I made the slowest, most expensive GPT](https://ithy.com)
