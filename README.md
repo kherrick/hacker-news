@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-14, 07:49:10](https://news.ycombinator.com/item?id=42415386) - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 * [2024-12-14, 01:23:14](https://news.ycombinator.com/item?id=42413845) - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
 * [2024-12-14, 01:04:24](https://news.ycombinator.com/item?id=42413757) - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
@@ -22,7 +23,6 @@
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it’s going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
 * [2024-12-12, 11:15:06](https://news.ycombinator.com/item?id=42398230) - [Idiomatic Errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
-* [2024-12-11, 23:10:23](https://news.ycombinator.com/item?id=42394089) - [Miles of Russian Forest Couldn't Keep These Two Tigers Apart](https://www.nytimes.com/2024/12/11/science/siberian-tigers-russia.html)
 * [2024-12-11, 20:37:02](https://news.ycombinator.com/item?id=42392668) - [Is it possible to build a perfectly spherical prince Ruperts drop (2015)](https://engineering.stackexchange.com/questions/100/is-it-possible-to-build-a-perfectly-spherical-prince-ruperts-drop)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
