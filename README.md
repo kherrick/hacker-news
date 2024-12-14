@@ -11,7 +11,6 @@
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
-* [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 * [2024-12-13, 17:38:30](https://news.ycombinator.com/item?id=42410582) - [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
 * [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Show HN: Imposter Attack – Among Us-themed infrared game made with ESP32](https://blog.langworth.com/imposter-attack)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
@@ -29,6 +28,7 @@
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
 * [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
+* [2024-12-10, 16:45:55](https://news.ycombinator.com/item?id=42378532) - [Subnet routers: how do they work?](https://tailscale.com/blog/subnet-router-video)
 * [2024-12-09, 15:47:42](https://news.ycombinator.com/item?id=42367290) - [Exotic new superconductors delight and confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
 ## [Archives](archives/index.md)
