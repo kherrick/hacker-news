@@ -24,11 +24,11 @@
 * [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
+* [2024-12-12, 02:14:19](https://news.ycombinator.com/item?id=42395460) - [How WhatsApp became an unstoppable global cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)
 * [2024-12-11, 18:27:19](https://news.ycombinator.com/item?id=42391000) - [Century Scale Storage](https://lil.law.harvard.edu/century-scale-storage/)
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 * [2024-12-11, 15:18:34](https://news.ycombinator.com/item?id=42388607) - [Analysis of supply-chain attack on Ultralytics](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 13:22:55](https://news.ycombinator.com/item?id=42387428) - [Graphene Interconnects Aim to Give Moore's Law New Life](https://spectrum.ieee.org/graphene-semiconductor-2670398194)
-* [2024-12-10, 22:31:32](https://news.ycombinator.com/item?id=42382357) - [Making my first robot as a software engineer](https://github.com/Robertleoj/pen_plotter_robot/blob/main/story.md)
 * [2024-12-10, 20:20:43](https://news.ycombinator.com/item?id=42380996) - [Through-the-Earth Mine Communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications)
 
 ## [Archives](archives/index.md)

@@ -72,3 +72,4 @@
 * [2024-12-12, 04:53:19](https://news.ycombinator.com/item?id=42396336) - [Mouseless – fast mouse control with the keyboard](https://mouseless.click/)
 * [2024-12-12, 04:38:26](https://news.ycombinator.com/item?id=42396268) - [Reachability Analysis of DNS](https://arxiv.org/abs/2411.10188)
 * [2024-12-12, 03:49:21](https://news.ycombinator.com/item?id=42396029) - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
+* [2024-12-12, 02:14:19](https://news.ycombinator.com/item?id=42395460) - [How WhatsApp became an unstoppable global cultural force](https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/)
