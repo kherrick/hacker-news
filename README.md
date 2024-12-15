@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
+* [2024-12-15, 01:58:19](https://news.ycombinator.com/item?id=42420902) - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 23:06:07](https://news.ycombinator.com/item?id=42420138) - [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
 * [2024-12-14, 22:58:03](https://news.ycombinator.com/item?id=42420091) - [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
@@ -14,6 +15,7 @@
 * [2024-12-14, 17:21:58](https://news.ycombinator.com/item?id=42418264) - [Antimatter production, storage, control, annihilation applications in propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [The 1955 Le Mans disaster changed motorsport](https://www.essesmag.com/articles/racings-deadliest-day)
+* [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
 * [2024-12-14, 12:33:32](https://news.ycombinator.com/item?id=42416681) - [Array Languages for Clojurians (2020)](http://www.appliedscience.studio/articles/array-programming-for-clojurists.html)
 * [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
@@ -23,12 +25,10 @@
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=1yvBqasHLZs)
 * [2024-12-13, 15:41:47](https://news.ycombinator.com/item?id=42409496) - [How big data created the modern dairy cow](https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
-* [2024-12-12, 21:06:45](https://news.ycombinator.com/item?id=42403328) - [Internal Ocean Tides (2021)](https://svs.gsfc.nasa.gov/4850)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
 * [2024-12-12, 11:40:49](https://news.ycombinator.com/item?id=42398349) - [4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)](https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/)
 * [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
-* [2024-12-11, 18:43:24](https://news.ycombinator.com/item?id=42391224) - [Cyborg Insect Factory](https://arxiv.org/abs/2411.13164)
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 
 ## [Archives](archives/index.md)
