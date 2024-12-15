@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 04:35:06](https://news.ycombinator.com/item?id=42421477) - [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-15, 02:51:04](https://news.ycombinator.com/item?id=42421128) - [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
 * [2024-12-15, 01:58:19](https://news.ycombinator.com/item?id=42420902) - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
@@ -23,7 +24,6 @@
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
 * [2024-12-14, 07:49:10](https://news.ycombinator.com/item?id=42415386) - [What is entropy? A measure of just how little we know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
-* [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=1yvBqasHLZs)
 * [2024-12-13, 15:41:47](https://news.ycombinator.com/item?id=42409496) - [How big data created the modern dairy cow](https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
