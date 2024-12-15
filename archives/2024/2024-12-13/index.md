@@ -14,6 +14,7 @@
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
+* [2024-12-13, 19:43:03](https://news.ycombinator.com/item?id=42411655) - [Animals as Chemical Factories](https://worksinprogress.co/issue/animals-as-chemical-factories/)
 * [2024-12-13, 19:36:41](https://news.ycombinator.com/item?id=42411608) - [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
 * [2024-12-13, 18:42:03](https://news.ycombinator.com/item?id=42411126) - [Implementing network time security (NTP NTS) at the hardware level (2022)](https://labs.ripe.net/author/christer-weinigel/implementing-network-time-security-at-the-hardware-level/)
 * [2024-12-13, 18:37:29](https://news.ycombinator.com/item?id=42411094) - [A Rare Cross-Section Illustration: Infamous Happenings of Kowloon Walled City](https://www.thisiscolossal.com/2024/07/kowlooon-walled-city-illustration/)
