@@ -24,6 +24,7 @@
 * [2024-12-13, 16:50:46](https://news.ycombinator.com/item?id=42410151) - [Mysterious tablet with unknown language unearthed in Georgia](https://archaeologymag.com/2024/12/tablet-with-unknown-language-unearthed-in-georgia/)
 * [2024-12-13, 16:50:46](https://news.ycombinator.com/item?id=42410151) - [Enigmatic Writing from the Republic of Georgia](https://languagelog.ldc.upenn.edu/nll/?p=67231)
 * [2024-12-13, 15:46:22](https://news.ycombinator.com/item?id=42409577) - [Show HN: Rain hashes – well designed, simple and fast variable sized hashes](https://github.com/DOSAYGO-Research/rain)
+* [2024-12-13, 15:41:47](https://news.ycombinator.com/item?id=42409496) - [How big data created the modern dairy cow](https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/)
 * [2024-12-13, 15:05:33](https://news.ycombinator.com/item?id=42409059) - [Fourteen North Koreans Indicted for Fraudulent IT Worker Scheme and Extortions](https://www.justice.gov/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 * [2024-12-13, 15:05:07](https://news.ycombinator.com/item?id=42409056) - [Show HN: I made the slowest, most expensive GPT](https://ithy.com)
 * [2024-12-13, 14:53:05](https://news.ycombinator.com/item?id=42408945) - [The exact moment that I decided to go off-grid in Portugal](https://twitter.com/levelsio/status/1867314119654637629)
