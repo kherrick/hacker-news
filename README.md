@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+* [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 17:23:10](https://news.ycombinator.com/item?id=42424597) - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
@@ -20,7 +22,6 @@
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 08:58:40](https://news.ycombinator.com/item?id=42415654) - [Reflections on building with Model Context Protocol](https://outlore.dev/blog/model-context-protocol/)
-* [2024-12-14, 08:39:13](https://news.ycombinator.com/item?id=42415586) - [How Accurate Is the Sensirion SGP41 TVOC Sensor?](https://www.airgradient.com/blog/accuracy-sensirion-sgp41/)
 * [2024-12-14, 07:19:21](https://news.ycombinator.com/item?id=42415298) - [Isomorphic Web Components](https://jakelazaroff.com/words/isomorphic-web-components/)
 * [2024-12-13, 19:43:03](https://news.ycombinator.com/item?id=42411655) - [Animals as Chemical Factories](https://worksinprogress.co/issue/animals-as-chemical-factories/)
 * [2024-12-13, 05:07:33](https://news.ycombinator.com/item?id=42406063) - [Eyes Wide Shut: Hidden in Plain Sight](https://boydrinksink.com/eyes-wide-shut-hidden-in-plain-sight)
@@ -29,7 +30,6 @@
 * [2024-12-12, 16:08:51](https://news.ycombinator.com/item?id=42400365) - [Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging](https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned)
 * [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-12, 08:56:50](https://news.ycombinator.com/item?id=42397478) - [Program Synthesis and Large Language Models](https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/)
-* [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
 
 ## [Archives](archives/index.md)
 
