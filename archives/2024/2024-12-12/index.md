@@ -58,6 +58,7 @@
 * [2024-12-12, 12:41:57](https://news.ycombinator.com/item?id=42398671) - [Engineering tunable catch bonds with DNA](https://www.nature.com/articles/s41467-024-52749-w)
 * [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
+* [2024-12-12, 11:56:12](https://news.ycombinator.com/item?id=42398430) - [Schengen: Council decides to lift land border controls with Bulgaria and Romania](https://www.consilium.europa.eu/de/press/press-releases/2024/12/12/schengen-council-decides-to-lift-land-border-controls-with-bulgaria-and-romania/)
 * [2024-12-12, 11:45:53](https://news.ycombinator.com/item?id=42398380) - [The report for the 2024 security audit of the Mullvad app is now available](https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available)
 * [2024-12-12, 11:40:49](https://news.ycombinator.com/item?id=42398349) - [4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)](https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/)
 * [2024-12-12, 11:36:20](https://news.ycombinator.com/item?id=42398314) - [Retiring from Hanami/dry-rb/ROM-rb core teams](https://solnic.dev/retiring-from-the-core-teams)
