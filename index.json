@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-15, 19:29:32",
-      "https://news.ycombinator.com/item?id=42425398"
-    ],
-    [
-      "Why Dumb TVs Deserve a Comeback",
-      "https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 19:21:36",
       "https://news.ycombinator.com/item?id=42425348"
     ],
@@ -47,6 +37,16 @@
     [
       "The Antikythera mechanism – 254:19 ratio",
       "https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/"
+    ]
+  ],
+  [
+    [
+      "2024-12-15, 18:07:06",
+      "https://news.ycombinator.com/item?id=42424879"
+    ],
+    [
+      "Maximum Likelihood Estimation and Loss Functions",
+      "https://rish-01.github.io/blog/posts/ml_estimation/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-12-12, 16:08:51",
-      "https://news.ycombinator.com/item?id=42400365"
+      "2024-12-12, 09:55:41",
+      "https://news.ycombinator.com/item?id=42397812"
     ],
     [
-      "Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging",
-      "https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned"
+      "Drag and Drop Images into Bevy 0.15 on the web",
+      "https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/"
     ]
   ],
   [
