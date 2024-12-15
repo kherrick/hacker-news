@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-15, 07:22:37](https://news.ycombinator.com/item?id=42422077) - [When a Crystal Ball Isn't Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
+* [2024-12-15, 05:58:20](https://news.ycombinator.com/item?id=42421797) - [Starting a Business at 60: My Father's Story](https://thoughts.jatintiwari.com/pages/starting-business-at-60.html)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 23:32:57](https://news.ycombinator.com/item?id=42420272) - [New Java to WASM GC Transpiler: Run Java in the Browser, No Plugin Required](https://teavm.org/docs/release-notes/0.11.0.html)
@@ -8,7 +9,6 @@
 * [2024-12-14, 21:09:51](https://news.ycombinator.com/item?id=42419469) - [They see your photos](https://theyseeyourphotos.com/)
 * [2024-12-14, 19:53:12](https://news.ycombinator.com/item?id=42419036) - [Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
 * [2024-12-14, 19:42:50](https://news.ycombinator.com/item?id=42418982) - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
-* [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking physics from the back of a napkin (2020)](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:21:58](https://news.ycombinator.com/item?id=42418264) - [Antimatter production, storage, control, annihilation applications in propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [The 1955 Le Mans disaster changed motorsport](https://www.essesmag.com/articles/racings-deadliest-day)
