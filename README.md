@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
+* [2024-12-15, 18:29:16](https://news.ycombinator.com/item?id=42425022) - [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
+* [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
 * [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
@@ -9,14 +10,12 @@
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-15, 07:22:37](https://news.ycombinator.com/item?id=42422077) - [When a Crystal Ball Isn't Enough to Make You Rich](https://elmwealth.com/crystal-ball/)
 * [2024-12-15, 05:08:31](https://news.ycombinator.com/item?id=42421624) - [Copy, Paste, Invert, Forget (2011) [pdf]](https://atelier-hirschbichler.com/wp-content/uploads/Hirschbichler_Raeber_Copy-Paste-Invert-Forget-1.pdf)
+* [2024-12-15, 04:06:43](https://news.ycombinator.com/item?id=42421387) - [Stranger Than Fiction: Lives of the Twentieth-Century Novel](https://thebaffler.com/latest/kicking-an-open-door-robbins)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
-* [2024-12-14, 23:23:57](https://news.ycombinator.com/item?id=42420231) - [Demystifying the PPG wave 2.2 and 2.3](https://till-kopper.de/ppg-wave_demystfied.html)
 * [2024-12-14, 20:28:44](https://news.ycombinator.com/item?id=42419224) - [Should you ditch Spark for DuckDB or Polars?](https://milescole.dev/data-engineering/2024/12/12/Should-You-Ditch-Spark-DuckDB-Polars.html)
 * [2024-12-14, 19:42:50](https://news.ycombinator.com/item?id=42418982) - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
-* [2024-12-14, 17:18:06](https://news.ycombinator.com/item?id=42418241) - [How to stop fighting with your AI pair programmer](https://skylarbpayne.com/posts/cursed-cursor)
 * [2024-12-14, 16:52:13](https://news.ycombinator.com/item?id=42418114) - [Optimistic Computing](https://www.deobald.ca/essays/2024-12-09-optimistic-computing/)
-* [2024-12-14, 16:28:26](https://news.ycombinator.com/item?id=42417996) - [Waste Makes Haste?](https://anukari.com/blog/devlog/waste-makes-haste)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:23:04](https://news.ycombinator.com/item?id=42416615) - [We Are the Robots](https://contraptions.venkateshrao.com/p/we-are-the-robots)
@@ -30,6 +29,7 @@
 * [2024-12-12, 16:08:51](https://news.ycombinator.com/item?id=42400365) - [Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging](https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned)
 * [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-12, 08:56:50](https://news.ycombinator.com/item?id=42397478) - [Program Synthesis and Large Language Models](https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/)
+* [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
 
 ## [Archives](archives/index.md)
 
