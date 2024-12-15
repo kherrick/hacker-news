@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-12-15, 01:12:24",
+      "https://news.ycombinator.com/item?id=42420721"
+    ],
+    [
+      "I Track My Health Data in Markdown: Lessons in Digital Longevity",
+      "https://news.ycombinator.com/item?id=42420721"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 23:51:44",
       "https://news.ycombinator.com/item?id=42420352"
     ],
     [
-      "School smartphone ban results in better sleep and improved mood",
+      "School smartphone ban results in better sleep and improved mood: study",
       "https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 23:06:07",
+      "https://news.ycombinator.com/item?id=42420138"
+    ],
+    [
+      "What Is Vim?",
+      "https://blog.jonas.foo/whats_vim.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 22:58:03",
+      "https://news.ycombinator.com/item?id=42420091"
+    ],
+    [
+      "Should Programming Languages Be Safe or Powerful?",
+      "https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 21:15:12",
+      "https://news.ycombinator.com/item?id=42419505"
+    ],
+    [
+      "Llama.cpp Now Supports Qwen2-VL (Vision Language Model)",
+      "https://github.com/ggerganov/llama.cpp/pull/10361"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42419469"
     ],
     [
-      "They See Your Photos",
+      "They see your photos",
       "https://theyseeyourphotos.com/"
     ]
   ],
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2024-12-14, 19:16:12",
+      "https://news.ycombinator.com/item?id=42418866"
+    ],
+    [
+      "Pi modder successfully adds M.2 slot to Pi 500",
+      "https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 17:54:00",
       "https://news.ycombinator.com/item?id=42418445"
     ],
@@ -51,32 +101,12 @@
   ],
   [
     [
-      "2024-12-14, 17:42:50",
-      "https://news.ycombinator.com/item?id=42418373"
-    ],
-    [
-      "Telegraph Talk and Talkers (1902)",
-      "https://books.google.com/books?id=_49JAQAAMAAJ&newbks=1&newbks_redir=0&pg=PA227#v=onepage&q&f=false"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 17:31:02",
       "https://news.ycombinator.com/item?id=42418309"
     ],
     [
       "Hacking physics from the back of a napkin",
       "https://hapax.github.io/physics/teaching/hacks/napkin-hacks/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 17:23:13",
-      "https://news.ycombinator.com/item?id=42418272"
-    ],
-    [
-      "Humans are unreliable models of mouse disease",
-      "https://www.cell.com/cell/abstract/S0092-8674(24)00897-3"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-12-14, 03:11:54",
-      "https://news.ycombinator.com/item?id=42414371"
-    ],
-    [
-      "The Saga of the Color Brown in the Early Years of the PC (2023)",
-      "http://nerdlypleasures.blogspot.com/2023/03/the-saga-of-color-brown-in-early-years.html"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 00:49:17",
       "https://news.ycombinator.com/item?id=42413677"
     ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2024-12-13, 21:07:08",
-      "https://news.ycombinator.com/item?id=42412360"
+      "2024-12-13, 15:41:47",
+      "https://news.ycombinator.com/item?id=42409496"
     ],
     [
-      "Sharing new research, models, and datasets from Meta FAIR",
-      "https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1"
+      "How big data created the modern dairy cow",
+      "https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/"
     ]
   ],
   [
@@ -241,22 +261,22 @@
   ],
   [
     [
-      "2024-12-12, 02:14:19",
-      "https://news.ycombinator.com/item?id=42395460"
-    ],
-    [
-      "How WhatsApp became an unstoppable global cultural force",
-      "https://restofworld.org/2024/how-whatsapp-became-a-global-cultural-force/"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 22:42:41",
       "https://news.ycombinator.com/item?id=42393867"
     ],
     [
       "Man ran 700 miles to make 'insanely impressive' art on GPS fitness app",
       "https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 18:43:24",
+      "https://news.ycombinator.com/item?id=42391224"
+    ],
+    [
+      "Cyborg Insect Factory",
+      "https://arxiv.org/abs/2411.13164"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Using Libc for GPUs",
       "https://libc.llvm.org/gpu/using.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:18:34",
-      "https://news.ycombinator.com/item?id=42388607"
-    ],
-    [
-      "Analysis of supply-chain attack on Ultralytics",
-      "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 20:20:43",
-      "https://news.ycombinator.com/item?id=42380996"
-    ],
-    [
-      "Through-the-Earth Mine Communications",
-      "https://en.wikipedia.org/wiki/Through-the-earth_mine_communications"
     ]
   ]
 ]
