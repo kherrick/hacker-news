@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-12-15, 13:38:49",
-      "https://news.ycombinator.com/item?id=42423321"
-    ],
-    [
-      "A driver for controlling RGB LEDs using PWM, with gamma correction",
-      "https://crates.io/crates/rgbled/"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 11:46:21",
       "https://news.ycombinator.com/item?id=42422942"
     ],
@@ -121,22 +111,22 @@
   ],
   [
     [
-      "2024-12-14, 23:06:07",
-      "https://news.ycombinator.com/item?id=42420138"
+      "2024-12-14, 23:23:57",
+      "https://news.ycombinator.com/item?id=42420231"
     ],
     [
-      "What Is Vim?",
-      "https://blog.jonas.foo/whats_vim.html"
+      "Demystifying the PPG wave 2.2 and 2.3",
+      "https://till-kopper.de/ppg-wave_demystfied.html"
     ]
   ],
   [
     [
-      "2024-12-14, 19:53:12",
-      "https://news.ycombinator.com/item?id=42419036"
+      "2024-12-14, 20:28:44",
+      "https://news.ycombinator.com/item?id=42419224"
     ],
     [
-      "Four Hidden Species of Portuguese Man-O'-War",
-      "https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/"
+      "Should you ditch Spark for DuckDB or Polars?",
+      "https://milescole.dev/data-engineering/2024/12/12/Should-You-Ditch-Spark-DuckDB-Polars.html"
     ]
   ],
   [
@@ -151,12 +141,52 @@
   ],
   [
     [
-      "2024-12-14, 12:33:32",
-      "https://news.ycombinator.com/item?id=42416681"
+      "2024-12-14, 17:18:06",
+      "https://news.ycombinator.com/item?id=42418241"
     ],
     [
-      "Array Languages for Clojurians (2020)",
-      "http://www.appliedscience.studio/articles/array-programming-for-clojurists.html"
+      "How to stop fighting with your AI pair programmer",
+      "https://skylarbpayne.com/posts/cursed-cursor"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 16:52:13",
+      "https://news.ycombinator.com/item?id=42418114"
+    ],
+    [
+      "Optimistic Computing",
+      "https://www.deobald.ca/essays/2024-12-09-optimistic-computing/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 16:28:26",
+      "https://news.ycombinator.com/item?id=42417996"
+    ],
+    [
+      "Waste Makes Haste?",
+      "https://anukari.com/blog/devlog/waste-makes-haste"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 16:02:48",
+      "https://news.ycombinator.com/item?id=42417857"
+    ],
+    [
+      "Fast LLM Inference From Scratch (using CUDA)",
+      "https://andrewkchan.dev/posts/yalm.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 14:52:22",
+      "https://news.ycombinator.com/item?id=42417478"
+    ],
+    [
+      "Preferring throwaway code over design docs",
+      "https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2024-12-14, 10:04:04",
-      "https://news.ycombinator.com/item?id=42415939"
+      "2024-12-14, 08:58:40",
+      "https://news.ycombinator.com/item?id=42415654"
     ],
     [
-      "The role of Transactive Memory Systems in great teams",
-      "https://emilywebber.co.uk/the-role-of-transactive-memory-systems-in-great-teams/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 09:52:06",
-      "https://news.ycombinator.com/item?id=42415875"
-    ],
-    [
-      "Computing Inside an AI",
-      "https://willwhitney.com/computing-inside-ai.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 08:54:03",
-      "https://news.ycombinator.com/item?id=42415637"
-    ],
-    [
-      "I made a free Figma library packed with components for fast prototyping",
-      "https://veryfront.com/figma-kit"
+      "Reflections on building with Model Context Protocol",
+      "https://outlore.dev/blog/model-context-protocol/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How Accurate Is the Sensirion SGP41 TVOC Sensor?",
       "https://www.airgradient.com/blog/accuracy-sensirion-sgp41/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 07:49:10",
-      "https://news.ycombinator.com/item?id=42415386"
-    ],
-    [
-      "What is entropy? A measure of just how little we know",
-      "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Animals as Chemical Factories",
       "https://worksinprogress.co/issue/animals-as-chemical-factories/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 05:07:33",
+      "https://news.ycombinator.com/item?id=42406063"
+    ],
+    [
+      "Eyes Wide Shut: Hidden in Plain Sight",
+      "https://boydrinksink.com/eyes-wide-shut-hidden-in-plain-sight"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-12-11, 22:42:41",
-      "https://news.ycombinator.com/item?id=42393867"
+      "2024-12-12, 08:56:50",
+      "https://news.ycombinator.com/item?id=42397478"
     ],
     [
-      "Man ran 700 miles to make 'insanely impressive' art on GPS fitness app",
-      "https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:29:21",
-      "https://news.ycombinator.com/item?id=42388724"
-    ],
-    [
-      "Using Libc for GPUs",
-      "https://libc.llvm.org/gpu/using.html"
+      "Program Synthesis and Large Language Models",
+      "https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/"
     ]
   ]
 ]
