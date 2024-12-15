@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-15, 04:35:06",
+      "https://news.ycombinator.com/item?id=42421477"
+    ],
+    [
+      "Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc",
+      "https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 02:59:58",
       "https://news.ycombinator.com/item?id=42421157"
     ],
@@ -227,16 +237,6 @@
     [
       "Byte Latent Transformer: Patches Scale Better Than Tokens",
       "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 00:49:17",
-      "https://news.ycombinator.com/item?id=42413677"
-    ],
-    [
-      "Ilya Sutskever NeurIPS talk [video]",
-      "https://www.youtube.com/watch?v=1yvBqasHLZs"
     ]
   ],
   [
