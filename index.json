@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-15, 01:12:24",
-      "https://news.ycombinator.com/item?id=42420721"
+      "2024-12-15, 02:59:58",
+      "https://news.ycombinator.com/item?id=42421157"
     ],
     [
-      "I Track My Health Data in Markdown: Lessons in Digital Longevity",
-      "https://news.ycombinator.com/item?id=42420721"
+      "Tenstorrent and the State of AI Hardware Startups",
+      "https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Should programming languages be safe or powerful?",
       "https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 22:11:12",
+      "https://news.ycombinator.com/item?id=42419822"
+    ],
+    [
+      "Problems with Python dependency management",
+      "https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-12-14, 17:54:00",
-      "https://news.ycombinator.com/item?id=42418445"
-    ],
-    [
-      "Here at the End of All Things (2017)",
-      "https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 17:31:02",
       "https://news.ycombinator.com/item?id=42418309"
     ],
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2024-12-14, 14:24:59",
-      "https://news.ycombinator.com/item?id=42417330"
+      "2024-12-14, 14:52:36",
+      "https://news.ycombinator.com/item?id=42417480"
     ],
     [
-      "Show HN: Open-sourcing my failed startup Buzee – A file search application",
-      "https://github.com/gsidhu/buzee-tauri"
+      "The 1955 Le Mans disaster changed motorsport",
+      "https://www.essesmag.com/articles/racings-deadliest-day"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=42415386"
     ],
     [
-      "What Is Entropy? A Measure of Just How Little We Know",
+      "What is entropy? A measure of just how little we know",
       "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-12-12, 11:40:49",
+      "https://news.ycombinator.com/item?id=42398349"
+    ],
+    [
+      "4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)",
+      "https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 22:42:41",
       "https://news.ycombinator.com/item?id=42393867"
     ],
@@ -277,16 +287,6 @@
     [
       "Cyborg Insect Factory",
       "https://arxiv.org/abs/2411.13164"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 18:27:19",
-      "https://news.ycombinator.com/item?id=42391000"
-    ],
-    [
-      "Century Scale Storage",
-      "https://lil.law.harvard.edu/century-scale-storage/"
     ]
   ],
   [
