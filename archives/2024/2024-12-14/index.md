@@ -8,6 +8,7 @@
 * [2024-12-14, 23:06:07](https://news.ycombinator.com/item?id=42420138) - [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
 * [2024-12-14, 22:58:03](https://news.ycombinator.com/item?id=42420091) - [Should Programming Languages Be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
 * [2024-12-14, 22:45:03](https://news.ycombinator.com/item?id=42420012) - [Scandal in Russian military town as new school is decorated with F-16 images](https://www.thebarentsobserver.com/news/scandal-in-russian-military-town-pechenga-as-new-school-is-decorated-with-picture-of-us-fighter-jets/422078)
+* [2024-12-14, 22:11:12](https://news.ycombinator.com/item?id=42419822) - [Problems with Python dependency management](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-12-14, 21:15:12](https://news.ycombinator.com/item?id=42419505) - [Llama.cpp Now Supports Qwen2-VL (Vision Language Model)](https://github.com/ggerganov/llama.cpp/pull/10361)
 * [2024-12-14, 21:09:51](https://news.ycombinator.com/item?id=42419469) - [They See Your Photos](https://theyseeyourphotos.com/)
 * [2024-12-14, 19:53:12](https://news.ycombinator.com/item?id=42419036) - [Occasional Paper: Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
