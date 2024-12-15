@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 14:16:28](https://news.ycombinator.com/item?id=42423489) - [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)
+* [2024-12-15, 14:04:50](https://news.ycombinator.com/item?id=42423423) - [Insiders say fraud in NY computer programming work dates back years](https://www.timesunion.com/capitol/article/insiders-say-fraud-computer-programming-sector-19941411.php)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 * [2024-12-15, 13:47:16](https://news.ycombinator.com/item?id=42423353) - [XFCE 4.20 Released](https://alexxcons.github.io/blogpost_14.html)
 * [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
