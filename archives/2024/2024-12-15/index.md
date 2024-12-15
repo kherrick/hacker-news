@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:29:16](https://news.ycombinator.com/item?id=42425022) - [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
 * [2024-12-15, 17:23:10](https://news.ycombinator.com/item?id=42424597) - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
