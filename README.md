@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-15, 04:35:06](https://news.ycombinator.com/item?id=42421477) - [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
+* [2024-12-15, 04:35:06](https://news.ycombinator.com/item?id=42421477) - [DOOM ported to run atop AMD ROCm + LLVM libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-15, 01:58:19](https://news.ycombinator.com/item?id=42420902) - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
