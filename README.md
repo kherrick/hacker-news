@@ -24,10 +24,10 @@
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
 * [2024-12-13, 09:27:46](https://news.ycombinator.com/item?id=42407187) - [In pictures: Learning the Knowledge (2016)](https://www.bbc.com/news/in-pictures-35667599)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
+* [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 20:55:43](https://news.ycombinator.com/item?id=42403229) - [Schrödinger's Cat and Heisenberg's Cut](https://jimbaggott.substack.com/p/schrodingers-cat-and-heisenbergs)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
-* [2024-12-12, 11:40:49](https://news.ycombinator.com/item?id=42398349) - [4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)](https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/)
 * [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 
