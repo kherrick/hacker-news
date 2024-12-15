@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 14:07:28](https://news.ycombinator.com/item?id=42423437) - [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 * [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-15, 07:22:37](https://news.ycombinator.com/item?id=42422077) - [When a Crystal Ball Isn't Enough to Make You Rich](https://elmwealth.com/crystal-ball/)
-* [2024-12-15, 04:06:43](https://news.ycombinator.com/item?id=42421387) - [Stranger Than Fiction: Lives of the Twentieth-Century Novel](https://thebaffler.com/latest/kicking-an-open-door-robbins)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 23:06:07](https://news.ycombinator.com/item?id=42420138) - [What Is Vim?](https://blog.jonas.foo/whats_vim.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 14:43:36](https://news.ycombinator.com/item?id=42423645) - [She took a DNA test. Police used it to charge her grandma with a 1997 murder](https://www.cnn.com/2024/12/12/us/baby-garnet-cold-case-michigan/index.html)
 * [2024-12-15, 14:16:28](https://news.ycombinator.com/item?id=42423489) - [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)
 * [2024-12-15, 14:07:28](https://news.ycombinator.com/item?id=42423437) - [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
