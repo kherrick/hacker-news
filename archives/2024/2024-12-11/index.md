@@ -13,6 +13,7 @@
 * [2024-12-11, 20:36:19](https://news.ycombinator.com/item?id=42392660) - [Instant macOS install on Proxmox including AMD patches](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [2024-12-11, 20:07:30](https://news.ycombinator.com/item?id=42392267) - [Show HN: Lfi – a lazy functional sync, async, and concurrent iteration library](https://lfi.dev/)
 * [2024-12-11, 19:54:20](https://news.ycombinator.com/item?id=42392088) - [AI Guesses Your Accent](https://start.boldvoice.com/accent-guesser)
+* [2024-12-11, 19:21:35](https://news.ycombinator.com/item?id=42391666) - [Canids as Pollinators?](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4470)
 * [2024-12-11, 19:06:15](https://news.ycombinator.com/item?id=42391486) - [Show HN: Convert your LinkedIn profile to a resume](https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem)
 * [2024-12-11, 19:06:01](https://news.ycombinator.com/item?id=42391483) - [One of our clients hasn't paid us $130k – or \"Why Every Contract Clause Matters\"](https://www.apsis.io/blog/2024/12/11/clauses-matter/)
 * [2024-12-11, 19:02:19](https://news.ycombinator.com/item?id=42391443) - [Mysterious New Jersey drone sightings prompt call for 'state of emergency'](https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
-* [2024-12-15, 02:41:41](https://news.ycombinator.com/item?id=42421086) - [Ann Arbor hopes to bring rooftop solar to the masses by creating a utility](https://www.bridgemi.com/michigan-environment-watch/ann-arbor-hopes-bring-rooftop-solar-masses-creating-utility)
 * [2024-12-15, 01:58:19](https://news.ycombinator.com/item?id=42420902) - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 21:15:12](https://news.ycombinator.com/item?id=42419505) - [Llama.cpp Now Supports Qwen2-VL (Vision Language Model)](https://github.com/ggerganov/llama.cpp/pull/10361)
@@ -29,6 +28,7 @@
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
 * [2024-12-12, 11:40:49](https://news.ycombinator.com/item?id=42398349) - [4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)](https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/)
 * [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
+* [2024-12-11, 19:21:35](https://news.ycombinator.com/item?id=42391666) - [Canids as Pollinators?](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4470)
 * [2024-12-11, 15:29:21](https://news.ycombinator.com/item?id=42388724) - [Using Libc for GPUs](https://libc.llvm.org/gpu/using.html)
 
 ## [Archives](archives/index.md)
