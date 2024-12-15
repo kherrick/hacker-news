@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-15, 19:33:48](https://news.ycombinator.com/item?id=42425418) - [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)
-* [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
+* [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum Likelihood Estimation and Loss Functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:23:10](https://news.ycombinator.com/item?id=42424597) - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
 * [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
@@ -28,7 +28,7 @@
 * [2024-12-13, 05:07:33](https://news.ycombinator.com/item?id=42406063) - [Eyes Wide Shut: Hidden in Plain Sight](https://boydrinksink.com/eyes-wide-shut-hidden-in-plain-sight)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-13, 02:04:30](https://news.ycombinator.com/item?id=42405364) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
-* [2024-12-12, 16:08:51](https://news.ycombinator.com/item?id=42400365) - [Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging](https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned)
+* [2024-12-12, 09:55:41](https://news.ycombinator.com/item?id=42397812) - [Drag and Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 08:56:50](https://news.ycombinator.com/item?id=42397478) - [Program Synthesis and Large Language Models](https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/)
 
 ## [Archives](archives/index.md)

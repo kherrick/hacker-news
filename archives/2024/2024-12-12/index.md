@@ -67,6 +67,7 @@
 * [2024-12-12, 10:59:07](https://news.ycombinator.com/item?id=42398151) - [With venerable ship's retirement, U.S.-led ocean-drilling program ends](https://www.science.org/content/article/venerable-ship-s-retirement-u-s-led-ocean-drilling-program-ends)
 * [2024-12-12, 10:57:23](https://news.ycombinator.com/item?id=42398139) - [The Errors of TeX [pdf] (1989)](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-12, 10:16:33](https://news.ycombinator.com/item?id=42397913) - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+* [2024-12-12, 09:55:41](https://news.ycombinator.com/item?id=42397812) - [Drag and Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:42:02](https://news.ycombinator.com/item?id=42397737) - [Programming Language Memory Models (2021)](https://research.swtch.com/plmm)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)

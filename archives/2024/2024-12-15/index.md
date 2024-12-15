@@ -10,6 +10,7 @@
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:29:16](https://news.ycombinator.com/item?id=42425022) - [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
+* [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum Likelihood Estimation and Loss Functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:23:10](https://news.ycombinator.com/item?id=42424597) - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
 * [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
