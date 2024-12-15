@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
@@ -23,7 +24,6 @@
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
-* [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 16:08:51](https://news.ycombinator.com/item?id=42400365) - [Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging](https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
 * [2024-12-12, 10:59:07](https://news.ycombinator.com/item?id=42398151) - [With venerable ship's retirement, U.S.-led ocean-drilling program ends](https://www.science.org/content/article/venerable-ship-s-retirement-u-s-led-ocean-drilling-program-ends)
