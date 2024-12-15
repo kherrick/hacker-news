@@ -2,7 +2,6 @@
 
 * [2024-12-15, 04:35:06](https://news.ycombinator.com/item?id=42421477) - [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
-* [2024-12-15, 02:51:04](https://news.ycombinator.com/item?id=42421128) - [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
 * [2024-12-15, 01:58:19](https://news.ycombinator.com/item?id=42420902) - [The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno](https://aalokbhattacharya.substack.com/p/men-machines-and-horses)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 22:58:03](https://news.ycombinator.com/item?id=42420091) - [Should programming languages be safe or powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
@@ -26,6 +25,7 @@
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
 * [2024-12-13, 15:41:47](https://news.ycombinator.com/item?id=42409496) - [How big data created the modern dairy cow](https://worksinprogress.co/issue/how-big-data-created-the-modern-dairy-cow/)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
+* [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
 * [2024-12-12, 11:40:49](https://news.ycombinator.com/item?id=42398349) - [4100 / 4200 Series Graphic Terminals (a.k.a. Unicorn)](https://vintagetek.org/4100-4200-series-graphic-terminals-aka-unicorn/)
 * [2024-12-11, 22:42:41](https://news.ycombinator.com/item?id=42393867) - [Man ran 700 miles to make 'insanely impressive' art on GPS fitness app](https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/)
