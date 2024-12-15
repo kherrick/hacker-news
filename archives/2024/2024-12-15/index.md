@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [SmartHome: An Adventure Game](https://smarthome.steviep.xyz)
+* [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
+* [2024-12-15, 14:59:46](https://news.ycombinator.com/item?id=42423742) - [Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving](https://news.ycombinator.com/item?id=42423742)
 * [2024-12-15, 14:43:36](https://news.ycombinator.com/item?id=42423645) - [She took a DNA test. Police used it to charge her grandma with a 1997 murder](https://www.cnn.com/2024/12/12/us/baby-garnet-cold-case-michigan/index.html)
 * [2024-12-15, 14:16:28](https://news.ycombinator.com/item?id=42423489) - [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)
 * [2024-12-15, 14:07:28](https://news.ycombinator.com/item?id=42423437) - [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
