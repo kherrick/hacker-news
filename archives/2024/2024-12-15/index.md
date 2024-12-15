@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
 * [2024-12-15, 14:16:28](https://news.ycombinator.com/item?id=42423489) - [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)
+* [2024-12-15, 14:07:28](https://news.ycombinator.com/item?id=42423437) - [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
 * [2024-12-15, 14:04:50](https://news.ycombinator.com/item?id=42423423) - [Insiders say fraud in NY computer programming work dates back years](https://www.timesunion.com/capitol/article/insiders-say-fraud-computer-programming-sector-19941411.php)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 * [2024-12-15, 13:47:16](https://news.ycombinator.com/item?id=42423353) - [XFCE 4.20 Released](https://alexxcons.github.io/blogpost_14.html)
@@ -15,6 +16,7 @@
 * [2024-12-15, 07:22:37](https://news.ycombinator.com/item?id=42422077) - [When a Crystal Ball Isn't Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
 * [2024-12-15, 05:58:20](https://news.ycombinator.com/item?id=42421797) - [Starting a Business at 60: My Father's Story](https://thoughts.jatintiwari.com/pages/starting-business-at-60.html)
 * [2024-12-15, 04:35:06](https://news.ycombinator.com/item?id=42421477) - [Doom ported to run mostly only on AMD GPUs via ROCm and LLVM Libc](https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port)
+* [2024-12-15, 04:06:43](https://news.ycombinator.com/item?id=42421387) - [Stranger Than Fiction: Lives of the Twentieth-Century Novel](https://thebaffler.com/latest/kicking-an-open-door-robbins)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-15, 02:51:04](https://news.ycombinator.com/item?id=42421128) - [Machine Learning at Ente – On-Device, E2EE](https://ente.io/ml/)
 * [2024-12-15, 02:41:41](https://news.ycombinator.com/item?id=42421086) - [Ann Arbor hopes to bring rooftop solar to the masses by creating a utility](https://www.bridgemi.com/michigan-environment-watch/ann-arbor-hopes-bring-rooftop-solar-masses-creating-utility)
