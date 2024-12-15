@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
+* [2024-12-15, 22:04:21](https://news.ycombinator.com/item?id=42426296) - [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)
+* [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
+* [2024-12-15, 21:54:22](https://news.ycombinator.com/item?id=42426249) - [Tesla Cybertruck Becomes Extensively Corroded After Exposed to Magnet](https://www.torquenews.com/11826/tesla-cybertruck-becomes-extensively-corroded-after-exposed-magnet)
 * [2024-12-15, 21:38:02](https://news.ycombinator.com/item?id=42426157) - [A 'Second Tree of Life' Could Wreak Havoc](https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html)
 * [2024-12-15, 19:44:04](https://news.ycombinator.com/item?id=42425473) - [Fractional Jobs – The Job Board for Fractional Work](https://www.fractionaljobs.io/)
 * [2024-12-15, 19:33:48](https://news.ycombinator.com/item?id=42425418) - [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)

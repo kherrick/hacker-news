@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
 * [2024-12-13, 23:37:45](https://news.ycombinator.com/item?id=42413343) - [Luon programming language combines concepts from Oberon and Lua](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+* [2024-12-13, 23:16:27](https://news.ycombinator.com/item?id=42413218) - [Research of RAM data remanence times](https://blog.3mdeb.com/2024/2024-12-13-ram-data-decay-research/)
 * [2024-12-13, 23:14:38](https://news.ycombinator.com/item?id=42413195) - [OpenAI whistleblower found dead in apartment](https://old.reddit.com/r/sanfrancisco/comments/1hdmn62/openai_whistleblower_suchir_balaji_found_dead_in/)
 * [2024-12-13, 22:57:04](https://news.ycombinator.com/item?id=42413086) - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 * [2024-12-13, 22:31:48](https://news.ycombinator.com/item?id=42412934) - [Hospitals gave patients meds during childbirth, then reported them for drug use](https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine)
@@ -34,6 +35,7 @@
 * [2024-12-13, 14:51:49](https://news.ycombinator.com/item?id=42408925) - [Feds help health insurers hide their dirty secret: denials on the rise](https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/)
 * [2024-12-13, 14:48:08](https://news.ycombinator.com/item?id=42408885) - [AT&T Won't Upgrade Millions Of DSL Users To Fiber Despite Billions In Subsidies](https://www.techdirt.com/2024/12/13/att-refuses-to-upgrade-millions-of-dsl-customers-to-fiber-despite-untold-billions-in-taxpayer-subsidies-and-government-favors/)
 * [2024-12-13, 14:43:05](https://news.ycombinator.com/item?id=42408819) - [Web Origami for making websites where you can understand how they're made](https://weborigami.org)
+* [2024-12-13, 14:13:34](https://news.ycombinator.com/item?id=42408546) - [I replaced my son's school timetable app with an e-paper](https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror Bacteria Research Poses Significant Risks, Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 * [2024-12-13, 13:34:34](https://news.ycombinator.com/item?id=42408271) - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
