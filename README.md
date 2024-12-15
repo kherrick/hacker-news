@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 08:04:23](https://news.ycombinator.com/item?id=42422229) - [UnitedHealth Is Strategically Limiting Access to Treatment for Kids with Autism](https://www.propublica.org/article/unitedhealthcare-insurance-autism-denials-applied-behavior-analysis-medicaid)
 * [2024-12-15, 07:22:37](https://news.ycombinator.com/item?id=42422077) - [When a Crystal Ball Isn't Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
 * [2024-12-15, 02:59:58](https://news.ycombinator.com/item?id=42421157) - [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
@@ -22,7 +23,6 @@
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
-* [2024-12-12, 21:00:40](https://news.ycombinator.com/item?id=42403273) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-12, 20:55:43](https://news.ycombinator.com/item?id=42403229) - [Schrödinger's Cat and Heisenberg's Cut](https://jimbaggott.substack.com/p/schrodingers-cat-and-heisenbergs)
 * [2024-12-12, 19:52:55](https://news.ycombinator.com/item?id=42402710) - [Study reveals mammoth as key food source for ancient Americans](https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
