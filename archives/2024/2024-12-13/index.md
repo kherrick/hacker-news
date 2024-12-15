@@ -59,5 +59,6 @@
 * [2024-12-13, 02:30:01](https://news.ycombinator.com/item?id=42405462) - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 02:04:30](https://news.ycombinator.com/item?id=42405364) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
 * [2024-12-13, 02:03:19](https://news.ycombinator.com/item?id=42405357) - [Rust's Incremental Compiler Architecture](https://lwn.net/Articles/997784/)
+* [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-13, 01:03:27](https://news.ycombinator.com/item?id=42405046) - [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com)
 * [2024-12-13, 00:32:22](https://news.ycombinator.com/item?id=42404872) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
