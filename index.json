@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-12-15, 13:38:49",
+      "https://news.ycombinator.com/item?id=42423321"
+    ],
+    [
+      "A driver for controlling RGB LEDs using PWM, with gamma correction",
+      "https://crates.io/crates/rgbled/"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 11:46:21",
       "https://news.ycombinator.com/item?id=42422942"
     ],
@@ -77,6 +87,16 @@
     [
       "When a Crystal Ball Isn't Enough to Make You Rich",
       "https://elmwealth.com/crystal-ball/"
+    ]
+  ],
+  [
+    [
+      "2024-12-15, 05:08:31",
+      "https://news.ycombinator.com/item?id=42421624"
+    ],
+    [
+      "Copy, Paste, Invert, Forget (2011) [pdf]",
+      "https://atelier-hirschbichler.com/wp-content/uploads/Hirschbichler_Raeber_Copy-Paste-Invert-Forget-1.pdf"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-12-14, 21:09:51",
-      "https://news.ycombinator.com/item?id=42419469"
-    ],
-    [
-      "They see your photos",
-      "https://theyseeyourphotos.com/"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 19:53:12",
       "https://news.ycombinator.com/item?id=42419036"
     ],
@@ -141,42 +151,22 @@
   ],
   [
     [
-      "2024-12-14, 17:21:58",
-      "https://news.ycombinator.com/item?id=42418264"
-    ],
-    [
-      "Antimatter production, storage, control, annihilation applications in propulsion",
-      "https://www.sciencedirect.com/science/article/pii/S2666202724004518"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 14:52:36",
-      "https://news.ycombinator.com/item?id=42417480"
-    ],
-    [
-      "The 1955 Le Mans disaster changed motorsport",
-      "https://www.essesmag.com/articles/racings-deadliest-day"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 14:24:59",
-      "https://news.ycombinator.com/item?id=42417330"
-    ],
-    [
-      "Show HN: Open-sourcing my failed startup Buzee – A file search application",
-      "https://github.com/gsidhu/buzee-tauri"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 12:33:32",
       "https://news.ycombinator.com/item?id=42416681"
     ],
     [
       "Array Languages for Clojurians (2020)",
       "http://www.appliedscience.studio/articles/array-programming-for-clojurists.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 12:23:04",
+      "https://news.ycombinator.com/item?id=42416615"
+    ],
+    [
+      "We Are the Robots",
+      "https://contraptions.venkateshrao.com/p/we-are-the-robots"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2024-12-14, 11:00:49",
-      "https://news.ycombinator.com/item?id=42416230"
+      "2024-12-14, 10:04:04",
+      "https://news.ycombinator.com/item?id=42415939"
     ],
     [
-      "Show HN: Svader – Create GPU-rendered Svelte components",
-      "https://github.com/sockmaster27/svader"
+      "The role of Transactive Memory Systems in great teams",
+      "https://emilywebber.co.uk/the-role-of-transactive-memory-systems-in-great-teams/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-12-14, 08:39:13",
+      "https://news.ycombinator.com/item?id=42415586"
+    ],
+    [
+      "How Accurate Is the Sensirion SGP41 TVOC Sensor?",
+      "https://www.airgradient.com/blog/accuracy-sensirion-sgp41/"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 07:49:10",
       "https://news.ycombinator.com/item?id=42415386"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-12-14, 06:36:35",
-      "https://news.ycombinator.com/item?id=42415122"
+      "2024-12-14, 07:19:21",
+      "https://news.ycombinator.com/item?id=42415298"
     ],
     [
-      "Byte Latent Transformer: Patches Scale Better Than Tokens",
-      "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1"
+      "Isomorphic Web Components",
+      "https://jakelazaroff.com/words/isomorphic-web-components/"
     ]
   ],
   [
     [
-      "2024-12-13, 19:47:21",
-      "https://news.ycombinator.com/item?id=42411687"
+      "2024-12-13, 19:43:03",
+      "https://news.ycombinator.com/item?id=42411655"
     ],
     [
-      "A journey of optimization of cloud-based geospatial data processing",
-      "https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/"
+      "Animals as Chemical Factories",
+      "https://worksinprogress.co/issue/animals-as-chemical-factories/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-12-12, 13:05:08",
-      "https://news.ycombinator.com/item?id=42398809"
+      "2024-12-12, 10:57:23",
+      "https://news.ycombinator.com/item?id=42398139"
     ],
     [
-      "Conversations are better with four people",
-      "https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s"
+      "The Errors of TeX [pdf] (1989)",
+      "https://yurichev.com/mirrors/knuth1989.pdf"
     ]
   ],
   [
