@@ -23,6 +23,7 @@
 * [2024-12-11, 18:41:57](https://news.ycombinator.com/item?id=42391203) - [FCC Could Block over 2,400 Providers from Robocall Mitigation Database](https://www.fcc.gov/document/fcc-could-block-over-2400-providers-robocall-mitigation-database)
 * [2024-12-11, 18:33:06](https://news.ycombinator.com/item?id=42391079) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-11, 18:27:19](https://news.ycombinator.com/item?id=42391000) - [Century Scale Storage](https://lil.law.harvard.edu/century-scale-storage/)
+* [2024-12-11, 18:16:06](https://news.ycombinator.com/item?id=42390863) - [Promising early data in triple negative breast cancer](https://www.statnews.com/2024/12/10/triple-negative-breast-cancer-biontech-immunotherapy-bispecific/)
 * [2024-12-11, 18:08:13](https://news.ycombinator.com/item?id=42390768) - [X41 Reviewed Mullvad VPN](https://x41-dsec.de/news/2024/12/11/mullvad/)
 * [2024-12-11, 18:07:11](https://news.ycombinator.com/item?id=42390761) - [Launch HN: Azalea Robotics (YC S24) – Baggage-handling robots for airports](https://news.ycombinator.com/item?id=42390761)
 * [2024-12-11, 18:02:39](https://news.ycombinator.com/item?id=42390709) - [Matt Mullenweg keeps digging his own grave](https://www.404media.co/wordpress-wp-engine-preliminary-injunction/)
