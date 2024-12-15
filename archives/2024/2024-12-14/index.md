@@ -33,6 +33,7 @@
 * [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
+* [2024-12-14, 09:52:06](https://news.ycombinator.com/item?id=42415875) - [Computing Inside an AI](https://willwhitney.com/computing-inside-ai.html)
 * [2024-12-14, 09:25:03](https://news.ycombinator.com/item?id=42415754) - [Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)
 * [2024-12-14, 08:58:46](https://news.ycombinator.com/item?id=42415657) - [Palantir, MicroStrategy and Axon are now in the Nasdaq 100](https://www.nasdaq.com/press-release/annual-changes-nasdaq-100-indexr-2024-12-13)
 * [2024-12-14, 08:54:03](https://news.ycombinator.com/item?id=42415637) - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
