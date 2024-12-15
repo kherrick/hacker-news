@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 23:52:58](https://news.ycombinator.com/item?id=42420361) - [There's a New Country Ranking and You're Not Going to Like It](https://www.atvbt.com/bmi/)
 * [2024-12-14, 23:51:44](https://news.ycombinator.com/item?id=42420352) - [School smartphone ban results in better sleep and improved mood](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
 * [2024-12-14, 23:06:07](https://news.ycombinator.com/item?id=42420138) - [What Is Vim?](https://blog.jonas.foo/whats_vim.html)
 * [2024-12-14, 22:58:03](https://news.ycombinator.com/item?id=42420091) - [Should Programming Languages Be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
