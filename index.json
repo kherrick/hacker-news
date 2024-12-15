@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-12-15, 19:44:04",
-      "https://news.ycombinator.com/item?id=42425473"
-    ],
-    [
-      "Fractional Jobs – Job Board for Fractional Work",
-      "https://www.fractionaljobs.io/"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 19:29:32",
       "https://news.ycombinator.com/item?id=42425398"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42424879"
     ],
     [
-      "Maximum Likelihood Estimation and Loss Functions",
+      "Maximum likelihood estimation and loss functions",
       "https://rish-01.github.io/blog/posts/ml_estimation/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "I replaced my son's school timetable app with an e-paper",
       "https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 05:08:58",
+      "https://news.ycombinator.com/item?id=42406070"
+    ],
+    [
+      "Vercel/fun: ƒun – Local serverless function λ development runtime",
+      "https://github.com/vercel/fun"
     ]
   ],
   [
