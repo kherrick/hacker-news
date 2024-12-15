@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-12-14, 23:32:57",
-      "https://news.ycombinator.com/item?id=42420272"
-    ],
-    [
-      "New Java to WASM GC Transpiler: Run Java in the Browser, No Plugin Required",
-      "https://teavm.org/docs/release-notes/0.11.0.html"
-    ]
-  ],
-  [
-    [
       "2024-12-14, 21:15:12",
       "https://news.ycombinator.com/item?id=42419505"
     ],
@@ -207,6 +197,16 @@
     [
       "A journey of optimization of cloud-based geospatial data processing",
       "https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 12:41:31",
+      "https://news.ycombinator.com/item?id=42407988"
+    ],
+    [
+      "Richard Dawkins: Philosophical Dead Ends",
+      "https://lareviewofbooks.org/article/philosophical-dead-ends/"
     ]
   ],
   [
