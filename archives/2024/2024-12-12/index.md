@@ -70,6 +70,7 @@
 * [2024-12-12, 09:48:47](https://news.ycombinator.com/item?id=42397781) - [Parkinson's Law: It's Real, So Use It – By James Stanier](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
 * [2024-12-12, 09:42:02](https://news.ycombinator.com/item?id=42397737) - [Programming Language Memory Models (2021)](https://research.swtch.com/plmm)
 * [2024-12-12, 09:12:28](https://news.ycombinator.com/item?id=42397550) - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
+* [2024-12-12, 08:56:50](https://news.ycombinator.com/item?id=42397478) - [Program Synthesis and Large Language Models](https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/)
 * [2024-12-12, 08:25:55](https://news.ycombinator.com/item?id=42397330) - [Small Businesses vs. Corporations: What Tech Tools Are We Missing?](https://news.ycombinator.com/item?id=42397330)
 * [2024-12-12, 07:53:21](https://news.ycombinator.com/item?id=42397167) - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 * [2024-12-12, 07:35:07](https://news.ycombinator.com/item?id=42397052) - [Doctor Who theme: Ron Grainer (composer) Delia Derbyshire (musician, arranger)](https://www.nfsa.gov.au/collection/curated/asset/102424-doctor-who-theme-ron-grainer-composer-and-delia-derbyshire-musician)
