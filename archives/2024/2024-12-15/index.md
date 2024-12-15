@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-15, 09:54:22](https://news.ycombinator.com/item?id=42422594) - [Show HN: Shop Clothes with Models That Match Your Body Shape](https://www.thebodymatch.com)
 * [2024-12-15, 08:04:23](https://news.ycombinator.com/item?id=42422229) - [UnitedHealth Is Strategically Limiting Access to Treatment for Kids with Autism](https://www.propublica.org/article/unitedhealthcare-insurance-autism-denials-applied-behavior-analysis-medicaid)

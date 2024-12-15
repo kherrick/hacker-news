@@ -9,6 +9,7 @@
 * [2024-12-13, 22:57:04](https://news.ycombinator.com/item?id=42413086) - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 * [2024-12-13, 22:31:48](https://news.ycombinator.com/item?id=42412934) - [Hospitals gave patients meds during childbirth, then reported them for drug use](https://www.themarshallproject.org/2024/12/11/pregnant-hospital-drug-test-medicine)
 * [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
+* [2024-12-13, 21:53:28](https://news.ycombinator.com/item?id=42412695) - [Implementing a simple object system from scratch in Ruby](https://metacircu1ar.github.io/2024/12/13/implementing-a-simple-object-system-from-scratch-in-ruby.html)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [New Meta FAIR Research and Models](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
