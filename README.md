@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
-* [2024-12-15, 22:04:21](https://news.ycombinator.com/item?id=42426296) - [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
 * [2024-12-15, 19:44:04](https://news.ycombinator.com/item?id=42425473) - [Fractional Jobs – Job Board for Fractional Work](https://www.fractionaljobs.io/)
+* [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
