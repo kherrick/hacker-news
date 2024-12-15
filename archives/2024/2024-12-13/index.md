@@ -39,6 +39,7 @@
 * [2024-12-13, 13:07:25](https://news.ycombinator.com/item?id=42408113) - [The tooth, the whole tooth and the jawbone too](https://thequackdoctor.substack.com/p/the-tooth-the-whole-tooth-and-the)
 * [2024-12-13, 10:29:05](https://news.ycombinator.com/item?id=42407431) - [AI Product Management – Andrew Ng](https://www.deeplearning.ai/the-batch/issue-279/)
 * [2024-12-13, 09:41:55](https://news.ycombinator.com/item?id=42407250) - [My PhD advisor rewrote himself in bash (2010)](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
+* [2024-12-13, 09:27:46](https://news.ycombinator.com/item?id=42407187) - [In pictures: Learning the Knowledge (2016)](https://www.bbc.com/news/in-pictures-35667599)
 * [2024-12-13, 08:05:27](https://news.ycombinator.com/item?id=42406773) - [Three Mistakes from Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-13, 05:32:42](https://news.ycombinator.com/item?id=42406158) - [In Memoriam: Donald Bitzer, 1934–2024](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 * [2024-12-13, 04:50:34](https://news.ycombinator.com/item?id=42405999) - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
