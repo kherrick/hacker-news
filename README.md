@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-15, 19:44:04](https://news.ycombinator.com/item?id=42425473) - [Fractional Jobs – The Job Board for Fractional Work](https://www.fractionaljobs.io/)
 * [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
@@ -27,7 +28,6 @@
 * [2024-12-13, 05:07:33](https://news.ycombinator.com/item?id=42406063) - [Eyes Wide Shut: Hidden in Plain Sight](https://boydrinksink.com/eyes-wide-shut-hidden-in-plain-sight)
 * [2024-12-13, 02:49:01](https://news.ycombinator.com/item?id=42405559) - [NYC wants you to stop taking traffic cam selfies, but here's how to do it anyway](https://www.pcmag.com/articles/nyc-wants-you-to-stop-taking-traffic-cam-selfies-but-heres-how-to-do-it)
 * [2024-12-13, 02:04:30](https://news.ycombinator.com/item?id=42405364) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
-* [2024-12-12, 16:08:51](https://news.ycombinator.com/item?id=42400365) - [Why Recursion Pharmaceuticals abandoned cell painting for brightfield imaging](https://www.owlposting.com/p/why-recursion-pharmaceuticals-abandoned)
 * [2024-12-12, 09:55:41](https://news.ycombinator.com/item?id=42397812) - [Drag and Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 08:56:50](https://news.ycombinator.com/item?id=42397478) - [Program Synthesis and Large Language Models](https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/)
 

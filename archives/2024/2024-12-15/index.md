@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 19:44:04](https://news.ycombinator.com/item?id=42425473) - [Fractional Jobs – The Job Board for Fractional Work](https://www.fractionaljobs.io/)
 * [2024-12-15, 19:33:48](https://news.ycombinator.com/item?id=42425418) - [The UK Now Has Its Own Illegal Rubberized Cybertruck on the Road](https://www.wired.com/story/the-uk-now-has-its-own-illegal-rubberized-cybertruck-on-the-road/)
 * [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
