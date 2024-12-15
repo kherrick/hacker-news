@@ -37,6 +37,7 @@
 * [2024-12-13, 13:23:54](https://news.ycombinator.com/item?id=42408202) - [Test](https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/)
 * [2024-12-13, 13:08:37](https://news.ycombinator.com/item?id=42408117) - [SpaceX Seeks Approval to Turn Texas Starbase Site into New City](https://www.bloomberg.com/news/articles/2024-12-13/spacex-seeks-approval-to-turn-texas-starbase-site-into-new-city)
 * [2024-12-13, 13:07:25](https://news.ycombinator.com/item?id=42408113) - [The tooth, the whole tooth and the jawbone too](https://thequackdoctor.substack.com/p/the-tooth-the-whole-tooth-and-the)
+* [2024-12-13, 12:41:31](https://news.ycombinator.com/item?id=42407988) - [Richard Dawkins: Philosophical Dead Ends](https://lareviewofbooks.org/article/philosophical-dead-ends/)
 * [2024-12-13, 10:29:05](https://news.ycombinator.com/item?id=42407431) - [AI Product Management – Andrew Ng](https://www.deeplearning.ai/the-batch/issue-279/)
 * [2024-12-13, 09:41:55](https://news.ycombinator.com/item?id=42407250) - [My PhD advisor rewrote himself in bash (2010)](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-13, 09:27:46](https://news.ycombinator.com/item?id=42407187) - [In pictures: Learning the Knowledge (2016)](https://www.bbc.com/news/in-pictures-35667599)
