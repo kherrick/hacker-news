@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
 * [2024-12-16, 15:55:04](https://news.ycombinator.com/item?id=42432176) - [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
 * [2024-12-16, 15:53:24](https://news.ycombinator.com/item?id=42432155) - [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
+* [2024-12-16, 15:37:07](https://news.ycombinator.com/item?id=42432004) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 14:40:46](https://news.ycombinator.com/item?id=42431361) - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
