@@ -45,6 +45,7 @@
 * [2024-12-12, 15:34:38](https://news.ycombinator.com/item?id=42400008) - [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic)
 * [2024-12-12, 15:05:45](https://news.ycombinator.com/item?id=42399733) - [European Ambition: The Old Meek Culture Must Change](https://thegeneralist.substack.com/p/european-ambition)
 * [2024-12-12, 15:02:14](https://news.ycombinator.com/item?id=42399701) - [Show HN: Kubernetes Spec Explorer](https://kubespec.dev/)
+* [2024-12-12, 14:49:36](https://news.ycombinator.com/item?id=42399571) - [Consider Negotiating with Infringers](https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers)
 * [2024-12-12, 14:48:32](https://news.ycombinator.com/item?id=42399562) - [As Wolf Populations Rebound, an Angry Backlash Intensifies](https://e360.yale.edu/features/wolves-united-states-europe)
 * [2024-12-12, 14:45:36](https://news.ycombinator.com/item?id=42399530) - [The FDA Hasn't Inspected This Drug Factory After 7 Recalls for the Same Flaw](https://www.propublica.org/article/glenmark-pharmaceuticals-recalls-fda-oversight)
 * [2024-12-12, 14:30:37](https://news.ycombinator.com/item?id=42399397) - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
