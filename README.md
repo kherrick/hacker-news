@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI Agents that monitor the Stock Market for you](https://decodeinvesting.com/chat?agents=lima)
 * [2024-12-16, 18:10:51](https://news.ycombinator.com/item?id=42433609) - [Pelicans on a Bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
 * [2024-12-16, 17:53:35](https://news.ycombinator.com/item?id=42433404) - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
-* [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 * [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
@@ -14,6 +12,7 @@
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
 * [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
+* [2024-12-16, 13:36:29](https://news.ycombinator.com/item?id=42430804) - [Sci-Fi Inspired Antenna Adjusts to Signal Needs](https://spectrum.ieee.org/smart-materials-morphing-antenna)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well? (2022)](https://danluu.com/nothing-works/)
 * [2024-12-16, 12:11:36](https://news.ycombinator.com/item?id=42430317) - [Will even the most advanced subs have nowhere to hide?](https://spectrum.ieee.org/submarine-stealth)
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
@@ -28,6 +27,7 @@
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
+* [2024-12-13, 17:32:12](https://news.ycombinator.com/item?id=42410512) - [Best of N Jail Breaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-12, 17:38:05](https://news.ycombinator.com/item?id=42401317) - [AI helps ID paint chemistry of Berlin Wall murals](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/)
 
