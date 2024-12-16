@@ -25,9 +25,9 @@
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
+* [2024-12-15, 07:33:11](https://news.ycombinator.com/item?id=42422113) - [The Mysteries of Mangifera: Finding the Mango's Origin (2017)](https://fairchildgarden.org/visit/the-mysteries-of-mangifera-finding-the-mangos-origin/)
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
-* [2024-12-13, 17:32:12](https://news.ycombinator.com/item?id=42410512) - [Best of N Jail Breaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-12, 17:38:05](https://news.ycombinator.com/item?id=42401317) - [AI helps ID paint chemistry of Berlin Wall murals](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/)
 
