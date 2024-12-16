@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 18:10:51](https://news.ycombinator.com/item?id=42433609) - [Pelicans on a Bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
+* [2024-12-16, 17:53:35](https://news.ycombinator.com/item?id=42433404) - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 * [2024-12-16, 17:31:47](https://news.ycombinator.com/item?id=42433177) - [To Log into WordPress, You Now Have to Agree Pineapple on Pizza Is Good](https://www.404media.co/wordpress-login-pineapple-on-pizza/)
 * [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
@@ -20,6 +22,7 @@
 * [2024-12-16, 15:37:07](https://news.ycombinator.com/item?id=42432004) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 14:40:46](https://news.ycombinator.com/item?id=42431361) - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
+* [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
 * [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
 * [2024-12-16, 13:43:38](https://news.ycombinator.com/item?id=42430859) - [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
@@ -29,6 +32,7 @@
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 * [2024-12-16, 12:11:36](https://news.ycombinator.com/item?id=42430317) - [Will Even the Most Advanced Subs Have Nowhere to Hide?](https://spectrum.ieee.org/submarine-stealth)
 * [2024-12-16, 12:11:18](https://news.ycombinator.com/item?id=42430315) - [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
+* [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
 * [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
 * [2024-12-16, 10:13:02](https://news.ycombinator.com/item?id=42429672) - [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)

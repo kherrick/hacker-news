@@ -36,6 +36,7 @@
 * [2024-12-15, 13:42:39](https://news.ycombinator.com/item?id=42423335) - [Playstation 5 transformed into a laptop for $2,750](https://www.tomshardware.com/video-games/console-gaming/playstation-5-transformed-into-a-laptop-for-usd2-750-chinese-modders-made-sonys-console-more-portable-with-a-17-3-inch-4k-display-weighing-over-9-pounds)
 * [2024-12-15, 13:38:49](https://news.ycombinator.com/item?id=42423321) - [A driver for controlling RGB LEDs using PWM, with gamma correction](https://crates.io/crates/rgbled/)
 * [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
+* [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-15, 09:54:22](https://news.ycombinator.com/item?id=42422594) - [Show HN: Shop Clothes with Models That Match Your Body Shape](https://www.thebodymatch.com)
 * [2024-12-15, 09:53:27](https://news.ycombinator.com/item?id=42422592) - [How Cultivated Meat Carved Out Its Plate in History](https://www.synbiobeta.com/read/how-cultivated-meat-carved-out-its-plate-in-history)
