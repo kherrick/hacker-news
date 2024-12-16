@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-16, 11:45:24",
-      "https://news.ycombinator.com/item?id=42430184"
+      "2024-12-16, 12:01:18",
+      "https://news.ycombinator.com/item?id=42430265"
     ],
     [
-      "Nvidia is so far ahead that all the 4090s are nerfed to half speed",
-      "https://twitter.com/realGeorgeHotz/status/1868356459542770087"
+      "The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit",
+      "https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 10:13:02",
+      "https://news.ycombinator.com/item?id=42429672"
+    ],
+    [
+      "Using Drop for Safety in Rust",
+      "https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Canada's First Pirate Site Blocking Order Expires",
       "https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 07:13:34",
+      "https://news.ycombinator.com/item?id=42428722"
+    ],
+    [
+      "Frood, an Alpine Initramfs NAS",
+      "https://words.filippo.io/dispatches/frood/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Derivatives don't always act like fractions (2021)",
       "https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 01:08:33",
-      "https://news.ycombinator.com/item?id=42427132"
-    ],
-    [
-      "US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19",
-      "https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-12-15, 15:41:27",
+      "https://news.ycombinator.com/item?id=42423988"
+    ],
+    [
+      "Show HN: I built an embeddable Unicode library with MISRA C conformance",
+      "https://railgunlabs.com/unicorn/"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 14:23:50",
       "https://news.ycombinator.com/item?id=42423537"
     ],
@@ -157,16 +177,6 @@
     [
       "A visual proof that a^2 – b^2 = (a + b)(a – b)",
       "https://www.futilitycloset.com/2024/12/15/tidy-2/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 13:42:39",
-      "https://news.ycombinator.com/item?id=42423335"
-    ],
-    [
-      "Playstation 5 transformed into a laptop for $2,750",
-      "https://www.tomshardware.com/video-games/console-gaming/playstation-5-transformed-into-a-laptop-for-usd2-750-chinese-modders-made-sonys-console-more-portable-with-a-17-3-inch-4k-display-weighing-over-9-pounds"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "PLATO: An educational computer system from the '60s shaped the future (2023)",
       "https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 09:49:15",
-      "https://news.ycombinator.com/item?id=42415857"
-    ],
-    [
-      "Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)",
-      "http://marc.merlins.org/linux/teaparty/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-12-12, 16:32:53",
-      "https://news.ycombinator.com/item?id=42400632"
-    ],
-    [
-      "'Conan the Bacterium' is radiation-resistant for a surprising reason",
-      "https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 14:49:36",
       "https://news.ycombinator.com/item?id=42399571"
     ],
     [
       "Consider Negotiating with Infringers",
       "https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 05:38:01",
+      "https://news.ycombinator.com/item?id=42396521"
+    ],
+    [
+      "The Bitter Aftertaste of \"Technical Sweetness\"",
+      "https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/"
     ]
   ]
 ]
