@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-12-16, 12:11:18",
-      "https://news.ycombinator.com/item?id=42430315"
-    ],
-    [
-      "High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog",
-      "https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 12:01:18",
       "https://news.ycombinator.com/item?id=42430265"
     ],
@@ -207,6 +197,16 @@
     [
       "Preferring throwaway code over design docs",
       "https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 12:10:24",
+      "https://news.ycombinator.com/item?id=42416556"
+    ],
+    [
+      "Konwinski Prize",
+      "https://andykonwinski.com/2024/12/12/konwinski-prize.html"
     ]
   ],
   [
