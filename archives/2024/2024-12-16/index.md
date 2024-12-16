@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always Go to the Funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 * [2024-12-16, 21:25:45](https://news.ycombinator.com/item?id=42435621) - [The Year of McDonald's](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
