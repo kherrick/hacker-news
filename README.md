@@ -4,7 +4,6 @@
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:31:28](https://news.ycombinator.com/item?id=42434440) - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
 * [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI agents that monitor the stock market for you](https://decodeinvesting.com/chat?agents=lima)
-* [2024-12-16, 18:10:51](https://news.ycombinator.com/item?id=42433609) - [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
 * [2024-12-16, 17:53:35](https://news.ycombinator.com/item?id=42433404) - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 * [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
@@ -28,6 +27,7 @@
 * [2024-12-15, 06:01:43](https://news.ycombinator.com/item?id=42421824) - [Quick takes on the recent OpenAI public incident write-up](https://surfingcomplexity.blog/2024/12/14/quick-takes-on-the-recent-openai-public-incident-write-up/)
 * [2024-12-15, 04:08:02](https://news.ycombinator.com/item?id=42421392) - [Absinthe: From green fairy to moral panic](https://www.historytoday.com/archive/history-matters/absinthe-green-fairy-moral-panic)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
+* [2024-12-14, 13:39:15](https://news.ycombinator.com/item?id=42417056) - [U2's Larry Mullen Jr: my dyscalculia makes 'counting like climbing Everest'](https://www.thetimes.com/culture/music/article/larry-mullen-jr-u2-dyscalculia-mxlwq5swz)
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 
