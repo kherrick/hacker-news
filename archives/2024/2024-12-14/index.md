@@ -32,6 +32,7 @@
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
+* [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 14:24:59](https://news.ycombinator.com/item?id=42417330) - [Show HN: Open-sourcing my failed startup) Buzee – A file search application](https://github.com/gsidhu/buzee-tauri)
 * [2024-12-14, 13:24:14](https://news.ycombinator.com/item?id=42416964) - [My School Experimented with 'Education Equity.' It Failed](https://www.thefp.com/p/newton-massachusetts-multilevel-classrooms-educational-equity-failed)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [Plato: An educational computer system from the '60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
