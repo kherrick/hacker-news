@@ -57,6 +57,7 @@
 * [2024-12-12, 13:23:21](https://news.ycombinator.com/item?id=42398913) - [BlenderGPT](https://www.blendergpt.org/)
 * [2024-12-12, 13:05:08](https://news.ycombinator.com/item?id=42398809) - [Why conversations are better with four people](https://www.thetimes.com/article/why-conversations-are-better-with-four-people-zhxbsg06s)
 * [2024-12-12, 12:41:57](https://news.ycombinator.com/item?id=42398671) - [Engineering tunable catch bonds with DNA](https://www.nature.com/articles/s41467-024-52749-w)
+* [2024-12-12, 12:38:42](https://news.ycombinator.com/item?id=42398651) - [CADing and 3D printing like a software engineer](https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/)
 * [2024-12-12, 12:04:59](https://news.ycombinator.com/item?id=42398471) - [Show HN: Quantus – LeetCode for Financial Modeling](https://quantus.finance/)
 * [2024-12-12, 12:00:22](https://news.ycombinator.com/item?id=42398449) - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
 * [2024-12-12, 11:56:12](https://news.ycombinator.com/item?id=42398430) - [Schengen: Council decides to lift land border controls with Bulgaria and Romania](https://www.consilium.europa.eu/de/press/press-releases/2024/12/12/schengen-council-decides-to-lift-land-border-controls-with-bulgaria-and-romania/)

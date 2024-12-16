@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 05:15:09](https://news.ycombinator.com/item?id=42428171) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
+* [2024-12-16, 05:14:05](https://news.ycombinator.com/item?id=42428167) - [White House granted clemency to the 'kids-for-cash' judge](https://www.politico.com/news/2024/12/13/biden-clemency-judge-michael-conahan-000890)
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
 * [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
@@ -7,7 +9,6 @@
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
-* [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
@@ -26,9 +27,8 @@
 * [2024-12-13, 14:52:33](https://news.ycombinator.com/item?id=42408934) - [Researchers discover new third class of magnetism](https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices)
 * [2024-12-13, 14:13:34](https://news.ycombinator.com/item?id=42408546) - [I replaced my son's school timetable app with an e-paper](https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/)
 * [2024-12-13, 05:08:58](https://news.ycombinator.com/item?id=42406070) - [Vercel/fun: ƒun – Local serverless function λ development runtime](https://github.com/vercel/fun)
-* [2024-12-13, 05:07:33](https://news.ycombinator.com/item?id=42406063) - [Eyes Wide Shut: Hidden in Plain Sight](https://boydrinksink.com/eyes-wide-shut-hidden-in-plain-sight)
-* [2024-12-13, 02:04:30](https://news.ycombinator.com/item?id=42405364) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
+* [2024-12-12, 12:38:42](https://news.ycombinator.com/item?id=42398651) - [CADing and 3D printing like a software engineer](https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/)
 * [2024-12-12, 05:38:01](https://news.ycombinator.com/item?id=42396521) - [The Bitter Aftertaste of \"Technical Sweetness\"](https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/)
 
 ## [Archives](archives/index.md)
