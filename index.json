@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-16, 14:10:15",
+      "https://news.ycombinator.com/item?id=42431090"
+    ],
+    [
+      "Most iPhone owners see little to no value in Apple Intelligence so far",
+      "https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 13:43:38",
       "https://news.ycombinator.com/item?id=42430859"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=42430482"
     ],
     [
-      "Where Is HTTP/3?",
+      "Where Is HTTP/3? (2021)",
       "https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 12:38:11",
+      "https://news.ycombinator.com/item?id=42430450"
+    ],
+    [
+      "Why is it so hard to buy things that work well?",
+      "https://danluu.com/nothing-works/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-12-15, 17:05:30",
-      "https://news.ycombinator.com/item?id=42424508"
-    ],
-    [
-      "Show HN: SmartHome – An Adventure Game",
-      "https://smarthome.steviep.xyz"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 16:39:26",
       "https://news.ycombinator.com/item?id=42424370"
     ],
     [
       "SVC16: Simplest Virtual Computer",
       "https://github.com/JanNeuendorf/SVC16"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 15:00:23",
-      "https://news.ycombinator.com/item?id=42423753"
-    ],
-    [
-      "The Closely Guarded Secrets of Manhattan Doormen",
-      "https://www.wsj.com/lifestyle/the-closely-guarded-secrets-of-manhattan-doormen-49bf5236"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-12-13, 19:43:03",
-      "https://news.ycombinator.com/item?id=42411655"
-    ],
-    [
-      "Animals as Chemical Factories",
-      "https://worksinprogress.co/issue/animals-as-chemical-factories/"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 18:11:01",
       "https://news.ycombinator.com/item?id=42410882"
     ],
     [
       "Copper evolution and beyond: Advanced interconnects for future CMOS nodes",
       "https://research.ibm.com/blog/beol-cu-interconnects-iedm"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 17:32:12",
+      "https://news.ycombinator.com/item?id=42410512"
+    ],
+    [
+      "Best of N Jail Breaking",
+      "https://arxiv.org/abs/2412.03556"
     ]
   ],
   [
