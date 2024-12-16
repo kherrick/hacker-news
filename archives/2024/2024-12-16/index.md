@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 * [2024-12-16, 07:50:47](https://news.ycombinator.com/item?id=42428876) - [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
 * [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
 * [2024-12-16, 06:50:45](https://news.ycombinator.com/item?id=42428604) - [Sundar Pichai: \"Obviously Tesla Is the Leader in [Autonomous Vehicles]\"](https://twitter.com/herbertong/status/1868296027087995038)

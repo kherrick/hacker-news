@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
+* [2024-12-16, 07:50:47](https://news.ycombinator.com/item?id=42428876) - [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
 * [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
@@ -8,7 +10,6 @@
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
-* [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
@@ -20,7 +21,6 @@
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
-* [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
 * [2024-12-13, 14:52:33](https://news.ycombinator.com/item?id=42408934) - [Researchers discover new third class of magnetism](https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices)
