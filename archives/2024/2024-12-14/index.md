@@ -46,6 +46,7 @@
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
 * [2024-12-14, 10:04:04](https://news.ycombinator.com/item?id=42415939) - [The role of Transactive Memory Systems in great teams](https://emilywebber.co.uk/the-role-of-transactive-memory-systems-in-great-teams/)
 * [2024-12-14, 09:52:06](https://news.ycombinator.com/item?id=42415875) - [Computing Inside an AI](https://willwhitney.com/computing-inside-ai.html)
+* [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II](http://marc.merlins.org/linux/teaparty/)
 * [2024-12-14, 09:25:03](https://news.ycombinator.com/item?id=42415754) - [Fujitsu's Monaka CPU: ARMv9, SVE2, and 3D Stacking](https://chipsandcheese.com/p/fujitsus-monaka-cpu-armv9-sve2-and)
 * [2024-12-14, 08:58:46](https://news.ycombinator.com/item?id=42415657) - [Palantir, MicroStrategy and Axon are now in the Nasdaq 100](https://www.nasdaq.com/press-release/annual-changes-nasdaq-100-indexr-2024-12-13)
 * [2024-12-14, 08:58:40](https://news.ycombinator.com/item?id=42415654) - [Reflections on building with Model Context Protocol](https://outlore.dev/blog/model-context-protocol/)
