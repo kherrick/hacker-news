@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
+* [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI agents that monitor the stock market for you](https://decodeinvesting.com/chat?agents=lima)
 * [2024-12-16, 18:10:51](https://news.ycombinator.com/item?id=42433609) - [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
 * [2024-12-16, 17:53:35](https://news.ycombinator.com/item?id=42433404) - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
@@ -15,7 +16,6 @@
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well? (2022)](https://danluu.com/nothing-works/)
-* [2024-12-16, 12:11:36](https://news.ycombinator.com/item?id=42430317) - [Will even the most advanced subs have nowhere to hide?](https://spectrum.ieee.org/submarine-stealth)
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
 * [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly excavating an exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [\"Nvidia is so far ahead that all the 4090s are nerfed to half speed\"](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
