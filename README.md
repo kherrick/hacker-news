@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 14:40:46](https://news.ycombinator.com/item?id=42431361) - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
 * [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
@@ -18,7 +19,6 @@
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
-* [2024-12-15, 15:00:23](https://news.ycombinator.com/item?id=42423753) - [The Closely Guarded Secrets of Manhattan Doormen](https://www.wsj.com/lifestyle/the-closely-guarded-secrets-of-manhattan-doormen-49bf5236)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
