@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-16, 15:55:04](https://news.ycombinator.com/item?id=42432176) - [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
-* [2024-12-16, 15:53:24](https://news.ycombinator.com/item?id=42432155) - [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
@@ -24,6 +22,8 @@
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
+* [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
+* [2024-12-13, 18:11:01](https://news.ycombinator.com/item?id=42410882) - [Copper evolution and beyond: Advanced interconnects for future CMOS nodes](https://research.ibm.com/blog/beol-cu-interconnects-iedm)
 * [2024-12-13, 17:32:12](https://news.ycombinator.com/item?id=42410512) - [Best of N Jail Breaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-13, 14:52:33](https://news.ycombinator.com/item?id=42408934) - [Researchers discover new third class of magnetism](https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices)
 * [2024-12-13, 14:13:34](https://news.ycombinator.com/item?id=42408546) - [I replaced my son's school timetable app with an e-paper](https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/)
