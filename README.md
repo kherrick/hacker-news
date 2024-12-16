@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
+* [2024-12-16, 06:11:02](https://news.ycombinator.com/item?id=42428389) - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
 * [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
@@ -14,7 +16,6 @@
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 * [2024-12-15, 07:41:39](https://news.ycombinator.com/item?id=42422138) - [Plotting Prime Numbers (2021)](https://jaketae.github.io/study/prime-spirals/)
-* [2024-12-14, 20:28:44](https://news.ycombinator.com/item?id=42419224) - [Should you ditch Spark for DuckDB or Polars?](https://milescole.dev/data-engineering/2024/12/12/Should-You-Ditch-Spark-DuckDB-Polars.html)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
@@ -25,7 +26,6 @@
 * [2024-12-13, 14:52:33](https://news.ycombinator.com/item?id=42408934) - [Researchers discover new third class of magnetism](https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices)
 * [2024-12-13, 14:13:34](https://news.ycombinator.com/item?id=42408546) - [I replaced my son's school timetable app with an e-paper](https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/)
 * [2024-12-13, 05:08:58](https://news.ycombinator.com/item?id=42406070) - [Vercel/fun: ƒun – Local serverless function λ development runtime](https://github.com/vercel/fun)
-* [2024-12-13, 02:04:30](https://news.ycombinator.com/item?id=42405364) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-12, 14:49:36](https://news.ycombinator.com/item?id=42399571) - [Consider Negotiating with Infringers](https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers)
 * [2024-12-12, 12:38:42](https://news.ycombinator.com/item?id=42398651) - [CADing and 3D printing like a software engineer](https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/)
