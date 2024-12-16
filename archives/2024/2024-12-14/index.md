@@ -57,6 +57,7 @@
 * [2024-12-14, 07:49:10](https://news.ycombinator.com/item?id=42415386) - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 * [2024-12-14, 07:19:21](https://news.ycombinator.com/item?id=42415298) - [Isomorphic Web Components](https://jakelazaroff.com/words/isomorphic-web-components/)
 * [2024-12-14, 06:36:35](https://news.ycombinator.com/item?id=42415122) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
+* [2024-12-14, 05:46:19](https://news.ycombinator.com/item?id=42414932) - [Intel ME Cleaner](https://github.com/corna/me_cleaner)
 * [2024-12-14, 05:38:58](https://news.ycombinator.com/item?id=42414912) - [Ilya Sutskever Test of Time Talk \"Pre-training as we know it will end\"](https://twitter.com/i/status/1867719020444889118)
 * [2024-12-14, 05:37:44](https://news.ycombinator.com/item?id=42414911) - [A high-velocity style of software development](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
