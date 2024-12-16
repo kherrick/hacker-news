@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
+* [2024-12-16, 10:13:02](https://news.ycombinator.com/item?id=42429672) - [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
 * [2024-12-16, 08:52:10](https://news.ycombinator.com/item?id=42429197) - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 * [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 * [2024-12-16, 07:50:47](https://news.ycombinator.com/item?id=42428876) - [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
 * [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
+* [2024-12-16, 07:13:34](https://news.ycombinator.com/item?id=42428722) - [Frood, an Alpine Initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-16, 06:50:45](https://news.ycombinator.com/item?id=42428604) - [Sundar Pichai: \"Obviously Tesla Is the Leader in [Autonomous Vehicles]\"](https://twitter.com/herbertong/status/1868296027087995038)
 * [2024-12-16, 06:11:02](https://news.ycombinator.com/item?id=42428389) - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
 * [2024-12-16, 05:17:16](https://news.ycombinator.com/item?id=42428179) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
