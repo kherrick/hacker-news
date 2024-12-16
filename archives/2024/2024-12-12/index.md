@@ -33,6 +33,7 @@
 * [2024-12-12, 18:32:36](https://news.ycombinator.com/item?id=42401896) - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
 * [2024-12-12, 18:27:15](https://news.ycombinator.com/item?id=42401821) - [Attacker Has Techdirt Reclassified as Phishing Site](https://www.techdirt.com/2024/12/12/attacker-has-techdirt-reclassified-as-phishing-site-proving-masnicks-impossibility-law-once-again/)
 * [2024-12-12, 18:04:38](https://news.ycombinator.com/item?id=42401603) - [ChatGPT's Advanced Voice Mode adds Santa Mode, Live Video, Screensharing](https://openai.com/12-days/?day=6)
+* [2024-12-12, 17:38:05](https://news.ycombinator.com/item?id=42401317) - [AI helps ID paint chemistry of Berlin Wall murals](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/)
 * [2024-12-12, 17:29:49](https://news.ycombinator.com/item?id=42401227) - [Show HN: Bring-your-own-key browser extension for summarizing HN posts with LLMs](https://github.com/ivanyu/hn-tldr-extension)
 * [2024-12-12, 17:09:25](https://news.ycombinator.com/item?id=42401011) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 * [2024-12-12, 17:01:16](https://news.ycombinator.com/item?id=42400935) - [Microsoft Recall still storing credit card, social security numbers](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)

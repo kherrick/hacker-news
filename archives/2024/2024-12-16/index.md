@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 17:31:47](https://news.ycombinator.com/item?id=42433177) - [To Log into WordPress, You Now Have to Agree Pineapple on Pizza Is Good](https://www.404media.co/wordpress-login-pineapple-on-pizza/)
+* [2024-12-16, 17:10:05](https://news.ycombinator.com/item?id=42432970) - [Springfield, KS](https://unworld.neocities.org/)
 * [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
 * [2024-12-16, 16:58:57](https://news.ycombinator.com/item?id=42432867) - [What Did Ada Lovelace's Program Actually Do? (2018)](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
