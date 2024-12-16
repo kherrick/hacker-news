@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 21:25:45](https://news.ycombinator.com/item?id=42435621) - [The Year of McDonald's](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:31:28](https://news.ycombinator.com/item?id=42434440) - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
 * [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI agents that monitor the stock market for you](https://decodeinvesting.com/chat?agents=lima)
@@ -18,7 +19,6 @@
 * [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well? (2022)](https://danluu.com/nothing-works/)
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
-* [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [\"Nvidia is so far ahead that all the 4090s are nerfed to half speed\"](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
 * [2024-12-16, 10:02:11](https://news.ycombinator.com/item?id=42429606) - [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
 * [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK's Online Safety Act comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)

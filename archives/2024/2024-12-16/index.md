@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 21:25:45](https://news.ycombinator.com/item?id=42435621) - [The Year of McDonald's](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:31:28](https://news.ycombinator.com/item?id=42434440) - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
 * [2024-12-16, 19:20:38](https://news.ycombinator.com/item?id=42434327) - [AirPods Pro 2 hearing aid and hearing test features approved to launch in Canada](https://www.macrumors.com/2024/12/12/airpods-pro-2-hearing-features-approved-canada/)
