@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-16, 06:50:45](https://news.ycombinator.com/item?id=42428604) - [Sundar Pichai: \"Obviously Tesla Is the Leader in [Autonomous Vehicles]\"](https://twitter.com/herbertong/status/1868296027087995038)
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
 * [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
@@ -8,6 +7,7 @@
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
+* [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
