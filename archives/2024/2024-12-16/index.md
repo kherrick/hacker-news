@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
+* [2024-12-16, 16:58:57](https://news.ycombinator.com/item?id=42432867) - [What Did Ada Lovelace's Program Actually Do? (2018)](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
+* [2024-12-16, 16:46:49](https://news.ycombinator.com/item?id=42432730) - [In Search of a Faster SQLite](https://avi.im/blag/2024/faster-sqlite/)
+* [2024-12-16, 16:34:02](https://news.ycombinator.com/item?id=42432590) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://securitylab.amnesty.org/latest/2024/12/a-digital-prison-surveillance-and-the-suppression-of-civil-society-in-serbia/)
 * [2024-12-16, 15:55:04](https://news.ycombinator.com/item?id=42432176) - [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
 * [2024-12-16, 15:53:24](https://news.ycombinator.com/item?id=42432155) - [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
