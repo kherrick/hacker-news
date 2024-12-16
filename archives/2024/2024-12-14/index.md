@@ -37,6 +37,7 @@
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [Plato: An educational computer system from the '60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 12:33:32](https://news.ycombinator.com/item?id=42416681) - [Array Languages for Clojurians (2020)](http://www.appliedscience.studio/articles/array-programming-for-clojurists.html)
 * [2024-12-14, 12:23:04](https://news.ycombinator.com/item?id=42416615) - [We Are the Robots](https://contraptions.venkateshrao.com/p/we-are-the-robots)
+* [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
 * [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)
