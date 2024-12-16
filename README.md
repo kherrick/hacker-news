@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-16, 00:55:53](https://news.ycombinator.com/item?id=42427086) - [Scores for Adults Are Dropping on Tests of Basic Skills](https://nataliewexler.substack.com/p/scores-for-adults-are-dropping-on)
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
@@ -17,6 +16,7 @@
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [Plato: An educational computer system from the '60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
+* [2024-12-14, 11:09:09](https://news.ycombinator.com/item?id=42416281) - [Hyperbola GNU/Linux-libre operating system](https://www.hyperbola.info/)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II](http://marc.merlins.org/linux/teaparty/)
 * [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
