@@ -2,6 +2,7 @@
 
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
+* [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
 * [2024-12-16, 01:08:33](https://news.ycombinator.com/item?id=42427132) - [US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19](https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/)
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
@@ -10,7 +11,6 @@
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
-* [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
