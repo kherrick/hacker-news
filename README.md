@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
+* [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
 * [2024-12-16, 13:43:38](https://news.ycombinator.com/item?id=42430859) - [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
 * [2024-12-16, 12:42:03](https://news.ycombinator.com/item?id=42430482) - [Where Is HTTP/3? (2021)](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
@@ -20,7 +21,6 @@
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
-* [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
 * [2024-12-13, 18:11:01](https://news.ycombinator.com/item?id=42410882) - [Copper evolution and beyond: Advanced interconnects for future CMOS nodes](https://research.ibm.com/blog/beol-cu-interconnects-iedm)

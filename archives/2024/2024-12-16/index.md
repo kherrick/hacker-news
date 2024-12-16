@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
+* [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
 * [2024-12-16, 13:43:38](https://news.ycombinator.com/item?id=42430859) - [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
 * [2024-12-16, 13:23:21](https://news.ycombinator.com/item?id=42430723) - [Playing video games boosts IQ in children](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-says-study)
 * [2024-12-16, 12:42:03](https://news.ycombinator.com/item?id=42430482) - [Where Is HTTP/3?](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
