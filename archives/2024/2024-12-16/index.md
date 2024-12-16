@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
 * [2024-12-16, 17:31:47](https://news.ycombinator.com/item?id=42433177) - [To Log into WordPress, You Now Have to Agree Pineapple on Pizza Is Good](https://www.404media.co/wordpress-login-pineapple-on-pizza/)
+* [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-16, 17:10:05](https://news.ycombinator.com/item?id=42432970) - [Springfield, KS](https://unworld.neocities.org/)
 * [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)

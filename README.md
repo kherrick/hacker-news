@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-16, 17:31:47](https://news.ycombinator.com/item?id=42433177) - [To Log into WordPress, You Now Have to Agree Pineapple on Pizza Is Good](https://www.404media.co/wordpress-login-pineapple-on-pizza/)
+* [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-16, 17:10:05](https://news.ycombinator.com/item?id=42432970) - [Springfield, KS](https://unworld.neocities.org/)
 * [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
@@ -28,7 +29,6 @@
 * [2024-12-13, 14:52:33](https://news.ycombinator.com/item?id=42408934) - [Researchers discover new third class of magnetism](https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-12, 17:38:05](https://news.ycombinator.com/item?id=42401317) - [AI helps ID paint chemistry of Berlin Wall murals](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/)
-* [2024-12-12, 14:49:36](https://news.ycombinator.com/item?id=42399571) - [Consider Negotiating with Infringers](https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers)
 * [2024-12-12, 12:38:42](https://news.ycombinator.com/item?id=42398651) - [CADing and 3D printing like a software engineer](https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/)
 
 ## [Archives](archives/index.md)
