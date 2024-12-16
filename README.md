@@ -2,6 +2,7 @@
 
 * [2024-12-16, 08:52:10](https://news.ycombinator.com/item?id=42429197) - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 * [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
+* [2024-12-16, 05:17:16](https://news.ycombinator.com/item?id=42428179) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
 * [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
@@ -19,7 +20,6 @@
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
 * [2024-12-14, 05:46:19](https://news.ycombinator.com/item?id=42414932) - [Intel ME Cleaner](https://github.com/corna/me_cleaner)
-* [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
 * [2024-12-13, 18:11:01](https://news.ycombinator.com/item?id=42410882) - [Copper evolution and beyond: Advanced interconnects for future CMOS nodes](https://research.ibm.com/blog/beol-cu-interconnects-iedm)
