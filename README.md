@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
 * [2024-12-16, 08:52:10](https://news.ycombinator.com/item?id=42429197) - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 * [2024-12-16, 07:40:18](https://news.ycombinator.com/item?id=42428838) - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
 * [2024-12-16, 05:17:16](https://news.ycombinator.com/item?id=42428179) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
@@ -13,13 +14,13 @@
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum likelihood estimation and loss functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:05:30](https://news.ycombinator.com/item?id=42424508) - [Show HN: SmartHome – An Adventure Game](https://smarthome.steviep.xyz)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
-* [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
+* [2024-12-15, 14:23:50](https://news.ycombinator.com/item?id=42423537) - [New make --shuffle mode (2022)](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
 * [2024-12-15, 14:01:37](https://news.ycombinator.com/item?id=42423409) - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
+* [2024-12-15, 13:42:39](https://news.ycombinator.com/item?id=42423335) - [Playstation 5 transformed into a laptop for $2,750](https://www.tomshardware.com/video-games/console-gaming/playstation-5-transformed-into-a-laptop-for-usd2-750-chinese-modders-made-sonys-console-more-portable-with-a-17-3-inch-4k-display-weighing-over-9-pounds)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
-* [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
 * [2024-12-13, 18:11:01](https://news.ycombinator.com/item?id=42410882) - [Copper evolution and beyond: Advanced interconnects for future CMOS nodes](https://research.ibm.com/blog/beol-cu-interconnects-iedm)
@@ -29,7 +30,6 @@
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 * [2024-12-12, 16:32:53](https://news.ycombinator.com/item?id=42400632) - ['Conan the Bacterium' is radiation-resistant for a surprising reason](https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html)
 * [2024-12-12, 14:49:36](https://news.ycombinator.com/item?id=42399571) - [Consider Negotiating with Infringers](https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers)
-* [2024-12-12, 05:38:01](https://news.ycombinator.com/item?id=42396521) - [The Bitter Aftertaste of \"Technical Sweetness\"](https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/)
 
 ## [Archives](archives/index.md)
 

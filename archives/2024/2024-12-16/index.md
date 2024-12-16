@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
 * [2024-12-16, 08:52:10](https://news.ycombinator.com/item?id=42429197) - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 * [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 * [2024-12-16, 07:50:47](https://news.ycombinator.com/item?id=42428876) - [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
