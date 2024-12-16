@@ -25,6 +25,7 @@
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
 * [2024-12-15, 15:00:23](https://news.ycombinator.com/item?id=42423753) - [The Closely Guarded Secrets of Manhattan Doormen](https://www.wsj.com/lifestyle/the-closely-guarded-secrets-of-manhattan-doormen-49bf5236)
 * [2024-12-15, 14:59:46](https://news.ycombinator.com/item?id=42423742) - [Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving](https://news.ycombinator.com/item?id=42423742)
+* [2024-12-15, 14:44:17](https://news.ycombinator.com/item?id=42423654) - [Confronting Risks of Mirror Life](https://www.science.org/doi/10.1126/science.ads9158)
 * [2024-12-15, 14:43:36](https://news.ycombinator.com/item?id=42423645) - [She took a DNA test. Police used it to charge her grandma with a 1997 murder](https://www.cnn.com/2024/12/12/us/baby-garnet-cold-case-michigan/index.html)
 * [2024-12-15, 14:23:50](https://news.ycombinator.com/item?id=42423537) - [New make --shuffle mode (2022)](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
 * [2024-12-15, 14:16:28](https://news.ycombinator.com/item?id=42423489) - [Search through Rijksmuseum artworks based on meaning](https://artexplorer.ai/)

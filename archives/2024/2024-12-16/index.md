@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 15:55:04](https://news.ycombinator.com/item?id=42432176) - [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
+* [2024-12-16, 15:53:24](https://news.ycombinator.com/item?id=42432155) - [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
 * [2024-12-16, 14:40:46](https://news.ycombinator.com/item?id=42431361) - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
