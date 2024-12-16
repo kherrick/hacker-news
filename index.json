@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-16, 18:10:51",
+      "https://news.ycombinator.com/item?id=42433609"
+    ],
+    [
+      "Pelicans on a Bicycle",
+      "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 17:53:35",
+      "https://news.ycombinator.com/item?id=42433404"
+    ],
+    [
+      "Images of gamma-ray flare from supermassive black hole M87",
+      "https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 17:34:37",
       "https://news.ycombinator.com/item?id=42433205"
     ],
@@ -17,16 +37,6 @@
     [
       "Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)",
       "https://www.lfgss.com/conversations/401475/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 17:10:05",
-      "https://news.ycombinator.com/item?id=42432970"
-    ],
-    [
-      "Springfield, KS",
-      "https://unworld.neocities.org/"
     ]
   ],
   [
@@ -55,18 +65,8 @@
       "https://news.ycombinator.com/item?id=42432867"
     ],
     [
-      "What Did Ada Lovelace's Program Actually Do? (2018)",
+      "What did Ada Lovelace's program actually do? (2018)",
       "https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 16:50:55",
-      "https://news.ycombinator.com/item?id=42432774"
-    ],
-    [
-      "Ask HN: What Is the Meaning Behind Anime Girls Holding Programming Books",
-      "https://news.ycombinator.com/item?id=42432774"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-12-16, 14:11:19",
+      "https://news.ycombinator.com/item?id=42431103"
+    ],
+    [
+      "Ask HN: SWEs how do you future-proof your career in light of LLMs?",
+      "https://news.ycombinator.com/item?id=42431103"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 14:05:20",
       "https://news.ycombinator.com/item?id=42431046"
     ],
@@ -135,8 +145,28 @@
       "https://news.ycombinator.com/item?id=42430450"
     ],
     [
-      "Why is it so hard to buy things that work well?",
+      "Why is it so hard to buy things that work well? (2022)",
       "https://danluu.com/nothing-works/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 12:11:36",
+      "https://news.ycombinator.com/item?id=42430317"
+    ],
+    [
+      "Will even the most advanced subs have nowhere to hide?",
+      "https://spectrum.ieee.org/submarine-stealth"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 12:07:18",
+      "https://news.ycombinator.com/item?id=42430296"
+    ],
+    [
+      "Show HN: NCompass Technologies – yet another AI Inference API, but hear us out",
+      "https://www.ncompass.tech/about"
     ]
   ],
   [
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2024-12-16, 07:13:34",
-      "https://news.ycombinator.com/item?id=42428722"
+      "2024-12-16, 08:23:23",
+      "https://news.ycombinator.com/item?id=42429045"
     ],
     [
-      "Frood, an Alpine Initramfs NAS",
-      "https://words.filippo.io/dispatches/frood/"
+      "UK online safety regulation comes into force",
+      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2024-12-16, 04:01:32",
-      "https://news.ycombinator.com/item?id=42427916"
-    ],
-    [
-      "Cyphernetes: A Query Language for Kubernetes",
-      "https://cyphernet.es/#"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 03:55:10",
       "https://news.ycombinator.com/item?id=42427888"
     ],
     [
       "OpenERV",
       "https://www.openerv.ca"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 03:39:44",
-      "https://news.ycombinator.com/item?id=42427826"
-    ],
-    [
-      "Derivatives don't always act like fractions (2021)",
-      "https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-12-15, 13:17:34",
+      "https://news.ycombinator.com/item?id=42423253"
+    ],
+    [
+      "Ruby Video – On a mission to index all Ruby conferences",
+      "https://www.rubyvideo.dev/"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 12:10:24",
       "https://news.ycombinator.com/item?id=42416556"
     ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2024-12-13, 17:32:12",
-      "https://news.ycombinator.com/item?id=42410512"
+      "2024-12-14, 09:49:15",
+      "https://news.ycombinator.com/item?id=42415857"
     ],
     [
-      "Best of N Jail Breaking",
-      "https://arxiv.org/abs/2412.03556"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 14:52:33",
-      "https://news.ycombinator.com/item?id=42408934"
-    ],
-    [
-      "Researchers discover new third class of magnetism",
-      "https://www.nottingham.ac.uk/news/researchers-discover-new-third-class-of-magnetism-that-could-transform-digital-devices"
+      "Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)",
+      "http://marc.merlins.org/linux/teaparty/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "AI helps ID paint chemistry of Berlin Wall murals",
       "https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 12:38:42",
-      "https://news.ycombinator.com/item?id=42398651"
-    ],
-    [
-      "CADing and 3D printing like a software engineer",
-      "https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/"
     ]
   ]
 ]
