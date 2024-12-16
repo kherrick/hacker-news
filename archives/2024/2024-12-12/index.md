@@ -37,6 +37,7 @@
 * [2024-12-12, 17:09:25](https://news.ycombinator.com/item?id=42401011) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 * [2024-12-12, 17:01:16](https://news.ycombinator.com/item?id=42400935) - [Microsoft Recall still storing credit card, social security numbers](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
 * [2024-12-12, 17:00:50](https://news.ycombinator.com/item?id=42400931) - [Great Question (YC W21) Is Hiring People Operations Manager](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale)
+* [2024-12-12, 16:32:53](https://news.ycombinator.com/item?id=42400632) - ['Conan the Bacterium' is radiation-resistant for a surprising reason](https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html)
 * [2024-12-12, 16:29:05](https://news.ycombinator.com/item?id=42400588) - [Show HN: Credit reports about German companies](https://bonscore.org/)
 * [2024-12-12, 16:26:31](https://news.ycombinator.com/item?id=42400556) - [Android XR](https://blog.google/products/android/android-xr/)
 * [2024-12-12, 16:16:33](https://news.ycombinator.com/item?id=42400458) - [Intel Arc B580 Delivers Promising Linux GPU Compute Potential for Battlemage](https://www.phoronix.com/review/intel-arc-b580-gpu-compute)

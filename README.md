@@ -19,7 +19,6 @@
 * [2024-12-14, 14:52:22](https://news.ycombinator.com/item?id=42417478) - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
 * [2024-12-14, 12:57:12](https://news.ycombinator.com/item?id=42416812) - [PLATO: An educational computer system from the '60s shaped the future (2023)](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999)](http://marc.merlins.org/linux/teaparty/)
-* [2024-12-14, 05:46:19](https://news.ycombinator.com/item?id=42414932) - [Intel ME Cleaner](https://github.com/corna/me_cleaner)
 * [2024-12-14, 05:18:52](https://news.ycombinator.com/item?id=42414864) - [Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-14, 00:52:27](https://news.ycombinator.com/item?id=42413690) - [Wishing for a more orderly disruption may misunderstand government reform](https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
@@ -28,6 +27,7 @@
 * [2024-12-13, 14:13:34](https://news.ycombinator.com/item?id=42408546) - [I replaced my son's school timetable app with an e-paper](https://mfasold.net/blog/displaying-website-content-on-an-e-ink-display/)
 * [2024-12-13, 05:08:58](https://news.ycombinator.com/item?id=42406070) - [Vercel/fun: ƒun – Local serverless function λ development runtime](https://github.com/vercel/fun)
 * [2024-12-13, 01:54:41](https://news.ycombinator.com/item?id=42405323) - [Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
+* [2024-12-12, 16:32:53](https://news.ycombinator.com/item?id=42400632) - ['Conan the Bacterium' is radiation-resistant for a surprising reason](https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html)
 * [2024-12-12, 14:49:36](https://news.ycombinator.com/item?id=42399571) - [Consider Negotiating with Infringers](https://www.thelegalartist.com/blog/why-you-should-consider-negotiating-with-infringers)
 * [2024-12-12, 05:38:01](https://news.ycombinator.com/item?id=42396521) - [The Bitter Aftertaste of \"Technical Sweetness\"](https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/)
 
