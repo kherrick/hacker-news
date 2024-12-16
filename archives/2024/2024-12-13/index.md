@@ -23,6 +23,7 @@
 * [2024-12-13, 18:02:03](https://news.ycombinator.com/item?id=42410803) - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 * [2024-12-13, 17:48:41](https://news.ycombinator.com/item?id=42410663) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:38:30](https://news.ycombinator.com/item?id=42410582) - [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
+* [2024-12-13, 17:32:12](https://news.ycombinator.com/item?id=42410512) - [Best of N Jail Breaking](https://arxiv.org/abs/2412.03556)
 * [2024-12-13, 17:32:00](https://news.ycombinator.com/item?id=42410508) - [People who are good at reading have different brains](https://theconversation.com/people-who-are-good-at-reading-have-different-brains-244786)
 * [2024-12-13, 17:00:43](https://news.ycombinator.com/item?id=42410233) - [HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2024-12-13, 17:00:19](https://news.ycombinator.com/item?id=42410229) - [Imposter Attack – Among Us-themed infrared game made with ESP32 and MicroPython](https://blog.langworth.com/imposter-attack)
