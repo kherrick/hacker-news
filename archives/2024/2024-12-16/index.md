@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:20:38](https://news.ycombinator.com/item?id=42434327) - [AirPods Pro 2 hearing aid and hearing test features approved to launch in Canada](https://www.macrumors.com/2024/12/12/airpods-pro-2-hearing-features-approved-canada/)
 * [2024-12-16, 19:04:34](https://news.ycombinator.com/item?id=42434151) - [Do not throw away your old PCs](https://blog.lhotka.net/2024/12/15/Do-not-throw-away-your-old-PCs)
 * [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI Agents that monitor the Stock Market for you](https://decodeinvesting.com/chat?agents=lima)
@@ -39,7 +40,9 @@
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
 * [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
+* [2024-12-16, 10:13:53](https://news.ycombinator.com/item?id=42429679) - [iPhone 4 Documentary: Theft, Death and Steve Jobs [video]](https://www.youtube.com/watch?v=fkK7_QEIJrg)
 * [2024-12-16, 10:13:02](https://news.ycombinator.com/item?id=42429672) - [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
+* [2024-12-16, 10:02:11](https://news.ycombinator.com/item?id=42429606) - [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
 * [2024-12-16, 08:52:10](https://news.ycombinator.com/item?id=42429197) - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 * [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK online safety regulation comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
 * [2024-12-16, 07:50:47](https://news.ycombinator.com/item?id=42428876) - [Swedish minister eyes energy crisis steps, blames German nuclear phase-out](https://www.euractiv.com/section/energy/news/swedish-minister-open-to-new-measures-to-tackle-energy-crisis-blames-german-nuclear-phase-out/)
