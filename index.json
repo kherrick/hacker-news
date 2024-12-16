@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-16, 19:20:38",
+      "https://news.ycombinator.com/item?id=42434327"
+    ],
+    [
+      "AirPods Pro 2 hearing aid and hearing test features approved to launch in Canada",
+      "https://www.macrumors.com/2024/12/12/airpods-pro-2-hearing-features-approved-canada/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 19:04:34",
+      "https://news.ycombinator.com/item?id=42434151"
+    ],
+    [
+      "Do not throw away your old PCs",
+      "https://blog.lhotka.net/2024/12/15/Do-not-throw-away-your-old-PCs"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 18:10:51",
       "https://news.ycombinator.com/item?id=42433609"
     ],
@@ -17,6 +37,26 @@
     [
       "Images of gamma-ray flare from supermassive black hole M87",
       "https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 17:34:37",
+      "https://news.ycombinator.com/item?id=42433205"
+    ],
+    [
+      "Our muscles will atrophy as we climb the Kardashev Scale",
+      "https://solmaz.io/our-muscles-will-atrophy"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 17:18:08",
+      "https://news.ycombinator.com/item?id=42433044"
+    ],
+    [
+      "Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)",
+      "https://www.lfgss.com/conversations/401475/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42432876"
     ],
     [
-      "Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR",
+      "Converge (YC S23) is hiring founding engineer #2",
       "https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr"
     ]
   ],
@@ -111,21 +151,11 @@
   ],
   [
     [
-      "2024-12-16, 14:05:20",
-      "https://news.ycombinator.com/item?id=42431046"
-    ],
-    [
-      "Coder wrote a bug so bad security guards wanted a word when he arrived at work",
-      "https://www.theregister.com/2024/12/16/who_me/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 13:36:29",
       "https://news.ycombinator.com/item?id=42430804"
     ],
     [
-      "Sci-Fi Inspired Antenna Adjusts to Signal Needs",
+      "Sci-fi inspired antenna adjusts to signal needs",
       "https://spectrum.ieee.org/smart-materials-morphing-antenna"
     ]
   ],
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=42430265"
     ],
     [
-      "The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit",
+      "The Qualcomm DSP Driver – Unexpectedly excavating an exploit",
       "https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html"
     ]
   ],
@@ -175,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42429672"
     ],
     [
-      "Using Drop for Safety in Rust",
+      "Using Drop for safety in Rust",
       "https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/"
     ]
   ],
@@ -195,18 +225,8 @@
       "https://news.ycombinator.com/item?id=42429045"
     ],
     [
-      "UK online safety regulation comes into force",
+      "UK's Online Safety Act comes into force",
       "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 05:17:16",
-      "https://news.ycombinator.com/item?id=42428179"
-    ],
-    [
-      "Load is not what you should balance: Introducing Prequal",
-      "https://www.usenix.org/conference/nsdi24/presentation/wydrowski"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "OpenERV",
       "https://www.openerv.ca"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 23:06:15",
-      "https://news.ycombinator.com/item?id=42426589"
-    ],
-    [
-      "25 Years of Dillo",
-      "https://dillo-browser.github.io/25-years/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 22:02:33",
-      "https://news.ycombinator.com/item?id=42426284"
-    ],
-    [
-      "Map of GitHub",
-      "https://github.com/anvaka/map-of-github"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=42422113"
     ],
     [
-      "The Mysteries of Mangifera: Finding the Mango's Origin (2017)",
+      "Finding the Mango's Origin (2017)",
       "https://fairchildgarden.org/visit/the-mysteries-of-mangifera-finding-the-mangos-origin/"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-12-13, 01:54:41",
-      "https://news.ycombinator.com/item?id=42405323"
+      "2024-12-13, 13:47:26",
+      "https://news.ycombinator.com/item?id=42408361"
     ],
     [
-      "Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning",
-      "https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090"
+      "Mirror bacteria research poses significant risks, scientists warn",
+      "https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419"
     ]
   ],
   [
