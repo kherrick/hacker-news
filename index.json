@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-16, 04:01:32",
+      "https://news.ycombinator.com/item?id=42427916"
+    ],
+    [
+      "Cyphernetes: A Query Language for Kubernetes",
+      "https://cyphernet.es/#"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 23:06:15",
       "https://news.ycombinator.com/item?id=42426589"
     ],
@@ -117,16 +127,6 @@
     [
       "A visual proof that a^2 – b^2 = (a + b)(a – b)",
       "https://www.futilitycloset.com/2024/12/15/tidy-2/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 11:46:21",
-      "https://news.ycombinator.com/item?id=42422942"
-    ],
-    [
-      "In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape",
-      "https://jpcamara.com/2024/12/14/my-rubyconf-talk.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-12-11, 14:56:30",
-      "https://news.ycombinator.com/item?id=42388341"
+      "2024-12-12, 05:38:01",
+      "https://news.ycombinator.com/item?id=42396521"
     ],
     [
-      "Create your own jigsaw puzzle from any image",
-      "https://puzzlezilla.com/create-puzzle"
+      "The Bitter Aftertaste of \"Technical Sweetness\"",
+      "https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/"
     ]
   ]
 ]
