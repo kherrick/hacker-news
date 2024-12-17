@@ -129,6 +129,35 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42443634">
+          <h3>
+            <a class="item" href="https://github.com/janbjorge/pipegate"
+              >Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose
+              Local Servers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-17 @ 18:09:06</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42443634"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’d like to introduce PipeGate, a lightweight, self-hosted proxy
+                built with FastAPI. I created PipeGate as a fun little exercise
+                to understand how tunneling services work under the hood.
+                PipeGate allows you to expose your local servers to the
+                internet, giving you full control over your setup.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42443406">
           <h3>
             <a
@@ -141,11 +170,11 @@
             <h4>
               <span>2024-12-17 @ 17:43:05</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42443406"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -156,13 +185,120 @@
             <h4>
               <span>2024-12-17 @ 17:26:26</span
               ><span class="points-container"
-                >Points: <span class="points">373</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42443229"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42442812">
+          <h3>
+            <a class="item" href="https://github.com/bruin-data/bruin"
+              >Show HN: I built an open-source data pipeline tool in Go</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-17 @ 16:40:31</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42442812"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>- One tool to ingest data</p>
+              <p>- Another one to transform it</p>
+              <p>- If you wanted to run Python, set up an orchestrator</p>
+              <p>- If you need to check the data, a data quality tool</p>
+              <p>
+                Let alone this being hard to set up and taking time, it is also
+                pretty high-maintenance. I had to do a lot of infra work, and
+                while this being billable hours for me I didn’t enjoy the work
+                at all. For some parts of it, there were nice solutions like
+                dbt, but in the end for an end-to-end workflow, it didn’t work.
+                That’s why I decided to build an end-to-end solution that could
+                take care of data ingestion, transformation, and Python stuff.
+                Initially, it was just for our own usage, but in the end, we
+                thought this could be a useful tool for everyone.
+              </p>
+              <p>
+                In its core, Bruin is a data framework that consists of a CLI
+                application written in Golang, and a VS Code extension that
+                supports it with a local UI.
+              </p>
+              <p>Bruin supports quite a few stuff:</p>
+              <p>
+                - Data ingestion using ingestr (<a
+                  href="https://github.com/bruin-data/ingestr"
+                  >https://github.com/bruin-data/ingestr</a
+                >)
+              </p>
+              <p>- Data transformation in SQL &amp; Python, similar to dbt</p>
+              <p>- Python env management using uv</p>
+              <p>- Built-in data quality checks</p>
+              <p>- Secrets management</p>
+              <p>- Query validation &amp; SQL parsing</p>
+              <p>
+                - Built-in templates for common scenarios, e.g. Shopify, Notion,
+                Gorgias, BigQuery, etc
+              </p>
+              <p>
+                This means that you can write end-to-end pipelines within the
+                same framework and get it running with a single command. You can
+                run it on your own computer, on GitHub Actions, or in an EC2
+                instance somewhere. Using the templates, you can also have
+                ready-to-go pipelines with modeled data for your data warehouse
+                in seconds.
+              </p>
+              <p>
+                It includes an open-source VS Code extension as well, which
+                allows working with the data pipelines locally, in a more visual
+                way. The resulting changes are all in code, which means
+                everything is version-controlled regardless, it just adds a nice
+                layer.
+              </p>
+              <p>
+                Bruin can run SQL, Python, and data ingestion workflows, as well
+                as quality checks. For Python stuff, we use the awesome (and it
+                really is awesome!) uv under the hood, install dependencies in
+                an isolated environment, and install and manage the Python
+                versions locally, all in a cross-platform way. Then in order to
+                manage data uploads to the data warehouse, it uses dlt under the
+                hood to upload the data to the destination. It also uses Arrow’s
+                memory-mapped files to easily access the data between the
+                processes before uploading them to the destination.
+              </p>
+              <p>
+                We went with Golang because of its speed and strong concurrency
+                primitives, but more importantly, I knew Go better than the
+                other languages available to me and I enjoy writing Go, so
+                there’s also that.
+              </p>
+              <p>
+                We had a small pool of beta testers for quite some time and I am
+                really excited to launch Bruin CLI to the rest of the world and
+                get feedback from you all. I know it is not often to build data
+                tooling in Go but I believe we found ourselves in a nice spot in
+                terms of features, speed, and stability.
+              </p>
+              <p>
+                <a href="https://github.com/bruin-data/bruin"
+                  >https://github.com/bruin-data/bruin</a
+                >
+              </p>
+              <p>
+                I’d love to hear your feedback and learn more about how we can
+                make data pipelines easier and better to work with, looking
+                forward to your thoughts!
+              </p>
+              <p>Best, Burak</p>
+            </div>
           </section>
         </section>
         <section id="42441333">
@@ -177,11 +313,11 @@
             <h4>
               <span>2024-12-17 @ 13:53:42</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">457</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42441333"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -197,7 +333,7 @@
             <h4>
               <span>2024-12-17 @ 13:43:29</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42441258"
                   >Comments</a
@@ -336,7 +472,7 @@
             <h4>
               <span>2024-12-17 @ 12:18:05</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42440767"
                   >Comments</a
@@ -374,7 +510,7 @@
             <h4>
               <span>2024-12-17 @ 10:38:07</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42440185"
                   >Comments</a
@@ -396,11 +532,11 @@
             <h4>
               <span>2024-12-17 @ 10:06:22</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42440016"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -415,11 +551,11 @@
             <h4>
               <span>2024-12-17 @ 09:49:17</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42439921"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -435,7 +571,7 @@
             <h4>
               <span>2024-12-17 @ 06:43:51</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438918"
                   >Comments</a
@@ -457,7 +593,7 @@
             <h4>
               <span>2024-12-17 @ 06:10:26</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438767"
                   >Comments</a
@@ -479,11 +615,11 @@
             <h4>
               <span>2024-12-17 @ 03:52:26</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438175"
                   >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 260</span></span
               >
             </h4>
           </section>
@@ -498,7 +634,7 @@
             <h4>
               <span>2024-12-16 @ 22:57:24</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42436440"
                   >Comments</a
@@ -519,7 +655,7 @@
             <h4>
               <span>2024-12-16 @ 22:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42435972"
                   >Comments</a
@@ -538,7 +674,7 @@
             <h4>
               <span>2024-12-16 @ 20:32:34</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42435099"
                   >Comments</a
@@ -558,11 +694,11 @@
             <h4>
               <span>2024-12-16 @ 17:18:08</span
               ><span class="points-container"
-                >Points: <span class="points">709</span></span
+                >Points: <span class="points">710</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42433044"
                   >Comments</a
-                ><span class="descendants">: 477</span></span
+                ><span class="descendants">: 478</span></span
               >
             </h4>
             <div class="text">
@@ -621,11 +757,11 @@
             <h4>
               <span>2024-12-16 @ 17:04:14</span
               ><span class="points-container"
-                >Points: <span class="points">532</span></span
+                >Points: <span class="points">533</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432914"
                   >Comments</a
-                ><span class="descendants">: 281</span></span
+                ><span class="descendants">: 282</span></span
               >
             </h4>
           </section>
@@ -642,7 +778,7 @@
             <h4>
               <span>2024-12-16 @ 16:58:57</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">330</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432867"
                   >Comments</a
@@ -670,21 +806,6 @@
             </h4>
           </section>
         </section>
-        <section id="42431186">
-          <h3><a class="item" href="https://modelica.org/">Modelica</a></h3>
-          <section>
-            <h4>
-              <span>2024-12-16 @ 14:22:03</span
-              ><span class="points-container"
-                >Points: <span class="points">287</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42431186"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="42430301">
           <h3>
             <a
@@ -701,7 +822,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42430301"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42429600">
+          <h3>
+            <a
+              class="item"
+              href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse"
+              >The long (after)life of some of our old fileserver hardware</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-16 @ 10:01:18</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42429600"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -722,7 +864,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42428162"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -739,51 +881,11 @@
             <h4>
               <span>2024-12-15 @ 18:11:21</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42424904"
                   >Comments</a
                 ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42423253">
-          <h3>
-            <a class="item" href="https://www.rubyvideo.dev/"
-              >Ruby Video – On a mission to index all Ruby conferences</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-15 @ 13:17:34</span
-              ><span class="points-container"
-                >Points: <span class="points">269</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42423253"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42422548">
-          <h3>
-            <a
-              class="item"
-              href="https://appdecentral.com/2024/12/13/now-we-are-all-forked/"
-              >Now We're All Forked</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-15 @ 09:41:54</span
-              ><span class="points-container"
-                >Points: <span class="points">35</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42422548"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -800,7 +902,7 @@
             <h4>
               <span>2024-12-14 @ 14:30:06</span
               ><span class="points-container"
-                >Points: <span class="points">446</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42417357"
                   >Comments</a
@@ -821,11 +923,11 @@
             <h4>
               <span>2024-12-14 @ 00:18:17</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42413539"
                   >Comments</a
-                ><span class="descendants">: 238</span></span
+                ><span class="descendants">: 249</span></span
               >
             </h4>
           </section>
@@ -842,7 +944,7 @@
             <h4>
               <span>2024-12-13 @ 23:16:27</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42413218"
                   >Comments</a
@@ -863,11 +965,11 @@
             <h4>
               <span>2024-12-13 @ 19:14:20</span
               ><span class="points-container"
-                >Points: <span class="points">405</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42411409"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -885,11 +987,11 @@
             <h4>
               <span>2024-12-13 @ 13:47:26</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42408361"
                   >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 208</span></span
               >
             </h4>
           </section>
