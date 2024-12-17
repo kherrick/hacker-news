@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 03:17:05](https://news.ycombinator.com/item?id=42438009) - [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
 * [2024-12-17, 01:20:23](https://news.ycombinator.com/item?id=42437400) - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
@@ -24,7 +25,6 @@
 * [2024-12-15, 19:07:59](https://news.ycombinator.com/item?id=42425268) - [The Red Beads Experiment](https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-15, 06:01:43](https://news.ycombinator.com/item?id=42421824) - [Quick takes on the recent OpenAI public incident write-up](https://surfingcomplexity.blog/2024/12/14/quick-takes-on-the-recent-openai-public-incident-write-up/)
-* [2024-12-15, 04:08:02](https://news.ycombinator.com/item?id=42421392) - [Absinthe: From green fairy to moral panic](https://www.historytoday.com/archive/history-matters/absinthe-green-fairy-moral-panic)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 13:39:15](https://news.ycombinator.com/item?id=42417056) - [U2's Larry Mullen Jr: my dyscalculia makes 'counting like climbing Everest'](https://www.thetimes.com/culture/music/article/larry-mullen-jr-u2-dyscalculia-mxlwq5swz)
 * [2024-12-14, 03:26:49](https://news.ycombinator.com/item?id=42414448) - [A new twist: The molecular machines that loop chromosomes also twist DNA](https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html)
