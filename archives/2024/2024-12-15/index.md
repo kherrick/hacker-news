@@ -6,6 +6,7 @@
 
 * [2024-12-15, 23:17:08](https://news.ycombinator.com/item?id=42426657) - [Inside the university AI cheating crisis](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis)
 * [2024-12-15, 23:06:15](https://news.ycombinator.com/item?id=42426589) - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
+* [2024-12-15, 22:26:22](https://news.ycombinator.com/item?id=42426412) - [Civil war buffs drill for the 'hardest test in history'](https://www.wsj.com/lifestyle/travel/civil-war-history-gettysburg-lincoln-tour-guide-2055afe2)
 * [2024-12-15, 22:11:57](https://news.ycombinator.com/item?id=42426337) - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
 * [2024-12-15, 22:04:21](https://news.ycombinator.com/item?id=42426296) - [Visualization of cities with similar road networks](https://github.com/anvaka/similar-cities)
 * [2024-12-15, 22:02:33](https://news.ycombinator.com/item?id=42426284) - [Map of GitHub](https://github.com/anvaka/map-of-github)
