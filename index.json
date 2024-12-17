@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 18:09:06",
+      "https://news.ycombinator.com/item?id=42443634"
+    ],
+    [
+      "Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers",
+      "https://github.com/janbjorge/pipegate"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 17:43:05",
       "https://news.ycombinator.com/item?id=42443406"
     ],
@@ -17,6 +27,16 @@
     [
       "Moon",
       "https://ciechanow.ski/moon/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 16:40:31",
+      "https://news.ycombinator.com/item?id=42442812"
+    ],
+    [
+      "Show HN: I built an open-source data pipeline tool in Go",
+      "https://github.com/bruin-data/bruin"
     ]
   ],
   [
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2024-12-16, 14:22:03",
-      "https://news.ycombinator.com/item?id=42431186"
-    ],
-    [
-      "Modelica",
-      "https://modelica.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 12:07:52",
       "https://news.ycombinator.com/item?id=42430301"
     ],
     [
       "Sorry, Mad Men. The Ad Revolution Is Here",
       "https://www.wsj.com/business/media/advertising-revolution-artificial-intelligence-data-mad-men-omnicom-interpublic-3c0c056b"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 10:01:18",
+      "https://news.ycombinator.com/item?id=42429600"
+    ],
+    [
+      "The long (after)life of some of our old fileserver hardware",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "3D-Printed Dune Chess Set",
       "https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 13:17:34",
-      "https://news.ycombinator.com/item?id=42423253"
-    ],
-    [
-      "Ruby Video – On a mission to index all Ruby conferences",
-      "https://www.rubyvideo.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 09:41:54",
-      "https://news.ycombinator.com/item?id=42422548"
-    ],
-    [
-      "Now We're All Forked",
-      "https://appdecentral.com/2024/12/13/now-we-are-all-forked/"
     ]
   ],
   [
