@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-12-17, 04:51:26](https://news.ycombinator.com/item?id=42438431) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement for Australian users impacted by Cambridge Analytica incident](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
@@ -7,7 +8,6 @@
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always go to the funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-* [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 * [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-16, 17:04:14](https://news.ycombinator.com/item?id=42432914) - [Veo 2: Our video generation model](https://deepmind.google/technologies/veo/veo-2/)
 * [2024-12-16, 16:58:57](https://news.ycombinator.com/item?id=42432867) - [What did Ada Lovelace's program actually do? (2018)](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
