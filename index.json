@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 21:29:52",
+      "https://news.ycombinator.com/item?id=42445508"
+    ],
+    [
+      "Includeable minimal operating system for C++",
+      "https://www.includeos.org/"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 20:56:01",
       "https://news.ycombinator.com/item?id=42445239"
     ],
@@ -27,16 +37,6 @@
     [
       "CRDTs and Collaborative Playground",
       "https://www.cerbos.dev/blog/crdts-and-collaborative-playground"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 20:13:58",
-      "https://news.ycombinator.com/item?id=42444830"
-    ],
-    [
-      "The enduring power of kitsch",
-      "https://www.bbc.com/news/magazine-30439633"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-12-14, 18:42:58",
+      "https://news.ycombinator.com/item?id=42418675"
+    ],
+    [
+      "Surfer: Open-Source Personal Data Warehouse",
+      "https://github.com/Surfer-Org/Protocol"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 05:06:19",
       "https://news.ycombinator.com/item?id=42414817"
     ],
@@ -287,16 +297,6 @@
     [
       "Voxon: Real time interactive volumetric holograms",
       "https://www.voxon.co"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 13:59:25",
-      "https://news.ycombinator.com/item?id=42408457"
-    ],
-    [
-      "Demand for Starlink in Zimbabwe is overwhelming capacity",
-      "https://restofworld.org/2024/starlink-in-zimbabwe-sold-out/"
     ]
   ]
 ]
