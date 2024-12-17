@@ -76,5 +76,6 @@
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Sequence to sequence learning with neural networks: what a decade [video]](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
 * [2024-12-14, 00:49:17](https://news.ycombinator.com/item?id=42413677) - [Ilya Sutskever NeurIPS talk [video]](https://www.youtube.com/watch?v=1yvBqasHLZs)
 * [2024-12-14, 00:44:55](https://news.ycombinator.com/item?id=42413656) - [Coercing a Magic MIFARE credential into being an iPhone-compatible NFC tag](https://ewpratten.com/blog/iphone-mifare-magic)
+* [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 * [2024-12-14, 00:18:17](https://news.ycombinator.com/item?id=42413539) - [Microsoft Confirms Password Deletion for 1B Users](https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/)
 * [2024-12-14, 00:00:28](https://news.ycombinator.com/item?id=42413464) - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)

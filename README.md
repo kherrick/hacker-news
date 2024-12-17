@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-17, 18:50:19](https://news.ycombinator.com/item?id=42444088) - [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
+* [2024-12-17, 19:24:23](https://news.ycombinator.com/item?id=42444363) - [Danish diabetes medicine increases risk of debilitating eye condition](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
 * [2024-12-17, 18:30:23](https://news.ycombinator.com/item?id=42443870) - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
 * [2024-12-17, 18:09:06](https://news.ycombinator.com/item?id=42443634) - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
-* [2024-12-17, 17:43:05](https://news.ycombinator.com/item?id=42443406) - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 17:00:54](https://news.ycombinator.com/item?id=42443022) - [Show HN: Adventures in OCR](https://blog.medusis.com/38_Adventures+in+OCR.html)
 * [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
@@ -26,6 +25,7 @@
 * [2024-12-16, 10:01:18](https://news.ycombinator.com/item?id=42429600) - [The long (after)life of some of our old fileserver hardware](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse)
 * [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
+* [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 * [2024-12-14, 00:18:17](https://news.ycombinator.com/item?id=42413539) - [Microsoft Confirms Password Deletion for 1B Users](https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/)
 * [2024-12-13, 23:16:27](https://news.ycombinator.com/item?id=42413218) - [Research of RAM data remanence times](https://blog.3mdeb.com/2024/2024-12-13-ram-data-decay-research/)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
