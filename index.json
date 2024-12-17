@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 06:43:51",
+      "https://news.ycombinator.com/item?id=42438918"
+    ],
+    [
+      "Multilspy: Building a common LSP client handtuned for all Language servers",
+      "https://github.com/microsoft/multilspy"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 04:56:39",
       "https://news.ycombinator.com/item?id=42438449"
     ],
@@ -67,16 +77,6 @@
     [
       "Go Protobuf: The New Opaque API",
       "https://go.dev/blog/protobuf-opaque"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 17:34:37",
-      "https://news.ycombinator.com/item?id=42433205"
-    ],
-    [
-      "Our muscles will atrophy as we climb the Kardashev Scale",
-      "https://solmaz.io/our-muscles-will-atrophy"
     ]
   ],
   [
