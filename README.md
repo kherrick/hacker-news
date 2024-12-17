@@ -3,7 +3,7 @@
 * [2024-12-17, 09:06:58](https://news.ycombinator.com/item?id=42439689) - [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
-* [2024-12-17, 04:51:26](https://news.ycombinator.com/item?id=42438431) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
+* [2024-12-17, 00:10:22](https://news.ycombinator.com/item?id=42436962) - [Kevin Langdon's 'Omni' IQ test](http://www.lumifont.co.uk/omnitest.php)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always go to the funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
