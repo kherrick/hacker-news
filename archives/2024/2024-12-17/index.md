@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 16:09:46](https://news.ycombinator.com/item?id=42442521) - [New FCC chair wants to revoke broadcast licenses; First Amendment might stop him](https://arstechnica.com/tech-policy/2024/12/trumps-fcc-chair-can-hassle-the-living-daylights-out-of-news-broadcasters/)
 * [2024-12-17, 15:51:38](https://news.ycombinator.com/item?id=42442331) - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
 * [2024-12-17, 15:46:39](https://news.ycombinator.com/item?id=42442298) - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
 * [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 16:09:46](https://news.ycombinator.com/item?id=42442521) - [New FCC chair wants to revoke broadcast licenses; First Amendment might stop him](https://arstechnica.com/tech-policy/2024/12/trumps-fcc-chair-can-hassle-the-living-daylights-out-of-news-broadcasters/)
 * [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
@@ -10,7 +11,6 @@
 * [2024-12-17, 09:49:17](https://news.ycombinator.com/item?id=42439921) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
-* [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-12-17, 03:52:26](https://news.ycombinator.com/item?id=42438175) - [MIT study explains why laws are written in an incomprehensible style](https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always go to the funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
