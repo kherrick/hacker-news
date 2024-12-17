@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 18:09:06](https://news.ycombinator.com/item?id=42443634) - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
 * [2024-12-17, 17:43:05](https://news.ycombinator.com/item?id=42443406) - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
+* [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
 * [2024-12-17, 16:09:46](https://news.ycombinator.com/item?id=42442521) - [New FCC chair wants to revoke broadcast licenses; First Amendment might stop him](https://arstechnica.com/tech-policy/2024/12/trumps-fcc-chair-can-hassle-the-living-daylights-out-of-news-broadcasters/)
 * [2024-12-17, 15:51:38](https://news.ycombinator.com/item?id=42442331) - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
 * [2024-12-17, 15:46:39](https://news.ycombinator.com/item?id=42442298) - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
