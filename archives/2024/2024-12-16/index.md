@@ -78,5 +78,6 @@
 * [2024-12-16, 03:07:28](https://news.ycombinator.com/item?id=42427677) - [Eating Spaghetti by the Fistful Was Once a Neapolitan Street Spectacle](https://www.atlasobscura.com/articles/spaghetti-eaten-by-hand-naples)
 * [2024-12-16, 02:15:05](https://news.ycombinator.com/item?id=42427428) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-16, 01:59:26](https://news.ycombinator.com/item?id=42427358) - [The next time Wikipedia asks for a donation, ignore it](https://unherd.com/newsroom/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
+* [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-16, 01:08:33](https://news.ycombinator.com/item?id=42427132) - [US lawmakers tell Apple, Google to be ready to remove TikTok from stores Jan. 19](https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/)
 * [2024-12-16, 00:55:53](https://news.ycombinator.com/item?id=42427086) - [Scores for Adults Are Dropping on Tests of Basic Skills](https://nataliewexler.substack.com/p/scores-for-adults-are-dropping-on)
