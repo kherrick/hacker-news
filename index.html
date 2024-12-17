@@ -141,13 +141,153 @@
             <h4>
               <span>2024-12-17 @ 13:53:42</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42441333"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42441258">
+          <h3>
+            <a class="item" href="https://github.com/langfuse/langfuse"
+              >Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to
+              Improve LLM Apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-17 @ 13:43:29</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42441258"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.youtube.com/watch?v=2E8iTvGo9Hs"
+                >https://www.youtube.com/watch?v=2E8iTvGo9Hs</a
+              >
+              <p>
+                With Langfuse, you can instrument your app and start ingesting
+                traces, thereby tracking LLM calls and other relevant logic in
+                your app such as retrieval, embedding, or agent actions.
+                Langfuse then helps to analyze traces and use features such as
+                evaluations or prompt management to make improvements to your
+                app.
+              </p>
+              <p>
+                You can sign up to try Langfuse Cloud (<a
+                  href="https://cloud.langfuse.com/"
+                  >https://cloud.langfuse.com/</a
+                >
+                – we have a generous free tier) or self-host Langfuse (<a
+                  href="https://langfuse.com/self-hosting"
+                  >https://langfuse.com/self-hosting</a
+                >) within a couple of minutes.
+              </p>
+              <p>
+                In the 15 months since our “Show HN” (<a
+                  href="https://news.ycombinator.com/item?id=37310070"
+                  >https://news.ycombinator.com/item?id=37310070</a
+                >), thousands of teams adopted the project (including teams like
+                KhanAcademy, Twilio, and Samsara) and we hit all of the scaling
+                limits that we anticipated in the original Show HN thread. On
+                our v1/v2 setup, we frequently exhausted IOPS on Postgres and
+                had our Node.js container grind to a halt during tokenizations.
+                Since then, we migrated our Cloud infrastructure from
+                Vercel/Supabase to Porter and then to AWS &amp; Clickhouse. Last
+                week, we put the finishing touches on the Langfuse v3.0.0
+                release (<a
+                  href="https://github.com/langfuse/langfuse/releases/tag/v3.0.0"
+                  >https://github.com/langfuse/langfuse/releases/tag/v3.0.0</a
+                >) that unlocks major scalability improvements we have made over
+                the past half year and are happy to share with the OSS ecosystem
+                today.
+              </p>
+              <p>
+                Langfuse v3 addresses three challenges we encountered as an LLM
+                observability platform: a) handling high ingestion throughput
+                with large events (long strings, multimodal images/audio/video),
+                b) providing fast analytical, table, and single-item reads
+                across the product, and c) serving prompts quickly and reliably
+                in the critical path of user’s applications. Langfuse is used by
+                thousands of active self-hosting deployments, so at every point
+                we needed to prioritize stability, fully automated
+                migrations/upgrades, and use of infrastructure components that
+                self-hosters can deploy freely on any cloud vendor.
+              </p>
+              <p>
+                The v3 release adds powerful infrastructure with a Clickhouse
+                database next to Postgres, blob storage for events and
+                introduces a worker as well as queues and caches (Redis) for
+                data ingestion.
+              </p>
+              <p>
+                The Langfuse SDKs were originally written to send updates to a
+                single trace to our backend. The backend then upserts tracing
+                data in Postgres. Dealing with these updates to guarantee
+                backwards compatibility with older SDK versions was a challenge.
+                Our ingestion pipeline writes all events into S3 and sends a
+                reference to the file via Redis to our worker container. From
+                there, we read all events with the same id (including all
+                previously ingested ones) and merge them into a final event. We
+                insert the new row into ClickHouse which automatically replaces
+                the existing data for the same ID. Re-merging all event updates
+                enables us to keep a high-throughput pipeline by converting
+                updates into new insert-only records.
+              </p>
+              <p>
+                We ran many iterations to optimize our sorting keys in
+                ClickHouse, use skip indexes efficiently, and rewrote almost all
+                of our queries and API endpoints to make optimal use of the
+                schema. Using a specialized, analytical database required a more
+                database-centric application design than a swiss-army-knife
+                database like Postgres.
+              </p>
+              <p>
+                The new infrastructure delivers dramatic performance gains:
+                dashboards now respond within 400ms (95th percentile) instead of
+                timing out on large projects and lookback windows, and tables
+                load up to 90% faster - displaying data within 800ms even for
+                the largest projects.
+              </p>
+              <p>
+                Finally, to serve prompts from prompt management with
+                low-latency and high availability, we use caches heavily and
+                also decoupled our infrastructure. For sensitive paths, we use
+                dedicated deployments to avoid “noisy neighbors” within the same
+                server. We also improved client-side caching in our SDKs. This
+                enhancement allows them to prefetch prompts and revalidate them
+                in the background, resulting in zero latency when retrieving a
+                prompt at runtime.
+              </p>
+              <p>
+                If you have any questions or feedback, please join us in this HN
+                thread, or in future on our Discord and GitHub Discussions.
+                While Langfuse v3 is scalable, we tried hard to make it easy to
+                get started with Langfuse and self-host it in your own
+                infrastructure (<a href="https://langfuse.com/self-hosting"
+                  >https://langfuse.com/self-hosting</a
+                >).
+              </p>
+              <p>
+                PS: Here (<a
+                  href="https://langfuse.com/blog/2024-12-langfuse-v3-infrastructure-evolution"
+                  >https://langfuse.com/blog/2024-12-langfuse-v3-infrastructure...</a
+                >) is a more in-depth blog post on how we built Langfuse V3.
+              </p>
+              <p>
+                PPS: if you find these problems exciting, we are hiring (<a
+                  href="https://langfuse.com/join-us"
+                  >https://langfuse.com/join-us</a
+                >) in Berlin!
+              </p>
+            </div>
           </section>
         </section>
         <section id="42440767">
@@ -160,11 +300,11 @@
             <h4>
               <span>2024-12-17 @ 12:18:05</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42440767"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -199,7 +339,7 @@
             <h4>
               <span>2024-12-17 @ 10:06:22</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42440016"
                   >Comments</a
@@ -218,11 +358,11 @@
             <h4>
               <span>2024-12-17 @ 09:49:17</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42439921"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -260,7 +400,7 @@
             <h4>
               <span>2024-12-17 @ 06:10:26</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438767"
                   >Comments</a
@@ -281,7 +421,7 @@
             <h4>
               <span>2024-12-17 @ 04:56:39</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438449"
                   >Comments</a
@@ -303,11 +443,11 @@
             <h4>
               <span>2024-12-17 @ 03:52:26</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42438175"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -322,11 +462,11 @@
             <h4>
               <span>2024-12-16 @ 22:57:24</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42436440"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -343,7 +483,7 @@
             <h4>
               <span>2024-12-16 @ 22:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42435972"
                   >Comments</a
@@ -362,7 +502,7 @@
             <h4>
               <span>2024-12-16 @ 20:32:34</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42435099"
                   >Comments</a
@@ -385,7 +525,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42434947"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -401,11 +541,11 @@
             <h4>
               <span>2024-12-16 @ 17:18:08</span
               ><span class="points-container"
-                >Points: <span class="points">671</span></span
+                >Points: <span class="points">675</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42433044"
                   >Comments</a
-                ><span class="descendants">: 428</span></span
+                ><span class="descendants">: 431</span></span
               >
             </h4>
             <div class="text">
@@ -468,7 +608,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432914"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 271</span></span
               >
             </h4>
           </section>
@@ -489,7 +629,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432867"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -504,11 +644,11 @@
             <h4>
               <span>2024-12-16 @ 16:46:49</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432730"
                   >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -538,33 +678,11 @@
             <h4>
               <span>2024-12-16 @ 14:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42431186"
                   >Comments</a
                 ><span class="descendants">: 85</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42429606">
-          <h3>
-            <a
-              class="item"
-              href="https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb"
-              >Popeye and Tintin enter the public domain in 2025 along with
-              Faulkner, Hemingway</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-16 @ 10:02:11</span
-              ><span class="points-container"
-                >Points: <span class="points">366</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42429606"
-                  >Comments</a
-                ><span class="descendants">: 174</span></span
               >
             </h4>
           </section>
@@ -585,7 +703,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42428162"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -602,11 +720,11 @@
             <h4>
               <span>2024-12-15 @ 18:11:21</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42424904"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -621,11 +739,11 @@
             <h4>
               <span>2024-12-15 @ 13:17:34</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">248</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42423253"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -640,7 +758,7 @@
             <h4>
               <span>2024-12-15 @ 10:29:22</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42422703"
                   >Comments</a
@@ -661,7 +779,7 @@
             <h4>
               <span>2024-12-15 @ 09:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42422548"
                   >Comments</a
@@ -682,7 +800,7 @@
             <h4>
               <span>2024-12-15 @ 04:06:43</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42421387"
                   >Comments</a
@@ -712,23 +830,23 @@
             </h4>
           </section>
         </section>
-        <section id="42413539">
+        <section id="42412206">
           <h3>
             <a
               class="item"
-              href="https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/"
-              >Microsoft Confirms Password Deletion for 1B Users</a
+              href="https://acoup.blog/2024/12/13/collections-nitpicking-gladiator-ii-part-ii/"
+              >Nitpicking Gladiator II, Part II</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-12-14 @ 00:18:17</span
+              <span>2024-12-13 @ 20:47:26</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42413539"
+                ><a href="https://news.ycombinator.com/item?id=42412206"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -745,11 +863,11 @@
             <h4>
               <span>2024-12-13 @ 19:14:20</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42411409"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -767,11 +885,11 @@
             <h4>
               <span>2024-12-13 @ 13:47:26</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42408361"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
