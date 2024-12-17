@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 18:50:19](https://news.ycombinator.com/item?id=42444088) - [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
+* [2024-12-17, 18:30:23](https://news.ycombinator.com/item?id=42443870) - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
 * [2024-12-17, 18:09:06](https://news.ycombinator.com/item?id=42443634) - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
 * [2024-12-17, 17:43:05](https://news.ycombinator.com/item?id=42443406) - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
@@ -22,9 +24,7 @@
 * [2024-12-16, 16:58:57](https://news.ycombinator.com/item?id=42432867) - [What did Ada Lovelace's program actually do? (2018)](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
 * [2024-12-16, 16:46:49](https://news.ycombinator.com/item?id=42432730) - [In Search of a Faster SQLite](https://avi.im/blag/2024/faster-sqlite/)
 * [2024-12-16, 10:01:18](https://news.ycombinator.com/item?id=42429600) - [The long (after)life of some of our old fileserver hardware](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse)
-* [2024-12-16, 05:12:38](https://news.ycombinator.com/item?id=42428162) - [Charles de Gaulle manuscripts discovered in a safe](https://www.smithsonianmag.com/smart-news/a-forgotten-collection-of-charles-de-gaulles-personal-letters-speeches-and-manuscripts-has-been-discovered-in-a-safe-180985666/)
 * [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
-* [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 00:18:17](https://news.ycombinator.com/item?id=42413539) - [Microsoft Confirms Password Deletion for 1B Users](https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/)
 * [2024-12-13, 23:16:27](https://news.ycombinator.com/item?id=42413218) - [Research of RAM data remanence times](https://blog.3mdeb.com/2024/2024-12-13-ram-data-decay-research/)
