@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-17, 10:06:22",
+      "https://news.ycombinator.com/item?id=42440016"
+    ],
+    [
+      "Natural Number Game: build the basic theory of the natural numbers from scratch",
+      "https://adam.math.hhu.de/#/g/leanprover-community/NNG4"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 06:52:10",
       "https://news.ycombinator.com/item?id=42438966"
     ],
@@ -37,6 +47,16 @@
     [
       "Multilspy: Building a common LSP client handtuned for all Language servers",
       "https://github.com/microsoft/multilspy"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 06:10:26",
+      "https://news.ycombinator.com/item?id=42438767"
+    ],
+    [
+      "How I used linear algebra to build an interactive diagramming editor",
+      "https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-12-16, 17:34:37",
-      "https://news.ycombinator.com/item?id=42433205"
-    ],
-    [
-      "Our muscles will atrophy as we climb the Kardashev Scale",
-      "https://solmaz.io/our-muscles-will-atrophy"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 17:18:08",
       "https://news.ycombinator.com/item?id=42433044"
     ],
@@ -157,16 +167,6 @@
     [
       "Xiaomi Home Integration for Home Assistant",
       "https://github.com/XiaoMi/ha_xiaomi_home"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 15:37:07",
-      "https://news.ycombinator.com/item?id=42432004"
-    ],
-    [
-      "Using Guile for Emacs",
-      "https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/"
     ]
   ],
   [
