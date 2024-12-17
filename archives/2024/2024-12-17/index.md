@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:58:22](https://news.ycombinator.com/item?id=42440998) - [Ever wished you could time-travel just to say 'I told u so'?](https://www.tolduvault.com/)
