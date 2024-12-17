@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
@@ -22,7 +23,6 @@
 * [2024-12-16, 05:12:38](https://news.ycombinator.com/item?id=42428162) - [Charles de Gaulle manuscripts discovered in a safe](https://www.smithsonianmag.com/smart-news/a-forgotten-collection-of-charles-de-gaulles-personal-letters-speeches-and-manuscripts-has-been-discovered-in-a-safe-180985666/)
 * [2024-12-16, 02:15:05](https://news.ycombinator.com/item?id=42427428) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
-* [2024-12-15, 14:36:08](https://news.ycombinator.com/item?id=42423602) - [Grug’s Guide to Sound](https://petrustheron.com/posts/2024-12-12-grug-guide-to-sound.html)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-15, 10:29:22](https://news.ycombinator.com/item?id=42422703) - [The tale of two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
 * [2024-12-15, 09:41:54](https://news.ycombinator.com/item?id=42422548) - [Now We're All Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
