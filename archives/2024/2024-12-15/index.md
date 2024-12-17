@@ -39,6 +39,7 @@
 * [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
+* [2024-12-15, 10:29:22](https://news.ycombinator.com/item?id=42422703) - [Two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
 * [2024-12-15, 09:54:22](https://news.ycombinator.com/item?id=42422594) - [Show HN: Shop Clothes with Models That Match Your Body Shape](https://www.thebodymatch.com)
 * [2024-12-15, 09:53:27](https://news.ycombinator.com/item?id=42422592) - [How Cultivated Meat Carved Out Its Plate in History](https://www.synbiobeta.com/read/how-cultivated-meat-carved-out-its-plate-in-history)
 * [2024-12-15, 08:04:23](https://news.ycombinator.com/item?id=42422229) - [UnitedHealth Is Strategically Limiting Access to Treatment for Kids with Autism](https://www.propublica.org/article/unitedhealthcare-insurance-autism-denials-applied-behavior-analysis-medicaid)

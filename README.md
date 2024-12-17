@@ -2,7 +2,6 @@
 
 * [2024-12-17, 03:17:05](https://news.ycombinator.com/item?id=42438009) - [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
-* [2024-12-17, 01:20:23](https://news.ycombinator.com/item?id=42437400) - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
@@ -24,6 +23,7 @@
 * [2024-12-16, 02:15:05](https://news.ycombinator.com/item?id=42427428) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-15, 19:07:59](https://news.ycombinator.com/item?id=42425268) - [The Red Beads Experiment](https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
+* [2024-12-15, 10:29:22](https://news.ycombinator.com/item?id=42422703) - [Two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
 * [2024-12-15, 06:01:43](https://news.ycombinator.com/item?id=42421824) - [Quick takes on the recent OpenAI public incident write-up](https://surfingcomplexity.blog/2024/12/14/quick-takes-on-the-recent-openai-public-incident-write-up/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 13:39:15](https://news.ycombinator.com/item?id=42417056) - [U2's Larry Mullen Jr: my dyscalculia makes 'counting like climbing Everest'](https://www.thetimes.com/culture/music/article/larry-mullen-jr-u2-dyscalculia-mxlwq5swz)
