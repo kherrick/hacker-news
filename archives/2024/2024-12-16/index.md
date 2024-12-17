@@ -45,6 +45,7 @@
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 * [2024-12-16, 12:11:36](https://news.ycombinator.com/item?id=42430317) - [Will Even the Most Advanced Subs Have Nowhere to Hide?](https://spectrum.ieee.org/submarine-stealth)
 * [2024-12-16, 12:11:18](https://news.ycombinator.com/item?id=42430315) - [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
+* [2024-12-16, 12:07:52](https://news.ycombinator.com/item?id=42430301) - [Sorry, Mad Men. The Ad Revolution Is Here](https://www.wsj.com/business/media/advertising-revolution-artificial-intelligence-data-mad-men-omnicom-interpublic-3c0c056b)
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
 * [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
