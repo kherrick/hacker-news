@@ -2,7 +2,6 @@
 
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
 * [2024-12-17, 01:20:23](https://news.ycombinator.com/item?id=42437400) - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
-* [2024-12-17, 00:10:22](https://news.ycombinator.com/item?id=42436962) - [Kevin Langdon's 'Omni Magazine' unsupervised IQ test (1979)](http://www.lumifont.co.uk/omnitest.php)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
@@ -16,6 +15,7 @@
 * [2024-12-16, 15:37:07](https://news.ycombinator.com/item?id=42432004) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
+* [2024-12-16, 13:35:55](https://news.ycombinator.com/item?id=42430801) - ['They must be somewhere': appeal for British oak to recreate Sutton Hoo ship](https://www.theguardian.com/culture/2024/oct/04/appeal-british-oak-recreate-sutton-hoo-burial-ship)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well? (2022)](https://danluu.com/nothing-works/)
 * [2024-12-16, 12:07:18](https://news.ycombinator.com/item?id=42430296) - [Show HN: NCompass Technologies – yet another AI Inference API, but hear us out](https://www.ncompass.tech/about)
 * [2024-12-16, 10:02:11](https://news.ycombinator.com/item?id=42429606) - [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)

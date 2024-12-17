@@ -37,6 +37,7 @@
 * [2024-12-16, 14:05:20](https://news.ycombinator.com/item?id=42431046) - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
 * [2024-12-16, 13:43:38](https://news.ycombinator.com/item?id=42430859) - [Buying a TV in 2025? Expect lower prices, more ads, and an OS war](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
 * [2024-12-16, 13:36:29](https://news.ycombinator.com/item?id=42430804) - [Sci-Fi Inspired Antenna Adjusts to Signal Needs](https://spectrum.ieee.org/smart-materials-morphing-antenna)
+* [2024-12-16, 13:35:55](https://news.ycombinator.com/item?id=42430801) - ['They must be somewhere': appeal for British oak to recreate Sutton Hoo ship](https://www.theguardian.com/culture/2024/oct/04/appeal-british-oak-recreate-sutton-hoo-burial-ship)
 * [2024-12-16, 13:23:21](https://news.ycombinator.com/item?id=42430723) - [Playing video games boosts IQ in children](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-says-study)
 * [2024-12-16, 12:42:03](https://news.ycombinator.com/item?id=42430482) - [Where Is HTTP/3?](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
