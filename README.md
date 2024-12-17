@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+* [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-12-17, 00:10:22](https://news.ycombinator.com/item?id=42436962) - [Kevin Langdon's 'Omni' IQ test](http://www.lumifont.co.uk/omnitest.php)
@@ -14,7 +16,6 @@
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi Home Integration for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
 * [2024-12-16, 15:37:07](https://news.ycombinator.com/item?id=42432004) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
-* [2024-12-16, 13:35:55](https://news.ycombinator.com/item?id=42430801) - [Appeal for British oak to recreate Sutton Hoo ship](https://www.theguardian.com/culture/2024/oct/04/appeal-british-oak-recreate-sutton-hoo-burial-ship)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well? (2022)](https://danluu.com/nothing-works/)
 * [2024-12-16, 10:02:11](https://news.ycombinator.com/item?id=42429606) - [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
 * [2024-12-16, 08:23:23](https://news.ycombinator.com/item?id=42429045) - [UK's Online Safety Act comes into force](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
@@ -26,7 +27,6 @@
 * [2024-12-15, 09:41:54](https://news.ycombinator.com/item?id=42422548) - [Now We're All Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 * [2024-12-15, 06:01:43](https://news.ycombinator.com/item?id=42421824) - [Quick takes on the recent OpenAI public incident write-up](https://surfingcomplexity.blog/2024/12/14/quick-takes-on-the-recent-openai-public-incident-write-up/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
-* [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 03:26:49](https://news.ycombinator.com/item?id=42414448) - [Molecular machines that loop chromosomes also twist DNA](https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)

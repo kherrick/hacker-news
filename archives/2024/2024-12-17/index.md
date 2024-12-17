@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+* [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 09:06:58](https://news.ycombinator.com/item?id=42439689) - [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
