@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 21:29:52](https://news.ycombinator.com/item?id=42445508) - [Includeable minimal operating system for C++](https://www.includeos.org/)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
 * [2024-12-17, 20:36:07](https://news.ycombinator.com/item?id=42445037) - [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
 * [2024-12-17, 20:16:38](https://news.ycombinator.com/item?id=42444856) - [CRDTs and Collaborative Playground](https://www.cerbos.dev/blog/crdts-and-collaborative-playground)
-* [2024-12-17, 20:13:58](https://news.ycombinator.com/item?id=42444830) - [The enduring power of kitsch](https://www.bbc.com/news/magazine-30439633)
 * [2024-12-17, 20:12:43](https://news.ycombinator.com/item?id=42444820) - [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
 * [2024-12-17, 18:50:07](https://news.ycombinator.com/item?id=42444083) - [Webhook Tester/Debugger](https://www.hooklistener.com/)
 * [2024-12-17, 18:40:00](https://news.ycombinator.com/item?id=42443987) - [A pilot crashed a full passenger jet into the bay, didn't lose his job (2021)](https://www.sfgate.com/sfhistory/article/san-francisco-historic-plane-crash-asoh-defense-16319360.php)
@@ -26,10 +26,10 @@
 * [2024-12-16, 10:01:18](https://news.ycombinator.com/item?id=42429600) - [The long (after)life of some of our old fileserver hardware](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse)
 * [2024-12-15, 22:26:22](https://news.ycombinator.com/item?id=42426412) - [Civil war buffs drill for the 'hardest test in history'](https://www.wsj.com/lifestyle/travel/civil-war-history-gettysburg-lincoln-tour-guide-2055afe2)
 * [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
+* [2024-12-14, 18:42:58](https://news.ycombinator.com/item?id=42418675) - [Surfer: Open-Source Personal Data Warehouse](https://github.com/Surfer-Org/Protocol)
 * [2024-12-14, 05:06:19](https://news.ycombinator.com/item?id=42414817) - [A quick look at OS/2's builtin virtualization](https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html)
 * [2024-12-14, 01:05:53](https://news.ycombinator.com/item?id=42413765) - [Attention as the management of electromagnetic field lines](https://qualiacomputing.com/2024/11/29/on-attention-as-the-management-of-electromagnetic-field-lines/)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
-* [2024-12-13, 13:59:25](https://news.ycombinator.com/item?id=42408457) - [Demand for Starlink in Zimbabwe is overwhelming capacity](https://restofworld.org/2024/starlink-in-zimbabwe-sold-out/)
 
 ## [Archives](archives/index.md)
 
