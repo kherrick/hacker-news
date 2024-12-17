@@ -2,7 +2,6 @@
 
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-12-17, 04:51:26](https://news.ycombinator.com/item?id=42438431) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
-* [2024-12-17, 03:52:26](https://news.ycombinator.com/item?id=42438175) - [MIT study explains why laws are written in an incomprehensible style](https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819)
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement for Australian users impacted by Cambridge Analytica incident](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
 * [2024-12-17, 00:10:22](https://news.ycombinator.com/item?id=42436962) - [Kevin Langdon's 'Omni' IQ test](http://www.lumifont.co.uk/omnitest.php)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
@@ -28,6 +27,7 @@
 * [2024-12-15, 06:01:43](https://news.ycombinator.com/item?id=42421824) - [Quick takes on the recent OpenAI public incident write-up](https://surfingcomplexity.blog/2024/12/14/quick-takes-on-the-recent-openai-public-incident-write-up/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 03:26:49](https://news.ycombinator.com/item?id=42414448) - [Molecular machines that loop chromosomes also twist DNA](https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html)
+* [2024-12-14, 00:18:17](https://news.ycombinator.com/item?id=42413539) - [Microsoft Confirms Password Deletion for 1B Users](https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 
