@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-17, 20:16:38",
-      "https://news.ycombinator.com/item?id=42444856"
+      "2024-12-17, 20:56:01",
+      "https://news.ycombinator.com/item?id=42445239"
     ],
     [
-      "CRDTs and Collaborative Playground",
-      "https://www.cerbos.dev/blog/crdts-and-collaborative-playground"
+      "FastVideo: a lightweight framework for accelerating large video diffusion models",
+      "https://github.com/hao-ai-lab/FastVideo"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 20:36:07",
+      "https://news.ycombinator.com/item?id=42445037"
+    ],
+    [
+      "FTC bans hidden junk fees in hotel, event ticket prices",
+      "https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Webhook Tester/Debugger",
       "https://www.hooklistener.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 18:40:00",
+      "https://news.ycombinator.com/item?id=42443987"
+    ],
+    [
+      "A pilot crashed a full passenger jet into the bay, didn't lose his job (2021)",
+      "https://www.sfgate.com/sfhistory/article/san-francisco-historic-plane-crash-asoh-defense-16319360.php"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2024-12-17, 10:38:07",
+      "https://news.ycombinator.com/item?id=42440185"
+    ],
+    [
+      "SpiceNice – An open source spice database",
+      "https://tderflinger.com/en/spicenice-open-source-culinary-spice-database"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 10:06:22",
       "https://news.ycombinator.com/item?id=42440016"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-12-16, 11:28:52",
-      "https://news.ycombinator.com/item?id=42430109"
-    ],
-    [
-      "Making unsafe Rust a little safer",
-      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 11:15:32",
       "https://news.ycombinator.com/item?id=42430024"
     ],
@@ -227,26 +247,6 @@
     [
       "Civil war buffs drill for the 'hardest test in history'",
       "https://www.wsj.com/lifestyle/travel/civil-war-history-gettysburg-lincoln-tour-guide-2055afe2"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 18:11:21",
-      "https://news.ycombinator.com/item?id=42424904"
-    ],
-    [
-      "3D-Printed Dune Chess Set",
-      "https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 23:06:12",
-      "https://news.ycombinator.com/item?id=42420139"
-    ],
-    [
-      "Law enforcement takes down 'DDoS-for-Hire' sites in Operation PowerOFF",
-      "https://www.scworld.com/news/law-enforcement-takes-down-27-ddos-for-hire-sites-in-operation-poweroff"
     ]
   ],
   [
