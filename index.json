@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2024-12-17, 20:12:18",
-      "https://news.ycombinator.com/item?id=42444817"
-    ],
-    [
-      "In Defense of Y'All",
-      "https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 19:24:23",
-      "https://news.ycombinator.com/item?id=42444363"
-    ],
-    [
-      "Ozempic increases risk of debilitating eye condition: studies",
-      "https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 18:50:07",
       "https://news.ycombinator.com/item?id=42444083"
     ],
@@ -57,6 +37,16 @@
     [
       "Northern Ireland police unlawfully put reporters under surveillance",
       "https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 17:43:05",
+      "https://news.ycombinator.com/item?id=42443406"
+    ],
+    [
+      "The Headlight Brightness Wars",
+      "https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-12-17, 06:43:51",
-      "https://news.ycombinator.com/item?id=42438918"
-    ],
-    [
-      "Multilspy: Building a common LSP client handtuned for all Language servers",
-      "https://github.com/microsoft/multilspy"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 06:10:26",
       "https://news.ycombinator.com/item?id=42438767"
     ],
@@ -211,26 +191,6 @@
   ],
   [
     [
-      "2024-12-16, 17:18:08",
-      "https://news.ycombinator.com/item?id=42433044"
-    ],
-    [
-      "Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)",
-      "https://www.lfgss.com/conversations/401475/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 17:04:14",
-      "https://news.ycombinator.com/item?id=42432914"
-    ],
-    [
-      "Veo 2: Our video generation model",
-      "https://deepmind.google/technologies/veo/veo-2/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 10:01:18",
       "https://news.ycombinator.com/item?id=42429600"
     ],
@@ -241,12 +201,32 @@
   ],
   [
     [
+      "2024-12-15, 23:17:08",
+      "https://news.ycombinator.com/item?id=42426657"
+    ],
+    [
+      "Inside the university AI cheating crisis",
+      "https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 18:11:21",
       "https://news.ycombinator.com/item?id=42424904"
     ],
     [
       "3D-Printed Dune Chess Set",
       "https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 18:42:58",
+      "https://news.ycombinator.com/item?id=42418675"
+    ],
+    [
+      "Surfer: Open-Source Personal Data Warehouse",
+      "https://github.com/Surfer-Org/Protocol"
     ]
   ],
   [
@@ -267,6 +247,16 @@
     [
       "A quick look at OS/2's builtin virtualization",
       "https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 01:05:53",
+      "https://news.ycombinator.com/item?id=42413765"
+    ],
+    [
+      "Attention as the management of electromagnetic field lines",
+      "https://qualiacomputing.com/2024/11/29/on-attention-as-the-management-of-electromagnetic-field-lines/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "New LLM optimization technique slashes memory costs",
       "https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 13:59:25",
+      "https://news.ycombinator.com/item?id=42408457"
+    ],
+    [
+      "Demand for Starlink in Zimbabwe is overwhelming capacity",
+      "https://restofworld.org/2024/starlink-in-zimbabwe-sold-out/"
     ]
   ]
 ]
