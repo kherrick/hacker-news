@@ -15,6 +15,7 @@
 * [2024-12-15, 19:29:32](https://news.ycombinator.com/item?id=42425398) - [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
 * [2024-12-15, 19:21:36](https://news.ycombinator.com/item?id=42425348) - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
 * [2024-12-15, 19:20:19](https://news.ycombinator.com/item?id=42425339) - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
+* [2024-12-15, 19:07:59](https://news.ycombinator.com/item?id=42425268) - [The Red Beads Experiment](https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:29:16](https://news.ycombinator.com/item?id=42425022) - [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum Likelihood Estimation and Loss Functions](https://rish-01.github.io/blog/posts/ml_estimation/)
