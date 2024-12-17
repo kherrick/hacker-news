@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 15:51:38](https://news.ycombinator.com/item?id=42442331) - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
+* [2024-12-17, 15:46:39](https://news.ycombinator.com/item?id=42442298) - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
 * [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
