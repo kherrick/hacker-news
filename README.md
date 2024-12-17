@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-17, 01:20:23](https://news.ycombinator.com/item?id=42437400) - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
 * [2024-12-17, 00:10:22](https://news.ycombinator.com/item?id=42436962) - [Kevin Langdon's 'Omni Magazine' unsupervised IQ test (1979)](http://www.lumifont.co.uk/omnitest.php)
+* [2024-12-16, 23:15:16](https://news.ycombinator.com/item?id=42436570) - [The higher fertility of TSMC semiconductor workers](https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
-* [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always go to the funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-* [2024-12-16, 19:31:28](https://news.ycombinator.com/item?id=42434440) - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
-* [2024-12-16, 17:53:35](https://news.ycombinator.com/item?id=42433404) - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
 * [2024-12-16, 17:34:37](https://news.ycombinator.com/item?id=42433205) - [Our muscles will atrophy as we climb the Kardashev Scale](https://solmaz.io/our-muscles-will-atrophy)
 * [2024-12-16, 17:18:08](https://news.ycombinator.com/item?id=42433044) - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-16, 17:11:19](https://news.ycombinator.com/item?id=42432979) - [Backward-incompatible GRUB2 change causing BIOS setup bootloop](https://op-co.de/blog/posts/grub2_bios_bootloop/)
@@ -28,6 +27,7 @@
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
 * [2024-12-14, 13:39:15](https://news.ycombinator.com/item?id=42417056) - [U2's Larry Mullen Jr: my dyscalculia makes 'counting like climbing Everest'](https://www.thetimes.com/culture/music/article/larry-mullen-jr-u2-dyscalculia-mxlwq5swz)
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
+* [2024-12-14, 03:26:49](https://news.ycombinator.com/item?id=42414448) - [A new twist: The molecular machines that loop chromosomes also twist DNA](https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs up to 75%](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 
