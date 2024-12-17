@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-17, 15:51:38",
+      "https://news.ycombinator.com/item?id=42442331"
+    ],
+    [
+      "Celebrating a Decade of Discourse",
+      "https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 15:46:39",
+      "https://news.ycombinator.com/item?id=42442298"
+    ],
+    [
+      "Waymo – Avoiding a Falling Skateboarder",
+      "https://twitter.com/dmitri_dolgov/status/1868778679868047545"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 15:27:10",
       "https://news.ycombinator.com/item?id=42442107"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-12-16, 20:18:01",
-      "https://news.ycombinator.com/item?id=42434947"
-    ],
-    [
-      "Go Protobuf: The New Opaque API",
-      "https://go.dev/blog/protobuf-opaque"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 17:18:08",
       "https://news.ycombinator.com/item?id=42433044"
     ],
@@ -187,16 +197,6 @@
     [
       "In Search of a Faster SQLite",
       "https://avi.im/blag/2024/faster-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 15:52:47",
-      "https://news.ycombinator.com/item?id=42432151"
-    ],
-    [
-      "Xiaomi Home Integration for Home Assistant",
-      "https://github.com/XiaoMi/ha_xiaomi_home"
     ]
   ],
   [
