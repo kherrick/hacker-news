@@ -18,6 +18,7 @@
 * [2024-12-15, 19:07:59](https://news.ycombinator.com/item?id=42425268) - [The Red Beads Experiment](https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba)
 * [2024-12-15, 18:46:48](https://news.ycombinator.com/item?id=42425139) - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
 * [2024-12-15, 18:29:16](https://news.ycombinator.com/item?id=42425022) - [Infectious diseases in Victorian novels highlight public health fragility now](https://theconversation.com/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today-242273)
+* [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set by Rory Noble-Turner](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
 * [2024-12-15, 18:07:06](https://news.ycombinator.com/item?id=42424879) - [Maximum Likelihood Estimation and Loss Functions](https://rish-01.github.io/blog/posts/ml_estimation/)
 * [2024-12-15, 17:23:10](https://news.ycombinator.com/item?id=42424597) - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
 * [2024-12-15, 17:18:18](https://news.ycombinator.com/item?id=42424572) - [How can you represent inheritance in a database? (2010)](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database)
