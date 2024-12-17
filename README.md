@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-17, 15:51:38](https://news.ycombinator.com/item?id=42442331) - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
-* [2024-12-17, 15:46:39](https://news.ycombinator.com/item?id=42442298) - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
 * [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
+* [2024-12-17, 10:38:07](https://news.ycombinator.com/item?id=42440185) - [SpiceNice – An Open Source Spice Database](https://tderflinger.com/en/spicenice-open-source-culinary-spice-database)
 * [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 * [2024-12-17, 09:49:17](https://news.ycombinator.com/item?id=42439921) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
@@ -28,6 +27,7 @@
 * [2024-12-15, 09:41:54](https://news.ycombinator.com/item?id=42422548) - [Now We're All Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 * [2024-12-15, 04:06:43](https://news.ycombinator.com/item?id=42421387) - [Stranger Than Fiction: Lives of the Twentieth-Century Novel](https://thebaffler.com/latest/kicking-an-open-door-robbins)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
+* [2024-12-14, 00:18:17](https://news.ycombinator.com/item?id=42413539) - [Microsoft Confirms Password Deletion for 1B Users](https://www.forbes.com/sites/zakdoffman/2024/12/13/microsoft-confirms-password-deletion-for-1-billion-users-attacks-up-200/)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 
