@@ -12,6 +12,7 @@
 * [2024-12-13, 21:56:29](https://news.ycombinator.com/item?id=42412718) - [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 * [2024-12-13, 21:53:28](https://news.ycombinator.com/item?id=42412695) - [Implementing a simple object system from scratch in Ruby](https://metacircu1ar.github.io/2024/12/13/implementing-a-simple-object-system-from-scratch-in-ruby.html)
 * [2024-12-13, 21:07:08](https://news.ycombinator.com/item?id=42412360) - [New Meta FAIR Research and Models](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
+* [2024-12-13, 20:47:26](https://news.ycombinator.com/item?id=42412206) - [Nitpicking Gladiator II, Part II](https://acoup.blog/2024/12/13/collections-nitpicking-gladiator-ii-part-ii/)
 * [2024-12-13, 20:07:30](https://news.ycombinator.com/item?id=42411868) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 19:52:26](https://news.ycombinator.com/item?id=42411727) - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
 * [2024-12-13, 19:47:21](https://news.ycombinator.com/item?id=42411687) - [A journey of optimization of cloud-based geospatial data processing](https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/)
