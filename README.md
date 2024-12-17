@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-17, 12:58:22](https://news.ycombinator.com/item?id=42440998) - [Ever wished you could time-travel just to say 'I told u so'?](https://www.tolduvault.com/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
@@ -28,6 +27,7 @@
 * [2024-12-15, 10:29:22](https://news.ycombinator.com/item?id=42422703) - [The tale of two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
 * [2024-12-15, 09:41:54](https://news.ycombinator.com/item?id=42422548) - [Now We're All Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 * [2024-12-14, 14:30:06](https://news.ycombinator.com/item?id=42417357) - [Making a watch from scratch](https://old.reddit.com/r/watchmaking/comments/1gvdmyo/i_made_a_watch_from_scratch_link_to_the_build/)
+* [2024-12-14, 03:26:49](https://news.ycombinator.com/item?id=42414448) - [Molecular machines that loop chromosomes also twist DNA](https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html)
 * [2024-12-13, 19:14:20](https://news.ycombinator.com/item?id=42411409) - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 * [2024-12-13, 13:47:26](https://news.ycombinator.com/item?id=42408361) - [Mirror bacteria research poses significant risks, scientists warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
 
