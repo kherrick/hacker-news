@@ -57,6 +57,7 @@
 * [2024-12-16, 07:13:34](https://news.ycombinator.com/item?id=42428722) - [Frood, an Alpine Initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-16, 06:50:45](https://news.ycombinator.com/item?id=42428604) - [Sundar Pichai: \"Obviously Tesla Is the Leader in [Autonomous Vehicles]\"](https://twitter.com/herbertong/status/1868296027087995038)
 * [2024-12-16, 06:11:02](https://news.ycombinator.com/item?id=42428389) - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
+* [2024-12-16, 05:21:44](https://news.ycombinator.com/item?id=42428192) - [Technical Report on Mirror Bacteria: Feasibility and Risks](https://purl.stanford.edu/cv716pj4036)
 * [2024-12-16, 05:17:16](https://news.ycombinator.com/item?id=42428179) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-16, 05:15:09](https://news.ycombinator.com/item?id=42428171) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
 * [2024-12-16, 05:14:05](https://news.ycombinator.com/item?id=42428167) - [White House granted clemency to the 'kids-for-cash' judge](https://www.politico.com/news/2024/12/13/biden-clemency-judge-michael-conahan-000890)

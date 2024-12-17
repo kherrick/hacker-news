@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 09:06:58](https://news.ycombinator.com/item?id=42439689) - [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 04:56:39](https://news.ycombinator.com/item?id=42438449) - [Make your QEMU 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-12-17, 04:51:26](https://news.ycombinator.com/item?id=42438431) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
