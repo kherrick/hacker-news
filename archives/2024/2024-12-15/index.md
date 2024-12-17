@@ -28,6 +28,7 @@
 * [2024-12-15, 17:01:18](https://news.ycombinator.com/item?id=42424484) - [Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai)
 * [2024-12-15, 16:39:26](https://news.ycombinator.com/item?id=42424370) - [SVC16: Simplest Virtual Computer](https://github.com/JanNeuendorf/SVC16)
 * [2024-12-15, 15:41:27](https://news.ycombinator.com/item?id=42423988) - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
+* [2024-12-15, 15:22:20](https://news.ycombinator.com/item?id=42423880) - [Pay, Intrinsic and Extrinsic Motivation, Performance, and Creativity in Work (2014)](https://www.researchgate.net/publication/271722745_Pay_Intrinsic_Motivation_Extrinsic_Motivation_Performance_and_Creativity_in_the_Workplace_Revisiting_Long-Held_Beliefs)
 * [2024-12-15, 15:00:23](https://news.ycombinator.com/item?id=42423753) - [The Closely Guarded Secrets of Manhattan Doormen](https://www.wsj.com/lifestyle/the-closely-guarded-secrets-of-manhattan-doormen-49bf5236)
 * [2024-12-15, 14:59:46](https://news.ycombinator.com/item?id=42423742) - [Lost IBM OS/2 Warp 3 and 4 localizations: Looking for help finding and archiving](https://news.ycombinator.com/item?id=42423742)
 * [2024-12-15, 14:44:17](https://news.ycombinator.com/item?id=42423654) - [Confronting Risks of Mirror Life](https://www.science.org/doi/10.1126/science.ads9158)
