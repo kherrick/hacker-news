@@ -42,6 +42,7 @@
 * [2024-12-14, 12:10:24](https://news.ycombinator.com/item?id=42416556) - [Konwinski Prize](https://andykonwinski.com/2024/12/12/konwinski-prize.html)
 * [2024-12-14, 12:10:14](https://news.ycombinator.com/item?id=42416554) - [YouTube quietly made some of its web embeds worse, including ours](https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh)
 * [2024-12-14, 12:00:35](https://news.ycombinator.com/item?id=42416513) - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
+* [2024-12-14, 11:36:10](https://news.ycombinator.com/item?id=42416396) - [Datasaurus dozen – Different datasets with the same descriptive statistics](https://en.wikipedia.org/wiki/Datasaurus_dozen)
 * [2024-12-14, 11:28:39](https://news.ycombinator.com/item?id=42416364) - [Asynchronous Rust on Cortex-M Microcontrollers (2023)](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2024-12-14, 11:09:09](https://news.ycombinator.com/item?id=42416281) - [Hyperbola GNU/Linux-libre operating system](https://www.hyperbola.info/)
 * [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
