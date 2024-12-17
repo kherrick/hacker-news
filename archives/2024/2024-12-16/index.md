@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
 * [2024-12-16, 23:15:16](https://news.ycombinator.com/item?id=42436570) - [The higher fertility of TSMC semiconductor workers](https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor)
+* [2024-12-16, 23:13:14](https://news.ycombinator.com/item?id=42436556) - [Show HN: Atlas of Water Science via generative AI](https://wateratlas.webapp.csiro.au/)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:10:36](https://news.ycombinator.com/item?id=42436019) - [Legal fights over kei trucks in the U.S.](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always Go to the Funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)

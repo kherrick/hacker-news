@@ -17,7 +17,7 @@
 * [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
 * [2024-12-17, 02:42:06](https://news.ycombinator.com/item?id=42437828) - [Introduction to Wait-free Algorithms in C++ Programming [video]](https://www.youtube.com/watch?v=kPh8pod0-gk)
-* [2024-12-16, 22:10:36](https://news.ycombinator.com/item?id=42436019) - [Legal fights over kei trucks in the U.S.](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
+* [2024-12-16, 23:13:14](https://news.ycombinator.com/item?id=42436556) - [Show HN: Atlas of Water Science via generative AI](https://wateratlas.webapp.csiro.au/)
 * [2024-12-16, 20:32:34](https://news.ycombinator.com/item?id=42435099) - [Droste’s Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-16, 20:01:21](https://news.ycombinator.com/item?id=42434769) - [Network protocols for anyone who knows a programming language (2017)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2024-12-16, 17:34:05](https://news.ycombinator.com/item?id=42433199) - [SeleniumBase: Python APIs for web automation and bypassing bot-detection](https://github.com/seleniumbase/SeleniumBase)
