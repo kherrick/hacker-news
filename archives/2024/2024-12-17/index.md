@@ -6,6 +6,7 @@
 
 * [2024-12-17, 19:24:23](https://news.ycombinator.com/item?id=42444363) - [Danish diabetes medicine increases risk of debilitating eye condition](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
 * [2024-12-17, 18:50:19](https://news.ycombinator.com/item?id=42444088) - [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
+* [2024-12-17, 18:50:07](https://news.ycombinator.com/item?id=42444083) - [Webhook Tester/Debugger](https://www.hooklistener.com/)
 * [2024-12-17, 18:30:23](https://news.ycombinator.com/item?id=42443870) - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
 * [2024-12-17, 18:09:06](https://news.ycombinator.com/item?id=42443634) - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
 * [2024-12-17, 17:43:05](https://news.ycombinator.com/item?id=42443406) - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
