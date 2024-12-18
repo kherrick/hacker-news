@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-12-18, 01:35:49",
-      "https://news.ycombinator.com/item?id=42447332"
-    ],
-    [
-      "Show HN: An Open Source Equilizer Plugin",
-      "https://github.com/ashafq/a5eq.lv2"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 00:46:19",
       "https://news.ycombinator.com/item?id=42447071"
     ],
@@ -177,6 +167,16 @@
     [
       "Crunch – a Scheme compiler with a minimal runtime",
       "https://www.more-magic.net/posts/crunch.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 10:06:22",
+      "https://news.ycombinator.com/item?id=42440016"
+    ],
+    [
+      "Natural Number Game: build the basic theory of the natural numbers from scratch",
+      "https://adam.math.hhu.de/#/g/leanprover-community/NNG4"
     ]
   ],
   [
