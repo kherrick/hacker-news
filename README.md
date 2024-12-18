@@ -17,7 +17,6 @@
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 16:58:03](https://news.ycombinator.com/item?id=42452285) - [BlackSheep: Fast ASGI web framework for Python](https://github.com/Neoteroi/BlackSheep)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
-* [2024-12-18, 15:01:53](https://news.ycombinator.com/item?id=42450963) - [Show HN: Brisk – Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast](https://github.com/brisklib/brisk)
 * [2024-12-18, 15:00:52](https://news.ycombinator.com/item?id=42450950) - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-18, 11:14:09](https://news.ycombinator.com/item?id=42449602) - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
@@ -30,6 +29,7 @@
 * [2024-12-16, 20:48:25](https://news.ycombinator.com/item?id=42435254) - [Kong in Concert (2004)](https://dkcproject.ocremix.org/index.html)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
+* [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest human genomes reveal how a small group burst out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 
 ## [Archives](archives/index.md)
 
