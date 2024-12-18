@@ -69,6 +69,7 @@
 * [2024-12-16, 06:50:45](https://news.ycombinator.com/item?id=42428604) - [Sundar Pichai: \"Obviously Tesla Is the Leader in [Autonomous Vehicles]\"](https://twitter.com/herbertong/status/1868296027087995038)
 * [2024-12-16, 06:11:02](https://news.ycombinator.com/item?id=42428389) - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
 * [2024-12-16, 05:58:21](https://news.ycombinator.com/item?id=42428332) - [Why GCC 1.42 on the Tektronix 4404 – with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
+* [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 * [2024-12-16, 05:21:44](https://news.ycombinator.com/item?id=42428192) - [Technical Report on Mirror Bacteria: Feasibility and Risks](https://purl.stanford.edu/cv716pj4036)
 * [2024-12-16, 05:17:16](https://news.ycombinator.com/item?id=42428179) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-16, 05:15:09](https://news.ycombinator.com/item?id=42428171) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
