@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
 * [2024-12-18, 12:58:57](https://news.ycombinator.com/item?id=42450084) - [Insurers Are Deserting Homeowners as Climate Shocks Worsen](https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html)
 * [2024-12-18, 12:01:07](https://news.ycombinator.com/item?id=42449798) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
-* [2024-12-18, 11:14:09](https://news.ycombinator.com/item?id=42449602) - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
 * [2024-12-18, 11:11:04](https://news.ycombinator.com/item?id=42449588) - [Trying to Recreate iOS on the Web](https://homescreen.app/)
 * [2024-12-18, 10:12:34](https://news.ycombinator.com/item?id=42449363) - [Lies, damned lies, and Impact Hero (refoorest, allcolibri)](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
@@ -21,6 +21,7 @@
 * [2024-12-17, 21:08:34](https://news.ycombinator.com/item?id=42445328) - [Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
+* [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
@@ -28,7 +29,6 @@
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
-* [2024-12-14, 17:37:27](https://news.ycombinator.com/item?id=42418345) - [US city tells residents to stop sticking googly eyes on its statues](https://news.sky.com/story/us-city-tells-residents-to-stop-sticking-googly-eyes-on-its-statues-13273478)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 
 ## [Archives](archives/index.md)
