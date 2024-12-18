@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 17:56:49",
+      "https://news.ycombinator.com/item?id=42452995"
+    ],
+    [
+      "We May Be on the Brink of Finding the Real Planet Nine",
+      "https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 17:05:24",
       "https://news.ycombinator.com/item?id=42452358"
     ],
@@ -21,52 +31,12 @@
   ],
   [
     [
-      "2024-12-18, 16:43:27",
-      "https://news.ycombinator.com/item?id=42452131"
-    ],
-    [
-      "U.S. Supreme Court will hear arguments over TikTok divestment law",
-      "https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 16:33:18",
-      "https://news.ycombinator.com/item?id=42451979"
-    ],
-    [
-      "W54",
-      "https://en.wikipedia.org/wiki/W54"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 16:25:04",
-      "https://news.ycombinator.com/item?id=42451886"
-    ],
-    [
-      "Leadership Power Tools: SQL and Statistics",
-      "https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 16:23:44",
       "https://news.ycombinator.com/item?id=42451868"
     ],
     [
       "USDA locks barn door after Listeria escapes",
       "https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 16:21:57",
-      "https://news.ycombinator.com/item?id=42451848"
-    ],
-    [
-      "Microsoft acquires twice as many Nvidia AI chips as tech rivals",
-      "https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1"
     ]
   ],
   [
@@ -87,26 +57,6 @@
     [
       "Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents",
       "https://news.ycombinator.com/item?id=42451707"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 15:57:25",
-      "https://news.ycombinator.com/item?id=42451552"
-    ],
-    [
-      "Bank of North Dakota",
-      "https://en.wikipedia.org/wiki/Bank_of_North_Dakota"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 15:34:12",
-      "https://news.ycombinator.com/item?id=42451271"
-    ],
-    [
-      "New H1-B Rule by Homeland Security",
-      "https://twitter.com/FedericoNoemie/status/1869381822637133842"
     ]
   ],
   [
@@ -191,6 +141,16 @@
   ],
   [
     [
+      "2024-12-18, 04:49:55",
+      "https://news.ycombinator.com/item?id=42448193"
+    ],
+    [
+      "No More Adam: Learning Rate Scaling at Initialization Is All You Need",
+      "https://arxiv.org/abs/2412.11768"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 04:45:41",
       "https://news.ycombinator.com/item?id=42448184"
     ],
@@ -231,12 +191,32 @@
   ],
   [
     [
+      "2024-12-18, 00:17:54",
+      "https://news.ycombinator.com/item?id=42446889"
+    ],
+    [
+      "We Built the Saturn V (2017)",
+      "https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 00:08:52",
       "https://news.ycombinator.com/item?id=42446846"
     ],
     [
       "Optimizing Ruby's JSON, Part 1",
       "https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 22:04:26",
+      "https://news.ycombinator.com/item?id=42445834"
+    ],
+    [
+      "Design Token-Based UI Architecture",
+      "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-12-17, 13:43:29",
+      "https://news.ycombinator.com/item?id=42441258"
+    ],
+    [
+      "Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps",
+      "https://github.com/langfuse/langfuse"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 14:17:02",
       "https://news.ycombinator.com/item?id=42431144"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-12-16, 10:01:28",
-      "https://news.ycombinator.com/item?id=42429601"
+      "2024-12-16, 11:25:25",
+      "https://news.ycombinator.com/item?id=42430080"
     ],
     [
-      "Faster continuous integration builds at Canva",
-      "https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/"
+      "Jupyter Notebooks as E2E Tests",
+      "https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Oldest Human Genomes Reveal How a Small Group Burst Out of Africa",
       "https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-15, 18:31:43",
+      "https://news.ycombinator.com/item?id=42425038"
+    ],
+    [
+      "Chip Cities Rise in Japan's Fields of Dreams",
+      "https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams"
     ]
   ],
   [
