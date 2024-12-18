@@ -27,7 +27,7 @@
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
-* [2024-12-14, 14:39:35](https://news.ycombinator.com/item?id=42417409) - [Egyptian Fractions (2023)](https://r-knott.surrey.ac.uk/Fractions/egyptian.html)
+* [2024-12-14, 19:33:29](https://news.ycombinator.com/item?id=42418939) - [Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud](https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/)
 * [2024-12-14, 05:06:19](https://news.ycombinator.com/item?id=42414817) - [A quick look at OS/2's builtin virtualization](https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 

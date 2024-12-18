@@ -19,6 +19,7 @@
 * [2024-12-14, 19:53:12](https://news.ycombinator.com/item?id=42419036) - [Occasional Paper: Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
 * [2024-12-14, 19:43:57](https://news.ycombinator.com/item?id=42418985) - [HDMI 2.2 is set to debut at CES 2025](https://www.tomshardware.com/tech-industry/hdmi-2-2-is-set-to-debut-at-ces-2025-the-new-standard-brings-higher-resolutions-refresh-rates-and-bandwidth)
 * [2024-12-14, 19:42:50](https://news.ycombinator.com/item?id=42418982) - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
+* [2024-12-14, 19:33:29](https://news.ycombinator.com/item?id=42418939) - [Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud](https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/)
 * [2024-12-14, 19:16:58](https://news.ycombinator.com/item?id=42418871) - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 * [2024-12-14, 19:16:12](https://news.ycombinator.com/item?id=42418866) - [Pi modder successfully adds M.2 slot to Pi 500](https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500)
 * [2024-12-14, 18:42:58](https://news.ycombinator.com/item?id=42418675) - [Surfer: Open-Source Personal Data Warehouse](https://github.com/Surfer-Org/Protocol)
