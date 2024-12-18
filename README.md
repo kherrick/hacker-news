@@ -22,12 +22,12 @@
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
+* [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
 * [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
-* [2024-12-14, 19:33:29](https://news.ycombinator.com/item?id=42418939) - [Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud](https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/)
 * [2024-12-14, 16:40:04](https://news.ycombinator.com/item?id=42418063) - [Beyond NISQ: The Megaquop Machine](https://quantumfrontiers.com/2024/12/14/beyond-nisq-the-megaquop-machine/)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 
