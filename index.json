@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 15:28:30",
+      "https://news.ycombinator.com/item?id=42451226"
+    ],
+    [
+      "Auto Chip Aging Accelerates in Hot Climates",
+      "https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 15:19:46",
       "https://news.ycombinator.com/item?id=42451130"
     ],
@@ -17,26 +27,6 @@
     [
       "Cultural Evolution of Cooperation Among LLM Agents",
       "https://arxiv.org/abs/2412.10270"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 14:53:53",
-      "https://news.ycombinator.com/item?id=42450890"
-    ],
-    [
-      "US airspace closures, lack of answers deepen East Coast drone mystery",
-      "https://www.theregister.com/2024/12/17/mystery_drone_sightings/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 14:53:47",
-      "https://news.ycombinator.com/item?id=42450888"
-    ],
-    [
-      "Infamous paper that popularized unproven Covid-19 treatment retracted",
-      "https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted"
     ]
   ],
   [
@@ -181,12 +171,32 @@
   ],
   [
     [
+      "2024-12-18, 00:44:18",
+      "https://news.ycombinator.com/item?id=42447059"
+    ],
+    [
+      "Advanced Expressive Humanoid Whole-Body Control",
+      "https://exbody2.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 00:43:24",
       "https://news.ycombinator.com/item?id=42447053"
     ],
     [
       "The XOR Texture (2004)",
       "https://lodev.org/cgtutor/xortexture.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 00:37:06",
+      "https://news.ycombinator.com/item?id=42447012"
+    ],
+    [
+      "Ad: An Adaptable Text Editor",
+      "https://github.com/sminez/ad"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps",
       "https://github.com/langfuse/langfuse"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 12:38:11",
-      "https://news.ycombinator.com/item?id=42440886"
-    ],
-    [
-      "After 3 Years, I Failed. Here's All My Startup's Code",
-      "https://dylanhuang.com/blog/closing-my-startup/"
     ]
   ],
   [
