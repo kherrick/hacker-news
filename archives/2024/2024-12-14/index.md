@@ -31,6 +31,7 @@
 * [2024-12-14, 17:18:06](https://news.ycombinator.com/item?id=42418241) - [How to stop fighting with your AI pair programmer](https://skylarbpayne.com/posts/cursed-cursor)
 * [2024-12-14, 17:00:38](https://news.ycombinator.com/item?id=42418157) - [Wasp (YC W21) is hiring a framework engineer to build Rails for JavaScript](https://news.ycombinator.com/item?id=42418157)
 * [2024-12-14, 16:52:13](https://news.ycombinator.com/item?id=42418114) - [Optimistic Computing](https://www.deobald.ca/essays/2024-12-09-optimistic-computing/)
+* [2024-12-14, 16:40:04](https://news.ycombinator.com/item?id=42418063) - [Beyond NISQ: The Megaquop Machine](https://quantumfrontiers.com/2024/12/14/beyond-nisq-the-megaquop-machine/)
 * [2024-12-14, 16:28:26](https://news.ycombinator.com/item?id=42417996) - [Waste Makes Haste?](https://anukari.com/blog/devlog/waste-makes-haste)
 * [2024-12-14, 16:02:48](https://news.ycombinator.com/item?id=42417857) - [Fast LLM Inference From Scratch (using CUDA)](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-14, 14:52:36](https://news.ycombinator.com/item?id=42417480) - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
