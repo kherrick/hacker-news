@@ -22,6 +22,7 @@
 * [2024-12-14, 19:33:29](https://news.ycombinator.com/item?id=42418939) - [Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud](https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/)
 * [2024-12-14, 19:16:58](https://news.ycombinator.com/item?id=42418871) - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
 * [2024-12-14, 19:16:12](https://news.ycombinator.com/item?id=42418866) - [Pi modder successfully adds M.2 slot to Pi 500](https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500)
+* [2024-12-14, 19:09:38](https://news.ycombinator.com/item?id=42418839) - [Castle Game Engine: In progress: web target, IFC, mORMot sample](https://castle-engine.io/wp/2024/11/30/in-progress-web-target-ifc-mormot-sample/)
 * [2024-12-14, 18:42:58](https://news.ycombinator.com/item?id=42418675) - [Surfer: Open-Source Personal Data Warehouse](https://github.com/Surfer-Org/Protocol)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:42:50](https://news.ycombinator.com/item?id=42418373) - [Telegraph Talk and Talkers (1902)](https://books.google.com/books?id=_49JAQAAMAAJ&newbks=1&newbks_redir=0&pg=PA227#v=onepage&q&f=false)

@@ -11,7 +11,6 @@
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:34:12](https://news.ycombinator.com/item?id=42451271) - [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)
-* [2024-12-18, 15:28:30](https://news.ycombinator.com/item?id=42451226) - [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
 * [2024-12-18, 15:01:53](https://news.ycombinator.com/item?id=42450963) - [Show HN: Brisk – Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast](https://github.com/brisklib/brisk)
 * [2024-12-18, 15:00:52](https://news.ycombinator.com/item?id=42450950) - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
@@ -26,10 +25,11 @@
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
-* [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
+* [2024-12-16, 14:17:02](https://news.ycombinator.com/item?id=42431144) - [Rootly New Blog Series: RescueOps](https://rootly.com/blog/new-blog-series-rescueops)
 * [2024-12-16, 10:01:28](https://news.ycombinator.com/item?id=42429601) - [Faster continuous integration builds at Canva](https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/)
 * [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 * [2024-12-15, 13:26:02](https://news.ycombinator.com/item?id=42423282) - [AI, Encryption, and the Sins of the 90s](https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/)
+* [2024-12-14, 19:09:38](https://news.ycombinator.com/item?id=42418839) - [Castle Game Engine: In progress: web target, IFC, mORMot sample](https://castle-engine.io/wp/2024/11/30/in-progress-web-target-ifc-mormot-sample/)
 
 ## [Archives](archives/index.md)
 
