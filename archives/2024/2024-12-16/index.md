@@ -35,6 +35,7 @@
 * [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
 * [2024-12-16, 16:34:02](https://news.ycombinator.com/item?id=42432590) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://securitylab.amnesty.org/latest/2024/12/a-digital-prison-surveillance-and-the-suppression-of-civil-society-in-serbia/)
 * [2024-12-16, 16:25:52](https://news.ycombinator.com/item?id=42432494) - [Klarna CEO: Company stopped hiring because AI 'can do all of the jobs'](https://www.businessinsider.com/klarna-ceo-sebastian-siemiatkowski-ai-jobs-2024-12)
+* [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
 * [2024-12-16, 15:55:04](https://news.ycombinator.com/item?id=42432176) - [Germany Government Collapses at a Perilous Time for Europe](https://www.nytimes.com/2024/12/16/world/europe/germany-confidence-vote-scholz-snap-election.html)
 * [2024-12-16, 15:53:24](https://news.ycombinator.com/item?id=42432155) - [Guide for the perplexed – Google is no longer the best search engine](https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/)
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
