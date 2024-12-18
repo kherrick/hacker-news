@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 17:05:24",
+      "https://news.ycombinator.com/item?id=42452358"
+    ],
+    [
+      "Formally Modeling Dreidel, the Sequel",
+      "https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 17:00:23",
       "https://news.ycombinator.com/item?id=42452315"
     ],
@@ -187,16 +197,6 @@
     [
       "Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui",
       "https://github.com/brenocq/implot3d"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 04:49:55",
-      "https://news.ycombinator.com/item?id=42448193"
-    ],
-    [
-      "No More Adam: Learning Rate Scaling at Initialization Is All You Need",
-      "https://arxiv.org/abs/2412.11768"
     ]
   ],
   [
