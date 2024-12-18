@@ -56,6 +56,7 @@
 * [2024-12-16, 12:01:18](https://news.ycombinator.com/item?id=42430265) - [The Qualcomm DSP Driver – Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:24](https://news.ycombinator.com/item?id=42430184) - [Nvidia is so far ahead that all the 4090s are nerfed to half speed](https://twitter.com/realGeorgeHotz/status/1868356459542770087)
 * [2024-12-16, 11:28:52](https://news.ycombinator.com/item?id=42430109) - [Making unsafe Rust a little safer](https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code/)
+* [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
 * [2024-12-16, 11:15:32](https://news.ycombinator.com/item?id=42430024) - [Scanners Beware: Welcome to the network from hell](https://medium.com/sensorfu/scanners-beware-welcome-to-the-network-from-hell-86989f29f17b)
 * [2024-12-16, 10:13:53](https://news.ycombinator.com/item?id=42429679) - [iPhone 4 Documentary: Theft, Death and Steve Jobs [video]](https://www.youtube.com/watch?v=fkK7_QEIJrg)
 * [2024-12-16, 10:13:02](https://news.ycombinator.com/item?id=42429672) - [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
