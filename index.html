@@ -188,11 +188,11 @@
             <h4>
               <span>2024-12-18 @ 20:43:22</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454934"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -209,11 +209,11 @@
             <h4>
               <span>2024-12-18 @ 20:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454929"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -230,11 +230,11 @@
             <h4>
               <span>2024-12-18 @ 20:27:41</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454723"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -295,11 +295,11 @@
             <h4>
               <span>2024-12-18 @ 20:15:16</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454586"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -315,11 +315,11 @@
             <h4>
               <span>2024-12-18 @ 20:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454405"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -335,11 +335,11 @@
             <h4>
               <span>2024-12-18 @ 19:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42454359"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -378,34 +378,146 @@
             <h4>
               <span>2024-12-18 @ 19:03:13</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42453660"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="42453574">
+        <section id="42453650">
           <h3>
-            <a
-              class="item"
-              href="https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why"
-              >The end is nigh and here's why</a
+            <a class="item" href="https://github.com/Puchaczov/Musoq"
+              >Show HN: Musoq – Query Anything with SQL Syntax (Git, C#, CSV,
+              Can DBC)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-12-18 @ 18:55:18</span
+              <span>2024-12-18 @ 19:02:56</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42453574"
+                ><a href="https://news.ycombinator.com/item?id=42453650"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                It allows you to query various things from niche ones like CAN
+                DBC files, weird ones like C# code, interesting ones with Git
+                querying to regular stuff like CSV, TSV and various others.
+              </p>
+              <p>
+                I am quite a bit experimenting with various things so I'm
+                hybridizing the engine with LLMs or doing other weird stuff that
+                are more or less practical :-)
+              </p>
+              <p>
+                I wanted also to share some recent developments in this little
+                project as I hope it might be interesting to some of you.
+              </p>
+              <p>
+                New Experimental Plugins: * <i>Git Plugin (Beta)</i>: I've been
+                working on Git repository querying - managed to test it on the
+                EF Core repo (16k commits) and it seems to work okay *
+                <i>Roslyn Plugin (Beta)</i>: Added basic C# code analysis
+                capabilities
+              </p>
+              <p>
+                For the very first time: I've extended CROSS APPLY to use
+                computed results as arguments! Now the operator can use values
+                from the current row as inputs. Here's an example:
+              </p>
+              <p></p>
+              <pre><code>  SELECT
+    f.DirectoryName,
+    f.FileName
+  FROM #os.directories('/some/path', false) d
+  CROSS APPLY #os.files(d.FullName, true) f
+  WHERE d.Name IN ('Folder1', 'Folder2')
+</code></pre>
+              After another pack of fixes I'm finally able to query multiple git
+              repositories AT ONCE!
+              <p></p>
+              <pre><code>  with ProjectsToAnalyze as (
+    select
+        dir2.FullName as FullName
+    from #os.directories('D:\repos', false) dir1
+    cross apply #os.directories(dir1.FullName, false) dir2
+    where
+        dir2.Name = '.git'
+  )
+  select
+    c.Message,
+    c.Author,
+    c.CommittedWhen
+  from ProjectsToAnalyze p cross apply #git.repository(p.FullName) r 
+  cross apply r.Commits c
+  where c.AuthorEmail = 'my-email@email.ok'
+  order by c.CommittedWhen desc
+</code></pre>
+              Under the Hood: - Added a <i>Buckets</i> feature for memory
+              management (currently just testing it with the Roslyn plugin)
+              <p>- Moved to <i>.NET 8</i></p>
+              <p>- Added <i>CROSS/OUTER APPLY</i> operators</p>
+              <p>
+                - Made some improvements to error messages and runtime behavior
+              </p>
+              <p>
+                New piping features: I've been experimenting with piping
+                capabilities: * <i>Image Analysis with LLMs</i>:
+              </p>
+              <p></p>
+              <pre><code>  ./Musoq.exe image encode "image.jpg" | ./Musoq.exe run query "select s.Shop, s.ProductName, s.Price from ..."
+</code></pre>
+              * <i>Text Data Extraction</i>:
+              <p></p>
+              <pre><code>  Get-Content "ticket.txt" | ./Musoq.exe run query "select t.TicketNumber, t.CustomerName ... from #stdin.text('Ollama', 'llama3.1') t"
+</code></pre>
+              * <i>Data Source Combination</i>:
+              <p></p>
+              <pre><code>  { docker image ls; ./Musoq.exe separator; docker container ls } | ./Musoq.exe run query "..."
+</code></pre>
+              I'm working on comprehensive documentation: I encourage you
+              especially to look at section "Practical Examples and
+              Applications" and "Data Sources" where you can look at all the
+              tables the tool currently provides. &lt;<a
+                href="https://puchaczov.github.io/Musoq/"
+                >https://puchaczov.github.io/Musoq/</a
+              >&gt;
+              <p>Other Changes:</p>
+              <p>
+                - Made some improvements to OS and Archive data sources (OS can
+                now query metadata like EXIF)
+              </p>
+              <p>- Added a few fields to CAN DBC plugin</p>
+              <p>- Command outputs can now be used as inputs for queries</p>
+              <p>I'm hoping to:</p>
+              <p>- Improve stability and add more tests</p>
+              <p>- Flesh out the documentation</p>
+              <p>- Work on package distribution (Scoop, Ubuntu packages)</p>
+              <p>- Share some examples of source code querying with Roslyn</p>
+              <p>Ideas for later:</p>
+              <p>- WHERE robust analysis and optimizations</p>
+              <p>- DISTINCT operator implementation</p>
+              <p>- PROTOBUF schema support</p>
+              <p>- Performance improvements</p>
+              <p>- Query parallelization</p>
+              <p>- Recursive CTEs</p>
+              <p>- Subqueries</p>
+              <p>I'd really appreciate any thoughts or feedback!</p>
+              <p>
+                The documentation section where I write a short analysis of EF
+                Core with git plugin: &lt;<a
+                  href="https://puchaczov.github.io/Musoq/practical-examples-and-applications/analysis-of-the-efcore-repository.html"
+                  >https://puchaczov.github.io/Musoq/practical-examples-and-app...</a
+                >&gt;
+              </p>
+            </div>
           </section>
         </section>
         <section id="42453341">
@@ -418,11 +530,11 @@
             <h4>
               <span>2024-12-18 @ 18:29:55</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42453341"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -439,7 +551,7 @@
             <h4>
               <span>2024-12-18 @ 17:05:24</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42452358"
                   >Comments</a
@@ -462,7 +574,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42452285"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -482,7 +594,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42451707"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -604,11 +716,11 @@
             <h4>
               <span>2024-12-18 @ 15:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450963"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
             <div class="text">
@@ -632,11 +744,11 @@
             <h4>
               <span>2024-12-18 @ 15:00:52</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450950"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -653,11 +765,11 @@
             <h4>
               <span>2024-12-18 @ 13:54:05</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450413"
                   >Comments</a
-                ><span class="descendants">: 371</span></span
+                ><span class="descendants">: 388</span></span
               >
             </h4>
           </section>
@@ -674,11 +786,11 @@
             <h4>
               <span>2024-12-18 @ 11:14:09</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42449602"
                   >Comments</a
-                ><span class="descendants">: 238</span></span
+                ><span class="descendants">: 241</span></span
               >
             </h4>
           </section>
@@ -696,11 +808,11 @@
             <h4>
               <span>2024-12-18 @ 08:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448939"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
           </section>
@@ -715,7 +827,7 @@
             <h4>
               <span>2024-12-18 @ 08:24:12</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448913"
                   >Comments</a
@@ -734,7 +846,7 @@
             <h4>
               <span>2024-12-18 @ 04:45:41</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448184"
                   >Comments</a
@@ -776,7 +888,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42447053"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -815,7 +927,7 @@
             <h4>
               <span>2024-12-17 @ 18:18:52</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42443737"
                   >Comments</a
@@ -830,7 +942,7 @@
             <h4>
               <span>2024-12-17 @ 17:26:26</span
               ><span class="points-container"
-                >Points: <span class="points">2759</span></span
+                >Points: <span class="points">2761</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42443229"
                   >Comments</a
@@ -851,11 +963,11 @@
             <h4>
               <span>2024-12-17 @ 15:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42442354"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -872,11 +984,11 @@
             <h4>
               <span>2024-12-16 @ 19:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42434331"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -893,11 +1005,11 @@
             <h4>
               <span>2024-12-16 @ 16:15:43</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432374"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
