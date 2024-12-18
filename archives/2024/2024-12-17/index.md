@@ -18,6 +18,7 @@
 * [2024-12-17, 18:50:07](https://news.ycombinator.com/item?id=42444083) - [Webhook Tester/Debugger](https://www.hooklistener.com/)
 * [2024-12-17, 18:40:00](https://news.ycombinator.com/item?id=42443987) - [A pilot crashed a full passenger jet into the bay, didn't lose his job (2021)](https://www.sfgate.com/sfhistory/article/san-francisco-historic-plane-crash-asoh-defense-16319360.php)
 * [2024-12-17, 18:30:23](https://news.ycombinator.com/item?id=42443870) - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
+* [2024-12-17, 18:18:52](https://news.ycombinator.com/item?id=42443737) - [Early Bronze Age Butchered Human Remains from Charterhouse Warren, Somerset, UK](https://www.cambridge.org/core/journals/antiquity/article/darker-angels-of-our-nature-early-bronze-age-butchered-human-remains-from-charterhouse-warren-somerset-uk/93EBB135C857C7B7992FC80A4ED927AF)
 * [2024-12-17, 18:09:06](https://news.ycombinator.com/item?id=42443634) - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
 * [2024-12-17, 17:43:05](https://news.ycombinator.com/item?id=42443406) - [Inside the War Against Headlight Brightness](https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
