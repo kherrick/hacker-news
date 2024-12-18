@@ -3,7 +3,6 @@
 * [2024-12-18, 22:08:46](https://news.ycombinator.com/item?id=42455992) - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
 * [2024-12-18, 22:02:40](https://news.ycombinator.com/item?id=42455938) - [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
-* [2024-12-18, 20:43:22](https://news.ycombinator.com/item?id=42454934) - [What is metformin's secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 20:27:41](https://news.ycombinator.com/item?id=42454723) - [Show HN: K8s Cleaner – Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [2024-12-18, 20:15:16](https://news.ycombinator.com/item?id=42454586) - [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
@@ -30,6 +29,7 @@
 * [2024-12-16, 20:48:25](https://news.ycombinator.com/item?id=42435254) - [Kong in Concert (2004)](https://dkcproject.ocremix.org/index.html)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
+* [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest human genomes reveal how a small group burst out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 
 ## [Archives](archives/index.md)
 
