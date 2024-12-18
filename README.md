@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
 * [2024-12-18, 01:35:49](https://news.ycombinator.com/item?id=42447332) - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
@@ -26,7 +27,6 @@
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
 * [2024-12-15, 18:11:21](https://news.ycombinator.com/item?id=42424904) - [3D-Printed Dune Chess Set](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/)
-* [2024-12-14, 18:42:58](https://news.ycombinator.com/item?id=42418675) - [Surfer: Open-Source Personal Data Warehouse](https://github.com/Surfer-Org/Protocol)
 * [2024-12-14, 10:06:57](https://news.ycombinator.com/item?id=42415953) - [Dline: A tool that presents important data in the form of a calendar in terminal](https://github.com/jazz-it/dline)
 * [2024-12-14, 05:06:19](https://news.ycombinator.com/item?id=42414817) - [A quick look at OS/2's builtin virtualization](https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)

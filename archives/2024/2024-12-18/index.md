@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
 * [2024-12-18, 02:27:13](https://news.ycombinator.com/item?id=42447579) - [Archive Team](https://wiki.archiveteam.org/index.php/Main_Page)
 * [2024-12-18, 01:35:49](https://news.ycombinator.com/item?id=42447332) - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
