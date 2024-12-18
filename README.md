@@ -2,7 +2,6 @@
 
 * [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
-* [2024-12-18, 01:35:49](https://news.ycombinator.com/item?id=42447332) - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 00:44:18](https://news.ycombinator.com/item?id=42447059) - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
@@ -18,6 +17,7 @@
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+* [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
 * [2024-12-16, 20:01:21](https://news.ycombinator.com/item?id=42434769) - [Network protocols for anyone who knows a programming language (2017)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2024-12-16, 17:34:05](https://news.ycombinator.com/item?id=42433199) - [SeleniumBase: Python APIs for web automation and bypassing bot-detection](https://github.com/seleniumbase/SeleniumBase)
