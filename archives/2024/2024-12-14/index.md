@@ -51,6 +51,7 @@
 * [2024-12-14, 11:05:14](https://news.ycombinator.com/item?id=42416258) - [Show HN: A simple web game to help learn chords and basic progressions](https://chords.yottanami.com/)
 * [2024-12-14, 11:00:49](https://news.ycombinator.com/item?id=42416230) - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-14, 10:09:50](https://news.ycombinator.com/item?id=42415977) - [OpenAI, GoogleDeepMind, and Meta Get Bad Grades on AI Safety](https://spectrum.ieee.org/ai-safety)
+* [2024-12-14, 10:06:57](https://news.ycombinator.com/item?id=42415953) - [Dline: A tool that presents important data in the form of a calendar in terminal](https://github.com/jazz-it/dline)
 * [2024-12-14, 10:04:04](https://news.ycombinator.com/item?id=42415939) - [The role of Transactive Memory Systems in great teams](https://emilywebber.co.uk/the-role-of-transactive-memory-systems-in-great-teams/)
 * [2024-12-14, 09:52:06](https://news.ycombinator.com/item?id=42415875) - [Computing Inside an AI](https://willwhitney.com/computing-inside-ai.html)
 * [2024-12-14, 09:49:15](https://news.ycombinator.com/item?id=42415857) - [Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II](http://marc.merlins.org/linux/teaparty/)

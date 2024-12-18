@@ -1,0 +1,11 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-18](index.md)
+
+* [2024-12-18, 00:44:18](https://news.ycombinator.com/item?id=42447059) - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
+* [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture](https://lodev.org/cgtutor/xortexture.html)
+* [2024-12-18, 00:37:06](https://news.ycombinator.com/item?id=42447012) - [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
+* [2024-12-18, 00:34:47](https://news.ycombinator.com/item?id=42446995) - [Google, the search engine that's forgotten how to search](https://semking.com/google-search-real-user-feedback/)
+* [2024-12-18, 00:17:54](https://news.ycombinator.com/item?id=42446889) - [We Built the Saturn V (2017)](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
