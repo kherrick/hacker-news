@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
+* [2024-12-18, 05:51:31](https://news.ycombinator.com/item?id=42448405) - [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)
 * [2024-12-18, 04:49:55](https://news.ycombinator.com/item?id=42448193) - [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
 * [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
@@ -9,6 +10,7 @@
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:37:06](https://news.ycombinator.com/item?id=42447012) - [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
 * [2024-12-18, 00:17:54](https://news.ycombinator.com/item?id=42446889) - [We Built the Saturn V (2017)](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
+* [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 22:04:26](https://news.ycombinator.com/item?id=42445834) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-17, 21:29:52](https://news.ycombinator.com/item?id=42445508) - [Includeable minimal operating system for C++](https://www.includeos.org/)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
@@ -18,7 +20,6 @@
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
-* [2024-12-16, 20:01:21](https://news.ycombinator.com/item?id=42434769) - [Network protocols for anyone who knows a programming language (2017)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2024-12-16, 17:34:05](https://news.ycombinator.com/item?id=42433199) - [SeleniumBase: Python APIs for web automation and bypassing bot-detection](https://github.com/seleniumbase/SeleniumBase)
 * [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
 * [2024-12-16, 14:33:29](https://news.ycombinator.com/item?id=42431299) - [Scale Not Sales: Automating Revenue So Graph Go Up](https://blog.railway.com/p/scale-not-sales)
@@ -27,7 +28,6 @@
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
 * [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
-* [2024-12-14, 10:06:57](https://news.ycombinator.com/item?id=42415953) - [Dline: A tool that presents important data in the form of a calendar in terminal](https://github.com/jazz-it/dline)
 * [2024-12-14, 05:06:19](https://news.ycombinator.com/item?id=42414817) - [A quick look at OS/2's builtin virtualization](https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 
