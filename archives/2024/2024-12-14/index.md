@@ -25,6 +25,7 @@
 * [2024-12-14, 18:42:58](https://news.ycombinator.com/item?id=42418675) - [Surfer: Open-Source Personal Data Warehouse](https://github.com/Surfer-Org/Protocol)
 * [2024-12-14, 17:54:00](https://news.ycombinator.com/item?id=42418445) - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
 * [2024-12-14, 17:42:50](https://news.ycombinator.com/item?id=42418373) - [Telegraph Talk and Talkers (1902)](https://books.google.com/books?id=_49JAQAAMAAJ&newbks=1&newbks_redir=0&pg=PA227#v=onepage&q&f=false)
+* [2024-12-14, 17:37:27](https://news.ycombinator.com/item?id=42418345) - [US city tells residents to stop sticking googly eyes on its statues](https://news.sky.com/story/us-city-tells-residents-to-stop-sticking-googly-eyes-on-its-statues-13273478)
 * [2024-12-14, 17:31:02](https://news.ycombinator.com/item?id=42418309) - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
 * [2024-12-14, 17:23:13](https://news.ycombinator.com/item?id=42418272) - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
 * [2024-12-14, 17:21:58](https://news.ycombinator.com/item?id=42418264) - [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
