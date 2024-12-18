@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 16:39:15](https://news.ycombinator.com/item?id=42452067) - [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
+* [2024-12-18, 16:25:04](https://news.ycombinator.com/item?id=42451886) - [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
+* [2024-12-18, 16:23:44](https://news.ycombinator.com/item?id=42451868) - [USDA locks barn door after Listeria escapes](https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/)
+* [2024-12-18, 16:21:57](https://news.ycombinator.com/item?id=42451848) - [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1)
+* [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:34:12](https://news.ycombinator.com/item?id=42451271) - [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)
 * [2024-12-18, 15:28:30](https://news.ycombinator.com/item?id=42451226) - [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
 * [2024-12-18, 15:19:46](https://news.ycombinator.com/item?id=42451130) - [US Weighs Banning TP-Link Routers](https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/)
+* [2024-12-18, 15:01:53](https://news.ycombinator.com/item?id=42450963) - [Show HN: Brisk – Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast](https://github.com/brisklib/brisk)
 * [2024-12-18, 15:00:52](https://news.ycombinator.com/item?id=42450950) - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
 * [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
 * [2024-12-18, 14:53:47](https://news.ycombinator.com/item?id=42450888) - [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
