@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-18, 12:01:07",
+      "https://news.ycombinator.com/item?id=42449798"
+    ],
+    [
+      "Extend (YC W23) is hiring engineers to build LLM document processing",
+      "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 11:25:48",
       "https://news.ycombinator.com/item?id=42449647"
     ],
     [
       "Khalid Sheldrake: The East Dulwich man who would be King",
       "https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 11:14:09",
+      "https://news.ycombinator.com/item?id=42449602"
+    ],
+    [
+      "The unbearable slowness of being: Why do we live at 10 bits/s?",
+      "https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Lies, damned lies, and Impact Hero (refoorest, allcolibri)",
       "https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 09:15:44",
-      "https://news.ycombinator.com/item?id=42449102"
-    ],
-    [
-      "Analyzing the World Chess Championship 2024: Empirical Synthesized Approach",
-      "https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-12-17, 09:44:44",
-      "https://news.ycombinator.com/item?id=42439897"
-    ],
-    [
-      "Ted: Tool for editing files according to the rules of a provided Turing Machine",
-      "https://github.com/ahalbert/ted"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 16:36:58",
       "https://news.ycombinator.com/item?id=42432631"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-12-16, 01:17:23",
-      "https://news.ycombinator.com/item?id=42427169"
-    ],
-    [
-      "OpenAUTH: Universal, standards-based auth provider",
-      "https://openauth.js.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 19:46:29",
       "https://news.ycombinator.com/item?id=42425489"
     ],
@@ -287,6 +277,16 @@
     [
       "Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud",
       "https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/"
+    ]
+  ],
+  [
+    [
+      "2024-12-14, 16:40:04",
+      "https://news.ycombinator.com/item?id=42418063"
+    ],
+    [
+      "Beyond NISQ: The Megaquop Machine",
+      "https://quantumfrontiers.com/2024/12/14/beyond-nisq-the-megaquop-machine/"
     ]
   ],
   [
