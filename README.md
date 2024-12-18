@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
-* [2024-12-18, 02:27:13](https://news.ycombinator.com/item?id=42447579) - [Archive Team](https://wiki.archiveteam.org/index.php/Main_Page)
 * [2024-12-18, 01:35:49](https://news.ycombinator.com/item?id=42447332) - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 00:44:18](https://news.ycombinator.com/item?id=42447059) - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
@@ -15,6 +14,7 @@
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 17:00:54](https://news.ycombinator.com/item?id=42443022) - [Show HN: Adventures in OCR](https://blog.medusis.com/38_Adventures+in+OCR.html)
 * [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
+* [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to 2M users as a one woman dev team [video]](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
