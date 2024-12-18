@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
+* [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
 * [2024-12-18, 14:10:12](https://news.ycombinator.com/item?id=42450525) - [AT&T follows Amazon in demanding employees spend 5 days a week in office](https://fortune.com/2024/12/18/att-return-to-office-5-days/)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)

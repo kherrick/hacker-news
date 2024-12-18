@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-18, 14:10:12](https://news.ycombinator.com/item?id=42450525) - [AT&T follows Amazon in demanding employees spend 5 days a week in office](https://fortune.com/2024/12/18/att-return-to-office-5-days/)
+* [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
+* [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
 * [2024-12-18, 12:58:32](https://news.ycombinator.com/item?id=42450080) - [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
@@ -20,7 +21,6 @@
 * [2024-12-18, 00:17:54](https://news.ycombinator.com/item?id=42446889) - [We Built the Saturn V (2017)](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 22:04:26](https://news.ycombinator.com/item?id=42445834) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
-* [2024-12-17, 21:29:52](https://news.ycombinator.com/item?id=42445508) - [Includeable minimal operating system for C++](https://www.includeos.org/)
 * [2024-12-17, 20:36:07](https://news.ycombinator.com/item?id=42445037) - [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
