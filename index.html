@@ -139,11 +139,11 @@
             <h4>
               <span>2024-12-18 @ 18:38:31</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42453431"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2024-12-18 @ 17:05:24</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42452358"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -197,7 +197,7 @@
             <h4>
               <span>2024-12-18 @ 16:09:56</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42451707"
                   >Comments</a
@@ -312,6 +312,130 @@
             </div>
           </section>
         </section>
+        <section id="42451447">
+          <h3>
+            <a class="item" href="https://www.getzipshare.com"
+              >Show HN: Zipshare – one-step Android screen sharing for support
+              teams</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-18 @ 15:50:50</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42451447"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I work as an Android developer at a large retailer, on the app
+                that the in-store employees use to see their schedules, view
+                product details, get support, etc. Part of our engineering
+                on-call rotation involves helping these in-store employees with
+                any app issues they may encounter. There are always a few times
+                every rotation where I know solving someone's problem would be
+                way easier if I could just see their screen as if I were
+                in-store with them.
+              </p>
+              <p>
+                However, many of these employees are non-technical and wouldn't
+                want to go through the onboarding of TeamViewer or Zoom, are
+                under time constraints in a busy store, or (understandably) just
+                wouldn't know how to get set up.
+              </p>
+              <p>
+                As a side project over the past few weekends, I've been building
+                an Android screen sharing tool called Zipshare (<a
+                  href="https://www.getzipshare.com"
+                  >https://www.getzipshare.com</a
+                >, demo video:
+                <a href="https://www.youtube.com/watch?v=Iuc3HBIuMZE"
+                  >https://www.youtube.com/watch?v=Iuc3HBIuMZE</a
+                >) that aims to be absolutely as easy as possible to use for the
+                person sharing their screen. All the sharer needs to do is
+                receive an email (or eventually a text) on their Android device
+                and click a link. They will be sent to the Play Store, and upon
+                launching the app, will automatically be sent to their session.
+                Users don't need to create an account or enter a meeting code -
+                there's literally one screen in the app ("xyz@abc.com invited
+                you to share your screen, would you like to?") In fact, I
+                originally wanted to use Play Store Instant Apps to eliminate
+                the installation step entirely, but you can't open a raw socket
+                from an Instant App, which I currently depend on... [1]
+              </p>
+              <p>
+                You can try the live demo by entering your email address and
+                waiting on the next page, while clicking the link you receive on
+                an Android device. Allow the screen share and you'll see it
+                appear in your browser on the first device. When this is more
+                built out, support agents will be able to sign in to their
+                account and click a button to generate a new link/send it out. I
+                also want to integrate with platforms like ServiceNow,
+                PagerDuty, and Zendesk to allow generating screen sharing
+                sessions directly from tickets.
+              </p>
+              <p>
+                I focused on Android for this initial version because the wide
+                variety of devices makes giving support more difficult than on
+                iOS, and because I have way more experience with Android :)
+              </p>
+              <p>
+                Other features I want to include are automatic notification
+                suppression while sharing (for privacy), an "instant
+                connectivity check" that reports basic system state to the agent
+                like cell/Wi-Fi signal strength and whether a VPN is enabled,
+                and an annotation feature so that agents can draw attention to
+                certain areas of the screen.
+              </p>
+              <p>
+                My goal with Zipshare was to do one thing and make the
+                experience as streamlined as possible. For example, there's no
+                voice or video calling because chances are the two parties will
+                already be on some other kind of call.
+              </p>
+              <p>Technical details:</p>
+              <p>
+                * Screen sharing: WebRTC with signaling provided by a
+                self-hosted LiveKit server instance
+              </p>
+              <p>
+                * Android side: Kotlin, Jetpack Compose, LiveKit SDK, Play Store
+                Referrer API to route the session ID through to the app install,
+                "classic" Android 3rd party libraries (OkHttp, Retrofit, KotlinX
+                serialization, ...)
+              </p>
+              <p>
+                * Website and API: Node.js, Express, two Pug templates, one CSS
+                file, 50ish lines of JS excluding LiveKit, SQLite DB with one
+                table.
+              </p>
+              <p>Design details:</p>
+              <p>* Icon: Fiverr</p>
+              <p>* Colors: ChatGPT</p>
+              <p>* Landing page copy: The best I could come up with</p>
+              <p>
+                Please give it a try and let me know what you think! I am eager
+                to test this on as many devices as possible, especially older or
+                low-end devices. I built this because I wanted it, but would it
+                be useful for you or your team? Any feature requests?
+              </p>
+              <p>
+                [1]
+                <a href="https://issuetracker.google.com/issues/191070661"
+                  >https://issuetracker.google.com/issues/191070661</a
+                >, naturally "Won't Fix", definitely something to hack around in
+                the future
+              </p>
+              <p>
+                (note: I was given the OK to repost this for a second chance)
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42450963">
           <h3>
             <a class="item" href="https://github.com/brisklib/brisk"
@@ -323,11 +447,11 @@
             <h4>
               <span>2024-12-18 @ 15:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450963"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -351,11 +475,11 @@
             <h4>
               <span>2024-12-18 @ 15:00:52</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450950"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -393,7 +517,7 @@
             <h4>
               <span>2024-12-18 @ 13:46:59</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42450365"
                   >Comments</a
@@ -414,11 +538,11 @@
             <h4>
               <span>2024-12-18 @ 11:14:09</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42449602"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -437,7 +561,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42449588"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -476,11 +600,11 @@
             <h4>
               <span>2024-12-18 @ 08:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448939"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -495,7 +619,7 @@
             <h4>
               <span>2024-12-18 @ 08:24:12</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448913"
                   >Comments</a
@@ -534,7 +658,7 @@
             <h4>
               <span>2024-12-18 @ 04:45:41</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448184"
                   >Comments</a
@@ -553,11 +677,11 @@
             <h4>
               <span>2024-12-18 @ 03:04:42</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42447762"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -576,26 +700,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42447071"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42447059">
-          <h3>
-            <a class="item" href="https://exbody2.github.io/"
-              >Advanced Expressive Humanoid Whole-Body Control</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-18 @ 00:44:18</span
-              ><span class="points-container"
-                >Points: <span class="points">87</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42447059"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -610,32 +715,11 @@
             <h4>
               <span>2024-12-18 @ 00:43:24</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42447053"
                   >Comments</a
                 ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42446889">
-          <h3>
-            <a
-              class="item"
-              href="https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/"
-              >We Built the Saturn V (2017)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-18 @ 00:17:54</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42446889"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -652,7 +736,7 @@
             <h4>
               <span>2024-12-18 @ 00:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42446846"
                   >Comments</a
@@ -673,11 +757,11 @@
             <h4>
               <span>2024-12-17 @ 22:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42445834"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -694,11 +778,11 @@
             <h4>
               <span>2024-12-17 @ 20:36:07</span
               ><span class="points-container"
-                >Points: <span class="points">482</span></span
+                >Points: <span class="points">496</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42445037"
                   >Comments</a
-                ><span class="descendants">: 474</span></span
+                ><span class="descendants">: 487</span></span
               >
             </h4>
           </section>
@@ -709,7 +793,7 @@
             <h4>
               <span>2024-12-17 @ 17:26:26</span
               ><span class="points-container"
-                >Points: <span class="points">2709</span></span
+                >Points: <span class="points">2713</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42443229"
                   >Comments</a
@@ -730,11 +814,32 @@
             <h4>
               <span>2024-12-17 @ 15:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42442354"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42434331">
+          <h3>
+            <a
+              class="item"
+              href="https://dontvacuum.me/rocketflashrecovery/index.html"
+              >Crashing rockets and recovering data from damaged flash chips</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-16 @ 19:20:49</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42434331"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -751,11 +856,11 @@
             <h4>
               <span>2024-12-16 @ 11:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42430080"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -773,11 +878,11 @@
             <h4>
               <span>2024-12-16 @ 05:41:56</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42428256"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -794,11 +899,11 @@
             <h4>
               <span>2024-12-15 @ 18:31:43</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42425038"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -815,7 +920,7 @@
             <h4>
               <span>2024-12-15 @ 13:26:02</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42423282"
                   >Comments</a
@@ -837,7 +942,7 @@
             <h4>
               <span>2024-12-14 @ 19:09:38</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42418839"
                   >Comments</a
