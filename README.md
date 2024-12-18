@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
 * [2024-12-18, 10:12:34](https://news.ycombinator.com/item?id=42449363) - [Lies, damned lies, and Impact Hero (refoorest, allcolibri)](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
 * [2024-12-18, 09:15:44](https://news.ycombinator.com/item?id=42449102) - [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
@@ -20,7 +21,6 @@
 * [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
-* [2024-12-16, 17:34:05](https://news.ycombinator.com/item?id=42433199) - [SeleniumBase: Python APIs for web automation and bypassing bot-detection](https://github.com/seleniumbase/SeleniumBase)
 * [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
 * [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
