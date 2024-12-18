@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 18:38:31](https://news.ycombinator.com/item?id=42453431) - [Day Zero – Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
 * [2024-12-18, 17:56:49](https://news.ycombinator.com/item?id=42452995) - [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
@@ -24,6 +25,7 @@
 * [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
 * [2024-12-18, 14:53:47](https://news.ycombinator.com/item?id=42450888) - [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
 * [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
+* [2024-12-18, 14:46:12](https://news.ycombinator.com/item?id=42450811) - [The Paradoxical Slowness of Human Behavior](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior)
 * [2024-12-18, 14:10:12](https://news.ycombinator.com/item?id=42450525) - [AT&T follows Amazon in demanding employees spend 5 days a week in office](https://fortune.com/2024/12/18/att-return-to-office-5-days/)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
