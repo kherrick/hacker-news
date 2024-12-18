@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 14:10:12",
+      "https://news.ycombinator.com/item?id=42450525"
+    ],
+    [
+      "AT&T follows Amazon in demanding employees spend 5 days a week in office",
+      "https://fortune.com/2024/12/18/att-return-to-office-5-days/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 13:46:59",
       "https://news.ycombinator.com/item?id=42450365"
     ],
@@ -37,6 +47,16 @@
     [
       "Extend (YC W23) is hiring engineers to build LLM document processing",
       "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 11:14:09",
+      "https://news.ycombinator.com/item?id=42449602"
+    ],
+    [
+      "The unbearable slowness of being: Why do we live at 10 bits/s?",
+      "https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "Lou's Pseudo 3D Page (2013)",
       "http://www.extentofthejam.com/pseudo/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 03:04:42",
+      "https://news.ycombinator.com/item?id=42447762"
+    ],
+    [
+      "How we centralized and structured error handling in Golang",
+      "https://olivernguyen.io/w/namespace.error/"
     ]
   ],
   [
@@ -181,22 +211,12 @@
   ],
   [
     [
-      "2024-12-17, 21:08:34",
-      "https://news.ycombinator.com/item?id=42445328"
+      "2024-12-17, 20:36:07",
+      "https://news.ycombinator.com/item?id=42445037"
     ],
     [
-      "Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]",
-      "https://www.cs.yale.edu/publications/techreports/tr1049.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 20:56:01",
-      "https://news.ycombinator.com/item?id=42445239"
-    ],
-    [
-      "FastVideo: a lightweight framework for accelerating large video diffusion models",
-      "https://github.com/hao-ai-lab/FastVideo"
+      "FTC bans hidden junk fees in hotel, event ticket prices",
+      "https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Moon",
       "https://ciechanow.ski/moon/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 16:40:31",
-      "https://news.ycombinator.com/item?id=42442812"
-    ],
-    [
-      "Show HN: I built an open-source data pipeline tool in Go",
-      "https://github.com/bruin-data/bruin"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-12-16, 01:17:23",
-      "https://news.ycombinator.com/item?id=42427169"
-    ],
-    [
-      "OpenAUTH: Universal, standards-based auth provider",
-      "https://openauth.js.org/"
-    ]
-  ],
-  [
-    [
       "2024-12-15, 19:46:29",
       "https://news.ycombinator.com/item?id=42425489"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-12-14, 00:26:13",
-      "https://news.ycombinator.com/item?id=42413574"
+      "2024-12-15, 13:26:02",
+      "https://news.ycombinator.com/item?id=42423282"
     ],
     [
-      "Voxon: Real time interactive volumetric holograms",
-      "https://www.voxon.co"
+      "AI, Encryption, and the Sins of the 90s",
+      "https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/"
     ]
   ]
 ]
