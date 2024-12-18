@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
+* [2024-12-18, 19:39:59](https://news.ycombinator.com/item?id=42454139) - [On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs](https://www.eqtylab.io/blog/verifiable-compute-press-release)
 * [2024-12-18, 19:03:13](https://news.ycombinator.com/item?id=42453660) - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
 * [2024-12-18, 18:56:10](https://news.ycombinator.com/item?id=42453582) - [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
 * [2024-12-18, 18:55:18](https://news.ycombinator.com/item?id=42453574) - [The end is nigh and here's why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)
@@ -28,7 +29,6 @@
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:53:52](https://news.ycombinator.com/item?id=42442354) - [ISO 8583: The language of credit cards](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
-* [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
 * [2024-12-15, 13:26:02](https://news.ycombinator.com/item?id=42423282) - [AI, Encryption, and the Sins of the 90s](https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/)
 
 ## [Archives](archives/index.md)
