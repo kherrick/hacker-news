@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 22:08:46](https://news.ycombinator.com/item?id=42455992) - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 20:43:22](https://news.ycombinator.com/item?id=42454934) - [What is metformin's secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
@@ -21,7 +22,6 @@
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
 * [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
-* [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 18:18:52](https://news.ycombinator.com/item?id=42443737) - [Early Bronze Age Butchered Human Remains from Charterhouse Warren, Somerset, UK](https://www.cambridge.org/core/journals/antiquity/article/darker-angels-of-our-nature-early-bronze-age-butchered-human-remains-from-charterhouse-warren-somerset-uk/93EBB135C857C7B7992FC80A4ED927AF)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
