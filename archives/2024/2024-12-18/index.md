@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 01:35:49](https://news.ycombinator.com/item?id=42447332) - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
+* [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 00:44:18](https://news.ycombinator.com/item?id=42447059) - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:37:06](https://news.ycombinator.com/item?id=42447012) - [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
