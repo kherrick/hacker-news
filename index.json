@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-12-18, 03:04:42",
-      "https://news.ycombinator.com/item?id=42447762"
-    ],
-    [
-      "How We Centralized and Structured Error Handling in Golang",
-      "https://olivernguyen.io/w/namespace.error/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 00:46:19",
       "https://news.ycombinator.com/item?id=42447071"
     ],
@@ -207,6 +197,16 @@
     [
       "After 3 Years, I Failed. Here's All My Startup's Code",
       "https://dylanhuang.com/blog/closing-my-startup/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 17:34:05",
+      "https://news.ycombinator.com/item?id=42433199"
+    ],
+    [
+      "SeleniumBase: Python APIs for web automation and bypassing bot-detection",
+      "https://github.com/seleniumbase/SeleniumBase"
     ]
   ],
   [
