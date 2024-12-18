@@ -3,7 +3,7 @@
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 20:43:22](https://news.ycombinator.com/item?id=42454934) - [What is metformin's secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-* [2024-12-18, 20:27:41](https://news.ycombinator.com/item?id=42454723) - [Show HN: K8s Cleaner – Your Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
+* [2024-12-18, 20:27:41](https://news.ycombinator.com/item?id=42454723) - [Show HN: K8s Cleaner – Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [2024-12-18, 20:15:16](https://news.ycombinator.com/item?id=42454586) - [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
@@ -20,7 +20,6 @@
 * [2024-12-18, 11:14:09](https://news.ycombinator.com/item?id=42449602) - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
 * [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
-* [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
@@ -30,6 +29,7 @@
 * [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
+* [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest human genomes reveal how a small group burst out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 
 ## [Archives](archives/index.md)
 
