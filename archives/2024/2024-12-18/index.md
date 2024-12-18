@@ -8,6 +8,7 @@
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 20:27:41](https://news.ycombinator.com/item?id=42454723) - [Show HN: K8s Cleaner – Your Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
+* [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 19:39:59](https://news.ycombinator.com/item?id=42454139) - [On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs](https://www.eqtylab.io/blog/verifiable-compute-press-release)
 * [2024-12-18, 19:10:06](https://news.ycombinator.com/item?id=42453727) - [Comparing Rust Database Crates](https://diesel.rs/compare_diesel.html)
 * [2024-12-18, 19:03:13](https://news.ycombinator.com/item?id=42453660) - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
