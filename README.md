@@ -9,7 +9,7 @@
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 19:39:59](https://news.ycombinator.com/item?id=42454139) - [On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs](https://www.eqtylab.io/blog/verifiable-compute-press-release)
 * [2024-12-18, 19:03:13](https://news.ycombinator.com/item?id=42453660) - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
-* [2024-12-18, 18:55:18](https://news.ycombinator.com/item?id=42453574) - [The end is nigh and here's why](https://www.experimental-history.com/p/the-end-is-nigh-and-heres-why)
+* [2024-12-18, 19:02:56](https://news.ycombinator.com/item?id=42453650) - [Show HN: Musoq – Query Anything with SQL Syntax (Git, C#, CSV, Can DBC)](https://github.com/Puchaczov/Musoq)
 * [2024-12-18, 18:29:55](https://news.ycombinator.com/item?id=42453341) - [GitHub Copilot is now available for free](https://github.com/features/copilot)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 16:58:03](https://news.ycombinator.com/item?id=42452285) - [BlackSheep: Fast ASGI web framework for Python](https://github.com/Neoteroi/BlackSheep)
