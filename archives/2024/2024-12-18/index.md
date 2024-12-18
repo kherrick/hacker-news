@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 17:56:49](https://news.ycombinator.com/item?id=42452995) - [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
 * [2024-12-18, 16:43:27](https://news.ycombinator.com/item?id=42452131) - [U.S. Supreme Court will hear arguments over TikTok divestment law](https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html)
