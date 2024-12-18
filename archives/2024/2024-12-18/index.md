@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 19:10:06](https://news.ycombinator.com/item?id=42453727) - [Comparing Rust Database Crates](https://diesel.rs/compare_diesel.html)
+* [2024-12-18, 19:03:13](https://news.ycombinator.com/item?id=42453660) - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
+* [2024-12-18, 18:56:10](https://news.ycombinator.com/item?id=42453582) - [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
+* [2024-12-18, 18:49:22](https://news.ycombinator.com/item?id=42453529) - [GitHub Copilot Free Plan](https://github.com/features/copilot/plans)
 * [2024-12-18, 18:38:31](https://news.ycombinator.com/item?id=42453431) - [Day Zero – Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
+* [2024-12-18, 18:29:55](https://news.ycombinator.com/item?id=42453341) - [GitHub Copilot is now available for free: The AI editor for everyone](https://github.com/features/copilot)
 * [2024-12-18, 17:56:49](https://news.ycombinator.com/item?id=42452995) - [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
