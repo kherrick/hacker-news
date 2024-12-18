@@ -77,6 +77,7 @@
 * [2024-12-16, 04:01:32](https://news.ycombinator.com/item?id=42427916) - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 * [2024-12-16, 03:55:10](https://news.ycombinator.com/item?id=42427888) - [OpenERV](https://www.openerv.ca)
 * [2024-12-16, 03:39:44](https://news.ycombinator.com/item?id=42427826) - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
+* [2024-12-16, 03:37:52](https://news.ycombinator.com/item?id=42427812) - [Evelyn McHale (2017)](http://www.codex99.com/photography/43.html)
 * [2024-12-16, 03:07:28](https://news.ycombinator.com/item?id=42427677) - [Eating Spaghetti by the Fistful Was Once a Neapolitan Street Spectacle](https://www.atlasobscura.com/articles/spaghetti-eaten-by-hand-naples)
 * [2024-12-16, 02:15:05](https://news.ycombinator.com/item?id=42427428) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-16, 01:59:26](https://news.ycombinator.com/item?id=42427358) - [The next time Wikipedia asks for a donation, ignore it](https://unherd.com/newsroom/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
