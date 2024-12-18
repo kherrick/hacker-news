@@ -27,9 +27,9 @@
 * [2024-12-17, 18:18:52](https://news.ycombinator.com/item?id=42443737) - [Early Bronze Age Butchered Human Remains from Charterhouse Warren, Somerset, UK](https://www.cambridge.org/core/journals/antiquity/article/darker-angels-of-our-nature-early-bronze-age-butchered-human-remains-from-charterhouse-warren-somerset-uk/93EBB135C857C7B7992FC80A4ED927AF)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:53:52](https://news.ycombinator.com/item?id=42442354) - [ISO 8583: The language of credit cards](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
+* [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
-* [2024-12-15, 13:26:02](https://news.ycombinator.com/item?id=42423282) - [AI, Encryption, and the Sins of the 90s](https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/)
 
 ## [Archives](archives/index.md)
 
