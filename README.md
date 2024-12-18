@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
+* [2024-12-18, 11:11:04](https://news.ycombinator.com/item?id=42449588) - [Trying to Recreate iOS on the Web](https://homescreen.app/)
 * [2024-12-18, 10:12:34](https://news.ycombinator.com/item?id=42449363) - [Lies, damned lies, and Impact Hero (refoorest, allcolibri)](https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/)
 * [2024-12-18, 09:15:44](https://news.ycombinator.com/item?id=42449102) - [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
@@ -15,9 +16,9 @@
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 22:04:26](https://news.ycombinator.com/item?id=42445834) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-17, 21:29:52](https://news.ycombinator.com/item?id=42445508) - [Includeable minimal operating system for C++](https://www.includeos.org/)
+* [2024-12-17, 21:08:34](https://news.ycombinator.com/item?id=42445328) - [Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
-* [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 09:44:44](https://news.ycombinator.com/item?id=42439897) - [Ted: Tool for editing files according to the rules of a provided Turing Machine](https://github.com/ahalbert/ted)
@@ -28,7 +29,6 @@
 * [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
 * [2024-12-14, 19:33:29](https://news.ycombinator.com/item?id=42418939) - [Reclaim Your Data: Freeing a Wi-Fi Sensor from the Cloud](https://embeddedartistry.com/blog/2024/11/04/reclaim-your-data-freeing-a-wi-fi-sensor-from-the-cloud/)
-* [2024-12-14, 05:06:19](https://news.ycombinator.com/item?id=42414817) - [A quick look at OS/2's builtin virtualization](https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html)
 * [2024-12-14, 00:26:13](https://news.ycombinator.com/item?id=42413574) - [Voxon: Real time interactive volumetric holograms](https://www.voxon.co)
 
 ## [Archives](archives/index.md)
