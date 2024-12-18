@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-18, 04:49:55",
-      "https://news.ycombinator.com/item?id=42448193"
-    ],
-    [
-      "No More Adam: Learning Rate Scaling at Initialization Is All You Need",
-      "https://arxiv.org/abs/2412.11768"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 04:45:41",
       "https://news.ycombinator.com/item?id=42448184"
     ],
@@ -177,6 +167,16 @@
     [
       "Crunch – a Scheme compiler with a minimal runtime",
       "https://www.more-magic.net/posts/crunch.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 10:06:22",
+      "https://news.ycombinator.com/item?id=42440016"
+    ],
+    [
+      "Natural Number Game: build the basic theory of the natural numbers from scratch",
+      "https://adam.math.hhu.de/#/g/leanprover-community/NNG4"
     ]
   ],
   [
