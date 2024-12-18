@@ -21,6 +21,7 @@
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-18, 11:14:09](https://news.ycombinator.com/item?id=42449602) - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
+* [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
 * [2024-12-18, 00:08:52](https://news.ycombinator.com/item?id=42446846) - [Optimizing Ruby's JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 18:18:52](https://news.ycombinator.com/item?id=42443737) - [Early Bronze Age Butchered Human Remains from Charterhouse Warren, Somerset, UK](https://www.cambridge.org/core/journals/antiquity/article/darker-angels-of-our-nature-early-bronze-age-butchered-human-remains-from-charterhouse-warren-somerset-uk/93EBB135C857C7B7992FC80A4ED927AF)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
@@ -29,7 +30,6 @@
 * [2024-12-16, 20:48:25](https://news.ycombinator.com/item?id=42435254) - [Kong in Concert (2004)](https://dkcproject.ocremix.org/index.html)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
-* [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest human genomes reveal how a small group burst out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 
 ## [Archives](archives/index.md)
 
