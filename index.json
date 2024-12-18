@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 15:19:46",
+      "https://news.ycombinator.com/item?id=42451130"
+    ],
+    [
+      "US Weighs Banning TP-Link Routers",
+      "https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 15:00:52",
       "https://news.ycombinator.com/item?id=42450950"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-12-18, 00:37:06",
-      "https://news.ycombinator.com/item?id=42447012"
-    ],
-    [
-      "Ad: An Adaptable Text Editor",
-      "https://github.com/sminez/ad"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 00:17:54",
       "https://news.ycombinator.com/item?id=42446889"
     ],
@@ -217,16 +217,6 @@
     [
       "Design Token-Based UI Architecture",
       "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 20:36:07",
-      "https://news.ycombinator.com/item?id=42445037"
-    ],
-    [
-      "FTC bans hidden junk fees in hotel, event ticket prices",
-      "https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Jupyter Notebooks as E2E Tests",
       "https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 10:01:28",
+      "https://news.ycombinator.com/item?id=42429601"
+    ],
+    [
+      "Faster continuous integration builds at Canva",
+      "https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/"
     ]
   ],
   [
