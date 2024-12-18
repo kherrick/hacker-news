@@ -2,6 +2,7 @@
 
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
 * [2024-12-18, 12:58:57](https://news.ycombinator.com/item?id=42450084) - [Insurers Are Deserting Homeowners as Climate Shocks Worsen](https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html)
+* [2024-12-18, 12:58:32](https://news.ycombinator.com/item?id=42450080) - [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
 * [2024-12-18, 12:01:07](https://news.ycombinator.com/item?id=42449798) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
 * [2024-12-18, 11:11:04](https://news.ycombinator.com/item?id=42449588) - [Trying to Recreate iOS on the Web](https://homescreen.app/)
@@ -21,7 +22,6 @@
 * [2024-12-17, 21:08:34](https://news.ycombinator.com/item?id=42445328) - [Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
-* [2024-12-17, 16:40:31](https://news.ycombinator.com/item?id=42442812) - [Show HN: I built an open-source data pipeline tool in Go](https://github.com/bruin-data/bruin)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
