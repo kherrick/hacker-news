@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
 * [2024-12-18, 16:39:15](https://news.ycombinator.com/item?id=42452067) - [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
+* [2024-12-18, 16:33:18](https://news.ycombinator.com/item?id=42451979) - [W54](https://en.wikipedia.org/wiki/W54)
 * [2024-12-18, 16:25:04](https://news.ycombinator.com/item?id=42451886) - [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
 * [2024-12-18, 16:23:44](https://news.ycombinator.com/item?id=42451868) - [USDA locks barn door after Listeria escapes](https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/)
 * [2024-12-18, 16:21:57](https://news.ycombinator.com/item?id=42451848) - [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1)
+* [2024-12-18, 16:10:54](https://news.ycombinator.com/item?id=42451717) - [Intel Inside, Gelsinger Outside](https://spyglass.org/intel-outside-gelsinger/)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:34:12](https://news.ycombinator.com/item?id=42451271) - [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)
