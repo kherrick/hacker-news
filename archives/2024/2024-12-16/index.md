@@ -39,6 +39,7 @@
 * [2024-12-16, 15:52:47](https://news.ycombinator.com/item?id=42432151) - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
 * [2024-12-16, 15:37:07](https://news.ycombinator.com/item?id=42432004) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 14:40:46](https://news.ycombinator.com/item?id=42431361) - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
+* [2024-12-16, 14:33:29](https://news.ycombinator.com/item?id=42431299) - [Scale Not Sales: Automating Revenue So Graph Go Up](https://blog.railway.com/p/scale-not-sales)
 * [2024-12-16, 14:22:03](https://news.ycombinator.com/item?id=42431186) - [Modelica](https://modelica.org/)
 * [2024-12-16, 14:11:19](https://news.ycombinator.com/item?id=42431103) - [Ask HN: SWEs how do you future-proof your career in light of LLMs?](https://news.ycombinator.com/item?id=42431103)
 * [2024-12-16, 14:10:15](https://news.ycombinator.com/item?id=42431090) - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
