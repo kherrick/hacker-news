@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
 * [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
+* [2024-12-18, 16:43:27](https://news.ycombinator.com/item?id=42452131) - [U.S. Supreme Court will hear arguments over TikTok divestment law](https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html)
 * [2024-12-18, 16:39:15](https://news.ycombinator.com/item?id=42452067) - [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
 * [2024-12-18, 16:33:18](https://news.ycombinator.com/item?id=42451979) - [W54](https://en.wikipedia.org/wiki/W54)
 * [2024-12-18, 16:25:04](https://news.ycombinator.com/item?id=42451886) - [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
