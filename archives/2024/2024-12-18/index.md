@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 15:00:52](https://news.ycombinator.com/item?id=42450950) - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
 * [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
+* [2024-12-18, 14:53:47](https://news.ycombinator.com/item?id=42450888) - [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
 * [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
 * [2024-12-18, 14:10:12](https://news.ycombinator.com/item?id=42450525) - [AT&T follows Amazon in demanding employees spend 5 days a week in office](https://fortune.com/2024/12/18/att-return-to-office-5-days/)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)

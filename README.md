@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 15:00:52](https://news.ycombinator.com/item?id=42450950) - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
 * [2024-12-18, 14:53:53](https://news.ycombinator.com/item?id=42450890) - [US airspace closures, lack of answers deepen East Coast drone mystery](https://www.theregister.com/2024/12/17/mystery_drone_sightings/)
+* [2024-12-18, 14:53:47](https://news.ycombinator.com/item?id=42450888) - [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
 * [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
@@ -15,7 +17,6 @@
 * [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 * [2024-12-18, 03:04:42](https://news.ycombinator.com/item?id=42447762) - [How we centralized and structured error handling in Golang](https://olivernguyen.io/w/namespace.error/)
 * [2024-12-18, 00:46:19](https://news.ycombinator.com/item?id=42447071) - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
-* [2024-12-18, 00:44:18](https://news.ycombinator.com/item?id=42447059) - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
 * [2024-12-18, 00:43:24](https://news.ycombinator.com/item?id=42447053) - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 * [2024-12-18, 00:37:06](https://news.ycombinator.com/item?id=42447012) - [Ad: An Adaptable Text Editor](https://github.com/sminez/ad)
 * [2024-12-18, 00:17:54](https://news.ycombinator.com/item?id=42446889) - [We Built the Saturn V (2017)](https://www.smithsonianmag.com/air-space-magazine/we-built-saturn-v-180964759/)
@@ -27,7 +28,6 @@
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
 * [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
-* [2024-12-15, 19:46:29](https://news.ycombinator.com/item?id=42425489) - [Python Meta Circular Interpreter (2019)](https://rahul.gopinath.org/post/2019/12/07/python-mci/)
 * [2024-12-15, 18:31:43](https://news.ycombinator.com/item?id=42425038) - [Chip Cities Rise in Japan's Fields of Dreams](https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams)
 * [2024-12-15, 13:26:02](https://news.ycombinator.com/item?id=42423282) - [AI, Encryption, and the Sins of the 90s](https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/)
 
