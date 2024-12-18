@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
 * [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
 * [2024-12-18, 05:51:31](https://news.ycombinator.com/item?id=42448405) - [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)
 * [2024-12-18, 04:49:55](https://news.ycombinator.com/item?id=42448193) - [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
@@ -22,7 +23,6 @@
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)
 * [2024-12-16, 17:34:05](https://news.ycombinator.com/item?id=42433199) - [SeleniumBase: Python APIs for web automation and bypassing bot-detection](https://github.com/seleniumbase/SeleniumBase)
 * [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
-* [2024-12-16, 14:33:29](https://news.ycombinator.com/item?id=42431299) - [Scale Not Sales: Automating Revenue So Graph Go Up](https://blog.railway.com/p/scale-not-sales)
 * [2024-12-16, 11:25:25](https://news.ycombinator.com/item?id=42430080) - [Jupyter Notebooks as E2E Tests](https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests)
 * [2024-12-16, 05:41:56](https://news.ycombinator.com/item?id=42428256) - [Oldest Human Genomes Reveal How a Small Group Burst Out of Africa](https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html)
 * [2024-12-16, 01:17:23](https://news.ycombinator.com/item?id=42427169) - [OpenAUTH: Universal, standards-based auth provider](https://openauth.js.org/)
