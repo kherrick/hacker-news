@@ -19,7 +19,6 @@
 * [2024-12-19, 10:17:52](https://news.ycombinator.com/item?id=42460131) - [Show HN: TideCloak – Decentralized IAM for security and user sovereignty](https://github.com/tide-foundation/tidecloak-gettingstarted)
 * [2024-12-19, 10:14:15](https://news.ycombinator.com/item?id=42460107) - [Show HN: CCState is a semantic, strict, and flexible state management library](https://github.com/e7h4n/ccstate)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
-* [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 19:26:53](https://news.ycombinator.com/item?id=42453939) - [How an Indian startup hacked the world (2023)](https://www.reuters.com/investigates/special-report/usa-hackers-appin/)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
@@ -30,6 +29,7 @@
 * [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [The Night Watch [pdf] (2013)](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
 * [2024-12-17, 10:26:36](https://news.ycombinator.com/item?id=42440121) - [Visualizing 6D Mesh Parallelism](https://main-horse.github.io/posts/visualizing-6d/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
+* [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
 ## [Archives](archives/index.md)
 
