@@ -47,6 +47,7 @@
 * [2024-12-17, 09:49:17](https://news.ycombinator.com/item?id=42439921) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-17, 09:44:44](https://news.ycombinator.com/item?id=42439897) - [Ted: Tool for editing files according to the rules of a provided Turing Machine](https://github.com/ahalbert/ted)
 * [2024-12-17, 09:06:58](https://news.ycombinator.com/item?id=42439689) - [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
+* [2024-12-17, 08:03:48](https://news.ycombinator.com/item?id=42439345) - [Beginning NFC: Introducing NDEF](https://www.oreilly.com/library/view/beginning-nfc/9781449324094/ch04.html)
 * [2024-12-17, 06:52:10](https://news.ycombinator.com/item?id=42438966) - [Tig: Text-Mode Interface for Git](https://jonas.github.io/tig/)
 * [2024-12-17, 06:43:51](https://news.ycombinator.com/item?id=42438918) - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
 * [2024-12-17, 06:10:26](https://news.ycombinator.com/item?id=42438767) - [How I used linear algebra to build an interactive diagramming editor](https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d)

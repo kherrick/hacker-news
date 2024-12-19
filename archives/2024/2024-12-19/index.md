@@ -29,6 +29,7 @@
 * [2024-12-19, 14:36:36](https://news.ycombinator.com/item?id=42461734) - [Fish shell announces 4.0 release](https://lwn.net/Articles/1002820/)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:16:45](https://news.ycombinator.com/item?id=42461566) - [AIs Will Increasingly Attempt Shenanigans](https://www.lesswrong.com/posts/v7iepLXH2KT4SDEvB/ais-will-increasingly-attempt-shenanigans)
+* [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-19, 14:12:04](https://news.ycombinator.com/item?id=42461529) - [Amazon forces sellers to divulge COGS, won't reimburse other costs](https://sellercentral.amazon.com/seller-forums/discussions/t/68864b6f-0ab8-41ef-be18-069c33df6336)
 * [2024-12-19, 14:06:13](https://news.ycombinator.com/item?id=42461480) - [Show HN: Job Simlarity (vector similarity graphs, WhoIsHiring/JSON Resume)](https://registry.jsonresume.org/job-similarity)
 * [2024-12-19, 13:59:47](https://news.ycombinator.com/item?id=42461428) - [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
