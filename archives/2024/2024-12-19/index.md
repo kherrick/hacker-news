@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 11:16:26](https://news.ycombinator.com/item?id=42460394) - [Want to book a Ryanair flight? Prepare for a face scan](https://noyb.eu/en/want-book-ryanair-flight-prepare-face-scan)
 * [2024-12-19, 09:18:40](https://news.ycombinator.com/item?id=42459790) - [Scientists learning to 'write' skills to human brain noninvasively, like Matrix](https://interestingengineering.com/science/implant-information-directly-into-brain)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
