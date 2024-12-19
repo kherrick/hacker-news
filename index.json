@@ -1,11 +1,41 @@
 [
   [
     [
+      "2024-12-19, 14:58:30",
+      "https://news.ycombinator.com/item?id=42461964"
+    ],
+    [
+      "Botan: Crypto and TLS for Modern C++",
+      "https://github.com/randombit/botan"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 14:29:18",
+      "https://news.ycombinator.com/item?id=42461688"
+    ],
+    [
+      "Nullboard: Kanban board in a single HTML file",
+      "https://github.com/apankrat/nullboard"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 14:06:13",
+      "https://news.ycombinator.com/item?id=42461480"
+    ],
+    [
+      "Show HN: Job Simlarity (vector similarity graphs, WhoIsHiring/JSON Resume)",
+      "https://registry.jsonresume.org/job-similarity"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 13:59:47",
       "https://news.ycombinator.com/item?id=42461428"
     ],
     [
-      "Santa Prefers Wealthy Sick Children",
+      "Santa Prefers Wealthy Sick Children (2023)",
       "https://taylor.town/santa-prefers"
     ]
   ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-12-18, 21:20:03",
-      "https://news.ycombinator.com/item?id=42455372"
-    ],
-    [
-      "Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones",
-      "https://news.ycombinator.com/item?id=42455372"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 20:42:54",
       "https://news.ycombinator.com/item?id=42454929"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-12-18, 11:25:48",
-      "https://news.ycombinator.com/item?id=42449647"
-    ],
-    [
-      "Khalid Sheldrake: The East Dulwich man who would be King",
-      "https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 10:29:38",
       "https://news.ycombinator.com/item?id=42449424"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2024-12-18, 09:15:44",
-      "https://news.ycombinator.com/item?id=42449102"
+      "2024-12-17, 22:43:10",
+      "https://news.ycombinator.com/item?id=42446240"
     ],
     [
-      "Analyzing the World Chess Championship 2024: Empirical synthesized approach",
-      "https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b"
+      "trofaf – super simple live static blog generator in Go",
+      "https://github.com/mna/trofaf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "In Defense of Y'All",
       "https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 17:26:26",
-      "https://news.ycombinator.com/item?id=42443229"
-    ],
-    [
-      "Moon",
-      "https://ciechanow.ski/moon/"
     ]
   ],
   [
