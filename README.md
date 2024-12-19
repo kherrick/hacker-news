@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
 * [2024-12-19, 15:29:15](https://news.ycombinator.com/item?id=42462348) - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 * [2024-12-19, 14:48:35](https://news.ycombinator.com/item?id=42461860) - [Tracing packets in the Linux kernel networking stack and friends](https://github.com/retis-org/retis)
@@ -9,7 +10,6 @@
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
-* [2024-12-19, 02:19:36](https://news.ycombinator.com/item?id=42457712) - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
 * [2024-12-19, 01:47:05](https://news.ycombinator.com/item?id=42457515) - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
@@ -17,7 +17,6 @@
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
-* [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-18, 10:29:38](https://news.ycombinator.com/item?id=42449424) - [An artist who trained rats to trade in foreign-exchange markets](https://www.theatlantic.com/business/archive/2014/10/the-artist-who-trained-rats-to-trade-in-foreign-exchange-markets/381456/)
 * [2024-12-17, 22:43:10](https://news.ycombinator.com/item?id=42446240) - [trofaf – super simple live static blog generator in Go](https://github.com/mna/trofaf)
@@ -29,6 +28,7 @@
 * [2024-12-16, 21:25:44](https://news.ycombinator.com/item?id=42435620) - [Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire#)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
+* [2024-12-15, 19:30:25](https://news.ycombinator.com/item?id=42425403) - [Synology DS923 vs. FreeBSD with ZFS](https://blogsystem5.substack.com/p/synology-ds923-vs-freebsd)
 * [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
 ## [Archives](archives/index.md)
