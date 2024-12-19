@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-12-19, 18:52:43",
+      "https://news.ycombinator.com/item?id=42464557"
+    ],
+    [
+      "Music and Geometry: Intervals and Scales",
+      "https://roelsworld.eu/blog-music/music-geometry-intervals-scales/"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 18:25:55",
       "https://news.ycombinator.com/item?id=42464310"
     ],
     [
-      "Show HN: Mizu.js – Bringing back simplicity in web apps creation",
+      "Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering",
       "https://mizu.sh"
     ]
   ],
@@ -101,6 +111,36 @@
   ],
   [
     [
+      "2024-12-19, 11:35:31",
+      "https://news.ycombinator.com/item?id=42460494"
+    ],
+    [
+      "DVST Graphic Terminals",
+      "https://vintagetek.org/dvst-graphic-terminals/"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 10:17:52",
+      "https://news.ycombinator.com/item?id=42460131"
+    ],
+    [
+      "Show HN: TideCloak – Decentralized IAM for security and user sovereignty",
+      "https://github.com/tide-foundation/tidecloak-gettingstarted"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 10:14:15",
+      "https://news.ycombinator.com/item?id=42460107"
+    ],
+    [
+      "Show HN: CCState is a semantic, strict, and flexible state management library",
+      "https://github.com/e7h4n/ccstate"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 05:43:29",
       "https://news.ycombinator.com/item?id=42458752"
     ],
@@ -131,42 +171,12 @@
   ],
   [
     [
-      "2024-12-19, 02:28:36",
-      "https://news.ycombinator.com/item?id=42457782"
-    ],
-    [
-      "Show HN: Postgres as a VectorDB GUI",
-      "https://github.com/Z-Gort/Reservoirs-Lab"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 01:14:39",
       "https://news.ycombinator.com/item?id=42457321"
     ],
     [
       "Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico",
       "https://github.com/garyexplains/piccolo_os_v1"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 00:54:48",
-      "https://news.ycombinator.com/item?id=42457213"
-    ],
-    [
-      "Genesis – a generative physics engine for general-purpose robotics",
-      "https://genesis-world.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 23:17:56",
-      "https://news.ycombinator.com/item?id=42456585"
-    ],
-    [
-      "Classical sorting algorithms as a model of morphogenesis (2023)",
-      "https://arxiv.org/abs/2401.05375"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2024-12-18, 18:17:17",
+      "https://news.ycombinator.com/item?id=42453207"
+    ],
+    [
+      "A 10-Year Battery for AirTag",
+      "https://www.elevationlab.com/blogs/news/introducing-timecapsule"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 10:29:38",
       "https://news.ycombinator.com/item?id=42449424"
     ],
     [
       "An artist who trained rats to trade in foreign-exchange markets (2014)",
       "https://www.theatlantic.com/business/archive/2014/10/the-artist-who-trained-rats-to-trade-in-foreign-exchange-markets/381456/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 20:12:18",
-      "https://news.ycombinator.com/item?id=42444817"
-    ],
-    [
-      "In Defense of Y'All",
-      "https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-12-17, 11:29:26",
+      "https://news.ycombinator.com/item?id=42440496"
+    ],
+    [
+      "James Mickens: The Night Watch [pdf]",
+      "https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 10:26:36",
       "https://news.ycombinator.com/item?id=42440121"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-12-17, 03:28:18",
-      "https://news.ycombinator.com/item?id=42438063"
-    ],
-    [
-      "Torpedo juice: Legendary, illegal WWII liquor drunk in Alaska and the world",
-      "https://www.adn.com/alaska-life/2024/12/15/torpedo-juice-the-legendary-illegal-world-war-ii-liquor-drunk-in-alaska-and-across-the-world/"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 21:25:44",
       "https://news.ycombinator.com/item?id=42435620"
     ],
     [
       "Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches",
       "https://verdagon.dev/grimoire/grimoire#"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 16:15:43",
-      "https://news.ycombinator.com/item?id=42432374"
-    ],
-    [
-      "Apple Watch with Android",
-      "https://abishekmuthian.com/apple-watch-with-android/"
     ]
   ],
   [
