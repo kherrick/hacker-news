@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-19, 02:28:36",
+      "https://news.ycombinator.com/item?id=42457782"
+    ],
+    [
+      "Show HN: Postgres as a VectorDB GUI",
+      "https://github.com/Z-Gort/Reservoirs-Lab"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 01:47:05",
+      "https://news.ycombinator.com/item?id=42457515"
+    ],
+    [
+      "Error Stacking in Rust",
+      "https://greptime.com/blogs/2024-05-07-error-rust"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 01:34:31",
       "https://news.ycombinator.com/item?id=42457436"
     ],
@@ -17,6 +37,16 @@
     [
       "Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico",
       "https://github.com/garyexplains/piccolo_os_v1"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 00:49:24",
+      "https://news.ycombinator.com/item?id=42457182"
+    ],
+    [
+      "Half My Life with Perl – By Randal Schwartz",
+      "https://perladvent.org/2024/2024-12-19.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-12-18, 20:27:41",
-      "https://news.ycombinator.com/item?id=42454723"
-    ],
-    [
-      "Show HN: K8s Cleaner – Roomba for Kubernetes",
-      "https://sveltos.projectsveltos.io/k8sCleaner.html"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 20:15:16",
       "https://news.ycombinator.com/item?id=42454586"
     ],
@@ -147,16 +167,6 @@
     [
       "On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs",
       "https://www.eqtylab.io/blog/verifiable-compute-press-release"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 18:29:55",
-      "https://news.ycombinator.com/item?id=42453341"
-    ],
-    [
-      "GitHub Copilot is now available for free",
-      "https://github.com/features/copilot"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "ISO 8583: The language of credit cards",
       "https://increase.com/articles/iso-8583-the-language-of-credit-cards"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 21:33:08",
-      "https://news.ycombinator.com/item?id=42435688"
-    ],
-    [
-      "Saturn's rings could be much older than scientists first thought",
-      "https://www.space.com/the-universe/saturn/saturns-rings-could-be-much-older-than-scientists-first-thought"
     ]
   ],
   [
