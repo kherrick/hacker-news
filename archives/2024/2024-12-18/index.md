@@ -28,6 +28,7 @@
 * [2024-12-18, 18:49:22](https://news.ycombinator.com/item?id=42453529) - [GitHub Copilot Free Plan](https://github.com/features/copilot/plans)
 * [2024-12-18, 18:38:31](https://news.ycombinator.com/item?id=42453431) - [Day Zero – Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
 * [2024-12-18, 18:29:55](https://news.ycombinator.com/item?id=42453341) - [GitHub Copilot is now available for free: The AI editor for everyone](https://github.com/features/copilot)
+* [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
 * [2024-12-18, 18:09:17](https://news.ycombinator.com/item?id=42453126) - [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)
 * [2024-12-18, 17:56:49](https://news.ycombinator.com/item?id=42452995) - [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)

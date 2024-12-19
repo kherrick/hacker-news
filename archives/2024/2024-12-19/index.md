@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Bringing back simplicity in web apps creation](https://mizu.sh)
 * [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
 * [2024-12-19, 17:49:07](https://news.ycombinator.com/item?id=42463943) - [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435)
@@ -26,7 +27,10 @@
 * [2024-12-19, 13:30:55](https://news.ycombinator.com/item?id=42461207) - [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
 * [2024-12-19, 12:42:03](https://news.ycombinator.com/item?id=42460899) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
 * [2024-12-19, 11:54:35](https://news.ycombinator.com/item?id=42460607) - [Don't Be Misled by Build an App in 5 Minutes with Cursor](https://www.pixelstech.net/article/1734488862-do-not-be-misled-by-%e2%80%98build-an-app-in-5-minutes%e2%80%99%3a-in-depth-practice-with-cursor)
+* [2024-12-19, 11:35:31](https://news.ycombinator.com/item?id=42460494) - [DVST Graphic Terminals](https://vintagetek.org/dvst-graphic-terminals/)
 * [2024-12-19, 11:16:26](https://news.ycombinator.com/item?id=42460394) - [Want to book a Ryanair flight? Prepare for a face scan](https://noyb.eu/en/want-book-ryanair-flight-prepare-face-scan)
+* [2024-12-19, 10:17:52](https://news.ycombinator.com/item?id=42460131) - [Show HN: TideCloak – Decentralized IAM for security and user sovereignty](https://github.com/tide-foundation/tidecloak-gettingstarted)
+* [2024-12-19, 10:14:15](https://news.ycombinator.com/item?id=42460107) - [Show HN: CCState is a semantic, strict, and flexible state management library](https://github.com/e7h4n/ccstate)
 * [2024-12-19, 09:18:40](https://news.ycombinator.com/item?id=42459790) - [Scientists learning to 'write' skills to human brain noninvasively, like Matrix](https://interestingengineering.com/science/implant-information-directly-into-brain)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
