@@ -49,6 +49,7 @@
 * [2024-12-17, 03:52:26](https://news.ycombinator.com/item?id=42438175) - [MIT study explains why laws are written in an incomprehensible style](https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819)
 * [2024-12-17, 03:28:18](https://news.ycombinator.com/item?id=42438063) - [Torpedo juice: Legendary, illegal WWII liquor drunk in Alaska and the world](https://www.adn.com/alaska-life/2024/12/15/torpedo-juice-the-legendary-illegal-world-war-ii-liquor-drunk-in-alaska-and-across-the-world/)
 * [2024-12-17, 03:17:05](https://news.ycombinator.com/item?id=42438009) - [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
+* [2024-12-17, 03:07:11](https://news.ycombinator.com/item?id=42437958) - [Making Apple Watch functional with Android](https://github.com/abishekmuthian/apple-watch-with-android)
 * [2024-12-17, 02:42:06](https://news.ycombinator.com/item?id=42437828) - [Introduction to Wait-free Algorithms in C++ Programming [video]](https://www.youtube.com/watch?v=kPh8pod0-gk)
 * [2024-12-17, 02:16:30](https://news.ycombinator.com/item?id=42437697) - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
 * [2024-12-17, 01:20:23](https://news.ycombinator.com/item?id=42437400) - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
