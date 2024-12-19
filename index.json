@@ -1,12 +1,72 @@
 [
   [
     [
-      "2024-12-18, 22:08:46",
-      "https://news.ycombinator.com/item?id=42455992"
+      "2024-12-19, 01:34:31",
+      "https://news.ycombinator.com/item?id=42457436"
     ],
     [
-      "Apple collaborates with Nvidia to research faster LLM performance",
-      "https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/"
+      "There's No Such Thing as Software Productivity (2012)",
+      "https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 00:32:24",
+      "https://news.ycombinator.com/item?id=42457073"
+    ],
+    [
+      "Apple Says Meta Is Making Unreasonable Interoperability Requests Under EU's DMA",
+      "https://www.macrumors.com/2024/12/18/apple-meta-interoperability-requests-dma/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 23:34:09",
+      "https://news.ycombinator.com/item?id=42456715"
+    ],
+    [
+      "Nurses whose shitty boss is a shitty app",
+      "https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 23:33:14",
+      "https://news.ycombinator.com/item?id=42456707"
+    ],
+    [
+      "Embedding Lua in Sqleibniz with Rust",
+      "https://xnacly.me/posts/2024/embed-lua-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 23:17:56",
+      "https://news.ycombinator.com/item?id=42456585"
+    ],
+    [
+      "Self-sorting arrays reveal unexpected competencies in minimal intelligence",
+      "https://arxiv.org/abs/2401.05375"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 23:17:08",
+      "https://news.ycombinator.com/item?id=42456574"
+    ],
+    [
+      "The moonbit compiler is available on GitHub",
+      "https://www.moonbitlang.com/blog/compiler-opensource"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 22:43:27",
+      "https://news.ycombinator.com/item?id=42456310"
+    ],
+    [
+      "The RAM Myth",
+      "https://purplesyringa.moe/blog/the-ram-myth/"
     ]
   ],
   [
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2024-12-18, 20:05:17",
-      "https://news.ycombinator.com/item?id=42454454"
-    ],
-    [
-      "Harvard Is Releasing a Free AI Training Dataset",
-      "https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 20:01:18",
       "https://news.ycombinator.com/item?id=42454405"
     ],
@@ -87,26 +137,6 @@
     [
       "On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs",
       "https://www.eqtylab.io/blog/verifiable-compute-press-release"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 19:03:13",
-      "https://news.ycombinator.com/item?id=42453660"
-    ],
-    [
-      "1-800-ChatGPT",
-      "https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 19:02:56",
-      "https://news.ycombinator.com/item?id=42453650"
-    ],
-    [
-      "Show HN: Musoq – Query Anything with SQL Syntax (Git, C#, CSV, Can DBC)",
-      "https://github.com/Puchaczov/Musoq"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2024-12-18, 08:24:12",
-      "https://news.ycombinator.com/item?id=42448913"
-    ],
-    [
-      "Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui",
-      "https://github.com/brenocq/implot3d"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 00:08:52",
       "https://news.ycombinator.com/item?id=42446846"
     ],
     [
       "Optimizing Ruby's JSON, Part 1",
       "https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 18:18:52",
-      "https://news.ycombinator.com/item?id=42443737"
-    ],
-    [
-      "Early Bronze Age Butchered Human Remains from Charterhouse Warren, Somerset, UK",
-      "https://www.cambridge.org/core/journals/antiquity/article/darker-angels-of-our-nature-early-bronze-age-butchered-human-remains-from-charterhouse-warren-somerset-uk/93EBB135C857C7B7992FC80A4ED927AF"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
+      "2024-12-16, 21:33:08",
+      "https://news.ycombinator.com/item?id=42435688"
+    ],
+    [
+      "Saturn's rings could be much older than scientists first thought",
+      "https://www.space.com/the-universe/saturn/saturns-rings-could-be-much-older-than-scientists-first-thought"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 20:49:30",
       "https://news.ycombinator.com/item?id=42435267"
     ],
     [
       "\"The Custer Wolf is Dead.\" (1921) [pdf]",
       "https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 20:48:25",
-      "https://news.ycombinator.com/item?id=42435254"
-    ],
-    [
-      "Kong in Concert (2004)",
-      "https://dkcproject.ocremix.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 19:20:49",
-      "https://news.ycombinator.com/item?id=42434331"
-    ],
-    [
-      "Crashing rockets and recovering data from damaged flash chips",
-      "https://dontvacuum.me/rocketflashrecovery/index.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-12-16, 05:41:56",
-      "https://news.ycombinator.com/item?id=42428256"
+      "2024-12-15, 05:29:37",
+      "https://news.ycombinator.com/item?id=42421689"
     ],
     [
-      "Oldest human genomes reveal how a small group burst out of Africa",
-      "https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html"
+      "Our brains create mental \"chapters\" with new event segmentation study",
+      "https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/"
     ]
   ]
 ]
