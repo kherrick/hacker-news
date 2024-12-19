@@ -47,6 +47,7 @@
 * [2024-12-15, 13:26:02](https://news.ycombinator.com/item?id=42423282) - [AI, Encryption, and the Sins of the 90s](https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/)
 * [2024-12-15, 13:21:40](https://news.ycombinator.com/item?id=42423263) - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
 * [2024-12-15, 13:17:34](https://news.ycombinator.com/item?id=42423253) - [Ruby Video – On a mission to index all Ruby conferences](https://www.rubyvideo.dev/)
+* [2024-12-15, 13:02:33](https://news.ycombinator.com/item?id=42423199) - [Automotive Grade Linux Launches New Expert Group Led by Toyota](https://www.automotivelinux.org/announcements/ospo_eg/)
 * [2024-12-15, 11:46:21](https://news.ycombinator.com/item?id=42422942) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-15, 10:29:22](https://news.ycombinator.com/item?id=42422703) - [Two Shanghais](https://arun.is/blog/tale-of-two-shanghais/)
 * [2024-12-15, 09:54:22](https://news.ycombinator.com/item?id=42422594) - [Show HN: Shop Clothes with Models That Match Your Body Shape](https://www.thebodymatch.com)
