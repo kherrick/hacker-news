@@ -73,6 +73,7 @@
 * [2024-12-16, 11:15:32](https://news.ycombinator.com/item?id=42430024) - [Scanners Beware: Welcome to the network from hell](https://medium.com/sensorfu/scanners-beware-welcome-to-the-network-from-hell-86989f29f17b)
 * [2024-12-16, 10:13:53](https://news.ycombinator.com/item?id=42429679) - [iPhone 4 Documentary: Theft, Death and Steve Jobs [video]](https://www.youtube.com/watch?v=fkK7_QEIJrg)
 * [2024-12-16, 10:13:02](https://news.ycombinator.com/item?id=42429672) - [Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
+* [2024-12-16, 10:09:25](https://news.ycombinator.com/item?id=42429646) - [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
 * [2024-12-16, 10:02:11](https://news.ycombinator.com/item?id=42429606) - [Popeye and Tintin enter the public domain in 2025 along with Faulkner, Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
 * [2024-12-16, 10:01:28](https://news.ycombinator.com/item?id=42429601) - [Faster continuous integration builds at Canva](https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/)
 * [2024-12-16, 10:01:18](https://news.ycombinator.com/item?id=42429600) - [The long (after)life of some of our old fileserver hardware](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FileserverHardwareReuse)
