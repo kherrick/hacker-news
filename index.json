@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-12-19, 02:28:36",
+      "https://news.ycombinator.com/item?id=42457782"
+    ],
+    [
+      "Show HN: Postgres as a VectorDB GUI",
+      "https://github.com/Z-Gort/Reservoirs-Lab"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 01:14:39",
       "https://news.ycombinator.com/item?id=42457321"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42440496"
     ],
     [
-      "James Mickens: The Night Watch [pdf]",
+      "James Mickens: The Night Watch [pdf] (2013)",
       "https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Visualizing 6D Mesh Parallelism",
       "https://main-horse.github.io/posts/visualizing-6d/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 21:25:44",
-      "https://news.ycombinator.com/item?id=42435620"
-    ],
-    [
-      "Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches",
-      "https://verdagon.dev/grimoire/grimoire#"
     ]
   ],
   [
