@@ -18,6 +18,7 @@
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
+* [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
@@ -27,7 +28,6 @@
 * [2024-12-16, 21:25:44](https://news.ycombinator.com/item?id=42435620) - [Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire#)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
 * [2024-12-16, 15:58:41](https://news.ycombinator.com/item?id=42432216) - [Physicists Find Particle That Only Has Mass When Moving in One Direction](https://www.sciencealert.com/physicists-find-particle-that-only-has-mass-when-moving-in-one-direction)
-* [2024-12-16, 12:17:09](https://news.ycombinator.com/item?id=42430352) - [Tiny Black Holes Could Have Left Tunnels Inside Earth's Rocks](https://gizmodo.com/tiny-black-holes-could-have-left-tunnels-inside-earths-rocks-2000538216)
 * [2024-12-15, 13:02:33](https://news.ycombinator.com/item?id=42423199) - [Automotive Grade Linux Launches New Expert Group Led by Toyota](https://www.automotivelinux.org/announcements/ospo_eg/)
 * [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
