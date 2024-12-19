@@ -40,6 +40,7 @@
 * [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 11:43:46](https://news.ycombinator.com/item?id=42440570) - ['What Is That Thing?' Tiny Trucks Are Causing Big Fights](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
 * [2024-12-17, 10:38:07](https://news.ycombinator.com/item?id=42440185) - [SpiceNice – An Open Source Spice Database](https://tderflinger.com/en/spicenice-open-source-culinary-spice-database)
+* [2024-12-17, 10:26:36](https://news.ycombinator.com/item?id=42440121) - [Visualizing 6D Mesh Parallelism](https://main-horse.github.io/posts/visualizing-6d/)
 * [2024-12-17, 10:06:22](https://news.ycombinator.com/item?id=42440016) - [Natural Number Game: build the basic theory of the natural numbers from scratch](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 * [2024-12-17, 09:49:17](https://news.ycombinator.com/item?id=42439921) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-17, 09:44:44](https://news.ycombinator.com/item?id=42439897) - [Ted: Tool for editing files according to the rules of a provided Turing Machine](https://github.com/ahalbert/ted)
