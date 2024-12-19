@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-19, 12:42:03](https://news.ycombinator.com/item?id=42460899) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
+* [2024-12-19, 13:30:55](https://news.ycombinator.com/item?id=42461207) - [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency (2019)](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
@@ -14,7 +14,7 @@
 * [2024-12-18, 23:33:14](https://news.ycombinator.com/item?id=42456707) - [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
-* [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
+* [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
