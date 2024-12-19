@@ -2,6 +2,7 @@
 
 * [2024-12-19, 17:14:02](https://news.ycombinator.com/item?id=42463525) - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
+* [2024-12-19, 16:51:32](https://news.ycombinator.com/item?id=42463295) - [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
 * [2024-12-19, 15:29:15](https://news.ycombinator.com/item?id=42462348) - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 * [2024-12-19, 14:48:35](https://news.ycombinator.com/item?id=42461860) - [Tracing packets in the Linux kernel networking stack and friends](https://github.com/retis-org/retis)
@@ -11,7 +12,6 @@
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
-* [2024-12-19, 01:47:05](https://news.ycombinator.com/item?id=42457515) - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
 * [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Classical sorting algorithms as a model of morphogenesis (2023)](https://arxiv.org/abs/2401.05375)
