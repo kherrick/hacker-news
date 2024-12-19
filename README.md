@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
@@ -23,7 +24,6 @@
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-17, 17:26:26](https://news.ycombinator.com/item?id=42443229) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:53:52](https://news.ycombinator.com/item?id=42442354) - [ISO 8583: The language of credit cards](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
-* [2024-12-17, 11:43:46](https://news.ycombinator.com/item?id=42440570) - ['What Is That Thing?' Tiny Trucks Are Causing Big Fights](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
 * [2024-12-17, 03:28:18](https://news.ycombinator.com/item?id=42438063) - [Torpedo juice: Legendary, illegal WWII liquor drunk in Alaska and the world](https://www.adn.com/alaska-life/2024/12/15/torpedo-juice-the-legendary-illegal-world-war-ii-liquor-drunk-in-alaska-and-across-the-world/)
 * [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
