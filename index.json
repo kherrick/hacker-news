@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-12-19, 01:47:05",
+      "https://news.ycombinator.com/item?id=42457515"
+    ],
+    [
+      "Error Stacking in Rust",
+      "https://greptime.com/blogs/2024-05-07-error-rust"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 01:34:31",
       "https://news.ycombinator.com/item?id=42457436"
     ],
@@ -47,6 +57,16 @@
     [
       "Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico",
       "https://github.com/garyexplains/piccolo_os_v1"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 00:54:48",
+      "https://news.ycombinator.com/item?id=42457213"
+    ],
+    [
+      "Genesis – a generative physics engine for general-purpose robotics",
+      "https://genesis-world.readthedocs.io/en/latest/"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-12-19, 00:20:17",
-      "https://news.ycombinator.com/item?id=42456998"
-    ],
-    [
-      "Yadm: Yet Another Dotfiles Manager",
-      "https://github.com/yadm-dev/yadm"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 23:33:14",
       "https://news.ycombinator.com/item?id=42456707"
     ],
@@ -107,16 +117,6 @@
     [
       "Self-sorting arrays reveal unexpected competencies in minimal intelligence",
       "https://arxiv.org/abs/2401.05375"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 23:17:08",
-      "https://news.ycombinator.com/item?id=42456574"
-    ],
-    [
-      "The moonbit compiler is available on GitHub",
-      "https://www.moonbitlang.com/blog/compiler-opensource"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-12-18, 16:58:03",
+      "https://news.ycombinator.com/item?id=42452285"
+    ],
+    [
+      "BlackSheep: Fast ASGI web framework for Python",
+      "https://github.com/Neoteroi/BlackSheep"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 16:09:56",
       "https://news.ycombinator.com/item?id=42451707"
     ],
@@ -207,16 +217,6 @@
     [
       "Updates to H-1B",
       "https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 11:14:09",
-      "https://news.ycombinator.com/item?id=42449602"
-    ],
-    [
-      "The unbearable slowness of being: Why do we live at 10 bits/s?",
-      "https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue"
     ]
   ],
   [
