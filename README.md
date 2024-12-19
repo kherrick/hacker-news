@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-19, 13:59:47](https://news.ycombinator.com/item?id=42461428) - [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
-* [2024-12-19, 13:53:36](https://news.ycombinator.com/item?id=42461378) - [Mozilla: Proposals in US vs. Google threaten vital role of independent browsers](https://blog.mozilla.org/en/mozilla/internet-policy/google-remedies-browsers/)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency (2019)](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
@@ -13,6 +12,7 @@
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
 * [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Classical sorting algorithms as a model of morphogenesis (2023)](https://arxiv.org/abs/2401.05375)
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
+* [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
