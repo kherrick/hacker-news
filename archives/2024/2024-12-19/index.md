@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 17:01:11](https://news.ycombinator.com/item?id=42463389) - [Gemini 2.0 Flash Thinking Experimental](https://aistudio.google.com/prompts/new_chat?model=gemini-2.0-flash-thinking-exp-1219)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
 * [2024-12-19, 15:29:15](https://news.ycombinator.com/item?id=42462348) - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)

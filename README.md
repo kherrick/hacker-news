@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 17:01:11](https://news.ycombinator.com/item?id=42463389) - [Gemini 2.0 Flash Thinking Experimental](https://aistudio.google.com/prompts/new_chat?model=gemini-2.0-flash-thinking-exp-1219)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
 * [2024-12-19, 15:29:15](https://news.ycombinator.com/item?id=42462348) - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
@@ -28,7 +29,6 @@
 * [2024-12-16, 21:25:44](https://news.ycombinator.com/item?id=42435620) - [Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire#)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
-* [2024-12-15, 19:30:25](https://news.ycombinator.com/item?id=42425403) - [Synology DS923 vs. FreeBSD with ZFS](https://blogsystem5.substack.com/p/synology-ds923-vs-freebsd)
 * [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
 ## [Archives](archives/index.md)
