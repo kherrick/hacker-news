@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 22:41:30](https://news.ycombinator.com/item?id=42466491) - [The Ghosts in the Machine – Spotify's plot against musicians](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-19, 21:00:59](https://news.ycombinator.com/item?id=42465661) - [Openlayer (YC S21) is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
 * [2024-12-19, 20:44:46](https://news.ycombinator.com/item?id=42465535) - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 * [2024-12-19, 20:27:40](https://news.ycombinator.com/item?id=42465385) - [New underwater footage raise sabotage suspicions against Yi Peng 3](https://scandasia.com/new-underwater-footage-raise-sabotage-suspicions-against-yi-peng-3/)
