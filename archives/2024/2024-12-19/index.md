@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 14:47:27](https://news.ycombinator.com/item?id=42461845) - [Why Are Americans Paying So Much More for Healthcare Than They Used To?](https://www.wsj.com/health/healthcare/american-healthcare-spending-charts-explained-adaa0e23)
+* [2024-12-19, 14:36:36](https://news.ycombinator.com/item?id=42461734) - [Fish shell announces 4.0 release](https://lwn.net/Articles/1002820/)
 * [2024-12-19, 14:16:45](https://news.ycombinator.com/item?id=42461566) - [AIs Will Increasingly Attempt Shenanigans](https://www.lesswrong.com/posts/v7iepLXH2KT4SDEvB/ais-will-increasingly-attempt-shenanigans)
 * [2024-12-19, 14:12:04](https://news.ycombinator.com/item?id=42461529) - [Amazon forces sellers to divulge COGS, won't reimburse other costs](https://sellercentral.amazon.com/seller-forums/discussions/t/68864b6f-0ab8-41ef-be18-069c33df6336)
+* [2024-12-19, 13:59:47](https://news.ycombinator.com/item?id=42461428) - [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
+* [2024-12-19, 13:53:36](https://news.ycombinator.com/item?id=42461378) - [Mozilla: Proposals in US vs. Google threaten vital role of independent browsers](https://blog.mozilla.org/en/mozilla/internet-policy/google-remedies-browsers/)
 * [2024-12-19, 13:39:23](https://news.ycombinator.com/item?id=42461264) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 13:30:55](https://news.ycombinator.com/item?id=42461207) - [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
 * [2024-12-19, 12:42:03](https://news.ycombinator.com/item?id=42460899) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
