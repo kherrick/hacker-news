@@ -57,6 +57,7 @@
 * [2024-12-16, 13:23:21](https://news.ycombinator.com/item?id=42430723) - [Playing video games boosts IQ in children](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-says-study)
 * [2024-12-16, 12:42:03](https://news.ycombinator.com/item?id=42430482) - [Where Is HTTP/3?](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [2024-12-16, 12:38:11](https://news.ycombinator.com/item?id=42430450) - [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
+* [2024-12-16, 12:17:09](https://news.ycombinator.com/item?id=42430352) - [Tiny Black Holes Could Have Left Tunnels Inside Earth's Rocks](https://gizmodo.com/tiny-black-holes-could-have-left-tunnels-inside-earths-rocks-2000538216)
 * [2024-12-16, 12:11:36](https://news.ycombinator.com/item?id=42430317) - [Will Even the Most Advanced Subs Have Nowhere to Hide?](https://spectrum.ieee.org/submarine-stealth)
 * [2024-12-16, 12:11:18](https://news.ycombinator.com/item?id=42430315) - [High-Fidelity 3D Mesh Generation at Scale with Meshtron – Nvidia Technical Blog](https://developer.nvidia.com/blog/high-fidelity-3d-mesh-generation-at-scale-with-meshtron/)
 * [2024-12-16, 12:07:52](https://news.ycombinator.com/item?id=42430301) - [Sorry, Mad Men. The Ad Revolution Is Here](https://www.wsj.com/business/media/advertising-revolution-artificial-intelligence-data-mad-men-omnicom-interpublic-3c0c056b)

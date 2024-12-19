@@ -15,7 +15,6 @@
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-* [2024-12-18, 20:15:16](https://news.ycombinator.com/item?id=42454586) - [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
@@ -28,6 +27,7 @@
 * [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 18:31:35](https://news.ycombinator.com/item?id=42433807) - [Consider the Shipwreck: Ten Books on Maritime Disasters and Ecological Collapse](https://lithub.com/consider-the-shipwreck-ten-books-on-maritime-disasters-and-ecological-collapse/)
 * [2024-12-16, 16:15:43](https://news.ycombinator.com/item?id=42432374) - [Apple Watch with Android](https://abishekmuthian.com/apple-watch-with-android/)
+* [2024-12-16, 12:17:09](https://news.ycombinator.com/item?id=42430352) - [Tiny Black Holes Could Have Left Tunnels Inside Earth's Rocks](https://gizmodo.com/tiny-black-holes-could-have-left-tunnels-inside-earths-rocks-2000538216)
 * [2024-12-15, 13:02:33](https://news.ycombinator.com/item?id=42423199) - [Automotive Grade Linux Launches New Expert Group Led by Toyota](https://www.automotivelinux.org/announcements/ospo_eg/)
 * [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
