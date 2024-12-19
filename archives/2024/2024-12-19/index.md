@@ -13,6 +13,7 @@
 * [2024-12-19, 19:06:31](https://news.ycombinator.com/item?id=42464679) - [Polyamory doesn't Liberate; Monogamy doesn't Protect](https://carsonogenic.substack.com/p/polyamory-doesnt-liberate-monogamy)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Bringing back simplicity in web apps creation](https://mizu.sh)
+* [2024-12-19, 18:13:09](https://news.ycombinator.com/item?id=42464185) - [Show HN: OwlEars – Raw feedback, straight from your customers' minds](https://www.owlears.com)
 * [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
 * [2024-12-19, 17:49:07](https://news.ycombinator.com/item?id=42463943) - [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435)
 * [2024-12-19, 17:14:02](https://news.ycombinator.com/item?id=42463525) - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
