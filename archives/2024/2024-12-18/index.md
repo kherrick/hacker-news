@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 23:34:09](https://news.ycombinator.com/item?id=42456715) - [Nurses whose shitty boss is a shitty app](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)
+* [2024-12-18, 23:33:14](https://news.ycombinator.com/item?id=42456707) - [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
+* [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
+* [2024-12-18, 23:17:08](https://news.ycombinator.com/item?id=42456574) - [The moonbit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
+* [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-18, 22:08:46](https://news.ycombinator.com/item?id=42455992) - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
 * [2024-12-18, 22:02:40](https://news.ycombinator.com/item?id=42455938) - [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)

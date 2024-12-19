@@ -9,6 +9,7 @@
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 22:10:36](https://news.ycombinator.com/item?id=42436019) - [Legal fights over kei trucks in the U.S.](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
 * [2024-12-16, 22:04:30](https://news.ycombinator.com/item?id=42435972) - [Always Go to the Funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
+* [2024-12-16, 21:33:08](https://news.ycombinator.com/item?id=42435688) - [Saturn's rings could be much older than scientists first thought](https://www.space.com/the-universe/saturn/saturns-rings-could-be-much-older-than-scientists-first-thought)
 * [2024-12-16, 21:25:45](https://news.ycombinator.com/item?id=42435621) - [The Year of McDonald's](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 * [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 20:48:25](https://news.ycombinator.com/item?id=42435254) - [Kong in Concert (2004)](https://dkcproject.ocremix.org/index.html)
