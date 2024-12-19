@@ -20,6 +20,7 @@
 * [2024-12-18, 20:01:18](https://news.ycombinator.com/item?id=42454405) - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 19:39:59](https://news.ycombinator.com/item?id=42454139) - [On-silicon real-time AI compute governance from Nvidia, Intel, EQTY Labs](https://www.eqtylab.io/blog/verifiable-compute-press-release)
+* [2024-12-18, 19:26:53](https://news.ycombinator.com/item?id=42453939) - [How an Indian startup hacked the world (2023)](https://www.reuters.com/investigates/special-report/usa-hackers-appin/)
 * [2024-12-18, 19:10:06](https://news.ycombinator.com/item?id=42453727) - [Comparing Rust Database Crates](https://diesel.rs/compare_diesel.html)
 * [2024-12-18, 19:03:13](https://news.ycombinator.com/item?id=42453660) - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
 * [2024-12-18, 19:02:56](https://news.ycombinator.com/item?id=42453650) - [Show HN: Musoq – Query Anything with SQL Syntax (Git, C#, CSV, Can DBC)](https://github.com/Puchaczov/Musoq)
