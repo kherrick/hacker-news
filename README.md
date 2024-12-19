@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
 * [2024-12-19, 17:14:02](https://news.ycombinator.com/item?id=42463525) - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
 * [2024-12-19, 16:51:32](https://news.ycombinator.com/item?id=42463295) - [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
@@ -9,7 +10,6 @@
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency (2019)](https://github.com/shapr/markovkeyboard)
-* [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
@@ -19,7 +19,7 @@
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
-* [2024-12-18, 10:29:38](https://news.ycombinator.com/item?id=42449424) - [An artist who trained rats to trade in foreign-exchange markets](https://www.theatlantic.com/business/archive/2014/10/the-artist-who-trained-rats-to-trade-in-foreign-exchange-markets/381456/)
+* [2024-12-18, 10:29:38](https://news.ycombinator.com/item?id=42449424) - [An artist who trained rats to trade in foreign-exchange markets (2014)](https://www.theatlantic.com/business/archive/2014/10/the-artist-who-trained-rats-to-trade-in-foreign-exchange-markets/381456/)
 * [2024-12-17, 20:12:18](https://news.ycombinator.com/item?id=42444817) - [In Defense of Y'All](https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/)
 * [2024-12-17, 15:53:52](https://news.ycombinator.com/item?id=42442354) - [ISO 8583: The language of credit cards](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
 * [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)

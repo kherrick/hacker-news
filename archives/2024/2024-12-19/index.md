@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
 * [2024-12-19, 17:14:02](https://news.ycombinator.com/item?id=42463525) - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
 * [2024-12-19, 17:01:11](https://news.ycombinator.com/item?id=42463389) - [Gemini 2.0 Flash Thinking Experimental](https://aistudio.google.com/prompts/new_chat?model=gemini-2.0-flash-thinking-exp-1219)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
