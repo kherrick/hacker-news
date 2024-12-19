@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 * [2024-12-19, 02:19:36](https://news.ycombinator.com/item?id=42457712) - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
 * [2024-12-19, 01:47:05](https://news.ycombinator.com/item?id=42457515) - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
-* [2024-12-19, 01:34:31](https://news.ycombinator.com/item?id=42457436) - [There's No Such Thing as Software Productivity (2012)](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
 * [2024-12-19, 00:49:24](https://news.ycombinator.com/item?id=42457182) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
