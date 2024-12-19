@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 * [2024-12-19, 14:47:27](https://news.ycombinator.com/item?id=42461845) - [Why Are Americans Paying So Much More for Healthcare Than They Used To?](https://www.wsj.com/health/healthcare/american-healthcare-spending-charts-explained-adaa0e23)
 * [2024-12-19, 14:36:36](https://news.ycombinator.com/item?id=42461734) - [Fish shell announces 4.0 release](https://lwn.net/Articles/1002820/)
+* [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:16:45](https://news.ycombinator.com/item?id=42461566) - [AIs Will Increasingly Attempt Shenanigans](https://www.lesswrong.com/posts/v7iepLXH2KT4SDEvB/ais-will-increasingly-attempt-shenanigans)
 * [2024-12-19, 14:12:04](https://news.ycombinator.com/item?id=42461529) - [Amazon forces sellers to divulge COGS, won't reimburse other costs](https://sellercentral.amazon.com/seller-forums/discussions/t/68864b6f-0ab8-41ef-be18-069c33df6336)
+* [2024-12-19, 14:06:13](https://news.ycombinator.com/item?id=42461480) - [Show HN: Job Simlarity (vector similarity graphs, WhoIsHiring/JSON Resume)](https://registry.jsonresume.org/job-similarity)
 * [2024-12-19, 13:59:47](https://news.ycombinator.com/item?id=42461428) - [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
 * [2024-12-19, 13:53:36](https://news.ycombinator.com/item?id=42461378) - [Mozilla: Proposals in US vs. Google threaten vital role of independent browsers](https://blog.mozilla.org/en/mozilla/internet-policy/google-remedies-browsers/)
 * [2024-12-19, 13:39:23](https://news.ycombinator.com/item?id=42461264) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 22:43:10](https://news.ycombinator.com/item?id=42446240) - [trofaf – super simple live static blog generator in Go](https://github.com/mna/trofaf)
 * [2024-12-17, 22:04:26](https://news.ycombinator.com/item?id=42445834) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-17, 21:29:52](https://news.ycombinator.com/item?id=42445508) - [Includeable minimal operating system for C++](https://www.includeos.org/)
 * [2024-12-17, 21:08:34](https://news.ycombinator.com/item?id=42445328) - [Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
