@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 20:27:40](https://news.ycombinator.com/item?id=42465385) - [New underwater footage raise sabotage suspicions against Yi Peng 3](https://scandasia.com/new-underwater-footage-raise-sabotage-suspicions-against-yi-peng-3/)
+* [2024-12-19, 20:26:33](https://news.ycombinator.com/item?id=42465378) - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Bringing back simplicity in web apps creation](https://mizu.sh)
 * [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)

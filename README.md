@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-19, 20:27:40](https://news.ycombinator.com/item?id=42465385) - [New underwater footage raise sabotage suspicions against Yi Peng 3](https://scandasia.com/new-underwater-footage-raise-sabotage-suspicions-against-yi-peng-3/)
+* [2024-12-19, 20:26:33](https://news.ycombinator.com/item?id=42465378) - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
 * [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
@@ -18,7 +20,6 @@
 * [2024-12-19, 10:14:15](https://news.ycombinator.com/item?id=42460107) - [Show HN: CCState is a semantic, strict, and flexible state management library](https://github.com/e7h4n/ccstate)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
-* [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 19:57:58](https://news.ycombinator.com/item?id=42454359) - [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar)
 * [2024-12-18, 19:26:53](https://news.ycombinator.com/item?id=42453939) - [How an Indian startup hacked the world (2023)](https://www.reuters.com/investigates/special-report/usa-hackers-appin/)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
@@ -29,7 +30,6 @@
 * [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [The Night Watch [pdf] (2013)](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
 * [2024-12-17, 10:26:36](https://news.ycombinator.com/item?id=42440121) - [Visualizing 6D Mesh Parallelism](https://main-horse.github.io/posts/visualizing-6d/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
-* [2024-12-15, 05:29:37](https://news.ycombinator.com/item?id=42421689) - [Our brains create mental \"chapters\" with new event segmentation study](https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/)
 
 ## [Archives](archives/index.md)
 
