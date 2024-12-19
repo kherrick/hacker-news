@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 * [2024-12-19, 02:19:36](https://news.ycombinator.com/item?id=42457712) - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
 * [2024-12-19, 01:47:05](https://news.ycombinator.com/item?id=42457515) - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
