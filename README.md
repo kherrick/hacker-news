@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 13:57:39](https://news.ycombinator.com/item?id=42471094) - [Walmart Employees Now Wearing Body Cameras to Keep Them Safe](https://petapixel.com/2024/12/19/walmart-employees-now-wearing-body-cameras-to-keep-them-safe/)
 * [2024-12-20, 13:19:50](https://news.ycombinator.com/item?id=42470852) - [' first' open-source ARMv9 motherboard surfaces – Radxa Orion O6](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
@@ -24,7 +25,6 @@
 * [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
-* [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 * [2024-12-17, 00:52:41](https://news.ycombinator.com/item?id=42437201) - [Huge math error corrected in black plastic study; authors say it doesn't matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
 * [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
