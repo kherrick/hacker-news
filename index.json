@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 18:11:13",
+      "https://news.ycombinator.com/item?id=42473321"
+    ],
+    [
+      "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
+      "https://arcprize.org/blog/oai-o3-pub-breakthrough"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 17:33:00",
       "https://news.ycombinator.com/item?id=42473032"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Spotify and Apple Health Data as Art",
       "https://apps.apple.com/us/app/day-by-data/id6737629704"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 16:05:31",
+      "https://news.ycombinator.com/item?id=42472247"
+    ],
+    [
+      "Why are UK electricity bills so expensive?",
+      "https://climate.benjames.io/uk-electricity-bills/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-12-19, 20:26:33",
-      "https://news.ycombinator.com/item?id=42465378"
-    ],
-    [
-      "Hardware Security Exploit Research – Xbox 360",
-      "https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 18:52:43",
       "https://news.ycombinator.com/item?id=42464557"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2024-12-19, 18:25:55",
-      "https://news.ycombinator.com/item?id=42464310"
+      "2024-12-19, 18:08:29",
+      "https://news.ycombinator.com/item?id=42464138"
     ],
     [
-      "Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering",
-      "https://mizu.sh"
+      "Revisiting Stereotype Threat",
+      "https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat"
     ]
   ],
   [
@@ -191,12 +201,22 @@
   ],
   [
     [
-      "2024-12-18, 12:06:47",
-      "https://news.ycombinator.com/item?id=42449823"
+      "2024-12-18, 13:21:14",
+      "https://news.ycombinator.com/item?id=42450221"
     ],
     [
-      "The Artist Exposing the Data We Leave Online",
-      "https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online"
+      "How to lose a fortune with one bad click",
+      "https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 13:19:27",
+      "https://news.ycombinator.com/item?id=42450213"
+    ],
+    [
+      "How Boston City Hall was born",
+      "https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-12-18, 07:01:49",
-      "https://news.ycombinator.com/item?id=42448639"
-    ],
-    [
-      "Google support third-party tools in Gemini Code Assist",
-      "https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 14:50:01",
       "https://news.ycombinator.com/item?id=42441772"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-12-17, 14:18:53",
-      "https://news.ycombinator.com/item?id=42441502"
+      "2024-12-17, 12:10:55",
+      "https://news.ycombinator.com/item?id=42440723"
     ],
     [
-      "Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro",
-      "https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/"
+      "The Year in Math",
+      "https://www.quantamagazine.org/the-year-in-math-20241216/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-12-16, 16:47:38",
-      "https://news.ycombinator.com/item?id=42432736"
+      "2024-12-16, 05:47:47",
+      "https://news.ycombinator.com/item?id=42428290"
     ],
     [
-      "The Power Mac 4400",
-      "https://512pixels.net/2024/12/the-power-mac-4400/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 20:30:04",
-      "https://news.ycombinator.com/item?id=42425770"
-    ],
-    [
-      "Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)",
-      "https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance"
+      "Conda: A package management disaster?",
+      "https://pyherald.com/articles/16_12_2024/"
     ]
   ]
 ]
