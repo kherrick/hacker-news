@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-* [2024-12-20, 22:04:34](https://news.ycombinator.com/item?id=42475526) - [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
+* [2024-12-20, 22:04:34](https://news.ycombinator.com/item?id=42475526) - [Ask HN: Stanford CS 153 help](https://news.ycombinator.com/item?id=42475526)
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 * [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [What did the DOS \"APPEND\" command do?](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
