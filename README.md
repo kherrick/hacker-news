@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 12:11:00](https://news.ycombinator.com/item?id=42470435) - [10-foot-tall people discovered by archaeologists in Nevada cave](https://www.msn.com/en-gb/news/world/10-foot-tall-people-discovered-by-archaeologists-in-nevada-cave/ar-BB1oQVZ2)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
-* [2024-12-20, 11:40:38](https://news.ycombinator.com/item?id=42470291) - [Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
+* [2024-12-20, 04:46:53](https://news.ycombinator.com/item?id=42468362) - [ByteDance's Recommendation System](https://github.com/bytedance/monolith)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
@@ -13,7 +14,6 @@
 * [2024-12-19, 19:55:48](https://news.ycombinator.com/item?id=42465109) - [Silk – Interactive Generative Art (2011)](http://weavesilk.com/)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
-* [2024-12-19, 16:51:32](https://news.ycombinator.com/item?id=42463295) - [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
 * [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)

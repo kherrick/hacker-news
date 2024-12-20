@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 12:11:00](https://news.ycombinator.com/item?id=42470435) - [10-foot-tall people discovered by archaeologists in Nevada cave](https://www.msn.com/en-gb/news/world/10-foot-tall-people-discovered-by-archaeologists-in-nevada-cave/ar-BB1oQVZ2)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 11:40:38](https://news.ycombinator.com/item?id=42470291) - [Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 * [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Whose building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
+* [2024-12-20, 04:46:53](https://news.ycombinator.com/item?id=42468362) - [ByteDance's Recommendation System](https://github.com/bytedance/monolith)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
