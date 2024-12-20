@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:04:34](https://news.ycombinator.com/item?id=42475526) - [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 * [2024-12-20, 21:16:01](https://news.ycombinator.com/item?id=42475123) - [Samsung gets $4.7B grants for Texas fabs](https://www.nist.gov/chips/samsung-electronics-texas-austin)

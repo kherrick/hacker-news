@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:04:34](https://news.ycombinator.com/item?id=42475526) - [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 * [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [What did the DOS \"APPEND\" command do?](https://www.os2museum.com/wp/dos-append/)
@@ -18,7 +19,6 @@
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-* [2024-12-19, 18:08:29](https://news.ycombinator.com/item?id=42464138) - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
