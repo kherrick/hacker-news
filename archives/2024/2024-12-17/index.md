@@ -11,6 +11,7 @@
 * [2024-12-17, 21:08:34](https://news.ycombinator.com/item?id=42445328) - [Haskell vs. Ada vs. C++ vs. an Experiment in Software Prototyping Productivity [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
 * [2024-12-17, 20:56:01](https://news.ycombinator.com/item?id=42445239) - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
 * [2024-12-17, 20:36:07](https://news.ycombinator.com/item?id=42445037) - [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
+* [2024-12-17, 20:24:18](https://news.ycombinator.com/item?id=42444924) - [Delta emulator triples Apple's prices to encourage external clicks](https://www.theverge.com/2024/12/17/24323220/delta-emulator-ios-apple-triple-price-patreon-membership)
 * [2024-12-17, 20:16:38](https://news.ycombinator.com/item?id=42444856) - [CRDTs and Collaborative Playground](https://www.cerbos.dev/blog/crdts-and-collaborative-playground)
 * [2024-12-17, 20:13:58](https://news.ycombinator.com/item?id=42444830) - [The enduring power of kitsch](https://www.bbc.com/news/magazine-30439633)
 * [2024-12-17, 20:12:43](https://news.ycombinator.com/item?id=42444820) - [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
