@@ -38,6 +38,7 @@
 * [2024-12-16, 17:00:14](https://news.ycombinator.com/item?id=42432876) - [Converge (YC S23) is hiring founding engineer #2 at $1M+ ARR](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr)
 * [2024-12-16, 16:58:57](https://news.ycombinator.com/item?id=42432867) - [What Did Ada Lovelace's Program Actually Do? (2018)](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
 * [2024-12-16, 16:50:55](https://news.ycombinator.com/item?id=42432774) - [Ask HN: What Is the Meaning Behind Anime Girls Holding Programming Books](https://news.ycombinator.com/item?id=42432774)
+* [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
 * [2024-12-16, 16:46:49](https://news.ycombinator.com/item?id=42432730) - [In Search of a Faster SQLite](https://avi.im/blag/2024/faster-sqlite/)
 * [2024-12-16, 16:36:58](https://news.ycombinator.com/item?id=42432631) - [The Bering Land Bridge was more like a swamp](https://gizmodo.com/the-famous-bering-land-bridge-was-more-like-a-swamp-geologists-say-2000539043)
 * [2024-12-16, 16:34:02](https://news.ycombinator.com/item?id=42432590) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://securitylab.amnesty.org/latest/2024/12/a-digital-prison-surveillance-and-the-suppression-of-civil-society-in-serbia/)

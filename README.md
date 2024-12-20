@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 00:39:14](https://news.ycombinator.com/item?id=42467236) - [Bat Feces Used to Fertilize Cannabis Is Linked to 2 Deaths](https://www.nytimes.com/2024/12/18/nyregion/bat-poop-cannabis-deaths-ny.html)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 * [2024-12-19, 21:00:59](https://news.ycombinator.com/item?id=42465661) - [Openlayer (YC S21) is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
 * [2024-12-19, 20:44:46](https://news.ycombinator.com/item?id=42465535) - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
@@ -16,7 +17,6 @@
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 * [2024-12-19, 14:48:35](https://news.ycombinator.com/item?id=42461860) - [Tracing packets in the Linux kernel networking stack and friends](https://github.com/retis-org/retis)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
-* [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-19, 11:35:31](https://news.ycombinator.com/item?id=42460494) - [DVST Graphic Terminals](https://vintagetek.org/dvst-graphic-terminals/)
 * [2024-12-19, 10:17:56](https://news.ycombinator.com/item?id=42460132) - [Cannabis pollen dispersal across the United States](https://www.nature.com/articles/s41598-024-70633-x)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
@@ -28,7 +28,7 @@
 * [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [The Night Watch [pdf] (2013)](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
 * [2024-12-17, 10:26:36](https://news.ycombinator.com/item?id=42440121) - [Visualizing 6D Mesh Parallelism](https://main-horse.github.io/posts/visualizing-6d/)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
-* [2024-12-17, 08:03:48](https://news.ycombinator.com/item?id=42439345) - [Beginning NFC: Introducing NDEF](https://www.oreilly.com/library/view/beginning-nfc/9781449324094/ch04.html)
+* [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)
