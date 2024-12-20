@@ -45,6 +45,7 @@
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:50:50](https://news.ycombinator.com/item?id=42451447) - [Show HN: Zipshare – one-step Android screen sharing for support teams](https://www.getzipshare.com)
+* [2024-12-18, 15:47:13](https://news.ycombinator.com/item?id=42451409) - [Show HN: openai-realtime-embedded-SDK Build AI assistants on microcontrollers](https://github.com/openai/openai-realtime-embedded-sdk)
 * [2024-12-18, 15:34:12](https://news.ycombinator.com/item?id=42451271) - [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)
 * [2024-12-18, 15:28:30](https://news.ycombinator.com/item?id=42451226) - [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
 * [2024-12-18, 15:19:46](https://news.ycombinator.com/item?id=42451130) - [US Weighs Banning TP-Link Routers](https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/)
