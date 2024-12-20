@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
+* [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [What did the DOS \"APPEND\" command do?](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health data as art](https://apps.apple.com/us/app/day-by-data/id6737629704)
@@ -29,7 +30,6 @@
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 * [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
-* [2024-12-16, 05:47:47](https://news.ycombinator.com/item?id=42428290) - [Conda: A package management disaster?](https://pyherald.com/articles/16_12_2024/)
 
 ## [Archives](archives/index.md)
 
