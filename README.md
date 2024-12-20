@@ -23,11 +23,11 @@
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to lose a fortune with one bad click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
 * [2024-12-18, 13:19:27](https://news.ycombinator.com/item?id=42450213) - [How Boston City Hall was born](https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
+* [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 * [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
-* [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
 * [2024-12-16, 05:47:47](https://news.ycombinator.com/item?id=42428290) - [Conda: A package management disaster?](https://pyherald.com/articles/16_12_2024/)
 
