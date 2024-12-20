@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 * [2024-12-20, 16:05:31](https://news.ycombinator.com/item?id=42472247) - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)

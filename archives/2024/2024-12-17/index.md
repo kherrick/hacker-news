@@ -40,6 +40,7 @@
 * [2024-12-17, 12:46:16](https://news.ycombinator.com/item?id=42440922) - [Developing Developers (2015)](https://felleisen.org/matthias/Thoughts/Developing_Developers.html)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+* [2024-12-17, 12:10:55](https://news.ycombinator.com/item?id=42440723) - [The Year in Math](https://www.quantamagazine.org/the-year-in-math-20241216/)
 * [2024-12-17, 12:01:11](https://news.ycombinator.com/item?id=42440669) - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
 * [2024-12-17, 11:43:46](https://news.ycombinator.com/item?id=42440570) - ['What Is That Thing?' Tiny Trucks Are Causing Big Fights](https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4)
 * [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [James Mickens: The Night Watch [pdf]](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
