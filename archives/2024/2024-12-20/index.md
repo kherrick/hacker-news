@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
+* [2024-12-20, 11:40:38](https://news.ycombinator.com/item?id=42470291) - [Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 * [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
