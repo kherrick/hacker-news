@@ -16,6 +16,7 @@
 * [2024-12-16, 21:25:44](https://news.ycombinator.com/item?id=42435620) - [Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire#)
 * [2024-12-16, 20:49:30](https://news.ycombinator.com/item?id=42435267) - [\"The Custer Wolf is Dead.\" (1921) [pdf]](https://bento.cdn.pbs.org/hostedbento-prod/filer_public/Images%20of%20the%20Past/TheCusterWolf/USDA-NewsRelease.pdf)
 * [2024-12-16, 20:48:25](https://news.ycombinator.com/item?id=42435254) - [Kong in Concert (2004)](https://dkcproject.ocremix.org/index.html)
+* [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
 * [2024-12-16, 20:32:34](https://news.ycombinator.com/item?id=42435099) - [Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-16, 20:18:01](https://news.ycombinator.com/item?id=42434947) - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 20:01:21](https://news.ycombinator.com/item?id=42434769) - [Network protocols for anyone who knows a programming language (2017)](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
