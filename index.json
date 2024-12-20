@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-12-19, 14:58:30",
-      "https://news.ycombinator.com/item?id=42461964"
-    ],
-    [
-      "Botan: Crypto and TLS for Modern C++",
-      "https://github.com/randombit/botan"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 14:29:18",
       "https://news.ycombinator.com/item?id=42461688"
     ],
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2024-12-19, 05:43:29",
-      "https://news.ycombinator.com/item?id=42458752"
-    ],
-    [
-      "Alignment faking in large language models",
-      "https://www.anthropic.com/research/alignment-faking"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 18:17:17",
       "https://news.ycombinator.com/item?id=42453207"
     ],
     [
       "A 10-Year Battery for AirTag",
       "https://www.elevationlab.com/blogs/news/introducing-timecapsule"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 13:22:28",
+      "https://news.ycombinator.com/item?id=42450227"
+    ],
+    [
+      "How concurrecy works: A visual guide",
+      "https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Time for a code-yellow?: A blunt instrument that works",
       "https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 05:47:47",
+      "https://news.ycombinator.com/item?id=42428290"
+    ],
+    [
+      "Conda: A Package Management Disaster?",
+      "https://pyherald.com/articles/16_12_2024/"
     ]
   ],
   [
