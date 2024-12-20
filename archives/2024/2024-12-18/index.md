@@ -58,6 +58,7 @@
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
+* [2024-12-18, 13:22:28](https://news.ycombinator.com/item?id=42450227) - [How concurrecy works: A visual guide](https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/)
 * [2024-12-18, 12:58:57](https://news.ycombinator.com/item?id=42450084) - [Insurers Are Deserting Homeowners as Climate Shocks Worsen](https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html)
 * [2024-12-18, 12:58:32](https://news.ycombinator.com/item?id=42450080) - [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
 * [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
