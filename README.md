@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 * [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
@@ -8,7 +9,6 @@
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-* [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 * [2024-12-19, 20:26:33](https://news.ycombinator.com/item?id=42465378) - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
