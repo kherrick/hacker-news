@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-16, 23:15:16](https://news.ycombinator.com/item?id=42436570) - [The higher fertility of TSMC semiconductor workers](https://www.boomcampaign.org/p/on-the-higher-fertility-of-semiconductor)
 * [2024-12-16, 23:13:14](https://news.ycombinator.com/item?id=42436556) - [Show HN: Atlas of Water Science via generative AI](https://wateratlas.webapp.csiro.au/)
 * [2024-12-16, 22:57:24](https://news.ycombinator.com/item?id=42436440) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)

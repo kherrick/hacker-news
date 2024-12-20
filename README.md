@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
@@ -24,11 +25,10 @@
 * [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)
-* [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [The Night Watch [pdf] (2013)](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
+* [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
-* [2024-12-16, 10:09:25](https://news.ycombinator.com/item?id=42429646) - [Time for a code-yellow?: A blunt instrument that works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)

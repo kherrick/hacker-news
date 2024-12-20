@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Whose building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
