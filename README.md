@@ -3,7 +3,7 @@
 * [2024-12-20, 19:24:19](https://news.ycombinator.com/item?id=42474064) - [Ask HN: How do you work with people who are \"not quite smart\"?](https://news.ycombinator.com/item?id=42474064)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
-* [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
+* [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health data as art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 * [2024-12-20, 16:05:31](https://news.ycombinator.com/item?id=42472247) - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
 * [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
