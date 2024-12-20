@@ -141,7 +141,7 @@
             <h4>
               <span>2024-12-20 @ 17:12:24</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42472828"
                   >Comments</a
@@ -175,27 +175,6 @@
             </div>
           </section>
         </section>
-        <section id="42472247">
-          <h3>
-            <a
-              class="item"
-              href="https://climate.benjames.io/uk-electricity-bills/"
-              >Why are UK electricity bills so expensive?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-20 @ 16:05:31</span
-              ><span class="points-container"
-                >Points: <span class="points">39</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42472247"
-                  >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="42471933">
           <h3>
             <a
@@ -208,11 +187,11 @@
             <h4>
               <span>2024-12-20 @ 15:30:40</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42471933"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -230,11 +209,11 @@
             <h4>
               <span>2024-12-20 @ 15:29:59</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42471927"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -249,11 +228,11 @@
             <h4>
               <span>2024-12-20 @ 15:28:50</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42471913"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -309,7 +288,7 @@
             <h4>
               <span>2024-12-20 @ 09:42:47</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42469560"
                   >Comments</a
@@ -335,7 +314,7 @@
             <h4>
               <span>2024-12-20 @ 07:42:36</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42469074"
                   >Comments</a
@@ -354,13 +333,76 @@
             <h4>
               <span>2024-12-20 @ 04:10:42</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42468214"
                   >Comments</a
                 ><span class="descendants">: 25</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42467449">
+          <h3>
+            <a class="item" href="https://gribstream.com"
+              >Show HN: Gribstream.com – Historical Weather Forecast API</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-20 @ 01:27:42</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42467449"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://gribstream.com">https://gribstream.com</a>
+              <p>
+                It is an API to extract weather forecasting data from the
+                National Blend of Models (NBM)
+                <a href="https://vlab.noaa.gov/web/mdl/nbm"
+                  >https://vlab.noaa.gov/web/mdl/nbm</a
+                >
+                and the Global Forecast System (GFS)
+                <a
+                  href="https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast"
+                  >https://www.ncei.noaa.gov/products/weather-climate-models/gl...</a
+                >
+                . The data is freely available from AWS S3 in grib2 format which
+                can be great but also really hard (and resource intensive) to
+                work with, especially if you want to extract timeseries over
+                long periods of time based on a few coordinates. Being able to
+                query and extract only what you want out of terabytes of data in
+                just an http request is really nice.
+              </p>
+              <p>
+                What is cool about this dataset is that it has hourly data with
+                full forecast history so you can use the dataset to train and
+                forecast other parameters and have proper backtesting because
+                you can see the weather "as of" points in time in the past. It
+                has a free tier so you can play with it. There is a long list of
+                upcoming features I intend to implement and I would very much
+                appreciate both feedback on what is currently available and on
+                what features you would be most interested in seeing. Like...
+                I'm not sure if it would be better to support a few other
+                datasets or focus on supporting aggregations.
+              </p>
+              <p>Features include:</p>
+              <p>
+                - A free tier to help you get started - Full history of weather
+                forecasts - Extract timeseries for thousands of coordinates, for
+                months at a time, at hourly resolution in a single http request
+                taking only seconds. - Supports as-of/time-travel, indispensable
+                for proper backtesting of derivative models - Automatic gap
+                filling of any missing data with the next best (most recent)
+                forecast.
+              </p>
+              <p>Please try it out and let me know what you think :)</p>
+            </div>
           </section>
         </section>
         <section id="42467194">
@@ -375,11 +417,11 @@
             <h4>
               <span>2024-12-20 @ 00:29:57</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">548</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42467194"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -396,7 +438,7 @@
             <h4>
               <span>2024-12-19 @ 23:07:15</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42466676"
                   >Comments</a
@@ -417,11 +459,11 @@
             <h4>
               <span>2024-12-19 @ 20:26:33</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42465378"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -555,11 +597,11 @@
             <h4>
               <span>2024-12-19 @ 16:36:54</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">314</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42463123"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -595,11 +637,11 @@
             <h4>
               <span>2024-12-19 @ 14:12:05</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42461530"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -616,11 +658,11 @@
             <h4>
               <span>2024-12-18 @ 18:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">554</span></span
+                >Points: <span class="points">558</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42453207"
                   >Comments</a
-                ><span class="descendants">: 488</span></span
+                ><span class="descendants">: 489</span></span
               >
             </h4>
           </section>
@@ -642,27 +684,6 @@
                 ><a href="https://news.ycombinator.com/item?id=42450227"
                   >Comments</a
                 ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42450213">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html"
-              >How Boston City Hall was born</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-18 @ 13:19:27</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42450213"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -699,7 +720,7 @@
             <h4>
               <span>2024-12-18 @ 10:50:20</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42449497"
                   >Comments</a
@@ -720,7 +741,7 @@
             <h4>
               <span>2024-12-18 @ 07:01:49</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42448639"
                   >Comments</a
@@ -786,7 +807,7 @@
             <h4>
               <span>2024-12-17 @ 09:56:04</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42439956"
                   >Comments</a
@@ -808,7 +829,7 @@
             <h4>
               <span>2024-12-16 @ 23:42:38</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42436783"
                   >Comments</a
@@ -871,11 +892,33 @@
             <h4>
               <span>2024-12-16 @ 16:47:38</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42432736"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42425770">
+          <h3>
+            <a
+              class="item"
+              href="https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance"
+              >Kowloon Walled City: Heterotopia in a Space of Disappearance
+              (2013)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-15 @ 20:30:04</span
+              ><span class="points-container"
+                >Points: <span class="points">221</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42425770"
+                  >Comments</a
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
