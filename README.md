@@ -14,6 +14,7 @@
 * [2024-12-19, 16:51:32](https://news.ycombinator.com/item?id=42463295) - [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
 * [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 16:13:50](https://news.ycombinator.com/item?id=42462863) - [How to Test More Drugs](https://www.writingruxandrabio.com/p/on-clinical-trial-abundance)
+* [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-19, 11:35:31](https://news.ycombinator.com/item?id=42460494) - [DVST Graphic Terminals](https://vintagetek.org/dvst-graphic-terminals/)
@@ -28,7 +29,6 @@
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
 * [2024-12-16, 10:09:25](https://news.ycombinator.com/item?id=42429646) - [Time for a code-yellow?: A blunt instrument that works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
-* [2024-12-16, 05:47:47](https://news.ycombinator.com/item?id=42428290) - [Conda: A Package Management Disaster?](https://pyherald.com/articles/16_12_2024/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)
