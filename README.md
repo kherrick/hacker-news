@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 15:41:09](https://news.ycombinator.com/item?id=42472033) - [CISA: Do not use SMS as a second factor for authentication [pdf]](https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf)
+* [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
+* [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 * [2024-12-20, 15:28:50](https://news.ycombinator.com/item?id=42471913) - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-* [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 * [2024-12-19, 20:44:46](https://news.ycombinator.com/item?id=42465535) - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
@@ -15,7 +17,6 @@
 * [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
-* [2024-12-19, 11:35:31](https://news.ycombinator.com/item?id=42460494) - [DVST Graphic Terminals](https://vintagetek.org/dvst-graphic-terminals/)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
 * [2024-12-18, 13:22:28](https://news.ycombinator.com/item?id=42450227) - [How concurrecy works: A visual guide](https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
@@ -29,7 +30,6 @@
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
 * [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
-* [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)
 
