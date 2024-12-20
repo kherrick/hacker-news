@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-20, 10:07:42",
-      "https://news.ycombinator.com/item?id=42469708"
+      "2024-12-20, 12:00:59",
+      "https://news.ycombinator.com/item?id=42470386"
     ],
     [
-      "Matt Mullenweg temporarily shuts down some Wordpress.org functions",
-      "https://wordpress.org/news/2024/12/holiday-break/"
+      "Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)",
+      "https://gauntletai.com"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 11:40:38",
+      "https://news.ycombinator.com/item?id=42470291"
+    ],
+    [
+      "Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance",
+      "https://www.phoronix.com/review/intel-arrowlake-windows-linux"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-12-19, 14:58:30",
-      "https://news.ycombinator.com/item?id=42461964"
-    ],
-    [
-      "Botan: Crypto and TLS for Modern C++",
-      "https://github.com/randombit/botan"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 14:29:18",
       "https://news.ycombinator.com/item?id=42461688"
     ],
@@ -207,6 +207,16 @@
     [
       "How concurrecy works: A visual guide",
       "https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 13:21:14",
+      "https://news.ycombinator.com/item?id=42450221"
+    ],
+    [
+      "How to Lose a Fortune with Just One Bad Click",
+      "https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Open source inference time compute example from HuggingFace",
       "https://github.com/huggingface/search-and-learn"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 10:09:25",
-      "https://news.ycombinator.com/item?id=42429646"
-    ],
-    [
-      "Time for a code-yellow?: A blunt instrument that works",
-      "https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/"
     ]
   ],
   [
