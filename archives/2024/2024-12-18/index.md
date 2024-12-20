@@ -75,6 +75,7 @@
 * [2024-12-18, 09:15:44](https://news.ycombinator.com/item?id=42449102) - [Analyzing the World Chess Championship 2024: Empirical Synthesized Approach](https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b)
 * [2024-12-18, 08:31:12](https://news.ycombinator.com/item?id=42448939) - [Silver amulet is the oldest evidence of Christianity north of the Alps](https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/)
 * [2024-12-18, 08:24:12](https://news.ycombinator.com/item?id=42448913) - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
+* [2024-12-18, 07:01:49](https://news.ycombinator.com/item?id=42448639) - [Google support third-party tools in Gemini Code Assist](https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/)
 * [2024-12-18, 05:51:31](https://news.ycombinator.com/item?id=42448405) - [GPS – Bartosz Ciechanowski (2022)](https://ciechanow.ski/gps/)
 * [2024-12-18, 04:49:55](https://news.ycombinator.com/item?id=42448193) - [No More Adam: Learning Rate Scaling at Initialization Is All You Need](https://arxiv.org/abs/2412.11768)
 * [2024-12-18, 04:45:41](https://news.ycombinator.com/item?id=42448184) - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 16:05:31](https://news.ycombinator.com/item?id=42472247) - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
 * [2024-12-20, 15:41:09](https://news.ycombinator.com/item?id=42472033) - [CISA: Do not use SMS as a second factor for authentication [pdf]](https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf)
 * [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
