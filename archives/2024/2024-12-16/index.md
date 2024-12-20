@@ -25,6 +25,7 @@
 * [2024-12-16, 19:31:28](https://news.ycombinator.com/item?id=42434440) - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
 * [2024-12-16, 19:20:49](https://news.ycombinator.com/item?id=42434331) - [Crashing rockets and recovering data from damaged flash chips](https://dontvacuum.me/rocketflashrecovery/index.html)
 * [2024-12-16, 19:20:38](https://news.ycombinator.com/item?id=42434327) - [AirPods Pro 2 hearing aid and hearing test features approved to launch in Canada](https://www.macrumors.com/2024/12/12/airpods-pro-2-hearing-features-approved-canada/)
+* [2024-12-16, 19:11:59](https://news.ycombinator.com/item?id=42434232) - [Uber will need to fingerprint drivers in California to transport teens](https://techcrunch.com/2024/12/05/uber-will-need-to-fingerprint-drivers-in-california-to-transport-teens/)
 * [2024-12-16, 19:04:34](https://news.ycombinator.com/item?id=42434151) - [Do not throw away your old PCs](https://blog.lhotka.net/2024/12/15/Do-not-throw-away-your-old-PCs)
 * [2024-12-16, 18:31:35](https://news.ycombinator.com/item?id=42433807) - [Consider the Shipwreck: Ten Books on Maritime Disasters and Ecological Collapse](https://lithub.com/consider-the-shipwreck-ten-books-on-maritime-disasters-and-ecological-collapse/)
 * [2024-12-16, 18:23:44](https://news.ycombinator.com/item?id=42433734) - [Show HN: Autonomous AI Agents that monitor the Stock Market for you](https://decodeinvesting.com/chat?agents=lima)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 14:25:12](https://news.ycombinator.com/item?id=42471304) - [Sovereign Tech Fund Invests in OpenStreetMap](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/)
 * [2024-12-20, 13:57:39](https://news.ycombinator.com/item?id=42471094) - [Walmart Employees Now Wearing Body Cameras to Keep Them Safe](https://petapixel.com/2024/12/19/walmart-employees-now-wearing-body-cameras-to-keep-them-safe/)
 * [2024-12-20, 13:19:50](https://news.ycombinator.com/item?id=42470852) - [' first' open-source ARMv9 motherboard surfaces – Radxa Orion O6](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
@@ -11,7 +12,6 @@
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-* [2024-12-19, 20:44:46](https://news.ycombinator.com/item?id=42465535) - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 * [2024-12-19, 20:26:33](https://news.ycombinator.com/item?id=42465378) - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
@@ -22,7 +22,6 @@
 * [2024-12-18, 13:22:28](https://news.ycombinator.com/item?id=42450227) - [How concurrecy works: A visual guide](https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
 * [2024-12-18, 13:19:27](https://news.ycombinator.com/item?id=42450213) - [How Boston City Hall was born](https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html)
-* [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
@@ -30,6 +29,7 @@
 * [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
+* [2024-12-16, 19:11:59](https://news.ycombinator.com/item?id=42434232) - [Uber will need to fingerprint drivers in California to transport teens](https://techcrunch.com/2024/12/05/uber-will-need-to-fingerprint-drivers-in-california-to-transport-teens/)
 
 ## [Archives](archives/index.md)
 
