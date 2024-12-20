@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-20, 15:41:09](https://news.ycombinator.com/item?id=42472033) - [CISA: Do not use SMS as a second factor for authentication [pdf]](https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf)
 * [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 * [2024-12-20, 15:28:50](https://news.ycombinator.com/item?id=42471913) - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
@@ -30,6 +29,7 @@
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
 * [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
+* [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)
 
