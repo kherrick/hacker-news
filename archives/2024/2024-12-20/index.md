@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 21:16:01](https://news.ycombinator.com/item?id=42475123) - [Samsung gets $4.7B grants for Texas fabs](https://www.nist.gov/chips/samsung-electronics-texas-austin)
 * [2024-12-20, 19:24:19](https://news.ycombinator.com/item?id=42474064) - [Ask HN: How do you work with people who are \"not quite smart\"?](https://news.ycombinator.com/item?id=42474064)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
@@ -13,6 +14,7 @@
 * [2024-12-20, 15:30:40](https://news.ycombinator.com/item?id=42471933) - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 * [2024-12-20, 15:28:50](https://news.ycombinator.com/item?id=42471913) - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
+* [2024-12-20, 15:23:05](https://news.ycombinator.com/item?id=42471861) - [Process Creation in Io_uring](https://lwn.net/SubscriberLink/1002371/0ff2be6a2c7624ca/)
 * [2024-12-20, 14:25:12](https://news.ycombinator.com/item?id=42471304) - [Sovereign Tech Fund Invests in OpenStreetMap](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/)
 * [2024-12-20, 13:57:39](https://news.ycombinator.com/item?id=42471094) - [Walmart Employees Now Wearing Body Cameras to Keep Them Safe](https://petapixel.com/2024/12/19/walmart-employees-now-wearing-body-cameras-to-keep-them-safe/)
 * [2024-12-20, 13:19:50](https://news.ycombinator.com/item?id=42470852) - [' first' open-source ARMv9 motherboard surfaces – Radxa Orion O6](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)

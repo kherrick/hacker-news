@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 21:16:01](https://news.ycombinator.com/item?id=42475123) - [Samsung gets $4.7B grants for Texas fabs](https://www.nist.gov/chips/samsung-electronics-texas-austin)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 17:12:24](https://news.ycombinator.com/item?id=42472828) - [Show HN: Spotify and Apple Health data as art](https://apps.apple.com/us/app/day-by-data/id6737629704)
 * [2024-12-20, 16:05:31](https://news.ycombinator.com/item?id=42472247) - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 * [2024-12-20, 15:28:50](https://news.ycombinator.com/item?id=42471913) - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
+* [2024-12-20, 15:23:05](https://news.ycombinator.com/item?id=42471861) - [Process Creation in Io_uring](https://lwn.net/SubscriberLink/1002371/0ff2be6a2c7624ca/)
 * [2024-12-20, 12:29:17](https://news.ycombinator.com/item?id=42470541) - [Building Effective \"Agents\"](https://www.anthropic.com/research/building-effective-agents)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [We're about to fly a spacecraft into the Sun for the first time](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
@@ -25,11 +27,9 @@
 * [2024-12-18, 13:19:27](https://news.ycombinator.com/item?id=42450213) - [How Boston City Hall was born](https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
-* [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 * [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-16, 20:35:45](https://news.ycombinator.com/item?id=42435127) - [Open source inference time compute example from HuggingFace](https://github.com/huggingface/search-and-learn)
-* [2024-12-16, 05:47:47](https://news.ycombinator.com/item?id=42428290) - [Conda: A package management disaster?](https://pyherald.com/articles/16_12_2024/)
 
 ## [Archives](archives/index.md)
 
