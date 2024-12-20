@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Whose building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
@@ -21,6 +20,7 @@
 * [2024-12-19, 10:17:56](https://news.ycombinator.com/item?id=42460132) - [Cannabis pollen dispersal across the United States](https://www.nature.com/articles/s41598-024-70633-x)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
+* [2024-12-17, 16:41:19](https://news.ycombinator.com/item?id=42442820) - [The Animatronic Menagerie](https://theanimatronicmenagerie.wordpress.com/)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)
 * [2024-12-17, 11:29:26](https://news.ycombinator.com/item?id=42440496) - [The Night Watch [pdf] (2013)](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)
