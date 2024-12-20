@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 01:27:42](https://news.ycombinator.com/item?id=42467449) - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
@@ -28,7 +29,6 @@
 * [2024-12-16, 22:18:55](https://news.ycombinator.com/item?id=42436097) - [Ten Thousand Years](https://99percentinvisible.org/episode/ten-thousand-years/)
 * [2024-12-16, 16:47:38](https://news.ycombinator.com/item?id=42432736) - [The Power Mac 4400](https://512pixels.net/2024/12/the-power-mac-4400/)
 * [2024-12-16, 10:09:25](https://news.ycombinator.com/item?id=42429646) - [Time for a code-yellow?: A blunt instrument that works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
-* [2024-12-16, 05:47:47](https://news.ycombinator.com/item?id=42428290) - [Conda: A Package Management Disaster?](https://pyherald.com/articles/16_12_2024/)
 * [2024-12-15, 20:30:04](https://news.ycombinator.com/item?id=42425770) - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
 
 ## [Archives](archives/index.md)
