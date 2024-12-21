@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
 * [2024-12-21, 20:31:59](https://news.ycombinator.com/item?id=42482080) - [US judge finds Pegasus spyware maker liable over WhatsApp hack](https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking)
 * [2024-12-21, 20:18:22](https://news.ycombinator.com/item?id=42481982) - [Berlin-Paris high-speed rail route symbolizes Europe's thirst for train travel](https://www.lemonde.fr/en/europe/article/2024/12/20/berlin-paris-high-speed-rail-route-symbolizes-europe-s-thirst-for-train-travel_6736284_143.html)
 * [2024-12-21, 19:33:15](https://news.ycombinator.com/item?id=42481659) - [SingleFile: A Web Extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)

@@ -33,6 +33,7 @@
 * [2024-12-20, 12:11:00](https://news.ycombinator.com/item?id=42470435) - [10-foot-tall people discovered by archaeologists in Nevada cave](https://www.msn.com/en-gb/news/world/10-foot-tall-people-discovered-by-archaeologists-in-nevada-cave/ar-BB1oQVZ2)
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 11:40:38](https://news.ycombinator.com/item?id=42470291) - [Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
+* [2024-12-20, 11:33:10](https://news.ycombinator.com/item?id=42470254) - [Show HN: Get e-signatures & pay per signed doc](https://signwith.co/)
 * [2024-12-20, 11:30:04](https://news.ycombinator.com/item?id=42470238) - [The birth, life, and death of old Penn Station (2017)](https://ny.curbed.com/2017/11/7/16616314/old-penn-station-history-photos-mckim)
 * [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [We're about to fly a spacecraft into the Sun for the first time](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
 * [2024-12-20, 10:58:00](https://news.ycombinator.com/item?id=42470040) - [Google starts tracking all your devices in 8 weeks](https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/)
