@@ -2,6 +2,7 @@
 
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 04:21:02](https://news.ycombinator.com/item?id=42477534) - [Our remedies proposal in DOJ's search distribution case](https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/)
+* [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
@@ -11,9 +12,8 @@
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
 * [2024-12-20, 15:28:50](https://news.ycombinator.com/item?id=42471913) - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
-* [2024-12-20, 15:23:05](https://news.ycombinator.com/item?id=42471861) - [Process Creation in Io_uring](https://lwn.net/SubscriberLink/1002371/0ff2be6a2c7624ca/)
 * [2024-12-20, 12:29:17](https://news.ycombinator.com/item?id=42470541) - [Building Effective \"Agents\"](https://www.anthropic.com/research/building-effective-agents)
-* [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [We're about to fly a spacecraft into the Sun for the first time](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
+* [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [The Parker Solar Probe will make its closest approach yet to the Sun](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
@@ -29,7 +29,7 @@
 * [2024-12-18, 10:46:59](https://news.ycombinator.com/item?id=42449481) - [NoDB: Processing Payments Without a Database](https://news.alvaroduran.com/p/nodb-processing-payments-without)
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
-* [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
+* [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
 
 ## [Archives](archives/index.md)
 
