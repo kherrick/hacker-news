@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-21, 16:56:03](https://news.ycombinator.com/item?id=42480706) - [AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience](https://simone.org/synthography/)
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 14:42:56](https://news.ycombinator.com/item?id=42479958) - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
 * [2024-12-21, 14:24:53](https://news.ycombinator.com/item?id=42479866) - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
@@ -7,7 +8,6 @@
 * [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-* [2024-12-20, 20:03:01](https://news.ycombinator.com/item?id=42474458) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
 * [2024-12-20, 15:29:59](https://news.ycombinator.com/item?id=42471927) - [A bestiary of exotic hadrons](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
@@ -18,7 +18,6 @@
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-* [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
@@ -30,6 +29,7 @@
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 20:42:20](https://news.ycombinator.com/item?id=42445102) - [Researchers discover new ocean predator in the Atacama Trench](https://phys.org/news/2024-12-ocean-predator-atacama-trench.html)
+* [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
 
 ## [Archives](archives/index.md)
 
