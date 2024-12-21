@@ -30,6 +30,7 @@
 * [2024-12-20, 12:00:59](https://news.ycombinator.com/item?id=42470386) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
 * [2024-12-20, 11:40:38](https://news.ycombinator.com/item?id=42470291) - [Intel Core Ultra 9 285K \"Arrow Lake\" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
 * [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [We're about to fly a spacecraft into the Sun for the first time](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
+* [2024-12-20, 10:58:00](https://news.ycombinator.com/item?id=42470040) - [Google starts tracking all your devices in 8 weeks](https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 * [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-21, 17:20:12](https://news.ycombinator.com/item?id=42480885) - [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
 * [2024-12-21, 16:56:03](https://news.ycombinator.com/item?id=42480706) - [AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience](https://simone.org/synthography/)
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
