@@ -40,6 +40,7 @@
 * [2024-12-18, 16:43:27](https://news.ycombinator.com/item?id=42452131) - [U.S. Supreme Court will hear arguments over TikTok divestment law](https://www.cnbc.com/2024/12/18/tiktok-ban-supreme-court-will-hear-arguments.html)
 * [2024-12-18, 16:39:15](https://news.ycombinator.com/item?id=42452067) - [AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon](https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon)
 * [2024-12-18, 16:33:18](https://news.ycombinator.com/item?id=42451979) - [W54](https://en.wikipedia.org/wiki/W54)
+* [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
 * [2024-12-18, 16:25:04](https://news.ycombinator.com/item?id=42451886) - [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
 * [2024-12-18, 16:23:44](https://news.ycombinator.com/item?id=42451868) - [USDA locks barn door after Listeria escapes](https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/)
 * [2024-12-18, 16:21:57](https://news.ycombinator.com/item?id=42451848) - [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1)

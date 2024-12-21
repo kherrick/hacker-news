@@ -17,6 +17,7 @@
 * [2024-12-17, 20:13:58](https://news.ycombinator.com/item?id=42444830) - [The enduring power of kitsch](https://www.bbc.com/news/magazine-30439633)
 * [2024-12-17, 20:12:43](https://news.ycombinator.com/item?id=42444820) - [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
 * [2024-12-17, 20:12:18](https://news.ycombinator.com/item?id=42444817) - [In Defense of Y'All](https://www.texasmonthly.com/being-texan/in-defense-of-yall-nyt-columnist/)
+* [2024-12-17, 20:00:56](https://news.ycombinator.com/item?id=42444718) - [Tell HN: Deduplicating a 10.4 TiB game preservation archive (WIP)](https://news.ycombinator.com/item?id=42444718)
 * [2024-12-17, 19:24:23](https://news.ycombinator.com/item?id=42444363) - [Danish diabetes medicine increases risk of debilitating eye condition](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
 * [2024-12-17, 18:50:19](https://news.ycombinator.com/item?id=42444088) - [Max GPU: A new GenAI native serving stac](https://www.modular.com/blog/introducing-max-24-6-a-gpu-native-generative-ai-platform)
 * [2024-12-17, 18:50:07](https://news.ycombinator.com/item?id=42444083) - [Webhook Tester/Debugger](https://www.hooklistener.com/)
