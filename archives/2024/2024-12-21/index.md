@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:28:22](https://news.ycombinator.com/item?id=42480176) - [The NBA's Problem Is Economics, Not Basketball](https://www.bloomberg.com/opinion/articles/2024-12-18/nba-cup-the-league-s-problem-is-economics-not-basketball)
 * [2024-12-21, 14:42:56](https://news.ycombinator.com/item?id=42479958) - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
 * [2024-12-21, 14:24:53](https://news.ycombinator.com/item?id=42479866) - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
