@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-21, 07:45:28](https://news.ycombinator.com/item?id=42478107) - [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
+* [2024-12-21, 09:10:32](https://news.ycombinator.com/item?id=42478430) - [UK Gov Open Consultation: Copyright and Artificial Intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence)
+* [2024-12-21, 09:07:45](https://news.ycombinator.com/item?id=42478414) - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 * [2024-12-21, 05:13:33](https://news.ycombinator.com/item?id=42477685) - [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
@@ -28,7 +29,6 @@
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
-* [2024-12-17, 15:21:10](https://news.ycombinator.com/item?id=42442054) - [First Actively Forming Galaxy as Lightweight as Young Milky Way](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 * [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
 
 ## [Archives](archives/index.md)
