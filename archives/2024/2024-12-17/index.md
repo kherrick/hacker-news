@@ -54,6 +54,7 @@
 * [2024-12-17, 09:49:17](https://news.ycombinator.com/item?id=42439921) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-17, 09:44:44](https://news.ycombinator.com/item?id=42439897) - [Ted: Tool for editing files according to the rules of a provided Turing Machine](https://github.com/ahalbert/ted)
 * [2024-12-17, 09:06:58](https://news.ycombinator.com/item?id=42439689) - [Our first new Framework Laptop 16 Expansion Bay module](https://frame.work/au/en/blog/our-first-new-framework-laptop-16-expansion-bay-module)
+* [2024-12-17, 08:49:17](https://news.ycombinator.com/item?id=42439582) - [The \"Winkel\" Bunker – Arcanum Urbex](https://www.arcanumurbex.de/photos/military-objects/bunker-winkel/)
 * [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
 * [2024-12-17, 08:03:48](https://news.ycombinator.com/item?id=42439345) - [Beginning NFC: Introducing NDEF](https://www.oreilly.com/library/view/beginning-nfc/9781449324094/ch04.html)
 * [2024-12-17, 06:52:10](https://news.ycombinator.com/item?id=42438966) - [Tig: Text-Mode Interface for Git](https://jonas.github.io/tig/)

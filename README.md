@@ -28,8 +28,8 @@
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 15:21:10](https://news.ycombinator.com/item?id=42442054) - [First Actively Forming Galaxy as Lightweight as Young Milky Way](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
+* [2024-12-17, 08:49:17](https://news.ycombinator.com/item?id=42439582) - [The \"Winkel\" Bunker – Arcanum Urbex](https://www.arcanumurbex.de/photos/military-objects/bunker-winkel/)
 * [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
-* [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 
 ## [Archives](archives/index.md)
 
