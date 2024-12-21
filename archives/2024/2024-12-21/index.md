@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 17:20:12](https://news.ycombinator.com/item?id=42480885) - [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
 * [2024-12-21, 16:56:03](https://news.ycombinator.com/item?id=42480706) - [AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience](https://simone.org/synthography/)
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:28:22](https://news.ycombinator.com/item?id=42480176) - [The NBA's Problem Is Economics, Not Basketball](https://www.bloomberg.com/opinion/articles/2024-12-18/nba-cup-the-league-s-problem-is-economics-not-basketball)

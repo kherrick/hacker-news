@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-21, 16:56:03](https://news.ycombinator.com/item?id=42480706) - [AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience](https://simone.org/synthography/)
+* [2024-12-21, 17:20:12](https://news.ycombinator.com/item?id=42480885) - [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 14:42:56](https://news.ycombinator.com/item?id=42479958) - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
