@@ -25,11 +25,11 @@
 * [2024-12-18, 13:23:15](https://news.ycombinator.com/item?id=42450232) - [Show HN: celine/bibhtml: a Web Components referencing system for HTML documents](https://maxbo.me/celine/bibhtml/)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to lose a fortune with one bad click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
-* [2024-12-18, 10:46:59](https://news.ycombinator.com/item?id=42449481) - [NoDB: Processing Payments Without a Database](https://news.alvaroduran.com/p/nodb-processing-payments-without)
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 * [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
+* [2024-12-16, 23:42:38](https://news.ycombinator.com/item?id=42436783) - [Documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 
 ## [Archives](archives/index.md)
 
