@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-21, 20:18:22",
-      "https://news.ycombinator.com/item?id=42481982"
-    ],
-    [
-      "Berlin-Paris high-speed rail route symbolizes Europe's thirst for train travel",
-      "https://www.lemonde.fr/en/europe/article/2024/12/20/berlin-paris-high-speed-rail-route-symbolizes-europe-s-thirst-for-train-travel_6736284_143.html"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 19:33:15",
       "https://news.ycombinator.com/item?id=42481659"
     ],
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2024-12-21, 17:20:12",
-      "https://news.ycombinator.com/item?id=42480885"
+      "2024-12-21, 18:16:01",
+      "https://news.ycombinator.com/item?id=42481206"
     ],
     [
-      "Gazzetta, an RSS Reader for Mastodon",
-      "https://primatology.xyz/blog/introducing-gazzetta"
+      "City Roads: A tool to draw all roads in a city at once",
+      "https://anvaka.github.io/city-roads/"
     ]
   ],
   [
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2024-12-20, 23:30:03",
-      "https://news.ycombinator.com/item?id=42476192"
+      "2024-12-20, 22:37:14",
+      "https://news.ycombinator.com/item?id=42475798"
     ],
     [
-      "Compiling C to Safe Rust, Formalized",
-      "https://arxiv.org/abs/2412.15042"
+      "Turing Machines",
+      "https://samwho.dev/turing-machines/"
     ]
   ],
   [
@@ -117,6 +107,36 @@
     [
       "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
       "https://arcprize.org/blog/oai-o3-pub-breakthrough"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 16:36:33",
+      "https://news.ycombinator.com/item?id=42472519"
+    ],
+    [
+      "Show HN: Rivet Actors – Durable Objects build with Rust, FoundationDB, Isolates",
+      "https://github.com/rivet-gg/rivet"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 16:19:18",
+      "https://news.ycombinator.com/item?id=42472384"
+    ],
+    [
+      "The CD Pipeline Manifesto",
+      "https://manifesto.getglu.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 12:55:07",
+      "https://news.ycombinator.com/item?id=42470700"
+    ],
+    [
+      "Writing and testing a paginated API iterator in Go",
+      "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
     ]
   ],
   [
@@ -161,32 +181,22 @@
   ],
   [
     [
+      "2024-12-19, 12:18:03",
+      "https://news.ycombinator.com/item?id=42460748"
+    ],
+    [
+      "Show HN: Apache Cloudberry – Open-source Massively Parallel Processing database",
+      "https://github.com/apache/cloudberry"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 10:38:06",
       "https://news.ycombinator.com/item?id=42460217"
     ],
     [
       "How the Samuel Smith beer baron built Britain's strangest pub chain",
       "https://www.theguardian.com/news/2024/dec/19/humphreys-world-how-the-samuel-smith-beer-baron-built-britains-strangest-pub-chain"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 04:26:57",
-      "https://news.ycombinator.com/item?id=42458429"
-    ],
-    [
-      "My vote on voting systems",
-      "https://blog.danielh.cc/blog/voting"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 02:34:46",
-      "https://news.ycombinator.com/item?id=42457820"
-    ],
-    [
-      "Aegisub 3.4 – Open-Source Subtitle Editor",
-      "https://aegisub.org/"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2024-12-18, 22:23:48",
+      "https://news.ycombinator.com/item?id=42456134"
+    ],
+    [
+      "After twelve years of writing about Bitcoin, here's how my thinking has changed",
+      "http://jpkoning.blogspot.com/2024/12/after-twelve-years-of-writing-about.html"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 17:20:12",
       "https://news.ycombinator.com/item?id=42452527"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-12-18, 16:31:46",
-      "https://news.ycombinator.com/item?id=42451968"
-    ],
-    [
-      "How we made our AI code review bot stop leaving nitpicky comments",
-      "https://www.greptile.com/blog/make-llms-shut-up"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 15:20:09",
       "https://news.ycombinator.com/item?id=42451135"
     ],
     [
       "More than 140 Kenya Facebook moderators sue after diagnoses of PTSD",
       "https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 12:32:15",
-      "https://news.ycombinator.com/item?id=42449951"
-    ],
-    [
-      "When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?",
-      "https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/"
     ]
   ],
   [
