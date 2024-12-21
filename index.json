@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-21, 21:54:01",
+      "https://news.ycombinator.com/item?id=42482635"
+    ],
+    [
+      "Magical Thinking: Edward Bellamy's Looking Backward (2011)",
+      "https://www.laphamsquarterly.org/future/magical-thinking"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 19:33:15",
       "https://news.ycombinator.com/item?id=42481659"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-12-20, 18:11:13",
-      "https://news.ycombinator.com/item?id=42473321"
-    ],
-    [
-      "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
-      "https://arcprize.org/blog/oai-o3-pub-breakthrough"
-    ]
-  ],
-  [
-    [
       "2024-12-20, 16:36:33",
       "https://news.ycombinator.com/item?id=42472519"
     ],
@@ -141,22 +141,12 @@
   ],
   [
     [
-      "2024-12-20, 12:55:07",
-      "https://news.ycombinator.com/item?id=42470700"
+      "2024-12-20, 11:33:10",
+      "https://news.ycombinator.com/item?id=42470254"
     ],
     [
-      "Writing and testing a paginated API iterator in Go",
-      "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 05:42:56",
-      "https://news.ycombinator.com/item?id=42468594"
-    ],
-    [
-      "Ask HN: Who's building on Python NoGIL?",
-      "https://news.ycombinator.com/item?id=42468594"
+      "Show HN: Get e-signatures & pay per signed doc",
+      "https://signwith.co/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: Yakari – Interactive TUIs for CLI tools",
       "https://github.com/vlandeiro/yakari"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 16:31:46",
+      "https://news.ycombinator.com/item?id=42451968"
+    ],
+    [
+      "How we made our AI code review bot stop leaving nitpicky comments",
+      "https://www.greptile.com/blog/make-llms-shut-up"
     ]
   ],
   [
