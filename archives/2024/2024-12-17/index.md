@@ -33,6 +33,7 @@
 * [2024-12-17, 15:51:38](https://news.ycombinator.com/item?id=42442331) - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
 * [2024-12-17, 15:46:39](https://news.ycombinator.com/item?id=42442298) - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
 * [2024-12-17, 15:27:10](https://news.ycombinator.com/item?id=42442107) - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
+* [2024-12-17, 15:21:10](https://news.ycombinator.com/item?id=42442054) - [First Actively Forming Galaxy as Lightweight as Young Milky Way](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 * [2024-12-17, 15:11:31](https://news.ycombinator.com/item?id=42441956) - [Eight Day Road Trip of Western Ghats in Karnataka from Bangalore](https://travelswithpriyanka.substack.com/p/8-day-road-trip-of-western-ghats)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
 * [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)
