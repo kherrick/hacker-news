@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-12-20, 20:03:01",
+      "https://news.ycombinator.com/item?id=42474458"
+    ],
+    [
+      "Rules to avoid common extended inline assembly mistakes",
+      "https://nullprogram.com/blog/2024/12/20/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 18:11:13",
       "https://news.ycombinator.com/item?id=42473321"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42468214"
     ],
     [
-      "A Gentle Introduction to Graph Neural Networks",
+      "A Gentle Introduction to Graph Neural Networks (2021)",
       "https://distill.pub/2021/gnn-intro/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Kelly Can't Fail",
       "https://win-vector.com/2024/12/19/kelly-cant-fail/"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 16:36:54",
-      "https://news.ycombinator.com/item?id=42463123"
-    ],
-    [
-      "Clay – UI Layout Library",
-      "https://www.nicbarker.com/clay"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-12-18, 13:19:27",
-      "https://news.ycombinator.com/item?id=42450213"
-    ],
-    [
-      "How Boston City Hall was born",
-      "https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 10:50:20",
       "https://news.ycombinator.com/item?id=42449497"
     ],
     [
       "Boardgame.io: an engine for creating turn-based games using JavaScript",
       "https://github.com/boardgameio/boardgame.io"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 10:46:59",
+      "https://news.ycombinator.com/item?id=42449481"
+    ],
+    [
+      "NoDB: Processing Payments Without a Database",
+      "https://news.alvaroduran.com/p/nodb-processing-payments-without"
     ]
   ],
   [
