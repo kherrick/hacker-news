@@ -41,6 +41,7 @@
 * [2024-12-19, 13:39:23](https://news.ycombinator.com/item?id=42461264) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 13:30:55](https://news.ycombinator.com/item?id=42461207) - [America Is Suddenly Getting Healthier. No One Knows Why.](https://www.theatlantic.com/ideas/archive/2024/12/violence-obesity-overdoses-health-covid/681079/)
 * [2024-12-19, 12:42:03](https://news.ycombinator.com/item?id=42460899) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
+* [2024-12-19, 12:18:03](https://news.ycombinator.com/item?id=42460748) - [Show HN: Apache Cloudberry – Open-source Massively Parallel Processing database](https://github.com/apache/cloudberry)
 * [2024-12-19, 11:54:35](https://news.ycombinator.com/item?id=42460607) - [Don't Be Misled by Build an App in 5 Minutes with Cursor](https://www.pixelstech.net/article/1734488862-do-not-be-misled-by-%e2%80%98build-an-app-in-5-minutes%e2%80%99%3a-in-depth-practice-with-cursor)
 * [2024-12-19, 11:35:31](https://news.ycombinator.com/item?id=42460494) - [DVST Graphic Terminals](https://vintagetek.org/dvst-graphic-terminals/)
 * [2024-12-19, 11:16:26](https://news.ycombinator.com/item?id=42460394) - [Want to book a Ryanair flight? Prepare for a face scan](https://noyb.eu/en/want-book-ryanair-flight-prepare-face-scan)

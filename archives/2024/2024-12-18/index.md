@@ -11,6 +11,7 @@
 * [2024-12-18, 22:54:56](https://news.ycombinator.com/item?id=42456417) - [Show HN: Yakari – Interactive TUIs for CLI tools](https://github.com/vlandeiro/yakari)
 * [2024-12-18, 22:52:42](https://news.ycombinator.com/item?id=42456397) - [We don't know how many birds die in structural collisions](https://robertvanwey.substack.com/p/evaluating-avian-deaths-by-collision)
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
+* [2024-12-18, 22:23:48](https://news.ycombinator.com/item?id=42456134) - [After twelve years of writing about Bitcoin, here's how my thinking has changed](http://jpkoning.blogspot.com/2024/12/after-twelve-years-of-writing-about.html)
 * [2024-12-18, 22:08:46](https://news.ycombinator.com/item?id=42455992) - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
 * [2024-12-18, 22:02:40](https://news.ycombinator.com/item?id=42455938) - [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
