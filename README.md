@@ -2,7 +2,6 @@
 
 * [2024-12-21, 09:10:32](https://news.ycombinator.com/item?id=42478430) - [UK Gov Open Consultation: Copyright and Artificial Intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence)
 * [2024-12-21, 09:07:45](https://news.ycombinator.com/item?id=42478414) - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
-* [2024-12-21, 05:13:33](https://news.ycombinator.com/item?id=42477685) - [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
@@ -23,6 +22,7 @@
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-18, 22:52:42](https://news.ycombinator.com/item?id=42456397) - [We don't know how many birds die in structural collisions](https://robertvanwey.substack.com/p/evaluating-avian-deaths-by-collision)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
+* [2024-12-18, 13:50:41](https://news.ycombinator.com/item?id=42450389) - [Technical debt vs. technical assets: What's the difference?](https://liblab.com/blog/accruing-technical-assets-vs-paying-off-technical-debt)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:23:15](https://news.ycombinator.com/item?id=42450232) - [Show HN: celine/bibhtml: a Web Components referencing system for HTML documents](https://maxbo.me/celine/bibhtml/)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to lose a fortune with one bad click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
