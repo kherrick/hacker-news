@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 04:21:02](https://news.ycombinator.com/item?id=42477534) - [Our remedies proposal in DOJ's search distribution case](https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/)
-* [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
