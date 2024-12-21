@@ -101,32 +101,12 @@
   ],
   [
     [
-      "2024-12-20, 20:03:01",
-      "https://news.ycombinator.com/item?id=42474458"
-    ],
-    [
-      "Rules to avoid common extended inline assembly mistakes",
-      "https://nullprogram.com/blog/2024/12/20/"
-    ]
-  ],
-  [
-    [
       "2024-12-20, 18:11:13",
       "https://news.ycombinator.com/item?id=42473321"
     ],
     [
       "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
       "https://arcprize.org/blog/oai-o3-pub-breakthrough"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 17:33:00",
-      "https://news.ycombinator.com/item?id=42473032"
-    ],
-    [
-      "Grayjay Desktop App",
-      "https://grayjay.app/desktop/"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "Google starts tracking all your devices in 8 weeks",
       "https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 00:57:00",
+      "https://news.ycombinator.com/item?id=42467308"
+    ],
+    [
+      "NY governor signs law making the restaurant reservation black market illegal",
+      "https://ny.eater.com/2024/12/18/24324546/restaurant-reservation-black-market-illegal-passing-hochul"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "My vote on voting systems",
       "https://blog.danielh.cc/blog/voting"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 02:34:46",
+      "https://news.ycombinator.com/item?id=42457820"
+    ],
+    [
+      "Aegisub 3.4 – Open-Source Subtitle Editor",
+      "https://aegisub.org/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-12-18, 02:27:24",
-      "https://news.ycombinator.com/item?id=42447580"
-    ],
-    [
-      "Ascending Mount FujiNet",
-      "https://www.leadedsolder.com/2024/12/17/coco-fujinet.html"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 23:44:40",
       "https://news.ycombinator.com/item?id=42446686"
     ],
@@ -297,6 +287,16 @@
     [
       "Is stuff online worth saving?",
       "https://rubenerd.com/is-it-worth-saving/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 09:00:11",
+      "https://news.ycombinator.com/item?id=42439654"
+    ],
+    [
+      "Fixing C Strings",
+      "https://thasso.xyz/2024/12/16/fixing-c-strings.html"
     ]
   ]
 ]
