@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-21, 07:45:28](https://news.ycombinator.com/item?id=42478107) - [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
+* [2024-12-21, 05:13:33](https://news.ycombinator.com/item?id=42477685) - [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
@@ -18,7 +19,6 @@
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-19, 23:07:15](https://news.ycombinator.com/item?id=42466676) - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-* [2024-12-19, 14:29:18](https://news.ycombinator.com/item?id=42461688) - [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard)
 * [2024-12-19, 14:12:05](https://news.ycombinator.com/item?id=42461530) - [Ghost artists on Spotify](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 * [2024-12-18, 22:52:42](https://news.ycombinator.com/item?id=42456397) - [We don't know how many birds die in structural collisions](https://robertvanwey.substack.com/p/evaluating-avian-deaths-by-collision)
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
