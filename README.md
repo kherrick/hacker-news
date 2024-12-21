@@ -3,6 +3,7 @@
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A Data Table Thousands of Years Old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 22:01:18](https://news.ycombinator.com/item?id=42482684) - [Ask HN: How to unblock RSS feeds on Cloudflare hosted sites?](https://news.ycombinator.com/item?id=42482684)
 * [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
+* [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:33:15](https://news.ycombinator.com/item?id=42481659) - [Singlefile: A web extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-21, 18:22:58](https://news.ycombinator.com/item?id=42481249) - [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
@@ -29,7 +30,6 @@
 * [2024-12-17, 17:24:36](https://news.ycombinator.com/item?id=42443210) - [The One Hundred Pages Strategy](https://thelampmagazine.com/issues/issue-26/the-one-hundred-pages-strategy)
 * [2024-12-17, 16:44:36](https://news.ycombinator.com/item?id=42442852) - [Grammarly acquires Coda](https://coda.io/blog/about-coda/grammarly-acquires-coda)
 * [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
-* [2024-12-17, 09:00:11](https://news.ycombinator.com/item?id=42439654) - [Fixing C Strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)
 
 ## [Archives](archives/index.md)
 
