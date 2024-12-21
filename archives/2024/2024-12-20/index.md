@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 23:25:41](https://news.ycombinator.com/item?id=42476160) - [Death of a Forum: How the UK's Online Safety Act Is Killing Communities](https://www.techdirt.com/2024/12/20/death-of-a-forum-how-the-uks-online-safety-act-is-killing-communities/)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:04:34](https://news.ycombinator.com/item?id=42475526) - [Ask HN: Stanford cs 153 help](https://news.ycombinator.com/item?id=42475526)
