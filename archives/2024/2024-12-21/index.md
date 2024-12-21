@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 * [2024-12-21, 09:10:32](https://news.ycombinator.com/item?id=42478430) - [UK Gov Open Consultation: Copyright and Artificial Intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence)
 * [2024-12-21, 09:07:45](https://news.ycombinator.com/item?id=42478414) - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 * [2024-12-21, 07:45:28](https://news.ycombinator.com/item?id=42478107) - [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)

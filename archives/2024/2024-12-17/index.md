@@ -40,6 +40,7 @@
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 * [2024-12-17, 12:58:22](https://news.ycombinator.com/item?id=42440998) - [Ever wished you could time-travel just to say 'I told u so'?](https://www.tolduvault.com/)
+* [2024-12-17, 12:48:16](https://news.ycombinator.com/item?id=42440930) - [Testing for Thermal Issues Becomes More Difficult](https://semiengineering.com/testing-for-thermal-issues-becomes-more-difficult/)
 * [2024-12-17, 12:46:16](https://news.ycombinator.com/item?id=42440922) - [Developing Developers (2015)](https://felleisen.org/matthias/Thoughts/Developing_Developers.html)
 * [2024-12-17, 12:38:11](https://news.ycombinator.com/item?id=42440886) - [After 3 Years, I Failed. Here's All My Startup's Code](https://dylanhuang.com/blog/closing-my-startup/)
 * [2024-12-17, 12:18:05](https://news.ycombinator.com/item?id=42440767) - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
