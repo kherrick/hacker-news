@@ -3,7 +3,6 @@
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 11:10:59](https://news.ycombinator.com/item?id=42478962) - [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
 * [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
-* [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
@@ -29,6 +28,7 @@
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
+* [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
 * [2024-12-17, 12:48:16](https://news.ycombinator.com/item?id=42440930) - [Testing for Thermal Issues Becomes More Difficult](https://semiengineering.com/testing-for-thermal-issues-becomes-more-difficult/)
 
 ## [Archives](archives/index.md)

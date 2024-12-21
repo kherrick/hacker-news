@@ -36,6 +36,7 @@
 * [2024-12-17, 15:21:10](https://news.ycombinator.com/item?id=42442054) - [First Actively Forming Galaxy as Lightweight as Young Milky Way](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 * [2024-12-17, 15:11:31](https://news.ycombinator.com/item?id=42441956) - [Eight Day Road Trip of Western Ghats in Karnataka from Bangalore](https://travelswithpriyanka.substack.com/p/8-day-road-trip-of-western-ghats)
 * [2024-12-17, 14:50:01](https://news.ycombinator.com/item?id=42441772) - [Using GPS satellites to detect tsunamis via ionospheric ionization waves](https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian)
+* [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
 * [2024-12-17, 14:18:53](https://news.ycombinator.com/item?id=42441502) - [Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro](https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/)
 * [2024-12-17, 13:53:42](https://news.ycombinator.com/item?id=42441333) - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 * [2024-12-17, 13:43:29](https://news.ycombinator.com/item?id=42441258) - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
