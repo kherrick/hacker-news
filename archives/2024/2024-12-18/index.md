@@ -8,6 +8,7 @@
 * [2024-12-18, 23:33:14](https://news.ycombinator.com/item?id=42456707) - [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
 * [2024-12-18, 23:17:08](https://news.ycombinator.com/item?id=42456574) - [The moonbit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
+* [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 22:54:56](https://news.ycombinator.com/item?id=42456417) - [Show HN: Yakari – Interactive TUIs for CLI tools](https://github.com/vlandeiro/yakari)
 * [2024-12-18, 22:52:42](https://news.ycombinator.com/item?id=42456397) - [We don't know how many birds die in structural collisions](https://robertvanwey.substack.com/p/evaluating-avian-deaths-by-collision)
 * [2024-12-18, 22:43:27](https://news.ycombinator.com/item?id=42456310) - [The RAM Myth](https://purplesyringa.moe/blog/the-ram-myth/)
