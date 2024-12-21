@@ -46,6 +46,7 @@
 * [2024-12-19, 10:17:52](https://news.ycombinator.com/item?id=42460131) - [Show HN: TideCloak – Decentralized IAM for security and user sovereignty](https://github.com/tide-foundation/tidecloak-gettingstarted)
 * [2024-12-19, 10:14:15](https://news.ycombinator.com/item?id=42460107) - [Show HN: CCState is a semantic, strict, and flexible state management library](https://github.com/e7h4n/ccstate)
 * [2024-12-19, 09:18:40](https://news.ycombinator.com/item?id=42459790) - [Scientists learning to 'write' skills to human brain noninvasively, like Matrix](https://interestingengineering.com/science/implant-information-directly-into-brain)
+* [2024-12-19, 06:08:10](https://news.ycombinator.com/item?id=42458861) - [BonkysInferno](https://forum.rec.net/t/introducing-bonkysinferno/3880)
 * [2024-12-19, 05:43:29](https://news.ycombinator.com/item?id=42458752) - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
