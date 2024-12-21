@@ -61,6 +61,7 @@
 * [2024-12-19, 02:19:36](https://news.ycombinator.com/item?id=42457712) - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
 * [2024-12-19, 01:47:05](https://news.ycombinator.com/item?id=42457515) - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
 * [2024-12-19, 01:34:31](https://news.ycombinator.com/item?id=42457436) - [There's No Such Thing as Software Productivity (2012)](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
+* [2024-12-19, 01:26:03](https://news.ycombinator.com/item?id=42457383) - [Mass psychogenic illness and the social network (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3536509/)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
 * [2024-12-19, 00:49:24](https://news.ycombinator.com/item?id=42457182) - [Half My Life with Perl – By Randal Schwartz](https://perladvent.org/2024/2024-12-19.html)
