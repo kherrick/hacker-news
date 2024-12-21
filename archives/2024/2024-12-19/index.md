@@ -53,6 +53,7 @@
 * [2024-12-19, 05:12:08](https://news.ycombinator.com/item?id=42458599) - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 * [2024-12-19, 04:27:28](https://news.ycombinator.com/item?id=42458431) - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
 * [2024-12-19, 04:26:57](https://news.ycombinator.com/item?id=42458429) - [My vote on voting systems](https://blog.danielh.cc/blog/voting)
+* [2024-12-19, 02:34:46](https://news.ycombinator.com/item?id=42457820) - [Aegisub 3.4 – Open-Source Subtitle Editor](https://aegisub.org/)
 * [2024-12-19, 02:34:11](https://news.ycombinator.com/item?id=42457816) - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
 * [2024-12-19, 02:28:36](https://news.ycombinator.com/item?id=42457782) - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
 * [2024-12-19, 02:19:36](https://news.ycombinator.com/item?id=42457712) - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
