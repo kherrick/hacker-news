@@ -6,7 +6,6 @@
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-* [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 * [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 20:03:01](https://news.ycombinator.com/item?id=42474458) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
@@ -29,6 +28,7 @@
 * [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 15:21:10](https://news.ycombinator.com/item?id=42442054) - [First Actively Forming Galaxy as Lightweight as Young Milky Way](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
+* [2024-12-17, 08:49:17](https://news.ycombinator.com/item?id=42439582) - [The \"Winkel\" Bunker – Arcanum Urbex](https://www.arcanumurbex.de/photos/military-objects/bunker-winkel/)
 * [2024-12-17, 08:40:04](https://news.ycombinator.com/item?id=42439532) - [The Focusing Illusion](https://www.optimallyirrational.com/p/the-focusing-illusion)
 
 ## [Archives](archives/index.md)
