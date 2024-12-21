@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-21, 20:31:59",
-      "https://news.ycombinator.com/item?id=42482080"
+      "2024-12-21, 20:18:22",
+      "https://news.ycombinator.com/item?id=42481982"
     ],
     [
-      "US judge finds Pegasus spyware maker liable over WhatsApp hack",
-      "https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking"
+      "Berlin-Paris high-speed rail route symbolizes Europe's thirst for train travel",
+      "https://www.lemonde.fr/en/europe/article/2024/12/20/berlin-paris-high-speed-rail-route-symbolizes-europe-s-thirst-for-train-travel_6736284_143.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-21, 19:33:15",
+      "https://news.ycombinator.com/item?id=42481659"
+    ],
+    [
+      "SingleFile: A Web Extension to save a complete web page into a single HTML file",
+      "https://github.com/gildas-lormeau/SingleFile"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Introducing S2",
       "https://s2.dev/blog/intro"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 14:42:56",
-      "https://news.ycombinator.com/item?id=42479958"
-    ],
-    [
-      "An academic Great Gatsby Curve – How much academic success is inherited?",
-      "https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-12-20, 22:25:45",
-      "https://news.ycombinator.com/item?id=42475703"
-    ],
-    [
-      "A Raycaster in Bash",
-      "https://github.com/izabera/pseudo3d"
-    ]
-  ],
-  [
-    [
       "2024-12-20, 18:11:13",
       "https://news.ycombinator.com/item?id=42473321"
     ],
@@ -141,12 +131,12 @@
   ],
   [
     [
-      "2024-12-20, 10:58:00",
-      "https://news.ycombinator.com/item?id=42470040"
+      "2024-12-20, 11:30:04",
+      "https://news.ycombinator.com/item?id=42470238"
     ],
     [
-      "Google starts tracking all your devices in 8 weeks",
-      "https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/"
+      "The birth, life, and death of old Penn Station (2017)",
+      "https://ny.curbed.com/2017/11/7/16616314/old-penn-station-history-photos-mckim"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Implementing the the Raft distributed consensus algorithm",
       "https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 15:07:22",
+      "https://news.ycombinator.com/item?id=42462078"
+    ],
+    [
+      "Wuppertal's suspended monorail proved its doubters wrong [video]",
+      "https://www.youtube.com/watch?v=sI5DehAuT2I"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2024-12-19, 00:54:48",
-      "https://news.ycombinator.com/item?id=42457213"
+      "2024-12-18, 22:54:56",
+      "https://news.ycombinator.com/item?id=42456417"
     ],
     [
-      "Genesis – a generative physics engine for general-purpose robotics",
-      "https://genesis-world.readthedocs.io/en/latest/"
+      "Show HN: Yakari – Interactive TUIs for CLI tools",
+      "https://github.com/vlandeiro/yakari"
     ]
   ],
   [
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2024-12-18, 13:30:04",
-      "https://news.ycombinator.com/item?id=42450274"
+      "2024-12-18, 15:20:09",
+      "https://news.ycombinator.com/item?id=42451135"
     ],
     [
-      "MoonBit compiler is available on GitHub",
-      "https://www.moonbitlang.com/blog/compiler-opensource"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 13:21:47",
-      "https://news.ycombinator.com/item?id=42450223"
-    ],
-    [
-      "Relational Lisp – AP5",
-      "https://www.ap5.com/ap5-man.html"
+      "More than 140 Kenya Facebook moderators sue after diagnoses of PTSD",
+      "https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd"
     ]
   ],
   [
@@ -251,22 +241,12 @@
   ],
   [
     [
-      "2024-12-18, 08:53:00",
-      "https://news.ycombinator.com/item?id=42449026"
+      "2024-12-18, 02:34:36",
+      "https://news.ycombinator.com/item?id=42447628"
     ],
     [
-      "Group Argues to Save Haiku Stairs for Historic Preservation Reasons",
-      "https://www.civilbeat.org/2024/05/group-argues-to-save-haiku-stairs-for-historic-preservation-reasons/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 23:44:40",
-      "https://news.ycombinator.com/item?id=42446686"
-    ],
-    [
-      "Decline in teen drug use continues, surprising experts",
-      "https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/"
+      "The Engineering of Wildlife Crossings",
+      "https://practical.engineering/blog/2024/12/17/the-hidden-engineering-of-wildlife-crossings"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Researchers discover new ocean predator in the Atacama Trench",
       "https://phys.org/news/2024-12-ocean-predator-atacama-trench.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 17:24:36",
+      "https://news.ycombinator.com/item?id=42443210"
+    ],
+    [
+      "The One Hundred Pages Strategy",
+      "https://thelampmagazine.com/issues/issue-26/the-one-hundred-pages-strategy"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 16:44:36",
+      "https://news.ycombinator.com/item?id=42442852"
+    ],
+    [
+      "Grammarly acquires Coda",
+      "https://coda.io/blog/about-coda/grammarly-acquires-coda"
     ]
   ],
   [
