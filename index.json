@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-12-21, 19:53:26",
+      "https://news.ycombinator.com/item?id=42481813"
+    ],
+    [
+      "JEP 483: Ahead-of-Time Class Loading and Linking",
+      "https://openjdk.org/jeps/483"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 19:33:15",
       "https://news.ycombinator.com/item?id=42481659"
     ],
@@ -287,16 +297,6 @@
     [
       "Is stuff online worth saving?",
       "https://rubenerd.com/is-it-worth-saving/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 09:00:11",
-      "https://news.ycombinator.com/item?id=42439654"
-    ],
-    [
-      "Fixing C Strings",
-      "https://thasso.xyz/2024/12/16/fixing-c-strings.html"
     ]
   ]
 ]
