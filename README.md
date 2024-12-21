@@ -2,6 +2,7 @@
 
 * [2024-12-21, 16:56:03](https://news.ycombinator.com/item?id=42480706) - [AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience](https://simone.org/synthography/)
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
+* [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 14:42:56](https://news.ycombinator.com/item?id=42479958) - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
 * [2024-12-21, 14:24:53](https://news.ycombinator.com/item?id=42479866) - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
@@ -26,7 +27,6 @@
 * [2024-12-18, 13:21:47](https://news.ycombinator.com/item?id=42450223) - [Relational Lisp – AP5](https://www.ap5.com/ap5-man.html)
 * [2024-12-18, 12:32:15](https://news.ycombinator.com/item?id=42449951) - [When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?](https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
-* [2024-12-18, 02:27:24](https://news.ycombinator.com/item?id=42447580) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 20:42:20](https://news.ycombinator.com/item?id=42445102) - [Researchers discover new ocean predator in the Atacama Trench](https://phys.org/news/2024-12-ocean-predator-atacama-trench.html)
 * [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
