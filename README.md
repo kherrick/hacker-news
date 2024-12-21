@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A Data Table Thousands of Years Old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
 * [2024-12-21, 19:33:15](https://news.ycombinator.com/item?id=42481659) - [Singlefile: A web extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
@@ -20,7 +21,6 @@
 * [2024-12-19, 22:43:17](https://news.ycombinator.com/item?id=42466507) - [Implementing Raft: Part 0 – Introduction (2020)](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
 * [2024-12-19, 10:38:06](https://news.ycombinator.com/item?id=42460217) - [How the Samuel Smith beer baron built Britain's strangest pub chain](https://www.theguardian.com/news/2024/dec/19/humphreys-world-how-the-samuel-smith-beer-baron-built-britains-strangest-pub-chain)
-* [2024-12-19, 01:26:03](https://news.ycombinator.com/item?id=42457383) - [Mass psychogenic illness and the social network (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3536509/)
 * [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 22:54:56](https://news.ycombinator.com/item?id=42456417) - [Show HN: Yakari – Interactive TUIs for CLI tools](https://github.com/vlandeiro/yakari)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A Data Table Thousands of Years Old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
 * [2024-12-21, 20:31:59](https://news.ycombinator.com/item?id=42482080) - [US judge finds Pegasus spyware maker liable over WhatsApp hack](https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking)
 * [2024-12-21, 20:18:22](https://news.ycombinator.com/item?id=42481982) - [Berlin-Paris high-speed rail route symbolizes Europe's thirst for train travel](https://www.lemonde.fr/en/europe/article/2024/12/20/berlin-paris-high-speed-rail-route-symbolizes-europe-s-thirst-for-train-travel_6736284_143.html)
