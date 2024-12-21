@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-12-21, 19:25:13",
+      "https://news.ycombinator.com/item?id=42481612"
+    ],
+    [
+      "Dividing unsigned 8-bit numbers",
+      "http://0x80.pl/notesen/2024-12-21-uint8-division.html"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 17:20:12",
       "https://news.ycombinator.com/item?id=42480885"
     ],
     [
       "Gazzetta, an RSS Reader for Mastodon",
       "https://primatology.xyz/blog/introducing-gazzetta"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 16:56:03",
-      "https://news.ycombinator.com/item?id=42480706"
-    ],
-    [
-      "AI 'Street Photography' Isn't Photography: What We Lose by Simulating Experience",
-      "https://simone.org/synthography/"
     ]
   ],
   [
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2024-12-19, 23:07:15",
-      "https://news.ycombinator.com/item?id=42466676"
+      "2024-12-20, 10:58:00",
+      "https://news.ycombinator.com/item?id=42470040"
     ],
     [
-      "Kelly Can't Fail",
-      "https://win-vector.com/2024/12/19/kelly-cant-fail/"
+      "Google starts tracking all your devices in 8 weeks",
+      "https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/"
     ]
   ],
   [
@@ -161,22 +161,42 @@
   ],
   [
     [
-      "2024-12-19, 16:36:54",
-      "https://news.ycombinator.com/item?id=42463123"
-    ],
-    [
-      "Clay – UI Layout Library",
-      "https://www.nicbarker.com/clay"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 14:29:18",
       "https://news.ycombinator.com/item?id=42461688"
     ],
     [
       "Nullboard: Kanban board in a single HTML file",
       "https://github.com/apankrat/nullboard"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 10:38:06",
+      "https://news.ycombinator.com/item?id=42460217"
+    ],
+    [
+      "How the Samuel Smith beer baron built Britain's strangest pub chain",
+      "https://www.theguardian.com/news/2024/dec/19/humphreys-world-how-the-samuel-smith-beer-baron-built-britains-strangest-pub-chain"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 04:26:57",
+      "https://news.ycombinator.com/item?id=42458429"
+    ],
+    [
+      "My vote on voting systems",
+      "https://blog.danielh.cc/blog/voting"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 00:54:48",
+      "https://news.ycombinator.com/item?id=42457213"
+    ],
+    [
+      "Genesis – a generative physics engine for general-purpose robotics",
+      "https://genesis-world.readthedocs.io/en/latest/"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Relational Lisp – AP5",
       "https://www.ap5.com/ap5-man.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 13:21:14",
-      "https://news.ycombinator.com/item?id=42450221"
-    ],
-    [
-      "How to lose a fortune with one bad click",
-      "https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Is stuff online worth saving?",
       "https://rubenerd.com/is-it-worth-saving/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 09:56:04",
-      "https://news.ycombinator.com/item?id=42439956"
-    ],
-    [
-      "Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope",
-      "https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/"
     ]
   ]
 ]
