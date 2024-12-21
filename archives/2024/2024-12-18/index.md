@@ -69,6 +69,7 @@
 * [2024-12-18, 13:16:10](https://news.ycombinator.com/item?id=42450196) - [MoarVM – A VM for NQP and Rakudo](https://www.moarvm.org/)
 * [2024-12-18, 12:58:57](https://news.ycombinator.com/item?id=42450084) - [Insurers Are Deserting Homeowners as Climate Shocks Worsen](https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html)
 * [2024-12-18, 12:58:32](https://news.ycombinator.com/item?id=42450080) - [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
+* [2024-12-18, 12:32:15](https://news.ycombinator.com/item?id=42449951) - [When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?](https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/)
 * [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
 * [2024-12-18, 12:01:07](https://news.ycombinator.com/item?id=42449798) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
