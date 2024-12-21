@@ -50,6 +50,7 @@
 * [2024-12-18, 16:21:57](https://news.ycombinator.com/item?id=42451848) - [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1)
 * [2024-12-18, 16:10:54](https://news.ycombinator.com/item?id=42451717) - [Intel Inside, Gelsinger Outside](https://spyglass.org/intel-outside-gelsinger/)
 * [2024-12-18, 16:09:56](https://news.ycombinator.com/item?id=42451707) - [Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents](https://news.ycombinator.com/item?id=42451707)
+* [2024-12-18, 16:04:41](https://news.ycombinator.com/item?id=42451640) - [Generate Color Palettes from Text](https://colorify.rocks)
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:50:50](https://news.ycombinator.com/item?id=42451447) - [Show HN: Zipshare – one-step Android screen sharing for support teams](https://www.getzipshare.com)
 * [2024-12-18, 15:47:13](https://news.ycombinator.com/item?id=42451409) - [Show HN: openai-realtime-embedded-SDK Build AI assistants on microcontrollers](https://github.com/openai/openai-realtime-embedded-sdk)
