@@ -34,6 +34,7 @@
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
 * [2024-12-18, 18:09:17](https://news.ycombinator.com/item?id=42453126) - [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)
 * [2024-12-18, 17:56:49](https://news.ycombinator.com/item?id=42452995) - [We May Be on the Brink of Finding the Real Planet Nine](https://www.scientificamerican.com/article/if-planet-nine-exists-well-find-it-soon/)
+* [2024-12-18, 17:20:12](https://news.ycombinator.com/item?id=42452527) - [Efficient German Language Learning: Is Anki the Answer?](https://www.argpar.se/posts/misc/efficient-german-language-learning-is-anki-the-answer)
 * [2024-12-18, 17:05:24](https://news.ycombinator.com/item?id=42452358) - [Formally Modeling Dreidel, the Sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 17:00:23](https://news.ycombinator.com/item?id=42452315) - [Hadrius (YC W23) Is Hiring a Founding UI/UX Designer](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer)
 * [2024-12-18, 16:58:03](https://news.ycombinator.com/item?id=42452285) - [BlackSheep: Fast ASGI web framework for Python](https://github.com/Neoteroi/BlackSheep)
