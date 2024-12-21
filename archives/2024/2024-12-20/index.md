@@ -11,6 +11,7 @@
 * [2024-12-20, 21:28:53](https://news.ycombinator.com/item?id=42475228) - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
 * [2024-12-20, 21:16:01](https://news.ycombinator.com/item?id=42475123) - [Samsung gets $4.7B grants for Texas fabs](https://www.nist.gov/chips/samsung-electronics-texas-austin)
 * [2024-12-20, 21:04:59](https://news.ycombinator.com/item?id=42475011) - [What did the DOS \"APPEND\" command do?](https://www.os2museum.com/wp/dos-append/)
+* [2024-12-20, 20:03:01](https://news.ycombinator.com/item?id=42474458) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 * [2024-12-20, 19:24:19](https://news.ycombinator.com/item?id=42474064) - [Ask HN: How do you work with people who are \"not quite smart\"?](https://news.ycombinator.com/item?id=42474064)
 * [2024-12-20, 18:11:13](https://news.ycombinator.com/item?id=42473321) - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-20, 17:33:00](https://news.ycombinator.com/item?id=42473032) - [Grayjay Desktop App](https://grayjay.app/desktop/)
