@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
+* [2024-12-21, 11:10:59](https://news.ycombinator.com/item?id=42478962) - [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
 * [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
-* [2024-12-21, 09:07:45](https://news.ycombinator.com/item?id=42478414) - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
