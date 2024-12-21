@@ -62,6 +62,7 @@
 * [2024-12-18, 13:50:41](https://news.ycombinator.com/item?id=42450389) - [Technical debt vs. technical assets: What's the difference?](https://liblab.com/blog/accruing-technical-assets-vs-paying-off-technical-debt)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
 * [2024-12-18, 13:43:23](https://news.ycombinator.com/item?id=42450348) - [Vultr Raises $333M at $3.5B Valuation](https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9)
+* [2024-12-18, 13:30:04](https://news.ycombinator.com/item?id=42450274) - [MoonBit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
 * [2024-12-18, 13:23:15](https://news.ycombinator.com/item?id=42450232) - [Show HN: celine/bibhtml: a Web Components referencing system for HTML documents](https://maxbo.me/celine/bibhtml/)
 * [2024-12-18, 13:22:28](https://news.ycombinator.com/item?id=42450227) - [How concurrecy works: A visual guide](https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
