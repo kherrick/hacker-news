@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42479866"
     ],
     [
-      "Escaping Google's Manual Reputation Penalty and Resuming Business as Usual",
+      "Escaping Google's manual reputation penalty and resuming business as usual",
       "https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/"
     ]
   ],
@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=42479233"
     ],
     [
-      "Query Apple's FindMy Network with Python",
+      "Query Apple's FindMy network with Python",
       "https://github.com/malmeloo/FindMy.py"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 10:15:11",
-      "https://news.ycombinator.com/item?id=42478728"
-    ],
-    [
-      "Kannel: Open-Source WAP and SMS Gateway",
-      "https://www.kannel.org/overview.shtml"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-12-20, 12:29:17",
-      "https://news.ycombinator.com/item?id=42470541"
-    ],
-    [
-      "Building Effective \"Agents\"",
-      "https://www.anthropic.com/research/building-effective-agents"
-    ]
-  ],
-  [
-    [
       "2024-12-20, 05:42:56",
       "https://news.ycombinator.com/item?id=42468594"
     ],
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42467937"
     ],
     [
-      "How talking over a wall changed my direction as a programmer",
+      "Talking over a wall changed my direction as a programmer",
       "https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/"
     ]
   ],
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42466507"
     ],
     [
-      "Implementing the the Raft distributed consensus algorithm",
+      "Implementing Raft: Part 0 – Introduction (2020)",
       "https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/"
     ]
   ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-12-18, 22:54:56",
+      "https://news.ycombinator.com/item?id=42456417"
+    ],
+    [
+      "Show HN: Yakari – Interactive TUIs for CLI tools",
+      "https://github.com/vlandeiro/yakari"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 15:20:09",
       "https://news.ycombinator.com/item?id=42451135"
     ],
     [
       "More than 140 Kenya Facebook moderators sue after diagnoses of PTSD",
       "https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 02:34:36",
+      "https://news.ycombinator.com/item?id=42447628"
+    ],
+    [
+      "The Engineering of Wildlife Crossings",
+      "https://practical.engineering/blog/2024/12/17/the-hidden-engineering-of-wildlife-crossings"
     ]
   ],
   [
