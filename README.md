@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
-* [2024-12-21, 10:54:28](https://news.ycombinator.com/item?id=42478897) - [Ask HN: Do you backup your Emails?](https://news.ycombinator.com/item?id=42478897)
 * [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
-* [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 23:30:03](https://news.ycombinator.com/item?id=42476192) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 * [2024-12-20, 22:25:45](https://news.ycombinator.com/item?id=42475703) - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 20:03:01](https://news.ycombinator.com/item?id=42474458) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
@@ -23,6 +21,7 @@
 * [2024-12-18, 18:17:17](https://news.ycombinator.com/item?id=42453207) - [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule)
 * [2024-12-18, 13:30:04](https://news.ycombinator.com/item?id=42450274) - [MoonBit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
 * [2024-12-18, 13:23:15](https://news.ycombinator.com/item?id=42450232) - [Show HN: celine/bibhtml: a Web Components referencing system for HTML documents](https://maxbo.me/celine/bibhtml/)
+* [2024-12-18, 13:21:47](https://news.ycombinator.com/item?id=42450223) - [Relational Lisp – AP5](https://www.ap5.com/ap5-man.html)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to lose a fortune with one bad click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
 * [2024-12-18, 12:32:15](https://news.ycombinator.com/item?id=42449951) - [When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?](https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/)
 * [2024-12-18, 10:50:20](https://news.ycombinator.com/item?id=42449497) - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
@@ -30,6 +29,7 @@
 * [2024-12-17, 23:44:40](https://news.ycombinator.com/item?id=42446686) - [Decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
 * [2024-12-17, 14:31:13](https://news.ycombinator.com/item?id=42441609) - [Is stuff online worth saving?](https://rubenerd.com/is-it-worth-saving/)
 * [2024-12-17, 12:48:16](https://news.ycombinator.com/item?id=42440930) - [Testing for Thermal Issues Becomes More Difficult](https://semiengineering.com/testing-for-thermal-issues-becomes-more-difficult/)
+* [2024-12-17, 09:56:04](https://news.ycombinator.com/item?id=42439956) - [Ham radio operators receive signals from Voyager 1 on Dwingeloo telescope](https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/)
 
 ## [Archives](archives/index.md)
 

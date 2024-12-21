@@ -65,6 +65,7 @@
 * [2024-12-18, 13:30:04](https://news.ycombinator.com/item?id=42450274) - [MoonBit compiler is available on GitHub](https://www.moonbitlang.com/blog/compiler-opensource)
 * [2024-12-18, 13:23:15](https://news.ycombinator.com/item?id=42450232) - [Show HN: celine/bibhtml: a Web Components referencing system for HTML documents](https://maxbo.me/celine/bibhtml/)
 * [2024-12-18, 13:22:28](https://news.ycombinator.com/item?id=42450227) - [How concurrecy works: A visual guide](https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/)
+* [2024-12-18, 13:21:47](https://news.ycombinator.com/item?id=42450223) - [Relational Lisp – AP5](https://www.ap5.com/ap5-man.html)
 * [2024-12-18, 13:21:14](https://news.ycombinator.com/item?id=42450221) - [How to Lose a Fortune with Just One Bad Click](https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/)
 * [2024-12-18, 13:19:27](https://news.ycombinator.com/item?id=42450213) - [How Boston City Hall was born](https://www.bostonglobe.com/ideas/2012/02/12/how-boston-city-hall-was-born/DtfspyXVbKBIKi8iSXHX6J/story.html)
 * [2024-12-18, 13:16:10](https://news.ycombinator.com/item?id=42450196) - [MoarVM – A VM for NQP and Rakudo](https://www.moarvm.org/)
