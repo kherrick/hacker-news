@@ -64,6 +64,7 @@
 * [2024-12-19, 01:26:03](https://news.ycombinator.com/item?id=42457383) - [Mass psychogenic illness and the social network (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3536509/)
 * [2024-12-19, 01:18:51](https://news.ycombinator.com/item?id=42457342) - [Takes on \"Alignment Faking in Large Language Models\"](https://joecarlsmith.com/2024/12/18/takes-on-alignment-faking-in-large-language-models/)
 * [2024-12-19, 01:14:39](https://news.ycombinator.com/item?id=42457321) - [Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
+* [2024-12-19, 01:10:16](https://news.ycombinator.com/item?id=42457295) - [Towards a new kind of science and technology](https://scottlocklin.wordpress.com/2024/12/18/towards-a-new-kind-of-science-and-technology/)
 * [2024-12-19, 00:54:48](https://news.ycombinator.com/item?id=42457213) - [Genesis – a generative physics engine for general-purpose robotics](https://genesis-world.readthedocs.io/en/latest/)
 * [2024-12-19, 00:49:24](https://news.ycombinator.com/item?id=42457182) - [Half My Life with Perl – By Randal Schwartz](https://perladvent.org/2024/2024-12-19.html)
 * [2024-12-19, 00:48:41](https://news.ycombinator.com/item?id=42457178) - [Advanced Civilizations Could Be Indistinguishable from Nature](https://www.universetoday.com/169993/advanced-civilizations-could-be-indistinguishable-from-nature/)

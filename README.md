@@ -23,7 +23,7 @@
 * [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [Talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
-* [2024-12-19, 10:38:06](https://news.ycombinator.com/item?id=42460217) - [How the Samuel Smith beer baron built Britain's strangest pub chain](https://www.theguardian.com/news/2024/dec/19/humphreys-world-how-the-samuel-smith-beer-baron-built-britains-strangest-pub-chain)
+* [2024-12-19, 01:10:16](https://news.ycombinator.com/item?id=42457295) - [Towards a new kind of science and technology](https://scottlocklin.wordpress.com/2024/12/18/towards-a-new-kind-of-science-and-technology/)
 * [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
