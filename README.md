@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
+* [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
@@ -12,9 +14,7 @@
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
-* [2024-12-21, 18:22:58](https://news.ycombinator.com/item?id=42481249) - [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
 * [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
-* [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 10:57:57](https://news.ycombinator.com/item?id=42478911) - [Curl removes experimental HTTP back end in Rust](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
