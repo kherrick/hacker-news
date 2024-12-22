@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
-* [2024-12-22, 05:13:41](https://news.ycombinator.com/item?id=42484513) - [Scathing book reviews of 2024](https://lithub.com/the-most-scathing-book-reviews-of-2024/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 * [2024-12-22, 00:41:27](https://news.ycombinator.com/item?id=42483543) - [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
@@ -21,6 +20,7 @@
 * [2024-12-20, 16:36:33](https://news.ycombinator.com/item?id=42472519) - [Show HN: Rivet Actors – Durable Objects build with Rust, FoundationDB, Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 10:51:06](https://news.ycombinator.com/item?id=42470001) - [Language and Personality](https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn)
 * [2024-12-20, 05:34:18](https://news.ycombinator.com/item?id=42468554) - [Spherical Harmonics](https://www.rhotter.com/posts/harmonics)
+* [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [Talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)
 * [2024-12-20, 00:38:43](https://news.ycombinator.com/item?id=42467233) - [An epitome of electricity and galvanism (1809)](https://gutenberg.org/cache/epub/74933/pg74933-images.html)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
