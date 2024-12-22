@@ -53,4 +53,5 @@
 * [2024-12-20, 01:09:53](https://news.ycombinator.com/item?id=42467375) - [Doctors Without Borders declares the war in Gaza as genocide](https://www.doctorswithoutborders.org/latest/gaza-death-trap-msf-report-exposes-israels-campaign-total-destruction)
 * [2024-12-20, 00:57:00](https://news.ycombinator.com/item?id=42467308) - [NY governor signs law making the restaurant reservation black market illegal](https://ny.eater.com/2024/12/18/24324546/restaurant-reservation-black-market-illegal-passing-hochul)
 * [2024-12-20, 00:39:14](https://news.ycombinator.com/item?id=42467236) - [Bat Feces Used to Fertilize Cannabis Is Linked to 2 Deaths](https://www.nytimes.com/2024/12/18/nyregion/bat-poop-cannabis-deaths-ny.html)
+* [2024-12-20, 00:38:43](https://news.ycombinator.com/item?id=42467233) - [An epitome of electricity and galvanism (1809)](https://gutenberg.org/cache/epub/74933/pg74933-images.html)
 * [2024-12-20, 00:29:57](https://news.ycombinator.com/item?id=42467194) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
