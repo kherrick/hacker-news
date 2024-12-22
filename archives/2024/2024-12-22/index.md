@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 08:24:31](https://news.ycombinator.com/item?id=42485080) - [The highest funded plagiarist has become a Professor](https://tinimini2.wordpress.com/2024/12/22/plagiarism-can-lead-to-professorship/)
 * [2024-12-22, 08:11:31](https://news.ycombinator.com/item?id=42485043) - [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The Essays of Michel de Montaigne Online](https://hyperessays.net/)
