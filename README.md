@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
-* [2024-12-22, 16:26:50](https://news.ycombinator.com/item?id=42487321) - [Stem cells head to the clinic: treatments for cancer, diabetes and Parkinson's](https://www.nature.com/articles/d41586-024-04160-0)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 15:14:38](https://news.ycombinator.com/item?id=42486831) - [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
@@ -15,6 +14,7 @@
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
+* [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
