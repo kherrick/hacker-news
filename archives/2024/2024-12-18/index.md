@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 23:52:38](https://news.ycombinator.com/item?id=42456802) - [Genesis: A generative and universal physics engine for robotics and beyond](https://genesis-embodied-ai.github.io/)
 * [2024-12-18, 23:34:09](https://news.ycombinator.com/item?id=42456715) - [Nurses whose shitty boss is a shitty app](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)
 * [2024-12-18, 23:33:14](https://news.ycombinator.com/item?id=42456707) - [Embedding Lua in Sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-18, 23:17:56](https://news.ycombinator.com/item?id=42456585) - [Self-sorting arrays reveal unexpected competencies in minimal intelligence](https://arxiv.org/abs/2401.05375)
