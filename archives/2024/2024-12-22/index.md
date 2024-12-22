@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 10:20:40](https://news.ycombinator.com/item?id=42485499) - [Show HN: NoSQL, but it's SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
 * [2024-12-22, 08:37:03](https://news.ycombinator.com/item?id=42485126) - [Turning Ethereum into a Community Project](https://ethereum-magicians.org/t/eip-xxxx-on-chain-upgrade-signaling/22306)
