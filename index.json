@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-22, 21:27:14",
+      "https://news.ycombinator.com/item?id=42489267"
+    ],
+    [
+      "ChatGPT O3 Preview Announcement",
+      "https://openai.com/12-days/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 21:02:34",
       "https://news.ycombinator.com/item?id=42489072"
     ],
@@ -31,32 +41,42 @@
   ],
   [
     [
+      "2024-12-22, 20:32:01",
+      "https://news.ycombinator.com/item?id=42488853"
+    ],
+    [
+      "Tokenisation Is NP-Complete",
+      "https://arxiv.org/abs/2412.15210"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 18:53:03",
       "https://news.ycombinator.com/item?id=42488270"
     ],
     [
-      "One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.",
+      "Bogotá’s open streets program is the oldest and most successful",
       "https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html"
     ]
   ],
   [
     [
-      "2024-12-22, 18:29:23",
-      "https://news.ycombinator.com/item?id=42488112"
+      "2024-12-22, 18:51:41",
+      "https://news.ycombinator.com/item?id=42488263"
     ],
     [
-      "The Jujutsu version control system",
-      "https://neugierig.org/software/blog/2024/12/jujutsu.html"
+      "One way to fight loneliness: The Germans call it a Stammtisch",
+      "https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch"
     ]
   ],
   [
     [
-      "2024-12-22, 18:15:19",
-      "https://news.ycombinator.com/item?id=42488047"
+      "2024-12-22, 17:53:36",
+      "https://news.ycombinator.com/item?id=42487929"
     ],
     [
-      "NetVentory – Modern single binary console NMAP replacement with GUI",
-      "https://github.com/RamboRogers/netventory"
+      "JRuby with JBang",
+      "https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Fighting spam with Haskell at Meta (2015)",
       "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 17:14:26",
+      "https://news.ycombinator.com/item?id=42487670"
+    ],
+    [
+      "Long Term Software Development",
+      "https://berthub.eu/articles/posts/on-long-term-software-development/"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2024-12-21, 07:06:30",
-      "https://news.ycombinator.com/item?id=42478000"
-    ],
-    [
-      "INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations",
-      "https://grisoon.github.io/INFP/"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 06:29:06",
-      "https://news.ycombinator.com/item?id=42477882"
-    ],
-    [
-      "Google's counteroffer to govt trying to break it up is unbundling Android apps",
-      "https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android"
-    ]
-  ],
-  [
-    [
       "2024-12-20, 04:57:31",
       "https://news.ycombinator.com/item?id=42468402"
     ],
@@ -267,16 +277,6 @@
     [
       "The case for clinical trial abundance",
       "https://ifp.org/the-case-for-clinical-trial-abundance/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 17:29:22",
-      "https://news.ycombinator.com/item?id=42452640"
-    ],
-    [
-      "Translating 10M lines of Java to Kotlin",
-      "https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/"
     ]
   ],
   [
