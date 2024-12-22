@@ -13,7 +13,7 @@
 * [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
-* [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
+* [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work (2020)](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
 * [2024-12-21, 01:49:25](https://news.ycombinator.com/item?id=42476876) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 22:37:14](https://news.ycombinator.com/item?id=42475798) - [Turing Machines](https://samwho.dev/turing-machines/)
