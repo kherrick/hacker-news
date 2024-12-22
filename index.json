@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-12-22, 17:26:58",
-      "https://news.ycombinator.com/item?id=42487746"
+      "2024-12-22, 18:29:23",
+      "https://news.ycombinator.com/item?id=42488112"
     ],
     [
-      "The California Job-Killer That Wasn't",
-      "https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/"
+      "The missing introduction to Jujutsu version control",
+      "https://neugierig.org/software/blog/2024/12/jujutsu.html"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "The Risk of Cancer Fades as We Get Older, and We May Know Why",
       "https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 15:29:37",
+      "https://news.ycombinator.com/item?id=42486923"
+    ],
+    [
+      "Experiment with LLMs and Random Walk on a Grid",
+      "https://github.com/attentionmech/TILDNN/blob/main/articles/2024-12-22/A00002.md"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Murder Mystery: GCC Builds Failing After Sbuild Refactoring",
       "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 06:47:19",
+      "https://news.ycombinator.com/item?id=42484790"
+    ],
+    [
+      "Communal Luxury: The Public Bathhouse",
+      "https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-12-21, 12:14:55",
-      "https://news.ycombinator.com/item?id=42479233"
-    ],
-    [
-      "Query Apple's FindMy network with Python",
-      "https://github.com/malmeloo/FindMy.py"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 07:06:30",
       "https://news.ycombinator.com/item?id=42478000"
     ],
@@ -207,16 +217,6 @@
     [
       "Keeping a Changelog at Work (2020)",
       "https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 01:49:25",
-      "https://news.ycombinator.com/item?id=42476876"
-    ],
-    [
-      "Enum of Arrays",
-      "https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/"
     ]
   ],
   [
