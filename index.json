@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42488112"
     ],
     [
-      "The missing introduction to Jujutsu version control",
+      "The Jujutsu version control system",
       "https://neugierig.org/software/blog/2024/12/jujutsu.html"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42487301"
     ],
     [
-      "The Risk of Cancer Fades as We Get Older, and We May Know Why",
+      "The risk of cancer fades past the age of 80",
       "https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42485562"
     ],
     [
-      "One Surprising Psychosis Treatment That Works: Learning to Live with the Voices",
+      "One surprising psychosis treatment that works: Learning to live with the voices",
       "https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42485124"
     ],
     [
-      "We use our own hardware at Fastmail",
+      "Why we use our own hardware",
       "https://www.fastmail.com/blog/why-we-use-our-own-hardware/"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42485088"
     ],
     [
-      "CodeMic: A New Way to Talk About Code",
+      "CodeMic: A new way to talk about code",
       "https://codemic.io/"
     ]
   ],
@@ -165,8 +165,18 @@
       "https://news.ycombinator.com/item?id=42484911"
     ],
     [
-      "Murder Mystery: GCC Builds Failing After Sbuild Refactoring",
+      "Murder Mystery: GCC builds failing after sbuild refactoring",
       "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 06:47:19",
+      "https://news.ycombinator.com/item?id=42484790"
+    ],
+    [
+      "Communal Luxury: The Public Bathhouse",
+      "https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-12-20, 08:31:30",
-      "https://news.ycombinator.com/item?id=42469284"
+      "2024-12-21, 06:29:06",
+      "https://news.ycombinator.com/item?id=42477882"
     ],
     [
-      "There is no such thing as AI Product Manager – What PMs need to know about LLMs",
-      "https://productme.org/posts/ai-for-product-managers"
+      "Google's counteroffer to govt trying to break it up is unbundling Android apps",
+      "https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android"
     ]
   ],
   [
@@ -255,18 +265,8 @@
       "https://news.ycombinator.com/item?id=42462904"
     ],
     [
-      "The Case for Clinical Trial Abundance",
+      "The case for clinical trial abundance",
       "https://ifp.org/the-case-for-clinical-trial-abundance/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 23:52:38",
-      "https://news.ycombinator.com/item?id=42456802"
-    ],
-    [
-      "Genesis: A generative and universal physics engine for robotics and beyond",
-      "https://genesis-embodied-ai.github.io/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-12-18, 16:31:46",
-      "https://news.ycombinator.com/item?id=42451968"
+      "2024-12-18, 15:39:25",
+      "https://news.ycombinator.com/item?id=42451327"
     ],
     [
-      "How we made our AI code review bot stop leaving nitpicky comments",
-      "https://www.greptile.com/blog/make-llms-shut-up"
+      "Feed readers which don't take \"no\" for an answer",
+      "https://rachelbythebay.com/w/2024/12/17/packets/"
     ]
   ],
   [
