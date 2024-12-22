@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-12-22, 17:15:31",
-      "https://news.ycombinator.com/item?id=42487674"
-    ],
-    [
-      "Show HN: Convert ePUB to Audio Files",
-      "https://github.com/rafael1mc/epub-tts"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 16:25:00",
       "https://news.ycombinator.com/item?id=42487301"
     ],
@@ -117,6 +107,16 @@
     [
       "How bloom filters made SQLite 10x faster",
       "https://avi.im/blag/2024/sqlite-past-present-future/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 12:29:33",
+      "https://news.ycombinator.com/item?id=42485938"
+    ],
+    [
+      "GPT-5 is behind schedule",
+      "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-21, 11:41:51",
+      "https://news.ycombinator.com/item?id=42479103"
+    ],
+    [
+      "'AI-powered judge' takes boxing closer to brave new world it appears to seek",
+      "https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 07:06:30",
       "https://news.ycombinator.com/item?id=42478000"
     ],
@@ -277,16 +287,6 @@
     [
       "Translating 10M lines of Java to Kotlin",
       "https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 16:31:46",
-      "https://news.ycombinator.com/item?id=42451968"
-    ],
-    [
-      "How we made our AI code review bot stop leaving nitpicky comments",
-      "https://www.greptile.com/blog/make-llms-shut-up"
     ]
   ],
   [
