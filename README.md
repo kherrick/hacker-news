@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
 * [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
@@ -8,6 +7,7 @@
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
+* [2024-12-21, 23:28:12](https://news.ycombinator.com/item?id=42483175) - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
