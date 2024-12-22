@@ -7,6 +7,8 @@
 * [2024-12-22, 20:32:01](https://news.ycombinator.com/item?id=42488853) - [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [Bogotá’s open streets program is the oldest and most successful](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 18:51:41](https://news.ycombinator.com/item?id=42488263) - [One way to fight loneliness: The Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
+* [2024-12-22, 18:29:23](https://news.ycombinator.com/item?id=42488112) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
+* [2024-12-22, 18:15:19](https://news.ycombinator.com/item?id=42488047) - [NetVentory – Modern single binary console NMAP replacement with GUI](https://github.com/RamboRogers/netventory)
 * [2024-12-22, 17:53:36](https://news.ycombinator.com/item?id=42487929) - [JRuby with JBang](https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html)
 * [2024-12-22, 17:30:21](https://news.ycombinator.com/item?id=42487775) - [Fighting spam with Haskell at Meta (2015)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)
 * [2024-12-22, 17:14:26](https://news.ycombinator.com/item?id=42487670) - [Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
@@ -23,13 +25,11 @@
 * [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
-* [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
 * [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
 * [2024-12-19, 21:34:12](https://news.ycombinator.com/item?id=42465907) - [Reimagining mathematics in a world of reasoning machines [video]](https://www.youtube.com/watch?v=vYCT7cw0ycw)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The case for clinical trial abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
 * [2024-12-18, 15:39:25](https://news.ycombinator.com/item?id=42451327) - [Feed readers which don't take \"no\" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
-* [2024-12-18, 15:20:09](https://news.ycombinator.com/item?id=42451135) - [More than 140 Kenya Facebook moderators sue after diagnoses of PTSD](https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd)
 
 ## [Archives](archives/index.md)
 
