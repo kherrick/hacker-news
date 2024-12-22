@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 23:28:12](https://news.ycombinator.com/item?id=42483175) - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A Data Table Thousands of Years Old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 22:01:18](https://news.ycombinator.com/item?id=42482684) - [Ask HN: How to unblock RSS feeds on Cloudflare hosted sites?](https://news.ycombinator.com/item?id=42482684)
 * [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
+* [2024-12-21, 21:06:16](https://news.ycombinator.com/item?id=42482289) - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
 * [2024-12-21, 20:31:59](https://news.ycombinator.com/item?id=42482080) - [US judge finds Pegasus spyware maker liable over WhatsApp hack](https://www.theguardian.com/technology/2024/dec/20/whatsapp-pegasus-spyware-nso-group-hacking)
 * [2024-12-21, 20:18:22](https://news.ycombinator.com/item?id=42481982) - [Berlin-Paris high-speed rail route symbolizes Europe's thirst for train travel](https://www.lemonde.fr/en/europe/article/2024/12/20/berlin-paris-high-speed-rail-route-symbolizes-europe-s-thirst-for-train-travel_6736284_143.html)
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
+* [2024-12-21, 19:34:07](https://news.ycombinator.com/item?id=42481668) - [A curious case of O(N^2) behavior which should be O(N) (2023)](https://gist.github.com/bssrdf/397900607028bffd0f8d223a7acdce7e)
 * [2024-12-21, 19:33:15](https://news.ycombinator.com/item?id=42481659) - [SingleFile: A Web Extension to save a complete web page into a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-21, 18:22:58](https://news.ycombinator.com/item?id=42481249) - [Show HN: Demo of my web game about social persuasion](https://talktomehuman.com/demo)
