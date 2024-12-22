@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-22, 16:20:23](https://news.ycombinator.com/item?id=42487269) - [Fish has been ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0b1)
-* [2024-12-22, 16:16:18](https://news.ycombinator.com/item?id=42487241) - [How much does The Cloud really cost?](https://baremetalsavings.com/)
+* [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 15:14:38](https://news.ycombinator.com/item?id=42486831) - [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
 * [2024-12-22, 12:50:44](https://news.ycombinator.com/item?id=42486011) - [ByteDance INFP: The AI That Brings Images to Life](https://pdftranslate.ai/blog/ai-infp)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
@@ -11,6 +10,7 @@
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
+* [2024-12-21, 23:28:12](https://news.ycombinator.com/item?id=42483175) - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
