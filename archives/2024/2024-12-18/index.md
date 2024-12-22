@@ -17,6 +17,7 @@
 * [2024-12-18, 22:08:46](https://news.ycombinator.com/item?id=42455992) - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
 * [2024-12-18, 22:02:40](https://news.ycombinator.com/item?id=42455938) - [CDC confirms first case of bird flu in US](https://abcnews.go.com/Health/cdc-confirms-1st-case-severe-bird-flu-us/story?id=116908574)
 * [2024-12-18, 21:20:03](https://news.ycombinator.com/item?id=42455372) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
+* [2024-12-18, 20:48:08](https://news.ycombinator.com/item?id=42454994) - [Meet Bex, Kawasaki's Rideable Robot Goat](https://www.cycleworld.com/story/motorcycle-news/kawasaki-bex-rideable-robot-goat/)
 * [2024-12-18, 20:43:22](https://news.ycombinator.com/item?id=42454934) - [What is metformin's secret sauce?](https://news.northwestern.edu/stories/2024/12/what-is-metformins-secret-sauce/?fj=1)
 * [2024-12-18, 20:42:54](https://news.ycombinator.com/item?id=42454929) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 20:27:41](https://news.ycombinator.com/item?id=42454723) - [Show HN: K8s Cleaner – Your Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
