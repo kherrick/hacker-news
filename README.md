@@ -20,6 +20,7 @@
 * [2024-12-20, 16:36:33](https://news.ycombinator.com/item?id=42472519) - [Show HN: Rivet Actors – Durable Objects build with Rust, FoundationDB, Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 10:51:06](https://news.ycombinator.com/item?id=42470001) - [Language and Personality](https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn)
 * [2024-12-20, 05:34:18](https://news.ycombinator.com/item?id=42468554) - [Spherical Harmonics](https://www.rhotter.com/posts/harmonics)
+* [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
 * [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [Talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)
 * [2024-12-20, 00:38:43](https://news.ycombinator.com/item?id=42467233) - [An epitome of electricity and galvanism (1809)](https://gutenberg.org/cache/epub/74933/pg74933-images.html)
@@ -29,7 +30,6 @@
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
 * [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
-* [2024-12-17, 16:44:36](https://news.ycombinator.com/item?id=42442852) - [Grammarly acquires Coda](https://coda.io/blog/about-coda/grammarly-acquires-coda)
 
 ## [Archives](archives/index.md)
 
