@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.msn.com/en-us/money/other/the-next-great-leap-in-ai-is-behind-schedule-and-crazy-expensive/ar-AA1wfMCB)
 * [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 10:20:40](https://news.ycombinator.com/item?id=42485499) - [Show HN: NoSQL, but it's SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
+* [2024-12-22, 08:47:34](https://news.ycombinator.com/item?id=42485160) - [MacKenzie Scott donates over $2B in 2024 to 199 organizations](https://yieldgiving.com/essays/investing/)
 * [2024-12-22, 08:37:03](https://news.ycombinator.com/item?id=42485126) - [Turning Ethereum into a Community Project](https://ethereum-magicians.org/t/eip-xxxx-on-chain-upgrade-signaling/22306)
 * [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 08:24:31](https://news.ycombinator.com/item?id=42485080) - [The highest funded plagiarist has become a Professor](https://tinimini2.wordpress.com/2024/12/22/plagiarism-can-lead-to-professorship/)

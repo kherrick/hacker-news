@@ -57,6 +57,7 @@
 * [2024-12-18, 15:57:25](https://news.ycombinator.com/item?id=42451552) - [Bank of North Dakota](https://en.wikipedia.org/wiki/Bank_of_North_Dakota)
 * [2024-12-18, 15:50:50](https://news.ycombinator.com/item?id=42451447) - [Show HN: Zipshare – one-step Android screen sharing for support teams](https://www.getzipshare.com)
 * [2024-12-18, 15:47:13](https://news.ycombinator.com/item?id=42451409) - [Show HN: openai-realtime-embedded-SDK Build AI assistants on microcontrollers](https://github.com/openai/openai-realtime-embedded-sdk)
+* [2024-12-18, 15:39:25](https://news.ycombinator.com/item?id=42451327) - [Feed readers which don't take \"no\" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
 * [2024-12-18, 15:34:12](https://news.ycombinator.com/item?id=42451271) - [New H1-B Rule by Homeland Security](https://twitter.com/FedericoNoemie/status/1869381822637133842)
 * [2024-12-18, 15:28:30](https://news.ycombinator.com/item?id=42451226) - [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
 * [2024-12-18, 15:20:09](https://news.ycombinator.com/item?id=42451135) - [More than 140 Kenya Facebook moderators sue after diagnoses of PTSD](https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd)
