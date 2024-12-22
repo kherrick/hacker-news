@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
+* [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
-* [2024-12-22, 08:47:34](https://news.ycombinator.com/item?id=42485160) - [MacKenzie Scott donates over $2B in 2024 to 199 organizations](https://yieldgiving.com/essays/investing/)
 * [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
