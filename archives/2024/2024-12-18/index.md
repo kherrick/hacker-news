@@ -67,6 +67,7 @@
 * [2024-12-18, 14:53:21](https://news.ycombinator.com/item?id=42450883) - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
 * [2024-12-18, 14:46:12](https://news.ycombinator.com/item?id=42450811) - [The Paradoxical Slowness of Human Behavior](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior)
 * [2024-12-18, 14:10:12](https://news.ycombinator.com/item?id=42450525) - [AT&T follows Amazon in demanding employees spend 5 days a week in office](https://fortune.com/2024/12/18/att-return-to-office-5-days/)
+* [2024-12-18, 14:04:49](https://news.ycombinator.com/item?id=42450487) - [Home Manager: Dotfiles Management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 13:54:05](https://news.ycombinator.com/item?id=42450413) - [Updates to H-1B](https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs)
 * [2024-12-18, 13:50:41](https://news.ycombinator.com/item?id=42450389) - [Technical debt vs. technical assets: What's the difference?](https://liblab.com/blog/accruing-technical-assets-vs-paying-off-technical-debt)
 * [2024-12-18, 13:46:59](https://news.ycombinator.com/item?id=42450365) - [My Pal, the Ancient Philosopher](https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/)
