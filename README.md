@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 17:15:41](https://news.ycombinator.com/item?id=42487677) - [O3 \"Arc AGI\" Postmortem](https://garymarcus.substack.com/p/c39)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 15:14:38](https://news.ycombinator.com/item?id=42486831) - [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
@@ -14,9 +15,9 @@
 * [2024-12-21, 19:53:26](https://news.ycombinator.com/item?id=42481813) - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 * [2024-12-21, 19:25:13](https://news.ycombinator.com/item?id=42481612) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
+* [2024-12-21, 16:45:36](https://news.ycombinator.com/item?id=42480624) - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
-* [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
 * [2024-12-21, 10:57:57](https://news.ycombinator.com/item?id=42478911) - [Curl removes experimental HTTP back end in Rust](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 07:06:30](https://news.ycombinator.com/item?id=42478000) - [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://grisoon.github.io/INFP/)
 * [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work (2020)](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
@@ -27,7 +28,6 @@
 * [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
-* [2024-12-18, 15:39:25](https://news.ycombinator.com/item?id=42451327) - [Feed readers which don't take \"no\" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
 * [2024-12-18, 15:20:09](https://news.ycombinator.com/item?id=42451135) - [More than 140 Kenya Facebook moderators sue after diagnoses of PTSD](https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd)
 * [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
 

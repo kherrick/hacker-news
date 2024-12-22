@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 17:15:41](https://news.ycombinator.com/item?id=42487677) - [O3 \"Arc AGI\" Postmortem](https://garymarcus.substack.com/p/c39)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:26:50](https://news.ycombinator.com/item?id=42487321) - [Stem cells head to the clinic: treatments for cancer, diabetes and Parkinson's](https://www.nature.com/articles/d41586-024-04160-0)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
