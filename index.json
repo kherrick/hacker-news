@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-22, 07:31:22",
+      "https://news.ycombinator.com/item?id=42484911"
+    ],
+    [
+      "Murder Mystery: GCC Builds Failing After Sbuild Refactoring",
+      "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 05:16:37",
       "https://news.ycombinator.com/item?id=42484527"
     ],
@@ -47,16 +57,6 @@
     [
       "Show HN: GitHub-assistant – Natural language questions from your GitHub data",
       "https://github.com/reltadev/github-assistant"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 23:57:30",
-      "https://news.ycombinator.com/item?id=42483328"
-    ],
-    [
-      "AI Is the Black Mirror",
-      "https://nautil.us/ai-is-the-black-mirror-1169121/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-12-18, 17:29:22",
-      "https://news.ycombinator.com/item?id=42452640"
-    ],
-    [
-      "Translating 10M lines of Java to Kotlin",
-      "https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 16:31:46",
       "https://news.ycombinator.com/item?id=42451968"
     ],
     [
       "How we made our AI code review bot stop leaving nitpicky comments",
       "https://www.greptile.com/blog/make-llms-shut-up"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 14:04:49",
+      "https://news.ycombinator.com/item?id=42450487"
+    ],
+    [
+      "Home Manager: Dotfiles Management",
+      "https://gvolpe.com/blog/home-manager-dotfiles-management/"
     ]
   ],
   [
