@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 20:33:04](https://news.ycombinator.com/item?id=42488863) - [Something is wrong on the Internet](https://www.lawyersgunsmoneyblog.com/2024/12/something-is-wrong-on-the-internet)
+* [2024-12-22, 19:51:10](https://news.ycombinator.com/item?id=42488583) - [Gamblers behind half of abusive posts to tennis stars](https://www.bbc.com/sport/tennis/articles/ced85x6gj56o)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 18:29:23](https://news.ycombinator.com/item?id=42488112) - [The missing introduction to Jujutsu version control](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 * [2024-12-22, 17:26:58](https://news.ycombinator.com/item?id=42487746) - [The California Job-Killer That Wasn't](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
@@ -16,10 +18,8 @@
 * [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
-* [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
 * [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
-* [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 07:06:30](https://news.ycombinator.com/item?id=42478000) - [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://grisoon.github.io/INFP/)
 * [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work (2020)](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)

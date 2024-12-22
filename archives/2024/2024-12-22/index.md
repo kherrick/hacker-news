@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 20:33:04](https://news.ycombinator.com/item?id=42488863) - [Something is wrong on the Internet](https://www.lawyersgunsmoneyblog.com/2024/12/something-is-wrong-on-the-internet)
+* [2024-12-22, 19:51:10](https://news.ycombinator.com/item?id=42488583) - [Gamblers behind half of abusive posts to tennis stars](https://www.bbc.com/sport/tennis/articles/ced85x6gj56o)
 * [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 18:48:16](https://news.ycombinator.com/item?id=42488245) - [Israel Is Losing Its Humanity in Gaza – Haaretz Editorial – Haaretz.com](https://www.haaretz.com/opinion/editorial/2024-12-22/ty-article/.premium/israel-is-losing-its-humanity-in-gaza/00000193-eae4-d17a-a193-fbe53a040000)
