@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 16:20:23](https://news.ycombinator.com/item?id=42487269) - [Fish has been ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0b1)
+* [2024-12-22, 16:16:18](https://news.ycombinator.com/item?id=42487241) - [How much does The Cloud really cost?](https://baremetalsavings.com/)
 * [2024-12-22, 15:14:38](https://news.ycombinator.com/item?id=42486831) - [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
 * [2024-12-22, 13:10:30](https://news.ycombinator.com/item?id=42486070) - [Behind Germany's Political Turmoil, a Stagnating Economy](https://www.nytimes.com/2024/12/17/world/europe/germany-government-collapse-economy.html)
+* [2024-12-22, 12:50:44](https://news.ycombinator.com/item?id=42486011) - [ByteDance INFP: The AI That Brings Images to Life](https://pdftranslate.ai/blog/ai-infp)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.msn.com/en-us/money/other/the-next-great-leap-in-ai-is-behind-schedule-and-crazy-expensive/ar-AA1wfMCB)
+* [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
+* [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
 * [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 10:20:40](https://news.ycombinator.com/item?id=42485499) - [Show HN: NoSQL, but it's SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
