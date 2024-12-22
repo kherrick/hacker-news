@@ -81,6 +81,7 @@
 * [2024-12-18, 12:58:32](https://news.ycombinator.com/item?id=42450080) - [Jaguar Land Rover electric car whistleblower sacked](https://www.bbc.com/news/articles/c20nr3zdppjo)
 * [2024-12-18, 12:32:15](https://news.ycombinator.com/item?id=42449951) - [When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?](https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/)
 * [2024-12-18, 12:06:47](https://news.ycombinator.com/item?id=42449823) - [The Artist Exposing the Data We Leave Online](https://www.newyorker.com/culture/infinite-scroll/the-artist-exposing-the-data-we-leave-online)
+* [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
 * [2024-12-18, 12:01:07](https://news.ycombinator.com/item?id=42449798) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2024-12-18, 11:25:48](https://news.ycombinator.com/item?id=42449647) - [Khalid Sheldrake: The East Dulwich man who would be King](https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/)
 * [2024-12-18, 11:14:09](https://news.ycombinator.com/item?id=42449602) - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
