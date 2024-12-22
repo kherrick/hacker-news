@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 17:26:58](https://news.ycombinator.com/item?id=42487746) - [The California Job-Killer That Wasn't](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 * [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
+* [2024-12-22, 11:21:04](https://news.ycombinator.com/item?id=42485689) - [Stopping by Woods on a Snowy Evening](https://poets.org/poem/stopping-woods-snowy-evening)
 * [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
+* [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A New Way to Talk About Code](https://codemic.io/)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
@@ -29,7 +30,6 @@
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
 * [2024-12-18, 15:20:09](https://news.ycombinator.com/item?id=42451135) - [More than 140 Kenya Facebook moderators sue after diagnoses of PTSD](https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd)
-* [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
 
 ## [Archives](archives/index.md)
 
