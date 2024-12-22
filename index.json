@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-22, 11:09:54",
-      "https://news.ycombinator.com/item?id=42485647"
+      "2024-12-22, 13:10:30",
+      "https://news.ycombinator.com/item?id=42486070"
     ],
     [
-      "Ask HN: How do you improve your writing?",
-      "https://news.ycombinator.com/item?id=42485647"
+      "Behind Germany's Political Turmoil, a Stagnating Economy",
+      "https://www.nytimes.com/2024/12/17/world/europe/germany-government-collapse-economy.html"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-12-21, 10:57:57",
+      "https://news.ycombinator.com/item?id=42478911"
+    ],
+    [
+      "Curl removes experimental HTTP back end in Rust",
+      "https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 06:13:27",
       "https://news.ycombinator.com/item?id=42477843"
     ],
@@ -207,16 +217,6 @@
     [
       "Talking over a wall changed my direction as a programmer",
       "https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 19:25:14",
-      "https://news.ycombinator.com/item?id=42464850"
-    ],
-    [
-      "We saved battery in our ESP32 WiFi circuits (TCP vs UDP)",
-      "https://khalsalabs.com/iot-101-minimizing-esp32-wifi-battery-consumption-in-iot-projects/"
     ]
   ],
   [
