@@ -35,6 +35,7 @@
 * [2024-12-21, 09:07:45](https://news.ycombinator.com/item?id=42478414) - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 * [2024-12-21, 07:45:28](https://news.ycombinator.com/item?id=42478107) - [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
 * [2024-12-21, 07:06:30](https://news.ycombinator.com/item?id=42478000) - [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://grisoon.github.io/INFP/)
+* [2024-12-21, 06:29:06](https://news.ycombinator.com/item?id=42477882) - [Google's counteroffer to govt trying to break it up is unbundling Android apps](https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android)
 * [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
 * [2024-12-21, 05:13:33](https://news.ycombinator.com/item?id=42477685) - [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
