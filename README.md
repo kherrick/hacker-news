@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 10:20:40](https://news.ycombinator.com/item?id=42485499) - [Show HN: NoSQL, but it's SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
@@ -29,7 +30,6 @@
 * [2024-12-18, 20:48:08](https://news.ycombinator.com/item?id=42454994) - [Meet Bex, Kawasaki's Rideable Robot Goat](https://www.cycleworld.com/story/motorcycle-news/kawasaki-bex-rideable-robot-goat/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
 * [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
-* [2024-12-17, 16:44:36](https://news.ycombinator.com/item?id=42442852) - [Grammarly acquires Coda](https://coda.io/blog/about-coda/grammarly-acquires-coda)
 
 ## [Archives](archives/index.md)
 
