@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-12-22, 16:20:23",
+      "https://news.ycombinator.com/item?id=42487269"
+    ],
+    [
+      "Fish has been ported to Rust",
+      "https://github.com/fish-shell/fish-shell/releases/tag/4.0b1"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 16:16:18",
+      "https://news.ycombinator.com/item?id=42487241"
+    ],
+    [
+      "How much does The Cloud really cost?",
+      "https://baremetalsavings.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 15:14:38",
       "https://news.ycombinator.com/item?id=42486831"
     ],
     [
       "Database Release and End-to-End Testing: ClickHouse Database Cloning",
       "https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 12:50:44",
+      "https://news.ycombinator.com/item?id=42486011"
+    ],
+    [
+      "ByteDance INFP: The AI That Brings Images to Life",
+      "https://pdftranslate.ai/blog/ai-infp"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 11:49:18",
+      "https://news.ycombinator.com/item?id=42485797"
+    ],
+    [
+      "Telling Stories in Athenian Law [pdf] (2002)",
+      "https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 11:49:12",
+      "https://news.ycombinator.com/item?id=42485795"
+    ],
+    [
+      "Decoding the telephony signals in Pink Floyd's 'The Wall'",
+      "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2024-12-21, 23:28:12",
-      "https://news.ycombinator.com/item?id=42483175"
-    ],
-    [
-      "Train a Mnist VAE with C and CUDA",
-      "https://github.com/ggerganov/ggml/discussions/707"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 22:25:37",
       "https://news.ycombinator.com/item?id=42482829"
     ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2024-12-21, 18:22:58",
-      "https://news.ycombinator.com/item?id=42481249"
-    ],
-    [
-      "Show HN: Demo of my web game about social persuasion",
-      "https://talktomehuman.com/demo"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 18:16:01",
       "https://news.ycombinator.com/item?id=42481206"
     ],
     [
       "City Roads: A tool to draw all roads in a city at once",
       "https://anvaka.github.io/city-roads/"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 16:45:36",
-      "https://news.ycombinator.com/item?id=42480624"
-    ],
-    [
-      "Show HN: Eonfall – A new third-person co-op action game built for the web",
-      "https://eonfall.com"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-12-19, 01:26:43",
-      "https://news.ycombinator.com/item?id=42457387"
-    ],
-    [
-      "The distribution of eigenvalues of GUE and its minors at fixed index",
-      "https://terrytao.wordpress.com/2024/12/17/on-the-distribution-of-eigenvalues-of-gue-and-its-minors-at-fixed-index/"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 23:03:58",
       "https://news.ycombinator.com/item?id=42456492"
     ],
@@ -237,16 +247,6 @@
     [
       "Classic Computer Magazines",
       "https://archive.org/details/computermagazines"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 20:48:08",
-      "https://news.ycombinator.com/item?id=42454994"
-    ],
-    [
-      "Meet Bex, Kawasaki's Rideable Robot Goat (2022)",
-      "https://www.cycleworld.com/story/motorcycle-news/kawasaki-bex-rideable-robot-goat/"
     ]
   ],
   [
