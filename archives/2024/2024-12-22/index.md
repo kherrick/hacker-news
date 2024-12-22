@@ -6,6 +6,8 @@
 
 * [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
+* [2024-12-22, 18:48:16](https://news.ycombinator.com/item?id=42488245) - [Israel Is Losing Its Humanity in Gaza – Haaretz Editorial – Haaretz.com](https://www.haaretz.com/opinion/editorial/2024-12-22/ty-article/.premium/israel-is-losing-its-humanity-in-gaza/00000193-eae4-d17a-a193-fbe53a040000)
+* [2024-12-22, 17:26:58](https://news.ycombinator.com/item?id=42487746) - [The California Job-Killer That Wasn't](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
 * [2024-12-22, 17:15:41](https://news.ycombinator.com/item?id=42487677) - [O3 \"Arc AGI\" Postmortem](https://garymarcus.substack.com/p/c39)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:26:50](https://news.ycombinator.com/item?id=42487321) - [Stem cells head to the clinic: treatments for cancer, diabetes and Parkinson's](https://www.nature.com/articles/d41586-024-04160-0)

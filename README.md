@@ -2,6 +2,8 @@
 
 * [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
+* [2024-12-22, 18:48:16](https://news.ycombinator.com/item?id=42488245) - [Israel Is Losing Its Humanity in Gaza – Haaretz Editorial – Haaretz.com](https://www.haaretz.com/opinion/editorial/2024-12-22/ty-article/.premium/israel-is-losing-its-humanity-in-gaza/00000193-eae4-d17a-a193-fbe53a040000)
+* [2024-12-22, 17:26:58](https://news.ycombinator.com/item?id=42487746) - [The California Job-Killer That Wasn't](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
 * [2024-12-22, 17:02:24](https://news.ycombinator.com/item?id=42487581) - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
 * [2024-12-22, 16:25:00](https://news.ycombinator.com/item?id=42487301) - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
@@ -17,7 +19,6 @@
 * [2024-12-21, 18:16:01](https://news.ycombinator.com/item?id=42481206) - [City Roads: A tool to draw all roads in a city at once](https://anvaka.github.io/city-roads/)
 * [2024-12-21, 15:11:19](https://news.ycombinator.com/item?id=42480105) - [Introducing S2](https://s2.dev/blog/intro)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
-* [2024-12-21, 10:57:57](https://news.ycombinator.com/item?id=42478911) - [Curl removes experimental HTTP back end in Rust](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 07:06:30](https://news.ycombinator.com/item?id=42478000) - [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://grisoon.github.io/INFP/)
 * [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work (2020)](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
 * [2024-12-21, 01:49:25](https://news.ycombinator.com/item?id=42476876) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
@@ -29,7 +30,6 @@
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
 * [2024-12-18, 15:20:09](https://news.ycombinator.com/item?id=42451135) - [More than 140 Kenya Facebook moderators sue after diagnoses of PTSD](https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd)
-* [2024-12-18, 12:04:42](https://news.ycombinator.com/item?id=42449817) - [Fault Report – and alternative to Result in F#](https://paul.blasuc.ci/posts/fault-report.html)
 
 ## [Archives](archives/index.md)
 
