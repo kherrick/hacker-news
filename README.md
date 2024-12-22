@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow Deployment Causes Meetings](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 * [2024-12-22, 00:41:27](https://news.ycombinator.com/item?id=42483543) - [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
 * [2024-12-21, 23:28:12](https://news.ycombinator.com/item?id=42483175) - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
@@ -15,7 +16,6 @@
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 06:13:27](https://news.ycombinator.com/item?id=42477843) - [Keeping a Changelog at Work (2020)](https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html)
 * [2024-12-21, 01:49:25](https://news.ycombinator.com/item?id=42476876) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
-* [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
 * [2024-12-20, 22:37:14](https://news.ycombinator.com/item?id=42475798) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 16:36:33](https://news.ycombinator.com/item?id=42472519) - [Show HN: Rivet Actors – Durable Objects build with Rust, FoundationDB, Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 10:51:06](https://news.ycombinator.com/item?id=42470001) - [Language and Personality](https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn)
@@ -23,7 +23,7 @@
 * [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [Talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
-* [2024-12-19, 01:18:51](https://news.ycombinator.com/item?id=42457342) - [Takes on \"Alignment Faking in Large Language Models\"](https://joecarlsmith.com/2024/12/18/takes-on-alignment-faking-in-large-language-models/)
+* [2024-12-19, 10:38:06](https://news.ycombinator.com/item?id=42460217) - [How the Samuel Smith beer baron built Britain's strangest pub chain](https://www.theguardian.com/news/2024/dec/19/humphreys-world-how-the-samuel-smith-beer-baron-built-britains-strangest-pub-chain)
 * [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 17:29:22](https://news.ycombinator.com/item?id=42452640) - [Translating 10M lines of Java to Kotlin](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 * [2024-12-18, 16:31:46](https://news.ycombinator.com/item?id=42451968) - [How we made our AI code review bot stop leaving nitpicky comments](https://www.greptile.com/blog/make-llms-shut-up)
