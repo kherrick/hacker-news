@@ -2,12 +2,12 @@
 
 * [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 * [2024-12-22, 21:27:14](https://news.ycombinator.com/item?id=42489267) - [ChatGPT O3 Preview Announcement](https://openai.com/12-days/)
+* [2024-12-22, 21:03:49](https://news.ycombinator.com/item?id=42489080) - [Apple must ensure interoperability of iPhone with rivals, says EU](https://www.euronews.com/next/2024/12/19/apple-must-ensure-interoperability-of-iphone-with-rivals-says-european-commission)
 * [2024-12-22, 21:01:49](https://news.ycombinator.com/item?id=42489065) - [Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 20:32:01](https://news.ycombinator.com/item?id=42488853) - [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 * [2024-12-22, 18:53:03](https://news.ycombinator.com/item?id=42488270) - [Bogotá’s open streets program is the oldest and most successful](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
 * [2024-12-22, 18:51:41](https://news.ycombinator.com/item?id=42488263) - [One way to fight loneliness: The Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
-* [2024-12-22, 18:29:23](https://news.ycombinator.com/item?id=42488112) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 * [2024-12-22, 17:53:36](https://news.ycombinator.com/item?id=42487929) - [JRuby with JBang](https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html)
 * [2024-12-22, 17:30:21](https://news.ycombinator.com/item?id=42487775) - [Fighting spam with Haskell at Meta (2015)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)
 * [2024-12-22, 17:14:26](https://news.ycombinator.com/item?id=42487670) - [Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
