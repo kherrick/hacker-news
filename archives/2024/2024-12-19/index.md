@@ -13,6 +13,7 @@
 * [2024-12-19, 20:26:33](https://news.ycombinator.com/item?id=42465378) - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
 * [2024-12-19, 19:55:48](https://news.ycombinator.com/item?id=42465109) - [Silk – Interactive Generative Art](http://weavesilk.com/)
 * [2024-12-19, 19:38:00](https://news.ycombinator.com/item?id=42464966) - [How types make hard problems easy](https://mayhul.com/posts/type-driven-design/)
+* [2024-12-19, 19:25:14](https://news.ycombinator.com/item?id=42464850) - [We saved battery in our ESP32 WiFi circuits (TCP vs UDP)](https://khalsalabs.com/iot-101-minimizing-esp32-wifi-battery-consumption-in-iot-projects/)
 * [2024-12-19, 19:06:31](https://news.ycombinator.com/item?id=42464679) - [Polyamory doesn't Liberate; Monogamy doesn't Protect](https://carsonogenic.substack.com/p/polyamory-doesnt-liberate-monogamy)
 * [2024-12-19, 18:52:43](https://news.ycombinator.com/item?id=42464557) - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
 * [2024-12-19, 18:25:55](https://news.ycombinator.com/item?id=42464310) - [Show HN: Mizu.js – Bringing back simplicity in web apps creation](https://mizu.sh)
