@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-22, 08:11:31](https://news.ycombinator.com/item?id=42485043) - [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
@@ -23,7 +24,6 @@
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
 * [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [Talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)
-* [2024-12-20, 00:38:43](https://news.ycombinator.com/item?id=42467233) - [An epitome of electricity and galvanism (1809)](https://gutenberg.org/cache/epub/74933/pg74933-images.html)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
 * [2024-12-18, 23:03:58](https://news.ycombinator.com/item?id=42456492) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-18, 22:14:47](https://news.ycombinator.com/item?id=42456048) - [New York man finds Mastodon jaw while gardening in his backyard](https://apnews.com/article/mastodon-jaw-fossil-new-york-972681079b36cc13453ebe8456660f4b)

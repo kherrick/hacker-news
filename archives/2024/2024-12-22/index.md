@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 08:11:31](https://news.ycombinator.com/item?id=42485043) - [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The Essays of Michel de Montaigne Online](https://hyperessays.net/)
 * [2024-12-22, 05:13:41](https://news.ycombinator.com/item?id=42484513) - [The Most Scathing Book Reviews of 2024](https://lithub.com/the-most-scathing-book-reviews-of-2024/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow Deployment Causes Meetings](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
