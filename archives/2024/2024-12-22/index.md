@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 21:02:34](https://news.ycombinator.com/item?id=42489072) - [German watchdog orders Sam Altman's biometric ID project World to delete data](https://www.euronews.com/next/2024/12/19/german-watchdog-orders-sam-altmans-biometric-id-project-world-to-delete-data)
+* [2024-12-22, 21:01:49](https://news.ycombinator.com/item?id=42489065) - [Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
+* [2024-12-22, 20:55:22](https://news.ycombinator.com/item?id=42489010) - [As Drugstores Close, Older People Are Left in 'Pharmacy Deserts'](https://www.nytimes.com/2024/12/21/health/drugstore-closures-seniors.html)
+* [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 20:33:04](https://news.ycombinator.com/item?id=42488863) - [Something is wrong on the Internet](https://www.lawyersgunsmoneyblog.com/2024/12/something-is-wrong-on-the-internet)
 * [2024-12-22, 19:51:10](https://news.ycombinator.com/item?id=42488583) - [Gamblers behind half of abusive posts to tennis stars](https://www.bbc.com/sport/tennis/articles/ced85x6gj56o)
 * [2024-12-22, 18:54:15](https://news.ycombinator.com/item?id=42488279) - [The Riddle of Luigi Mangione](https://www.gurwinder.blog/p/the-riddle-of-luigi-mangione)

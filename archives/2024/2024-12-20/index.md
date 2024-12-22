@@ -40,6 +40,7 @@
 * [2024-12-20, 10:51:06](https://news.ycombinator.com/item?id=42470001) - [Language and Personality](https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
+* [2024-12-20, 08:31:30](https://news.ycombinator.com/item?id=42469284) - [There is no such thing as AI Product Manager – What PMs need to know about LLMs](https://productme.org/posts/ai-for-product-managers)
 * [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
 * [2024-12-20, 07:42:36](https://news.ycombinator.com/item?id=42469074) - [Tldraw Computer](https://computer.tldraw.com)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Whose building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
