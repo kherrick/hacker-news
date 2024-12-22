@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-22, 17:26:58",
+      "https://news.ycombinator.com/item?id=42487746"
+    ],
+    [
+      "The California Job-Killer That Wasn't",
+      "https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 17:02:24",
       "https://news.ycombinator.com/item?id=42487581"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-12-22, 15:29:37",
-      "https://news.ycombinator.com/item?id=42486923"
+      "2024-12-22, 14:44:30",
+      "https://news.ycombinator.com/item?id=42486610"
     ],
     [
-      "Experiment with LLMs and Random Walk on a Grid",
-      "https://github.com/attentionmech/TILDNN/blob/main/articles/2024-12-22/A00002.md"
+      "How bloom filters made SQLite 10x faster",
+      "https://avi.im/blag/2024/sqlite-past-present-future/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-12-21, 19:53:26",
-      "https://news.ycombinator.com/item?id=42481813"
-    ],
-    [
-      "JEP 483: Ahead-of-Time Class Loading and Linking",
-      "https://openjdk.org/jeps/483"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 19:25:13",
       "https://news.ycombinator.com/item?id=42481612"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-12-20, 03:10:09",
-      "https://news.ycombinator.com/item?id=42467937"
-    ],
-    [
-      "Talking over a wall changed my direction as a programmer",
-      "https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/"
-    ]
-  ],
-  [
-    [
       "2024-12-19, 21:34:12",
       "https://news.ycombinator.com/item?id=42465907"
     ],
     [
       "Reimagining mathematics in a world of reasoning machines [video]",
       "https://www.youtube.com/watch?v=vYCT7cw0ycw"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 16:16:47",
+      "https://news.ycombinator.com/item?id=42462904"
+    ],
+    [
+      "The Case for Clinical Trial Abundance",
+      "https://ifp.org/the-case-for-clinical-trial-abundance/"
     ]
   ],
   [
