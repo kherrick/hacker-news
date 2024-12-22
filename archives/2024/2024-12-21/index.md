@@ -28,6 +28,7 @@
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
 * [2024-12-21, 11:10:59](https://news.ycombinator.com/item?id=42478962) - [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
+* [2024-12-21, 10:57:57](https://news.ycombinator.com/item?id=42478911) - [Curl removes experimental HTTP back end in Rust](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 10:54:28](https://news.ycombinator.com/item?id=42478897) - [Ask HN: Do you backup your Emails?](https://news.ycombinator.com/item?id=42478897)
 * [2024-12-21, 10:15:11](https://news.ycombinator.com/item?id=42478728) - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
 * [2024-12-21, 09:10:32](https://news.ycombinator.com/item?id=42478430) - [UK Gov Open Consultation: Copyright and Artificial Intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence)
