@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 23:06:54](https://news.ycombinator.com/item?id=42489944) - [Nostr is public key microblogging that works](https://github.com/nostr-protocol/nips/blob/master/01.md)
 * [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 * [2024-12-22, 21:27:14](https://news.ycombinator.com/item?id=42489267) - [ChatGPT O3 Preview Announcement](https://openai.com/12-days/)
 * [2024-12-22, 21:03:49](https://news.ycombinator.com/item?id=42489080) - [Apple must ensure interoperability of iPhone with rivals, says EU](https://www.euronews.com/next/2024/12/19/apple-must-ensure-interoperability-of-iphone-with-rivals-says-european-commission)
