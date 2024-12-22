@@ -41,12 +41,42 @@
   ],
   [
     [
+      "2024-12-22, 18:15:19",
+      "https://news.ycombinator.com/item?id=42488047"
+    ],
+    [
+      "NetVentory – Modern single binary console NMAP replacement with GUI",
+      "https://github.com/RamboRogers/netventory"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 17:30:21",
+      "https://news.ycombinator.com/item?id=42487775"
+    ],
+    [
+      "Fighting spam with Haskell at Meta (2015)",
+      "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 17:26:58",
       "https://news.ycombinator.com/item?id=42487746"
     ],
     [
       "The California Job-Killer That Wasn't",
       "https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 17:15:31",
+      "https://news.ycombinator.com/item?id=42487674"
+    ],
+    [
+      "Show HN: Convert ePUB to Audio Files",
+      "https://github.com/rafael1mc/epub-tts"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "The Risk of Cancer Fades as We Get Older, and We May Know Why",
       "https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 15:29:37",
-      "https://news.ycombinator.com/item?id=42486923"
-    ],
-    [
-      "Experiment with LLMs and Random Walk on a Grid",
-      "https://github.com/attentionmech/TILDNN/blob/main/articles/2024-12-22/A00002.md"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-12-21, 22:25:37",
-      "https://news.ycombinator.com/item?id=42482829"
-    ],
-    [
-      "A data table thousands of years old (2020)",
-      "https://www.datafix.com.au/BASHing/2020-08-12.html"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 18:16:01",
       "https://news.ycombinator.com/item?id=42481206"
     ],
@@ -207,16 +217,6 @@
     [
       "INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations",
       "https://grisoon.github.io/INFP/"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 06:13:27",
-      "https://news.ycombinator.com/item?id=42477843"
-    ],
-    [
-      "Keeping a Changelog at Work (2020)",
-      "https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html"
     ]
   ],
   [
