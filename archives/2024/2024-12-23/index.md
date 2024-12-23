@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 17:38:25](https://news.ycombinator.com/item?id=42496104) - [Nordstrom Family to Take Company Private in $6.25B Deal](https://www.bloomberg.com/news/articles/2024-12-23/nordstrom-family-to-take-company-private-in-6-25-billion-deal)
+* [2024-12-23, 17:31:13](https://news.ycombinator.com/item?id=42496032) - [Switched Back to Windows After over 10 Years on Linux](https://old.reddit.com/r/Windows11/comments/1hkkrb0/switched_back_to_windows_after_10_years_and_a/)
+* [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 16:44:28](https://news.ycombinator.com/item?id=42495703) - [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
 * [2024-12-23, 16:41:12](https://news.ycombinator.com/item?id=42495683) - [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
 * [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)

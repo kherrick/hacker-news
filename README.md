@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 17:38:25](https://news.ycombinator.com/item?id=42496104) - [Nordstrom Family to Take Company Private in $6.25B Deal](https://www.bloomberg.com/news/articles/2024-12-23/nordstrom-family-to-take-company-private-in-6-25-billion-deal)
+* [2024-12-23, 17:31:13](https://news.ycombinator.com/item?id=42496032) - [Switched Back to Windows After over 10 Years on Linux](https://old.reddit.com/r/Windows11/comments/1hkkrb0/switched_back_to_windows_after_10_years_and_a/)
+* [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 16:44:28](https://news.ycombinator.com/item?id=42495703) - [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
 * [2024-12-23, 16:41:12](https://news.ycombinator.com/item?id=42495683) - [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
 * [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)
@@ -15,7 +18,6 @@
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 * [2024-12-23, 08:15:48](https://news.ycombinator.com/item?id=42492753) - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
-* [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
@@ -23,11 +25,9 @@
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:34:14](https://news.ycombinator.com/item?id=42485113) - [RAG Logger: An Open-Source Alternative to LangSmith](https://github.com/Brandon-c-tech/RAG-logger)
 * [2024-12-22, 08:32:48](https://news.ycombinator.com/item?id=42485106) - [Co-Adapting Human Interfaces and LMs](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/)
-* [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz’s Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-21, 11:24:37](https://news.ycombinator.com/item?id=42479014) - [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
 * [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
-* [2024-12-20, 12:55:07](https://news.ycombinator.com/item?id=42470700) - [Writing and testing a paginated API iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-19, 18:13:09](https://news.ycombinator.com/item?id=42464185) - [Show HN: OwlEars – Raw feedback, straight from your customers' minds](https://www.owlears.com)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
