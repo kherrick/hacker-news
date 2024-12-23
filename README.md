@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 20:28:20](https://news.ycombinator.com/item?id=42497335) - [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 * [2024-12-23, 19:28:06](https://news.ycombinator.com/item?id=42496955) - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
@@ -10,7 +11,6 @@
 * [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 16:59:16](https://news.ycombinator.com/item?id=42495812) - [An interactive timeline of the most iconic infographics](https://history.infowetrust.com)
 * [2024-12-23, 16:44:28](https://news.ycombinator.com/item?id=42495703) - [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
-* [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)
 * [2024-12-23, 16:11:28](https://news.ycombinator.com/item?id=42495431) - [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
 * [2024-12-23, 15:53:48](https://news.ycombinator.com/item?id=42495262) - [A Life-Saving Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
@@ -25,7 +25,7 @@
 * [2024-12-22, 10:20:39](https://news.ycombinator.com/item?id=42485498) - [The death of Glitch, the birth of Slack](https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/)
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:32:48](https://news.ycombinator.com/item?id=42485106) - [Co-Adapting Human Interfaces and LMs](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/)
-* [2024-12-21, 21:39:44](https://news.ycombinator.com/item?id=42482551) - [Show HN: Otto-m8 – A low code AI/ML API deployment Platform](https://github.com/farhan0167/otto-m8)
+* [2024-12-22, 08:24:15](https://news.ycombinator.com/item?id=42485079) - [2solitude – Honeywell TPE 331-12 refitted Antonov AN-2 camper](https://www.2solitude.com)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
 * [2024-12-19, 18:13:09](https://news.ycombinator.com/item?id=42464185) - [Show HN: OwlEars – Raw feedback, straight from your customers' minds](https://www.owlears.com)

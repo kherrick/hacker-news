@@ -57,6 +57,7 @@
 * [2024-12-22, 08:32:48](https://news.ycombinator.com/item?id=42485106) - [Co-Adapting Human Interfaces and LMs](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/)
 * [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A New Way to Talk About Code](https://codemic.io/)
 * [2024-12-22, 08:24:31](https://news.ycombinator.com/item?id=42485080) - [The highest funded plagiarist has become a Professor](https://tinimini2.wordpress.com/2024/12/22/plagiarism-can-lead-to-professorship/)
+* [2024-12-22, 08:24:15](https://news.ycombinator.com/item?id=42485079) - [2solitude – Honeywell TPE 331-12 refitted Antonov AN-2 camper](https://www.2solitude.com)
 * [2024-12-22, 08:11:31](https://news.ycombinator.com/item?id=42485043) - [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
