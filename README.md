@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 03:08:20](https://news.ycombinator.com/item?id=42491383) - [AI does not exist but it will ruin everything anyway [video]](https://www.youtube.com/watch?v=EUrOxh_0leE)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
 * [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 * [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
@@ -21,7 +22,6 @@
 * [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A new way to talk about code](https://codemic.io/)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC builds failing after sbuild refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
-* [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
 * [2024-12-20, 11:30:04](https://news.ycombinator.com/item?id=42470238) - [The birth, life, and death of old Penn Station (2017)](https://ny.curbed.com/2017/11/7/16616314/old-penn-station-history-photos-mckim)
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
