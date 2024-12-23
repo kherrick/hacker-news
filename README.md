@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
@@ -17,7 +18,6 @@
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
 * [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
-* [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One surprising psychosis treatment that works: Learning to live with the voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:34:14](https://news.ycombinator.com/item?id=42485113) - [RAG Logger: An Open-Source Alternative to LangSmith](https://github.com/Brandon-c-tech/RAG-logger)
 * [2024-12-21, 21:06:16](https://news.ycombinator.com/item?id=42482289) - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
