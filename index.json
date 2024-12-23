@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-23, 19:28:06",
+      "https://news.ycombinator.com/item?id=42496955"
+    ],
+    [
+      "Narrative Jailbreaking for Fun and Profit",
+      "https://interconnected.org/home/2024/12/23/jailbreaking"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 19:27:02",
       "https://news.ycombinator.com/item?id=42496953"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-12-22, 20:51:44",
-      "https://news.ycombinator.com/item?id=42488983"
+      "2024-12-22, 10:20:39",
+      "https://news.ycombinator.com/item?id=42485498"
     ],
     [
-      "Twtxt is a decentralised, minimalist microblogging service for hackers",
-      "https://twtxt.readthedocs.io/en/latest/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 14:44:30",
-      "https://news.ycombinator.com/item?id=42486610"
-    ],
-    [
-      "How bloom filters made SQLite 10x faster",
-      "https://avi.im/blag/2024/sqlite-past-present-future/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 12:29:33",
-      "https://news.ycombinator.com/item?id=42485938"
-    ],
-    [
-      "GPT-5 is behind schedule",
-      "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693"
+      "The death of Glitch, the birth of Slack",
+      "https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Co-Adapting Human Interfaces and LMs",
       "https://jessylin.com/2024/11/12/co-adapting-human-interfaces/"
+    ]
+  ],
+  [
+    [
+      "2024-12-21, 21:39:44",
+      "https://news.ycombinator.com/item?id=42482551"
+    ],
+    [
+      "Show HN: Otto-m8 – A low code AI/ML API deployment Platform",
+      "https://github.com/farhan0167/otto-m8"
     ]
   ],
   [
