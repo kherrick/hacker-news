@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-23, 20:28:20](https://news.ycombinator.com/item?id=42497335) - [Hyundai to offer free NACS DC EV adapters to enhance charging convenience](https://www.hyundainews.com/en-us/releases/4339)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:59:57](https://news.ycombinator.com/item?id=42497148) - [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
@@ -13,6 +12,7 @@
 * [2024-12-23, 16:59:16](https://news.ycombinator.com/item?id=42495812) - [An interactive timeline of the most iconic infographics](https://history.infowetrust.com)
 * [2024-12-23, 16:44:28](https://news.ycombinator.com/item?id=42495703) - [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
 * [2024-12-23, 16:11:28](https://news.ycombinator.com/item?id=42495431) - [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
+* [2024-12-23, 15:53:48](https://news.ycombinator.com/item?id=42495262) - [A Life-Saving Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 * [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ is an absolute blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
