@@ -28,6 +28,7 @@
 * [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The Case for Clinical Trial Abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
 * [2024-12-19, 16:13:50](https://news.ycombinator.com/item?id=42462863) - [How to Test More Drugs](https://www.writingruxandrabio.com/p/on-clinical-trial-abundance)
+* [2024-12-19, 15:31:00](https://news.ycombinator.com/item?id=42462374) - [Critics, not fans, perpetuate the failed second album myth, study shows](https://phys.org/news/2024-12-critics-fans-perpetuate-album-myth.html)
 * [2024-12-19, 15:29:15](https://news.ycombinator.com/item?id=42462348) - [Show HN: Movie Iris - Visualizing Films Through Color Extraction](https://github.com/LoSinCos/movie-iris)
 * [2024-12-19, 15:07:22](https://news.ycombinator.com/item?id=42462078) - [Wuppertal's suspended monorail proved its doubters wrong [video]](https://www.youtube.com/watch?v=sI5DehAuT2I)
 * [2024-12-19, 14:58:30](https://news.ycombinator.com/item?id=42461964) - [Botan: Crypto and TLS for Modern C++](https://github.com/randombit/botan)

@@ -2,11 +2,10 @@
 
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 * [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-* [2024-12-23, 01:43:03](https://news.ycombinator.com/item?id=42490948) - [New Google Sheet on half of 13.6\" MacBook Air screen is fully covered by popups](https://imgur.com/a/NQskWzI)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
 * [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 * [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
-* [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
+* [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 * [2024-12-22, 21:39:39](https://news.ycombinator.com/item?id=42489353) - [Whither Dashboard Design?](https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/)
 * [2024-12-22, 21:01:49](https://news.ycombinator.com/item?id=42489065) - [Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
@@ -26,8 +25,9 @@
 * [2024-12-21, 13:49:46](https://news.ycombinator.com/item?id=42479661) - [Chicago's Newberry Library discovers rare maguey paper in collection](https://www.chicagotribune.com/2024/12/21/chicago-newberry-library-maguey-paper/)
 * [2024-12-20, 11:30:04](https://news.ycombinator.com/item?id=42470238) - [The birth, life, and death of old Penn Station (2017)](https://ny.curbed.com/2017/11/7/16616314/old-penn-station-history-photos-mckim)
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
+* [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Who's building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The case for clinical trial abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
-* [2024-12-19, 14:12:55](https://news.ycombinator.com/item?id=42461539) - [NetBox Discovery Now in Public Preview](https://netboxlabs.com/blog/netbox-discovery-agent-available-public-preview/)
+* [2024-12-19, 15:31:00](https://news.ycombinator.com/item?id=42462374) - [Critics, not fans, perpetuate the failed second album myth, study shows](https://phys.org/news/2024-12-critics-fans-perpetuate-album-myth.html)
 * [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
 * [2024-12-18, 15:39:25](https://news.ycombinator.com/item?id=42451327) - [Feed readers which don't take \"no\" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
 
