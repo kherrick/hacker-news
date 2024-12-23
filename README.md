@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-23, 01:29:19](https://news.ycombinator.com/item?id=42490872) - [Has anyone else noticed Reddit being taken over by shills/bot/trolls](https://news.ycombinator.com/item?id=42490872)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
+* [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 * [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
 * [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 * [2024-12-22, 22:40:30](https://news.ycombinator.com/item?id=42489801) - [Being a Developer in the Age of Reasoning AI](https://near.tl/developer-forever/forum/announcement/being-a-developer-in-the-age-of-reasoning-ai.anc-4b87de19-f7cf-4ef0-91c8-e28b260fd9ad.html)
@@ -18,7 +18,6 @@
 * [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
 * [2024-12-22, 11:21:04](https://news.ycombinator.com/item?id=42485689) - [Stopping by Woods on a Snowy Evening (1923)](https://poets.org/poem/stopping-woods-snowy-evening)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One surprising psychosis treatment that works: Learning to live with the voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
-* [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A new way to talk about code](https://codemic.io/)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC builds failing after sbuild refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The essays of Michel de Montaigne online](https://hyperessays.net/)
@@ -28,6 +27,7 @@
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
 * [2024-12-19, 21:34:12](https://news.ycombinator.com/item?id=42465907) - [Reimagining mathematics in a world of reasoning machines [video]](https://www.youtube.com/watch?v=vYCT7cw0ycw)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The case for clinical trial abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
+* [2024-12-19, 14:12:55](https://news.ycombinator.com/item?id=42461539) - [NetBox Discovery Now in Public Preview](https://netboxlabs.com/blog/netbox-discovery-agent-available-public-preview/)
 * [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
 * [2024-12-18, 15:39:25](https://news.ycombinator.com/item?id=42451327) - [Feed readers which don't take \"no\" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
 
