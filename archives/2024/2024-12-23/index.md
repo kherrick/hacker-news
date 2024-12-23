@@ -8,6 +8,7 @@
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 14:56:33](https://news.ycombinator.com/item?id=42494809) - [Good cities can't exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)
+* [2024-12-23, 14:52:21](https://news.ycombinator.com/item?id=42494780) - [Building a replacement 386/486 CMOS battery](https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
 * [2024-12-23, 14:46:09](https://news.ycombinator.com/item?id=42494733) - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
 * [2024-12-23, 14:22:21](https://news.ycombinator.com/item?id=42494553) - [Subchannel Stations: The Radio Broadcasts You Didn't Know Were There](https://hackaday.com/2024/12/20/subchannel-stations-the-radio-broadcasts-you-didnt-know-were-there/)
