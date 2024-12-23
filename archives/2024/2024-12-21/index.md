@@ -42,5 +42,6 @@
 * [2024-12-21, 05:13:33](https://news.ycombinator.com/item?id=42477685) - [Show HN:Free Online Tool to Experience Microsoft's MarkItdown](https://markitdown.pro)
 * [2024-12-21, 04:32:23](https://news.ycombinator.com/item?id=42477564) - [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html)
 * [2024-12-21, 04:21:02](https://news.ycombinator.com/item?id=42477534) - [Our remedies proposal in DOJ's search distribution case](https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/)
+* [2024-12-21, 03:03:53](https://news.ycombinator.com/item?id=42477226) - [Piezoelectric Generators](https://www.americanpiezo.com/knowledge-center/piezo-theory/generators/)
 * [2024-12-21, 01:49:25](https://news.ycombinator.com/item?id=42476876) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
