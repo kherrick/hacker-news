@@ -11,6 +11,7 @@
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 * [2024-12-23, 19:28:06](https://news.ycombinator.com/item?id=42496955) - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
 * [2024-12-23, 19:27:02](https://news.ycombinator.com/item?id=42496953) - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
+* [2024-12-23, 18:39:12](https://news.ycombinator.com/item?id=42496604) - [About the BBC Micro cassette version of Elite – Elite on the 6502](https://elite.bbcelite.com/cassette/)
 * [2024-12-23, 18:24:09](https://news.ycombinator.com/item?id=42496465) - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 * [2024-12-23, 18:20:08](https://news.ycombinator.com/item?id=42496436) - [OneText (YC W23) Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
 * [2024-12-23, 18:02:02](https://news.ycombinator.com/item?id=42496265) - [llms.txt directory](https://directory.llmstxt.cloud/)
