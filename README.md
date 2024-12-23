@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 16:41:12](https://news.ycombinator.com/item?id=42495683) - [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
+* [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)
+* [2024-12-23, 16:11:28](https://news.ycombinator.com/item?id=42495431) - [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
+* [2024-12-23, 15:53:48](https://news.ycombinator.com/item?id=42495262) - [A Life-Saving Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 * [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
@@ -12,7 +16,6 @@
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 * [2024-12-23, 08:15:48](https://news.ycombinator.com/item?id=42492753) - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 * [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-* [2024-12-22, 21:01:49](https://news.ycombinator.com/item?id=42489065) - [Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 17:14:26](https://news.ycombinator.com/item?id=42487670) - [Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
@@ -21,15 +24,12 @@
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:34:14](https://news.ycombinator.com/item?id=42485113) - [RAG Logger: An Open-Source Alternative to LangSmith](https://github.com/Brandon-c-tech/RAG-logger)
 * [2024-12-22, 08:32:48](https://news.ycombinator.com/item?id=42485106) - [Co-Adapting Human Interfaces and LMs](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/)
-* [2024-12-21, 21:06:16](https://news.ycombinator.com/item?id=42482289) - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
 * [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz’s Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-21, 11:24:37](https://news.ycombinator.com/item?id=42479014) - [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
 * [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
 * [2024-12-20, 12:55:07](https://news.ycombinator.com/item?id=42470700) - [Writing and testing a paginated API iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
-* [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Who's building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
-* [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
 
 ## [Archives](archives/index.md)
 

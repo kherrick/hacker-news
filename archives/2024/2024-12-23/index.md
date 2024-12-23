@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 16:41:12](https://news.ycombinator.com/item?id=42495683) - [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
+* [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)
+* [2024-12-23, 16:11:28](https://news.ycombinator.com/item?id=42495431) - [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
+* [2024-12-23, 15:53:48](https://news.ycombinator.com/item?id=42495262) - [A Life-Saving Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 * [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
