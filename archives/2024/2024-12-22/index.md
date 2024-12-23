@@ -48,6 +48,7 @@
 * [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 10:20:40](https://news.ycombinator.com/item?id=42485499) - [Show HN: NoSQL, but it's SQLite](https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378)
+* [2024-12-22, 10:20:39](https://news.ycombinator.com/item?id=42485498) - [The death of Glitch, the birth of Slack](https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/)
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:47:34](https://news.ycombinator.com/item?id=42485160) - [MacKenzie Scott donates over $2B in 2024 to 199 organizations](https://yieldgiving.com/essays/investing/)
 * [2024-12-22, 08:37:03](https://news.ycombinator.com/item?id=42485126) - [Turning Ethereum into a Community Project](https://ethereum-magicians.org/t/eip-xxxx-on-chain-upgrade-signaling/22306)

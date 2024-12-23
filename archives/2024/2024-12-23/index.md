@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 19:28:06](https://news.ycombinator.com/item?id=42496955) - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
 * [2024-12-23, 19:27:02](https://news.ycombinator.com/item?id=42496953) - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
 * [2024-12-23, 18:24:09](https://news.ycombinator.com/item?id=42496465) - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 * [2024-12-23, 18:20:08](https://news.ycombinator.com/item?id=42496436) - [OneText (YC W23) Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
