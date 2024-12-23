@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
