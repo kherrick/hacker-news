@@ -38,6 +38,7 @@
 * [2024-12-22, 15:29:37](https://news.ycombinator.com/item?id=42486923) - [Experiment with LLMs and Random Walk on a Grid](https://github.com/attentionmech/TILDNN/blob/main/articles/2024-12-22/A00002.md)
 * [2024-12-22, 15:14:38](https://news.ycombinator.com/item?id=42486831) - [Database Release and End-to-End Testing: ClickHouse Database Cloning](https://qingant.notion.site/Database-Release-and-End-to-End-Testing-Bringing-Modern-Software-Development-Best-Practices-to-the--54b34a0736024e97a6b5db819b4708dd)
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
+* [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 13:10:30](https://news.ycombinator.com/item?id=42486070) - [Behind Germany's Political Turmoil, a Stagnating Economy](https://www.nytimes.com/2024/12/17/world/europe/germany-government-collapse-economy.html)
 * [2024-12-22, 12:50:44](https://news.ycombinator.com/item?id=42486011) - [ByteDance INFP: The AI That Brings Images to Life](https://pdftranslate.ai/blog/ai-infp)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
