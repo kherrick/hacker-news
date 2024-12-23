@@ -24,11 +24,11 @@
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 * [2024-12-22, 10:20:39](https://news.ycombinator.com/item?id=42485498) - [The death of Glitch, the birth of Slack](https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/)
-* [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:32:48](https://news.ycombinator.com/item?id=42485106) - [Co-Adapting Human Interfaces and LMs](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/)
 * [2024-12-22, 08:24:15](https://news.ycombinator.com/item?id=42485079) - [2solitude – Honeywell TPE 331-12 refitted Antonov AN-2 camper](https://www.2solitude.com)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
+* [2024-12-20, 10:20:17](https://news.ycombinator.com/item?id=42469786) - [New physics SIM trains robots 430k times faster than reality](https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
