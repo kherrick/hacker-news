@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
+* [2024-12-23, 12:38:28](https://news.ycombinator.com/item?id=42493973) - [Scientists observe 'negative time' in quantum experiments](https://phys.org/news/2024-12-scientists-negative-quantum.html)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
@@ -12,7 +13,6 @@
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 20:32:01](https://news.ycombinator.com/item?id=42488853) - [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 * [2024-12-22, 18:51:41](https://news.ycombinator.com/item?id=42488263) - [One way to fight loneliness: Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
-* [2024-12-22, 17:53:36](https://news.ycombinator.com/item?id=42487929) - [JRuby with JBang](https://rockyj-blogs.web.app/2024/12/22/jruby-jbang.html)
 * [2024-12-22, 17:30:21](https://news.ycombinator.com/item?id=42487775) - [Fighting spam with Haskell at Meta (2015)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)
 * [2024-12-22, 17:14:26](https://news.ycombinator.com/item?id=42487670) - [Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
@@ -28,7 +28,7 @@
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Who's building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-20, 05:34:18](https://news.ycombinator.com/item?id=42468554) - [Spherical Harmonics](https://www.rhotter.com/posts/harmonics)
-* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world‘s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
+* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 * [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
 
 ## [Archives](archives/index.md)
