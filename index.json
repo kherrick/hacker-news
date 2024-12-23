@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-23, 20:03:37",
+      "https://news.ycombinator.com/item?id=42497173"
+    ],
+    [
+      "Show HN: Complete decompilation of Lego Island",
+      "https://github.com/isledecomp/isle"
+    ]
+  ],
+  [
+    [
+      "2024-12-23, 19:49:34",
+      "https://news.ycombinator.com/item?id=42497093"
+    ],
+    [
+      "The Journey to Save the Last Known 43-Inch Sony CRT",
+      "https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 19:28:06",
       "https://news.ycombinator.com/item?id=42496955"
     ],
@@ -37,6 +57,16 @@
     [
       "OneText (YC W23) Is Hiring a Founding Growth Marketer",
       "https://news.ycombinator.com/item?id=42496436"
+    ]
+  ],
+  [
+    [
+      "2024-12-23, 18:02:02",
+      "https://news.ycombinator.com/item?id=42496265"
+    ],
+    [
+      "llms.txt directory",
+      "https://directory.llmstxt.cloud/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-12-23, 08:15:48",
-      "https://news.ycombinator.com/item?id=42492753"
-    ],
-    [
-      "I built a platform for discovering and sharing Chrome extension collections",
-      "https://webextension.net/collections"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 12:29:33",
-      "https://news.ycombinator.com/item?id=42485938"
-    ],
-    [
-      "GPT-5 is behind schedule",
-      "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 10:20:39",
       "https://news.ycombinator.com/item?id=42485498"
     ],
@@ -257,16 +267,6 @@
     [
       "CLI tool to insert spacers when command output stops",
       "https://github.com/samwho/spacer"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 16:19:18",
-      "https://news.ycombinator.com/item?id=42472384"
-    ],
-    [
-      "The CD Pipeline Manifesto",
-      "https://manifesto.getglu.dev/"
     ]
   ],
   [
