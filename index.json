@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-12-22, 17:30:21",
-      "https://news.ycombinator.com/item?id=42487775"
-    ],
-    [
-      "Fighting spam with Haskell at Meta (2015)",
-      "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 17:14:26",
       "https://news.ycombinator.com/item?id=42487670"
     ],
@@ -207,6 +197,16 @@
     [
       "RAG Logger: An Open-Source Alternative to LangSmith",
       "https://github.com/Brandon-c-tech/RAG-logger"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 08:32:48",
+      "https://news.ycombinator.com/item?id=42485106"
+    ],
+    [
+      "Co-Adapting Human Interfaces and LMs",
+      "https://jessylin.com/2024/11/12/co-adapting-human-interfaces/"
     ]
   ],
   [
