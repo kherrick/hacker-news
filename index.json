@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-12-23, 14:52:21",
+      "https://news.ycombinator.com/item?id=42494780"
+    ],
+    [
+      "Building a replacement 386/486 CMOS battery",
+      "https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 14:47:56",
       "https://news.ycombinator.com/item?id=42494746"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-12-23, 12:01:17",
-      "https://news.ycombinator.com/item?id=42493797"
-    ],
-    [
-      "Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)",
-      "https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d"
-    ]
-  ],
-  [
-    [
       "2024-12-23, 10:50:30",
       "https://news.ycombinator.com/item?id=42493464"
     ],
@@ -117,6 +117,16 @@
     [
       "Litestack: All your data infrastructure, in one Ruby gem",
       "https://github.com/oldmoe/litestack"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 21:01:49",
+      "https://news.ycombinator.com/item?id=42489065"
+    ],
+    [
+      "Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)",
+      "https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Writing and testing a paginated API iterator in Go",
       "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 10:43:36",
-      "https://news.ycombinator.com/item?id=42469945"
-    ],
-    [
-      "Show HN: Ephemeral VMs in 1 Microsecond",
-      "https://github.com/libriscv/multi_tenant_drogon"
     ]
   ],
   [
