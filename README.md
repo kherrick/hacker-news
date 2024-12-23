@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 01:43:03](https://news.ycombinator.com/item?id=42490948) - [New Google Sheet on half of 13.6\" MacBook Air screen is fully covered by popups](https://imgur.com/a/NQskWzI)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
 * [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
 * [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
@@ -25,7 +26,6 @@
 * [2024-12-20, 11:30:04](https://news.ycombinator.com/item?id=42470238) - [The birth, life, and death of old Penn Station (2017)](https://ny.curbed.com/2017/11/7/16616314/old-penn-station-history-photos-mckim)
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
-* [2024-12-19, 21:34:12](https://news.ycombinator.com/item?id=42465907) - [Reimagining mathematics in a world of reasoning machines [video]](https://www.youtube.com/watch?v=vYCT7cw0ycw)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The case for clinical trial abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
 * [2024-12-19, 14:12:55](https://news.ycombinator.com/item?id=42461539) - [NetBox Discovery Now in Public Preview](https://netboxlabs.com/blog/netbox-discovery-agent-available-public-preview/)
 * [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
