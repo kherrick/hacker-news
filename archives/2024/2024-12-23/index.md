@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 16:44:28](https://news.ycombinator.com/item?id=42495703) - [Supernovae Evidence for Foundational Change to Cosmological Models](https://arxiv.org/abs/2412.15143)
 * [2024-12-23, 16:41:12](https://news.ycombinator.com/item?id=42495683) - [Unitree Robot Off-Road](https://www.youtube.com/watch?v=X2UxtKLZnNo)
 * [2024-12-23, 16:17:32](https://news.ycombinator.com/item?id=42495473) - [Phrack 72 \"40th Anniversary Edition\" Call for Papers](https://phrack.org)
 * [2024-12-23, 16:11:28](https://news.ycombinator.com/item?id=42495431) - [Neanderthals cold-adapted? Ribcage reconstruction may hold the answer](https://phys.org/news/2024-12-neanderthals-cold-ready-ribcage-reconstruction.html)
