@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
+* [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
 * [2024-12-23, 14:46:09](https://news.ycombinator.com/item?id=42494733) - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
 * [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
@@ -18,7 +20,6 @@
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One surprising psychosis treatment that works: Learning to live with the voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
 * [2024-12-22, 09:59:28](https://news.ycombinator.com/item?id=42485423) - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 * [2024-12-22, 08:34:14](https://news.ycombinator.com/item?id=42485113) - [RAG Logger: An Open-Source Alternative to LangSmith](https://github.com/Brandon-c-tech/RAG-logger)
-* [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A new way to talk about code](https://codemic.io/)
 * [2024-12-21, 21:06:16](https://news.ycombinator.com/item?id=42482289) - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
 * [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz’s Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
@@ -27,7 +28,6 @@
 * [2024-12-20, 12:55:07](https://news.ycombinator.com/item?id=42470700) - [Writing and testing a paginated API iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Who's building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
-* [2024-12-20, 05:34:18](https://news.ycombinator.com/item?id=42468554) - [Spherical Harmonics](https://www.rhotter.com/posts/harmonics)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 * [2024-12-19, 01:50:58](https://news.ycombinator.com/item?id=42457539) - [In praise of the hundred page idea](https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/)
 
