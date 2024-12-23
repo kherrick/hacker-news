@@ -38,6 +38,7 @@
 * [2024-12-20, 11:23:56](https://news.ycombinator.com/item?id=42470202) - [We're about to fly a spacecraft into the Sun for the first time](https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/)
 * [2024-12-20, 10:58:00](https://news.ycombinator.com/item?id=42470040) - [Google starts tracking all your devices in 8 weeks](https://www.forbes.com/sites/zakdoffman/2024/12/19/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/)
 * [2024-12-20, 10:51:06](https://news.ycombinator.com/item?id=42470001) - [Language and Personality](https://www.solipsys.co.uk/ZimExpt/LanguageAndPersonality.html?xl20hn)
+* [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 * [2024-12-20, 08:31:30](https://news.ycombinator.com/item?id=42469284) - [There is no such thing as AI Product Manager – What PMs need to know about LLMs](https://productme.org/posts/ai-for-product-managers)
