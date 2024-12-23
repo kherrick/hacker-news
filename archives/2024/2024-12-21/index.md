@@ -29,6 +29,7 @@
 * [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz's Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
+* [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-21, 11:24:37](https://news.ycombinator.com/item?id=42479014) - [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
 * [2024-12-21, 11:10:59](https://news.ycombinator.com/item?id=42478962) - [Why eating less slows ageing: this molecule is key](https://www.nature.com/articles/d41586-024-04220-5)
 * [2024-12-21, 10:57:57](https://news.ycombinator.com/item?id=42478911) - [Curl removes experimental HTTP back end in Rust](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
