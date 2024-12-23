@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 20:50:29](https://news.ycombinator.com/item?id=42497473) - [Texas school district bans the Bible because of its sexual content](https://www.msn.com/en-us/politics/government/texas-school-district-bans-the-bible-because-of-its-patently-offensive-sexual-content/ar-AA1wf98M)
 * [2024-12-23, 20:28:20](https://news.ycombinator.com/item?id=42497335) - [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)

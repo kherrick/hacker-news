@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 20:50:29](https://news.ycombinator.com/item?id=42497473) - [Texas school district bans the Bible because of its sexual content](https://www.msn.com/en-us/politics/government/texas-school-district-bans-the-bible-because-of-its-patently-offensive-sexual-content/ar-AA1wf98M)
 * [2024-12-23, 20:28:20](https://news.ycombinator.com/item?id=42497335) - [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
-* [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
+* [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The journey to save the last known 43-inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 * [2024-12-23, 19:28:06](https://news.ycombinator.com/item?id=42496955) - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
 * [2024-12-23, 19:27:02](https://news.ycombinator.com/item?id=42496953) - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
 * [2024-12-23, 18:24:09](https://news.ycombinator.com/item?id=42496465) - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
@@ -28,7 +29,6 @@
 * [2024-12-22, 08:24:15](https://news.ycombinator.com/item?id=42485079) - [2solitude – Honeywell TPE 331-12 refitted Antonov AN-2 camper](https://www.2solitude.com)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
-* [2024-12-19, 18:13:09](https://news.ycombinator.com/item?id=42464185) - [Show HN: OwlEars – Raw feedback, straight from your customers' minds](https://www.owlears.com)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
