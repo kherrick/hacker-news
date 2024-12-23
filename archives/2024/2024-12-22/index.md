@@ -52,6 +52,7 @@
 * [2024-12-22, 08:47:34](https://news.ycombinator.com/item?id=42485160) - [MacKenzie Scott donates over $2B in 2024 to 199 organizations](https://yieldgiving.com/essays/investing/)
 * [2024-12-22, 08:37:03](https://news.ycombinator.com/item?id=42485126) - [Turning Ethereum into a Community Project](https://ethereum-magicians.org/t/eip-xxxx-on-chain-upgrade-signaling/22306)
 * [2024-12-22, 08:36:31](https://news.ycombinator.com/item?id=42485124) - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
+* [2024-12-22, 08:34:14](https://news.ycombinator.com/item?id=42485113) - [RAG Logger: An Open-Source Alternative to LangSmith](https://github.com/Brandon-c-tech/RAG-logger)
 * [2024-12-22, 08:27:16](https://news.ycombinator.com/item?id=42485088) - [CodeMic: A New Way to Talk About Code](https://codemic.io/)
 * [2024-12-22, 08:24:31](https://news.ycombinator.com/item?id=42485080) - [The highest funded plagiarist has become a Professor](https://tinimini2.wordpress.com/2024/12/22/plagiarism-can-lead-to-professorship/)
 * [2024-12-22, 08:11:31](https://news.ycombinator.com/item?id=42485043) - [US shoots down two of its own Navy pilots over Red Sea](https://www.theguardian.com/us-news/2024/dec/22/us-shoots-down-two-of-its-own-navy-pilots-over-red-sea-in-apparent-friendly-fire-incident)
