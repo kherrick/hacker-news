@@ -28,6 +28,7 @@
 * [2024-12-20, 14:25:12](https://news.ycombinator.com/item?id=42471304) - [Sovereign Tech Fund Invests in OpenStreetMap](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/)
 * [2024-12-20, 13:57:39](https://news.ycombinator.com/item?id=42471094) - [Walmart Employees Now Wearing Body Cameras to Keep Them Safe](https://petapixel.com/2024/12/19/walmart-employees-now-wearing-body-cameras-to-keep-them-safe/)
 * [2024-12-20, 13:19:50](https://news.ycombinator.com/item?id=42470852) - [' first' open-source ARMv9 motherboard surfaces – Radxa Orion O6](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)
+* [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
 * [2024-12-20, 12:55:07](https://news.ycombinator.com/item?id=42470700) - [Writing and testing a paginated API iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 12:29:17](https://news.ycombinator.com/item?id=42470541) - [Building Effective \"Agents\"](https://www.anthropic.com/research/building-effective-agents)
 * [2024-12-20, 12:11:00](https://news.ycombinator.com/item?id=42470435) - [10-foot-tall people discovered by archaeologists in Nevada cave](https://www.msn.com/en-gb/news/world/10-foot-tall-people-discovered-by-archaeologists-in-nevada-cave/ar-BB1oQVZ2)
