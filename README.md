@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
-* [2024-12-23, 12:38:28](https://news.ycombinator.com/item?id=42493973) - [Scientists observe 'negative time' in quantum experiments](https://phys.org/news/2024-12-scientists-negative-quantum.html)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
@@ -25,6 +24,7 @@
 * [2024-12-21, 21:06:16](https://news.ycombinator.com/item?id=42482289) - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
 * [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz’s Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 11:24:37](https://news.ycombinator.com/item?id=42479014) - [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
+* [2024-12-20, 12:55:07](https://news.ycombinator.com/item?id=42470700) - [Writing and testing a paginated API iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 05:42:56](https://news.ycombinator.com/item?id=42468594) - [Ask HN: Who's building on Python NoGIL?](https://news.ycombinator.com/item?id=42468594)
 * [2024-12-20, 05:34:18](https://news.ycombinator.com/item?id=42468554) - [Spherical Harmonics](https://www.rhotter.com/posts/harmonics)
