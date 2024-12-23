@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
+* [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [The Journey to Save the Last Known 43-Inch Sony CRT](https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known)
 * [2024-12-23, 19:28:06](https://news.ycombinator.com/item?id=42496955) - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
 * [2024-12-23, 19:27:02](https://news.ycombinator.com/item?id=42496953) - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
 * [2024-12-23, 18:24:09](https://news.ycombinator.com/item?id=42496465) - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
 * [2024-12-23, 18:20:08](https://news.ycombinator.com/item?id=42496436) - [OneText (YC W23) Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
+* [2024-12-23, 18:02:02](https://news.ycombinator.com/item?id=42496265) - [llms.txt directory](https://directory.llmstxt.cloud/)
 * [2024-12-23, 17:38:25](https://news.ycombinator.com/item?id=42496104) - [Nordstrom Family to Take Company Private in $6.25B Deal](https://www.bloomberg.com/news/articles/2024-12-23/nordstrom-family-to-take-company-private-in-6-25-billion-deal)
 * [2024-12-23, 17:31:13](https://news.ycombinator.com/item?id=42496032) - [Switched Back to Windows After over 10 Years on Linux](https://old.reddit.com/r/Windows11/comments/1hkkrb0/switched_back_to_windows_after_10_years_and_a/)
 * [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
