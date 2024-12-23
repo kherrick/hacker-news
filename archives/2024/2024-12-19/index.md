@@ -25,6 +25,7 @@
 * [2024-12-19, 17:01:11](https://news.ycombinator.com/item?id=42463389) - [Gemini 2.0 Flash Thinking Experimental](https://aistudio.google.com/prompts/new_chat?model=gemini-2.0-flash-thinking-exp-1219)
 * [2024-12-19, 16:53:58](https://news.ycombinator.com/item?id=42463315) - [A Replacement for Bert](https://huggingface.co/blog/modernbert)
 * [2024-12-19, 16:51:32](https://news.ycombinator.com/item?id=42463295) - [A Knife Forged in Fire](https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/)
+* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world's oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 * [2024-12-19, 16:36:54](https://news.ycombinator.com/item?id=42463123) - [Clay – UI Layout Library](https://www.nicbarker.com/clay)
 * [2024-12-19, 16:16:47](https://news.ycombinator.com/item?id=42462904) - [The Case for Clinical Trial Abundance](https://ifp.org/the-case-for-clinical-trial-abundance/)
 * [2024-12-19, 16:13:50](https://news.ycombinator.com/item?id=42462863) - [How to Test More Drugs](https://www.writingruxandrabio.com/p/on-clinical-trial-abundance)
