@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-22, 23:06:54",
-      "https://news.ycombinator.com/item?id=42489944"
+      "2024-12-23, 00:26:59",
+      "https://news.ycombinator.com/item?id=42490453"
     ],
     [
-      "Nostr is public key microblogging that works",
-      "https://github.com/nostr-protocol/nips/blob/master/01.md"
+      "'United Healthcare' Using DMCA Against Luigi Mangione Images",
+      "https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 23:46:05",
+      "https://news.ycombinator.com/item?id=42490191"
+    ],
+    [
+      "Classified fighter jet specs leaked on War Thunder forums – again",
+      "https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/"
     ]
   ],
   [
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2024-12-22, 21:39:39",
+      "https://news.ycombinator.com/item?id=42489353"
+    ],
+    [
+      "Whither Dashboard Design?",
+      "https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 21:27:14",
       "https://news.ycombinator.com/item?id=42489267"
     ],
     [
       "ChatGPT O3 Preview Announcement",
       "https://openai.com/12-days/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 21:03:49",
-      "https://news.ycombinator.com/item?id=42489080"
-    ],
-    [
-      "Apple must ensure interoperability of iPhone with rivals, says EU",
-      "https://www.euronews.com/next/2024/12/19/apple-must-ensure-interoperability-of-iphone-with-rivals-says-european-commission"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-12-22, 16:25:00",
-      "https://news.ycombinator.com/item?id=42487301"
-    ],
-    [
-      "The risk of cancer fades past the age of 80",
-      "https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 14:44:30",
       "https://news.ycombinator.com/item?id=42486610"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-12-22, 10:20:40",
-      "https://news.ycombinator.com/item?id=42485499"
-    ],
-    [
-      "Show HN: NoSQL, but it's SQLite",
-      "https://gist.github.com/vedantroy/df6b18fa89bc24acfe89fc8493743378"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 08:36:31",
       "https://news.ycombinator.com/item?id=42485124"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2024-12-22, 03:12:23",
-      "https://news.ycombinator.com/item?id=42484139"
-    ],
-    [
-      "Slow deployment causes meetings (2015)",
-      "https://tidyfirst.substack.com/p/slow-deployment-causes-meetings"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 11:41:51",
       "https://news.ycombinator.com/item?id=42479103"
     ],
     [
       "'AI-powered judge' takes boxing closer to brave new world it appears to seek",
       "https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 10:43:36",
+      "https://news.ycombinator.com/item?id=42469945"
+    ],
+    [
+      "Show HN: Ephemeral VMs in 1 Microsecond",
+      "https://github.com/libriscv/multi_tenant_drogon"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The case for clinical trial abundance",
       "https://ifp.org/the-case-for-clinical-trial-abundance/"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 10:17:52",
+      "https://news.ycombinator.com/item?id=42460131"
+    ],
+    [
+      "Show HN: TideCloak – Decentralized IAM for security and user sovereignty",
+      "https://github.com/tide-foundation/tidecloak-gettingstarted"
     ]
   ],
   [
