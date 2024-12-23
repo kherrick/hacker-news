@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 01:29:19](https://news.ycombinator.com/item?id=42490872) - [Has anyone else noticed Reddit being taken over by shills/bot/trolls](https://news.ycombinator.com/item?id=42490872)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
 * [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
 * [2024-12-22, 22:47:09](https://news.ycombinator.com/item?id=42489844) - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
@@ -14,7 +15,6 @@
 * [2024-12-22, 17:14:26](https://news.ycombinator.com/item?id=42487670) - [Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693)
-* [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 * [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
 * [2024-12-22, 11:21:04](https://news.ycombinator.com/item?id=42485689) - [Stopping by Woods on a Snowy Evening (1923)](https://poets.org/poem/stopping-woods-snowy-evening)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One surprising psychosis treatment that works: Learning to live with the voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
