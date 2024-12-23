@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
@@ -8,7 +9,6 @@
 * [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
 * [2024-12-23, 02:26:06](https://news.ycombinator.com/item?id=42491172) - [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
 * [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
-* [2024-12-22, 23:46:05](https://news.ycombinator.com/item?id=42490191) - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
 * [2024-12-22, 20:51:44](https://news.ycombinator.com/item?id=42488983) - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
 * [2024-12-22, 20:32:01](https://news.ycombinator.com/item?id=42488853) - [Tokenisation Is NP-Complete](https://arxiv.org/abs/2412.15210)
 * [2024-12-22, 18:51:41](https://news.ycombinator.com/item?id=42488263) - [One way to fight loneliness: Germans call it a Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch)
