@@ -8,6 +8,7 @@
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 21:36:01](https://news.ycombinator.com/item?id=42497800) - [Lobste.rs/Hacker News links overlap](https://lobhn.skyshelf.app/)
 * [2024-12-23, 20:50:29](https://news.ycombinator.com/item?id=42497473) - [Texas school district bans the Bible because of its sexual content](https://www.msn.com/en-us/politics/government/texas-school-district-bans-the-bible-because-of-its-patently-offensive-sexual-content/ar-AA1wf98M)
+* [2024-12-23, 20:29:29](https://news.ycombinator.com/item?id=42497338) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 * [2024-12-23, 20:28:20](https://news.ycombinator.com/item?id=42497335) - [Hyundai to Offer Free NACS DC EV Adapters to Enhance Charging Convenience](https://www.hyundainews.com/en-us/releases/4339)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:59:57](https://news.ycombinator.com/item?id=42497148) - [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
