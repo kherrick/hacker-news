@@ -51,6 +51,7 @@
 * [2024-12-20, 04:57:31](https://news.ycombinator.com/item?id=42468402) - [The legacy of NeXT lives on in OS X (2012)](https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/)
 * [2024-12-20, 04:46:53](https://news.ycombinator.com/item?id=42468362) - [ByteDance's Recommendation System](https://github.com/bytedance/monolith)
 * [2024-12-20, 04:35:49](https://news.ycombinator.com/item?id=42468318) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
+* [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More Men Are Addicted to the 'Crack Cocaine' of the Stock Market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
 * [2024-12-20, 04:10:42](https://news.ycombinator.com/item?id=42468214) - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [2024-12-20, 03:49:28](https://news.ycombinator.com/item?id=42468111) - [Cqd: Colour my __dir__ please](https://github.com/rayking99/cqd)
 * [2024-12-20, 03:10:09](https://news.ycombinator.com/item?id=42467937) - [How talking over a wall changed my direction as a programmer](https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/)

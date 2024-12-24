@@ -27,6 +27,7 @@
 * [2024-12-21, 14:42:56](https://news.ycombinator.com/item?id=42479958) - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
 * [2024-12-21, 14:24:53](https://news.ycombinator.com/item?id=42479866) - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
 * [2024-12-21, 13:49:46](https://news.ycombinator.com/item?id=42479661) - [Chicago's Newberry Library discovers rare maguey paper in collection](https://www.chicagotribune.com/2024/12/21/chicago-newberry-library-maguey-paper/)
+* [2024-12-21, 13:23:24](https://news.ycombinator.com/item?id=42479510) - [Spreadsheets 1/3 – Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 12:50:44](https://news.ycombinator.com/item?id=42479375) - [Collatz's Ant](https://gbragafibra.github.io/2024/12/21/collatz_ant.html)
 * [2024-12-21, 12:14:55](https://news.ycombinator.com/item?id=42479233) - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 * [2024-12-21, 11:41:51](https://news.ycombinator.com/item?id=42479103) - ['AI-powered judge' takes boxing closer to brave new world it appears to seek](https://www.boxingscene.com/the-beltline-ai-powered-judge-takes-boxing-a-step-closer-to-the-brave-new-world-it-appears-to-seek--200866)
