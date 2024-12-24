@@ -1,8 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-24, 16:25:34](https://news.ycombinator.com/item?id=42502910) - [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
-* [2024-12-24, 16:04:58](https://news.ycombinator.com/item?id=42502768) - [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)
-* [2024-12-24, 15:40:28](https://news.ycombinator.com/item?id=42502580) - [Why making friends as an adult is hard](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
 * [2024-12-24, 14:49:37](https://news.ycombinator.com/item?id=42502236) - [New research suggests that Walmart makes the communities it operates in poorer](https://www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
@@ -27,9 +24,12 @@
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
+* [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
+* [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
+* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
 
