@@ -42,6 +42,7 @@
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 12:38:28](https://news.ycombinator.com/item?id=42493973) - [Scientists observe 'negative time' in quantum experiments](https://phys.org/news/2024-12-scientists-negative-quantum.html)
+* [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [E.W.Dijkstra: Simplicity is a great virtue ... complexity sells better.](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
 * [2024-12-23, 11:34:40](https://news.ycombinator.com/item?id=42493664) - [Coke, PepsiCo Lobby to Keep Sugary Sodas in Food-Stamp Program](https://www.wsj.com/politics/policy/rfk-jr-soda-snap-food-stamps-coke-pepsi-9bd9a872)
 * [2024-12-23, 11:09:27](https://news.ycombinator.com/item?id=42493544) - [Physicists measure quantum geometry for first time](https://phys.org/news/2024-12-physicists-quantum-geometry.html)
