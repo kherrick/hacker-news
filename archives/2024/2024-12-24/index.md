@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+* [2024-12-24, 22:15:23](https://news.ycombinator.com/item?id=42505313) - [The AI backlash couldn't have come at a better time](https://www.infoworld.com/article/3626533/the-ai-backlash-couldnt-have-come-at-a-better-time.html)
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 20:26:21](https://news.ycombinator.com/item?id=42504661) - [Build Your Own AI-Powered Document Chatbot in Minutes with Simple RAG](https://news.ycombinator.com/item?id=42504661)
 * [2024-12-24, 20:25:20](https://news.ycombinator.com/item?id=42504657) - [If ChatGPT produces AI-generated code for your app, who does it belong to?](https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+* [2024-12-24, 22:15:23](https://news.ycombinator.com/item?id=42505313) - [The AI backlash couldn't have come at a better time](https://www.infoworld.com/article/3626533/the-ai-backlash-couldnt-have-come-at-a-better-time.html)
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 20:25:20](https://news.ycombinator.com/item?id=42504657) - [If ChatGPT produces AI-generated code for your app, who does it belong to?](https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/)
 * [2024-12-24, 19:53:03](https://news.ycombinator.com/item?id=42504438) - [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155)
@@ -11,7 +13,6 @@
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
-* [2024-12-24, 02:47:47](https://news.ycombinator.com/item?id=42499332) - [Automating the search for artificial life with foundation models](https://sakana.ai/asal/)
 * [2024-12-24, 01:33:31](https://news.ycombinator.com/item?id=42498982) - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
 * [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
@@ -27,7 +28,6 @@
 * [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-22, 11:39:26](https://news.ycombinator.com/item?id=42485765) - [Planet Puppet – A weekend at the ventriloquist convention](https://www.nplusonemag.com/issue-49/essays/planet-puppet/)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
-* [2024-12-22, 05:48:55](https://news.ycombinator.com/item?id=42484628) - [i sensed anxiety and frustration at NeurIPS 24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
 * [2024-12-21, 01:10:34](https://news.ycombinator.com/item?id=42476700) - [Saving Nanocap Speculators from Themselves](https://nyuu.page/essays/solidity/)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
 
