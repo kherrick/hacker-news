@@ -27,9 +27,9 @@
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
-* [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
+* [2024-12-21, 11:51:44](https://news.ycombinator.com/item?id=42479133) - [Exploring an undersea terrain sculpted by glaciers and volcanoes](https://arstechnica.com/science/2024/12/scientists-explore-frozen-scars-and-fiery-sands-on-the-seafloor/)
 
 ## [Archives](archives/index.md)
 
