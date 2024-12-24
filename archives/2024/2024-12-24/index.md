@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 13:58:45](https://news.ycombinator.com/item?id=42501922) - [Open source maintainers are drowning in junk bug reports written by AI](https://www.theregister.com/2024/12/10/ai_slop_bug_reports/)
 * [2024-12-24, 12:52:55](https://news.ycombinator.com/item?id=42501605) - [American Airlines Grounds All Flights After \"Technical Issue\"](https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
