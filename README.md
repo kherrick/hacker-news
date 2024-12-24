@@ -2,8 +2,9 @@
 
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 20:01:25](https://news.ycombinator.com/item?id=42504494) - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
+* [2024-12-24, 19:53:03](https://news.ycombinator.com/item?id=42504438) - [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155)
 * [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
-* [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
+* [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 * [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
 * [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [In Maine, remote jobs give prisoners a lifeline](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 * [2024-12-24, 15:40:28](https://news.ycombinator.com/item?id=42502580) - [Why making friends as an adult is harder](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
@@ -26,7 +27,6 @@
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
 * [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
-* [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-22, 05:48:55](https://news.ycombinator.com/item?id=42484628) - [i sensed anxiety and frustration at NeurIPS 24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
 * [2024-12-21, 01:10:34](https://news.ycombinator.com/item?id=42476700) - [Saving Nanocap Speculators from Themselves](https://nyuu.page/essays/solidity/)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
