@@ -2,7 +2,6 @@
 
 * [2024-12-24, 03:48:11](https://news.ycombinator.com/item?id=42499599) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
-* [2024-12-24, 02:48:56](https://news.ycombinator.com/item?id=42499336) - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
 * [2024-12-24, 02:47:47](https://news.ycombinator.com/item?id=42499332) - [Automating the Search for Artificial Life with Foundation Models](https://sakana.ai/asal/)
 * [2024-12-24, 01:33:31](https://news.ycombinator.com/item?id=42498982) - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
@@ -26,6 +25,7 @@
 * [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 13:43:53](https://news.ycombinator.com/item?id=42486248) - [The Sean Carrolls Explain the Universe](https://nautil.us/the-sean-carrolls-explain-the-universe-1171296/)
 * [2024-12-22, 12:53:05](https://news.ycombinator.com/item?id=42486020) - [A chart that shows everything that has ever existed](https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything)
+* [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 * [2024-12-22, 10:18:57](https://news.ycombinator.com/item?id=42485489) - [Show HN: AuthorTrail – Browse files you've touched in a Git repo](https://github.com/sarimabbas/authortrail)
 * [2024-12-21, 13:23:24](https://news.ycombinator.com/item?id=42479510) - [Spreadsheets 1/3 – Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
