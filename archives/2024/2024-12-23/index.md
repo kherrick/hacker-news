@@ -51,6 +51,7 @@
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-23, 08:15:48](https://news.ycombinator.com/item?id=42492753) - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
+* [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-23, 07:01:04](https://news.ycombinator.com/item?id=42492405) - [Ask HN: Have you ever taken a career break or gap year to hack?](https://news.ycombinator.com/item?id=42492405)
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 * [2024-12-23, 03:08:20](https://news.ycombinator.com/item?id=42491383) - [AI does not exist but it will ruin everything anyway [video]](https://www.youtube.com/watch?v=EUrOxh_0leE)

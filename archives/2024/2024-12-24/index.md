@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 17:58:14](https://news.ycombinator.com/item?id=42503558) - [Apple seeks to defend Google's billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)
+* [2024-12-24, 17:52:06](https://news.ycombinator.com/item?id=42503519) - [AIs Will Increasingly Fake Alignment](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment)
+* [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
+* [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [The prisoners in Maine working remote jobs](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 * [2024-12-24, 16:26:31](https://news.ycombinator.com/item?id=42502915) - [Charlie Munger's wisdom lives on in LLMs](https://bren.blog/charlie-munger-lives-on-in-llms)
 * [2024-12-24, 16:25:34](https://news.ycombinator.com/item?id=42502910) - [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
 * [2024-12-24, 16:04:58](https://news.ycombinator.com/item?id=42502768) - [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)

@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-24, 14:49:37](https://news.ycombinator.com/item?id=42502236) - [New research suggests that Walmart makes the communities it operates in poorer](https://www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/)
+* [2024-12-24, 17:58:14](https://news.ycombinator.com/item?id=42503558) - [Apple seeks to defend Google's billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)
+* [2024-12-24, 17:52:06](https://news.ycombinator.com/item?id=42503519) - [AIs Will Increasingly Fake Alignment](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment)
+* [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
+* [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [The prisoners in Maine working remote jobs](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
@@ -13,7 +16,6 @@
 * [2024-12-23, 23:48:08](https://news.ycombinator.com/item?id=42498514) - [Parsing millions of URLs per Second (2023)](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why are cancer guidelines stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
-* [2024-12-23, 19:59:57](https://news.ycombinator.com/item?id=42497148) - [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 * [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
@@ -24,12 +26,10 @@
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
+* [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
-* [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
-* [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
-* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
 
