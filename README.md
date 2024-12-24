@@ -28,7 +28,7 @@
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-21, 11:51:44](https://news.ycombinator.com/item?id=42479133) - [Exploring an undersea terrain sculpted by glaciers and volcanoes](https://arstechnica.com/science/2024/12/scientists-explore-frozen-scars-and-fiery-sands-on-the-seafloor/)
-* [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
+* [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
