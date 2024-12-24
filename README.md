@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-24, 08:15:49](https://news.ycombinator.com/item?id=42500475) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+* [2024-12-24, 07:20:12](https://news.ycombinator.com/item?id=42500244) - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
 * [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
 * [2024-12-24, 03:48:11](https://news.ycombinator.com/item?id=42499599) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
@@ -28,7 +29,6 @@
 * [2024-12-22, 13:16:38](https://news.ycombinator.com/item?id=42486100) - [Show HN: Npflared serveless private NPM registry that you can host for free](https://npflared.thomas-cogez.fr/)
 * [2024-12-22, 12:53:05](https://news.ycombinator.com/item?id=42486020) - [A chart that shows everything that has ever existed](https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
-* [2024-12-22, 10:18:57](https://news.ycombinator.com/item?id=42485489) - [Show HN: AuthorTrail – Browse files you've touched in a Git repo](https://github.com/sarimabbas/authortrail)
 * [2024-12-21, 13:23:24](https://news.ycombinator.com/item?id=42479510) - [Spreadsheets 1/3 – Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 
 ## [Archives](archives/index.md)
