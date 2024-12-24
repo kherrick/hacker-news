@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-24, 12:52:55](https://news.ycombinator.com/item?id=42501605) - [American Airlines Grounds All Flights After \"Technical Issue\"](https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html)
+* [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+* [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 10:23:17](https://news.ycombinator.com/item?id=42500969) - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
 * [2024-12-24, 08:17:54](https://news.ycombinator.com/item?id=42500482) - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
 * [2024-12-24, 08:15:49](https://news.ycombinator.com/item?id=42500475) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
@@ -18,7 +21,6 @@
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 * [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
-* [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 11:09:27](https://news.ycombinator.com/item?id=42493544) - [Physicists measure quantum geometry for first time](https://phys.org/news/2024-12-physicists-quantum-geometry.html)
@@ -26,10 +28,8 @@
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 * [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
-* [2024-12-22, 13:16:38](https://news.ycombinator.com/item?id=42486100) - [Show HN: Npflared serveless private NPM registry that you can host for free](https://npflared.thomas-cogez.fr/)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
-* [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)
 

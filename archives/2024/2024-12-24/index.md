@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 12:52:55](https://news.ycombinator.com/item?id=42501605) - [American Airlines Grounds All Flights After \"Technical Issue\"](https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html)
+* [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+* [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 10:23:17](https://news.ycombinator.com/item?id=42500969) - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
 * [2024-12-24, 09:17:14](https://news.ycombinator.com/item?id=42500704) - [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
 * [2024-12-24, 08:17:54](https://news.ycombinator.com/item?id=42500482) - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
