@@ -38,6 +38,7 @@
 * [2024-12-23, 14:46:09](https://news.ycombinator.com/item?id=42494733) - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
 * [2024-12-23, 14:22:21](https://news.ycombinator.com/item?id=42494553) - [Subchannel Stations: The Radio Broadcasts You Didn't Know Were There](https://hackaday.com/2024/12/20/subchannel-stations-the-radio-broadcasts-you-didnt-know-were-there/)
 * [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
+* [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 12:38:28](https://news.ycombinator.com/item?id=42493973) - [Scientists observe 'negative time' in quantum experiments](https://phys.org/news/2024-12-scientists-negative-quantum.html)
