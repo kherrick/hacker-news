@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-24, 16:26:31",
+      "https://news.ycombinator.com/item?id=42502915"
+    ],
+    [
+      "Charlie Munger's wisdom lives on in LLMs",
+      "https://bren.blog/charlie-munger-lives-on-in-llms"
+    ]
+  ],
+  [
+    [
+      "2024-12-24, 16:25:34",
+      "https://news.ycombinator.com/item?id=42502910"
+    ],
+    [
+      "The chocolate of the future will have less cocoa or none at all",
+      "https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426"
+    ]
+  ],
+  [
+    [
+      "2024-12-24, 16:04:58",
+      "https://news.ycombinator.com/item?id=42502768"
+    ],
+    [
+      "Return to NSA's Menwith Hill with 60 Minutes (2000)",
+      "https://cryptome.org/menwith-mn60.htm"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 12:37:45",
       "https://news.ycombinator.com/item?id=42501532"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-12-23, 15:19:08",
-      "https://news.ycombinator.com/item?id=42494997"
-    ],
-    [
-      "Show HN: Keypub.sh – OAuth for the terminal using SSH keys",
-      "https://keypub.sh/"
-    ]
-  ],
-  [
-    [
       "2024-12-23, 13:10:15",
       "https://news.ycombinator.com/item?id=42494127"
     ],
@@ -221,22 +241,22 @@
   ],
   [
     [
+      "2024-12-23, 09:15:27",
+      "https://news.ycombinator.com/item?id=42493027"
+    ],
+    [
+      "What would it take to add refinement types to Rust?",
+      "https://yoric.github.io/post/rust-refinement-types/"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 07:23:28",
       "https://news.ycombinator.com/item?id=42492508"
     ],
     [
       "Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?",
       "https://news.ycombinator.com/item?id=42492508"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 14:01:06",
-      "https://news.ycombinator.com/item?id=42486356"
-    ],
-    [
-      "AI Decodes the Calls of the Wild",
-      "https://www.nature.com/immersive/d41586-024-04050-5/index.html"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Four limitations of Rust's borrow checker",
       "https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 11:51:44",
-      "https://news.ycombinator.com/item?id=42479133"
-    ],
-    [
-      "Exploring an undersea terrain sculpted by glaciers and volcanoes",
-      "https://arstechnica.com/science/2024/12/scientists-explore-frozen-scars-and-fiery-sands-on-the-seafloor/"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 11:27:39",
-      "https://news.ycombinator.com/item?id=42479040"
-    ],
-    [
-      "CLI tool to insert spacers when command output stops",
-      "https://github.com/samwho/spacer"
     ]
   ],
   [
