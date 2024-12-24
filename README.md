@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
-* [2024-12-24, 20:26:21](https://news.ycombinator.com/item?id=42504661) - [Build Your Own AI-Powered Document Chatbot in Minutes with Simple RAG](https://news.ycombinator.com/item?id=42504661)
 * [2024-12-24, 20:01:25](https://news.ycombinator.com/item?id=42504494) - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
 * [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
@@ -17,6 +16,7 @@
 * [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why are cancer guidelines stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 20:29:29](https://news.ycombinator.com/item?id=42497338) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
+* [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial policies beat superhuman Go AIs (2023)](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
