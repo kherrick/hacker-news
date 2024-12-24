@@ -2,7 +2,7 @@
 
 * [2024-12-24, 01:33:31](https://news.ycombinator.com/item?id=42498982) - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
-* [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
+* [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2024-12-23, 23:48:08](https://news.ycombinator.com/item?id=42498514) - [Parsing millions of URLs per Second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
@@ -16,7 +16,6 @@
 * [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ is an absolute blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
-* [2024-12-23, 14:52:21](https://news.ycombinator.com/item?id=42494780) - [Building a replacement 386/486 CMOS battery](https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
 * [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
@@ -28,6 +27,7 @@
 * [2024-12-22, 10:20:39](https://news.ycombinator.com/item?id=42485498) - [The death of Glitch, the birth of Slack](https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/)
 * [2024-12-21, 13:23:24](https://news.ycombinator.com/item?id=42479510) - [Spreadsheets 1/3 – Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:27:39](https://news.ycombinator.com/item?id=42479040) - [CLI tool to insert spacers when command output stops](https://github.com/samwho/spacer)
+* [2024-12-20, 12:59:29](https://news.ycombinator.com/item?id=42470729) - [Tracking Down the Bulgarian Marketplace Scams](https://sy1.sh/posts/2024-19-12-investigation-on-scams/)
 * [2024-12-20, 10:20:17](https://news.ycombinator.com/item?id=42469786) - [New physics SIM trains robots 430k times faster than reality](https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
