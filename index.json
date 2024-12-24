@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-24, 19:53:03",
+      "https://news.ycombinator.com/item?id=42504438"
+    ],
+    [
+      "Operational PGP",
+      "https://gist.github.com/grugq/03167bed45e774551155"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 19:44:57",
       "https://news.ycombinator.com/item?id=42504379"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42504343"
     ],
     [
-      "Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804",
+      "Masks, Smoke, and Mirrors: The story of EgyptAir flight 804",
       "https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Hoarder: Self-hostable bookmark-everything app",
       "https://github.com/hoarder-app/hoarder"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 10:33:26",
-      "https://news.ycombinator.com/item?id=42485536"
-    ],
-    [
-      "Four limitations of Rust's borrow checker",
-      "https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html"
     ]
   ],
   [
