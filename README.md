@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: What if we could recreate your brain?](https://svbrain.xyz/2024/12/20/cerebrum)
-* [2024-12-24, 17:45:05](https://news.ycombinator.com/item?id=42503469) - [El Salvador to Change Bitcoin Law as Part of New IMF Deal: Financial Times](https://www.coindesk.com/policy/2024/12/09/el-salvador-to-change-bitcoin-law-as-part-of-new-imf-deal-financial-times)
 * [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
 * [2024-12-24, 17:26:00](https://news.ycombinator.com/item?id=42503332) - [I sensed anxiety and frustration at NeurIPS'24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
 * [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [The prisoners in Maine working remote jobs](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
@@ -28,6 +27,7 @@
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
 * [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
+* [2024-12-22, 11:20:42](https://news.ycombinator.com/item?id=42485688) - [Suprnova's Founder Speaks: 20 Years, Many Lessons, and a YouTube Empire](https://torrentfreak.com/suprnovas-founder-speaks-20-years-many-lessons-and-a-youtube-empire-241219/)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
 
