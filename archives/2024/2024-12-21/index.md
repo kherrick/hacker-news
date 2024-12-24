@@ -50,3 +50,4 @@
 * [2024-12-21, 03:03:53](https://news.ycombinator.com/item?id=42477226) - [Piezoelectric Generators](https://www.americanpiezo.com/knowledge-center/piezo-theory/generators/)
 * [2024-12-21, 01:49:25](https://news.ycombinator.com/item?id=42476876) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 * [2024-12-21, 01:38:23](https://news.ycombinator.com/item?id=42476828) - [US judge finds Israel's NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/)
+* [2024-12-21, 01:10:34](https://news.ycombinator.com/item?id=42476700) - [Saving Nanocap Speculators from Themselves](https://nyuu.page/essays/solidity/)

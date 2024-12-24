@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-24, 20:01:25](https://news.ycombinator.com/item?id=42504494) - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
 * [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 * [2024-12-24, 19:15:26](https://news.ycombinator.com/item?id=42504164) - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
 * [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
-* [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
 * [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [In Maine, remote jobs give prisoners a lifeline](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
-* [2024-12-24, 03:48:11](https://news.ycombinator.com/item?id=42499599) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 * [2024-12-24, 02:47:47](https://news.ycombinator.com/item?id=42499332) - [Automating the search for artificial life with foundation models](https://sakana.ai/asal/)
 * [2024-12-24, 01:33:31](https://news.ycombinator.com/item?id=42498982) - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
@@ -29,6 +28,7 @@
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 10:33:26](https://news.ycombinator.com/item?id=42485536) - [Four limitations of Rust's borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-22, 05:48:55](https://news.ycombinator.com/item?id=42484628) - [i sensed anxiety and frustration at NeurIPS 24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
+* [2024-12-21, 01:10:34](https://news.ycombinator.com/item?id=42476700) - [Saving Nanocap Speculators from Themselves](https://nyuu.page/essays/solidity/)
 * [2024-12-20, 04:21:50](https://news.ycombinator.com/item?id=42468255) - [More men are addicted to the 'crack cocaine' of the stock market](https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a)
 
 ## [Archives](archives/index.md)
