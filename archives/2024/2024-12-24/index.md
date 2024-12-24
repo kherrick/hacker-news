@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 22:51:23](https://news.ycombinator.com/item?id=42505519) - [Ask HN: Why isn't Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?](https://news.ycombinator.com/item?id=42505519)
 * [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 * [2024-12-24, 22:15:23](https://news.ycombinator.com/item?id=42505313) - [The AI backlash couldn't have come at a better time](https://www.infoworld.com/article/3626533/the-ai-backlash-couldnt-have-come-at-a-better-time.html)
 * [2024-12-24, 21:25:32](https://news.ycombinator.com/item?id=42505038) - [Trying out QvQ – Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
