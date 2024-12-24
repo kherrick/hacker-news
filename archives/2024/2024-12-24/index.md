@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
 * [2024-12-24, 19:26:30](https://news.ycombinator.com/item?id=42504250) - [Nobody goes to New York City anymore. It's too crowded](https://www.natesilver.net/p/nobody-goes-to-new-york-city-anymore)
 * [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: What if we could recreate your brain?](https://svbrain.xyz/2024/12/20/cerebrum)
 * [2024-12-24, 17:58:14](https://news.ycombinator.com/item?id=42503558) - [Apple seeks to defend Google's billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)
