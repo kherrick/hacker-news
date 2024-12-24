@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-24, 20:25:20](https://news.ycombinator.com/item?id=42504657) - [If ChatGPT produces AI-generated code for your app, who does it belong to?](https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/)
-* [2024-12-24, 20:06:42](https://news.ycombinator.com/item?id=42504542) - [London Transport Explained in Nine Graphs](https://www.londoncentric.media/p/london-transport-explained-in-nine-graphs-and-charts)
 * [2024-12-24, 20:01:25](https://news.ycombinator.com/item?id=42504494) - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
 * [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
@@ -15,6 +14,7 @@
 * [2024-12-24, 01:33:31](https://news.ycombinator.com/item?id=42498982) - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
 * [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
+* [2024-12-23, 23:48:08](https://news.ycombinator.com/item?id=42498514) - [Parsing millions of URLs per Second (2023)](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why are cancer guidelines stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
