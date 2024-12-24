@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 09:17:14](https://news.ycombinator.com/item?id=42500704) - [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
+* [2024-12-24, 08:17:54](https://news.ycombinator.com/item?id=42500482) - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
 * [2024-12-24, 08:15:49](https://news.ycombinator.com/item?id=42500475) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
 * [2024-12-24, 07:20:12](https://news.ycombinator.com/item?id=42500244) - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
 * [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
