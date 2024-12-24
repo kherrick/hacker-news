@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-24, 16:26:31](https://news.ycombinator.com/item?id=42502915) - [Charlie Munger's wisdom lives on in LLMs](https://bren.blog/charlie-munger-lives-on-in-llms)
 * [2024-12-24, 16:25:34](https://news.ycombinator.com/item?id=42502910) - [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
 * [2024-12-24, 16:04:58](https://news.ycombinator.com/item?id=42502768) - [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)
+* [2024-12-24, 15:40:28](https://news.ycombinator.com/item?id=42502580) - [Why making friends as an adult is hard](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
