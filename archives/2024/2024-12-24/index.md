@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 08:15:49](https://news.ycombinator.com/item?id=42500475) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+* [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
 * [2024-12-24, 03:48:11](https://news.ycombinator.com/item?id=42499599) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [John Carlos Baez: \"The number pi has an evil twin \"](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 * [2024-12-24, 02:48:56](https://news.ycombinator.com/item?id=42499336) - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)

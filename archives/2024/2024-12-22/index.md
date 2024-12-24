@@ -40,6 +40,7 @@
 * [2024-12-22, 14:44:30](https://news.ycombinator.com/item?id=42486610) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/)
 * [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 13:43:53](https://news.ycombinator.com/item?id=42486248) - [The Sean Carrolls Explain the Universe](https://nautil.us/the-sean-carrolls-explain-the-universe-1171296/)
+* [2024-12-22, 13:16:38](https://news.ycombinator.com/item?id=42486100) - [Show HN: Npflared serveless private NPM registry that you can host for free](https://npflared.thomas-cogez.fr/)
 * [2024-12-22, 13:10:30](https://news.ycombinator.com/item?id=42486070) - [Behind Germany's Political Turmoil, a Stagnating Economy](https://www.nytimes.com/2024/12/17/world/europe/germany-government-collapse-economy.html)
 * [2024-12-22, 12:53:05](https://news.ycombinator.com/item?id=42486020) - [A chart that shows everything that has ever existed](https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything)
 * [2024-12-22, 12:50:44](https://news.ycombinator.com/item?id=42486011) - [ByteDance INFP: The AI That Brings Images to Life](https://pdftranslate.ai/blog/ai-infp)
