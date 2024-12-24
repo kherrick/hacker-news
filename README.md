@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-24, 20:25:20](https://news.ycombinator.com/item?id=42504657) - [If ChatGPT produces AI-generated code for your app, who does it belong to?](https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/)
 * [2024-12-24, 20:01:25](https://news.ycombinator.com/item?id=42504494) - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken)
 * [2024-12-24, 19:44:57](https://news.ycombinator.com/item?id=42504379) - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 * [2024-12-24, 19:15:26](https://news.ycombinator.com/item?id=42504164) - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
 * [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
 * [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [In Maine, remote jobs give prisoners a lifeline](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
+* [2024-12-24, 15:40:28](https://news.ycombinator.com/item?id=42502580) - [Why making friends as an adult is harder](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
 * [2024-12-24, 12:37:45](https://news.ycombinator.com/item?id=42501532) - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 * [2024-12-24, 10:51:39](https://news.ycombinator.com/item?id=42501102) - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
