@@ -71,6 +71,7 @@
 * [2024-12-22, 07:40:31](https://news.ycombinator.com/item?id=42484937) - [Why are we using LLMs as calculators?](https://vickiboykis.com/2024/11/09/why-are-we-using-llms-as-calculators/)
 * [2024-12-22, 07:31:22](https://news.ycombinator.com/item?id=42484911) - [Murder Mystery: GCC Builds Failing After Sbuild Refactoring](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-22, 06:47:19](https://news.ycombinator.com/item?id=42484790) - [Communal Luxury: The Public Bathhouse](https://solar.lowtechmagazine.com/2024/09/communal-luxury-the-public-bathhouse/)
+* [2024-12-22, 05:48:55](https://news.ycombinator.com/item?id=42484628) - [i sensed anxiety and frustration at NeurIPS 24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The Essays of Michel de Montaigne Online](https://hyperessays.net/)
 * [2024-12-22, 05:13:41](https://news.ycombinator.com/item?id=42484513) - [The Most Scathing Book Reviews of 2024](https://lithub.com/the-most-scathing-book-reviews-of-2024/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow Deployment Causes Meetings](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
