@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-24, 12:52:55",
+      "https://news.ycombinator.com/item?id=42501605"
+    ],
+    [
+      "American Airlines Grounds All Flights After \"Technical Issue\"",
+      "https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-24, 12:37:45",
+      "https://news.ycombinator.com/item?id=42501532"
+    ],
+    [
+      "JavaScript Benchmarking Is a Mess",
+      "https://byteofdev.com/posts/javascript-benchmarking-mess/"
+    ]
+  ],
+  [
+    [
+      "2024-12-24, 10:51:39",
+      "https://news.ycombinator.com/item?id=42501102"
+    ],
+    [
+      "Tokyo released point cloud data of the entire city for free",
+      "https://twitter.com/spatiallyjess/status/1871342549958537326"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 10:23:17",
       "https://news.ycombinator.com/item?id=42500969"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-12-23, 15:19:08",
-      "https://news.ycombinator.com/item?id=42494997"
-    ],
-    [
-      "Show HN: Keypub.sh – OAuth for the terminal using SSH keys",
-      "https://keypub.sh/"
-    ]
-  ],
-  [
-    [
       "2024-12-23, 13:03:59",
       "https://news.ycombinator.com/item?id=42494090"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-12-22, 13:16:38",
-      "https://news.ycombinator.com/item?id=42486100"
-    ],
-    [
-      "Show HN: Npflared serveless private NPM registry that you can host for free",
-      "https://npflared.thomas-cogez.fr/"
-    ]
-  ],
-  [
-    [
       "2024-12-22, 11:34:17",
       "https://news.ycombinator.com/item?id=42485746"
     ],
@@ -287,16 +297,6 @@
     [
       "Four limitations of Rust's borrow checker",
       "https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 16:47:51",
-      "https://news.ycombinator.com/item?id=42463253"
-    ],
-    [
-      "Happy 400th birthday to the world’s oldest bond",
-      "https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9"
     ]
   ]
 ]
