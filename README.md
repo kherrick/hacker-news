@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-24, 09:17:14](https://news.ycombinator.com/item?id=42500704) - [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
+* [2024-12-24, 10:23:17](https://news.ycombinator.com/item?id=42500969) - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
 * [2024-12-24, 08:17:54](https://news.ycombinator.com/item?id=42500482) - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
 * [2024-12-24, 08:15:49](https://news.ycombinator.com/item?id=42500475) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
 * [2024-12-24, 07:20:12](https://news.ycombinator.com/item?id=42500244) - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
@@ -28,7 +28,7 @@
 * [2024-12-22, 14:01:06](https://news.ycombinator.com/item?id=42486356) - [AI Decodes the Calls of the Wild](https://www.nature.com/immersive/d41586-024-04050-5/index.html)
 * [2024-12-22, 13:16:38](https://news.ycombinator.com/item?id=42486100) - [Show HN: Npflared serveless private NPM registry that you can host for free](https://npflared.thomas-cogez.fr/)
 * [2024-12-22, 13:14:53](https://news.ycombinator.com/item?id=42486094) - [How Bad Is Link Rot at Brain Baking?](https://brainbaking.com/post/2024/12/how-bad-is-link-rot-at-brain-baking/)
-* [2024-12-21, 13:23:24](https://news.ycombinator.com/item?id=42479510) - [Spreadsheets 1/3 – Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
+* [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-19, 16:47:51](https://news.ycombinator.com/item?id=42463253) - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
 
 ## [Archives](archives/index.md)

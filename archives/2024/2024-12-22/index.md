@@ -49,6 +49,7 @@
 * [2024-12-22, 12:29:33](https://news.ycombinator.com/item?id=42485938) - [GPT-5 is behind schedule](https://www.msn.com/en-us/money/other/the-next-great-leap-in-ai-is-behind-schedule-and-crazy-expensive/ar-AA1wfMCB)
 * [2024-12-22, 11:49:18](https://news.ycombinator.com/item?id=42485797) - [Telling Stories in Athenian Law [pdf] (2002)](https://classicalstudies.org/sites/default/files/documents/Gagarin.pdf)
 * [2024-12-22, 11:49:12](https://news.ycombinator.com/item?id=42485795) - [Decoding the telephony signals in Pink Floyd's 'The Wall'](https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html)
+* [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 11:21:04](https://news.ycombinator.com/item?id=42485689) - [Stopping by Woods on a Snowy Evening](https://poets.org/poem/stopping-woods-snowy-evening)
 * [2024-12-22, 11:09:54](https://news.ycombinator.com/item?id=42485647) - [Ask HN: How do you improve your writing?](https://news.ycombinator.com/item?id=42485647)
 * [2024-12-22, 10:40:36](https://news.ycombinator.com/item?id=42485562) - [One Surprising Psychosis Treatment That Works: Learning to Live with the Voices](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7)
