@@ -47,6 +47,7 @@
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 * [2024-12-23, 08:15:48](https://news.ycombinator.com/item?id=42492753) - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
+* [2024-12-23, 07:01:04](https://news.ycombinator.com/item?id=42492405) - [Ask HN: Have you ever taken a career break or gap year to hack?](https://news.ycombinator.com/item?id=42492405)
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
 * [2024-12-23, 03:08:20](https://news.ycombinator.com/item?id=42491383) - [AI does not exist but it will ruin everything anyway [video]](https://www.youtube.com/watch?v=EUrOxh_0leE)
 * [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
