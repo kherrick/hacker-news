@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: What if we could recreate your brain?](https://svbrain.xyz/2024/12/20/cerebrum)
 * [2024-12-24, 17:58:14](https://news.ycombinator.com/item?id=42503558) - [Apple seeks to defend Google's billion-dollar payments in search case](https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/)
 * [2024-12-24, 17:52:06](https://news.ycombinator.com/item?id=42503519) - [AIs Will Increasingly Fake Alignment](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment)
 * [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
@@ -17,7 +18,6 @@
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why are cancer guidelines stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
 * [2024-12-23, 20:03:37](https://news.ycombinator.com/item?id=42497173) - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
 * [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
-* [2024-12-23, 17:18:17](https://news.ycombinator.com/item?id=42495936) - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
