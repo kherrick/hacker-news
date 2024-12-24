@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-24, 12:52:55",
-      "https://news.ycombinator.com/item?id=42501605"
+      "2024-12-24, 13:58:45",
+      "https://news.ycombinator.com/item?id=42501922"
     ],
     [
-      "American Airlines is boarding flights again after nationwide groundstop",
-      "https://www.cnn.com/2024/12/24/business/american-airlines-delays-cancellations/index.html"
+      "Open source maintainers are drowning in junk bug reports written by AI",
+      "https://www.theregister.com/2024/12/10/ai_slop_bug_reports/"
     ]
   ],
   [
@@ -27,26 +27,6 @@
     [
       "Tokyo released point cloud data of the entire city for free",
       "https://twitter.com/spatiallyjess/status/1871342549958537326"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 08:17:54",
-      "https://news.ycombinator.com/item?id=42500482"
-    ],
-    [
-      "Intel shareholders file case asking ex CEO, CFO to return 3 years of salary",
-      "https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 08:15:49",
-      "https://news.ycombinator.com/item?id=42500475"
-    ],
-    [
-      "38th Chaos Communication Congress",
-      "https://events.ccc.de/congress/2024/infos/index.html"
     ]
   ],
   [
@@ -191,22 +171,12 @@
   ],
   [
     [
-      "2024-12-23, 15:30:35",
-      "https://news.ycombinator.com/item?id=42495077"
+      "2024-12-23, 15:19:08",
+      "https://news.ycombinator.com/item?id=42494997"
     ],
     [
-      "Fogus: Things and Stuff of 2024",
-      "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-23, 14:47:56",
-      "https://news.ycombinator.com/item?id=42494746"
-    ],
-    [
-      "Commercial tea bags release microplastics, entering human cells",
-      "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html"
+      "Show HN: Keypub.sh – OAuth for the terminal using SSH keys",
+      "https://keypub.sh/"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2024-12-22, 14:01:06",
+      "https://news.ycombinator.com/item?id=42486356"
+    ],
+    [
+      "AI Decodes the Calls of the Wild",
+      "https://www.nature.com/immersive/d41586-024-04050-5/index.html"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 11:34:17",
       "https://news.ycombinator.com/item?id=42485746"
     ],
@@ -297,6 +277,26 @@
     [
       "Exploring an undersea terrain sculpted by glaciers and volcanoes",
       "https://arstechnica.com/science/2024/12/scientists-explore-frozen-scars-and-fiery-sands-on-the-seafloor/"
+    ]
+  ],
+  [
+    [
+      "2024-12-21, 11:27:39",
+      "https://news.ycombinator.com/item?id=42479040"
+    ],
+    [
+      "CLI tool to insert spacers when command output stops",
+      "https://github.com/samwho/spacer"
+    ]
+  ],
+  [
+    [
+      "2024-12-19, 16:47:51",
+      "https://news.ycombinator.com/item?id=42463253"
+    ],
+    [
+      "Happy 400th birthday to the world’s oldest bond",
+      "https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9"
     ]
   ]
 ]
