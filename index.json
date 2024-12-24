@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-24, 03:48:11",
+      "https://news.ycombinator.com/item?id=42499599"
+    ],
+    [
+      "Symbolic Execution by Overloading __bool__",
+      "https://www.philipzucker.com/overload_bool/"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 03:41:22",
       "https://news.ycombinator.com/item?id=42499567"
     ],
@@ -117,16 +127,6 @@
     [
       "Narrative Jailbreaking for Fun and Profit",
       "https://interconnected.org/home/2024/12/23/jailbreaking"
-    ]
-  ],
-  [
-    [
-      "2024-12-23, 18:24:09",
-      "https://news.ycombinator.com/item?id=42496465"
-    ],
-    [
-      "Why HNSW is not the answer and disk-based alternatives might be more practical",
-      "https://blog.pgvecto.rs/why-hnsw-is-not-the-answer"
     ]
   ],
   [
