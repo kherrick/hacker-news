@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 16:19:01](https://news.ycombinator.com/item?id=42509492) - [South Korea's population faces point of no return](https://www.newsweek.com/south-korea-news-population-faces-point-no-return-2005918)
 * [2024-12-25, 16:04:33](https://news.ycombinator.com/item?id=42509408) - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
 * [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
+* [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 * [2024-12-25, 13:00:21](https://news.ycombinator.com/item?id=42508587) - [Ask HN: Practical Tips to Stay Productive?](https://news.ycombinator.com/item?id=42508587)
 * [2024-12-25, 10:33:11](https://news.ycombinator.com/item?id=42508087) - [Ask HN: What is the best thing you read in 2024?](https://news.ycombinator.com/item?id=42508087)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)

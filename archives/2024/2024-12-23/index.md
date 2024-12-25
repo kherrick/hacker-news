@@ -47,6 +47,7 @@
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 * [2024-12-23, 12:38:28](https://news.ycombinator.com/item?id=42493973) - [Scientists observe 'negative time' in quantum experiments](https://phys.org/news/2024-12-scientists-negative-quantum.html)
+* [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
 * [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [E.W.Dijkstra: Simplicity is a great virtue ... complexity sells better.](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
