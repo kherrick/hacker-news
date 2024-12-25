@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
+* [2024-12-25, 21:25:13](https://news.ycombinator.com/item?id=42511267) - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
 * [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
@@ -18,7 +20,6 @@
 * [2024-12-23, 15:24:34](https://news.ycombinator.com/item?id=42495037) - [What was the Golden Age of Antibiotics, and how can we spark a new one?](https://ourworldindata.org/golden-age-antibiotics)
 * [2024-12-23, 14:17:51](https://news.ycombinator.com/item?id=42494512) - [The software you need for holiday overdecoration](https://www.dbos.dev/blog/ezrgb-dbos-light-shows)
 * [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
-* [2024-12-23, 13:29:33](https://news.ycombinator.com/item?id=42494240) - [Managing Data Corruption in the Cloud](https://www.mongodb.com/blog/post/managing-data-corruption-in-the-cloud)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial policies beat superhuman Go AIs (2023)](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
@@ -28,7 +29,6 @@
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
 * [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
-* [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
 ## [Archives](archives/index.md)
