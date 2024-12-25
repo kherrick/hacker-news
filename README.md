@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-25, 17:32:59](https://news.ycombinator.com/item?id=42509890) - [Mullvad Review of 2024](https://mullvad.net/en/blog/mullvad-review-of-2024)
-* [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
+* [2024-12-25, 17:15:32](https://news.ycombinator.com/item?id=42509813) - [Spoiler Alert: 'Star Trek: Discovery' Officially Erased from Canon](https://cosmicbook.news/star-trek-discovery-erased-canon)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 * [2024-12-25, 13:58:29](https://news.ycombinator.com/item?id=42508789) - [Ants vs. Humans: Putting Group Smarts to the Test](https://wis-wander.weizmann.ac.il/space-physics/ants-vs-humans-putting-group-smarts-test)
