@@ -35,6 +35,7 @@
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 14:56:33](https://news.ycombinator.com/item?id=42494809) - [Good cities can't exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)
 * [2024-12-23, 14:52:21](https://news.ycombinator.com/item?id=42494780) - [Building a replacement 386/486 CMOS battery](https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/)
+* [2024-12-23, 14:51:08](https://news.ycombinator.com/item?id=42494773) - [Earth's subsurface may hold up to 5.6 × 10⁶ million metric tons of hydrogen](https://phys.org/news/2024-12-earth-subsurface-million-metric-tons.html)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
 * [2024-12-23, 14:46:09](https://news.ycombinator.com/item?id=42494733) - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
 * [2024-12-23, 14:45:10](https://news.ycombinator.com/item?id=42494723) - [Will that hub or dock slow your SSDs, or even make them faster?](https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/)
