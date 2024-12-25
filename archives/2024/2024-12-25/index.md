@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 05:18:26](https://news.ycombinator.com/item?id=42507016) - [Ask HN: What Motivates you to keep going?](https://news.ycombinator.com/item?id=42507016)
+* [2024-12-25, 05:09:12](https://news.ycombinator.com/item?id=42506989) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 * [2024-12-25, 02:38:46](https://news.ycombinator.com/item?id=42506478) - [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)

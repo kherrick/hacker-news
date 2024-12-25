@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 05:18:26](https://news.ycombinator.com/item?id=42507016) - [Ask HN: What Motivates you to keep going?](https://news.ycombinator.com/item?id=42507016)
+* [2024-12-25, 05:09:12](https://news.ycombinator.com/item?id=42506989) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 * [2024-12-25, 01:49:07](https://news.ycombinator.com/item?id=42506289) - [A Taping of 'Curb Your Enthusiasm' Saved an Innocent Man from Death Row (2017)](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
 * [2024-12-25, 01:26:29](https://news.ycombinator.com/item?id=42506211) - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
 * [2024-12-25, 01:07:22](https://news.ycombinator.com/item?id=42506145) - [T * sin (t)' ≈ Ornamented Christmas Tree (2013)](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
 * [2024-12-25, 00:41:36](https://news.ycombinator.com/item?id=42506041) - [A pilot raced through the airport to surprise the woman who saved his life](https://www.cnn.com/2024/12/21/travel/united-pilot-reunites-bone-marrow-donor/index.html)
-* [2024-12-25, 00:14:52](https://news.ycombinator.com/item?id=42505937) - [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
 * [2024-12-24, 22:55:14](https://news.ycombinator.com/item?id=42505542) - [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
 * [2024-12-24, 22:42:41](https://news.ycombinator.com/item?id=42505475) - [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
@@ -28,8 +29,7 @@
 * [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
-* [2024-12-22, 05:48:55](https://news.ycombinator.com/item?id=42484628) - [I sensed anxiety and frustration at NeurIPS 24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
-* [2024-12-22, 01:45:23](https://news.ycombinator.com/item?id=42483836) - [Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]](https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf)
+* [2024-12-22, 05:41:21](https://news.ycombinator.com/item?id=42484603) - [Voices from the Dead Letter Office](https://harpers.org/archive/2025/01/voices-from-the-dead-letter-office-cynthia-ozick-epistolary-life/)
 
 ## [Archives](archives/index.md)
 
