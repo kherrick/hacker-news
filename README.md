@@ -3,6 +3,7 @@
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:49:24](https://news.ycombinator.com/item?id=42507134) - [News for Ruby 3.4.0](https://docs.ruby-lang.org/en/master/NEWS_md.html)
+* [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 * [2024-12-25, 01:49:07](https://news.ycombinator.com/item?id=42506289) - [A Taping of 'Curb Your Enthusiasm' Saved an Innocent Man from Death Row (2017)](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
@@ -16,8 +17,8 @@
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
+* [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2024-12-23, 20:29:29](https://news.ycombinator.com/item?id=42497338) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
-* [2024-12-23, 19:49:34](https://news.ycombinator.com/item?id=42497093) - [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 * [2024-12-23, 14:51:08](https://news.ycombinator.com/item?id=42494773) - [Earth's subsurface may hold up to 5.6 × 10⁶ million metric tons of hydrogen](https://phys.org/news/2024-12-earth-subsurface-million-metric-tons.html)
 * [2024-12-23, 14:45:10](https://news.ycombinator.com/item?id=42494723) - [Will that hub or dock slow your SSDs, or even make them faster?](https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/)
 * [2024-12-23, 13:38:09](https://news.ycombinator.com/item?id=42494293) - [Camera Ignores Perspective and Sees Behind Walls](https://petapixel.com/2024/12/09/this-incredible-camera-ignores-perspective-and-sees-behind-walls/)
@@ -29,7 +30,6 @@
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
-* [2024-12-22, 01:45:23](https://news.ycombinator.com/item?id=42483836) - [Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]](https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf)
 
 ## [Archives](archives/index.md)
 
