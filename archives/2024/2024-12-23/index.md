@@ -45,6 +45,7 @@
 * [2024-12-23, 13:38:09](https://news.ycombinator.com/item?id=42494293) - [Camera Ignores Perspective and Sees Behind Walls](https://petapixel.com/2024/12/09/this-incredible-camera-ignores-perspective-and-sees-behind-walls/)
 * [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 * [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
+* [2024-12-23, 13:29:33](https://news.ycombinator.com/item?id=42494240) - [Managing Data Corruption in the Cloud](https://www.mongodb.com/blog/post/managing-data-corruption-in-the-cloud)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 13:03:59](https://news.ycombinator.com/item?id=42494090) - [My Colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 12:57:45](https://news.ycombinator.com/item?id=42494067) - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
