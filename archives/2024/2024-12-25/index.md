@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
 * [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
+* [2024-12-25, 13:00:21](https://news.ycombinator.com/item?id=42508587) - [Ask HN: Practical Tips to Stay Productive?](https://news.ycombinator.com/item?id=42508587)
 * [2024-12-25, 10:33:11](https://news.ycombinator.com/item?id=42508087) - [Ask HN: What is the best thing you read in 2024?](https://news.ycombinator.com/item?id=42508087)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
+* [2024-12-25, 13:00:21](https://news.ycombinator.com/item?id=42508587) - [Ask HN: Practical Tips to Stay Productive?](https://news.ycombinator.com/item?id=42508587)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
@@ -9,7 +10,6 @@
 * [2024-12-25, 01:26:29](https://news.ycombinator.com/item?id=42506211) - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
 * [2024-12-25, 01:07:22](https://news.ycombinator.com/item?id=42506145) - [T * sin (t)' ≈ Ornamented Christmas Tree (2013)](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
 * [2024-12-25, 00:41:36](https://news.ycombinator.com/item?id=42506041) - [A pilot raced through the airport to surprise the woman who saved his life](https://www.cnn.com/2024/12/21/travel/united-pilot-reunites-bone-marrow-donor/index.html)
-* [2024-12-24, 22:55:14](https://news.ycombinator.com/item?id=42505542) - [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
 * [2024-12-24, 22:42:41](https://news.ycombinator.com/item?id=42505475) - [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 * [2024-12-24, 21:25:32](https://news.ycombinator.com/item?id=42505038) - [Trying out QvQ – Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
