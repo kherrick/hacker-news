@@ -14,3 +14,4 @@
 * [2024-12-25, 01:07:22](https://news.ycombinator.com/item?id=42506145) - [T * sin (t)' ≈ Ornamented Christmas Tree (2013)](https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201)
 * [2024-12-25, 00:41:36](https://news.ycombinator.com/item?id=42506041) - [A pilot raced through the airport to surprise the woman who saved his life](https://www.cnn.com/2024/12/21/travel/united-pilot-reunites-bone-marrow-donor/index.html)
 * [2024-12-25, 00:14:52](https://news.ycombinator.com/item?id=42505937) - [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
+* [2024-12-25, 00:03:05](https://news.ycombinator.com/item?id=42505879) - [ScyllaDB no longer open source](https://forum.scylladb.com/t/scylladb-source-available-licensing/4214)
