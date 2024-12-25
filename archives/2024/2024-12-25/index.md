@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-25](index.md)
+
+* [2024-12-25, 00:14:52](https://news.ycombinator.com/item?id=42505937) - [Brazilian velvet ant is ultrablack](https://www.nytimes.com/2024/12/17/science/ultrablack-velvet-ant-brazil.html)
