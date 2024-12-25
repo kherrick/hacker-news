@@ -48,6 +48,7 @@
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
 * [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [E.W.Dijkstra: Simplicity is a great virtue ... complexity sells better.](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
 * [2024-12-23, 12:01:17](https://news.ycombinator.com/item?id=42493797) - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
+* [2024-12-23, 11:39:17](https://news.ycombinator.com/item?id=42493688) - [Spectral Imaging Made Easy: A Powerful Python Library](https://github.com/siapy/siapy-lib)
 * [2024-12-23, 11:34:40](https://news.ycombinator.com/item?id=42493664) - [Coke, PepsiCo Lobby to Keep Sugary Sodas in Food-Stamp Program](https://www.wsj.com/politics/policy/rfk-jr-soda-snap-food-stamps-coke-pepsi-9bd9a872)
 * [2024-12-23, 11:09:27](https://news.ycombinator.com/item?id=42493544) - [Physicists measure quantum geometry for first time](https://phys.org/news/2024-12-physicists-quantum-geometry.html)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
