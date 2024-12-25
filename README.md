@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 23:06:37](https://news.ycombinator.com/item?id=42511812) - [Hertz Desperate to Unload Tesla Inventory, Asking Customers to Buy Rentals](https://jalopnik.com/hertz-is-so-desperate-to-unload-tesla-inventory-its-cus-1851727725)
 * [2024-12-25, 21:54:14](https://news.ycombinator.com/item?id=42511426) - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
 * [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 * [2024-12-25, 21:25:13](https://news.ycombinator.com/item?id=42511267) - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
@@ -7,7 +8,6 @@
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for general purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
-* [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 * [2024-12-25, 16:04:33](https://news.ycombinator.com/item?id=42509408) - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
 * [2024-12-25, 13:58:29](https://news.ycombinator.com/item?id=42508789) - [Ants vs. Humans: Putting Group Smarts to the Test](https://wis-wander.weizmann.ac.il/space-physics/ants-vs-humans-putting-group-smarts-test)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
