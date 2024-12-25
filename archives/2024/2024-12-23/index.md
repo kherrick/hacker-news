@@ -37,6 +37,7 @@
 * [2024-12-23, 14:52:21](https://news.ycombinator.com/item?id=42494780) - [Building a replacement 386/486 CMOS battery](https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/)
 * [2024-12-23, 14:47:56](https://news.ycombinator.com/item?id=42494746) - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
 * [2024-12-23, 14:46:09](https://news.ycombinator.com/item?id=42494733) - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
+* [2024-12-23, 14:45:10](https://news.ycombinator.com/item?id=42494723) - [Will that hub or dock slow your SSDs, or even make them faster?](https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/)
 * [2024-12-23, 14:22:21](https://news.ycombinator.com/item?id=42494553) - [Subchannel Stations: The Radio Broadcasts You Didn't Know Were There](https://hackaday.com/2024/12/20/subchannel-stations-the-radio-broadcasts-you-didnt-know-were-there/)
 * [2024-12-23, 13:37:13](https://news.ycombinator.com/item?id=42494291) - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
