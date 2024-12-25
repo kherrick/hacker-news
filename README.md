@@ -23,7 +23,7 @@
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
 * [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [On the nature of computing science (1984)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
 * [2024-12-23, 11:39:17](https://news.ycombinator.com/item?id=42493688) - [Spectral Imaging Made Easy: A Powerful Python Library](https://github.com/siapy/siapy-lib)
-* [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
+* [2024-12-23, 10:43:57](https://news.ycombinator.com/item?id=42493432) - [Navtive FlameGraphViewer](https://laladrik.xyz/blog/flameGraphViewer/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-22, 22:37:40](https://news.ycombinator.com/item?id=42489777) - [Giant sloths and mastodons lived with humans for millennia in the Americas](https://phys.org/news/2024-12-giant-sloths-mastodons-coexisted-humans.html)
 * [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
