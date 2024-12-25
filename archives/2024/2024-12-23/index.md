@@ -76,4 +76,5 @@
 * [2024-12-23, 01:43:03](https://news.ycombinator.com/item?id=42490948) - [New Google Sheet on half of 13.6\" MacBook Air screen is fully covered by popups](https://imgur.com/a/NQskWzI)
 * [2024-12-23, 01:29:19](https://news.ycombinator.com/item?id=42490872) - [Has anyone else noticed Reddit being taken over by shills/bot/trolls](https://news.ycombinator.com/item?id=42490872)
 * [2024-12-23, 00:26:59](https://news.ycombinator.com/item?id=42490453) - ['United Healthcare' Using DMCA Against Luigi Mangione Images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/)
+* [2024-12-23, 00:25:40](https://news.ycombinator.com/item?id=42490443) - [Better Scala Builds with the Mill Build Tool, Functional Scala Online 2024 [video]](https://www.youtube.com/watch?v=igarEERjUuQ)
 * [2024-12-23, 00:08:06](https://news.ycombinator.com/item?id=42490343) - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
