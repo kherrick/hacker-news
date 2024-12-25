@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-25, 05:18:26](https://news.ycombinator.com/item?id=42507016) - [Ask HN: What Motivates you to keep going?](https://news.ycombinator.com/item?id=42507016)
 * [2024-12-25, 05:09:12](https://news.ycombinator.com/item?id=42506989) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
@@ -30,6 +29,7 @@
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 05:41:21](https://news.ycombinator.com/item?id=42484603) - [Voices from the Dead Letter Office](https://harpers.org/archive/2025/01/voices-from-the-dead-letter-office-cynthia-ozick-epistolary-life/)
+* [2024-12-22, 01:45:23](https://news.ycombinator.com/item?id=42483836) - [Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]](https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf)
 
 ## [Archives](archives/index.md)
 
