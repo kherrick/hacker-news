@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
@@ -10,6 +9,7 @@
 * [2024-12-24, 22:38:40](https://news.ycombinator.com/item?id=42505454) - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
+* [2024-12-24, 18:14:19](https://news.ycombinator.com/item?id=42503696) - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
 * [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
