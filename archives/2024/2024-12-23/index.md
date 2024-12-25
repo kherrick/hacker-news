@@ -63,6 +63,7 @@
 * [2024-12-23, 07:22:56](https://news.ycombinator.com/item?id=42492506) - [The fair dreamed up by art legends – unsealed after 44 years](https://www.bbc.co.uk/news/articles/cly4q9d5vx8o)
 * [2024-12-23, 07:01:04](https://news.ycombinator.com/item?id=42492405) - [Ask HN: Have you ever taken a career break or gap year to hack?](https://news.ycombinator.com/item?id=42492405)
 * [2024-12-23, 05:16:27](https://news.ycombinator.com/item?id=42491979) - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
+* [2024-12-23, 03:41:28](https://news.ycombinator.com/item?id=42491531) - [OKRs for Evil and Good](https://jessitron.com/2024/12/22/okrs-for-evil-and-good/)
 * [2024-12-23, 03:08:20](https://news.ycombinator.com/item?id=42491383) - [AI does not exist but it will ruin everything anyway [video]](https://www.youtube.com/watch?v=EUrOxh_0leE)
 * [2024-12-23, 02:32:21](https://news.ycombinator.com/item?id=42491196) - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
 * [2024-12-23, 02:26:06](https://news.ycombinator.com/item?id=42491172) - [Ten Years of JMAP](https://www.fastmail.com/blog/ten-years-of-jmap/)
