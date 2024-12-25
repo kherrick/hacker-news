@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-25, 21:35:55",
+      "https://news.ycombinator.com/item?id=42511318"
+    ],
+    [
+      "Server-Sent Events (SSE) Are Underrated",
+      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 21:25:13",
+      "https://news.ycombinator.com/item?id=42511267"
+    ],
+    [
+      "Air missile accident emerges as probable cause of Azerbaijan E190tragedy",
+      "https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 19:43:10",
       "https://news.ycombinator.com/item?id=42510696"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-12-23, 13:29:33",
-      "https://news.ycombinator.com/item?id=42494240"
-    ],
-    [
-      "Managing Data Corruption in the Cloud",
-      "https://www.mongodb.com/blog/post/managing-data-corruption-in-the-cloud"
-    ]
-  ],
-  [
-    [
       "2024-12-23, 13:10:15",
       "https://news.ycombinator.com/item?id=42494127"
     ],
@@ -277,16 +287,6 @@
     [
       "Unforgeable Quantum Tokens Delivered over Fiber Network",
       "https://spectrum.ieee.org/quantum-tokens"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 11:34:17",
-      "https://news.ycombinator.com/item?id=42485746"
-    ],
-    [
-      "Hoarder: Self-hostable bookmark-everything app",
-      "https://github.com/hoarder-app/hoarder"
     ]
   ],
   [
