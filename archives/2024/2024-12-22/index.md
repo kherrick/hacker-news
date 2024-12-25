@@ -12,6 +12,7 @@
 * [2024-12-22, 21:39:39](https://news.ycombinator.com/item?id=42489353) - [Whither Dashboard Design?](https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/)
 * [2024-12-22, 21:31:42](https://news.ycombinator.com/item?id=42489305) - [T2 24.12 \"Sky's the Limit \" – 37 ISOs for 25 CPU ISAs](https://t2sde.org/#news-2024-12-19)
 * [2024-12-22, 21:27:14](https://news.ycombinator.com/item?id=42489267) - [ChatGPT O3 Preview Announcement](https://openai.com/12-days/)
+* [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
 * [2024-12-22, 21:03:49](https://news.ycombinator.com/item?id=42489080) - [Apple must ensure interoperability of iPhone with rivals, says EU](https://www.euronews.com/next/2024/12/19/apple-must-ensure-interoperability-of-iphone-with-rivals-says-european-commission)
 * [2024-12-22, 21:02:34](https://news.ycombinator.com/item?id=42489072) - [German watchdog orders Sam Altman's biometric ID project World to delete data](https://www.euronews.com/next/2024/12/19/german-watchdog-orders-sam-altmans-biometric-id-project-world-to-delete-data)
 * [2024-12-22, 21:01:49](https://news.ycombinator.com/item?id=42489065) - [Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24)
