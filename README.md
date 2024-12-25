@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 23:24:03](https://news.ycombinator.com/item?id=42511914) - [Luigi Mangione Prosecutors Have a Jury Problem: 'So Much Sympathy'](https://www.newsweek.com/luigi-mangione-jury-sympathy-former-prosecutor-alvin-bragg-terrorism-new-york-brian-thompson-2002626)
 * [2024-12-25, 23:06:37](https://news.ycombinator.com/item?id=42511812) - [Hertz Desperate to Unload Tesla Inventory, Asking Customers to Buy Rentals](https://jalopnik.com/hertz-is-so-desperate-to-unload-tesla-inventory-its-cus-1851727725)
 * [2024-12-25, 21:54:14](https://news.ycombinator.com/item?id=42511426) - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
 * [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
@@ -27,7 +28,6 @@
 * [2024-12-23, 00:25:40](https://news.ycombinator.com/item?id=42490443) - [Better Scala Builds with the Mill Build Tool, Functional Scala Online 2024 [video]](https://www.youtube.com/watch?v=igarEERjUuQ)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
-* [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
