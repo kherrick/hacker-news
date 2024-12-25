@@ -52,6 +52,7 @@
 * [2024-12-23, 11:09:27](https://news.ycombinator.com/item?id=42493544) - [Physicists measure quantum geometry for first time](https://phys.org/news/2024-12-physicists-quantum-geometry.html)
 * [2024-12-23, 10:50:30](https://news.ycombinator.com/item?id=42493464) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-23, 10:16:33](https://news.ycombinator.com/item?id=42493312) - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
+* [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-23, 08:15:48](https://news.ycombinator.com/item?id=42492753) - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 * [2024-12-23, 07:23:28](https://news.ycombinator.com/item?id=42492508) - [Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](https://news.ycombinator.com/item?id=42492508)
