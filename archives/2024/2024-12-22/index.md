@@ -78,6 +78,7 @@
 * [2024-12-22, 05:16:37](https://news.ycombinator.com/item?id=42484527) - [The Essays of Michel de Montaigne Online](https://hyperessays.net/)
 * [2024-12-22, 05:13:41](https://news.ycombinator.com/item?id=42484513) - [The Most Scathing Book Reviews of 2024](https://lithub.com/the-most-scathing-book-reviews-of-2024/)
 * [2024-12-22, 03:12:23](https://news.ycombinator.com/item?id=42484139) - [Slow Deployment Causes Meetings](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
+* [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 * [2024-12-22, 02:01:51](https://news.ycombinator.com/item?id=42483895) - [Rosetta 2 creator leaves Apple to work on Lean full-time](https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x)
 * [2024-12-22, 01:45:23](https://news.ycombinator.com/item?id=42483836) - [Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]](https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf)
 * [2024-12-22, 00:41:27](https://news.ycombinator.com/item?id=42483543) - [Show HN: GitHub-assistant – Natural language questions from your GitHub data](https://github.com/reltadev/github-assistant)
