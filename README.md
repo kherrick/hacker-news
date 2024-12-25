@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-25, 17:20:27](https://news.ycombinator.com/item?id=42509828) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
+* [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
+* [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
@@ -21,7 +22,6 @@
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial policies beat superhuman Go AIs (2023)](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
-* [2024-12-23, 11:39:17](https://news.ycombinator.com/item?id=42493688) - [Spectral Imaging Made Easy: A Powerful Python Library](https://github.com/siapy/siapy-lib)
 * [2024-12-23, 10:43:57](https://news.ycombinator.com/item?id=42493432) - [Navtive FlameGraphViewer](https://laladrik.xyz/blog/flameGraphViewer/)
 * [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 * [2024-12-22, 22:37:40](https://news.ycombinator.com/item?id=42489777) - [Giant sloths and mastodons lived with humans for millennia in the Americas](https://phys.org/news/2024-12-giant-sloths-mastodons-coexisted-humans.html)

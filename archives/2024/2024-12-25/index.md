@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
+* [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:32:59](https://news.ycombinator.com/item?id=42509890) - [Mullvad Review of 2024](https://mullvad.net/en/blog/mullvad-review-of-2024)
 * [2024-12-25, 17:20:27](https://news.ycombinator.com/item?id=42509828) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
 * [2024-12-25, 17:15:32](https://news.ycombinator.com/item?id=42509813) - [Spoiler Alert: 'Star Trek: Discovery' Officially Erased from Canon](https://cosmicbook.news/star-trek-discovery-erased-canon)
