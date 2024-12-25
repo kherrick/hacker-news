@@ -32,6 +32,7 @@
 * [2024-12-23, 15:53:48](https://news.ycombinator.com/item?id=42495262) - [A Life-Saving Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 * [2024-12-23, 15:37:20](https://news.ycombinator.com/item?id=42495135) - [C++ Is an Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:35](https://news.ycombinator.com/item?id=42495077) - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
+* [2024-12-23, 15:24:34](https://news.ycombinator.com/item?id=42495037) - [What was the Golden Age of Antibiotics, and how can we spark a new one?](https://ourworldindata.org/golden-age-antibiotics)
 * [2024-12-23, 15:19:08](https://news.ycombinator.com/item?id=42494997) - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
 * [2024-12-23, 14:56:33](https://news.ycombinator.com/item?id=42494809) - [Good cities can't exist without public order](https://www.noahpinion.blog/p/good-cities-cant-exist-without-public)
 * [2024-12-23, 14:52:21](https://news.ycombinator.com/item?id=42494780) - [Building a replacement 386/486 CMOS battery](https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/)
