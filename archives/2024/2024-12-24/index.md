@@ -30,6 +30,7 @@
 * [2024-12-24, 16:26:31](https://news.ycombinator.com/item?id=42502915) - [Charlie Munger's wisdom lives on in LLMs](https://bren.blog/charlie-munger-lives-on-in-llms)
 * [2024-12-24, 16:25:34](https://news.ycombinator.com/item?id=42502910) - [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
 * [2024-12-24, 16:04:58](https://news.ycombinator.com/item?id=42502768) - [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)
+* [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
 * [2024-12-24, 15:40:28](https://news.ycombinator.com/item?id=42502580) - [Why making friends as an adult is hard](https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever)
 * [2024-12-24, 14:49:37](https://news.ycombinator.com/item?id=42502236) - [New research suggests that Walmart makes the communities it operates in poorer](https://www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/)
 * [2024-12-24, 13:58:45](https://news.ycombinator.com/item?id=42501922) - [Open source maintainers are drowning in junk bug reports written by AI](https://www.theregister.com/2024/12/10/ai_slop_bug_reports/)
