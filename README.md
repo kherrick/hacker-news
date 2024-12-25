@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
@@ -18,7 +19,6 @@
 * [2024-12-24, 00:20:39](https://news.ycombinator.com/item?id=42498648) - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
 * [2024-12-24, 00:17:18](https://news.ycombinator.com/item?id=42498634) - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2024-12-23, 23:36:37](https://news.ycombinator.com/item?id=42498462) - [Why are cancer guidelines stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
-* [2024-12-23, 20:29:29](https://news.ycombinator.com/item?id=42497338) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial policies beat superhuman Go AIs (2023)](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)
 * [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [On the nature of computing science (1984)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
