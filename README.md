@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 16:04:33](https://news.ycombinator.com/item?id=42509408) - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
@@ -24,7 +25,6 @@
 * [2024-12-23, 10:43:57](https://news.ycombinator.com/item?id=42493432) - [Navtive FlameGraphViewer](https://laladrik.xyz/blog/flameGraphViewer/)
 * [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
-* [2024-12-23, 03:41:28](https://news.ycombinator.com/item?id=42491531) - [OKRs for Evil and Good](https://jessitron.com/2024/12/22/okrs-for-evil-and-good/)
 * [2024-12-22, 22:37:40](https://news.ycombinator.com/item?id=42489777) - [Giant sloths and mastodons lived with humans for millennia in the Americas](https://phys.org/news/2024-12-giant-sloths-mastodons-coexisted-humans.html)
 * [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
 * [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
