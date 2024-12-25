@@ -26,10 +26,10 @@
 * [2024-12-23, 12:03:18](https://news.ycombinator.com/item?id=42493808) - [On the nature of computing science (1984)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
 * [2024-12-23, 11:39:17](https://news.ycombinator.com/item?id=42493688) - [Spectral Imaging Made Easy: A Powerful Python Library](https://github.com/siapy/siapy-lib)
 * [2024-12-23, 09:15:27](https://news.ycombinator.com/item?id=42493027) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
-* [2024-12-22, 22:12:30](https://news.ycombinator.com/item?id=42489600) - [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 * [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
 * [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
+* [2024-12-22, 01:45:23](https://news.ycombinator.com/item?id=42483836) - [Minutes of a Meeting Held at Gear Ratio on Tuesday 13 June 78 [pdf]](https://www.forgottenweapons.com/wp-content/uploads/2024/12/Mamba-production-meeting.pdf)
 
 ## [Archives](archives/index.md)
 
