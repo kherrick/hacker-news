@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-25, 17:20:27](https://news.ycombinator.com/item?id=42509828) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
+* [2024-12-25, 17:15:32](https://news.ycombinator.com/item?id=42509813) - [Spoiler Alert: 'Star Trek: Discovery' Officially Erased from Canon](https://cosmicbook.news/star-trek-discovery-erased-canon)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 16:56:44](https://news.ycombinator.com/item?id=42509711) - [Early Christian Writings](https://www.earlychristianwritings.com/index.html)
@@ -28,7 +29,6 @@
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 21:24:08](https://news.ycombinator.com/item?id=42489239) - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
 * [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
-* [2024-12-22, 11:34:17](https://news.ycombinator.com/item?id=42485746) - [Hoarder: Self-hostable bookmark-everything app](https://github.com/hoarder-app/hoarder)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
 ## [Archives](archives/index.md)
