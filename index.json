@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-25, 01:26:29",
+      "https://news.ycombinator.com/item?id=42506211"
+    ],
+    [
+      "CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion",
+      "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 01:07:22",
       "https://news.ycombinator.com/item?id=42506145"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-12-24, 15:40:28",
-      "https://news.ycombinator.com/item?id=42502580"
-    ],
-    [
-      "Why making friends as an adult is harder",
-      "https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever"
-    ]
-  ],
-  [
-    [
       "2024-12-24, 12:37:45",
       "https://news.ycombinator.com/item?id=42501532"
     ],
@@ -127,16 +127,6 @@
     [
       "The number pi has an evil twin",
       "https://mathstodon.xyz/@johncarlosbaez/113703444230936435"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 01:33:31",
-      "https://news.ycombinator.com/item?id=42498982"
-    ],
-    [
-      "Demystifying Debuggers, Part 2: The Anatomy of a Running Program",
-      "https://www.rfleury.com/p/demystifying-debuggers-part-2-the"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "My Colleague Julius",
       "https://ploum.net/2024-12-23-julius-en.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-23, 12:19:26",
+      "https://news.ycombinator.com/item?id=42493871"
+    ],
+    [
+      "Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning",
+      "https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26"
     ]
   ],
   [
