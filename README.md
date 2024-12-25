@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 * [2024-12-25, 16:04:33](https://news.ycombinator.com/item?id=42509408) - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
@@ -15,9 +16,8 @@
 * [2024-12-24, 20:29:09](https://news.ycombinator.com/item?id=42504677) - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 * [2024-12-24, 19:39:40](https://news.ycombinator.com/item?id=42504343) - [Masks, Smoke, and Mirrors: The story of EgyptAir flight 804](https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
-* [2024-12-23, 14:51:08](https://news.ycombinator.com/item?id=42494773) - [Earth's subsurface may hold up to 5.6 × 10⁶ million metric tons of hydrogen](https://phys.org/news/2024-12-earth-subsurface-million-metric-tons.html)
-* [2024-12-23, 14:45:10](https://news.ycombinator.com/item?id=42494723) - [Will that hub or dock slow your SSDs, or even make them faster?](https://eclecticlight.co/2024/12/23/will-that-hub-or-dock-slow-your-ssds-or-even-make-them-faster/)
 * [2024-12-23, 14:17:51](https://news.ycombinator.com/item?id=42494512) - [The Software You Need for Holiday Overdecoration](https://www.dbos.dev/blog/ezrgb-dbos-light-shows)
+* [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
 * [2024-12-23, 13:10:15](https://news.ycombinator.com/item?id=42494127) - [Adversarial policies beat superhuman Go AIs (2023)](https://arxiv.org/abs/2211.00241)
 * [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
 * [2024-12-23, 12:19:26](https://news.ycombinator.com/item?id=42493871) - [Exploring LoRA – Part 1: The Idea Behind Parameter Efficient Fine-Tuning](https://medium.com/inspiredbrilliance/exploring-lora-part-1-the-idea-behind-parameter-efficient-fine-tuning-and-lora-ec469d176c26)

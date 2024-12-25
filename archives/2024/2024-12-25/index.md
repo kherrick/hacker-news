@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 16:19:01](https://news.ycombinator.com/item?id=42509492) - [South Korea's population faces point of no return](https://www.newsweek.com/south-korea-news-population-faces-point-no-return-2005918)
 * [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
