@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The Trap of \"I am not an Extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
 * [2024-12-26, 08:14:27](https://news.ycombinator.com/item?id=42513834) - [Racket School 2019: The \"How to Design Languages\" Track](https://school.racket-lang.org/2019/plan/)
 * [2024-12-26, 07:56:27](https://news.ycombinator.com/item?id=42513761) - [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
@@ -14,7 +15,6 @@
 * [2024-12-25, 23:52:01](https://news.ycombinator.com/item?id=42512050) - [Installing OpenWRT on an Unsupported Router](https://radiosocial.de/@hennichodernich/113714518196988714)
 * [2024-12-25, 23:36:45](https://news.ycombinator.com/item?id=42511976) - [Is Christmas Efficient? (2013)](http://marginalrevolution.com/marginalrevolution/2013/12/are-seasonal-business-cycles-inefficient.html)
 * [2024-12-25, 22:37:31](https://news.ycombinator.com/item?id=42511663) - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
-* [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 * [2024-12-25, 19:55:07](https://news.ycombinator.com/item?id=42510776) - [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
