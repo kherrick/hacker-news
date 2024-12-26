@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
-* [2024-12-26, 03:00:39](https://news.ycombinator.com/item?id=42512839) - [Coccinelle](https://docs.kernel.org/dev-tools/coccinelle.html)
 * [2024-12-26, 02:39:18](https://news.ycombinator.com/item?id=42512772) - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 02:06:10](https://news.ycombinator.com/item?id=42512636) - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
@@ -30,6 +29,7 @@
 * [2024-12-23, 12:09:28](https://news.ycombinator.com/item?id=42493832) - [Show HN: Super Snowflake Maker](https://supersnowflakemaker.com)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
+* [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
 ## [Archives](archives/index.md)
 
