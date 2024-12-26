@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
+* [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
+* [2024-12-26, 18:58:12](https://news.ycombinator.com/item?id=42516991) - [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-26, 17:49:14](https://news.ycombinator.com/item?id=42516575) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
@@ -17,7 +20,6 @@
 * [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
-* [2024-12-25, 19:55:07](https://news.ycombinator.com/item?id=42510776) - [I thought I found a bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 * [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
@@ -25,9 +27,7 @@
 * [2024-12-24, 17:05:04](https://news.ycombinator.com/item?id=42503163) - [Debian's approach to Rust – Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
 * [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
-* [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
 * [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
-* [2024-12-23, 12:09:28](https://news.ycombinator.com/item?id=42493832) - [Show HN: Super Snowflake Maker](https://supersnowflakemaker.com)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 

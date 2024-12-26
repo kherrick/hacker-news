@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
+* [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
+* [2024-12-26, 18:58:12](https://news.ycombinator.com/item?id=42516991) - [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)
 * [2024-12-26, 18:39:45](https://news.ycombinator.com/item?id=42516874) - [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
