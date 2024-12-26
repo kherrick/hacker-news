@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-26, 13:23:12",
+      "https://news.ycombinator.com/item?id=42515041"
+    ],
+    [
+      "Simulating C. elegans brain, body and environment interactions",
+      "https://www.nature.com/articles/s43588-024-00738-w"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 12:31:13",
       "https://news.ycombinator.com/item?id=42514803"
     ],
     [
       "Ask HN: How do you maintain personal annotations for code you don't control?",
       "https://news.ycombinator.com/item?id=42514803"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 10:39:14",
+      "https://news.ycombinator.com/item?id=42514370"
+    ],
+    [
+      "How to Handle Go Security Alerts",
+      "https://jarosz.dev/code/how-to-handle-go-security-alerts/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-12-25, 21:35:55",
-      "https://news.ycombinator.com/item?id=42511318"
-    ],
-    [
-      "Server-Sent Events (SSE) Are Underrated",
-      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/"
-    ]
-  ],
-  [
-    [
       "2024-12-25, 19:55:07",
       "https://news.ycombinator.com/item?id=42510776"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
+      "2024-12-25, 15:58:37",
+      "https://news.ycombinator.com/item?id=42509371"
+    ],
+    [
+      "Advent of OS/2",
+      "https://www.uninformativ.de/blog/postings/2024-12-25/0/POSTING-en.html"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 13:16:40",
       "https://news.ycombinator.com/item?id=42508642"
     ],
     [
       "F*: A proof oriented general purpose programming language",
       "https://fstar-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 06:40:07",
-      "https://news.ycombinator.com/item?id=42507312"
-    ],
-    [
-      "Ruby 3.4.0",
-      "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Show HN: FixBrowser – a lightweight web browser created from scratch",
       "https://www.fixbrowser.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 01:26:29",
-      "https://news.ycombinator.com/item?id=42506211"
-    ],
-    [
-      "CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion",
-      "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/"
     ]
   ],
   [
