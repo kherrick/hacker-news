@@ -6,6 +6,7 @@
 
 * [2024-12-25, 23:24:03](https://news.ycombinator.com/item?id=42511914) - [Luigi Mangione Prosecutors Have a Jury Problem: 'So Much Sympathy'](https://www.newsweek.com/luigi-mangione-jury-sympathy-former-prosecutor-alvin-bragg-terrorism-new-york-brian-thompson-2002626)
 * [2024-12-25, 23:06:37](https://news.ycombinator.com/item?id=42511812) - [Hertz Desperate to Unload Tesla Inventory, Asking Customers to Buy Rentals](https://jalopnik.com/hertz-is-so-desperate-to-unload-tesla-inventory-its-cus-1851727725)
+* [2024-12-25, 22:37:31](https://news.ycombinator.com/item?id=42511663) - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
 * [2024-12-25, 21:54:14](https://news.ycombinator.com/item?id=42511426) - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
 * [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 * [2024-12-25, 21:25:13](https://news.ycombinator.com/item?id=42511267) - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
