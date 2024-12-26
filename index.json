@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-26, 17:39:10",
+      "https://news.ycombinator.com/item?id=42516512"
+    ],
+    [
+      "Gondwanaland: The search for a land before (human) time",
+      "https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 17:33:54",
+      "https://news.ycombinator.com/item?id=42516481"
+    ],
+    [
+      "Ocular AI (YC W24) Is Hiring",
+      "https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 17:24:28",
+      "https://news.ycombinator.com/item?id=42516433"
+    ],
+    [
+      "I've made a Monte-Carlo raytracer for glTF scenes in WebGPU",
+      "https://github.com/lisyarus/webgpu-raytracer"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 16:18:24",
       "https://news.ycombinator.com/item?id=42516021"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-12-25, 21:35:55",
-      "https://news.ycombinator.com/item?id=42511318"
-    ],
-    [
-      "Server-Sent Events (SSE) Are Underrated",
-      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/"
-    ]
-  ],
-  [
-    [
       "2024-12-25, 19:55:07",
       "https://news.ycombinator.com/item?id=42510776"
     ],
@@ -177,16 +197,6 @@
     [
       "Show HN: FixBrowser – a lightweight web browser created from scratch",
       "https://www.fixbrowser.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 01:26:29",
-      "https://news.ycombinator.com/item?id=42506211"
-    ],
-    [
-      "CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion",
-      "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 03:00:32",
-      "https://news.ycombinator.com/item?id=42484095"
-    ],
-    [
-      "Bit Vectors and my first steps into assembly",
-      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
