@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-12-24, 04:29:19",
+      "https://news.ycombinator.com/item?id=42499736"
+    ],
+    [
+      "A gotcha with importing ZFS pools and NFS exports on Linux",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSPoolImportAndNFSExports"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 14:17:51",
       "https://news.ycombinator.com/item?id=42494512"
     ],
@@ -257,16 +267,6 @@
     [
       "A new learning experience on MDN",
       "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/"
-    ]
-  ],
-  [
-    [
-      "2024-12-23, 12:09:28",
-      "https://news.ycombinator.com/item?id=42493832"
-    ],
-    [
-      "Show HN: Super Snowflake Maker",
-      "https://supersnowflakemaker.com"
     ]
   ],
   [
