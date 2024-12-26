@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-26, 02:39:18](https://news.ycombinator.com/item?id=42512772) - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
+* [2024-12-26, 02:06:10](https://news.ycombinator.com/item?id=42512636) - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 22:37:31](https://news.ycombinator.com/item?id=42511663) - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
 * [2024-12-25, 21:54:14](https://news.ycombinator.com/item?id=42511426) - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
@@ -9,7 +11,6 @@
 * [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
-* [2024-12-25, 16:58:26](https://news.ycombinator.com/item?id=42509730) - [Ask HN: Resources for general purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
@@ -27,7 +28,6 @@
 * [2024-12-23, 10:43:57](https://news.ycombinator.com/item?id=42493432) - [Navtive FlameGraphViewer](https://laladrik.xyz/blog/flameGraphViewer/)
 * [2024-12-23, 09:39:41](https://news.ycombinator.com/item?id=42493123) - [Are Immutable Linux Distros right for you?](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
-* [2024-12-22, 11:53:36](https://news.ycombinator.com/item?id=42485818) - [Unforgeable Quantum Tokens Delivered over Fiber Network](https://spectrum.ieee.org/quantum-tokens)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 * [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
