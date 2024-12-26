@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-12-23, 12:09:28",
+      "https://news.ycombinator.com/item?id=42493832"
+    ],
+    [
+      "Show HN: Super Snowflake Maker",
+      "https://supersnowflakemaker.com"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 22:18:12",
       "https://news.ycombinator.com/item?id=42489645"
     ],
@@ -287,16 +297,6 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 03:00:32",
-      "https://news.ycombinator.com/item?id=42484095"
-    ],
-    [
-      "Bit Vectors and my first steps into assembly",
-      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
