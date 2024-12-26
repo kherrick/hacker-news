@@ -22,6 +22,7 @@
 * [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
 * [2024-12-24, 02:48:56](https://news.ycombinator.com/item?id=42499336) - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
 * [2024-12-23, 20:29:44](https://news.ycombinator.com/item?id=42497341) - [Converting shopping malls into apartments [video]](https://www.youtube.com/watch?v=J1GIF6VNipE)
+* [2024-12-23, 15:24:34](https://news.ycombinator.com/item?id=42495037) - [What was the Golden Age of Antibiotics, and how can we spark a new one?](https://ourworldindata.org/golden-age-antibiotics)
 * [2024-12-23, 14:17:51](https://news.ycombinator.com/item?id=42494512) - [The software you need for holiday overdecoration](https://www.dbos.dev/blog/ezrgb-dbos-light-shows)
 * [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
 * [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
@@ -29,7 +30,6 @@
 * [2024-12-23, 12:09:28](https://news.ycombinator.com/item?id=42493832) - [Show HN: Super Snowflake Maker](https://supersnowflakemaker.com)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
-* [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
 ## [Archives](archives/index.md)
 
