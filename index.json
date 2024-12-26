@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-26, 20:48:01",
+      "https://news.ycombinator.com/item?id=42517685"
+    ],
+    [
+      "Sub-Pixel Distance Transform",
+      "https://acko.net/blog/subpixel-distance-transform/"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 20:14:57",
       "https://news.ycombinator.com/item?id=42517447"
     ],
     [
       "Ghostty 1.0",
       "https://ghostty.org/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 19:53:39",
+      "https://news.ycombinator.com/item?id=42517303"
+    ],
+    [
+      "Write a Shell in C (2015)",
+      "https://brennan.io/2015/01/16/write-a-shell-in-c/"
     ]
   ],
   [
@@ -31,21 +51,11 @@
   ],
   [
     [
-      "2024-12-26, 19:18:10",
-      "https://news.ycombinator.com/item?id=42517102"
-    ],
-    [
-      "Lua Is So Underrated",
-      "https://nflatrea.bearblog.dev/lua-is-so-underrated/"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 19:03:50",
       "https://news.ycombinator.com/item?id=42517021"
     ],
     [
-      "The Semver Trick",
+      "The semver trick (2019)",
       "https://github.com/dtolnay/semver-trick"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "This open problem taught me what topology is [video]",
       "https://www.youtube.com/watch?v=IQqtsm-bBRU"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 17:05:04",
-      "https://news.ycombinator.com/item?id=42503163"
-    ],
-    [
-      "Debian's approach to Rust – Dependency handling (2022)",
-      "https://diziet.dreamwidth.org/10559.html"
     ]
   ],
   [
