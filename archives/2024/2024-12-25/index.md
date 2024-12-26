@@ -32,6 +32,7 @@
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 * [2024-12-25, 13:00:21](https://news.ycombinator.com/item?id=42508587) - [Ask HN: Practical Tips to Stay Productive?](https://news.ycombinator.com/item?id=42508587)
 * [2024-12-25, 10:33:11](https://news.ycombinator.com/item?id=42508087) - [Ask HN: What is the best thing you read in 2024?](https://news.ycombinator.com/item?id=42508087)
+* [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:49:24](https://news.ycombinator.com/item?id=42507134) - [News for Ruby 3.4.0](https://docs.ruby-lang.org/en/master/NEWS_md.html)
