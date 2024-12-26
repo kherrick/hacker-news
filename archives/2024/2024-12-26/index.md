@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The Trap of \"I am not an Extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
+* [2024-12-26, 09:26:08](https://news.ycombinator.com/item?id=42514116) - [RIP W3C's HTML working group 1994-2024](https://www.w3.org/groups/wg/htmlwg/)
 * [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
 * [2024-12-26, 08:14:27](https://news.ycombinator.com/item?id=42513834) - [Racket School 2019: The \"How to Design Languages\" Track](https://school.racket-lang.org/2019/plan/)
 * [2024-12-26, 07:56:27](https://news.ycombinator.com/item?id=42513761) - [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
+* [2024-12-26, 07:31:41](https://news.ycombinator.com/item?id=42513675) - [Node.js enables TypeScript support by default](https://github.com/nodejs/node/pull/56350)
 * [2024-12-26, 06:40:31](https://news.ycombinator.com/item?id=42513536) - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
