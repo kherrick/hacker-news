@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 22:46:06](https://news.ycombinator.com/item?id=42518444) - [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
 * [2024-12-26, 21:04:51](https://news.ycombinator.com/item?id=42517806) - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
 * [2024-12-26, 21:03:15](https://news.ycombinator.com/item?id=42517792) - [Actual Web Rendering in Terminal](https://github.com/chase/awrit)
 * [2024-12-26, 20:48:01](https://news.ycombinator.com/item?id=42517685) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
