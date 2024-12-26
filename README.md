@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-26, 16:22:43](https://news.ycombinator.com/item?id=42516041) - [Building AGI on the Tokio Runtime](https://www.christo.sh/building-agi-on-the-tokio-runtime/)
 * [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
 * [2024-12-26, 15:51:46](https://news.ycombinator.com/item?id=42515871) - [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)
 * [2024-12-26, 13:23:12](https://news.ycombinator.com/item?id=42515041) - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
@@ -21,6 +20,7 @@
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 * [2024-12-25, 01:26:29](https://news.ycombinator.com/item?id=42506211) - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
+* [2024-12-24, 17:05:04](https://news.ycombinator.com/item?id=42503163) - [Debian's approach to Rust – Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 15:54:14](https://news.ycombinator.com/item?id=42502691) - [Unorm and SNORM to float, hardware edition](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
 * [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
 * [2024-12-23, 14:17:51](https://news.ycombinator.com/item?id=42494512) - [The software you need for holiday overdecoration](https://www.dbos.dev/blog/ezrgb-dbos-light-shows)

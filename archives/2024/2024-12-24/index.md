@@ -27,6 +27,7 @@
 * [2024-12-24, 17:35:13](https://news.ycombinator.com/item?id=42503404) - [Cloudflare Must Block Piracy Shield Domains and IP Addresses Across Its Service](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
 * [2024-12-24, 17:26:00](https://news.ycombinator.com/item?id=42503332) - [I sensed anxiety and frustration at NeurIPS'24](https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/)
 * [2024-12-24, 17:16:25](https://news.ycombinator.com/item?id=42503258) - [The prisoners in Maine working remote jobs](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
+* [2024-12-24, 17:05:04](https://news.ycombinator.com/item?id=42503163) - [Debian's approach to Rust – Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 16:26:31](https://news.ycombinator.com/item?id=42502915) - [Charlie Munger's wisdom lives on in LLMs](https://bren.blog/charlie-munger-lives-on-in-llms)
 * [2024-12-24, 16:25:34](https://news.ycombinator.com/item?id=42502910) - [The chocolate of the future will have less cocoa or none at all](https://www.swissinfo.ch/eng/multinational-companies/the-chocolate-of-the-future-will-have-less-cocoa-or-none-at-all/78517426)
 * [2024-12-24, 16:04:58](https://news.ycombinator.com/item?id=42502768) - [Return to NSA's Menwith Hill with 60 Minutes (2000)](https://cryptome.org/menwith-mn60.htm)
