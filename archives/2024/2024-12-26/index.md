@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
+* [2024-12-26, 19:44:51](https://news.ycombinator.com/item?id=42517260) - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
@@ -16,6 +17,7 @@
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
 * [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
 * [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
+* [2024-12-26, 16:40:24](https://news.ycombinator.com/item?id=42516134) - [Early Improvements with Atogepant for the Preventive Treatment of Migraine](https://www.neurology.org/doi/10.1212/WNL.0000000000210212)
 * [2024-12-26, 16:22:43](https://news.ycombinator.com/item?id=42516041) - [Building AGI on the Tokio Runtime](https://www.christo.sh/building-agi-on-the-tokio-runtime/)
 * [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
 * [2024-12-26, 15:51:46](https://news.ycombinator.com/item?id=42515871) - [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
+* [2024-12-26, 19:44:51](https://news.ycombinator.com/item?id=42517260) - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
@@ -11,9 +12,9 @@
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
 * [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
 * [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
+* [2024-12-26, 16:40:24](https://news.ycombinator.com/item?id=42516134) - [Early Improvements with Atogepant for the Preventive Treatment of Migraine](https://www.neurology.org/doi/10.1212/WNL.0000000000210212)
 * [2024-12-26, 16:22:43](https://news.ycombinator.com/item?id=42516041) - [My failed attempt at AGI on the Tokio Runtime](https://www.christo.sh/building-agi-on-the-tokio-runtime/)
 * [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
-* [2024-12-26, 13:23:12](https://news.ycombinator.com/item?id=42515041) - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 * [2024-12-26, 03:59:54](https://news.ycombinator.com/item?id=42513022) - [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
@@ -27,7 +28,6 @@
 * [2024-12-24, 17:05:04](https://news.ycombinator.com/item?id=42503163) - [Debian's approach to Rust – Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
 * [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
-* [2024-12-23, 12:36:03](https://news.ycombinator.com/item?id=42493962) - [A new learning experience on MDN](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 
