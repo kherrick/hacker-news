@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-12-25, 10:03:47",
+      "https://news.ycombinator.com/item?id=42507984"
+    ],
+    [
+      "Subprocess: Don't close all file descriptors by default (close_fds=False)",
+      "https://bugs.python.org/issue42738"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 06:08:45",
       "https://news.ycombinator.com/item?id=42507185"
     ],
@@ -187,16 +197,6 @@
     [
       "Show HN: I made a website to semantically search ArXiv papers",
       "https://papermatch.mitanshu.tech/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 03:08:13",
-      "https://news.ycombinator.com/item?id=42506569"
-    ],
-    [
-      "Show HN: FixBrowser – a lightweight web browser created from scratch",
-      "https://www.fixbrowser.org/"
     ]
   ],
   [
