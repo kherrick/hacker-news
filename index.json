@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-12-24, 02:48:56",
+      "https://news.ycombinator.com/item?id=42499336"
+    ],
+    [
+      "Sipeed NanoKVM-PCIe",
+      "https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 20:29:44",
       "https://news.ycombinator.com/item?id=42497341"
     ],
@@ -287,16 +297,6 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 03:00:32",
-      "https://news.ycombinator.com/item?id=42484095"
-    ],
-    [
-      "Bit Vectors and my first steps into assembly",
-      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
