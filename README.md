@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
+* [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
 * [2024-12-26, 18:39:45](https://news.ycombinator.com/item?id=42516874) - [Tokyo makes 3D data available](https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
@@ -16,7 +17,6 @@
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 19:55:07](https://news.ycombinator.com/item?id=42510776) - [I thought I found a bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
-* [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
 * [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
