@@ -26,6 +26,7 @@
 * [2024-12-25, 16:19:01](https://news.ycombinator.com/item?id=42509492) - [South Korea's population faces point of no return](https://www.newsweek.com/south-korea-news-population-faces-point-no-return-2005918)
 * [2024-12-25, 16:09:45](https://news.ycombinator.com/item?id=42509434) - [Three-quarters of the land is drying out, 'redefining life on Earth'](https://grist.org/international/three-quarters-of-the-worlds-land-is-drying-out-redefining-life-on-earth/)
 * [2024-12-25, 16:04:33](https://news.ycombinator.com/item?id=42509408) - [Ask HN: What skills do you want to develop or improve in 2025?](https://news.ycombinator.com/item?id=42509408)
+* [2024-12-25, 15:58:37](https://news.ycombinator.com/item?id=42509371) - [Advent of OS/2](https://www.uninformativ.de/blog/postings/2024-12-25/0/POSTING-en.html)
 * [2024-12-25, 13:58:29](https://news.ycombinator.com/item?id=42508789) - [Ants vs. Humans: Putting Group Smarts to the Test](https://wis-wander.weizmann.ac.il/space-physics/ants-vs-humans-putting-group-smarts-test)
 * [2024-12-25, 13:24:00](https://news.ycombinator.com/item?id=42508668) - [The Rise and Future Fall of MicroStrategy](https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
