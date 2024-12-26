@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
+* [2024-12-26, 08:14:27](https://news.ycombinator.com/item?id=42513834) - [Racket School 2019: The \"How to Design Languages\" Track](https://school.racket-lang.org/2019/plan/)
 * [2024-12-26, 07:56:27](https://news.ycombinator.com/item?id=42513761) - [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
 * [2024-12-26, 06:40:31](https://news.ycombinator.com/item?id=42513536) - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
