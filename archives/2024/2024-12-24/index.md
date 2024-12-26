@@ -45,6 +45,7 @@
 * [2024-12-24, 07:20:12](https://news.ycombinator.com/item?id=42500244) - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
 * [2024-12-24, 07:12:38](https://news.ycombinator.com/item?id=42500209) - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
 * [2024-12-24, 05:36:35](https://news.ycombinator.com/item?id=42499921) - [We're All Bozos on This Bus: Eliza and the Firesign Theater](https://sites.google.com/view/elizagen-org/news?authuser=0)
+* [2024-12-24, 04:29:19](https://news.ycombinator.com/item?id=42499736) - [A gotcha with importing ZFS pools and NFS exports on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSPoolImportAndNFSExports)
 * [2024-12-24, 03:48:11](https://news.ycombinator.com/item?id=42499599) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 03:41:22](https://news.ycombinator.com/item?id=42499567) - [John Carlos Baez: \"The number pi has an evil twin \"](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 * [2024-12-24, 02:48:56](https://news.ycombinator.com/item?id=42499336) - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
