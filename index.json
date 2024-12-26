@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-12-23, 15:24:34",
+      "https://news.ycombinator.com/item?id=42495037"
+    ],
+    [
+      "What was the Golden Age of Antibiotics, and how can we spark a new one?",
+      "https://ourworldindata.org/golden-age-antibiotics"
+    ]
+  ],
+  [
+    [
       "2024-12-23, 14:17:51",
       "https://news.ycombinator.com/item?id=42494512"
     ],
@@ -287,16 +297,6 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 03:00:32",
-      "https://news.ycombinator.com/item?id=42484095"
-    ],
-    [
-      "Bit Vectors and my first steps into assembly",
-      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
