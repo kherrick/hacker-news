@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-12-26, 13:23:04",
-      "https://news.ycombinator.com/item?id=42515039"
-    ],
-    [
-      "Creem: The payment platform that calls BS on hidden fees",
-      "https://shipandsip.substack.com/p/inside-creem-the-payment-platform"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 12:31:13",
       "https://news.ycombinator.com/item?id=42514803"
     ],
     [
       "Ask HN: How do you maintain personal annotations for code you don't control?",
       "https://news.ycombinator.com/item?id=42514803"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 09:29:48",
-      "https://news.ycombinator.com/item?id=42514127"
-    ],
-    [
-      "The Trap of \"I am not an Extrovert\"",
-      "https://orkohunter.net/blog/the-trap-of-introversion/"
     ]
   ],
   [
@@ -117,6 +97,26 @@
     [
       "Show HN: Map of YC Startups",
       "https://yc-map.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 21:51:39",
+      "https://news.ycombinator.com/item?id=42511416"
+    ],
+    [
+      "High housing prices are caused by government's zoning laws",
+      "https://www.nahro.org/journal_article/rethinking-zoning-to-increase-affordable-housing/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 21:35:55",
+      "https://news.ycombinator.com/item?id=42511318"
+    ],
+    [
+      "Server-Sent Events (SSE) Are Underrated",
+      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-12-24, 02:48:56",
-      "https://news.ycombinator.com/item?id=42499336"
-    ],
-    [
-      "Sipeed NanoKVM-PCIe",
-      "https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/"
-    ]
-  ],
-  [
-    [
       "2024-12-23, 14:17:51",
       "https://news.ycombinator.com/item?id=42494512"
     ],
@@ -277,6 +267,16 @@
     [
       "A new learning experience on MDN",
       "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/"
+    ]
+  ],
+  [
+    [
+      "2024-12-23, 09:39:41",
+      "https://news.ycombinator.com/item?id=42493123"
+    ],
+    [
+      "Are Immutable Linux Distros right for you?",
+      "https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/"
     ]
   ],
   [
