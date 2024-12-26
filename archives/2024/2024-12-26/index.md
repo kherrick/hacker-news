@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 20:48:01](https://news.ycombinator.com/item?id=42517685) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
+* [2024-12-26, 19:53:39](https://news.ycombinator.com/item?id=42517303) - [Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [2024-12-26, 19:44:51](https://news.ycombinator.com/item?id=42517260) - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
