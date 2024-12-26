@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-12-26, 11:37:48",
-      "https://news.ycombinator.com/item?id=42514633"
+      "2024-12-26, 08:32:36",
+      "https://news.ycombinator.com/item?id=42513907"
     ],
     [
-      "DeepSeek-V3",
-      "https://github.com/deepseek-ai/DeepSeek-V3"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 09:26:08",
-      "https://news.ycombinator.com/item?id=42514116"
-    ],
-    [
-      "RIP W3C's HTML working group 1994-2024",
-      "https://www.w3.org/groups/wg/htmlwg/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 08:14:27",
-      "https://news.ycombinator.com/item?id=42513834"
-    ],
-    [
-      "Racket School 2019: The \"How to Design Languages\" Track",
-      "https://school.racket-lang.org/2019/plan/"
+      "The Rise of Post-Literate History",
+      "https://www.compactmag.com/article/the-rise-of-post-literate-history/"
     ]
   ],
   [
@@ -91,32 +71,12 @@
   ],
   [
     [
-      "2024-12-26, 02:06:10",
-      "https://news.ycombinator.com/item?id=42512636"
-    ],
-    [
-      "Egui – An immediate mode GUI written in Rust",
-      "https://www.egui.rs/"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 00:59:27",
       "https://news.ycombinator.com/item?id=42512371"
     ],
     [
       "Seconds Since the Epoch",
       "https://aphyr.com/posts/378-seconds-since-the-epoch"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 23:52:01",
-      "https://news.ycombinator.com/item?id=42512050"
-    ],
-    [
-      "Installing OpenWRT on an Unsupported Router",
-      "https://radiosocial.de/@hennichodernich/113714518196988714"
     ]
   ],
   [
@@ -137,6 +97,16 @@
     [
       "Show HN: Map of YC Startups",
       "https://yc-map.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 21:35:55",
+      "https://news.ycombinator.com/item?id=42511318"
+    ],
+    [
+      "Server-Sent Events (SSE) Are Underrated",
+      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-12-25, 06:40:07",
+      "https://news.ycombinator.com/item?id=42507312"
+    ],
+    [
+      "Ruby 3.4.0",
+      "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 06:08:45",
       "https://news.ycombinator.com/item?id=42507185"
     ],
@@ -207,6 +187,16 @@
     [
       "Show HN: FixBrowser – a lightweight web browser created from scratch",
       "https://www.fixbrowser.org/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 01:26:29",
+      "https://news.ycombinator.com/item?id=42506211"
+    ],
+    [
+      "CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion",
+      "https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A new learning experience on MDN",
       "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/"
+    ]
+  ],
+  [
+    [
+      "2024-12-23, 09:39:41",
+      "https://news.ycombinator.com/item?id=42493123"
+    ],
+    [
+      "Are Immutable Linux Distros right for you?",
+      "https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/"
     ]
   ],
   [
