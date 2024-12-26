@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-26, 23:04:17",
+      "https://news.ycombinator.com/item?id=42518562"
+    ],
+    [
+      "The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something",
+      "https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 22:46:06",
       "https://news.ycombinator.com/item?id=42518444"
     ],
     [
       "Reverse Engineering the Stream Deck+",
       "https://den.dev/blog/reverse-engineer-stream-deck-plus/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 22:34:50",
+      "https://news.ycombinator.com/item?id=42518378"
+    ],
+    [
+      "Neutron Stars with Less Mass Than a White Dwarf Might Exist",
+      "https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/"
     ]
   ],
   [
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42516481"
     ],
     [
-      "Ocular AI (YC W24) Is Hiring",
+      "Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)",
       "https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer"
     ]
   ],
@@ -177,16 +197,6 @@
     [
       "Early Improvements with Atogepant for the Preventive Treatment of Migraine",
       "https://www.neurology.org/doi/10.1212/WNL.0000000000210212"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 16:18:24",
-      "https://news.ycombinator.com/item?id=42516021"
-    ],
-    [
-      "Ocean Carbon Removal: Captura's marine carbon capture explained",
-      "https://spectrum.ieee.org/ocean-carbon-removal"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Portspoof: Emulate a valid service on all 65535 TCP ports",
       "https://github.com/drk1wi/portspoof"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 10:03:47",
-      "https://news.ycombinator.com/item?id=42507984"
-    ],
-    [
-      "Subprocess: Don't close all file descriptors by default (close_fds=False)",
-      "https://bugs.python.org/issue42738"
     ]
   ],
   [
