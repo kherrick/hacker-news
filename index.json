@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-26, 03:00:39",
-      "https://news.ycombinator.com/item?id=42512839"
-    ],
-    [
-      "Coccinelle",
-      "https://docs.kernel.org/dev-tools/coccinelle.html"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 02:39:18",
       "https://news.ycombinator.com/item?id=42512772"
     ],
@@ -297,6 +287,16 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 03:00:32",
+      "https://news.ycombinator.com/item?id=42484095"
+    ],
+    [
+      "Bit Vectors and my first steps into assembly",
+      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
