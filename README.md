@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 22:46:06](https://news.ycombinator.com/item?id=42518444) - [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
+* [2024-12-26, 22:34:50](https://news.ycombinator.com/item?id=42518378) - [Neutron Stars with Less Mass Than a White Dwarf Might Exist](https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/)
 * [2024-12-26, 21:04:51](https://news.ycombinator.com/item?id=42517806) - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
 * [2024-12-26, 20:48:01](https://news.ycombinator.com/item?id=42517685) - [Sub-pixel distance transform (2023)](https://acko.net/blog/subpixel-distance-transform/)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
@@ -15,10 +17,9 @@
 * [2024-12-26, 17:49:14](https://news.ycombinator.com/item?id=42516575) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
 * [2024-12-26, 17:37:00](https://news.ycombinator.com/item?id=42516497) - [Cull Front: A new front end generator for Htmx and AlpineJS](https://cullfront.com)
-* [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
+* [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
 * [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
 * [2024-12-26, 16:40:24](https://news.ycombinator.com/item?id=42516134) - [Early Improvements with Atogepant for the Preventive Treatment of Migraine](https://www.neurology.org/doi/10.1212/WNL.0000000000210212)
-* [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Ocean Carbon Removal: Captura's marine carbon capture explained](https://spectrum.ieee.org/ocean-carbon-removal)
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The trap of \"I am not an extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
@@ -27,7 +28,6 @@
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
-* [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
 * [2024-12-24, 17:05:04](https://news.ycombinator.com/item?id=42503163) - [Debian's approach to Rust – Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 

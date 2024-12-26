@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 22:46:06](https://news.ycombinator.com/item?id=42518444) - [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
+* [2024-12-26, 22:34:50](https://news.ycombinator.com/item?id=42518378) - [Neutron Stars with Less Mass Than a White Dwarf Might Exist](https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/)
 * [2024-12-26, 21:04:51](https://news.ycombinator.com/item?id=42517806) - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
 * [2024-12-26, 21:03:15](https://news.ycombinator.com/item?id=42517792) - [Actual Web Rendering in Terminal](https://github.com/chase/awrit)
 * [2024-12-26, 20:48:01](https://news.ycombinator.com/item?id=42517685) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
