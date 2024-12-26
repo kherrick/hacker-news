@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-26, 06:40:31](https://news.ycombinator.com/item?id=42513536) - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 * [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
@@ -15,7 +16,6 @@
 * [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 13:16:40](https://news.ycombinator.com/item?id=42508642) - [F*: A proof oriented general purpose programming language](https://fstar-lang.org/)
-* [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
