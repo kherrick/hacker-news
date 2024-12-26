@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-26, 12:31:13",
-      "https://news.ycombinator.com/item?id=42514803"
-    ],
-    [
-      "Ask HN: How do you maintain personal annotations for code you don't control?",
-      "https://news.ycombinator.com/item?id=42514803"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 06:40:31",
       "https://news.ycombinator.com/item?id=42513536"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2024-12-24, 22:38:40",
-      "https://news.ycombinator.com/item?id=42505454"
-    ],
-    [
-      "macOS menu bar app that shows how full the ISS urine tank is in real time",
-      "https://github.com/Jaennaet/pISSStream"
-    ]
-  ],
-  [
-    [
       "2024-12-24, 15:54:14",
       "https://news.ycombinator.com/item?id=42502691"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-12-23, 12:09:28",
+      "https://news.ycombinator.com/item?id=42493832"
+    ],
+    [
+      "Show HN: Super Snowflake Maker",
+      "https://supersnowflakemaker.com"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 22:18:12",
       "https://news.ycombinator.com/item?id=42489645"
     ],
@@ -297,6 +287,16 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 03:00:32",
+      "https://news.ycombinator.com/item?id=42484095"
+    ],
+    [
+      "Bit Vectors and my first steps into assembly",
+      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
