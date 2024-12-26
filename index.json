@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-26, 16:22:43",
+      "https://news.ycombinator.com/item?id=42516041"
+    ],
+    [
+      "Building AGI on the Tokio Runtime",
+      "https://www.christo.sh/building-agi-on-the-tokio-runtime/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 16:18:24",
+      "https://news.ycombinator.com/item?id=42516021"
+    ],
+    [
+      "Startups Begin Geoengineering the Sea",
+      "https://spectrum.ieee.org/ocean-carbon-removal"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 15:51:46",
+      "https://news.ycombinator.com/item?id=42515871"
+    ],
+    [
+      "ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT",
+      "https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 13:23:12",
       "https://news.ycombinator.com/item?id=42515041"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2024-12-26, 00:58:03",
-      "https://news.ycombinator.com/item?id=42512368"
-    ],
-    [
-      "Nonlinear Circuits Handbook (1976)",
-      "https://www.analog.com/en/resources/technical-books/nonlinear-circuits-handbook.html"
-    ]
-  ],
-  [
-    [
       "2024-12-25, 22:37:31",
       "https://news.ycombinator.com/item?id=42511663"
     ],
@@ -147,16 +167,6 @@
     [
       "F*: A proof oriented general purpose programming language",
       "https://fstar-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 06:40:07",
-      "https://news.ycombinator.com/item?id=42507312"
-    ],
-    [
-      "Ruby 3.4.0",
-      "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 03:00:32",
-      "https://news.ycombinator.com/item?id=42484095"
-    ],
-    [
-      "Bit Vectors and my first steps into assembly",
-      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
