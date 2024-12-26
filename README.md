@@ -8,6 +8,7 @@
 * [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
+* [2024-12-26, 00:58:03](https://news.ycombinator.com/item?id=42512368) - [Nonlinear Circuits Handbook (1976)](https://www.analog.com/en/resources/technical-books/nonlinear-circuits-handbook.html)
 * [2024-12-25, 22:37:31](https://news.ycombinator.com/item?id=42511663) - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
 * [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 * [2024-12-25, 19:55:07](https://news.ycombinator.com/item?id=42510776) - [I thought I found a bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
@@ -21,8 +22,6 @@
 * [2024-12-25, 01:26:29](https://news.ycombinator.com/item?id=42506211) - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
 * [2024-12-24, 15:54:14](https://news.ycombinator.com/item?id=42502691) - [Unorm and SNORM to float, hardware edition](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
 * [2024-12-24, 15:50:28](https://news.ycombinator.com/item?id=42502658) - [VPR: Nordic's First RISC-V Processor](https://danielmangum.com/posts/vpr-nordic-risc-v-processor/)
-* [2024-12-24, 05:36:35](https://news.ycombinator.com/item?id=42499921) - [We're All Bozos on This Bus: Eliza and the Firesign Theater](https://sites.google.com/view/elizagen-org/news?authuser=0)
-* [2024-12-24, 04:29:19](https://news.ycombinator.com/item?id=42499736) - [A gotcha with importing ZFS pools and NFS exports on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSPoolImportAndNFSExports)
 * [2024-12-23, 14:17:51](https://news.ycombinator.com/item?id=42494512) - [The software you need for holiday overdecoration](https://www.dbos.dev/blog/ezrgb-dbos-light-shows)
 * [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
 * [2024-12-23, 13:31:22](https://news.ycombinator.com/item?id=42494256) - [The Swedish cabin on the frontline of a possible hybrid war](https://www.theguardian.com/world/2024/dec/23/swedish-cabin-frontline-possible-hybrid-war-undersea-cables-sabotage)
@@ -30,6 +29,7 @@
 * [2024-12-23, 12:09:28](https://news.ycombinator.com/item?id=42493832) - [Show HN: Super Snowflake Maker](https://supersnowflakemaker.com)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 * [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
+* [2024-12-22, 03:00:32](https://news.ycombinator.com/item?id=42484095) - [Bit Vectors and my first steps into assembly](https://blog.smidt.dev/posts/0004/)
 
 ## [Archives](archives/index.md)
 

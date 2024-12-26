@@ -25,3 +25,4 @@
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 02:06:10](https://news.ycombinator.com/item?id=42512636) - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
+* [2024-12-26, 00:58:03](https://news.ycombinator.com/item?id=42512368) - [Nonlinear Circuits Handbook (1976)](https://www.analog.com/en/resources/technical-books/nonlinear-circuits-handbook.html)
