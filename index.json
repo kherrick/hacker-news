@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-12-26, 17:37:00",
+      "https://news.ycombinator.com/item?id=42516497"
+    ],
+    [
+      "Cull Front: A new front end generator for Htmx and AlpineJS",
+      "https://cullfront.com"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 17:33:54",
       "https://news.ycombinator.com/item?id=42516481"
     ],
@@ -247,16 +257,6 @@
     [
       "Subprocess: Don't close all file descriptors by default (close_fds=False)",
       "https://bugs.python.org/issue42738"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 06:08:45",
-      "https://news.ycombinator.com/item?id=42507185"
-    ],
-    [
-      "This open problem taught me what topology is [video]",
-      "https://www.youtube.com/watch?v=IQqtsm-bBRU"
     ]
   ],
   [
