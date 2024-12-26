@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 11:37:48](https://news.ycombinator.com/item?id=42514633) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The Trap of \"I am not an Extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 09:26:08](https://news.ycombinator.com/item?id=42514116) - [RIP W3C's HTML working group 1994-2024](https://www.w3.org/groups/wg/htmlwg/)
 * [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
