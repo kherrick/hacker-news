@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
+* [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 * [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 * [2024-12-26, 03:00:39](https://news.ycombinator.com/item?id=42512839) - [Coccinelle](https://docs.kernel.org/dev-tools/coccinelle.html)
 * [2024-12-26, 02:39:18](https://news.ycombinator.com/item?id=42512772) - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
