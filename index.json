@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-26, 15:51:46",
-      "https://news.ycombinator.com/item?id=42515871"
-    ],
-    [
-      "ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT",
-      "https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 13:23:12",
       "https://news.ycombinator.com/item?id=42515041"
     ],
@@ -297,6 +287,16 @@
     [
       "Reads Causing Writes in Postgres",
       "https://jesipow.com/blog/postgres-reads-cause-writes/"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 03:00:32",
+      "https://news.ycombinator.com/item?id=42484095"
+    ],
+    [
+      "Bit Vectors and my first steps into assembly",
+      "https://blog.smidt.dev/posts/0004/"
     ]
   ]
 ]
