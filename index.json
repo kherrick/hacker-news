@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-26, 09:26:08",
+      "https://news.ycombinator.com/item?id=42514116"
+    ],
+    [
+      "RIP W3C's HTML working group 1994-2024",
+      "https://www.w3.org/groups/wg/htmlwg/"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 08:32:36",
       "https://news.ycombinator.com/item?id=42513907"
     ],
@@ -17,6 +27,16 @@
     [
       "Racket School 2019: The \"How to Design Languages\" Track",
       "https://school.racket-lang.org/2019/plan/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 07:31:41",
+      "https://news.ycombinator.com/item?id=42513675"
+    ],
+    [
+      "Node.js enables TypeScript support by default",
+      "https://github.com/nodejs/node/pull/56350"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Show HN: I made a website to semantically search ArXiv papers",
       "https://papermatch.mitanshu.tech/"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 03:08:13",
-      "https://news.ycombinator.com/item?id=42506569"
-    ],
-    [
-      "Show HN: FixBrowser – a lightweight web browser created from scratch",
-      "https://www.fixbrowser.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 22:38:40",
-      "https://news.ycombinator.com/item?id=42505454"
-    ],
-    [
-      "macOS menu bar app that shows how full the ISS urine tank is in real time",
-      "https://github.com/Jaennaet/pISSStream"
     ]
   ],
   [
