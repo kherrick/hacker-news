@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-27, 13:32:27",
+      "https://news.ycombinator.com/item?id=42521914"
+    ],
+    [
+      "Denmark Offers to Buy USA (2019)",
+      "https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 13:25:39",
       "https://news.ycombinator.com/item?id=42521873"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2024-12-27, 13:24:17",
+      "https://news.ycombinator.com/item?id=42521865"
+    ],
+    [
+      "Does current AI represent a dead end?",
+      "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 13:11:40",
       "https://news.ycombinator.com/item?id=42521795"
     ],
     [
-      "The New Science of Controlling Lucid Dreams",
+      "The new science of controlling lucid dreams",
       "https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/"
     ]
   ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2024-12-27, 12:51:44",
+      "https://news.ycombinator.com/item?id=42521718"
+    ],
+    [
+      "Invariants: Computation and Applications",
+      "https://arxiv.org/abs/2412.13306"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 12:45:28",
       "https://news.ycombinator.com/item?id=42521698"
     ],
@@ -51,12 +81,32 @@
   ],
   [
     [
+      "2024-12-27, 12:30:37",
+      "https://news.ycombinator.com/item?id=42521637"
+    ],
+    [
+      "First demonstration of quantum teleportation over busy Internet cables",
+      "https://news.northwestern.edu/stories/2024/12/first-demonstration-of-quantum-teleportation-over-busy-internet-cables/"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 12:21:53",
       "https://news.ycombinator.com/item?id=42521598"
     ],
     [
       "Missiles Are Now the Biggest Killer of Airline Passengers",
       "https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 12:09:34",
+      "https://news.ycombinator.com/item?id=42521545"
+    ],
+    [
+      "Supernovae evidence for foundational change to cosmological models",
+      "https://academic.oup.com/mnrasl/article/537/1/L55/7926647"
     ]
   ],
   [
@@ -97,16 +147,6 @@
     [
       "Quiver: A Modern Commutative Diagram Editor",
       "https://github.com/varkor/quiver"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 04:12:32",
-      "https://news.ycombinator.com/item?id=42519881"
-    ],
-    [
-      "Show HN: Simple live calculator in Tree-sitter and cranelift JIT",
-      "https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "The trap of \"I am not an extrovert\"",
       "https://orkohunter.net/blog/the-trap-of-introversion/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 04:41:31",
-      "https://news.ycombinator.com/item?id=42513157"
-    ],
-    [
-      "Differential Growth Addon for Blender",
-      "https://boris.okunskiy.name/posts/blender-differential-growth"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 03:59:54",
-      "https://news.ycombinator.com/item?id=42513022"
-    ],
-    [
-      "A Minecraft server written in COBOL",
-      "https://github.com/meyfa/CobolCraft"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 00:59:27",
-      "https://news.ycombinator.com/item?id=42512371"
-    ],
-    [
-      "Seconds Since the Epoch",
-      "https://aphyr.com/posts/378-seconds-since-the-epoch"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 17:44:04",
-      "https://news.ycombinator.com/item?id=42509953"
-    ],
-    [
-      "Portspoof: Emulate a valid service on all 65535 TCP ports",
-      "https://github.com/drk1wi/portspoof"
     ]
   ]
 ]
