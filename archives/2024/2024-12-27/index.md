@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
 * [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
+* [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose](https://tidyfirst.substack.com/p/complain-and-propose)
+* [2024-12-27, 17:06:46](https://news.ycombinator.com/item?id=42523884) - [Topological Mechanics of Knots and Tangles](https://www.science.org/doi/10.1126/science.aaz0135)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 16:27:34](https://news.ycombinator.com/item?id=42523491) - [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
@@ -23,6 +25,7 @@
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
 * [2024-12-27, 12:48:34](https://news.ycombinator.com/item?id=42521710) - [87.4% of population experienced a decline in freedom from 2020 to 2022](https://www.fraserinstitute.org/studies/human-freedom-index-2024)
 * [2024-12-27, 12:45:28](https://news.ycombinator.com/item?id=42521698) - [Arcan as Operating System Design (2021)](https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/)
+* [2024-12-27, 12:40:21](https://news.ycombinator.com/item?id=42521677) - [Behaviorist Genie](https://arbital.com/p/behaviorist/)
 * [2024-12-27, 12:30:37](https://news.ycombinator.com/item?id=42521637) - [First demonstration of quantum teleportation over busy Internet cables](https://news.northwestern.edu/stories/2024/12/first-demonstration-of-quantum-teleportation-over-busy-internet-cables/)
 * [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport is dying](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
