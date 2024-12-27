@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-27, 20:26:11",
+      "https://news.ycombinator.com/item?id=42525719"
+    ],
+    [
+      "DivestOS ROM shuts after ten years",
+      "https://divestos.org/pages/news#end"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 19:06:59",
       "https://news.ycombinator.com/item?id=42525051"
     ],
     [
       "NASA's Parker Solar Probe Reports Successful Closest Approach to Sun",
       "https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 18:50:15",
+      "https://news.ycombinator.com/item?id=42524848"
+    ],
+    [
+      "Show HN: I Made a Web App to Bring Children's Drawings to Life",
+      "https://doodledreams.cc"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "The Structure of Neural Embeddings",
       "https://seanpedersen.github.io/posts/structure-of-neural-latent-space"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 17:42:31",
+      "https://news.ycombinator.com/item?id=42524236"
+    ],
+    [
+      "Tesla Light Show XLights Guide",
+      "https://github.com/teslamotors/light-show"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2024-12-27, 03:42:21",
-      "https://news.ycombinator.com/item?id=42519769"
-    ],
-    [
-      "Roaming Rocks",
-      "https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 23:04:17",
-      "https://news.ycombinator.com/item?id=42518562"
-    ],
-    [
-      "The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something",
-      "https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 20:14:57",
       "https://news.ycombinator.com/item?id=42517447"
     ],
     [
       "Ghostty 1.0",
       "https://ghostty.org/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 19:30:18",
-      "https://news.ycombinator.com/item?id=42517164"
-    ],
-    [
-      "Write Your Own Virtual Machine (2022)",
-      "https://www.jmeiners.com/lc3-vm/"
     ]
   ],
   [
