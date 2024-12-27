@@ -13,6 +13,7 @@
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
 * [2024-12-27, 12:45:28](https://news.ycombinator.com/item?id=42521698) - [Arcan as Operating System Design (2021)](https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/)
 * [2024-12-27, 12:30:37](https://news.ycombinator.com/item?id=42521637) - [First demonstration of quantum teleportation over busy Internet cables](https://news.northwestern.edu/stories/2024/12/first-demonstration-of-quantum-teleportation-over-busy-internet-cables/)
+* [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport is dying](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
 * [2024-12-27, 12:18:51](https://news.ycombinator.com/item?id=42521587) - [Confession: I Barely Use Web3](https://research.auditless.com/p/al-89-confession-i-barely-use-web3)
 * [2024-12-27, 12:09:34](https://news.ycombinator.com/item?id=42521545) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
