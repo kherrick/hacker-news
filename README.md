@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-27, 18:17:38](https://news.ycombinator.com/item?id=42524548) - [Unix Time and a Modest Proposal](https://www.johndcook.com/blog/2024/12/27/unix-time/)
-* [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW Suffers Major Breach Exposing Location of 800k Electric Vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
+* [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
+* [2024-12-27, 18:19:25](https://news.ycombinator.com/item?id=42524568) - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
 * [2024-12-27, 17:55:43](https://news.ycombinator.com/item?id=42524352) - [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
 * [2024-12-27, 17:38:32](https://news.ycombinator.com/item?id=42524190) - [Parents of OpenAI Whistleblower Don't Believe He Died by Suicide, Order Autopsy](https://sfist.com/2024/12/26/parents-of-openai-whistleblower-dont-believe-he-died-by-suicide-order-second-autopsy/)
 * [2024-12-27, 17:33:52](https://news.ycombinator.com/item?id=42524138) - [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
-* [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
-* [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose](https://tidyfirst.substack.com/p/complain-and-propose)
+* [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose (2014)](https://tidyfirst.substack.com/p/complain-and-propose)
 * [2024-12-27, 17:06:46](https://news.ycombinator.com/item?id=42523884) - [Topological Mechanics of Knots and Tangles](https://www.science.org/doi/10.1126/science.aaz0135)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Notice of Service Closure](https://bench.co/)
@@ -28,6 +27,7 @@
 * [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:38:50](https://news.ycombinator.com/item?id=42517227) - [Why history is always political](https://aeon.co/essays/history-is-always-political-and-contest-over-it-is-a-good-thing)
+* [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 * [2024-12-24, 16:23:10](https://news.ycombinator.com/item?id=42502899) - [Taxi drivers offer a clue to Alzheimer's risk](https://www.wsj.com/health/wellness/alzheimers-risk-taxi-ambulance-drivers-be15739b)
 
