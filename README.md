@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why Did So Many Mid-Century Designers Make Children's Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
+* [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 * [2024-12-26, 23:53:52](https://news.ycombinator.com/item?id=42518808) - [A Tongue-in-Cheek Look Back at Broderbund's 'The Print Shop'](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
 * [2024-12-26, 23:11:21](https://news.ycombinator.com/item?id=42518602) - [Thermodynamic model identifies how gold reaches Earth's surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
@@ -29,7 +30,6 @@
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
-* [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 
 ## [Archives](archives/index.md)
 
