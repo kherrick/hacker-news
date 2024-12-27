@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 16:27:34](https://news.ycombinator.com/item?id=42523491) - [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 14:15:40](https://news.ycombinator.com/item?id=42522194) - [Popeye and Tintin will soon lose copyright protection](https://www.axios.com/2024/12/27/copyright-public-domain-2025-popeye-tintin)
 * [2024-12-27, 13:32:27](https://news.ycombinator.com/item?id=42521914) - [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)
+* [2024-12-27, 13:30:40](https://news.ycombinator.com/item?id=42521905) - [PQConnect – Automated Post-Quantum End-to-End Tunnels from DJB, Lange, ohters.](https://www.pqconnect.net/)
 * [2024-12-27, 13:25:39](https://news.ycombinator.com/item?id=42521873) - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
 * [2024-12-27, 13:24:17](https://news.ycombinator.com/item?id=42521865) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The New Science of Controlling Lucid Dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
