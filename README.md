@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 22:34:25](https://news.ycombinator.com/item?id=42526693) - [Are we becoming a post-literate society?](https://www.ft.com/content/e2ddd496-4f07-4dc8-a47c-314354da8d46)
 * [2024-12-27, 21:21:30](https://news.ycombinator.com/item?id=42526150) - [Show HN: NeatShift – Organize Windows files with symbolic links](https://github.com/BytexGrid/NeatShift)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
@@ -8,7 +9,6 @@
 * [2024-12-27, 18:19:25](https://news.ycombinator.com/item?id=42524568) - [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
 * [2024-12-27, 18:11:12](https://news.ycombinator.com/item?id=42524493) - [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
 * [2024-12-27, 17:55:43](https://news.ycombinator.com/item?id=42524352) - [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
-* [2024-12-27, 17:33:52](https://news.ycombinator.com/item?id=42524138) - [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
 * [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose (2014)](https://tidyfirst.substack.com/p/complain-and-propose)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Notice of Service Closure](https://bench.co/)
