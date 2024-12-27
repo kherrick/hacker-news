@@ -2,6 +2,7 @@
 
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why did so many mid-century designers make children's books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
+* [2024-12-27, 02:32:20](https://news.ycombinator.com/item?id=42519487) - [Search ArXiv Fluidly](https://searchthearxiv.com/)
 * [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 * [2024-12-26, 23:11:21](https://news.ycombinator.com/item?id=42518602) - [Thermodynamic model identifies how gold reaches Earth's surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
@@ -13,10 +14,10 @@
 * [2024-12-26, 19:44:51](https://news.ycombinator.com/item?id=42517260) - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
+* [2024-12-26, 18:58:12](https://news.ycombinator.com/item?id=42516991) - [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
-* [2024-12-26, 17:37:00](https://news.ycombinator.com/item?id=42516497) - [Cull Front: A new front end generator for Htmx and AlpineJS](https://cullfront.com)
 * [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
 * [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
 * [2024-12-26, 16:40:24](https://news.ycombinator.com/item?id=42516134) - [Early Improvements with Atogepant for the Preventive Treatment of Migraine](https://www.neurology.org/doi/10.1212/WNL.0000000000210212)
@@ -28,7 +29,6 @@
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
-* [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 
 ## [Archives](archives/index.md)
