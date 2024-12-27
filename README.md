@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 13:25:39](https://news.ycombinator.com/item?id=42521873) - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
 * [2024-12-27, 13:24:17](https://news.ycombinator.com/item?id=42521865) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 * [2024-12-27, 13:08:22](https://news.ycombinator.com/item?id=42521782) - [From Pen and Paper to an AI Factory: McLaren's F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
 * [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
+* [2024-12-27, 12:56:32](https://news.ycombinator.com/item?id=42521735) - [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
 * [2024-12-27, 12:30:37](https://news.ycombinator.com/item?id=42521637) - [First demonstration of quantum teleportation over busy Internet cables](https://news.northwestern.edu/stories/2024/12/first-demonstration-of-quantum-teleportation-over-busy-internet-cables/)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
@@ -27,8 +29,6 @@
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
-* [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
-* [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The trap of \"I am not an extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 
 ## [Archives](archives/index.md)

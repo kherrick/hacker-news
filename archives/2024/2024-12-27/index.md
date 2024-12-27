@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 14:15:40](https://news.ycombinator.com/item?id=42522194) - [Popeye and Tintin will soon lose copyright protection](https://www.axios.com/2024/12/27/copyright-public-domain-2025-popeye-tintin)
 * [2024-12-27, 13:32:27](https://news.ycombinator.com/item?id=42521914) - [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)
 * [2024-12-27, 13:25:39](https://news.ycombinator.com/item?id=42521873) - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
@@ -12,6 +13,7 @@
 * [2024-12-27, 13:08:22](https://news.ycombinator.com/item?id=42521782) - [From Pen and Paper to an AI Factory: McLaren's F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
 * [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
+* [2024-12-27, 12:56:32](https://news.ycombinator.com/item?id=42521735) - [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
 * [2024-12-27, 12:48:34](https://news.ycombinator.com/item?id=42521710) - [87.4% of population experienced a decline in freedom from 2020 to 2022](https://www.fraserinstitute.org/studies/human-freedom-index-2024)
 * [2024-12-27, 12:45:28](https://news.ycombinator.com/item?id=42521698) - [Arcan as Operating System Design (2021)](https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/)
