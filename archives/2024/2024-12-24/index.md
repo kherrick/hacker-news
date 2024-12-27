@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 23:41:40](https://news.ycombinator.com/item?id=42505796) - [Show HN: Web app that shows how good the air quality is in Chile](https://calidaddelairecl.vercel.app/)
 * [2024-12-24, 22:55:14](https://news.ycombinator.com/item?id=42505542) - [Gordon Mah Ung has died](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
 * [2024-12-24, 22:51:23](https://news.ycombinator.com/item?id=42505519) - [Ask HN: Why isn't Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?](https://news.ycombinator.com/item?id=42505519)
 * [2024-12-24, 22:42:41](https://news.ycombinator.com/item?id=42505475) - [Jujutsu Megamerges and jj Absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
