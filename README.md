@@ -7,7 +7,6 @@
 * [2024-12-26, 23:11:21](https://news.ycombinator.com/item?id=42518602) - [Thermodynamic model identifies how gold reaches Earth's surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
 * [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 21:43:47](https://news.ycombinator.com/item?id=42518072) - [Magnetic swarm intelligence of mass-produced, programmable microrobot assemblies](https://www.cell.com/device/fulltext/S2666-9986(24)00583-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624005830%3Fshowall%3Dtrue)
-* [2024-12-26, 21:04:51](https://news.ycombinator.com/item?id=42517806) - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
 * [2024-12-26, 20:48:01](https://news.ycombinator.com/item?id=42517685) - [Sub-pixel distance transform (2023)](https://acko.net/blog/subpixel-distance-transform/)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:53:39](https://news.ycombinator.com/item?id=42517303) - [Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/)
@@ -29,6 +28,7 @@
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
+* [2024-12-23, 14:08:04](https://news.ycombinator.com/item?id=42494466) - [Ugandan runner due to arrive in London after 516 days, 7,700 miles on the road](https://www.theguardian.com/global-development/2024/dec/20/ugandan-runner-deo-kato-cape-town-london-hope-racism-europe-africa)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 
 ## [Archives](archives/index.md)
