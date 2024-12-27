@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 13:30:40](https://news.ycombinator.com/item?id=42521905) - [PQConnect – Automated Post-Quantum End-to-End Tunnels from DJB, Lange, ohters.](https://www.pqconnect.net/)
@@ -15,7 +16,6 @@
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:55:25](https://news.ycombinator.com/item?id=42520040) - [We Bought a (Map Store) – Andrew Middleton [video]](https://www.youtube.com/watch?v=QWFxyC-OBwY)
-* [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why did so many mid-century designers make children's books? (2022)](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
 * [2024-12-27, 03:42:21](https://news.ycombinator.com/item?id=42519769) - [Roaming Rocks](https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 * [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
