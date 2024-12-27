@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-27, 01:07:53",
+      "https://news.ycombinator.com/item?id=42519154"
+    ],
+    [
+      "Ask HN: Which courses/classes are you excited about in 2025?",
+      "https://news.ycombinator.com/item?id=42519154"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 23:57:52",
+      "https://news.ycombinator.com/item?id=42518833"
+    ],
+    [
+      "Bill requiring US agencies to share source code with each other becomes law",
+      "https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 23:53:52",
       "https://news.ycombinator.com/item?id=42518808"
     ],
@@ -37,16 +57,6 @@
     [
       "Reverse Engineering the Stream Deck+",
       "https://den.dev/blog/reverse-engineer-stream-deck-plus/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 22:34:50",
-      "https://news.ycombinator.com/item?id=42518378"
-    ],
-    [
-      "Neutron Stars with Less Mass Than a White Dwarf Might Exist",
-      "https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Write Your Own Virtual Machine (2022)",
       "https://www.jmeiners.com/lc3-vm/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 19:18:10",
-      "https://news.ycombinator.com/item?id=42517102"
-    ],
-    [
-      "Lua Is So Underrated",
-      "https://nflatrea.bearblog.dev/lua-is-so-underrated/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-12-26, 05:14:00",
+      "https://news.ycombinator.com/item?id=42513276"
+    ],
+    [
+      "Show HN: A singing synthesizer for the browser with automatic 3-part harmony",
+      "https://pbat.ch/recurse/demos/trio/"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 04:41:31",
       "https://news.ycombinator.com/item?id=42513157"
     ],
@@ -277,16 +287,6 @@
     [
       "Portspoof: Emulate a valid service on all 65535 TCP ports",
       "https://github.com/drk1wi/portspoof"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 17:05:04",
-      "https://news.ycombinator.com/item?id=42503163"
-    ],
-    [
-      "Debian's approach to Rust – Dependency handling (2022)",
-      "https://diziet.dreamwidth.org/10559.html"
     ]
   ],
   [
