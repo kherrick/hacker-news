@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 10:42:03](https://news.ycombinator.com/item?id=42521241) - [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why did so many mid-century designers make children's books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
-* [2024-12-27, 02:50:56](https://news.ycombinator.com/item?id=42519562) - [Show HN: Map with an LLM](https://godview.ai)
 * [2024-12-27, 02:32:20](https://news.ycombinator.com/item?id=42519487) - [Search ArXiv Fluidly](https://searchthearxiv.com/)
 * [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
