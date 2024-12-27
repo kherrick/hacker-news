@@ -33,6 +33,7 @@
 * [2024-12-27, 08:04:24](https://news.ycombinator.com/item?id=42520631) - [Germany Opened Its Doors to Migrants. Now It's Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
 * [2024-12-27, 07:16:05](https://news.ycombinator.com/item?id=42520482) - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
+* [2024-12-27, 04:55:25](https://news.ycombinator.com/item?id=42520040) - [We Bought a (Map Store) – Andrew Middleton [video]](https://www.youtube.com/watch?v=QWFxyC-OBwY)
 * [2024-12-27, 04:21:32](https://news.ycombinator.com/item?id=42519913) - [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why Did So Many Mid-Century Designers Make Children's Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
