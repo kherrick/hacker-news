@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-27, 01:07:53](https://news.ycombinator.com/item?id=42519154) - [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
+* [2024-12-27, 02:50:56](https://news.ycombinator.com/item?id=42519562) - [Map with an LLM](https://godview.ai)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 * [2024-12-26, 23:53:52](https://news.ycombinator.com/item?id=42518808) - [A Tongue-in-Cheek Look Back at Broderbund's 'The Print Shop'](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
 * [2024-12-26, 23:11:21](https://news.ycombinator.com/item?id=42518602) - [Thermodynamic model identifies how gold reaches Earth's surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
