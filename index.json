@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-27, 02:50:56",
-      "https://news.ycombinator.com/item?id=42519562"
+      "2024-12-27, 03:47:07",
+      "https://news.ycombinator.com/item?id=42519790"
     ],
     [
-      "Map with an LLM",
-      "https://godview.ai"
+      "Why Did So Many Mid-Century Designers Make Children's Books?",
+      "https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-12-26, 17:49:14",
-      "https://news.ycombinator.com/item?id=42516575"
-    ],
-    [
-      "Arcan 0.7 – The All Tomato",
-      "https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 17:39:10",
       "https://news.ycombinator.com/item?id=42516512"
     ],
@@ -297,6 +287,16 @@
     [
       "Cognitive load is what matters",
       "https://minds.md/zakirullin/cognitive"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 10:24:07",
+      "https://news.ycombinator.com/item?id=42485505"
+    ],
+    [
+      "Reads Causing Writes in Postgres",
+      "https://jesipow.com/blog/postgres-reads-cause-writes/"
     ]
   ]
 ]
