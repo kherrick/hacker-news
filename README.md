@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-27, 08:04:24](https://news.ycombinator.com/item?id=42520631) - [Germany Opened Its Doors to Migrants. Now It's Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
 * [2024-12-27, 07:16:05](https://news.ycombinator.com/item?id=42520482) - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
@@ -26,6 +25,7 @@
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The trap of \"I am not an extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 * [2024-12-26, 03:59:54](https://news.ycombinator.com/item?id=42513022) - [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
+* [2024-12-26, 03:17:34](https://news.ycombinator.com/item?id=42512896) - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 * [2024-12-26, 02:26:39](https://news.ycombinator.com/item?id=42512713) - [Siyuan: Privacy-first, self-hosted personal knowledge management software](https://github.com/siyuan-note/siyuan)
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
