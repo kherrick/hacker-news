@@ -46,6 +46,7 @@
 * [2024-12-27, 09:51:13](https://news.ycombinator.com/item?id=42521069) - [Homebrew Batteries](http://www.hanssummers.com/homebrew/homebrewbattery.html)
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 08:04:24](https://news.ycombinator.com/item?id=42520631) - [Germany Opened Its Doors to Migrants. Now It's Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
+* [2024-12-27, 08:01:13](https://news.ycombinator.com/item?id=42520627) - [Programming Lewis Carroll's Memoria Technica](https://ztoz.blog/posts/memoria_technica/)
 * [2024-12-27, 07:16:05](https://news.ycombinator.com/item?id=42520482) - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:55:25](https://news.ycombinator.com/item?id=42520040) - [We Bought a (Map Store) – Andrew Middleton [video]](https://www.youtube.com/watch?v=QWFxyC-OBwY)
