@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
+* [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I Made a Web App to Bring Children's Drawings to Life](https://doodledreams.cc)
 * [2024-12-27, 18:42:03](https://news.ycombinator.com/item?id=42524764) - [MiB working set on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2024-12-27, 18:19:25](https://news.ycombinator.com/item?id=42524568) - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
 * [2024-12-27, 18:17:38](https://news.ycombinator.com/item?id=42524548) - [Unix Time and a Modest Proposal](https://www.johndcook.com/blog/2024/12/27/unix-time/)
