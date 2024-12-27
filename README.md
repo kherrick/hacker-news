@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 21:21:30](https://news.ycombinator.com/item?id=42526150) - [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
@@ -25,7 +26,6 @@
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 08:01:13](https://news.ycombinator.com/item?id=42520627) - [Programming Lewis Carroll's Memoria Technica](https://ztoz.blog/posts/memoria_technica/)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
-* [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 * [2024-12-24, 23:41:40](https://news.ycombinator.com/item?id=42505796) - [Show HN: Web app that shows how good the air quality is in Chile](https://calidaddelairecl.vercel.app/)
