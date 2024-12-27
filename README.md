@@ -8,7 +8,6 @@
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
 * [2024-12-27, 13:04:17](https://news.ycombinator.com/item?id=42521769) - [Show HN: Instantly visualize any codebase as an interactive diagram](https://gitdiagram.com/)
 * [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
-* [2024-12-27, 12:56:32](https://news.ycombinator.com/item?id=42521735) - [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
 * [2024-12-27, 12:01:16](https://news.ycombinator.com/item?id=42521503) - [Harper (YC W25) Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
@@ -28,6 +27,7 @@
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
+* [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The trap of \"I am not an extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 
