@@ -7,6 +7,7 @@
 * [2024-12-21, 23:57:30](https://news.ycombinator.com/item?id=42483328) - [AI Is the Black Mirror](https://nautil.us/ai-is-the-black-mirror-1169121/)
 * [2024-12-21, 23:28:12](https://news.ycombinator.com/item?id=42483175) - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
 * [2024-12-21, 22:25:37](https://news.ycombinator.com/item?id=42482829) - [A Data Table Thousands of Years Old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
+* [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
 * [2024-12-21, 22:01:18](https://news.ycombinator.com/item?id=42482684) - [Ask HN: How to unblock RSS feeds on Cloudflare hosted sites?](https://news.ycombinator.com/item?id=42482684)
 * [2024-12-21, 21:54:01](https://news.ycombinator.com/item?id=42482635) - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
 * [2024-12-21, 21:39:44](https://news.ycombinator.com/item?id=42482551) - [Show HN: Otto-m8 – A low code AI/ML API deployment Platform](https://github.com/farhan0167/otto-m8)
