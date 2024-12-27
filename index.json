@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-27, 18:42:03",
+      "https://news.ycombinator.com/item?id=42524764"
+    ],
+    [
+      "MiB working set on a 64 GiB machine",
+      "https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 18:17:38",
       "https://news.ycombinator.com/item?id=42524548"
     ],
@@ -17,6 +27,16 @@
     [
       "VW Suffers Major Breach Exposing Location of 800k Electric Vehicles",
       "https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 17:55:43",
+      "https://news.ycombinator.com/item?id=42524352"
+    ],
+    [
+      "The Structure of Neural Embeddings",
+      "https://seanpedersen.github.io/posts/structure-of-neural-latent-space"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-12-26, 19:53:39",
-      "https://news.ycombinator.com/item?id=42517303"
-    ],
-    [
-      "Write a Shell in C (2015)",
-      "https://brennan.io/2015/01/16/write-a-shell-in-c/"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 19:30:18",
       "https://news.ycombinator.com/item?id=42517164"
     ],
     [
       "Write Your Own Virtual Machine (2022)",
       "https://www.jmeiners.com/lc3-vm/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 18:27:49",
-      "https://news.ycombinator.com/item?id=42516800"
-    ],
-    [
-      "A Tour of WebAuthn",
-      "https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html"
     ]
   ],
   [
