@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
+* [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
 * [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I Made a Web App to Bring Children's Drawings to Life](https://doodledreams.cc)
 * [2024-12-27, 18:19:25](https://news.ycombinator.com/item?id=42524568) - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
@@ -29,7 +30,6 @@
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 * [2024-12-24, 23:41:40](https://news.ycombinator.com/item?id=42505796) - [Show HN: Web app that shows how good the air quality is in Chile](https://calidaddelairecl.vercel.app/)
 * [2024-12-24, 16:23:10](https://news.ycombinator.com/item?id=42502899) - [Taxi drivers offer a clue to Alzheimer's risk](https://www.wsj.com/health/wellness/alzheimers-risk-taxi-ambulance-drivers-be15739b)
-* [2024-12-24, 15:54:14](https://news.ycombinator.com/item?id=42502691) - [Unorm and SNORM to float, hardware edition](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
 
 ## [Archives](archives/index.md)
 
