@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-12-27, 12:56:32",
-      "https://news.ycombinator.com/item?id=42521735"
-    ],
-    [
-      "An Evidence-Based Approach to Goal Setting and Behavior Change",
-      "https://www.strongerbyscience.com/goal-setting/"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 12:51:44",
       "https://news.ycombinator.com/item?id=42521718"
     ],
@@ -277,6 +267,16 @@
     [
       "A Simple ELF",
       "https://4zm.org/2024/12/25/a-simple-elf.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 17:24:28",
+      "https://news.ycombinator.com/item?id=42516433"
+    ],
+    [
+      "Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU",
+      "https://github.com/lisyarus/webgpu-raytracer"
     ]
   ],
   [
