@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
+* [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
+* [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
+* [2024-12-27, 12:18:51](https://news.ycombinator.com/item?id=42521587) - [Confession: I Barely Use Web3](https://research.auditless.com/p/al-89-confession-i-barely-use-web3)
 * [2024-12-27, 12:01:16](https://news.ycombinator.com/item?id=42521503) - [Harper (YC W25) Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
 * [2024-12-27, 10:42:03](https://news.ycombinator.com/item?id=42521241) - [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
