@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
-* [2024-12-27, 04:21:32](https://news.ycombinator.com/item?id=42519913) - [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why did so many mid-century designers make children's books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
 * [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
@@ -18,6 +17,7 @@
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
+* [2024-12-26, 17:37:00](https://news.ycombinator.com/item?id=42516497) - [Cull Front: A new front end generator for Htmx and AlpineJS](https://cullfront.com)
 * [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
 * [2024-12-26, 17:24:28](https://news.ycombinator.com/item?id=42516433) - [Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU](https://github.com/lisyarus/webgpu-raytracer)
 * [2024-12-26, 16:40:24](https://news.ycombinator.com/item?id=42516134) - [Early Improvements with Atogepant for the Preventive Treatment of Migraine](https://www.neurology.org/doi/10.1212/WNL.0000000000210212)
