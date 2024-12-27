@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 13:25:39](https://news.ycombinator.com/item?id=42521873) - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
+* [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The New Science of Controlling Lucid Dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
 * [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
+* [2024-12-27, 12:45:28](https://news.ycombinator.com/item?id=42521698) - [Arcan as Operating System Design (2021)](https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)
 * [2024-12-27, 12:18:51](https://news.ycombinator.com/item?id=42521587) - [Confession: I Barely Use Web3](https://research.auditless.com/p/al-89-confession-i-barely-use-web3)
 * [2024-12-27, 12:01:16](https://news.ycombinator.com/item?id=42521503) - [Harper (YC W25) Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
@@ -17,6 +20,7 @@
 * [2024-12-27, 04:21:32](https://news.ycombinator.com/item?id=42519913) - [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why Did So Many Mid-Century Designers Make Children's Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
+* [2024-12-27, 03:42:21](https://news.ycombinator.com/item?id=42519769) - [Roaming Rocks](https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can)
 * [2024-12-27, 02:50:56](https://news.ycombinator.com/item?id=42519562) - [Map with an LLM](https://godview.ai)
 * [2024-12-27, 02:32:20](https://news.ycombinator.com/item?id=42519487) - [Search ArXiv Fluidly](https://searchthearxiv.com/)
 * [2024-12-27, 01:07:53](https://news.ycombinator.com/item?id=42519154) - [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
