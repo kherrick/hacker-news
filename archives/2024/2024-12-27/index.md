@@ -11,6 +11,7 @@
 * [2024-12-27, 18:11:12](https://news.ycombinator.com/item?id=42524493) - [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
 * [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW Suffers Major Breach Exposing Location of 800k Electric Vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
 * [2024-12-27, 17:55:43](https://news.ycombinator.com/item?id=42524352) - [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
+* [2024-12-27, 17:42:31](https://news.ycombinator.com/item?id=42524236) - [Tesla Light Show XLights Guide](https://github.com/teslamotors/light-show)
 * [2024-12-27, 17:38:32](https://news.ycombinator.com/item?id=42524190) - [Parents of OpenAI Whistleblower Don't Believe He Died by Suicide, Order Autopsy](https://sfist.com/2024/12/26/parents-of-openai-whistleblower-dont-believe-he-died-by-suicide-order-second-autopsy/)
 * [2024-12-27, 17:33:52](https://news.ycombinator.com/item?id=42524138) - [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
 * [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
