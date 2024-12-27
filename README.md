@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-27, 07:16:05](https://news.ycombinator.com/item?id=42520482) - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
+* [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why did so many mid-century designers make children's books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
