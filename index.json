@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-27, 14:15:40",
-      "https://news.ycombinator.com/item?id=42522194"
-    ],
-    [
-      "Popeye and Tintin will soon lose copyright protection",
-      "https://www.axios.com/2024/12/27/copyright-public-domain-2025-popeye-tintin"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 13:25:39",
       "https://news.ycombinator.com/item?id=42521873"
     ],
@@ -67,26 +57,6 @@
     [
       "Invariants: Computation and Applications",
       "https://arxiv.org/abs/2412.13306"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 12:48:34",
-      "https://news.ycombinator.com/item?id=42521710"
-    ],
-    [
-      "87.4% of population experienced a decline in freedom from 2020 to 2022",
-      "https://www.fraserinstitute.org/studies/human-freedom-index-2024"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 12:45:28",
-      "https://news.ycombinator.com/item?id=42521698"
-    ],
-    [
-      "Arcan as Operating System Design (2021)",
-      "https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-12-26, 23:11:21",
+      "https://news.ycombinator.com/item?id=42518602"
+    ],
+    [
+      "Thermodynamic model identifies how gold reaches Earth's surface",
+      "https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 23:04:17",
       "https://news.ycombinator.com/item?id=42518562"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-12-26, 17:24:28",
+      "https://news.ycombinator.com/item?id=42516433"
+    ],
+    [
+      "Show HN: I've made a Monte-Carlo raytracer for glTF scenes in WebGPU",
+      "https://github.com/lisyarus/webgpu-raytracer"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 09:29:48",
       "https://news.ycombinator.com/item?id=42514127"
     ],
     [
       "The trap of \"I am not an extrovert\"",
       "https://orkohunter.net/blog/the-trap-of-introversion/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 04:41:31",
+      "https://news.ycombinator.com/item?id=42513157"
+    ],
+    [
+      "Differential Growth Addon for Blender",
+      "https://boris.okunskiy.name/posts/blender-differential-growth"
     ]
   ]
 ]
