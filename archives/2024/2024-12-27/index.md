@@ -7,6 +7,7 @@
 * [2024-12-27, 21:21:30](https://news.ycombinator.com/item?id=42526150) - [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
+* [2024-12-27, 19:32:37](https://news.ycombinator.com/item?id=42525290) - [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
 * [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
 * [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I Made a Web App to Bring Children's Drawings to Life](https://doodledreams.cc)
 * [2024-12-27, 18:42:03](https://news.ycombinator.com/item?id=42524764) - [MiB working set on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)

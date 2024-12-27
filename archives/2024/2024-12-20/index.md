@@ -42,6 +42,7 @@
 * [2024-12-20, 10:43:36](https://news.ycombinator.com/item?id=42469945) - [Show HN: Ephemeral VMs in 1 Microsecond](https://github.com/libriscv/multi_tenant_drogon)
 * [2024-12-20, 10:20:17](https://news.ycombinator.com/item?id=42469786) - [New physics SIM trains robots 430k times faster than reality](https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/)
 * [2024-12-20, 10:07:42](https://news.ycombinator.com/item?id=42469708) - [Matt Mullenweg temporarily shuts down some Wordpress.org functions](https://wordpress.org/news/2024/12/holiday-break/)
+* [2024-12-20, 09:50:28](https://news.ycombinator.com/item?id=42469604) - [Pseudonymity in Academic Publishing](https://11011110.github.io/blog/2024/12/19/pseudonymity-academic-publishing.html)
 * [2024-12-20, 09:42:47](https://news.ycombinator.com/item?id=42469560) - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 * [2024-12-20, 08:31:30](https://news.ycombinator.com/item?id=42469284) - [There is no such thing as AI Product Manager – What PMs need to know about LLMs](https://productme.org/posts/ai-for-product-managers)
 * [2024-12-20, 08:26:52](https://news.ycombinator.com/item?id=42469264) - [Waymo achieves 92% reduction in bodily injury claims compared to human drivers](https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/)
