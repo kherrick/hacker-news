@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 14:15:40](https://news.ycombinator.com/item?id=42522194) - [Popeye and Tintin will soon lose copyright protection](https://www.axios.com/2024/12/27/copyright-public-domain-2025-popeye-tintin)
 * [2024-12-27, 13:32:27](https://news.ycombinator.com/item?id=42521914) - [Denmark Offers to Buy USA (2019)](https://www.newyorker.com/humor/borowitz-report/denmark-offers-to-buy-us)
@@ -12,6 +13,7 @@
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The New Science of Controlling Lucid Dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 * [2024-12-27, 13:08:22](https://news.ycombinator.com/item?id=42521782) - [From Pen and Paper to an AI Factory: McLaren's F1 Reinvention](https://www.mclaren.com/racing/partners/dell-technologies/how-ai-is-revolutionising-f1-presented-by-dell-technologies/)
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
+* [2024-12-27, 13:04:17](https://news.ycombinator.com/item?id=42521769) - [Show HN: Instantly visualize any codebase as an interactive diagram](https://gitdiagram.com/)
 * [2024-12-27, 12:57:38](https://news.ycombinator.com/item?id=42521744) - [Why OpenAI's Structure Must Evolve to Advance Our Mission](http://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission)
 * [2024-12-27, 12:56:32](https://news.ycombinator.com/item?id=42521735) - [An Evidence-Based Approach to Goal Setting and Behavior Change](https://www.strongerbyscience.com/goal-setting/)
 * [2024-12-27, 12:51:44](https://news.ycombinator.com/item?id=42521718) - [Invariants: Computation and Applications](https://arxiv.org/abs/2412.13306)
