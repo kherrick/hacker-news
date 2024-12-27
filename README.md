@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-27, 18:42:03](https://news.ycombinator.com/item?id=42524764) - [MiB working set on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2024-12-27, 18:17:38](https://news.ycombinator.com/item?id=42524548) - [Unix Time and a Modest Proposal](https://www.johndcook.com/blog/2024/12/27/unix-time/)
 * [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW Suffers Major Breach Exposing Location of 800k Electric Vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
+* [2024-12-27, 17:55:43](https://news.ycombinator.com/item?id=42524352) - [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
 * [2024-12-27, 17:38:32](https://news.ycombinator.com/item?id=42524190) - [Parents of OpenAI Whistleblower Don't Believe He Died by Suicide, Order Autopsy](https://sfist.com/2024/12/26/parents-of-openai-whistleblower-dont-believe-he-died-by-suicide-order-second-autopsy/)
 * [2024-12-27, 17:33:52](https://news.ycombinator.com/item?id=42524138) - [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
 * [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
@@ -26,9 +28,7 @@
 * [2024-12-27, 03:42:21](https://news.ycombinator.com/item?id=42519769) - [Roaming Rocks](https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can)
 * [2024-12-26, 23:04:17](https://news.ycombinator.com/item?id=42518562) - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
-* [2024-12-26, 19:53:39](https://news.ycombinator.com/item?id=42517303) - [Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
-* [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 
 ## [Archives](archives/index.md)
