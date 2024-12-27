@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-27, 02:50:56](https://news.ycombinator.com/item?id=42519562) - [Map with an LLM](https://godview.ai)
+* [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why Did So Many Mid-Century Designers Make Children's Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
 * [2024-12-26, 23:57:52](https://news.ycombinator.com/item?id=42518833) - [Bill requiring US agencies to share source code with each other becomes law](https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/)
 * [2024-12-26, 23:53:52](https://news.ycombinator.com/item?id=42518808) - [A Tongue-in-Cheek Look Back at Broderbund's 'The Print Shop'](https://theprintshop.club/2021/07/12/a-tongue-in-cheek-look-back-at-broderbunds-the-print-shop/)
 * [2024-12-26, 23:11:21](https://news.ycombinator.com/item?id=42518602) - [Thermodynamic model identifies how gold reaches Earth's surface](https://phys.org/news/2024-12-thermodynamic-gold-earth-surface.html)
@@ -15,7 +15,6 @@
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine (2022)](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 18:27:49](https://news.ycombinator.com/item?id=42516800) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-26, 18:10:23](https://news.ycombinator.com/item?id=42516697) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
-* [2024-12-26, 17:49:14](https://news.ycombinator.com/item?id=42516575) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 17:39:10](https://news.ycombinator.com/item?id=42516512) - [Gondwanaland: The search for a land before (human) time](https://www.australiangeographic.com.au/topics/history-culture/2024/09/gondwanaland/)
 * [2024-12-26, 17:37:00](https://news.ycombinator.com/item?id=42516497) - [Cull Front: A new front end generator for Htmx and AlpineJS](https://cullfront.com)
 * [2024-12-26, 17:33:54](https://news.ycombinator.com/item?id=42516481) - [Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF)](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer)
@@ -30,6 +29,7 @@
 * [2024-12-26, 00:59:27](https://news.ycombinator.com/item?id=42512371) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-22, 22:18:12](https://news.ycombinator.com/item?id=42489645) - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
+* [2024-12-22, 10:24:07](https://news.ycombinator.com/item?id=42485505) - [Reads Causing Writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 
 ## [Archives](archives/index.md)
 
