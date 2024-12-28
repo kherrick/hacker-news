@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-28, 12:01:27](https://news.ycombinator.com/item?id=42530418) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-12-28, 12:00:09](https://news.ycombinator.com/item?id=42530410) - [Spotify Shuts Down 'Unwrapped' Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)

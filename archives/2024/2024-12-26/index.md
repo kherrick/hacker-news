@@ -34,6 +34,7 @@
 * [2024-12-26, 16:22:43](https://news.ycombinator.com/item?id=42516041) - [Building AGI on the Tokio Runtime](https://www.christo.sh/building-agi-on-the-tokio-runtime/)
 * [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
 * [2024-12-26, 15:51:46](https://news.ycombinator.com/item?id=42515871) - [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)
+* [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:50:02](https://news.ycombinator.com/item?id=42515507) - [T2 System Development Environment](https://t2sde.org/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
 * [2024-12-26, 13:55:32](https://news.ycombinator.com/item?id=42515159) - [Cramming Scrapscript into Msgpack](https://taylor.town/flat-scraps-000)
