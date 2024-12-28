@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-12-28, 11:18:12",
-      "https://news.ycombinator.com/item?id=42530237"
-    ],
-    [
-      "Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans",
-      "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 09:32:32",
       "https://news.ycombinator.com/item?id=42529756"
     ],
@@ -257,6 +247,16 @@
     [
       "Building a 3D safety sensor with Rust",
       "https://www.sonair.com/journal/building-for-safety-with-rust"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 05:51:35",
+      "https://news.ycombinator.com/item?id=42507145"
+    ],
+    [
+      "A design flaw in the Windows 3D Pipes screen saver pointed out by a customer",
+      "https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675"
     ]
   ],
   [
