@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-12-28, 07:11:06",
+      "https://news.ycombinator.com/item?id=42529207"
+    ],
+    [
+      "LLMs are everything that it wrong in computing",
+      "https://crys.site/blog/2024/llms-scare-me/"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 06:20:38",
       "https://news.ycombinator.com/item?id=42529023"
     ],
     [
       "Machine-Assisted Proof by Terence Tao [pdf]",
       "https://www.ams.org/notices/202501/rnoti-p6.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 04:55:24",
+      "https://news.ycombinator.com/item?id=42528712"
+    ],
+    [
+      "Armada: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition",
+      "https://arxiv.org/abs/2412.10631"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Liberating Wi-Fi on the ESP32 [video]",
       "https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 00:01:39",
+      "https://news.ycombinator.com/item?id=42527256"
+    ],
+    [
+      "Libobscura: Cameras Are Difficult [video]",
+      "https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2024-12-27, 13:11:40",
-      "https://news.ycombinator.com/item?id=42521795"
-    ],
-    [
-      "The new science of controlling lucid dreams",
-      "https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 13:04:17",
-      "https://news.ycombinator.com/item?id=42521769"
-    ],
-    [
-      "Show HN: Instantly visualize any codebase as an interactive diagram",
-      "https://gitdiagram.com/"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 12:29:13",
       "https://news.ycombinator.com/item?id=42521629"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42506984"
     ],
     [
-      "That's Not an Abstraction, That's Just a Layer of Indirection",
+      "That's not an abstraction, that's a layer of indirection",
       "https://fhur.me/posts/2024/thats-not-an-abstraction"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "PixLens: A lens that turns the scenery you see into pixel art",
       "https://monoli-shop.com/products/pixlens-コピー"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 16:23:10",
-      "https://news.ycombinator.com/item?id=42502899"
-    ],
-    [
-      "Taxi drivers offer a clue to Alzheimer's risk",
-      "https://www.wsj.com/health/wellness/alzheimers-risk-taxi-ambulance-drivers-be15739b"
     ]
   ],
   [
