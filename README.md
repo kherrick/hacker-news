@@ -2,6 +2,7 @@
 
 * [2024-12-28, 03:01:15](https://news.ycombinator.com/item?id=42528203) - [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)
 * [2024-12-28, 02:10:48](https://news.ycombinator.com/item?id=42527947) - [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
+* [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 23:10:54](https://news.ycombinator.com/item?id=42526926) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-27, 22:45:42](https://news.ycombinator.com/item?id=42526769) - [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
@@ -21,7 +22,6 @@
 * [2024-12-27, 13:04:17](https://news.ycombinator.com/item?id=42521769) - [Show HN: Instantly visualize any codebase as an interactive diagram](https://gitdiagram.com/)
 * [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport's days are numbered](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-27, 08:01:13](https://news.ycombinator.com/item?id=42520627) - [Programming Lewis Carroll's Memoria Technica](https://ztoz.blog/posts/memoria_technica/)
-* [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
 * [2024-12-25, 10:44:05](https://news.ycombinator.com/item?id=42508130) - [Show HN: Caravan, a flexible, transport-based logging system for TypeScript apps](https://github.com/carlos-menezes/caravan)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
