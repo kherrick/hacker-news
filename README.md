@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-28, 16:34:19](https://news.ycombinator.com/item?id=42532156) - [Costco Denies Shareholder Demand to Back Down from DEI Hiring](https://www.newsweek.com/costco-board-shareholder-dei-hiring-2006717)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
 * [2024-12-28, 15:48:02](https://news.ycombinator.com/item?id=42531830) - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
@@ -22,7 +23,6 @@
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
-* [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
