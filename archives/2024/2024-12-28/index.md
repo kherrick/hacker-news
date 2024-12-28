@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
 * [2024-12-28, 12:01:27](https://news.ycombinator.com/item?id=42530418) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-12-28, 12:00:09](https://news.ycombinator.com/item?id=42530410) - [Spotify Shuts Down 'Unwrapped' Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
+* [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Shortest times between train stations in Europe](https://www.chronotrains.com/en)
+* [2024-12-28, 11:33:47](https://news.ycombinator.com/item?id=42530293) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
 * [2024-12-28, 11:18:12](https://news.ycombinator.com/item?id=42530237) - [Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Netflix tells writers to have characters \"announce what they're doing\"](https://www.worldofreel.com/blog/2024/12/27/netflix-tells-writers-to-have-characters-announce-what-theyre-doing-just-in-case-viewer-is-busy-doing-something-else)
 * [2024-12-28, 08:45:18](https://news.ycombinator.com/item?id=42529564) - [The Nvidia Way – Review of Tae Kim's New Book](https://thechipletter.substack.com/p/the-nvidia-way)
