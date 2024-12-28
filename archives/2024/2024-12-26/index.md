@@ -50,6 +50,7 @@
 * [2024-12-26, 07:31:41](https://news.ycombinator.com/item?id=42513675) - [Node.js enables TypeScript support by default](https://github.com/nodejs/node/pull/56350)
 * [2024-12-26, 06:40:31](https://news.ycombinator.com/item?id=42513536) - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 * [2024-12-26, 05:14:00](https://news.ycombinator.com/item?id=42513276) - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
+* [2024-12-26, 04:54:20](https://news.ycombinator.com/item?id=42513204) - [International Bank Note Society](https://www.theibns.org/joomla/index.php)
 * [2024-12-26, 04:41:31](https://news.ycombinator.com/item?id=42513157) - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 * [2024-12-26, 04:20:37](https://news.ycombinator.com/item?id=42513083) - [Archimedes, Vitruvius and Leonardo: The Odometer Connection (2020)](https://www.scirp.org/journal/paperinformation?paperid=104676)
 * [2024-12-26, 03:59:54](https://news.ycombinator.com/item?id=42513022) - [A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
