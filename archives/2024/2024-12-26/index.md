@@ -35,6 +35,7 @@
 * [2024-12-26, 16:18:24](https://news.ycombinator.com/item?id=42516021) - [Startups Begin Geoengineering the Sea](https://spectrum.ieee.org/ocean-carbon-removal)
 * [2024-12-26, 15:51:46](https://news.ycombinator.com/item?id=42515871) - [ChatGPT Saved Chats: Save and organize your important conversations in ChatGPT](https://chromewebstore.google.com/detail/chatgpt-saved-chats/aonhnhcglgpnpopfghdplgcdkhchkkcg)
 * [2024-12-26, 14:50:02](https://news.ycombinator.com/item?id=42515507) - [T2 System Development Environment](https://t2sde.org/)
+* [2024-12-26, 13:55:32](https://news.ycombinator.com/item?id=42515159) - [Cramming Scrapscript into Msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-26, 13:23:12](https://news.ycombinator.com/item?id=42515041) - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
 * [2024-12-26, 13:23:04](https://news.ycombinator.com/item?id=42515039) - [Creem: The payment platform that calls BS on hidden fees](https://shipandsip.substack.com/p/inside-creem-the-payment-platform)
 * [2024-12-26, 12:31:13](https://news.ycombinator.com/item?id=42514803) - [Ask HN: How do you maintain personal annotations for code you don't control?](https://news.ycombinator.com/item?id=42514803)
