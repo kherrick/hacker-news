@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-28, 12:01:27](https://news.ycombinator.com/item?id=42530418) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-* [2024-12-28, 12:00:09](https://news.ycombinator.com/item?id=42530410) - [Spotify Shuts Down ‘Unwrapped’ Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-28, 11:18:12](https://news.ycombinator.com/item?id=42530237) - [Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
@@ -30,6 +29,7 @@
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-25, 03:23:55](https://news.ycombinator.com/item?id=42506623) - [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)
 * [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
+* [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
 
 ## [Archives](archives/index.md)
 
