@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 07:11:06](https://news.ycombinator.com/item?id=42529207) - [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
+* [2024-12-28, 04:55:24](https://news.ycombinator.com/item?id=42528712) - [Armada: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition](https://arxiv.org/abs/2412.10631)
 * [2024-12-28, 04:17:44](https://news.ycombinator.com/item?id=42528521) - [Permissionless. A Manifesto for the Future of Everything](https://www.permissionlessbook.com)
 * [2024-12-28, 03:58:26](https://news.ycombinator.com/item?id=42528435) - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 * [2024-12-28, 03:49:51](https://news.ycombinator.com/item?id=42528405) - [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
@@ -17,3 +19,4 @@
 * [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:16:34](https://news.ycombinator.com/item?id=42527355) - [Ghostty: Reflecting on Reaching 1.0](https://mitchellh.com/writing/ghostty-1-0-reflection)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
+* [2024-12-28, 00:01:39](https://news.ycombinator.com/item?id=42527256) - [Libobscura: Cameras Are Difficult [video]](https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult)
