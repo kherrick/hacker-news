@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
+* [2024-12-28, 16:54:14](https://news.ycombinator.com/item?id=42532311) - [U.S. homelessness jumps to record high amid affordable housing shortage](https://www.npr.org/2024/12/27/nx-s1-5241115/us-homeless-hud-housing-costs-migrants)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
@@ -21,7 +23,6 @@
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
-* [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-26, 15:08:25](https://news.ycombinator.com/item?id=42515638) - [Get a Colorful Sneak Peek of Notre-Dame's New Stained Glass Designs](https://www.smithsonianmag.com/smart-news/notre-dame-to-get-a-colorful-update-with-new-stained-glass-by-claire-tabouret-180985731/)
 * [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
@@ -29,7 +30,6 @@
 * [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
-* [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
 
 ## [Archives](archives/index.md)
 

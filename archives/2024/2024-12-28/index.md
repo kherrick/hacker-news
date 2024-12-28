@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
+* [2024-12-28, 16:54:14](https://news.ycombinator.com/item?id=42532311) - [U.S. homelessness jumps to record high amid affordable housing shortage](https://www.npr.org/2024/12/27/nx-s1-5241115/us-homeless-hud-housing-costs-migrants)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 16:34:19](https://news.ycombinator.com/item?id=42532156) - [Costco Denies Shareholder Demand to Back Down from DEI Hiring](https://www.newsweek.com/costco-board-shareholder-dei-hiring-2006717)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
