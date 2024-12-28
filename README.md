@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-28, 03:49:51](https://news.ycombinator.com/item?id=42528405) - [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
 * [2024-12-28, 03:48:26](https://news.ycombinator.com/item?id=42528399) - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
@@ -19,6 +18,7 @@
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
+* [2024-12-27, 13:30:40](https://news.ycombinator.com/item?id=42521905) - [PQConnect: Automated Post-Quantum End-to-End Tunnels](https://www.pqconnect.net/)
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 * [2024-12-27, 13:05:38](https://news.ycombinator.com/item?id=42521773) - [Show HN: I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
 * [2024-12-27, 13:04:17](https://news.ycombinator.com/item?id=42521769) - [Show HN: Instantly visualize any codebase as an interactive diagram](https://gitdiagram.com/)
