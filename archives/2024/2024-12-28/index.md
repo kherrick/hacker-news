@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 21:20:35](https://news.ycombinator.com/item?id=42534851) - [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
 * [2024-12-28, 20:28:16](https://news.ycombinator.com/item?id=42534341) - [How can NBA address 3-point boom? Ranking 12 potential solutions](https://www.cbssports.com/nba/news/how-can-nba-address-3-point-boom-ranking-12-potential-solutions-from-moving-line-to-changing-scoring-system/)
 * [2024-12-28, 20:03:28](https://news.ycombinator.com/item?id=42534090) - [Libero – A Programmer's Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
