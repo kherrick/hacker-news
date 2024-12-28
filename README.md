@@ -2,9 +2,9 @@
 
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
+* [2024-12-28, 16:58:35](https://news.ycombinator.com/item?id=42532353) - [Per Seat Pricing Sucks](https://blog.flippercloud.io/per-seat-pricing-sucks/)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
-* [2024-12-28, 15:48:02](https://news.ycombinator.com/item?id=42531830) - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
