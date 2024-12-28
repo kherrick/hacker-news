@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
@@ -16,7 +17,6 @@
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 * [2024-12-28, 01:28:12](https://news.ycombinator.com/item?id=42527743) - [Dexterity assessment of hospital workers: prospective comparative study](https://www.bmj.com/content/387/bmj-2024-081814)
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
-* [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
