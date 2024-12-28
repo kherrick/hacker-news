@@ -12,7 +12,6 @@
 * [2024-12-28, 12:00:09](https://news.ycombinator.com/item?id=42530410) - [Spotify Shuts Down ‘Unwrapped’ Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
-* [2024-12-28, 08:45:18](https://news.ycombinator.com/item?id=42529564) - [The Nvidia Way](https://thechipletter.substack.com/p/the-nvidia-way)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 * [2024-12-28, 03:58:26](https://news.ycombinator.com/item?id=42528435) - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
@@ -30,6 +29,7 @@
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
 * [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+* [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
 
 ## [Archives](archives/index.md)
 
