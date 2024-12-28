@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-28, 04:17:44](https://news.ycombinator.com/item?id=42528521) - [Permissionless. A Manifesto for the Future of Everything](https://www.permissionlessbook.com)
 * [2024-12-28, 03:49:51](https://news.ycombinator.com/item?id=42528405) - [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
@@ -17,6 +16,7 @@
 * [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I made a web app to bring children's drawings to life](https://doodledreams.cc)
 * [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW breach exposes location of 800k electric vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
+* [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose (2014)](https://tidyfirst.substack.com/p/complain-and-propose)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
