@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-28, 13:41:48",
+      "https://news.ycombinator.com/item?id=42530991"
+    ],
+    [
+      "So You Want to Write Java in Neovim",
+      "https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 12:01:27",
       "https://news.ycombinator.com/item?id=42530418"
     ],
@@ -247,16 +257,6 @@
     [
       "Building a 3D safety sensor with Rust",
       "https://www.sonair.com/journal/building-for-safety-with-rust"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 05:51:35",
-      "https://news.ycombinator.com/item?id=42507145"
-    ],
-    [
-      "A design flaw in the Windows 3D Pipes screen saver pointed out by a customer",
-      "https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675"
     ]
   ],
   [
