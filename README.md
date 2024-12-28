@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-28, 07:11:06](https://news.ycombinator.com/item?id=42529207) - [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 * [2024-12-28, 03:58:26](https://news.ycombinator.com/item?id=42528435) - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 * [2024-12-28, 03:48:26](https://news.ycombinator.com/item?id=42528399) - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
@@ -22,6 +21,7 @@
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 13:30:40](https://news.ycombinator.com/item?id=42521905) - [PQConnect: Automated Post-Quantum End-to-End Tunnels](https://www.pqconnect.net/)
+* [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 * [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport's days are numbered](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
 * [2024-12-26, 04:54:20](https://news.ycombinator.com/item?id=42513204) - [International Bank Note Society](https://www.theibns.org/joomla/index.php)
