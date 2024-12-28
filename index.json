@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-28, 02:10:48",
+      "https://news.ycombinator.com/item?id=42527947"
+    ],
+    [
+      "Mixin is a trait/mixin and bytecode weaving framework for Java using ASM",
+      "https://github.com/SpongePowered/Mixin"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 00:54:06",
       "https://news.ycombinator.com/item?id=42527572"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-12-27, 18:11:12",
-      "https://news.ycombinator.com/item?id=42524493"
-    ],
-    [
-      "Show HN: Houseplant – Database Migrations for ClickHouse",
-      "https://houseplant.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 18:03:47",
       "https://news.ycombinator.com/item?id=42524422"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-12-27, 12:01:16",
+      "https://news.ycombinator.com/item?id=42521503"
+    ],
+    [
+      "Harper (YC W25) Is Hiring Founding Engineer #2",
+      "https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 08:01:13",
       "https://news.ycombinator.com/item?id=42520627"
     ],
     [
       "Programming Lewis Carroll's Memoria Technica",
       "https://ztoz.blog/posts/memoria_technica/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 20:14:57",
-      "https://news.ycombinator.com/item?id=42517447"
-    ],
-    [
-      "Ghostty 1.0",
-      "https://ghostty.org/"
     ]
   ],
   [
