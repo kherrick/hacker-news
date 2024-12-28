@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-28, 20:03:28](https://news.ycombinator.com/item?id=42534090) - [Libero – A Programmer's Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
 * [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
@@ -15,12 +16,12 @@
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 * [2024-12-28, 01:28:12](https://news.ycombinator.com/item?id=42527743) - [Dexterity assessment of hospital workers: prospective comparative study](https://www.bmj.com/content/387/bmj-2024-081814)
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
-* [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
+* [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 15:08:25](https://news.ycombinator.com/item?id=42515638) - [Get a Colorful Sneak Peek of Notre-Dame's New Stained Glass Designs](https://www.smithsonianmag.com/smart-news/notre-dame-to-get-a-colorful-update-with-new-stained-glass-by-claire-tabouret-180985731/)
 * [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
@@ -29,7 +30,6 @@
 * [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Ars Technica guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
-* [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
 
 ## [Archives](archives/index.md)
 

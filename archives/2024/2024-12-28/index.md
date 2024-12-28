@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 20:03:28](https://news.ycombinator.com/item?id=42534090) - [Libero – A Programmer's Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 17:06:40](https://news.ycombinator.com/item?id=42532441) - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
 * [2024-12-28, 17:05:54](https://news.ycombinator.com/item?id=42532429) - [Missile Strike Confirmed as Cause of Azerbaijan E190 Crash – Aeroxplorer.com](https://aeroxplorer.com/articles/missile-strike-confirmed-as-cause-of-azerbaijan-e190-crash.php)

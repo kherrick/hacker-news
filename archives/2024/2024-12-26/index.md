@@ -17,6 +17,7 @@
 * [2024-12-26, 20:14:57](https://news.ycombinator.com/item?id=42517447) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:53:39](https://news.ycombinator.com/item?id=42517303) - [Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [2024-12-26, 19:44:51](https://news.ycombinator.com/item?id=42517260) - [OpenAI is Visa – Buttering up the government to retain a monopoly](https://sherwood.news/tech/openai-is-visa/)
+* [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 19:38:50](https://news.ycombinator.com/item?id=42517227) - [Why history is always political](https://aeon.co/essays/history-is-always-political-and-contest-over-it-is-a-good-thing)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
