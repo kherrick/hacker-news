@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 08:45:18](https://news.ycombinator.com/item?id=42529564) - [The Nvidia Way – Review of Tae Kim's New Book](https://thechipletter.substack.com/p/the-nvidia-way)
 * [2024-12-28, 07:11:06](https://news.ycombinator.com/item?id=42529207) - [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 * [2024-12-28, 04:55:24](https://news.ycombinator.com/item?id=42528712) - [Armada: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition](https://arxiv.org/abs/2412.10631)
