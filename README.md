@@ -2,7 +2,6 @@
 
 * [2024-12-28, 07:11:06](https://news.ycombinator.com/item?id=42529207) - [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
-* [2024-12-28, 04:55:24](https://news.ycombinator.com/item?id=42528712) - [Armada: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition](https://arxiv.org/abs/2412.10631)
 * [2024-12-28, 03:58:26](https://news.ycombinator.com/item?id=42528435) - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 * [2024-12-28, 03:48:26](https://news.ycombinator.com/item?id=42528399) - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
@@ -28,6 +27,7 @@
 * [2024-12-26, 04:54:20](https://news.ycombinator.com/item?id=42513204) - [International Bank Note Society](https://www.theibns.org/joomla/index.php)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-25, 03:23:55](https://news.ycombinator.com/item?id=42506623) - [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)
+* [2024-12-24, 16:23:10](https://news.ycombinator.com/item?id=42502899) - [Taxi drivers offer a clue to Alzheimer's risk](https://www.wsj.com/health/wellness/alzheimers-risk-taxi-ambulance-drivers-be15739b)
 * [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
 * [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
 
