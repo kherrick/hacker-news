@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-28, 22:37:36](https://news.ycombinator.com/item?id=42535453) - [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
 * [2024-12-28, 22:07:15](https://news.ycombinator.com/item?id=42535217) - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 21:46:42](https://news.ycombinator.com/item?id=42535057) - [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
@@ -20,7 +21,6 @@
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
-* [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 17:47:47](https://news.ycombinator.com/item?id=42516568) - [Analyzing North Korean Malware](https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
