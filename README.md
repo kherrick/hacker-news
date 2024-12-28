@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-28, 03:49:51](https://news.ycombinator.com/item?id=42528405) - [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
+* [2024-12-28, 03:48:26](https://news.ycombinator.com/item?id=42528399) - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 * [2024-12-28, 03:01:15](https://news.ycombinator.com/item?id=42528203) - [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)
@@ -16,7 +17,6 @@
 * [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I made a web app to bring children's drawings to life](https://doodledreams.cc)
 * [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW breach exposes location of 800k electric vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
-* [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose (2014)](https://tidyfirst.substack.com/p/complain-and-propose)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 13:11:40](https://news.ycombinator.com/item?id=42521795) - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
@@ -25,11 +25,11 @@
 * [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport's days are numbered](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+* [2024-12-25, 03:23:55](https://news.ycombinator.com/item?id=42506623) - [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)
 * [2024-12-25, 03:04:45](https://news.ycombinator.com/item?id=42506557) - [400TB Single Cluster: OceanBase Powers Kwai`s Core Business](https://oceanbase.github.io/docs/blogs/users/Kwai)
 * [2024-12-24, 16:23:10](https://news.ycombinator.com/item?id=42502899) - [Taxi drivers offer a clue to Alzheimer's risk](https://www.wsj.com/health/wellness/alzheimers-risk-taxi-ambulance-drivers-be15739b)
 * [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
 * [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
-* [2024-12-20, 09:50:28](https://news.ycombinator.com/item?id=42469604) - [Pseudonymity in Academic Publishing](https://11011110.github.io/blog/2024/12/19/pseudonymity-academic-publishing.html)
 
 ## [Archives](archives/index.md)
 

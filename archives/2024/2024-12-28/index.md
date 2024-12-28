@@ -6,6 +6,7 @@
 
 * [2024-12-28, 04:17:44](https://news.ycombinator.com/item?id=42528521) - [Permissionless. A Manifesto for the Future of Everything](https://www.permissionlessbook.com)
 * [2024-12-28, 03:49:51](https://news.ycombinator.com/item?id=42528405) - [CCC 2024 Videos Index](https://ftp.ccc.de/congress/2024/h264-hd/)
+* [2024-12-28, 03:48:26](https://news.ycombinator.com/item?id=42528399) - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's Dependent Types, and Its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-28, 03:04:08](https://news.ycombinator.com/item?id=42528216) - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 * [2024-12-28, 03:01:15](https://news.ycombinator.com/item?id=42528203) - [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)

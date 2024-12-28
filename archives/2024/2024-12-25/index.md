@@ -42,6 +42,7 @@
 * [2024-12-25, 05:18:26](https://news.ycombinator.com/item?id=42507016) - [Ask HN: What Motivates you to keep going?](https://news.ycombinator.com/item?id=42507016)
 * [2024-12-25, 05:09:12](https://news.ycombinator.com/item?id=42506989) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+* [2024-12-25, 03:23:55](https://news.ycombinator.com/item?id=42506623) - [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
 * [2024-12-25, 03:04:45](https://news.ycombinator.com/item?id=42506557) - [400TB Single Cluster: OceanBase Powers Kwai`s Core Business](https://oceanbase.github.io/docs/blogs/users/Kwai)
