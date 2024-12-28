@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-28, 00:16:34",
-      "https://news.ycombinator.com/item?id=42527355"
+      "2024-12-28, 00:54:06",
+      "https://news.ycombinator.com/item?id=42527572"
     ],
     [
-      "Ghostty: Reflecting on Reaching 1.0",
-      "https://mitchellh.com/writing/ghostty-1-0-reflection"
+      "Carlsen Disqualified from World Rapid and Blitz Championship for Wearing Jeans",
+      "https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 00:03:05",
+      "https://news.ycombinator.com/item?id=42527265"
+    ],
+    [
+      "Liberating Wi-Fi on the ESP32 [video]",
+      "https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Plasticlist Report – Data on plastic chemicals in Bay Area foods",
       "https://www.plasticlist.org/report"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 19:43:23",
+      "https://news.ycombinator.com/item?id=42525384"
+    ],
+    [
+      "TSMC's Arizona Plant to Start Making Advanced Chips",
+      "https://spectrum.ieee.org/tsmc-arizona"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-27, 12:01:16",
-      "https://news.ycombinator.com/item?id=42521503"
-    ],
-    [
-      "Harper (YC W25) Is Hiring Founding Engineer #2",
-      "https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 08:01:13",
       "https://news.ycombinator.com/item?id=42520627"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-12-26, 19:38:50",
-      "https://news.ycombinator.com/item?id=42517227"
+      "2024-12-26, 20:14:57",
+      "https://news.ycombinator.com/item?id=42517447"
     ],
     [
-      "J G A Pocock's \"Machiavellian Moment\"",
-      "https://aeon.co/essays/history-is-always-political-and-contest-over-it-is-a-good-thing"
+      "Ghostty 1.0",
+      "https://ghostty.org/"
     ]
   ],
   [
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2024-12-26, 08:48:58",
-      "https://news.ycombinator.com/item?id=42513971"
-    ],
-    [
-      "Name a Quasi-Moon",
-      "https://radiolab.org/quasi-moon"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 11:49:33",
-      "https://news.ycombinator.com/item?id=42508348"
-    ],
-    [
-      "Phugoid",
-      "https://en.wikipedia.org/wiki/Phugoid"
-    ]
-  ],
-  [
-    [
       "2024-12-25, 10:44:05",
       "https://news.ycombinator.com/item?id=42508130"
     ],
     [
       "Show HN: Caravan, a flexible, transport-based logging system for TypeScript apps",
       "https://github.com/carlos-menezes/caravan"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 03:04:45",
+      "https://news.ycombinator.com/item?id=42506557"
+    ],
+    [
+      "400TB Single Cluster: OceanBase Powers Kwai`s Core Business",
+      "https://oceanbase.github.io/docs/blogs/users/Kwai"
     ]
   ],
   [
