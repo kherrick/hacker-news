@@ -37,6 +37,7 @@
 * [2024-12-25, 10:44:05](https://news.ycombinator.com/item?id=42508130) - [Show HN: Caravan, a flexible, transport-based logging system for TypeScript apps](https://github.com/carlos-menezes/caravan)
 * [2024-12-25, 10:33:11](https://news.ycombinator.com/item?id=42508087) - [Ask HN: What is the best thing you read in 2024?](https://news.ycombinator.com/item?id=42508087)
 * [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
+* [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Ars Technica guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 * [2024-12-25, 05:51:35](https://news.ycombinator.com/item?id=42507145) - [A design flaw in the Windows 3D Pipes screen saver pointed out by a customer](https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675)

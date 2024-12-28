@@ -28,8 +28,8 @@
 * [2024-12-26, 14:09:37](https://news.ycombinator.com/item?id=42515238) - [Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama](https://pieces.app/blog/phi-3-mini-integrations)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
 * [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
+* [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Ars Technica guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
-* [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
 
 ## [Archives](archives/index.md)
 
