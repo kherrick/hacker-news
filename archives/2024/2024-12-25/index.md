@@ -43,6 +43,7 @@
 * [2024-12-25, 05:09:12](https://news.ycombinator.com/item?id=42506989) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 * [2024-12-25, 03:10:07](https://news.ycombinator.com/item?id=42506577) - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
 * [2024-12-25, 03:08:13](https://news.ycombinator.com/item?id=42506569) - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
+* [2024-12-25, 03:04:45](https://news.ycombinator.com/item?id=42506557) - [400TB Single Cluster: OceanBase Powers Kwai`s Core Business](https://oceanbase.github.io/docs/blogs/users/Kwai)
 * [2024-12-25, 02:38:46](https://news.ycombinator.com/item?id=42506478) - [Solar, EVs and a Big Exit from Coal: 2024's Good Climate News](https://www.bloomberg.com/news/articles/2024-12-24/solar-evs-and-a-big-exit-from-coal-2024-s-good-climate-news)
 * [2024-12-25, 01:49:07](https://news.ycombinator.com/item?id=42506289) - [A Taping of 'Curb Your Enthusiasm' Saved an Innocent Man from Death Row (2017)](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
 * [2024-12-25, 01:26:29](https://news.ycombinator.com/item?id=42506211) - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
