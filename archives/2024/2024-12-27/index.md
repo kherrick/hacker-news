@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 23:10:54](https://news.ycombinator.com/item?id=42526926) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-27, 22:50:02](https://news.ycombinator.com/item?id=42526803) - [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
 * [2024-12-27, 22:45:42](https://news.ycombinator.com/item?id=42526769) - [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
 * [2024-12-27, 22:38:20](https://news.ycombinator.com/item?id=42526726) - [Fatty acid amides present in Camembert cheese improved cognitive decline](https://www.sciencedirect.com/science/article/pii/S0168010224000403)

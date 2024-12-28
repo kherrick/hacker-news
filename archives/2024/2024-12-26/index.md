@@ -43,6 +43,7 @@
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The Trap of \"I am not an Extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 09:26:08](https://news.ycombinator.com/item?id=42514116) - [RIP W3C's HTML working group 1994-2024](https://www.w3.org/groups/wg/htmlwg/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
+* [2024-12-26, 08:48:58](https://news.ycombinator.com/item?id=42513971) - [Name a Quasi-Moon](https://radiolab.org/quasi-moon)
 * [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
 * [2024-12-26, 08:14:27](https://news.ycombinator.com/item?id=42513834) - [Racket School 2019: The \"How to Design Languages\" Track](https://school.racket-lang.org/2019/plan/)
 * [2024-12-26, 07:56:27](https://news.ycombinator.com/item?id=42513761) - [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
