@@ -6,6 +6,7 @@
 * [2024-12-28, 11:18:12](https://news.ycombinator.com/item?id=42530237) - [Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
 * [2024-12-28, 08:45:18](https://news.ycombinator.com/item?id=42529564) - [The Nvidia Way – Review of Tae Kim's New Book](https://thechipletter.substack.com/p/the-nvidia-way)
+* [2024-12-28, 08:01:01](https://news.ycombinator.com/item?id=42529396) - [Ten things in tech I found joy in during 2024](https://rubenerd.com/ten-it-things-i-found-joy-in-this-year/)
 * [2024-12-28, 06:20:38](https://news.ycombinator.com/item?id=42529023) - [Machine-Assisted Proof [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 * [2024-12-28, 03:58:26](https://news.ycombinator.com/item?id=42528435) - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 * [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
@@ -14,7 +15,6 @@
 * [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-28, 00:01:39](https://news.ycombinator.com/item?id=42527256) - [Libobscura: Cameras Are Difficult [video]](https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult)
-* [2024-12-27, 23:10:54](https://news.ycombinator.com/item?id=42526926) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-27, 22:45:42](https://news.ycombinator.com/item?id=42526769) - [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)
 * [2024-12-27, 21:14:14](https://news.ycombinator.com/item?id=42526092) - [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
@@ -25,11 +25,11 @@
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
 * [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
+* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 05:51:35](https://news.ycombinator.com/item?id=42507145) - [A design flaw in the Windows 3D Pipes screen saver pointed out by a customer](https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675)
 * [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-25, 03:23:55](https://news.ycombinator.com/item?id=42506623) - [PixLens: A lens that turns the scenery you see into pixel art](https://monoli-shop.com/products/pixlens-コピー)
 * [2024-12-24, 00:40:30](https://news.ycombinator.com/item?id=42498754) - [1584 LAN party photos from 1996 – 2010 from Australia's island state archived](https://issung.com/posts/lanphotosarchive/)
-* [2024-12-21, 22:22:27](https://news.ycombinator.com/item?id=42482805) - [The hydraulic systems of the Alhambra Palace [video]](https://www.youtube.com/watch?v=xLaLpMeOyHk)
 
 ## [Archives](archives/index.md)
 
