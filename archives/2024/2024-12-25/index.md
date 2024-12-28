@@ -38,6 +38,7 @@
 * [2024-12-25, 10:03:47](https://news.ycombinator.com/item?id=42507984) - [Subprocess: Don't close all file descriptors by default (close_fds=False)](https://bugs.python.org/issue42738)
 * [2024-12-25, 06:40:07](https://news.ycombinator.com/item?id=42507312) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:08:45](https://news.ycombinator.com/item?id=42507185) - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
+* [2024-12-25, 05:51:35](https://news.ycombinator.com/item?id=42507145) - [A design flaw in the Windows 3D Pipes screen saver pointed out by a customer](https://devblogs.microsoft.com/oldnewthing/20241224-00/?p=110675)
 * [2024-12-25, 05:49:24](https://news.ycombinator.com/item?id=42507134) - [News for Ruby 3.4.0](https://docs.ruby-lang.org/en/master/NEWS_md.html)
 * [2024-12-25, 05:44:12](https://news.ycombinator.com/item?id=42507116) - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
 * [2024-12-25, 05:18:26](https://news.ycombinator.com/item?id=42507016) - [Ask HN: What Motivates you to keep going?](https://news.ycombinator.com/item?id=42507016)
