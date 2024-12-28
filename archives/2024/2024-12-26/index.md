@@ -38,6 +38,7 @@
 * [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:50:02](https://news.ycombinator.com/item?id=42515507) - [T2 System Development Environment](https://t2sde.org/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
+* [2024-12-26, 14:09:37](https://news.ycombinator.com/item?id=42515238) - [Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama](https://pieces.app/blog/phi-3-mini-integrations)
 * [2024-12-26, 13:55:32](https://news.ycombinator.com/item?id=42515159) - [Cramming Scrapscript into Msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-26, 13:23:12](https://news.ycombinator.com/item?id=42515041) - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
 * [2024-12-26, 13:23:04](https://news.ycombinator.com/item?id=42515039) - [Creem: The payment platform that calls BS on hidden fees](https://shipandsip.substack.com/p/inside-creem-the-payment-platform)
