@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
+* [2024-12-28, 15:48:02](https://news.ycombinator.com/item?id=42531830) - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
@@ -17,7 +18,6 @@
 * [2024-12-28, 00:44:18](https://news.ycombinator.com/item?id=42527496) - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-28, 00:01:39](https://news.ycombinator.com/item?id=42527256) - [Libobscura: Cameras Are Difficult [video]](https://media.ccc.de/v/38c3-libobscura-cameras-are-difficult)
-* [2024-12-27, 21:14:14](https://news.ycombinator.com/item?id=42526092) - [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 * [2024-12-27, 17:36:50](https://news.ycombinator.com/item?id=42524174) - [Cable-cutting tanker seized by Finland 'was loaded with spying equipment'](https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment)
