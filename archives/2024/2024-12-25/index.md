@@ -14,6 +14,7 @@
 * [2024-12-25, 21:51:39](https://news.ycombinator.com/item?id=42511416) - [High housing prices are caused by government's zoning laws](https://www.nahro.org/journal_article/rethinking-zoning-to-increase-affordable-housing/)
 * [2024-12-25, 21:35:55](https://news.ycombinator.com/item?id=42511318) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
 * [2024-12-25, 21:25:13](https://news.ycombinator.com/item?id=42511267) - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
+* [2024-12-25, 21:16:22](https://news.ycombinator.com/item?id=42511211) - [Progressive Loss of Function in a Limb Enhancer During Snake Evolution (2016)](https://www.cell.com/cell/fulltext/S0092-8674(16)31310-1)
 * [2024-12-25, 19:55:07](https://news.ycombinator.com/item?id=42510776) - [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 19:43:10](https://news.ycombinator.com/item?id=42510696) - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
