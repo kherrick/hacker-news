@@ -51,6 +51,7 @@
 * [2024-12-27, 12:48:34](https://news.ycombinator.com/item?id=42521710) - [87.4% of population experienced a decline in freedom from 2020 to 2022](https://www.fraserinstitute.org/studies/human-freedom-index-2024)
 * [2024-12-27, 12:45:28](https://news.ycombinator.com/item?id=42521698) - [Arcan as Operating System Design (2021)](https://arcan-fe.com/2021/09/20/arcan-as-operating-system-design/)
 * [2024-12-27, 12:40:21](https://news.ycombinator.com/item?id=42521677) - [Behaviorist Genie](https://arbital.com/p/behaviorist/)
+* [2024-12-27, 12:36:15](https://news.ycombinator.com/item?id=42521660) - [$250 remaining of L&D budget – what to spend on?](https://news.ycombinator.com/item?id=42521660)
 * [2024-12-27, 12:30:37](https://news.ycombinator.com/item?id=42521637) - [First demonstration of quantum teleportation over busy Internet cables](https://news.northwestern.edu/stories/2024/12/first-demonstration-of-quantum-teleportation-over-busy-internet-cables/)
 * [2024-12-27, 12:29:13](https://news.ycombinator.com/item?id=42521629) - [The paper passport is dying](https://www.wired.com/story/the-paper-passport-is-dying/)
 * [2024-12-27, 12:21:53](https://news.ycombinator.com/item?id=42521598) - [Missiles Are Now the Biggest Killer of Airline Passengers](https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e)

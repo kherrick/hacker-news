@@ -23,12 +23,12 @@
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 * [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
+* [2024-12-27, 12:36:15](https://news.ycombinator.com/item?id=42521660) - [$250 remaining of L&D budget – what to spend on?](https://news.ycombinator.com/item?id=42521660)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 17:47:47](https://news.ycombinator.com/item?id=42516568) - [Analyzing North Korean Malware](https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
-* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 
 ## [Archives](archives/index.md)
