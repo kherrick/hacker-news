@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
 * [2024-12-29, 08:23:16](https://news.ycombinator.com/item?id=42538515) - [Family of Deceased OpenAI Whistleblower Disputes Suicide Ruling](https://twitter.com/RaoPoornima/status/1873282982150324393)
+* [2024-12-29, 08:09:18](https://news.ycombinator.com/item?id=42538458) - [SQLite3: No Room for Drama](https://calmlog.medium.com/sqlite3-no-room-for-drama-ceea8a84426e)
 * [2024-12-29, 07:47:13](https://news.ycombinator.com/item?id=42538384) - [Is It Possible to Improve Memory or Are We Doomed to Forget as We Age? (2023)](https://www.nzherald.co.nz/viva/life/is-it-possible-to-improve-our-memories-or-are-we-doomed-to-forget-as-we-age/HW6QBYRSSRBCZB646GEQET2LTY/)
 * [2024-12-29, 05:37:55](https://news.ycombinator.com/item?id=42537829) - [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)
 * [2024-12-29, 05:30:52](https://news.ycombinator.com/item?id=42537790) - [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)
