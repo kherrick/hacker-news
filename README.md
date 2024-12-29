@@ -2,7 +2,6 @@
 
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [President Jimmy Carter has passed away](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
-* [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Are PC hardware companies driving technology into restricted closed ecosystems?](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I was wrong about the ethics crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
@@ -18,6 +17,7 @@
 * [2024-12-29, 04:54:33](https://news.ycombinator.com/item?id=42537631) - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs accurately recall the Bible?](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
+* [2024-12-28, 23:02:41](https://news.ycombinator.com/item?id=42535622) - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
