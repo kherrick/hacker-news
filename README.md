@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-29, 16:24:30](https://news.ycombinator.com/item?id=42540870) - [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I Was Wrong about the Ethics Crisis (Moshe Vardi, CACM)](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 15:18:13](https://news.ycombinator.com/item?id=42540427) - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
@@ -26,6 +25,7 @@
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 18:45:29](https://news.ycombinator.com/item?id=42516905) - [An infinite DNA glitch saved millions [video]](https://www.youtube.com/watch?v=zaXKQ70q4KQ)
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
+* [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
 * [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
 * [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)
