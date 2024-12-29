@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 23:02:41](https://news.ycombinator.com/item?id=42535622) - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
 * [2024-12-28, 22:37:36](https://news.ycombinator.com/item?id=42535453) - [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
+* [2024-12-28, 22:22:20](https://news.ycombinator.com/item?id=42535333) - [Finding and exploiting hidden features of Animal Crossing's NES emulator (2018)](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
 * [2024-12-28, 22:07:15](https://news.ycombinator.com/item?id=42535217) - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 21:46:42](https://news.ycombinator.com/item?id=42535057) - [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
