@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I Was Wrong about the Ethics Crisis (Moshe Vardi, CACM)](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 15:18:13](https://news.ycombinator.com/item?id=42540427) - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
@@ -23,7 +24,6 @@
 * [2024-12-26, 20:20:28](https://news.ycombinator.com/item?id=42517480) - [New 'OtterCookie' malware used to backdoor devs in fake job offers](https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 18:45:29](https://news.ycombinator.com/item?id=42516905) - [An infinite DNA glitch saved millions [video]](https://www.youtube.com/watch?v=zaXKQ70q4KQ)
-* [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)

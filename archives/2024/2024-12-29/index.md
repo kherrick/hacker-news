@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:24:30](https://news.ycombinator.com/item?id=42540870) - [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I Was Wrong about the Ethics Crisis (Moshe Vardi, CACM)](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
