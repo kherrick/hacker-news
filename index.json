@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-12-29, 01:58:24",
+      "https://news.ycombinator.com/item?id=42536750"
+    ],
+    [
+      "Personal Mail Server on OpenBSD",
+      "https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html"
+    ]
+  ],
+  [
+    [
       "2024-12-29, 01:40:37",
       "https://news.ycombinator.com/item?id=42536647"
     ],
     [
-      "Plane Crashes at South Korea Airport, Killing at Least 28",
+      "Jeju Air accident in South Korea kills at least 47",
       "https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap"
     ]
   ],
   [
     [
-      "2024-12-29, 00:47:43",
-      "https://news.ycombinator.com/item?id=42536343"
+      "2024-12-29, 00:21:04",
+      "https://news.ycombinator.com/item?id=42536181"
     ],
     [
-      "The Global Loss of the U-Shaped Curve of Happiness",
-      "https://www.afterbabel.com/p/youth-health-declines-82-countries"
+      "Show HN: Resizer2 – i3/KDE window movement on Windows",
+      "https://github.com/alvesvaren/resizer2"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "38C3: Blinkencity, radio controlling street lamps and power plants [video]",
       "https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 22:37:36",
+      "https://news.ycombinator.com/item?id=42535453"
+    ],
+    [
+      "All You Need Is 4x 4090 GPUs to Train Your Own Model",
+      "https://sabareesh.com/posts/llm-rig/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42534931"
     ],
     [
-      "AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS",
+      "Show HN: Anki AI Utils",
       "https://github.com/thiswillbeyourgithub/AnkiAIUtils"
     ]
   ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2024-12-27, 19:43:23",
-      "https://news.ycombinator.com/item?id=42525384"
+      "2024-12-27, 15:56:44",
+      "https://news.ycombinator.com/item?id=42523202"
     ],
     [
-      "TSMC's Arizona Plant to Start Making Advanced Chips",
-      "https://spectrum.ieee.org/tsmc-arizona"
+      "Astronauts face unique visual challenges at lunar South Pole",
+      "https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-12-26, 14:09:37",
-      "https://news.ycombinator.com/item?id=42515238"
-    ],
-    [
-      "Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama",
-      "https://pieces.app/blog/phi-3-mini-integrations"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 09:23:08",
       "https://news.ycombinator.com/item?id=42514105"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2024-12-26, 05:29:17",
-      "https://news.ycombinator.com/item?id=42513331"
+      "2024-12-25, 09:47:38",
+      "https://news.ycombinator.com/item?id=42507932"
     ],
     [
-      "Building a 3D safety sensor with Rust",
-      "https://www.sonair.com/journal/building-for-safety-with-rust"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 16:27:38",
-      "https://news.ycombinator.com/item?id=42509527"
-    ],
-    [
-      "Optimality of Frequency Moment Estimation",
-      "https://eccc.weizmann.ac.il/report/2024/175/"
+      "Ars Technica guide to mechanical keyboards",
+      "https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/"
     ]
   ],
   [
