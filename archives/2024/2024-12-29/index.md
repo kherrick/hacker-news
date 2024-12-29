@@ -6,6 +6,7 @@
 
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 15:18:13](https://news.ycombinator.com/item?id=42540427) - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
+* [2024-12-29, 14:00:31](https://news.ycombinator.com/item?id=42539987) - [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
 * [2024-12-29, 12:17:31](https://news.ycombinator.com/item?id=42539477) - [I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2024-12-29, 12:16:54](https://news.ycombinator.com/item?id=42539474) - [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
 * [2024-12-29, 12:13:21](https://news.ycombinator.com/item?id=42539463) - [Tools to Consider for Your Next Django Project](https://thinkingbytes.co.uk/posts/favourite-django-tools/)

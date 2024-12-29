@@ -2,8 +2,8 @@
 
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 15:18:13](https://news.ycombinator.com/item?id=42540427) - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
+* [2024-12-29, 14:00:31](https://news.ycombinator.com/item?id=42539987) - [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
 * [2024-12-29, 12:17:31](https://news.ycombinator.com/item?id=42539477) - [I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
-* [2024-12-29, 12:16:54](https://news.ycombinator.com/item?id=42539474) - [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
