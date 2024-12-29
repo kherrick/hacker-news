@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 22:41:46](https://news.ycombinator.com/item?id=42544115) - [Stripe V2](https://brandur.org/fragments/stripe-v2)
+* [2024-12-29, 22:34:54](https://news.ycombinator.com/item?id=42544049) - ['No Problem' Word Processor Poses a Problem for Former President Carter (1981)](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
 * [2024-12-29, 22:09:58](https://news.ycombinator.com/item?id=42543818) - [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
@@ -13,15 +15,12 @@
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
-* [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
 * [2024-12-29, 04:54:33](https://news.ycombinator.com/item?id=42537631) - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs accurately recall the Bible?](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
-* [2024-12-28, 23:02:41](https://news.ycombinator.com/item?id=42535622) - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
-* [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-27, 19:32:37](https://news.ycombinator.com/item?id=42525290) - [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
 * [2024-12-27, 12:00:02](https://news.ycombinator.com/item?id=42521493) - [Racket-embed-images-in-source-text](https://github.com/shriram/racket-embed-images-in-source-text)
@@ -30,6 +29,7 @@
 * [2024-12-27, 00:33:02](https://news.ycombinator.com/item?id=42518995) - [The deadliest tsunami set off work to be ready for the next big wave](https://www.nytimes.com/2024/12/26/science/tsunami-2004-20th-anniversary.html)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
+* [2024-12-26, 05:18:01](https://news.ycombinator.com/item?id=42513290) - [TWISTED: The dramatic history of twisted-pair Ethernet](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
 
 ## [Archives](archives/index.md)
 
