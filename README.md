@@ -2,7 +2,6 @@
 
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Slowly Driving Technology into Restricted Closed Ecosystems](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 19:06:02](https://news.ycombinator.com/item?id=42542100) - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
-* [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I was wrong about the ethics crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt (2021)](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
@@ -25,6 +24,7 @@
 * [2024-12-27, 12:00:02](https://news.ycombinator.com/item?id=42521493) - [Racket-embed-images-in-source-text](https://github.com/shriram/racket-embed-images-in-source-text)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
+* [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
 * [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
