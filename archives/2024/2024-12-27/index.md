@@ -64,6 +64,7 @@
 * [2024-12-27, 08:04:24](https://news.ycombinator.com/item?id=42520631) - [Germany Opened Its Doors to Migrants. Now It's Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
 * [2024-12-27, 08:01:13](https://news.ycombinator.com/item?id=42520627) - [Programming Lewis Carroll's Memoria Technica](https://ztoz.blog/posts/memoria_technica/)
 * [2024-12-27, 07:16:05](https://news.ycombinator.com/item?id=42520482) - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/)
+* [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-27, 05:27:41](https://news.ycombinator.com/item?id=42520151) - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 * [2024-12-27, 04:55:25](https://news.ycombinator.com/item?id=42520040) - [We Bought a (Map Store) – Andrew Middleton [video]](https://www.youtube.com/watch?v=QWFxyC-OBwY)
 * [2024-12-27, 04:21:32](https://news.ycombinator.com/item?id=42519913) - [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)
