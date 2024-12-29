@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-12-29, 01:40:37",
+      "https://news.ycombinator.com/item?id=42536647"
+    ],
+    [
+      "Plane Crashes at South Korea Airport, Killing at Least 28",
+      "https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 00:47:43",
+      "https://news.ycombinator.com/item?id=42536343"
+    ],
+    [
+      "The Global Loss of the U-Shaped Curve of Happiness",
+      "https://www.afterbabel.com/p/youth-health-declines-82-countries"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 23:02:41",
+      "https://news.ycombinator.com/item?id=42535622"
+    ],
+    [
+      "38C3: Blinkencity, radio controlling street lamps and power plants [video]",
+      "https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 22:22:20",
+      "https://news.ycombinator.com/item?id=42535333"
+    ],
+    [
+      "Finding and exploiting hidden features of Animal Crossing's NES emulator (2018)",
+      "https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 22:07:15",
       "https://news.ycombinator.com/item?id=42535217"
     ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42534090"
     ],
     [
-      "Libero – A Programmer's Tool and Code Generator",
+      "Libero – A Programmer's Tool and Code Generator (1997)",
       "https://imatix-legacy.github.io/libero/index.htm"
     ]
   ],
@@ -67,16 +107,6 @@
     [
       "Apple Photos phones home on iOS 18 and macOS 15",
       "https://lapcatsoftware.com/articles/2024/12/3.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-28, 19:07:06",
-      "https://news.ycombinator.com/item?id=42533557"
-    ],
-    [
-      "Exploring Alternatives to UUIDv4; Enter ULIDs",
-      "https://jirevwe.github.io/exploring-alternatives-to-uuidv4-enter-ulids.html"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2024-12-28, 12:01:27",
-      "https://news.ycombinator.com/item?id=42530418"
-    ],
-    [
-      "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-      "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 11:43:15",
       "https://news.ycombinator.com/item?id=42530332"
     ],
     [
       "Where can you go in Europe by train in 8h?",
       "https://www.chronotrains.com/en"
-    ]
-  ],
-  [
-    [
-      "2024-12-28, 03:22:29",
-      "https://news.ycombinator.com/item?id=42528302"
-    ],
-    [
-      "Ada's dependent types, and its types as a whole",
-      "https://nytpu.com/gemlog/2024-12-27"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-12-27, 20:15:44",
-      "https://news.ycombinator.com/item?id=42525633"
-    ],
-    [
-      "Plasticlist Report – Data on plastic chemicals in Bay Area foods",
-      "https://www.plasticlist.org/report"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 19:43:23",
       "https://news.ycombinator.com/item?id=42525384"
     ],
@@ -201,21 +201,11 @@
   ],
   [
     [
-      "2024-12-27, 16:53:33",
-      "https://news.ycombinator.com/item?id=42523745"
-    ],
-    [
-      "Scale Model of Boeing 777-300ER, Made from Manila Folders",
-      "https://www.lucaiaconistewart.com/model-777"
-    ]
-  ],
-  [
-    [
       "2024-12-26, 19:39:39",
       "https://news.ycombinator.com/item?id=42517234"
     ],
     [
-      "The Gambler Who Cracked the Horse-Racing Code",
+      "The Gambler Who Cracked the Horse-Racing Code (2018)",
       "https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Building a 3D safety sensor with Rust",
       "https://www.sonair.com/journal/building-for-safety-with-rust"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 16:27:38",
+      "https://news.ycombinator.com/item?id=42509527"
+    ],
+    [
+      "Optimality of Frequency Moment Estimation",
+      "https://eccc.weizmann.ac.il/report/2024/175/"
     ]
   ],
   [
