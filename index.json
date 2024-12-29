@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-12-28, 22:37:36",
-      "https://news.ycombinator.com/item?id=42535453"
-    ],
-    [
-      "All You Need Is 4x 4090 GPUs to Train Your Own Model",
-      "https://sabareesh.com/posts/llm-rig/"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 22:22:20",
       "https://news.ycombinator.com/item?id=42535333"
     ],
@@ -287,6 +277,16 @@
     [
       "Numbers Are Leaves",
       "https://www.christo.sh/numbers-are-leaves/"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 05:29:17",
+      "https://news.ycombinator.com/item?id=42513331"
+    ],
+    [
+      "Building a 3D safety sensor with Rust",
+      "https://www.sonair.com/journal/building-for-safety-with-rust"
     ]
   ],
   [
