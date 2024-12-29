@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
+* [2024-12-29, 23:06:36](https://news.ycombinator.com/item?id=42544367) - [OpenAI's Board: 'To Succeed, All We Need Is Unimaginable Sums of Money'](https://daringfireball.net/2024/12/openai_unimaginable)
 * [2024-12-29, 22:41:46](https://news.ycombinator.com/item?id=42544115) - [Stripe V2](https://brandur.org/fragments/stripe-v2)
 * [2024-12-29, 22:34:54](https://news.ycombinator.com/item?id=42544049) - ['No Problem' Word Processor Poses a Problem for Former President Carter (1981)](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
 * [2024-12-29, 22:09:58](https://news.ycombinator.com/item?id=42543818) - [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
