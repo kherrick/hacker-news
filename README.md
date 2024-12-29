@@ -25,7 +25,7 @@
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 18:45:29](https://news.ycombinator.com/item?id=42516905) - [An infinite DNA glitch saved millions [video]](https://www.youtube.com/watch?v=zaXKQ70q4KQ)
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
-* [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
+* [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
 * [2024-12-26, 05:16:12](https://news.ycombinator.com/item?id=42513288) - [Bad keming: Kerning failures, plus other typographical and font mishaps](https://badkeming.com)
 * [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
 * [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)
