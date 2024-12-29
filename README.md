@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
+* [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
 * [2024-12-29, 04:54:33](https://news.ycombinator.com/item?id=42537631) - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
@@ -16,7 +17,6 @@
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
-* [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So you want to write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
