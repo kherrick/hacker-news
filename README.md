@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 22:09:58](https://news.ycombinator.com/item?id=42543818) - [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
+* [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Are PC hardware companies driving technology into restricted closed ecosystems?](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt (2021)](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 14:00:31](https://news.ycombinator.com/item?id=42539987) - [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
-* [2024-12-29, 12:16:54](https://news.ycombinator.com/item?id=42539474) - [The average American spent 2.5 months on their phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [Trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
@@ -29,7 +30,6 @@
 * [2024-12-27, 00:33:02](https://news.ycombinator.com/item?id=42518995) - [The deadliest tsunami set off work to be ready for the next big wave](https://www.nytimes.com/2024/12/26/science/tsunami-2004-20th-anniversary.html)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
-* [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)
 
 ## [Archives](archives/index.md)
 

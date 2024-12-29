@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 22:09:58](https://news.ycombinator.com/item?id=42543818) - [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [President Jimmy Carter has passed away](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 * [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
 * [2024-12-29, 19:44:09](https://news.ycombinator.com/item?id=42542401) - [You Deserve a Tech Union – Together, we can build a better tech industry. (book)](https://abookapart.com/products/you-deserve-a-tech-union)
 * [2024-12-29, 19:40:37](https://news.ycombinator.com/item?id=42542376) - [Intolerable Genius: Berkeley's Most Controversial Nobel Laureate](https://alumni.berkeley.edu/california-magazine/winter-2019/intolerable-genius-berkeleys-most-controversial-nobel-laureate/)
+* [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
 * [2024-12-29, 19:22:36](https://news.ycombinator.com/item?id=42542215) - [Epoll Is Fundamentally Broken](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Slowly Driving Technology into Restricted Closed Ecosystems](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 19:06:02](https://news.ycombinator.com/item?id=42542100) - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
