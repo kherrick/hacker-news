@@ -4,7 +4,6 @@
 * [2024-12-29, 01:40:37](https://news.ycombinator.com/item?id=42536647) - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 * [2024-12-29, 00:21:04](https://news.ycombinator.com/item?id=42536181) - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
 * [2024-12-28, 23:02:41](https://news.ycombinator.com/item?id=42535622) - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
-* [2024-12-28, 22:37:36](https://news.ycombinator.com/item?id=42535453) - [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
 * [2024-12-28, 22:22:20](https://news.ycombinator.com/item?id=42535333) - [Finding and exploiting hidden features of Animal Crossing's NES emulator (2018)](https://jamchamb.net/2018/07/11/animal-crossing-nes-emulator-hacks.html)
 * [2024-12-28, 22:07:15](https://news.ycombinator.com/item?id=42535217) - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
@@ -29,6 +28,7 @@
 * [2024-12-26, 17:47:47](https://news.ycombinator.com/item?id=42516568) - [Analyzing North Korean Malware](https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
+* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 
 ## [Archives](archives/index.md)
