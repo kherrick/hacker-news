@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-12-27, 12:00:02",
+      "https://news.ycombinator.com/item?id=42521493"
+    ],
+    [
+      "Racket-embed-images-in-source-text",
+      "https://github.com/shriram/racket-embed-images-in-source-text"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 07:04:21",
       "https://news.ycombinator.com/item?id=42520432"
     ],
@@ -247,16 +257,6 @@
     [
       "Numbers Are Leaves",
       "https://www.christo.sh/numbers-are-leaves/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 08:09:41",
-      "https://news.ycombinator.com/item?id=42513809"
-    ],
-    [
-      "Using AZs can eat up your budget – From Prometheus to VictoriaMetrics",
-      "https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe"
     ]
   ],
   [
