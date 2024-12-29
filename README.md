@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-29, 01:58:24](https://news.ycombinator.com/item?id=42536750) - [Personal Mail Server on OpenBSD (2019)](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
+* [2024-12-29, 01:40:37](https://news.ycombinator.com/item?id=42536647) - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 * [2024-12-29, 00:21:04](https://news.ycombinator.com/item?id=42536181) - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
 * [2024-12-28, 23:02:41](https://news.ycombinator.com/item?id=42535622) - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
 * [2024-12-28, 22:37:36](https://news.ycombinator.com/item?id=42535453) - [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
@@ -27,9 +28,8 @@
 * [2024-12-26, 17:47:47](https://news.ycombinator.com/item?id=42516568) - [Analyzing North Korean Malware](https://medium.com/@henrique4win/analyzing-north-korean-malware-95dc3325d943)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
-* [2024-12-26, 09:23:08](https://news.ycombinator.com/item?id=42514105) - [Should more of us be moving to live near friends?](https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends)
+* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
-* [2024-12-25, 05:06:58](https://news.ycombinator.com/item?id=42506984) - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
 ## [Archives](archives/index.md)
 
