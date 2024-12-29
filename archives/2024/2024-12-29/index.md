@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 * [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
 * [2024-12-29, 19:44:09](https://news.ycombinator.com/item?id=42542401) - [You Deserve a Tech Union – Together, we can build a better tech industry. (book)](https://abookapart.com/products/you-deserve-a-tech-union)
 * [2024-12-29, 19:40:37](https://news.ycombinator.com/item?id=42542376) - [Intolerable Genius: Berkeley's Most Controversial Nobel Laureate](https://alumni.berkeley.edu/california-magazine/winter-2019/intolerable-genius-berkeleys-most-controversial-nobel-laureate/)
+* [2024-12-29, 19:22:36](https://news.ycombinator.com/item?id=42542215) - [Epoll Is Fundamentally Broken](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Slowly Driving Technology into Restricted Closed Ecosystems](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 19:06:02](https://news.ycombinator.com/item?id=42542100) - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
 * [2024-12-29, 17:54:27](https://news.ycombinator.com/item?id=42541536) - [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)
@@ -25,6 +27,7 @@
 * [2024-12-29, 11:12:45](https://news.ycombinator.com/item?id=42539248) - [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
 * [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
+* [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 08:23:16](https://news.ycombinator.com/item?id=42538515) - [Family of Deceased OpenAI Whistleblower Disputes Suicide Ruling](https://twitter.com/RaoPoornima/status/1873282982150324393)
 * [2024-12-29, 08:09:18](https://news.ycombinator.com/item?id=42538458) - [SQLite3: No Room for Drama](https://calmlog.medium.com/sqlite3-no-room-for-drama-ceea8a84426e)
