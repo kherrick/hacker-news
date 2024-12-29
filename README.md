@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
 * [2024-12-29, 04:54:33](https://news.ycombinator.com/item?id=42537631) - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
@@ -11,7 +12,6 @@
 * [2024-12-28, 22:07:15](https://news.ycombinator.com/item?id=42535217) - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 21:30:34](https://news.ycombinator.com/item?id=42534931) - [Show HN: Anki AI Utils](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
-* [2024-12-28, 21:20:35](https://news.ycombinator.com/item?id=42534851) - [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 16:34:24](https://news.ycombinator.com/item?id=42532157) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
