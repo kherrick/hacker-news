@@ -22,6 +22,7 @@
 * [2024-12-25, 17:44:04](https://news.ycombinator.com/item?id=42509953) - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
 * [2024-12-25, 17:32:59](https://news.ycombinator.com/item?id=42509890) - [Mullvad Review of 2024](https://mullvad.net/en/blog/mullvad-review-of-2024)
 * [2024-12-25, 17:20:27](https://news.ycombinator.com/item?id=42509828) - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
+* [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
 * [2024-12-25, 17:15:32](https://news.ycombinator.com/item?id=42509813) - [Spoiler Alert: 'Star Trek: Discovery' Officially Erased from Canon](https://cosmicbook.news/star-trek-discovery-erased-canon)
 * [2024-12-25, 17:14:45](https://news.ycombinator.com/item?id=42509809) - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
 * [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)

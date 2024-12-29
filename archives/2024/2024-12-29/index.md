@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 12:16:54](https://news.ycombinator.com/item?id=42539474) - [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
+* [2024-12-29, 12:13:21](https://news.ycombinator.com/item?id=42539463) - [Tools to Consider for Your Next Django Project](https://thinkingbytes.co.uk/posts/favourite-django-tools/)
+* [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [I'm trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 08:23:16](https://news.ycombinator.com/item?id=42538515) - [Family of Deceased OpenAI Whistleblower Disputes Suicide Ruling](https://twitter.com/RaoPoornima/status/1873282982150324393)
