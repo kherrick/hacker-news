@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [President Jimmy Carter has passed away](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 * [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
 * [2024-12-29, 19:44:09](https://news.ycombinator.com/item?id=42542401) - [You Deserve a Tech Union – Together, we can build a better tech industry. (book)](https://abookapart.com/products/you-deserve-a-tech-union)
