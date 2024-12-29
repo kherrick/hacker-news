@@ -26,10 +26,10 @@
 * [2024-12-27, 19:32:37](https://news.ycombinator.com/item?id=42525290) - [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
 * [2024-12-27, 12:00:02](https://news.ycombinator.com/item?id=42521493) - [Racket-embed-images-in-source-text](https://github.com/shriram/racket-embed-images-in-source-text)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
+* [2024-12-27, 04:07:00](https://news.ycombinator.com/item?id=42519862) - [The last Inca bridge master](https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master)
 * [2024-12-27, 00:33:02](https://news.ycombinator.com/item?id=42518995) - [20 Years Ago Today, Deadliest Tsunami Set Off Work to Be Ready for Next Big Wave](https://www.nytimes.com/2024/12/26/science/tsunami-2004-20th-anniversary.html)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
-* [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)
 
 ## [Archives](archives/index.md)
 
