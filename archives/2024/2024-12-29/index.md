@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 19:06:02](https://news.ycombinator.com/item?id=42542100) - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
 * [2024-12-29, 17:54:27](https://news.ycombinator.com/item?id=42541536) - [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)
 * [2024-12-29, 17:19:31](https://news.ycombinator.com/item?id=42541269) - [OnlyFans turned into an empire bent on redefining porn](https://www.reuters.com/investigates/special-report/onlyfans-sex-origins/)
 * [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
