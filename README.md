@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 16:24:30](https://news.ycombinator.com/item?id=42540870) - [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))
+* [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I Was Wrong about the Ethics Crisis (Moshe Vardi, CACM)](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 15:20:46](https://news.ycombinator.com/item?id=42540442) - [BSD kqueue is a mountain of technical debt](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
 * [2024-12-29, 15:18:13](https://news.ycombinator.com/item?id=42540427) - [China turns members of its diaspora into spies](https://www.economist.com/china/2024/12/26/how-china-turns-members-of-its-diaspora-into-spies)
-* [2024-12-29, 12:17:31](https://news.ycombinator.com/item?id=42539477) - [I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
@@ -26,7 +27,6 @@
 * [2024-12-26, 18:45:29](https://news.ycombinator.com/item?id=42516905) - [An infinite DNA glitch saved millions [video]](https://www.youtube.com/watch?v=zaXKQ70q4KQ)
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
-* [2024-12-26, 05:16:12](https://news.ycombinator.com/item?id=42513288) - [Bad keming: Kerning failures, plus other typographical and font mishaps](https://badkeming.com)
 * [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
 * [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
