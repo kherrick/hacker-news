@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
 * [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Slowly Driving Technology into Restricted Closed Ecosystems](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 19:06:02](https://news.ycombinator.com/item?id=42542100) - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
 * [2024-12-29, 17:54:27](https://news.ycombinator.com/item?id=42541536) - [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)
