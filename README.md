@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 05:37:55](https://news.ycombinator.com/item?id=42537829) - [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)
 * [2024-12-29, 05:30:52](https://news.ycombinator.com/item?id=42537790) - [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)
-* [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
+* [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 01:58:24](https://news.ycombinator.com/item?id=42536750) - [Personal Mail Server on OpenBSD (2019)](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
 * [2024-12-29, 01:40:37](https://news.ycombinator.com/item?id=42536647) - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 * [2024-12-29, 00:21:04](https://news.ycombinator.com/item?id=42536181) - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
@@ -21,7 +22,6 @@
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So you want to write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
-* [2024-12-28, 00:03:05](https://news.ycombinator.com/item?id=42527265) - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
 * [2024-12-27, 12:36:15](https://news.ycombinator.com/item?id=42521660) - [$250 remaining of L&D budget – what to spend on?](https://news.ycombinator.com/item?id=42521660)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
