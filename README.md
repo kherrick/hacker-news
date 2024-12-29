@@ -2,7 +2,6 @@
 
 * [2024-12-29, 12:17:31](https://news.ycombinator.com/item?id=42539477) - [I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2024-12-29, 12:16:54](https://news.ycombinator.com/item?id=42539474) - [The Average American Spent 2.5 Months on Their Phone in 2024](https://www.pcmag.com/articles/yikes-the-average-american-spent-25-months-on-their-phone-in-2024)
-* [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [I'm trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 05:04:12](https://news.ycombinator.com/item?id=42537665) - [Libsearch: Simple index-free full-text search for JavaScript](https://github.com/thesephist/libsearch)
@@ -26,6 +25,7 @@
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
+* [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
 * [2024-12-26, 05:16:12](https://news.ycombinator.com/item?id=42513288) - [Bad keming: Kerning failures, plus other typographical and font mishaps](https://badkeming.com)
 * [2024-12-25, 17:18:15](https://news.ycombinator.com/item?id=42509823) - [Christmas Punch Requires a Formerly Forbidden Fruit](https://www.atlasobscura.com/articles/how-to-make-ponche-navideno)
 * [2024-12-25, 17:05:14](https://news.ycombinator.com/item?id=42509760) - [Coupling nitrogen-vacancy center spins in diamond to a grape dimer](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.064078)

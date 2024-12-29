@@ -56,6 +56,7 @@
 * [2024-12-26, 08:48:58](https://news.ycombinator.com/item?id=42513971) - [Name a Quasi-Moon](https://radiolab.org/quasi-moon)
 * [2024-12-26, 08:32:36](https://news.ycombinator.com/item?id=42513907) - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
 * [2024-12-26, 08:14:27](https://news.ycombinator.com/item?id=42513834) - [Racket School 2019: The \"How to Design Languages\" Track](https://school.racket-lang.org/2019/plan/)
+* [2024-12-26, 08:09:41](https://news.ycombinator.com/item?id=42513809) - [Using AZs can eat up your budget – From Prometheus to VictoriaMetrics](https://engineering.prezi.com/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe)
 * [2024-12-26, 07:56:27](https://news.ycombinator.com/item?id=42513761) - [Undersea power cable linking Finland and Estonia suffers damage](https://www.euronews.com/my-europe/2024/12/26/undersea-power-cable-linking-finland-and-estonia-suffers-damage-in-latest-baltic-sea-incid)
 * [2024-12-26, 07:31:41](https://news.ycombinator.com/item?id=42513675) - [Node.js enables TypeScript support by default](https://github.com/nodejs/node/pull/56350)
 * [2024-12-26, 06:40:31](https://news.ycombinator.com/item?id=42513536) - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
