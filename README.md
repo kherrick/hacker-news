@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-29, 04:54:33](https://news.ycombinator.com/item?id=42537631) - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 * [2024-12-29, 01:58:24](https://news.ycombinator.com/item?id=42536750) - [Personal Mail Server on OpenBSD (2019)](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
@@ -19,7 +20,6 @@
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So you want to write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
-* [2024-12-28, 03:22:29](https://news.ycombinator.com/item?id=42528302) - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
 * [2024-12-27, 00:22:28](https://news.ycombinator.com/item?id=42518953) - [Hello World on z/OS (2018)](https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f)
@@ -27,8 +27,8 @@
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
-* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-26, 05:16:12](https://news.ycombinator.com/item?id=42513288) - [Bad keming: Kerning failures, plus other typographical and font mishaps](https://badkeming.com)
+* [2024-12-25, 23:31:10](https://news.ycombinator.com/item?id=42511950) - [50 Years Ago: Celebrating the Influential Intel 8080](https://www.intel.com/content/www/us/en/newsroom/news/50-years-ago-the-influential-intel-8080.html)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 
 ## [Archives](archives/index.md)

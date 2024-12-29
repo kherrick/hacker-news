@@ -7,6 +7,7 @@
 * [2024-12-25, 23:52:01](https://news.ycombinator.com/item?id=42512050) - [Installing OpenWRT on an Unsupported Router](https://radiosocial.de/@hennichodernich/113714518196988714)
 * [2024-12-25, 23:37:14](https://news.ycombinator.com/item?id=42511978) - [From Papyrus to Preprints](https://joinreboot.org/p/from-papyrus-to-preprints)
 * [2024-12-25, 23:36:45](https://news.ycombinator.com/item?id=42511976) - [Is Christmas Efficient? (2013)](http://marginalrevolution.com/marginalrevolution/2013/12/are-seasonal-business-cycles-inefficient.html)
+* [2024-12-25, 23:31:10](https://news.ycombinator.com/item?id=42511950) - [50 Years Ago: Celebrating the Influential Intel 8080](https://www.intel.com/content/www/us/en/newsroom/news/50-years-ago-the-influential-intel-8080.html)
 * [2024-12-25, 23:24:03](https://news.ycombinator.com/item?id=42511914) - [Luigi Mangione Prosecutors Have a Jury Problem: 'So Much Sympathy'](https://www.newsweek.com/luigi-mangione-jury-sympathy-former-prosecutor-alvin-bragg-terrorism-new-york-brian-thompson-2002626)
 * [2024-12-25, 23:06:37](https://news.ycombinator.com/item?id=42511812) - [Hertz Desperate to Unload Tesla Inventory, Asking Customers to Buy Rentals](https://jalopnik.com/hertz-is-so-desperate-to-unload-tesla-inventory-its-cus-1851727725)
 * [2024-12-25, 22:37:31](https://news.ycombinator.com/item?id=42511663) - [Show HN: Map of YC Startups](https://yc-map.vercel.app/)
