@@ -50,6 +50,7 @@
 * [2024-12-26, 13:23:04](https://news.ycombinator.com/item?id=42515039) - [Creem: The payment platform that calls BS on hidden fees](https://shipandsip.substack.com/p/inside-creem-the-payment-platform)
 * [2024-12-26, 12:31:13](https://news.ycombinator.com/item?id=42514803) - [Ask HN: How do you maintain personal annotations for code you don't control?](https://news.ycombinator.com/item?id=42514803)
 * [2024-12-26, 11:37:48](https://news.ycombinator.com/item?id=42514633) - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+* [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 10:39:14](https://news.ycombinator.com/item?id=42514370) - [How to Handle Go Security Alerts](https://jarosz.dev/code/how-to-handle-go-security-alerts/)
 * [2024-12-26, 09:29:48](https://news.ycombinator.com/item?id=42514127) - [The Trap of \"I am not an Extrovert\"](https://orkohunter.net/blog/the-trap-of-introversion/)
 * [2024-12-26, 09:26:08](https://news.ycombinator.com/item?id=42514116) - [RIP W3C's HTML working group 1994-2024](https://www.w3.org/groups/wg/htmlwg/)
