@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-29, 05:37:55](https://news.ycombinator.com/item?id=42537829) - [America in Two Headlines](https://www.kenklippenstein.com/p/america-in-two-headlines)
-* [2024-12-29, 05:30:52](https://news.ycombinator.com/item?id=42537790) - [Show HN: I built a website that explains any difficult concept in seconds](https://www.nodsgy.com/)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+* [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 * [2024-12-29, 01:58:24](https://news.ycombinator.com/item?id=42536750) - [Personal Mail Server on OpenBSD (2019)](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
 * [2024-12-29, 01:40:37](https://news.ycombinator.com/item?id=42536647) - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
 * [2024-12-29, 00:21:04](https://news.ycombinator.com/item?id=42536181) - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
@@ -24,6 +23,7 @@
 * [2024-12-28, 00:54:06](https://news.ycombinator.com/item?id=42527572) - [Carlsen disqualified from World Rapid and Blitz championship for wearing jeans](https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
 * [2024-12-27, 12:36:15](https://news.ycombinator.com/item?id=42521660) - [$250 remaining of L&D budget – what to spend on?](https://news.ycombinator.com/item?id=42521660)
+* [2024-12-27, 00:22:28](https://news.ycombinator.com/item?id=42518953) - [Hello World on z/OS (2018)](https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f)
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code (2018)](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
