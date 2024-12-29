@@ -27,8 +27,8 @@
 * [2024-12-26, 18:33:21](https://news.ycombinator.com/item?id=42516836) - [NASA, Axiom Space Change Assembly Order of Commercial Space Station](https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/)
 * [2024-12-26, 16:59:40](https://news.ycombinator.com/item?id=42516268) - [Joco almost died at launch. Now, it's a lifeline for e-bike delivery riders](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
+* [2024-12-26, 05:29:17](https://news.ycombinator.com/item?id=42513331) - [Building a 3D safety sensor with Rust](https://www.sonair.com/journal/building-for-safety-with-rust)
 * [2024-12-26, 05:16:12](https://news.ycombinator.com/item?id=42513288) - [Bad keming: Kerning failures, plus other typographical and font mishaps](https://badkeming.com)
-* [2024-12-25, 23:31:10](https://news.ycombinator.com/item?id=42511950) - [50 Years Ago: Celebrating the Influential Intel 8080](https://www.intel.com/content/www/us/en/newsroom/news/50-years-ago-the-influential-intel-8080.html)
 * [2024-12-25, 09:47:38](https://news.ycombinator.com/item?id=42507932) - [Guide to mechanical keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
 
 ## [Archives](archives/index.md)
