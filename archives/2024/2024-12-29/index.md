@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 17:54:27](https://news.ycombinator.com/item?id=42541536) - [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)
 * [2024-12-29, 17:19:31](https://news.ycombinator.com/item?id=42541269) - [OnlyFans turned into an empire bent on redefining porn](https://www.reuters.com/investigates/special-report/onlyfans-sex-origins/)
 * [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:24:30](https://news.ycombinator.com/item?id=42540870) - [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))
@@ -17,6 +18,7 @@
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [I'm trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 11:51:42](https://news.ycombinator.com/item?id=42539398) - [McKinsey Destroyed the Middle Class (2020)](https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/)
 * [2024-12-29, 11:12:45](https://news.ycombinator.com/item?id=42539248) - [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
+* [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
 * [2024-12-29, 08:23:16](https://news.ycombinator.com/item?id=42538515) - [Family of Deceased OpenAI Whistleblower Disputes Suicide Ruling](https://twitter.com/RaoPoornima/status/1873282982150324393)
