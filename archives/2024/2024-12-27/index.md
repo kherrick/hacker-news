@@ -33,6 +33,7 @@
 * [2024-12-27, 17:06:46](https://news.ycombinator.com/item?id=42523884) - [Topological Mechanics of Knots and Tangles](https://www.science.org/doi/10.1126/science.aaz0135)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 16:27:34](https://news.ycombinator.com/item?id=42523491) - [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)
+* [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
 * [2024-12-27, 15:43:09](https://news.ycombinator.com/item?id=42523061) - [Bench accounting services shutting down](https://bench.co/)
 * [2024-12-27, 14:16:37](https://news.ycombinator.com/item?id=42522200) - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
 * [2024-12-27, 14:15:40](https://news.ycombinator.com/item?id=42522194) - [Popeye and Tintin will soon lose copyright protection](https://www.axios.com/2024/12/27/copyright-public-domain-2025-popeye-tintin)
