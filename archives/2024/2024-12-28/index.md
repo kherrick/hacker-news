@@ -37,6 +37,7 @@
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Netflix tells writers to have characters \"announce what they're doing\"](https://www.worldofreel.com/blog/2024/12/27/netflix-tells-writers-to-have-characters-announce-what-theyre-doing-just-in-case-viewer-is-busy-doing-something-else)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
 * [2024-12-28, 08:45:18](https://news.ycombinator.com/item?id=42529564) - [The Nvidia Way – Review of Tae Kim's New Book](https://thechipletter.substack.com/p/the-nvidia-way)
+* [2024-12-28, 08:43:41](https://news.ycombinator.com/item?id=42529552) - [Issues with object-oriented programming in Guile](https://dthompson.us/posts/issues-with-object-oriented-programming-in-guile.html)
 * [2024-12-28, 08:01:40](https://news.ycombinator.com/item?id=42529398) - [Measuring and Understanding LLM Identity Confusion](https://arxiv.org/abs/2411.10683)
 * [2024-12-28, 08:01:01](https://news.ycombinator.com/item?id=42529396) - [Ten things in tech I found joy in during 2024](https://rubenerd.com/ten-it-things-i-found-joy-in-this-year/)
 * [2024-12-28, 07:11:06](https://news.ycombinator.com/item?id=42529207) - [LLMs are everything that it wrong in computing](https://crys.site/blog/2024/llms-scare-me/)
