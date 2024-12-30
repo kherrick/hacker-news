@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
 * [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
-* [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
+* [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
@@ -9,7 +10,6 @@
 * [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - [Archibald Low's ‘ruthlessly imaginative’ 1925 predictions come true, mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
 * [2024-12-29, 23:42:45](https://news.ycombinator.com/item?id=42544665) - [Neuters: Lightweight front end to Reuters News](https://neuters.de/about)
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
-* [2024-12-29, 23:06:36](https://news.ycombinator.com/item?id=42544367) - [OpenAI’s board, paraphrased: ‘All we need is unimaginable sums of money’](https://daringfireball.net/2024/12/openai_unimaginable)
 * [2024-12-29, 23:03:17](https://news.ycombinator.com/item?id=42544336) - [The Cody Computer](https://www.codycomputer.org/)
 * [2024-12-29, 21:47:22](https://news.ycombinator.com/item?id=42543601) - [Show HN: Chorus, a Mac app that lets you chat with a bunch of AIs at once](https://melty.sh/chorus)
 * [2024-12-29, 21:33:42](https://news.ycombinator.com/item?id=42543431) - [Brave Care Has Closed](https://bravecare.com/)

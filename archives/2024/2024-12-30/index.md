@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
 * [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
+* [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
