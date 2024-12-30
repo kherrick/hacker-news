@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 22:25:45](https://news.ycombinator.com/item?id=42554218) - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
 * [2024-12-30, 22:24:51](https://news.ycombinator.com/item?id=42554209) - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
 * [2024-12-30, 21:57:55](https://news.ycombinator.com/item?id=42554008) - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 * [2024-12-30, 20:04:58](https://news.ycombinator.com/item?id=42552887) - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
+* [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
-* [2024-12-30, 18:41:57](https://news.ycombinator.com/item?id=42552222) - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
 * [2024-12-30, 18:37:50](https://news.ycombinator.com/item?id=42552174) - [A Tricycle of the Mind](https://marcusb.org/posts/2024/12/a-tricycle-of-the-mind/)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 18:09:11](https://news.ycombinator.com/item?id=42551863) - [Performance of LLMs on Advent of Code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
@@ -29,7 +30,6 @@
 * [2024-12-27, 07:51:30](https://news.ycombinator.com/item?id=42520601) - [Coding Font Selection 'Tournament'](https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament)
 * [2024-12-27, 07:11:54](https://news.ycombinator.com/item?id=42520470) - [RubyConf 2024: Cloud Native Buildpack Hackday (and other Ruby deploy tools, too)](https://www.schneems.com/rubyconf-2024-hackday/)
 * [2024-12-26, 19:06:33](https://news.ycombinator.com/item?id=42517035) - [Short Message Compression Using LLMs](https://bellard.org/ts_sms/)
-* [2024-12-26, 14:39:51](https://news.ycombinator.com/item?id=42515426) - [Nikon reveals a lens that captures wide and telephoto images simultaneously](https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously)
 
 ## [Archives](archives/index.md)
 
