@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 * [2024-12-30, 20:04:58](https://news.ycombinator.com/item?id=42552887) - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
@@ -15,6 +16,7 @@
 * [2024-12-30, 18:37:50](https://news.ycombinator.com/item?id=42552174) - [A Tricycle of the Mind](https://marcusb.org/posts/2024/12/a-tricycle-of-the-mind/)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
+* [2024-12-30, 18:09:11](https://news.ycombinator.com/item?id=42551863) - [Performance of LLMs on Advent of Code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-30, 17:51:35](https://news.ycombinator.com/item?id=42551660) - [How Well Do LLMs Generate Code for Different Application Domains?](https://arxiv.org/abs/2412.18573)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 15:21:45](https://news.ycombinator.com/item?id=42550042) - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
