@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 * [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
 * [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - [Archibald Low's ‘ruthlessly imaginative’ 1925 predictions come true, mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
@@ -13,6 +12,7 @@
 * [2024-12-29, 21:33:42](https://news.ycombinator.com/item?id=42543431) - [Brave Care Has Closed](https://bravecare.com/)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
+* [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 14:00:31](https://news.ycombinator.com/item?id=42539987) - [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [Trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
