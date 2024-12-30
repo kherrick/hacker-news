@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 * [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - ['ruthlessly imaginative' 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
 * [2024-12-30, 01:05:49](https://news.ycombinator.com/item?id=42545303) - [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
 * [2024-12-30, 00:25:52](https://news.ycombinator.com/item?id=42545009) - [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
@@ -12,6 +13,7 @@
 * [2024-12-29, 21:47:22](https://news.ycombinator.com/item?id=42543601) - [Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once](https://melty.sh/chorus)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
+* [2024-12-29, 19:11:43](https://news.ycombinator.com/item?id=42542138) - [Are PC hardware companies driving technology into restricted closed ecosystems?](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I was wrong about the ethics crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 * [2024-12-29, 14:00:31](https://news.ycombinator.com/item?id=42539987) - [Is Iceland getting ready to join the EU?](https://mikegalsworthy.substack.com/p/is-iceland-getting-ready-to-join)
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [Trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
@@ -21,15 +23,13 @@
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs accurately recall the Bible?](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
-* [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
-* [2024-12-28, 11:43:15](https://news.ycombinator.com/item?id=42530332) - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-27, 04:10:53](https://news.ycombinator.com/item?id=42519875) - [Rod Serling on Doomsday](https://mubi.com/en/notebook/posts/rod-serling-on-doomsday)
 * [2024-12-27, 04:07:00](https://news.ycombinator.com/item?id=42519862) - [The last Inca bridge master](https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master)
 * [2024-12-26, 19:30:16](https://news.ycombinator.com/item?id=42517163) - [Faster CI with Selective Testing](https://mill-build.org/blog/3-selective-testing.html)
 * [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
-* [2024-12-26, 05:18:01](https://news.ycombinator.com/item?id=42513290) - [TWISTED: The dramatic history of twisted-pair Ethernet](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
+* [2024-12-26, 05:18:01](https://news.ycombinator.com/item?id=42513290) - [The history of twisted-pair Ethernet [video]](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
 
 ## [Archives](archives/index.md)
 
