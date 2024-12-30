@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
-* [2024-12-30, 15:21:45](https://news.ycombinator.com/item?id=42550042) - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
 * [2024-12-30, 15:01:14](https://news.ycombinator.com/item?id=42549857) - [FTC Orders 'Gun Detection' Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
-* [2024-12-30, 14:56:43](https://news.ycombinator.com/item?id=42549807) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
 * [2024-12-30, 14:37:17](https://news.ycombinator.com/item?id=42549624) - [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 * [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
@@ -25,6 +24,7 @@
 * [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
+* [2024-12-28, 13:18:34](https://news.ycombinator.com/item?id=42530844) - [Overloading the lambda abstraction in Haskell (2022)](https://acatalepsie.fr/posts/overloading-lambda.html)
 * [2024-12-27, 18:18:17](https://news.ycombinator.com/item?id=42524555) - [PolyDye: Full color printer mod for Marlin 3D printers](https://github.com/cooljjj33/PolyDye)
 * [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution Units Are Often Pipelined](https://blog.xoria.org/pipelining/)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
