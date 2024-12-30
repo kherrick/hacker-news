@@ -13,6 +13,7 @@
 * [2024-12-27, 21:16:38](https://news.ycombinator.com/item?id=42526112) - [Against the Hydraulic Analogy](https://lcamtuf.substack.com/p/against-the-hydraulic-analogy)
 * [2024-12-27, 21:14:14](https://news.ycombinator.com/item?id=42526092) - [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
 * [2024-12-27, 21:12:57](https://news.ycombinator.com/item?id=42526081) - [Breaking the Mirror – A Look at Apple's New iPhone Remote Control Feature [video]](https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature)
+* [2024-12-27, 20:55:49](https://news.ycombinator.com/item?id=42525951) - [Reverse Video Search](https://blog.mixpeek.com/reverse-video-search/)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
