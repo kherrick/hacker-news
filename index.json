@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-12-30, 12:00:20",
+      "https://news.ycombinator.com/item?id=42548551"
+    ],
+    [
+      "Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)",
+      "https://www.ycombinator.com/companies/pincites/jobs"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 11:21:25",
       "https://news.ycombinator.com/item?id=42548359"
     ],
     [
       "Meta wants more access to your iPhone",
       "https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 10:50:55",
+      "https://news.ycombinator.com/item?id=42548215"
+    ],
+    [
+      "Curl with Partial Files",
+      "https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 10:02:33",
+      "https://news.ycombinator.com/item?id=42548000"
+    ],
+    [
+      "Limits to Growth (1972)",
+      "http://bit-player.org/extras/limits/"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2024-12-29, 21:33:42",
-      "https://news.ycombinator.com/item?id=42543431"
-    ],
-    [
-      "Brave Care Has Closed",
-      "https://bravecare.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 21:08:21",
-      "https://news.ycombinator.com/item?id=42543128"
-    ],
-    [
-      "Jimmy Carter has died",
-      "https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/"
-    ]
-  ],
-  [
-    [
       "2024-12-29, 19:30:02",
       "https://news.ycombinator.com/item?id=42542280"
     ],
@@ -167,16 +177,6 @@
     [
       "Trying to use Bluesky without getting burned again",
       "https://chrisholdgraf.com/blog/2024/bluesky"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 09:47:59",
-      "https://news.ycombinator.com/item?id=42538906"
-    ],
-    [
-      "Breaking NATO Radio Encryption [video]",
-      "https://media.ccc.de/v/38c3-breaking-nato-radio-encryption"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Issues with object-oriented programming in Guile",
       "https://dthompson.us/posts/issues-with-object-oriented-programming-in-guile.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 21:25:28",
+      "https://news.ycombinator.com/item?id=42526176"
+    ],
+    [
+      "Wi-Fi and the Problem with Radar (DFS)",
+      "https://blog.iptel.com.au/wifi-and-the-problem-with-radar"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Nikon reveals a lens that captures wide and telephoto images simultaneously",
       "https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 05:18:01",
-      "https://news.ycombinator.com/item?id=42513290"
-    ],
-    [
-      "The history of twisted-pair Ethernet [video]",
-      "https://www.youtube.com/watch?v=f8PP5IHsL8Y"
     ]
   ]
 ]
