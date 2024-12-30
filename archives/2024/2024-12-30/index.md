@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 15:21:45](https://news.ycombinator.com/item?id=42550042) - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
 * [2024-12-30, 15:07:01](https://news.ycombinator.com/item?id=42549917) - [Human Civilization at critical junction:authoritarian collapse or superabundance](https://www.eurekalert.org/news-releases/1068196)
 * [2024-12-30, 15:01:14](https://news.ycombinator.com/item?id=42549857) - [FTC Orders 'Gun Detection' Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 * [2024-12-30, 14:56:43](https://news.ycombinator.com/item?id=42549807) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
 * [2024-12-30, 14:50:09](https://news.ycombinator.com/item?id=42549739) - [After 30 years, FDA overhauls guideline for the claim \"Healthy\" on food packages](https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56)
 * [2024-12-30, 14:45:21](https://news.ycombinator.com/item?id=42549691) - [Jimmy Carter: America's Greatest Environmental President](https://www.rollingstone.com/politics/politics-features/jimmy-carter-climate-activism-1234683304/)
+* [2024-12-30, 14:37:17](https://news.ycombinator.com/item?id=42549624) - [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
 * [2024-12-30, 14:25:05](https://news.ycombinator.com/item?id=42549506) - [Rite Aid's 'Zombie' stores take over America](https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632)
 * [2024-12-30, 14:16:12](https://news.ycombinator.com/item?id=42549425) - [Dungeons and Dragons Rolls the Dice with New Rules About Identity](https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
