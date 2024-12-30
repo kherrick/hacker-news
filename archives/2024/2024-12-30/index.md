@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
+* [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)

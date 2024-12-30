@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
+* [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 * [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
 * [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - [Archibald Low's ‘ruthlessly imaginative’ 1925 predictions come true, mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
-* [2024-12-30, 01:05:49](https://news.ycombinator.com/item?id=42545303) - [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
 * [2024-12-29, 23:42:45](https://news.ycombinator.com/item?id=42544665) - [Neuters: Lightweight front end to Reuters News](https://neuters.de/about)
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 * [2024-12-29, 23:06:36](https://news.ycombinator.com/item?id=42544367) - [OpenAI’s board, paraphrased: ‘All we need is unimaginable sums of money’](https://daringfireball.net/2024/12/openai_unimaginable)
@@ -28,7 +29,6 @@
 * [2024-12-27, 04:07:00](https://news.ycombinator.com/item?id=42519862) - [The last Inca bridge master](https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master)
 * [2024-12-26, 19:30:16](https://news.ycombinator.com/item?id=42517163) - [Faster CI with Selective Testing](https://mill-build.org/blog/3-selective-testing.html)
 * [2024-12-26, 14:39:51](https://news.ycombinator.com/item?id=42515426) - [Nikon reveals a lens that captures wide and telephoto images simultaneously](https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously)
-* [2024-12-26, 11:17:37](https://news.ycombinator.com/item?id=42514553) - [Melbourne Train Control System is running on a hardware emulated PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 * [2024-12-26, 05:18:01](https://news.ycombinator.com/item?id=42513290) - [The history of twisted-pair Ethernet [video]](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
 
 ## [Archives](archives/index.md)
