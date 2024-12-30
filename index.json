@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-12-29, 16:23:18",
-      "https://news.ycombinator.com/item?id=42540862"
-    ],
-    [
-      "I was wrong about the ethics crisis",
-      "https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/"
-    ]
-  ],
-  [
-    [
       "2024-12-29, 14:00:31",
       "https://news.ycombinator.com/item?id=42539987"
     ],
@@ -207,6 +197,16 @@
     [
       "Overloading the lambda abstraction in Haskell (2022)",
       "https://acatalepsie.fr/posts/overloading-lambda.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 08:43:41",
+      "https://news.ycombinator.com/item?id=42529552"
+    ],
+    [
+      "Issues with object-oriented programming in Guile",
+      "https://dthompson.us/posts/issues-with-object-oriented-programming-in-guile.html"
     ]
   ],
   [
