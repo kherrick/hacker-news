@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 * [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
