@@ -80,6 +80,7 @@
 * [2024-12-27, 03:42:21](https://news.ycombinator.com/item?id=42519769) - [Roaming Rocks](https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can)
 * [2024-12-27, 02:50:56](https://news.ycombinator.com/item?id=42519562) - [Map with an LLM](https://godview.ai)
 * [2024-12-27, 02:32:20](https://news.ycombinator.com/item?id=42519487) - [Search ArXiv Fluidly](https://searchthearxiv.com/)
+* [2024-12-27, 01:11:08](https://news.ycombinator.com/item?id=42519168) - [Where Is James Bond? Trapped in an Ugly Stalemate with Amazon](https://www.wsj.com/business/media/james-bond-movies-amazon-barbara-broccoli-0b04f0db)
 * [2024-12-27, 01:07:53](https://news.ycombinator.com/item?id=42519154) - [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
 * [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
 * [2024-12-27, 00:43:23](https://news.ycombinator.com/item?id=42519045) - [The Anatomy of a Large-Scale Hypertextual Web Search Engine (1998)](http://infolab.stanford.edu/~backrub/google.html)
