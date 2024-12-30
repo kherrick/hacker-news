@@ -129,6 +129,181 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42545875">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true"
+              >'ruthlessly imaginative' 1925 predictions for the future come
+              true – mostly</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-30 @ 02:34:37</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42545875"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42545772">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/"
+              >Israel built an 'AI factory' for war. It unleashed it in Gaza</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-30 @ 02:18:23</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42545772"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42545303">
+          <h3>
+            <a class="item" href="https://github.com/con-dog/hack_emulator_c"
+              >Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU
+              to CPU to PC</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-12-30 @ 01:05:49</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42545303"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                NandToTetris is a course which has you build a full computer
+                from:
+              </p>
+              <p>
+                Logic gates -&gt; Chips -&gt; RAM -&gt; CPU -&gt; Computer -&gt;
+                Assembler -&gt; Compiler -&gt; OS -&gt; Tetris
+              </p>
+              <p>All this is done via software defined hardware emulation.</p>
+              <p>I'm building an emulator for this entire stack in C.</p>
+              <p>
+                How is my approach different to other projects that build
+                emulators?
+              </p>
+              <p></p>
+              <pre><code>    - No external dependencies (so far)
+    - Start with a single software defined NAND gate in C
+      - EVERYTHING is built from this base chip
+    - Don't use certain programming utilities: boolean logic 
+        operators, bitwise logic operators etc
+
+    Instead we leverage the gates/chips to implement such logic
+
+    I build more and more base chips from the NAND gate
+    - Simple gates: OR, AND, NOT, XOR (5 total "gates")
+    - Simple chips: DMux, Mux (11 so far, "combinatorial" 
+        chips
+    - 16 bit variants
+</code></pre>
+              For comparison, most emulator projects start right at the CPU
+              level and don't sequentially build primitive structures. So a
+              lay-person, or person unfamiliar with PC architectures is missing
+              some lower-level information.
+              <p>
+                Typical emulators look at CPU truth table / Instruction set and
+                implement that logic directly in code.
+              </p>
+              <p>
+                More straight forward, way fewer lines of code - but you skip
+                all the gates/chips fun.
+              </p>
+              <p>------</p>
+              <p>Confused? Heres example code for my NAND gate:</p>
+              <p></p>
+              <pre><code>    void nand_gate(Nand *nand)
+    {
+        nand-&gt;output.out = !(nand-&gt;input.a &amp; nand-&gt;input.b);
+    }
+</code></pre>
+              From this gate I build a NOT gate (note, no boolean operators)
+              <p></p>
+              <pre><code>    void not_gate(Not * not )
+    {
+        Nand nand = {
+            .input.a = not -&gt;input.in,
+            .input.b = not -&gt;input.in,
+        };
+        nand_gate(&amp;nand);
+        not -&gt;output.out = nand.output.out;
+    }
+</code></pre>
+              Then OR / AND / XOR / MUX / DMUX ..... and their 16 bit versions.
+              <p>Heres a more complex chip, a 16bit Mux-8-way chip</p>
+              <p></p>
+              <pre><code>    /*
+     * out = a if sel = 000
+     *       b if sel = 001
+     *       c if sel = 010
+     *       d if sel = 011
+     *       e if sel = 100
+     *       f if sel = 101
+     *       g if sel = 110
+     *       h if sel = 111
+    */
+    void mux16_8_way_chip(Mux16_8_Way *mux16_8_way)
+    {
+      Mux16_4_Way mux16_4_way_chip_a, mux16_4_way_chip_b;
+      Mux16 mux16_chip_c;
+
+      // Mux a
+      memcpy(mux16_4_way_chip_a.input.sel, mux16_8_way- &gt;input.sel, sizeof(mux16_4_way_chip_a.input.sel));
+      memcpy(mux16_4_way_chip_a.input.a, mux16_8_way-&gt;input.a, sizeof(mux16_4_way_chip_a.input.a));
+      memcpy(mux16_4_way_chip_a.input.b, mux16_8_way-&gt;input.b, sizeof(mux16_4_way_chip_a.input.b));
+      memcpy(mux16_4_way_chip_a.input.c, mux16_8_way-&gt;input.c, sizeof(mux16_4_way_chip_a.input.c));
+      memcpy(mux16_4_way_chip_a.input.d, mux16_8_way-&gt;input.d, sizeof(mux16_4_way_chip_a.input.d));
+      mux16_4_way_chip(&amp;mux16_4_way_chip_a);
+
+      // Mux b
+      memcpy(mux16_4_way_chip_b.input.sel, mux16_8_way-&gt;input.sel, sizeof(mux16_4_way_chip_b.input.sel));
+      memcpy(mux16_4_way_chip_b.input.a, mux16_8_way-&gt;input.e, sizeof(mux16_4_way_chip_b.input.a));
+      memcpy(mux16_4_way_chip_b.input.b, mux16_8_way-&gt;input.f, sizeof(mux16_4_way_chip_b.input.b));
+      memcpy(mux16_4_way_chip_b.input.c, mux16_8_way-&gt;input.g, sizeof(mux16_4_way_chip_b.input.c));
+      memcpy(mux16_4_way_chip_b.input.d, mux16_8_way-&gt;input.h, sizeof(mux16_4_way_chip_b.input.d));
+      mux16_4_way_chip(&amp;mux16_4_way_chip_b);
+
+      // Mux c
+      mux16_chip_c.input.sel = mux16_8_way-&gt;input.sel[2];
+      memcpy(mux16_chip_c.input.a, mux16_4_way_chip_a.output.out, sizeof(mux16_chip_c.input.a));
+      memcpy(mux16_chip_c.input.b, mux16_4_way_chip_b.output.out, sizeof(mux16_chip_c.input.b));
+      mux16_chip(&amp;mux16_chip_c);
+
+      memcpy(mux16_8_way-&gt;output.out, mux16_chip_c.output.out, sizeof(mux16_8_way-&gt;output.out));
+    }
+
+</code></pre>
+              -----
+              <p>
+                Progress: I have only started this project yesterday, so have
+                completed 1 out of 7 hardware projects so far
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42545009">
           <h3>
             <a
@@ -142,11 +317,11 @@
             <h4>
               <span>2024-12-30 @ 00:25:52</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42545009"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -161,11 +336,11 @@
             <h4>
               <span>2024-12-29 @ 23:15:18</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42544437"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -180,7 +355,7 @@
             <h4>
               <span>2024-12-29 @ 23:03:17</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42544336"
                   >Comments</a
@@ -202,11 +377,11 @@
             <h4>
               <span>2024-12-29 @ 22:42:41</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42544123"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -221,7 +396,7 @@
             <h4>
               <span>2024-12-29 @ 22:41:46</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42544115"
                   >Comments</a
@@ -244,7 +419,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42543818"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -260,11 +435,11 @@
             <h4>
               <span>2024-12-29 @ 21:47:22</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42543601"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -273,25 +448,6 @@
                 hear your thoughts!
               </p>
             </div>
-          </section>
-        </section>
-        <section id="42543431">
-          <h3>
-            <a class="item" href="https://bravecare.com/"
-              >Brave Care Has Closed</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-29 @ 21:33:42</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42543431"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="42543128">
@@ -306,11 +462,11 @@
             <h4>
               <span>2024-12-29 @ 21:08:21</span
               ><span class="points-container"
-                >Points: <span class="points">845</span></span
+                >Points: <span class="points">867</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42543128"
                   >Comments</a
-                ><span class="descendants">: 444</span></span
+                ><span class="descendants">: 454</span></span
               >
             </h4>
           </section>
@@ -327,11 +483,11 @@
             <h4>
               <span>2024-12-29 @ 19:30:02</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42542280"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -349,11 +505,11 @@
             <h4>
               <span>2024-12-29 @ 19:11:43</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42542138"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -370,11 +526,11 @@
             <h4>
               <span>2024-12-29 @ 16:23:18</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42540862"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -391,11 +547,11 @@
             <h4>
               <span>2024-12-29 @ 14:00:31</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42539987"
                   >Comments</a
-                ><span class="descendants">: 347</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -410,11 +566,11 @@
             <h4>
               <span>2024-12-29 @ 12:13:02</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42539462"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -431,11 +587,11 @@
             <h4>
               <span>2024-12-29 @ 10:49:00</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42539155"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -452,11 +608,11 @@
             <h4>
               <span>2024-12-29 @ 09:47:59</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42538906"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -474,11 +630,11 @@
             <h4>
               <span>2024-12-29 @ 09:47:09</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42538903"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -495,7 +651,7 @@
             <h4>
               <span>2024-12-29 @ 04:39:49</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">377</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42537567"
                   >Comments</a
@@ -516,11 +672,11 @@
             <h4>
               <span>2024-12-29 @ 03:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42537332"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -559,11 +715,11 @@
             <h4>
               <span>2024-12-28 @ 19:22:30</span
               ><span class="points-container"
-                >Points: <span class="points">1186</span></span
+                >Points: <span class="points">1192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42533685"
                   >Comments</a
-                ><span class="descendants">: 887</span></span
+                ><span class="descendants">: 893</span></span
               >
             </h4>
           </section>
@@ -580,11 +736,11 @@
             <h4>
               <span>2024-12-28 @ 15:26:31</span
               ><span class="points-container"
-                >Points: <span class="points">582</span></span
+                >Points: <span class="points">585</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42531695"
                   >Comments</a
-                ><span class="descendants">: 790</span></span
+                ><span class="descendants">: 792</span></span
               >
             </h4>
           </section>
@@ -599,11 +755,11 @@
             <h4>
               <span>2024-12-28 @ 11:43:15</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">618</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42530332"
                   >Comments</a
-                ><span class="descendants">: 392</span></span
+                ><span class="descendants">: 393</span></span
               >
             </h4>
           </section>
@@ -641,54 +797,11 @@
             <h4>
               <span>2024-12-27 @ 04:07:00</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42519862"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42519045">
-          <h3>
-            <a
-              class="item"
-              href="http://infolab.stanford.edu/~backrub/google.html"
-              >The Anatomy of a Large-Scale Hypertextual Web Search Engine
-              (1998)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-27 @ 00:43:23</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42519045"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42518315">
-          <h3>
-            <a
-              class="item"
-              href="https://www.scworld.com/news/apache-fixes-traffic-control-bug-that-attackers-could-exploit"
-              >Apache fixes Traffic Control bug that attackers could exploit</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-26 @ 22:21:44</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42518315"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -705,11 +818,11 @@
             <h4>
               <span>2024-12-26 @ 19:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42517163"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -727,11 +840,11 @@
             <h4>
               <span>2024-12-26 @ 11:17:37</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42514553"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -746,7 +859,7 @@
             <h4>
               <span>2024-12-26 @ 05:18:01</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42513290"
                   >Comments</a
