@@ -19,7 +19,7 @@
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [Trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-* [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
+* [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
 * [2024-12-28, 13:18:34](https://news.ycombinator.com/item?id=42530844) - [Overloading the lambda abstraction in Haskell (2022)](https://acatalepsie.fr/posts/overloading-lambda.html)
 * [2024-12-28, 08:43:41](https://news.ycombinator.com/item?id=42529552) - [Issues with object-oriented programming in Guile](https://dthompson.us/posts/issues-with-object-oriented-programming-in-guile.html)
 * [2024-12-27, 21:16:38](https://news.ycombinator.com/item?id=42526112) - [Against the Hydraulic Analogy](https://lcamtuf.substack.com/p/against-the-hydraulic-analogy)
