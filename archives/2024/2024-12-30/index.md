@@ -11,6 +11,7 @@
 * [2024-12-30, 18:41:57](https://news.ycombinator.com/item?id=42552222) - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
+* [2024-12-30, 17:51:35](https://news.ycombinator.com/item?id=42551660) - [How Well Do LLMs Generate Code for Different Application Domains?](https://arxiv.org/abs/2412.18573)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 15:21:45](https://news.ycombinator.com/item?id=42550042) - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
 * [2024-12-30, 15:07:01](https://news.ycombinator.com/item?id=42549917) - [Human Civilization at critical junction:authoritarian collapse or superabundance](https://www.eurekalert.org/news-releases/1068196)

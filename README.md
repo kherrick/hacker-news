@@ -5,8 +5,8 @@
 * [2024-12-30, 19:13:40](https://news.ycombinator.com/item?id=42552460) - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
 * [2024-12-30, 18:41:57](https://news.ycombinator.com/item?id=42552222) - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
-* [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
+* [2024-12-30, 17:51:35](https://news.ycombinator.com/item?id=42551660) - [How Well Do LLMs Generate Code for Different Application Domains?](https://arxiv.org/abs/2412.18573)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 15:01:14](https://news.ycombinator.com/item?id=42549857) - [FTC orders 'gun detection' tech maker Evolv to stop overstating effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 * [2024-12-30, 14:56:43](https://news.ycombinator.com/item?id=42549807) - [Fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
@@ -27,7 +27,7 @@
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
-* [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution Units Are Often Pipelined](https://blog.xoria.org/pipelining/)
+* [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution units are often pipelined](https://blog.xoria.org/pipelining/)
 * [2024-12-26, 19:06:33](https://news.ycombinator.com/item?id=42517035) - [Short Message Compression Using LLMs](https://bellard.org/ts_sms/)
 * [2024-12-26, 14:39:51](https://news.ycombinator.com/item?id=42515426) - [Nikon reveals a lens that captures wide and telephoto images simultaneously](https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously)
 
