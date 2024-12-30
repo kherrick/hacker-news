@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)

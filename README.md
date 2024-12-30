@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
@@ -22,7 +23,6 @@
 * [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 * [2024-12-29, 23:03:17](https://news.ycombinator.com/item?id=42544336) - [The Cody Computer](https://www.codycomputer.org/)
-* [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
 * [2024-12-27, 18:18:17](https://news.ycombinator.com/item?id=42524555) - [PolyDye: Full color printer mod for Marlin 3D printers](https://github.com/cooljjj33/PolyDye)
