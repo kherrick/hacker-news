@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-30, 03:47:29",
+      "https://news.ycombinator.com/item?id=42546259"
+    ],
+    [
+      "Category Theory Illustrated",
+      "https://abuseofnotation.github.io/category-theory-illustrated/"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 03:39:42",
       "https://news.ycombinator.com/item?id=42546216"
     ],
@@ -81,32 +91,22 @@
   ],
   [
     [
-      "2024-12-29, 22:41:46",
-      "https://news.ycombinator.com/item?id=42544115"
-    ],
-    [
-      "Stripe V2",
-      "https://brandur.org/fragments/stripe-v2"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 22:09:58",
-      "https://news.ycombinator.com/item?id=42543818"
-    ],
-    [
-      "Om Malik – The Story of Stent",
-      "https://om.co/2024/12/28/the-story-of-stent/"
-    ]
-  ],
-  [
-    [
       "2024-12-29, 21:47:22",
       "https://news.ycombinator.com/item?id=42543601"
     ],
     [
       "Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once",
       "https://melty.sh/chorus"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 21:33:42",
+      "https://news.ycombinator.com/item?id=42543431"
+    ],
+    [
+      "Brave Care Has Closed",
+      "https://bravecare.com/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-12-28, 19:22:30",
-      "https://news.ycombinator.com/item?id=42533685"
-    ],
-    [
-      "Apple Photos phones home on iOS 18 and macOS 15",
-      "https://lapcatsoftware.com/articles/2024/12/3.html"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 15:26:31",
       "https://news.ycombinator.com/item?id=42531695"
     ],
     [
       "I automated my job application process",
       "https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 08:01:40",
+      "https://news.ycombinator.com/item?id=42529398"
+    ],
+    [
+      "Measuring and Understanding LLM Identity Confusion",
+      "https://arxiv.org/abs/2411.10683"
     ]
   ],
   [
