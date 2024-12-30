@@ -22,6 +22,7 @@
 * [2024-12-26, 19:39:39](https://news.ycombinator.com/item?id=42517234) - [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * [2024-12-26, 19:38:50](https://news.ycombinator.com/item?id=42517227) - [Why history is always political](https://aeon.co/essays/history-is-always-political-and-contest-over-it-is-a-good-thing)
 * [2024-12-26, 19:30:18](https://news.ycombinator.com/item?id=42517164) - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
+* [2024-12-26, 19:30:16](https://news.ycombinator.com/item?id=42517163) - [Faster CI with Selective Testing](https://mill-build.org/blog/3-selective-testing.html)
 * [2024-12-26, 19:18:10](https://news.ycombinator.com/item?id=42517102) - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 19:03:50](https://news.ycombinator.com/item?id=42517021) - [The Semver Trick](https://github.com/dtolnay/semver-trick)
 * [2024-12-26, 18:58:12](https://news.ycombinator.com/item?id=42516991) - [Ask HN: Is ChatGPT down?](https://news.ycombinator.com/item?id=42516991)

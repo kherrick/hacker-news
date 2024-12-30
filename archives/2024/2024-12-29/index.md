@@ -6,9 +6,13 @@
 
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 * [2024-12-29, 23:06:36](https://news.ycombinator.com/item?id=42544367) - [OpenAI's Board: 'To Succeed, All We Need Is Unimaginable Sums of Money'](https://daringfireball.net/2024/12/openai_unimaginable)
+* [2024-12-29, 23:03:17](https://news.ycombinator.com/item?id=42544336) - [The Cody Computer](https://www.codycomputer.org/)
+* [2024-12-29, 22:42:41](https://news.ycombinator.com/item?id=42544123) - [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
 * [2024-12-29, 22:41:46](https://news.ycombinator.com/item?id=42544115) - [Stripe V2](https://brandur.org/fragments/stripe-v2)
 * [2024-12-29, 22:34:54](https://news.ycombinator.com/item?id=42544049) - ['No Problem' Word Processor Poses a Problem for Former President Carter (1981)](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
 * [2024-12-29, 22:09:58](https://news.ycombinator.com/item?id=42543818) - [Om Malik – The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/)
+* [2024-12-29, 21:47:22](https://news.ycombinator.com/item?id=42543601) - [Show HN: Chorus, a Mac app that lets you chat a bunch of AIs at once](https://melty.sh/chorus)
+* [2024-12-29, 21:33:42](https://news.ycombinator.com/item?id=42543431) - [Brave Care Has Closed](https://bravecare.com/)
 * [2024-12-29, 21:08:21](https://news.ycombinator.com/item?id=42543128) - [President Jimmy Carter has passed away](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/)
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 * [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)

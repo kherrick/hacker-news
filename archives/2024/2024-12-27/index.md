@@ -77,5 +77,6 @@
 * [2024-12-27, 02:32:20](https://news.ycombinator.com/item?id=42519487) - [Search ArXiv Fluidly](https://searchthearxiv.com/)
 * [2024-12-27, 01:07:53](https://news.ycombinator.com/item?id=42519154) - [Ask HN: Which courses/classes are you excited about in 2025?](https://news.ycombinator.com/item?id=42519154)
 * [2024-12-27, 01:05:02](https://news.ycombinator.com/item?id=42519146) - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
+* [2024-12-27, 00:43:23](https://news.ycombinator.com/item?id=42519045) - [The Anatomy of a Large-Scale Hypertextual Web Search Engine (1998)](http://infolab.stanford.edu/~backrub/google.html)
 * [2024-12-27, 00:33:02](https://news.ycombinator.com/item?id=42518995) - [20 Years Ago Today, Deadliest Tsunami Set Off Work to Be Ready for Next Big Wave](https://www.nytimes.com/2024/12/26/science/tsunami-2004-20th-anniversary.html)
 * [2024-12-27, 00:22:28](https://news.ycombinator.com/item?id=42518953) - [Hello World on z/OS (2018)](https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f)

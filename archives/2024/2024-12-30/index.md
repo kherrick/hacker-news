@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-30](index.md)
+
+* [2024-12-30, 00:25:52](https://news.ycombinator.com/item?id=42545009) - [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
