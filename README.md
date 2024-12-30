@@ -2,7 +2,8 @@
 
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
-* [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - ['ruthlessly imaginative' 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
+* [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
+* [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - [Scientist’s ‘ruthlessly imaginative’ 1925 predictions come true, mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
 * [2024-12-30, 01:05:49](https://news.ycombinator.com/item?id=42545303) - [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
 * [2024-12-30, 00:25:52](https://news.ycombinator.com/item?id=42545009) - [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
 * [2024-12-29, 23:42:45](https://news.ycombinator.com/item?id=42544665) - [Neuters: Lightweight front end to Reuters News](https://neuters.de/about)
@@ -22,7 +23,6 @@
 * [2024-12-29, 04:39:49](https://news.ycombinator.com/item?id=42537567) - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 * [2024-12-29, 03:44:52](https://news.ycombinator.com/item?id=42537332) - [Can LLMs accurately recall the Bible?](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
-* [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I automated my job application process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 08:01:40](https://news.ycombinator.com/item?id=42529398) - [Measuring and Understanding LLM Identity Confusion](https://arxiv.org/abs/2411.10683)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-27, 04:10:53](https://news.ycombinator.com/item?id=42519875) - [Rod Serling on Doomsday](https://mubi.com/en/notebook/posts/rod-serling-on-doomsday)
