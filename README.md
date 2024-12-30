@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
+* [2024-12-30, 20:04:58](https://news.ycombinator.com/item?id=42552887) - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
 * [2024-12-30, 19:16:35](https://news.ycombinator.com/item?id=42552474) - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
@@ -17,7 +18,6 @@
 * [2024-12-30, 13:38:10](https://news.ycombinator.com/item?id=42549148) - [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
 * [2024-12-30, 12:37:47](https://news.ycombinator.com/item?id=42548763) - [Show HN: I built open source file sharing solution using AWS S3](https://s3-file-share-for-free-35n2u.kinsta.app/)
-* [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 12:18:10](https://news.ycombinator.com/item?id=42548641) - [What is it like to be a thermostat? (1996)](https://annakaharris.com/chalmers/)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)

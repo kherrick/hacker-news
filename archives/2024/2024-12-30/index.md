@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
+* [2024-12-30, 20:04:58](https://news.ycombinator.com/item?id=42552887) - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
 * [2024-12-30, 19:16:35](https://news.ycombinator.com/item?id=42552474) - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
 * [2024-12-30, 19:13:40](https://news.ycombinator.com/item?id=42552460) - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
