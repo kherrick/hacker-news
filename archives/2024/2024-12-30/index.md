@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
+* [2024-12-30, 19:16:35](https://news.ycombinator.com/item?id=42552474) - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
 * [2024-12-30, 19:13:40](https://news.ycombinator.com/item?id=42552460) - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
+* [2024-12-30, 18:41:57](https://news.ycombinator.com/item?id=42552222) - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
