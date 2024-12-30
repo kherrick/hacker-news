@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
 * [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
@@ -24,7 +25,6 @@
 * [2024-12-28, 08:43:41](https://news.ycombinator.com/item?id=42529552) - [Issues with object-oriented programming in Guile](https://dthompson.us/posts/issues-with-object-oriented-programming-in-guile.html)
 * [2024-12-27, 21:25:28](https://news.ycombinator.com/item?id=42526176) - [Wi-Fi and the Problem with Radar (DFS)](https://blog.iptel.com.au/wifi-and-the-problem-with-radar)
 * [2024-12-27, 21:16:38](https://news.ycombinator.com/item?id=42526112) - [Against the Hydraulic Analogy](https://lcamtuf.substack.com/p/against-the-hydraulic-analogy)
-* [2024-12-27, 20:55:49](https://news.ycombinator.com/item?id=42525951) - [Reverse Video Search](https://blog.mixpeek.com/reverse-video-search/)
 * [2024-12-27, 18:18:17](https://news.ycombinator.com/item?id=42524555) - [PolyDye: Full color printer mod for Marlin 3D printers](https://github.com/cooljjj33/PolyDye)
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-27, 04:10:53](https://news.ycombinator.com/item?id=42519875) - [Rod Serling on Doomsday](https://mubi.com/en/notebook/posts/rod-serling-on-doomsday)
