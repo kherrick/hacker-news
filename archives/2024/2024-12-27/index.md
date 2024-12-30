@@ -36,6 +36,7 @@
 * [2024-12-27, 17:12:58](https://news.ycombinator.com/item?id=42523934) - [Matt Mullenweg Asks What Drama to Create in 2025, Community Reacts](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts)
 * [2024-12-27, 17:12:56](https://news.ycombinator.com/item?id=42523933) - [Complain and Propose](https://tidyfirst.substack.com/p/complain-and-propose)
 * [2024-12-27, 17:06:46](https://news.ycombinator.com/item?id=42523884) - [Topological Mechanics of Knots and Tangles](https://www.science.org/doi/10.1126/science.aaz0135)
+* [2024-12-27, 17:03:40](https://news.ycombinator.com/item?id=42523855) - [High-Speed Sequential DNA Computing Using a Solid-State DNA Origami Register](https://pubs.acs.org/doi/full/10.1021/acscentsci.4c01557)
 * [2024-12-27, 16:53:33](https://news.ycombinator.com/item?id=42523745) - [Scale Model of Boeing 777-300ER, Made from Manila Folders](https://www.lucaiaconistewart.com/model-777)
 * [2024-12-27, 16:27:34](https://news.ycombinator.com/item?id=42523491) - [Show HN: DeepSeek v3 – A 671B parameter AI Language Model](https://deepseekv3.org/)
 * [2024-12-27, 15:56:44](https://news.ycombinator.com/item?id=42523202) - [Astronauts face unique visual challenges at lunar South Pole](https://phys.org/news/2024-12-astronauts-unique-visual-lunar-south.html)
