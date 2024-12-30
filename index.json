@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2024-12-30, 18:21:22",
-      "https://news.ycombinator.com/item?id=42552004"
-    ],
-    [
-      "QR-style codes could replace barcodes 'within two years'",
-      "https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 18:11:47",
       "https://news.ycombinator.com/item?id=42551900"
     ],
     [
       "Tell HN: John Friel my father, internet pioneer and creator of QModem, has died",
       "https://news.ycombinator.com/item?id=42551900"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 17:51:35",
+      "https://news.ycombinator.com/item?id=42551660"
+    ],
+    [
+      "How Well Do LLMs Generate Code for Different Application Domains?",
+      "https://arxiv.org/abs/2412.18573"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=42520861"
     ],
     [
-      "Execution Units Are Often Pipelined",
+      "Execution units are often pipelined",
       "https://blog.xoria.org/pipelining/"
     ]
   ],
