@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-12-30, 14:50:09",
-      "https://news.ycombinator.com/item?id=42549739"
-    ],
-    [
-      "After 30 years, FDA overhauls guideline for the claim \"Healthy\" on food packages",
-      "https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 14:37:17",
       "https://news.ycombinator.com/item?id=42549624"
     ],
@@ -277,6 +267,16 @@
     [
       "Execution Units Are Often Pipelined",
       "https://blog.xoria.org/pipelining/"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 07:04:21",
+      "https://news.ycombinator.com/item?id=42520432"
+    ],
+    [
+      "Build a working game of Tetris in Conway's Game of Life (2014)",
+      "https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life"
     ]
   ],
   [
