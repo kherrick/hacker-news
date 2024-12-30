@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
 * [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
+* [2024-12-30, 12:18:10](https://news.ycombinator.com/item?id=42548641) - [What Is It Like To Be A Thermostat?](https://annakaharris.com/chalmers/)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
 * [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
