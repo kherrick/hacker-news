@@ -20,6 +20,7 @@
 * [2024-12-27, 18:50:15](https://news.ycombinator.com/item?id=42524848) - [Show HN: I Made a Web App to Bring Children's Drawings to Life](https://doodledreams.cc)
 * [2024-12-27, 18:42:03](https://news.ycombinator.com/item?id=42524764) - [MiB working set on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2024-12-27, 18:19:25](https://news.ycombinator.com/item?id=42524568) - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
+* [2024-12-27, 18:18:17](https://news.ycombinator.com/item?id=42524555) - [Full Color 3D Printer Mod](https://github.com/cooljjj33/PolyDye)
 * [2024-12-27, 18:17:38](https://news.ycombinator.com/item?id=42524548) - [Unix Time and a Modest Proposal](https://www.johndcook.com/blog/2024/12/27/unix-time/)
 * [2024-12-27, 18:11:12](https://news.ycombinator.com/item?id=42524493) - [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
 * [2024-12-27, 18:03:47](https://news.ycombinator.com/item?id=42524422) - [VW Suffers Major Breach Exposing Location of 800k Electric Vehicles](https://cyberinsider.com/vw-suffers-major-breach-exposing-location-of-800000-electric-vehicles/)
