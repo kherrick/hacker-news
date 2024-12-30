@@ -46,6 +46,7 @@
 * [2024-12-26, 15:08:25](https://news.ycombinator.com/item?id=42515638) - [Get a Colorful Sneak Peek of Notre-Dame's New Stained Glass Designs](https://www.smithsonianmag.com/smart-news/notre-dame-to-get-a-colorful-update-with-new-stained-glass-by-claire-tabouret-180985731/)
 * [2024-12-26, 15:00:27](https://news.ycombinator.com/item?id=42515584) - [Ancient genomes provide final word in Indo-European linguistic origins](https://phys.org/news/2024-12-ancient-genomes-word-indo-european.html)
 * [2024-12-26, 14:50:02](https://news.ycombinator.com/item?id=42515507) - [T2 System Development Environment](https://t2sde.org/)
+* [2024-12-26, 14:39:51](https://news.ycombinator.com/item?id=42515426) - [Nikon reveals a lens that captures wide and telephoto images simultaneously](https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously)
 * [2024-12-26, 14:23:30](https://news.ycombinator.com/item?id=42515315) - [Numbers Are Leaves](https://www.christo.sh/numbers-are-leaves/)
 * [2024-12-26, 14:09:37](https://news.ycombinator.com/item?id=42515238) - [Exploring Microsoft's Phi-3-Mini and its integration with tool like Ollama](https://pieces.app/blog/phi-3-mini-integrations)
 * [2024-12-26, 13:55:32](https://news.ycombinator.com/item?id=42515159) - [Cramming Scrapscript into Msgpack](https://taylor.town/flat-scraps-000)
