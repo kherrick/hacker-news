@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 14:25:05](https://news.ycombinator.com/item?id=42549506) - [Rite Aid's 'Zombie' stores take over America](https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632)
+* [2024-12-30, 14:16:12](https://news.ycombinator.com/item?id=42549425) - [Dungeons and Dragons Rolls the Dice with New Rules About Identity](https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 * [2024-12-30, 13:49:47](https://news.ycombinator.com/item?id=42549226) - [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)
 * [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
