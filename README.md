@@ -5,7 +5,6 @@
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
 * [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
 * [2024-12-30, 10:02:33](https://news.ycombinator.com/item?id=42548000) - [Limits to Growth (1972)](http://bit-player.org/extras/limits/)
-* [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
@@ -29,6 +28,7 @@
 * [2024-12-27, 07:04:21](https://news.ycombinator.com/item?id=42520432) - [Build a working game of Tetris in Conway's Game of Life (2014)](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * [2024-12-27, 04:10:53](https://news.ycombinator.com/item?id=42519875) - [Rod Serling on Doomsday](https://mubi.com/en/notebook/posts/rod-serling-on-doomsday)
 * [2024-12-27, 04:07:00](https://news.ycombinator.com/item?id=42519862) - [The last Inca bridge master](https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master)
+* [2024-12-26, 17:17:51](https://news.ycombinator.com/item?id=42516385) - [When Zig Is Safer and Faster Than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/)
 * [2024-12-26, 14:39:51](https://news.ycombinator.com/item?id=42515426) - [Nikon reveals a lens that captures wide and telephoto images simultaneously](https://www.digitalcameraworld.com/cameras/dash-cams/nikon-reveals-incredible-lens-that-captures-wide-and-telephoto-images-simultaneously)
 
 ## [Archives](archives/index.md)
