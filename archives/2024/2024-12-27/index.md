@@ -10,6 +10,7 @@
 * [2024-12-27, 22:38:20](https://news.ycombinator.com/item?id=42526726) - [Fatty acid amides present in Camembert cheese improved cognitive decline](https://www.sciencedirect.com/science/article/pii/S0168010224000403)
 * [2024-12-27, 22:34:25](https://news.ycombinator.com/item?id=42526693) - [Are we becoming a post-literate society?](https://www.ft.com/content/e2ddd496-4f07-4dc8-a47c-314354da8d46)
 * [2024-12-27, 21:21:30](https://news.ycombinator.com/item?id=42526150) - [Show HN: NeatShift – Organize Windows Files with Symbolic Links](https://github.com/BytexGrid/NeatShift)
+* [2024-12-27, 21:16:38](https://news.ycombinator.com/item?id=42526112) - [Against the Hydraulic Analogy](https://lcamtuf.substack.com/p/against-the-hydraulic-analogy)
 * [2024-12-27, 21:14:14](https://news.ycombinator.com/item?id=42526092) - [Demystifying Common Microcontroller Debug Protocols [video]](https://media.ccc.de/v/38c3-demystifying-common-microcontroller-debug-protocols)
 * [2024-12-27, 21:12:57](https://news.ycombinator.com/item?id=42526081) - [Breaking the Mirror – A Look at Apple's New iPhone Remote Control Feature [video]](https://media.ccc.de/v/38c3-breaking-the-mirror-a-look-at-apple-s-new-iphone-remote-control-feature)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
