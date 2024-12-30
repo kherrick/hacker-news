@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-12-30, 15:07:01",
-      "https://news.ycombinator.com/item?id=42549917"
-    ],
-    [
-      "Human Civilization at critical junction:authoritarian collapse or superabundance",
-      "https://www.eurekalert.org/news-releases/1068196"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 15:01:14",
       "https://news.ycombinator.com/item?id=42549857"
     ],
@@ -31,22 +21,22 @@
   ],
   [
     [
+      "2024-12-30, 14:56:43",
+      "https://news.ycombinator.com/item?id=42549807"
+    ],
+    [
+      "Collection of insane and fun facts about SQLite",
+      "https://avi.im/blag/2024/sqlite-facts/"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 14:50:09",
       "https://news.ycombinator.com/item?id=42549739"
     ],
     [
       "After 30 years, FDA overhauls guideline for the claim \"Healthy\" on food packages",
       "https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 14:25:05",
-      "https://news.ycombinator.com/item?id=42549506"
-    ],
-    [
-      "Rite Aid's 'Zombie' stores take over America",
-      "https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "A simple way to explore data through a Tableau-like UI directly in your data app",
       "https://github.com/panel-extensions/panel-graphic-walker"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 13:37:39",
+      "https://news.ycombinator.com/item?id=42549145"
+    ],
+    [
+      "Ask HN: What's Your Morning Routine?",
+      "https://news.ycombinator.com/item?id=42549145"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-12-27, 21:16:38",
-      "https://news.ycombinator.com/item?id=42526112"
-    ],
-    [
-      "Against the Hydraulic Analogy",
-      "https://lcamtuf.substack.com/p/against-the-hydraulic-analogy"
-    ]
-  ],
-  [
-    [
       "2024-12-27, 18:18:17",
       "https://news.ycombinator.com/item?id=42524555"
     ],
@@ -287,6 +277,16 @@
     [
       "Build a working game of Tetris in Conway's Game of Life (2014)",
       "https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 19:06:33",
+      "https://news.ycombinator.com/item?id=42517035"
+    ],
+    [
+      "Short Message Compression Using LLMs",
+      "https://bellard.org/ts_sms/"
     ]
   ],
   [
