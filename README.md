@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 22:25:45](https://news.ycombinator.com/item?id=42554218) - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
+* [2024-12-30, 21:57:55](https://news.ycombinator.com/item?id=42554008) - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
@@ -12,7 +14,6 @@
 * [2024-12-30, 17:51:35](https://news.ycombinator.com/item?id=42551660) - [How Well Do LLMs Generate Code for Different Application Domains?](https://arxiv.org/abs/2412.18573)
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 14:56:43](https://news.ycombinator.com/item?id=42549807) - [Fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
-* [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
 * [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
 * [2024-12-30, 13:38:10](https://news.ycombinator.com/item?id=42549148) - [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
@@ -22,7 +23,6 @@
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 08:12:48](https://news.ycombinator.com/item?id=42547489) - ['Obelisks': New Class of Life Has Been Found in Human Digestive System](https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system)
-* [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution units are often pipelined](https://blog.xoria.org/pipelining/)
