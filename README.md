@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 19:13:40](https://news.ycombinator.com/item?id=42552460) - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
@@ -25,7 +26,6 @@
 * [2024-12-29, 23:03:17](https://news.ycombinator.com/item?id=42544336) - [The Cody Computer](https://www.codycomputer.org/)
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
-* [2024-12-27, 18:18:17](https://news.ycombinator.com/item?id=42524555) - [PolyDye: Full color printer mod for Marlin 3D printers](https://github.com/cooljjj33/PolyDye)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution Units Are Often Pipelined](https://blog.xoria.org/pipelining/)
 * [2024-12-26, 19:06:33](https://news.ycombinator.com/item?id=42517035) - [Short Message Compression Using LLMs](https://bellard.org/ts_sms/)
