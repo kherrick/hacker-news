@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 23:42:45](https://news.ycombinator.com/item?id=42544665) - [Neuters: Lightweight front end to Reuters News](https://neuters.de/about)
 * [2024-12-29, 23:15:18](https://news.ycombinator.com/item?id=42544437) - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 * [2024-12-29, 23:06:36](https://news.ycombinator.com/item?id=42544367) - [OpenAI's Board: 'To Succeed, All We Need Is Unimaginable Sums of Money'](https://daringfireball.net/2024/12/openai_unimaginable)
 * [2024-12-29, 23:03:17](https://news.ycombinator.com/item?id=42544336) - [The Cody Computer](https://www.codycomputer.org/)

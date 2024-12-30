@@ -70,6 +70,7 @@
 * [2024-12-27, 04:55:25](https://news.ycombinator.com/item?id=42520040) - [We Bought a (Map Store) – Andrew Middleton [video]](https://www.youtube.com/watch?v=QWFxyC-OBwY)
 * [2024-12-27, 04:21:32](https://news.ycombinator.com/item?id=42519913) - [Blazed – Rust-based 3D renderer](https://github.com/splurf/blazed-demo)
 * [2024-12-27, 04:12:32](https://news.ycombinator.com/item?id=42519881) - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
+* [2024-12-27, 04:10:53](https://news.ycombinator.com/item?id=42519875) - [Rod Serling on Doomsday](https://mubi.com/en/notebook/posts/rod-serling-on-doomsday)
 * [2024-12-27, 04:07:00](https://news.ycombinator.com/item?id=42519862) - [The last Inca bridge master](https://www.bbc.com/travel/article/20241206-the-last-inca-bridge-master)
 * [2024-12-27, 03:47:07](https://news.ycombinator.com/item?id=42519790) - [Why Did So Many Mid-Century Designers Make Children's Books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
 * [2024-12-27, 03:42:21](https://news.ycombinator.com/item?id=42519769) - [Roaming Rocks](https://aeon.co/essays/metamorphic-rocks-go-on-deep-journeys-we-never-can)
