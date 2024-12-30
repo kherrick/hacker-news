@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 * [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
 * [2024-12-30, 19:16:35](https://news.ycombinator.com/item?id=42552474) - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
 * [2024-12-30, 18:43:01](https://news.ycombinator.com/item?id=42552227) - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
@@ -10,7 +11,6 @@
 * [2024-12-30, 16:04:27](https://news.ycombinator.com/item?id=42550501) - [YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email](https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/)
 * [2024-12-30, 15:01:14](https://news.ycombinator.com/item?id=42549857) - [FTC orders 'gun detection' tech maker Evolv to stop overstating effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 * [2024-12-30, 14:56:43](https://news.ycombinator.com/item?id=42549807) - [Fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts/)
-* [2024-12-30, 14:37:17](https://news.ycombinator.com/item?id=42549624) - [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
 * [2024-12-30, 14:16:12](https://news.ycombinator.com/item?id=42549425) - [Dungeons and Dragons rolls the dice with new rules about identity](https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
 * [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
