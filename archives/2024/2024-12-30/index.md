@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 15:01:14](https://news.ycombinator.com/item?id=42549857) - [FTC Orders 'Gun Detection' Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
 * [2024-12-30, 14:25:05](https://news.ycombinator.com/item?id=42549506) - [Rite Aid's 'Zombie' stores take over America](https://qz.com/rite-aid-zombie-stores-bankruptcy-closures-opioid-crisi-1851727632)
 * [2024-12-30, 14:16:12](https://news.ycombinator.com/item?id=42549425) - [Dungeons and Dragons Rolls the Dice with New Rules About Identity](https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
@@ -19,6 +20,7 @@
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
+* [2024-12-30, 08:12:48](https://news.ycombinator.com/item?id=42547489) - ['Obelisks': New Class of Life Has Been Found in Human Digestive System](https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
 * [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)

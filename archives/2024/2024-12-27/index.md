@@ -65,6 +65,7 @@
 * [2024-12-27, 12:00:02](https://news.ycombinator.com/item?id=42521493) - [Racket-embed-images-in-source-text](https://github.com/shriram/racket-embed-images-in-source-text)
 * [2024-12-27, 10:42:03](https://news.ycombinator.com/item?id=42521241) - [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 * [2024-12-27, 09:51:13](https://news.ycombinator.com/item?id=42521069) - [Homebrew Batteries](http://www.hanssummers.com/homebrew/homebrewbattery.html)
+* [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution Units Are Often Pipelined](https://blog.xoria.org/pipelining/)
 * [2024-12-27, 08:04:40](https://news.ycombinator.com/item?id=42520632) - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 * [2024-12-27, 08:04:24](https://news.ycombinator.com/item?id=42520631) - [Germany Opened Its Doors to Migrants. Now It's Struggling to Cope](https://www.wsj.com/world/europe/germany-immigration-struggles-election-8dfd4b65)
 * [2024-12-27, 08:01:13](https://news.ycombinator.com/item?id=42520627) - [Programming Lewis Carroll's Memoria Technica](https://ztoz.blog/posts/memoria_technica/)
