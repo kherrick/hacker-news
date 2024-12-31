@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: the British comedy Germans have been laughing at for years(2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-31, 16:32:58](https://news.ycombinator.com/item?id=42559744) - [Show HN: Watch 3 AIs compete in real-time stock trading ($5/trade)](https://trading.snagra.com)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+* [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
-* [2024-12-31, 08:05:59](https://news.ycombinator.com/item?id=42557276) - [Dog Aging Project](https://dogagingproject.org/)
 * [2024-12-31, 07:38:06](https://news.ycombinator.com/item?id=42557172) - [App Should Have Been a Website (and Probably Your Game Too)](https://rogueengine.io/blog/your-app-should-have-been-a-website)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
 * [2024-12-31, 01:20:51](https://news.ycombinator.com/item?id=42555440) - [Orbit by Mozilla](https://orbitbymozilla.com/)
@@ -29,7 +30,6 @@
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
 * [2024-12-27, 07:51:30](https://news.ycombinator.com/item?id=42520601) - [Coding Font Selection 'Tournament'](https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament)
-* [2024-12-26, 19:06:33](https://news.ycombinator.com/item?id=42517035) - [Short Message Compression Using LLMs](https://bellard.org/ts_sms/)
 
 ## [Archives](archives/index.md)
 
