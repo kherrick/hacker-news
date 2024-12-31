@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 19:00:58](https://news.ycombinator.com/item?id=42560933) - [Show HN: I made a tiny game that helps increase IQ](https://vidzert.com/connect-dots-without-crossing-lines)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: the British comedy Germans have been laughing at for years(2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
@@ -28,7 +29,6 @@
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
 * [2024-12-28, 01:22:48](https://news.ycombinator.com/item?id=42527716) - [The History of Cholera in Great Britain (1947)](https://journals.sagepub.com/doi/pdf/10.1177/003591574804100309)
 * [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
-* [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
 
 ## [Archives](archives/index.md)
