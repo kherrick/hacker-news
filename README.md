@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 * [2024-12-31, 14:47:51](https://news.ycombinator.com/item?id=42558995) - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 13:09:57](https://news.ycombinator.com/item?id=42558476) - [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
-* [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 * [2024-12-31, 08:05:59](https://news.ycombinator.com/item?id=42557276) - [Dog Aging Project](https://dogagingproject.org/)
 * [2024-12-31, 07:38:06](https://news.ycombinator.com/item?id=42557172) - [App Should Have Been a Website (and Probably Your Game Too)](https://rogueengine.io/blog/your-app-should-have-been-a-website)
