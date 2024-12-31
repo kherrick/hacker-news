@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-31, 11:19:17",
+      "https://news.ycombinator.com/item?id=42558037"
+    ],
+    [
+      "Darktable 5.0.0 Released",
+      "https://www.darktable.org/2024/12/darktable-5.0.0-released/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 09:28:48",
       "https://news.ycombinator.com/item?id=42557586"
     ],
@@ -37,6 +47,16 @@
     [
       "Pee.ie – Public Toilets Near Me Ireland",
       "https://www.pee.ie/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 01:20:51",
+      "https://news.ycombinator.com/item?id=42555440"
+    ],
+    [
+      "Orbit by Mozilla",
+      "https://orbitbymozilla.com/"
     ]
   ],
   [
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2024-12-30, 18:09:11",
-      "https://news.ycombinator.com/item?id=42551863"
+      "2024-12-30, 09:26:29",
+      "https://news.ycombinator.com/item?id=42547867"
     ],
     [
-      "Performance of LLMs on Advent of Code 2024",
-      "https://www.jerpint.io/blog/advent-of-code-llms/"
+      "Reciprocal Approximation with 1 Subtraction",
+      "https://news.ycombinator.com/item?id=42547867"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "MiceWine – run Windows applications and games on Android smartphones",
       "https://github.com/KreitinnSoftware/MiceWine-Application"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 07:38:37",
-      "https://news.ycombinator.com/item?id=42547367"
-    ],
-    [
-      "Letting Language Models Write My Website",
-      "https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-12-28, 19:54:04",
-      "https://news.ycombinator.com/item?id=42533988"
-    ],
-    [
-      "From Pegasus to Predator – The Evolution of Commercial Spyware on iOS (Relive) [video]",
-      "https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 19:17:26",
       "https://news.ycombinator.com/item?id=42533648"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42532979"
     ],
     [
-      "Debugging memory corruption: who the hell writes \"2\" into my stack?",
+      "Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)",
       "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
     ]
   ],
