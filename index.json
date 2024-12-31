@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-12-31, 01:20:51",
-      "https://news.ycombinator.com/item?id=42555440"
-    ],
-    [
-      "Orbit by Mozilla",
-      "https://orbitbymozilla.com/"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 00:54:43",
       "https://news.ycombinator.com/item?id=42555320"
     ],
@@ -237,6 +227,16 @@
     [
       "Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)",
       "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 12:01:47",
+      "https://news.ycombinator.com/item?id=42530424"
+    ],
+    [
+      "Symbolic Reference and Hardware Models in Python",
+      "https://tomverbeure.github.io/2024/12/27/A-Symbolic-HW-Model-in-Python.html"
     ]
   ],
   [
