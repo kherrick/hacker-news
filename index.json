@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-31, 14:05:07",
+      "https://news.ycombinator.com/item?id=42558763"
+    ],
+    [
+      "How to monitor your local weather with Grafana",
+      "https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 11:19:17",
       "https://news.ycombinator.com/item?id=42558037"
     ],
@@ -197,16 +207,6 @@
     [
       "What Happens to Relicensed Open Source Projects and Their Forks?",
       "https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/"
-    ]
-  ],
-  [
-    [
-      "2024-12-28, 21:28:38",
-      "https://news.ycombinator.com/item?id=42534918"
-    ],
-    [
-      "Why it's hard to trust software, but you mostly have to anyway",
-      "https://educatedguesswork.org/posts/ensuring-software-provenance/"
     ]
   ],
   [
