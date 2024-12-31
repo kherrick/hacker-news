@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-12-31, 11:44:11",
-      "https://news.ycombinator.com/item?id=42558142"
-    ],
-    [
-      "The British Empire Was Much Worse Than You Realize",
-      "https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 11:19:17",
       "https://news.ycombinator.com/item?id=42558037"
     ],
@@ -87,6 +77,16 @@
     [
       "U.S. Army Soldier Arrested in AT&T, Verizon Extortions",
       "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 08:05:59",
+      "https://news.ycombinator.com/item?id=42557276"
+    ],
+    [
+      "Dog Aging Project",
+      "https://dogagingproject.org/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-12-28, 09:36:25",
-      "https://news.ycombinator.com/item?id=42529771"
-    ],
-    [
-      "Show HN: Handwritten Christmas Card for Hacker News",
-      "https://handwritten-card.vercel.app/show-hn"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 04:58:12",
       "https://news.ycombinator.com/item?id=42528720"
     ],
@@ -297,6 +287,16 @@
     [
       "Coding Font Selection 'Tournament'",
       "https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament"
+    ]
+  ],
+  [
+    [
+      "2024-12-26, 19:06:33",
+      "https://news.ycombinator.com/item?id=42517035"
+    ],
+    [
+      "Short Message Compression Using LLMs",
+      "https://bellard.org/ts_sms/"
     ]
   ]
 ]
