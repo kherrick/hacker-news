@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-31, 00:56:31",
-      "https://news.ycombinator.com/item?id=42555328"
+      "2024-12-31, 01:52:06",
+      "https://news.ycombinator.com/item?id=42555594"
     ],
     [
-      "Ask HN: TLS 1.3 and Post-Quantum Encryption for HN?",
-      "https://news.ycombinator.com/item?id=42555328"
+      "More telcos confirm Salt Typhoon breaches as White House weighs in",
+      "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 01:20:51",
+      "https://news.ycombinator.com/item?id=42555440"
+    ],
+    [
+      "Orbit. Mozilla's AI Assistant for Firefox",
+      "https://orbitbymozilla.com/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-12-30, 14:56:43",
-      "https://news.ycombinator.com/item?id=42549807"
-    ],
-    [
-      "Fun facts about SQLite",
-      "https://avi.im/blag/2024/sqlite-facts/"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 13:44:14",
       "https://news.ycombinator.com/item?id=42549184"
     ],
@@ -171,22 +171,22 @@
   ],
   [
     [
+      "2024-12-30, 13:38:10",
+      "https://news.ycombinator.com/item?id=42549148"
+    ],
+    [
+      "A simple way to explore data through a Tableau-like UI directly in your data app",
+      "https://github.com/panel-extensions/panel-graphic-walker"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 13:30:42",
       "https://news.ycombinator.com/item?id=42549083"
     ],
     [
       "Ts_zip: Text Compression Using Large Language Models",
       "https://bellard.org/ts_zip/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 12:00:20",
-      "https://news.ycombinator.com/item?id=42548551"
-    ],
-    [
-      "Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)",
-      "https://www.ycombinator.com/companies/pincites/jobs"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-12-28, 12:34:58",
+      "https://news.ycombinator.com/item?id=42530620"
+    ],
+    [
+      "Monokai Pro for Jetbrains",
+      "https://monokai.pro/jetbrains"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 23:19:52",
       "https://news.ycombinator.com/item?id=42526978"
     ],
@@ -267,16 +277,6 @@
     [
       "Execution units are often pipelined",
       "https://blog.xoria.org/pipelining/"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 07:51:30",
-      "https://news.ycombinator.com/item?id=42520601"
-    ],
-    [
-      "Coding Font Selection 'Tournament'",
-      "https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament"
     ]
   ],
   [
