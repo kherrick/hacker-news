@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-12-28, 12:08:07",
+      "https://news.ycombinator.com/item?id=42530459"
+    ],
+    [
+      "Revisiting the NetBSD Build System",
+      "https://blogsystem5.substack.com/p/netbsd-build-system"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 10:32:36",
       "https://news.ycombinator.com/item?id=42530018"
     ],
@@ -287,16 +297,6 @@
     [
       "Storing 3D scans in a grain of wheat",
       "https://wafaabilal.com/in-a-grain-of-wheat/"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 10:46:15",
-      "https://news.ycombinator.com/item?id=42521259"
-    ],
-    [
-      "Agentarium: Creating social simulations with AI Agents",
-      "https://github.com/Thytu/Agentarium"
     ]
   ]
 ]
